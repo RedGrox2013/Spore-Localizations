@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Vaše soubory z programu Maya Export byly uloženy do~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Ne
+0x0549366D Přenos
+0x05496B24 Přihlášení na YouTube…
+0x055AA305 Přenos videa na YouTube…
+0x05600488 Tuto funkci můžete využívat až po přihlášení na Spore. Chcete se přihlásit?
+0x056691B0 Kontrola registrace na YouTube…
+0x05B5AC4C Podmínky použití služby YouTube
+0x05496510 Přihlášení na YouTube selhalo.~br~~br~Před zahájením nahrávání zadejte platné uživatelské jméno a heslo nebo se zaregistrujte na YouTube.
+0x056D0627 Přenos byl úspěšný! Odešlete URL klipu kamarádovi!
+0x05498DCB Video bylo úspěšně nahráno. Budete si přát informovat přátele?
+0x0563C623 Tuto funkci mohou využívat pouze registrovaní uživatelé Spore. Chcete se zaregistrovat?
+0x054C1E63 Vaše video bylo uloženo do složky ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Během odesílání na YouTube došlo k chybě.~br~~br~Zkontrolujte prosím své internetové připojení a zkuste to později znovu.
+0x05498260 Během přihlašování na YouTube došlo k chybě.~br~~br~Zkontrolujte prosím své internetové připojení a zkuste to později znovu.
+0x05B5FD1E Odeslat nyní?
+0x05D2C767 Vaše odesílání bylo zrušeno.
+0x05D54AF7 Přidružená stránka je v angličtině. Pro zobrazení vaší jazykové verze zvolte ve výběru stránky zemi vašeho původu.
+0x05E501EB <youtubeicon>Odeslat
+
+# email
+
+0x04585F1F Vaše e-mailová adresa je neplatná.
+0x04585F49 E-mailová adresa příjemce je neplatná.
+0x045AD62F Váš e-mail
+0x045AD634 E-mail příjemce
+0x0583897C Kliknutím odešlete pohlednici
+0x05B5B8C4 Řekněte o svém klipu známému
+0x04588BEF Vaše pohlednice byla odeslána.
+0x045AD5B9 Odeslat e-mailovou pohlednici
+
+# capture GIF
+
+0x058B90F2 Váš animovaný avatar byl uložen do ~br~ ~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x046286E7 Otočit
+0x046286F4 Sednout
+0x046286F8 Zařvat
+0x04628713 Zavolat
+0x04628717 Udeřit
+0x04628719 Ta-dá!
+0x04628722 Čipera
+0x04628724 Sumo
+0x04628726 Hej
+0x04628733 Hej, bejby
+0x0462873F Horká noha
+0x04628745 Hopity hop
+0x04628749 Šlapák
+0x0462874E Zuřivá rána
+0x04628798 Šťastný
+0x0462879C Smutný
+0x046287A0 Vyděšený
+0x046287A1 Naštvaný
+0x046287A2 Smích
+0x046287A4 Prohlížeč obrázků
+0x046287DA Děti
+0x046287ED Uložit
+0x0462932D Nápověda
+0x0474E80D Smazat obrázek
+0x0473F903 Spravovat obrázky
+0x0474E80E Archivovat obrázek
+0x04628737 Pravá-Levá
+0x04628739 á..2..3..4!
+0x046287A3 U vytržení
+0x046287A5 Vyfotit
+0x046287A6 Natočit
+0x04598E97 Odeslat e-mail
+0x046286F2 Salto vzad
+0x04628729 Pohrozit
+0x046287D6 Činy
+0x046287D8 Pozadí
+
+# move all
+
+0x04583A4E Archivovat vše
+
+#continue
+
+0x0549656C Pokračovat
+
+# delete one done
+
+0x04583433 Váš obrázek byl smazán.
+
+# delete all done
+
+0x0458334E Vaše obrázky byly smazány.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D Váš obrázek byl uložen do složky: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Vaše obrázky byly uloženy do složky: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Ano
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animace
+
+# photobackuppath
+
+0x06305594 Dokumenty
+0x06305593 Moje Spore Výtvory/Obrázky/Záloha
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Přihlášení se nezdařilo
+0x05CBDEDA Odesílání selhalo
+
+# your message
+
+0x045AD63A Vaše zpráva
+
+#drag and drop fail message
+
+0x05889A4C Funkce "táhnout a pustit" v režimu testování nefunguje. Prosím, přepněte se do režimu tvorby nebo malování.
+0x05889A21 Testování
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Máte moc fotografií. Některé fotografie prosím archivujte.
+
+# photo actions
+
+0x045C2025 Co chcete s obrázky udělat?
+0x045C206E Opravdu chcete smazat tento obrázek?
+0x045C208A Opravdu chcete smazat všechny obrázky?
+0x045C2094 Opravdu chcete uložit tento obrázek?
+0x045C2098 Opravdu chcete uložit všechny obrázky?
+0x04613ED0 Ukončením zrušíte právě probíhající ukládání obrázků. Opravdu chcete skončit?
+
+# delete all
+
+0x04583A36 Smazat vše
+
+# cancel
+
+0x04583AFB Zrušit
+
+# Are you sure: No
+
+0x0458400E Ne
+
+# email message
+
+0x056BCE10 Mrkněte na moji úžasnou příšerku vytvořenou ve Spore!
+0x056BCDCA Mrkněte na mé video ze Spore!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK

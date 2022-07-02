@@ -1,0 +1,32 @@
+﻿0x00000121 ~guide: -h2~ Tipp: Először a textúrát válaszd ki, csak utána a színt.
+0x000001A1 ~guide: -h1~ Ecsetmód
+0x000001D1 ~guide: -bullet~ Válassz ki egy mintasémát, és megjelenik a színpaletta-választó mellett.
+0x000001C1 ~guide: -h3~ Az Ecsetmód lépései:
+# 0x00000221 ~guide: -bullet~ Nyomd meg az 1-est a a billentyűzet felső számsorában, tartsd lenyomva a Control billentyűt, és vidd a festékesvödröt egy elem fölé, hogy az összes hasonló elemet kiválassza. Kattints egyet, hogy az összes elemet azonos színűre és textúrájúra fesd!
+0x000000F1 ~guide: -h1~ Résztextúrák
+0x000001F1 ~guide: -bullet~ A kurzor festékes vödörként jelenik meg, ha a jármű fölött van. A jármű egyes részei kék körvonalat kapnak, ez mutatja, hogy melyik területek lesznek befestve a kiválasztott színre és sémára, ha rákattintasz.
+0x000001E1 ~guide: -bullet~ A legtöbb mintakollekció egy elsődleges és egy másodlagos színnel rendelkezik. Válassz egyet-egyet a paletta színválasztójának alsó és felső sorából.
+0x000000B1 ~guide: -h2~ Kifestheted járművedet oly módon, hogy hasonlítson más járművekre, amelyeket te alkottál meg vagy megosztottál. Még olyanra is színezheted, hogy hasonlítson lényedhez!
+0x000001B1 ~guide: -h2~ Az Ecsetmód lehetővé teszi, hogy minden egyes jármű régióit külön színezd.
+0x00000191 ~guide: -h2~ Ha testre akarod szabni egy mintázat színét, kattints a bal egérgombbal majd tartsd lenyomva azt a minta felett. Ekkor megjelenik egy újabb paletta, amely sok színvariációt tartalmaz. Válassz ki egyet és engedd el a gombot.
+# 0x00000211 ~guide: -h3~ Egyszerre több elem vagy régió befestése
+0x00000061 ~guide: -bullet~ Ecsetmód – Szabd testre az egyes régiók vagy részek színeit és textúráit.
+0x00000131 ~guide: -h3~ A három járműrégió:
+# 0x00000201 ~guide: -h1~ Az Ecsetmód további funkciói
+0x00000041 ~guide: -bullet~ Teljes textúrák – Kattints az egyik textúramintára! Járműved ezek után felveszi a képen látható kinézetet. A teljes textúrák választékának alján található lapozónyílak segítségével átnézheted a többi textúrát is.
+# 0x00000231 ~guide: -bullet~ Nyomd meg a 2-est a billentyűzet felső számsorában, tartsd lenyomva a CTRL billentyűt, és vidd a festékesvödröt egy terület fölé, hogy az összes hasonló régiót kiválassza. Kattints egyet, hogy az összes körvonalazott régiót azonos színűre és textúrájúra fesd!
+0x000000D1 ~guide: -bullet~ Válaszd ki azt az alkotást, amelynek festését utánozni akarod, majd kattints a zöld pipára!
+0x00000051 ~guide: -bullet~ Résztextúrák – Lásd el a következőket tetszésed szerinti textúrákkal és színekkel három területen: váz és kabin, kerekek, szárnyak, vitorlák, valamint részletek.
+0x00000141 ~guide: -bullet~ Váz és kabin
+0x000000C1 ~guide: -bullet~ Ha hozzá akarsz férni a Spóropédiához, válaszd a Színminták opciót a Teljes textúrák palettáról.
+0x000000A1 ~guide: -h1~ Színminták
+0x000000E1 ~guide: -bullet~ Ha visszatérsz a Színezés módba, járműved az általad kívánt stílusú színekben pompázik majd.
+0x00000031 ~guide: -h1~ A színezés három módja
+0x00000161 ~guide: -bullet~ Részletek
+0x00000181 ~guide: -bullet~ Kattints az egyik mintakollekcióra.
+0x00000111 ~guide: -h2~ Minden régiónak választhatsz egy textúrát. Megválaszthatod a régiók színét is.
+0x00000151 ~guide: -bullet~ Kerekek, szárnyak és vitorlák
+0x00000171 ~guide: -h3~ Mintaszínek testre szabása
+0x00000011 ~guide: -image-left-h1 0x05556b31!Paint.png~ Színezés
+0x00000021 ~guide: -h2~ Most, hogy létrehoztad a tökéletes járművet, tervezd meg kinézetét is! Válaszd a Színezés módot a Járműlabor tetejéről, amelynek jobb oldalán nyílik majd meg a színpaletta.
+

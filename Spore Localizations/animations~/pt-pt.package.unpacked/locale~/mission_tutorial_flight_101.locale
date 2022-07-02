@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000075 ...
+0x00000021 Então, o que querem que faça a seguir?
+0x0000001A Rejeitar Voo101_ErradicarAnimais
+0x0000000F Bom trabalho, Cadete.  A voar assim, em breve chegará a Comandante.
+0x00000005 Já sei comandar a minha nave. Já fiz isso tudo.
+0x00000018 Rejeitar Voo101_ApanharAnimal
+0x0000000D OK. Aceito.
+0x0000001E Abortar Voo101_ErradicarAnimais
+0x0000001D Abortar Voo101_ApanharAnimal
+0x00000022 Certo.
+0x00000024 Certo. Estou a ver. Obrigado.
+0x0000002D Abra as suas comunicações.
+0x0000002C Abra as suas comunicações.
+0x0000002B Abra as suas comunicações.
+0x00000061 Sim. O que vem a seguir?
+0x00000040 Analisou a nova espécie. Abra as suas comunicações.
+0x00000089 Conseguiu retirar com sucesso ~mission_item~.
+0x00000088 Visitou com sucesso ~mission_explore_num_cities_to_visit~ cidades.
+0x0000004F Largou o ~mission_item~ longe de todas as cidades. Vá buscá-lo e coloque-o dentro dos muros da cidade.
+0x0000008F ~mission_item~ recebido para observação. Abra as suas comunicações.
+0x0000004E Raptou com sucesso ~mission_item~. Abra as suas comunicações.
+0x0000004D Volto em breve.
+0x00000051 Rejeitar Voo101_Análise
+0x0000004A Análise bem sucedida. Abra as suas comunicações.
+0x00000036 Analisou com sucesso a espécie.
+0x00000045 Visitou com sucesso ~mission_explore_num_cities_to_visit~ cidades.
+0x00000046 Analisou com sucesso a espécie.
+0x00000042 Conseguiu obter ~mission_item~. Abra as suas comunicações.
+0x00000071 Sim.
+0x00000047 Conseguiu obter ~mission_item~.
+0x00000052 Não vai trazer essa coisa para bordo. Nem pensar!
+0x00000077 Erradique apenas as criaturas brilhantes, por favor. Obrigado.
+0x00000078 Missão Fracassada. Demasiadas erradicações erradas.
+0x00000065 Abortar Voo101_Análise
+0x0000007B Não traga animais assinalados para serem erradicados.
+0x0000003D Certo. Estou a ver. Obrigado.
+0x0000002E Abra as suas comunicações.
+0x00000076 Lamento. Qual é novamente a missão?
+0x00000048 Erradicou com sucesso ~mission_target_animal_species~ doentes.
+0x00000015 Ainda não exterminou todas as criaturas infectadas? ~p~Certifique-se de que o laser está equipado e mantenha o Botão Esquerdo do Rato Premido sobre as criaturas infectadas. Elas são rápidas, pelo que terá de deslocar o laser até as atingir.
+0x00000027 Rapte um animal ~mission_item~.
+0x0000001C Nesse caso, parece que estamos a olhar para o nosso novo Comandante. Está pronto para aceitar missões mais emocionantes?
+0x00000041 A criatura em questão apresenta um rasto brilhante invulgar.~p~A sua nave foi equipada com a Ferramenta Radar que pode ser activada ou desactivada no painel de Ferramentas Principal. Vai apontar para alvos de missão e objectos de interesse que se encontram na superfície do planeta. O Radar apita mais depressa quando está próximo do alvo~p~Seleccione a Ferramenta de Análise no painel de Ferramentas Principal.
+0x00000043 Erradicou com sucesso ~mission_target_animal_species~ doentes. Abra as suas comunicações.
+0x00000014 Precisamos mesmo que nos entregue esse espécime para o estudarmos. ~p~Com o raio de rapto seleccionado, faça clique esquerdo sobre a criatura que pretende raptar. Precisa de manter premido o Botão Esquerdo do Rato até que a criatura entre na zona de carga em segurança. ~p~O seu cartão de objectivos é actualizado quando a carga está segura.~p~Assim que tiver um dos bicharocos na zona de carga, voe até à cidade mais próxima e coloque-o dentro dos limites da cidade. Mas não deixe o espécime cair, senão fica tudo sujo.~p~Mandamos um estafeta para ir buscar a criatura em segurança, assim que ela for entregue.
+0x00000013 Há algum problema, Cadete?  ~p~Terá de atravessar quaisquer 7 esferas que surjam sobre uma cidade. Use as setas ou Prima o Botão Direito do Rato para deslocar a sua nave espacial. Use a Roda do Rato para subir ou baixar a sua posição.~p~Pode também navegar à volta do globo clicando com o botão esquerdo sobre o mini-mapa.
+0x00000026 Analise a espécie em falta.
+0x00000037 Eliminou com sucesso ~mission_target_animal_species~ doentes.
+0x00000004 Agora que é um ás dos ares, está pronto para usar algumas das ferramentas sofisticadas que inventámos para a sua nave.~p~Temos estado a trabalhar na capacidade de ANALISAR as plantas e animais que descobre nas suas viagens.~p~Parece que esta ferramenta veio mesmo a tempo! O registo da Sporepédia de um dos nossos animais ficou recentemente corrompido, ao mesmo tempo que o animal começou a ter sintomas estranhos.~p~Temos de analisar o animal, para recolher mais informação sobre esta espécie.
+0x00000006 Caramba!  A informação que recolheu na análise é muito importante.~p~É agora evidente para nós que temos de investigar melhor esta espécie. ~p~A sua nave está equipada com um Raio de Rapto, que encontrará no painel de Carga.  Use esta ferramenta para recolher uma amostra e traga-a até nós.
+0x00000029 Está com dificuldade em analisar um exemplar? ~p~Com a Ferramenta de Análise seleccionada, faça clique com o botão esquerdo do rato sobre uma das criaturas amarelas. ~p~Se está com dificuldade em localizar a criatura correcta, experimente aumentar a sua altitude com a Roda do Rato, para obter uma vista aérea e procurar as setas amarelas. ~p~Depois, pode voar baixinho, uma vez localizado o alvo.
+0x0000003B Rapte um espécime e depois entregue-o numa cidade para ser estudado.~p~Com o Raio Raptor seleccionado, faça clique com o Botão Esquerdo e mantenha premido sobre a criatura que pretende raptar. O Raio Raptor está na zona de Carga do grupo de Ferramentas. Aplique o raio até que a criatura seja trazida até à zona de carga.~p~Depois de ter obtido um espécime, voa até à cidade mais próxima e coloque delicadamente a criatura dentro dos limites da cidade. Para isso, seleccione o que pretende lançar da zona de Carga. Faça clique e mantenha premido o Botão Esquerdo do rato sobre o local onde pretende deixar o objecto. Mais uma vez, mantenha o botão premido até que a criatura chegue ao solo.
+0x00000020 Parece que recolheu o exemplar correcto. Precisamos que o deixe numa das nossas cidades.~p~Seleccione a carga que quer largar no painel de Carga e largue-a numa cidade.~p~Certifique-se de que a teletransporta em segurança até à superfície, ou terá de recolher outro exemplar e deixar tudo em ordem.
+0x0000004B Erradicou com sucesso ~mission_target_animal_species~ doentes. Abra as suas comunicações.
+0x00000011 Um trabalho louvável! Você é impecável. Conquistou o respeito e a confiança do seu mundo. Queremos que assuma os comandos desta nave e conduza a nossa raça mais adiante na exploração e glória da galáxia.~p~Conquistou a medalha e o título de Comandante.~p~Os nossos cientistas desenvolveram um propulsor interplanetário para a sua nave, mas terá de instalá-lo primeiro, Comandante.
+0x00000012 Faça clique no ~mission_item~ na zona de Carga, em seguida faça clique e mantenha premido dentro de qualquer cidade.
+0x00000034 Erradicou com sucesso ~mission_target_animal_species~ doentes.
+0x00000001 Parece que o exemplar que recolheu estava doente e está infectado com um vírus que alastra a um ritmo alarmante. Pode pôr em perigo todo o nosso ecossistema.~p~ Claro que queremos resolver isto humanamente. Equipámos a sua nave com um Mini Laser muito prático. Tem a precisão de que precisa para abater as criaturas infectadas, sem magoar as saudáveis.
+0x00000002 Utilize o Botão Direito do Rato para voar e +/- para alterar a altitude.
+0x00000025 Parece-me bem. Estou pronto.
+0x0000000B Use o Raio de Rapto, que se encontra no painel de Carga, para recolher esta criatura para um estudo mais aprofundado.~p~Certifique-se de que acciona a ferramenta o tempo suficiente, até a criatura estar bem segura na zona de embarque do veículo.~p~Parar o raio cedo de mais, antes de a carga estar segura, pode provocar acontecimentos menos agradáveis para a vítima... quero dizer, para a espécie.
+0x00000010 Bom trabalho, Cadete. Trouxe-nos um excelente exemplar para estudar. É como eu digo sempre: sonda duas, rapta uma.
+0x00000033 Analisou a nova espécie.
+0x0000008B O Raio Raptor encontra-se na zona de Carga.
+0x0000000E Largue o ~mission_item~ dentro dos limites da cidade.
+0x00000017 Nesse caso, parece que estamos a olhar para o nosso novo Comandante. Está pronto para aceitar missões mais emocionantes?
+0x00000030 Utilize a Ferramenta de Análise para introduzir a informação da criatura seleccionada na Sporepédia.
+0x0000008E Sucesso! Abra as suas comunicações.
+0x00000031 Utilize o Mini-Laser no grupo Armas.
+0x0000000C Seleccione o Mini Laser no seu painel de Armas e aponte-o para as criaturas infectadas. ~p~Cuidado para onde aponta o laser. Tem capacidade para destruir edifícios, veículos e outras naves espaciais. ~p~Agora vá, antes que a infecção alastre mais!
+0x00000009 Sim, sei o que estou a fazer. Preparem a minha nave para a viagem espacial.
+0x00000019 Excelente! Os nossos cientistas estão ansiosos por analisar os dados.
+0x0000008D Conseguiu recuperar com sucesso ~mission_item~.
+0x00000023 Ainda tem de deixar o exemplar numa das suas cidades. ~p~Seleccione o objecto que pretende deixar Clicando com o Botão Esquerdo sobre o objecto, na sua caixa de carga.  Isto irá instalar o seu Raio de Transporte, permitindo-lhe colocar o objecto no chão. Voe até uma das suas cidades e largue o exemplar.  Mantenha o Botão Esquerdo do Rato premido até a criatura ter chegado em segurança à superfície, no interior de uma das suas cidades. ~p~Soltar o botão cedo de mais irá provocar a queda do objecto, destruindo-o.
+0x00000008 Ainda não, mudei de ideias. Vamos visitar cidades.
+0x00000007 Se achar que tem o que é preciso, por favor, avance. ~p~Equipámos a sua nave espacial com todo o equipamento necessário para iniciar o nosso programa de exploração espacial.~p~Está preparado para abandonar o planeta?
+0x00000086 Atravesse a esfera sobre mais ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^cidade^cidades~.
+0x00000050 ~mission_num_eradicated_creatures~ abatidas, faltam mais ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^criatura^criaturas~.
+0x00000039 Visite mais ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^cidade^cidades~ e passe através da esfera, para a rebentar.~p~Use as teclas de direcção para mover a sua nave espacial. Pode também manter o Botão Direito do Rato premido para voar.~p~Para mudar de altitude, use as teclas +/- ou a roda do rato.~p~Procure esferas brilhantes sobre a cidade e atravesse-as.
+0x0000008C Visitou com sucesso ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^cidade^cidades~.
+0x0000003F Visitou ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^cidade^cidades~. Abra as suas comunicações.
+0x00000003 Parabéns, Cadete! Tem aí um belo veículo!~p~Ainda estamos a adicionar novo equipamento ao seu veículo, mas deve estar pronto para viajar no espaço num instante! ~p~Alguma vez pilotou uma nave?  Não? ~p~Hmmm... Bem... nada como um voo de teste enquanto toda a população do ~player_creature_name~ do Planeta ~race_homeworld~ assiste.~p~Que tal? Pronto para conquistar a sua Medalha de Comandante?~p~
+0x0000000A Assim mesmo é que é!~p~Cada cidade do Planeta ~race_homeworld~ lançou uma esfera gigante, para celebrar a nossa primeira nave espacial! A sério... são fáceis de ver!~p~Vá dar uma volta no seu veículo pelo planeta, a ~mission_explore_num_cities_to_visit~ das nossas cidades. Atravesse as esferas para as rebentar!~p~Quando terminar, receberá mais instruções. ~p~Boa sorte, e tente não riscar a tinta.
+0x0000003A Desapareceu o registo de uma criatura local da Sporepédia. Utilize a Ferramenta de Análise para recolher informação sobre esta criatura.~p~A Ferramenta de Análise encontra-se na secção das Ferramentas Principais.~p~A criatura em causa tem um rasto brilhante. Para localizar esta criatura, fique atento ao sinal do Radar.~p~Pode ser mais fácil localizar a uma altitude superior ou inferior. Utilize as teclas +/- ou a roda do rato para alterar a altitude.
+0x0000003C Para evitar a propagação da infecção, elimine ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^animal doente^animais doentes~ do planeta Natal.~p~Utilize o Mini-Laser que se encontra nas Armas.
+0x00000079 Mais ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^erradicação errada^erradicações erradas~ irão provocar o fracasso da missão.
+0x00000028 Elimine mais ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^animal doente^animais doentes~.
+

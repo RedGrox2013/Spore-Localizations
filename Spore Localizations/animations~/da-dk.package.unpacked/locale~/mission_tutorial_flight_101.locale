@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Flight101_EradicateAnimals Reject
+0x0000001E Flight101_EradicateAnimals Abort
+0x00000018 Flight101_FetchAnimal Reject
+0x0000001D Flight101_FetchAnimal Abort
+0x00000051 Flight101_Scan Reject
+0x00000075 ...
+0x00000065 Flight101_Scan Abort
+0x0000002D Åben op for kommunikation.
+0x00000010 Yderst fornemt arbejde, kadet. Det er et glimrende eksemplar, du har fået fat i. Det er som jeg altid har sagt: Sondér to gange, bortfør én gang.
+0x0000002C Åben op for kommunikation.
+0x00000061 Ja. Hvad nu?
+0x00000040 Du har scannet den nye art. Påbegynd kommunikation.
+0x00000089 Du fik fat i ~mission_item~-dyret.
+0x00000088 Du har besøgt ~mission_explore_num_cities_to_visit~ byer.
+0x0000001C I så fald ser det ud til, at vi har fundet vores nye Kaptajn. Er du klar til nye, ophidsende missioner?
+0x00000022 Jeg er med.
+0x00000004 Nu, hvor du er blevet cockpittets mester, er det tid til at tage et kig på det avancerede udstyr, vi har designet til dit rumskib.~p~Vi har arbejdet på en teknik til at undersøge de planter og dyr, som du støder på under dine rejser~p~Det ser tilmed ud til, at det er i allersidste øjeblik! Sporepedia-informationerne om ét af vores egne dyr blev ødelagt, det øjeblik dyret begyndte at udvise underlige symptomer.~p~Vi vil have dig til at undersøge dyret, så vi kan indsamle mere information om det.
+0x00000005 Jeg ved altså godt, hvordan jeg styrer mit skib. Har trods alt prøvet det før.
+0x0000004F Du smed ~mission_item~ ud langt væk fra byerne. Saml det op igen og aflever det inden for én af byernes mure.
+0x0000008F ~mission_item~ modtaget til undersøgelse. Opret kommunikation.
+0x0000004E Du bortførte ~mission_item~. Påbegynd kommunikation.
+0x0000004D Jeg er snart tilbage.
+0x0000004A Scan gennemført. Påbegynd kommunikation.
+0x00000036 Du har scannet arten.
+0x00000045 Du har besøgt ~mission_explore_num_cities_to_visit~ byer.
+0x00000046 Du har scannet arten.
+0x00000042 Du fik fat på ~mission_item~. Påbegynd kommunikation.
+0x00000071 Ja.
+0x00000015 Du har endnu ikke udryddet alle de inficerede dyr? ~p~Sørg for at have din laser udstyret, og klik så på og hold venstre museknap nede, mens musemarkøren er på de inficerede dyr. De er hurtige, så du er nødt til at bevæge laseren rundt indtil du har ramt dem.
+0x00000024 Ok. Så forstår jeg. Tak.
+0x00000047 Du fandt ~mission_item~.
+0x00000013 Er der et problem, kadet? ~p~Du skal flyve gennem de syv kugler, der findes over byerne. Brug piletasterne eller holde højre museknap nede for at navigere dit rumskib. Brug det midterste musehjul til at forøge og formindske højden.~p~Du kan også navigere jorden rundt ved at venstreklikke på minikortet.
+0x00000052 Du tager ikke dét dér med ombord. På ingen måde!
+0x00000078 Missionen mislykkedes. For mange forkerte mål udslettet.
+0x0000000D Ok. Jeg er med.
+0x0000007B Undgå at nuppe dyr udvalgt til at blive udslettede.
+0x0000003D Ok. Jeg forstår det. Tak.
+0x0000002E Åben op for kommunikation.
+0x00000076 Undskyld. Men hvordan var det nu missionen lød?
+0x00000017 I så fald ser det ud til, at vi har fundet vores nye Kaptajn. Er du klar til nye, spændende missioner?
+0x00000021 Hvad vil du have mig til at gøre nu?
+0x00000048 Du har udslettet de syge ~mission_target_animal_species~-dyr.
+0x00000027 Bortfør et ~mission_item~-væsen.
+0x00000041 Det omtalte væsen afgiver et glødende spor.~p~Dit rumskib er udstyret med en radar, der kan slås til og fra under panelet med hovedværktøjer. Denne radar vil pege mod missionsmål og interessante steder, når du er på overfladen af en planet. Radaren bipper hurtigere, når du er tæt på dit mål.~p~Vælg Scanværktøjet fra panelet med hovedværktøjer.
+0x00000043 Du har udslettet de syge ~mission_target_animal_species~-dyr. Påbegynd kommunikation.
+0x00000026 Scan den manglende art.
+0x00000037 Du har fjernet de syge ~mission_target_animal_species~-dyr.
+0x0000003A Sporepedia-optegnelsen af et lokalt væsen er forsvundet. Brug Scanværktøjet til indsamle informationer om dette væsen.~p~Scanværktøjet finder du blandt hovedværktøjerne.~p~Det omtalte væsen har et glødende spor. For at spore dette væsen, skal du lytte til signalet fra radaren.~p~Det er muligvis lettere at spore fra højere eller lavere højder. Brug tasterne +/- eller musehjulet til at skifte højde.
+0x00000006 Gadzooks! Den information du fremskaffede via scanning var svært værdifuld.~p~ Det står nu klart for os, at vi er nødt til at undersøge denne art nærmere. ~p~Dit rumskib er udstyret med en bortførelsesstråle, som du kan finde i Lastrumpanelet. Brug dette værktøj til at indsamle et eksemplar og aflever det til os.
+0x0000003B Bortfør et eksemplar og aflever det i en nærtliggende by, så det kan studeres nærmere.~p~Med bortførelsesstrålen valgt skal du venstreklikke og holde knappen nede over det væsen, du vil bortføre. Bortførelsesstrålen befinder sig i lastrum-området af værktøjsgruppen. Brug strålen indtil væsenet befinder sig i dit lastrum.~p~Når du har fået fingre i et eksemplar, skal du flyve til en by og aflevere det bag bymurene. Det gør du ved at vælge den genstand, du vil aflevere, fra dit lastrum. Venstreklik det sted, hvor du vil placere genstanden, og hold knappen nede. Hold knappen nede indtil væsenet er sikkert på jorden.
+0x0000004B Du har udslettet de syge ~mission_target_animal_species~-dyr. Påbegynd kommunikation.
+0x00000011 Imponerende indsats! Du er af den rette støbning. Du har gjort dig fortjent til din hjemmeverdens respekt og tiltro. Vi vil udnævne dig som pilot for dette rumskib, i håb om at du vil føre os til yderligere opdagelser, yderligere hæder.~p~Du har fortjent titlen Kaptajn.~p~Vores videnskabsmænd har udviklet en intergalaktiske motor til dit rumskib, Kaptajn. Du skal dog først lige installere den.
+0x00000012 Klik på ~mission_item~ i dit lastrum. Klik og hold derefter knappen nede og bevæg den over en by.
+0x00000034 Du har udslettet de syge ~mission_target_animal_species~-dyr.
+0x00000001 Det lader til, at det eksemplar, du indsamlede, var syg og er inficeret med en virus, der spreder sig med en faretruende fart. Det er en fare for hele vores økosystem.~p~ Vi ønsker naturligvis at håndtere dette med barmhjertighed. Dit rumskib er blevet udstyret med en nem og bekvem minilaser. Den er så præcis, at du kan tage hånd om de inficerede dyr og samtidig undgå de raske.
+0x0000000A Det er den rigtige indstilling!~p~Hver by på planeten ~race_homeworld~ has opsendt en enorm sfære for at fejre vores første rumskib! Seriøst ... du kan ikke undgå at se dem!~p~Sæt dig ind i rumskibet og besøg ~mission_explore_num_cities_to_visit~ af vores byer. Flyv gennem sfærerne for at smadre dem!~p~Der venter nye ordrer, når du er færdig.~p~Held og lykke - og lad være med at ridse malingen.
+0x00000002 Brug højre museknap for at flyve og +/- for at skifte flyvehøjde.
+0x00000025 Lyder godt. Jeg er klar.
+0x0000000B Brug bortførelseslaseren, der findes i Lastrumpanelet, til at indsamle dyr til yderligere forskning.~p~Sørg for at have værktøjet udstyret indtil dyret er i skibets lastrum.~p~Slukkes laseren før dyret er sikkert inde i lastrummet, kan offeret, øehm ... jeg mener, eksemplaret, havne i en mindre heldig position.
+0x00000033 Du har scannet den nye art.
+0x0000008B Bortførelsesstrålen finder du i dit lastrum.
+0x0000000E Smid ~mission_item~-eksemplaret af inden for bymurene.
+0x00000030 Brug dit Scanværktøj til at overføre data fra det væsen, du har markeret, over til Sporepedia.
+0x0000008E Succes! Påbegynd kommunikation.
+0x00000031 Brug Minilaseren i Våben-gruppen.
+0x0000000C Vælg Minilaseren fra Våbenpanelet, og ret den imod de inficerede dyr. ~p~Men vær forsigtig med hvor du sigter. Du risikerer at smadre både bygninger, køretøjer og andre rumskibe. ~p~ Kom så af sted - inden virussen spreder sig yderligere!
+0x0000008D Du fik fat i ~mission_item~-dyret.
+0x00000023 Vi har stadig brug for, at du afleverer eksemplaret i én af vores byer.~p~Vælg det eksemplar, du ønsker at aflevere, ved at klikke på det i dit lastrum med venstre museknap. Dette tilslutter transportlaseren, hvorefter du kan sætte eksemplaret ned på jorden. Flyv til én af dine byer og aflever eksemplaret. Hold venstre museknap nede indtil dyret er landet sikkert i én af dine byer. ~p~Eksemplaret går tabt, hvis du giver slip for tidligt.
+0x00000009 Ja, jeg ved, hvad jeg laver. Gør mit skib klar til rumrejse.
+0x00000029 Problemer med at scanne eksemplaret? ~p~Vælg scanningsværktøjet og venstreklik på én af de glødende gule dyr. ~p~Hvis du har svært ved at finde det korrekte dyr, kan du få overblik ved at zoome ud med det midterste musehjul for at få et fugleperspektiv og lede efter gule pile. ~p~Så kan du gå tættere på, når du har fundet dit mål.
+0x00000019 Glimrende! Vores videnskabsmænd er ivrige efter at analysere de data.
+0x0000002B Åben din kommunikation.
+0x0000000F Godt klaret, kadet. Bliv ved sådan, og du er Kaptajn inden længe.
+0x00000077 Udryd venligst kun lysende væsener. Tak.
+0x00000008 Ikke endnu - jeg har ændret mening. Lad os besøge byer.
+0x00000003 Tillykke kadet! Det et fint skib, du har dér! ~p~ Vi er stadig i gang med at tilføje udstyr, men det burde være klar til rumrejse meget snart! ~p~ Har du fløjet et rumskib før? Nej? ~p~Hmmm ... nå ... nu ikke noget some en flyvetest, mens hele ~player_creature_name~-befolkningen fra planet ~race_homeworld~ kigger på.~p~ Nå, hvad siger du til det? Klar til at gøre dig fortjent til dit Kaptajn-emblem?~p~
+0x00000020 Det ser ud til, at du har fundet det rigtige eksemplar. Vi skal gerne have dig til at aflevere det i én af vores byer.~p~Vælg den last du vil aflevere i Lastrumpanelet, og aflever den i en by.~p~Sørg for at transportere den sikkert ned til overfladen, så du undgår at hente et nyt eksemplar, og vi undgår at rydde op efter dit griseri.
+0x00000014 Vi har virkelig brug for det eksemplar, så vi kan studere det nærmere. ~p~Brug din bortføringsstråle til at bortføre et væsen. Du skal holde venstre museknap inde hele tiden, indtil det valgte væsen er i dit lastrum. ~p~Dit målkort bliver opdateret, når du har sikret din last.~p~Efter du har overført en af de små krabater til dit lastrum, kan du flyve til en vilkårlig by og smide væsenet af inden for bymurene. Sørg for, at du ikke taber eksemplaret - det sviner sådan.~p~Vi sender en kontaktperson ud til det sted, hvor du afleverer væsenet.
+0x00000007 Lad ikke mig holde dig tilbage, hvis du føler dig klar.~p~Du frasiger dig dog dit Kaptajn-emblem. Vi har dog udstyret dit rumskib med alt det udstyr, du skal bruge, til en øjeblikkelig udforskning.~p~Er du klar til at forlade planeten?
+0x0000003C For at forhindre infektionen i at sprede sig, skal du fjerne ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^sygt^syge~ dyr fra ~mission_target_animal_species~-racen.~p~Brug Minilaseren, du finder under våbengruppen.
+0x0000008C Du besøgte ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^by^byer~.
+0x00000079 ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^rask dyr^raske dyr~ dræbt mere vil få missionen til at mislykkes.
+0x00000028 Fjern ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^sygt^syge~ dyr mere.
+0x00000050 ~mission_num_eradicated_creatures~ klaret, ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^væsen^væsener~ tilbage af racen ~mission_target_animal_species~.
+0x00000086 Flyv gennem kuglen over ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^by^byer~ mere.
+0x00000039 Besøg ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^by^byer~ mere og flyv gennem den svævende ring for at bruge den.~p~ Brug piletasterne til at navigere dit rumskib. Du kan også bruge den højre museknap til at flyve.~p~Tryk på enten tasterne +/- eller rul med musehjulet for at skifte højde.~p~Hold øje med - og flyv i gennem - skinnende kugler over byerne.
+0x0000003F Du har besøgt ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^by^byer~. Påbegynd kommunikation.
+

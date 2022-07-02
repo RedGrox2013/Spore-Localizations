@@ -1,0 +1,122 @@
+﻿0x711D4A01 ~string~をインストールするには、まずSPORE(TM)またはSPORE(TM)クリーチャークリエイターをインストールする必要があります。~CSA_TRIAL_UNSUPPORTED~
+0x25A6ABC6 オーバフロー情報のためにファイルを開くことはできません。~PATCH_ERROR_OVERFLOW_CREATE~
+0x71211E4D patchw32.dll は実行中です。~PATCH_ERROR_BUSY~
+0x7B152168 インストールをクリックしてインストールを開始してください。~br~~br~インストールの設定を確認、または変更する場合、戻るボタンをクリックするか、またはキャンセルボタンをクリックして終了してください。~BEGIN_INSTALLATION~
+0x06220BA5 「次へ」をクリックして、~string~をインストールしてください！~WELCOME_SPORE_MESSAGE~
+0x07B43E64 インストールシールドウイザードは%Pをバージョン%VSにアップデートしました。~UPDATE_COMPLETE~
+0x09FAE7DA パッチファイルは無効です。~PATCH_ERROR_INVALID~
+0x72B5864F 古いファイルは見つかりませんでした。同じ名前のファイルが存在しますが、内容が異なるためアップデートされません。~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x7D4A4E2F カスタム~CUSTOM~
+0x2F6DAE9F パッチファイルは他のプラットフォーム専用です。~PATCH_ERROR_PLATFORM~
+0x3017EF99 ~string~で作成したすべてのユーザーデータを消去しますか？　~REMOVE_USERDATA~
+0x227BB46B 有効なパスワードが入力されていません。パッチを適用することができません。~PATCH_ERROR_PASSWORD~
+0x70C5CBE4 オーバーフローテーブルに書き込むことができません。~PATCH_ERROR_OVERFLOW_WRITE~
+0x02699E57 セットアップの種類~SETUP_TYPE_TITLE~
+0x4A43CA10 古いファイルを開くことができません。~PATCH_ERROR_OLD_FILE~
+0x494AA82F ~string~のパッチウィザードが中断されました。~br~~br~パッチ作業を完了するには、再度、パッチを実行してください。~UNINSTALL_INCOMP~
+0x4950A450 Spore(TM) クリーチャークリエイター トライアル版~SCC_TRIAL_NAME~
+0x38A8F152 ~string~へようこそ！~WELCOME_SPORE_TITLE~
+0x3C8EC28C ~string~をアンインストールするには、まずSPORE(TM) クリーチャークリエイターをアンインストールする必要があります。~UNINSTALL_CSA_FIRST~
+0x01FCAF57 My Spore Creations~SAVE_FOLDER~
+0x4DE32707 続ける前に、~string~を終了してください。~GAME_RUNNING_STRING~
+0x292EDCB9 SPORE(TM) クリーチャークリエイター~CSA_TITLE~
+0x4C7A3E93 MSIサポートは32-bit Windowsパッチにのみ対応しています。~PATCH_ERROR_MSI_32BIT~
+0x4C87F179 ファイルはすでにパッチが適用されています。~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF カスタムアクションにより中断されました。~PATCH_ERROR_CUSTOM_ACTION~
+0x303D349E ファイル：~string~~br~エラー： ~string~~COMP_ERROR_MSG~
+0x07F727E1 SPORE(TM)~GAME_TITLE~
+0x45DB3D71 バックアップファイルが開けません。~PATCH_ERROR_BACKUP_SOURCE~
+0x61ABCBCD 新しいファイルへの書き込み中にエラーが発生しました。~PATCH_ERROR_WRITING_FILE~
+0x3D73B13D パッチファイルからパッチが見つかりません。~PATCH_ERROR_NOT_FOUND~
+0x1004B90B 最新のEAダウンロードマネージャーをインストールしますか？　EADMがあるとゲームの更新や改善についての情報をいち早く知ることができ、これらのダウンロードやインストール作業も短縮できます。EADMを使用しているプレイヤーはMaxis（TM)からのゲームアップデートやコンテンツが提供されます。~EADM_Install~
+0x3B9C8CD2 ~string~をアンインストールする前に、拡張パックを全てアンインストールしてください。~UNINSTALL_EXPANSIONS_FIRST~
+0x7734F859 ~string~をインストールするには、まずSPORE(TM)をインストールする必要があります。~SPORE_NOT_INSTALLED~
+0x16FBAEAF ~string~をプレイする準備ができました ~READY_TO_PLAY~
+0x1E337A76 インストールをクリックしてインストールを開始してください。~br~~br~インストールの設定を確認、または変更する場合、戻るをクリックしてください。ウィザードを終了するにはキャンセルをクリックしてください。~br~~br~~string~は~string~がアンインストールされるまでインストールできません。~DLG_SDSTARTCOPY2_MSG~
+0x46A61B9B ~string~は見つかりませんでした。~MISSING_FILES~
+0x23FD0D11 SPORE(TM) クリーチャークリエイター~SCC_NAME~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x5EC7AFC0 SPORE(TM) クリーチャークリエイターはすでに起動しています。続ける前に、SPORE(TM) クリーチャークリエイターを終了してください。~GAME_RUNNING_CSA~
+0x59450AC4 セットアップの種類~br~セットアップの種類を選択してください~SETUP_TYPE_MESSAGE~
+0x1D6F9667 最新のパッチプログラムの適用が必要です。~PATCH_ERROR_INCOMPATIBLE~
+0x55BA6A48 オーバーフローテーブルから読み込むことができません。~PATCH_ERROR_OVERFLOW_READ~
+0x3BCC85D2 ディスクの空き容量が不足しています。 - パッチ適用には%dバイトの空き容量が必要です。~PATCH_ERROR_DISKSPACE~
+0x1ADB7500 シリアルファイルを開くことができません。~PATCH_ERROR_OPENING_SERIALIZATION~
+0x54F8A844 メモリーが不足しています。~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x2A2F9BCC テンポラリファイルを作成することができません。~PATCH_ERROR_TEMPORARY~
+0x367E6B82 SPORE(TM)はすでに起動しています。続ける前に、SPORE(TM)を終了してください。~GAME_RUNNING~
+0x58210F85 ~string~のインストールに失敗しました。システムが変更されませんでした。もう一度お試しください。~INSTALL_UNSUCCESSFUL~
+0x5760C2F0 パッチファイルは有効ではありません。~PATCH_ERROR_VERIFY_FAILED~
+0x374F68D8 セットアップの~string~の認証を取り消そうとしています。お待ちください。~WAIT_DEAUTHORIZE~
+0x783C20B6 インストールウィザードが現在インストールされているバージョン%Pの(%VI)から%VSにアップデートします。続けるには「次へ」をクリックしてください。~UPDATE_TO_NEW_VERSION~
+0x568D9702 コマンドラインパラメーターは存在するディレクトリではありません。~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x353F37C7 続けるには~string~をアンイストールする必要があります。続けますか？~SPORE_REMOVE_CSA_WARNING~
+0x5CEBC9EF アップデートファイルの更新日時を記録することができません。~PATCH_ERROR_TIME~
+0x3C17044B ユーザー中断エラー：patchw32.dllをロードします。~PATCH_ERROR_IS_ABORT~
+0x19843E71 新しいファイルを開くことができません。~PATCH_ERROR_NEW_FILE~
+0x01725188 SPORE(TM) クリーチャークリエイターのパッチは完了できませんでした。少し経ってからもう一度SPORE(TM) クリーチャークリエイターのパッチを試してください。~PATCH_FAILED_CSA~
+0x3C7BB1E1 SPORE(TM)インストーラーはSPORE(TM)を最新バージョンにアップデートした後に~string~のインストールを続行します。~UPDATE_SPORE~
+0x5E418C32 ~string~をアンインストールするには、まずSPORE(TM)をアンインストールする必要があります。~UNINSTALL_SPORE_FIRST~
+0x50F7380E Electronic Arts~EA_GAMES~
+0x5C043E34 ファイルにパッチを適用中…~APPLY_PATCH~
+0x2A8D9AF3 EAヘルプ~EA_HELP~
+0x0018FC1D SPORE(TM)インストーラーはSPORE(TM) クリーチャークリエイターをアップデートした後にSPORE(TM) クリーピー＆キュート パーツパックのインストールを行います~string~。~UPDATE_CSA~
+0x51909529 このコンピュータから認証を取り消します。~DEAUTHORIZE~
+0x51EA40D5 オフラインの状態でアンイストールを行いますと、ご使用のマシンの認証は取り消されません。このまま続行しますか？~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\readme.txt~ADD_REMOVE_PROGRAMS_README~
+0x27D33671 ファイルパスが長すぎます。もっと短くしてください。~DIR_TOO_LONG~
+0x6AEE038F アップデートディレクトリがありません。~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x28A00C2C コマンドラインにはファイルとディレクトリはそれぞれひとつまでしか使用できません。~PATCH_ERROR_COMMAND_LINE~
+0x74CA8AD7 ファイルの名前変更はできません。~PATCH_ERROR_RENAMING~
+0x40D6F8BD インストール完了後、ReadMe.txtを開く~VIEW_README~
+0x6BA1B25F ディスク容量が不足しています。選択したボリュームからファイルを消去してください。~NO_SPACE_MSG_CP~
+0x144073D1 ~string~は、選択されたディレクトリにインストールされます。~CUSTOM_SPORE_SETUP~
+0x319AD21D SPORE(TM)~PRODUCT_NAME~
+0x23584337 DOS環境ではレジストリ/INIへのパッチには対応していません。~PATCH_ERROR_DOS~
+0x6A8319B9 SPOREのウェブサイト~SPORE_WEB~
+0x1498EC13 インストールの準備ができました！~READY_TO_INSTALL~
+0x3D927FE5 ソフトウェア・エンドユーザー・ライセンス契約~SOFTWARE_LICENSE~
+0x6BCC80AF ファイルの削除および名前変更ができません。ファイルは保護されているか使用中です。~PATCH_ERROR_RENAMING_DELETING~
+0x3162CD81 パッチエラー~PATCH_ERROR_TITLE~
+0x0A77D8D6 SPORE(TM) ギャラクティック アドベンチャー~SPORE_EP1_NAME~
+0x0F5F623F ファイル内を検索することはできません。~PATCH_ERROR_SEEKING~
+0x6CD070E6 アンインストールに必要ないくつかの情報が見つかりませんでした。初期セットアップ中にエラーが発生した可能性があります。いくつかのファイル、またはフォルダを手動で削除する必要があるかもしれません。~MISSING_UNINSTALL~
+0x7E8BB5FD インストールが完了しました~INSTALLATION_COMPLETE~
+0x7EC3C6FA バックアップディレクトリを作成することができません。~PATCH_ERROR_BACKUP_DIRECTORY~
+0x0AA43B92 推奨~RECOMMENDED~
+0x0F1854E4 シリアルファイルを読み込むことができません。~PATCH_ERROR_READING_SERIALIZATION~
+0x7426EAA1 デスクトップのショートカット~DESKTOP_SHORTCUT~
+0x40CFBF3E パッチファイルを開くことができません。~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x7FA1F2A0 ~string~をアンイストールする~UNINSTALL_APPLICATION~
+0x0F48320C isrtp.dllをロードすることができません。~PATCH_ERROR_IS_LOAD~
+0x0AC7C17D レジストリ/INIエントリーが存在しないか無効です。~PATCH_ERROR_REGISTRY~
+0x6754C223 新しいファイルはすでに存在します。~PATCH_ERROR_NEW_FILE_EXISTS~
+0x3269ED31 エラーメッセージファイルを開くことができません。~PATCH_ERROR_ERROR~
+0x767EF241 バックアップ先のファイルを開くことができません。~PATCH_ERROR_BACKUP_DESTINATION~
+0x39040F38 お読みください~README~
+0x394403EB バックアップログファイルを作成することができません。~PATCH_ERROR_BACKUP_LOG~
+0x151DEC2F SPORE(TM) はDirectXがないと正常に作動しません。~DIRECTX_WARNING~
+0x64663ACA SPORE(TM)のパッチは完了できませんでした。少し経ってからもう一度SPORE(TM)のパッチを試すか、カスタマーサポートにお問い合わせください。~PATCH_FAILED~
+0x2BF6EA98 ディスク容量が不足しています。選択したボリュームからファイルを消去するか、別の保存先を指定してください。~NO_SPACE_MSG~
+0x03BCF887 次のオプションから選択してください：~SELECT_OPTIONS~
+0x166E669A ~string~にインストールできません。~br~別のディレクトリを選択してください。~DANGEROUS_DIRECTORY_ERROR~
+0x16741C9F インストール後~string~を起動~LAUNCH_SPORE~
+0x15CC67E6 ~string~は~br~~string~にインストールされます。~RECOMMENDED_SPORE_SETUP~
+0x08F68C4F このオプションは不正です。~PATCH_ERROR_ILLEGAL~
+0x0890C566 MSIデータベースのアップデート中にエラーが発生しました。~PATCH_ERROR_MSI~
+0x15C024FC アップデートディレクトリの名前は有効ではありません。~PATCH_ERROR_DIRECTORY_INVALID~
+0x0E777733 パッチ対象ファイルがみつかりません。~PATCH_ERROR_MISSING_FILE~
+0x44CA6AE6 インストールするには管理者のアカウントが必要です。~ADMINISTRATOR_ACCOUNT~
+0x1F726BCA プレイする~PLAY_SPORE~
+0x657F7D49 パッチファイルが見つかりません。~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x0D849C4A 完了をクリックして、開始しましょう~CLICK_FINISH~
+0x42A0F6F9 古いファイルからの読み込み中にエラーが発生しました。~PATCH_ERROR_READING_FILE~
+0x64A17D06 エラーが発生しました。セットアップが完了できないため作業を中断します。もう一度お試しください。~GENERAL_ERROR~
+0x208AB121 パッチの適用中にエラーが発生しました。(%d)~PATCH_ERROR_GENERAL~
+0x20176E40 バックアップファイルを作成することができません。~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x7D34F09B ~string~のインストーラーが現在インストールされているバージョン（~string~）の~string~をバージョン~string~に更新します。~UPDATING_TO_NEW_VERSION~
+0x3D80E796 ~string~は最新版です。パッチの必要はありません。~PATCH_NOT_REQUIRED~
+0x40922E1B ~string~インストーラーが~string~を最新バージョンの~string~に更新しました。~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D ~string~がインストールされていない状態では~string~にパッチを適応することはできません。~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 ~string~インストーラーが~string~を最新バージョンに更新します。~UPDATE_PRODUCT~
+

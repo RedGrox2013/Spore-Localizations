@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x00000098 Completata
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x00000097 In corso
+0x0000004E Le coordinate planetarie sono state trasmesse al tuo registro missione. Raggiungile prima che il contagio si diffonda.
+0x00000081 Sicuro di non volere esporti a un virus alieno potenzialmente letale?~p~Siamo a corto di cavie da laboratorio...
+0x00000092 Indaga nel sistema ~mission_target_star~. Cerca di entrare in contatto con la Stazione di ricerca.
+0x00000064 Sapevo che potevamo contare su di te. Scopri cosa è successo alla Stazione di ricerca e poi torna a fare rapporto.~p~Presto, ~ep1_captain_full_name~! Il virus non deve diffondersi!
+0x00000094 Indaga nel sistema ~mission_target_star~. Cerca di entrare in contatto con la Stazione di ricerca sul pianeta ~mission_target_planet~.
+0x000000B1 Indaga sulla nave precipitata sul pianeta ~mission_target_planet~.
+0x00000071 A dire il vero, neanche noi avremmo molta voglia di scendere su un pianeta pericoloso per indagare su un virus alieno micidiale.~p~La tua specie è più intelligente del previsto.
+0x00000041 Proprio come temevamo. L'intera Stazione è stata spazzata via dal virus, ma questa ragazzina è sopravvissuta. Speriamo che lo studio del suo sistema immunitario ci permetta di evitare catastrofi simili, in futuro.~p~Non è molto, ma vogliamo offrirti ~mission_rewards~ Sporecrediti per ringraziarti dell'aiuto.
+0x00000095 L'indagine su ~mission_target_planet~ è stata completata. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+0x00000000 ~ep1_captain_full_name~, si è verificata una catastrofe biologica! Una nave aliena non identificata è precipitata nei pressi di una delle nostre Stazioni di Ricerca Ecologica.~p~Abbiamo perso ogni contatto con la stazione.~p~Temiamo che la nave aliena stesse trasportando una specie di virus.~p~Potresti andare a controllare?
+

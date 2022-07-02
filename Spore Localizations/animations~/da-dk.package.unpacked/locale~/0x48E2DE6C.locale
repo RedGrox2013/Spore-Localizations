@@ -1,0 +1,83 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000028 Du har vist, at du er en ven af Spode. Tag ~mission_rewards~ Sporebucks i Spodes navn - og et eksemplar af "Spodes ord".
+0x00000098 Flyv til planeten ~mission_target_planet~.
+0x00000005 Aktive medlemmer af "Hold Ilten Ren" - vi HIR-medlemmer forsøger at undersøge hver planet i galaksen. Vil du tage ned til planeten ~mission_target_planet~ og undersøge?
+0x00000057 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vi vil overveje at betale dig, HVIS du vender tilbage.
+0x00000006 De piner os godt nok at spilde energi til at rejse til en anden planet, men vi har brug for, at du rejser til ~mission_target_planet~.~p~Vores Beskyttere på planeten melder om mærkelige aktiviteter.
+0x00000029 Vi har tidligere haft erfaringer med, at belønninger er en god måde at opnå et samarbejde med andre arter. Vi tilbyder derfor ~mission_rewards~ Sporebucks til dig.
+0x0000009D Din mission på planeten ~mission_target_planet~ er fuldendt. Meld tilbage til planeten ~mission_source_planet~ i stjernesystemet ~mission_source_star~.
+0x0000009B På vej til: ~mission_source_star~-systemet.
+0x00000099 Rapporter tilbage til planet ~mission_source_planet~.
+0x0000009A Når du ankommer til planeten, skal du beame dit mandskab og dig selv ned til planetens overflade.
+0x00000026 Du har tjent din galakse vel. På vegne af Storrådet er jeg autoriseret til at tilbyde dig ~mission_rewards~ og dette anbefalingscertifikat af anden grad.
+0x00000027 Du har gjort det godt! Vi er glade for at kunne tilbyde dig ~mission_rewards~ Sporebucks og titlen som "Ven af kosmos"!
+0x00000025 Jeg beklager, men jeg må afslå.
+0x00000053 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Penge, sange og danse venter her, når du vender tilbage.
+0x00000051 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vend venligst tilbage hertil, når du er færdig, så vil vi belønne dig rigeligt.
+0x0000004E Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vend tilbage hertil, når du vil have betaling for den udførte opgave.
+0x0000009C Rejs til stjernesystemet ~mission_target_star~. Beam ned til planeten ~mission_target_planet~ og gennemfør din mission.~p~Du modtager ~mission_rewards~ Sporebucks for at gennemføre missionen.
+0x00000046 Jeg beklager, men jeg må desværre forlade dette projekt.
+0x00000056 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Dine penge vil flyde som en sand syndflod, når din rejse er overstået.
+0x0000003D Vi ville invitere dig til vores fest, men du har endnu ikke gennemført din mission på planeten ~mission_target_planet~. Lad nu være med at ødelægge festhumøret og få det gjort!
+0x0000003C Trods dataene i din Missionslogbog har du ikke formået at gennemføre din opgave på planeten ~mission_target_planet~. Det virker helt ulogisk.
+0x0000003E Ikke for at være grov, men ... du er ikke færdig med din opgave på planeten ~mission_target_planet~. Det ville være fordelagtigt for alle parter, hvis du klarede opgaven.
+0x00000040 På trods af informationerne i din Missionslogbog har du endnu ikke gennemført din opgave på planeten ~mission_target_planet~. Vil du være en helt eller kujon?
+0x0000003F Rejs til planeten ~mission_target_planet~ og gennemfør den opgave, du har accepteret. Vi er tålmodige og venter på den sikre tilbagevenden.
+0x00000038 Du har stadig ikke gennemført din mission, Kaptajn. Du skal drage til planeten ~mission_target_planet~ inden nogen fra Hovedkvarteret går amok.
+0x00000039 Dine diplomatiske bestræbelser er ikke forbi. Rejs venligst til ~mission_target_planet~ og beam ned til planeten.
+0x0000003B Den Oplyste bliver ikke glad. Du skal tage til planeten ~mission_target_planet~ med det samme og bevise dit værd.
+0x0000003A Woooah, du har stadig ikke beamet ned til planeten ~mission_target_planet~? Du burde totalt meget tage derhen og klare det, lissom'.
+0x00000001 Vi har fået meldinger fra Storrådet om, at der er ukendt aktivitet på planeten ~mission_target_planet~. Vil du rejse derhen og se nærmere på det?
+0x00000050 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vend venligst tilbage hertil, når du er færdig, så vil vi bade dig i belønninger.
+0x00000041 Trods de data, der blev overført til din Missionslogbog, så har du endnu ikke gennemført opgaven på planeten ~mission_target_planet~. Vil du lystre?
+0x00000002 Storrådet har fået en melding fra ambassadørerne på planeten ~mission_target_planet~. Vi vil gerne sætte dig til opgaven. Er du interesseret i ekstra arbejde, der omfatter arbejde på planetens overflade?
+0x00000037 Du er alt for venlig.
+0x0000009E Aktiv
+0x000000A0 Det lykkedes! Rapporter til stjernesystemet ~mission_source_star~.
+0x0000009F Gennemført
+0x0000002B Den Storslåede vender tilbage i triumf! Vi hyler og danser i ren fryd! Tag imod ~mission_rewards~ Sporebucks og en gratis rundvisning i vores fremragende butik.
+0x0000002A Hvor er det en skøn tid, vi lever i, kære ven! Du gjorde det ... hvad var det lige du gjorde? ~p~Skidt pyt ... lad os synge og fjolle rundt. Som lovet har du her ~mission_rewards~ Sporebucks.
+0x0000002C Ved de Store Solvinde ... du gjorde det! Her har du ~mission_rewards~ Sporebucks. Vi vil også rette op på dit rumskibs feng shui, før du smutter!
+0x0000002E Du gennemførte din mission på tilfredsstillende vis. Her har du ~mission_rewards~ Sporebucks - vi kan ikke bruge dem til noget, men måske kan du.
+0x0000002D Du har hjulpet os - og vi vil ikke være utaknemmelige. Tag imod ~mission_rewards~ Sporebucks.
+0x0000005F Jeg forstår. Jeg er snart tilbage.
+0x00000054 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Du vil få del i store rigdomme, når du vender tilbage.
+0x00000072 Håber på din forståelse.
+0x00000007 Det står skrevet, at du skal drage til planeten ~mission_target_planet~ i Spodes navn. Der foreligger ikke nærmere detaljer lige nu, men det involverer en storslået rejse på planeten.
+0x00000008 Storslåede eventyr venter på planeten ~mission_target_planet~. Der er store kræfter derude, der ønsker dette. ~p~Er du beredt?
+0x00000012 Det er en ære at være i selskab med en så storslået helt som dig. Planeten ~mission_target_planet~ har brug for din hjælp. ~p~Vi ville være dig evigt taknemmelige og betale dig fyrsteligt.
+0x00000009 Den Ene har talt. Vi skal sende en helt til planeten ~mission_target_planet~ og sprede ordet. Vil du være den helt?
+0x00000010 Hvor er det skønt af en med din statur vil besøge et så ubetydeligt folk som os. Hvis det ikke var alt for besværligt, vil vi gerne bede dig om en tjeneste.~p~Kunne du tage forbi planeten ~mission_target_planet~ og se, hvilke muligheder, der gemmer sig der? Kun hvis det ikke er et stort problem for dig.
+0x00000052 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Din betaling venter her, når du er færdig.
+0x00000055 Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vi har din betaling klar, når du er færdig.
+0x00000011 Vi vil helst ikke forstyrre, men kan du gøre os en tjeneste? Rejs venligst til planeten ~mission_target_planet~.~p~En af vores fragtskibe melder, at der er storslåede muligheder for en som dig. ~p~Vi betaler, selvfølgelig.
+0x00000017 Vi har set mange eventyrere her. Hvad gør dig anderledes? ~p~Rejs til planeten ~mission_target_planet~. Risikoen er muligvis stor, men belønningen er endnu større.
+0x0000001C Hovedkvarteret har en tophemmelig mission for dig på planeten ~mission_target_planet~.~p~Accepterer du denne mission?
+0x0000001D Der er ikke mange informationer, Kaptajn, men efterretningerne antyder, at der er stort behov for, at du rejser til planeten ~mission_target_planet~ og finder ud af, hvad der sker der.~p~Er du interesseret?
+0x00000019 Ubetydelige livsform, tag til planeten ~mission_target_planet~. Stil ikke spørgsmålstegn ved vores autoritet.
+0x00000018 ~race~ respekterer dem, der er modige nok og er frygtløse. ~p~Rejs til planeten ~mission_target_planet~ og undersøg sagen. Vi er ikke sikre på, hvad der venter dig, men det bliver helt sikkert farligt. ~p~Er du beredt?
+0x0000001B Du skal tage til planeten ~mission_target_planet~ eller blive straffet.
+0x0000001A Drag med det samme af sted til planeten ~mission_target_planet~. Det var alt.
+0x00000016 Tror du, at du er stærkere end ~race~? Bevis det.~p~Tag til planeten ~mission_target_planet~ og mød de farer, der venter der. Det betaler godt.
+0x00000013 Vindene fortalte om en helt, der ville komme med behov for eventyr. Er du den helt? ~p~Hvis du er, så drag til planeten ~mission_target_planet~, hvor dit eventyr venter.
+0x0000000D Den her er god ...~p~Hvad beamer ned til planeten ~mission_target_planet~ og får betaling for det?~p~Giver du op?~p~Dig! Interesseret?
+0x00000014 De Store Vande taler om fantastiske oplevelser til dem, der vover. Drag til planeten ~mission_target_planet~ med al hast. ~p~Må Åndemageren beskytte dig..
+0x0000000F 1, 2, 3 ... vil du gøre noget for mig, dit fæ? ~p~4, 5, 6 ... tag til planeten ~mission_target_planet~, det bliver superlæx. ~p~7, 8, 9 ... sørg for, at alt er så godt, som det kan bli'.~p~Hvad kommer efter 9?
+0x0000000B Vores forskere på planeten ~mission_target_planet~ har informeret os om, at der muligvis er noget interessant på planeten for en som dig. ~p~Interesseret?
+0x0000000A Vores researchstation har sendt interessante data tilbage fra planeten ~mission_target_planet~. Du skal beame ned til ~mission_target_planet~ og undersøge sagen. ~p~Vil du gøre dette for os?
+0x00000060 Fuldt ud forståeligt, Kaptajn.~p~Beklager forstyrrelsen.~p~
+0x0000000E Vi har travlt med at fejre "Festernes fest" - en fest, der varer et helt år på vores planet. Vil du være så rar at tage til planeten ~mission_target_planet~ og undersøge sagen nærmere?~p~Vi betaler godt.
+0x00000004 Lyst til at se naturen på planeten ~mission_target_planet~? Vi hører, at den er smuk denne tid på året, og vi har akut behov for at du tager ned til planeten for at sørge for, at den er sikker.
+0x00000003 Det er urolige tider, men vi har ikke nok ressourcer til at holde opsyn med stjernerne, og slet ikke tid til at rejse ned og besøge hver planet. Efterretninger melder om et behov for en ambassadør på planeten ~mission_target_planet~.~p~Kan vi overtale dig at rejse på vores vegne?
+0x00000015 Når Stjernernes Sten står på linje med Vredens Porte, vil der ske storslåede ting. Den magi venter på dig på planeten ~mission_target_planet~.~p~Vil du drage af sted?
+0x0000002F Kaptajn, din Missionslogbog angiver, at du havde succes! Vi er SÅ imponerede! ~p~Her har du ~mission_rewards~ Sporebucks som tegn på vores taknemmelighed!
+0x0000000C Hvis vores beregninger er korrekte, så er der helt klart noget stort igang på planeten ~mission_target_planet~.~p~Hvis det ikke er for besværligt, vil du så tage derhen og undersøge sagen?
+0x0000001E Vores rekognosceringssonder har observeret aktivitet på planeten ~mission_target_planet~. Transmissionen var utydelig, men der er vist behov for yderligere efterforskning. Vi ville ønske, at vi kunne fortælle dig mere. ~p~Vil du tage af sted?
+0x0000004F Når du når frem til planeten ~mission_target_planet~, skal du beame ned til planeten. Du kan udstyre din gruppe, før du beamer ned. ~p~I enkelte eventyr kan du beame medlemmer af din gruppe ned. ~p~Vend tilbage hertil, når du er færdig, Kaptajn, så får du betalingen for den udførte opgave.
+0x00000073 Fuldt ud forståeligt, Kaptajn.~p~Beklager forstyrrelsen.
+

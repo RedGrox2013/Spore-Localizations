@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Tyto příšerky stojí na místě.
+0x079817BE Tyto příšerky následují jiného určeného člena obsazení.
+0x079817BA Tyto příšerky se pohybují tam a zpět mezi dvěma body.
+0x079817B5 Tyto příšerky se náhodně pohybují kolem svého výchozího místa.
+0x079EDF5A Tato vozidla stojí na místě.
+0x079EDF5B Tato vozidla se náhodně pohybují kolem svého výchozího místa.
+0x079EDF5C Tato vozidla se pohybují tam a zpět mezi dvěma body.
+0x079EDF5D Tato vozidla následují jiného určeného člena obsazení.
+
+# Planet Paint
+
+0xB6AFCFC0 Půda
+0xB6AFCFC1 Květiny
+0xB6AFCFC2 Styl mraků
+
+#Goals:
+
+0x07981777 Spojit se s ~ep1_current_cast~, aby se přidali do tvé skupiny.
+0x0798177B Promluvit si s ~ep1_current_cast~.
+0x07981773 Navázat kontakt s ~ep1_current_cast~.
+0x07981764 Přesunout se poblíž ~ep1_current_cast~.
+0x0798176F Zničit ~ep1_current_cast~.
+0x0798177E Držet ~ep1_current_cast~.
+0x0798178C Zabránit ~ep1_current_cast~ v kontaktu s jiným účastníkem kanálu.
+0x07981798 Zabránit zničení ~ep1_current_cast~.
+0x07981789 Přinést ~ep1_current_cast~ jinému členovi kanálu.
+0x07981782 Dát ~ep1_current_cast~ jinému účastníkovi kanálu.
+0x07981785 Sesbírat ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF73 Síť
+0x56AFCF74 Pyl
+0x56AFCF75 Houba
+0x56AFCF72 Mimozemký
+0x56AFCF70 Výchozí
+0x56AFCF71 Kadeřavý
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 příšerky
+0x07981E93 předměty
+0x07981E92 budovy
+0x07981E91 vozidla
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klikněte na příšerku, budovu nebo vozidlo a trvale ho ze hry odstraňte.~br~Abyste trvale ze hry odstranili dobrodružství, ukončete jej a otevřete Sporepedii (stiskněte klávesu B). Ve Sporepedii najděte dobrodružství, které chcete odstranit, zvolte jej a klikněte v pravém dolním rohu na tlačítko Zakázat výtvory. Tím odstraníte dobrodružství, ale nikoliv výtvory - ty musíte odstranit samostatně.~br~Zpráva o výtvorech bude zaslán týmu služby pro zákazníky hry Spore.
+
+#Awareness:  
+
+0x07981DE3 Určuje, jak daleko tyto příšerky dohlédnou.
+0x079EDF5E Určuje, jak daleko tato vozidla dohlédnou.
+
+#Stances:
+
+0x0798179D Tyto příšerky útočí na cizí jednotky, jakmile je spatří.
+0x079817A1 Tyto příšerky vyšlou před svým útokem varování.
+0x079817AD Tyto příšerky při napadení utečou.
+0x079817A9 Tyto příšerky se brání pouze, když jsou napadeny.
+0x079817A5 Tyto příšerky nic nevyruší od zadaného chování.
+0x079EDF55 Tato vozidla útočí na cizí jednotky, jakmile je spatří.
+0x079EDF57 Tato vozidla nic nevyruší od zadaného chování.
+0x079EDF56 Tato vozidla vyšlou před svým útokem varování.
+0x079EDF58 Tato vozidla se brání pouze, když jsou napadena.
+0x079EDF59 Tato vozidla při napadení utečou.
+
+#Pickup:
+
+0x079817C2 Tyto příšerky seberou jakýkoliv nástroj.
+0x079817C5 Tyto příšerky seberou určený nástroj.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7D Shitaake
+0x56AFCE7B Pravidelné kameny
+0x56AFCE7A Ledové kameny
+0x56AFCE7C Lávové kameny
+0x56AFCE72 Konglomerát
+0x56AFCE73 Korál
+0x56AFCE60 Žádný
+0x56AFCE79 Švýcarský
+0x56AFCE75 Žula
+0x56AFCE76 Organický
+0x56AFCE78 Pískovec
+0x56AFCE74 Krystal
+0x56AFCE77 Hroty
+0x56AFCE71 Hlínanimace
+
+# posse ui
+
+0x0760B242 Posádka
+
+#mission ending description#
+
+0x0760B241 Závěr
+
+0x0760B0F8 Popis a hudba dějství ~ep1_current_act~
+0x075E4C79 Zvolit typ úkolu
+0x075E4C78 Přetáhnout cíl na člena obsazení
+0x0760B0F9 Úvod:
+0x0760B0FB Text při prohře:
+0x0760B0FA Vítězný text:
+
+#Teams:
+
+0x07981E72 Na tyto budovy budou útočit členové obsazení jiných týmů.
+0x07981E71 Tyto příšerky nikdy neútočí na jiné členy obsazení ve svém týmu.
+0x079EDF5F Tato vozidla nikdy neútočí na jiné členy obsazení ze svého týmu.
+
+#introduction of the mission#
+
+0x0760B240 Úvod
+
+# Deep Edit
+
+0x96A94D76 Dějství ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Toto dobrodružství nemá v dějstvích žádné úkoly. Hráč v tomto dobrodružství nemůže vyhrát, pokud dějství nemá úkol nebo pokud v dobrodružství není poslední. Chcete i přesto uložit?
+
+#Give:
+
+0x079817CE Tyto příšerky dají nástroj určenému členovi obsazení.
+0x079817C9 Tyto příšerky dají nástroj kterémukoliv členovi obsazení.
+

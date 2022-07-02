@@ -1,0 +1,48 @@
+﻿0x000000B1 ~guide: -h3~ La symétrie
+0x000000D1 ~guide: -h3~ Croiser des éléments
+0x00000021 ~guide: -h3~ La Palette des éléments
+0x00000081 ~guide: -h3~ Choisir et ajouter des éléments
+0x000001E1 ~guide: -h3~ La Jauge de complexité
+0x00000071 ~guide: -h2~ Votre véhicule fait face à la flèche de l'estrade.
+0x000000E1 ~guide: -h2~ Les éléments des véhicules peuvent se croiser. Placez-les où vous voulez.
+0x00000101 ~guide: -h2~ La taille de vos véhicules est limitée en diamètre et en hauteur. Si l'ajout d'un élément supplémentaire provoque le dépassement d'une de ces limites, cet élément ne s'installera pas mais restera en rouge (même s'il donne l'impression de s'installer normalement). Si l'élément ne s'installe pas, l'opération ne vous coûtera rien.
+0x00000091 ~guide: -h2~ Cliquez sur un élément dans la palette pour le sélectionner puis glissez-le sur l'estrade ou sur votre véhicule.
+0x000000A1 ~guide: -h2~ Pour sélectionner un élément de votre véhicule, cliquez dessus jusqu'à ce qu'il devienne bleu.
+0x00000121 ~guide: -h2~ Ajoutez un élément à votre véhicule, puis modifiez-le à l'aide des poignées de modification.
+0x00000131 ~guide: -bullet~ Sélectionner l'élément à modifier en cliquant dessus. Puis les poignées de modification apparaissent.
+0x00000111 ~guide: -h1~ Modifier des éléments à l'aide des poignées
+0x000000F1 ~guide: -h3~ Diamètre et hauteur des véhicules
+0x00000061 ~guide: -h3~ Dans quel sens se trouve mon véhicule ?
+0x00000161 ~guide: -bullet~ Anneau rotation : change l'orientation des éléments.
+0x000001D1 ~guide: -h2~ Chaque élément ajouté à votre véhicule coûte plusieurs points Elements. Une fois votre budget Elements épuisé, vous ne pouvez plus ajouter d'éléments.
+0x000001A1 ~guide: -h1~ Complexité et budget
+0x00000041 ~guide: -h3~ Catégories d'éléments
+0x00000171 ~guide: -bullet~ Boule de positionnement : change l'orientation d'un élément.
+0x000002F1 ~guide: -bullet~ Pour déplacer l'ensemble du véhicule, maintenez la touche Maj enfoncée, cliquez sur le véhicule et mettez-le dans le bon sens.
+0x00000103 ~guide: -h2~ Pour supprimer un élément, sélectionnez-le et appuyez sur Suppr ou glissez-le hors du véhicule ou de l'estrade.
+0x00000102 ~guide: -h3~ Enlever des éléments
+0x00000211 ~guide: -h2~ Si votre véhicule devient trop complexe, vous ne pouvez plus ajouter d'éléments.
+0x00000201 ~guide: -h2~ La jauge de complexité mesure la complexité structurelle de votre véhicule.
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000221 ~guide: -h1~ Compétences des véhicules
+0x000002C1 ~guide: -h3~ Copier des éléments
+0x00000251 ~guide: -h2~ Le bilan statistique du véhicule se trouve en haut à droite de l'écran du mode Conception de l'Atelier des véhicules.
+0x000002D1 ~guide: -bullet~ Pour copier un élément déjà présent sur votre véhicule, cliquez en maintenant la touche ALT enfoncée sur cet élément, puis choisissez un autre emplacement sur le véhicule.
+0x000002E1 ~guide: -h3~ L'orientation
+0x00000271 ~guide: -bullet~ Puissance : plus votre véhicule est puissant, plus il inflige de dégâts au combat.
+0x00000281 ~guide: -bullet~ Vitesse : plus la valeur est élevée, plus vos véhicules sont rapides.
+0x00000291 ~guide: -h1~ Fonctions avancées
+0x00000261 ~guide: -bullet~ Etat : plus votre véhicule est en bon état, plus il peut supporter de dégâts au combat.
+0x000002A1 ~guide: -h3~ Flèches de modification avancées
+0x000002B1 ~guide: -bullet~ Maintenez la touche Tab enfoncée et sélectionnez un élément de votre véhicule. Des flèches de modification supplémentaires apparaissent.
+0x00000231 ~guide: -h2~ Chaque élément ajouté améliore la vitesse, l'état et la puissance de votre véhicule. Un budget éléments bien investi permet d'accéder aux compétences souhaitées.
+0x00000241 ~guide: -h3~ Statistiques des véhicules
+0x00000141 ~guide: -h3~ Les poignées de modification :
+0x000001C1 ~guide: -h2~ Votre budget éléments figure en bas à gauche de l'Atelier des véhicules.
+0x00000031 ~guide: -h2~ En mode Conception, la palette des éléments s'ouvre sur la gauche de l'écran de l'Atelier des véhicules.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Mode Conception
+0x00000151 ~guide: -bullet~ Flèche d'ajustement : modifie la hauteur, largeur, longueur ou forme d'un élément.
+0x000001B1 ~guide: -h3~ Le budget éléments
+0x00000051 ~guide: -h2~ Les différentes catégories d'éléments disponibles sont regroupées le long de la palette des éléments : corps, cockpits, types de locomotion, armes, effets et détails. Pour sélectionner une catégorie, cliquez sur l'onglet correspondant.
+0x000000C1 ~guide: -h2~ Les éléments de corps et du cockpit des véhicules s'alignent automatiquement au centre de l'estrade.
+

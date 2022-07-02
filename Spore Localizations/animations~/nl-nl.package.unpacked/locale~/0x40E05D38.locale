@@ -1,0 +1,122 @@
+﻿0x50F7380E Electronic Arts~EA_GAMES~
+0x1004B90B Wil je de nieuwste EA Download Manager installeren? De EADM stelt je op de hoogte over de laatste updates en verbeteringen, en stelt je in staat om deze sneller te downloaden en te installeren. Spelers die de EADM hebben, hebben toegang tot exclusieve content en gameplay-updates van Maxis™.~EADM_Install~
+0x6BA1B25F Op de nu geselecteerde schijf is niet genoeg vrije ruimte. Maak ruimte vrij op de geselecteerde schijf.~NO_SPACE_MSG_CP~
+0x7FA1F2A0 ~string~ deïnstalleren.~UNINSTALL_APPLICATION~
+0x64A17D06 Er is een fout opgetreden. De set-up kan niet voltooid worden en zal worden afgesloten. Probeer het opnieuw.~GENERAL_ERROR~
+0x58210F85 Het installeren van ~string~ is niet gelukt. Je systeem is niet aangepast. Probeer het opnieuw.~INSTALL_UNSUCCESSFUL~
+0x44CA6AE6 Om te kunnen installeren is een beheerdersaccount nodig.~ADMINISTRATOR_ACCOUNT~
+0x0E777733 De oude versie van het bestand dat gepatcht moet worden ontbreekt.~PATCH_ERROR_MISSING_FILE~
+0x2BF6EA98 Op de geselecteerde schijf is niet voldoende vrije ruimte. Je kunt bestanden van het geselecteerde volume verwijderen of een andere schijf selecteren.~NO_SPACE_MSG~
+0x5CEBC9EF Kan geen tijd-/datumstempel instellen voor het bijgewerkte bestand.~PATCH_ERROR_TIME~
+0x46A61B9B ~string~ niet gevonden.~MISSING_FILES~
+0x0D849C4A Klik op 'Voltooien' om het venster te sluiten en aan de slag te gaan~CLICK_FINISH~
+0x70C5CBE4 Kan niet naar de overlooptabel schrijven.~PATCH_ERROR_OVERFLOW_WRITE~
+0x6BCC80AF Kan het bestand niet wissen of een andere naam geven. Het bestand kan beveiligd of in gebruik zijn.~PATCH_ERROR_RENAMING_DELETING~
+0x40D6F8BD Bekijk Leesmij.txt na de installatie~VIEW_README~
+0x38A8F152 Welkom bij ~string~~WELCOME_SPORE_TITLE~
+0x42A0F6F9 Er is een fout opgetreden bij het lezen van het oude bestand.~PATCH_ERROR_READING_FILE~
+0x3BCC85D2 Onvoldoende schijfruimte - %d vrije bytes nodig om de patch toe te passen.~PATCH_ERROR_DISKSPACE~
+0x394403EB Kan geen reservekopie van het log-bestand aanmaken.~PATCH_ERROR_BACKUP_LOG~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x6754C223 Nieuw bestand bestaat al.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x39040F38 Leesmij~README~
+0x6AEE038F Er bestaat geen update directory.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x40CFBF3E Kan patchbestand niet openen.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x657F7D49 Kan patchbestand niet vinden.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x09FAE7DA Patchbestand is ongeldig.~PATCH_ERROR_INVALID~
+0x0890C566 Fout in het bijwerken van de MSI-database.~PATCH_ERROR_MSI~
+0x08F68C4F De gespecificeerde optie is niet toegestaan.~PATCH_ERROR_ILLEGAL~
+0x61ABCBCD Er is een fout opgetreden bij het schrijven naar het nieuwe bestand.~PATCH_ERROR_WRITING_FILE~
+0x45DB3D71 Kan de reservekopie van het bronbestand niet openen.~PATCH_ERROR_BACKUP_SOURCE~
+0x0AC7C17D Registry/INI entry ontbreekt of is ongeldig.~PATCH_ERROR_REGISTRY~
+0x2F6DAE9F Patchbestand gemaakt voor het verkeerde platform.~PATCH_ERROR_PLATFORM~
+0x3162CD81 Patchfout~PATCH_ERROR_TITLE~
+0x3C17044B Laden van patchw32.dll afgebroken door gebruiker of fout bij het laden van patchw32.dll.~PATCH_ERROR_IS_ABORT~
+0x3269ED31 Kan foutmeldingsbestand niet openen.~PATCH_ERROR_ERROR~
+0x303D349E Bestand: ~string~~br~Fout: ~string~~COMP_ERROR_MSG~
+0x07B43E64 De InstallShield Wizard heeft %P geüpdatet naar versie %VS.~UPDATE_COMPLETE~
+0x3017EF99 Wil je alle door ~string~ gegenereerde gebruikersgegevens wissen?~REMOVE_USERDATA~
+0x16741C9F Start ~string~ na de installatie~LAUNCH_SPORE~
+0x5760C2F0 Patchbestand is ongeldig.~PATCH_ERROR_VERIFY_FAILED~
+0x02699E57 Installatietype~SETUP_TYPE_TITLE~
+0x166E669A Kan niet installeren in ~string~~br~Selecteer een andere map.~DANGEROUS_DIRECTORY_ERROR~
+0x15C024FC Update directory is geen geldige directory-naam.~PATCH_ERROR_DIRECTORY_INVALID~
+0x15CC67E6 ~string~ wordt geïnstalleerd in~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x27D33671 Je bestandspad is te lang. Kies een korter bestandspad.~DIR_TOO_LONG~
+0x568D9702 Geen van de parameters in de opdrachtregel is een bestaande directory.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x16FBAEAF Je bent nu klaar om  ~string~ te spelen ~READY_TO_PLAY~
+0x767EF241 Kan de reservekopie van het doelbestand niet openen.~PATCH_ERROR_BACKUP_DESTINATION~
+0x03BCF887 Maak een keuze uit de onderstaande opties.~SELECT_OPTIONS~
+0x28A00C2C Er kan slechts één bestand en één directory worden vermeld in de opdrachtregel.~PATCH_ERROR_COMMAND_LINE~
+0x144073D1 ~string~ wordt geïnstalleerd in de door jou opgegeven map.~CUSTOM_SPORE_SETUP~
+0x0F5F623F Kan geen positie vinden in een bestand.~PATCH_ERROR_SEEKING~
+0x72B5864F Oud bestand niet gevonden. Er is wel een bestand met dezelfde naam gevonden. Geen update uitgevoerd aangezien de inhoud ervan anders is.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x0F1854E4 Kan het serialisatiebestand niet lezen.~PATCH_ERROR_READING_SERIALIZATION~
+0x0F48320C Kan isrtp.dll niet laden. ~PATCH_ERROR_IS_LOAD~
+0x01FCAF57 Mijn Spore-creaties~SAVE_FOLDER~
+0x74CA8AD7 Kan bestand geen andere naam geven.~PATCH_ERROR_RENAMING~
+0x59450AC4 Installatie-type~br~Selecteer een installatie-type~SETUP_TYPE_MESSAGE~
+0x1498EC13 We zijn klaar om de installatie te starten!~READY_TO_INSTALL~
+0x2A8D9AF3 EA hulp~EA_HELP~
+0x2A2F9BCC Kan geen tijdelijk bestand aanmaken.~PATCH_ERROR_TEMPORARY~
+0x4A43CA10 Kan oud bestand niet openen.~PATCH_ERROR_OLD_FILE~
+0x20176E40 Kan geen reservekopie van het bestand schrijven.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x1F726BCA Speel~PLAY_SPORE~
+0x4C7A3E93 MSI-ondersteuning alleen beschikbaar in 32-bits Windows-patching.~PATCH_ERROR_MSI_32BIT~
+0x1D6F9667 Nieuwere versie van patchprogramma vereist.~PATCH_ERROR_INCOMPATIBLE~
+0x7E8BB5FD De installatie is voltooid~INSTALLATION_COMPLETE~
+0x06220BA5 Klik op 'Volgende' om ~string~ op je computer te installeren.~WELCOME_SPORE_MESSAGE~
+0x7EC3C6FA Kan geen reservekopie van de directory aanmaken.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x208AB121 Er is een fout opgetreden bij de poging om de patch toe te passen.(%d)~PATCH_ERROR_GENERAL~
+0x4950A450 Spore™ Creature Creator Demo Versie~SCC_TRIAL_NAME~
+0x494AA82F De wizard werd onderbroken voor ~string~ volledig gepatcht kon worden.~br~~br~Als je dit programma op een later tijdstip volledig wilt patchen, start dan de patch opnieuw.~UNINSTALL_INCOMP~
+0x54F8A844 Onvoldoende geheugen.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x23584337 Registry/INI patching niet ondersteund onder DOS.~PATCH_ERROR_DOS~
+0x19843E71 Kan geen nieuw bestand openen.~PATCH_ERROR_NEW_FILE~
+0x23FD0D11 Spore™ Creature Creator~SCC_NAME~
+0x25A6ABC6 Kan bestand niet openen wegens overloop-informatie.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55BA6A48 Kan de overlooptabel niet lezen.~PATCH_ERROR_OVERFLOW_READ~
+0x3D73B13D Kan geen gespecificeerde patch vinden in het patchbestand.~PATCH_ERROR_NOT_FOUND~
+0x1ADB7500 Kan het serialisatiebestand niet openen.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x4C87F179 Het bestand is al gepatcht.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF Beëindigd door middel van aangepaste actie.~PATCH_ERROR_CUSTOM_ACTION~
+0x227BB46B Geen geldig wachtwoord ingevoerd. Patch kan niet worden toegepast.~PATCH_ERROR_PASSWORD~
+0x783C20B6 De InstallShield Wizard zal de geïnstaleerde versie (%VI) van %P updaten naar versie %VS. Klik op Volgende om door te gaan.~UPDATE_TO_NEW_VERSION~
+0x5C043E34 Bezig met het patchen van bestanden …~APPLY_PATCH~
+0x71211E4D patchw32.dll is bezig.~PATCH_ERROR_BUSY~
+0x353F37C7 Je moet ~string~ deïnstalleren om verder te gaan. Wil je verdergaan?~SPORE_REMOVE_CSA_WARNING~
+0x6CD070E6 Niet alle informatie benodigd voor de deïnstallatie is gevonden. Er is wellicht een fout opgetreden tijdens de set-up. Sommige bestanden en mappen moeten wellicht handmatig worden verwijderd.~MISSING_UNINSTALL~
+0x7B152168 Klik op 'installeren' om de installatie te starten.~br~~br~Als je je installatie-instellingen wilt herzien of veranderen, klik dan op 'terug', of klik op 'annuleren' om af te sluiten.~BEGIN_INSTALLATION~
+0x1E337A76 Klik op 'installeren' om de installatie te starten.~br~~br~Als je je installatie-instellingen wilt herzien of veranderen, klik dan op 'terug'. Klik op 'annuleren' om de wizard af te sluiten.~br~~br~Je kunt ~string~ niet deïnstalleren voor ~string~ is gedeïnstalleerd.~DLG_SDSTARTCOPY2_MSG~
+0x374F68D8 Wacht tot de installatie probeert om ~string~ te deautoriseren.~WAIT_DEAUTHORIZE~
+0x51909529 Dit apparaat deautoriseren~DEAUTHORIZE~
+0x3B9C8CD2 Voor je ~string~ de-installeert, moet je alle uitbreidingspakketten de-installeren. ~UNINSTALL_EXPANSIONS_FIRST~
+0x711D4A01 Je moet Spore™ of Spore™ Creature Creator hebben geïnstalleerd om ~string~ te installeren.~CSA_TRIAL_UNSUPPORTED~
+0x5EC7AFC0 Er draait al een exemplaar van Spore™ Creature Creator. Sluit Spore™ Creature Creator af voor je verder gaat.~GAME_RUNNING_CSA~
+0x319AD21D Spore™ Ruimteavonturen~PRODUCT_NAME~
+0x01725188 Het patchen van Spore™ Creature Creator is niet voltooid. Probeer Spore™ Creature Creator later nog eens te patchen.~PATCH_FAILED_CSA~
+0x3C8EC28C Deïnstalleer eerst Spore™ Creature Creator voordat je ~string~ deïnstalleert.~UNINSTALL_CSA_FIRST~
+0x07F727E1 Spore™~GAME_TITLE~
+0x0018FC1D De Spore™ Installer zal eerst je exemplaar van Spore™ Creature Creator updaten naar de meest recente versie en zal dan verder gaan met het installeren van ~string~.~UPDATE_CSA~
+0x292EDCB9 Spore™ Creature Creator~CSA_TITLE~
+0x64663ACA Het patchen van Spore™ is niet voltooid. Probeer Spore™ later opnieuw te patchen of neem voor meer informatie contact op met de helpdesk.~PATCH_FAILED~
+0x367E6B82 Er draait al een exemplaar van SPORE™. Sluit SPORE™ af voor je verder gaat.~GAME_RUNNING~
+0x3C7BB1E1 De SPORE™ Installer zal eerst je exemplaar van SPORE™ updaten naar de meest recente versie en vervolgens doorgaan met het installeren van ~string~.~UPDATE_SPORE~
+0x7734F859 SPORE™ moet geïnstalleerd zijn alvorens ~string~ geïnstalleerd kan worden.~SPORE_NOT_INSTALLED~
+0x5E418C32 Deïnstalleer eerst SPORE™ voordat je ~string~ deïnstalleert.~UNINSTALL_SPORE_FIRST~
+0x151DEC2F SPORE™ werkt niet naar behoren zonder DirectX.~DIRECTX_WARNING~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x51EA40D5 Als je offline bent en je gaat verder met verwijderen, zal deze machine niet gedeauthoriseerd worden. Wil je verder gaan?~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\LeesMij.txt~ADD_REMOVE_PROGRAMS_README~
+0x0AA43B92 Aanbevolen~RECOMMENDED~
+0x0A77D8D6 Spore™ Ruimteavonturen~SPORE_EP1_NAME~
+0x7426EAA1 Snelkoppeling op het bureaublad~DESKTOP_SHORTCUT~
+0x4DE32707 Sluit ~string~ af voor je verdergaat.~GAME_RUNNING_STRING~
+0x7D4A4E2F Aangepast~CUSTOM~
+0x3D927FE5 SOFTWARE EINDGEBRUIKER LICENTIEOVEREENKOMST~SOFTWARE_LICENSE~
+0x40922E1B Het installatieprogramma van ~string~ heeft ~string~ geüpdatet naar versie ~string~.~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D Je moet ~string~ geïnstalleerd hebben om ~string~ te patchen.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 Het installatieprogramma van ~string~ zal nu je kopie van ~string~ updaten naar de laatste versie.~UPDATE_PRODUCT~
+0x7D34F09B Het installatieprogramma van ~string~ probeert de geïnstalleerde versie (~string~) van ~string~ te updaten naar versie ~string~.~UPDATING_TO_NEW_VERSION~
+0x3D80E796 Je ~string~ is up-to-date. Patchen is niet nodig.~PATCH_NOT_REQUIRED~
+

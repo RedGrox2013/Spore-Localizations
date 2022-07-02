@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E Tee poikasia
+0x0524D329 Paikanna kumppanisi
+0x0509FC4F Paikallista kumppanisi kutsuhuudon avulla. Kun napsautat kumppania, otuseditori avautuu!
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 Napsauta <hinticon> opetellaksesi rynnäköimään
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0514F993 Lajisi on muuttanut toiseen pesään. Käytä kutsuhuutoasi ja seuraa jälkiä lajikumppaneidesi luokse!
+0x0546ABA4 Kokoa heimo!
+0x0524D32C Muuta uuteen pesään.
+0x0514F98E Muuta
+0x0546AB9E Kehitä lajiasi napsauttamalla kehityspainiketta. Näin pääset kokoamaan heimoa ja aloittamaan sivistyneen elämän.
+0x0546AB9A Kehity
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 Lauma
+
+# Find_NPC Goal Card
+
+0x0509FB93 Etsi toisen lajin edustaja ja napsauta sitä!
+0x0509FB92 Otukset
+0x0524D328 Etsi toisen lajin edustaja.
+
+# crg-lowhealth.prop
+
+0x91A0449F Olet loukkaantunut! Palaa pesään hoitamaan haavojasi
+
+# Combat text messages
+
+0xD39A5768 Ominaisuus ei ole vielä käytettävissä
+0x739A4E05 Olet liian lähellä
+0x3538B712 Voit käyttää ominaisuutta vain esiintyessäsi
+0xF538B6FD Voit käyttää ominaisuutta vain taistelussa.
+0x06778BAC Olet jo tehnyt vaikutuksen tähän otukseen
+
+# Combat Card - Mini Boss
+
+0x064D4053 Metsästä ~target_species_crg~
+0x064D4056 Tämä ainutlaatuinen otus on suurempi ja voimakkaampi kuin monet muut lajit.
+0x064D4054 Metsästäminen
+0x067394F7 Tämä ainutlaatuinen otus on suurempi ja voimakkaampi kuin monet muut lajit.
+0x064D4055 Saalista ~target_species_crg~ otusta, niin saat suuren DNA-bonuksen.
+
+# Eating_Herbivore Goal Card
+
+0x0509F9DC Kasvinsyöjän pitää syödä hedelmiä selvitäkseen. Etsi hedelmä puusta tai pensaasta ja syö se napsauttamalla sitä.
+0x0524D325 Olet kasvinsyöjä. Syö hedelmä.
+0x0509F9DB Syö
+
+# crg-verbcharge.prop
+
+0x6859AEDE Ominaisuus ei ole valmis käytettäväksi
+
+# crg-spitclose.prop
+
+0x30A611E9 Olet liian lähellä
+
+# Social Card - Mini Boss
+
+0x064D4045 Tee vaikutus
+0x064D4044 Tee vaikutus otukseen ~target_species_crg~
+0x064D4047 Tämä ainutlaatuinen otus on suurempi ja voimakkaampi kuin monet muut lajit.
+0x064D4046 Tee vaikutus otukseen ~target_species_crg~, niin saat siitä voimakkaan liittolaisen.
+0x064D4048 Tämä ainutlaatuinen otus on suurempi ja voimakkaampi kuin monet muut lajit.
+
+# Find Unlocks Card
+
+0x54D958AC Metsästä alfaotuksia tai ystävysty niiden kanssa, niin saat käyttöösi uusia osia. Osia löytyy myös luurangoista.
+0x54D958AB Kerää
+0x54D958AD Kehity etsimällä uusia osia.
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 Kotipesä
+0x0658F2D1 Uusi pesä
+0x0658F2D3 Tuntematon laji
+0x0658F2D2 Vanha pesä
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 Kerää
+0xF4DAF5CB Avaa solun osat
+0xF4DAF5CA Metsästä soluja tai riko meteoriitin palat, niin saat uusia osia.
+
+# Build Artifact
+
+0x064D4064 Löysit esineen, joka lisää lajisi otusten ylle salaperäisen auran. Kerää ne kaikki, niin saat palkinnon!
+0x064D4063 Löysit esineen, joka lisää lajisi otusten ylle salaperäisen auran. Kerää ne kaikki, niin saat palkinnon!
+0x064D4060 Kokoa muinaisjäänne!
+0x064D4062 Kerää kaikki mystisen esineen palat.
+0x064D4061 Kokoa muinaisjäänne!
+
+# Claim Nest
+
+0xD538B78F Haluatko tehdä tästä pesästä kotisi? Jos kuolet, palaat peliin täältä.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 Napsauta <hinticon> opetellaksesi hurmaamaan
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC Napsauta <hinticon> opetellaksesi sylkemään
+
+# Combat - Extinct
+
+0x064D4059 ~target_species_crg~ kuoli sukupuuttoon!
+0x064D405A ~target_species_crg~ kuoli sukupuuttoon!
+0x064D405B ~target_species_crg~ kuoli sukupuuttoon!
+0x064D4057 Metsästä ~target_species_crg~
+0x064D4058 Metsästäminen
+
+# Eating_Carnivore Goal Card
+
+0x0524D324 Olet lihansyöjä. Metsästä saaliseläimiä.
+0x0509F9DA Lihansyöjät selviävät syömällä lihaa. Metsästä saaliseläimiä tai etsi raato ja syö se napsauttamalla sitä.
+0x0509F9D9 Syö
+
+# Add_Posse Goal Card
+
+0x0509FC96 Lauman jäsenet
+0x0524D32A Lisää jäsen laumaan.
+0x0509FC97 Jos haluat laumaasi lisää jäseniä, tee vaikutus johonkuhun oman lajisi edustajista tai liittolaislajin edustajista.
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 Napsauta <hinticon> opetellaksesi iskemään
+
+# First time socializing
+
+0xF4211909 Tee otukseen vaikutus matkimalla sen liikkeitä
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB Napsauta <hinticon> opetellaksesi laulamaan
+
+# Find Unlocks Card - First Part
+
+0x06035A51 Kerää osa
+0x06035A53 Kehity etsimällä uusi osa.
+0x06035A52 Metsästä tai ystävysty alfaotusten kanssa, niin saat käyttöösi uusia osia. Osia löytyy myös luurangoista.
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 Napsauta <hinticon> opetellaksesi tanssimaan
+
+# Social Card - Hostile Species
+
+0x064D403A Tee vaikutus otukseen ~target_species_crg~
+0x064D403C Et voi tehdä vaikutusta otukseen ~target_species_crg~!
+0x064D403B Tee vaikutus
+0x064D403D Jotkin lajit ovat oman lajisi luontaisia vihollisia – tai sitten olet vain suututtanut ne pysyvästi. Ole siis varovainen!
+0x064D403E Jotkin lajit ovat oman lajisi luontaisia vihollisia – tai sitten olet vain suututtanut ne pysyvästi. Ole siis varovainen!
+
+# Hints
+
+0x142CD4F2 Muista, että lihansyöjien tulisi syödä vain lihaa ja kasvinsyöjien vain hedelmiä!
+0x057736C3 Luo heimo napsauttamalla <hinticon>
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 Tee vaikutus
+0x064D4035 Tee vaikutus otukseen ~target_species_crg~
+0x064D4037 Tee vaikutus lajin ~target_species_crg~ otuksiin. Jos ~mission_remaining_crg~ niistä pitää esityksestäsi, voit liittoutua lajin kanssa.
+0x064D4038 Kun olet liittoutunut lajin kanssa, voit parantaa haavojasi niiden pesissä.
+0x064D4039 Kun olet liittoutunut lajin kanssa, voit parantaa haavojasi niiden pesissä.
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 Voit seurustella otuksen kanssa napsauttamalla sitä
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 Tee vaikutus otukseen ~target_species_crg~
+0x064D4031 Tee vaikutus
+0x064D4034 Kun liittoudut lajin kanssa, voit parantaa vammojasi lajin pesissä. Hieman myöhemmin voit liittää lajin edustajat laumaasi.
+0x064D4032 Tee vaikutus lajin ~target_species_crg~ otuksiin. Jos ~mission_remaining_crg~ niistä pitää esityksestäsi, voit liittoutua lajin kanssa.
+0x064D4033 Kun liittoudut lajin kanssa, voit parantaa vammojasi lajin pesissä. Hieman myöhemmin voit liittää lajin edustajat laumaasi.
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 Napsauta <hinticon> opetellaksesi puremaan
+
+# Reward text for all cards
+
+0x050A34CA Palkkio: ~reward_evo_crg~ DNA-pistettä
+
+# Save Baby
+
+0x064D405F ~target_species_crg~ on napannut poikasen lajiltasi!
+0x064D405E Voit pelastaa poikasen johdattamalla sen turvallisesti pesääsi.
+0x064D405D Pelasta poikanen!
+0x064D405C Pelasta poikanen!
+0x06739532 ~target_species_crg~ on napannut poikasen lajiltasi!
+
+# Combat Card
+
+0x064D404E Metsästä ~target_species_crg~
+0x064D4050 Saalista ~mission_remaining_crg~ lajin ~target_species_crg~ otusta
+0x064D404F Metsästäminen
+0x064D4051 Metsästä tätä lajia, niin ennen pitkää tuhoat sen sukupuuttoon.
+0x064D4052 Metsästä lajin ~target_species_crg~ jäseniä, kunnes koko laji on hävinnyt sukupuuttoon.
+
+# crg-notarget.prop
+
+0x79E8F4C5 Ei kohdetta
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE Kaikkiruokaisilla otuksilla on monipuolinen ruokavalio. Etsi raato tai hedelmä ja syö se napsauttamalla sitä.
+0x0524D326 Olet kaikkiruokainen. Syö hedelmiä tai lihaa.
+0x0509F9DD Syö
+
+# Species creator
+
+0xB3DAED77 Tekijänä ~creator~
+0x73DB4258 Tekijänä Spore-tiimi
+
+# crg-useabilityposture.prop
+
+0x8693A0FC Napsauta <hinticon> opetellaksesi poseeraamaan
+
+# con
+
+0xB32FE522 Lajin ~local_creature_name~ poikanen
+0x94ACB6F7 Kaappari ~local_creature_name~
+0x0595B72B Jätti ~local_creature_name~
+0x0564E650 Lemmikki ~local_creature_name~
+0xF32FE51B Lajin ~local_creature_name~ alfaotus
+
+# crg-locatemate.prop
+
+0x200AFD34 Paikanna kumppanisi napsauttamalla <hinticon>
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D Voit parantaa vammojasi heidän pesässään!
+0x064D404C Voit parantaa vammojasi heidän pesässään!
+0x064D404B Lajin ~target_species_crg~ otukset ovat liittolaisiasi!
+0x064D404A Tee vaikutus
+0x064D4049 Tee vaikutus otukseen ~target_species_crg~
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4042 Voit parantaa haavojasi lajin pesissä tai liittää heidät laumaasi!
+0x064D4041 Lajin ~target_species_crg~ otukset ovat liittolaisiasi!
+0x064D4043 Voit parantaa haavojasi lajin pesissä tai liittää heidät laumaasi!
+0x064D4040 Tee vaikutus
+0x064D403F Tee vaikutus otukseen ~target_species_crg~
+

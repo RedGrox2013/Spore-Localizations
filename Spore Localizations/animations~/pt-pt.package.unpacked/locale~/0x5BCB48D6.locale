@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 A batalha de ~mission_target_planet~ foi ganha. Regresse ao planeta ~mission_source_planet~ no sistema ~mission_source_star~.
+0x00000099 Sucesso! Regresse ao sistema estelar ~mission_source_star~.
+0x000000B2 Regresse ao planeta ~mission_source_planet~.
+0x00000093 Destino: sistema ~mission_source_star~.
+0x00000097 Em Progresso
+0x00000081 Temos de continuar a combater os Grox sem si. Não podemos deixar este sector cair!
+0x00000094 Os Grox foram localizados no sistema estelar ~mission_target_star~. Não os deixe infestar ~mission_target_planet~.
+0x00000071 De que lado está? Se os Grox infestarem ~mission_target_planet~, o resto deste sector cairá rapidamente.
+0x00000092 Os Grox foram localizados no sistema estelar ~mission_target_star~. Não deixe que a infestação deles se espalhe!
+0x00000041 Boa luta, ~ep1_captain_full_name~! Tem o instinto de Guerreiro, sem dúvida.~p~Os Grox não terão hipótese enquanto estiver por aí.~p~Aqui estão ~mission_rewards~ Sporecoroas. Deve ser mais do que o suficiente para cobrir o custo das suas munições.
+0x000000B1 Combata um exército infestado no planeta ~mission_target_planet~.
+0x0000004E Vamos, soldado! As coordenadas planetárias já foram enviadas para o seu registo de missão!
+0x00000000 Alerta vermelho! Foi avistada uma nave tele-comandada Grox ~mission_target_planet~!  Parece que estão a tentar converter o planeta. Precisamos de soldados lá em baixo, e é já!~p~~ep1_captain_full_name~, alinha?
+0x00000064 Quando uma nave de Infestação Grox aterrar, tem de aniquilá-la rapidamente. Se ela ganhar raízes, a única maneira de a remover é com um Rebenta Planetas.~p~Infelizmente, isso também elimina o planeta.
+0x00000098 Concluído
+

@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882FB สปอร์เซี่ยน
+0x045882EA สปอร์แทสติก
+
+#Default Creation name
+
+0x04D93065 วัตถุไม่ระบุชื่อ
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC ตอนนี้ ตัวแก้ไขการควบคุมตั้งค่าเป็นเลือกบล็อคทั้งหมด
+0x0450C9DE หลอดดูดสีตั้งค่าไว้เป็นคัดลอกทั้งสีและพื้นผิววัตถุ
+0x0450C9DD ตอนนี้ ตัวแก้ไขการควบคุมตั้งค่าเป็นเลือกเฉพาะบล็อคที่เหมือนกัน
+0x0450C9E0 หลอดดูดสีตั้งค่าไว้เป็นคัดลอกเฉพาะพื้นผิววัตถุ
+0x0450C9DF หลอดดูดสีตั้งค่าไว้เป็นคัดลอกเฉพาะสี
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x047E7E84 ~newmodelname~ ถูกโชว์สำเร็จแล้ว!
+0x047E7E83 คุณแน่ใจว่าต้องการโชว์ "~newmodelname~" ไปยังเว็บไซต์ Spore.com หรือไม่?~br~ผลงานถูกโชว์ในชื่อของ ~username~
+0x061349C1 ~newmodelname~" ถูกโชว์ไม่สำเร็จ
+0x047E7E85 ~newmodelname~ ถูกโชว์ไว้แล้ว
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D คุณแน่ใจว่าต้องการออกจากโปรแกรมกำเนิด Spore หรือไม่?
+
+#paint mode paint buddy
+
+0x05BD6E0D [[[[[NOT IN USE]]]]]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD ผลงานนี้ไม่ถูกต้อง
+0x053740AE [[[[[NOT IN USE]]]]]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x0563D473 ~modelname~ ถูกโชว์ไม่สำเร็จ
+0x04592638 <คลิกที่นี่เพื่อล็อกอิน>
+0x045921AD ~modelname~ ถูกโชว์สำเร็จแล้ว!
+0x045700B6 คุณแน่ใจว่าต้องการโชว์ "~modelname~" ไปยังเว็บไซต์ Spore.com หรือไม่?~br~ผลง่านจะถูกโชว์ในชื่อของ ~username~
+
+#paint mode color chicklets
+
+0x05BF125F คลิกค้างไว้เพื่อเปิดถาดตัวเลือกเฉดสี
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1B1 [[[[[NOT IN USE]]]]]
+0x0535B1AD -----------
+0x0535B1B0 [[[[[NOT IN USE]]]]]
+0x0535B1AE [[[[[NOT IN USE]]]]]
+0x0535B1AF [[[[[NOT IN USE]]]]]
+0x0535B1B2 [[[[[NOT IN USE]]]]]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA019 SCC~p~aint Complete
+0xB4CEA017 SCC~p~aint~p~artner 1
+0xB4CEA016 SCC~p~aint Registration
+0xB4CEA018 SCC~p~aint~p~artner 2
+0xB4CEA015 SCC~p~aint Trial
+0xB4CEA010 SCC~p~arts Trial
+0xB4CEA011 SCC~p~arts Registration
+0xB4CEA013 SCC~p~arts~p~artner 2
+0xB4CEA014 SCC~p~arts Complete
+0xB4CEA012 SCC~p~arts~p~artner 1
+0x9F3415A4 ใจกลางสปอร์
+
+### this text goes in CSA###
+
+0x00000001 ค่าคัดลอก
+0x00000008 [[[[[NOT IN USE]]]]]
+0x00000003 ลวดลายเฉพาะส่วน
+0x00000005 [[[[[NOT IN USE]]]]]
+0x00000007 ได้คืน
+0x0000010B ล็อค
+0x0000010A คุณไม่มีที่ว่างสำหรับติดตั้งป้อมปืนแล้ว
+0x0000010C ถึงขีดจำกัดโดยรวมของพาหนะแล้ว
+0x00000109 มีที่ว่าการเมืองได้ 1 แห่งต่อเมือง
+0x00000002 ได้คืน
+0x0000010D สร้าง ปรับแต่ง หรือเลือกยานอวกาศ
+0x0000020D (ยังไม่ถูกใช้งาน)
+0x00000104 มีพาหนะชนิดนี้มากเกินไป
+0x00000105 คุณมีเครื่องมือนี้แล้ว
+0x00000201 [[[[[NOT IN USE]]]]]
+0x00000103 ไม่มีที่ว่างสำหรับสิ่งปลูกสร้าง
+0x00000102 มีชิ้นส่วนอวัยวะมากเกินไป
+0x00000106 อาณานิคมต่างก็ต้องซื้อพาหนะของตัวเอง
+0x00000208 [[[[[NOT IN USE]]]]]
+0x00000207 [[[[[NOT IN USE]]]]]
+0x00000206 [[[[[NOT IN USE]]]]]
+0x0000020C (ไม่ได้ใช้งาน) มีการซื้อพาหนะทุกประเภทเต็มจำนวนที่สามารถซื้อได้แล้ว
+0x0000020A [[[[[NOT IN USE]]]]]
+0x00000209 [[[[[NOT IN USE]]]]]
+0x00000108 ระดับความเหมาะสมต่อการดำรงชีวิตต่ำเกินไป
+0x00000202 [[[[[NOT IN USE]]]]]
+0x00000107 ได้รับเครื่องมือนี้จากเผ่าอื่น
+0x00000205 [[[[[NOT IN USE]]]]]
+0x00000204 [[[[[NOT IN USE]]]]]
+0x00000203 [[[[[NOT IN USE]]]]]
+0x00000101 แพงเกินไป
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 โปรแกรมกำเนิด
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B ชิ้นส่วนนี้จะใช้ได้เมื่อซื้อเกม Spore
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x063AB852 วัตถุชิ้นนี้เป็นภาพแทนเกมเกมหนึ่งของคุณ คุณต้องลบเกมนั้นก่อนที่จะจึงจะสามารถลบวัตถุได้
+0x0450D286 คุณแน่ใจว่าต้องการลบวัตถุนี้ออกจากเกมอย่างถาวรหรือไม่? เกมจะถูกบันทึกและรีสตาร์ทก่อนจึงจะลบวัตถุนี้
+0x0450D285 คุณต้องการลบวัตถุนี้ออกจากเกมอย่างถาวรหรือไม่?
+0x0450D284 คุณต้องการลบการใช้วัตถุนี้ออกจากบันทึกเกมทั้งหมดของคุณหรือไม่?
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 ผลงานนี้มีชิ้นส่วน Spore ที่ยังไม่ได้รับการติดตั้ง
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C บันทึก~newmodelname~แล้ว ตรวจดู~newmodelname~ ได้ในส่วน "ผลงานของฉัน" ของ Sporepedia
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000029 ไม่สามารถบันทึกผลงานที่คุณสร้างอยู่นี้ได้ เนื่องจาก: ~br~~br~~generic0~~br~~br~ต้องการสร้างผลงานชิ้นใหม่และยอมสูญเสียสิ่งที่แก้ไขไปหรือไม่?
+0x1000003A คุณต้องการบันทึก "~newmodelname~" เป็นผลงานใหม่ หรือแทนที่ "~oldmodelname~" ก่อนออก?
+0x10000040 [[[[[NOT IN USE]]]]]
+0x1000002A คุณต้องการบันทึก "~newmodelname~" เป็นผลงานใหม่ หรือแทนที่ "~oldmodelname~" ก่อนสร้างผลงานใหม่?
+0x10000038 ต้องการบันทึก "~newmodelname~" ก่อนออกหรือไม่?
+0x10000039 ไม่สามารถบันทึกผลงานที่คุณสร้างอยู่นี้ได้ เนื่องจาก: ~br~~br~~generic0~~br~~br~ต้องการออกและยอมสูญเสียสิ่งที่แก้ไขไปหรือไม่?
+0x1000000B คุณต้องการบันทึก "~newmodelname~" เป็นผลงานใหม่หรือบันทึกแทนที่ "~oldmodelname~"?
+0x1000000A คุณต้องการบันทึก "~newmodelname~" เป็นผลงานใหม่หรือบันทึกแทนที่ "~oldmodelname~" ก่อนดำเนินการต่อ
+0x10000009 ไม่สามารถบันทึกผลงานปัจุบันนี้ได้ เนื่องจาก: ~br~~br~~generic0~~br~~br~ต้องการโหลดและยอมสูญเสียสิ่งที่แก้ไขไปหรือไม่?
+0x1000000D การออกจากเกมจะทำให้การเปลี่ยนแปลงที่คุณทำไว้หายไป คุณแน่ใจที่จะออกจากเกมหรือไม่?
+0x1000000C กำลังอยู่ในระหว่างการบันทึก “~newmodelname~” หากคุณออกตอนนี้จะทำให้ “~newmodelname~” สูญหายถาวร คุณแน่ใจว่าต้องการออกหรือไม่?
+0x1000001A คุณต้องการบันทึก "~newmodelname~" เป็นผลงานชิ้นใหม่หรือแทนที่ "~oldmodelname~" ก่อนทำการโหลด?
+0x10000028 ต้องการบันทึกการเปลี่ยนแปลงของ "~newmodelname~" ก่อนสร้างผลงานชิ้นใหม่หรือไม่?
+0x10000018 บันทึกการเปลี่ยนแปลงของ “~newmodelname~” ก่อนโหลดหรือไม่?
+0x10000019 ไม่สามารถบันทึกผลงานปัจุบันนี้ได้ เนื่องจาก: ~br~~br~~generic0~~br~~br~ต้องการโหลดและยอมสูญเสียสิ่งที่แก้ไขไปหรือไม่?
+0x10000008 ต้องการบันทึกการเปลี่ยนแปลงของ "~newmodelname~" ก่อนดำเนินการต่อหรือไม่?
+

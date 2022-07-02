@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Maya-tiedostot on tallennettu kansioon ~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Ei
+0x05496B24 Kirjaudutaan YouTubeen...
+0x055AA305 Siirretään videota YouTubeen...
+0x056691B0 Tarkistetaan YouTube-rekisteröintiä...
+0x056D0627 Siirto onnistui. Lähetä videon osoite ystävällesi!
+0x05B5AC4C YouTuben käyttöehdot
+0x05496510 YouTubeen kirjautuminen epäonnistui.~br~~br~Voit jatkaa siirtoa vain, jos sinulla on jo voimassa oleva käyttäjänimi ja salasana tai jos rekisteröidyt nyt YouTubeen.
+0x0563C623 Voit käyttää toimintoa vain, jos olet rekisteröitynyt Spore-yhteisöön. Haluatko rekisteröityä?
+0x05498DCB Videosi on siirretty. ~br~Haluatko kertoa ystävillesi?
+0x0549366D Kyllä
+0x05600488 Voit käyttää toimintoa vain, jos olet kirjautunut Spore-yhteisöön. Haluatko kirjautua?
+0x054C1E63 Videosi on tallennettu kansioon ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Virhe siirrettäessä sisältöä YouTubeen.~br~~br~Tarkista Internet-yhteys tai yritä myöhemmin uudelleen.
+0x05498260 Virhe YouTubeen kirjauduttaessa.~br~~br~Tarkista Internet-yhteys tai yritä myöhemmin uudelleen.
+0x05B5FD1E Haluatko siirtää kohteen nyt?
+0x05D2C767 Siirto peruttiin.
+0x05D54AF7 Ehdotettu verkkosivu on englanninkielinen. Jos haluat tarkastella sivua omalla kielelläsi, valitse kotimaasi maavalikosta.
+0x05E501EB <youtubeicon>Siirrä
+
+# email
+
+0x04585F1F Sähköpostiosoitteesi on virheellinen.
+0x04585F49 Vastaanottajan sähköpostiosoite on virheellinen.
+0x045AD62F Oma sähköpostiosoite
+0x0583897C Lähetä kortti napsauttamalla
+0x05B5B8C4 Kerro ystäville videostasi
+0x045AD634 Ystävän sähköpostiosoite
+0x04588BEF Viesti lähetetty.
+0x045AD5B9 Lähetä sähköpostikortti!
+
+# capture GIF
+
+0x058B90F2 Animoitu hahmosi on tallennettu tiedostoon~br~~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x046286E7 Pyörähdä
+0x046286F4 Istu
+0x046286F8 Karjaise
+0x04628713 Kutsu
+0x04628717 Lyö
+0x04628719 Hihkaise!
+0x04628737 Pointti
+0x04628739 Kohdekävely
+0x0462873F Kuumat kintut
+0x04628745 Hoppipoppi
+0x04628749 Tamppaus
+0x0462874E Ratkinyrkki
+0x04628798 Iloinen
+0x0462879C Surullinen
+0x046287A0 Pelästynyt
+0x046287A3 Ihastunut
+0x046287DA Vauvat
+0x046287ED Tallenna
+0x0462932D Ohje
+0x0473F903 Kuvienhallinta
+0x0474E80D Poista kuva
+0x0474E80E Arkistoi kuva
+0x046287A6 Nauhoita video
+0x04628729 Pullistele
+0x04628733 Vokottele
+0x046287A2 Naurava
+0x046287A4 Kuvat
+0x046286F2 Heitä voltti
+0x04628726 Tervehdi
+0x04628722 Hurmaa
+0x04628724 Mahtaile
+0x04598E97 Lähetä sähköposti
+0x046287A5 Ota kuva
+0x046287D6 Toiminnot
+0x046287D8 Taustat
+0x046287A1 Kiukkuinen
+
+# move all
+
+0x04583A4E Arkistoi kaikki
+
+#continue
+
+0x0549656C Jatka
+
+# delete one done
+
+0x04583433 Kuva on poistettu.
+
+# delete all done
+
+0x0458334E Kuvat on poistettu.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D Kuvasi on arkistoitu kansioon: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Kuvasi on arkistoitu kansioon: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Kyllä
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD video
+
+# photobackuppath
+
+0x06305594 Dokumentit
+0x06305593 Omat Spore-luomukset/Kuvat/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Kirjautuminen epäonnistui
+0x05CBDEDA Siirto epäonnistui
+
+# your message
+
+0x045AD63A Viesti
+
+#drag and drop fail message
+
+0x05889A21 Koekävely
+0x05889A4C Et voi vetää ja pudottaa osia koekävelyn aikana. Siirry kokoamoon tai värittämöön.
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Kuvia on liian monta. Arkistoi osa kuvista.
+
+# photo actions
+
+0x045C2025 Mitä haluat tehdä kuvilla?
+0x045C206E Haluatko varmasti poistaa tämän kuvan?
+0x045C208A Haluatko varmasti poistaa kaikki kuvat?
+0x045C2094 Haluatko varmasti arkistoida tämän kuvan?
+0x045C2098 Haluatko varmasti arkistoida kaikki kuvat?
+0x04613ED0 Jos poistut nyt, kaikki keskeneräiset kuvatallennukset perutaan. Haluatko silti poistua?
+
+# delete all
+
+0x04583A36 Poista kaikki
+
+# cancel
+
+0x04583AFB Peruuta
+
+# Are you sure: No
+
+0x0458400E Ei
+
+# email message
+
+0x056BCDCA Tsekkaa video, jonka kuvasin Sporessa!~br~~video_url~
+0x056BCE10 Tsekkaa Sporessa luomani häkellyttävä otus!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~/~anim_page_count~
+
+#ok
+
+0x045C2917 OK

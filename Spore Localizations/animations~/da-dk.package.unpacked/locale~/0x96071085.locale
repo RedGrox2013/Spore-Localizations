@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Følgende kreationer, der er benyttet af dette eventyr, er slettet af serveren. Vil du gerne offentliggør dem igen, så eventyret kan spilles af andre?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Følgende kreationer, der benyttes i dette eventyr, er ikke offentliggjort endnu. Vil du offentliggøre dem, så eventyret kan spilles af andre?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Enkelte kreationer i dette eventyr blev bandlyst.~p~ Din score bliver ikke registreret.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Enkelte kreationer i dette eventyr blev slettet.~p~ Vil du downloade dem igen?
+
+# Editing adventures offline
+
+0x07AA5B67 Annullér
+0x07AA5B66 Erstat
+0x07AA5B65 Log på
+0x07AA5B64 Du skal logge på, før kreationer kan downloades til dette eventyr. Hvis du tilpasser dette eventyr, bliver kreationerne erstattet.
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Dette eventyr indeholder bandlyste kreationer og kreationer med dele, du ikke har.~p~Enkelte kreationer bliver udskiftet.
+
+# Editing adventures with banned assets
+
+0x0750187C Enkelte kreationer i dette eventyr blev bandlyst.~p~ Enkelte kreationer bliver erstattet.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Enkelte kreationer i dette eventyr blev bandlyst.~p~ Din score bliver ikke registreret.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 I gang med at downloade kreation
+0x00000004 Kunne ikke downloade kreation
+0x00000005 Du skal logge på for at downloade kreationer, der benyttes i dette eventyr.
+0x00000002 Downloader eventyrkreationer
+0x00000006 Kunne ikke udgive kreationer.
+0x00000003 Annullér
+0x00000008 Udgiver ...
+0x00000007 Udgivelsesfremskridt
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Kunne ikke downloade kreation. Vil du fortsætte?~p~Enkelte aktiver bliver erstattet og din score bliver ikke registreret.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Enkelte kreationer i dette eventyr indeholder dele, du ikke har.~p~Enkelte kreationer bliver udskiftet.
+

@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Näytöspaneelissa voit hallita tavoitteita ja tarinaa.
+0x079A7CE1 Näytöksen kuvaus
+0x079A7B8E Kirjoita tähän näytöksen esittely. Näytöksen alussa pelaajat näkevät ensimmäisenä kirjoittamasi kuvauksen.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Ilmakehä
+0x07639100 Määritä ilmakehän tiheys. Paksu pilvipeite aiheuttaa ukkosmyrskyjä, kun taas ohut ilmakehä johtaa helposti meteorisateisiin.
+
+# EP1-TerraThemes
+
+0x0771EF15 Valitse planeettasi teema.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Tavoitteiden lisääminen
+0x07BB8BDE Kussakin näytöksessä voi olla enintään kolme tavoitetta. Voit poistaa tavoitteen napsauttamalla tavoitteen vieressä olevaa roska-astiaa hiiren vasemmalla painikkeella ja käynnistämällä harjoituspelin uudelleen tarkistuslistalta.
+
+# EP1-WinLoseText
+
+0x07763B90 Onnistumis- ja häviöilmoitus
+0x0771E83A Kirjoita seikkailusi onnistumis- ja häviöilmoitukset.
+
+# EP1-ClickGoalButton
+
+0x0762251C Tavoitepaneeli
+0x0762251D Aseta kapteenillesi tavoitteita. Kussakin näytöksessä voi olla enintään kolme tavoitetta, jotka voi suorittaa missä tahansa järjestyksessä.~p~Näytöksissä tulee olla tavoitteita, jotta pelaajat voivat onnistua tai epäonnistua seikkailussaan.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Aseta tavoitteeksi otukselle puhuminen tai kohteen tutkiminen. Hahmoilla, kulkuneuvoilla ja esineillä voi olla yksi puhumis- tai tutkimistavoite kussakin näytöksessä.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Määritä vihollisen luonne aggressiiviseksi.
+0x07621DD8 Käyttäytymismallien avulla voit luoda kapteenillesi hänen arvoisensa vihollisen. Käyttäytymispaneelissa määritetään luonteenpiirteet, liikkeet, tarkkaavaisuus ja ryhmät.
+0x07621DD7 Käyttäytymismallit
+0x0797266C Kokeile muutoksiasi käytännössä siirtymällä testaamoon.
+0x077AD33C Määritä vihollisen tarkkaavaisuus mahdollisimman suureksi, jotta se varmasti näkee kapteenin.
+0x0779D3EF Luonteet
+0x0779B5E8 Vie kohdistin hahmovalikoiman ylle, niin käyttäytymispaneeli tulee esiin.
+0x0779B5E7 Käyttäytymispaneeli
+0x077AC9A2 Aseta tämä merkki hahmon kohdalle, niin se seuraa valittua kohdetta.
+0x077AC9A1 Seuraamismerkki
+0x077AC9D4 Vedä sitten seuraamismerkki planeetalla olevan kapteenisi ylle.
+0x077AD164 Tämä määrittää, miten kaukaa hahmo aistii muut ja reagoi näihin.
+0x077AD163 Havaintoalue
+0x0775CE3E Lisää hahmo.
+0x0779D3F0 Valitse hahmon luonne napsauttamalla sopivaa painiketta. Luonteet vaihtelevat rauhallisesta aggressiiviseen.
+0x0779DB5F Napsauttamalla tätä painiketta pääset valitsemaan hahmon kulkutavan. Vaihtoehtoja ovat esimerkiksi vaeltaminen, partiointi, seuraaminen ja paikallaan pysyminen.
+0x0779DB5E Liikkeet
+0x0779C5B4 Napsauta käyttäytymispaneelin painiketta hiiren vasemmalla painikkeella.
+0x078D7B6F Kun olet sijoittanut kapteenin, napsauta sankaripaneelia hiiren oikealla painikkeella, niin pelin kuvakulma keskitetään kapteeniin.
+0x0775CE3F Jos et ole vielä niin tehnyt, lisää nyt luomasi otus hahmovalikoimaan. Vedä otus hahmovalikoimasta planeetalle.
+0x07B4EC8D Voit kopioida hahmon planeetalle pitämällä ALT-näppäimen painettuna ja napsauttamalla hahmoa hiiren vasemmalla painikkeella. Vedä kopio sitten planeetalle.
+0x07C74109 Tekemäsi muutokset vaikuttavat kaikkiin näytöksiin. Jos haluat kytkeä yleisasetuksen pois päältä, napsauta sen painiketta hiiren vasemmalla painikkeella. Tällöin hahmoon jatkossa tehdyt muutokset kohdistuvat vain kulloinkin valittuun näytökseen.
+0x07D23C43 Hienoa. Teit nyt otuksesta luonteeltaan aggressiivisen.
+0x07C743A7 Yleinen käytösmalli
+0x07C742C5 Napsauta yleisasetusten painiketta uudelleen hiiren vasemmalla painikkeella, niin kaikki hahmon nykyistä näytöstä koskevat asetukset laajennetaan koskemaan kaikkia näytöksiä.
+0x0779DB81 Paina liikkumispainiketta ja valitse Seuraava.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Kasvivalikoima
+0x076390FE Valitse kasvivalikoima, jos haluat muuttaa planeettasi kasvistoa. Kasveja elää vain elävässä maastossa ja lämpötilaltaan suotuisissa ympäristöissä. Kasveja on kolmea kokoluokkaa: suuria, keskikokoisia ja pieniä.
+
+# EP1-TerraMood
+
+0x0771F108 Voit lukita ajan tai sallia sen normaalin kulumisen.
+0x0771F133 Ilmakehän säätimellä voit määrittää pilvien tiheyden. Alhainen tiheys johtaa toistuviin meteorisateisiin, kun taas suuri tiheys saa aikaan ukkosmyrskyjä.
+0x0796DD5B Ympäristövalikoima
+0x079732F0 Ilmakehä
+0x079732D9 Vuorokaudenaika
+0x07A0112B Lukitse aika
+0x07957E9C Planeetan lämpötila
+0x07957EAD Liukusäädintä siirtämällä voit määrittää planeetan lämpötilan.
+0x0796DE16 Ympäristövalikoimasta voit määrittää planeetalla vallitsevan kellonajan, lämpötilan, ilmakehän tiheyden ja planeetan vedenkorkeuden.
+0x0771EFA4 Käännä kellonajan säädin haluamaasi kohtaan.
+
+# Complexity Meter
+
+0x07957630 Monimutkaisuusmittarista näet, kuinka paljon planeettaa voi muuttaa.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Napsauta vapaan kuvakulman painiketta hiiren vasemmalla painikkeella, niin vapaa kuvakulma kytketään päälle tai pois.
+0x079709BB Vapaa kuvakulma
+
+### Checklist UI ###
+
+0x07735BDC Tarkistuslista ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Seikkailuissa voi olla myös kulkuneuvoja
+0x07621438 Kulkuneuvot ovat seikkailussa mukana siinä missä otuksetkin. Niillekin voi määrittää oman luonteen ja käyttäytymismallin.
+
+### Tutorial Checklist
+
+0x079C1550 Rakenna kylä
+0x079C1527 Maailman luominen
+0x079C1570 Luonteen lisääminen
+0x079C1523 Tallentaminen
+0x079C1531 Peruskomennot
+0x079C152C Tervetuloa
+0x0797355A Kuvakulman ohjaus
+0x07970BD9 Näytöspaneeli
+0x079712E5 Monen esineen tavoitteet
+0x07733143 Määritä kapteenille tavoite
+0x07733140 Sijoita kapteeni
+0x079692E4 Lisää ääniä
+0x07733141 Valitse seikkailusi hahmot
+0x07733144 Määritä hahmojen käyttäytymismallit
+0x0796B1E0 Määritä kulkuneuvon käyttäytymismalli
+0x07C7ABAA Esittely
+0x079C1586 Pelin luominen
+0x079C1565 Rakennuksen sijoittaminen
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kapteenin asustamo
+0x079E7D0F Energiamittari seuraa sitä, kuinka paljon energiaa jotkin ominaisuudet kuluttavat, ja kuinka paljon energiaa on varastoituna akkuihin ja generaattoreihin.~p~Jos energia loppuu kesken, et voi käyttää ominaisuuksiasi.~p~Jos esineellä on energiasäädin, voit säädintä siirtämällä määrittää esineen energiatason ja -kulutuksen.
+0x079E7D0E Energiamittari
+0x07A8F04B Tervetuloa kapteenin asustamoon.~p~Suorittamalla seikkailuja pikapelissä ja avaruuspelissä kapteenisi saa uusia lisävarusteita tuleviin seikkailuihin.~p~Lisävarusteet tulevat näkyviin kapteenin lisävarusteiden välilehdelle.
+
+# EP1- ShowActUI
+
+0x07635ED1 Näytöspaneeli
+0x07972881 Täältä voit määrittää kunkin näytöksen musiikin.
+0x07972865 Näytöksen musiikki
+0x07635ED2 Näytöspaneelissa voit nimetä ja kuvailla seikkailusi kutakin näytöstä.~p~Seikkailussa voi olla enintään kahdeksan näytöstä.~p~Tästä paneelista voit myös määrittää kunkin näytöksen musiikin.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Nappaa keppi esinevalikoimasta.
+0x0771EAE0 Annetaanpa kapteenille jotain tekemistä.
+0x0771EB72 Aseta toiselle näytökselle uusi tavoite vetämällä tavoite kepin luo.
+0x0771EB1C Aseta keppi maahan kapteenin lähelle.
+0x0771EC65 Aseta tavoitteeksi esineen antaminen.
+0x0771ECB5 Kirjoita tavoitekorttiin tavoitteen kuvaus.
+0x0771EC85 Aseta toinen antamismerkki planeetalla olevaan otukseen.
+0x0771ED0B Voit tallentaa työsi milloin vain napsauttamalla tallennuspainiketta hiiren vasemmalla painikkeella.
+0x078DB94B Napsauta sijoitettujen esineiden valikoimaa hiiren vasemmalla painikkeella.
+0x078DB6DF Sijoitetut esineet
+0x078DB94A Sijoitetut esineet
+0x078DB6E0 Napsauta mitä tahansa sijoitettua esinettä hiiren vasemmalla painikkeella ja vedä esine planeetalle.
+0x07763A67 Lisää näytös
+0x0771EAC0 Lisää toinen näytös napsauttamalla hiiren vasenta painiketta tässä. Huomaa, että nykyisessä näytöksessä täytyy olla tavoite, ennen kuin voit lisätä uuden näytöksen.
+0x07B4E966 Seikkailun tallentaminen
+
+# Checklist
+
+0x07A3CFA7 Voit kytkeä harjoituspelit päälle asetusvalikosta.
+0x07912CD1 Tarkistuslista
+0x07912D11 Napsauta tarkastuslistan kohtia hiiren vasemmalla painikkeella. Lista auttaa sinua luomaan seikkailun.~p~Kun pääset listalla pidemmälle, avautuvat harjoituspelit pelattavaksesi.~p~Avaa lista ja napsauta mitä tahansa kohtaa hiiren vasemmalla painikkeella.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 Pikkukartta on kätevä apuväline seikkailussa. Siitä näkyvät kapteenin sijainti, tavoitteet ja aloituspiste.
+0x0775F221 Pikkukartta
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Tervetuloa seikkailueditoriin
+0x0761D564 Luo seikkailu, joka innostaa SPORE™-pelaajia kaikkialla maailmassa. Kannattaa tutustua käytettävissä oleviin toimintoihin.~p~Suunnittele oma maailma, kansoita se kaikenlaisilla otuksilla, määritä seikkailun tavoitteet ja kerro muille SPORE™-pelaajille huimia tarinoita.
+
+# Hint
+
+0x0771DE1F Kirjoita tähän se, mitä haluat hahmon sanovan. Teksti tulee näkyviin seikkailussa.
+0x078D93DA Puheet
+0x0771D3CF Napsauta nimeä hiiren vasemmalla painikkeella, niin esiin tulee laatikko, johon voit kirjoittaa seikkailusi otsikon.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Valitse kapteenisi!
+0x07D087E0 Luo uusi kapteeni täysin puhtaalta pöydältä tai valitse mikä tahansa aiemmin luomistasi otuksista napsauttamalla lajittelutavaksi kaikki otukset. ~p~Kapteenisi kerää kokemusta (seikkailupisteitä) aina kun suoritat seikkailun. ~p~Kokeneet kapteenit saavat käyttöönsä uusia varusteita ja tarvikkeita.~p~Valitse siis seikkailuusi mieleinen kapteeni.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Pikkukartta
+0x079E8124 Pikkukartta on kätevä apuväline planeetalla kulkiessa.~p~Siitä näkyvät kapteenin sijainti, tavoitteet ja aloituspiste.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Kokeilepa nyt seikkailuasi uudelleen.
+0x07763C47 Testaamossa taas
+
+# EP1-Audio
+
+0x0796A67A Mikäli et ole vielä niin tehnyt, valitse Spore-keskuksesta haluamasi ääni ja vedä se planeetalle. Kuulet äänen, kun viet kohdistimen äänimerkin ylle.
+0x0796A679 Äänikohteet
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Sijoitettujen esineiden valikoima
+0x0762143E Sijoitettavia esineitä voi käyttää maamerkkeinä, joiden avulla pelaajien on helpompi suunnistaa. Valikoimaan kuuluvat myös työkalut ja esineet, joita voi poimia, liikuttaa, antaa lahjaksi tai kaataa.
+
+# EP1-PaintModeIntro
+
+0x076756BA Maankaltaistus
+0x076756BB Maankaltaistuksessa saat käyttöösi teemoja ja muita toimintoja, joilla voit muokata seikkailusi näyttämöstä mielesi mukaisen.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F1F1 Määritä valitsemasi planeetan äänet.
+0x0795826C Voit kallistaa kohdetta valitsemalla sen ja kääntämällä sitten kääntökiekkoa.
+0x0771F201 Jos haluat määrittää esineen äänet, vie kohdistin esineen kohdalle, pidä SHIFT-näppäin alhaalla ja pyöritä hiiren rullaa.
+0x07972C1C Voit muuttaa äänenvoimakkuutta valitsemalla esineen ja liikuttamalla sen säädintä.
+
+# Add a building
+
+0x079AC52F Lisää rakennuksia
+0x07C7361C Rakennusten muokkaaminen
+0x07C73644 Pidä SARKAIN alhaalla ja vie kohdistin rakennuksen kohdalle, niin esiin tulevat säätimet, joilla voit muuttaa rakennuksen sijoitus- ja kallistuskulmaa. Voit kopioida rakennuksen pitämällä ALT-näppäimen painettuna ja vetämällä rakennuskopion planeetalle.~p~Jos rakennukset ovat liian lähellä toisiaan, otukset ja kulkuneuvot eivät mahdu kulkemaan niiden välistä.
+0x07BB5926 Rakennusten sijoittaminen
+0x079AC7EF Mikäli et ole vielä niin tehnyt, valitse nyt Spore-keskuksesta haluamasi rakennus ja vedä se planeetalle.
+0x079AC545 Aloita kylänluonti valitsemalla rakennusvalikoima.
+
+# EP1-DragCreature
+
+0x075E4E54 Napsauta otusta hiiren vasemmalla painikkeella ja vedä se planeetalle kapteenin lähelle.
+
+# EP1-DragHero
+
+0x07577C95 Napsauta sankaripaneelia hiiren vasemmalla painikkeella ja vedä kapteeni planeetalle.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Liukusäätimillä voit muuttaa elävän ja kuolleen maaston värejä. Joskus ero voi olla hyvin pieni.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Voit nopeuttaa planeetan ajankulkua napsauttamalla näitä painikkeita hiiren vasemmalla painikkeella.
+0x0771E735 Napsauta kokoamon painiketta hiiren vasemmalla painikkeella, niin pääset jatkamaan muokkausta.
+0x0771E683 Tavoitteen kuvaus näkyy tavoitekortissa.
+0x07763BB6 Nopeuspainikkeet
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Jos haluat katsella ympärillesi, pidä hiiren oikea painike painettuna ja liikuta kohdistinta planeetan yllä.
+
+# EP1-Teams
+
+0x0771F3ED Määritä otus ryhmään A, niin se liitetään kapteenin ryhmään.
+0x0771F410 Ryhmä B muodostuu aina kapteenisi vihollisista.
+0x0771F426 Mikäli ryhmää ei määritetä, hahmo on puolueeton.
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planeetan väri
+0x076390FC Voit värittää maaston kohoumat kohoumavärityksen avulla. Nykyiset värit vastaavat planeettasi teemaa.
+0x07BBAF6C Voit määrittää veden, ilmakehän, rantojen ja kallioiden värin napsauttamalla haluamasi kohteen kuvaketta hiiren vasemmalla painikkeella ja valitsemalla värin värivalikoimasta.
+0x07BBAF80 Vaihtele planeetan värejä, niin voit etsiä haluamaasi vaikutelmaa.
+0x07BBAF62 Kalliot, rannat, ilmakehä ja vesi
+0x07D2278E Siirrä kohoumamerkki väritettävän kohouman kohdalle.
+0x07973230 Väritys korkeuden mukaan
+0x079731E7 Valitse planeetan värivalikoima
+0x07D2274B Valitse merkin väri värivalikosta. Voit poistaa sen myöhemmin vetämällä sen pois valikoimasta.
+0x07DB8058 Luo uusi värikerros napsauttamalla maastonkohotuspalkkia hiiren vasemmalla painikkeella.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Seikkailun tehtäväkortit
+0x07634DAD Tehtäväkortit näyttävät pelaajalle hänen tavoitteensa.
+
+# EP1-CamZoom
+
+0x07563B2B Voit kohdentaa lähemmäs ja kauemmas pyörittämällä hiiren rullaa.
+
+# EP1-FirstAdventure
+
+0x07D087E1 Tervetuloa ensimmäiseen seikkailuusi!
+0x07D087E2 Kun läpäiset tämän seikkailun, kapteenisi ansaitsee kokemusta. ~p~Voit seurata kapteenisi edistystä Spore-keskuksesta käsin. ~p~Kun olet planeetalla, komennat kapteeniasi samaan tapaan kuin otuspelissä ohjataan otuksia. ~p~Katsotaanpa seuraavaksi pelin uutuuksia.
+
+##Terrain Mode items
+
+0x0762143F Käytettävissä olevat hahmot
+0x07621440 Täältä näet kaikki hahmot, jotka on otettu Spore-keskuksesta seikkailuusi.
+0x0791911C Kasvit
+0x07919119 Maankaltaistus
+0x0791911B Sää
+0x0791911A Teeman valinta
+0x079C153A Maaston värit
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Koeta aina pitää energiatasosi riittävän korkeana, sillä muuten et voi käyttää kaikkia ominaisuuksiasi.~p~Varusta kapteenisi akuilla, niin hän saa käyttöönsä lisäenergiaa.
+0x079E7E25 Energia
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Napsauta kokoamon painiketta uudelleen hiiren vasemmalla painikkeella.
+0x07763AD7 Kokoamossa taas
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Napsauta hahmovalikoimassa olevaa vihollista hiiren oikealla painikkeella, niin kuvakulma keskitetään siihen.
+0x075E5364 Voit muuttaa hahmon kokoa pitämällä SHIFT-näppäimen painettuna ja pyörittämällä hiiren rullaa.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Testaamo
+0x075F5A4F Napsauta testaamon painiketta hiiren vasemmalla painikkeella, niin voit kokeilla luomaasi seikkailua.
+
+# New Join with Sword
+
+0x07A81511 Kahden esineen tavoite
+0x07A81521 Tartu tavoitemerkkiin ja vedä se ensimmäisen vientitavoitteeseen liitettävän kohteen kohdalle.
+0x07A81620 Aseta toinen tavoitemerkki sitten kohteeseen tai otukseen, joka tulee vientitavoitteen mukaisesti saattaa yhteyteen ensimmäisen kohteen kanssa.
+0x07A814D8 Vienti- ja estotavoitteet edellyttävät kahta valmista kohdetta. Ainakin toisen näistä tulee olla liikuteltava tai kykenevä liikkumaan itsenäisesti. Vientitavoitteen suorittamiseksi kapteenin tulee järjestää nämä kohteet toistensa luo. Estotavoitteen suorittamiseksi kapteenin tulee pitää kohteet erossa toisistaan.
+0x07BA7CC2 Kahden kohteen tavoitteet – osa 2
+0x07BA7DAE Etsi tai sijoita tavoitteen toinen kohde ja viimeistele tavoite vetämällä toinen tavoitemerkki kyseiseen kohteeseen.
+0x078E92E3 Valitse tavoitetyypiksi esineen tuominen.
+
+# EP1-NameAdventure
+
+0x0771D3CE Seikkailun nimi
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Tämä on käytettävien hahmojen paneeli.
+0x076214A1 Tästä näet kaikki seikkailuusi lisätyt hahmot.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Hahmovalikoima
+0x075E079E Avaa hahmovalikoima napsauttamalla hiiren vasenta painiketta.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Edistyspalkista näet sekä suoritettujen että suorittamattomien tavoitteiden määrän.~p~Kun palkki on täynnä, seikkailu on täysin suoritettu.
+0x079E8180 Edistyspalkki
+
+# EP1-Vehicles
+
+0x0796C959 Napsauta kulkuneuvon käyttäytymispainiketta.
+0x0796B4AC Kulkuneuvovalikoima
+0x0796B4AD Valitse kulkuneuvovalikoima, niin pääset lisäämään kulkuneuvoja seikkailuusi.
+0x0796C41F Vie kohdistin hahmon kohdalle, niin esiin tulee käyttäytymispainike.
+0x0796C41E Kulkuneuvojen käyttäytymismalli
+0x0796B623 Lisää kulkuneuvo
+0x0771F308 Määritä kulkuneuvon käyttäytymismalli
+0x0771F399 Voit määrittää partioreitille toisen reittipisteen vetämällä partiomerkin planeetalle.
+0x0771F293 Lisää kulkuneuvo Spore-keskuksesta seikkailun hahmovalikoimaan. Vedä kulkuneuvo sitten valikoimasta planeetalle.
+0x0796CC7D Napsauta ensin kulkupainiketta hiiren vasemmalla painikkeella ja valitse sitten partiointi.
+0x07D23877 Menotavoite on hyvin samanlainen. Hahmo vain jää viimeisen merkin luokse.
+0x07D6257A Pidä ALT-näppäin painettuna ja vedä merkkiä, niin voit asettaa toisen merkin ensimmäisen lisäksi. Kulkuneuvo partioi näiden merkkien väliä.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Äänipaneeli
+0x079694A7 Valitse tämä valikoima, niin pääset lisäämään seikkailuusi ääniä ja musiikkia.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Tehtäväkortista näet nykyiset tavoitteesi.~p~Suorita kaikki tavoitteet, niin siirryt seuraavaan näytökseen.
+0x079E8049 Tehtäväkortti
+
+# EP1-SelectHero
+
+0x07578A4F Sijoita kapteeni
+0x07578A50 Kapteeni on pelaajan hahmo ja seikkailun tähti.
+
+# EP1-TestModeIntro
+
+0x07632EEC Tervetuloa testaamoon!
+0x07632EED Testaamossa voit etsiä luomasi seikkailun ongelmakohtia ja kokeilla sitä käytännössä.~p~Kun löydät seikkailustasi jotain muutettavaa, voit palata kokoamoon tekemään haluamasi muutokset.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Napsauta kokoamon painiketta hiiren vasemmalla painikkeella, niin pääset taas muokkaamaan seikkailua.
+0x075F5A50 Kokoamo
+
+# EP1-Flora
+
+0x0771F197 Valitse planeetallesi uusi kasvi. Kasvit tarvitsevat kasvaakseen elävää maastoa, jonka lämpötila on sopiva.
+
+# EP1-DragGoal
+
+0x075F39B9 Voit asettaa kapteenillesi tavoitteita sijoittamalla tavoitemerkin jonkun planeetalle sijoitetun hahmon kohdalle.
+0x07971E8D Tavoitemerkeillä määritetään kapteenille seikkailun tavoitteet. Vaihtoehtoja ovat esimerkiksi otukselle puhuminen, lahjan antaminen, kohteen tuhoaminen ja otuksen kanssa ystävystyminen.
+0x07971D33 Määritä tavoite
+
+##End
+
+0x0762407B Luo seikkailullesi äänimaisema vetämällä ääniä planeetalle. Säätimillä voit määrittää äänten kantaman ja niiden laukaisijan.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Valitse teemavalikoima
+0x076390FA Teemojen avulla voit antaa planeetallesi värikkään ilmeen.
+0x079207E3 Teemavalikoima
+0x07920810 Teemat
+
+#Test Mode Goal Cards
+
+0x07A80599 Testaamossa voit ohittaa tavoitteet napsauttamalla tavoitteen vieressä olevaa merkkiä.
+0x07A805ED Tavoitteiden ohittaminen
+0x07A805F9 Näytösten ohittaminen
+0x07A805FE Voit siirtyä näytöksestä toiseen napsauttamalla tavoitekortin yläreunassa olevia nuolia hiiren vasemmalla painikkeella.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Merkkisäätimillä voit muuttaa kohteen kokoa, voimakkuutta ja suuntaa.
+
+# EP1-SelectCreature
+
+0x075E2C84 Lisää otus
+0x075E2C85 Voit lisätä otuksen seikkailuusi napsauttamalla sitä hiiren vasemmalla painikkeella ja vetämällä sen planeetalle.~p~Jos valikoimassa ei ole lainkaan otuksia, siirry Spore-keskukseen.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Tervetuloa maankaltaistukseen!
+0x0791F5B7 Maastovalikoima
+0x07959720 Merkkien avulla voit tehdä maastosta karun ja vuoristoisen.
+0x07958D39 Valitse maastomerkki ja vedä se planeetalle.
+0x0791F5B8 Vuoret
+0x07639102 Täällä voit muuttaa maastoa sekä valita planeetan kasviston ja yleisilmeen.
+0x07B3A935 Valitse maastovalikoima, niin pääset tarkastelemaan maastomerkkejä
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Paluukäyttäytymisen avulla otuksesi voivat palata peliin ja lisääntyä.
+0x07A032FB Palaaminen
+0x07A03396 Paluutaajuus määrittää paluunopeuden. Rajoitus määrittää myös planeetalle kerralla mahtuvien otusten määrän.
+0x07A034A1 Pelikohteet kannattaa testata huolellisesti. Käy säännöllisesti testaamossa.
+0x07A033EF Pelikohteilla seikkailuun voi lisätä haastetta ja hupia.~p~Valitse Spore-keskuksesta haluamasi pelikohde ja lisää se planeetalle.
+0x07A033E5 Pelikohteet
+0x07A02DE0 Valitse Spore-keskuksesta pieni esine ja vedä se planeetalle.
+0x07A02DD5 Pienet esineet
+0x07A02E13 Pienet esineet voi poimia ylös, niitä voi kantaa mukanaan ja ne voi antaa toisille otuksille.
+0x07A03149 Näytöksen aikaraja
+0x07A02FFC Seikkailun kansikuva
+0x07A03553 Ota kansikuva testaamossa napsauttamalla kamerapainiketta hiiren vasemmalla painikkeella.~p~Kuva ilmestyy nimi- ja kuvauspaneeliin.
+0x07A0304F Luo seikkailullesi kansikuva, jonka muut pelaajat näkevät Spore-keskuksessa. Valitse haluamasi kuvakulma ennen kuvan ottamista.~p~Kun olet valmis, avaa nimi- ja kuvauspaneeli ja napsauta kamerapainiketta hiiren vasemmalla painikkeella.~p~Voit valita seikkailulle vain yhden kuvan, joten valitse se, joka parhaiten kuvaa seikkailua.
+0x07A03155 Voit asettaa näytökselle aikarajan napsauttamalla näytöksen aikarajan painiketta hiiren vasemmalla painikkeella. Määritä sitten aika, jonka kuluessa pelaajien pitää suorittaa näytöksen tavoitteet.
+
+# EP1-CamRotate
+
+0x07563B2A Voit kääntää ja kallistaa kuvakulmaa napsauttamalla hiiren keskimmäistä painiketta ja liikuttamalla kohdistinta. Ohjekirjassa on luettelo käytettävistä näppäimistä.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Rakennukset
+0x0762143A Rakennuseditorissa tehdyillä luomuksilla on hyvä täydentää seikkailua. Rakennukset voivat kuulua ryhmälle, ja niiden avulla voi myös välittää tietoa pelaajalle. Lisäksi rakennuksia voi vahingoittaa tietyillä aseilla. Aggressiiviset pelihahmot saattavat hyökätä puolueettomien ja viholliselle kuuluvien rakennusten kimppuun.
+

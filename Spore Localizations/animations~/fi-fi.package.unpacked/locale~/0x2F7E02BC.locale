@@ -1,0 +1,25 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Käy Vategon avaruusasemalla planeetalla ~mission_target_planet~.
+0x00000004 Kapteenin vastuulla on paljon muutakin kuin pelkkä avaruusaluksen komennus. Kapteenin tulee nimittäin osoittaa taitonsa myös planeetan pinnalla. Kapteeni miehistöineen voikin siirtyä aluksestaan planeetalle suorittamaan erilaisia tehtäviä.
+0x0000001B Palaa takaisin planeetalle ~mission_source_planet~.
+0x0000001F Suoritit tehtävän planeetalla ~mission_target_planet~. Palaa ilmoittautumaan tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~.
+0x0000000D Oletko tarkistanut tehtävälokiasi hiljattain?~p~Sinun pitäisi olla jo matkalla Vategon avaruusasemalle, joka sijaitsee planeetalla ~mission_target_planet~. Tämä saattaa hyvinkin olla urasi tärkein tehtävä, joten älä kupeksi.
+0x00000005 Planeetalle siirtyminen
+0x00000007 Tiedemiehemme ovat lisänneet avaruusalukseesi siirtolaitteen, jonka avulla voit siirtyä miehistösi kanssa planeetalle suorittamaan tiettyjä tehtäviä.~p~Kaikilla huippukapteeneilla on jo oma siirrinlaitteensa, joten hanki sinäkin omasi.~p~Oletko jo valmis siirtymään Vategolle?
+0x00000002 Kerro toki lisää.
+0x00000001 Komentokeskuksella on sinulle jännittävä uusi tehtävä.~p~Sinun pitäisi matkustaa planeetalle ~mission_target_planet~ ja kerätä tietoja Vategon avaruusasemalta.
+0x0000000A Tervetuloa takaisin, kapteeni! Aluksesi lokin mukaan tiedät jo kaiken, mitä taitavan avaruuskapteenin pitääkin tietää.~p~Jospa varmuuden vuoksi kerrataan tiedot.~p~Ensinnäkin, kun läpäiset erilaisia avaruusseikkailuja, saat kokemusta kapteenin hommasta. Kun sitten kohoat arvoasteikolla ylemmäs, saat käyttöösi uusia varusteita ja ominaisuuksia. Voit myös hankkia miehistöösi uusia jäseniä, jolloin planeetalla suoritettavista tehtävistä tulee entistäkin helpompia.~p~Helppoa kuin mikä! Käyhän nyt matkaan. Maine ei kasva itsestään.
+0x0000001D Suuntaa järjestelmään ~mission_source_star~.
+0x0000001C Matkaa tähtijärjestelmään ~mission_target_star~. Juttele avaruusaseman johtobotille, niin saat lisätietoja tehtävistä.
+0x00000011 Hienoa! Kun saavut planeetan ~mission_target_planet~ luo, lennä normaaliin tapaan alas sen pintaa kohti, niin siirrin käynnistyy automaattisesti.~p~Kun pääset Vategoon, etsi aseman johtobotti. Hän kertoo sinulle minne mennä ja kenet sinun pitäisi avaruusasemalla tavata.~p~Hyvää matkaa, kapteeni.
+0x00000021 Suoritettu
+0x00000020 Meneillään
+0x00000022 Onnistuit! Anna raportti tähtijärjestelmässä ~mission_source_star~.
+0x0000001E Matkaa tähtijärjestelmään ~mission_target_star~. Siirry planeetalla ~mission_target_planet~ sijaitsevalle Vategon avaruusasemalle. Juttele aseman johtobotille, niin saat kuulla lisätietoja tehtävästä.
+0x00000008 Totta kai haluan osallistua seikkailuun!
+

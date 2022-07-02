@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000098 Completata
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x00000097 In corso
+0x00000064 Eccellente. Le nostre fonti ci informano che la tensione è ormai alle stelle. Risolvi questo problema con le parole, non con le armi!
+0x000000B1 Scongiura una guerra sul pianeta ~mission_target_planet~.
+0x00000094 Sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~ sta per scoppiare una guerra. Questa missione richiede grandi abilità diplomatiche.
+0x00000000 Lieto di vederti, ~ep1_captain_full_name~. Il Gran Consiglio è stato informato della situazione sul pianeta ~mission_target_planet~.~p~È necessario un urgente intervento diplomatico, quindi ti chiediamo di entrare in azione... subito!
+0x00000081 Il Gran Consiglio capisce che risolvere i problemi con la pazienza e le parole è molto più difficile che agire in modo violento e affrettato.~p~Maturando, forse anche la tua specie se ne renderà conto.
+0x00000041 Davvero eccellente! Ci hanno appena informati che le nozze sono già state fissate. Ora speriamo che le due famiglie non si dichiarino guerra solo per decidere il colore della glassa sulla torta nuziale.~p~Come segno di apprezzamento per il lavoro svolto, il Gran Consiglio ha deciso di donarti ~mission_rewards~ Sporecrediti.
+0x00000071 Un evento tanto infelice quanto inaspettato.~p~Contavamo su di te per risolvere questo problema diplomaticamente...
+0x00000092 Parla con il Duca e il Barone nel sistema ~mission_target_star~.
+0x0000004E Il tuo registro missione accenna a una guerra in procinto di scoppiare.~p~Che ne diresti di recarti sul posto e recitare la tua parte?
+0x00000095 I Montaletti e i Capagoni sono in pace. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+

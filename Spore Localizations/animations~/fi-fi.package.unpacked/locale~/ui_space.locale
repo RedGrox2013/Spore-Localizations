@@ -1,0 +1,127 @@
+﻿############ Color ##############
+
+0x0636A260 Väritä ilmakehä
+0x0636A261 Väritä maa
+0x0636A262 Väritä vesi
+
+# comm screen buttons
+
+0x0627EB7F Hylkää
+0x0627EB80 Hyväksy
+0x05DC03C8 Saavutukset
+0x0627EB7D Diplomatia
+0x0627EB7C Kaupankäynti
+0x06038551 Ansiomerkit
+0x06038566 Muinaisjäänteet
+0x06034698 Harvinaisuuksia on maailmassa enemmänkin. Tutki universumia ja kerää ne kaikki!
+0x06038627 Tehtävät
+0x0655144F Kerää ansiomerkkejä, niin sinulle myönnetään galaktisia ylennyksiä.
+0x0627EB7E Näkemiin
+0x060383CF Laitteet
+0x0644EF2A Korjaa
+0x0644EF2B Lataa
+
+########### T scores ############
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+########### Hologram ############
+
+0x03E81C6B Nosta luotain
+
+########### Spice node rollover ##############
+
+0x06A6F65D /min
+
+#################################################
+# Don't ever remove any strings from this file or
+# change their location inside the file !!!
+#################################################
+
+0x00000000 Kantaman ulkopuolella
+0x00000005 Kehitä etuvartiosta siirtokunta
+0x00000001 Tallennettu peli
+0x00000003 Villieläinpuisto
+0x00000002 Käymättä
+0x00000006 Seuraavalle tasolle
+
+######## Tool Pallettes #########
+
+0x03E81C5F Aseet
+0x05F4DD01 Siirtokunnan perustaminen
+0x03E81C5E Rahti
+0x03E81C70 Avaruusaluksen ominaisuudet
+0x03E81C6F Suosikit
+0x03E81C6E Seurustelu
+0x03E81C60 Toiminnot
+0x03E81C5C Planeetanmuokkaimet
+0x03E81C6D Planeetan värityslaitteet
+0x03E81C6A Ilmakehän muokkauslaitteet
+
+########### Other ##############
+
+0x05D268D4 Hanki mestarimerkki
+0x05E3C035 Paranna avaruusalusta
+0x0644EF38 Poista yksi
+0x0644EF37 Poista monta
+0x0644EF36 Lisää yksi
+0x0644EF34 Myy kohde
+0x0644EF33 Osta kohde
+0x0644EF35 Lisää monta
+0x0654C917 Valtaa järjestelmä
+0x0654C92F Uusia laitteita
+0x066DDE72 Kulma: ~player_angle~°, etäisyys: ~player_distance~ (pc)
+0x0666618D Kaikki ansiomerkit
+0xF248A9AF Avustajat
+0x0654C91F Osta järjestelmä
+
+########### Filters #############
+
+0x060ECC93 Valtakunnat
+0x060ECC96 Käyty
+0x060ECC94 Tehtävät
+0x060ECC95 Matkareitti
+0x060ECC91 Oma valtakunta
+0x060ECC92 Liittolaiset ja viholliset
+
+######## SPACE GUI TOOL TIPS ###############
+
+0x045FFE89 Ohjeet
+0x045FFE85 Asetukset
+0x04359B05 Maankaltaistus
+0x04359B0F Pikkukartta
+0x048662B4 Tähtikartan lajittelutoiminnot
+0x045FFE8E Pysäytä peli / jatka peliä
+0x03E81C5B Avaruusaluksen asetukset
+0x03E81C5D Avaa viestintäyhteys
+0x03E81C62 Muokkaa avaruusalusta
+0x03E81C61 Siirry Spore-keskukseen tai pois sieltä
+
+########### Sculpt ##############
+
+0x0636A285 Lonkero
+0x0636A284 Söpö
+0x0636A286 Suklaa
+0x0636A281 Maa
+0x0636A282 Ratas
+0x0636A283 Kristalli
+0x0636A280 Perus
+
+########### Foodweb #############
+
+0x061DEFF3 Avaa kasvattamalla maankaltaisuusluokkaa
+0x2DFE315F Siirtokunnan rajoitus
+0x0473CB32 Korkea lämpötila
+0x0473CB2E Matala lämpötila
+0x0473CB1F Kasvinsyöjät
+0x0473CB1A Kasvit
+0x0473CB2A Ei ilmakehää
+0x0473CB26 Tiheä ilmakehä
+0x0473CB22 Lihansyöjät
+0xDEB67517 Keskikokoinen kasvi
+0xBFC94BE5 Pieni kasvi
+0x90CD1821 Suuri kasvi
+

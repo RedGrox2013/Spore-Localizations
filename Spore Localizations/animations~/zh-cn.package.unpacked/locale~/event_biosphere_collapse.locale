@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000015 消灭目标动物！快！
+0x0000000F ~mission_target_animal_species~动物物种已经灭绝。
+0x00000011 树林被砍光了！一个植物物种灭亡了。
+0x00000002 结束通讯
+0x0000000E 那只动物生病了。你不能带它上船！
+0x00000005 生态系统如今已经恢复了平衡状态。
+0x0000000A 消灭指定目标动物。
+0x0000000D 来自受感染兽群的动物不能登上~ufo_name~。
+0x00000009 已经避免生态灾难。
+0x0000000C 警告！ 如果你再杀掉~mission_num_healthy_creatures_left~个健康的~mission_target_animal_species~动物它们就会灭绝了！
+0x00000091 ~mission_target_planet~得救了！
+0x00000010 ~mission_target_planet~发生生态灾难。~mission_target_animal_species~动物已经不复存在。
+0x00000014 在~mission_target_planet~上发生了一场生态灾难。
+0x00000019 ~mission_target_planet~发生生态灾难：向生态环境添加动植物！
+0x00000020 注意~player_creature_name~！~p~~mission_target_planet~很弱，~race~不能容忍。 赶快消灭~mission_target_animal_species~。~p~~race~完毕。
+0x00000006 ~mission_target_planet~的生态系统正面临着巨大威胁！一种病毒在野生的~mission_target_animal_species~中快速传播。从它们发光的尾巴上就能清楚分辨出受感染者。~p~立刻捕捉被感染的动物，否则病毒将不断扩散，整个物种都会受到感染……这可能是生态环境崩溃的开始。
+0x0000000B 灾难！太多健康动物被杀死了。
+0x00000007 现在~mission_target_planet~已没有生态环境崩溃的危机。
+0x00000018 向~mission_target_planet~添加动植物，以防止发生生态灾难。
+0x00000001 船长，这是紧急通讯！~p~我们在~mission_target_planet~上的生态系统遭遇了巨大危机！一种病毒正在野生的~mission_target_animal_species~中不断传染扩散。~p~我们需要你立刻捕捉被感染者，否则病毒将进一步扩散，我们将会彻底失去这个物种……这可能是生态环境崩溃的开始。~p~快！~p~立刻奔赴~mission_target_planet~！~p~快！
+0x00000021 注意~player_creature_name~！~p~你应该立刻去~mission_target_planet~并消灭软弱的~mission_target_animal_species~。~p~完毕。
+0x00000090 从~mission_target_animal_species~中清除被感染的动物。
+0x0000001B 星际议会决定启用紧急措施。 请求~player_title~~player_creature_name~的帮助。~p~在~mission_target_planet~的生态系统面临巨大风险！ 一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~我们需要你去捕捉被感染的动物，否则病毒扩散后我们将失去整个物种… 这可能是生态环境崩溃的开始。~p~你应该能想到这对秩序之道所造成的破坏。 根据协议请求你帮助。~p~尽快。
+0x00000013 ~mission_target_planet~的生态系统已经崩溃了。
+0x00000012 ~mission_target_planet~的生态灾难：一种植物物种灭亡了。
+0x0000001A ~player_title~~player_creature_name~！ 我们急切的恳求你来支援我们。~p~~mission_target_planet~上的斯波德信徒们正遇到了危险！ 一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~我们需要你去捕捉被感染的动物，否则病毒扩散后我们将失去整个物种… 这可能是生态环境崩溃的开始。~p~快来吧！
+0x00000004 保护~mission_target_planet~免于生态灾难！
+0x0000001C ~player_title~~player_creature_name~。~p~我们在野生生物避难所发现了一些警示性的数据。 在~mission_target_planet~上我们的生态环境正处于危机之中！ 一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~我们需要你去捕捉被感染的动物，否则病毒扩散后我们将失去整个物种… 这可能是生态环境崩溃的开始。~p~快去吧！ 赶快开始最快的飞行。
+0x00000003 仁慈的~player_title~~player_creature_name~！~p~当我们尝试让生命的进程顺其自然的时候，却发生了一件悲剧，让我们必须干涉。 在~mission_target_planet~上我们的生态系统正处于危机之中！ 一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~我们需要你去捕捉被感染的动物，否则病毒扩散后我们将失去整个物种… 这可能是生态环境崩溃的开始。~p~快！
+0x0000001E 哦~player_title~~player_creature_name~！ 帮我们！~p~在~mission_target_planet~上我们的生态环境正处于危机之中！ 一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~我们需要你去捕捉被感染的动物，否则病毒扩散后我们将失去整个物种… 这可能是生态环境崩溃的开始。~p~快来吧！
+0x0000001F 仁慈的~player_title~~player_creature_name~。~p~和谐教导我们，生命有其韵律。 但是~mission_target_planet~出了问题！~p~一种病毒在野生的~mission_target_animal_species~中扩散开来。~p~快去解救它们。如果没人管，整个物种就会灭绝…这可能是生态环境崩溃的开始。~p~来吧。
+0x00000008 ~mission_num_eradicated_creatures~属于~mission_num_creatures~~mission_target_animal_species~动物，现已灭绝。
+0x0000001D 古拉古拉！ 没什么比生态灾难更糟糕的了。~p~~player_title~~player_creature_name~，来帮助我们吧。 我们愚蠢的野生的~mission_target_animal_species~将它们自己置于危险之中。~p~我们需要你去捕捉受感染的动物，否则病毒一旦扩散，我们将失去整个物种…这可能是生态环境崩溃的开始。~p~快！ 快来，快来，快来吧！
+0x00000017 ~mission_target_planet~上爆发了生态灾难。消灭目标动物。尽快！
+

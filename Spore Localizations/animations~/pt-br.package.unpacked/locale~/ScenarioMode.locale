@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x0757671A Iniciar
+0x071877BA O texto de AVENTURA VENCIDA criado pelo autor fica aqui.
+0x07186066 ~ep1_adventure_lose~ ~br~ pontos: ~ep1_score~ ~br~ tempo: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ pontos: ~ep1_score~ ~br~ tempo: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~ foi gravada.
+0x070B1805 Reiniciar
+0x070B17F3 O texto de AVENTURA PERDIDA criado pelo autor fica aqui.
+0x070B1800 Sair
+0x07959A07 Antes de poder salvar a Aventura, é preciso que exista um Capitão em um local válido do Mundo.
+0x071877C1 O autor desta Aventura ainda não criou uma introdução.~p~Para adicionar uma Introdução, clique no botão Introdução, no Criador de Aventuras.
+0x07CCEEFC Tripulação
+0x07B4DD6E Antes de poder jogar a Aventura, é preciso que exista um Capitão em um local válido do Mundo.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 O objetivo possui um parâmetro indefinido
+0x07D91076 O objetivo é inválido
+
+# instance checks
+
+0x07D910E4 O objetivo não pode ser aplicado a um alvo definido como territorial ou agressivo para o ato
+0x07D910E6 O objetivo não pode ser aplicado a criaturas épicas
+0x07D910E8 O objetivo não pode ser aplicado a um alvo que será hostil durante o ato
+0x07D910E1 O alvo está em uma localização inválida
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Tudo
+
+# Second, for buildings and vehicles
+
+0x07B51559 Levar...
+0x07B5154F Destruir
+0x07B51562 Dar...
+0x07B5155C Coletar
+0x07B5154C Examinar
+0x07B51549 Ir Para
+0x07B51564 Bloquear...
+0x07B51567 Defender
+0x07B55060 Examinar ~ep1_goal_target_name~
+0x07B55063 Destruir ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ destruídos)
+0x07B5505D Ir Para ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ completados)
+0x07B5506A Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x07B55076 Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x07B55079 Defender ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Coletar ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ coletados)
+0x07B55073 Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07B52A47 Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x07B52A49 Coletar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Examinar ~ep1_goal_target_name~
+0x07B52A44 Destruir ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07B52A4E Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x07B52A3A Ir Para ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Defender ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 A saúde do alvo está definida como invulnerável para este ato
+0x07D910C4 A saúde do alvo está definida como zero para este ato
+0x07D910C0 O alvo está definido como invisível para este ato
+0x07D910CB O objetivo não se aplica a criaturas
+0x07D910CD O objetivo não se aplica a veículos
+0x07D910DA O objetivo não se aplica a avatares
+0x07D910DD Pelo menos um dos alvos deve ser móvel
+0x07D910D8 O objetivo não se aplica a objetos do jogo
+0x07D910CF O objetivo não se aplica a estruturas
+0x07D910D3 O objetivo não se aplica a objetos fixos
+0x07D910D5 O objetivo não se aplica a objetos não-portáteis
+
+# Special first half of give goal:
+
+0x079E8291 Encontrar ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Veículos aquáticos não podem ser colocados na terra
+0x07D8B21E Veículos terrestres não podem ser colocados na água
+0x07D8C654 Criaturas não podem ser colocadas na água
+0x07D8C658 O objeto está muito acima da superfície do planeta
+
+# Goal strings used for mission cards
+
+0x0727D37F Erro: Objetivo Não Definido
+
+# Sculpt panel UI
+
+0x07316C08 Flora
+0x07316C07 Flora
+0x07316C0A Cores Planetárias
+0x07316C09 Clima
+0x07316C0D Ferramentas Básicas
+0x07316C0E Ruas
+0x07316C00 Terreno
+0x07316C04 Água
+0x07316C05 Terraformação
+0x07316C02 Atmosfera
+0x0768A3E9 Continentes e Ilhas
+0x0768A339 Lagos e Oceanos
+0x07316C03 Temas
+0x079EDFB9 Especial
+0x07316C01 Temas Planetários
+0x07316C0C Rios
+0x07316C0B Cores Planetárias
+0x07316C06 Montanhas
+0x07316C10 Praias #REMOVED?
+0x07316C0F Cânions #REMOVED?
+0x07B2739C Vales
+0x07B280CB Colinas
+0x07B278FF Ruas Asfaltadas
+0x07B27900 Ruas Avançadas
+0x07B27901 Praças
+0x07B278FD Trilhas de Terra
+0x07B278FE Ruas de Paralelepípedos
+
+# Third, for all other (tools)
+
+0x07968DE4 [Alvo Indefinido]
+0x07B51644 Defender
+0x07B5163F Bloquear...
+0x07B51611 Examinar
+0x07B5160C Ir Para
+0x07B51628 Levar Para...
+0x07B51637 Dar...
+0x07B51633 Manter
+0x07B5162D Coletar
+0x07B52A65 Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x07B52A68 Defender ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A61 Manter ~ep1_goal_target_name~
+0x07B52A63 Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07B52A59 Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x07B52A5E Coletar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Examinar ~ep1_goal_target_name~
+0x07B55092 Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x07B55095 Defender ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508D Manter ~ep1_goal_target_name~
+0x07B5508F Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07B55088 Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x07B5508A Coletar ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ coletados)
+0x07B5507B Ir Para ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ completados)
+0x07B5507E Examinar ~ep1_goal_target_name~
+0x07B52A52 Ir Para ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 Objetivo 2 Completado
+0x07292A93 Objetivo 3 Completado
+0x07292A8D Objetivo 1 Completado
+0x07290AF0 Incremento do Objetivo 1
+0x07290AF5 Incremento do Objetivo 2
+0x07290AF8 Incremento do Objetivo 3
+0x074BB7EC Ato ~ep1_current_act~ de ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07DA2A90 Os objetos estão próximos demais um do outro agora que ambos estão visíveis no ato ~ep1_visibility_intersect_act~
+0x07D8FA97 Os veículos não podem ficar perto demais dos objetos portáteis
+0x07D8FA93 Os veículos não podem ficar perto demais dos ornamentos estáticos
+0x07D8FA90 Os veículos não podem ficar perto demais das criaturas
+0x07D8FA99 Os veículos não podem ficar perto demais das pedras
+0x07D8FAA1 Os ornamentos estáticos não podem ficar perto demais dos veículos
+0x07D8FA9E Os veículos não podem ficar perto demais dos objetos do jogo
+0x07D8FA8D Os veículos não podem ficar perto demais das estruturas
+0x07D8FA7C As criaturas não podem ficar perto demais das pedras
+0x07D8FA79 As criaturas não podem ficar perto demais dos ornamentos estáticos
+0x07D8FA77 As criaturas não podem ficar perto demais umas das outras
+0x07D8FA87 As estruturas não podem ficar perto demais umas das outras
+0x07D8FA85 As estruturas não podem ficar perto demais dos veículos
+0x07D8FA82 Estruturas não podem ser colocadas sob criaturas épicas
+0x07D8FABB Os objetos do jogo não podem ficar perto demais dos veículos
+0x07D8FAA8 Os objetos portáteis não podem ficar perto demais uns dos outros
+0x07D8FAA5 Os objetos portáteis não podem ficar perto demais dos veículos
+0x07D8FAA3 Os ornamentos estáticos não podem ficar perto demais das criaturas
+0x07D8FAAA Os objetos portáteis não podem ficar perto demais das pedras
+0x07D8FAB2 As pedras não podem ficar perto demais dos objetos portáteis
+0x07D8FAAF As pedras não podem ficar perto demais das criaturas
+0x07D8FAAD As pedras não podem ficar perto demais dos veículos
+0x07D8FA75 Criaturas épicas não podem estar em estruturas
+0x07D8FA72 As criaturas não podem ficar perto demais dos veículos
+0x07ECC0AB As pedras não podem ficar perto demais umas das outras
+0x07D8FA7F As criaturas não podem ficar perto demais das plantas
+0x07D8FA6F Esses objetos não podem ficar perto demais uns dos outros
+0x07D8FAB5 As plantas não podem ficar perto demais das criaturas
+0x07D8FAB8 As plantas não podem ficar perto demais dos veículos
+0x07D8FA9C Os veículos não podem ficar perto demais das plantas
+
+# Goal string for goal count combo box:
+
+0x07C53729 Tudo
+
+# inter-act checks
+
+0x07D91134 Objetivos dos tipos Levar e Bloquear no mesmo ato não podem ter os mesmos alvos
+0x07D91132 A contagem de alvos do objetivo está em conflito com outro objetivo no ato
+0x07D91130 O objetivo é uma cópia de outro objetivo no jogo
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B4 Coletar
+0x073C19B1 Fazer Amizade Com
+0x073C19B8 Defender
+0x073C19AE Ir Para
+0x073C19AF Falar Com
+0x073C19B3 Levar...
+0x073C19B6 Dar...
+0x073C19B7 Bloquear...
+0x073C19B2 Aliar-se a...
+0x073C19B0 Matar
+
+# goal count checks
+
+0x07D91125 Deve haver pelo menos um alvo aplicável no mundo
+0x07D91128 Deve haver pelo menos dois alvos aplicáveis no mundo
+0x07D9112B A contagem de alvos é “todos”, mas não há alvos aplicáveis no mundo
+0x07D91122 A contagem de alvos é maior do que o número de alvos aplicáveis no mundo
+0x07D9112E Número insuficiente de vagas abertas no grupo
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 Você não conseguiu bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~.
+0x0796CEE4 Você morreu.
+0x0796CFDD Tempo esgotado.
+0x0796CFE5 Você não conseguiu defender ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796D599 Você não pode mais completar este objetivo. ~ep1_goal_description~
+0x0796D59A Você violou este objetivo: ~ep1_goal_description~
+0x07C50B5F Este ato tem um objetivo duplicado.
+
+# First, for creatures
+
+0x07311C75 Defender ~ep1_goal_total~ ~ep1_goal_target_name~
+0x072AA965 Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07311C6E Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x0727D387 Falar com ~ep1_goal_target_name~
+0x0727D38E Fazer aliança com ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ tornaram-se aliados)
+0x0727D38B Fazer amizade com ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ tornaram-se amigos)
+0x0727D391 Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x0727D384 Mover até ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ completados)
+0x0727D389 Matar ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ mortos)
+0x072AA963 Coletar ~ep1_goal_target_name~ (~ep1_goal_progress~ de ~ep1_goal_total~ coletados)
+0x07B52A25 Falar Com ~ep1_goal_target_name~
+0x07B52A21 Ir Para ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Matar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Fazer Aliança Com ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Fazer Amizade Com ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E Levar ~ep1_goal_target_name~ para ~ep1_goal2_target_name~
+0x07B52A36 Bloquear ~ep1_goal_target_name~ de ~ep1_goal2_target_name~
+0x07B52A31 Coletar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A34 Dar ~ep1_goal_target_name~ a ~ep1_goal2_target_name~
+0x07B52A38 Defender ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Aventura ~timelinePlanetName~ concluída.
+0x076B2671 ~timelineMySpeciesName~ descobriu a parte ~timelinePartName~.
+0x076B2675 ~ep1_captain_name~ foi promovido a ~ep1_captain_primary_title~.
+0x076B2674 Promovido
+
+# Used for palette
+
+0x079C4769 Objetos do Jogo
+0x0710310C Elenco em Uso
+0x07103108 Criaturas
+0x07103109 Objetos Fixos
+0x0710310A Áudio
+0x07103106 Estruturas
+0x07103107 Veículos
+0x0710310B Efeitos
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Nome da Sua Aventura
+0x075E40EF Subtítulo de Transição de Cenário 3
+0x075E40EE Subtítulo de Transição de Cenário 2
+0x075E40ED Subtítulo de Transição de Cenário 1
+
+# other
+
+0x07D91140 Reservado para dica de solução 5
+0x07D9113E Reservado para dica de solução 4
+0x07D9113B Reservado para dica de solução 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

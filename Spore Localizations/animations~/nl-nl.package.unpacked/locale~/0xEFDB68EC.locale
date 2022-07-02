@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C Deze voertuigen gaan heen en weer tussen twee punten.
+0x079EDF5D Deze voertuigen volgen een ander toegekend castlid.
+0x079EDF5B Deze voertuigen bewegen zich willekeurig rondom hun startlocatie.
+0x079EDF5A Deze voertuigen blijven op hun plek.
+0x079817B5 Deze wezens bewegen zich willekeurig rondom hun startlocatie.
+0x079817B1 Deze wezens blijven op hun plek.
+0x079817BA Deze wezens gaan heen en weer tussen twee punten.
+0x079817BE Deze wezens volgen een ander toegekend castlid.
+
+# Planet Paint
+
+0xB6AFCFC0 Grondbedekking
+0xB6AFCFC1 Bloemen
+0xB6AFCFC2 Wolkenstijl
+
+#Goals:
+
+0x0798177E Pak deze ~ep1_current_cast~.
+0x07981782 Geef deze ~ep1_current_cast~ aan een ander castlid.
+0x0798178C Voorkom dat deze ~ep1_current_cast~ in contact komen met een ander castlid.
+0x0798177B Praat met deze ~ep1_current_cast~.
+0x07981764 Ga naar deze ~ep1_current_cast~.
+0x07981798 Voorkom dat deze ~ep1_current_cast~ worden vernietigd.
+0x0798176F Vernietig deze ~ep1_current_cast~.
+0x07981785 Verzamel deze ~ep1_current_cast~.
+0x07981789 Breng deze ~ep1_current_cast~ naar een ander castlid.
+0x07981773 Doe sociaal met deze ~ep1_current_cast~.
+0x07981777 Sluit een bondgenootschap met deze ~ep1_current_cast~ om ze aan je bemanning te kunnen toevoegen.
+
+# Cloud Names
+
+0x56AFCF73 Web
+0x56AFCF72 Alien
+0x56AFCF74 Stuifmeel
+0x56AFCF75 Spons
+0x56AFCF70 Standaard
+0x56AFCF71 Krullen
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 gebouwen
+0x07981E91 voertuigen
+0x07981E90 wezens
+0x07981E93 objecten
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klik op een wezen, gebouw of voertuig om dit permanent te verwijderen uit je spel.~br~Om het avontuur permanent uit je spel te verwijderen, sluit je het avontuur en open je de Sporepedia (druk op de B-toets). In de Sporepedia zoek je het avontuur dat je wilt verwijderen. Selecteer dit en klik op de knop 'creatie verbieden', in de rechterbenedenhoek. Hierdoor verwijder je het avontuur, maar niet de creaties daarin. Die moet je individueel verwijderen.~br~Een rapport over de creatie wordt verzonder naar het team van de Spore-klantenservice.
+
+#Awareness:  
+
+0x07981DE3 Bepaalt hoe ver deze wezens kunnen kijken.
+0x079EDF5E Bepaalt hoe ver deze voertuigen kunnen kijken.
+
+#Stances:
+
+0x0798179D Deze wezens vallen vijandelijke eenheden zonder waarschuwing aan.
+0x079EDF58 Deze voertuigen verdedigen zichzelf alleen als ze worden aangevallen.
+0x079EDF59 Deze voertuigen vluchten als ze worden aangevallen.
+0x079EDF55 Deze voertuigen vallen vijandelijke eenheden zonder waarschuwing aan.
+0x079EDF56 Deze voertuigen geven een waarschuwing voor ze aanvallen.
+0x079EDF57 Deze voertuigen laten zich nooit afleiden van het toegekende gedrag.
+0x079817A1 Deze wezens geven een waarschuwing voor ze aanvallen.
+0x079817A5 Deze wezens laten zich nooit afleiden van het toegekende gedrag.
+0x079817AD Deze wezens vluchten als ze worden aangevallen.
+0x079817A9 Deze wezens verdedigen zichzelf alleen als ze worden aangevallen.
+
+#Pickup:
+
+0x079817C5 Deze wezens pakken elk toegekend gereedschap op.
+0x079817C2 Deze wezens pakken elk gereedschap op.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7B Gewone rotsen
+0x56AFCE7A IJsrotsen
+0x56AFCE7C Lavarotsen
+0x56AFCE7D Shiitake
+0x56AFCE71 Kleimatie
+0x56AFCE72 Conglomeraat
+0x56AFCE73 Koraal
+0x56AFCE60 Geen
+0x56AFCE79 Zwitsers
+0x56AFCE75 Graniet
+0x56AFCE76 Organisch
+0x56AFCE78 Zandsteen
+0x56AFCE74 Kristal
+0x56AFCE77 Stekels
+
+# posse ui
+
+0x0760B242 Bemanning
+
+#mission ending description#
+
+0x0760B241 Einde
+
+0x0760B0F9 Introductie:
+0x075E4C78 Sleep doel naar castlid
+0x075E4C79 Doeltype instellen
+0x0760B0F8 Beschrijving & muziek bedrijf ~ep1_current_act~
+0x0760B0FA Winsttekst:
+0x0760B0FB Verliestekst:
+
+#Teams:
+
+0x07981E72 Deze gebouwen worden aangevallen door castleden uit vijandelijke teams.
+0x07981E71 Deze wezens vallen nooit andere castleden uit hun team aan.
+0x079EDF5F Deze voertuigen vallen nooit andere castleden uit hun team aan.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Bedrijf ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Dit avontuur bevat een bedrijf zonder doelen. De speler kan het avontuur niet winnen, tenzij het bedrijf een doel heeft of het laatste bedrijf van het avontuur is. Wil je het toch opslaan?
+
+#Give:
+
+0x079817CE Deze wezens geven elk toegekend castlid een gereedschap.
+0x079817C9 Deze wezens geven elk castlid een gereedschap.
+

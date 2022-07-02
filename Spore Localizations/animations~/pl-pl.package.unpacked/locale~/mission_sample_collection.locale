@@ -1,0 +1,255 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000BC ...
+0x00000041 Nie, ale dzięki za propozycję.
+0x00000035 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Pobierz próbkę każdego gatunku, a potem wróć do nas.
+0x00000034 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Gdy pobierzesz próbki wszystkich gatunków roślin i zwierząt, wróć po nagrodę.
+0x00000080 Dziękujemy. Prosimy o jak najszybsze wykonanie misji.
+0x0000000A Automatyczna sonda przekazała niedawno Wielkiej Radzie informacje o planecie, która mogłaby nadawać się do zasiedlenia. Do ustalenia, czy tak jest rzeczywiście, nasi uczeni z Instytutu Jedności potrzebują kompletu danych o miejscowych roślinach i zwierzętach. Czy zechcesz im pomóc?
+0x0000009D Cóż, muszę się udać w inne miejsce...
+0x00000008 Chwała niech będzie Spodowi! Odkryliśmy cały nowy świat pełen dzieł Spoda! Pomożesz nam zbadać to nowe dzieło?
+0x00000007 Drogi Spoda liczne są i różnorodne. Odkryliśmy świat obfitujący w organizmy żywe — planetę, z której Światło Spoda mogłoby oświecać cała galaktykę. ~p~Pomożesz nam w tej świętej sprawie?
+0x00000081 Dziękujemy za wkład w naszą wiedzę o planecie ~mission_target_planet~.
+0x0000003D OK, już lecę.
+0x00000012 Zastanawiamy się nad przeprowadzką na planetę ~mission_target_planet~ i porzucenie nieskończonego ciągu nudnych imprez na ożywcze emocje eksploracji i ekscytację związane z poznawaniem obcego ekosystemu. Ale czy ta planeta nadaje się dla nas? Nie możemy tego stwierdzić bez dokładnych danych. ~p~Zechcesz skoczyć na planetę ~mission_target_planet~ i przeprowadzić szczegółowe badania?
+0x0000000C Jeden z naszych statków badawczych został ostatnio zaatakowany przez piratów, przez co straciliśmy dane dotyczące planety ~mission_target_planet~. Czy możesz zdobyć dla nas nowe dane o tej planecie?
+0x000000C1 Chcemy założyć kolonię na planecie ~mission_target_planet~, ale musimy się upewnić, że nie czekają nas tam żadne nieprzyjemne niespodzianki. Czy możesz przeprowadzić dokładne badania tej planety?
+0x000000DE Wciąż czekamy na okazy z planety ~mission_target_planet~. Wszystkie wymagania znajdują się w twoim dzienniku misji. Kiedy możemy spodziewać się dostawy?
+0x000000C2 Trzeba zbadać rośliny i zwierzęta na planecie ~mission_target_planet~. Zrobisz to dla nas.
+0x000000E0 Dzięki! Przy odrobinie szczęścia ta planeta okaże się idealna do kolonizacji!
+0x000000CE Masz wszystkie próbki. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~ po nagrodę.
+0x00000039 Rośliny rosnące na planecie ~mission_source_planet~ zostały sprowadzone z planety ~mission_target_planet~. Niestety podczas podróży powrotnej trochę, jakby to ująć, przesadziliśmy z imprezami i tak jakby zapomnieliśmy, gdzie właściwie znajduje się planeta ~mission_target_planet~... Choć jesteśmy prawie pewni, że jest w pobliżu ~group:star_clue~. ~p~Gdy ją znajdziesz, porwij próbki wszystkich gatunków miejscowych organizmów żywych i dostarcz je nam na planetę ~mission_source_planet~.
+0x00000064 Potrzebujemy pełnego zestawu próbek sieci życia z planety ~mission_target_planet~. Wszystkie niezbędne dane znajdują się w twoim dzienniku misji. Czy wykonasz swoją misję w układzie ~mission_target_star~?
+0x000000E4 Zdaje się, że myślisz, iż masz lepsze rzeczy do roboty niż wożenie drzewek!
+0x00000078 STAN MISJI: Przyjęta przez kontrahenta, w toku. ~p~WYRAZ PSYCHOLOGICZNEJ ZACHĘTY: Dziękujemy. Znakomicie! ~p~STAN KONTRAHENTA: Właśnie wyrusza.
+0x0000000D Jedna z naszych sond odkryła nowy świat — planetę ~mission_target_planet~, która może nadawać się do kolonizacji. Jednak nie dysponujemy jeszcze kompletem danych. ~p~Czy zechcesz nam pomóc w tej kwestii?
+0x0000003F Nie, muszę dopilnować innych spraw.
+0x0000003B Wrócę w mgnieniu oka.
+0x0000006C To jest zbyt skomplikowane. Rezygnuję.
+0x00000069 Jeszcze tylko jedno, zanim się oddalę.
+0x00000009 Nasi mocni wiarą pielgrzymi przygotowują się do osiedlenia na nowo odkrytej planecie! Nie wiemy jednak, jakie napotkają tam gatunki. Pomożesz nam zbadać dzieła Spoda na tym nowym świecie?
+0x00000040 Wiecie co? Mam zamiar zrezygnować.
+0x00000068 Potrzebuję garść innych wiadomości...
+0x00000067 Czy mogę zadać szybkie pytanie?
+0x0000003A Do zobaczenia.
+0x00000036 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Udaj się tam i pobierz próbki wszystkich gatunków roślin i zwierząt, a potem przywieź ten zbiór do nas, abyśmy mogli je zbadać.
+0x000000E1 Ruszaj natychmiast przeprowadzić odpowiednie badania.
+0x00000010 Znaleźliśmy obiecującą nową planetę! Świat ~mission_target_planet~ jest pełny ciekawych organizmów żywych, które mogłyby posłużyć nam za ozdoby lub domowe zwierzaki. Czy oddasz nam przysługę i zbadasz tę planetę?
+0x000000C5 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Przywieź nam próbkę każdego gatunku roślin i zwierząt.
+0x0000000F Jakiś pracownik Wydziału Archiwów najwyraźniej oznaczył wyniki badań planety ~mission_target_planet~ złym 26-cyfrowym kodem, przez co nie możemy ich odnaleźć. To bardzo irytujące, ponieważ mieliśmy nadzieję skolonizować tę planetę. Czy zechcesz szybko zbadać ten świat?
+0x000000C6 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Przywieź nam próbkę każdego gatunku roślin i zwierząt.
+0x000000A0 Jaja sobie robisz? To żart, prawda? ~p~Nie? O NIE! O NIE! TO STRASZNE! NIEBO! NIEBO SPADA NAM NA GŁOWY! ~p~Przepraszam, już mi się wszystko pomieszało. Chodzi tylko o to, że gdy cesarz się wścieka, bywa skłonny do... Nazwijmy to przesadą. ~p~Dobrze. Myśleć. Myśleć. Na pewno coś wymyślę. Potrafię. ~p~Nie. Nic nie przychodzi mi na myśl. WSZYSCY ZGINIEMY!
+0x000000E2 No co ty! Będzie zabawa!
+0x000000C3 Trzeba przeprowadzić spis wszystkich roślin i zwierząt na planecie ~mission_target_planet~. A ty nie masz nic lepszego do roboty.
+0x0000006D Nie mogę znaleźć tej planety. Wycofuję się.
+0x000000C4 Nasze badania ekocydu wymagają nowych okazów. Dostarczysz je nam.
+0x00000072 Jasne. To ma sens. Już ruszam!
+0x0000007B Dziękujemy. Nasi ksenobiolodzy będą czekać na ciebie, ostrząc narzędzia do sekcji.
+0x0000006A Muszę was o coś zapytać.
+0x00000063 Gdzie są organizmy żywe z planety ~mission_target_planet~? Pragniemy zgrokować te metafizyczne cuda!
+0x0000003C Możecie na mnie liczyć.
+0x000000C7 Zbierz próbki roślin i zwierząt z planety ~mission_target_planet~.
+0x000000E3 Zalecamy dokładne przemyślenie decyzji o odmowie.
+0x0000000E Piraci zniszczyli jednostkę powracającą z badań planety ~mission_target_planet~. Wstępne dane sugerują, że świat ten ma bardzo interesujący ekosystem. Czy zechcesz zbadać dla nas tę planetę?
+0x0000007C Znakomicie! Już zaczynamy wybierać chętnych do kolonizacji.
+0x00000037 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Porwij po jednym okazie każdego gatunku roślin i zwierząt, i przyleć tutaj.
+0x00000070 Właśnie to było mi potrzebne. Dzięki.
+0x0000001D Mamy zamiar skolonizować planetę ~mission_target_planet~, ale najpierw potrzebujemy dokładnych danych na temat tego świata. Czy zechcesz nam pomóc i przeprowadzić stosowne badania?
+0x0000008C Och, jakież straszne rozczarowanie! Jakże tęskniliśmy za subtelną i bogatą grą smaków i tekstur, które można znaleźć wyłącznie na tej planecie. ~p~Nie ma wątpliwości, że kiedyś spotkamy innego śmiałego gastronoma, który zechce pomóc w naszym epikurejskim przedsięwzięciu. Tymczasem będziemy trwać w stanie ustawicznego oczekiwania na te nowe wrażenia smakowe. Jesteśmy straszliwie głodni nowych sybaryckich przyjemności dostarczanych przez organy smakowe!
+0x0000008A Och. Cóż za okropne rozczarowanie. Goście (innego gatunku niż wandale) rzadko się u nas pojawiają, więc zapewne upłynie sporo czasu, nim zjawi się ktoś inny chętny do pomocy. ~p~I będziemy musieli zrobić to sami, choć nie wolno nam dźwigać ciężarów. Nasze problemy z dolną częścią kręgosłupa są dobrze udokumentowane w literaturze medycznej, wiesz?.
+0x000000B5 Veni, vidi... i nici.
+0x0000001C Ekosystem planety ~mission_target_planet~ ma prawdopodobnie pewne niepowtarzalne cechy. Czy możesz przeprowadzić dokładniejsze badanie tej planety i dostarczyć nam wyniki?
+0x00000050 Czy mogę zadać szybkie pytanie?
+0x0000008E Tak nieoświecone istoty są zbyt ograniczone, by dostrzec wspaniałość chwały Spoda. Do widzenia.
+0x000000D7 Gwiazda ta znajduje się ~mission_clue_range_min~–~mission_clue_range_max~ parseków od punktu charakterystycznego ~mission_clue_landmark1~.
+0x00000051 Potrzebuję garści innych wiadomości...
+0x0000001F Gdy osiedliliśmy się na tej planecie, postawiliśmy sobie za punkt honoru likwidację wszystkich nudnych i szpetnych roślin i zwierząt. Chyba jednak posunęliśmy się za daleko... Teraz cały ekosystem znalazł się na granicy zapaści! Możesz nam pomóc?
+0x000000B9 Veni, vidi... i nici.
+0x00000018 Z Jedności pochodzi Wiele, a z Wielu — Jeszcze Więcej. Lecz ostatecznie wszystko jest Jednością, poza istotami, które nie są silne w swej Jedności! Wśród Jeszcze Więcej znajduje się nowo odkryta planeta o nazwie ~mission_target_planet~. Nie wiemy, czy jest częścią Jedności, czy Niejedności i potrzebujemy jej dokładnych danych. Czy oddasz nam tę przysługę?
+0x000000B8 Okazało się, że planeta ~mission_target_planet~ ma wspaniałą biosferę. Czy możesz przeprowadzić dokładniejsze badania?
+0x00000098 Potrzebuję garści innych wiadomości...
+0x00000030 Planeta ~mission_target_planet~ krąży wokół gwiazdy ~mission_target_star~. Zbierz próbki wszystkich dzieł Spoda, roślin i zwierząt, a potem wróć do nas.
+0x00000017 Odkryliśmy całkiem nowy świat, pierwotny w swej wspaniałości splendor! Musimy ustalić, czy bardziej nadaje się na sanktuarium kompensatorów aury, krystalomantów, kartomantów, mediów, czy odkażaczy telefonów. A może dla wszystkich naraz? Pomożesz nam przeprowadzić odpowiednie badania?
+0x0000001A Nasze zespoły zwiadowcze są niezmiernie zajęte zwiadami w innych zakątkach galaktyki i nie mogą przeprowadzić odpowiednich badań planety ~mission_target_planet~. Zechcesz je zastąpić?
+0x000000A8 Rezygnujesz z przeprowadzenia badań? A przecież już uprościliśmy to zadanie, specjalnie dla ciebie!
+0x0000001B Planeta ~mission_target_planet~ już dawno została wyznaczona do kompleksowego zbadania, lecz nasze zespoły ekologów są całkowicie zajęte przekształcaniem naszych światów w planety-ogrody. Czy możesz przeprowadzić te badania zamiast nich?
+0x00000019 Ostatnio odkryliśmy nowy, kompletny ekosystem na planecie ~mission_target_planet~. Tamtejsze gatunki mogą okazać się cennym nabytkiem do naszej skarbnicy cudów przyrody. Chcielibyśmy dokładniej zbadać tę planetę, aby określić, czy miejscowe organizmy okażą się szkodliwe, czy też będą użytecznym rozszerzeniem naszej sieci życia. ~p~Czy przeprowadzisz dla nas te badania?
+0x00000097 Czy mogę zadać szybkie pytanie?
+0x000000B7 Twoja porażka jest niepojęta. Do widzenia.
+0x000000AF Mam dużo spraw na głowie. Rozumiecie.
+0x00000025 Jak tam dotrzeć?
+0x00000028 W tej chwili nie mogę. Może później.
+0x000000B0 Ta misja nie jest dla mnie.
+0x00000024 Czy to daleko?
+0x00000026 To chyba przesada. Nie, dziękuję.
+0x00000027 Ojoj. Teraz nie mogę. Mam coś do zrobienia.
+0x000000AD Odkryliśmy ostatnio, że planeta ~mission_target_planet~ jest pełna życia. Chcemy ustalić, czy możemy założyć tam kolonię — w tym celu potrzebujemy próbek miejscowych organizmów żywych. Pomożesz nam je zdobyć?
+0x000000AE Bez urazy.
+0x0000000B Wielka Rada ogłosiła, że należy natychmiast zbadać planetę ~mission_target_planet~, lecz wszystkie nasze statki badawcze są zajęte w innych zakątkach kosmosu. Pomożesz nam?
+0x00000020 ~mission_target_planet~ poważnie potrzebuje remontu. Możesz nam pomóc ja odnowić i ukształtować na nowo?
+0x00000071 A, dobrze. Chyba już wiem.
+0x000000DB gwiazda ta nosi nazwę ~mission_target_star~.
+0x0000008F Niech będzie. Zbierzemy te próbki innym sposobem. Żegnaj.
+0x00000094 W takim razie sami przeprowadzimy te badania. Do widzenia.
+0x000000AA Głupie z was istoty. Do widzenia.
+0x000000B1 Powiedzmy to jasno. To się po prostu nie uda.
+0x00000023 Jak znajdę tę planetę?
+0x00000091 Nie chcesz badać tego nowego świata? Też masz uczulenie?
+0x00000021 Oj! Gdy obudziliśmy się po ostatniej imprezie, odkryliśmy, że przypadkiem zabiliśmy i zjedliśmy ostatnie egzemplarze kilku smakowitych gatunków. Pomożesz nam odnowić zapasy?
+0x00000093 Masz szczęście, że tolerancja jest naszą mocną stroną.
+0x00000022 Czy trudno znaleźć tę planetę?
+0x00000029 Niestety, mam teraz dużo pracy.
+0x00000053 Muszę was o coś zapytać.
+0x0000009C Może innym razem. Do zobaczyska!
+0x0000006F OK, dzięki. Już wiem.
+0x00000099 Jeszcze tylko jedno, zanim się oddalę.
+0x00000033 Udaj się na planetę ~mission_target_planet~, krążącą wokół gwiazdy o nazwie ~mission_target_star~. Pobierz próbkę każdego gatunku rośliny i zwierzęcia, a potem tu wróć.
+0x00000031 ~mission_target_planet~ orbituje wokół gwiazdy o nazwie ~mission_target_star~. Zbierz próbki wszystkich roślin i zwierząt, a potem wróć tutaj.
+0x000000A6 Odmawiasz dotrzymania naszej umowy? Muszę poinformować o tym Wielką Radę. Do widzenia.
+0x00000013 Jedna z naszych misji handlowych przelatywała niedawno w pobliżu planety, która mogłaby się nadawać do kolonizacji. Niestety statki te musiały lecieć dalej, żeby rozładować nadmiar towarów, i nie mogły zbadać tej planety. ~p~Istota tak wspaniała jak ty na pewno bada planety i zwierzęta wręcz przez sen. Może skusisz się na stosowną nagrodę?
+0x00000016 Odkryliśmy nową planetę w układzie ~mission_target_star~. Jeden z naszych wizjonerów wyprorokował, że jeden z organizmów żywych z tego świata może posłużyć nam za źródło ektoplazmy. Zechcesz nam pomóc go odkryć?
+0x0000009A Muszę was o coś zapytać.
+0x00000055 Pomagam z przyjemnością. Żegnam.
+0x000000A5 Nadchodzi galaktyczna apokalipsa. Przewidujemy, że jej nie przetrwasz. Do widzenia.
+0x00000054 Zabawa była przednia. Trzymajcie się.
+0x00000082 Zdaje się, że od tak zdezaktualizowanych istot nie można oczekiwać zainteresowania ważnymi sprawami.
+0x00000056 Pomagam z przyjemnością. Lubię to.
+0x00000057 Uwielbiam podawać pomocną dłoń. Do zobaczyska.
+0x0000009B Przepraszam, że nie mogę wam pomóc.
+0x00000052 Jeszcze tylko jedno, zanim się oddalę.
+0x00000014 Planeta ~mission_target_planet~ może się nadawać do założenia na niej faktorii handlowej! Lecz zanim ją skolonizujemy, musimy zgromadzić odpowiednie dane. Dla tak wspaniałej istoty jak ty byłaby to rzecz trywialna... Poza tym oczywiście oferujemy stosowną nagrodę.
+0x000000D1 Jeszcze jedno...
+0x000000EF Muszę zapoznać się ponownie z opisem misji.
+0x000000EE Szczegóły mojego zadania jakoś mi umknęły.
+0x000000ED Muszę zapoznać się ponownie z wymaganiami misji.
+0x000000F0 Ach, oczywiście! Dziennik misji. Zerknę tam!
+0x000000F1 Zanim wyruszę, mam jeszcze inne pytania...
+0x000000E8 Może innym razem. Do zobaczenia.
+0x000000E9 Widzę, że masz mnóstwo zajęć. Porozmawiamy później.
+0x000000EC Ach, oczywiście! Dziennik misji. Zerknę tam!
+0x000000EB Błagam o wyrozumiałość.
+0x000000EA Widzę, że potrzebujesz trochę czasu. Żegnaj.
+0x000000FB Błagam o wyrozumiałość.
+0x000000FA Widzę, że masz mnóstwo zajęć. Porozmawiamy później.
+0x000000F4 Wolę zająć się czymś innym.
+0x000000F2 Ponadto...
+0x000000F3 Jeszcze jedno...
+0x000000F6 Niestety nie mam już czasu na to zadanie.
+0x000000F9 Do następnego spotkania. Do zobaczenia.
+0x000000F7 Nie mogę wykonać tego zadania. Proszę, wybaczcie.
+0x000000F8 Bardzo przepraszam, że przeszkadzam. Do zobaczenia.
+0x000000D2 Bardzo przepraszam, że przeszkadzam. Do zobaczenia.
+0x000000AC Powtórzcie swoje życzenie. Moje notatki są niejasne.
+0x000000C0 Ponadto...
+0x00000002 Żałuję, ale muszę odmówić.
+0x0000009E Błagam, nie mogę wykonać tego zadania
+0x00000059 Jeszcze jedno...
+0x000000BB Ponadto...
+0x0000003E Chcę zapytać o coś innego...
+0x000000D3 Zakończono zbieranie próbek. Wróć do układu gwiezdnego ~mission_source_star~.
+0x000000BF Zanim wyruszę, chcę spytać o coś jeszcze...
+0x000000BD Jeszcze jedno...
+0x000000BE Chcę spytać o coś innego...
+0x000000CB Masz wszystkie próbki. Wróć na planetę ~mission_source_planet~ po nagrodę.
+0x00000043 Ponadto...
+0x000000CA Planeta znajduje się w układzie słonecznym ~mission_target_star~. Użyj piramidy pokarmowej, aby zidentyfikować formy życia.
+0x00000085 Dziękuję za tę możliwość. Zaraz wyruszam.
+0x00000084 Ruszam w drogę. Żegnam!
+0x00000089 Chcę zapytać o coś innego...
+0x00000086 Niedługo wrócę. Na razie.
+0x000000BA Zanim wyruszę, chcę spytać o coś jeszcze...
+0x00000087 To łatwe zadanie. Żegnam.
+0x0000004E Dziękujemy za pomoc. Dane wskazują, że planeta ~mission_target_planet~ będzie znakomitym źródłem surowców i świetnym miejscem na koszary i place musztry. ~p~Proszę, oto Twoje ~mission_rewards~.
+0x000000A7 Zadbamy o to, żeby niekompetencja Twojego gatunku stała się legendarna w całej galaktyce. Do widzenia.
+0x00000096 Te rośliny i zwierzęta muszą dysponować potężną duchową osłoną, skoro się przed tobą ukryły. A może po prostu Twój umysł jest za słaby?
+0x00000090 Przepraszamy — zapomnieliśmy, że Twój gatunek wykazuje wielce ograniczone zainteresowanie światem przyrody. Do widzenia.
+0x0000007E Wspaniale! Będziemy wypatrywać Twojego powrotu statkiem pełnym substancji liściastych i kudłatych!
+0x0000007D Będziemy niecierpliwie oczekiwać wyników tego testu Twojej inteligencji.
+0x000000E5 Postaramy się, aby Twoje wyginięcie było bezbolesne.
+0x00000088 To straszne rozczarowanie i możesz mieć pewność, że w Twojej kartotece znajdzie się odpowiednia adnotacja. ~p~Ale to wielkie zaskoczenie. Czytaliśmy Twoje akta i takie postępowanie nie bardzo licuje z obrazem nieustraszonego poszukiwacza przygód, jaki się z nich wyłaniał. ~p~Chyba będziemy musieli znaleźć kogoś innego.
+0x000000D9 ODLEGŁOŚĆ: Około ~mission_clue_distance~ parseków od punktu charakterystycznego ~mission_clue_landmark1~
+0x00000092 Najwyraźniej ~player_creature_name~ są zbyt potężni, by znajdować upodobanie w badaniu przyrody. Być może wolisz za to odwiedzić nasze centrum handlowe?
+0x000000D6 Gwiazda ta znajduje się w odległości ~mission_clue_distance~ parseków od punktu orientacyjnego o nazwie ~mission_clue_landmark1~.
+0x000000DA ODLEGŁOŚĆ: Około ~mission_clue_range_min~–~mission_clue_range_max~ parseków od punktu charakterystycznego ~mission_clue_landmark1~
+0x000000F5 Muszę odmówić realizacji z tego zadania.
+0x00000032 Planeta ~mission_target_planet~ orbituje wokół gwiazdy o nazwie ~mission_target_star~. Zbierz próbki wszystkich roślin i zwierząt, a potem wróć tutaj.
+0x000000A9 ~player_creature_name~. O twoim niepowodzeniu możemy co najwyżej powiedzieć, że jest bezprecedensowe. Żegnaj.
+0x00000001 Słyszeliście zapewne, że ~race~ rozpoczęło wielkie przedsięwzięcie ekologiczne; potrzebujemy Twojej pomocy. ~p~Budujemy wielkie arkologie dla wybranych co ciekawszych ekosystemów planetarnych — będą one zabezpieczeniem przed niespodziewanym wymieraniem gatunków. No wiesz — uderzenia asteroidów, rozbłyski słoneczne i takie tam. ~p~Odszukaj planetę ~mission_target_planet~ i pobierz próbki — po jednym egzemplarzu — wszystkich miejscowych organizmów żywych.
+0x0000008B Niech nas protony biją! Nigdy ~race~ nie zniesie niczyjej odmowy! Zapłacisz za to straszliwą, zaiste straszliwą cenę! Będziemy — URK! ~p~Będziemy — ARGHH! ~p~Będziemy — AAA! ~p~Musimy szybko zażyć nasze lekarstwo na serca! Z tobą policzymy się później. Po prostu idź sobie.
+0x000000A3 Musze wyznać, że zwykle nie mamy skłonności do animozji; jesteśmy powszechnie szanowani za nasz wrażliwy charakter i spokojne usposobienie. ~p~Mimo to jestem zobowiązany poinformować Cię, że ~race~ będzie kipieć gniewem, gdy usłyszy te melancholijne wieści. ~p~Natychmiast po Twoim odlocie zaczęliśmy przygotowania do tej uczty — tak czuliśmy entuzjazm na myśl o nowych rarytasach. I całe nasz wysiłek pójdzie na marne!
+0x00000065 Wciąż czekamy na próbki z planety ~mission_target_planet~? W czym problem? Możesz zerknąć do swojego dziennika misji?
+0x0000005E Cudowne dzieła Spoda nie zostały przywiezione z planety ~mission_target_planet~? Twoja obietnica została zapisana w Twoim dzienniku misji. Czy wykonasz swoje zadanie?
+0x000000C8 Wróć na planetę ~mission_source_planet~.
+0x0000007F Ledwo możemy opanować chęć spekulowania na rynku nieruchomości! Udaj się proszę do układu ~mission_target_planet~ i wróć z ładowniami przepełnionymi florą i fauną!
+0x000000C9 Czas się skończył. Wróć na planetę ~mission_source_planet~.
+0x00000062 Gdzie te rośliny i zwierzęta? Opis naszego zlecenia znajduje się w Twoim dzienniku misji. Czy wykonasz swoją misję na planecie ~mission_target_planet~?
+0x0000007A Wielka Rada składa podziękowania. Ruszaj natychmiast do układu ~mission_target_planet~.
+0x0000005F Wielka Rada wciąż potrzebuje danych na temat wszystkich roślin i zwierząt z planety ~mission_target_planet~ w układzie ~mission_target_star~? Wszystkie dane powinny się znajdować w twoim dzienniku misji.
+0x00000005 Wiedz, że przedstawiciele ~race~ są niezrównanymi smakoszami! Słyniemy z wyrafinowanego gustu i znakomitych umiejętności kulinarnych a ostatnio dowiedzieliśmy się o istnym świętym Graalu wykwintnej kuchni — galaktycznym bouillabaisse! ~p~Planeta ~mission_target_planet~ ma idealną mieszankę fauny i flory. Zupełnie, jakby ewolucja obrała tam za cel ideał smaku! ~p~Musisz znaleźć tę planetę i przywieźć nam próbki tamtejszego życia — po jednym egzemplarzu z każdego gatunku. A wtedy ugotujemy najsmakowitszą ze wszystkich potraw!
+0x0000006E Naprawdę, nie mogę podjąć się tego zadania.
+0x0000006B To za trudne, więc wymiękam!
+0x000000CC Wróć do ~mission_source_empire~ na planecie ~mission_source_planet~, by przekazać zleceniodawcy złe wieści.
+0x00000046 Ach, nasza astrogastronomia wraca w pełnej chwale na dzisiejszą kolację! Dobra robota! ~p~Oto ~mission_rewards~ za dostarczenie nam tego kulinarnego delikatesu. Przyjmij też nasze podziękowania. ~p~Niestety mam też złe wieści: tak niewielka ilość potrawy powoduje, że postanowiliśmy, iż tylko prawdziwe ~race~ będzie mogło posmakować skarbu z planety ~mission_target_planet~. Uniżenie przepraszam za to nieporozumienie.
+0x0000002B Żałuję, ale muszę odmówić.
+0x00000079 Niech więc rozpocznie się misja! I niech Spod oświetla ci drogę.
+0x000000AB Czy takie zachowanie cię bawi? Nas nie. Do widzenia.
+0x00000048 Chwała Spoda jaśnieje w każdej z tych próbek! Przyjmij proszę ~mission_rewards~, a zanim odlecisz, porozmawiaj z naszym bratem-misjonarzem.
+0x000000A1 Och, no cóż... Eee... Jasne, to chyba w porządku. Ależ naprawdę. To żaden kłopot. Damy sobie radę. To znaczy... Jasne, poradzimy sobie. Doskonale. ~p~Wiesz... Zresztą nieważne. ~p~Na pewno okoliczności się sprzysięgły przeciwko tobie, więc... Eee. Dzięki. Chyba. Jasne.
+0x00000047 STAN MISJI: Wykonana. ~p~WYRAZY POCHWAŁY: Świetna robota! ~p~PRZESŁANA ZAPŁATA: ~mission_rewards~. ~p~SFORMUŁOWANIA POŻEGNALNE: ~race~ uznaje za stosowne udzielić ci zezwolenia na dalsze istnienie.
+0x000000A2 To poważny błąd z Twojej strony. Podobno ~race~ słynie z tego, że jako gatunek potrafi chować urazę. Likwidowaliśmy całe imperia z powodów, których nikt z nas już nie pamięta! ~p~Przeprowadzimy śledztwo. Powołamy odpowiednią komisję dochodzeniową. Zanotujemy odpowiednie oświadczenia składane pod przysięgą. Wyślemy wezwania do sądu. Ustalimy, jak powinniśmy cię potraktować. Dokładnie. ~p~A potem damy ci znać. Do zobaczenia wkrótce.
+0x00000044 Dzięki za ogromną pomoc! Oto ~mission_rewards~, tak jak obiecaliśmy. ~p~Och, jej! Te nowe rzeczy sprawiają, że nasza planeta jest spójna w swoim pięknie. Wszystko wygląda kompletnie odjazdowo. ~p~A tak między nami, rodzice tych wandali otrzymali od nas poważny list z kilkoma mocnymi słowami. ~p~Anonimowy, rzecz jasna.
+0x000000A4 STAN MISJI: Anulowana przez kontrahenta; misja nieudana. ~p~WYRAZ INTENSYWNEJ NIECHĘCI: Twoje rysy twarzy są wyjątkowo niefortunne, a z uwagi na miejsce przyjścia na świat posiadasz strój wątpliwej jakości. ~p~UZASADNIENIE/INNE: Wiesz, co ci nie wyszło! ~p~INFORMACJA O ZAPRZESTANIU KONTAKTÓW: Skończyliśmy z Tobą. Wynocha!
+0x0000005C Nasz wędrowny smakosz wraca z niewykonaną misją? Potrzebujesz pomocy? ~p~Powiemy ci wszystko, co wiemy: ~p~~group:star_clue~. ~p~Zbierz po jednym egzemplarzu każdego gatunku rośliny i zwierzęcia i wróć tu, abyśmy mogli przygotować smakowite planetarne bouillabaisse.
+0x0000005D STAN MISJI: W trakcie. Kontrahent potrzebuje pomocy. Przystąpiono do przeglądu wiadomości. ~p~PARAMETRY MISJI: Dostarczyć próbki wszystkich gatunków z planety ~mission_target_planet~, ~group:star_clue~ ~p~ZAPŁATA: ~mission_rewards~.~p~Zwłoka nie będzie tolerowana.
+0x0000002D Co, wszystko mamy za ciebie robić? Wiemy tylko tyle: ~br~~group:star_clue~. ~p~Zrób, co trzeba. Otrzymasz ~mission_rewards~.
+0x00000015 Odkryliśmy nową planetę, która być może nadaje się do wykorzystania przez nasze kartele przemysłowe! Najpierw trzeba jednak zbadać jej zasoby naturalne, abyśmy wiedzieli, które branże będą odpowiednie. Czy odpowiednia nagroda skusi cię do przeprowadzenia takiego badania?
+0x0000004A ~player_title~ ludu ~player_creature_name~? Dziękujemy. Wstępna analiza próbek sugeruje, że ta planeta nadaje się do kolonizacji. Jeśli uważasz, że nagroda ~mission_rewards~ jest odpowiednia, należy do ciebie.
+0x0000005A Zlokalizuj planetę ~mission_target_planet~, abyśmy mogli zdobyć zastępcze gatunki, których tak potrzebujemy! ~p~Oto, co wiemy: ~group:star_clue~ ~p~Dostarcz nam próbki wszystkich tamtejszych gatunków, a otrzymasz ~mission_rewards~.
+0x00000003 Znowu! Co za łobuzy! Grupka młodych bałwanów z sąsiedniego układu słonecznego szerzy zamieszanie w naszym ekosystemie. Ciągle znakują nasze rośliny i zwierzęta, teleportują je, transferują, przenoszą w czwarty wymiar, a nawet piąty, tak że biedactwa zaczynają być nieco potargane. Zamierzamy więc nieco ożywić nasza planetę kilkoma nowymi organizmami. ~p~Mamy dla ciebie zadanie: zlokalizować planetę ~mission_target_planet~ i dostarczyć nam próbki jej mieszkańców. Po jednym okazie każdego gatunku.
+0x0000001E Nasza flota przebywa w tej chwili w innej części wszechświata, na manewrach, które mają zastraszyć naszych sąsiadów. W międzyczasie okazało się, że trzeba dokonać szczegółowych badań planety ~mission_target_planet~. Interesuje cię to zadanie?
+0x0000005B Gdzie ty się w ogóle włóczysz, do stu tysięcy kwazarów? Załatwimy cię na cacy, jeśli nie przywieziesz nam potrzebnych gatunków z planety ~mission_target_planet~. ~p~Teraz słuchaj! Oto, co wiemy: ~br~~group:star_clue~. ~p~Jak zrobisz wszystko tak jak trzeba, dostaniesz ~mission_rewards~.
+0x00000073 Znakomicie. Wiedzieliśmy, że ~mission_source_empire~ może na ciebie liczyć. Zawsze wiernie służysz naszym interesom. ~p~Niech kosmos niesie cię szybko i pewnie na planetę ~mission_target_planet~. ~p~Nasz projekt arkologii pełni ważną role w galaktyce. Szkoda by było stracić cały ekosystem planetarny, więc zawsze dobrze jest mieć kopię zapasową.
+0x00000049 Wielka Rada gratuluje ci z okazji wykonania misji. Upoważniono mnie do przekazania ci Dyplomu Uznania drugiej klasy oraz nagrody: ~mission_rewards~.
+0x0000002A My... Ehm... Zgubiliśmy dokładne współrzędnej z powodu błędu urzędnika. Tak. He, he. Oto, co jeszcze wiemy: ~group:star_clue~. Zapłata za wykonanie misji wynosi ~mission_rewards~.
+0x00000077 Już wkrótce w naszych otworach gębowych rozwiną się wszystkie smakowe cuda wszechświata, jeden za drugim! Gdy wrócisz, trafisz do naszych gastronomicznych kronik i nasza cywilizacja ogłosi cię kulinarnym bohaterem oraz bon vivant par excellence c’est la vie voulez vous! ~p~Na samą myśl o nadciągającej uczcie ślinka mi cieknie. Nie, inaczej. Tonę we własnej ślinie na samą myśl o tej planetarnej uczcie. Tracę wszelkie poczucie przyzwoitości i dobrych obyczajów!
+0x0000004B Chwała Spoda jaśnieje w każdej z tych próbek! Przyjmij proszę ~mission_rewards~, a zanim odlecisz, porozmawiaj z naszym bratem-misjonarzem.
+0x0000002C Dokładne współrzędne zostały uszkodzone podczas ostatnich aktów wandalizmu, ale oto, co wiemy: ~group:star_clue~ Za wykonanie misji otrzymasz ~mission_rewards~.
+0x00000066 Cudownie! Niech pozytywne energie oświetlają ci drogę.
+0x0000002E Dysponujemy tylko fragmentarycznymi informacjami: ~group:star_clue~ ~p~W ramach rekompensaty za stracony czas otrzymasz ~mission_rewards~.
+0x00000075 Wybornie! Dobra z ciebie istota, że tak nam pomagasz. Wiesz? ~p~Sami byśmy się tam wybrali, ale zawsze gdy tylko miniemy heliopauzę, ktoś zaczyna się zastanawiać, czy nie zostawił odkręconego kranu. To oczywiście wywołuje zwykłą panikę i zanim się spostrzeżemy, trzeba zawracać statek. ~p~Więc zanim odlecisz, sprawdź, czy w domu nie zostało jakieś włączone żelazko czy coś w tym rodzaju.
+0x00000038 Każda z tych próbek wprost ocieka transcendentalną energią! Oto Twoje zasłużone ~mission_rewards~.
+0x00000058 No! Skup się! Jeśli masz zamiar zlokalizować planetę ~mission_target_planet~, musisz się skoncentrować: ~p~~group:star_clue~. Zapłacimy ci ~mission_rewards~, gdy przywieziesz nam stamtąd próbki wszystkich gatunków do naszej arkologii.
+0x00000074 Zanim pójdę… Mam jeszcze pytanko…
+0x00000060 Nie jesteśmy specjalistami od struktur pamięciowych Twojego gatunku, ale Twoje zachowanie wskazuje, że chyba wypadła ci z mózgu informacja o zleceniu na zebranie próbek z planety ~mission_target_planet~? Czy te wiadomości wciąż znajdują się w twoim dzienniku misji, czy też zostały przypadkowo skasowane?
+0x00000076 Ach, dzięki, kumpel. Szpetota z ciebie, ale nasza szpetota i to mi się podoba. ~p~Cóż, lepiej ruszaj. Ta planeta sama się nie znajdzie. ~p~Więc, no wiesz, cała naprzód. Daj po garach. Zasuwaj.
+0x00000061 Mamy wezwać specjalistów od wystroju wnętrz, czy oddziały z miotaczami ognia? Ustalimy to dopiero po zbadaniu próbek z planety ~mission_target_planet~. Jeśli umysł cię zawodzi, zerknij do swojego dziennika misji.
+0x00000004 Spójrz tylko na tę żałosną kupę błota, która jest naszym domem! Mamy jej dosyć! W każdym calu! Wszystkiego! Całego ekosystemu! ~p~Zbyt długo byliśmy zbyt pobłażliwi dla naszych roślin i zwierząt. Pora się z nimi pożegnać! ~p~Chcemy cię prosić o zlokalizowanie planety ~mission_target_planet~ i zebranie po jednym okazie wszystkich tamtejszych gatunków roślin i zwierząt. Zastąpimy nimi te wszystkie żałosne worki DNA, które obecnie tylko marnują miejsce na naszej planecie. Może nowe gatunki się nam spodobają.
+0x000000D4 Fiasko misji. Czas minął.
+0x00000095 Każde działanie ma swoje następstwa. Czy to dla ciebie nowość?
+0x000000B4 ~player_title~ ~player_creature_name~. Udzielilibyśmy ci instruktażu na temat sprowadzania roślin i zwierząt z planety ~mission_target_planet~, ale nie mamy czasu. Żegnaj.
+0x000000B6 Bezrozumne rośliny i zwierzęta pokrzyżowały ci szyki? Może znajdziesz trochę inteligencji na naszym targowisku.
+0x000000D0 Nie udało ci się zdobyć próbek na czas. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, by przekazać zleceniodawcy złe wieści.
+0x00000045 Och, popatrz tylko. Te rośliny. Wcale nie są lepsze, niż te z poprzedniej partii! I te zwierzaki. Lepiej mnie nawet nie denerwuj! ~p~No cóż. Co można zrobić. Umowa to umowa, jak przypuszczam. Oto obiecane wynagrodzenie: ~mission_rewards~. ~p~Dobra, teraz możemy się zająć wymianą planetarnych ekosystemów, więc możesz już spadać. Do zobaczyska.
+0x00000011 ~mission_target_planet~ roi się od życia, ale czy to życie jest nudne, czy ciekawe? Chcielibyśmy cię prosić o przywiezienie nam kilku okazów, aby można było to ustalić.
+0x0000009F ~player_creature_name~! Co za wstyd! ~p~Szczerze mówiąc, spodziewaliśmy się po tobie znacznie więcej. W przeszłości ~race~ otrzymało od ciebie tyle pomocy. Cóż za rozczarowanie. ~p~Najwyraźniej wolisz po prostu brykać sobie beztrosko i bez celu po wszechświecie. ~p~Właściwie to całkiem niezła perspektywa. Ale masz szczęście!
+0x0000004D Nasza wiedza o środowisku planety ~mission_target_planet~ poważnie się zwiększy, podobnie jak szanse harmonijnego współistnienia z tym nowym światem. Z radością przekazujemy ci nagrodę: ~mission_rewards~ i podziękowanie za dobrze wykonaną pracę.
+0x0000004F Jesteś niezwykle przydatną istotą! Po prostu wysyp te wszystkie rośliny i zwierzęta tam pod pergolą, i ładuj na taczki swoje ~mission_rewards~.
+0x0000004C Twoja wspaniałość zaprawdę lśni jaśniej niż gwiazdy! Oto ~mission_rewards~, zapraszamy też na specjalna wycieczkę po naszym targowisku, gdzie przygotowaliśmy kilka specjalnych ofert, aktualnych jedynie przez kilka najbliższych godzin.
+0x0000002F ISTOTNE INFORMACJE: ~group:star_clue~ ~p~POWTÓRZENIE INFORMACJI O ZAPŁACIE: ~mission_rewards~. ~p~ZAPYTANIE: Akceptujesz warunki zlecenia?
+0x00000042 Znakomita robota! Oto ~mission_rewards~ za ciężką pracę i poświęcenie. ~p~Dostarczone przez ciebie okazy są w znakomitym stanie i zostały z powodzeniem wprowadzone do swoich nowych siedlisk w arkologii. Teraz radośnie brykają sobie tu i tam. ~p~No, może poza roślinami. Te po prostu tkwią w ziemi, ale jesteśmy przekonani, że również im się tam podoba.
+0x000000E6 Nie otrzymaliśmy od ciebie roślin i zwierząt z planety ~mission_target_planet~. Nasi biolodzy nudzą się bezczynnie.
+0x000000B2 Rośliny i zwierzęta to dla ciebie za dużo? Zaprawdę, potrzebujesz Światła Spoda, aby odnaleźć drogę.
+0x000000DC Okazy przybyły w zadowalającym stanie. Możesz pobrać ~mission_rewards~.
+0x00000006 PIERWSZY CEL: zlokalizować planetę ~mission_target_planet~. ~p~DRUGI CEL: pobrać próbki całej flory i fauny. Wrócić. ~p~UZASADNIENIE/INNE: Wiedzą, co zrobili! ~p~ZAPŁATA: ~mission_rewards~.
+0x000000DD Okazy przybyły w zadowalającym stanie. Możesz pobrać ~mission_rewards~.
+0x000000DF Mimo tego, że umieściliśmy parametry zadania w twoim dzienniku misji, nie udało ci się to pobrać próbek z planety ~mission_target_planet~.
+0x0000008D STAN MISJI: Odrzucona przez kontrahenta; zlecenie nadal dostępne. ~p~WYRAZ DEZAPROBATY: Jesteś do niczego. ~p~UZASADNIENIE/INNE: Wiesz, co ci nie wyszło! ~p~KOMENTARZ DO NAGŁEGO ODJAZDU: Nieważne.
+0x000000B3 ~player_title~ ~player_creature_name~. Czyżby opis misji nie był wystarczająco jasny? Nieważne. Wyślemy statek pomiarowy, który wykona to, co tobie się nie udało.
+0x000000CD Planeta ~mission_target_planet~ znajduje się w układzie ~mission_target_star~. Pobierz próbki wszystkich organizmów żywych z tej planety. ~p~Próbki umieszcza się w ładowni za pomocą promienia przechwytującego. Piramida pokarmowa dostarczy ci informacji, jakie rośliny i zwierzęta żyją na planecie ~mission_target_planet~. Pamiętaj: ~group:star_clue~.
+0x00000083 Czy przemyślisz swoją decyzję, jeśli pozwolimy ci postrzelać?
+0x000000E7 ~player_creature_name~. Nie udało ci się dostarczyć roślin i zwierząt z planety ~mission_target_planet~. Twoja nieudolność zostanie uwzględniona w przyszłych obliczeniach.
+

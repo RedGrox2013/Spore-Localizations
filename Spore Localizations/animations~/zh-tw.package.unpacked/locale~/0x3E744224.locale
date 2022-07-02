@@ -1,0 +1,689 @@
+﻿# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 1
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C1 柵欄上有道開口
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 1
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA22 我叫伊芙蒂。你生病了嗎？我沒生病。
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 2
+
+0x36F508C1 咳…咳！
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73821 但它似乎不像在傳訊…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 1
+
+0x36F508C0 什麼聲音？
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 2
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC821 看起來相當舒適...
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 2
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8821 我實在不想告訴，但你挑錯時間來拜訪了。
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 2
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C1 這到底是什麼造成的？
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 1
+
+0x5B7F89C0 威吉？乖女孩，妳在哪裡呀..？
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 4
+# Comments: Character comments: Runs off
+
+0xC1251923 ...那是一種外星傳染病。病源一定是那艘墜落的太空船。我認為，是狗將疾病帶到基地的...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 2
+
+0x5B7F89C1 離我遠一點，布雷爾 - 我不信任你！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 3
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE823 所以至少有一名外星人在這場墜毀中生還。
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 3
+
+0x5B7F89C2 諾瑞斯已經死了，面對事實吧…
+
+# Character name (Character: "base_grave", model: "Research Base Grave_@building_editorModel!0x0769c9ff.bld")
+# Comments: A makeshift grave in the snow - pile of stones with a vaguely cross-like staff sticking out of it
+
+0x546BC860 墳墓
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 5
+
+0x36F508C4 我好想睡...
+
+# Character name (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt")
+# Comments: The Station's Veterinarian
+
+0x5B7F8860 克拉克
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 3
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89822 這車曾有過風光的歷史。
+
+# 'Adventure won' message
+
+0x00000011 傳染病已擴散至整個基地。不過，至少你救出了伊芙蒂！她的天生免疫力或許能夠帶來解藥。
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 4
+
+0x36F508C3 咳！
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 2
+# Comments: Character comments: behind the ship
+
+0x4F928822 這皮膚又綠又粗。看起來不像是墜毀造成的傷害。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 4
+
+0xDB1A5A52 給我留下來！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 3
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0822 沒有權限的人絕不會知道。
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73941 沒有人想進去…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 4
+
+0x5B7F88C3 …如果找到他的話。
+
+# Character name (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld")
+# Comments: Sat Tower with radio mast and dishes
+
+0xF6E73860 衛星站
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 1
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C0 更多的皮 - 剛刮下來的。還沒被大雪覆蓋…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 5
+
+0x5B7F88C4 沒人看過他因為他已經離開了。他現在應該已經凍僵了。
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 2
+# Comments: Character comments: Runs off
+
+0xC1251921 諾瑞斯和我剛在…搞什麼！ ...諾瑞斯？！他跑去哪了？我想他也被感染了。
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 3
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A22 伊芙蒂幫我！幫助我躲藏。但我沒傷她。瞧！她…好好的！她好好的！！！沒有因我而病！
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 2
+
+0x5B7F88C1 全都毀了！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 1
+
+0xDB1A59C0 別...別離開基地！拜託！
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x50000105 你是我的！
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 3
+
+0x5B7F88C2 克歐佛也許可以修好這個...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 1
+# Comments: Character comments: Runs off
+
+0xC1251920 嘿。我是布雷爾，研究站的生物學家。
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 1
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A820 撞擊造成了一個巨大的坑洞！
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 2
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A821 我之前看過這艘船的設計全像圖 - 索希爾人！我們對索希爾人的所知非常少…
+
+# Act 2 description
+
+0x00000023 你找到了冰水計畫研究站...現在快去找研究員。
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x50000104 啊啊啊！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 1
+
+0xDB1A5A49 別走！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 3
+
+0xDB1A59C3 咳！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 2
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE824 開始分析：皮膚上布著綠色捲鬚。
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 1
+
+0x3668DA40 死吧！
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 2
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C6 這聲音...告訴我要怎麼做...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 1
+
+0x5B7F88C0 縫補機器！
+
+# Character name (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: All shriveled up
+
+0xE3E11860 死去的外星人
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x50000103 別走啊！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 2
+
+0xDB1A5A50 你無法離開這！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 2
+
+0xDB1A59C1 那裡不安全，克歐佛離開後就再也沒有回來了。
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 3, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC941 這裡很冷 - 但是，大家都怕裡面的東西…
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x50000102 過來這邊！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 3
+
+0xDB1A5A51 留下來！
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 3
+
+0x3668DA42 離我遠一點！！！！！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 5
+
+0xDB1A5A44 咳…咳…
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x50000101 死吧！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 1
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE820 看起來像是皮…
+
+# Adventure name
+
+0x00000002 從天而降
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 2
+
+0x3668DA41 你竟然敢討厭我的狗！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 5
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A24 請你帶著伊芙蒂離開吧！掰掰！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 4
+
+0xDB1A5A43 諾瑞斯在哪呢？
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x4AB34A43 殺！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 2
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A21 大家都怕我…他們生病了。我很抱歉。這恐怖的疾病…從天而來，到我的星球上。
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 5
+
+0x3668DA44 啊啊啊啊啊！！！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 3
+
+0xDB1A5A42 快跑！
+
+# Character name (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Generic zombie
+
+0xE3E11861 感染者
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 2
+
+0xE03FE921 這代表著什麼呢?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x4AB34A44 來這裡！
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 4
+
+0x3668DA43 我要宰了你！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 2
+
+0xDB1A5A41 布雷爾和克拉克一定出事了！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 1
+
+0xDB1A5A40 我們離開這裡吧！
+
+# Character name (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl")
+# Comments: Modeled after your favorite crashed alien spaceship - Alien or Independence Day?
+
+0xC701A860 墜落的外星太空船
+
+# Character name (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt")
+# Comments: Infected version of Claark
+
+0x3668D860 感染者
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 1
+
+0xC12519C0 我在這裡等就好。我不想去那裡！我是生物學家，不是戰士…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 2
+
+0xC12519C1 為了科學的發展，我會讓你去解決。事實上，我很害怕…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 4
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8824 …就是已經死了。
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73820 基地通訊中心…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 3
+
+0xC12519C2 害怕可能會發生的事。害怕我會在那裡看到什麼...伊芙蒂...
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x4AB34A40 幫幫…我...
+
+# Act 4 description
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000027 跟隨蹤跡並找出源頭。
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x4AB34A41 無法…停止..
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 4
+
+0xC12519C3 她在那裡。我無法面對尋找她的恐懼…
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x4AB34A42 啊啊啊啊啊啊！！！！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 2
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C2 外星人的皮屑蹤跡通往這裡…
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 1
+# Comments: Character comments: behind the ship
+
+0x4F928820 一具屍體！
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 3
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA24 你能帶我回家嗎?
+
+# Character name (Character: "base_body", model: "Dead Researcher_@creature_editorModel!0x076b007d.crt")
+# Comments: This is what most of them become - horribly infected, disfigured…and dead
+
+0xC1605860 死去的研究員
+
+# Character name (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt")
+# Comments: The Station's Geophysicist
+
+0x36F50860 諾瑞斯
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 3
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025842 它在找什麼？
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 3
+# Comments: Character comments: Runs off
+
+0xC1251922 ...媽的。這種疾病可不單純。我從各種生物角度觀察這種疾病，只得到一個答案...
+
+# Character name (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt")
+# Comments: The Station's Meteorologist
+
+0xDB1A5860 班寧
+
+# Act 1 name
+
+0x00000020 墜落地點
+
+# Character name (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld")
+# Comments: Base fence used to separate areas. High, wish it could be electrified!
+
+0x1A8A0860 柵欄
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 1
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C5 這聲音…在我腦中…
+
+# Character name (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Infected version of Blaair
+
+0x4AB34860 感染者
+
+# 'Adventure lost' message
+
+0x00000012 你仍在那。孤單一人。身染疾病，瀕臨垂死邊緣。或許會被某種東西，或是某人…給吃掉了。你難道不希望生命能有第二次機會嗎？
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 3
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A822 沒有動力，沒有生命跡象…不過，逃生艙門爆開了 - 這表示有東西跑出來了！
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 1
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89820 一輛壞掉的亞伯拉罕雪地機動載具。
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 1
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8820 歡迎來到我們的冰球。我想你來這裡是想瞧瞧落在我們前院的殘骸。
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 2
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025841 它看來很困惑...
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 1
+
+0xE03FE920 這麼多的外星皮，看來像剛剛刮下的。
+
+# Act 5 description
+
+0x00000029 伊芙蒂似乎免疫。你必須幫助她逃離這座星球。快點！帶她前往撤離點。
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 5
+# Comments: Character comments: Runs off
+
+0xC1251924 我們全都有麻煩了…我們絕對不能讓這種疾病散播出去…
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 2
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89821 它就是商人口中的「雪地飛車」。
+
+# Character name (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl")
+# Comments: A high tech machine on treads
+
+0xB9C89860 雪地機動載具
+
+# Character name (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt")
+# Comments: Little girl child like Newt in Aliens
+
+0x0CAAA860 伊芙蒂
+
+# Adventure description
+
+0x00000003 一艘外星太空船墜落在冰凍星球上的秘密研究基地附近。你授命前往調查。
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 5
+
+0xDB1A5924 現在，她也不見了。可憐的小伊芙蒂…
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 生態學者、護送、疆屍
+
+# Character name (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt")
+# Comments: Looks like a pile of seaweed (Kelp or Dulce)
+
+0xE03FE860 外星人的皮！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 2
+
+0xC12518C1 我們有比這破玩意兒更大的問題！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 4
+
+0xDB1A5923 此外，還有更糟的。波瑪帶著他的女兒，伊芙蒂，一起參加這次的飛行。
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 3
+
+0x5B7F8943 還有什麼東西在那 - 那絕對不是隻狗！
+
+# Act 3 name
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000024 指控
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 3
+
+0xC12518C2 咳…咳！
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73940 通訊中心似乎關閉了…
+
+# Character name (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld")
+# Comments: A number of these, on stilts. Covered in snow
+
+0x282EC860 研究基地
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 3
+
+0xDB1A5922 船員…開始發病了，接著，他們陷入了瘋狂…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 2
+# Comments: Character comments: Should run off
+
+0x36F50941 咳！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 2
+
+0x5B7F8942 那狗不會怎樣！來這裡，女孩！
+
+# Act 5 name
+
+0x00000028 誰在那裡…？
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 1
+# Comments: Character comments: Should run off
+
+0x36F50940 我聽說…
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 2
+
+0xDB1A5921 這裡一切都像地獄一般。大部分的人，不是失蹤、生病就是掛掉。指揮官昨天也消失不見。我猜，現在輪到我扛起責任了。
+
+# Character name (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt")
+# Comments: infected version of N'orris
+
+0x0CAAA861 感染者
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 1
+
+0x5B7F8941 我不要回去裡頭！門都沒有！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 1
+
+0xC12518C0 我們離開這裡吧！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 1
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A20 嗝吱！ 我…我…我抱歉...
+
+# Character name (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: Look like small men draped in thick seaweed.
+
+0xE3E11862 受感染的外星人
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 1
+
+0xDB1A5920 班寧，叫我寧。我是研究站的氣象學家。
+
+# Character name (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt")
+# Comments: The Station's Biologist
+
+0xC1251860 布雷爾
+
+# Character name (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt")
+# Comments: Wegians are four-legged dog-like creatures. Love Clark
+
+0x61025860 威吉
+
+# Act 1 description
+
+0x00000021 看看有無生還者，並試著找出墜落的原因。
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 1
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025840 好像是某人的寵物。
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 4
+
+0xC12518C3 我感覺不對勁...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 4
+
+0xDB1A5A48 我不喜歡這裡！
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 3
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8822 半數的人員現在都生病了...
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 1
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0820 研究站的周邊柵欄…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 5
+
+0xC12518C4 咳！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 4
+
+0x5B7F8944 諾瑞斯在哪裡？！我告訴你，他是下一個，他是下一個…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 3
+
+0xDB1A5A47 我要爸爸...
+
+# 'Adventure start' message
+
+0x00000010 調查墜毀的外星太空船。搜索生命跡象並確保研究基地的安全。
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 4
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A23 所有人一下子都生病了。你快走！設法幫忙！
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 2
+
+0xDB1A5A46 幫幫我！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 2
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0821 冰水計畫 - 在冰河的深處...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 1
+
+0xDB1A5A45 是怎麼一回事？
+
+# Act 4 name
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000026 偶遇
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 2
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA23 我只希望能讓我的爸爸回來...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 4
+
+0x5B7F89C3 盯牢寧 - 所有的動力都灌入他的腦袋裡...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 5
+
+0x5B7F89C4 我的狗去哪兒了？！
+
+# Act 2 name
+
+0x00000022 事情不對勁…
+
+# Act 3 description
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000025 調查基地並到墓地尋找線索。
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 4
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0823 除非…是外星人…
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC820 標準的塔克-12保暖生命艙...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 3
+
+0x36F508C2 是誰在對我低語嗎？
+

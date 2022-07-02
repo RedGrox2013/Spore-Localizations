@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~失去了一个城市
+0x35492924 失落之城
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~已经完全成为了一个军事文明。
+0x060B4242 获得军事特性
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~得到进化但失去了~timelineAbilityName~能力。
+0x550A15C2 失去~timelineAbilityName~
+
+# TRG_MeatGathered
+
+0x94F807CA 已经获取~timelineSummedCount~块肉。
+0x060B4237 已收集~timelineSummedCount~块肉
+0x05FA01B9 收集到了~timelineSummedCount~块肉。
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A5 ~timelineAbsoluteYears~年
+0x555450A6 +~timelineDeltaYears~年
+
+#### Time Line Title ####
+
+0x0448655A 创造你的部落
+0x0448655B 全球争霸
+0x0448655E 探索宇宙
+0x0448655D 太空时代
+0x0448655C 征服世界
+0x04486557 陆地上的生命进化
+0x04486556 成长到可以登陆
+0x04486555 生命起源
+0x04486558 智力发展
+0x04486559 文明的黎明
+0x00000001 吞噬获取DNA并成长
+0x00000011 探索天际，寻找朋友和敌人
+0x00000009 征服或统治5个敌对部落
+0x00000008 部落阶段
+0x0000000F 利用载具征服、诱惑或是购买对手城市。
+0x0000000A 狩猎，钓鱼或是采集食物，积累货币
+0x00000013 殖民并占领行星
+0x00000012 完成任务赢得资金
+0x00000010 太空阶段
+0x00000007 配对进化
+0x0000000E 开采香料间歇泉以获取资金
+0x0000000B 购买工具增加效率
+0x0000000C 文明阶段
+0x00000004 生物阶段
+0x00000000 细胞阶段
+0x00000005 战斗，征服，或掠夺
+0x00000006 获取DNA并解锁部件
+0x00000002 击败敌人以解锁部件
+0x00000003 在创造器和进化过程中添加部件
+0x0000000D 通过城市礼堂购买或建造载具
+
+# CLG_EatMeat
+
+0x352DBDB9 已经吃了~timelineEventCount~块肉
+0x352DBDBA ~timelineMySpeciesName~吃了一块肉
+0x352DBDBB ~timelineMySpeciesName~吃了~timelineEventCount~块肉。
+0x75580858 您的细胞吃了一块肉块。
+0x75580859 您的细胞吃了~timelineEventCount~肉块。
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~杀死了史诗生物~timelineTargetOTDBName~。
+0x060B422F 杀死史诗生物
+
+# SPG_ColonyOnPlanet
+
+0x060B424D 行星上的殖民地
+0x05FA01CB ~timelineMyEmpireName~开始向~timelinePlanetName~殖民。
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~已经与~timelineTargetOTDBName~联盟。
+0x060B4221 已结盟
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~已经从~timelineTargetEmpireName~处购得。
+0x06300C33 购买星球
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~死亡了~timelineEventCount~次。
+0x05FA0196 ~timelineMySpeciesName~已死亡。
+0x75580854 您的细胞死了。
+0x75580855 您的细胞死了~timelineEventCount~次。
+0x060B4214 死亡
+
+# CVG_CapturedCityEconomic
+
+0x06031AAB ~timelineMyCivName~已经利用经济手段占领了~timelineTargetCivName~的一座城市。
+0x060B423D 经济捕获
+
+# SPG_PlanetDestroyed
+
+0xB54938AC 行星被摧毁
+0xB54938AD ~timelineMyEmpireName~摧毁~timelinePlanetName~。
+
+# SPG_EndedWar
+
+0x35493814 结束战争
+0x35493815 ~timelineMyEmpireName~和~timelineTargetEmpireName~停战。
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x05FA0198 ~timelineMySpeciesName~已经进化成为了一种食肉动物。他们在生物阶段只能吃肉类。
+0x060B4216 获得特性肉
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 宗教海上
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~已经设计了新载具~timelineTargetOTDBName~。
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA844 网络骨骼
+0x064AA839 分配复合分子
+0x064AA838 进化结合向量
+0x064AA841 再结合进化向量
+0x064AA842 计算动作分歧
+0x064AA83C 随机数据原型
+0x064AA843 绘制食物链
+0x064AA83B 区分细胞库
+0x064AA83A 消毒微生物细胞
+0x064AA83D 内胚胎分泌系统
+0x064AA840 初始化神经子系统
+0x064AA83E 映射表皮皮层
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 军用陆地
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01B3 ~timelineMyTribeName~已经进化成为了一座宗教城市。
+0x060B4231 获得特性社交
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~杀死了~timelineEventCount~的部落成员。
+0xB5303DE6 ~timelineMyTribeName~杀死了~timelineTargetTribeName~的一名部落成员。
+0xB5303DE5 被杀死的部落成员
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~已经建立了一座城市！
+0x060B4238 进入文明
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 战争结束
+0x9552AA74 ~timelineMyCivName~和~timelineTargetCivName~停战。
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AD 地形改造~timelinePlanetName~。
+0x0627E7AC 为星球增加T层
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 载具建造
+0x35523EC1 建造海上军事载具
+0x35523EC2 建造~timelineEventCount~个海上军事载具。
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 载具建造
+0xB5523D44 建造空中经济载具
+0xB5523D45 建造~timelineEventCount~个空中经济载具。
+
+# CVG_EditedVehicle
+
+0x060B423A 创造了载具
+0x05FA01BC ~timelineMyCivName~已经设计了新载具~timelineTargetOTDBName~。
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~已经设计了一座新建筑~timelineTargetOTDBName~。
+0x060B4239 创造了建筑
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~已经完全成为了一个宗教文明。
+0x060B4241 获得宗教特性
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01A5 ~timelineMySpeciesName~种族已经进化成为了一个社交种族。
+0x060B4223 获得特性社交
+
+# CVG_AccessorizedCreature
+
+0x05FA01BD ~timelineMyCivName~获得了一套新行头。
+0x060B423B 新装备
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~已经到达星球。
+0x060B424B 进入太空
+
+# CRG_BefriendedSomething
+
+0x05FA01A9 ~timelineMySpeciesName~和一个~timelineTargetOTDBName~成了朋友。
+0x060B4227 和他人成为朋友
+0x54F7EDA3 ~timelineMySpeciesName~~timelineEventCount~生物成为了朋友。
+
+# CRG_Migrated
+
+0x05FA01A1 ~timelineMySpeciesName~占据了一个新的巢穴。
+0x060B421F 新的巢穴
+
+# CRG_Death
+
+0x05FA01A7 ~timelineMySpeciesName~死了。
+0x14F7EF6F ~timelineMySpeciesName~死亡了~timelineEventCount~次。
+0x060B4225 死亡
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~发现了~timelinePartName~部件。
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x05FA01B2 ~timelineMyTribeName~已经进化成为了一座军事城市。
+0x060B4230 获得特性攻击
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~设计了新建筑~timelineTargetOTDBName~。
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 经济陆地
+
+# CVG_SeaVehicleLost
+
+0x060B4249 失去载具
+0xD4F81D00 失去了~timelineEventCount~个海上载具。
+0x05FA01C7 海上载具沉没了。
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~已经摧毁了~timelinePlanetName~。
+0x060B4251 行星被破坏
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 新装备
+0xD5147CA7 ~timelineMyEmpireName~已经换上了一身新装备。
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~发明了~timelineAbilityName~。
+
+# TRG_BefriendedTribe
+
+0x060B422D 与部落联盟
+0x05FA01AF ~timelineTargetTribeName~已经与~timelineMyTribeName~达成了联盟。
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 经济空中
+
+# SPG_ColonyPlaced
+
+0x060B425F 已部属殖民地
+0x05FA01D3 ~timelineMyEmpireName~已殖民了~timelinePlanetName~。
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~和~timelineTargetCivName~开战。
+0x35492926 战争开始
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~成为了一名宇宙吟游诗人！
+0x060B4255 获得吟游诗人特性
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 建造~timelineEventCount~个空中军事载具。
+0xB5523D41 建造空中军事载具
+0xB5523D40 载具建造
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01B4 ~timelineMyTribeName~已经进化成为了一座经济城市。
+0x060B4232 获得特性混合
+
+# CRG_PackMemberAdded
+
+0x060B421D 兽群成员增加
+0x05FA019F ~timelineTargetOTDBName~ 加入了你的兽群。
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~成为了一名宇宙科学家！
+0x060B4259 获得科学家特性
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~已经设计了新载具~timelineTargetOTDBName~。
+
+# SPG_MadeAlly
+
+0x060B424E 建立联盟
+0x05FA01CC ~timelineMyEmpireName~已经与~timelineTargetEmpireName~联盟。
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 建造陆地经济载具
+0x15523CA3 载具建造
+0x15523CA5 建造~timelineEventCount~个陆地经济载具。
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 ~timelineMySpeciesName~种族已经进化成为了一个快速种族。
+0x060B4224 获得特性混合
+
+# CVG_CapturedCityReligious
+
+0x06031AAC ~timelineMyCivName~已经利用宗教手段占领了~timelineTargetCivName~的一座城市。
+0x060B423E 宗教捕获
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x05FA01A4 ~timelineMySpeciesName~种族已经进化成为了一个力量种族。
+0x060B4222 获得特性攻击
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~已经使用了~timelineSuperPowerName~。
+0x060B4244 已使用超级能力
+
+# CVG_EpicKilled
+
+0x3552A305 ~timelineMyCivName~杀死了史诗生物~timelineTargetOTDBName~。
+0x3552A304 杀死史诗生物
+
+# CRG_KilledSomething
+
+0x05FA01A8 ~timelineMySpeciesName~杀死了一个~timelineTargetOTDBName~。
+0x060B4226 杀死其他生物
+0xF4F7EE4B ~timelineMySpeciesName~杀死了~timelineEventCount~的生物。
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~占领了~timelineEventCount~座香料间歇泉。
+0x05FA01C1 ~timelineMyCivName~已经占领了一座香料间歇泉。
+0x060B4243 占领香料节点
+
+# CVG_LostCityByMilitary
+
+0x35492920 失落之城
+0x35492921 ~timelineMyCivName~失去了一个城市
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~消灭了~timelineTargetOTDBName~。
+0x060B4220 已灭绝
+
+# CRG_PackMemberDied
+
+0x05FA01A0 ~timelineMySpeciesName~失去了一名兽群成员。
+0x060B421E 兽群成员死亡
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~成为了一名宇宙萨满！
+0x060B425A 获得萨满特性
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 建造载具
+0xB4F817E5 建造~timelineEventCount~个陆地载具。
+0x05FA01C3 已建造陆地载具。
+
+# CVG_LandVehicleLost
+
+0x060B4248 失去载具
+0x54F81C70 失去了~timelineEventCount~个陆地载具。
+0x05FA01C6 陆地载具被摧毁了。
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA852 初始多普勒效应管理器
+0x064AA853 安置技术要素
+0x064AA854 平衡城市动态
+0x064AA850 规划分析地图
+0x064AA856 伸缩环绕粒子
+0x064AA84F 测量碳氢资源
+0x064AA900 授入病毒数据
+0x064AA84E 稳定地壳边界
+0x064AA857 催生跃迁初始化
+0x064AA851 移植大陆子系统
+0x064AA855 构成环境音源
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~已经获得了启迪。
+0x060B4254 CQ恒星体
+
+# CRG_EvolveInEditor
+
+0x060B421B 产生~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~进化了。
+
+# CVG_AirVehicleLost
+
+0x060B424A 失去载具
+0x05FA01C8 空中载具被击落了。
+0xF4F81D2C 失去了~timelineEventCount~个空中载具。
+
+# SPG_CapturedStare
+
+0x060B4250 占领星球
+0x05FA01CE ~timelineMyEmpireName~已经被~timelineTargetEmpireName~占领。
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 宗教陆地
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~损失。
+0x060B4263 玩家太空飞船被摧毁
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~成为了一名宇宙骑士！
+0x060B4258 获得骑士特性
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~得到进化并获得了~timelineAbilityName~能力。
+0x550A15C0 获得~timelineAbilityName~
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 已发现~timelineTargetEmpireName~。
+0x060B4264 遭遇帝国
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~将一件礼物交给~timelineTargetTribeName~。
+0xB5303DE2 给予礼物
+0xB5303DE4 ~timelineMyTribeName~交给了~timelineEventCount~礼物。
+
+# CVG_TradeRouteStarted
+
+0x3549292A 商路建成
+0x3549292B 和~timelineTargetCivName~启动商路。
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~设计了一艘新太空飞船。
+0x060B424C 编辑太空飞船
+
+# CLG_DiscoverPart
+
+0x05FA0193 ~timelineMySpeciesName~发现了~timelinePartName~部件。
+0x060B4211 发现部件
+0x75580853 发现~timelinePartName~个部分。
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~成为了一名宇宙勇士！
+0x060B425D 获得勇士特性
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 建造载具
+0x94F819B5 建造~timelineEventCount~个海上载具。
+0x05FA01C4 已建造海上载具。
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~击败~timelineTargetCivName~。
+0x35492928 战争结束
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~成为了一名宇宙漫游者！
+0x060B425C 获得漫游者特性
+
+# TRG_UnlockedTool
+
+0xD537EA55 解锁~timelineAbilityName~
+0xD537EA56 解锁~timelineAbilityName~
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~成为了一名宇宙生态学家！
+0x060B4257 获得生态学家特性
+
+# TRG_DomesticatedSpecies
+
+0x060B422E 新宠物 ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~驯养了一只~timelineTargetOTDBName~宠物。
+
+# SPG_UFODestroyed
+
+0x05FA01D4 ~timelineTargetEmpireName~太空船已被摧毁。
+0x356A2D21 ~timelineEventCount~飞船被摧毁。
+0x060B4260 太空飞船被摧毁
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 经济海上
+
+# TRG_TribeMemberDied
+
+0x05FA01B6 ~timelineMyTribeName~失去了一个部落成员。
+0xD4F7FE0D ~timelineMyTribeName~失去了~timelineEventCount~名部落成员。
+0x060B4234 部落成员死亡
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 军用空中
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 建造~timelineEventCount~个陆地军事载具。
+0x15523CA1 建造陆地军事载具
+0x15523CA0 载具建造
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~成为了一名宇宙交易人！
+0x060B425B 获得交易人特性
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~遭遇了格洛克斯。
+0x060B4252 第一次格洛克斯遭遇
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 建造~timelineEventCount~个陆地宗教载具。
+0x15523CA7 建造陆地宗教载具
+0x15523CA6 载具建造
+
+# TRG_ConqueredTribe
+
+0x060B422C 征服部落
+0x05FA01AE ~timelineTargetTribeName~被~timelineMyTribeName~征服。
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA902 保存质量
+0x064AA908 催化区别性
+0x064AA904 调整重力常数
+0x064AA90A 重置银河系扭矩
+0x064AA90C 处理帝国影响地图
+0x064AA901 中和介质领域
+0x064AA909 恒星红移平衡
+0x064AA90B 热带纬度校准
+0x064AA905 充能放射性星云
+0x064AA906 编制亚行星系统
+0x064AA907 生成银河系旋律
+0x064AA903 扩展本地空间
+
+# TRG_AccessorizedCreature
+
+0x05FA01AC ~timelineMyTribeName~获得了一套新装备。
+0x060B422A 新装备
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~已进化。
+0x060B4212 产生~timelineGenerationCount~
+
+# CRG_Grow
+
+0x05FA019E ~timelineMySpeciesName~现在的大脑容量更大了！
+0x060B421C 大脑升级
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~成为了一名宇宙外交官！
+0x060B4256 获得外交官特性
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A857 商路获得收入
+0x7552A859 通过商路获得~timelineSummedCount~Spore币。
+0x7552A858 通过商路获得~timelineSummedCount~Spore币。
+
+# CLG_KilledSomething
+
+0xF4F7C380 ~timelineMySpeciesName~杀死了~timelineEventCount~的细胞。
+0x060B4219 杀死其他生物
+0x7558085A 您的细胞杀死了一个~timelineTargetOTDBName~。
+0x7558085B 您的细胞杀死了~timelineEventCount~个细胞。
+0x05FA019B ~timelineMySpeciesName~杀死了~timelineTargetOTDBName~。
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA0199 ~timelineMySpeciesName~已经进化成为了一种杂食动物。他们在生物阶段既能吃水果又能吃肉。
+0x060B4217 获得特性混合物
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84C 阶段转换范例
+0x064AA845 过滤社会约束
+0x064AA846 发展文化概念
+0x064AA849 组织认知框架
+0x064AA848 构造语言系统
+0x064AA847 净化动作
+0x064AA84A 平滑面孔法线
+0x064AA84B 准备种族图像样本
+0x064AA84D 分配认识能力
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~成为了一名宇宙狂热者！
+0x060B425E 获得狂热者特性
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 收集了~timelineSummedCount~个海藻。
+0x555BD5C3 收集了~timelineSummedCount~个海藻。
+0x555BD5C4 收集了~timelineSummedCount~个海藻。
+
+# SPG_SpiceTraded
+
+0x060B4261 已进行香料贸易
+0x05FA01D5 ~timelineSummedCount~ 香料已交易。
+0x55564EC3 交易了~timelineSummedCount~香料。
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~已经赢得了大师徽章。
+0x060B4253 获得大师徽章
+
+# CLG_GameStart
+
+0x05FA0192 从小行星上出现。
+0x060B4210 第~timelineGenerationCount~代
+
+# CVG_EpicCharmed
+
+0x3552A306 魅惑史诗生物
+0x3552A307 ~timelineMyCivName~魅惑了史诗生物~timelineTargetOTDBName~。
+
+# CVG_CapturedCityMilitary
+
+0x06031AAA ~timelineMyCivName~已经利用军事手段占领了~timelineTargetCivName~的一座城市。
+0x060B423C 军事捕获
+
+# CVG_SpiceNodeLost
+
+0xD54932C0 失去香料节点
+0xD54932C2 ~timelineMyCivName~失去了~timelineEventCount~香料间歇泉。
+0xD54932C1 ~timelineMyCivName~失去了一个香料间歇泉
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC3 载具建造
+0x35523EC4 建造经济海上载具。
+0x35523EC5 建造~timelineEventCount~个海上经济载具。
+
+# CRG_GameStart
+
+0x060B421A 产生~timelineGenerationCount~
+0x05FA019C ~timelineMySpeciesName~已经登上了陆地，并开始了向智慧生命进化的旅程。
+
+# CLG_EatPlant
+
+0x352DBDB8 ~timelineMySpeciesName~吃了~timelineEventCount~片植物。
+0x352DBDB7 ~timelineMySpeciesName~吃了片植物。
+0x352DBDB6 已经吃了~timelineEventCount~片植物
+0x75580856 您的细胞吃了一块浮游植物。
+0x75580857 您的细胞吃了~timelineEventCount~浮游植物。
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~成立了一个部落。
+0x060B4229 进入部落
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~现在正在和~timelineTargetEmpireName~打仗。
+0x060B424F 开始战争
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 军用海上
+
+# TRG_TribeMemberBorn
+
+0x05FA01B5 一个新婴儿出生在~timelineMyTribeName~中。
+0xD4F81307 ~timelineEventCount~个婴儿已经在~timelineMyTribeName~出生。
+0x060B4233 部落成员出生
+
+# SPG_RareFound
+
+0x05FA01D6 发现稀有物：~timelineRareName~
+0x060B4262 发现稀有物
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 建造载具
+0x34F81C5A 建造~timelineEventCount~个空中载具。
+0x05FA01C5 已建造空中载具。
+
+# TRG_FruitGathered
+
+0x94F804D9 已经收集~timelineSummedCount~颗水果。
+0x05FA01B7 采集了~timelineSummedCount~颗水果。
+0x060B4235 已采集~timelineSummedCount~颗水果
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~已经完全成为了一个经济文明。
+0x060B4240 获得经济特性
+
+# TRG_FishGathered
+
+0x54F8079A 抓到了~timelineSummedCount~条鱼。
+0x060B4236 已抓获~timelineSummedCount~条鱼
+0x05FA01B8 钓到了~timelineSummedCount~条鱼。
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC6 载具建造
+0x35523EC7 建造海上宗教载具
+0x35523EC8 建造~timelineEventCount~个海上宗教载具。
+
+# CVG_TradeCompleted
+
+0x3549292C 进行贸易
+0x3549292D ~timelineMyCivName~交易~timelineSummedCount~Spore币。
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 建造空中宗教载具
+0xB5523D48 建造~timelineEventCount~个空中宗教载具。
+0xB5523D46 载具建造
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 宗教空中
+
+# CVG_GiftGiven
+
+0xD54932C3 金钱花费
+0xD54932C5 ~timelineMyCivName~支付~timelineSummedCount~Spore币。
+0xD54932C4 ~timelineMyCivName~支付~timelineSummedCount~Spore币。
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x05FA0197 ~timelineMySpeciesName~已经进化成为了一种食草动物。他们在生物阶段只能吃水果。
+0x060B4215 获得特性植物
+
+# TRG_EggGathered
+
+0x555BD5C2 收集了~timelineSummedCount~个卵。
+0x555BD5C1 收集了~timelineSummedCount~个卵。
+0x555BD5C0 收集了~timelineSummedCount~个卵。
+

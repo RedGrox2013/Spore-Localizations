@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x00000028 Průzkum zřejmě aktivoval obranný systém kolonie. Tohle nevypadá moc dobře…počkat…příchozí spojení…
+0x0663A00A Meziplanetární pohon z vraku reaguje na signály majáku nedaleké hvězdy, jejíž souřadnice se shodují s těmi, které jsou uložené v jeho paměti. To musí být jejich domovská planeta - možná ještě stále potřebují pomoc...
+0x0000001A To je havarovaná kosmická loď! Vysílá zvláštní radiový signál. Doleťte blíž a místo havárie prozkoumejte pomocí detektoru.
+0x0000001B Mimozemšťané! Ale žádné známky života. Vypadá to, že před smrtí namalovali nějakou tajemnou mapu.~br~Počkat! Z vraku byl vypuštěn transportovací paprsek! Nějaké předměty se dostávají na palubu!
+0x0000001C Pozdě! Tyhle trosky musí být zbytky domovské kolonie mimozemšťanů z toho vraku. Prozkoumání trosek může napovědět, co se tu odehrálo.
+0x06304FA8 Střely a meziplanetární pohon, který vypadá, že má v sobě naprogramované souřadnice hvězd. To poškození vraku vypovídá o boji. Tahle loď měla určitě někam doletět pro pomoc.
+0x0000001D Detektor nic nenašel, ale zdá se, že jsme vyvolali nějakou odpověď… Radar ukazuje jakousi aktivitu...
+0x00000004 Lodní radar začíná něco ukazovat…
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B778C ~br~~br~Vítej, příteli!~br~~br~Cestoval jsi velmi daleko~br~a překonal jsi mnoho překážek. ~br~~br~Cestou jsi potkával řadu našich rozličných a vzdálených sourozenců - ~br~~br~~br~pouze nepatrný zlomek z nich se dostane tak daleko.~br~~br~Tvá hrdinná snaha je důkazem toho,~br~~br~že jsi hoden postoupit na další úroveň existence. ~br~~br~~br~Vesmír, který obýváš je pouze jeden z mnoha~br~nesčetných světů, dosud nespatřených, ale propojených.~br~~br~~br~Tvé kreativní úsilí neprošlo bez povšimnutí.~br~~br~Ve skutečnosti se rozlilo do těchto jiných, nespatřených světů~br~~br~~br~stejně, jako jimi byl obohacen tvůj svět.~br~~br~~br~Je načase, aby ses k nám přidal...~br~~br~~br~Přidal se k nám! Muvahahahaha!!!~br~~br~~br~Ne, dělám si srandu. Není to strašidelný. ~br~Fakt. Budoucnost, která nás čeká, je fajn.~br~~br~Fakt v pohodě. ~br~Někdo si asi říká, komu patří tenhle záhadný hlas, který~br~toho tolik ví a který má takové schopnosti?~br~~br~~br~~br~~br~Jsem rád, že ses zeptal...~br~
+0x067B7833 ~br~~br~Jsem Steve.~br~~br~~br~Nyní ti bude propůjčena schopnost.~br~~br~Ano, správně, SCHOPNOST. ~br~~br~Schopnost, vytvářet a šířit po kosmu život, inteligenci a porozumění.~br~~br~~br~~br~Používej tuto schopnost moudře.~br~ Používej ji tak, abychom se jednoho dne stali JEDNÍM...~br~~br~~br~To znamená... jakože...~br~V přeneseném slova smyslu. ~br~~br~~br~Jó… ještě jedna věc.~br~~br~Je poslední možnost, objednat si prázdninový pobyt poblíž jedné z našich báječných hvězd, kterou obíhají vzácné planety.~br~~br~~br~~br~Když budeš zrovna někde poblíž, určitě se zastav na snídani a krátké promítání. ~br~~br~~br~Najdeš nás na třetím balvanu od Slunce.~br~
+
+# Terraform
+
+0x05FA8A51 Gratulujeme! Začali jste terraformovat a kolonizovat a rozšířili tak své impérium. S kořením z vašich kolonií můžete obchodovat s jinými rasami.
+
+################
+
+0x0601FE99 Po zničení lodi ~ufo_name~ se vaši spojenci vrátili do svých domovských soustav - vy uděláte to samé, abyste mohli získat novou loď. Svoji flotilu obnovíte tak, že své spojence opět navštívíte a znovu si je získáte do svých služeb.
+0x05B1568D Vesmírní piráti! S těmahle chlápkama budou problémy, takže se možná vyplatí zaletět k planetě a zbavit se jich tam.
+0x05B1A752 Přepadení! Piráti falšovali signál, aby vás nalákali do pasti. Připravte se na bitvu!
+0x05B15258 Vaše zařízení SETI zachytilo zvláštní radiové signály, vycházející z této hvězdy. Zaleťte tam a prozkoumejte to!
+0x063BB6D6 Gratulujeme, od nynějška jste držitelem titulu Komodor! Ve vaší spojenecké flotile je nyní místo pro další loď.
+0x063ABD3D Gratulujeme, jste čerstvým vlastníkem odznaku a titulu Kapitán!
+0x05B1CB68 Na této planetě bylo zachyceno něco neobvyklého. Zaleťte tam a prozkoumejte ji!
+0x05F9E801 Teď, když jste založili obchodní cestu, bude mezi vašimi impérii probíhat výměna koření - to bude odesíláno automaticky. Toto partnerství dláždí cestu vedoucí k odkoupení dané soustavy.
+0x05FA2A28 Vaše činy vám přinesly přízeň tohoto impéria. Začněte s nimi komunikovat a pomocí svých diplomatických schopností se s nimi pokuste vytvořit spojenectví.
+0x05F776D6 Jak se přibližujete k jádru galaxie, je navigace gravitačními poli hustých hvězdných mlhovin stále těžší. Aby bylo dosaženo větší přesnosti, snížil se váš dolet.
+0x05FA70DA Je čas válčit! Pomocí svých zbraní zničte všechny kolonie planety, donuťte je kapitulovat a poté si zvolte, jestli vše srovnáte se zemí, nebo jestli je zaberete.
+0x0000000B Ekosystém této planety je v ohrožení. Zabijte nemocná zvířata dřív, než nakazí zbylé druhy - to by vytvořilo dominoefekt a selhal by celý potravinový řetězec planety.
+0x05FA8A4D Planety obíhající po zelených oběžných drahách jdou lépe terraformovat a kolonizovat, než planety na červených nebo modrých drahách.
+0x00000020 Planetu ~planet_name~ jste určili jako přírodní rezervaci. Můžete nasbírat až ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ zvířat a umístit je na tuto planetu, kde budou moci bezpečně žít.
+0x0000002E Vstoupili jste na území rasy ~race~. Vaše vzájemné vztahy jsou slabé, takže váš vstup bude považován za nepřátelskou akci a začnou na vás útočit.
+0x00000010 Díky pokrokům v technologii klonování a nouzového přenosu vědomí jste stále naživu. Namísto smrti se vrátíte do svého domovského světa, kde pro vás vaše impérium staví novou kosmickou loď ~ufo_name~.
+0x063BB6F6 Gratlujeme k získání exkluzivního titulu Nejvyšší tvor!
+0x063BB6DA Gratulujeme, od nynějška jste držitelem titulu Admirál!
+0x063BB6E3 Gratulujeme vám k povýšení na titul Proslulý!
+0x063BB6DF Gratulujeme, od nynějška jste držitelem titulu Oslavovaný! Vaše povýšení znamená, že můžete velet větší spojenecké flotile.
+0x063BB6F2 Gratulujeme vám k povýšení na titul Všemocný!
+0x063BB6EE Gratulujeme, od nynějška jste držitelem titulu Legendární!
+0x063BB6E8 Gratulujeme, od nynějška jste držitelem titulu Veliký! Vaše povýšení znamená, že můžete velet větší spojenecké flotile.
+0x0000002F Toto území je ovládáno rasou z této domovské hvězdy. Vaši přítomnost na jejich území považují za útočný akt.
+0x064E8373 Postavili jsme vám novou loď, tak se jí snažte tentokrát nerozbít!
+0x00000014 Nemohla by to být kolonie Hrubešů? Jejich chladnokrevnost je po galaxii pověstná. Mějte se na pozoru!
+0x00000030 Tohle je cizí území. Dokud se budete na tomto území zdržovat, bude na vás tato rasa útočit. Musíte se rozhodnout. Útěk, boj nebo mír. Po čem sáhnete?
+0x063BB6FA Gratulujeme! Dosáhli jste největšího možného úspěchu. Získáváte titul Všemohoucí! Dobrá práce!
+0x00000001 Můžete vyrazit vhůru! Podařilo se vám vyvinout loď, schopnou letu do vesmíru!~br~Nebesa vás vyzývají, kosmos vás očekává, vesmír máte na dosah ruky.~br~Pokud se s touhle věcí naučíte létat...
+0x0000002B Objevili jste holou planetu.Na holé planety můžete umisťovat pouze omezeně velké kolonie, nebo můžete vylepšit Terraskóre planety (T-Skóre) a poté na ní založit vzkvétající vesmírnou základnu vašeho impéria.
+0x00000007 Drakeova rovnice byla správná… živá mimozemská rasa! Nejsme sami! Vypadá to, že poslali vyslance, aby vás pozdravil. Možná byste si s nimi měli promluvit, otevřete svůj Panel komunikace.
+0x05FA8A4E Kolonie mohou být založeny na jakékoliv planetě od neúrodných měsíců až po bujně kvetoucí oázy s Terraskóre 3. Kolonie plné ovoce těží koření, se kterým lze obchodovat.
+0x05FA8A4F Gratulujeme! Rozšířili jste své impérium. Produktivita každé kolonie je přímo úměrná její velikosti a její velikost omezuje Terraskóre dané planety. Investujte do terraformace a poté budujte kolonie a přidávejte budovy - tím získáte největší výnosy.
+0x0000002C Vaše kosmická loď ~ufo_name~ utrpěla taková poškození, že byla zničena. Díky pokroku v technologii klonování jste stále naživu. Namísto toho se vrátíte do svého domovského světa, kde budete mít připravenou loď novou.
+0x0000000F Vaše kosmická loď ~ufo_name~ utrpěla příliš mnoho zranění a byla zničena.
+0x060C72DC Nasbírali jste koření! Koření je ceněná komodita. Sbírejte jej při každé návštěvě kolonií a domovského světa.
+0x00000029 Objevili jste divokou planetu se spoustou příšerek a rostlin, jejichž pomocí můžete rozšiřovat život na jiné planety. Divoké planety také překypují kořením a mohou poskytovat prostor pro kolonie.
+0x063BB6D0 Gratulujeme, byl vám propůjčen titul Velitel! Nyní se můžete ucházet o titul Velitel!
+0x064BD3E4 Na této planetě nebyly nalezeny žádné objekty. Něco tu není v pořádku…
+
+# Uplift Game
+
+0x00000022 Díky monolitu se tato planeta bude vyvíjet… vraťte se sem později podívat, co se stalo!
+
+#System Capture
+
+0x06610F0E Gratulujeme! Diplomatickými prostředky jste vytvořili silné obchodní spojenectví a podařilo se vám vyjednat skvělou koupi jejich soustavy.
+0x06610F0C Gratulujeme! Vojenskou silou jste donutili své nepřátele se podřídit a zabrali jste jejich soustavu.
+0x06610F0B Gratulujeme! Vojenskou silou jste donutili své nepřátele se podřídit a zabrali jste jejich soustavu.
+0x06610F0D Gratulujeme! Diplomatickými prostředky jste vytvořili silné obchodní spojenectví a podařilo se vám vyjednat skvělou koupi jejich soustavy.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Jako ocenění jste získali Osazenstvo života!
+
+# Rares
+
+0x0000000C Lodní radar zachytil na této planetě zajímavý objekt!
+0x0643D130 Nástroj na tvarování planety! Jeho pomocí vytvářejte planety s vaším rukopisem.
+0x0000001E Radar lodi zachytil jedinečný skenovaný podpis. Odlišný od všech předtím odhalených.
+0x0000000D Galaxie je plná vzácných předmětů, soch a zkamenělin. Jedna z těchto vzácností je přímo tady! Odtáhněte ji a prodejte ji za ranec Sporáčů, nebo se pokuste nasbírat celé sady a za ty požadujte ještě víc.
+

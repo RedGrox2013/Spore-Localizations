@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x0757671A Start
+0x07186066 ~ep1_adventure_lose~ ~br~ score: ~ep1_score~ ~br~ tid: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ score: ~ep1_score~ ~br~ tid: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~ gemt.
+0x070B1805 Genstart
+0x070B1800 Afslut
+0x07959A07 Eventyret har brug for en kaptajn i spilverdenen, på et gyldigt sted, før det kan gemmes.
+0x071877C1 Forfatteren af dette eventyr har endnu ikke skrevet en introduktion til eventyret endnu.~p~I Eventyrskaberen skal du klikke på Intro-knappen i Aktpanelet for at tilføje en introduktion.
+0x07CCEEFC Mandskab
+0x07B4DD6E Eventyret har brug for en kaptajn i spilverdenen, på et gyldigt sted, før det kan spilles.
+0x070B17F3 Forfattergenereret EVENTYR TABT-tekst vises her.
+0x071877BA Forfattergenereret EVENTYR VUNDET-tekst vises her.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Målet har et ikke-defineret parameter
+0x07D91076 Målet er ikke gyldigt
+
+# instance checks
+
+0x07D910E4 Målet kan ikke bruges for et mål, der er sat til at være territorial eller aggressiv i akten
+0x07D910E6 Målet kan ikke bruges for episke væsener
+0x07D910E8 Målet kan ikke bruges for et mål, der er fjendtligt i akten
+0x07D910E1 Målet er på et ugyldigt sted
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Alle
+
+# Second, for buildings and vehicles
+
+0x07B5154F Ødelæg
+0x07B51562 Giv ...
+0x07B5155C Indsaml
+0x07B5154C Undersøg
+0x07B51549 Gå til
+0x07B51564 Blokér ...
+0x07B51567 Forsvar
+0x07B55076 Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x07B55079 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Indsaml ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ indsamlet)
+0x07B55073 Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A4C Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A4E Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x07B52A41 Undersøg ~ep1_goal_target_name~
+0x07B55060 Undersøg ~ep1_goal_target_name~
+0x07B52A44 Ødelæg ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A49 Indsaml ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A3A Gå til ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B5505D Gå til ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ gennemført)
+0x07B52A47 Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B5506A Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B51559 Tag med ...
+0x07B55063 Ødelæg ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ ødelagt)
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Målets helbred er sat til usårlig i denne akt
+0x07D910C4 Målets helbred er sat til nul i denne akt
+0x07D910C0 Målet er sat til at være usynligt i denne akt
+0x07D910CB Målet gælder ikke for væsener
+0x07D910CD Målet gælder ikke for fartøjer
+0x07D910DA Målet gælder ikke for avataren
+0x07D910DD Minimum et af målene skal være mobilt
+0x07D910D8 Målet gælder ikke for spilgenstande
+0x07D910CF Målet gælder ikke for bygninger
+0x07D910D3 Målet gælder ikke for fikserede genstande
+0x07D910D5 Målet gælder ikke for håndholdte genstande
+
+# Special first half of give goal:
+
+0x079E8291 Find ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Vandfartøjer kan ikke placeres på land
+0x07D8B21E Landfartøjer kan ikke placeres på vand
+0x07D8C654 Væsener kan ikke placeres på vand
+0x07D8C658 Genstanden er for langt over planetens overflade
+
+# Goal strings used for mission cards
+
+0x0727D37F Fejl: Intet mål
+
+# Sculpt panel UI
+
+0x07316C05 Terraform
+0x07316C08 Flora
+0x07316C07 Flora
+0x07316C0A Planetfarver
+0x07316C09 Vejr
+0x07316C0D Grundlæggende værktøjer
+0x07316C0E Veje
+0x07316C00 Terræn
+0x07316C04 Vand
+0x07316C02 Atmosfære
+0x0768A3E9 Kontinenter og øer
+0x0768A339 Have og søer
+0x07316C03 Temaer
+0x079EDFB9 Speciel
+0x07316C01 Planettemaer
+0x07316C0C Floder
+0x07316C0B Terrænfarver
+0x07316C06 Bjerge
+0x07316C10 Strande      #REMOVED?
+0x07316C0F Kløfter      #REMOVED?
+0x07B2739C Dale
+0x07B280CB Bakker
+0x07B278FF Asfalterede veje
+0x07B27900 Teknologiveje
+0x07B27901 Pladser
+0x07B278FD Grusveje
+0x07B278FE Brostensbelagte veje
+
+# Third, for all other (tools)
+
+0x07B51633 Hold
+0x07B52A61 Hold ~ep1_goal_target_name~
+0x07B5508D Hold ~ep1_goal_target_name~
+0x07B51644 Forsvar
+0x07B5163F Blokér ...
+0x07B51611 Undersøg
+0x07B5160C Gå til
+0x07B51628 Sæt sammen ...
+0x07B51637 Giv ...
+0x07B5162D Indsaml
+0x07B52A65 Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x07B52A63 Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B55092 Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x07B55095 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508F Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B5508A Indsaml ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ indsamlet)
+0x07B52A56 Undersøg ~ep1_goal_target_name~
+0x07B5507E Undersøg ~ep1_goal_target_name~
+0x07968DE4 [Mål ikke sat]
+0x07B52A5E Indsaml ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A52 Gå til ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A68 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B5507B Gå til ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ gennemført)
+0x07B52A59 Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B55088 Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07290AF0 Mål 1-forøgelse
+0x07290AF5 Mål 2-forøgelse
+0x07290AF8 Mål 3-forøgelse
+0x074BB7EC Akt ~ep1_current_act~ ud af ~ep1_total_acts~
+0x07292A93 Mål 3 gennemført
+0x07292A91 Mål 2 gennemført
+0x07292A8D Mål 1 gennemført
+
+# Editor object intersection hints
+
+0x07D8FA97 Fartøjer må ikke være for tæt på håndholdte genstande
+0x07D8FA93 Fartøjer må ikke være for tæt på statiske genstande
+0x07D8FA90 Fartøjer må ikke være for tæt på væsener
+0x07D8FA99 Fartøjer må ikke være for tæt på klipper
+0x07D8FAA1 Statiske genstande må ikke være for tæt på fartøjer
+0x07D8FA9E Fartøjer må ikke være for tæt på spilgenstande
+0x07D8FA8D Fartøjer må ikke være for tæt på bygninger
+0x07D8FA7C Væsener må ikke være for tæt på klipper
+0x07D8FA79 Væsener må ikke være for tæt på statiske genstande
+0x07D8FA77 Væsener må ikke være for tæt på hinanden
+0x07D8FA87 Fartøjer må ikke være for tæt på hinanden
+0x07D8FA85 Bygninger må ikke være for tæt på fartøjer
+0x07D8FA82 Bygninger kan ikke placeres under episke væsener
+0x07D8FAA8 Håndholdte genstande må ikke være for tæt på hinanden
+0x07D8FAA5 Håndholdte genstande må ikke være for tæt på fartøjer
+0x07D8FAA3 Statiske genstande må ikke være for tæt på væsener
+0x07D8FAAA Håndholdte genstande må ikke være for tæt på klipper
+0x07D8FAB2 Klipper må ikke være for tæt på håndholdte genstande
+0x07D8FAAF Klipper må ikke være for tæt på væsener
+0x07D8FAAD Klipper må ikke være for tæt på fartøjer
+0x07D8FA75 Episke væsener kan ikke være på bygninger
+0x07D8FA72 Væsener må ikke være for tæt på fartøjer
+0x07DA2A90 Genstande er for tætte på hinanden, nu hvor de begge er synlige i akt ~ep1_visibility_intersect_act~
+0x07D8FABB Gameplay-genstande må ikke være for tæt på fartøjer
+0x07D8FA6F Disse genstande må ikke være for tæt på hinanden
+0x07D8FAB5 Flora må ikke være for tæt på væsener
+0x07D8FAB8 Flora må ikke være for tæt på fartøjer
+0x07ECC0AB Klipper må ikke være for tæt på hinanden
+0x07D8FA9C Fartøjer må ikke være for tæt på flora
+0x07D8FA7F Væsener må ikke være for tæt på flora
+
+# Goal string for goal count combo box:
+
+0x07C53729 Alle
+
+# inter-act checks
+
+0x07D91132 Måltallet er i konflikt med et andet mål i akten
+0x07D91130 Målet er en kopi af et andet mål i akten
+0x07D91134 Tag med- og Blokér-mål i samme akt kan ikke have samme mål
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B4 Indsaml
+0x073C19B1 Bliv venner med
+0x073C19B8 Forsvar
+0x073C19AE Gå til
+0x073C19AF Tal med
+0x073C19B6 Giv ...
+0x073C19B7 Blokér ...
+0x073C19B2 Bliv allieret med ...
+0x073C19B0 Dræb
+0x073C19B3 Tag med ...
+
+# goal count checks
+
+0x07D91125 Der skal være minimum et relevant mål i spilverdenen
+0x07D91128 Der skal være minimum to relevante mål i spilverdenen
+0x07D9112B Måltallet er "alle", men der er ingen relevante mål i spilverdenen
+0x07D91122 Måltallet er højere end antallet af relevante mål i spilverdenen
+0x07D9112E Utilstrækkeligt antal åbne mandskabspladser
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 Du kunne ikke blokere ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~.
+0x0796CEE4 Du døde.
+0x0796CFDD Du løb tør for tid.
+0x0796CFE5 Du formåede ikke at forsvare ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796D599 Du kan ikke længere gennemføre dette mål: ~ep1_goal_description~
+0x0796D59A Du overtrådte dette mål: ~ep1_goal_description~
+0x07C50B5F Denne akt har to af samme mål.
+
+# First, for creatures
+
+0x07311C75 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x072AA965 Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07311C6E Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x0727D387 Tal med ~ep1_goal_target_name~
+0x0727D38E Bliv allieret med ~ep1_goal_target_name~ (allieret med ~ep1_goal_progress~ ud af ~ep1_goal_total~)
+0x0727D38B Bliv venner med ~ep1_goal_target_name~ (venner med ~ep1_goal_progress~ ud af ~ep1_goal_total~)
+0x0727D389 Dræb ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ dræbt)
+0x072AA963 Indsaml ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ indsamlet)
+0x07B52A25 Tal med ~ep1_goal_target_name~
+0x07B52A28 Dræb ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Bliv allieret med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A36 Blokér ~ep1_goal_target_name~ fra ~ep1_goal2_target_name~
+0x07B52A34 Giv ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A21 Gå til ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A31 Indsaml ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Bliv venner med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A38 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x0727D384 Gå til ~ep1_goal_target_name~ (~ep1_goal_progress~ ud af ~ep1_goal_total~ gennemført)
+0x07B52A2E Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x0727D391 Følg ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Eventyret ~timelinePlanetName~ gennemført.
+0x076B2671 ~timelineMySpeciesName~ opdagede ~timelinePartName~-delen.
+0x076B2674 Forfremmet
+0x076B2675 ~ep1_captain_name~ er forfremmet til ~ep1_captain_primary_title~.
+
+# Used for palette
+
+0x079C4769 Gameplay-genstande
+0x0710310C Benyttede medvirkende
+0x07103108 Væsener
+0x07103109 Fikserede genstande
+0x0710310A Lyd
+0x07103106 Bygninger
+0x07103107 Fartøjer
+0x0710310B Effekter
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Navngiv dit eventyr
+0x075E40EF Scenarie-underoverskrift 3
+0x075E40EE Scenarie-underoverskrift 2
+0x075E40ED Scenarie-underoverskrift 1
+
+# other
+
+0x07D91140 Reserveret for hint 5
+0x07D9113E Reserveret for hint 4
+0x07D9113B Reserveret for hint 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Seuraavat tässä seikkailussa käytetyt luomukset on poistettu palvelimelta. Haluatko julkaista ne uudelleen, jotta muutkin voivat pelata seikkailua?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Seuraavia tässä seikkailussa käytettyjä luomuksia ei ole vielä julkaistu. Haluatko julkaista ne, jotta muutkin voivat pelata seikkailua?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Jotkin tämän seikkailun luomuksista on estetty.~p~Et saa seikkailusta pisteitä.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Jotkin tämän seikkailun luomuksista on poistettu.~p~Haluatko ladata ne uudelleen?
+
+# Editing adventures offline
+
+0x07AA5B67 Peruuta
+0x07AA5B66 Korvaa
+0x07AA5B64 Voit ladata seikkailuun luomuksia, kun olet ensin kirjautunut sisään. Mikäli muokkaat tätä seikkailua, ladatut luomukset korvataan.
+0x07AA5B65 Kirjaudu sisään
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Seikkailu sisältää estettyjä luomuksia ja luomuksia, joiden sisältämiä osia sinulla ei ole.~p~Tietyt luomukset korvataan.
+
+# Editing adventures with banned assets
+
+0x0750187C Jotkin tämän seikkailun luomuksista on estetty.~p~Osa luomuksista korvataan.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Jotkin tämän seikkailun luomuksista on estetty.~p~Pisteitäsi ei jaeta.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 Kirjaudu sisään, niin voit ladata tässä seikkailussa käytettyjä luomuksia.
+0x00000003 Peruuta
+0x00000001 Luomuksen lataustilanne
+0x00000004 Luomuksen lataus epäonnistui
+0x00000002 Ladataan seikkailuja
+0x00000007 Julkaisutilanne
+0x00000008 Julkaistaan...
+0x00000006 Luomusten julkaisu epäonnistui.
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Luomuksen lataus epäonnistui. Haluatko jatkaa?~p~Osa kohteista korvataan, ja et saa seikkailusta pisteitä.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Jotkin tämän seikkailun luomuksista sisältävät osia, joita sinulla ei ole.~p~Tietyt luomukset korvataan.
+

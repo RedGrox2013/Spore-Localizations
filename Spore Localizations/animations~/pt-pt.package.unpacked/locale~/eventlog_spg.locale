@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 O planeta ~planet_name~ na estrela ~star_name~ evoluiu para a Etapa Civilização!
+0x06771171 O planeta ~planet_name~ na estrela ~star_name~ evoluiu para a Etapa Espacial!
+0x067710B2 O planeta ~planet_name~ na estrela ~star_name~ evoluiu para a Etapa Tribal!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Medalha desbloqueada
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Um animal deve estar presente para poder utilizar esta ferramenta!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Ganhou o direito para adicionar uma nave aliada à sua frota.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Esta ferramenta só pode ser utilizada em planetas do império.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD A colónia vai ficar muito afastada das especiarias.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Esta ferramenta não pode ser utilizada sobre a água.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Especiarias recolhidas.
+
+#standard....
+
+0x0000000F Este planeta não pode suportar mais colónias enquanto não melhorar a T-Pontuação.
+0x0000000E A sua análise foi um sucesso. Todos os dados estão registados na sua Sporepédia.
+0x0000000D A T-Pontuação de ~planet_name~ é de ~terraform_level~.
+0x00000011 Alto!  ~planet_name~ está a ser invadido por piratas.
+0x00000001 Não pode utilizar essa ferramenta no seu país.
+0x0000000B A sua expedição foi à falência. Melhor esperar pelo reboque. [not in use]
+0x0000001D Encontrou ~count~ cargas de ~tool_name~!
+0x00000002 Depois de ver que já tinha ajuda suficiente, uma das nossas naves aliadas regressou a casa.
+0x0000001E Algo neste planeta ficou extinto porque a T-Pontuação diminuiu.
+0x00000017 É venerado por todas as tribos de ~planet_name~! [not in use]
+0x00000016 Está a destruir os seus próprios edifícios.
+0x00000018 Implantou uma colónia em ~planet_name~!
+0x00000003 O seu aliado enviou uma nova nave espacial para se juntar à sua frota.
+0x0000001B Suporte de vida crítico!
+0x00000019 Regresse ao seu planeta Natal. Uma nova missão espera por si.
+0x00000006 Falso profeta! Esta tribo pensa que a sua religião é para mariquinhas. [not in use]
+0x00000005 Os seus devotos de ~planet_name~ tornaram-se numa civilização tecnológica.  [not in use]
+0x0000001F ~generic_name~ ficou extinto. Está a colocar tudo muito próximo. Tente colocar no outro lado do planeta. [not in use]
+0x00000021 ~generic_name~ tornou-se extinta.
+0x00000020 A espécie ~generic_name~ ficou extinta porque não tinha plantas.
+0x00000023 Nave espacial inimiga destruída!
+0x00000022 A espécie ~generic_name~ extinguiu-se por fome.
+0x0000002F As colónias não podem sobreviver debaixo de água. Coloque a sua colónia em terra.
+0x00000031 Este planeta já foi reclamado.
+0x057F4C52 Não tem energia suficiente para utilizar essa ferramenta.
+0x0000002C Esse herbívoro não vai conseguir sobreviver neste planeta. Adicione mais plantas.
+0x04E38CF9 Essa ferramenta só pode ser utilizada nos seus planetas de colónia.
+0x04E39F9A Só pode ter um destes por planeta!
+0x04E3AB1A Não é possível colocar isso dentro de uma colónia.
+0x0000003C Não conseguiu que esta cidade o venerasse. Tente outra. [not in use]
+0x04E3AAFD Esse objecto tem de ser colocado em terra.
+0x0580C3FA Essa ferramenta só pode ser utilizada nos planetas de outros Impérios.
+0x065BCDA0 Atenção: Roubar objectos a outros planetas irrita o império local.
+0x065BCDA7 Atenção: Raptar cidadãos irrita o império local.
+0x0000002D Deixar cair as criaturas de grande altura acaba por matá-las.  Transporte-os delicadamente até ao solo no feixe de luz.
+0x00000032 Adicione um edifício para melhorar a sua colónia.
+0x00000034 Não tem dinheiro suficiente para utilizar essa ferramenta.
+0x0000002B Essas espécies não sobrevivem debaixo de água.  Coloque-as em terra.
+0x0637C896 É uma armadilha! Foi emboscado pelos piratas!
+0x0637C897 Recolheu: ~tool_name~.
+0x00000027 Deixar cair os tipos raptados acaba por matá-los.  Transporte-os delicadamente até ao solo no feixe de luz.
+0x04F77C3E Essa espécie já existe neste local.
+0x04F7B80D Precisa de melhorar a T-Pontuação de ~planet_name~ para que isso possa sobreviver aqui.
+0x00000036 Foi detectado um novo artefacto fabuloso!
+0x04F7B030 Esse carnívoro não vai conseguir sobreviver neste planeta. Adicione mais herbívoros.
+0x0000003A Não pode ficar aqui.  O sistema ~star_name~ já é a casa de outras espécies.
+0x06037BB6 Algo neste planeta ficou extinto devido à subida do nível das águas.
+0x00000026 Espalhe a palavra, mas faça isso num planeta de cada vez.
+0x00000037 Se continuar a disparar contra eles, eles vão começar a disparar contra si.
+0x061DBC92 O alvo está fora do alcance.
+0x06170F80 Esta arma necessita de um alvo para disparar.
+0x04F615F5 Precisa de sair do planeta para guardar.
+0x05483AB4 Adicionou ~creature_name~ ao seu santuário da vida selvagem. A reserva tem ~animal_count~ de ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ animais possíveis.
+0x00000035 Uma das suas naves aliadas foi destruída!
+0x0541A247 Completou uma secção do ecossistema, permitindo colónias mais avançadas.
+0x0541A219 Estabilizou a T-Pontuação do planeta.
+0x0546A708 Este santuário da vida selvagem não pode receber mais animais.
+0x05C2BC26 Precisa de preencher pelo menos uma fila de plantas e animais antes de elevar o nível de um planeta!
+0x0000002A As plantas não sobrevivem na lava.  Coloque-as em terra.
+0x0591CCD5 Encontrou uma Formação Galáctica rara.
+0x0591CCD6 Encontrou um planeta único!
+0x0000003B Agora todas as cidades deste planeta veneram-no!  [not in use]
+0x04EA4FD9 Os seus analisadores não conseguiram identificar os habitantes deste planeta. Informe o seu planeta Natal.
+0x04BD7870 Não tem aliados que o possam vir ajudar!
+0x04EA4FD8 Matou os Grox neste planeta ao terraformar o planeta para T1!
+0x04ED0A12 Recebeu 42 fantásticas ferramentas e encontrou uma Formação Galáctica rara.
+0x04BD78A0 Os seus aliados já estão a ajudá-lo!
+0x00000028 As plantas não sobrevivem debaixo de água.  Coloque-as em terra.
+0x00000029 Esta planta não tem o tamanho certo para se adaptar ao ecossistema local, tente uma planta de tamanho diferente.
+0x04D28917 Estão disponíveis novas ferramentas.
+0x04BD78A5 Não existem hostilidades neste planeta que exijam a ajuda dos seus aliados.
+0x00000043 O seu indicador de alerta Grox desceu para 'Não estou nada assustado. Devo estar?'
+0x00000044 O seu indicador de alerta Grox subiu para 'Estou um pouco assustado'
+0x00000048 O seu indicador de alerta Grox indica 'Assustadoramente assustado'
+0x00000042 O seu indicador de alerta Grox subiu para 'Não estou nada assustado. Devo estar?'
+0x0000004A Demasiado tóxico para o compartimento de carga. A incinerar...
+0x00000045 O seu indicador de alerta Grox desceu para 'Estou um pouco assustado'
+0x00000046 O seu indicador de alerta Grox subiu para 'Assustadoramente assustado'
+0x00000047 O seu indicador de alerta Grox indica 'Estou um pouco assustado'
+0x06707FAA Esse nicho ecológico está cheio e não pode suportar outra espécie.
+0x066F10AB Transmissão recebida do seu mundo natal!
+0x066F10B8 Transmissão recebida da sua colónia!
+0x0000002E Os animais não sobrevivem na lava.  Coloque-os em terra.
+0x0000000C Viaje até uma das suas colónias seguras para reparar a nave espacial.
+0x0000001C O seu porão de carga está cheio.  Precisa de libertar algum espaço.
+0x00000010 Encontrámos ~rare_name~, da colecção de ~rare_count~ ~rare_group~.
+0x00000039 ~count~ de ~city_count~ ~^p^count^cidade^cidades~ neste planeta agora ~^p^count^worships^worship~ a si! [not in use]
+0x00000008 ~count~ de ~tribe_count~ ~^p^count^tribo^tribos~ neste planeta agora ~^p^count^worships^worship~! [not in use]
+0x0000003F O ~race~ e o ~race2~ formaram uma aliança.
+0x0000003E O ~race~ e o ~race2~ assinaram um tratado de paz.
+0x00000049 O ~race~ cancelou a sua missão porque a nossa relação piorou.
+0x00000040 A aliança entre o ~race~ e o ~race2~ foi quebrada.
+0x0000003D O ~race~ declarou guerra ao ~race2~.
+0x06159AE6 O ~race~ está a perder interesse na sua aliança.  Faça-lhes uma visita.
+0x00000004 O ~race~ declarou guerra contra si.  Prepare-se para a batalha.
+0x0000001A A sua aliança com o ~race~ foi quebrada.
+0x00000025 O ~race~ tomou o controlo do sistema ~star_name~ e colonizou um novo planeta.
+0x06527A69 A sua rota comercial com o ~race~ foi quebrada.
+0x06527A66 O ~race~ está a perder interesse na sua rota comercial.  Melhore o seu relacionamento!
+0x00000041 O ~race~ foi destruído.
+0x0567757C Os seus parceiros comerciais no sistema estelar ~star_name~ têm boa opinião de si. Talvez o ~race~ esteja aberto a mais acordos diplomáticos.
+0x05807D8E O ~race~ terminou a guerra consigo.
+0x00000024 O ~race~ perdeu o controlo do sistema ~star_name~.
+0x05790C96 Recepção de transmissão do ~race~!
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Esta ferramenta não pode ser utilizada em planetas do império.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 As colónias têm de ser colocadas perto das especiarias.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Não pode utilizar esta ferramenta num planeta de Santuário da Vida Selvagem.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Esta ferramenta só pode ser utilizada em planetas selvagens.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Esta ferramenta não pode ser utilizada por cima de uma cidade.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BAC9F Não pode utilizar essa ferramenta numa criatura épica.
+0x0654C9DF Este planeta rendeu-se, mas ainda existem mais planetas no sistema.
+0x0654CA48 A cidade rendeu-se a si.
+0x064C024E Precisa de aumentar a T-Pontuação do planeta para entrar no Planeador de Colónia. [not in use]
+0x065BFFFA Não tem espaço para recolher mais especiarias.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Já tem um Mini-TU.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Não dispõe de espaço suficiente na sua frota para outra nave.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Está num nível muito superior para utilizar esta ferramenta.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Esta ferramenta só pode ser utilizada em sistemas que têm uma rota comercial.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA A T-Pontuação é muito reduzida para utilizar esta ferramenta.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 A colónia está muito perto das especiarias.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Não pode utilizar esta ferramenta. O planeta está no seu nível mais elevado.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x043AD9F2 ~ufo_name~ já tinha sido analisada.
+0x04377196 ~vehicle_name~ já tinha sido analisado.
+0x043AD9E0 Uma nova nave espacial, ~ufo_name~, foi analisada e adicionada à sua Sporepédia.
+0x04374114 Um novo edifício, ~building_name~, foi analisado e adicionado à sua Sporepédia.
+0x04374125 ~building_name~ já tinha sido analisado.
+0x04377191 Um novo veículo, ~vehicle_name~, foi analisado e adicionado à sua Sporepédia.
+0x03FFE77B Uma nova planta, ~game_plant_name~, foi analisada e adicionada à sua Sporepédia.
+0x03FFE7FB A planta ~game_plant_name~ já tinha sido analisada.
+0x03FFE803 ~creature_name~ já tinha sido analisada.
+0x03FFE7FF Uma nova criatura, ~creature_name~, foi analisada e adicionada à sua Sporepédia.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Não pode utilizar o monólito neste planeta!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Não pode utilizar essa ferramenta tão próximo de uma estrutura.
+

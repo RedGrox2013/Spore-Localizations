@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Deine Maya Export-Dateien wurden unter ~br~~maya_export_path~~maya_export_name~* gespeichert.
+
+# YouTube
+
+0x0549366C Nein
+0x0549366D Hochladen
+0x05496B24 Anmeldung bei YouTube läuft ...
+0x055AA305 Video wird auf YouTube hochgeladen ...
+0x05600488 Du musst bei Spore angemeldet sein, um diese Funktion nutzen zu können. Möchtest du dich anmelden?
+0x0563C623 Du musst bei Spore registriert sein, um diese Funktion nutzen zu können. Möchtest du dich registrieren?
+0x056691B0 YouTube-Registrierung wird geprüft ...
+0x056D0627 Erfolgreich hochgeladen! Schicke deine Video-URL an einen Freund!
+0x05498DCB Dein Video wurde hochgeladen. Möchtest du deinen Freund informieren?
+0x05B5AC4C YouTube-Nutzungsbedingungen
+0x05496510 Anmeldung bei YouTube gescheitert.~br~~br~Bitte verwende einen gültigen Benutzernamen und ein gültiges Passwort oder registriere dich bei YouTube, bevor du mit dem Hochladen fortfährst.
+0x054C1E63 Dein Film wurde unter ~movie_pathname~~movie_name~.avi~mac_save_append~ gespeichert.
+0x05498260 Es ist ein Fehler bei der Anmeldung bei YouTube aufgetreten.~br~~br~Bitte die Internetverbindung prüfen oder es zu einem späteren Zeitpunkt erneut versuchen.
+0x05B5FD1E Jetzt hochladen?
+0x05D2C767 Dein Upload wurde abgebrochen.
+0x05D54AF7 Die Website ist auf Englisch. Um sie in deiner Sprache anzuzeigen, wähle in der Seitenauswahl dein Herkunftsland  aus.
+0x05E501EB <youtubeicon>Hochladen
+0x05498D58 Es ist ein Fehler beim Hochladen auf YouTube aufgetreten.~br~~br~Bitte die Internetverbindung prüfen oder es zu einem späteren Zeitpunkt erneut versuchen.
+
+# email
+
+0x04585F1F Deine E-Mail-Adresse ist ungültig.
+0x04585F49 Die E-Mail-Adresse des Empfängers ist ungültig.
+0x045AD62F Deine E-Mail-Adresse
+0x045AD634 E-Mail-Adresse des Empfängers
+0x05B5B8C4 Erzähle einem Freund von deinem Video
+0x0583897C Klicke hier, um eine Postkarte per E-Mail zu verschicken.
+0x04588BEF Deine Postkarte wurde gesendet.
+0x045AD5B9 Postkarte mailen
+
+# capture GIF
+
+0x058B90F2 Dein animierter Avatar wurde unter~br~~gif_name~~mac_save_append~ gespeichert.
+
+# tool tips
+
+0x04598E97 E-Mail schicken
+0x046286F4 Hinsetzen
+0x046286F8 Brüllen
+0x04628713 Rufen
+0x04628717 Schlagen
+0x04628719 Ta-Dah!
+0x04628722 Niedlich sein
+0x04628724 Sumo
+0x04628726 Hey
+0x04628733 Hey Baby
+0x04628737 Komm zur Sache
+0x04628739 Auf der Stelle laufen
+0x0462873F Heiße Füße
+0x04628749 Stampfen
+0x04628798 Glücklich
+0x0462879C Traurig
+0x046287A0 Verängstigt
+0x046287A1 Wütend
+0x046287A2 Lachen
+0x046287A3 Ohnmächtig
+0x046287A4 Bildbetrachter
+0x046287A5 Bilder machen
+0x046287D8 Hintergründe
+0x046287DA Babys
+0x046287ED Speichern
+0x0462932D Hilfe
+0x0474E80D Bild löschen
+0x0474E80E Bild archivieren
+0x046287A6 Filme aufnehmen
+0x0473F903 Bilder verwalten
+0x0462874E Raver
+0x046287D6 Aktionen
+0x04628745 Hippity Hopser
+0x046286F2 Salto
+0x046286E7 Drehen
+0x04628729 Muskeln spielen lassen
+
+# move all
+
+0x04583A4E Alle archivieren
+
+#continue
+
+0x0549656C Weiter
+
+# delete one done
+
+0x04583433 Dein Bild wurde gelöscht.
+
+# delete all done
+
+0x0458334E Deine Bilder wurden gelöscht.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D Dein Bild wurde in folgendem Verzeichnis archiviert: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~/~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~/~photo_count~
+
+# move all done
+
+0x04583295 Deine Bilder wurden in folgendem Verzeichnis archiviert: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Ja
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD Animation
+
+# photobackuppath
+
+0x06305594 Eigene Dateien
+0x06305593 MeinSpore-Kreationen\Bilder\Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Anmeldung gescheitert
+0x05CBDEDA Upload fehlgeschlagen
+
+# your message
+
+0x045AD63A Deine Nachricht
+
+#drag and drop fail message
+
+0x05889A21 Testlauf
+0x05889A4C Im Testlauf kannst du deine Kreatur nicht bearbeiten. Bitte wechsle in den Baumodus oder den Bemalen-Modus.
+
+# photo page count
+
+0x0456F912 ~page_current~/~page_count~
+
+# too many photos
+
+0x047FF0E4 Du hast zu viele Fotos. Bitte archiviere einige Fotos.
+
+# photo actions
+
+0x045C2025 Was möchtest du mit den Bildern machen?
+0x045C206E Möchtest du dieses Bild wirklich löschen?
+0x045C208A Möchtest du wirklich alle Bilder löschen?
+0x045C2094 Möchtest du dieses Bild wirklich archivieren?
+0x045C2098 Möchtest du wirklich alle Bilder archivieren?
+0x04613ED0 Wenn du beendest, werden alle offenen Bild-Speichervorgänge abgebrochen. Möchtest du wirklich beenden?
+
+# delete all
+
+0x04583A36 Alle löschen
+
+# cancel
+
+0x04583AFB Abbrechen
+
+# Are you sure: No
+
+0x0458400E Nein
+
+# email message
+
+0x056BCE10 Sieh dir die großartige Kreatur an, die ich in Spore erschaffen habe!
+0x056BCDCA Sieh dir das Video an, das ich in Spore erstellt habe!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK

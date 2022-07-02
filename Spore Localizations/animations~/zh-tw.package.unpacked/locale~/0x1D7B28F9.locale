@@ -1,0 +1,63 @@
+﻿0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x7B152168 點選「安裝」開始安裝程序~br~~br~如果你想檢視或變更任何安裝設定，點選「上一步」按鈕，或點選「取消」離開。~BEGIN_INSTALLATION~
+0x3017EF99 你想要刪除~string~產生的所有使用者資料嗎？~REMOVE_USERDATA~
+0x44CA6AE6 需使用管理員帳號才能安裝。~ADMINISTRATOR_ACCOUNT~
+0x45EF8DC8 安裝精靈~IDS__DialogId_10105~
+0x1498EC13 我們已準備好進行安裝！~READY_TO_INSTALL~
+0x0AA43B92 建議~RECOMMENDED~
+0x40D6F8BD 安裝完畢之後顯示ReadMe.txt~VIEW_README~
+0x02699E57 設定類型~SETUP_TYPE_TITLE~
+0x303D349E 檔案：~string~~br~錯誤： ~string~~COMP_ERROR_MSG~
+0x4782CC94 選項4~IDS__DialogId_10105_ControlId_604~
+0x4782CCA0 選項8~IDS__DialogId_10105_ControlId_608~
+0x15538FF6 設定類型~IDS__DialogId_10105_ControlId_50~
+0x1F726BCA 執行~PLAY_SPORE~
+0x0537CFA1 移除~string~~UNINSTALL~
+0x144073D1 ~string~ 將安裝至你挑選的路徑。~CUSTOM_SPORE_SETUP~
+0x494AA82F 在~string~完全移除之前，移除精靈被迫中止。~br~~br~若日後想要徹底移除本程式，請再次執行移除動作。~UNINSTALL_INCOMP~
+0x537FD947 自訂~IDPROP_SETUPTYPE_CUSTOM~
+0x7426EAA1 桌面捷徑~DESKTOP_SHORTCUT~
+0x15538FF7 選擇最符合你需求的設定類型。~IDS__DialogId_10105_ControlId_51~
+0x4782CC91 選項7~IDS__DialogId_10105_ControlId_607~
+0x4782CC92 選項6~IDS__DialogId_10105_ControlId_606~
+0x4782CC93 選項5~IDS__DialogId_10105_ControlId_605~
+0x4782CC95 選項3~IDS__DialogId_10105_ControlId_603~
+0x0D849C4A 點選完成，離開並開始~CLICK_FINISH~
+0x15CC67E6 ~string~ 將安裝至~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x03BCF887 從底下的選項中挑選。~SELECT_OPTIONS~
+0x4E1203F5 你想安裝最新的「EA下載管理員」嗎？如果你尚未安裝最新的「EA下載管理員」，你的電腦將無法取得修正以及特定內容。~EADM_INSTALL~
+0x7D4A4E2F 自訂~CUSTOM~
+0x4782CC9F 選項9~IDS__DialogId_10105_ControlId_609~
+0x05082CC9 完成~IDPROP_SETUPTYPE_COMPLETE~
+0x72AA3BC2 選擇你想安裝的項目，同時取消你不想安裝的項目。點選「下一步」繼續。~IDS__DialogId_10105_ControlId_901~
+0x7E9C7EC7 下一步（&N） >~IDS__DialogId_10105_ControlId_1~
+0x7E9C7ECF 取消~IDS__DialogId_10105_ControlId_9~
+0x64A17D06 發生錯誤。無法完成設定，現在將中止。~GENERAL_ERROR~
+0x74C9257A 完成~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x7E8BB5FD 安裝完成~INSTALLATION_COMPLETE~
+0x4DE32707 在繼續之前，請先停止 ~string~ 。~GAME_RUNNING_STRING~
+0x166E669A 無法安裝至 ~string~~br~請選擇其他路徑。~DANGEROUS_DIRECTORY_ERROR~
+0x4782CC97 選項1~IDS__DialogId_10105_ControlId_601~
+0x7CF6B4E8 自訂~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x01FCAF57 我的Spore創造物~SAVE_FOLDER~
+0x16741C9F 安裝之後，啟用~string~~LAUNCH_SPORE~
+0x38A8F152 歡迎來到~string~~WELCOME_SPORE_TITLE~
+0x4782CC96 選項2~IDS__DialogId_10105_ControlId_602~
+0x06220BA5 點選「下一步」將~string~安裝到你的電腦上！~WELCOME_SPORE_MESSAGE~
+0x6CD070E6 找不到移除所需的部分資訊。在初始設定過程中可能發生了錯誤。部分檔案和資料夾可能得以手動方式移除。~MISSING_UNINSTALL~
+0x2BF6EA98 目前選擇的磁碟機沒有足夠的空間。你可以從所選磁碟機上移除一些檔案，或選擇其他的磁碟機。~NO_SPACE_MSG~
+0x151DEC2F 沒有DirectX，Spore(tm)將無法正常執行。~DIRECTX_WARNING~
+0x23FD0D11 SPORE(tm)生物創造器~SCC_NAME~
+0x6A8319B9 Spore網站~SPORE_WEB~
+0x4950A450 SPORE(tm)生物創造器試用版~SCC_TRIAL_NAME~
+0x27D33671 你的檔案路徑太長。請選擇短一點的檔案路徑。~DIR_TOO_LONG~
+0x16FBAEAF 你現在已經可以執行~string~~READY_TO_PLAY~
+0x689470D4 特色~ID_STRING1~
+0x051414BE @10550,10551;1;0;;0,128,128 ~IDS__DialogId_10105_ControlId_1200~
+0x159098E0 < 上一步（&B）~IDS__DialogId_10105_ControlId_12~
+0x39040F38 讀我檔案~README~
+0x2A8D9AF3 技術支援~EA_HELP~
+0x46A61B9B ~string~無法找到~MISSING_FILES~
+0x353F37C7 我們必須先移除你之前安裝的 ~string~ 。點選"是"(Yes)來進行移除。SPORE(TM)擁有所有「生物創造器」的功能，而你也將保留你到目前為止所有的創造物。~SPORE_REMOVE_CSA_WARNING~
+0x59450AC4 安裝類型~br~選擇你的設定類型~SETUP_TYPE_MESSAGE~
+

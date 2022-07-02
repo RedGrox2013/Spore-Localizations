@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Sosialisering
+0x01020007 Utforsk
+0x01020003 Ingen sjanger
+0x01020004 Angrip
+0x01020005 Forsvar
+0x0102000A Samle
+0x01020009 Historie
+0x01020008 Oppdrag
+0x0102000D Mal
+0x0102000C Planeter
+0x0102000B Pusle
+
+#######################################
+# Filter Names
+
+0x01020001 Eventyr
+0x01020002 Spillbare eventyr
+0x07200107 Kaptein
+0x07200108 Kapteinene mine
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 Spilt ~ep1_adventure_stats_num_plays~ ganger
+
+### Difficulty Descriptions
+
+0x07D86C6A Veldig lett
+0x07D86C87 Moderat
+0x07D86C7C Lett
+0x07D86CA8 Veldig vanskelig
+0x07D86C9F Vanskelig
+0x07D86C49 Vanskelighet: ~ep1_adventure_difficulty~
+
+# Unpublish
+
+0x07D9CFD7 Vil du slutte å dele dette? Det vil bli fjernet fra serveren.
+0x07D9CFB6 Avslutt deling
+
+#######################################
+# Misc
+
+0x02000002 Valgte ~num_selected_items~ element(er).
+0x02000001 Det du har valgt blir for øyeblikket redigert. Du kan ikke flytte det nå.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Gjenstander
+
+# Audio filters
+
+0x0102100B Note
+0x01021007 Publikum
+0x01021006 Lyd
+0x01021008 Omgivelser
+0x0102100A Musikk
+0x01021009 Mekanisk
+0x0102100C En gang
+
+### Ratings
+
+0xC7647889 Rangering
+
+# Download adventure
+
+0x02200002 Vil du åpne dette eventyret?
+0x02200001 Last ned eventyr
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ poeng
+
+#######################################
+# Category Names
+
+0x00000001 På jakt etter skatter
+
+# Fixed object filters
+
+0x01021004 Stein
+0x01021003 Spillgjenstander
+0x01021002 Håndholdte gjenstander
+0x01021005 Statiske ornamenter
+0x01021001 Stasjonære gjenstander
+
+# Effects filters
+
+0x01022003 Natureffekter
+0x01022002 Lyseffekter
+0x01022006 Engangseffekter
+0x01022005 Tullete effekter
+0x01022004 SciFi-effekter
+0x01022001 Effekter
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Velg en planet
+0x07B24B83 Du må være logget inn for å sjekke topplister og rangeringer for dette eventyret.
+0x079EDCD5 Lag eller velg en kaptein
+0x072925B0 Velg et eventyr
+0x072000E3 Lag eller velg en kaptein
+0x072925BB Velg en eller flere effekter
+0x072925BA Velg ett eller flere romskip
+0x072925B9 Velg ett eller flere fremkomstmidler
+0x07B67C69 Velg en eller flere spillgjenstander
+0x072925BD Velg en gjenstand
+0x072925BC Velg en eller flere lydgjenstander
+0x072925B8 Velg en eller flere bygninger
+0x072925B4 Velg en lydgjenstand
+0x072925B3 Velg en eller flere gjenstander
+0x072925B2 Lag eller velg rollefigur
+0x072925B7 Velg en eller flere skapninger
+0x072925B6 Velg rollefigurer til eventyret
+0x072925B5 Velg flora
+

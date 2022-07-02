@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Socializar
+0x01020007 Explorar
+0x01020003 Sem Gênero
+0x01020004 Atacar
+0x01020005 Defender
+0x0102000A Coletar
+0x01020009 Estória
+0x01020008 Missão
+0x0102000D Modelo
+0x0102000C Planetas
+0x0102000B Quebra-Cabeças
+
+#######################################
+# Filter Names
+
+0x01020001 Aventuras
+0x01020002 Aventuras Jogáveis
+0x07200107 Capitão
+0x07200108 Meus Capitães
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ partidas
+
+### Difficulty Descriptions
+
+0x07D86C49 Dificuldade: ~ep1_adventure_difficulty~
+0x07D86C6A Muito Fácil
+0x07D86C87 Moderada
+0x07D86C7C Fácil
+0x07D86CA8 Muito Difícil
+0x07D86C9F Difícil
+
+# Unpublish
+
+0x07D9CFD7 Você deseja parar de compartilhar esta criação? Ela será removida do servidor.
+0x07D9CFB6 Parar de Compartilhar
+
+#######################################
+# Misc
+
+0x02000002 ~num_selected_items~ itens selecionados.
+0x02000001 O item selecionado está sendo editado. Você não pode removê-lo agora.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Objetos
+
+# Audio filters
+
+0x01021007 Multidão
+0x01021006 Som
+0x01021008 Ambiente
+0x0102100A Música
+0x01021009 Mecânico
+0x0102100B Nota
+0x0102100C Uso Único
+
+### Ratings
+
+0xC7647889 Classificação
+
+# Download adventure
+
+0x02200002 Você deseja abrir esta aventura?
+0x02200001 Fazer Download da Aventura
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ pontos
+
+#######################################
+# Category Names
+
+0x00000001 Objetos da Aventura
+
+# Fixed object filters
+
+0x01021004 Pedras
+0x01021003 Objetos do Jogo
+0x01021002 Objetos Portáteis
+0x01021005 Ornamentos Estáticos
+0x01021001 Objetos Fixos
+
+# Effects filters
+
+0x01022003 Efeitos da Natureza
+0x01022002 Efeitos de Luz
+0x01022005 Efeitos Aleatórios
+0x01022004 Efeitos de Ficção Científica
+0x01022001 Efeitos
+0x01022006 Efeitos de Uso Único
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Escolha um Planeta
+0x07B24B83 Você precisa fazer o login para ver as Classificações e a Pontuação desta Aventura.
+0x079EDCD5 Crie ou Escolha o seu Capitão
+0x072925B0 Escolha uma Aventura
+0x072000E3 Crie ou Escolha um Capitão
+0x072925BB Escolha um ou mais Efeitos
+0x072925BA Escolha uma ou mais Naves
+0x072925B9 Escolha um ou mais Veículos
+0x07B67C69 Escolha um ou mais Objetos do Jogo
+0x072925BD Escolha um Objeto
+0x072925BC Escolha um ou mais Objetos de Áudio
+0x072925B8 Escolha uma ou mais Estruturas
+0x072925B4 Escolha um Objeto de Áudio
+0x072925B3 Escolha um ou mais Objetos
+0x072925B2 Crie ou Escolha um Membro do Elenco
+0x072925B7 Escolha uma ou mais Criaturas
+0x072925B6 Escolha o Elenco da sua Aventura
+0x072925B5 Escolha a Flora
+

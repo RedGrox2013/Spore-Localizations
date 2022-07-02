@@ -1,0 +1,49 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 Interested in beautifying the Galaxy? Our scientists have developed some tools to help get you started.~p~Take these Planet Coloring tools and use them on a planet. They will change the color of the planet's surface.~p~Cool, huh?.~p~Do this successfully, and we'll give you ~mission_rewards~ Sporebucks.
+0x00000007 Sounds fun!
+0x0000000B I'm not interested right now. Maybe later.
+0x0000000C Ooh. Sorry. I've got a thing.
+0x0000000D I can't. I'm busy.
+0x00000002 You'll need to travel to another planet to use these tools. Any planet should do, except ours.~p~Well, unless you really want to. No, just kidding, use them somewhere else.
+0x00000022 I accept! Now let's get planet paintin'!
+0x00000029 No thanks, I just had my spacecraft waxed.
+0x00000033 Great job!!! Wasn't that fun?~p~You can find more tools like that spread throughout the Galaxy. There are several sets and colors, but you'll need to find them first and then use the Abduction Beam to collect them. Collected tools will be placed into your Tool Bin.~p~Once you have the tools they will always be available.
+0x00000034 You are most welcome. Before I go...
+0x0000003A Bye.
+0x00000004 Haven't found a planet worth coloring?~p~Fly to any planet that looks like it could use a bit of color. Once you've found one, activate your Planet Coloring tools and select the Land tab. You'll find the Purple Terra-Coloring System there and ready to use.
+0x0000004A Got it. One other thing...
+0x0000004E I give up.
+0x00000053 I'm off!
+0x00000003 Couldn't do it huh? Maybe you're not the artistic type.
+0x00000005 I'd like to ask you something else...
+0x00000006 Before I go, I have other questions.
+0x00000008 Can I ask about something else?
+0x00000009 One more thing...
+0x0000000A Sorry.
+0x0000000E Excellent! The Terra-Color tool is located among your ship's tools, in the Planet Coloring assembly. Activate the Color Land System and you'll find it.~p~Now get out there and paint! The Galaxy is your canvas.
+0x00000014 I'd like to ask you something else...
+0x00000017 Before I go, I have other questions.
+0x00000018 Can I ask about something else?
+0x00000019 One more thing...
+0x0000005F Bye.
+0x0000000F Not in the painting mood? Don't worry, we have other missions you might be interested in.
+0x0000006B Okay. I'd like to ask you about something else...
+0x00000071 Bye.
+0x00000010 Not in the painting mood? Don't worry, we have other tasks for you.
+0x00000012 Okay. I'd like to ask you about something else...
+0x0000007E Bye.
+0x00000084 ...
+0x00000085 I'm supposed to go where to get the what, now?
+0x00000089 Use ~mission_first_unused_tool~ tool on a planet.
+0x00000011 Success! Return to home planet.
+0x00000094 Travel to any planet to use the tools.
+0x0000001A Painting complete!
+0x00000013 Use ~mission_first_unused_tool~ tool.~p~Travel to any planet. Once at the planet, open your Planet Coloring tool tab located in your Tool Bin. From there switch to the Color Land tab and equip the ~mission_first_unused_tool~ by selecting it's button.~p~Once the tool is equipped, click on the planet's surface to fire the tool.~p~Do this successfully and we'll give you ~mission_rewards~ Sporebucks.
+0x00000015 Congratulations! You have completed your mission. Report back to your Homeworld for glory and collect ~mission_rewards~ Sporebucks!
+0x0000008A You've used the tools successfully. Return to home.

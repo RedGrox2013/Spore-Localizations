@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Disse skapningene står stille.
+0x079817BE Disse skapningene følger etter en annen rollefigur du bestemmer.
+0x079817BA Disse skapningene beveger seg frem og tilbake mellom to punkter.
+0x079817B5 Disse skapningenene beveger seg tilfeldig rundt fra der de starter.
+0x079EDF5A Disse fremkomstmidlene står stille.
+0x079EDF5B Disse fremkomstmidlene beveger seg tilfeldig rundt fra der de starter.
+0x079EDF5C Disse fremkomstmidlene beveger seg frem og tilbake mellom to punkter.
+0x079EDF5D Disse fremkomstmidlene følger etter en annen rollefigur du bestemmer.
+
+# Planet Paint
+
+0xB6AFCFC0 Bakkedekke
+0xB6AFCFC1 Blomster
+0xB6AFCFC2 Skystil
+
+#Goals:
+
+0x07981798 Forhindre at disse ~ep1_current_cast~ blir ødelagt.
+0x0798178C Forhindre at disse ~ep1_current_cast~ kommer i kontakt med en annen rollefigur.
+0x0798177E Hold disse ~ep1_current_cast~.
+0x07981789 Ta med disse ~ep1_current_cast~ til en annen rollefigur.
+0x07981785 Samle disse ~ep1_current_cast~.
+0x07981782 Gi disse ~ep1_current_cast~ til en annen rollefigur.
+0x07981764 Gå i nærheten av disse ~ep1_current_cast~.
+0x0798176F Ødelegg disse ~ep1_current_cast~.
+0x0798177B Snakk med disse ~ep1_current_cast~.
+0x07981773 Sosialiser med disse ~ep1_current_cast~.
+0x07981777 Bli alliert med disse ~ep1_current_cast~ så de blir med i gjengen din.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF73 Nett
+0x56AFCF75 Svamp
+0x56AFCF72 Romvesen
+0x56AFCF70 Standard
+0x56AFCF71 Krøllete
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 skapningene
+0x07981E93 gjenstandene
+0x07981E92 bygningene
+0x07981E91 fremkomstmidlene
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klikk på en skapning, en bygning eller et fremkomstmiddel for å fjerne det permanent fra spillet.~br~Hvis du vil fjerne eventyret permanent fra spillet, avslutter du eventyret og åpner Sporepedia (med B-tasten). I Sporepedia finner du eventyret du vil fjerne, velger det og klikker på Forby-knappen nederst til høyre på skjermen. Dette fjerner eventyret, men ikke det som er brukt i det - dette må du fjerne separat.~br~En rapport blir sendt til kundestøtteteamet hos Spore.
+
+#Awareness:  
+
+0x07981DE3 Avgjør hvor langt disse skapningene kan se.
+0x079EDF5E Avgjør hvor langt disse fremkomstmidlene kan se.
+
+#Stances:
+
+0x0798179D Disse skapningene angriper fiendens enheter når de ser dem.
+0x079817A1 Disse skapningene advarer før de angriper.
+0x079817AD Disse skapningene flykter hvis de blir angrepet.
+0x079817A9 Disse skapningene forsvarer seg bare hvis de blir angrepet.
+0x079817A5 Disse skapningene blir aldri distrahert fra det de er satt til å gjøre.
+0x079EDF55 Disse fremkomstmidlene angriper fiendens enheter når de ser dem.
+0x079EDF57 Disse fremkomstmidlene blir aldri distrahert fra det de er satt til å gjøre.
+0x079EDF56 Disse fremkomstmidlene advarer før de angriper.
+0x079EDF58 Disse fremkomstmidlene forsvarer seg bare hvis de blir angrepet.
+0x079EDF59 Disse fremkomstmidlene flykter hvis de blir angrepet.
+
+#Pickup:
+
+0x079817C2 Disse skapningene plukker opp hvilket som helst verktøy.
+0x079817C5 Disse skapningene plukker opp et verktøy du bestemmer.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7B Vanlige steiner
+0x56AFCE7A Issteiner
+0x56AFCE7C Lavasteiner
+0x56AFCE7D Sopp
+0x56AFCE71 Leireanimasjon
+0x56AFCE72 Konglomerat
+0x56AFCE73 Innhegning
+0x56AFCE60 Ingen
+0x56AFCE79 Sveitsisk
+0x56AFCE75 Granitt
+0x56AFCE76 Organisk
+0x56AFCE78 Sandstein
+0x56AFCE74 Krystall
+0x56AFCE77 Pigger
+
+# posse ui
+
+0x0760B242 Mannskap
+
+#mission ending description#
+
+0x0760B241 Slutt
+
+0x0760B0F8 Beskrivelse og musikk, akt ~ep1_current_act~
+0x075E4C79 Bestem måltype
+0x075E4C78 Dra mål til rollefigur
+0x0760B0F9 Innledning:
+0x0760B0FB Tapertekst:
+0x0760B0FA Vinnertekst:
+
+#Teams:
+
+0x07981E72 Disse bygningene blir angrepet av rollefigurene på fiendens lag.
+0x07981E71 Disse skapningene angriper aldri andre rollefigurer på laget sitt.
+0x079EDF5F Disse fremkomstmidlene angriper aldri andre rollefigurer på laget sitt.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Akt ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Dette eventyret har en akt uten mål. Spilleren kan ikke vinne eventyret hvis ikke akten har et mål eller det er den siste akten i eventyret. Vil du lagre likevel?
+
+#Give:
+
+0x079817CE Disse skapningene gir verktøy til en bestemt rollefigur.
+0x079817C9 Disse skapningene gir verktøy til hvilken som helst rollefigur.
+

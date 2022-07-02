@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x00000028 Der Scanner muss die Verteidigungsanlage der Kolonie aktiviert haben. Diese Drohnen wirken nicht sehr freundlich ... Moment! ... Da kommt ein Funksignal rein ...
+0x0663A00A Der interstellare Antrieb des Wracks antwortet auf ein Ortungssignal von einem Stern in der Nähe, der zu den Koordinaten im Speicher passt. Das muss ihr Heimatplanet sein. Vielleicht brauchen sie immer noch Hilfe ...
+0x0000001A Es ist ein abgestürztes Raumschiff! Und es sendet ein seltsames Funksignal aus! Fliege dorthin und untersuche mit dem Scanner-Werkzeug die Absturzstelle!
+0x0000001C Zu spät! Diese Ruinen sind alles, was von der Heimatkolonie der Außerirdischen aus dem Wrack noch übrig ist. Ein Scan der Ruinen gibt uns vielleicht Hinweise darauf, was hier passiert ist.
+0x06304FA8 Raketen und ein interstellarer Antrieb in den offenbar Sternenkoordinaten einprogrammiert sind. Der Schaden am Wrack scheint von einem Kampf herzurühren. Das Schiff sollte wahrscheinlich für einen anderen Planeten Hilfe holen, hat es aber nicht geschafft.
+0x0000001B Außerirdische! Aber keine Lebenszeichen. Sieht aus, als hätten sie vor ihrem Tod noch irgendeine Art verschlüsselte Landkarte gezeichnet. Moment! Das Wrack hat einen Transportstrahl aktiviert! Mehrere Objekte werden an Bord geholt!
+0x0000001D Der Scan hat nichts ergeben, aber eine Reaktion hat er trotzdem ausgelöst … Wir haben da irgendeine Aktivität auf dem Radarschirm ...
+0x00000004 Da ist was auf dem Schiffsradar ...
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B778C ~br~~br~Sei gegrüßt, mein Freund!~br~~br~Du bist weit gereist und hast viele Hindernisse überwunden.~br~~br~Auf deinem Weg bist du vielen anderen Lebensformen begegnet, alle verschieden und weit verstreut.~br~~br~~br~Nur die wenigsten von ihnen werden es bis hierher schaffen. ~br~~br~Deine Heldentaten beweisen, dass du es verdienst, ~br~~br~in die nächste Ebene deiner Existenz vorzudringen. ~br~~br~~br~Das von dir bewohnte Universum ist nur eines von vielen~br~~br~unzähligen Welten, unsichtbar und doch verbunden.~br~~br~~br~Deine kreativen Bemühungen sind nicht unbemerkt geblieben.~br~~br~Sie haben den Weg in diese anderen unsichtbaren Welten gefunden,~br~~br~~br~genau wie deine Welt von ihnen bereichert wurde.~br~~br~Es ist nun an der Zeit, dass du dich uns anschließt ...~br~~br~Um uns zu gehören! Muahahahaha!!~br~~br~~br~Nein, war nur 'n Witz. Kein Grund zur Panik!~br~Wirklich nicht! Die Zeit, die vor dir liegt, wird eine gute Zeit sein.~br~~br~Eine wirklich gute Zeit! ~br~Du fragst dich vielleicht gerade, wer ist eigentlich diese geheimnisvolle Stimme, die~br~so viel weiß und solch gewaltige Kräfte besitzt?~br~~br~~br~~br~~br~Ich bin froh, dass du fragst ...~br~
+0x067B7833 ~br~~br~Ich bin Steve.~br~~br~~br~Und du bekommst jetzt die Macht.~br~~br~Ja, du hast recht gehört: DIE MACHT!~br~~br~Die Macht, Leben, Intelligenz und Erkenntnis überall im Kosmos zu erschaffen und zu verbreiten.~br~~br~~br~~br~Setze diese Macht mit Bedacht ein!~br~Setze sie so ein, dass wir eines Tages EINS werden können ...~br~~br~~br~... das heißt ... ich meine ...~br~rein metaphorisch!~br~~br~~br~Oh, und noch was.~br~~br~Wir sind gerade in der letzten Verkaufsphase einiger Timesharing-Fincas in einem unserer größeren Sternsysteme ... der Planet ist wirklich entzückend, und es sind nur noch ganz wenige da.~br~~br~~br~~br~Schau doch mal vorbei, wenn du in der Nähe bist, dann laden wir dich zum Frühstück ein und machen eine kleine Präsentation!~br~~br~~br~Nach dem Sol die dritte Ausfahrt links.~br~
+
+# Terraform
+
+0x05FA8A51 Glückwunsch! Du hast terraformt und kolonisiert, und dein Reich ist gewachsen. Das Gewürz aus deinen Kolonien ist Ware für den Handel mit anderen Rassen.
+
+################
+
+0x0000000B Das Ökosystem dieses Planeten ist in Gefahr. Eliminiere die kranken Tiere, bevor sie den Rest der Spezies anstecken. Die Sache könnte zum Zusammenbruch des Nahrungsnetzes des Planeten führen.
+0x00000007 Erpels Gleichung war korrekt ... eine lebende außerirdische Rasse! Wir sind nicht allein! Es sieht so aus, als hätten sie einen Gesandten geschickt, um dir Grüße zu übermitteln. Vielleicht solltest du mit ihnen reden. Öffne dein Kommunikationsmenü!
+0x00000010 Dank der technologischen Fortschritte im Klonen und bei Bewusstseinsübertragungen im Notfall bist du nicht gestorben. Stattdessen kehrst du auf deine Heimatwelt zurück, wo dein Reich für dich ein neues ~ufo_name~-Schiff baut.
+0x0601FE99 Nach der Zerstörung des ~ufo_name~-Schiffes sind deine Verbündeten in ihre Heimatsysteme zurückgekehrt, was du auch tun wirst, um ein neues Schiff abzuholen. Um deine Flotte wiederaufzubauen, besuche deine Verbündeten und vergewissere dich erneut ihrer Unterstützung.
+0x00000029 Du hast einen wilden Planeten entdeckt. Zahlreiche Kreaturen und Pflanzen leben hier, mit deren Hilfe du auch auf andere Planeten Leben bringen kannst.~p~Wilde Planeten haben zudem reiche Gewürzvorkommen und sind zur Kolonisierung geeignet.
+0x05B1568D Weltraumpiraten! Diese Typen bedeuten Ärger, also gehst du entweder auf einem Planeten in Deckung oder bekämpfst sie.
+0x05B1A752 Ein Hinterhalt! Die Piraten haben dich mit einem fingierten Signal in eine Falle gelockt. Bereite dich auf die Schlacht vor!
+0x05B15258 Dein SETI-Gerät empfängt starke Funksignale von diesem Stern. Fliege hin und erforsche!
+0x063BB6D6 Glückwunsch, du hast dir den Titel Kommodore verdient! Deine Bündnisflotte kann nun ein weiteres Schiff aufnehmen.
+0x063ABD3D Glückwunsch, du hast dir die Plakette und den Titel Kapitän verdient!
+0x05B1CB68 Dieser Planet liefert ein seltsames Scan-Muster. Fliege näher hin und erforsche!
+0x05F9E801 Deine Handelsroute ist nun eingerichtet, und der Gewürztransport zwischen den Reichen erfolgt automatisch. Die Partnerschaft ist der erste Schritt zum Kauf des Systems.
+0x05FA2A28 Durch deine Aktionen bist du bei diesem Reich gern gesehen. Öffne dein Kommunikationssystem und setze deine Diplomatiefähigkeiten ein, um ihnen ein Bündnis vorzuschlagen.
+0x05F776D6 Wenn du dich dem Kern der Galaxie näherst, wird es schwieriger, einen Kurs durch die Anziehungskräfte der dichten Sternenhaufen zu finden. Deine Reichweite wurde verringert, um höhere Präzision zu ermöglichen.
+0x05FA70DA Krieg! Zerstöre mit deinen Waffen alle Kolonien auf dem Planeten. Wenn sie sich ergeben haben, kannst du entscheiden, ob du sie auslöschen oder erobern willst.
+0x05FA8A4D Planeten in grünen Umlaufbahnen sind leichter zu terraformen und zu kolonisieren als Planeten mit roten oder blauen Umlaufbahnen.
+0x00000020 Du hast den Planeten ~planet_name~ zum Wildreservat gemacht. Du kannst maximal ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ Tiere sammeln und auf diesem Planeten aussetzen, wo sie in Sicherheit leben können.
+0x063BB6F6 Glückwunsch, du hast dir den überaus exklusiven Titel Ultimatives Wesen verdient!
+0x063BB6DA Glückwunsch, du hast dir den Titel Admiral verdient!
+0x0000002C Dein Schiff ~ufo_name~ wurde so schwer beschädigt, dass es nun zerstört ist. Dank der Fortschritte in der Klontechnologie bist du nicht gestorben. Stattdessen kehrst du auf deine Heimatwelt zurück, wo ein neues Raumschiff auf dich wartet.
+0x063BB6E3 Glückwunsch, du wurdest befördert und trägst nun den Titel Berühmtheit!
+0x063BB6DF Glückwunsch, du hast dir den Titel Der Gefeierte verdient! Diese Beförderung bedeutet, dass du nun eine größere Bündnisflotte befehligen darfst.
+0x063BB6F2 Glückwunsch, du wurdest befördert und trägst nun den Titel Allmächtiger!
+0x063BB6EE Glückwunsch, du hast dir den Titel Legende verdient!
+0x063BB6E8 Glückwunsch, du hast dir den Titel Größter verdient! Diese Beförderung bedeutet, dass du nun eine größere Bündnisflotte befehligen darfst.
+0x0000002F Dieses Territorium wird von der Heimatrasse dieses Sterns kontrolliert. Sie betrachten deine Anwesenheit als aggressiven Akt.
+0x064BD3E4 Auf diesem Objekt wurden keine Objekte geortet.~br~Irgendwas stimmt hier nicht ...
+0x064E8373 Wir haben dir ein neues Schiff gebaut. Mach's bitte nicht wieder kaputt!
+0x00000014 Könnte das eine Grox-Kolonie sein? Sie sind in der ganzen Galaxie wegen ihrer Kaltblütigkeit berüchtigt. Also Vorsicht!
+0x00000030 Das ist feindliches Gebiet. Die Rasse wird dich so lange angreifen, bis du es verlassen hast. Deine Entscheidung: Fliehen, Kämpfen oder Frieden schließen. Was soll es sein?
+0x063BB6FA Glückwunsch! Du hast dir die höchstmögliche Stufe verdient. Du bekommst den Titel Omnipotent! Gut gemacht!
+0x063BB6D0 Glückwunsch, du trägst jetzt den Titel Kommandeur!
+0x0000002B Du hast einen unfruchtbaren Planeten entdeckt. Unfruchtbare Planeten können eine kleine Kolonie am Leben erhalten. Du kannst aber auch den TerraScore (T-Score) erhöhen und dann einen gewinnträchtigen Raumhafen für dein Reich errichten.
+0x05FA8A4E Kolonien können auf jedem Planeten angelegt werden, vom kargen Mond bis zur blühenden TerraScore 3-Oase. Ertragreiche Kolonien fördern Gewürz, das gehandelt werden kann.
+0x05FA8A4F Glückwunsch! Dein Reich ist gewachsen. Die Produktivität jeder Kolonie hängt von ihrer Größe ab, und die wiederum wird vom TerraScore des Planeten begrenzt. Investiere erst ins Terraforming, gründe dann Kolonien und errichte Gebäude, um maximalen Gewinn zu erzielen.
+0x0000000F Dein Schiff ~ufo_name~ wurde so schwer beschädigt, dass es nun zerstört ist.
+0x060C72DC Du hast Gewürz gesammelt! Gewürz ist ein wertvoller Handelsartikel. Sammle es bei jedem Besuch in deinen Kolonien oder auf deiner Heimatwelt ein!
+0x00000001 Und Abflug! Du hast erfolgreich ein Schiff für den Weltraumflug entwickelt! Der Himmel winkt, der Kosmos wartet, das Universum ist dir untertan ...Vorausgesetzt, du lernst, wie man dieses Ding fliegt.
+0x0000002E Du hast das Gebiet des ~race~es betreten. Unsere Beziehungen sind schlecht, daher werden sie das als feindseligen Akt betrachten und dich angreifen.
+
+# Uplift Game
+
+0x00000022 Der Monolith kurbelt die Evolution dieses Planeten an. Komm später wieder und überzeuge dich selbst.
+
+#System Capture
+
+0x06610F0E Glückwunsch! Du hast mit diplomatischen Mitteln ein starkes Handelsbündnis geschlossen und kannst nun mit Verhandlungsgeschick das System kaufen.
+0x06610F0C Glückwunsch! Du hast deine Feinde mit militärischer Macht zur Aufgabe gezwungen und ihr System erobert.
+0x06610F0B Glückwunsch! Du hast deine Feinde mit militärischer Macht zur Aufgabe gezwungen und ihr System erobert.
+0x06610F0D Glückwunsch! Du hast mit diplomatischen Mitteln ein starkes Handelsbündnis geschlossen und kannst nun mit Verhandlungsgeschick das System kaufen.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Du hast den Stab des Lebens erhalten.
+
+# Rares
+
+0x0000000D Die Galaxie ist voller seltener Objekte, Statuen und Fossilien.~br~Eines dieser einzigartigen Sammlerstücke befindet sich genau hier! Entführe es und verkaufe es für Unmengen an Spore-Dollars oder sammle komplette Sets, was den Wert beträchtlich erhöht.
+0x0000000C Das Schiffsradar hat ein interessantes Objekt auf diesem Planeten geortet.
+0x0643D130 Ein Planeten-Formwerkzeug! Erstelle damit einzigartige Planeten!
+0x0000001E Das Schiffsradar hat eine ungewöhnliche Scan-Signatur entdeckt. Wir haben so was noch nie gesehen.
+

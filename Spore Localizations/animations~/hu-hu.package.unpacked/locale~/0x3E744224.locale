@@ -1,0 +1,689 @@
+﻿# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 1
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C1 Van egy nyílás a kerítésen...
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 1
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA22 Eftie vagyok. Beteg vagy? Én nem vagyok beteg.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 2
+
+0x36F508C1 Koff!... Koff!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73821 Nem úgy néz ki, mintha épp átvitel lenne folyamatban...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 1
+
+0x36F508C0 Mi ez a hang?
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 2
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC821 Otthonosnak tűnik
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 2
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8821 Utálom ezt mondani, de rosszabb időszakot nem is választhattál volna a látogatásra.
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 2
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C1 Hová vezet ez a nyom?
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 1
+
+0x5B7F89C0 Vakarcs! Hol vagy, kislány?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 4
+# Comments: Character comments: Runs off
+
+0xC1251923 ... idegen eredetű. Biztosan abból az űrhajóból szabadult el és azt hiszem, a kutya hurcolta be a táborba.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 2
+
+0x5B7F89C1 Maradj távol tőlem, Blaair, nem bízom benned!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 3
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE823 Úgy tűnik, hogy végül egy idegen mégiscsak túlélte a zuhanást...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 3
+
+0x5B7F89C2 N'Orrisnak annyi. Nyugodj bele.
+
+# Character name (Character: "base_grave", model: "Research Base Grave_@building_editorModel!0x0769c9ff.bld")
+# Comments: A makeshift grave in the snow - pile of stones with a vaguely cross-like staff sticking out of it
+
+0x546BC860 Sír
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 5
+
+0x36F508C4 Olyan álmos vagyok...
+
+# Character name (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt")
+# Comments: The Station's Veterinarian
+
+0x5B7F8860 Claark
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 3
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89822 Jobb napokat is látott már.
+
+# 'Adventure won' message
+
+0x00000011 A ragály az egész kutatóbázist legyűrte. De legalább Eftie-t sikerült megmentened! Az ő természetes ellenállóképessége talán segít rálelni a gyógymódra.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 4
+
+0x36F508C3 Koff!
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 2
+# Comments: Character comments: behind the ship
+
+0x4F928822 A bőr zöld és hepehupás. Nem úgy fest, mintha a becsapódásból eredő sérülések okoznák az elváltozást...
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 4
+
+0xDB1A5A52 MARADJ!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 3
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0822 A felhatalmazottakon kívül senki nem tud róla.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73941 Senki nem akar bemenni...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 4
+
+0x5B7F88C3 ...ha megtalálnánk.
+
+# Character name (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld")
+# Comments: Sat Tower with radio mast and dishes
+
+0xF6E73860 Műholdállomás
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 1
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C0 Még több bőr. Még friss, nem takarta be a hó.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 5
+
+0x5B7F88C4 Senki sem látta, mióta lelépett betegen. Már biztosan jéggé fagyott.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 2
+# Comments: Character comments: Runs off
+
+0xC1251921 N'Orris és én éppen... Basszus! N'Orris?! - hová lett? Azt hiszem, ő is elkapta.
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 3
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A22 Ef-tee segíteni nekem elbújni. Én nem bántani őt! Jól lenni! A lány jól lenni! Nem lenni miattam beteg!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 2
+
+0x5B7F88C1 Semmi sem működik!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 1
+
+0xDB1A59C0 Ne... Ne hagyd el a bázist! Kérlek!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x50000105 Az enyém vagy!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 3
+
+0x5B7F88C2 Cooper meg tudná javítani...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 1
+# Comments: Character comments: Runs off
+
+0xC1251920 Helló. Blaair vagyok, az állomás biológusa.
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 1
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A820 A becsapódás nagy krátert vágott!
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 2
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A821 Nincs energia, nem mutatkoznak életjelek. De úgy tűnik, a menekülő zsilipkaput kilökték...
+
+# Act 2 description
+
+0x00000023 Megtaláltad a Icewater kutatóállomást... Most pedig a kutatókat kellene megkeresni.
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x50000104 AHHRR!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 1
+
+0xDB1A5A49 Ne menj!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 3
+
+0xDB1A59C3 Koff!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 2
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE824 Első elemzés: a bőrt mintha zöld indák borítanák be.
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 2
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89821 Az üzletben hórobogónak becézik.
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 1
+
+0x3668DA40 Halál rád!
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 2
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C6 A hangok... Megmondják, mit tegyek...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 1
+
+0x5B7F88C0 Átkozott masina!
+
+# Character name (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: All shriveled up
+
+0xE3E11860 Halott idegen
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x50000103 Ne menj el!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 2
+
+0xDB1A5A50 Nem mehetsz el!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 2
+
+0xDB1A59C1 Nem biztonságos. Cooper is lelépett, és sosem tért vissza.
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 3, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC941 Idekint hideg van, de szemmel láthatóan mindenki fél attól, ami odabent lehet...
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x50000102 Gyere ide!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 3
+
+0xDB1A5A51 Maradj!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 3
+
+0x3668DA42 NE KÖZELÍTS!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 5
+
+0xDB1A5A44 Koff!... Koff!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x50000101 Véged!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 1
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE820 Ez olyan, mintha bőr lenne...
+
+# Adventure name
+
+0x00000002 Az égből érkezett
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 2
+
+0x3668DA41 UTÁLTAD a kutyámat!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 5
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A24 Hagyj itt. Te elmenni. Vidd Ef-tee...
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 4
+
+0xDB1A5A43 Hol van N'Orris?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x4AB34A43 MEGÖLNI!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 2
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A21 Az emberek félnek tőlem. Megbetegszenek. Nagy betegség. Az égből. A bolygóm......
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 5
+
+0x3668DA44 AHHHHRRR!!!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 3
+
+0xDB1A5A42 Meneküljünk!
+
+# Character name (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Generic zombie
+
+0xE3E11861 Fertőzött
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x4AB34A44 GYERE IDE!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 4
+
+0x3668DA43 BÁNTANI foglak!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 2
+
+0xDB1A5A41 Valami történt Blaairrel és Claarkkal!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 1
+
+0xDB1A5A40 Menjünk innen!
+
+# Character name (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl")
+# Comments: Modeled after your favorite crashed alien spaceship - Alien or Independence Day?
+
+0xC701A860 Lezuhant idegen űrhajó
+
+# Character name (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt")
+# Comments: Infected version of Claark
+
+0x3668D860 Fertőzött
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 1
+
+0xC12519C0 Itt várok majd. Nem megyek le oda! Biológus vagyok, nem harcos...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 2
+
+0xC12519C1 A tudomány nevében hagyom, hogy te találd meg a megoldást. Áá, igazság szerint csak félek.
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 4
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8824 ...vagy halott.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73820 A bázis kommunikációs központja...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 3
+
+0xC12519C2 Félek attól, hogy mi történhet. Félek attól, amit odalent megpillanthatok... Eftie...
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x4AB34A40 Segíts…
+
+# Act 4 description
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000027 Kövesd a nyomot, nézd meg, hová vezet.
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x4AB34A41 Nem tudom... megállítani...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 4
+
+0xC12519C3 Odalent van. Nem bírnám ki, hogy megtaláljam...
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x4AB34A42 AHHHRRGGHH!!!!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 2
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C2 Az idegenbőr nyoma ide vezet...
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 1
+# Comments: Character comments: behind the ship
+
+0x4F928820 A body!
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 3
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA24 Hazaviszel?
+
+# Character name (Character: "base_body", model: "Dead Researcher_@creature_editorModel!0x076b007d.crt")
+# Comments: This is what most of them become - horribly infected, disfigured…and dead
+
+0xC1605860 Halott kutató
+
+# Character name (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt")
+# Comments: The Station's Geophysicist
+
+0x36F50860 N'orris
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 3
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025842 Mit kereshet?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 3
+# Comments: Character comments: Runs off
+
+0xC1251922 ... Ördög vigye! Ez nem egy egyszerű betegség. Minden biológiai szemszögből megvizsgáltam és rájöttem, hogy csak egy válasz létezhet..
+
+# Character name (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt")
+# Comments: The Station's Meteorologist
+
+0xDB1A5860 Ben Ning
+
+# Act 1 name
+
+0x00000020 A roncs helye
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 2
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA23 Csak vissza akarom kapni a papámat...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 1
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C5 A hangok... A fejemben...
+
+# Character name (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Infected version of Blaair
+
+0x4AB34860 Fertőzött
+
+# 'Adventure lost' message
+
+0x00000012 Még mindig rossz helyzetben vagy. Magányos vagy, beteg és haldokolsz. Lehet, hogy fel is fal valami... vagy valaki. Szívesen kapnál egy második esélyt, ugye?
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 3
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A822 ...talán valaki túlélte!
+
+# Character name (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld")
+# Comments: Base fence used to separate areas. High, wish it could be electrified!
+
+0x1A8A0860 Kerítés
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 1
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89820 Egy tönkrement Abraham hómobil.
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 1
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8820 Üdv a jéggolyónkon. Feltételezem, azért vagy itt, hogy megnézd azt a romhalmazt az udvarunkban.
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 2
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025841 Zavarosnak tűnik...
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 1
+
+0xE03FE920 Még több idegen bőr. Még mindig frissnek látszanak.
+
+# Act 5 description
+
+0x00000029 Eftie immúnisnak tűnik. Ki kell juttatnod őt erről a bolygóról. Siess! Vidd vissza a kivonási ponthoz.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 5
+# Comments: Character comments: Runs off
+
+0xC1251924 Mind bajban vagyunk és nem engedhetjük meg magunknak, hogy a betegség kijusson innen...
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 2
+
+0xE03FE921 Hová vezet ez?
+
+# Character name (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl")
+# Comments: A high tech machine on treads
+
+0xB9C89860 Hómobil
+
+# Character name (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt")
+# Comments: Little girl child like Newt in Aliens
+
+0x0CAAA860 Eftie
+
+# Adventure description
+
+0x00000003 Egy idegen űrhajó zuhant le egy fagyos bolygón, egy titkos kutatóbázis közelében. Téged hívnak, hogy kivizsgáld.
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 5
+
+0xDB1A5924 Attól tartok, őt is elvesztettük. Szegény kis Eftie...
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 ökológus, kíséret, zombik
+
+# Character name (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt")
+# Comments: Looks like a pile of seaweed (Kelp or Dulce)
+
+0xE03FE860 Idegenbőr
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 2
+
+0xC12518C1 Kisebb gondunk is nagyobb annál a szeméthalomnál!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 4
+
+0xDB1A5923 Több is van, még rosszabb. Palmával volt a lánya is, a kis Eftie, amikor berepült.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 3
+
+0x5B7F8943 Itt valami más van...
+
+# Act 3 name
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000024 Vádak
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 3
+
+0xC12518C2 Koff... Koff!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73940 Úgy tűnik, a kommunikációs rendszer nem működik...
+
+# Character name (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld")
+# Comments: A number of these, on stilts. Covered in snow
+
+0x282EC860 Kutatóbázis
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 3
+
+0xDB1A5922 A férfiak... csak egyre betegebbnek tűntek, aztán megbolondultak...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 2
+# Comments: Character comments: Should run off
+
+0x36F50941 Koff!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 2
+
+0x5B7F8942 A kutyám nem csinált SEMMIT! Gyere mán, kislány!
+
+# Act 5 name
+
+0x00000028 Ki van ott?
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 1
+# Comments: Character comments: Should run off
+
+0x36F50940 Hallom...
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 2
+
+0xDB1A5921 Itt minden a feje tetejére állt! A legtöbb emberünk eltűnt, beteg vagy halott. A parancsnoknak is nyoma veszett tegnap... Most tehát én vagyok a vezető.
+
+# Character name (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt")
+# Comments: infected version of N'orris
+
+0x0CAAA861 Fertőzött
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 1
+
+0x5B7F8941 Nem megyek be megint! Nem!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 1
+
+0xC12518C0 Tűnjünk el innen!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 1
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A20 Bocsáááánaaaat.
+
+# Character name (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: Look like small men draped in thick seaweed.
+
+0xE3E11862 Fertőzött idegen
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 1
+
+0xDB1A5920 A nevem Ning. Ben Ning. Én vagyok az állomás meteorológusa.
+
+# Character name (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt")
+# Comments: The Station's Biologist
+
+0xC1251860 Blaair
+
+# Character name (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt")
+# Comments: Wegians are four-legged dog-like creatures. Love Clark
+
+0x61025860 Vakarcs
+
+# Act 1 description
+
+0x00000021 Keress túlélőket és találd meg a katasztrófa okát!
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 1
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025840 Mintha valaki házikedvence lenne.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 4
+
+0xC12518C3 Nem érzem jól magam...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 4
+
+0xDB1A5A48 Nem szeretek itt lenni!
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 3
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8822 A banda nagy része most is beteg...
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 1
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0820 A kutatóállomás kerítése...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 5
+
+0xC12518C4 Koff!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 4
+
+0x5B7F8944 Hol van N'Orris?! Ő lesz a következő, én mondom, ő lesz...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 3
+
+0xDB1A5A47 A papát akarom...
+
+# 'Adventure start' message
+
+0x00000010 Vizsgáld meg a lezuhant idegen űrhajót! Keress életjeleket, és bizonyosodj meg róla, hogy a közeli kutatóbázis biztonságos!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 4
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A23 Emberek hamarosan lenni betegek. MENNI EL! Hozzatok segítség!
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 2
+
+0xDB1A5A46 Segíts!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 2
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0821 Icewater projekt, vastag jégtakaró alatt...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 1
+
+0xDB1A5A45 Mik azok az izék?
+
+# Act 4 name
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000026 Találkozás
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 4
+
+0x5B7F89C3 Figyeld Ninget, mert a fejébe szállt a hatalom...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 5
+
+0x5B7F89C4 Hol van a kutyám?
+
+# Act 2 name
+
+0x00000022 Valami nem stimmel...
+
+# Act 3 description
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000025 Kutasd át a bázist, és keress nyomokat a temető közelében!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 4
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0823 Kivéve... az idegent...
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC820 Egy szabvány Tucker-12 termális mentőkapszula
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 3
+
+0x36F508C2 Valaki suttog nekem?
+

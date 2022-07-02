@@ -1,0 +1,242 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000082 ...
+0x000000D0 Dziękujemy. Zgłoś się do nas, gdy tylko wrócisz z planety ~mission_target_planet~.
+0x0000004A ~player_title~? Masz styl! Wspominaliśmy o tym ostatnio?
+0x00000074 Rezygnujesz? Ale... Ale... Mieliśmy umowę!
+0x00000053 Ta misja jest za trudna. Wymiękam!
+0x000000BE Chwała niech będzie Spodowi! Odkryliśmy nowy świat rojący się od dzieł Spoda! Czy możesz udać się na planetę ~mission_target_planet~ i przeprowadzić kompleksowe badania?
+0x00000004 W układzie ~mission_target_star~ odkryto zachwycającą nową planetę! Musimy zbadać ten świat, aby ustalić, która z naszych wielkich planetarnych korporacji najskuteczniej splądruje jego zasoby naturalne. Czy Wasza Wspaniałość będzie skłonna nam pomóc, oczywiście w zamian za spore wynagrodzenie?
+0x00000071 Być może to wynik nadmiernego napięcia. Zażyj pigułkę na uspokojenie i rozluźnij się.
+0x000000AB Potrzebujemy dokładnych danych na temat planety ~mission_target_planet~, aby zyskać pewność, że na naszych kolonistów nie będą tam czekać żadne paskudne niespodzianki. Czy zechcesz zebrać te dane?
+0x00000065 Galaktyka jest wystarczająco groźna bez przeciwstawiania się Groksom.
+0x00000091 Wróć na planetę ~mission_source_planet~.
+0x00000059 Ach, teraz rozumiem. Wielkie dzięki.
+0x00000040 Jeszcze jedna rzecz zanim wyruszę...
+0x000000EA Spod zapamięta sobie wszystkich, którzy przeszkadzają w realizacji Wielkiego Planu.
+0x0000006C Ooo. Fatalnie. Już mnie tu nie ma.
+0x00000013 Dobra. Wchodzę w to.
+0x000000EF Najbardziej wyrozumiałe wytłumaczenie polega na tym, że cierpisz na infekcję wirusową, która wywołuje głupotę.
+0x0000003E Jest coś, o czym chcę porozmawiać.
+0x00000075 Niestety, jesteś bardzo niesolidnym partnerem handlowym.
+0x0000009D Przeskanuj rośliny i zwierzęta z planety ~mission_target_planet~ w układzie ~mission_target_star~.
+0x0000004D Wkrótce wrócę.
+0x000000CE Znakomicie! Realizacja Wielkiego Planu Spoda może posunąć się naprzód. Udaj się na planetę ~mission_target_planet~ i wróć jak najszybciej.
+0x00000052 Kiepsko mi idzie. Wymiękam.
+0x000000ED Twoje procesy umysłowe zdają się być doskonałym przykładem praktycznego zastosowania teorii chaosu.
+0x00000093 Przeskanuj organizmy żywe na planecie ~mission_target_planet~.
+0x0000004B Ruszaj natychmiast i nie wracaj bez danych planety ~mission_target_planet~.
+0x000000EC Żądamy tylko konsekwencji. Niestety nie jesteś zbyt konsekwentną istotą.
+0x000000EB Niech się strzegą wszyscy, którzy przeszkadzają w realizacji Wielkiego Planu.
+0x00000029 Niech ~player_title~ przyjmie podziękowania za wyśmienitą robotę. Wykrywamy w tym działanie wyższego umysłu.
+0x00000066 Chyba zatem zatrzymamy te duchowe bogactwa dla siebie.
+0x00000021 Niech ~player_title~ przyjmie gratulacje — to była po prostu znakomita robota! Nic lepszego nie można było oczekiwać!
+0x00000001 Planeta ~mission_target_planet~ może nadawać się do kolonizacji, lecz zanim zyskamy pewność, musimy przeprowadzić zwiad. Czy możesz to zrobić?
+0x000000E3 Najwyraźniej realizacja Wielkiego Planu Spoda nie jest dla takich pogan, jak ty.
+0x00000056 Jasne. Teraz już wiem. Dzięki.
+0x00000043 Wielka Rada dziękuje ci. Udaj się natychmiast na planetę ~mission_target_planet~.
+0x00000046 Już zaczynamy podliczać nasze zyski!
+0x000000E4 Najwyraźniej nie masz Spoda w żadnym ze swych serc!
+0x0000003C Mimo całej gadaniny wciąż nie mamy danych planety ~mission_target_planet~. Czy możesz zerknąć do swojego dziennika misji, przypomnieć sobie niezbędne szczegóły i udać się prosto do celu?
+0x0000006A Wolę pomówić o czymś innym.
+0x00000012 Aby lepiej chronić swoich podopiecznych, Wielka Rada ogłosiła stworzenie strefy bezpieczeństwa. Strefa ta obejmuje planetę ~mission_target_planet~. Możliwość skolonizowania tego świata byłaby dla nas bardzo korzystna, ale brak nam odpowiednich danych. Czy zbierzesz je w naszym imieniu?
+0x0000006E Jasne, dobra. Do zobaczyska.
+0x00000044 Wielka Rada dziękuje ci. Oddal się natychmiast.
+0x0000000C Potrzebujemy dokładnych danych na temat planety ~mission_target_planet~. Czy dostarczysz nam je?
+0x00000027 Zaraz zbadamy te dane. Możliwe dalsze zlecenia.
+0x00000057 Dobrze. Rozumiem. Dziękuję.
+0x0000000B Istoty żywe z planety ~mission_target_planet~ powinny znaleźć się w naszej bazie danych. Zbadasz dokładnie tę planetę.
+0x000000E2 Dlaczego chcesz się teraz wycofać?
+0x00000045 Znakomicie! Rynek papierów wartościowych już odnotował początek hossy! Udaj się na planetę ~mission_target_planet~ i wróć do nas jak najszybciej.
+0x0000006B Jeszcze jedno pytanie przed odlotem...
+0x00000025 Dziękujemy za zgrabne dane! Przeanalizujemy je i zgłosimy się ponownie!
+0x000000E8 W takim razie sami się tym zajmiemy.
+0x00000007 Planeta ~mission_target_planet~ znalazła się w naszej strefie bezpieczeństwa, lecz nie dokonaliśmy jeszcze pełnych pomiarów tego ciała niebieskiego. Czy zechcesz nam pomóc?
+0x00000054 Mam już dosyć. Wycofuję się.
+0x000000E7 Skoro nalegasz. Do widzenia.
+0x00000042 Dzięki, kapitanie! Gdy tylko zechcesz...
+0x00000068 Pozwólcie, że zapytam o coś jeszcze...
+0x00000023 Niech ~player_title~ przyjmie podziękowania za wykonanie tej misji z honorem.
+0x000000B0 Odkryliśmy pewną zapyziałą planetkę, która mogłaby się znakomicie nadawać do agroturystyki, lecz z naszych danych wynika, że wszystko, co tam żyje, mogłoby nas zabić! Czy możesz przeprowadzić dokładne badania planety ~mission_target_planet~?
+0x000000E9 A niektóre istoty mają czelność nazywać nas powierzchownymi!
+0x00000049 To straszne wieści! Ruszaj tam co sił we wszystkich nogach!
+0x00000055 Rezygnuję. Przykro mi.
+0x000000D5 Z błogosławieństwem Spoda dane przybyły! Chwała Spodowi!
+0x00000028 Wielka Rada wspomaga rozwój wiedzy o wszystkich planetach, kulturach i środowiskach. Czy zechcesz pomóc nam w powiększaniu tych zasobów?
+0x000000AF Odkryliśmy sprzyjające warunki na planecie ~mission_target_planet~. Chcielibyśmy wybudować tam ośrodki wczasowe i nadbrzeżne hotele, ale co będzie, jeśli tamtejsze zwierzęta są nieprzyjazne lub rośliny — trujące? Czy możesz wybrać się na planetę ~mission_target_planet~ i przeskanować wszystko, co się na niej znajduje?
+0x00000047 Lepiej prędzej niż później.
+0x00000058 Aha! Teraz rozumiem. To wydaje się tak proste...
+0x00000069 Czy mogę zadać inne pytanie?
+0x000000E5 W takim razie sami zbadamy tę planetę.
+0x00000048 Śpiesz się. Będziemy wypatrywać twego powrotu.
+0x0000003F Czy mogę zadać pytanie?
+0x00000009 Znaleźliśmy cała planetę pełną ciekawych rzeczy! Lecz potrzebujemy wyników dokładnych jej badań, aby oddzielić ziarno od plew, że tak powiem. Możesz udać się na planetę ~mission_target_planet~ i zrobić dla nas jej generalny przegląd?
+0x000000E6 Szkoda. W takim razie prędzej czy później sami przeprowadzimy te badania.
+0x000000A6 Dane zebrane. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, by poznać resztę misji.
+0x000000B6 Odkryliśmy nowy świat pełen życia! Potrzebujemy dokładnych danych, by ustalić, czy jakieś przedmioty z tej planety mogą posłużyć jako rekwizyty w naszych obrzędach. Czy możesz zbadać tę planetę?
+0x00000083 Przepraszam, o co właściwie chodzi w tej misji?
+0x00000080 Ja... Ehm... Muszę już lecieć...
+0x00000019 Teoretycznie tak, ale mam pewną sprawę do załatwienia...
+0x000000B7 Aura planety ~mission_target_planet~ iskrzy się od życia, ale nie wiemy, co to za życie. Być może na tej planecie znajduje się coś, co wspomogłoby nasz rozwój duchowy! Czy możesz się tam udać i przeprowadzić pomiary?
+0x000000C8 Na planecie ~mission_target_planet~ odkryto nowe organizmy żywe, lecz ten glob nie został jeszcze odpowiednio dokładnie zbadany. Czy zechcesz podjąć się tego zadania?
+0x000000C2 Aby lepiej zrozumieć galaktyczną sieć życia i nasze w niej miejsce, staramy się zebrać dane z wszelkich możliwych źródeł. Czy możesz polecieć na planetę ~mission_target_planet~ i przeprowadzić kilka skanów?
+0x00000016 Oczywiście.
+0x0000002E I co teraz?
+0x0000001A Dlaczego nie poprosiliście mnie poprzednim razem? Koniec przekazu.
+0x00000011 Brak nam danych na temat planety ~mission_target_planet~. Przeprowadzisz odpowiednie pomiary.
+0x00000017 Teraz nie da rady. Przykro mi.
+0x000000A7 Obiekt ~mission_item~ zdobyty. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~ po nagrodę.
+0x0000006D Auć. To nie musi być tak!
+0x0000007F Nie muszę tego wysłuchiwać...
+0x00000061 W takim razie sami zbierzemy tę substancję.
+0x00000084 Czy moglibyście odświeżyć moje wiadomości o misji?
+0x000000C4 Środowisko naturalne planety ~mission_target_planet~ jest pod pewnymi względami niepowtarzalne. Czy możesz je dokładnie zbadać i dostarczyć nam wyniki?
+0x00000086 Czy możecie przypomnieć mi moje zadanie?
+0x000000C3 Środowisko planety ~mission_target_planet~ już dawno powinno zostać poddane pomiarom. Czy możesz przeskanować tę planetę?
+0x00000097 Przeskanuj rośliny i zwierzęta z planety ~mission_target_planet~ w układzie ~mission_target_star~.
+0x000000B8 Przekaz Czcigodnego Mistrza Fraksa, odebrany przez jednego z naszych proroków, informuje, że na planecie ~mission_target_planet~ może się znajdować obiekt, który pomógłby nam osiągnąć wyższą częstotliwość wibracji! Czy możesz zbadać tę planetę?
+0x00000018 Oj, niestety nie mam czasu.
+0x00000085 Nie pamiętam, na czym polega moje zadanie...
+0x00000060 Odrzucasz okazję do zdobycia wiedzy... Niech i tak będzie.
+0x0000007E Kiepsko! To niedobrze.
+0x0000007B Jeśli będziesz współpracować, twoja śmierć będzie szybka. Jeśli nie, może potrwać dłużej.
+0x0000000D Nasze dane na temat planety ~mission_target_planet~ zaginęły podczas napadu piratów. Czy możesz zbadać tę planetę dla nas na nowo?
+0x00000050 Wrócę, zanim się spostrzeżecie!
+0x000000BD Nasi teologowie życzą sobie, by wszystkie organizmy żywe zostały zapisane w Księdze Istnienia i zaliczone do czystych bądź nieczystych. Czy możesz udać się na planetę ~mission_target_planet~ i przeskanować wszystkie tamtejsze organizmy?
+0x0000002B Co zatem mam zrobić teraz?
+0x00000078 Czy na pewno przebywamy w tym samym wszechświecie?
+0x00000079 Nie pora na rezygnację! Gdy impreza się rozkręca, trzeba się kręcić wraz z nią!
+0x0000008D Veni, vidi... i nici.
+0x0000002C Na co teraz kolej?
+0x00000064 Ta odmowa zostanie ukarana.
+0x00000077 Niezdecydowanie nigdy nie jest atrakcyjną cechą.
+0x00000035 Dobrze. Jest coś, o czym chcę porozmawiać.
+0x0000005C Nie będziemy nalegać. Do widzenia.
+0x0000009B Przeskanuj rośliny i zwierzęta na planecie ~mission_target_planet~. (WYKONANO)
+0x00000014 Mam ochotę na jakąś przygodę. Zrobię to!
+0x00000002 Zgodnie z dyrektywą Wielkiej Rady o odkrywaniu nowych światów nadających się do kolonizacji wysłaliśmy bezzałogową sondę, która odkryła życie na planecie ~mission_target_planet~. Wielka Rada będzie bardzo wdzięczna, jeśli zechcesz zbadać ją dla nas dokładniej.
+0x0000004F Wrócę w mgnieniu oka!
+0x00000094 Sprowadź obiekt: ~mission_item~.
+0x000000D7 Dziękujemy za ten wkład w naszą wiedzę o galaktycznej sieci życia.
+0x0000001D Wyśmienita robota, kapitanie!
+0x00000081 No cóż, ojej. Daruj sobie te podłostki.
+0x000000C9 Grupa naukowców, która miała zbadać planetę ~mission_target_planet~, zginęła podczas napadu piratów. Czy przeprowadzisz te badania zamiast nich?
+0x0000005E W takim razie całe pieniądze zatrzymamy dla siebie.
+0x0000007A Twoje zachowanie nie jest wolne od elementu ryzyka.
+0x0000006F No cóż... Pa.
+0x00000070 Poddajesz się? Twoje zachowanie skłania się ku dziwacznej części przedziału.
+0x00000008 Nasze zespoły zwiadowcze wykonują długotrwałą misję w innym obszarze kosmosu, a my pilnie potrzebujemy danych planety ~mission_target_planet~. Czy zechcesz zbadać ten świat dla nas?
+0x0000002D Co dalej czeka mnie w tej misji?
+0x0000008A Veni, vidi... i nici.
+0x0000001C Dziękujemy! Odprowadzilibyśmy cię, ale jesteśmy umówieni na czyszczenie aury.
+0x000000A1 Przeskanuj rośliny i zwierzęta na planecie ~mission_target_planet~. (WYKONANO)
+0x00000051 Jeszcze tylko jedno...
+0x00000015 Jasne. Mogę to zrobić.
+0x00000095 Wróć na planetę ~mission_source_planet~.
+0x000000CA ~mission_target_planet~ została wyznaczona do zbadania, ale nasze służby eksploracji kosmosu są przeciążone. Czy przeprowadzisz dla nas te pomiary?
+0x000000CF Niech Spod uczyni Twoje brzemię lekkim!
+0x000000D1 Dziękujemy! Będziemy wypatrywać Twojego powrotu.
+0x000000EE Twoje nielogiczne zachowanie jest kolejną informacją, która posłuży nam do oszacowania inteligencji Twojego gatunku, która zresztą nie wydaje się zbyt wysoka.
+0x000000D3 Dziękujemy. Doceniamy Twoje wysiłki.
+0x000000D2 Dziękujemy za pomoc. Będziemy wypatrywać Twojego powrotu z planety ~mission_target_planet~.
+0x00000036 Nie przywozisz kompletu danych planety ~mission_target_planet~. Czy Twój dziennik misji nie zawiera pełnych instrukcji?
+0x00000072 Zapamiętamy sobie Twoje irracjonalne zachowanie.
+0x0000007C Jeśli Twój gatunek tak się zachowuje, musiał zgromadzić kolosalną ilość złej karmy.
+0x0000001B Będziemy opiewać Twój sukces!
+0x0000008C Przyczyny Twojej porażki są niemożliwe do pojęcia. Do widzenia.
+0x000000DE Gdzie są dane planety ~mission_target_planet~? Twoja zgoda na wykonanie tego zadania znajduje się — wraz z resztą niezbędnych danych — w Twoim dzienniku misji.
+0x000000D4 ~mission_item~ nadaje się do naszych celów. Jeśli chcesz ~mission_rewards~, możesz je wziąć.
+0x00000020 Wielka Rada jest zadowolona z Twoich poczynań. Przyjmij proszę ~mission_rewards~ i niniejszy Dyplom Uznania drugiej klasy.
+0x00000003 Gratulacje z powodu udanej misji. Dzięki Twoim badaniom okazało się, że na planecie ~mission_target_planet~ znajduje się ~mission_item~. Obiekt ten jest przedmiotem ciągłych badań, określonych przez Wielką Radę jako „ważne, ale nie o krytycznym znaczeniu”. Czy pomożesz Wielkiej Radzie i dostarczysz nam to?
+0x00000039 Słuchaj no... gdzie jest ~mission_item~? Czas leci!
+0x00000032 ~mission_item~ jeszcze nie znajduje się w naszych magazynach w wystarczającej ilości. Uzgodniliśmy, że dostarczysz nam tyle, ile będzie trzeba — zerknij może do swojego dziennika misji, znajdziesz tam dokładne informacje.
+0x0000004E Świetnie! Nie ma czasu do stracenia.
+0x0000008E O Twoim niepowodzeniu możemy powiedzieć co najwyżej, że jest bezprecedensowe. Żegnaj.
+0x0000004C Wróć natychmiast na planetę ~mission_target_planet~. ~mission_item~ ma trafić do nas jak najszybciej!
+0x00000030 Nie lubimy narzekać, kapitanie, ale chyba umawialiśmy się, że przywieziesz nam ~mission_item~? Notatki z naszego spotkania powinny znajdować się be w Twoim dzienniku misji.
+0x0000002F Gdzie są dane planety ~mission_target_planet~? Wszystkie potrzebne informacje powinny być w Twoim dzienniku misji! Zbierz wszystkie niezbędne dane i dopiero potem wróć do nas.
+0x0000003B Mamy twoją obietnicę dostarczenia nam obiektu o nazwie ~mission_item~. Zostało to zapisane w Twoim dzienniku misji. Dostarczysz nam ten obiekt natychmiast.
+0x00000026 Wyśmienita robota! Zaraz robimy imprezę! ~p~Masz w nagrodę ~mission_rewards~, znajdź sobie coś do picia i jakiś wygodny leżak przy basenie!
+0x0000007D O ja nieszczęśliwy! Trzeba zbadać planetę ~mission_target_planet~, a mnie brakuje badaczy! Mam tylko całe stosy forsy! ~p~Być może twoja potężna inteligencja wymyśli jakieś rozwiązanie tego problemu?
+0x000000E1 Zauważyliśmy, że ~mission_item~ nie znajduje się jeszcze w naszym posiadaniu, jak uzgadnialiśmy. Czyżby szczegóły umowy zostały skasowane z Twojego dziennika misji?
+0x0000005B Jak możesz tak postępować!? Nie masz pojęcia, jak ważny jest dla nas ten etap misji! ~p~Jeśli nie dokończysz swojej pracy, to może podarujemy Twój kosztowny statek komuś, kto zrobi z niego lepszy użytek?
+0x000000B2 Zebrane dane wykazują, że obiekty o nazwie ~mission_item~ znajdują się na całej tej planecie! Ponieważ zawierają one substancję, która leczy syndrom dnia następnego po święcie Zataczania się w Stanie Nieważkości, musimy ją zdobyć jak najszybciej! Czy możesz przywieźć nam dostawę?
+0x00000005 Odkryliśmy istnienie życia na planecie ~mission_target_planet~, którą trzeba teraz dokładnie zbadać. Czy możesz to dla nas zrobić?
+0x0000005F Nie kusi cię nawet perspektywa wielkiej nagrody? Jesteś unikatem na skalę galaktyczną!
+0x000000AC Dziękujemy za znakomicie wykonane zadanie. Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajdują się uznawane za cenne obiekty o nazwie ~mission_item~. Czy wrócisz na tę planetę i przywieziesz nam ich trochę?
+0x00000022 Wszystkie nasze serca biją radośnie na myśl o zysku! Udało ci się zdobyć ~mission_item~! Oto twoja zasłużona nagroda: ~mission_rewards~. Może dasz się namówić na przechadzkę po naszym centrum handlowym...?
+0x0000001F Wielka Rada dziękuje ci za rzetelną robotę. Otrzymujesz Dyplom Uznania trzeciej klasy.
+0x00000037 Czekamy, aż przywieziesz nam obiekt o nazwie ~mission_item~, zgodnie z informacjami zamieszczonymi w Twoim dzienniku misji. Kiedy możemy się spodziewać dostawy?
+0x000000BB Przejrzeliśmy zebrane przez ciebie dane i odkryliśmy, że planeta ~mission_target_planet~ jest pełno obiektów o nazwie ~mission_item~! Obiekty te zwiększą nasza częstotliwość wibracji i musimy je zdobyć! Czy możesz wrócić i przywieźć nam odrobinę?
+0x0000000E Wspaniała nowina! Zdobyte przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajduje się ~mission_item~! Jeśli dostarczysz nam odpowiednią ilość tego towaru, zrobimy bardzo zyskowną promocję!
+0x000000DB Z całych serc popieramy ludzi wyluzowanych i zajmujących się tylko własnymi sprawami, ale chyba zdarzyło ci się złożyć obietnicę, że dostarczysz nam ~mission_item~? Nasi jasnowidze twierdzą, że potrzebne informacje znajdują się w twoim dzienniku misji.
+0x0000005D Zmuszanie cię do czegokolwiek nie leżałoby w naszym interesie.
+0x00000099 Udało ci się przeskanować zwierzęta i rośliny z planety ~mission_target_planet~. Wróć do zleceniodawcy po dalsze instrukcje.
+0x000000B9 Jesteśmy niezmiernie podekscytowani! Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~, które przepełnia zadziwiająca kosmiczna energia! Czy możesz wrócić na tę planetę i przywieźć nam trochę?
+0x000000DA ~mission_item~ niezwykle się nam przyda. Oto ~mission_rewards~ dla ciebie; ponadto skorygowaliśmy naszą ocenę Twojej inteligencji.
+0x00000041 Dzięki, kapitanie! Nie możemy się doczekać zebranych przez ciebie danych!
+0x00000073 To idiotyczna chwila na rezygnację, ale nie będziemy cię do niczego zmuszać.
+0x000000DC Nie udało ci się dostarczyć danych planety ~mission_target_planet~. Wszystkie potrzebne wiadomości powinny się znajdować w twoim dzienniku misji! Nie można opóźniać realizacji Wielkiego Planu Spoda!
+0x000000DD Czterdziesta Pierwsza Przepowiednia Spoda wciąż pozostaje niespełniona! Przeczytaj swój dziennik misji tak uważnie, jakby był świętą księgą, i natychmiast dostarcz nam obiekt o nazwie ~mission_item~!
+0x0000009C Przywieź obiekt ~mission_item~ z planety ~mission_target_planet~. (WYKONANO)
+0x000000BA Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ mogą znajdować się obiekty o nazwie ~mission_item~! Znakomicie nadają się one do kreślenia mistycznych kręgów w piachu i wszyscy ich poszukują! Przywieziesz nam trochę?
+0x000000D8 Twoja praca jest zaiste wyjątkowa! Dziękujemy za obiekt o nazwie ~mission_item~, oto nagroda dla ciebie: ~mission_rewards~.
+0x000000A9 Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ można znaleźć towar o nazwie ~mission_item~! Mamy dla niego wysoce zyskowne zastosowanie i sowicie wynagrodzimy każdego, kto przywiezie nam zapas!
+0x00000063 Przecież do tej pory szło ci doskonale!
+0x00000090 Nie udało ci się. Twoja nieudolność zostanie uwzględniona w przyszłych obliczeniach.
+0x000000D9 Jakość zebranych przez ciebie danych zaskoczyła część z nas — nie wszyscy spodziewali się przejawu tak wysokiej inteligencji. Być może przydasz się nam w przyszłości.
+0x000000D6 Czterdziesta Pierwsza Przepowiednia spełniła się! Twoja pomoc w realizacji Wielkiego Planu jest nieoceniona! Przyjmij proszę te ~mission_rewards~. Może pomyślisz nad datkiem dla świątyni...?
+0x00000089 Zaproponowalibyśmy ci przelot powrotny na planetę ~mission_target_planet~, ale nie mamy czasu. Żegnaj.
+0x00000067 Wielka Rada uznała dostarczone przez ciebie dane za bardzo przydatne i dzięki nim zlokalizowała nowe źródła surowców. Zauważyliśmy, że na tej planecie znajdują się obiekty o nazwie ~mission_item~. Nie znamy ich za dobrze i mamy nadzieję, że zgodzisz się wrócić na planetę ~mission_target_planet~ i dostarczyć nam pewną ich ilość.
+0x000000CC Zebrane przez ciebie dane są bardzo dokładne. Zauważyliśmy, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~. Dysponują ona pewnymi właściwościami, które chcielibyśmy bliżej zbadać. Czy wrócisz na tę planetę i przywieziesz nam odpowiedni zapas?
+0x000000CD Dziękujemy za bardzo przydatne dane. Dowodzą ponad wszelką wątpliwość, że na planecie ~mission_target_planet~ występują obiekty o nazwie ~mission_item~. Są one rzadkie na naszej planecie, więc chcielibyśmy je zbadać. Czy możesz przywieźć nam trochę?
+0x00000087 Prosta przejażdżka to zbyt wiele? Doprawdy, znajdziesz drogę tylko wtedy, gdy oświeci cię Światło Spoda.
+0x0000003A Jeszcze nie otrzymaliśmy od ciebie danych planety ~mission_target_planet~. Parametry tego zadania znajdziesz w swoim dzienniku misji! Przeskanuj cel i dopiero potem wróć do nas.
+0x00000088 Czyżby wymagania misji były niejasne? Nieważne. Wyślemy statek badawczy, który wykona to, co tobie się nie udało.
+0x000000C0 Udało ci się zlokalizować substancję o nazwie ~mission_item~, która według niektórych została wspomniana w Czterdziestej Czwartej Przepowiedni Spoda jako „arthngleb”! Musimy jak najszybciej sprowadzić odpowiedni zapas tej substancji! Czy przyjmiesz na siebie błogosławieństwo tej misji?
+0x000000C7 Gratulacje, zebrane przez ciebie dane są wyśmienite! Odkryliśmy, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~. Dysponują ona pewnymi właściwościami, które chcielibyśmy bliżej zbadać. Czy możesz wrócić na tę planetę i przywieźć nam pewien zapas?
+0x000000AE Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajduje się obiekt o nazwie ~mission_item~, sklasyfikowany przez Radę Potencjału Wojskowego jako obiekt o znaczeniu strategicznym. Nasze zespoły zwiadowcze są wciąż zajęte w innych zakątkach kosmosu, więc może wrócisz na planetę ~mission_target_planet~ i przywieziesz nam odpowiednią ilość tego specyfiku?
+0x000000CB Znakomicie! Analiza zebranych przez ciebie danych wykazuje, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~, których Imperium ~mission_source_empire~ bardzo potrzebuje. Czy zechcesz wrócić na planetę ~mission_target_planet~ i przywieźć nam trochę?
+0x000000C6 Dzięki Twoim skanom wiemy, że obiekty o nazwie ~mission_item~ mogą odstraszać szkodniki! Czy wrócisz na planetę ~mission_target_planet~ i zdobędziesz dla nas trochę?
+0x0000003D Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajdują się znaczne ilości obiektów o nazwie ~mission_item~, które Wielka Rada ogłosiła produktem o znaczeniu strategicznym. Czy możesz wrócić na tę planetę i dostarczyć nam odpowiedni zapas?
+0x0000008B Cóż ci przeszkodziło? Może zakupisz trochę inteligencji wystawionej na sprzedaż na naszym bazarze.
+0x000000C1 Zaiste wspaniałe są dzieła Spoda! Dzięki zebranym przez ciebie danym wiemy, że na planecie ~mission_target_planet~ mogą znajdować się obiekty o nazwie ~mission_item~! To one zostały wymienione w Czterdziestej Pierwszej Przepowiedni Spoda! Czy przywieziesz nam ich trochę?
+0x00000031 Gdzie są dane planety ~mission_target_planet~? Nie udało ci się wykonać tego zadania? Nasza umowa została zapisana w twoim dzienniku misji.
+0x00000062 Nie interesuje cię to? Ani ociupinkę? No cóż.
+0x00000033 Gdzież są nasze wspaniałe zyski? Nie otrzymaliśmy od ciebie danych na temat planety ~mission_target_planet~. Wszystkie potrzebne wiadomości powinny się znajdować w twoim dzienniku misji!
+0x0000001E Cieszymy się, że przywozisz ~mission_item~! Proszę, oto Twoje ~mission_rewards~.
+0x0000000A No proszę, kto by przypuszczał? Zebrane przez ciebie dane wykazały, że na planecie ~mission_target_planet~ znajduje się ~mission_item~ — według nas rzecz niezbędna na każdej imprezie! Czy zechcesz pomknąć na planetę ~mission_target_planet~ i przywieźć nam trochę?
+0x000000BC Aby móc zrealizować Wielki Plan Spoda, potrzebujemy danych na temat wszystkich organizmów żywych znajdujących się na planecie ~mission_target_planet~. Jeśli zechcesz zebrać te dane, być może będziemy mieli dla ciebie więcej zleceń.
+0x00000038 Staramy się powściągać niecierpliwość, ale zauważyliśmy, że jeszcze nie otrzymaliśmy od ciebie danych planety ~mission_target_planet~. Zerknij do swojego dziennika misji i sprawdź, czy coś nie wypadło ci z pamięci.
+0x000000A8 Z radością wykonujemy taniec nabycia! Rynek nieruchomości na planecie ~mission_target_planet~ za chwilę wystrzeli aż do stratosfery! Potrzebujemy tylko paru danych na temat tej planety, abyśmy mogli określić najlepsze miejsce pod nasze osiedla. ~p~Być może Twój potężny umysł będzie skłonny do zajęcia się tą sprawą? Zadbamy, żeby ci się to opłaciło?
+0x0000002A Twoje poprzednie wcielenie było zapewne niezwykle wysoko rozwiniętym mistrzem mistycyzmu! Proszę, oto Twoje ~mission_rewards~. Może dołączysz do naszych zawodzeń...?
+0x0000000F Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajduje się ~mission_item~! Chcielibyśmy zbadać dokładniej ten obiekt, więc przywieź nam próbkę, proszę.
+0x000000AD Gratulacje z okazji wykonania misji. Sądząc po zebranych przez ciebie danych, na planecie ~mission_target_planet~ można znaleźć obiety o nazwie ~mission_item~. Zawierają one toksynę, która pozwoliłaby nam zlikwidować naszych wrogów raz na zawsze. Dostarczysz nam trochę?
+0x000000BF Chwała Spodowi! Zebrane przez ciebie dane wykazują, że na tej planecie znajdują się obiekty o nazwie ~mission_item~. Zgodnie z Czterdziestą Pierwszą Przepowiednią Spoda muszą one zostać sprowadzone na naszą planetę. Czy wykonasz dla nas to święte zadanie?
+0x0000009E Przywieź nam obiekt ~mission_item~ z planety ~mission_target_planet~.
+0x000000C5 Zebrane przez ciebie dane dostarczyły interesujących wiadomości! Okazuje się, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~, które przydałaby się naszej cywilizacji. Przywieziesz je nam? Drogę już znasz.
+0x000000DF Masz nam przywieźć zapas obiektów o nazwie ~mission_item~. Zerknij do swojego dziennika misji, tam znajdziesz zapis naszej umowy.
+0x00000034 My tu siedzimy na górze sporylionów, a tobie nie udało się wykonać misji? Gdzie jest ~mission_item~?
+0x000000B3 Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~, które chcielibyśmy dokładniej zbadać. Wrócisz tam i dostarczysz nam zapas.
+0x0000005A Cóż, to pewne rozczarowanie. Mieliśmy nadzieję, że zdołamy cię zachęcić do wykonania tej misji. ~p~Może się wydawać zwykła, lecz jest prawdopodobnie niezwykle ważna dla naszego gatunku. ~p~Szkoda, że będziemy musieli ją zlecić jakimś mniej kompetentnym istotom.
+0x00000098 Przywieź nam obiekt ~mission_item~ z planety ~mission_target_planet~.
+0x0000008F Nie udało ci się wykonać zadania na planecie ~mission_target_planet~. Nie zdołamy zapobiec przedostaniu się tak złych wiadomości do mediów.
+0x00000096 Te odległe istoty dysponują chyba potężną osłoną psychiczną, która cię oślepiła. A może twoja inteligencja od początku była zbyt skromna?
+0x000000A2 Przywieź obiekt ~mission_item~ z planety ~mission_target_planet~. (WYKONANO)
+0x0000009A Udało ci się porwać istotę o nazwie ~mission_item~ z planety ~mission_target_planet~. Dostarcz dobrą nowinę zleceniodawcy.
+0x000000B5 Według zebranych przez ciebie danych na planecie docelowej znajdują się obiekty o nazwie ~mission_item~. Wrócisz tam i dostarczysz nam zapas.
+0x000000A0 Udało ci się porwać istotę o nazwie ~mission_item~ z planety ~mission_target_planet~. Dostarcz dobrą nowinę zleceniodawcy.
+0x0000009F Udało ci się przeskanować zwierzęta i rośliny z planety ~mission_target_planet~. Wróć do zleceniodawcy po dalsze instrukcje.
+0x000000B4 Jeśli skanowanie zostało przeprowadzone prawidłowo, to wygląda na to, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~. Dostarczysz nam odpowiedni zapas.
+0x00000024 To była dobra robota. Oto Twoje ~mission_rewards~.
+0x000000E0 Mieliśmy nadzieję przeanalizować dane planety ~mission_target_planet~. Co poszło nie tak? Czyżby zdarzyło ci się przez nieuwagę skasować je z dziennika misji?
+0x000000AA Wspaniałości Twoich skanów dorównuje tylko twoja umiejętność wywąchiwania zysku! Ta planeta jest pełna bardzo cennych obiektów o nazwie ~mission_item~! Tylko wielki odkrywca o talentach na miarę Twoich umiejętności byłby w stanie nam je dostarczyć... Oczywiście w zamian za zwyczajową poważną nagrodę.
+0x00000076 Ta decyzja nie przynosi ci zaszczytu.
+0x00000006 Cóż za zyskastyczny dzień! Zebrane przez ciebie dane wykazują, że na tej planecie znajduje się ~mission_item~! To bardzo cenna rzecz! Czy możesz dostarczyć nam trochę? Zapewniamy, że wynagrodzimy cię sowicie.
+0x00000010 Dzięki, kapitanie! Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajduje się ~mission_item~. Jest to obiekt o znaczeniu strategicznym, prosilibyśmy więc o dostarczenie stosownej ilości.
+0x000000B1 Mamy dla ciebie bombowe wieści! Zebrane przez ciebie dane wykazują, że na planecie ~mission_target_planet~ znajdują się obiekty o nazwie ~mission_item~. Jest to coś tak wspaniałego, że nikt ważny nie może się bez tego obejść! To oznacza, że musisz polecieć z powrotem na planetę ~mission_target_planet~, by przywieźć nam odpowiednio dużo tego cudu natury!
+

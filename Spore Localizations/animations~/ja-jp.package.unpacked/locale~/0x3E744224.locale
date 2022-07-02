@@ -1,0 +1,689 @@
+﻿# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 1
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C1 フェンスに穴がある
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 1
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA22 私はエフティ。あなた、病気なの？　私は元気よ。
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 2
+
+0x36F508C1 ゴホ！…ゴホ！
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73821 通信しているようには見えないな…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 1
+
+0x36F508C0 あの音は何なの？
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 2
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC821 居心地がよさそうだ…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 2
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8821 こういう言いかたもなんだが、最悪のタイミングで来たな。
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 2
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C1 この先には、何が？
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 1
+
+0x5B7F89C0 ウィージー？　どこにいるんだ？
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 4
+# Comments: Character comments: Runs off
+
+0xC1251923 異界のものだ。きっと、あそこに墜落した宇宙船が、感染源に違いない。おそらく、犬が基地に持ち込んだ…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 2
+
+0x5B7F89C1 ブレア、来るな…　お前は信用できない！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 3
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE823 最低でも1体の異星人が事故を生き延びたということか…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 3
+
+0x5B7F89C2 ノリスはもういないんだ、受け入れろ…
+
+# Character name (Character: "base_grave", model: "Research Base Grave_@building_editorModel!0x0769c9ff.bld")
+# Comments: A makeshift grave in the snow - pile of stones with a vaguely cross-like staff sticking out of it
+
+0x546BC860 墓
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 5
+
+0x36F508C4 凄く眠たい…
+
+# Character name (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt")
+# Comments: The Station's Veterinarian
+
+0x5B7F8860 クラーク
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 3
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89822 ボロボロだ。
+
+# 'Adventure won' message
+
+0x00000011 感染は基地全体に広がりました。しかし、あなたはエフティを救ったのです！　彼女の免疫から治療薬が作れるかもしれません。
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 4
+
+0x36F508C3 ゴホ！
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 2
+# Comments: Character comments: behind the ship
+
+0x4F928822 この皮膚は、緑色で、こぶだらけになっている。墜落によるダメージには見えない。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 4
+
+0xDB1A5A52 おい！止まれ！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 3
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0822 身元の明らかな者しか、その内容を知らない。
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73941 誰も中に入りたがらない…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 4
+
+0x5B7F88C3 …まぁ、見つけられたらの話だが…
+
+# Character name (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld")
+# Comments: Sat Tower with radio mast and dishes
+
+0xF6E73860 衛星ステーション
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 1
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C0 また皮膚がある…　雪に隠れていない… まだ新しいものだ。
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 5
+
+0x5B7F88C4 医務室を出てからは誰も奴を見てない。今頃は氷付けになってるんだろう。
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 2
+# Comments: Character comments: Runs off
+
+0xC1251921 ノリスと俺はただ…　くそ！　ノリス？　彼はどこに行ったんだ？　あいつもきっと捕まったんだ。
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 3
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A22 エフティが俺を助けた。隠れさせてくれた。だが、彼女を傷つけてはいない！　見ろ！　彼女は…　大丈夫だ！　俺の病気、うつっていない！
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 2
+
+0x5B7F88C1 完全にブッ壊れてる！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 1
+
+0xDB1A59C0 決して…　決してあそこへは降りるな！　頼む！
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x50000105 もらった！
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 3
+
+0x5B7F88C2 クーパーなら治せるんだが…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 1
+# Comments: Character comments: Runs off
+
+0xC1251920 よお、俺はブレア。ステーションの生物学者だ。
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 1
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A820 衝突のせいで、見事なクレーターができている！
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 2
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A821 動力も、生存者の兆候もない。でも、脱出口が外れてる…
+
+# Act 2 description
+
+0x00000023 アイスウォータープロジェクト調査ステーションを発見しました…　次は、研究員を探しましょう。
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x50000104 アアアア！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 1
+
+0xDB1A5A49 行かせない！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 3
+
+0xDB1A59C3 ゴホ！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 2
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE824 初期解析：皮膚は緑色の巻きひげに覆われている。
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 1
+
+0x3668DA40 死ね！
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 2
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C6 声が…　何をすればいいか教えてくれ…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 1
+
+0x5B7F88C0 ポンコツ機械め！
+
+# Character name (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: All shriveled up
+
+0xE3E11860 死んだ異星人
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x50000103 行かせない！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 2
+
+0xDB1A5A50 逃がさない！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 2
+
+0xDB1A59C1 ここは危険だ…　クーパーは出て行ったっきり戻ってこない。
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 3, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC941 外は寒い…　でも、みんな中にあるものを怖がってる…
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x50000102 こいよ！
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 3
+
+0xDB1A5A51 止まれ！
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 3
+
+0x3668DA42 私に近づくな！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 5
+
+0xDB1A5A44 ゴホ…　ゴホ…
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x50000101 死ね！
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 1
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE820 これは皮膚のようだ…
+
+# Adventure name
+
+0x00000002 それは空からやってきた
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 2
+
+0x3668DA41 私の犬が嫌いなんだな！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 5
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A24 お別れだ…　もう行け…　エフティも一緒にな…
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 4
+
+0xDB1A5A43 ノリスはどこだ？
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x4AB34A43 殺せ！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 2
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A21 みんな俺を恐がっている…　みんな、病気になった。本当にすまない…　大きな病気が…　空から来た。俺の星…
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 5
+
+0x3668DA44 アアアアアアア！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 3
+
+0xDB1A5A42 走れ！
+
+# Character name (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Generic zombie
+
+0xE3E11861 感染者
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 2
+
+0xE03FE921 この先に何があるんだ？
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x4AB34A44 ここに来い！
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 4
+
+0x3668DA43 お前を傷つけてしまう！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 2
+
+0xDB1A5A41 ブレアとクラークの身に何かが起きた！
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 1
+
+0xDB1A5A40 ここを出るぞ！
+
+# Character name (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl")
+# Comments: Modeled after your favorite crashed alien spaceship - Alien or Independence Day?
+
+0xC701A860 墜落した異星人の宇宙船
+
+# Character name (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt")
+# Comments: Infected version of Claark
+
+0x3668D860 感染者
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 1
+
+0xC12519C0 俺はここで待つ。あそこに行くつもりはない！　俺は生物学者だ。戦士じゃない…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 2
+
+0xC12519C1 科学の進歩のために、お前に調査を任せる。本音を言えば…　恐いんだ…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 4
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8824 …じゃなきゃ死んでるか。
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73820 基地通信センター…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 3
+
+0xC12519C2 恐ろしいことが起きそうだ。あそこで何を目にするのか、それが恐いんだ…　エフティ…
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x4AB34A40 私を…　助けて…
+
+# Act 4 description
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000027 痕跡をたどって後を追いましょう。
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x4AB34A41 もう…　止まらない…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 4
+
+0xC12519C3 彼女は、あそこにいる。俺は、彼女を見つけるのが怖いんだ…
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x4AB34A42 アアアルガアアア！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 2
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C2 異星人の皮膚の跡のおかげで、ここにたどり着いた…
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 1
+# Comments: Character comments: behind the ship
+
+0x4F928820 死体だ！
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 3
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA24 家まで送ってくれる？
+
+# Character name (Character: "base_body", model: "Dead Researcher_@creature_editorModel!0x076b007d.crt")
+# Comments: This is what most of them become - horribly infected, disfigured…and dead
+
+0xC1605860 死んだ研究員
+
+# Character name (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt")
+# Comments: The Station's Geophysicist
+
+0x36F50860 ノリス
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 3
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025842 何かを探している？
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 3
+# Comments: Character comments: Runs off
+
+0xC1251922 …くそ。この病気は、単純じゃないんだ。あらゆる生物学的視点から考えてみたが、答えはひとつしかない…
+
+# Character name (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt")
+# Comments: The Station's Meteorologist
+
+0xDB1A5860 ベン・ニン
+
+# Act 1 name
+
+0x00000020 墜落現場
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 2
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA23 私はただ、パパに帰ってきて欲しいだけなの…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 1
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C5 声が…　頭の中で…
+
+# Character name (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Infected version of Blaair
+
+0x4AB34860 感染者
+
+# 'Adventure lost' message
+
+0x00000012 あなたは、まだそこにいます…　寂しく、病気で、死にかけた状態で。おそらく、何かに、もしくは誰かに食べられて…　2度目のチャンスが欲しいとは思いませんか？
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 3
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A822 …生存者がいたんだ！
+
+# Character name (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld")
+# Comments: Base fence used to separate areas. High, wish it could be electrified!
+
+0x1A8A0860 フェンス
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 1
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89820 壊れたエイブラハムのスノーモービル。
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 1
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8820 氷の塊へようこそ。前庭に墜落したやつを調べにきたんだろう。
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 2
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025841 混乱してるみたいだ…
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 1
+
+0xE03FE920 また異星人の皮膚がある。まだ新しいぞ。
+
+# Act 5 description
+
+0x00000029 どうやらエフティは免疫をもっているようです。この星から脱出させなければ。さあ、合流ポイントまで急ぎましょう。
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 5
+# Comments: Character comments: Runs off
+
+0xC1251924 ここにいるものすべてが危険にさらされている…　だが、この病の感染を広げるわけにもいかない…
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 2
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89821 「雪上そり」というニックネームがついている…
+
+# Character name (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl")
+# Comments: A high tech machine on treads
+
+0xB9C89860 スノーモービル
+
+# Character name (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt")
+# Comments: Little girl child like Newt in Aliens
+
+0x0CAAA860 エフティ
+
+# Adventure description
+
+0x00000003 異星人の宇宙船が凍った惑星の調査センター付近に墜落しました。あなたは調査のために呼ばれました。
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 5
+
+0xDB1A5924 その娘も行方不明だ…　かわいそうなエフティ…
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 エコロジスト、護衛、ゾンビ
+
+# Character name (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt")
+# Comments: Looks like a pile of seaweed (Kelp or Dulce)
+
+0xE03FE860 異星人の皮膚
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 2
+
+0xC12518C1 こんなガラクタよりも大きな問題がある！
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 4
+
+0xDB1A5923 まだある。もっと悪い事態だ。パルマは娘のエフティと一緒に来ていた。
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 3
+
+0x5B7F8943 ここには、何かがいる…
+
+# Act 3 name
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000024 非難
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 3
+
+0xC12518C2 ゴホ！　ゴホ！
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73940 通信センターは、停止しているようだ…
+
+# Character name (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld")
+# Comments: A number of these, on stilts. Covered in snow
+
+0x282EC860 調査基地
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 3
+
+0xDB1A5922 みんな…　体調を崩しはじめて…　そして、おかしくなっていった…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 2
+# Comments: Character comments: Should run off
+
+0x36F50941 ゴホ！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 2
+
+0x5B7F8942 俺の犬は、何もしてない！　こっちへおいで！
+
+# Act 5 name
+
+0x00000028 外にいるのは誰…？
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 1
+# Comments: Character comments: Should run off
+
+0x36F50940 聞こえる…
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 2
+
+0xDB1A5921 このあたりは、何もかもめちゃくちゃになった。ほとんどが行方不明、発病、もしくは死亡した。司令官も昨日いなくなった。おかげで私が引き継ぐ事になってしまった。
+
+# Character name (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt")
+# Comments: infected version of N'orris
+
+0x0CAAA861 感染者
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 1
+
+0x5B7F8941 中には戻らない！　絶対に！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 1
+
+0xC12518C0 早くここから出ていけ！
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 1
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A20 グルウウウ！　す…　すまない…
+
+# Character name (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: Look like small men draped in thick seaweed.
+
+0xE3E11862 感染した異星人
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 1
+
+0xDB1A5920 私はニン…　ベン・ニンだ。ステーションの気象学者だ。
+
+# Character name (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt")
+# Comments: The Station's Biologist
+
+0xC1251860 ブレア
+
+# Character name (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt")
+# Comments: Wegians are four-legged dog-like creatures. Love Clark
+
+0x61025860 ウィージー
+
+# Act 1 description
+
+0x00000021 生存者を探し、墜落の原因を探りましょう。
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 1
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025840 誰かのペットのようだ。
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 4
+
+0xC12518C3 気分が悪…ぃ…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 4
+
+0xDB1A5A48 ここはもうイヤ！
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 3
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8822 クルーの大半が病気になってるんだ。
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 1
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0820 調査ステーションを囲むフェンスだ…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 5
+
+0xC12518C4 ゴホ！
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 4
+
+0x5B7F8944 ノリスはどこだ？　次はあいつだ。いいか、次があいつだ…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 3
+
+0xDB1A5A47 お父さん…
+
+# 'Adventure start' message
+
+0x00000010 墜落現場を調査し、生存者の探索と、近くの調査センターの安否を確認してください。
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 4
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A23 みんな、すぐに病気になる。もう行け！　何か手を打て！
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 2
+
+0xDB1A5A46 たすけて！
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 2
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0821 アイスウォータープロジェクトは…　深く冷たく覆われている…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 1
+
+0xDB1A5A45 あれは一体何なの？
+
+# Act 4 name
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000026 遭遇
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 4
+
+0x5B7F89C3 ニンから目を離すな…　奴は、権力にうぬぼれている…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 5
+
+0x5B7F89C4 俺の犬はどこだ？
+
+# Act 2 name
+
+0x00000022 何かがおかしい
+
+# Act 3 description
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000025 基地を調査して、墓の周りで手がかりを見つけてください。
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 4
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0823 異星人を除いては…
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC820 標準的なタッカー12保温型生命維持装置…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 3
+
+0x36F508C2 誰かが耳打ちしてるの？
+

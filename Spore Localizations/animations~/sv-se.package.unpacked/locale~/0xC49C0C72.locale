@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Hantera mål och handlingen i panelen Akt
+0x079A7CE1 Aktbeskrivning
+0x079A7B8E Introducera akten genom att skriva här. Spelare ser detta i inledningen av akten.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfär
+0x07639100 Ange atmosfärens densitet. Tunga moln ger blixtar. Tunn atmosfär orsakar meteorregn!
+
+# EP1-TerraThemes
+
+0x0771EF15 Välj ett tema för din planet.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Lägga till mål
+0x07BB8BDE I varje akt kan det finnas maximalt tre mål. Radera ett mål genom att vänsterklicka på soptunnan bredvid målet och starta sedan om handledningen från checklistan.
+
+# EP1-WinLoseText
+
+0x0771E83A Ange Text för seger- och förlustmeddelanden för ditt äventyr.
+0x07763B90 Text för seger/förlust
+
+# EP1-ClickGoalButton
+
+0x0762251C Panelen Mål
+0x0762251D Tilldela mål för kaptenen. Varje akt kan ha upp till tre mål, som kan slutföras i valfri ordning.~p~Akter måste ha mål för att spelare ska vinna eller förlora dina äventyr.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Ange målet till "Tala med" eller "Undersök". Karaktärer, fordon och föremål kan ha ett mål av typen tala med eller undersök var per akt.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Ange aggressiv ställning för motståndarens personlighet.
+0x07621DD8 Ge din kapten en motståndare med panelen Beteende. Det är här du kan ange personlighet, förflyttning, medvetenhet och team.
+0x07621DD7 Beteenden
+0x0797266C Prova dina ändringar genom att gå till Testläge
+0x077AD33C Ange motståndarens medvetenhet till maximal räckvidd så att den kan se kaptenen.
+0x0779D3EF Personligheter
+0x0779B5E8 För markören över paletten Rollista för att visa knappen Beteendepanel.
+0x0779B5E7 Beteendepanel
+0x077AC9A2 Placera den här markören på en medlem i rolllistan för att följa efter denne.
+0x077AC9A1 Följ efter-markör
+0x077AC9D4 Dra Följ efter-markören och placera den på kaptenen i världen.
+0x077AD164 Detta avgör på hur långt avstånd den här medlemmen känner igen och reagerar på andra föremål.
+0x077AD163 Medvetenhetsradie
+0x0779DB81 Välj knappen Förflyttning och tryck sedan på knappen Följ efter
+0x0775CE3E Lägg till en medlem i rollistan
+0x0779D3F0 Ange personligheten för en medlem i rollistan genom att trycka på motsvarande knapp. Personligheter finns från fredlig till aggressiv.
+0x0779DB5F Med den här knappen kan du ange förflyttningsalternativ för medlemmen i rollistan. Förflyttningstyper är vandra, patrullera, följ och stillastående.
+0x0779DB5E Förflyttning
+0x0779C5B4 Vänsterklicka på knappen Beteendepanel.
+0x078D7B6F När du placerat kaptenen högerklickar du på hjältepanelen för att centrera kameran på kaptenen i världen.
+0x0775CE3F Om du inte redan har gjort det kan du lägga till en varelse i paletten Rollista. Dra varelsen från paletten Rollista för att placera ett nytt exemplar i världen.
+0x07B4EC8D Du kan kopiera alla medlemmar i rollbesättningen i världen genom att hålla ned ALT, vänsterklicka och sedan dra kopian.
+0x07C74109 De ändringar du gör påverkar alla akter. Vänsterklicka på knappen för Globalt läge för att inaktivera det, så gäller framtida ändringar endast den aktuella akten.
+0x07D23C43 Bra! Du gav den här varelsen en aggressiv personlighet.
+0x07C743A7 Globalt beteende
+0x07C742C5 Vänsterklicka på knappen Använd globalt, så används alla inställningar för den här medlemmen i rollbesättningen i den aktuella akten för alla akter.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paletten Flora
+0x076390FE Välj paletten Flora för att ändra floran på din planet. Flora finns bara på levande terräng och när temperaturen är gynnsam. Det finns stora, medelstora och små växtkategorier.
+
+# EP1-TerraMood
+
+0x0771F108 Du kan låsa tiden eller låta den gå normalt.
+0x0771EFA4 Rotera urtavlan för tidpunkt till önskat läge.
+0x0771F133 Justera molnens täthet med skjutreglaget Atmosfär. Låg atmosfärtäthet orsakar meteorregn. Hög täthet ger åskväder.
+0x0796DD5B Stämningspaletten
+0x0796DE16 Välj stämningspaletten för att ange tidpunkt, temperatur, atmosfär och planetens vattennivå.
+0x079732F0 Atmosfär
+0x079732D9 Tidpunkt
+0x07A0112B Lås tid
+0x07957E9C Planetens temperatur
+0x07957EAD Justera planetens temperatur med skjutreglaget.
+
+# Complexity Meter
+
+0x07957630 Komplexitetsmätaren visar hur mycket mer planeten kan förändras
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Vänsterklicka på knappen Fri kamera för att växla det fria kameraläget av och på.
+0x079709BB Fri kamera
+
+### Checklist UI ###
+
+0x07735BDC Checklista ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Äventyr kan ha fordon
+0x07621438 Fordon är medlemmar i rollistan. Som varelser har de personligheter och beteenden som du anger.
+
+### Tutorial Checklist
+
+0x079C1550 Bygg en by
+0x079C1527 Skapa en värld
+0x079C1570 Lägga till personlighet
+0x079C1523 Spara
+0x0797355A Kamerakontroller
+0x07970BD9 Panelen Akt
+0x079712E5 Multiföremålsmål
+0x07733143 Tilldela ett mål för kaptenen
+0x07733140 Placera ut en kapten
+0x079692E4 Lägg till ljud
+0x07733141 Välj en rollista
+0x07733144 Tilldela beteenden
+0x0796B1E0 Ange fordonsbeteende
+0x07C7ABAA Inledning
+0x079C1586 Skapa ett spel
+0x079C1565 Placera en byggnad
+0x079C1531 Grundl. kontroller
+0x079C152C Välkommen
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kaptenutrustare
+0x079E7D0F Energimätaren håller reda på hur mycket energi vissa av förmågorna använder, och hur mycket som lagras och laddas upp av batterier och generatorer. ~p~Om du får slut på energi kan du inte använda dina förmågor. ~p~Dra i Krafthandtaget på valfritt tillbehör som har ett sådant för att öka nivån på dess förmåga och samtidigt dess energiförbrukning.
+0x079E7D0E Energimätare
+0x07A8F04B Välkommen till Kaptenutrustaren. ~p~När du slutför äventyr snabbspel och i rymdspelet låses nya accessoarer upp och du kan använda dessa för dina kaptener. ~p~Dessa visas på fliken Kaptenaccessoarer.
+
+# EP1- ShowActUI
+
+0x07635ED1 Panelen Akt
+0x07972881 Ange musiken för akterna här.
+0x07972865 Aktmusik
+0x07635ED2 På panelen Akt anger du ett namn och en beskrivning för de individuella akterna i ditt äventyr.~p~Äventyr kan ha upp till åtta akter.~p~Du kan också ange aktmusik för äventyret här.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Ta en pinne på paletten Objektrollista
+0x0771EAE0 Låt oss ge kaptenen något att göra härnäst
+0x0771EB72 Dra ett nytt mål för Akt II till pinnen
+0x0771EB1C Placera pinnen på marken nära kaptenen
+0x0771EAC0 Vänsterklicka här för att lägga till en andra akt. Den aktuella akten måste ha ett mål innan du kan lägga till en ny akt.
+0x0771EC65 Ange måltypen till Ge
+0x0771ECB5 Ange texten för målkortet som förklarar Ge-målet för spelaren
+0x0771EC85 Sätt den andra Ge-markören på en varelse i världen
+0x0771ED0B Spara ditt jobb genom att när som helst vänsterklicka på knappen Spara
+0x078DB94B Vänsterklicka på paletten Fast föremål.
+0x078DB6DF Fasta föremål
+0x078DB94A Fasta föremål
+0x078DB6E0 Vänsterklicka och dra ett fast föremål till världen för att komma igång.
+0x07763A67 Lägg till akt
+0x07B4E966 Spara äventyr
+
+# Checklist
+
+0x07A3CFA7 Du kan återaktivera handledningen på menyn Alternativ
+0x07912CD1 Checklista
+0x07912D11 Vänsterklicka på föremål i checklistan för vägledning genom skapandet av ett äventyr.~p~Olika handledningar blir upplåsta när du kommer längre ned i listan.~p~Öppna dem och vänsterklicka på tillgängliga föremål.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 Minikartan är användbar för navigering i dina äventyr. Kaptenens position, mål och startplats visas alla på minikartan.
+0x0775F221 Minikarta
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Välkommen till äventyrsskaparen
+0x0761D564 Skapa äventyr för att utmana Spore-spelare överallt. Ta dig tid att bli bekant med de verktyg som är tillgängliga för dig. ~p~Designa din värld, befolka den med varelser av alla de slag, skapa mål och berätta en historia som Spore-spelare kan njuta av.
+
+# Hint
+
+0x0771DE1F Ange text här för att ange tal för medlemman i rollistan. Detta tal visas i äventyret.
+0x078D93DA Text för Tala med
+0x0771D3CF Vänsterklicka på namnet och beskrivningsrutan för att ge äventyret ett namn.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Välj kapten!
+0x07D087E0 Skapa en helt ny kapten från början, eller välj en varelse du har skapat genom att klicka på filtret "Alla". ~p~Kaptenen får erfarenhet (äventyrspoäng) varje gång du lyckas klara ett äventyr. ~p~Erfarna kaptener får tillgång till ny utrustning och nya tillbehör.~p~Välj en kapten för att börja din resa.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minikarta
+0x079E8124 Minikartan är användbar för navigering på planeten. ~p~Kaptenens position, mål och startplats visas alla på minikartan.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Testa nu ditt äventyr igen
+0x07763C47 Testläge igen
+
+# EP1-Audio
+
+0x0796A67A Om du inte redan har gjort det så väljer du ett ljudföremål från Sporepedin och dra den till världen. Placera markören över det för att höra ljudet.
+0x0796A679 Ljudföremål
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paletten Fasta föremål
+0x0762143E Fasta föremål kan användas för dekoration och som hjälp för spelare att navigera. Verktyg och föremål som kan plockas upp, flyttas, ges som gåvor eller vältas omkull, visas också här.
+
+# EP1-PaintModeIntro
+
+0x076756BA Terrängläge
+0x076756BB Terrängläget har teman och verktyg som färgar din äventyrsplanet.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Ändra ljudets räckvidd genom att placera markören över föremålet, hålla ned Skift och rulla med mittenmushjulet.
+0x0771F1F1 Placera det ljud du valt i världen.
+0x0795826C Ändra lutningen genom att markera föremålet och skjuta rotationsringen.
+0x07972C1C Ändra volymen genom att markera föremålet och flytta volymhandtaget.
+
+# Add a building
+
+0x079AC52F Lägg till byggnader
+0x07C7361C Arbeta med byggnader
+0x07C73644 Håll ned Tabb-tangenten och för musen över byggnaden för att visa handtag som används vid inställning av rotation och lutning. Håll ned Alt och dra för att kopiera.~p~Varelser och fordon kanske inte kan passera mellan byggnader som står för nära.
+0x07BB5926 Placera byggnader
+0x079AC7EF Om du inte redan valt en byggnad från Sporepedin gör du det nu. Dra den till en plats i världen.
+0x079AC545 Börja skapa en by med hjälp av paletten Byggnad
+
+# EP1-DragCreature
+
+0x075E4E54 Vänsterklicka på varelsen och dra den till en plats i världen nära kaptenen
+
+# EP1-DragHero
+
+0x07577C95 Vänsterklicka på Hjältepanelen och dra kaptenen till världen.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Använd skjutreglagen för att ändra färgerna för levande och död terräng. Du ser kanske inte alltid skillnaden.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Du kan öka hastigheten i världen genom att vänsterklicka på de här knapparna
+0x0771E735 Vänsterklicka på knappen Byggläge för fortsätta redigeringen.
+0x0771E683 Det du skriver om målet visas på målkortet
+0x07763BB6 Hastighetsknappar
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Håll ned höger musknapp och för musmarkören över planeten för att se dig omkring
+
+# EP1-Teams
+
+0x0771F3ED Ange en varelse för team A för att tilldela den till kaptenens team
+0x0771F410 Team B är alltid mot kaptenen
+0x0771F426 Om inget team anges är karaktären neutral
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planetfärg
+0x076390FC Terrängen kan få färg efter sin nivåskillnad med hjälp av terrängnivåfärgläggaren. De aktuella färgerna matchar planetens tema.
+0x07BBAF6C Ställ in färgerna för vatten, atmosfär, stränder och klippor genom att vänsterklicka på ikonen och välja en färg från färgväljaren.
+0x07BBAF80 Prova att ändra färger på planeten för att uppnå det utseende du vill ha.
+0x07BBAF62 Klippor, stränder, atmosfär, vatten
+0x07D2278E För en höjdmarkör till den höjd som du vill färglägga.
+0x07973230 Färg-efter-nivåskillnad
+0x079731E7 Välj Planetfärgpaletten
+0x07DB8058 Skapa en ny färgstrata genom att vänsterklicka på terrängnivåstapeln.
+0x07D2274B Välj en färg för markören från färgväljaren. Du kan ta bort den senare genom att dra den från paletten.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Uppdragskort i äventyret
+0x07634DAD Uppdragskort upplyser spelaren om det aktuella målet.
+
+# EP1-CamZoom
+
+0x07563B2B Använd mushjulet för att zooma in och ut
+
+# EP1-FirstAdventure
+
+0x07D087E1 Välkommen till ditt första äventyr.
+0x07D087E2 Din kapten får erfarenhet när du klarat av det här äventyret. ~p~Du kan följa kaptenens framsteg i Sporepedin. ~p~När du är på planeten styr du din kapten på samma sätt som du styrde din varelse i varelsefasen. ~p~Låt oss ta en titt på vad som är nytt ...
+
+##Terrain Mode items
+
+0x0762143F Rollista tillgänglig
+0x07621440 Alla medlemmar i rollistan som läggs till från Sporepedin för användning i ditt äventyr visas här.
+0x0791911C Flora
+0x07919119 Terraformning
+0x0791911B Väder
+0x0791911A Välja ett tema
+0x079C153A Terrängfärger
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Var noggrann med att hålla energinivån uppe, eftersom du annars inte kan använda några av dina förmågor. ~p~Utrusta kaptenen med batterier och generatorer för att öka din energi.
+0x079E7E25 Energi
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Vänsterklicka på knappen Byggläge igen
+0x07763AD7 Byggläge igen
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Högerklicka på motståndaren i paletten Rollista för att centrera kameran på den.
+0x075E5364 Håll ned Skift-tangenten och rulla med mittenmushjulet över medlemmen i rollistan för att skala upp/ned den.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Testläge
+0x075F5A4F Vänsterklicka på knappen Testläge för att testa ditt äventyr medan du skapar.
+
+# New Join with Sword
+
+0x07A81511 Två föremålsmål
+0x078E92E3 Välj måltypen För till.
+0x07A81521 Ta en målmarkör och släpp den på det första av de två föremål du vill ställa in för För till.
+0x07A81620 Placera den andra markören i målet för Föra till på ett föremål eller en varelse som kan komma i kontakt med det första föremålet.
+0x07A814D8 Målen För till och Blockera kräver två föremål för att slutföras. Ett eller båda måste gå att flytta eller röra sig självständigt. I För till krävs att kaptenen sammanför föremålen. I Blockera måste kaptenen hålla isär dem.
+0x07BA7CC2 Två föremålsmål (del 2)
+0x07BA7DAE Hitta eller placera det andra föremålet för det här målet och dra den andra målmarkören på det för att avsluta meningen.
+
+# EP1-NameAdventure
+
+0x0771D3CE Äventyrets namn
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Det här är panelen Använd rollista
+0x076214A1 Allt som läggs till i äventyret visas här.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paletten Varelserollista
+0x075E079E Vänsterklicka för att välja paletten Varelserollista.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Framstegsfältet håller reda på hur många mål som slutförts samt hur många som är kvar. ~p~När mätaren är full har du slutfört äventyret.
+0x079E8180 Framstegsfält
+
+# EP1-Vehicles
+
+0x0796C959 Välj fordonets beteendeknapp
+0x0796B4AC Fordonspaletten
+0x0796B4AD Välj fordonspaletten för att lägga till fordon i ditt äventyr.
+0x0796C41F För markören över den nya medlemmen i rollistan för att visa knappen Beteende.
+0x0796C41E Fordonsbeteende
+0x0796B623 Lägg till ett fordon
+0x0771F308 Ange fordonsbeteende
+0x0771F399 Dra patrulleringsmarkören för att ange den andra punkten i fordonets patrulleringsrutt.
+0x0796CC7D Vänsterklicka på knappen Förflyttning. Välj sedan Patrullera.
+0x07D23877 Flytta-till är likadant, förutom att karaktären stannar kvar vid den senaste markören.
+0x07D6257A Tryck på Alt och dra markören för att ställa in en ny punkt bortanför den första. Fordonet rör sig från ena änden av patrullvägen till den andra, och tillbaka.
+0x0771F293 Lägg till ett fordon ur Sporepedin i rollistan. Placera det därefter i världen genom att dra det från paletten.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Panelen Ljud
+0x079694A7 Välj den här paletten för att lägga till ljud och musik i ditt äventyr.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Uppdragskortet berättar vilka de aktuella målen är. ~p~Slutför alla mål för att gå vidare till nästa akt.
+0x079E8049 Uppdragskort
+
+# EP1-SelectHero
+
+0x07578A4F Placera kapten
+0x07578A50 Kaptenen är stjärnan i äventyret. Det här kommer att vara spelarens karaktär.
+
+# EP1-TestModeIntro
+
+0x07632EEC Välkommen till Testläget
+0x07632EED Testläget utgör ett sätt att felsöka och spela det äventyr du skapar för tillfället.~p~Återvänd till Byggläget när du hittar något som du vill ändra i äventyret.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Vänsterklicka på knappen Byggläge för att återgå till redigering.
+0x075F5A50 Byggläget
+
+# EP1-Flora
+
+0x0771F197 Välj ny flora att placera ut på din planet. Flora finns på levande terräng när temperaturen är gynnsam.
+
+# EP1-DragGoal
+
+0x075F39B9 Placera en målmarkör på en medlem i rollistan i världen för att ange mål för kaptenen.
+0x07971E8D Målmarkörer används för att ange mål för kaptenen i ett äventyr. Bland målen finns Tala med, Ge gåva, Förstör och Bli vän med.
+0x07971D33 Tilldela ett mål
+
+##End
+
+0x0762407B Placera ljud i äventyret genom att dra dem till världen. Justera handtagen för att ange på hur långt håll ljudet kan höras, och utlösas för att spelas.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Välj paletten Tema.
+0x076390FA Teman ger din planet en helt ny färggrann stil
+0x079207E3 Paletten Tema
+0x07920810 Teman
+
+#Test Mode Goal Cards
+
+0x07A80599 I testläget kan du hoppa över mål genom att vänsterklicka på markören intill målet.
+0x07A805ED Hoppa över mål
+0x07A805F9 Hoppa över akter
+0x07A805FE Du kan hoppa mellan akter genom att vänsterklicka på pilarna längst upp på målkortet
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Använd frimärkshandtagen för att ändra storlek, intensitet och orientering.
+
+# EP1-SelectCreature
+
+0x075E2C84 Lägg till en varelse
+0x075E2C85 Vänsterklicka och dra en varelse för att placera den i ditt äventyr.~p~Gå till Sporepedin för att välja en varelse om ingen finns på plats.
+
+# EP1-FirstClickTerraCategory
+
+0x07639102 Här tillämpar du ändringar i terrängen, väljer flora och anger planetens stämning.
+0x07639101 Välkommen till Terraformeringsläge.
+0x0791F5B7 Terrängpalett
+0x07959720 Använd dessa frimärken för att göra terrängen bergig och kuperad.
+0x07958D39 Välj valfritt terrängfrimärke och dra och släpp det sedan på planeten.
+0x0791F5B8 Berg
+0x07B3A935 Välj paletten Terräng för att öppna Terrängfrimärken
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Använd återfödelsebeteendet för att få varelser att regenerera och föröka sig.
+0x07A032FB Återfödelse
+0x07A03396 Frekvensen anger hur ofta en återfödelse görs. Gränsen anger hur många som kan finnas i världen samtidigt.
+0x07A034A1 Spelföremål bör testas. Tänk på att använda testläget ofta.
+0x07A033EF Spelföremål kan användas för att göra ett äventyr mer utmanande och roligt.~p~Välj ett från Sporepedin och placera det i världen.
+0x07A033E5 Spelföremål
+0x07A02DE0 Välj ett handhållet föremål i Sporepedin och dra det till världen.
+0x07A02DD5 Handhållet föremål
+0x07A02E13 Handhållna föremål kan tas upp, bäras omkring och ges till varelser.
+0x07A03149 Akttimer
+0x07A02FFC Omslagsbild för äventyr
+0x07A03553 Ta en omslagsbild i testläget genom att vänsterklicka på kameraknappen.~p~Den kommer att visas i panelen Namge och Beskriv
+0x07A0304F Du kan skapa en omslagsbild för ditt äventyr som spelare ser i Sporepedin genom att placera kameran där du vill ha den.~p~Öppna sedan panelen Namnge och Beskriv och vänsterklicka på kameraknappen.~p~Du kan välja den som bäst representerar ditt äventyr.
+0x07A03155 Om du vill ange en tidsgräns för en akt vänsterklickar du på knappen Akttimer. Ange sedan den tid du vill att spelare ska ha på sig för att slutföra målen i akten.
+
+# EP1-CamRotate
+
+0x07563B2A Klicka med mittenmusknappen och flytta musen för att rotera och luta kameran. I instruktionsboken finns en lista över tangenter du kan använda.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Byggnader
+0x0762143A Dina skapelser i Byggnadskaparen är utmärkta tillskott till äventyr. Byggnader kan tillhöra ett team och leverera meddelanden till spelaren. De kan också skadas av avancerade vapen. Aggressiva datorstyrda karaktärer kan anfalla en byggnad som är neutral eller tillhör det andra teamet.
+

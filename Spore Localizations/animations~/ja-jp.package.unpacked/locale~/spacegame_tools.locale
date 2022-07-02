@@ -1,0 +1,1698 @@
+﻿# sculpt_gear_mesas.prop - spaceToolDetailDescription
+
+0x4ACDB00E 惑星に使用することで、大地を変更し、ギアのメサを作ります。
+
+# colorterraincyan.prop - spaceToolDescription
+
+0x4F4C2EDD 地表着色剤（青緑）
+
+# sculpt_gear_hills.prop - spaceToolDescription
+
+0x8551F9C8 ギアの丘
+
+# coloratmoorange.prop - spaceToolDescription
+
+0x1D57B204 オレンジ色の空
+
+#######################################
+# Tool target fail messages
+
+0x05E62DE4 この武器を使うと、クリーチャーを標的にすることしかできません。
+0x061AF4B2 この武器は、宇宙船とビークルに対してのみ発射できます。
+0x061AB566 この武器で攻撃するには、地表にある適切な標的を選択しなくてはいけません。
+
+# planetscan.prop - spaceToolLockedDescription
+# portal.prop - spaceToolDescription
+
+0x06005E75 帰りの切符
+
+# energymegapotion.prop - spaceToolDetailDescription
+
+0x51CE942A 宇宙船のエネルギーを完全にリチャージします。
+
+# energyupgrade2.prop - spaceToolDetailDescription
+# energyupgrade2.prop - spaceToolLockedDescription
+# energyupgrade3.prop - spaceToolDescription
+
+0x539B1AC7 エネルギー貯蔵庫アップグレード（中）
+
+# sculpt_terra_mountains.prop - spaceToolLockedDescription
+# sculpt_terra_plateau.prop - spaceToolDescription
+
+0x473606D1 テラの高原
+
+# icecapseeder.prop - spaceToolLockedDescription
+# icecomet.prop - spaceToolDescription
+
+0x50016B43 氷の彗星
+
+# sculpt_crystal_seas.prop - spaceToolDescription
+
+0x58D2F45F クリスタルの海
+
+# coloratmocyan.prop - spaceToolDetailDescription
+
+0x23400F14 惑星の大気の色を青緑色に変えます。
+
+# cropcircles.prop - spaceToolDetailDescription
+
+0x40052AF6 都市や集落の近くに使用することで、ミステリーサークルを描いて彼らの気を引きます。
+
+# colorterraingreen.prop - spaceToolDescription
+
+0xAFB4F707 地表着色剤（緑）
+
+# sculpt_basic_raise_medium.prop - spaceToolDetailDescription
+# sculpt_basic_raise_medium.prop - spaceToolLockedDescription
+# sculpt_basic_raise_small.prop - spaceToolDescription
+
+0xA7A60EBF 地表を上げる(小)
+
+# sculpt_cute_wall.prop - spaceToolDescription
+
+0x62E92AFA キュートな壁
+
+# protonmissile.prop - spaceToolDescription
+
+0x2B48B650 プロトンミサイル
+
+# cloudvacuum.prop - spaceToolDetailDescription
+
+0x58F17547 惑星に使用することで、大気圧を下げます。
+
+# monolith.prop - spaceToolLockedDescription
+# mutation.prop - spaceToolDescription
+
+0x06006CE8 種族シャッフル
+
+# globalminderase.prop - spaceToolLockedDescription
+# gravitationwave.prop - spaceToolDescription
+
+0x06036020 重力波
+
+# sculpt_gear_seas.prop - spaceToolDescription
+
+0x34B2EA82 ギアの海
+
+# laserlevel2.prop - spaceToolDescription
+# laserlevel2.prop - spaceToolDetailDescription
+
+0xF561B166 地上攻撃用の武器です。 中くらいの威力で正確に狙えます。
+
+# dumbbomblevel3.prop - spaceToolLockedDescription
+# enemylaser1.prop - spaceToolDescription
+# enemylaser2.prop - spaceToolDescription
+# enemylaser3.prop - spaceToolDescription
+# enemyminipulse1.prop - spaceToolDescription
+
+0x8BC5AF07 敵の鼓動（小）
+
+# epicize.prop - spaceToolDetailDescription
+
+0x7472D9F8 壮大なクリーチャーに成長します。
+
+# wormhole.prop - spaceToolDetailDescription
+
+0x2B657392 ブラックホールを通り抜けて飛ぶことができるようになります。
+
+# aoe_repair.prop - spaceToolLockedDescription
+# artillery.prop - spaceToolDescription
+
+0xC801CB3E 大砲
+
+# colorterrainblue.prop - spaceToolDescription
+
+0xFADE51D2 地表着色剤（青）
+
+# torpedogalaxy1.prop - spaceToolDescription
+
+0x12673EB4 ミニオートブラスター
+
+# cloak.prop - spaceToolDetailDescription
+
+0xB62407BD 宇宙船を覆い隠して、他の宇宙船から見えなくします。
+
+# tooltemplate.prop - spaceToolDetailDescription
+
+0xE90E6027 ツールの説明書が必要です！
+
+# eradicate.prop - spaceToolDetailDescription
+
+0x8EFB418B 新しいものを作るために、目標にしたクリーチャーの種族を根絶します。
+
+# scan.prop - spaceToolDescription
+
+0xF30993C7 スキャン
+
+# colorwaterred.prop - spaceToolDetailDescription
+
+0xB9AC2498 惑星の水の色を赤色に変えます。
+
+# sculpt_terra_hills.prop - spaceToolDetailDescription
+
+0xCCF5236E 惑星に使用することで、大地を変更し、テラの丘を作ります。
+
+# protonmissile.prop - spaceToolLockedDescription
+# pulselevel1.prop - spaceToolDescription
+
+0xD0EB46B4 ミニパルスガン
+
+# torpedogalaxy3.prop - spaceToolLockedDescription
+# torpedosolar1.prop - spaceToolDescription
+# torpedosolar1.prop - spaceToolDetailDescription
+# torpedosolar1.prop - spaceToolLockedDescription
+# torpedosolar2.prop - spaceToolDescription
+# torpedosolar2.prop - spaceToolDetailDescription
+# torpedosolar2.prop - spaceToolLockedDescription
+# torpedosolar3.prop - spaceToolDescription
+# torpedosolar3.prop - spaceToolDetailDescription
+# torpedosolar3.prop - spaceToolLockedDescription
+# turret_at_ecn.prop - spaceToolDescription
+
+0x5446F467 対戦車用砲塔
+
+# sculpt_crystal_mesas.prop - spaceToolDetailDescription
+
+0x37587D89 惑星に使用することで、大地を変更し、クリスタルのメサを作ります。
+
+# sculpt_chocolate_squares.prop - spaceToolDetailDescription
+
+0xFA1353BE 惑星に使用することで、大地を変更し、チョコレートスクエアを作ります。
+
+# droughtgenerator.prop - spaceToolDetailDescription
+
+0x5EEB2EEF 惑星に設置することで、大気圧を下げます。
+
+# placeembassy.prop - spaceToolDescription
+
+0xFF2BA023 大使館
+
+# placeembassy.prop - spaceToolDetailDescription
+
+0x5134BCBA 異星人が住む惑星に大使館を立てます。時間をかけてこの帝国との友好関係を築きましょう。
+
+# icecomet.prop - spaceToolLockedDescription
+# interplanetarydrive.prop - spaceToolDescription
+
+0x6514F8EE 惑星間移動
+
+# interstellardrive_upgrade3.prop - spaceToolDetailDescription
+# interstellardrive_upgrade3.prop - spaceToolLockedDescription
+# interstellardrive_upgrade4.prop - spaceToolDescription
+
+0xCABB71E8 星間移動ドライブ5
+
+# dumbbomblevel2.prop - spaceToolDetailDescription
+
+0x8C775DBB ビークルと建物を破壊することができる中くらいの威力の爆弾です。
+
+# colorterraingreen.prop - spaceToolDetailDescription
+
+0x6858A61E 惑星の地表の色を緑色に変えます。
+
+# sculpt_chocolate_seas.prop - spaceToolDescription
+
+0xAB531E0F 渦巻きチョコの海
+
+# cloudray.prop - spaceToolDetailDescription
+
+0xC3574828 惑星に使用することで、大気圧を上げます。
+
+# colorterraincyan.prop - spaceToolDetailDescription
+
+0xB6D7BA7C 惑星の地表の色を青緑色に変えます。
+
+# hotcloudray.prop - spaceToolLockedDescription
+# hotcloudvacuum.prop - spaceToolDescription
+
+0x3250FA19 熱雲の吸引装置
+
+# sculpt_crystal_plateau.prop - spaceToolDescription
+
+0x1F26A005 クリスタルの高原
+
+# getoutofufo.prop - spaceToolDetailDescription
+
+0x90A55BBE 精密調査のためにホログラムを惑星に送ります。
+
+# sculpt_crystal_crack.prop - spaceToolDescription
+
+0xC4B0FE45 クリスタルの割れ目
+
+# sculpt_gear_walls.prop - spaceToolDetailDescription
+
+0xB941E794 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、ギアの壁を作ります。
+
+# sculpt_chocolate_hill.prop - spaceToolDescription
+
+0x06CFA173 チョコレート・ヒル
+
+# sculpt_terra_craters.prop - spaceToolDetailDescription
+
+0xFB2634DA 惑星に使用することで、大地を変更し、テラの噴火口を作ります。
+
+# energyupgrade5.prop - spaceToolLockedDescription
+# epicize.prop - spaceToolDescription
+
+0xD2936CB9 巨大化
+
+# fireworks.prop - spaceToolLockedDescription
+# genesisdevice.prop - spaceToolDescription
+
+0x0C7C683C 生命の杖
+
+# cargoupgrade1.prop - spaceToolDescription
+
+0x52145143 貨物室（小）
+
+# zoo.prop - spaceToolDetailDescription
+
+0x45795585 惑星に使用することで、野生種保護区として指定します。あなたが回収してきた様々な生物を安全に生活させる事ができます。
+
+# eradicate.prop - spaceToolLockedDescription
+# fireworks.prop - spaceToolDescription
+
+0x8B0B75DE 花火
+
+# sculpt_cute_wall.prop - spaceToolDetailDescription
+
+0x55F869A3 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、キュートな壁を作ります。
+
+# portal.prop - spaceToolDetailDescription
+
+0x06005E79 使用すると、ジャンプして自分の母星に戻ります。
+
+# monolith.prop - spaceToolDetailDescription
+
+0x870C8C43 惑星に設置することで、惑星にいる種族の文明が開化します。
+
+# healthupgrade5.prop - spaceToolLockedDescription
+# heatray.prop - spaceToolDescription
+
+0x5F83F79E 熱光線
+
+# dumbbomblevel1.prop - spaceToolDetailDescription
+
+0x2E4A83A6 ビークルと建物にダメージを与えることのできる弱めの爆弾です。
+
+# colorterrainorange.prop - spaceToolDescription
+
+0x9A0CB36C 地表着色剤（オレンジ）
+
+# sculpt_terra_river.prop - spaceToolLockedDescription
+# sculpt_terra_seas.prop - spaceToolDescription
+
+0xC814C0FB テラの海
+
+# coldray.prop - spaceToolDetailDescription
+
+0x8641E41B 惑星に使用することで、気温を下げます。
+
+# colorterrainblue.prop - spaceToolDetailDescription
+
+0x565F681B 惑星の地表の色を青色に変えます。
+
+# sculpt_chocolate_squares.prop - spaceToolDescription
+
+0x68A2D1A7 チョコレートスクエア
+
+# happyraylevel2.prop - spaceToolDetailDescription
+# happyraylevel2.prop - spaceToolLockedDescription
+# happyraylevel3.prop - spaceToolDescription
+
+0xBBD737AF 幸福の光線（特大）
+
+# protonmissile.prop - spaceToolDetailDescription
+
+0x8555D2F1 自動追尾プロトンミサイルを標的に放ちます。他の宇宙船に対して非常に有効です。
+
+# creaturecreate.prop - spaceToolLockedDescription
+# creatureedit.prop - spaceToolDescription
+
+0x0DC3BACB クリーチャー微調整
+
+# laserlevel2.prop - spaceToolLockedDescription
+# laserlevel3.prop - spaceToolDescription
+
+0xB745C2F0 メガレーザー
+
+# sculpt_crystal_hills.prop - spaceToolDescription
+
+0x1A33DE3B クリスタルの丘
+
+# healthupgrade1.prop - spaceToolDetailDescription
+
+0x852C73AE 宇宙船の耐久力を増やします。
+
+# planetbusterbomb.prop - spaceToolLockedDescription
+# planetconversion.prop - spaceToolDescription
+
+0x06089937 強烈な熱狂
+
+# sculpt_gear_river.prop - spaceToolDetailDescription
+
+0xE23FE947 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、ギアの川を作ります。
+
+# creatureedit.prop - spaceToolDetailDescription
+
+0x4F4D0BC2 惑星のクリーチャーをクリックすると編集できます。
+
+# protonmissilelevel1.prop - spaceToolDescription
+
+0x79813159 ミニプロトンミサイル
+
+# sculpt_basic_level_large.prop - spaceToolLockedDescription
+# sculpt_basic_level_medium.prop - spaceToolDescription
+
+0xE3BE7553 地表を平らに(中)
+
+# allytorpedogalaxy2.prop - spaceToolDescription
+
+0xB71C33EB 銀河魚雷
+
+# sculpt_tentacle_mouth.prop - spaceToolDescription
+
+0xAAAC5A5E 触手の口
+
+# callforbackup.prop - spaceToolDetailDescription
+
+0x0601AA80 小型のクローン宇宙船を呼び出して、旅の助けにします。
+
+# sculpt_gear_fissure.prop - spaceToolDetailDescription
+
+0x26F6797E 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、ギアの亀裂を作ります。
+
+# planetconversion.prop - spaceToolDetailDescription
+
+0x0608993B 惑星に使用することで、住民を宗教的にします。
+
+# sculpt_tentacle_seas.prop - spaceToolDetailDescription
+
+0x60AF5EC0 惑星に使用することで、大地を変更し、触手の海を作ります。
+
+# energyupgrade2.prop - spaceToolDescription
+
+0xAAF21EE8 エネルギー貯蔵庫アップグレード（小）
+
+# zoo.prop - spaceToolLockedDescription
+# autoblaster.prop - spaceToolDescription
+# autoblaster.prop - spaceToolDetailDescription
+
+0x061C69FE 近づいてくる敵から宇宙船を守ります。
+
+# torpedogalaxy1.prop - spaceToolDetailDescription
+
+0xB1177EB5 防衛用の武器です。攻撃をしかけてきた敵の砲塔や宇宙船を自動的に攻撃します。また、この武器はオン／オフの設定が可能です。
+
+# coldcloudray.prop - spaceToolLockedDescription
+# coldcloudvacuum.prop - spaceToolDescription
+
+0x2EE4F934 冷たい雲の吸引装置
+
+# rallycall.prop - spaceToolDetailDescription
+
+0x84FD3B8D 同盟の宇宙船を集合させる事で一時的に与えるダメージを増幅できます。
+
+# coloratmored.prop - spaceToolDescription
+
+0xAC0E9EAF 赤色の空
+
+# allylaser2.prop - spaceToolDescription
+# allylaser3.prop - spaceToolDescription
+# allyminipulse1.prop - spaceToolDescription
+
+0xD4795323 味方の小さな鼓動
+
+# sculpt_gear_canyon.prop - spaceToolDetailDescription
+
+0x4E6F3B03 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、ギアの渓谷を作ります。
+
+# sculpt_tentacle_plateau.prop - spaceToolDescription
+
+0x481CA11B 触手の高原
+
+# sculpt_crystal_mountains.prop - spaceToolDescription
+
+0xDAE9C56F クリスタルの山脈
+
+# sculpt_cute_hills.prop - spaceToolDescription
+
+0x3F34BBDC キュートな丘
+
+# sculpt_gear_craters.prop - spaceToolDetailDescription
+
+0xF0D70899 惑星に使用することで、大地を変更し、ギアの噴火口を作ります。
+
+# shield.prop - spaceToolDescription
+
+0xDAB0AE3F シールド
+
+# sculpt_crystal_hills.prop - spaceToolDetailDescription
+
+0x511C7392 惑星に使用することで、大地を変更し、クリスタルの丘を作ります。
+
+# colorterrainpink.prop - spaceToolDetailDescription
+
+0x930BED1F 惑星の地表の色をピンク色に変えます。
+
+# sculpt_terra_hills.prop - spaceToolLockedDescription
+# sculpt_terra_lavaflow.prop - spaceToolDescription
+
+0x63D11771 テラの溶岩流
+
+# cloak.prop - spaceToolDescription
+
+0x1A266B7C クロークデバイス
+
+# sculpt_basic_raise_large.prop - spaceToolLockedDescription
+# sculpt_basic_raise_medium.prop - spaceToolDescription
+
+0x5A121151 地表を上げる(中)
+
+# repairpotion.prop - spaceToolDetailDescription
+
+0x013131F9 宇宙船の耐久力が少し回復します。
+
+# placebiostabilizer.prop - spaceToolDetailDescription
+
+0xB1D9ABFD 惑星に設置することで、エコ災害の発生する可能性を下げます。
+
+# colorwaterpink.prop - spaceToolDescription
+
+0xE65F9298 恋人海
+
+# sculpt_chocolate_spirals.prop - spaceToolDescription
+
+0xC0FB0C49 チョコレートの螺旋
+
+# rainoffire.prop - spaceToolDescription
+
+0xF696A88D 流星の雨
+
+# sculpt_gear_canyon.prop - spaceToolDescription
+
+0xE56A9D5A ギアの渓谷
+
+# placespicestorage.prop - spaceToolDetailDescription
+
+0x4C23A6E1 惑星に設置することで、採掘したスパイスの保有可能な量が増えます。
+
+# seti.prop - spaceToolDetailDescription
+
+0x04EBC561 自動的に他の恒星系の知的生命体を検出します。銀河規模で電波輝線を探します。
+
+# sculpt_cute_holes.prop - spaceToolDescription
+
+0x25609C87 キュートな刻印
+
+# colorterrainorange.prop - spaceToolDetailDescription
+
+0x0D775C0D 惑星の地表の色をオレンジ色に変えます。
+
+# enemypulse2.prop - spaceToolDescription
+# enemypulse3.prop - spaceToolDescription
+# enemytorpedogalaxy1.prop - spaceToolDescription
+# enemytorpedogalaxy2.prop - spaceToolDescription
+# enemytorpedogalaxy3.prop - spaceToolDescription
+# enemytorpedosolar1.prop - spaceToolDescription
+# enemytorpedosolar2.prop - spaceToolDescription
+# enemytorpedosolar3.prop - spaceToolDescription
+# energymegapotion.prop - spaceToolDescription
+
+0xDD6D2133 メガエネルギーパック
+
+# coloratmopink.prop - spaceToolDescription
+
+0x637C64AE ピンク色の空
+
+# sculpt_cute_plateau.prop - spaceToolDescription
+
+0x42E6CF2E キュートな高原
+
+# colorterrainyellow.prop - spaceToolDetailDescription
+
+0x249781EB 惑星の地表の色を黄色に変えます。
+
+# sculpt_gear_river.prop - spaceToolDescription
+
+0x3B39E3EE ギアの川
+
+# getoutofufo.prop - spaceToolLockedDescription
+# globalminderase.prop - spaceToolDescription
+
+0xBE68817F 惑星記憶消去
+
+# sculpt_tentacle_mountains.prop - spaceToolDetailDescription
+
+0x1E7ACC8C 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、触手の山脈を作ります。
+
+# hotcloudvacuum.prop - spaceToolLockedDescription
+# icecapseeder.prop - spaceToolDescription
+
+0x3A437B21 大気凍結装置
+
+# sculpt_basic_lower_medium.prop - spaceToolLockedDescription
+# sculpt_basic_lower_small.prop - spaceToolDescription
+
+0xE90E8BEA 地表を下げる(小)
+
+# healthupgrade2.prop - spaceToolDetailDescription
+# healthupgrade2.prop - spaceToolLockedDescription
+# healthupgrade3.prop - spaceToolDescription
+
+0xD770F4A1 耐久力アップグレード（中）
+
+# healthupgrade4.prop - spaceToolDetailDescription
+# healthupgrade4.prop - spaceToolLockedDescription
+# healthupgrade5.prop - spaceToolDescription
+
+0xA7F72A5B 耐久力アップグレード（最大）
+
+# sculpt_gear_plateau.prop - spaceToolDetailDescription
+
+0x39192F03 惑星に使用することで、大地を変更し、ギアの高原を作ります。
+
+# dumbbomblevel1.prop - spaceToolLockedDescription
+# dumbbomblevel2.prop - spaceToolDescription
+
+0x6AA2F972 ボム
+
+# sculpt_cute_seas.prop - spaceToolDetailDescription
+
+0xE06B17CF 惑星に使用することで、大地を変更し、キュートな海を作ります。
+
+# sculpt_gears.prop - spaceToolDescription
+
+0xC5033606 ギアを作成作成する
+
+# sculpt_terra_plateau.prop - spaceToolDetailDescription
+
+0xCB4D3F70 惑星に使用することで、大地を変更し、テラの高原を作ります。
+
+# sculpt_gear_fissure.prop - spaceToolDescription
+
+0x4BF5B267 ギアの亀裂
+
+# coloratmoyellow.prop - spaceToolDetailDescription
+
+0xEA93BE23 惑星の大気の色を黄色に変えます。
+
+# pulselevel3.prop - spaceToolDetailDescription
+
+0x68FD0B1F 強力な集中攻撃をまっすぐ放ちます。他の宇宙船に対して有効で、地面にある標的にはさらに有効です。
+
+# repairmegapotion.prop - spaceToolDetailDescription
+
+0xE956DB67 宇宙船の耐久力を完全に回復します。
+
+# sculpt_chocolate_valley.prop - spaceToolDescription
+
+0xAEE738C4 チョコレートボックス
+
+# dumbbomblevel2.prop - spaceToolLockedDescription
+# dumbbomblevel3.prop - spaceToolDescription
+
+0x39F568F9 メガボム
+
+# asteroid.prop - spaceToolDetailDescription
+
+0x6B0D4AE6 惑星に使用することで、惑星に小惑星をぶつけます。気温を上げて大気圧を下げます。
+
+# heatray.prop - spaceToolLockedDescription
+# hotcloudray.prop - spaceToolDescription
+
+0xF1C68BAC 熱雲散布装置
+
+# placeloyaltybooster.prop - spaceToolDetailDescription
+
+0x36055134 惑星に設置することで、惑星の住民の忠誠を最大のまま保持します。
+
+# sculpt_gear_mountains.prop - spaceToolDetailDescription
+
+0x440BEC05 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、ギアの山脈を作ります。
+
+# protonmissilelevel2.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolLockedDescription
+# antimattermissile.prop - spaceToolDescription
+
+0x84E3B697 反物質ミサイル
+
+# sculpt_chocolate_river.prop - spaceToolDetailDescription
+
+0x6A5B2854 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、渦巻きチョコレートの川を作ります。
+
+# happyraylevel3.prop - spaceToolDetailDescription
+# happyraylevel3.prop - spaceToolLockedDescription
+# healthupgrade1.prop - spaceToolDescription
+
+0xEA7290F7 耐久力アップグレード（最小）
+
+# dryice.prop - spaceToolLockedDescription
+# dumbbomblevel1.prop - spaceToolDescription
+
+0xE27E0C2F ミニボム
+
+# antimatterbomb.prop - spaceToolLockedDescription
+
+0xA0BB7099 ~commodity_requirements~が必要です
+
+# placebioprotector.prop - spaceToolDescription
+
+0xE5B083EF バイオ・プロテクター
+
+# sculpt_chocolate_pond.prop - spaceToolDescription
+
+0x1C9426E0 渦巻きチョコの池
+
+# sculpt_tentacle_river.prop - spaceToolDetailDescription
+
+0xF7726B4E 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、触手の川を作ります。
+
+# atmospheregenerator.prop - spaceToolDetailDescription
+
+0x3E1F0150 惑星に設置することで、大気圧を上げます。
+
+# pulselevel1.prop - spaceToolDetailDescription
+
+0x0B3B46B5 弱めの集中攻撃をまっすぐ放ちます。他の宇宙船に対して有効で、地面にある目標にはさらに有効です。
+
+# torpedogalaxy1.prop - spaceToolLockedDescription
+# torpedogalaxy2.prop - spaceToolDescription
+
+0x0B5F32ED オートブラスター
+
+# callforbackup.prop - spaceToolDescription
+
+0x0601AA7B ミニUFOの召喚
+
+# defenderlaser2.prop - spaceToolDescription
+# defenderlaser3.prop - spaceToolDescription
+# dropcargo.prop - spaceToolDescription
+
+0xF5CFF647 移送ビーム
+
+# cargoupgrade2.prop - spaceToolDetailDescription
+
+0x0D904F3F より多くの物が積めるように、宇宙船の貨物積載量を増やします。
+
+# sculpt_cute_canyon.prop - spaceToolDescription
+
+0x7EF722AE キュートな渓谷
+
+# protonmissilelevel1.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolDescription
+
+0x29C9E40F メガプロトンミサイル
+
+# colorreset.prop - spaceToolDetailDescription
+
+0xF61E6831 惑星を元の色に戻します。
+
+# colorterrainpink.prop - spaceToolDescription
+
+0x565CA906 地表着色剤（ピンク）
+
+# coloratmocyan.prop - spaceToolDescription
+
+0xE5671F75 青緑色の空
+
+# antimattermissile.prop - spaceToolLockedDescription
+# laserlevel1.prop - toolTargetFlagsFailMessage
+
+0x7DF2ECCF このツールを使うには、適した標的を選択しなくてはいけません。
+
+# interstellardrive_upgrade1.prop - spaceToolLockedDescription
+# interstellardrive_upgrade2.prop - spaceToolDescription
+
+0xD1160A0E 星間移動ドライブ3
+
+# sculpt_crystal_plateau.prop - spaceToolDetailDescription
+
+0x127A7C84 惑星に使用することで、大地を変更し、クリスタルの高原を作ります。
+
+# placebioprotector.prop - spaceToolLockedDescription
+# placebiostabilizer.prop - spaceToolDescription
+
+0xE45CD1BC バイオ・スタビライザー
+
+# sculpt_gear_mountains.prop - spaceToolDescription
+
+0x12FB4124 ギアの山脈
+
+# cloudvacuum.prop - spaceToolLockedDescription
+# coldcloudray.prop - spaceToolDescription
+
+0xEBDD0E97 大気調整装置
+
+# sculpt_crystal_mountains.prop - spaceToolDetailDescription
+
+0xC62709E6 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、クリスタルの山脈を作ります。
+
+# coloratmogreen.prop - spaceToolDetailDescription
+
+0xBF0DC136 惑星の大気の色を緑色に変えます。
+
+# coloratmoorange.prop - spaceToolDetailDescription
+
+0x8118D7E5 惑星の大気の色をオレンジ色に変えます。
+
+# colorwaterblue.prop - spaceToolDetailDescription
+
+0x75DCC909 惑星の水の色を青色に変えます。
+
+# interstellardrive_upgrade1.prop - spaceToolDescription
+
+0xDA5D06EB 星間移動ドライブ2
+
+# pulselevel1.prop - spaceToolLockedDescription
+# pulselevel2.prop - spaceToolDescription
+
+0xC9E33AED パルスガン
+
+# coloratmopink.prop - spaceToolDetailDescription
+
+0xAB570E07 惑星の大気の色をピンク色に変えます。
+
+# laserlevel1.prop - spaceToolDetailDescription
+
+0x7F2E2C7B 地上攻撃用の武器です。 正確に狙えますが威力は弱めです。
+
+# colorwaterpink.prop - spaceToolDetailDescription
+
+0xA2173559 惑星の水の色をピンク色に変えます。
+
+# allyminipulse2.prop - spaceToolDescription
+# allyminipulse3.prop - spaceToolDescription
+# allytorpedogalaxy1.prop - spaceToolDescription
+
+0xADD5370E ミニ銀河魚雷
+
+# healthupgrade2.prop - spaceToolDescription
+
+0x9172205A 耐久力アップグレード（小）
+
+# sculpt_chocolate_beads.prop - spaceToolDetailDescription
+
+0x421261AB 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、チョコレートの岸辺を作ります。
+
+# dropcargo.prop - spaceToolDetailDescription
+
+0xD46D8B5E アイテムを貨物室から惑星に送り込みます。やさしく置くにはクリックし続けます。
+
+# sculpt_tentacle_seas.prop - spaceToolDescription
+
+0x08F51D41 触手の海
+
+# pulselevel1.prop - toolTargetFlagsFailMessage
+
+0xB5F45E41 この兵器で撃てるのは宇宙船、砲塔、ビークルのみです。
+
+# colorwatercyan.prop - spaceToolDescription
+
+0x42F9F1D7 青緑海
+
+# torpedogalaxy2.prop - spaceToolDetailDescription
+
+0xE470C7AC 攻撃をしかけてきた敵の砲塔や宇宙船を自動的に攻撃します。また、この武器はオン／オフの設定が可能です。
+
+# icecapseeder.prop - spaceToolDetailDescription
+
+0x9D67C0A0 惑星に設置することで、気温と大気圧を両方下げます。
+
+# creaturecreate.prop - spaceToolDescription
+
+0x3E295EE3 クリーチャー作成
+
+# coldcloudray.prop - spaceToolDetailDescription
+
+0x0734B94E 惑星に使用することで、気温を下げて、大気圧を上げます。
+
+# sculpt_cute_mountains.prop - spaceToolDescription
+
+0x018123C8 キュートな山脈
+
+# sculpt_basic_lower_medium.prop - spaceToolDetailDescription
+
+0xD03592C3 惑星に使用することで、地表を下げます。
+
+# interstellardrive_upgrade4.prop - spaceToolDetailDescription
+
+0x2A165F89 宇宙船の移動可能な距離を最大まで増やします。
+
+# sculpt_tentacle_mountains.prop - spaceToolDescription
+
+0x9A5735CD 触手の山脈
+
+# sculpt_chocolate_seas.prop - spaceToolDetailDescription
+
+0x042C3086 惑星に使用することで、大地を変更し、渦巻きチョコの海を作ります。
+
+# sculpt_basic_raise_large.prop - spaceToolDetailDescription
+
+0x06D08B5A 惑星に使用することで、地表を上げます。
+
+# coldcloudvacuum.prop - spaceToolDetailDescription
+
+0xA2D36535 惑星に使用することで、気温と大気圧の両方を下げます。
+
+# sculpt_chocolate_truffles.prop - spaceToolDescription
+
+0xC2CB4C2C チョコレートトリュフ
+
+# sculpt_gear_craters.prop - spaceToolDescription
+
+0x96B6B5D8 ギアの噴火口
+
+# cargoupgrade2.prop - spaceToolLockedDescription
+# cargoupgrade3.prop - spaceToolDescription
+
+0xEBA16D0D 貨物室（大）
+
+# sculpt_basic_lower_large.prop - spaceToolDetailDescription
+
+0x8650A33B 惑星に使用することで、地表を下げます。
+
+# sculpt_cute_seas.prop - spaceToolDescription
+
+0x483A5096 キュートな海
+
+# hotcloudray.prop - spaceToolDetailDescription
+
+0x8D982D4D 惑星に使用することで、気温と大気圧の両方を上げます。
+
+# sculpt_basic_lower_small.prop - spaceToolDetailDescription
+# sculpt_basic_lower_small.prop - spaceToolLockedDescription
+# sculpt_basic_raise_large.prop - spaceToolDescription
+
+0xBE9E44C3 地表を上げる(大)
+
+# sculpt_gear_walls.prop - spaceToolDescription
+
+0x8E6ADBF5 ギアの壁
+
+# sculpt_basic_level_medium.prop - spaceToolDetailDescription
+# sculpt_basic_level_medium.prop - spaceToolLockedDescription
+# sculpt_basic_level_small.prop - spaceToolDescription
+
+0xF4BFDB49 地表を平らに(小)
+
+# creatureedit.prop - spaceToolLockedDescription
+# cropcircles.prop - spaceToolDescription
+
+0x14BE5FDF ミステリーサークル
+
+# sculpt_tentacle_river.prop - spaceToolDescription
+
+0x0B88D097 触手の川
+
+# hotcloudvacuum.prop - spaceToolDetailDescription
+
+0xBBF76458 惑星に使用することで、気温を上げて大気圧を下げます。
+
+# globalminderase.prop - spaceToolDetailDescription
+
+0xD4F93796 すべての住民を鎮圧します。彼らは攻撃してこなくなります。
+
+# colorwatercyan.prop - spaceToolDetailDescription
+
+0x3401798E 惑星の水の色を青緑色に変えます。
+
+# sculpt_tentacle_hills.prop - spaceToolDescription
+
+0x0E49D3F5 触手の丘
+
+# colorwaterpurple.prop - spaceToolDescription
+
+0x3A2C7D32 ブドウジュースの海
+
+# coloratmoyellow.prop - spaceToolDescription
+
+0xE849437A 黄色の空
+
+# placehappinessbooster.prop - spaceToolLockedDescription
+# placeloyaltybooster.prop - spaceToolDescription
+
+0x8C4FB895 忠誠心ブースター
+
+# coloratmopurple.prop - spaceToolDetailDescription
+
+0x6C54E325 惑星の大気の色を紫色に変えます。
+
+# interstellardrive_upgrade1.prop - spaceToolDetailDescription
+
+0x9F22E5E2 宇宙船の移動可能な距離を増やします。
+
+# sculpt_cute_holes.prop - spaceToolDetailDescription
+
+0x6C7B1F9E 惑星に使用することで、大地を変更し、キュートな刻印を作ります。
+
+# coldray.prop - spaceToolLockedDescription
+# coloratmoblue.prop - spaceToolDescription
+
+0x0379D01A 青色の空
+
+# sculpt_tentacle_suckers.prop - spaceToolDescription
+
+0xAFFA4857 触手の吸盤
+
+# antimatterbomb.prop - spaceToolDetailDescription
+
+0xC2B26356 都市やコロニーを破壊できる、非常に強力な兵器です。
+
+# sculpt_tentacle_mouth.prop - spaceToolDetailDescription
+
+0x06BE0997 惑星に使用することで、大地を変更し、触手の口を作ります。
+
+# sculpt_terra_mesas.prop - spaceToolLockedDescription
+# sculpt_terra_mountains.prop - spaceToolDescription
+
+0xDCBD610B テラの山脈
+
+# mutation.prop - spaceToolDetailDescription
+
+0x06006CEB 惑星の種族を無作為に選びます
+
+# coldcloudvacuum.prop - spaceToolLockedDescription
+# coldray.prop - spaceToolDescription
+
+0x4F0BADD2 冷凍光線
+
+# sculpt_chocolate_hill.prop - spaceToolDetailDescription
+
+0x5B72E9CD 惑星に使用することで、大地を変更し、チョコレートの丘を作ります。
+
+# sculpt_tentacle_arm.prop - spaceToolDetailDescription
+
+0x49DFB926 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、触手の腕を作ります。
+
+# pulselevel2.prop - spaceToolDetailDescription
+
+0x3E948FAC 中くらいの威力の集中攻撃をまっすぐ放ちます。他の宇宙船に対して有効で、地面にある目標にはさらに有効です。
+
+# droughtgenerator.prop - spaceToolLockedDescription
+# dryice.prop - spaceToolDescription
+
+0xDAB82A46 氷の嵐
+
+# heatray.prop - spaceToolDetailDescription
+
+0x63EE95D7 惑星に使用することで、気温を上げます。
+
+# sculpt_cute_canyon.prop - spaceToolDetailDescription
+
+0xE90BDC07 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、キュートな渓谷を作ります。
+
+# sculpt_crystal_canyon.prop - spaceToolDescription
+
+0x860E0A6F クリスタルの渓谷
+
+# sculpt_chocolate_truffles.prop - spaceToolDetailDescription
+
+0x2E3BBDD5 惑星に使用することで、大地を変更し、複数のチョコレートトリュフを作ります。
+
+# antimattermissile.prop - spaceToolDetailDescription
+
+0x12C6214E 非常に強力な自動追尾ミサイルを標的に発射します。複数の宇宙船を破壊することができます。
+
+# asteroid.prop - spaceToolLockedDescription
+# atmospheregenerator.prop - spaceToolDescription
+
+0xDA2C0FB1 大気製造装置
+
+# coloratmopurple.prop - spaceToolDescription
+
+0x22770D44 紫色の空
+
+# sculpt_crystal_river.prop - spaceToolDetailDescription
+
+0xA8CD2744 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、クリスタルの川を作ります。
+
+# healthupgrade5.prop - spaceToolDetailDescription
+
+0xBE9C35B2 宇宙船の耐久力を最大まで増やします。
+
+# sculpt_chocolate_spirals.prop - spaceToolDetailDescription
+
+0x8BB57E68 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、チョコレートの螺旋を作ります。
+
+# colorwaterpurple.prop - spaceToolDetailDescription
+
+0xC895ED7B 惑星の水の色を紫色に変えます。
+
+# abduct.prop - spaceToolDetailDescription
+
+0xF509A6A4 使用することで植物、動物、レア品などを自分の貨物室に追加できます。
+
+# placespicestorage.prop - spaceToolLockedDescription
+# placeuberturret.prop - spaceToolDescription
+
+0x01D75D45 超迎撃砲塔
+
+# happyraylevel1.prop - spaceToolDescription
+
+0x134E9479 幸福の光線（小）
+
+# sculpt_cute_mesas.prop - spaceToolDescription
+
+0x4D29A8CB キュートなメサ
+
+# cargoupgrade1.prop - spaceToolLockedDescription
+# cargoupgrade2.prop - spaceToolDescription
+
+0xF87F7426 貨物室（中）
+
+# pulselevel2.prop - spaceToolLockedDescription
+# pulselevel3.prop - spaceToolDescription
+
+0x8B2A3706 メガパルスガン
+
+# sculpt_crystal_seas.prop - spaceToolDetailDescription
+
+0xA1D11B76 惑星に使用することで、大地を変更し、クリスタルの海を作ります。
+
+# energypotion.prop - spaceToolLockedDescription
+# energyupgrade1.prop - spaceToolDescription
+
+0x3F3C2A71 エネルギー貯蔵庫アップグレード（最小）
+
+# defenderlaser1.prop - spaceToolDescription
+
+0xC5C6DA6F レーザー
+
+# interstellardrive_upgrade4.prop - spaceToolLockedDescription
+# laserlevel1.prop - spaceToolDescription
+
+0x0CFC7432 ミニレーザー
+
+# sculpt_gear_plateau.prop - spaceToolDescription
+
+0x96A9315A ギアの高原
+
+# cargoupgrade3.prop - spaceToolDetailDescription
+
+0x4CC4DCCC できるだけ多くの物が積めるように、宇宙船の貨物積載量を最大まで増やします。
+
+# sculpt_terra_craters.prop - spaceToolLockedDescription
+# sculpt_terra_hills.prop - spaceToolDescription
+
+0xD0EDFCB7 テラの丘
+
+# sculpt_terra_canyon.prop - spaceToolDetailDescription
+
+0xCC7BC8D2 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、テラの渓谷を作ります。
+
+# cashinfusion.prop - spaceToolDetailDescription
+
+0x05FB7F84 交易ルートを確保している場所の星系を即座に買収できるようにします。
+
+# placeuberturret.prop - spaceToolLockedDescription
+# planetbusterbomb.prop - spaceToolDescription
+
+0xDCF0CDB9 プラネットバスター
+
+# sculpt_chocolate_valley.prop - spaceToolDetailDescription
+
+0xB0E7B2A5 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、チョコレートボックスを作ります。
+
+# interstellardrive.prop - spaceToolDetailDescription
+
+0x5C796CC8 基本的な星間移動で、星系から出ることができます。
+
+# placecolony.prop - spaceToolDetailDescription
+
+0x567E312C 惑星にコロニーを建設します。
+
+# colorwaterorange.prop - spaceToolDescription
+
+0x2D389FBE オレンジの海
+
+# sculpt_terra_river.prop - spaceToolDetailDescription
+
+0xDF51A150 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、テラの川を作ります。
+
+# planetscan.prop - spaceToolDescription
+
+0xC9433E6D 惑星スキャン
+
+# sculpt_tentacle_hills.prop - spaceToolDetailDescription
+
+0x92691F94 惑星に使用することで、大地を変更し、触手の丘を作ります。
+
+# torpedogalaxy2.prop - spaceToolLockedDescription
+# torpedogalaxy3.prop - spaceToolDescription
+
+0xCCA62F06 メガオートブラスター
+
+# placebiostabilizer.prop - spaceToolLockedDescription
+# placecolony.prop - spaceToolDescription
+
+0x6569486D コロニー・スーパーパック
+
+# coloratmored.prop - spaceToolDetailDescription
+
+0x5DC28226 惑星の大気の色を赤色に変えます。
+
+# cargoupgrade3.prop - spaceToolLockedDescription
+# cashinfusion.prop - spaceToolDescription
+
+0x05FB7F80 資金投入
+
+# healthupgrade3.prop - spaceToolDetailDescription
+# healthupgrade3.prop - spaceToolLockedDescription
+# healthupgrade4.prop - spaceToolDescription
+
+0x49BBD1AC 耐久力アップグレード（大）
+
+# sculpt_terra_plateau.prop - spaceToolLockedDescription
+# sculpt_terra_river.prop - spaceToolDescription
+
+0x15DBAFB1 テラの川
+
+# aoe_repair.prop - spaceToolDetailDescription
+
+0xFDA6C622 近くにいる味方の艦隊を修復します。
+
+# colorwateryellow.prop - spaceToolDetailDescription
+
+0x92544BFD 惑星の水の色を黄色に変えます。
+
+# colorterrainpurple.prop - spaceToolDescription
+
+0xEB0E341C 地表着色剤（紫）
+
+# sculpt_chocolate_pond.prop - spaceToolDetailDescription
+
+0x12976A61 惑星に使用することで、大地を変更し、渦巻きチョコの池を作ります。
+
+# colorwatergreen.prop - spaceToolDescription
+
+0xFE6CF7A9 緑の海
+
+# abduct.prop - spaceToolDescription
+
+0x59C7B725 回収ビーム
+
+# cloak.prop - spaceToolLockedDescription
+# cloudray.prop - spaceToolDescription
+
+0x914B2B09 雲散布装置
+
+# placehappinessbooster.prop - spaceToolDetailDescription
+
+0x69B97931 惑星に設置することで、惑星の住民を幸せにします。
+
+# sculpt_terra_seas.prop - spaceToolDetailDescription
+
+0x49D90C52 惑星に使用することで、大地を変更し、テラの海を作ります。
+
+# epicize.prop - spaceToolLockedDescription
+# eradicate.prop - spaceToolDescription
+
+0xCC7CDDE2 種族の根絶
+
+# sculpt_gears.prop - spaceToolDetailDescription
+
+0xB616121F 惑星に使用することで、大地を変更し、ギアを作ります。
+
+# cropcircles.prop - spaceToolLockedDescription
+# cultureshocker.prop - spaceToolDescription
+
+0xACA3549D 文化を揺さぶるもの
+
+# peacebomb.prop - spaceToolDescription
+
+0x0602FACC 静電接着
+
+# protonmissilelevel1.prop - spaceToolDetailDescription
+
+0xE0AE0C98 小さめの自動追尾プロトンミサイルを標的に放ちます。他の宇宙船に対して非常に有効です。
+
+# enemyminipulse2.prop - spaceToolDescription
+# enemyminipulse3.prop - spaceToolDescription
+# enemypulse1.prop - spaceToolDescription
+
+0x20C6731C 敵の鼓動
+
+# creatureedit.prop - toolTargetFlagsFailMessage
+
+0x385928DE この兵器は、クリーチャーのみに対して使用できます。
+
+# happyraylevel1.prop - spaceToolLockedDescription
+# happyraylevel2.prop - spaceToolDescription
+
+0x9BAEB0B0 幸福の光線（中）
+
+# colorreset.prop - spaceToolDescription
+
+0x5ADBC090 惑星色リセット
+
+# energypotion.prop - spaceToolDetailDescription
+
+0x1834B2DC 宇宙船のエネルギーをリチャージします。
+
+# sculpt_terra_canyon.prop - spaceToolLockedDescription
+# sculpt_terra_craters.prop - spaceToolDescription
+
+0xD5C29A43 テラの噴火口
+
+# happyraylevel1.prop - spaceToolDetailDescription
+
+0x6ACCABB8 この惑星に存在する異星人との友好関係を強化します。
+
+# peacebomb.prop - spaceToolDetailDescription
+
+0x0602FAD1 他の宇宙船や、惑星にある砲塔の動きが停止します。
+
+# sculpt_crystal_holes.prop - spaceToolDescription
+
+0x7784ED60 クリスタルの穴
+
+# allylaser1.prop - spaceToolDescription
+
+0xC17A9892 同盟レーザー
+
+# droughtgenerator.prop - spaceToolDescription
+
+0xC1B1ADB6 干ばつ発生装置
+
+# sculpt_gear_mesas.prop - spaceToolDescription
+
+0x293E7C57 ギアのメサ
+
+# sculpt_cute_hills.prop - spaceToolDetailDescription
+
+0xD4738A1D 惑星に使用することで、大地を変更し、キュートな丘を作ります。
+
+# sculpt_basic_level_large.prop - spaceToolDetailDescription
+
+0x8827B2E0 惑星に使用することで、地表をならします。
+
+# repairpotion.prop - spaceToolLockedDescription
+# safarivacuum.prop - spaceToolDescription
+
+0x05FF2F99 サファリの吸引装置
+
+# raiderrally.prop - spaceToolDetailDescription
+
+0x06087E9E 宇宙海賊をそそのかして、惑星を攻撃させます。
+
+# planetscan.prop - spaceToolDetailDescription
+
+0x6FD8772C 使用することで、惑星上の全ての植物と動物を調査します。
+
+# dryice.prop - spaceToolDetailDescription
+
+0x4AEAE75F 惑星に使用することで、気温を下げます。
+
+# sculpt_tentacle_arm.prop - spaceToolDescription
+
+0x9AF94DAF 触手の腕
+
+# sculpt_terra_lavaflow.prop - spaceToolDetailDescription
+
+0xECB20810 惑星に使用することで、大地を変更し、テラの溶岩流を作ります。
+
+# sculpt_crystal_holes.prop - spaceToolDetailDescription
+
+0xBECDFCE1 惑星に使用することで、大地を変更し、クリスタルの穴を作ります。
+
+# wormhole.prop - spaceToolLockedDescription
+# zoo.prop - spaceToolDescription
+
+0x0F6556A4 野生生物の聖地
+
+# creaturecreate.prop - spaceToolDetailDescription
+
+0xD974877A クリーチャーを作成し、その標本を5匹貨物室に保管します。
+
+# sculpt_crystal_crack.prop - spaceToolDetailDescription
+
+0x85B169C4 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、クリスタルの割れ目を作ります。
+
+# sculpt_terra_mesas.prop - spaceToolDetailDescription
+
+0xB0F79FC5 惑星に使用することで、大地を変更し、テラのメサを作ります。
+
+# energyupgrade3.prop - spaceToolDetailDescription
+# energyupgrade3.prop - spaceToolLockedDescription
+# energyupgrade4.prop - spaceToolDescription
+
+0xB14CB70E エネルギー貯蔵庫アップグレード（大）
+
+# sculpt_terra_canyon.prop - spaceToolDescription
+
+0x7621817B テラの渓谷
+
+# sculpt_basic_lower_large.prop - spaceToolLockedDescription
+# sculpt_basic_lower_medium.prop - spaceToolDescription
+
+0x8F215D1A 地表を下げる(中)
+
+# sculpt_terra_mountains.prop - spaceToolDetailDescription
+
+0x1E8C7B02 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、テラの山脈を作ります。
+
+# soothingsong.prop - spaceToolDetailDescription
+
+0x0600B62E 他の帝国を沈静化させることができます。
+
+# laserlevel3.prop - spaceToolLockedDescription
+# minderase.prop - spaceToolDescription
+
+0x8B3EDF92 記憶消去
+
+# fireworks.prop - spaceToolDetailDescription
+
+0x28484917 コロニーの近くで使用すると彼らを喜ばせます。
+
+# atmospheregenerator.prop - spaceToolLockedDescription
+# bribe.prop - spaceToolDescription
+
+0xB5B2991E 賄賂
+
+# sculpt_crystal_river.prop - spaceToolDescription
+
+0x745907C5 クリスタルの川
+
+# sculpt_crystal_canyon.prop - spaceToolDetailDescription
+
+0x240126E6 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、クリスタルの渓谷を作ります。
+
+# asteroid.prop - toolTargetFlagsFailMessage
+
+0xFDD8CC2A このツールを使うには、地表にある適切な標的を選択しなくてはいけません。
+
+# colorwatergreen.prop - spaceToolDetailDescription
+
+0x279BF3C8 惑星の水の色を緑色に変えます。
+
+# placeuberturret.prop - spaceToolDetailDescription
+
+0x90ACD0C4 惑星に設置することで、究極の防衛力をコロニーに提供します。
+
+# icecomet.prop - spaceToolDetailDescription
+
+0xE2E67DDA 惑星に使用することで、氷の彗星を惑星にぶつけます。気温を下げて大気圧を上げます。
+
+# sculpt_tentacle_canyon.prop - spaceToolDetailDescription
+
+0x8D0F1A68 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、触手の渓谷を作ります。
+
+# sculpt_basic_level_small.prop - spaceToolDetailDescription
+# sculpt_basic_level_small.prop - spaceToolLockedDescription
+# sculpt_basic_lower_large.prop - spaceToolDescription
+
+0xBE26CAF2 地表を下げる(大)
+
+# colorterrainred.prop - spaceToolDescription
+
+0x47944327 地表着色剤（赤）
+
+# colorwaterblue.prop - spaceToolDescription
+
+0x04868768 深青海
+
+# planetbusterbomb.prop - spaceToolDetailDescription
+
+0xD6DD32F8 ドカンと一発、惑星を破壊でき、皆を恐怖におとしいれます。
+
+# volcano.prop - spaceToolLockedDescription
+# wormhole.prop - spaceToolDescription
+
+0xC304DE3B ワームホールの鍵
+
+# sculpt_terra_lavaflow.prop - spaceToolLockedDescription
+# sculpt_terra_mesas.prop - spaceToolDescription
+
+0x6A34E8E4 テラのメサ
+
+# sculpt_crystal_mesas.prop - spaceToolDescription
+
+0xFFA1FFE8 クリスタルのメサ
+
+# scan.prop - spaceToolDetailDescription
+
+0x03EE3CDE 植物や動物をクリックすると詳細を知ることができます。
+
+# sculpt_cute_plateau.prop - spaceToolDetailDescription
+
+0x031A2487 惑星に使用することで、大地を変更し、キュートな高原を作ります。
+
+# colorterrainred.prop - spaceToolDetailDescription
+
+0x76ED393E 惑星の地表の色を赤色に変えます。
+
+# shield.prop - spaceToolDetailDescription
+
+0xFAE06456 しばらくの間、敵の武器によるダメージから宇宙船を守ります。
+
+# sculpt_tentacle_plateau.prop - spaceToolDetailDescription
+
+0x305D0B72 惑星に使用することで、大地を変更し、触手の高原を作ります。
+
+# dumbbomblevel3.prop - spaceToolDetailDescription
+
+0x8898DC38 多くのビークルと建物を破壊することのできる強力な爆弾です。
+
+# sculpt_basic_raise_small.prop - spaceToolDetailDescription
+# sculpt_basic_raise_small.prop - spaceToolLockedDescription
+# sculpt_chocolate_beads.prop - spaceToolDescription
+
+0xE301CB02 チョコレートの岸辺
+
+# genesisdevice.prop - spaceToolDetailDescription
+
+0x2B488E7D 惑星に使用することで、即時にテラフォームができます。
+
+# colorwateryellow.prop - spaceToolDescription
+
+0x7B9471BC レモネードの海
+
+# sculpt_cute_mesas.prop - spaceToolDetailDescription
+
+0x581389C2 惑星に使用することで、大地を変更し、キュートなメサを作ります。
+
+# energyupgrade1.prop - spaceToolDetailDescription
+
+0xF62C8310 宇宙船のエネルギー許容量を増やします。
+
+# radar.prop - spaceToolDetailDescription
+
+0x0E084571 重要な目標に近づいた時に信号を発します。オン／オフの切り替えが可能です。
+
+# sculpt_tentacle_suckers.prop - spaceToolDetailDescription
+
+0x454B1C0E 惑星に使用することで、大地を変更し、触手の吸盤を作ります。
+
+# sculpt_tentacle_canyon.prop - spaceToolDescription
+
+0x89608849 触手の渓谷
+
+# turret_at_mil.prop - spaceToolDescription
+# turret_at_rel.prop - spaceToolDescription
+# turretlaser1.prop - spaceToolDescription
+# turretlaser2.prop - spaceToolDescription
+# turretlaser3.prop - spaceToolDescription
+# volcano.prop - spaceToolDescription
+
+0x2F61FCB6 火山
+
+# allytorpedosolar1.prop - spaceToolDescription
+# allytorpedosolar2.prop - spaceToolDescription
+# allytorpedosolar3.prop - spaceToolDescription
+# antimatterbomb.prop - spaceToolDescription
+
+0x3478653F 反物質爆弾
+
+# interstellardrive_upgrade2.prop - spaceToolDetailDescription
+# interstellardrive_upgrade2.prop - spaceToolLockedDescription
+# interstellardrive_upgrade3.prop - spaceToolDescription
+
+0x434E2F15 星間移動ドライブ4
+
+# repairmegapotion.prop - spaceToolLockedDescription
+# repairpotion.prop - spaceToolDescription
+
+0x6208F338 修理パック
+
+# safarivacuum.prop - spaceToolDetailDescription
+
+0x05FF2F9F 惑星に使用することで、惑星内の植物と動物を即座に回収することができます。
+
+# shield.prop - spaceToolLockedDescription
+# soothingsong.prop - spaceToolDescription
+
+0x0601FD86 沈静の歌
+
+# sculpt_gear_seas.prop - spaceToolDetailDescription
+
+0x123E852B 惑星に使用することで、大地を変更し、ギアの海を作ります。
+
+# torpedogalaxy3.prop - spaceToolDetailDescription
+
+0x0ED9431F 防衛用の武器です。攻撃をしかけてきた敵の砲塔や宇宙船を自動的に攻撃します。また、この武器はオン／オフの設定が可能です。
+
+# sculpt_cute_mountains.prop - spaceToolDetailDescription
+
+0x33441B69 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、キュートな山脈を作ります。
+
+# coloratmoblue.prop - spaceToolDetailDescription
+
+0x80326DC3 惑星の大気の色を青色に変えます。
+
+# volcano.prop - spaceToolDetailDescription
+
+0x66A105EF 惑星に設置することで、気温と大気圧を両方上げます。
+
+# interplanetarydrive.prop - spaceToolDetailDescription
+
+0xF29A5647 基本的な惑星間移動で、惑星の軌道から出ることができます。
+
+# rallycall.prop - spaceToolLockedDescription
+# repairmegapotion.prop - spaceToolDescription
+
+0xAD0AA50E メガ修理パック
+
+# aoe_repair.prop - spaceToolDescription
+
+0xB9121D2B 補給修理
+
+# gravitationwave.prop - spaceToolDetailDescription
+
+0x06036023 惑星にある全ての建物を破壊します。
+
+# placeembassy.prop - spaceToolLockedDescription
+# placehappinessbooster.prop - spaceToolDescription
+
+0x56CD9990 満足度ブースター
+
+# colorterrainyellow.prop - spaceToolDescription
+
+0xFDA80542 地表着色剤（黄）
+
+# sculpt_cute_river.prop - spaceToolDescription
+
+0x178D4372 キュートな川
+
+# energymegapotion.prop - spaceToolLockedDescription
+# energypotion.prop - spaceToolDescription
+
+0x5209643D エネルギーパック
+
+# placebioprotector.prop - spaceToolDetailDescription
+
+0x43C3D466 惑星に設置することで、エコ災害の被害をさげます。
+
+# rainoffire.prop - spaceToolLockedDescription
+# rallycall.prop - spaceToolDescription
+
+0xAD6C6EEC 艦隊集結
+
+# cargoupgrade1.prop - spaceToolDetailDescription
+
+0x813233DA 宇宙船の貨物積載量を増やします。
+
+# interstellardrive.prop - spaceToolDescription
+
+0x5CDE78A9 星間移動ドライブ1
+
+# sculpt_terra_seas.prop - spaceToolLockedDescription
+# seti.prop - spaceToolDescription
+
+0xD90BAFCD SETI
+
+# pulselevel3.prop - spaceToolLockedDescription
+# radar.prop - spaceToolDescription
+
+0x5A4C5CD0 レーダー
+
+# colorterrainpurple.prop - spaceToolDetailDescription
+
+0x30AD9F5D 惑星の地表の色を紫色に変えます。
+
+# raiderrally.prop - spaceToolDescription
+
+0x06087E97 侵略者集結
+
+# asteroid.prop - spaceToolDescription
+
+0x782C4E6F 小惑星召喚
+
+# minderase.prop - spaceToolLockedDescription
+# monolith.prop - spaceToolDescription
+
+0xCF45829A モノリス
+
+# allytorpedogalaxy3.prop - spaceToolDescription
+
+0x26E247FC メガ銀河魚雷
+
+# cloudray.prop - spaceToolLockedDescription
+# cloudvacuum.prop - spaceToolDescription
+
+0x1812CFEE 雲の吸引装置
+
+# rainoffire.prop - spaceToolDetailDescription
+
+0x53343C4C 惑星に使用することで、惑星に流星をぶつけます。気温を上げます。
+
+# coloratmogreen.prop - spaceToolDescription
+
+0x1657CA1F 緑色の空
+
+# sculpt_chocolate_river.prop - spaceToolDescription
+
+0x866B92B5 渦巻きチョコの川
+
+# energyupgrade4.prop - spaceToolDetailDescription
+# energyupgrade4.prop - spaceToolLockedDescription
+# energyupgrade5.prop - spaceToolDescription
+
+0x2384DC15 エネルギー貯蔵庫アップグレード（最大）
+
+# laserlevel3.prop - spaceToolDetailDescription
+
+0xC1BFF091 地上攻撃用の武器です。 威力が高く正確に狙えます。
+
+# minderase.prop - spaceToolDetailDescription
+
+0xAF7570DB パニック中の住民に使うことで、彼らを鎮圧し、攻撃を防ぎます。
+
+# sculpt_gear_hills.prop - spaceToolDetailDescription
+
+0xF5DE4169 惑星に使用することで、大地を変更し、ギアの丘を作ります。
+
+# colorwaterred.prop - spaceToolDescription
+
+0x20660959 紅海
+
+# genesisdevice.prop - spaceToolLockedDescription
+# getoutofufo.prop - spaceToolDescription
+
+0xD51719A7 ホログラム偵察
+
+# protonmissilelevel3.prop - spaceToolDetailDescription
+
+0x5CBCC686 強力な自動追尾プロトンミサイルを標的に放ちます。他の宇宙船に対して非常に有効です。
+
+# sculpt_cute_river.prop - spaceToolDetailDescription
+
+0x5BBF57BB 惑星上でクリック&ドラッグすることで、開始地点と方向を設定し、キュートな川を作ります。
+
+# sculpt_basic_level_large.prop - spaceToolDescription
+
+0x1F00A761 地表を平らに (大)
+
+# placeloyaltybooster.prop - spaceToolLockedDescription
+# placespicestorage.prop - spaceToolDescription
+
+0x2A366760 スパイス貯蔵庫
+
+# energyupgrade5.prop - spaceToolDetailDescription
+
+0x577558B4 宇宙船のエネルギー許容量を最大まで増やします。
+
+# colorwaterorange.prop - spaceToolDetailDescription
+
+0xEA6DB0F7 惑星の水の色をオレンジ色に変えます。
+

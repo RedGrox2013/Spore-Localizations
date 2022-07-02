@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7A8 지각력 있는 존재
+0x03EBF7A9 초식동물
+0x03EBF7AA 육식동물
+0x03EBF7AB 잡식동물
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 동맹
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF07F 이용 가능한 우리의 좋은 물건들을 한번 보십시오.
+0x043AF080 우리는 이 근방의 약간의 노란색이 있으면 정말 좋아할 겁니다.
+0x043AF038 이용 가능한 우리의 좋은 물건들을 한번 보십시오.
+0x043AF085 금년 우리의 분홍색 수확물은 많았습니다. 당신은 이 거래를 놓치고 싶지 않을 것입니다!
+0x043AF083 우리의 지도자는 당신이 조금이라도 초록색이 있는지 알고 싶어 합니다…
+0x043AF082 우리는 당신의 화물을 정밀 조사했습니다, 당신의 흥미를 끌만한 무언가를 보았습니까?
+0x043AEF67 보라색 좀 얻었습니까?
+0x043AEF66 우리는 방금 보라색에서 특별한 것을 얻었습니다.
+0x043AF086 분홍색은 우리를 강하게 만들어줍니다. 분홍색은 우리를 행복하게 해줍니다. 부끄러움을 우리는 전혀 가지고 있지 않습니다.
+0x043AF42B 이용 가능한 우리의 좋은 물건들을 한번 보십시오. 나는 우리가 거래에 동의할 것이라고 확신합니다.
+0x043AF081 노란색 스파이스
+0x043AF03A 붉은색 스파이스
+0x043AF039 우와, 우리는 정말로 약간의 붉은색 스파이스를 얻고 싶습니다.
+0x043AF084 초록색 스파이스
+0x043AEF68 보라색 스파이스
+0x043AF42A 우리는 당신이 파란색 스파이스를 조금이라도 가졌는지 알고 싶었습니다.
+0x043AF087 분홍색 스파이스
+0x043AF42C 파란색 스파이스
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF504 소행성대
+0x043AF505 그리고
+0x043AF4FA 여기
+0x043AF4FF 그 원시 행성의 이름은 ~star_name~입니다
+0x043AF500 은하계 중심 핵
+0x043AF501 가스 거성
+0x043AF4FC 그 웜홀의 이름은 ~star_name~입니다
+0x043AF4FD 그 거성의 이름은 ~star_name~입니다
+0x043AF4FE 그 붉은 별의 이름은 ~star_name~입니다
+0x043AF4FB ~star_name~
+
+#random string for spg
+
+0x068B22CD 이 시스템에서는 플레이할 수 없습니다.
+
+#######################################
+# Filters
+
+0x031791B2 제국들
+0x031791B3 임무들
+0x0563D2AA 방문했음
+0x0563D2AB 친구 그리고 적
+0x031791AF 내 제국
+0x031791B4 항로
+
+#######################################
+# Plant types
+
+0x03EBF7AC 작은 식물
+0x03EBF7AD 중간 크기의 식물
+0x03EBF7AE 커다란 식물
+
+#######################################
+# Tech Levels
+
+0x03EAC03E 우주
+0x03EAC03B 부족
+0x03EAC03C 도시
+0x03EAC03D 문명
+0x03EAC03A 야생지
+0x03EAC039 불모지
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x03E81C65 ???????
+0x0539AA97 초식동물 칸
+0x0539AA96 커다란 식물 칸
+0x0539AAE8 잠금 해제를 위하여 식물 채우기
+0x0539AA98 육식동물/잡식동물 칸
+0x0539AA95 중간 크기의 식물 칸
+0x0539AA94 작은 식물 칸
+0x0473CB22 육식성
+0x0473CB26 대기 있음
+0x0473CB2A 대기 없음
+0x0473CB1A 식물
+0x0473CB1F 초식성
+0x0473CB2E 저온
+0x0473CB32 고온
+0x061DFE83 잠금을 풀려면 이전 줄을 채우십시오.
+
+#player titles
+
+0x05AC5B73 궁극적인 존재
+0x05AC5B01 선장
+0x05AC5B2E 제독
+0x05AC5B20 함대 사령관
+0x05AC5B1B 선장
+0x05AC5B5F 명성 있는 자
+0x05AC5B58 유명인
+0x05AC5B68 전설
+0x05AC5B64 영웅
+0x05AC5B6F 전능한 자
+0x05AC5B78 절대자
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF3 탐험하기
+0x05879DF4 무기 제조
+0x05879DF8 외교술
+0x05879DF7 식민지 개척하기
+0x05879DFA 특별한
+0x05879DF9 숭배
+0x05879DF5 자연 형성하기
+0x05879DF6 창조하기
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 이 화물을 완전히 파괴하시겠습니까?
+0x03E81C55 화물 투하
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 왕의 지팡이
+0x04000006 접시
+0x04000000 금빛 우상
+0x04000001 상자
+0x04000005 라마
+0x04000010 배달 보수
+0x04000009 트로피
+0x04000004 성배
+0x04000008 눈덩이
+0x04000003 놈
+0x04000002 왕관
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6B 홀로그램 회수
+0x03E81C6A 거주 가능하게 변환하기
+0x03E81C6C 홀로그램 정찰병
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A 거리: ~travel_distance~(파섹)
+
+0x0657C8D4 저장하려면 행성을 떠나야 합니다.
+0x065B76EF ~p~잠금 해제:
+0x0580E601 당신의 제국
+0x0657CC21 ~badge_points~점의 배지 점수
+0x065672CB 구매 가능합니다. 이 능력을 파는 제국을 찾으십시오.
+
+#######################################
+# Misc Rollovers
+
+0x0654CB0A 무역로 진행상황
+0x0654CB16 ~planet_name~은(는) 항복하지 않았습니다.
+0x0654CB13 ~planet_name~은(는) 항복했습니다.
+0x0654CB0F 점령 진행상황
+0x06749C10 보안용 무인 비행 물체
+0x0678CDDF 해적
+
+#tool given
+
+0x06538847 수집했습니다: ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC683 T2
+0x03EAC684 T3
+0x03EAC681 T0
+
+#######################################
+# Progress bar rollover
+
+0x0435ECEB 임무: ~mission_count~
+0x0435ECE5 식민지: ~colony_count~
+0x0435ECE8 동료: 부족: ~tribe_worshipper_count~, 문명: ~civ_worshipper_count~, 우주: ~ally_count~
+0x0436D447 배지 점수: ~badge_points~
+0x0435ECE0 배지: ~badge_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x06748F94 요청됨
+0x03F5A128 혜성
+0x063C3D96 미점령 광산
+
+#######################################
+# Comm/Trade fail text
+
+0x06790598 거래를 위한 창구 닫힘.
+0x0679ED24 자금이 불충분함.
+0x0679F573 전쟁 중에는 수리할 수 없음.
+0x06790599 거래하려면 관계개선을 하십시오.
+0x0679F574 전쟁 중에는 재충전 할 수 없음.
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9958 ~commodity_tool_req~ 또는 ~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~와 ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~와 ~commodity_tool_and_req~ 또는 ~commodity_tool_or_req~
+0x065B8F3D ~commodity_badge_req~ 그리고 ~commodity_badge_and_req~ 배지
+0x065B8F44 ~commodity_badge_req~ 그리고~commodity_badge_and_req~ 혹은 ~commodity_badge_or_req~ 배지
+0x065B9969 ~commodity_badge_reqs~, 와~commodity_tool_reqs~
+0x065B8F36 ~commodity_badge_req~ 혹은 ~commodity_badge_or_req~ 배지
+0x065BD251 ~commodity_badge_req~ 배지
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (무료)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F 우주선 수정
+0x043DB6B9 식민지 팔기 (~cost~)
+0x043DB6B5 건물 수리 (~cost~)
+0x043DB6B7 우주선 수리 (~cost~)
+0x043DB6B8 건물 사기
+0x04C82968 시민들에게 액세서리를 달기
+0x043DB6B2 포탑 수리 (~cost~)
+0x043DB6B3 파괴
+0x043DB6B4 건물 팔기 (~cost~)
+0x043DB6B1 포탑 팔기 (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x04729A65 탐색하지 않았음
+0x03EAFDD3 ~item_planet_name~(으)로부터
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 관심 없음.
+0x0679EAC6 당신의 화물이 가득 찼습니다.
+
+#######################################
+# Tool Fail Text
+
+0x0653E5A0 고향에서 사용할 수 없습니다.
+0x0653E59E 미개척 행성들에서 사용해야 합니다.
+0x0653E598 다른 배를 위한 자라기 함대에 없습니다.
+0x0653E599 이미 작은 우주선을 가지고 있습니다.
+0x0653E597 동맹 종족의 식민지에서 사용해야 합니다.
+0x0653E59C 제국 행성들에서 사용할 수 없습니다.
+0x0653E59D 야생동물 보호구역에서 사용할 수 없습니다.
+0x0653E59A 시스템은 반드시 통상로를 가지고 있어야 합니다.
+0x0653E59B 시스템의 가장 높은 기술 레벨 행성에 있어야 합니다.
+0x0653E596 제국 행성에서 사용해야 합니다.
+0x0653E594 탄약이 떨어졌습니다.
+0x0653E595 재충전
+0x0653E593 행성에 있어야 합니다.
+0x0671CE05 동물이 행성에 반드시 존재해야 합니다.
+0x066F7A20 당신은 너무 높이 있습니다.
+0x066F7A1D 에너지가 가득 찼습니다.
+0x066F7A1E 도시 위에서 사용할 수 없습니다.
+0x066F7A1F 수면에서 사용할 수 없습니다.
+0x066F7A1C 체력이 가득 찼습니다.
+0x066F7A1A 당신의 식민지 중 하나에 사용되어야 합니다.
+0x0671FB24 당신은 이 행성에서 모놀리스를 사용할 수 없습니다!
+0x066F7A22 현재 개발 점수로는 더 이상의 식민지를 배치할 수 없습니다.
+0x066F7A21 이 은하계는 이미 지각을 지닌 종이 살고 있습니다.
+0x0653E59F 높은 개발 점수가 필요합니다.
+0x066F7A1B 행성당 이것들의 한 가지만 가질 수 있습니다.
+
+# used to name the Galactic Core.
+
+0x0591BD91 은하계의 중심
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF508 1번째
+0x043AF509 2번째
+0x043AF50A 3번째
+0x043AF507 0번째
+0x043AF50E 7번째
+0x043AF50F 8번째
+0x043AF510 9번째
+0x043AF50B 4번째
+0x043AF50C 5번째
+0x043AF50D 6번째
+0x043AF526 진행 중
+0x043AF527 완료
+0x043AF528 실패
+0x043AF529 임무
+0x043AF52B 배지
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF52A 경고
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EED0 식민지 슬롯
+0x0678EECF 잠금을 풀려면 개발 점수를 개선하십시오.
+
+#######################################
+# Roll overs
+
+0x04359B0F 미니맵
+0x04359B05 자연 형성하기
+0x048662B4 성단 지도 필터
+0x045FFE85 옵션
+0x045FFE89 도움말
+0x045FFE8E 일시 정지/정지 해제
+0x061ECCF0 우주선 능력
+0x03E81C5F 무기
+0x03E81C5E 화물
+0x03E81C60 주요 도구
+0x03E81C62 우주선 수정
+0x03E81C5C 거주 가능하게 변환하는 도구
+0x03E81C5B 우주선 선택사항
+0x03E81C5D 통신 열기
+0x03E81C61 Spore피디아 토글
+
+#######################################
+# colony object names
+
+0x4A1E2E7B 행복 증폭기
+0xB4150FEB 스파이스 저장고
+0x44B420E4 충성심 증폭기
+0xF55D419A 생명 보호기
+0x405DC1DF 야생의 성전
+0xE4EC3F34 방어용 인공위성
+0x3AAB4C0E 대사관
+0xB7D22F27 생체 안정제
+
+#######################################
+# Our Solar System
+
+0x03F5A0B9 타이탄
+0x03F5A0B8 토성
+0x03F5A0BA 천왕성
+0x03F5A0B7 가니메데
+0x03F5A0B6 목성
+0x03F5A0B1 수성
+0x03F5A0B0 태양
+0x03F5A0B5 화성
+0x03F5A0B4 달
+0x03F5A0B2 금성
+0x03F5A0B3 지구
+0x03F5A0BE 슈메이커-레비 2 혜성
+0x03F5A0C0 코호테크 혜성
+0x03F5A0BC 핼리 혜성
+0x03F5A0BB 해왕성
+0x03F5A0C2 보렐리 혜성
+0x03F5A0BD 헤일밥 혜성
+

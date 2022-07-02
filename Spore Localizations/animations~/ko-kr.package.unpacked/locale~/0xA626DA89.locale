@@ -1,0 +1,386 @@
+﻿# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000011 해냈군!
+
+# Act 1 name
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000020 임무 보고
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 5
+
+0x10000035 이동해!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000012 지금 궤도에 진입중이라고 방금 구조선에서 신호가 왔다. 곧 도착할 것이다.
+
+# Character name (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt")
+# Comments: Enemy workers on the Mothership.
+
+0x07B3CBF0 브락소이드 기술자
+
+# Act 1 description
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000021 전투 부대가 이 행성에 갇혀 버렸습니다. 하지만, 사령관이 계획이 있다는군요
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 2
+
+0x10000042 너무 늦기 전에 부술 방법을 찾아.
+
+# Act 4 name
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000026 탈출
+
+# Character name (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld")
+# Comments: Friendly soldiers spawn from here.
+
+0x07B27E69 추락한 수송선
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 1
+
+0x10000041 이 우주선으로부터 브락소이드 병사가 내려오는 거군.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 4
+
+0x30000024 원자로에서 떨어져!
+
+# Character name (Character: "brax_soldier", model: "Soldier_@creature_editorModel!0x07b3cbea.crt")
+# Comments: Standard enemy soldier. Relatively weak. Respawns.
+
+0x07B3CBEA 브락소이드 병사
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000015 어서! 모선을 처리해야 해!
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 5
+
+0x30000025 전 병력을 내보내선 안 된다고 생각했는데.
+
+# 'Adventure won' message
+
+0x00000011 축하합니다! 이 지역은 안전합니다. 전장도 곧 정리될 것입니다.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000014 우린 여기서 할 수 있는 만큼 버텨볼게.
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 1
+
+0x30000011 브락소이드 모선의 심장부 말이야.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 2
+
+0x10000022 브락소이드 모선이 있는 한 아무도 구하러 오지 않을 거야.
+
+# Act 4 description
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000027 모선이 폭발하려 합니다! 나갈 방법을 찾으세요.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 1
+
+0x30000021 침입자다! 침입자다!
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 2
+
+0x30000012 저걸 없애. 그리고 모선도 해치워 버리라고.
+
+# Act 2 name
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000022 침투
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 2
+
+0x30000022 도와줘!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000013 기지로 들어가 우주선으로 침투할 방법을 찾아!
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 1
+
+0x10000021 수송선 '글라비오'는 이제 아무것도 수송할 수 없을 거야.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 3
+
+0x30000023 이쪽이다!
+
+# Character name (Character: "brax_jet", model: "Mothership Jet_@vehicle_editorModel!0x07b27e59.vcl")
+# Comments: Alien Boat arriving at the Docks - it carries the Artifact. Called La Gaviota
+
+0x07B27E59 브락소이드 스캐너
+
+# Character name (Character: "brax_sniper", model: "Biggulon Soldier_@creature_editorModel!0x07ba637d.crt")
+# Comments: Stationary enemy that protects the top of the wall.
+
+0x07BA637D 브락소이드 저격수
+
+# Act 3 description
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000025 모선 잠입에 성공했습니다! 원자로를 찾아 터트리면 우주선에서 연쇄 폭발이 일어날 것입니다.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000015 이제 가!
+
+# Character name (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt")
+# Comments: Guards the force field. Weak toady.
+
+0x07B4E801 브락소이드 경비원
+
+# Character name (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt")
+# Comments: Your commander. Looks tougher, does more damage and has more hit points then the common soldiers.
+
+0x07B2BCA6 알파론 사령관
+
+# Adventure name
+
+0x00000002 모선 추락
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000013 어서 이 지긋지긋한 곳을 벗어나자.
+
+# Character name (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld")
+# Comments: Inside the Mothership. Blow this up and get out fast!
+
+0x07C8A001 주 원자로 중심부
+
+# Character name (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt")
+# Comments: The common soldier. Long range pulse rifle, medium health. Respawns from dropship.
+
+0x07B27E57 알파론 병사
+
+# Act 5 description
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000029 모선을 파괴했습니다.
+
+# Character name (Character: "mothership_exit", model: "Crate2_@building_editorModel!0x074e43ff.bld")
+# Comments: A placeholder object that marks where the player exits from the Mothership's teleporter.
+
+0x074E43FF 모선 출구
+
+# Character name (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld")
+# Comments: Used by the Brax Techs
+
+0x0744BD4E 조작 장치
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 3
+
+0x40000023 출구는 어디지?
+
+# Act 2 description
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000023 기지로 침투해서 브락소이드 모선으로 들어갈 방법을 알아내세요.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 2
+
+0x40000022 브락소이드는 모두!
+
+# Character name (Character: "hero", model: "Dave Two_@creature_editorModel!0x07b4e7a0.crt")
+# Comments: The hero, doesn't talk.
+
+0x07B4E7A0 Z-15 병사
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 1
+
+0x40000021 뛰어!
+
+# Character name (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld")
+# Comments: Houses a teleporter used to get onto the Mothership
+
+0x07BA61BC 모선 포탈
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 2
+# Comments: Character comments: Stationary
+
+0x20000022 누구도 날 쓰러뜨릴 수 없어!
+
+# Act 3 name
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000024 테러
+
+# 'Adventure lost' message
+
+0x00000012 포기하지 마세요. 당신 부대원의 운명이 당신에게 달렸으니까요.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 5
+
+0x40000025 우린 끝장이야!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 5
+
+0x30000035 원자로 정상 가동률 99%
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 4
+
+0x40000024 이제 곧 터질 거야!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 4
+
+0x30000034 병력 수송장치가 작동 중입니다.
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 3
+
+0x30000033 브락스노르와 연락이 끊겼습니다.
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 2
+
+0x30000032 전투 상황 코드: 블루
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 1
+
+0x30000031 모든 시스템이 작동 중입니다.
+
+# Adventure description
+
+0x00000003 치열한 전장 위를 날아다니는 적의 모선을 격추하십시오.
+
+# Character name (Character: "brax_walker", model: "Mothership Walker_@vehicle_editorModel!0x07b687fa.vcl")
+# Comments: Epic-sized Crane machine. Like a transformer. They all carry a crate.
+
+0x07B687FA 데스스토커
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000011 브락소이드 모선이 떠 있는 한 우린 아무 데도 안가.
+
+# Character name (Character: "brax_turret", model: "Mothership Drone_@vehicle_editorModel!0x07ba61ba.vcl")
+# Comments: Very small air vehicle. Floating orb that shoots lasers (like the one on the Millenium Falcon that Luke uses for lightsaber practice)
+
+0x07BA61BA 블래스터
+
+# Character name (Character: "main_gate", model: "SC_ResearchGate_door_@building_editorModel!0x078feae8.bld")
+# Comments: Destructible part of the front wall
+
+0x078FEAE8 중앙 출입구
+
+# Character name (Character: "alph_tank", model: "Mothership Tank 2_@vehicle_editorModel!0x07b27e56.vcl")
+# Comments: Tough and slow. High damage.
+
+0x07B27E56 알파론 탱크
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 1
+
+0x40000031 경고!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000014 저쪽 끝의 기지로 가서 모선에 들어갈 방법이 없는지 알아봐.
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 4
+# Comments: Character comments: Stationary
+
+0x20000024 내가 살아 있는 한 모선은 안전하다.
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 2
+
+0x40000032 원자로 경보!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 3
+
+0x40000033 외벽 파손 임박!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 4
+
+0x40000034 탈출하라!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 5
+
+0x40000035 위험! 위험!
+
+# Character name (Character: "comm_tower", model: "Mothership City Hall_@building_editorModel!0x07b27e5c.bld")
+# Comments: A mobile communications device with a large antenna
+
+0x07B27E5C 통신탑
+
+# Act 5 name
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000028 승리!
+
+# 'Adventure start' message
+
+0x00000010 수송선이 추락하는 바람에 당신 부대원이 적에게 둘러쌓였습니다. 나가는 길은 오직 하나뿐이군요.
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 1
+# Comments: Character comments: Stationary
+
+0x20000021 절대 주인님의 카드키는 못 가져간다!
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 3
+# Comments: Character comments: Stationary
+
+0x20000023 난 포탈을 지켜야 해!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 1
+
+0x10000031 저 망할 브락소이드 놈들을 없애!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000011 우린 갇혔다! 수송선도 고철이 됐고 브락소이드 녀석들이 우릴 공격할 것이다.
+
+# Character name (Character: "brax_leader", model: "Biggulon_@creature_editorModel!0x07b3cb5d.crt")
+# Comments: Enemy boss. Big, strong, melee fighter.
+
+0x07B3CB5D 브락스노르
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 2
+
+0x10000032 사방에 있어!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000012 오래 버티진 못해. 저 망할 브락소이드 모선에서 지원군이 끊이지 않고 있다.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+# I've radioed for help, but no one is going to rescue us if that Braxoid Mothership stays overhead.
+
+0x10000013 구조 요청을 했지만 저 모선이 있는 한 여기로 올 수 없다.
+
+# Character talk dialog (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld"): Act 2, Variation 1
+
+0x20000031 모선으로 가는 길은 오직 여기뿐이지.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000012 게다가 목숨을 걸어서까지 우릴 구하러 오는 사람도 없을 거야.
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 3
+
+0x10000033 여기 좀 도와줘!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 4
+
+0x10000034 가! 계속 가라고!
+

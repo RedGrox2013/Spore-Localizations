@@ -1,0 +1,252 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000000A Rozluštili jsme prastarý svitek, který nám říká, že předmět ~mission_item~ obsahuje informace o původu Hrubešů. Myslíme si, že víte, kde se předmět nachází. Můžete nám jej donést?
+0x00000005 Rasa ~race~ požaduje předmět jménem ~mission_item~. Doručte při nejbližší příležitosti. Konec.
+0x00000004 Věru! Hledáte zaměstnání? Toto jest vpravdě příznivá okolnost.~p~~group:plain_fictions~~p~Přijmete tento úkol, tuto věhlasnou cestu ke hvězdám?
+0x00000001 Jste jak oslniví, tak šlechetní. ~group:plain_fictions~ Získejte pro nás ten předmět a vaše jméno zůstane v písních na věky. My jsme toho nehodní.
+0x00000008 Je jedna hora, ale mnoho cest na ní. Prastaří věštci nás ujišťují o tom, že jednu z těchto cest vytváří kontemplace nad předmětem ~mission_item~, který se nachází na nedaleké planetě. ~p~Kéž by vaše cesta vedla na neznámé místo, kde se nachází ~mission_item~ a vy byste nám tento vzácný předmět dokázali přinést.
+0x00000002 ~group:plain_fictions~ Udělali bychom to sami, kdyby nás zrovna nezlobil ischias. Navíc nám mezihvězdné cestování vysušuje dutiny. Navíc rasa ~race~ trpí kuřími oky a platfusem.
+0x00000003 Ha! Našimi podrážkami byly rozdrceny pokročilejší rasy, než vy. Dokažte rase ~race~, že za něco stojíte.~p~~group:angry_fictions~~p~Doneste nám to a my vám dovolíme dál žít.
+0x0000008C Hoďte sebou! Jakmile na planetu dorazíte, budete mít jen na získání předmětu, jménem ~mission_item~ jen ~mission_time~ sektonů.
+0x0000002B Špehové a nepřátelé rasy ~race~ se nás snaží zničit. Získali důležitou historickou památku z jedné naší menší kolonie a uvrhli ji do chaosu. Získejte zpět ~mission_item~, aby mohl být obnoven mír.
+0x00000030 Rasa ~race~ sice již zná všechny možné fantastické technologie, ale my jsme se během nedávného průzkumu naší hvězdné soustavy dověděli o zajímavém artefaktu, zvaném ~mission_item~.
+0x0000008A Soustřeďme se na budoucnost…
+0x000000AC Umm… Mám ještě dotaz…
+0x00000081 No nic. Končím!
+0x000000AA Podrobnosti mise mi nějak unikly.
+0x0000008B Skvělé! Velká rada předem děkuje za vaši námahu.~p~Jakmile planetu naleznete, budete mít pouze ~mission_time~ sektonů na získání artefaktu, zvaného ~mission_item~.~p~Hodně štěstí a dobrý průzkum.
+0x000000A5 Vidím, že máte práci. Promluvíme si později.
+0x00000090 Děkujeme! Jakmile planetu objevíte, budete mít jen ~mission_time~ sektonů na to, abyste našli ~mission_item~.~p~Může to být naprosto zásadní pro náš cíl - vysazení organického života do pustin galaxie.
+0x0000009C Měl bych jít. Sbohem!
+0x00000096 Musím pokračovat. Sbohem.
+0x00000091 Jakmile planetu naleznete, zbývá vám ~mission_time~ sektonů na nalezení artefaktu, zvaného ~mission_item~.~p~Děkujeme vám a budeme se modlit za úspěch vaší osudové mise.
+0x00000084 Vzhůru a daleko. Tentokrát doopravdy!
+0x000000D0 Než odejdu, mám ještě nějaké otázky…
+0x000000DE jméno hvězdy je ~mission_target_star~
+0x00000025 Nemůžeme. Jsme zaneprázdněni.
+0x000000DD hvězda se nachází ~mission_clue_range_min~ až ~mission_clue_range_max~ parseků od ~mission_clue_landmark1~.
+0x000000A4 Možná někdy jindy. Zatím.
+0x000000A2 To jsou tedy špatné zprávy, velmi špatné zprávy.~p~Nedokázali jste artefakt ~mission_item~ získat včas.
+0x000000A8 Ale samozřejmě! Záznam misí! Podívám se tam.
+0x000000A9 To je špatné. Bylo by se nám líbilo pozorovat vás, jak se náhodně proháníte mezi hvězdami.
+0x00000098 Rádi bychom se zeptali na něco jiného…
+0x00000082 Prosím, abych byl tohoto úkolu zproštěn.
+0x000000D2 Vraťte se na planetu ~mission_source_planet~.
+0x000000AB Pokračujte…
+0x00000083 Mizíme!
+0x0000008F Děkujeme! Jakmile planetu objevíte, bude vám zbývat pouhých ~mission_time~ sektonů na to, abyste získali artefakt ~mission_item~.~p~Budeme se těšit na naše další duchovní pokroky.
+0x0000009B Ještě jednu věc…
+0x000000A3 Velice neradi jsme vás rušili. Zatím.
+0x0000001C ~mission_item~ je ve skutečnosti zamaskovanou záznamovou sondou, jejímž úkolem je pozorování aktivity Hrubešů. Potřebujeme ji však zpět kvůli shromažďování dat. Dopravíte nám ji?
+0x0000009F Brzy se vrátím. Zatím.
+0x000000AD Musíte jít svou vlastní cestou.~p~Nashledanou, přátelé.
+0x00000086 Nenecháme vás v tom. Zatím!
+0x000000CF Opakujte požadavek. Naše záznamy jsou nejasné.
+0x0000009A Ještě…
+0x00000092 Velice neradi jsme vás rušili. Zatím.
+0x00000099 Než odejdu, mám ještě nějaké otázky…
+0x00000024 Ehm. Omlouvám se. Mám takovou věc.
+0x00000088 Jdu na to. Čekejte!
+0x00000087 Provedu! Končím!
+0x0000009E Díky za skvělou příležitost. Zatím.
+0x000000A6 Vidím, že ještě potřebujete chvilku. Nashledanou.
+0x0000001A Předmět jménem ~mission_item~ přichází zase do módy. Nedávno jsme míjeli planetu, na které jeden zrovna byl. Můžete nám ho donést?
+0x000000AF Je to vše?
+0x000000CE Rádi bychom si znovu prošli podrobnosti o misi.
+0x000000A0 Úkol je po ruce. Sbohem.
+0x000000CD Potřebujeme si znovu projít podmínky mise.
+0x00000085 Já se vrátím!
+0x00000050 *Polk*!!! ~mission_item~ - vy ho máte! Nepochopitelné! Přestože náš lid trpí hemofilií a hypoglykemií, prodávali jsme vlastní krev a další tělní tekutiny, abychom vám  mohli zaplatit ~mission_rewards~ Sporáčů, které vám dlužíme.
+0x0000004F Náš převzácný předmět, jménem ~mission_item~ byl z bezpečnostních důvodů uschován....jenže si nevzpomínáme, kam jsme ho dali.~p~Teď, když se blíží velký Festival štěstí, ~mission_item~ prostě musí být vystaven! Je to tradice!!~p~
+0x0000006E Co se týká zvýšení naší spirituální dokonalosti, začínáme být poněkud netrpěliví. Kdy můžeme očekávat ~mission_item~ z planety ~mission_target_planet~? Vše potřebné snad máte v Záznamu misí.
+0x0000006F Nalezli jste planetu ~mission_target_planet~? Kde je ~mission_item~? Veškeré informace by měly být v Záznamu misí.
+0x000000EF Ještě jednu věc…
+0x00000071 Nalezli jste planetu ~mission_target_planet~? Veškerá podstatná data by měla být ve vašem Záznamu misí.
+0x000000F1 Rádi bychom dělali něco jiného…
+0x00000070 Kde je ~mission_item~?  Vše, co víme o planetě ~mission_target_planet~, by mělo být ve vašem Záznamu misí.
+0x000000F3 Musím tento úkol odmítnout.
+0x000000BF Musíš kráčet po své vlastní cestě.~p~Buď zdráv, příteli.
+0x00000020 Kde bychom měli hledat?
+0x000000C9 Ještě…
+0x000000F2 Odmítáte příkaz Hrubešů? Budeme si to pamatovat.
+0x00000022 Jak se tam dostanu?
+0x0000004A Vlastně jsme si zrovna uvědomili, kolik toho ještě musíme stihnout.
+0x00000076 Chápu. Ještě jednu věc…
+0x000000CA Ještě jednu věc…
+0x00000021 Řekněte mi, kam jít.
+0x000000C6 Vzdor u druhu, jakým jste vy, nevede k respektu, ale ke zkáze.
+0x0000004D Žádám o prominutí, ale nemohu udělat to, co po mně chcete.
+0x000000B3 Ještě si promluvíme. Sbohem.
+0x000000ED Kde je ~mission_item~? Zmizely snad z vašeho Záznamu misí všechny informace?
+0x000000B2 Možná někdy jindy. Zatím.
+0x0000004C Lituji, ale musím odmítnout.
+0x000000EB Gratulujeme k úspěšnému nálezu! Užijte si svých ~mission_rewards~ Sporáčů!
+0x000000F4 Ten úkol nestihnu. Mám toho moc.
+0x00000036 Náš převzácný předmět, jménem ~mission_item~ byl z bezpečnostních důvodů uschován....jenže si nevzpomínáme, kam jsme ho dali.~p~Teď, když se blíží velký Festival štěstí, ~mission_item~ prostě musí být vystaven! Je to tradice!!~p~
+0x00000059 Našli jste planetu ~mission_target_planet~!  Naše radost nezná hranic!  Přijměte, prosím, těchto ~mission_rewards~ Sporáčů a navštivte naše tržiště!
+0x0000005A Vy lidi jste fakt užiteční! Prdněte tu věc, co se jmenuje ~mission_item~ sem dolů, pod pergolu a odvezte si těch ~mission_rewards~ Sporáčů.
+0x000000B8 Dvakrát si rozmyslete, zda chcete plýtvat naším časem.
+0x0000005F Ještě…
+0x000000C7 Rádi bychom se zeptali na něco jiného…
+0x000000BA Vzdor u druhu, jakým jste vy, nevede k respektu, ale ke zkáze.
+0x0000005D Jsme rádi, že jsme byli nápomocni. Ještě než odejdu…
+0x0000005E Žádný problém. Než ale vyrazím…
+0x0000001F Jak mám hledat?
+0x0000005B To byla vynikající práce. Převezměte, prosím, svých ~mission_rewards~ Sporáčů.
+0x00000061 Díky. Ještě jednu věc…
+0x000000B9 Druh ~race~ má pochyby o vaší rozhodnosti. Je jasné, že vám chybí síla, která by řídila vaše rozhodnutí. Jak neblahé.
+0x00000060 Ještě jedna věc…
+0x0000005C Není vůbec zač. Něž ale odejdeme…
+0x0000003D Ale samozřejmě! Záznam misí! Podívám se tam.
+0x000000F7 Na viděnou.
+0x00000066 Ano, nastaly určité komplikace…
+0x00000067 Není to má nejlepší práce…
+0x00000069 Omlouváme se za nepřijatelně ubohý popis, který jsme vám museli poskytnout, když jsme vás žádali o nalezení artefaktu, zvaného ~mission_item~. Někdo si to odskáče. Bohužel máme jen zlomek informace, kterou potřebujeme: ~group:star_clue~.
+0x000000C8 Než odejdu, mám ještě nějaké otázky…
+0x00000062 Měl bych jít. Sbohem!
+0x00000063 Promiňte, můžeme si teď promluvit o něčem jiném….
+0x00000011 ~mission_item~ je pozůstatkem dávnější civilizace, která snad byla zničena Hrubeši. Institut tento předmět intenzivně studoval, než jej ukradli piráti. Myslíme si, že byl zapomenut na odlehlé planetě…nechtěli byste nám ho přinést?
+0x000000F8 Vidím, že máte práci. Promluvíme si později.
+0x00000110 Kapitáne, nenalezli jste ~mission_item~ včas! A to jsme se na váš návrat tak těšili!
+0x00000065 Nashledanou, ještě se uvidíme.
+0x00000077 Rozumím. Než však odejdu…
+0x00000019 Náš převzácný předmět, jménem ~mission_item~ byl z bezpečnostních důvodů uschován....jenže si nevzpomínáme, kam jsme ho dali.~p~Teď, když se blíží velký Festival života, ~mission_item~ prostě musí být vystaven! Je to tradice!!~p~
+0x0000007C Ještě než půjdu…
+0x00000079 Ještě jednu věc…
+0x00000047 Udělám to. Jen už, prosím, přestaňte mluvit.
+0x00000023 Teď mě to nezajímá. Možná později.
+0x000000E3 Mise selhala. Vraťte se na planetu ~mission_source_planet~.
+0x000000C5 Druh ~race~ má pochyby o vaší rozhodnosti. Je jasné, že vám chybí síla, která by řídila vaše rozhodnutí. Jak neblahé.
+0x00000046 OK. Udělám to. Chce někdo obejmout?
+0x0000007D Ještě jednu věc…
+0x00000043 Náš lid nezklamu!
+0x00000078 Ještě než půjdu…
+0x0000007F Dost! Končím.
+0x0000007A Chápu. Ještě jednu věc…
+0x00000080 Prosím, abych byl tohoto úkolu zproštěn.
+0x00000044 Ano. Veš úlisnost - chci říci uhlazenost mne přemohla.
+0x00000048 Tak ale už. Přestaňte s tím tý-dý-píp!
+0x000000E2 Ještě…
+0x000000B0 Ještě…
+0x00000045 Uděláme to. Vy si odpočiňte.
+0x000000CB Prosím o pochopení
+0x000000B1 Velice neradi jsme vás rušili. Zatím.
+0x000000C4 Raději se dvakrát rozmyslete, než začnete plýtvat naším časem.
+0x0000007E Musím tento úkol odmítnout.
+0x0000007B Rozumím. Než však odejdu…
+0x000000DC hvězda je přibližně ~mission_clue_distance~ parseků od ~mission_clue_landmark1~.
+0x000000EC ~player_creature_name~. Úspěšně jste podřídili potřeby svého druhu potřebám Hrubešů. Dobrá taktika pro přežití. Zde je slíbených  ~mission_rewards~ Sporáčů.
+0x000000E6 Vzácný předmět ~mission_item~ se nachází někde poblíž. Najděte jej a přineste nám jej.
+0x000000BD Nedokázali jste nalézt ~mission_item~ včas. Karma se zřejmě mění, stejně jako den a noc.
+0x000000A1 To dokonale chápeme, posádko.~p~Omlouváme se, že jsme vás těmito problémy zatěžovali.~p~
+0x00000054 ~player_title~ z druhu  ~player_creature_name~. Našli jste planetu ~mission_target_planet~! Skvělá práce! Brzy budeme světlu tak blízko, že budeme potřebovat sluneční brýle!
+0x00000055 Donesli jste informace, které napomohou silám života! Takovou štědrost ducha je třeba ohodnotit sumou ~mission_rewards~ Sporáčů.
+0x000000BB Dokonale to chápeme.~p~Omlouváme se, že jsme vás obtěžovali s takovou záležitostí.~p~
+0x0000010F Druh ~player_creature_name~ se nezvládl vrátit s předmětem zvaným ~mission_item~ včas! Tuto chybu si podržíme v paměti.
+0x00000074 Řekněte, neměli jste náhodou přinést  ~mission_item~ z planety ~mission_target_planet~? Pokud máte stejně špatnou paměť jako my, prohlédněte si Záznam misí.
+0x000000C2 Samozřejmě, samozřejmě. Tušil jsem, že neuspěji s tím, že takovouto titěrnost přednesu někomu tak slavnému, jako jste vy. Třeba mne utěšíte tím, že nakoupíte v mém butiku?
+0x00000016 Doslechli jsme se, že vzácný předmět ~mission_item~ je nedaleko! Pokud bychom tento předmět získali, dokázali bychom díky němu vytvořit obdivuhodné zisky.~p~Možná by vaše slovutné já bylo ochotno nám v této věci pomoci? Za štědrou odměnu, samozřejmě. Co vy na to?
+0x0000006B Bhe! Co chceš? Mise je najít ~mission_item~! Už jsme ti řekli všecko, co víme - ~group:star_clue~. Teď padej. A…neztrať se.
+0x0000000F Běda Spodovým následovníkům! Náš posvátný předmět, ~mission_item~, požehnaný Spodovými vlastními údy, byl ukraden cizí civilizací! Pomůžete nám?
+0x00000042 OK, vyrážím.
+0x0000002E Síť našich přijímačů shromažďuje data rozpadající se cizí lodi kdesi poblíž. Chtěli bychom, abyste pro nás našli cenné vzácné předměty!
+0x000000AE Hmmm…ok…Ne, nevadí to.~p~Pokud se na to necítíte…nechceme, abyste ovlivňovali jinou formu života.~p~
+0x000000B6 Samozřejmě, samozřejmě. Tušil jsem, že neuspěji s tím, že takovouto titěrnost přednesu někomu tak slavnému, jako jste vy. Třeba mne utěšíte tím, že nakoupíte v mém butiku?
+0x0000006C Naši zachránci se vrací z cesty za nalezením ~mission_item~! Chcete si vše ještě jednou ověřit, že? Pečlivost je vlastností dobře udržované mysli, není-liž pravda. Legendy nejsou víc než šepot stínu, avšak víme, že ~group:star_clue~.
+0x00000006 Máme horký tip. Věc zvaná ~mission_item~ byla viděna patrně opuštěná a tedy k dispozici tomu, kdo ji zabere. Nemyslíš, že by byla rozkošným exponátem do Národního muzea rasy ~race~?
+0x0000002C Ajaj! Zavázali jsme se a naslibovali jsme toho našim klientům příliš! Nechtěli byste si trošku vydělat na smlouvu? Získat pro nás předmět zvaný ~mission_item~ a šíleně na tom zbohatnout (po odečtení daní, tributů, příspěvků na církev, úplatků a poplatků za zprostředkování)?
+0x00000039 To je deprese…nedokázali jste vzácný předmět zvaný ~mission_item~ najít včas. Určitě jste udělal vše proto, abyste překonali svá omezení…pojďme to teď spolu chvilku probrat.
+0x00000007 Guru Flohrb byl v duševním kontaktu s předmětem ~mission_item~ z planety ~mission_target_planet~ a ujistil nás, že kdybychom jej měli, mohli bychom postoupit ze čtyřicátého třetího duchovního okruhu na čtyřicátý čtvrtý.  Chtěli byste nám předmět ~mission_item~ donést?
+0x0000008D Zapálíme za vás svíce!~p~Jakmile na planetu dorazíte, budete mít pouze ~mission_time~ sektonů na získání předmětu zvaného ~mission_item~.~p~Nenechte svůj plamen vyhasnout!
+0x0000006D Zdravím ~player_title~ z druhu ~player_creature_name~.~p~Galaktická rada nebude potěšena. Nedokázali jste najít ~mission_item~ včas.~p~Sbohem.
+0x00000028 Předmět zvaný ~mission_item~, je naprosto zásadní pro naše mírumilovné soužití s našimi meziplanetárními kolegy. Potřebujeme zajistit jeho bezpečnou dopravu zpět domů.
+0x0000000B Objevili jsme záznamy o ztracené civilizaci, která se kdysi věnovala jakémusi "Projektu Genesis", jehož prostřednictvím mohly být nehostinné světy přeměněny na dokonalé, stabilní ekosystémy, které překypovaly životem! Záznamy o tomto projektu jsou uloženy v předmětu zvaném ~mission_item~. Pomůžete nám vnést život a světlo na nehostinné světy galaxie?
+0x0000009D Panenko skákavá! Vy jste nenašli předmět zvaný ~mission_item~ včas!~p~Nevíme, jestli se máme smát, nebo brečet. Možná obojí.~p~Ach, to bolí!
+0x00000029 Artefakt známý jako ~mission_item~ byl nalezen. Má nesmírnou archeologickou hodnotu a mým lidem přinese veliké bohatství. Najděte jej pro nás, prosím.
+0x00000010 Dohoda o založení federace byla napsána na předmět zvaný ~mission_item~ a umístěna na vzdálené planetě, kde měla zůstat navěky. Velká rada chce nyní tento vzácný předmět zpět, jako viditelnou upomínku naší civilizace. Mohli byste nám jej přinést?
+0x0000002F Náš předmět zvaný ~mission_item~, se ztratil již před celými věky. Od zvědů ale víme, že se nejspíše nachází na jiné planetě.
+0x0000004E Ke svému lidu se vracíte jako vítězové! Artefakt zvaný ~mission_item~ upevňuje postavení rasy ~race~ jako galaktické mocnosti! Za svou námahu prosím přijměte ~mission_rewards~ Sporáčů.
+0x00000009 Podle našich legend je tajemný, nedaleký svět metafyzickým dvojčetem našeho světa zde, na planetě ~mission_source_planet~. Jediným rozdílem je to, že my postrádáme mystický předmět zvaný ~mission_item~.  Dokážete pro nás jeden získat?
+0x000000BC Neúspěch neznamená ztrátu cti, pokud bylo úsilí opravdové. Zdá se, že jste nedokázali najít vzácný předmět zvaný ~mission_item~ včas.
+0x0000003B Je známo, že vzácný předmět zvaný ~mission_item~, se nachází na planetě ~mission_target_planet~.  ~mission_target_planet~ se zřejmě nachází na ~group:star_clue~. Jakmile svět objevíte, najděte vzácný předmět a vraťte se sem.
+0x00000068 Potřebujeme prchavý artefakt zvaný ~mission_item~. O jeho umístění máme jen nejasné zprávy, ale domníváme se, že ~group:star_clue~.
+0x00000012 Pradávný svitek pojednává o předmětu zvaném ~mission_item~, ukrytém na vzdáleném světě. Tento předmět by nám osvětlil mnohé o ztracené civilizaci, jen kdybychom jej dokázali najít. Pomůžete nám v hledání?
+0x000000EE Vidíme, že se stále nevracíte s předmětem zvaným ~mission_item~, a to přes to, že v Záznamu vašich misí jsou všechny potřebné informace. Nyní dokončíte přidělený úkol.
+0x000000D8 Získali jste cenný artefakt jménem ~mission_item~.
+0x000000D9 Po mnoho let se snažíme dokončit sbírku starožitností. Avšak běda, polička určená pro artefakt zvaný ~mission_item~, je stále prázdná.
+0x00000033 Po celé věky moji lidé sní o tom, že bude artefakt zvaný ~mission_item~ jen náš. Víme, že je poblíž a hledáme třetí stranu, která by jej pro nás získala.
+0x0000000D Vyznavači falešného "Boha, který přijde", patrně uctívají předmět zvaný ~mission_item~, který je ukryt na vzdáleném světě. Myslíme si, že jsme objevili umístění jeho úkrytu. Mohli byste pro nás prohledat planety poblíž a přinést nám jej?
+0x000000DA Přišli jsme o důležitý kulturní symbol. Naši lidé oplakávají ztrátu předmětu zvaného ~mission_item~.
+0x000000F0 Nemeškejte. Jakmile planetu naleznete, budete mít pouze ~mission_time~ sektonů na to, abyste předmět zvaný ~mission_item~, nalezli. Odejděte.
+0x00000017 Záznam ze zajaté pirátské lodi nám říká, že na nedaleké planetě ukryli vzácný předmět zvaný ~mission_item~. Ten předmět nám byl ukraden!~p~Víme, že vaše jasnosti se spravedlností často zabývají…možná byste nám mohli pomoci, samozřejmě za odměnu.
+0x000000F5 Nezvládli jste donést artefakt zvaný ~mission_item~ včas. Vraťte se s těmito špatnými zprávami do soustavy  ~mission_source_star~.
+0x0000000E Sebraná Spodova díla jsou všechna zaznamenána na předmětu zvaném ~mission_item~, avšak ten byl uloupen piráty! Myslíme si, že víme, kam piráti předmět ukryli. Pomůžete Spodovým lidem?
+0x000000D6 Získali jste cenný artefakt jménem ~mission_item~. Vraťte se na planetu ~mission_source_planet~ v soustavě ~mission_source_star~.
+0x00000075 Nevrátili jste se s předmětem zvaným ~mission_item~. Byly snad informace v Záznamu misí chybné? Nebo se naskytl nějaký problém?
+0x00000018 Jeden náš příbuzný byl pronásledován piráty a odhodil náklad na nedaleké planetě.~p~Mohli by se mocní cestovatelé, jakými bezesporu jste, obtěžovat na tuto planetu a přinést nám předmět zvaný ~mission_item~? Samozřejmě nabízíme odměnu.
+0x0000002D Úžasné novinky! Objevili jsme polohu předmětu zvaného ~mission_item~! Musíme ho mít. Naše sbírka starožitností je bez něj strašlivě neúplná.
+0x0000000C Předmět zvaný ~mission_item~ obsahuje veškeré genetické informace o všech druzích na našem domovském světě. Tento nenahraditelný záznam byl ukraden piráty. Pomůžete nám jej nalézt?
+0x000000D1 Najděte ceněný artefakt zvaný ~mission_item~.
+0x0000001D Prastarý zdroj informací říká, že jistá zaniklá rasa vyryla své znalosti o Hrubeších na předmět zvaný ~mission_item~, který je ukryt na odlehlé planetě. Myslíte, že byste jej pro nás mohli nalézt?
+0x00000032 Artefakt zvaný ~mission_item~ zmizel! Ta bezcenná věc je podstatou naší civilizace. Bez něj budeme ztraceni!
+0x00000053 Nechť je vám Spod milostiv za to, že jste nedokázali včasně získat artefakt zvaný ~mission_item~.
+0x000000E5 Potulný kupec nám řekl, že viděl válečnou loď Hrubešů odhodit na jistém světě předmět zvaný ~mission_item~. Pokud jej nalezneme, mohli bychom se dozvědět o Hrubeších víc. Pomůžete nám při tom?
+0x000000F6 Nezvládli jste donést vzácný předmět zvaný ~mission_item~, včas. Vraťte se s těmito špatnými zprávami na planetu ~mission_source_planet~ v soustavě  ~mission_source_star~.
+0x000000E7 Okamžitě vyrazíte hledat předmět zvaný ~mission_item~.
+0x0000001E Dávné texty naznačují, že v předmětu zvaném ~mission_item~, je zakódována mapa galaxie. Předmět byl ztracen na jiné planetě. Dokážete jej získat?
+0x00000073 Očekáváme artefakt zvaný ~mission_item~. Neradi osvěžujeme paměť někomu tak skvělému, jako jste vy, ale už tu čeká dražitel a všechno je připraveno! Detaily máte v Záznamu misí.
+0x00000052 Ó slovutní a neohrožení průzkumníci - donesli jste nám ~mission_item~! Všichni obyvatelé planety ~planet_name~ se odebrali do svých salónků, kde pilně komponují sonety a eposy o vašem hrdinství a útrapách! Naše platba ve výši ~mission_rewards~ je jen nedostatečným příspěvkem. Možná byste se chtěli zastavit příští měsíc na noc talentů?
+0x000000D4 Získali jste cenný artefakt jménem ~mission_item~. Vraťte se do systému ~mission_source_star~. Čeká vás sláva a věhlas.
+0x00000051 Mohlo to bejt rychlejší! Ztratili 'ste se v cizim vesmíru nebo co? Máte tu věc, co je jí řiká ~mission_item~? Hej, je trošku ošoupaná! Neloupe se jí barva? A co tenhle flek? No, *úplně* zničená není - tady máte ~mission_rewards~ Sporáčů.
+0x000000E4 Nalezli jsme prastarý text, který tvrdí, že předmět zvaný ~mission_item~ se nachází na jednom odlehlém světě. Pomůžete nám ho najít?
+0x00000027 Předmět zvaný ~mission_item~, byl nalezen. Bohužel padl do rukou buranů z vidlákova. Pro naši společnost však má nezanedbatelný význam. Seberte ji těm vysmátým křupanům.
+0x00000072 Nedokázali jste najít planetu ~mission_target_planet~ a vzácný předmět zvaný ~mission_item~?  Nebo jste je našli a nepodívali se do Záznamu mísí na to, co se vzácným předmětem?
+0x000000E8 Známe přibližné místo, kde se nachází vzácný předmět zvaný ~mission_item~. Vyrazíte jej hledat naším jménem.
+0x000000C3 Ne? Opravdu ne? Osoba, která nám doručí požadovaný předmět zvaný ~mission_item~, bude vysoce postaveným čestným hostem našeho dalšího měsíčního ritualizovaného festivalu! To vás určitě přesvědčí!
+0x000000B7 Ne? Opravdu ne? Osoba, která nám doručí požadovaný předmět zvaný ~mission_item~ bude vysoce postaveným čestným hostem našeho dalšího měsíčního ritualizovaného festivalu! To vás určitě přesvědčí!
+0x000000A7 ~player_title~ ~player_creature_name~, rozumím vám. Oceňujeme vaše dobré způsoby.~p~Vlastně nám to ušetří trochu papírování. Schvalovací proces dílčí smlouvy pro meziplanetární převod příšerky vyžaduje pouhých tři sta šedesát dva formulářů, orazítkovaných a trojmo vyplněných.~p~Samozřejmě postupy, které určuje Standardní provozní řád to ještě nesplňuje... Měli byste vidět tu hromadu formulářů pro transport fermentovaných druhů.
+0x0000004B Ne, pane. Nechci.
+0x00000041 Informace jsou klíčem k vítězství. Přestože jsou šance objevení čehokoli nového nízké, měli bychom se vždy snažit zlepšit naše povědomí o taktické situaci.~p~Předmět se nachází na planetě ~mission_target_planet~.  Bohužel její poloha je neznámá, avšak ví se, že je v blízkosti ~group:star_clue~.  Až planetu ~mission_target_planet~ objevíte, vezměte na palubu předmět zvaný ~mission_item~ a vraťte se na planetu ~mission_source_planet~.
+0x000000EA Věříme, že vzácný předmět je na planetě ~mission_target_planet~.  Planeta samotná má být poblíž ~group:star_clue~.  Až planetu  ~mission_target_planet~ naleznete, vezměte vzácný předmět na palubu a vraťte se na planetu ~mission_source_planet~ .
+0x000000E9 Věříme, že vzácný předmět se nachází na planetě ~mission_target_planet~. Planeta samotná je nejspíše poblíž ~group:star_clue~. Až svět naleznete, vyzdvihněte vzácný předmět na palubu a vraťte se sem.
+0x00000026 Předmět zvaný ~mission_item~ upadl v průběhu lítého boje do rukou proklínaných nepřátel. Naše čest utrpí, pokud nebude navrácen. Musíte nám pomoct!
+0x00000058 ~player_title~ ~player_creature_name~. Váš druh se zdá být organizovanějším, než jsme si mysleli! Prosím, přijměte těchto ~mission_rewards~ Sporáčů.
+0x00000013 ~player_title~ ~player_creature_name~. Válečná loď Hrubešů byla spařena, jak v nedalekém hvězdném systému odhazuje předmět zvaný ~mission_item~. Předmět by mohl obsahovat hodnotné informace, které se týkají této tajemné rasy. Pomůžete nám je nalézt?
+0x0000002A Předmět zvaný ~mission_item~ upadl v průběhu lítého boje do rukou proklínaných nepřátel. Naše čest utrpí, pokud nebude navrácen. Musíte nám pomoct!
+0x00000015 ~player_title~ ~player_creature_name~. Ceněný předmět zvaný ~mission_item~, jsme zamýšleli věnovat jako dar jinému druhu. Chtěli jsme tak usnadnit výměnu vědeckých myšlenek a objevů, předmět byl však ukraden při nájezdu pirátů. Můžete nám pomoci získat jej zpět?
+0x00000014 ~player_title~ ~player_creature_name~. Podle nedávno doneseného vzácného předmětu za sebou zanechala zaniklá rasa předmět zvaný ~mission_item~, který obsahuje informace o tom, jaký byl pohled této rasy na smysl existence a vlastní budoucnost. Pomůžete nám tento předmět najít?
+0x0000006A Najděte pro nás prosím artefakt zvaný ~mission_item~. Aby pro nás zajistili informace, museli naši agenti přestát supervírky a atomové klínky. Víme však pouze ~group:star_clue~.
+0x0000001B Johoho. Tra dá! Když jsme se probrali po včerejší pitce, pamatovali jsme si, že jsme tak nějak vzali tu věc s názvem ~mission_item~ a odletěli s ní na jinou planetu, abychom si zahráli "~mission_item~ - kdo ji najde"…jenže ji nikdo nenašel.~p~Byli bychom vám vážně vděční, kdybyste nám ji našli a vrátili!
+0x00000049 Ne, díky. Možná někdy jindy.
+0x0000008E ~player_title~ ~player_creature_name~, copak jste nedokázali nalézt ~mission_item~ včas?~p~Copak jste propadli z astronavigace? Váš neúspěch strašlivě zdrží naše výzkumy.
+0x00000057 ~player_title~ ~player_creature_name~. Velká rada ti děkuje za námahu. Jsme potěšeni, že můžeme nabídnout těchto ~mission_rewards~ Sporáčů a Záslužný certifikát třetí třídy.
+0x00000089 Díky, posádko!~p~Čas hraje proti nám. Jakmile budete na planetě, budete mít pouze ~mission_time~ sektonů na vyzvednutí artefaktu, zvaného ~mission_item~.~p~Budeme čekat na váš návrat.
+0x000000CC ...
+0x00000031 Dlouho ztracený předmět zvaný ~mission_item~, byl nedávno objeven. Naši agenti tvrdí, že jeho získání vyžaduje nepřijatelně nízkou úroveň násilí. Proto hledáme pomoc z venku. Pomožte nám.
+0x00000094 Úžasné…není dost úžasné slovo na to, aby popsalo někoho, kým je ~player_title~ ~player_creature_name~!~p~Můžeme vás obtěžovat s nalezením artefaktu, zvaného ~mission_item~ v čase ~mission_time~ sektonů?
+0x00000093 ~player_title~ ~player_creature_name~.  Děkujeme Ti. Ceníme si vaší dobré vůle. Jakmile dorazíte na planetu ~mission_target_planet~, vraťte se do ~mission_time~ sektonů, jak očekáváme.
+0x000000B5 ~player_title~ ~player_creature_name~ … to je opravdu zajímavá volba. Možná máte informace, které nám chybí, ale to je velmi nepravděpodobné.
+0x00000097 Prosím o pochopení.
+0x00000056 ~player_title~  ~player_creature_name~. Požehnán budiž Spod za tento úspěch! Prosím, přijměte těchto ~mission_rewards~ Sporáčů a klidně si na odchodu promluvte s misionářem.
+0x00000095 Prosím o pochopení.
+0x000000B4 Prosím o pochopení.
+0x000000C1 ~player_title~ ~player_creature_name~… to je opravdu zajímavá volba. Možná máte informace, které nám chybí, ale to je velmi nepravděpodobné.
+0x000000C0 Hmmm…ok… Ne, nevadí to.~p~Pokud se na to necítíte…nechceme, abyste ovlivňovali jinou formu života…
+0x000000BE Rozumíme vám, ~player_title~ ~player_creature_name~. Oceňujeme vaši otevřenost.~p~Vlastně nám to ušetří trochu papírování. Schvalovací proces dílčí smlouvy pro meziplanetární převod příšerky vyžaduje pouhých tři sta šedesát dva formulářů, orazítkovaných a trojmo vyplněných.~p~Samozřejmě postupy, které určuje Standardní provozní řád, to ještě nesplňuje... Měli byste vidět tu hromadu formulářů pro fermentované druhy.
+0x00000064 Můžete se na mě spolehnout. Nashle.
+0x000000D5 Najděte ceněný vzácný předmět zvaný ~mission_item~.~p~Ze zpráv rozvědky vyplývá, že předmět byl viděn ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.
+0x000000D3 ~p~Ze zpráv rozvědky vyplývá, že předmět byl viděn ~group:star_clue~, na planetě ~mission_target_planet~.
+0x00000038 Přestože je rasa ~race~ téměř stejně proslavena a uznávána za vytříbenost, jako jsme známi svými nabíranými a zřasenými hávy, musíme přiznat, že o umístění artefaktu, jménem ~mission_item~ toho víme jen velice málo - jen pouhé náznaky. Domníváme se, že ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Za vaši námahu vás odškodníme ~mission_rewards~ Sporáči.
+0x0000003A Bohužel, co se týká informací o umístění artefaktu, zvaného ~mission_item~, byl duchovní svět podivuhodně skoupý.~p~Víme pouze tohle: ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Za vaši námahu vám zaplatíme Sporáči, v hodnotě ~mission_rewards~.
+0x00000035 Jako někdo tak dobře situovaný nebudete mít jistě problémy ten artefakt rychle nalézt, a to i přes nedostatek informací, který o jeho osudu máme. Víme pouze, ~group:star_clue~, a planeta se jmenuje ~mission_target_planet~.~p~Rádi vám zaplatíme - dáme vám ~mission_rewards~ Sporáčů.~p~Doufáme, že je pro vás tato nabídka přijatelná, je to tak?
+0x00000037 Ha! Chcete, abychom vám prostě řekli, kam máte jít?! Hahaha…No vlastně - asi by to věci usnadnilo. Víme tohle: ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Pokud vás pohání peníze, dáme vám ~mission_rewards~ Sporáčů.
+0x00000040 Vzácný předmět zvaný ~mission_item~ je nedaleko...relativně řečeno.  Bohužel někdo přeprogramoval náš astronavigační počítač na psaní přisprostlých básniček, pročež vám nemůžeme přesně říci, kde planeta je....~p~Domníváme se, ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Za vaši námahu vám zaplatíme ~mission_rewards~ Sporáčů.
+0x0000003F Běda nám, nedokonalému druhu, který vám, úžasným, nesahá ani po paty! O umístění toho víme velice málo… Známe však některé zásadní informace - ~group:star_clue~, a planeta se jmenuje ~mission_target_planet~.~p~Za předpokladu, že budete schopni předmět získat rychle, vám rádi zaplatíme - ~mission_rewards~ Sporáčů.
+0x0000003C Věříme, že vzácný předmět zvaný ~mission_item~ se nachází nedaleko. Bohužel se záznamy o světě, na kterém se nachází, ztratily během Spodifikační války. Věříme však, že leží někde mezi ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Jakmile svět naleznete, seberte ~mission_item~ a doneste ho nám. Za to vám, rasa ~race~ slibuje Sporáče ve výši ~mission_rewards~.
+0x0000003E ~player_title~ ~player_creature_name~. Tvrdí se, že vzácný předmět je někde poblíž. Bohužel umístění jeho planety je nejisté, avšak máme za to, že ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~.~p~Až naleznete planetu ~mission_target_planet~, vyzvedněte vzácný předmět na palubu a vraťte se na planetu ~mission_source_planet~.~p~Samozřejmě dostanete odměnu ve výši ~mission_rewards~ Sporáčů.
+0x00000034 Nemáme o něm úplné zprávy, ale ~group:star_clue~ a planeta se jmenuje ~mission_target_planet~. Najděte ho a skvěle se vám odměníme - ~mission_rewards~ Sporáči. Spoléhá na vás celá naše společnost!
+

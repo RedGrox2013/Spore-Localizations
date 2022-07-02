@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x34F8116D Ta cecha odblokuje:
+0x06162C25 OK
+0x06162C24 Nowe
+0x74BF153E Znajdź to podczas gry i dodaj do Sporpedii!
+0x74BF153F Możesz doświadczyć...
+0x06162C22 Twórz nowe Spormedia
+0x06162C1F Wybierz Spormedia:
+0x06162C1E Dodaj do Spormediów
+
+# ProfileView.layout
+
+0x062EE735 Strona profilu
+
+# vehicle stats (specific)
+
+0x058B5C25 Siła religijna
+0x058B5C26 Siła ekonomiczna
+0x058B5C24 Siła militarna
+
+# AssetViewLarge.layout
+
+0x058B60F2 Opis:
+0x058B60F4 Nazwa elementu
+0x058B60F5 Twórca elementu
+0x058B60F6 Autor:
+0x058B60F7 Dalej
+0x058B60F3 Etykietki:
+0xD4AF63E8 Czekaj...
+0x058B60F8 Poprzednie
+
+# creature stats
+
+0x058B5C21 Atak
+0x058B5C20 Roślinożerny
+0x058B5C22 Towarzyskość
+0x058B5C1F Mięsożerny
+0x058B5C1E Wszystkożerny
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175E8 Niedziela
+0x05B175E9 Poniedziałek
+0x05B175EA Wtorek
+0x05B175EB Środa
+0x05B175EC Czwartek
+0x05B175ED Piątek
+0x05B175EE Sobota
+0x05B175EF Zeszła/y ~day_of_week~
+0x05B175F0 ~seconds~ sek. temu
+0x05B175F1 ~minutes~ min. temu
+0x05B175F2 ~hours~ godz. temu
+0x05B175F6 <Brakuje>
+
+# vehicle stats
+
+0x058B5C1D Szybkość
+0x058B5C1C Siła
+0x058B5C1B Zdrowie
+
+# AssetBrowser.layout
+
+0x05B1A59C Szukaj
+0x05B1A59D Sporpedia
+0x05B1A59E ~username~! Witaj.
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C12 Nazwy
+0x058B5C14 Typu
+0x058B5C16 Elementy sieciowe są dostępne wyłącznie po zalogowaniu.
+0x058B5C17 Elementy sieciowe są dostępne wyłącznie po zalogowaniu.
+0x058B5C19 Wstecz
+0x058B5C10 Sortuj wg.
+0x058B5C13 Twórcy
+0x058B5C18 Stwórz
+0x058B5C1A Stosunki
+0x058B5C11 Czasu utworzenia
+0x058B5C27 Czas pobierania
+0x058B5C15 Opublikowane
+0x058B5C28 Straszne i słodkie
+

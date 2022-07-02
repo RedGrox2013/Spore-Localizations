@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Tnie cel, pochłaniając energię.
+0x00000013 Cięcie ener.
+
+# Part: Harpolizer
+
+0x00001047 Dłuższa pieśń poprawiająca stosunki z innymi przy niskim koszcie w energii.
+0x00001046 Inspirująca pieśń
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001042 Skrytopole
+0x00001043 Sprawia, że Twój stwór staje się całkowicie niewidzialny, ale zużywa energię, gdy jest włączone.
+
+### Complexity Meter ##
+
+0x07426209 Zbyt duża złożoność
+0x0742620A Usuń zbędne obiekty lub zmniejsz liczbę unikatowych modeli.
+0x05F110B4 Jeśli ten wskaźnik wypełni się, nie można dodawać nowych obiektów.
+0x05F110B3 Wskaźnik złożoności
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Premia do uroku poprawiająca stosunki z innymi przy niskim koszcie w energii.
+0x00000101 Holo-talizman
+
+# Part: Hop Gogs
+
+0x00001053 Lepszy taniec poprawiający stosunki z innymi przy niskim koszcie w energii.
+0x00001052 Oszałamiający taniec
+
+# Part: Icy Band
+
+0x00001028 Zamrażator
+0x00001029 Zamraża cel na pewien czas.
+
+# Part: Jump Jet
+
+0x00001045 Bardzo wysoki skok przy średnim koszcie w energii.
+0x00001044 Skokopak
+
+# Part: Plasma Pulser
+
+0x00001006 Pulsator
+0x00001007 Wystrzeliwuje skoncentrowany pocisk energetyczny, pochłaniając energię.
+
+# Part: Power Shield (RENAME)
+
+0x00001015 Pochłania wszystkie odniesione obrażenia. Zużywa dużo energii.
+0x00001014 Zbroja zasilana
+
+# Part: Hypnomelder
+
+0x00001024 Więzomysł
+0x00001025 Sprawia, że wrogowie stają się na pewien czas przyjaźni.
+
+# Part: Fettipopper
+
+0x00001059 Lepsza poza poprawiająca stosunki z innymi przy niskim koszcie w energii.
+0x00001058 Poza konfetti
+
+# Part: Imperial Robe
+
+0x00001037 Wspaniała poza, dzięki której inni spojrzą na Ciebie przychylniejszym okiem.
+0x00001036 Piękna poza
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001012 Zbroja bojowa
+0x00001013 Zmniejsza obrażenia w niewielkim stopniu. Nie zużywa energii.
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Odpala pocisk, który razi obszar wokół celu, pochłaniając energię.
+0x00000001 Atak rakietowy
+
+# Part: Regal Ring
+
+0x00001034 Królewska aura
+0x00001035 Olśniewająca aura, dzięki której inni spojrzą na Ciebie przychylniejszym okiem.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Przyzywa rój uciążliwych owadów, które będą męczyć przeciwników.
+0x00001022 Wezwanie roju
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001065 Zwiększa maksymalną wartość rezerwy energetycznej.
+0x00001064 Akumulator
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Regeneracja zdrowia
+0x00001019 Przyspiesza regenerację zdrowia.
+0x00002012 ~icon_amount~ zdrowia/sek
+
+# Part: Ducal Cape
+
+0x00001033 Piękna pieśń, dzięki której słuchacze spojrzą na Ciebie przychylniejszym okiem.
+0x00001032 Harmoniczna pieśń
+
+# Part: Regen-Deflector
+
+0x00001017 Przekształca niewielką ilość odniesionych obrażeń na energię.
+0x00001016 Pochłaniacz energii
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001038 Sprint
+0x00001039 Zwiększa na krótki czas szybkość przy niskim koszcie w energii.
+
+# Part: Glider Pack
+
+0x00001041 Dłuższe unoszenie się w powietrzu przy niskim koszcie w energii.
+0x00001040 Lewitacja
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Uderzenie pioruna
+0x00001001 Ogłusza cel i zadaje duże obrażenia, pochłaniając energię.
+
+# Part: Toxic Crystal
+
+0x00001027 Zawiera truciznę, która przez pewien czas wyrządza niewielkie obrażenia.
+0x00001026 Zatrute ostrze
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001021 Zwiększa całkowite zdrowie.
+0x00001020 Zwiększenie zdrowia
+
+# Part: Danger Reductor
+
+0x00000019 Generator tarczy
+0x00000020 Tworzy ochronną kulę, która zmniejsza otrzymywane obrażenia, jednocześnie poprawiając sprawność energetyczną.
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001030 Elegancki taniec
+0x00001031 Pełen gracji taniec, dzięki któremu można poprawić stosunki z innymi.
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Zwiększa szybkość regeneracji energii.
+0x00000010 Regeneracja energii
+0x00000012 ~icon_amount~ energii/sek.
+0x00000021 Osłona
+0x00000022 Czasem najlepszą obroną jest... obrona.
+

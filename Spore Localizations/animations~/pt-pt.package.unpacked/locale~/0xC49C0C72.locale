@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Gira os Objectivos e a História no Painel de Actos
+0x079A7CE1 Descrição do Acto
+0x079A7B8E Apresente o Acto escrevendo-o aqui. Os Jogadores verão isto como o começo do Acto.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfera
+0x07639100 Defina a densidade da Atmosfera. As nuvens pesadas produzem relâmpagos. Uma Atmosfera rarefeita dá origem a chuvas de meteoritos!
+
+# EP1-TerraThemes
+
+0x0771EF15 Escolha um Tema para o seu Planeta.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Adicionar Objectivos
+0x07BB8BDE Cada Acto suporta um máximo de três Objectivos.  Por favor, apague um Objectivo clicando com o Botão Esquerdo do Rato sobre a lata do lixo que está ao pé dele e reinicie este Tutorial a partir da Lista de Verificação.
+
+# EP1-WinLoseText
+
+0x0771E83A Insira o Texto para as mensagens de Vitória e Fracasso da sua Aventura.
+0x07763B90 Texto Vitória/Fracasso
+
+# EP1-ClickGoalButton
+
+0x0762251C Painel de Objectivos
+0x0762251D Estabelece Objectivos para o Capitão. Cada Acto pode ter até três Objectivos, os quais podem ser atingidos por qualquer ordem.~p~Os Actos têm de ter objectivos para os Jogadores Ganharem ou Perderem a sua Aventura.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Defina o Objectivo para "Falar Com" ou "Examinar." As Personagens, os Veículos e os Objectos podem ter um objectivo de Falar Com ou Examinar cada um, por acto.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Defina a Personalidade do Adversário para Agressiva.
+0x07621DD7 Comportamentos
+0x0797266C Teste as suas alterações no Modo Teste
+0x077AD33C Defina a Consciência do Adversário para o alcance Máximo, para que ele possa ver o Capitão.
+0x0779D3EF Personalidades
+0x0779B5E8 Desloque o cursor sobre a Paleta do Elenco para revelar o botão do Painel de Comportamento.
+0x0779B5E7 Painel de Comportamento
+0x077AC9A2 Coloque esta marca sobre um Membro do Elenco a seguir.
+0x077AC9A1 Marca Seguir
+0x077AC9D4 Arraste a marca Seguir e coloque-a sobre o Capitão no Mundo.
+0x077AD164 Isto determina qual o alcance dos sentidos deste Membro do Elenco e da sua reacção a outros objectos.
+0x077AD163 Alcance da Consciência
+0x0779DB81 Seleccione o botão de Movimento e prima o botão Seguir
+0x0775CE3E Adicionar um Membro ao Elenco
+0x0779D3F0 Defina a personalidade de um Membro do Elenco premindo o botão apropriado.  As Personalidades vão desde a Pacífica até à Agressiva.
+0x0779DB5F Este botão permite-lhe definir as opções de movimentos dos Membros do Elenco.  Os tipos de movimentos incluem: Vaguear, Patrulhar, Seguir e Estacionário.
+0x0779DB5E Movimento
+0x0779C5B4 Clique no Botão Esquerdo do Rato sobre o botão do Painel de Comportamento.
+0x07621DD8 Dê um Adversário ao seu Capitão utilizando o Painel de Comportamento. É aqui que pode definir a Personalidade, o Movimento, a Consciência e as Equipas.
+0x07B4EC8D Para copiar qualquer membro do Elenco para o mundo, mantenha a tecla ALT e o Botão Esquerdo do Rato premidos, para arrastar a cópia.
+0x07C74109 As alterações que fizer aplicam-se a todos os Actos. Clique com o Botão Esquerdo do Rato sobre o botão do Modo Global para o desactivar e as alterações futuras deste Membro do Elenco só se aplicarão ao Acto actual.
+0x07D23C43 Boa! Deu uma personalidade Agressiva a esta Criatura.
+0x07C743A7 Comportamentos Globais
+0x07C742C5 Clique com o Botão Esquerdo do Rato sobre o botão Aplicar-Globalmente e todas as definições deste membro do Elenco no Acto actual serão aplicadas a todos os Actos.
+0x078D7B6F Quando tiver colocado o Capitão, clique com o Botão Direito do Rato sobre o Painel de Heróis para re-centrar a Câmara no Capitão, no mundo.
+0x0775CE3F Se ainda não o fez, adicione agora uma Criatura à sua Paleta. Arraste essa Criatura da sua Paleta do Elenco para colocar uma nova cópia no mundo.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paleta da Flora
+0x076390FE Seleccione a Paleta da Flora para modificar a Flora do seu Planeta. A Flora só se encontra em terreno vivo e quando a Temperatura é favorável. Existem categorias de plantas grandes, médias e pequenas.
+
+# EP1-TerraMood
+
+0x0771F108 Pode bloquear a hora ou deixá-la avançar normalmente.
+0x0771EFA4 Rode o relógio de sol com a Hora do Dia segundo a sua preferência.
+0x0771F133 Desloque a Barra Deslizante da Atmosfera para definir a densidade das nuvens. Uma Atmosfera com baixa densidade dá origem a chuvas de meteoritos. Uma Atmosfera com alta Densidade dá origem a Tempestades de Relâmpagos.
+0x0796DD5B Paleta de Disposições
+0x0796DE16 Seleccione a Paleta de Disposições para definir a Hora do Dia, Temperatura, Atmosfera e Nível de Água Planetário.
+0x079732F0 Atmosfera
+0x079732D9 Hora do Dia
+0x07A0112B Bloquear Tempo
+0x07957E9C Temperatura Planetária
+0x07957EAD Desloque a Barra Deslizante para definir a temperatura do seu planeta.
+
+# Complexity Meter
+
+0x07957630 O Indicador de Complexidade Diz Quantas Modificações Mais O Planeta Pode Sofrer
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Clique no Botão Esquerdo do Rato sobre o botão da Câmara Livre para activar e desactivar o modo de câmara livre.
+0x079709BB Câmara Livre
+
+### Checklist UI ###
+
+0x07735BDC Lista de Verificação ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 As Aventuras podem ter Veículos
+0x07621438 Os Veículos são Membros do Elenco. Tal como as Criaturas, têm Personalidades e Comportamentos definidos por si.
+
+### Tutorial Checklist
+
+0x079C1550 Construir uma Aldeia
+0x079C1527 Criar um Mundo
+0x079C1570 A adicionar Personalidade
+0x079C1523 A guardar
+0x079C1531 Controlos Básicos
+0x079C152C Bem-vindo
+0x0797355A Controlos da Câmara
+0x07970BD9 Painel de Actos
+0x079712E5 Objectivos de Objectos Múltiplos
+0x07733143 Atribuir um Objectivo ao Capitão
+0x07733140 Coloque Um Capitão
+0x079692E4 Adicionar Sons
+0x07733141 Seleccione um Elenco
+0x07733144 Atribua Comportamentos
+0x0796B1E0 Definir Comportamentos dos Veículos
+0x07C7ABAA Introdução
+0x079C1586 Faça um Jogo
+0x079C1565 Coloque um edifício
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Alfaiate do Capitão
+0x079E7D0F O Indicador de Energia indica a quantidade de energia que algumas capacidades gastam, assim como a quantidade que está armazenada e que é reposta pelas baterias e pelos geradores. ~p~Se ficar sem energia, não poderá utilizar as suas capacidades. ~p~Puxe a Pega de Energia de qualquer acessório que a tenha para aumentar o seu nível de capacidade e consumo de energia.
+0x079E7D0E Indicador de Energia
+0x07A8F04B Bem-vindo ao Alfaiate do Capitão. ~p~A finalização de Aventuras no Jogo Rápido e no Jogo Espacial desbloqueia Acessórios novos para os seus Capitães. ~p~Estes aparecem no Separador dos Acessórios do Capitão.
+
+# EP1- ShowActUI
+
+0x07635ED1 Painel de Actos
+0x07972881 Defina aqui a sua música para cada Acto.
+0x07972865 Música do Acto
+0x07635ED2 O Painel de Actos é onde vai para denominar e descrever os actos individuais da sua Aventura.~p~As Aventuras podem ter até oito Actos.~p~Aqui, pode também definir a música do Acto para a Aventura.
+
+# EP1-AddSecondAct
+
+0x0771EAE0 Vamos dar ao Capitão alguma coisa para fazer a seguir
+0x0771EB72 Arraste um novo Objectivo para o Acto II para o Pau
+0x0771EB1C Coloque o pau no chão, perto do Capitão
+0x0771EAC0 Clique aqui com o Botão Esquerdo do Rato para adicionar um Segundo Acto. O Acto actual tem de ter um Objectivo antes que possa adicionar um novo Acto.
+0x0771EC65 Defina o Tipo de Objectivo a Atribuir
+0x0771ECB5 Introduza o texto para o Cartão de Objectivos, explicando o Objectivo de Atribuição ao jogador
+0x0771EC85 Defina a Marca de Segunda Atribuição numa Criatura, no mundo
+0x0771ED0B Guarde o seu trabalho, clicando no Botão Esquerdo do Rato sobre o botão Guardar, em qualquer altura
+0x078DB94B Clique no Botão Esquerdo do Rato sobre a Paleta de Objectos Fixos.
+0x078DB6DF Objectos Fixos
+0x078DB94A Objectos Fixos
+0x078DB6E0 Clique no Botão Esquerdo do Rato sobre qualquer Objecto Fixo e arraste-o para o mundo, para começar.
+0x07763A67 Adicionar Acto
+0x07B4E966 A Guardar Aventuras
+0x0771EAF8 Pegue num pau da Paleta do Elenco de Objectos
+
+# Checklist
+
+0x07A3CFA7 Pode reactivar os Tutoriais no Menu de Opções
+0x07912CD1 Lista de Verificação
+0x07912D11 Clique com o Botão Esquerdo do Rato sobre os artigos da Lista de Verificação para ter ajuda na criação de uma Aventura.~p~Os tutoriais desbloqueiam-se à medida que for avançando na lista.~p~Abra-a e Clique com o Botão Esquerdo do Rato sobre qualquer artigo disponível.
+
+# EP1-ShowMinimap
+
+0x0775F221 Mini-mapa
+0x0771E3F9 O Mini-mapa é útil para navegar nas suas Aventuras.  A Posição, os Objectivos e o Local de Partida do Capitão aparecem todos no Mini-mapa.
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Bem-vindo ao Criador de Aventuras
+0x0761D564 Crie Aventuras para desafiar Jogadores de Spore de toda a parte. Gaste algum tempo a familiarizar-se com as ferramentas que tem disponíveis. ~p~Conceba o seu Mundo, povoe-o com Criaturas de todos os tipos, estabeleça objectivos e conte uma história aos Jogadores de Spore.
+
+# Hint
+
+0x0771DE1F Introduza aqui o texto para definir o discurso do membro do Elenco, o qual irá aparecer na Aventura.
+0x078D93DA Texto Falar Com
+0x0771D3CF Clique com o Botão Esquerdo do Rato sobre a caixa do nome e descrição para dar um título à sua Aventura.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Escolha o seu Capitão!
+0x07D087E0 Crie um Capitão novinho em folha, a partir do zero, ou seleccione qualquer criatura que tenha feito, clicando no filtro "Tudo". ~p~O seu Capitão vai ganhar experiência (Pontos de Aventura) cada vez que conseguir completar uma Aventura. ~p~Os Capitães com experiência ganham acesso a equipamento e acessórios novos.~p~Escolha um Capitão para começar a sua viagem.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Mini-mapa
+0x079E8124 O Mini-mapa é útil para navegar no planeta. ~p~A Posição, os Objectivos e o Local de Partida do seu Capitão aparecem todos no Mini-mapa.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Agora, Teste a sua Aventura de novo
+0x07763C47 Modo de Teste Outra Vez
+
+# EP1-Audio
+
+0x0796A67A Se ainda não o fez, seleccione um Objecto Áudio da Sporepédia e arraste-o para o mundo. Paire sobre ele para ouvir o seu som.
+0x0796A679 Objectos Áudio
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paleta de Objectos Fixos
+0x0762143E Os objectos fixos podem ser utilizados para decoração, para ajudar os jogadores a navegarem. As ferramentas e os objectos que podem ser apanhados, deslocados, oferecidos, ou derrubados também aparecem aqui.
+
+# EP1-PaintModeIntro
+
+0x076756BA Modo Terreno
+0x076756BB O Modo Terreno oferece Temas e ferramentas para colorir o Planeta da sua Aventura.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Escolha a amplitude do som deslocando o cursor sobre o objecto, mantendo premida a tecla Shift e deslocando a Roda Central do Rato.
+0x0771F1F1 Coloque no Mundo o som que seleccionou.
+0x0795826C Modifique a inclinação seleccionando o objecto e fazendo deslizar o anel de rotação.
+0x07972C1C Modifique o volume seleccionando o objecto e deslocando a pega de volume.
+
+# Add a building
+
+0x079AC52F Adicionar Edifícios
+0x07C7361C Trabalhar com Edifícios
+0x07C73644 Mantenha a tecla Tab e o rato premidos sobre o edifício para revelar as pegas que definem a rotação e a inclinação. Prima Alt e arraste para copiar.~p~As criaturas e os veículos poderão não conseguir passar entre edifícios demasiado próximos uns dos outros.
+0x07BB5926 Colocar Edifícios
+0x079AC7EF Se ainda não o tiver feito, seleccione um Edifício da Sporepédia. Arraste-o para um local no Mundo.
+0x079AC545 Para começar a criar uma aldeia, escolha a Paleta de Construção
+
+# EP1-DragCreature
+
+0x075E4E54 Clique no Botão Esquerdo do Rato sobre a criatura e Arraste-a para um local no mundo que esteja próximo do Capitão
+
+# EP1-DragHero
+
+0x07577C95 Clique no Botão Esquerdo do Rato sobre o Painel de Heróis e Arraste o Capitão para o Mundo.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Utilize as Barras deslizantes para mudar as Cores dos Terrenos Vivos e Mortos. Nem sempre será capaz de ver a diferença.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Pode acelerar o Mundo, clicando no Botão Esquerdo do Rato sobre estes botões
+0x0771E735 Clique no Botão Esquerdo do Rato sobre o botão do Modo de Construção para continuar a editar.
+0x0771E683 Aquilo que escrever sobre o Objectivo aparece no Cartão de Objectivos
+0x07763BB6 Botões de Velocidade
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Mantenha premido o Botão Direito do Rato e desloque o Rato sobre o Planeta para dar uma vista de olhos.
+
+# EP1-Teams
+
+0x0771F3ED Defina uma Criatura para a Equipa A, para a atribuir ao Capitão da Equipa
+0x0771F410 A Equipa B está sempre contra o Capitão
+0x0771F426 Se nenhuma equipa for definida, essa personagem será neutra
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Tinta Planetária
+0x076390FC O Terreno pode ser colorido por elevação, utilizando o Colorador de Elevação de Terrenos. As cores actuais correspondem ao tema do seu planeta.
+0x07BBAF80 Tente modificar as cores do Planeta para alcançar o visual que deseja.
+0x07BBAF62 Penhascos, Praias, Atmosfera, Água
+0x07D2278E Faça deslizar um Marcador de Elevação até à elevação que deseja colorir.
+0x07973230 Cor-por-Elevação
+0x079731E7 Seleccionar a paleta de Tinta Planetária
+0x07DB8058 Crie um novo estrato de cor clicando no botão esquerdo do rato sobre a Barra de Elevação de Terreno.
+0x07D2274B Seleccione uma cor para esse marcador do Selector de Cores. Pode apagá-lo mais tarde, arrastando-o para fora da paleta.
+0x07BBAF6C Para definir a cor para Água, Atmosfera, Praias e Penhascos, clique com o Botão Esquerdo do Rato sobre o seu ícone e seleccione uma cor do Selector de Cores.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Cartões de Missão da Aventura
+0x07634DAD Os Cartões de Missão Dizem ao Jogador qual é o objectivo actual.
+
+# EP1-CamZoom
+
+0x07563B2B Utilize a Roda do Rato para Ampliar e Reduzir
+
+# EP1-FirstAdventure
+
+0x07D087E1 Bem-vindo à sua primeira Aventura!
+0x07D087E2 O seu Capitão vai ganhar experiência assim que conseguir completar esta Aventura. ~p~Pode seguir o progresso do seu Capitão na Sporepédia. ~p~Quando está no planeta, controla o seu Capitão, da mesma maneira que controlou a sua Criatura na Fase das Criaturas. ~p~Vamos ver o que há de novo...
+
+##Terrain Mode items
+
+0x0762143F Elenco Disponível
+0x07621440 Todos os membros do Elenco que foram adicionados a partir da Sporepédia para serem utilizados na sua Aventura aparecem aqui.
+0x0791911C Flora
+0x07919119 Terraforma
+0x0791911B Clima
+0x0791911A Escolher um Tema
+0x079C153A Cores dos Terrenos
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Tenha o cuidado de manter o seu nível de Energia suficientemente elevado, caso contrário não conseguirá utilizar algumas das suas capacidades. ~p~Equipe o seu Capitão com baterias e geradores para aumentar a sua energia.
+0x079E7E25 Energia
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Clique no Botão Esquerdo do Rato sobre o Modo de Construção outra vez
+0x07763AD7 Modo de Construção Outra Vez
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Clique no Botão Direito do Rato sobre o Adversário na Paleta do Elenco para centrar a Câmara sobre ele.
+0x075E5364 Mantenha premida a Tecla Shift e desloque a Roda Central do Rato sobre o Membro do Elenco para o redimensionar.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Modo de Teste
+0x075F5A4F Clique no Botão Esquerdo do Rato sobre o botão do Modo de Teste para testar a sua aventura enquanto cria.
+
+# New Join with Sword
+
+0x07A81511 Dois Objectivos Objecto
+0x078E92E3 Seleccionar o tipo de Levar ao Objectivo.
+0x07A81521 Pegue numa Marca de Objectivo e deixe-a cair sobre o primeiro de dois objectos que deseja definir para Juntar.
+0x07A81620 Coloque a segunda Marca no Objectivo de Levar a sobre um Objecto ou Criatura que podem entrar em contacto com o primeiro Objecto.
+0x07BA7CC2 Dois Objectivos de Objectos (Parte 2)
+0x07BA7DAE Encontre ou coloque o segundo Objecto para este objectivo e arraste sobre ele a Segunda Marca de Objectivo, para completar a frase.
+0x07A814D8 Os Objectivos de Levar a e Bloquear requerem dois objectos para serem concluídos. Ou um ou ambos têm de ser móveis ou passíveis de serem movidos independentemente. Levar a requer que o Capitão os junte. Bloquear requer que o Capitão os mantenha separados.
+
+# EP1-NameAdventure
+
+0x0771D3CE Nome da Aventura
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Isto é o Painel do Elenco Utilizado
+0x076214A1 Tudo o que for adicionado à Aventura aparece aqui.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paleta do Elenco de Criaturas
+0x075E079E Clique no Botão Esquerdo do Rato para seleccionar a Paleta do Elenco de Criaturas.
+
+# EP1-PlayModeProgressBar
+
+0x079E8180 Barra de Progressos
+0x079E8181 A Barra de Progressos indica quantos Objectivos foram atingidos e quantos ainda lhe faltam. ~p~Quando a Barra estiver cheia, a Aventura terá sido concluída com sucesso.
+
+# EP1-Vehicles
+
+0x0796C959 Seleccione o Botão de Comportamento do Veículo
+0x0796B4AC Paleta de Veículos
+0x0796B4AD Seleccione a Paleta de Veículos para adicionar veículos à sua Aventura.
+0x0796C41F Desloque o cursor sobre o novo Membro do Elenco para revelar o botão de Comportamento.
+0x0796C41E Comportamento dos Veículos
+0x0796B623 Adicione um Veículo
+0x0771F308 Defina o Comportamento dos Veículos
+0x0771F399 Arraste a Marca de Patrulha para definir o segundo ponto no percurso de patrulha do Veículo.
+0x0771F293 Adicione um veículo da Sporepédia ao Elenco. Depois, coloque-o no Mundo, arrastando-o da paleta.
+0x0796CC7D Clique com o Botão Esquerdo do Rato sobre o Botão de Movimento. Depois, Seleccione Patrulhar.
+0x07D23877 O Mover-Para é semelhante, mas a personagem mantém-se na última marca.
+0x07D6257A Prima Alt e arraste sobre a marca para definir outro ponto atrás do primeiro. O veículo vai mover-se de uma ponta do caminho da patrulha para a outra e regressar novamente.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Painel Áudio
+0x079694A7 Seleccione esta paleta para adicionar sons e música à sua Aventura.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A O Cartão de Missões diz-lhe quais são os Objectivos actuais. ~p~Complete todos os Objectivos para passar ao próximo Acto.
+0x079E8049 Cartão de Missões
+
+# EP1-SelectHero
+
+0x07578A4F Colocar o Capitão
+0x07578A50 O Capitão é a estrela da Aventura.  Esta será a personagem do jogador.
+
+# EP1-TestModeIntro
+
+0x07632EEC Bem-vindo ao Modo de Teste
+0x07632EED O Modo de Teste oferece uma maneira de identificar problemas e jogar a Aventura que está actualmente a criar.~p~Regresse ao Modo de Construção quando encontrar alguma coisa que queira alterar na Aventura.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A50 Modo de Construção
+0x075F5A51 Clique no Botão Esquerdo do Rato sobre o botão do Modo de Construção para Regressar a Editar.
+
+# EP1-Flora
+
+0x0771F197 Escolha uma flora nova para colocar no seu planeta. A Flora encontra-se em terreno vivo, quando a Temperatura é favorável.
+
+# EP1-DragGoal
+
+0x075F39B9 Coloque uma Marca de Objectivo num Membro do Elenco, no mundo, para estabelecer Objectivos para o Capitão.
+0x07971E8D As marcas de objectivos são utilizadas para definir objectivos para o Capitão, numa Aventura.  Os objectivos incluem Falar Com, Dar Presente, Destruir e Tornar-se Amigo.
+0x07971D33 Atribuir um Objectivo
+
+##End
+
+0x0762407B Coloque sons na Aventura arrastando-os para o mundo. Ajuste as pegas para definir até que distância o som pode ser ouvido e desencadeado.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Seleccione a Paleta de Temas.
+0x076390FA Os Temas dão ao seu planeta um novo estilo colorido.
+0x079207E3 Paleta de Temas
+0x07920810 Temas
+
+#Test Mode Goal Cards
+
+0x07A80599 O Modo de Teste permite-lhe Saltar objectivos clicando na Marca ao lado do objectivo.
+0x07A805ED Saltar Objectivos
+0x07A805F9 Saltar Actos
+0x07A805FE Pode saltar entre Actos, clicando no Botão Esquerdo do Rato sobre as Setas que estão no topo do Cartão de Objectivos
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Utilize as Pegas de Selo para mudar o seu tamanho, intensidade e orientação.
+
+# EP1-SelectCreature
+
+0x075E2C84 Adicione uma Criatura
+0x075E2C85 Clique no Botão Esquerdo do Rato e Arraste uma criatura para a colocar na sua Aventura.~p~Aceda à Sporepédia para seleccionar uma criatura se nenhuma estiver presente.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Bem-vindo ao Modo de Terraforma.
+0x0791F5B7 Paleta de Terrenos
+0x07959720 Utilize estes selos para tornar o terreno montanhoso e rugoso.
+0x07958D39 Escolha qualquer Selo de Terreno, arraste-o e deixe-o cair sobre o planeta.
+0x0791F5B8 Montanhas
+0x07639102 Aqui, pode aplicar as mudanças ao Terreno, escolher a Flora e definir o ambiente do planeta.
+0x07B3A935 Seleccione a Paleta de Terrenos para aceder aos Selos de Terreno
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Utilize o Comportamento de Expansão para fazer com que as criaturas se regenerem e multipliquem.
+0x07A032FB Expansão
+0x07A03396 A Frequência define a frequência de uma expansão. O limite define quantas podem ocorrer simultaneamente no Mundo.
+0x07A034A1 Os Objectos de Jogo devem ser testados. Utilize o Modo de Teste frequentemente.
+0x07A033EF Os Objectos de Jogo podem ser utilizados para aumentar o nível de Desafio e Diversão de uma Aventura.~p~Escolha um da Sporepédia e coloque-o no mundo.
+0x07A033E5 Objectos de Jogo
+0x07A02DE0 Seleccione um Objecto Portátil da Sporepédia e arraste-o para o mundo.
+0x07A02DD5 Objecto Portátil
+0x07A02E13 Os objectos portáteis podem ser apanhados, transportados na mão e entregues às criaturas.
+0x07A03149 Temporizador dos Actos
+0x07A02FFC Desenho de Capa da Aventura
+0x07A03155 Para definir um limite de tempo de um Acto, clique no Botão Esquerdo do Rato sobre o botão do Temporizador dos Actos. Depois, defina o tempo que quer dar aos jogadores para atingirem os Objectivos desse Acto.
+0x07A03553 Tire uma fotografia de Desenho de Capa no Modo de Teste, clicando no Botão Esquerdo do Rato sobre o botão da Câmara.~p~Ela vai aparecer no Painel de Denominar e Descrever
+0x07A0304F Para criar uma capa para a sua Aventura que os Jogadores possam ver na Sporepédia, coloque a câmara onde quer.~p~Depois, abra o Painel Nome e Descrever e clique com o Botão Esquerdo do Rato sobre o Botão da Câmara.~p~Pode escolher a imagem que melhor representa a sua Aventura.
+
+# EP1-CamRotate
+
+0x07563B2A Clique no Botão do Meio do Rato e mova o Rato para Rodar e Inclinar a câmara. O manual fornece uma lista de chaves que pode usar.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Edifícios
+0x0762143A As suas criações no Criador de Edifícios são um óptimo contributo para as Aventuras. Os edifícios podem pertencer a uma equipa e dizer mensagens ao Jogador. Também podem ser danificados por armas avançadas. Os NPCs agressivos podem atacar um Edifício que é neutro ou que pertence à outra equipa.
+

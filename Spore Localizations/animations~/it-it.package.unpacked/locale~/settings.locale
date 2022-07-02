@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Abbastanza buona 
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Tutorial
+0x058B62B1 Consigli di gioco
+0x058B62B2 Scorrimento ai bordi
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Predefinite
+0x0474E6B5 Impostazioni grafiche
+0x0474E6B6 Bassa
+0x0474E6C2 Media
+0x0474E6C6 Alta
+0x0474E6CC Ombre
+0x0474E6D0 Dettaglio delle texture
+0x0474E6D6 Effetti grafici
+0x0474E6DE Qualità del modello del giocatore
+0x0474E6E4 Qualità dei pianeti
+0x0474E6E5 Qualità dell'illuminazione
+0x0474E6E9 Dimensioni dello schermo
+0x0474E6ED Dimensioni della cache video (MB)
+0x0474E6F0 Profili
+0x058A2A2B La modifica della risoluzione dello schermo richiede il riavvio e può influenzare le prestazioni.
+0x058B6240 Modalità a schermo intero
+0x058B624C Modalità in finestra
+0xBBFC7687 Profondità di campo
+0x0674D28F Luce sullo schermo
+0x066A4BC8 Antialiasing
+0x0695A585 COMANDO + INVIO permette di passare dalla modalità in finestra alla modalità a schermo intero e viceversa.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Muovi astronave
+0x080B23B7 Inclina e ruota la visuale
+0x080B23B2 Civiltà
+0x080B23B3 Seleziona bersaglio
+0x080B23B4 Attiva strumento
+0x090A24A7 Muovi visuale
+0x090A23A3 Muovi creatura
+0x090A28A7 Seleziona un veicolo
+0x090A28A6 Seleziona un membro della tribù
+0x090A26A9 Inclina e ruota la visuale
+0x088B63B6 Creatura
+0x090A21A6 Seleziona direzione
+0x088B63B9 Tribù
+0x088B63B7 Clicca qui per ruotare la mappa con il pulsante destro del mouse
+0x090A29A7 Muovi cellula
+0x090A50AA Clicca e trascina con il pulsante sinistro del mouse o usa i tasti W, A, S, D
+0x090A50A6 Usa la rotellina del mouse
+0x090A50A5 Clicca e trascina con il pulsante destro del mouse
+0x090A50A7 Clicca e trascina con entrambi i pulsanti del mouse
+0x090A50A8 Clicca e trascina con il pulsante destro del mouse o usa i tasti W, A, S, D
+0x090A50A9 La creatura segue il puntatore
+0x090A50A1 Usa i tasti W, A, S, D
+0x090A50A4 Clicca con il pulsante destro del mouse
+0x090A50A3 Clicca e trascina con il pulsante sinistro del mouse
+0x090A50A2 Clicca con il pulsante sinistro del mouse
+0x088B63B3 Cellula
+0x080B23B9 Spazio
+0x088B63B4 Clicca qui per seguire automaticamente il puntatore
+0x088B63B5 Posiziona il puntatore sopra queste icone per capire come funzionano
+0x090A30B5 Selez. veicoli con rettangolo
+0x090A30B4 Selez. membri tribù con rettangolo
+0x090A50AB Tieni premuti COMANDO, ALT e il pulsante sinistro del mouse
+0x080B23B8 Cambia altitudine astronave
+0x090A50AC Tieni premuto il pulsante centrale del mouse
+
+#### profile - user selects ####
+
+0x0474E6FC Selezione dell'utente
+
+#### profile - performance ####
+
+0x0474E6F1 Prestazione
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289E Accedi
+0x0565289F Registrati
+0x056528A0 Connessione al server
+0x056528A4 Senza registrazione
+0x056528A5 Crea un account per connetterti a Spore.
+0x056528A7 Connettiti a Spore.
+0x056528A8 ~generic0~ ha effettuato la connessione
+0x056528A9 Disconnettiti da Spore o cambia utente.
+0x058B63D4 Abbinamento estetico
+0x056528A3 Chiedi all'avvio
+0x056528A1 stato:
+0x0565289D Disconnettiti
+0x05E39554 Aggiornamento database contenuti...
+0x058B63D3 Solo contenuti amici
+0x0626E391 Giorni necessari per eliminazione
+0x0626E392 Copia eliminato nell'archivio
+0x0626E390 Elimina vecchi download
+0x056528A2 Opzioni online
+0x067A21D9 Giorni.
+0x067A21D8 Scarica i contenuti soltanto da sottoscrizioni che rientrano nel seguente periodo di tempo (giorni):
+0x067A21D7 Dimensioni della cache download (MB)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Impostazioni audio
+0x0473EF2C Impostazioni grafiche
+0x0473EF2D Impostazioni di gioco
+0x0473EF2E Impostazioni di acquisizione
+0x0473EF2F Impostazioni online
+0x0473EF30 Riconoscimenti
+0x0473EF31 Salva le tue impostazioni
+0x0473EF32 Chiudi le opzioni senza salvare
+0x0473EF33 Impostazioni
+0x0473EF34 Impostazioni comandi
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Fammi accedere automaticamente a YouTube
+0x0589E518 Risoluzione dei filmati
+0x0589E51C Risoluzione delle immagini
+0x0589E51D Bassa
+0x0589E51E Media
+0x0589E51F Alta
+0x058B6381 Impostazioni del gioco e dell'acquisizione
+0x058B63A0 Acquisisci un filmato senza audio
+0x05D1185C Opzioni di gioco e di aiuto
+0x0631825F Se hai accettato le cartelle di installazione predefinite, puoi trovare le tue foto e i tuoi filmati nella cartella ~generic0~(tipo risorsa).
+
+#### profile - image quality ####
+
+0x0474E6F5 Qualità dell'immagine
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Generale
+0x0431D893 Voci
+0x0431D894 Effetti
+0x0431D896 Disattiva l'audio
+0x0431D897 Mixer
+0x0431D898 Configurazione degli altoparlanti
+0x0431D899 2 altoparlanti (stereo)
+0x0431D89A 4 altoparlanti (quadrifonici)
+0x0431D89B Altoparlanti 5.1 (surround)
+0x0431D895 Musica
+0x0431D89C Qualità del suono
+0x0431D89D Volume di tutti i suoni
+0x0431D89E Volume della musica di gioco
+0x0431D89F Volume delle voci delle creature
+0x0431D8A0 Volume degli effetti sonori
+0x0431D8A1 Il giocatore si deve trovare nella schermata della Galassia di Spore per modificare la configurazione degli altoparlanti
+
+## Mac version
+
+0x06318D68 Se hai accettato le cartelle di installazione predefinite, puoi trovare i tuoi filmati nella cartella Creazioni Spore/Filmati della cartella Documenti della cartella principale.
+

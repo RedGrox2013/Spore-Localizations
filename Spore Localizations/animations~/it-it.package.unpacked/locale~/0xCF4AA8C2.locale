@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Un altro incarico potrebbe essere proprio quello che ci vuole.
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B Accetto volentieri. Io adoro le avventure.
+0xFADED019 Non rinuncio mai a un'avventura!
+0xFADED01A Sembra un'avventura interessante. Ci sto.
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C Devo rifiutare, ma non posso dire perché.
+0xFADED018 Apprezzo l'offerta, ma sono costretto a rifiutare.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Chiedo la vostra comprensione.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Vedo che ora hai da fare. Ci vediamo.
+0xFADED009 Forse un'altra volta. Ci vediamo.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED015 È stato un piacere. Addio.
+0xFADED011 Quando vuoi. Arrivederci.
+0xFADED016 Nessun problema. Ci vediamo.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Vi chiedo di annullare il mio incarico.
+0xFADED021 Questo incarico non è più tra le mie priorità.
+0xFADED020 Devo rinunciare a questo incarico.
+0xFADED022 Preferirei occuparmi d'altro.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Prima di andare, avrei altre domande.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Va bene, va bene! Calmati!
+0xFADED005 Capito. Ci si vede.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Ricevuto, comando operativo.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Avrei un'altra cosa da chiedervi...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Alla prossima volta, allora.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Un'altra cosa...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Ah, certo! Il registro missione. Lo consulterò!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Ora non mi interessa. Magari un'altra volta.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Puoi ricordarmi la mia missione?
+0xFADED028 Ho dimenticato la mia missione. Di cosa si trattava?
+0xFADED027 Ehm... Cos'è che dovrei fare?
+0xFADED024 Ho dimenticato cosa devo fare. Qual era la missione?
+0xFADED01F Ho bisogno di rivedere un attimo gli obiettivi...
+
+# mission_incomplete -> do exit
+
+0xFADED010 Capisco. Tornerò presto.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 Desolato di avervi disturbato. Addio.
+0xFADED00B Non hai tempo, vedo, parleremo in un altro momento.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Non intendo farlo e per svariate ragioni.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Non mi sembra affatto giusto. No.
+0xFADED00D Io non lavoro per "l'Uomo"! Niente affatto!
+0xFADED012 No. Tutto ciò mi sembra... antisportivo.
+0xFADED014 Mai! Dovrebbe essere chiaro che io aborro la violenza.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Capito. Arrivederci.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 Inoltre...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Prima di andare, avrei altre domande.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 ~race~ nota la tua indecisione. È chiaro che manca la determinazione necessaria per certe decisioni. Peccato.
+0xFADED02D Certo, certo. Sapevo che non c'era speranza di ottenere l'attenzione di una personalità tanto grande con questioni così frivole. Forse dovrei consolarmi facendo un po' di spese?
+0xFADED02E A quanto pare dovrai scoprire da solo come diventare un Capitano spaziale leggendario... e nel modo più difficile.~p~Buona fortuna.
+0xFADED02F ~race~ non contempla la parola "rinuncio". ~player_creature_name~ non appartiene certo a ~race~.
+0xFADED034 Abbiamo capito, ~player_title~ ~player_creature_name~. Apprezziamo le tue buone maniere.~p~A dire il vero, queste ci consentono di sorvolare certe formalità. L'approvazione di un contratto sussidiario per il trasporto interplanetario richiede solo trecentosessantadue moduli diversi, firmati e stampati in triplice copia. ~p~Naturalmente, questa procedura è ben ridotta rispetto alle direttive indicate dalla prassi esecutiva ufficiale... Dovresti vedere i moduli per il trasporto di spezie fermentate...
+0xFADED033 D'accordo... come preferisci. Non ci resteremo male...~p~Beh, forse solo un po'...
+0xFADED032 Devi trovare da solo la tua strada.~p~Ti auguro ogni bene.
+0xFADED031 Osi venire meno alla parola data ai Grox! Stolto insolente!
+0xFADED02B Scelta interessante, ~player_title~ ~player_creature_name~. Forse sai cose di cui noi siamo all'oscuro, anche se credo sia poco probabile.
+0xFADED02C Aah... OK... Va bene. ~p~Se non sono queste le tue intenzioni... non vogliamo farti interagire con un'altra forma di vita...
+

@@ -1,0 +1,689 @@
+﻿# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 1
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C1 Здесь есть проход…
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 1
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA22 Меня зовут Эфти. Ты болеешь? Я - нет.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 2
+
+0x36F508C1 Кхе!.. Кхе!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73821 Похоже, она не работает…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 1
+
+0x36F508C0 Что это за звук?
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 2
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC821 Выглядит уютно…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 2
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8821 Не хотелось тебя обижать, но сейчас, мягко говоря, не лучшее время для визита.
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 2
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C1 Куда же они ведут?
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 1
+
+0x5B7F89C0 Веги? Веги! Где ты, девочка моя?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 4
+# Comments: Character comments: Runs off
+
+0xC1251923 Это пришельцы. Инопланетная инфекция. Ее, наверное, притащила сюда собака...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 2
+
+0x5B7F89C1 Не подходи ко мне, Блеер, я тебе не доверяю!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 3
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE823 Значит, по крайней мере один пришелец спасся...
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 3
+
+0x5B7F89C2 Н'Оррис погиб…
+
+# Character name (Character: "base_grave", model: "Research Base Grave_@building_editorModel!0x0769c9ff.bld")
+# Comments: A makeshift grave in the snow - pile of stones with a vaguely cross-like staff sticking out of it
+
+0x546BC860 Могила
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 5
+
+0x36F508C4 Как же хочется спать...
+
+# Character name (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt")
+# Comments: The Station's Veterinarian
+
+0x5B7F8860 Клаарк
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 3
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89822 Да, похоже, он знавал лучшие времена.
+
+# 'Adventure won' message
+
+0x00000011 Остановить болезнь не удалось, но зато Эфти спасена, у нее иммунитет к болезни, а ты теперь, вероятно, сможешь найти лекарство!
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 4
+
+0x36F508C3 Кхе!
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 2
+# Comments: Character comments: behind the ship
+
+0x4F928822 Кожа обуглилась и покрылась буграми. Авария ли тому виной?
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 4
+
+0xDB1A5A52 СТОЙ!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 3
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0822 Проект настолько секретный, что никто толком не знает, в чем он заключается.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73941 Никто не хочет туда заходить…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 4
+
+0x5B7F88C3 ...если бы мы знали, где он.
+
+# Character name (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld")
+# Comments: Sat Tower with radio mast and dishes
+
+0xF6E73860 Спутниковая станция
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 1
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C0 Свежий обрывок кожи. И следы еще не успели покрыться снегом…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 5
+
+0x5B7F88C4 С тех пор как он ушел из изолятора, его так никто и не видел. Замерз, наверное, где-нибудь.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 2
+# Comments: Character comments: Runs off
+
+0xC1251921 Мы с Н'оррисом как раз собирались… Черт! А где Н'оррис? Наверное, он тоже заразился.
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 3
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A22 Эф-ти помогать. Помогать мне прятаться. Я ее не вредить. Смотри! Она хорошо! Хорошо! Не болеть от меня!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 2
+
+0x5B7F88C1 Барахлит!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 1
+
+0xDB1A59C0 Нет! Не ходи туда! Пожалуйста!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x50000105 Теперь никуда не денешься!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 3
+
+0x5B7F88C2 Можно было бы попросить Купера починить...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 1
+# Comments: Character comments: Runs off
+
+0xC1251920 Здорово. Я Блеер, здешний биолог.
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 1
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A820 Видимо, это и есть место крушения. Вот это воронка!
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 2
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A821 Ни источников энергии, ни признаков жизни… Но аварийный люк открыт…
+
+# Act 2 description
+
+0x00000023 Найден центр по разработке проекта "Темная вода". Теперь надо найти ученых.
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x50000104 АРРР!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 1
+
+0xDB1A5A49 Стой!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 3
+
+0xDB1A59C3 Кхе!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 2
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE824 Первичный анализ показывает: кожа покрыта какими-то зелеными усиками…
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 1
+
+0x3668DA40 Умри!
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 2
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C6 Голоса... Скажи, что делать...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 1
+
+0x5B7F88C0 Чертова железяка!
+
+# Character name (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: All shriveled up
+
+0xE3E11860 Мертвый пришелец
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x50000103 Не уходи!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 2
+
+0xDB1A5A50 Ты не можешь уйти!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 2
+
+0xDB1A59C1 Это опасно. Купер пошел туда и не вернулся...
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 3, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC941 Снаружи, конечно, холодно, но внутри гораздо, гораздо страшнее…
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x50000102 Сюда!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 3
+
+0xDB1A5A51 Стой же!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 3
+
+0x3668DA42 Не подходи ко мне!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 5
+
+0xDB1A5A44 Кхе!.. Кхе!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x50000101 Умри!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 1
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE820 Похоже, это чья-то кожа…
+
+# Adventure name
+
+0x00000002 Беда пришла с неба
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 2
+
+0x3668DA41 Ты тоже ненавидишь мою собаку!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 5
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A24 Уходи. Про-щай… Бери Эф-ти...
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 4
+
+0xDB1A5A43 Где Н'оррис?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x4AB34A43 УБИТЬ!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 2
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A21 Меня бояться. Болеть. Я так извиняться. Сильно болеть… С неба. Моя планета.
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 5
+
+0x3668DA44 Аррр!!!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 3
+
+0xDB1A5A42 Бежим!
+
+# Character name (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Generic zombie
+
+0xE3E11861 Заражение
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 2
+
+0xE03FE921 Куда он ведет, интересно?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x4AB34A44 ИДИ СЮДА!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 4
+
+0x3668DA43 Я опасен!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 2
+
+0xDB1A5A41 С Блеером и Клаарком что-то случилось!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 1
+
+0xDB1A5A40 Пошли отсюда!
+
+# Character name (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl")
+# Comments: Modeled after your favorite crashed alien spaceship - Alien or Independence Day?
+
+0xC701A860 Потерпевший крушение инопланетный корабль
+
+# Character name (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt")
+# Comments: Infected version of Claark
+
+0x3668D860 Заражение
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 1
+
+0xC12519C0 Подожду-ка я здесь. Я же биолог, а не солдат…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 2
+
+0xC12519C1 Я разрешаю тебе все проверить. В интересах науки. Но, боюсь, правда тебя не порадует…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 4
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8824 ...или уже умерли.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73820 Спутниковая станция исследовательского центра…
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 3
+
+0xC12519C2 Я боюсь того, что могло случиться. Боюсь увидеть там… Эфти…
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x4AB34A40 Помоги... мне...
+
+# Act 4 description
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000027 Идти по следу.
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x4AB34A41 Не могу... остановиться...
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 4
+
+0xC12519C3 А она наверняка там. Я не смогу…
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x4AB34A42 Аррр!!!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 2
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C2 Сюда и ведут следы пришельцев…
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 1
+# Comments: Character comments: behind the ship
+
+0x4F928820 Чье-то тело!
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 3
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA24 Ты отведешь меня домой?
+
+# Character name (Character: "base_body", model: "Dead Researcher_@creature_editorModel!0x076b007d.crt")
+# Comments: This is what most of them become - horribly infected, disfigured…and dead
+
+0xC1605860 Труп ученого
+
+# Character name (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt")
+# Comments: The Station's Geophysicist
+
+0x36F50860 Н'Оррис
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 3
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025842 Что это она ищет?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 3
+# Comments: Character comments: Runs off
+
+0xC1251922 …Проклятье. Здесь никто не заболевает просто так. Я проверил все с биологической точки зрения: так и есть...
+
+# Character name (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt")
+# Comments: The Station's Meteorologist
+
+0xDB1A5860 Бен Нинг
+
+# Act 1 name
+
+0x00000020 Место крушения
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 2
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA23 Я только хочу, чтобы папа вернулся...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 1
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C5 Голоса... У меня в голове...
+
+# Character name (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Infected version of Blaair
+
+0x4AB34860 Заражение
+
+# 'Adventure lost' message
+
+0x00000012 Ты, наверное, до сих пор там… Наедине с болезнью. А может, тебя уже кто-нибудь съел… Жаль, что жизнь не дает нам вторых попыток, не так ли?..
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 3
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A822 ...значит, кто-то мог выжить!
+
+# Character name (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld")
+# Comments: Base fence used to separate areas. High, wish it could be electrified!
+
+0x1A8A0860 Забор
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 1
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89820 Сломанный снегомобиль "Абрахам"…
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 1
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8820 Добро пожаловать! Наверное, ты хочешь осмотреть наш центр?
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 2
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025841 По-моему, она чего-то боится…
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 1
+
+0xE03FE920 Опять чья-то кожа. Причем совсем свежая.
+
+# Act 5 description
+
+0x00000029 Похоже, у Эфти есть иммунитет к болезни. Нужно увезти ее с этой планеты. Поскорее приведи ее к точке отбора.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 5
+# Comments: Character comments: Runs off
+
+0xC1251924 У нас проблемы. Надо что-то делать…
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 2
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89821 Их еще называют снежными катерами…
+
+# Character name (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl")
+# Comments: A high tech machine on treads
+
+0xB9C89860 Снегомобиль
+
+# Character name (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt")
+# Comments: Little girl child like Newt in Aliens
+
+0x0CAAA860 Эфти
+
+# Adventure description
+
+0x00000003 На одной холодной планете, неподалеку от исследовательского центра, потерпел крушение корабль пришельцев. Осмотреть место происшествия.
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 5
+
+0xDB1A5924 Боюсь, и она погибла… бедная маленькая Эфти…
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 эколог, сопровождение, зомби
+
+# Character name (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt")
+# Comments: Looks like a pile of seaweed (Kelp or Dulce)
+
+0xE03FE860 Кожа пришельца
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 2
+
+0xC12518C1 У нас есть проблемы поважнее, чем этот мусор!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 4
+
+0xDB1A5923 Но самое ужасное другое. Палм привез с собой на станцию дочь.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 3
+
+0x5B7F8943 Здесь что-то другое...
+
+# Act 3 name
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000024 Обвинение
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 3
+
+0xC12518C2 Кхе... Кхе!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73940 Станция выглядит так, как будто там давно никого нет…
+
+# Character name (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld")
+# Comments: A number of these, on stilts. Covered in snow
+
+0x282EC860 Исследовательский центр
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 3
+
+0xDB1A5922 Наши ребята… Сначала просто казалось, что они заболели, а п-потом… они все сошли с ума...
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 2
+# Comments: Character comments: Should run off
+
+0x36F50941 Кхе!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 2
+
+0x5B7F8942 Собака ни в чем не виновата! Иди сюда, девочка!
+
+# Act 5 name
+
+0x00000028 Кто там?
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 1
+# Comments: Character comments: Should run off
+
+0x36F50940 Я слышу…
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 2
+
+0xDB1A5921 Здесь творится что-то невообразимое. Большинство, включая командира, погибли или пропали без вести. Видимо, теперь я за главного…
+
+# Character name (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt")
+# Comments: infected version of N'orris
+
+0x0CAAA861 Заражение
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 1
+
+0x5B7F8941 Я туда не вернусь! Ни за что!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 1
+
+0xC12518C0 Уходим отсюда!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 1
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A20 Гр-р-р! Я… я… извинять…
+
+# Character name (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: Look like small men draped in thick seaweed.
+
+0xE3E11862 Зараженный пришелец
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 1
+
+0xDB1A5920 Моя фамилия Нинг. Бен Нинг. Я местный метеоролог.
+
+# Character name (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt")
+# Comments: The Station's Biologist
+
+0xC1251860 Блеер
+
+# Character name (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt")
+# Comments: Wegians are four-legged dog-like creatures. Love Clark
+
+0x61025860 Вегианка
+
+# Act 1 description
+
+0x00000021 Похоже, здесь и разбился корабль пришельцев. Искать выживших и попытаться установить причины катастрофы.
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 1
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025840 Похоже на домашнее животное.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 4
+
+0xC12518C3 Что-то я неважно себя чувствую...
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 4
+
+0xDB1A5A48 Мне здесь не нравится!
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 3
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8822 Половина сотрудников болеют...
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 1
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0820 Забор вокруг исследовательского центра…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 5
+
+0xC12518C4 Кхе!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 4
+
+0x5B7F8944 Где Н'Оррис?! Он следующий, попомни мое слово…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 3
+
+0xDB1A5A47 Я хочу к папочке...
+
+# 'Adventure start' message
+
+0x00000010 Осмотреть место крушения, найти признаки жизни и убедиться, что исследовательский центр в безопасности.
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 4
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A23 Скоро все болеть. УХОДИ! Помощь!
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 2
+
+0xDB1A5A46 Помоги!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 2
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0821 Проект "Темная вода" - условия полной секретности…
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 1
+
+0xDB1A5A45 А это что такое?
+
+# Act 4 name
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000026 Встреча
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 4
+
+0x5B7F89C3 Смотри за Нингом: на него свалилась такая ответственность…
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 5
+
+0x5B7F89C4 Мне он никогда не нравился. Они мне все не нравились… Где моя собака?!
+
+# Act 2 name
+
+0x00000022 Что-то не так…
+
+# Act 3 description
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000025 Исследовать центр, искать улики возле кладбища.
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 4
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0823 Кроме... пришельцев…
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC820 Жрун-12 - стандартный биотермальный комплекс…
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 3
+
+0x36F508C2 Кто-то шепчет...
+

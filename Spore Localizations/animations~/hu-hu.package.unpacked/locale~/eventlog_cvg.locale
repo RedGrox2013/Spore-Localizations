@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~ elutasította a kereskedelmi útvonalról szóló ajánlatot.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~ elfogadta kereskedelmi útvonaladat.
+
+#######################################
+# event logs
+
+0x00000005 Megtérítetted ~target_city_name~ városát!
+0x00000004 Elfoglaltad ~target_city_name~ városát.
+0x0000000E ~target_city_name~ elfoglalva!
+0x0000000F ~target_city_name~ megtérítve!
+0x0000001A Sikerült megvásárolnod ~target_city_name~ várost!
+0x00000019 Nem sikerült ~target_city_name~ megvásárlása.
+0x00000018 ~target_city_name~ most már megvásárolható.
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x0000002F Az egyik fűszerkitermelő támadás alatt áll!
+0x00000028 Háború tört ki ~source_civ_name~ és közted.
+0x00000026 ~source_civ_name~ nincs többé.
+0x00000032 Megszereztél egy fűszergejzírt.
+0x00000029 Háborúban állsz ~source_civ_name~ népével.
+0x00000023 Ha a fűszergejzírre kattintasz, megkezdheted a járművel a kitermelést.
+0x0000002B Megszűnt a szövetséged ~source_civ_name~ népével.
+0x00000030 %d spóradollárt zsákmányoltál a törzstől!
+0x0000002A Már nem állsz háborúban ~source_civ_name~ népével.
+0x00000035 Kattints egy városra az indításhoz!
+0x0000002C ~source_civ_name~ szövetségese lettél.
+0x00000033 Elfoglaltál egy fúrótornyot.
+0x00000036 A törzs ellenséges, és megtámadja a járművedet!
+0x00000031 Ingyen járművet kaptál a törzstől!
+0x00000021 ~target_city_name~ támadás alatt áll!
+0x0000001C Kereskedelmi útvonal jött létre ~target_city_name~ városával.
+0x00000027 ~source_civ_name~ elfoglalta ~target_city_name~ városát!
+0x00000034 ~target_city_name~ ünnepel, ezért több a bevétele!
+0x00000024 Létrejött ~target_city_name~ város!
+

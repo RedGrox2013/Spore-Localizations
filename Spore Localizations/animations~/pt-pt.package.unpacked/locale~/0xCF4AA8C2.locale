@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Outra missão poderá ser a opção certa.
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 Estou sempre pronto para uma Aventura!
+0xFADED01B Conte comigo. Adoro Aventuras.
+0xFADED01A Parece uma Aventura interessante.  Eu alinho.
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 Agradeço a oferta, mas tenho de recusar.
+0xFADED01C Tenho de recusar, mas não lhe posso dizer porquê.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Peço a vossa compreensão.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED009 Talvez noutra altura. Até mais ver.
+0xFADED00A Já vi que precisa de um momento. Adeus.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Disponha. Até mais ver.
+0xFADED015 É um prazer ajudar. Até mais ver.
+0xFADED016 Não incomoda nada. Adeusinho.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Imploro ser afastado desta tarefa.
+0xFADED021 Esta tarefa já não se encaixa na minha agenda.
+0xFADED020 Tenho de recusar esta tarefa.
+0xFADED022 Preferia fazer outra coisa.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Antes de ir, tenho outras questões.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Sim senhor! Vá com calma!
+0xFADED005 Já percebi. Inté.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Entendido, Controlo de Missão.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Gostava de lhe perguntar outra coisa...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Até mais ver. Adeus.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Mais uma coisa...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Ah, claro! O registo da missão. Vou lá procurar!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Agora não estou interessado. Talvez mais tarde.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Pode lembrar-me qual é a minha missão?
+0xFADED027 Uhh... Diga-me lá outra vez, o que é que tenho de fazer?
+0xFADED024 Esqueci-me do que estava a fazer. Qual é a minha missão?
+0xFADED01F Preciso de verificar novamente a missão...
+0xFADED028 Esqueci-me qual é a missão. Qual é mesmo?
+
+# mission_incomplete -> do exit
+
+0xFADED010 Entendo. Voltarei em breve.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B Já vi que está ocupado. Falamos depois.
+0xFADED008 Peço desculpa pelo incómodo. Até mais ver.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Não vou fazer isto, por várias razões.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Há qualquer coisa aqui que não está bem. Não.
+0xFADED00D Eu não trabalho para "O Homem"! Nada feito!
+0xFADED012 Não. Tudo isto parece... pouco honesto.
+0xFADED014 Nunca! Como é óbvio, abomino a violência.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Compreendido. Adeus
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 E também...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Antes de ir, tenho outras questões...
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 Os ~race~ questionam a sua indecisão. É evidente que lhe falta uma força dominante a orientar o seu caminho. Que infelicidade.
+0xFADED02D Claro que sim, claro que sim. Eu sabia que seria inútil referir um assunto tão insignificante a alguém tão glorioso como vós. Talvez pudesse consolar-me gastando dinheiro na loja?
+0xFADED02F Desistir não é algo que ~race~ entendam. ~player_creature_name~ não é ~race~.
+0xFADED034 Compreendido, ~player_title~ ~player_creature_name~. Agradecemos a sua discrição.~p~Irá de facto poupar-nos alguma papelada. O processo de aprovação subcontratual do transporte interplanetário de criaturas requer apenas trezentos e sessenta e dois formulários diferentes assinados e carimbados em triplicado. ~p~É claro que isto fica aquém das orientações estabelecidas no Procedimento de Funcionamento Padrão... Devia ver os formulários necessários para o transporte de especiarias fermentadas.
+0xFADED032 Deve seguir o seu próprio caminho.~p~ Passe bem, amigo.
+0xFADED031 Como se atreve a voltar atrás na sua palavra a Grox! Insolente!
+0xFADED02B Escolha interessante, ~player_title~ ~player_creature_name~. Se calhar, tem informação de que nós não dispomos, embora isso seja improvável.
+0xFADED02C Oooh... está bem... Sim, tudo bem. ~p~Se não está empenhado, não queremos que interaja com outra forma de vida... ~p~
+0xFADED02E Parece que vai ter de descobrir sozinho como se pode tornar num Capitão Espacial lendário... da maneira mais difícil.~p~Boa sorte...
+0xFADED033 TUDO BEM... ASSIM seja. Não vai magoar-nos.~p~Pronto... magoou um pouco.
+

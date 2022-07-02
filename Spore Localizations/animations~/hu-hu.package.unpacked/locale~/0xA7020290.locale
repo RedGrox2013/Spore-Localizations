@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gratulálunk! Enigma urat lenyűgözte fantasztikus elméd. Alig várja, hogy megint megdolgoztassa egy csavaros rejtvénnyel!
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Minden színes kártya valamelyik kapuhoz tartozik. Csak az egyik kapu vezet a Rejtélyek kulcsához.
+
+# Adventure name
+
+0x00000002 Enigma úr mágikus kapui
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 A Rejtélyek kulcsa
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Rejtélysátramnak a világban nincs párja! Rejtvényeivel csak a bátrakat várja...
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Enigma úr
+
+# Act 3 description
+
+0x00000025 Megtaláltad a kulcsot! Most használd a mágikus teleportot, és add át a kulcsot Enigma úrnak!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Enigma úr, ez a nevem. A látogatóimat próbára teszem!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Üdvözletem, helló, helló! Gyere, vár az utazó show!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Remélem, nem akadsz el... Járjál hát szerencsével!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Ha okos vagy, rátalálsz a kulcsomra. Ha nem... Ezt is megtudjuk nyomban!
+
+# Act 1 name
+
+0x00000020 Ismerkedj meg Enigma úrral
+
+# 'Adventure lost' message
+
+0x00000012 Ne add fel! Próbáltad már mindkét kezeddel?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Látjuk még egymást, nem kétséges!
+
+# Act 3 name
+
+0x00000024 Megvan!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 A bajnok te vagy, az elméd éles.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Aligha fogsz ellenkezni...)
+
+# Adventure description
+
+0x00000003 Enigma úr elmepárbajra hív. Sikerül megszerezned a Rejtélyek kulcsát?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 rejtvény, Enigma úr, kapuk, kulcsok
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 A kulcsom! A kulcsom! Nincs mit tenni...
+
+# Act 4 name
+
+0x00000102 Mesés munka!
+
+# Act 1 description
+
+0x00000021 Az ember sosem tudhatja, mit varázsol elő a kalapjából Enigma úr. Vajon mivel várja ma a látogatóit a nevezetes Rejtélysátor?
+
+# Act 4 description
+
+0x00000103 Lenyűgözted Enigma urat!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 A rejtély nehéz, még én sem tagadom...
+
+# 'Adventure start' message
+
+0x00000010 Enigma úr a galaxisban kóborol, meghökkentve kicsiket és nagyokat, amerre jár. Vajon miféle rejtvényt hoz e kopár sárgolyóra?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 Ha elakadsz, két kézzel segíts magadon!
+
+# Act 2 name
+
+0x00000100 A Rejtélyek kulcsa
+

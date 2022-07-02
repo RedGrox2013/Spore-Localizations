@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D 冲锋 
+0x0000001E 从远距离对单一目标进行的一次拦截攻击，并在接触目标时造成其晕眩。
+
+# Colony_Building.prop
+
+0x0000004F 生产
+0x00000050 增加生产可以为殖民地提供更多资金。
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 军事空中
+0x0630D532 从空中展开军事行动。
+
+# Colony_CivicObject.prop
+
+0x00000051 城市物体
+0x00000052 城市物体仅仅是作为装饰。
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 殖民地空中
+0x0630D572 从空中探索殖民地！
+
+#socialize
+
+0x00001001 交际 
+0x00002001 添加唱歌，做手势，跳舞和媚惑的部件来和其它生物进行社交。
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 殖民地海上
+0x0630D574 从海上探索殖民地！
+
+# City_Income.prop
+
+0x00000037 收入
+0x00000038 当把工厂建立在房屋旁边时，能够增加其收入，但是也会降低市民幸福度，特别是靠近娱乐场所的时候。
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 跳舞 
+0x33A78A34 跳舞可以让您亲近那些能够接受这种肢体语言的生物。 
+
+# Tribe_Shaman_Staff.prop
+
+0x00000103 为您的生物装备上萨满之杖，这样它们就可以在作战的同时治疗伙伴们了。
+0x00000102 治疗杖
+0x0666A342 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~载具生命值
+
+# CL_Proboscis.prop
+
+0x0000004B 杂食动物 
+0x0000004C 您的生物吸食植物以及活细胞的汁液。
+0x06493565 杂食——您吃绿色植物和其他细胞。
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D576 从陆上探索殖民地！
+0x0630D575 殖民地
+
+# Charm5.prop
+
+0x0000008B 魅惑
+0x0000008C 这一社交动作可以让您亲近那些拥有细致部件的生物。
+
+# Spit2.prop
+
+0x000000C2 喷吐 
+0x000000C3 喷吐多个抛射物，对单一目标进行的一次快速攻击。
+
+# Herbivore1-5.prop
+
+0x0473A24E 食草动物 
+0x0473A24F 您的生物吃水果。 
+
+# City_Cultural.prop
+
+0x0000002C 宗教载具可以将不快乐的城市皈依到您的文明中。
+0x0000002B 皈依其他人
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~%
+
+# Charge5.prop
+
+0x00000021 冲锋 
+0x00000022 从远距离对单一目标进行的一次拦截攻击，并在接触目标时造成其晕眩。
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE 喷吐 
+0x000000BF 喷吐多个抛射物，对单一目标进行的一次快速攻击。
+
+##### Tribal Accessories #####
+
+0x055D4830 战斗
+0x055D4832 社交
+0x055D4836 采集
+0x055D4837 这一附件对采集食物有所帮助。
+0x055D4838 捕鱼
+0x055D4831 这一附件增加你在战斗中造成的伤害。
+0x055D4833 这一附件增加你在社交互动时打动其它部落的几率。
+0x055D4839 这一附件提高你的捕鱼能力。
+0x055D4EB3 添加附件来提高你的战斗，社交，采集以及捕鱼技巧，或者添加盔甲来防卫自己。
+0x055D4E62 部落附件
+0x055D4835 这一附件增加你的部落成员的生命程度。
+0x055D4834 生命
+
+### Complexity Meter ##
+
+0x05F110B4 如果这一指示器为红色，那么您将无法添加更多部件。
+0x05F110B3 复杂度指示器
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 打击 
+0x000000D5 在近距离对多个目标进行的一次全力攻击。
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 自动攻击 
+0x049A3CDB 您的标准自动咬击 
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD 第~icon_amount~等级
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 唱歌 
+0x00000121 唱歌可以让您亲近那些喜欢声乐的生物。 
+
+#health
+
+0x00002008 生命显示出您的细胞能够承受多少伤害。 每个细胞都有三个生命单位。
+0x00001008 生命
+0x00001004 生命
+0x00002004 大脑每升级一次都会增加您的生命程度，或者您可以通过购买带鳞甲的部件来提高战斗中的生存机会。
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 速度
+0x04CEA2D3 增加您载具的速度可以使其移动得更快。
+
+# Colony_House.prop
+
+0x066657CA 生产
+0x066657CB 房屋和工厂相连可以增加香料生产。
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 力量
+0x04CEA2D5 增加力量意味着增加效率。
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 攻击 
+0x00001007 攻击 
+0x00002000 添加咬，打击，冲锋和喷吐部件来攻击其它生物。
+0x00002007 增加尖刺，毒素以及电击的部件来攻击其它细胞。
+
+# Posture3.prop
+
+0x000000A7 摆姿势  
+0x000000A8 摆姿势可以让您亲近那些拥有手的生物。
+
+# Dance2.prop
+
+0x00000057 跳舞 
+0x00000058 跳舞可以让您亲近那些能够接受这种肢体语言的生物。 
+
+# Bite2.prop
+
+0x00000005 咬 
+0x00000006 在近距离对单一目标的一次快速攻击。
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 魅惑
+0x0000008A 这一社交动作可以让您亲近那些拥有细致部件的生物。
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526772 您的细胞猎杀其他细胞，吃大块的肉，并吸食植物以及活细胞的汁液。
+0x06526762 杂食动物
+
+# Charge2.prop
+
+0x0000001B 冲锋 
+0x0000001C 从远距离对单一目标进行的一次拦截攻击，并在接触目标时造成其晕眩。
+
+# Bite1.prop
+
+0x00000001 咬 
+0x00000002 在近距离对单一目标的一次快速攻击。
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 工厂
+0x06496725 增加收入但是降低了快乐度
+
+# CL_Cilia.prop
+
+0x0000003F 快速转身 
+0x00000040 您的细胞转身很快。
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC 生产
+0x066657CD 殖民地娱乐设施
+
+# Colony_Factory.prop
+
+0x066657CE 生产
+0x066657CF 工厂位于房屋旁边会增加香料的生产，但也会降低快乐，尤其是在娱乐的附近。
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 部落附件
+0x04D02BF8 为您的部落成员添加附件来提高他们的能力！
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 军事海上
+0x0630D534 从海上展开军事行动。
+
+#movement
+
+0x00001003 速度 
+0x00001006 移动 
+0x00002006 增加纤毛，鞭毛以及喷射口部件来更快地移动。每个额外的运动部件都会增加细胞的移动速度。
+0x00002003 添加加速更快的脚来加快移动速度！
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 扫描
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526771 您的生物吃绿色植物，并吸食植物以及活细胞的汁液。
+0x06526761 杂食动物
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~力量
+
+# Spit5.prop
+
+0x000000C8 喷吐 
+0x000000C9 喷吐多个抛射物，对单一目标进行的一次快速攻击。
+
+# Posture5.prop
+
+0x000000AB 摆姿势  
+0x000000AC 摆姿势可以让您亲近那些拥有手的生物。
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 娱乐
+0x06496727 增加快乐度可以保卫宗教的攻击
+
+# Dance5.prop
+
+0x0000005D 跳舞 
+0x0000005E 跳舞可以让您亲近那些能够接受这种肢体语言的生物。 
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 疾跑 
+0xF386C342 疾跑让您可以快速提升速度。额外的疾跑部件能够增加它的持续时间。
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 速度 
+0x0473A251 添加更好的脚来更快的移动。 
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 经济陆上
+0x0630D546 从路上展开贸易！
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6D 生命
+0x04CB5B6C 更高的生命能够提高遭到生物攻击后的存活率。
+
+# CL_Shock.prop
+
+0x0000004D 电击 
+0x0000004E 您的细胞可以电击附近的细胞。
+
+# CL_Poke.prop
+
+0x00000049 刺击 
+0x0000004A 冲锋到细胞旁去攻击它们。 如果您戳刺，可能毁坏一些物体。
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 猛然加速 
+0x00000046 您的细胞加速很快。
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F 抓握肢 
+0x000000A0 捡起并使用世界中的物体。  
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 宗教陆上
+0x0630D556 在陆上感化群众！
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 经济力量
+0x06318043 经济力量可提高商路的收益性。
+
+# CL_Speed.prop
+
+0x0563FF82 速度 
+0x0563FF83 速度 
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE 第~icon_amount~等级
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 鱼叉
+0x000000F1 鱼叉让您可以更有效率地从附近的鱼洞中收集到食物。
+0x0666A340 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+# Bite5.prop
+
+0x0000000B 咬 
+0x0000000C 在近距离对单一目标的一次快速攻击。
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~宗教力量
+
+# Tribe_Hunt3.prop
+
+0x0000010A 矛
+0x0000010B 矛让您的部落成员可以进行远程攻击。
+0x0666A346 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+# Spit3.prop
+
+0x000000C4 喷吐 
+0x000000C5 喷吐多个抛射物，对单一目标进行的一次快速攻击。
+
+# Posture2.prop
+
+0x000000A5 摆姿势  
+0x000000A6 摆姿势可以让您亲近那些拥有手的生物。
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 宗教海上
+0x0630D554 在海上感化群众！
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~经济力量
+
+# City_Population.prop
+
+0x0000003B 人口
+0x0000003C 当和工厂连接起来后，房屋就能够增加收入。 每个房屋也能提高一点您的载具上限。
+
+#diet
+
+0x00001002 食谱 
+0x00001005 食谱 
+0x00002002 您作为一个细胞的食谱将决定您作为一个生物的食谱。
+0x00002005 添加过滤嘴，颌以及长嘴部件来吃不同种类的食物。
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 阻挡 
+0x00000016 在格斗中，用阻挡来避免受到伤害。 
+
+# City_NormalOutfit.prop
+
+0x05B1E9BC 为您的市民创造一个装备。
+0x05B1E9BB 为您的市民创造一个装备。
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 冲锋 
+0x00000018 从远距离对单一目标进行的一次拦截攻击，并在接触目标时造成其晕眩。
+
+# Charm3.prop
+
+0x00000087 魅惑
+0x00000088 这一社交动作可以让您亲近那些拥有细致部件的生物。
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 跳 
+0x00000098 跳跃让您可以到达常人难至的地区。更高的等级将会提升您的跳跃高度。  在溜达模式中点击空格来预览吧。
+
+# Strike2.prop
+
+0x000000D8 打击 
+0x000000D9 在近距离对多个目标进行的一次全力攻击。
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 宗教力量
+0x06318041 增加您载具的宗教力量可使其宗教力量更强。
+
+# Dance4.prop
+
+0x0000005B 跳舞 
+0x0000005C 跳舞可以让您亲近那些能够接受这种肢体语言的生物。 
+
+### House ###
+# Building_House.prop
+
+0x06496722 房屋
+0x06496723 增加城市的人口和载具的上限
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 滑翔 
+0x00000096 翅膀让您的生物可以飞起来。翅膀的等级越高飞的越远。
+
+# Tribe_Gather3.prop
+
+0x0666A341 通过与其他部落同盟或征服其他部落来获取他们的工具。
+0x000000FC 采集工具
+0x000000FD 这件采集工具让您可以尽可能多地收集到各种水果，甚至是从最高的树上。
+
+# City_Happiness.prop
+
+0x00000033 幸福度
+0x00000034 通过在房屋旁边建设娱乐建筑来让您的市民保持快乐。
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 生命
+0x04CEA2D1 增加您载具的生命可以使其在战斗中存活更久。
+
+# Bite3.prop
+
+0x00000007 咬 
+0x00000008 在近距离对单一目标的一次快速攻击。
+
+# CL_Poison.prop
+
+0x00000047 吐毒 
+0x00000048 您的细胞能够喷吐毒雾。
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 军事陆上
+0x0630D536 从陆路展开军事行动。
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 您的细胞吃绿色植物，同时猎杀其他细胞，并吃大块的肉。
+0x06526760 杂食动物
+
+# Starvivore.prop
+
+0x04D1938A 一个没有嘴的生物最终只能饥饿而亡。 请添加一个嘴！
+0x04D19389 没嘴
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 摆姿势
+0x000000A2 摆姿势可以让您亲近那些拥有手的生物。
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~军事力量
+
+# Vocalize2.prop
+
+0x0000011E 唱歌 
+0x0000011F 唱歌可以让您亲近那些喜欢声乐的生物。 
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 潜行 
+0x000000D3 通过潜行避开攻击者，或是让其它生物无法察觉。在潜行时发动攻击会增加攻击的效果。 
+
+# Charge4.prop
+
+0x0000001F 冲锋 
+0x00000020 从远距离对单一目标进行的一次拦截攻击，并在接触目标时造成其晕眩。
+
+# Strike3.prop
+
+0x000000DA 打击 
+0x000000DB 在近距离对多个目标进行的一次全力攻击。
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 高速 
+0x00000042 您的细胞移动较快。
+
+# Vehicle_MilitaryPower.prop
+
+0x06318045 增加您载具的军事力量可使其军事力量更强。
+0x06318044 军事力量
+
+# City_Military.prop
+
+0x00000039 军事载具
+0x0000003A 军事载具可以攻击并摧毁其它城市。
+
+# Strike5.prop
+
+0x000000DE 打击 
+0x000000DF 在近距离对多个目标进行的一次全力攻击。
+
+# Tribe_Hunt.prop
+
+0x00000104 攻击
+0x00000105 猎杀其它动物作为食物，或者攻击其它部落。
+0x0666A343 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+# City_Economic.prop
+
+0x0000002F 和其它城市建立其商路
+0x00000030 经济载具可以和其它城市交易来买下它们。
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD 视觉 
+0x0500E7DE 您的生物需要眼睛才能看清这一世界。
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526773 您的细胞吃绿色植物，同时猎杀其他细胞，吃大块的肉，并吸食植物以及活细胞的汁液。
+0x06526763 杂食动物
+
+# CL_Herbivore.prop
+
+0x00000043 食草动物 
+0x00000044 您的细胞吃绿色植物。
+0x06494A72 食草——您吃绿色植物。
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C 食肉动物 
+0x0473A24D 您的生物吃其它动物。 
+
+# Omnivore.prop
+
+0x04D18880 杂食动物 
+0x04D18881 您的生物既吃水果也吃其它动物。 
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A 唱歌 
+0x0000011B 唱歌可以让您亲近那些喜欢声乐的生物。 
+
+# HitPoints.prop
+
+0x062CFA7D 生命
+0x062CFA7E 更高的生命值能够提高遭到生物攻击后的存活率。
+
+#Generic
+
+0x04D3040D 能力 
+0x04D3040E 您添加的部件将给予您能力。  进化！
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 经济空中
+0x0630D542 从空中展开贸易！
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 太空船
+0x0630D566 你和严酷的真空环境之间仅仅相隔了6英尺。
+
+# Colony_UFO.prop
+
+0x00000053 太空船
+0x06779205 殖民地没有海港。
+0x00000054 探索！建设！捕捉！毁灭！这些就是您太空船的能力。
+
+# Strike4.prop
+
+0x000000DC 打击 
+0x000000DD 在近距离对多个目标进行的一次全力攻击。
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 宗教空中
+0x0630D552 在天空中感化群众！
+
+# City_Food.prop
+
+0x00000031 删除
+0x00000032 删除
+
+# Dance3.prop
+
+0x00000059 跳舞 
+0x0000005A 跳舞可以让您亲近那些能够接受这种肢体语言的生物。 
+
+# Vocalize4.prop
+
+0x00000122 唱歌 
+0x00000123 唱歌可以让您亲近那些喜欢声乐的生物。 
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~载具速度
+
+# Tribe_Hunt1.prop
+
+0x00000107 燃烧的火把用来摧毁器物和屋子非常有效，但是面对生物它就不是那么方便了。
+0x00000106 燃烧的火把
+0x0666A344 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+# CL_GameSpeed.prop
+
+0x0649A10C 速度
+0x0649A10D 增加纤毛，鞭毛以及喷射口的部件来更快地移动。 每个额外的运动部件都会增加细胞的移动速度。
+
+# City_CivicObject.prop
+
+0x533DD075 城市物体
+0x533DD076 城市物体只有装饰作用。
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 经济海上
+0x0630D544 从海上展开贸易！
+
+# Vocalize5.prop
+
+0x00000124 唱歌 
+0x00000125 唱歌可以让您亲近那些喜欢声乐的生物。 
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 沙球
+0x00000111 用这些沙球来打动其他部落成员！
+0x0666A349 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 为您的殖民地居民添加附件！
+
+# CL_Carnivore.prop
+
+0x0000003D 食肉动物 
+0x0000003E 您的细胞猎杀其他细胞，并吃大块的肉。
+0x06494A73 食肉——您猎杀其他细胞，并吃大块的肉。
+
+# Spit4.prop
+
+0x000000C6 喷吐 
+0x000000C7 喷吐多个抛射物，对单一目标进行的一次快速攻击。
+
+# City_Defense.prop
+
+0x0000002D 保卫城市！
+0x0000002E 增加城市的防御力。
+
+# Posture4.prop
+
+0x000000A9 摆姿势  
+0x000000AA 摆姿势可以让您亲近那些拥有手的生物。
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E 土著管乐器
+0x0000010F 用这些土著管乐器来打动其他部落成员！
+0x0666A348 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+# Tribe_SocialHorn.prop
+
+0x0000010D 用这些角来打动其他部落成员！
+0x0000010C 木头角
+0x0666A347 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000082 这一社交动作可以让您亲近那些拥有细致部件的生物。
+0x00000081 魅惑
+
+# City_Harvester.prop
+
+0x00000036 删除
+0x00000035 删除
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496721 城市礼堂描述
+0x06496720 城市礼堂
+
+# Bite4.prop
+
+0x00000009 咬 
+0x0000000A 在近距离对单一目标的一次快速攻击。
+
+# Charm2.prop
+
+0x00000085 魅惑
+0x00000086 这一社交动作可以让您亲近那些拥有细致部件的生物。
+
+# Tribe_Hunt2.prop
+
+0x00000108 石斧
+0x00000109 石斧在面对野生动物和其他土著时相当有效，但是在面对工具器物和屋子时就不是那么实用了。
+0x0666A345 通过与其他部落同盟或征服其他部落来获取他们的工具。
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x0000007F 求偶呼叫 
+0x00000080 通过呼叫来找到您的同伴以及巢穴，但是要小心别让附近的猎食者听到了。 
+

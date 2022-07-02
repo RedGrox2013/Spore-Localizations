@@ -1,0 +1,14 @@
+﻿# For SporeAlert message box caption
+
+0x07D1E41A Alerte
+
+# message for diaglog shown when assets are downloaded from a 
+# sporecast marked with the notify flag by the server.
+
+0x07C3B843 Téléchargement de ~SyncNum~, nouvelles créations gratuites du Sporecast ~SyncName~.
+
+# Scenario variations of the banning messages
+
+0x07D9DB89 Voulez-vous retirer ~generic0~ du jeu ?~br~~br~Votre score ne sera plus crédité sur cette aventure.
+0x07D9DB8E Voulez-vous retirer le contenu local ~generic0~ ?~br~~br~Votre score ne sera plus crédité sur cette aventure.
+

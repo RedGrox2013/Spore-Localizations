@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Acceptable
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Didacticiels
+0x058B62B1 Astuces
+0x058B62B2 Défil. bords
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B5 Paramètres graphiques
+0x0474E6B6 Bas
+0x0474E6C2 Moyen
+0x0474E6C6 Elevé
+0x0474E6CC Ombres
+0x0474E6D0 Détail texture
+0x0474E6D6 Effets graphiques
+0x0474E6DE Qualité personnages
+0x0474E6E4 Qualité planètes
+0x0474E6E5 Qualité lumières
+0x0474E6E9 Taille écran
+0x0474E6F0 Profils
+0x058A2A2B Changer la taille de l'écran nécessite un redémarrage et entraînera une perte de fluidité.
+0x058B6240 Plein écran
+0x058B624C Fenêtre
+0x0474E6B4 Par défaut
+0x0474E6ED Taille du cache disque (Mo)
+0xBBFC7687 Profondeur de champ
+0x0674D28F Mode d'affichage
+0x066A4BC8 Anti-crénelage
+0x0695A585 La combinaison Command/Return permet de passer du mode fenêtre au mode plein écran et inversement.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B6 Déplacer soucoupe
+0x080B23B8 Changer altitude soucoupe
+0x080B23B7 Inclinaison/rotation caméra
+0x080B23B2 Civilisation
+0x080B23B3 Choisir cible
+0x080B23B4 Activer outil
+0x090A24A7 Déplacer caméra
+0x090A23A4 Zoomer
+0x090A23A3 Déplacer créature
+0x090A28A7 Sélectionner un véhicule
+0x090A28A6 Sélectionner un villageois
+0x090A26A9 Inclinaison/rotation caméra
+0x088B63B6 Créature
+0x090A21A6 Donner des ordres
+0x088B63B9 Tribu
+0x088B63B7 Cliquer ici pour associer la rotation de la carte au bouton droit de la souris
+0x090A29A7 Déplacer cellule
+0x090A50AA Cliquer sur le bouton gauche et étirer ou utiliser les touches Z-Q-S-D
+0x090A50A6 Faire défiler molette
+0x090A50A5 Cliquer sur le bouton droit et étirer
+0x090A50A7 Cliquer sur les deux boutons et étirer
+0x090A50A8 Cliquer sur le bouton droit et étirer ou utiliser les touches Z-Q-S-D
+0x090A50A9 La Créature suit le curseur
+0x090A50A1 Utiliser les touches Z-Q-S-D
+0x090A50A4 Cliquer sur le bouton droit
+0x090A50A3 Cliquer sur le bouton gauche et étirer
+0x090A50A2 Cliquer sur le bouton gauche
+0x088B63B3 Cellule
+0x080B23B9 Espace
+0x088B63B4 Cliquer ici pour suivre automatiquement le curseur
+0x088B63B5 Survolez les icônes ci-dessous pour en voir le fonctionnement
+0x090A30B5 Sélectionner des véhicules dans~br~un rectangle
+0x090A30B4 Sélectionner des villageois dans~br~un rectangle
+0x090A50AB Maintenez les touches Command et Option enfoncées et cliquez avec le bouton de la souris
+0x090A50AC Maintenez le bouton central enfoncé
+
+#### profile - user selects ####
+
+0x0474E6FC Sélection joueur
+
+#### profile - performance ####
+
+0x0474E6F1 Performance
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Déconnexion
+0x0565289E Connexion
+0x0565289F Inscription
+0x056528A0 Connexion serveur
+0x056528A4 Non inscrit
+0x056528A5 Créer un compte de connexion Spore.
+0x056528A6 Hors ligne
+0x056528A8 ~generic0~ Connecté
+0x056528A9 Déconnexion ou changement de joueur.
+0x058B63D4 Corres. esthétique
+0x056528A3 Rappeler au lancement
+0x056528A1 statut :
+0x056528A7 Connexion à SPORE.
+0x0626E391 Régler le délai de suppression définitive
+0x05E39554 Mise à jour de la base des contenus...
+0x058B63D3 Contenus d'amis uniquement
+0x056528A2 Options en ligne
+0x0626E392 Archiver les dossiers effacés
+0x067A21D9 Jours.
+0x067A21D8 Ne télécharger que des contenus en provenance d'abonnements ayant moins de (en jours) :
+0x0626E390 Effacer anciens téléchargements
+0x067A21D7 Taille du cache téléchargement (Mo)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Paramètres audio
+0x0473EF2C Paramètres graphiques
+0x0473EF2D Paramètres de jeu
+0x0473EF2E Paramètres capture
+0x0473EF2F Paramètres en ligne
+0x0473EF30 Générique
+0x0473EF31 Sauvegarde paramètres
+0x0473EF32 Fermer sans sauvegarder
+0x0473EF33 Paramètres
+0x0473EF34 Paramètres commandes
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Connexion automatique à YouTube
+0x0589E518 Taille vidéo
+0x0589E51C Taille image
+0x0589E51D Petite
+0x0589E51E Moyenne
+0x0589E51F Grande
+0x058B6381 Paramètres jeu et capture
+0x058B63A0 Capture vidéo sans son
+0x05D1185C Options de jeu & Aide
+0x0631825F Si vous avez choisi l'emplacement par défaut lors de l'installation, vos photos et vidéos se trouvent dans ~generic0~(type d'objet)
+
+#### profile - image quality ####
+
+0x0474E6F5 Qualité image
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D893 Voix
+0x0431D894 Effets
+0x0431D896 Tous muets
+0x0431D897 Mixage
+0x0431D898 Configuration haut-parleurs
+0x0431D899 2 haut-parleurs (stéréo)
+0x0431D89B Haut-parleurs 5.1 (surround)
+0x0431D89A 4 haut-parleurs (quadr.)
+0x0431D895 Musique
+0x0431D89C Qualité du son
+0x0431D89D Tous les volumes
+0x0431D89E Volume de la musique du jeu
+0x0431D89F Volume des voix des créatures
+0x0431D8A0 Volume des effets sonores
+0x0431D8A1 Rendez-vous à l'écran Galaxie pour changer la configuration haut-parleurs
+0x0431D892 Global
+
+## Mac version
+
+0x06318D68 Si vous avez choisi l'emplacement par défaut lors de l'installation, vos photos et vidéos se trouvent dans le dossier Mes Créations\(type d'objet) du dossier Documents.
+

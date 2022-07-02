@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000000 ~id_color_name~ Χωριό
+0x00000001 ~id_color_name~ Έθνος
+0x00000003 ~id_color_name~ Χωρικός
+0x00000009 Ψυχαγωγία
+0x0000000A Πυργίσκος
+0x0000000C Αποικία του είδους ~species_name~
+0x00000006 Δημαρχείο, χρώμα ~id_color_name~
+0x00000007 Σπίτι
+0x0000000F Χωρικός του είδους ~species_name~
+0x00000008 Εργοστάσιο
+0x00000011 Άποικος του είδους ~species_name~
+0x00000005 Άποικος του είδους ~species_name~, χρώμα ~id_color_name~
+0x0000000B Πόλη ~species_name~
+0x00000002 Αυτοκρατορία ~species_name~
+0x00000010 ~species_name~ Πολίτης
+0x00000004 ~id_color_name~ Πολίτης
+0x0000000E Χωριό ~species_name~
+0x0000000D ~species_name~
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCFA Κόκκινο
+0x053DBCF3 Καφέ
+0x053DBCFC Βαθύ Πράσινο
+0x053DBCFD Βυσσινί
+0x053DBCFB Μπλε
+0x053DBCF6 Πράσινο
+0x053DBCF8 Πορτοκαλί
+0x053DBCF7 Λεβάντα
+0x053DBCF4 Ροζ
+0x053DBCF9 Κίτρινο
+0x053DBCF5 Μπλε
+0x053DBCF2 Ουδέτερο
+0x053DBCF1 Παίκτης
+0x053DBCFE Μοβ
+

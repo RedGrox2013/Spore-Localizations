@@ -1,0 +1,121 @@
+﻿#######################################
+# Filter Names
+
+0x00020002 Épületek
+0x00020003 Sejtek
+0x00020004 Városháza
+0x00020005 Kolónia
+0x00020006 Állatok
+0x00020008 Lények
+0x00020009 Birodalmak
+0x0002000A Vallási
+0x0002000B Gazdasági
+0x0002000D Gyár
+0x0002000E Növényzet
+0x0002000F Magas fa
+0x00020010 Alacsony fa
+0x00020011 Bokor
+0x00020013 Ház
+0x00020015 Katonai
+0x00020016 Zene
+0x00020019 Járművek
+0x0002001A Törzsek
+0x0002001B Ajánlott lények
+0x00020012 Mind
+0x0002001C Bolygók
+0x00020018 Űrhajók
+0x00020001 Légi
+0x00020007 Országok
+0x00020017 Tengeri
+0x00020014 Szárazföldi
+0x0002000C Szórakoztatás
+
+#######################################
+# Misc
+
+0x00030001 Rendezés
+0x00030002 vagy Új létrehozása
+0x00030003 ~num_items~ elem mutatása
+0x00030005 ~num_filtered_items~ elem mutatása ennyiből: ~num_items~
+0x00030004 ~num_items_invalid~ érvénytelen elem nem jelenik meg.
+0x00030006 Töltés... ~loading_percent~%
+0x00030007 Több alkotás listázásához változtasd meg a listázás feltételeit vagy válaszd a Minden menüpontot. A jelenlegi feltételeknek ~num_items~ alkotás nem felel meg.
+
+#######################################
+# Category Names
+#######################################
+# Category Names
+
+0x00000001 Barátok
+0x00000002 Spóradások
+0x00000006 Közösség
+0x00000007 Címkék
+0x00000004 Egyéb
+0x00000003 Alkotások
+0x00000005 ~my_game_name~
+0x00000008 Saját cuccok
+
+#######################################
+# SPUIFeedListItem.cpp
+
+0xF4C87CF6 ~num_subscribers~ Előfizető
+0xF4C87CF7 ~num_subscribers~ előfizető
+
+#######################################
+# Call To Action Messages
+
+0x00040002 Válassz Zenét a városodhoz
+0x00040001 Többfunkciós tartalomböngésző
+0x0004000A Válassz szórakoztató épületet
+0x00040009 Válassz gazdasági tengeri járművet
+0x00040017 Válassz vagy készíts egy űrlényt
+0x00040018 Válassz vagy készíts egy törzsi lényt
+0x0004001A Válassz egy egysejtűt
+0x00040003 Válassz városházát!
+0x00040016 Válassz vagy készíts egy civilizált lényt!
+0x00040007 Válassz gazdasági légi járművet!
+0x0004000C Válassz házat!
+0x0004000B Válassz gyárat!
+0x0004000D Válassz katonai légi járművet!
+0x00040011 Válassz lényt!
+0x00040010 Válassz űrhajót!
+0x0004000E Válassz katonai földi járművet!
+0x0004000F Válassz katonai tengeri járművet!
+0x00040004 Válassz vallási légi járművet!
+0x00040005 Válassz vallási földi járművet!
+0x00040008 Válassz gazdasági földi járművet!
+0x00040006 Válassz vallási tengeri járművet!
+0x00040015 Válassz lényt!
+0x00040019 Válassz vagy készíts egy lényt!
+0x00040013 Válassz kolóniai földi járművet!
+0x00040012 Válassz kolóniai légi járművet!
+0x00040014 Válassz kolóniai tengeri járművet!
+
+#######################################
+# Feed Item Names
+
+0x00010001 Minden
+0x00010002 Saját lények
+0x00010009 Opciók
+0x0001000A Kilépés
+0x0001000B Főmenü
+0x0001000C Mentés
+0x0001000D Kapcsolatok
+0x0001000E Idővonal
+0x0001000F Képek
+0x00010003 Maxis
+0x00010005 Barát keresése
+0x00010004 Spóradás küldése
+0x00010006 Spóradás keresése
+0x00010008 Spore katalógus
+0x00010007 MySpore oldalam
+0x00010018 Legutóbbi letöltések
+0x00010017 Letöltések
+0x00010015 Űrjáték
+0x00010011 Sejtjáték
+0x00010012 Lényjáték
+0x00010010 Eredmények
+0x00010014 Civilizációs játék
+0x00010013 Törzsi játék
+0x00010016 Online keresés
+

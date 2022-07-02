@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Kmenový náčelník
+0x067213A6 Kmenový náčelník vede váš kmen. Kmen může jít do boje bez něj, ale zato je jeho přítomnost nezbytná při jakýchkoliv společenských stycích s ostatními kmeny.~p~Náčelník také vyvolává výsledné schopnosti vašeho kmene. Výslednou schopnost použijete tak, že nejprve označíte svého náčelníka a poté kliknete na schopnost, kterou chcete použít.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 Prostřednictvím panelu Obchodování nakupujete a prodáváte nástroje, koření a vzácné předměty. Položky vašeho nákladu, které lze prodat, se zobrazí ve spodní části panelu Obchodování.~p~Na věci, které chcete prodat nebo koupit, klikněte.
+0x0670C6DB Panel Obchodování
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Vytvořen kmen!
+0x06281000 Nyní velíte rychle se rozvíjejícímu kmeni o třech jedincích.~p~Vaše příkazy může uposlechnout jeden člen kmene, nebo celá skupina, záleží pouze na vašem výběru.~p~Interakce s ostatními kmeny posouvají váš Ukazatel průběhu.~p~Podívejte se...~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Výsledná schopnost
+0x06721404 Dokončení Buněčné fáze vám přineslo zvláštní schopnost - stisknutím tohoto tlačítka ji použijete.
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Postupování
+0x06271001 Tento ukazatel znázorňuje váš postup.~p~Zaplňujete ho buď budováním vztahů s ostatními druhy, nebo tím, že způsobíte jejich vyhynutí.~p~Přejděme k vašemu prvnímu úkolu...~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Toto je ukazatel průběhu.~p~Když jíte, získáváte body DNA. Ty pak můžete utratit za nové části, které zdokonalí vaši buňku.~p~V průběhu tohoto procesu postupně porostete a váš svět se rozšíří. ~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Dny evoluce jsou pryč, móda ovšem přetrvává. Dodejte svému druhu nový šmrnc pomocí ošacení a doplňků.
+0x0668AF4D Krejčí
+0x063976F0 [NOT IN USE]
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Málo energie
+0x06627B5D Energie napájí vaši loď a nástroje a umožňuje vám cestovat po galaxii.~p~V domovském světě je energie zdarma, zatímco u spojenců a na koloniích budete za její dobíjení platit. Dobíjíte prostřednictvím Panelu komunikace.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Vítejte v civilizaci
+0x0625E9BE Nyní ovládáte vozidla a plánování měst svého národa a začínáte ve svém prvním městě.~p~Jakmile se objeví jiné národy, musíte s nimi  interagovat, čímž započnete své tažení za globální nadvládou.~p~Podívejme se na váš Ukazatel průběhu...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06638D3E Moje sbírky
+0x06290007 Prostřednictvím tlačítka Moje Sbírky získáváte přístup ke svému Záznamu misí, Sbírce odznaků, Sbírce nástrojů a Sbírce vzácností.
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Donutili jste poslední kolonii této soustavy kapitulovat. Jestliže chcete tuto hvězdnou soustavu zabrat, klikněte v horní části obrazovky na tlačítko Zabrat.~p~Pokud tuto soustavu vlastnit nechcete, klidně můžete na nepřátele dál útočit a kompletně je vyhladit.
+0x06627A27 Zabrání soustavy
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA2 Historie
+0x1535ABA3 Taktika vašeho kmene zformovala vaši ranou kulturní charakteristiku. Tato charakteristika určuje specializaci vašeho národa a také směřování vašeho technologického výzkumu. Jak se bude váš národ rozrůstat, budou vaši obyvatelé vyvíjet jedinečné nástroje, které budou vaší civilizaci pomáhat na její cestě za globální nadvládou. Používejte je moudře.
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Minimapa
+0x06721419 Minimapa vám pomáhá s navigací po světě. Naleznete na ní své hnízdo, jídlo a migrační trasu.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Nástroje
+0x065E5ECE Nástroje zpřístupňujete získáváním odznaků. Zpřístupněný nástroj můžete koupit ve svém domovském světě.~p~Některé nástroje jsou spotřební a musí být doplňovány. Jiné nástroje jsou zase trvalé a jejich používání může spotřebovávat energii.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06281004 Z mláďat se brzy stanou produktivní členové vašeho kmene.~p~Než se tomu tak stane, můžete jejich činnost sledovat zde.
+0x06280004 Co byste měli vědět…
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06281010 Když už teď znáte základy, můžete se pustit do práce a nalézt nějaké jídlo!
+0x06280010 Dobrá práce!
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Blahopřejeme!
+0x06281006 Váš kmen skutečně vládne svrchovaně!~p~Jakmile budete chtít začít vést civilizovaný život, klikněte na tlačítko Vyvinout se!
+
+# Callout_SPG_ProgressBar.prop
+
+0x06638D71 Ukazatel průběhu
+0x06290001 Tento ukazatel značí množství získaných odznaků a také vaši blízkost ke středu galaxie.~p~Řízení misí na planetě by s vámi moc rádo komunikovalo. Podívejme se, jak se to dělá.~p~
+
+#######################################
+# City Planner
+
+0x0665E829 Městský architekt
+0x06280005 Městský architekt
+0x06397840 Tyto záložky vám pomohou se orientovat v Městském architektu. Nakupujte vozidla, budovy či městské objekty, vytvořte se hymnu nebo oblékejte své obyvatele.
+0x0639783F Tyto záložky vám pomohou se orientovat v Městskémarchitektu. Nakupujte vozidla, budovy či městské objekty, vytvořte se hymnu nebo oblékejte své obyvatele.
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Úkoly
+0x06550888 Zde se budou zobrazovat úkoly vašeho národa.~p~Vaším prvním úkolem je zabrat gejzír koření a začít s těžbou.~p~Ovládáním gejzírů koření zvyšujete produkci svého národa.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Proč chodit pěšky, když můžete frčet!~p~Levým tlačítkem myši označujete jednotlivá vozidla a kliknutím a tažením můžete označit celou flotilu. Pravým tlačítkem myši pošlete označená vozidla na cíl.~p~
+0x0626F434 Označování NOT IN USE
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Měli byste vědět…
+0x00000005 Toto je tlačítko Vyvinout se. Klikněte na něj, pokud chcete vstoupit do Fáze vývoje tvorů.~p~Před tím je ještě třeba učinit poslední krok, ve kterém připravíte svoji buňku na život na souši.
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Blahopřejeme!
+0x062EFB85 Dosáhli jste globální nadvlády! ~p~Jakmile se budete cítit připraveni, začít prozkoumávat oblasti mimo vaši domovskou planetu, stiskněte tlačítko Časová osa a buďte připraveni zvlétnout!
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Průzkum
+0x06627BE0 Na povrchu planety se objevil váš holografický průzkumník. Klidně se pusťte do prozkoumávání.~p~Průzkumníka přivoláte stisknutím tlačítka Vyzvednout hologram v okně s avatary.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x0668ACDF Tvoření buněk
+0x063971E5 [NOT IN USE]
+0x06397215 V každém Tvoření se můžete pomocí tlačítek výše mezi jednotlivými režimy přepínat.~p~Než se vrátíte do přílivového jezírka, nezapomeňte se ještě dát do gala v Režimu malování!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3BF Co byste měli vědět…NOT IN USE
+0x0626F3C4 Toto je vaše minimapa, projekce celé planety. Zobrazují se na ní města, gejzíry koření a vozidla. S tímto šikovným malým navigačním systémem se nikdy neztratíte! NOT IN USE
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Katastrofa!
+0x06628758 Na světě ~planet_name~ (v soustavě planety ~star_name~) se odehrává katastrofa!~p~O podobných událostech ve vašich impériích a na spojeneckých planetách vás bude informovat Záznam událostí.~p~V galaktickém zobrazení jsou takové události označeny červeně a obvykle je doprovází příchozí spojení.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06280002 Co byste měli vědět…
+0x06281002 Zde můžete sledovat zdraví, hladovost a aktuální činnosti členů kmene.~p~Členy kmene můžete klikáním na jejich podobizny označovat.
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Monitorování potravního řetězce
+0x0662811B Toto tlačítko přepíná mezi Minimapou a monitorováním potravního řetězce.~p~Terč na levé straně znázorňuje teplotu a úroveň atmosféry planety - tzv. Terraskóre.~p~Pomocí terraformovacích nástrojů vylepšujte Terraskóre planety - tečku posouvejte směrem do středu kruhu. Středový kruh zastupuje ideální T3 planetu.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Hvězdné mapy
+0x0664AACD Filtry hvězdné mapy vám pomáhají při navigaci po galaxii.~p~Filtr "Mé impérium" zobrazí všechny hvězdy, které vaše impérium v současnosti vlastní.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D3 Stabilizování T-Skóre
+0x066281D9 Gratulujeme k vylepšení T-Skóre této planety!~p~Všimněte si, že T1 planeta už dokáže udržet život. Umístěte na ni nyní rostliny z vašeho nákladového prostoru a T-Skóre tak stabilizujte.~p~Když to neuděláte dost rychle, T-Skóre planety se sníží.
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Panel komunikace
+0x062EFB67 Na vašem Panelu komunikace se zobrazí každý národ, který má více než jedno město.~p~Přesuňte kurzor na ikonu některého z národů a zobrazí se vám úroveň vašich vzájemných vztahů - podívejte se, z jakého důvodu jsou vaše vztahy takové, jaké jsou. Národy také můžete pomocí vašeho komunikačního zařízení kontaktovat.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 Členové vaší smečky vám budou pomáhat jak s útočením, tak s přátelením se.~p~Všimněte si, že pro jednoho máte volné místo.~p~Když navážete s nějakým spojencem společenský kontakt, přidá se k vám.
+0x06270004 Vytvořte smečku
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Loď byla poškozena a potřebuje opravit.~p~V domovském světě jsou opravy zdarma, zatímco u spojenců a v koloniích za ně budete platit. Opravujete prostřednictvím Panelu komunikace.
+0x06627DBE Nutná oprava
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06638D98 Panel Zbraně
+0x06290006 Panel Zbraně obsahuje všechny vaše ničivé i obranné nástroje.~p~Vybavte se minilaserem - klikněte na něj.
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E ÚkolyNOT IN USE
+0x0626F429 Na vaší cestě za globální nadvládou vám možná přijde vhod trocha pomoci. Tyto rady vás povedou. NOT IN USE
+
+# Callout_SPG_ActiveTool.prop
+
+0x06638C6B Aktivní nástroj
+0x06290008 Aktuálně používaný nástroj se zobrazuje na podobizně kosmické lodi. Klávesou Esc nástroj odložíte.
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Kliknutím sem založíte své první město!~p~Přesunete se to Tvoření, ve kterých budete navrhovat svoji radnici a svá vozidla.
+0x06280007 Vyvinout se v civilizaci
+
+# Callout_TRG_FirstGoals.prop
+
+0x06280003 Úkoly
+0x06281003 Tyto úkoly vám pomohou prokousat se kmenovým životem.~p~Vaším prvním úkolem je obléknout svůj kmen v novém Kmenovém krejčím!~p~Klikněte na svoji chýši…
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Umisťování zvířat
+0x06628274 Stabilizovali jste atmosféru a teplotu! Všimněte si, že umístěné rostliny přibyly v mřížce potravního řetězce. Tato planeta je nyní připravena pojmout živočišný život.~p~Potravní řetězec dokončíte, když umístíte nejprve býložravce a až poté masožravce.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06271000 Nyní jste příšerka, obklopená svými druhy!~p~Abyste se mohli vyvíjet, budete muset potkávat ostatní živočišné druhy na planetě a získávat DNA.~p~Získávání DNA posouvá váš Ukazatel průběhu. Podívejme se na to...~p~
+0x06270000 Vítejte na souši!
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 Obchodní cesty někdy přinesou možnost odkoupit hvězdnou soustavu. Odleťte do soustavy obchodního partnera a v horní části obrazovky klikněte na tlačítko Koupit soustavu. To otevře Panel komunikace, který vám umožní soustavu odkoupit.
+0x06627F31 Odkoupení soustavy
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359775 Historie
+0xD5359776 Tato časová osa znázorňuje historii vašich činů za buněčného života.~p~Vytvořili jste vlastnost, která vám přináší jedinečné schopnosti, které budou moci využívat vaše budoucí generace.~p~Jakou cestu jste zvolili?
+
+# Tribe Planner
+
+0x0668B06F Kmenový plánovač
+0x06397802 Kliknutím na ikonu klobouku otevřete panel Člen kmene.~p~Najeďte kurzorem na člena svého kmene a poté klikněte na tlačítko Upravit ošacení - vstoupíte tak do Kmenového krejčího.
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Vítejte v kosmu!
+0x06291000 Vítejte ve vrcholné fázi existence, na konečné hranici, na tom nejdivočejším západě: V kosmu!~p~Loď je ve vašich rukou - z tohoto postu veďte svoji rasu ze závislosti na jedné planetě k rozlehlému galaktickému impériu.~p~Podívejme se, jak si počínat…
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x06397261 Další režim na hraní…Testování! Vyzkoušejte si svoji příšerku, než ji pustíte na planetu.
+
+# Callout_SPG_CargoBin.prop
+
+0x06638CAC Panel Náklad
+0x06290005 Tohle je váš panel Náklad. Zvolte Unášecí paprsek a poté klikněte a přidržte tlačítko myši stisknuté na zvířeti či rostlině - přidáte je tak ke svému nákladu. ~p~Pokud chcete něco vyhodit, v panelu Náklad to označte a poté klikněte a přidržte tlačítko myši stisknuté na povrchu planety.
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Záznam misí
+0x065E5F30 Jestli vidíte tento text, nahlaste to jako chybu.
+
+######################################## Creature Editor
+
+0x0668B8D1 Tvoření příšerek
+
+# cell opening
+
+0x00000001 Vítejte v přílivovém jezírku
+0x00000002 Gratulujeme!
+0x00000003 Pokud jde o proplouvání kalem, jste nejlepší v celém jezírku!~p~Až budete připraveni vykročit na otevřenou zem, klikněte na tlačítko Vyvinout se.
+0x00000000 Rozhodnutí, která v průběhu hraní Spore uděláte, mají vliv na vaši budoucnost.~p~Když jste buňka, je vaším úkolem jíst, růst a vyvíjet se. Váš růst měří Ukazatel průběhu ve spodní části.~p~
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Historie
+0x1535ABA5 Vaše volby během vaší evoluční historie určují v momentě vzlétnutí do kosmu identitu vaší rasy. Vaše vlastnosti nemají vliv pouze na vaše vrozené schopnosti, ale také do arzenálu vaší kosmické lodi přinášejí jedinečný nástroj.
+
+# Callout_TRG_UICameraControls.prop
+
+0x06281009 Pomocí tohoto ovládání přibližujete kameru a otáčíte jí.~p~To samé můžete také dělat pomocí kolečka myši. Vyzkoušejte to…
+0x0665EE03 Přibližování a otáčení
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Minimapa
+0x06550367 Všimněte si, že zabraný gejzír převzal identifikační barvu vašeho národa.~p~Kliknutím na svoji radnici na minimapě k ní přesunete kameru a budete moci začít budovat své hlavní město.
+
+# Callout_SPG_FirstGoals.prop
+
+0x06638CED Úkoly
+0x06290003 Vaše aktuální úkoly jsou zaznamenávány v tomto mini-záznamu misí. Toto minizobrazení umožňuje sledovat až tři mise najednou.~p~Kompletní Záznam misí můžete kdykoliv otevřít stisknutím klávesy L.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Ukazatele stavu
+
+# CalloutSample.prop
+
+0x0615824E Název poznámky
+0x06158262 Text poznámky
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Hvězdné mapy
+0x0677176A Filtr "Spojenci a nepřátelé" vám zobrazí oblasti vesmíru ovládané vašimi spojenci a nepřáteli.~p~Filtr "Impéria" zobrazí všechny hvězdy obsazené cizími impérii.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06638D0B Hlavní panel nástrojů
+0x06290004 Vaše nástroje jsou v panelu s nástroji řazeny podle typu. Svůj detektor naleznete v panelu Hlavní nástroje. Vybavte se detektorem - klikněte na něj.
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Dokončení terraformace
+0x066282BD Dokončili jste jednu vrstvu ekosystému! Pokud jste na tuto planetu umístili kolonii, můžete do ní nyní prostřednictvím radnice přidávat budovy.~p~Abyste na planetu mohli umístit kolonií více, vylepšete její T-Skóre a dokončete potravní řetězec.~p~Pokud chcete nějaké zvíře vystopovat pomocí radaru, klikněte na jeho tečku v potravním řetězci.
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB38 Toto jsou jedinečné superschopnosti vaší civilizace.~p~Vaši obyvatelé budou tyto technologie postupně vyvíjet, jak váš národ bude růst.
+0x062EFB33 Výsledné schopnosti
+
+# Callout_CRG_Stance.prop
+
+0x06271003 Váš Postoj určuje, jestli si s druhou příšerkou budete pěkně hrát, nebo jestli na ni zaútočíte.~p~Než se pustíte do interakce, klikněte buď na zelené tlačítko, které vás přiměje, se kamarádit, nebo na červené tlačítko, které vám zase obstará něco k snědku. Poté použijte tlačítka schopností.
+0x06270003 Postoj
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Vzácné předměty
+0x065E5F4E Jestli vidíte tento text, nahlaste to jako chybu.
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Postupování
+0x0626F40D Toto je váš Ukazatel průběhu.~p~Každé město, které dobudete, konvertujete nebo odkoupíte vás přiblíží vašemu cíli - ovládnout celou planetu.~p~Váš národ začíná s jednou specializací, ale dobýváním jiných měst můžete přidávat další.~p~
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 Kmenový náčelník
+0x0678787A Kmenový náčelník vede váš kmen. Kmen může jít do boje bez něj, ale zato je jeho přítomnost nezbytná při jakýchkoliv společenských stycích s ostatními kmeny.
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Hvězdné mapy
+0x06771767 Filtr "Mise" vás nasměruje na cílové hvězdy misí, na kterých zrovna děláte.~p~Filtry "Trasa" a "Navštíveno" se vám budou hodit, když budete chtít vědět, kde jste se pohybovali.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Přehled flotily
+0x0626F457 Zde, v Přehledu flotily, se můžete dozvědět, jaké činnosti se vaše vozidla zrovna věnují a také je zde můžete označovat.~p~Dvojitým kliknutím na ikonu vozidla vyberete všechna vozidla daného typu.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Kliknutím sem vytvoříte kmen!~p~Ještě se naposledy ocitnete ve Tvoření, kde budete moci jednou provždy zpečetit své vzezření. Nyní máte poslední šanci, přidat si ruce - na nošení nástrojů se celkem hodí!
+0x06270005 Vyvinout se v kmen
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCE9 Tutoriál ovládání kamery
+0x0671FCED Kamerou můžete po světě volně pohybovat. To vám pomáhá kontrolovat města, nebo vozidla, kterým jste zadali nějaké příkazy.~p~Udělejme si krátkou přestávku a naučme se základní ovládání kamery a jak označovat vozidla...~p~
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Úkoly
+0x06271002 Zde budete nalézat své úkoly.~p~Jak tento úkol napovídá, pro přežití potřebujete jídlo.~p~Naučíme se tedy, nějaké si obstarat.
+
+# Callout_SPG_CommButton.prop
+
+0x06638CCE Panel komunikace
+0x06290002 Tento video-komunikátor na krátké vzdálenosti je prostředníkem vaší komunikace se světem pod vámi.~p~Spojení lze navázat pouze pokud jste na oběžné dráze planety.~p~Blikající signál značí příchozí spojení...~p~
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06280001 Pokroky
+0x06281001 Toto je váš Ukazatel průběhu.~p~Vytvářením spojenectví a dobýváním okolních vesnic svůj kmen posouváte dál.
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Kliknutím sem spustíte svůj vesmírný výzkumný program!~p~Přesunete se do Tvoření, ve kterém si budete moci vytvořit svoji loď pro svoji první cestu.~p~Loď můžete později upravovat v kterémkoliv městě či kolonii svého impéria.
+0x062EFB73 Vyvinout se do vesmíru
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Vábení partnera
+0x067213F5 Kliknutím na tlačítko Vábení partnera níže naleznete svého partnera a vstoupíte do Tvoření příšerek. Zde můžete měnit své vzezření a přidávat části, které jste nalezli ve světě.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Kamerový tutoriál
+0x06281008 Nyní můžete kamerou po světě volně pohybovat - budete tak mít členy svého kmene nebo skupiny, kterým jste zadali příkazy, pod kontrolou.~p~Na chvilku si odpočineme a ukažme si, jak se ovládá kamera…
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Odznaky
+0x065E5D6C Odznaky získáváte za své činy a dobrodružství ve vesmíru.~p~Získáváním odznaků budete stoupat na žebříčku, což vám propůjčí nové tituly, schopnosti a neodemčené nástroje.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Některé nástroje, jako například minilaser, spotřebovávají energii.~p~Energii i životy můžete dobíjet prostřednictvím Obrazovky komunikace. Z vašeho domovského světa je tato služba zdarma.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Historie
+0x1535ABA1 Svými činy ve Fázi vývoje tvorů jste si vysloužili další vlastnost, která se stává pro váš dru typická. V Kmenové fázi na vás čekají nové jedinečné schopnosti.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Blahopřejeme!
+0x06271006 Dosáhli jste vrcholu potravinového řetězce!~p~Jakmile si budete chtít kmenový život vyzkoušet, klikněte níže na tlačítko Vyvinout se.~p~
+

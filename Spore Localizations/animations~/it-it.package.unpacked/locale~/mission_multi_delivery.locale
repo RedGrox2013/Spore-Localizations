@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000B4 ...
+0x000000AD ...
+0x000000E9 In pratica... un ago in un pagliaio. Ci rinuncio!
+0x000000EA Non mi piacciono i rischi. Rinuncio.
+0x000000E8 Vorrei chiedere ancora una cosa...
+0x000000E4 Immagino che sia il caso di tornare indietro, allora...
+0x000000E5 A quanto pare, abbiamo finito. Vado.
+0x000000E3 Beh, direi che abbiamo finito.
+0x000000E6 Grazie. Direi che ho finito.
+0x000000EF Torna sul pianeta ~mission_source_planet~.
+0x000000F5 Ooooh. OK, ora sono a posto.
+0x000000F6 Ho capito dove ho sbagliato. Grazie.
+0x0000006E La tua scarsa affidabilità sarà presto nota in tutta la Federazione. Arrivederci.
+0x00000063 Bene. Ci vediamo.
+0x000000A7 Cosa? OK. Ho capito.
+0x0000009E OK. Vorrei chiedere un'altra cosa...
+0x0000009D Capisco. Ma ho un'altra domanda...
+0x0000009C OK... Ancora una cosa...
+0x00000038 Bene. Mettiamoci al lavoro!
+0x00000088 Posso fare una domanda?
+0x00000089 Prima di andare...
+0x000000AB Sì, ho dimenticato la mia missione.
+0x00000061 Posso chiedere una cosa?
+0x0000005E Un momento. Ancora una cosa.
+0x000000AC Puoi ricordarmi la mia missione?
+0x0000005F Vorrei chiedere ancora una cosa...
+0x00000087 Un'ultima cosa...
+0x000000A9 Cosa? Chi? Dove? Che succede?
+0x00000086 Ancora una cosa...
+0x000000AA Ehm, posso chiedere un riassunto?
+0x000000F7 Consegna riuscita.
+0x00000076 Un'altra cosa...
+0x00000069 ~player_creature_name~ ha fatto una promessa! ~player_creature_name~ ha accettato la missione! Solo i vermi più deboli e senza spina dorsale vengono meno alla propria parola. Oggi ~player_creature_name~ è un verme.
+0x00000073 Avrei un'altra cosa da chiedervi...
+0x00000047 Fantastico! Ti canterei una serenata se ciò non ritardasse la tua partenza!
+0x00000077 Ora devo andare. Addio!
+0x00000068 Hai deciso di arrenderti? E noi che contavamo su di te! Che delusione... Mollare quando la gente conta sul tuo aiuto è... pessimo. Tenta di non rifarlo in futuro.
+0x00000075 Inoltre...
+0x00000046 Eccellente. Il tuo aiuto sta rafforzando la nostra ipotesi sul comportamento di ~player_title~ ~player_creature_name~.
+0x00000074 Prima di andare, avrei altre domande...
+0x00000067 Questa è una grave violazione del contratto! Se fossimo una razza inferiore ti denunceremmo fino a spillarti l'ultimo Sporecredito!~p~Fortunatamente siamo una specie tollerante... con degli ottimi prezzi.~p~Hai visitato il nostro negozio di merci galattiche.
+0x0000006D Non hai rispettato la tua parola di aiutarci, pronunciata al cospetto di Spode. Che le nostre corti ecclesiastiche giudichino le ritorsioni sulla tua anima.
+0x000000C9 Incredibile... già fatto? Magnifico! È fantastico lavorare con qualcuno... in sintonia con l'universo.~p~Ecco la tua ricompensa di ~mission_rewards~Sporecrediti. Spendila saggiamente, OK?
+0x00000070 Wow, fantastico.~p~Siamo felici che la consegna sia avvenuta... ma... mancano ancora ~mission_multi_delivery_buyer_num_needed_items~ esemplari... intesi?~p~OK, tranquillo. Attenderemo pazientemente.
+0x0000006F La tua specie sa cosa significa successo? Ci stai facendo ricredere su ~player_creature_name~.
+0x00000044 Sia fatta la volontà di Spode! Puoi iniziare subito!
+0x0000006C ~player_title~ ~player_creature_name~. Vedo che hai optato per una consegna parziale. Interessante. Forse più tardi potrai spiegarci la tua logica.~p~Nel frattempo, rimaniamo in attesa di altri ~mission_multi_delivery_buyer_num_needed_items~ esemplari.
+0x00000043 Senza dubbio stai rendendo l'universo un posto migliore... Grazie.
+0x00000026 Ora non è il momento migliore.
+0x00000072 Senza dubbio, l'Unico Principio ha un posto per te nel Grande Disegno. Noi esseri inferiori non abbiamo idea di cosa possa trattarsi per un fallito come te.
+0x00000022 Come faccio a setacciare un intero sistema stellare?
+0x000000EC Va beh. Ne ho abbastanza.
+0x00000032 Tornerò più tardi. Arrivederci.
+0x000000EB Eeeh. Lascia perdere. In fondo, ho da fare.
+0x0000006B MISSIONE FALLITA: ~player_creature_name~ ha rinunciato.~p~COMUNICATO DI ESTREMO SCONTENTO
+0x00000045 Il Gran Consiglio della Federazione ti ringrazia. Parti subito.
+0x00000021 Non è come cercare un ago in un pagliaio?
+0x0000003C Mi spiace, ma non posso essere d'aiuto.
+0x00000052 No? ~player_creature_name~ è più debole di quanto mi aspettassi. Forse la prossima volta è meglio non offrire alcuna ricompensa. Non premiamo i deboli.
+0x0000003D Tornerò più tardi. Arrivederci.
+0x0000003B Meglio trovare qualcun altro per questo lavoro.
+0x00000055 MISSIONE RIFIUTATA. MOTIVO: ~player_creature_name~ è una specie inferiore.
+0x0000004D Lavoro eccellente, capitano! Sapevo di poter contare su di te.~p~Come promesso, ecco la sua ricompensa: ~mission_rewards~ Sporecrediti. Goditela!
+0x0000004F Peccato. Volevamo collaborare con te per questo affare. Forse un'altra volta.
+0x0000016E Fantastico! Sappiamo di poter contare su di te.
+0x00000050 Certo, certo. Sapevo che non c'era speranza di ottenere l'attenzione di una personalità tanto grande con questioni così frivole. Forse dovrei consolarmi facendo un po' di spese?
+0x0000016D RICEVUTO. INIZIARE IMMEDIATAMENTE.
+0x00000020 Da dove suggerisci di iniziare la ricerca?
+0x00000049 Ti ringraziamo per il tuo aiuto!
+0x00000037 OK. Iniziamo.
+0x00000036 Sembra divertente. Lo farò.
+0x00000035 OK. Posso essere d'aiuto.
+0x00000013 Grazie. Arrivederci.
+0x00000060 Ho un'altra domanda.
+0x00000065 Chiedo la vostra comprensione.
+0x00000064 Mi spiace non essere stato d'aiuto. Arrivederci.
+0x00000034 Vorrei chiedere un'altra cosa...
+0x00000048 Meraviglioso! Sapevo che ~player_creature_name~ era la creatura perfetta per questo lavoro.
+0x000000C5 Sì, ho un carico da consegnare.
+0x00000059 Scelta interessante, ~player_title~ ~player_creature_name~. Forse sai cose di cui noi siamo all'oscuro, anche se credo sia poco probabile.
+0x0000003A La cosa non mi interessa.
+0x0000004C Chiedo la vostra comprensione.
+0x00000058 Molto bene. Non vogliamo trattenerti oltre dai tuoi molteplici e importanti impegni.
+0x0000001E Vorrei chiedere un'altra cosa...
+0x0000001F Come faccio a trovare questi oggetti?
+0x0000005B Ops! Torno subito!
+0x00000039 Questa missione non fa per me.
+0x0000002D Tornerò più tardi. Arrivederci.
+0x00000024 Preferirei non farlo.
+0x00000080 Benvenuto ~player_title~ ~player_creature_name~. Il Gran Consiglio è stato informato del tuo successo e ti ringrazia.~p~Sono stato incaricato di premiarti con un Certificato di Merito, Seconda Classe, accompagnato da ~mission_rewards~ Sporecrediti.
+0x0000007F Benvenuto, ~player_title~ ~player_creature_name~. Il tuo successo era preannunciato. Non ci sbagliavamo a riporre la nostra fede in te... come sempre del resto.~p~Ti sei guadagnato la ricompensa di ~mission_rewards~ Sporecrediti. E prima di partire, ti preghiamo di portare con te un testo sacro.
+0x00000023 Spiacente, ma non sono un galoppino.
+0x000000A2 Un'altra cosa...
+0x000000A1 Inoltre...
+0x000000A5 Sei molto occupato? Parleremo in un altro momento.
+0x00000031 Vorrei chiedere un'altra cosa...
+0x000000D9 Avrei un'altra cosa da chiedervi...
+0x0000008C Avrei un'altra cosa da chiedervi...
+0x00000082 Tornerò!
+0x00000025 Non è proprio il mio genere di cose.
+0x00000084 Gentile viaggiatore. Ti ringraziamo per il tuo aiuto, ~player_title~ ~player_creature_name~.~p~Secondo i nostri tutori, nelle future reincarnazioni diventeremo tutti Maestri Segreti. Forse, un giorno lo diventerai anche tu. Ma considerato il tuo presente attaccamento ai beni materiali, ecco il tuo pagamento di ~mission_rewards~ Sporecrediti.
+0x000000A4 Forse un'altra volta. Ci vediamo.
+0x0000007C Oh, un bel lavoro, un lavoro come si deve! Ti dedicheremo una canzone stanotte... una canzone di gioia, allegria e felicità, per l'aiuto prestato!~p~Ecco la tua ricompensa: ~mission_rewards~ Sporecrediti.
+0x000000E7 ~p~Il pianeta %s nel sistema %s
+0x00000078 Grazie per l'opportunità. Vado, alla prossima.
+0x000000A6 Vedo che ora hai da fare. Ci vediamo.
+0x0000009F Avrei un'altra cosa da chiedervi...
+0x00000079 Ritornerò tra non molto. A presto.
+0x0000007B Bene! ~player_creature_name~ ha fatto un buon lavoro. Come promesso ecco la tua ricompensa di ~mission_rewards~ Sporecrediti.
+0x000000CF Vorrei chiedere un'altra cosa...
+0x0000007A È il momento di darsi da fare. Ci rivedremo al mio ritorno.
+0x0000007D STATO MISSIONE: completata~p~FRASE DI INCORAGGIAMENTO: un lavoro esemplare. Se soltanto tutte le specie biologiche fossero come te.~p~RICOMPENSA CONSEGNA: ~mission_rewards~ Sporecrediti.
+0x000000A0 Prima di andare, avrei altre domande...
+0x00000093 STATO MISSIONE: incompleta.~p~PROMEMORIA: recuperare dei manufatti di ~mission_multi_delivery_item~ dai pianeti: ~mission_multi_delivery_item_planet_list~. Consegnare al pianeta ~mission_multi_delivery_buyer_planet~.~p~NOTA: consultare il registro missione personale per maggiori dettagli.
+0x000000F1 Hai consegnato tutti i manufatti di ~mission_multi_delivery_item~. Torna al sistema ~mission_source_star~ per ricevere la tua ricompensa.
+0x0000004E Benvenuto, benvenuto, ~player_title~ ~player_creature_name~! Un altro incarico svolto impeccabilmente! Nulla di cui stupirsi, di cui sorprendersi, considerata la tua reputazione.~p~Ecco ~mission_rewards~ Sporecrediti come da contratto.~p~Difficilmente il lavoro è un piacere, ma collaborare con uno talentuoso come te è sempre piacevole.
+0x00000016 Sembrerebbe che qualcuno sul pianeta ~mission_multi_delivery_buyer_planet~ sia un vero e proprio collezionista di reliquie di ~mission_multi_delivery_item~. E quando una persona è seria, allora anche la ricompensa di Sporecrediti lo è!~p~So per certo che c'è qualcuna di queste reliquie in questo sistema stellare. Cosa ne dici di fare un patto? Un lavoretto pulito: trovi questi esemplari, li consegni al pianeta ~mission_multi_delivery_buyer_planet~ e torni qui per incassare.
+0x00000092 Suvvia! Lo sai anche tu che il tuo compito non è finito! Fai attenzione!~p~Recupera qui le reliquie di ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Una volta fatto, fai rapporto al pianeta ~mission_multi_delivery_buyer_planet~. Dopo la consegna, torna qui per ricevere la dovuta ricompensa.
+0x000000F0 Cerca dei manufatti di ~mission_multi_delivery_item~ sui pianeti:~mission_multi_delivery_item_planet_list~.
+0x00000028 Le reliquie di ~mission_multi_delivery_item~ si trovano qui:~mission_multi_delivery_item_planet_list~.~p~Recuperale tutte, consegnale al pianeta ~mission_multi_delivery_buyer_planet~ e terremo fede alla nostra parola ricompensandoti con ~mission_rewards~ Sporecrediti.
+0x000000D7 Garantire ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ per poi consegnarne di meno... Che comportamento irresponsabile!!!~p~Torna quando hai recuperato tutte le ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~.
+0x00000030 ~player_title~ ~player_creature_name~, i manufatti di ~mission_multi_delivery_item~ si trovano qui: ~mission_multi_delivery_item_planet_list~.~p~Una volta raccolti tutti, trasportali fino al pianeta ~mission_multi_delivery_buyer_planet~, e torna qui per incassare il pagamento di ~mission_rewards~ Sporecrediti.
+0x00000004 Il popolo del pianeta ~mission_multi_delivery_buyer_planet~ desidera qualcosa di speciale. Vuole acquistare delle reliquie di ~mission_multi_delivery_item~. C'è qualche reliquia di ~mission_multi_delivery_item~ in questo sistema stellare. Qualcuno deve recuperare gli oggetti e consegnarli. Può occuparsene ~player_creature_name~.
+0x00000062 OK! Vado!
+0x000000ED OK. Ora ho capito.
+0x00000057 Sembrerebbe che la Via di Spode non sia adatta per ~player_title~ ~player_creature_name~. Vattene.
+0x0000002C OGGETTO RICERCA: manufatti di ~mission_multi_delivery_item~~p~AREA RICERCA: ~mission_multi_delivery_item_planet_list~~p~DESTINAZIONE CONSEGNA: ~mission_multi_delivery_buyer_planet~~p~RICOMPENSA: ~mission_rewards~ Sporecrediti al ritorno~p~ACCETTARE/RIFIUTARE?
+0x00000001 Stiamo avviando le trattative con gli abitanti del pianeta ~mission_multi_delivery_buyer_planet~. Per farli contenti, vorremmo che consegnassi un paio di cose che renderebbero la collaborazione più interessante.~p~Trova qualche manufatto chiamato ~mission_multi_delivery_item~ e consegnalo al pianeta ~mission_multi_delivery_buyer_planet~.
+0x0000002F Le nostre fonti attendibili indicano che i manufatti di ~mission_multi_delivery_item~ si trovano qui: ~mission_multi_delivery_item_planet_list~.~p~Fai incetta di tutto e dirigiti al pianeta ~mission_multi_delivery_buyer_planet~. Torna qui per ricevere la ricompensa di ~mission_rewards~ Sporecrediti.
+0x00000017 Quando hai una reputazione come la nostra (e che reputazione!) a volte la fortuna bussa alla tua porta. Abbiamo appena saputo casualmente che c'è un'alta domanda di manufatti di ~mission_multi_delivery_item~ sul pianeta ~mission_multi_delivery_buyer_planet~. Vuoi che un ~player_creature_name~ intelligente come te non sappia quanto siano rari quegli oggetti? Bingo! In quest'area non lo sono affatto!~p~Siamo già completamente impegnati in altri affari. Cosa ne dici di occupartene tu? Individua e recupera dei manufatti di ~mission_multi_delivery_item~, quindi portali sul pianeta ~mission_multi_delivery_buyer_planet~. Una volta fatto, torna qui per la tua ricompensa.
+0x00000051 Aah... OK... Sì, va bene.~p~Se non sono queste le tue intenzioni, non vogliamo farti interagire con un'altra forma di vita.
+0x0000005D Vedo che ti presenti con una consegna parziale.~p~Non rientra nella prassi esecutiva ufficiale e potrebbe confondere il Dipartimento dei titoli esigibili. Tuttavia, abbiamo bisogno di tutti i manufatti di ~mission_multi_delivery_item~ disponibili.~p~Per ora conserverò questi... Torna con il resto della mercanzia ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000029 Non c'è bisogno di impazzire per le reliquie di ~mission_multi_delivery_item~... abbiamo già tutte le coordinate: ~mission_multi_delivery_item_planet_list~.~p~Porta tutto al pianeta ~mission_multi_delivery_buyer_planet~ e verrai ricompensato con ~mission_rewards~ Sporecrediti.
+0x00000012 Nel centenario del Dominio della Ragione, diverse reliquie di ~mission_multi_delivery_item~ furono disseminate sui pianeti circostanti in seguito a un incidente. Da allora siamo riusciti a recuperarne poche che sono conservate nel nostro museo sul pianeta ~mission_multi_delivery_buyer_planet~. Puoi completare la ricerca? Quelle rimanenti si trovano tutte in questo sistema stellare.
+0x0000005C Devi trovare da solo la tua strada.~p~Ti auguro ogni bene.
+0x000000F2 Preleva manufatti di ~mission_multi_delivery_item~ da:~p~~mission_multi_delivery_item_planet_list~.~p~Consegnali sul pianeta ~mission_multi_delivery_buyer_planet~.
+0x000000F3 Hai consegnato tutti i manufatti di ~mission_multi_delivery_item~. Ora vai sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~ per ricevere il compenso.
+0x00000003 Hai visto il pianeta ~mission_multi_delivery_buyer_planet~? Quel posto ha un'aura così affascinante... maestosa direi. Per questo motivo abbiamo deciso di inviare alla gente qualcosa, sai? Stavamo pensando che qualche reliquia di ~mission_multi_delivery_item~ sarebbe una meraviglia.~p~Ah, ehm, solo una cosa. Siamo sprovvisti di esemplari... A te il compito di cercarli.
+0x00000054 Ma... ma... ma... ma... ma... ma... ma... ma... ~p~OK.
+0x0000002B Oh si tratta di una ricerca, di una divertentissima caccia al tesoro! Puoi reperire dei manufatti di ~mission_multi_delivery_item~ nei seguenti luoghi: ~mission_multi_delivery_item_planet_list~.~p~Individuali, impossessatene e porta il tutto al pianeta ~mission_multi_delivery_buyer_planet~ per ottenere la ricompensa. Quale ricompensa dici? ~mission_rewards~ Sporecrediti naturalmente!
+0x00000056 È scritto che tu, ~player_title~ ~player_creature_name~ ci consegnerai ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~.~p~Così dice questo contratto... e così sia.
+0x00000053 ~player_title~ ~player_creature_name~. Vedo che hai deciso di verificare la destinazione della consegna prima di occuparti degli oggetti. Interessante. Forse sarai così gentile da spiegarci la logica in tutto questo più tardi.~p~Nel frattempo, rimaniamo in attesa di ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~.
+0x00000019 Abbiamo scoperto alcune antiche pergamene in cui si afferma che i segreti dell'universo sono iscritti su reliquie di ~mission_multi_delivery_item~! Tali oggetti sono stati nascosti in tempi ancestrali da una razza estinta, ma riteniamo di averli individuati. Sei in grado di recuperarli e portarli sul pianeta ~mission_multi_delivery_buyer_planet~ affinché possiamo studiarli?
+0x00000002 Fiuti qualcosa nell'aria? Certo che sì! La fiuto io e tutti sanno che sei intelligente quanto me! Sento odore di profitto, ne sono certo! E scommetterei tutti i miei Sporecrediti che ha qualcosa a che fare con il pianeta ~mission_multi_delivery_buyer_planet~.~p~Vedi, sul pianeta ~mission_multi_delivery_buyer_planet~ c'è una forte richiesta di oggetti rari. In particolar modo di manufatti chiamati ~mission_multi_delivery_item~. E indovina un po' cosa abbiamo in questo sistema stellare?~p~Facciamo un patto. Io mi occupo della burocrazia, mentre tu fai scorta di manufatti chiamati ~mission_multi_delivery_item~.
+0x0000001A Ci servono delle reliquie di ~mission_multi_delivery_item~ per la cerimonia annuale dell'attuazione che avrà luogo sul pianeta ~mission_multi_delivery_buyer_planet~. Puoi aiutarci a recuperarne qualcuna e a consegnarla all'accademia dell'attuazione in tempo per l'evento?
+0x00000066 Perfettamente comprensibile, capitano.~p~Mi spiace arrecare disturbo con simili questioni.
+0x0000002E Le reliquie di ~mission_multi_delivery_item~ si trovano qui: ~mission_multi_delivery_item_planet_list~.~p~Consegnale al pianeta ~mission_multi_delivery_buyer_planet~ e ti ricompenseremo al ritorno nel nome di Spode con ~mission_rewards~ Sporecrediti.
+0x0000002A ~player_creature_name~ può reperire le reliquie di ~mission_multi_delivery_item~ sui pianeti: ~mission_multi_delivery_item_planet_list~.~p~Consegna tutto al pianeta ~mission_multi_delivery_buyer_planet~ e torna da noi per reclamare la ricompensa di ~mission_rewards~ Sporecrediti.
+0x0000000E Abbiamo recentemente rinvenuto un antico testo di una razza ormai estinta. Lo scritto parla di alcuni manufatti di ~mission_multi_delivery_item~ reperibili sui pianeti circostanti. Secondo la legge locale della nostra Federazione, questi reperti storici devono essere recuperate, catalogate e riposte in un apposito magazzino sul pianeta ~mission_multi_delivery_buyer_planet~. Puoi occupartene tu?
+0x0000001B Ho sentito il detto: "Coloro Che Non Esistono Più hanno piazzato Oggetti Ancora Esistenti in Mondi Che Ancora Esistono". Sono quasi sicuro che gli oggetti menzionati siano dei manufatti di ~mission_multi_delivery_item~ contenuti nel nostro sistema stellare. Ti andrebbe di recuperarli e consegnarli ai Tutori Che Ancora Oggi Indugiano sul pianeta ~mission_multi_delivery_buyer_planet~?
+0x000000CA Sai leggere un contratto, vero? Abbiamo concordato una consegna di ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. Né più né meno. Se non possiedi ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ ti conviene filare a recuperarle e tornare.
+0x00000014 Un tempo, i manufatti di ~mission_multi_delivery_item~ andavano di moda tra di noi! Quando la moda passò, i rispettivi possessori decisero di nasconderli su mondi lontani, per sfuggire all'imbarazzo. Ora però sono tornati di moda e gli abitanti del pianeta ~mission_multi_delivery_buyer_planet~ li desiderano a tutti i costi! Che mancanza di originalità... Schiavi della moda! Ma il punto è, chi sono io per giudicare?~p~Recupereresti qualche manufatto di ~mission_multi_delivery_item~ per consegnarlo al pianeta ~mission_multi_delivery_buyer_planet~?
+0x000000CC ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. ~player_creature_name~ non ha portato ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. Torna con ~mission_multi_delivery_buyer_num_needed_items~ o non farti più vedere.
+0x000000CB CONSEGNA FALLITA. MOTIVO: incompetenza di ~player_creature_name~.~p~CONSIGLIO: tornare con ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~.
+0x00000090 Ti sei scordato cosa fare? Si tratta forse... di una dimenticanza? OK, succede anche ai migliori. La prossima volta però ti conviene consultare il registro missione.~p~Recupera le reliquie di ~mission_multi_delivery_item~ da qui: ~mission_multi_delivery_item_planet_list~. Una volta fatto, consegnale al pianeta ~mission_multi_delivery_buyer_planet~.
+0x000000BD Ehi, amico. Aspettavamo un carico di reliquie di ~mission_multi_delivery_item~. Almeno ~mission_multi_delivery_buyer_num_needed_items~. E non le vedo. Le hai con te?
+0x000000BF I cieli si divisero e tu, freccia del destino dalle ali di...~p~Oh, meglio lasciar perdere. Specialmente ora che mi hai portato ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~! Le hai portate, vero?
+0x00000009 Degli esseri provenienti dal pianeta ~mission_multi_delivery_buyer_planet~ sostengono che le reliquie di ~mission_multi_delivery_item~ racchiudono i segreti della natura e dell'universo. Ce ne sono alcune nel nostro sistema stellare... ma non siamo riusciti a estrapolare nulla. Devi trattarsi di un segreto molto profondo. Roba da sballo.~p~Trova qualche reliquia di ~mission_multi_delivery_item~ e portala al pianeta ~mission_multi_delivery_buyer_planet~... Forse riusciranno a capire di cosa si tratta.
+0x00000096 Siamo stati informati che devi ancora recuperare tutti i manufatti di ~mission_multi_delivery_item~ e consegnargli al pianeta ~mission_multi_delivery_buyer_planet~. Tutto quello che ti serve è contenuto nel registro missione.~p~Nel caso te ne fossi dimenticato, gli oggetti sono reperibili su questi pianeti: ~mission_multi_delivery_item_planet_list~. Quando hai assolto il tuo compito, torna qui.
+0x00000008 Gli abitanti del pianeta ~mission_multi_delivery_buyer_planet~ sono disperati. Stanno cercando invano delle reliquie di ~mission_multi_delivery_item~. In questo sistema stellare ce ne sono in abbondanza... Spetta a te risolvere la situazione.~p~Trova delle reliquie di ~mission_multi_delivery_item~ e consegnale al pianeta ~mission_multi_delivery_buyer_planet~ per tranquillizzare il popolo.
+0x000000BE ~player_creature_name~ porta ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~, giusto?
+0x0000000F Ci siamo imbattuti nelle tracce di un'antica civiltà che sembra sia stata annientata dai Grox. Tra i ritrovamenti, figurano alcuni riferimenti a una serie di manufatti di ~mission_multi_delivery_item~ che potrebbero contenere delle informazioni sugli aggressori.~p~Come dichiarato dalla sottosezione 52, paragrafo 7 dello statuto federale, tutte le informazioni sui Grox vanno conservate in un edificio di massima sicurezza. Trova questi oggetti e consegnali al pianeta ~mission_multi_delivery_buyer_planet~.
+0x00000095 Le reliquie di ~mission_multi_delivery_item~ non sono state recuperate tutte! Ne hai dimenticata qualcuna! Non lo vedi il tuo registro missione?~p~Setaccia questi pianeti: ~mission_multi_delivery_item_planet_list~ e consegna tutto al pianeta ~mission_multi_delivery_buyer_planet~. Ora continua il tuo sacro compito.
+0x0000009A Non sei ancora riuscito a trovare tutte le reliquie di ~mission_multi_delivery_item~? E noi che contavamo sul tuo aiuto! Ti abbiamo perfino fornito una lista dei pianeti da setacciare: ~mission_multi_delivery_item_planet_list~. Consegna gli oggetti al pianeta ~mission_multi_delivery_buyer_planet~ dopo averli collezionati tutti e torna qui una volta fatto.~p~Troverai tutte le informazioni nel registro missione.
+0x00000091 ~player_creature_name~ non ha completato il suo compito! Vai su questi pianeti e recupera le reliquie di ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Una volta fatto, portale al pianeta ~mission_multi_delivery_buyer_planet~. Torna qui dopo la consegna per incassare i tuoi Sporecrediti.
+0x000000BC MATERIALE CONSEGNA: ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~.~p~TEMPO D'ARRIVO PREVISTO: ieri.~p~CONSEGNA EFFETTUATA? SÌ/NO
+0x00000007 Natura, ~player_creature_name~. È intorno a noi, è dentro ogni cosa e ogni cosa fa parte di lei. Anche gli oggetti inanimati come le reliquie di ~mission_multi_delivery_item~. Sono fratelli naturali e ci parlano in continuazione. No, non sono pazzo. Riesco a udirli. Ci chiedono di ritrovarli e consegnarli al pianeta ~mission_multi_delivery_buyer_planet~.~p~Credi di poter dar loro un passaggio?
+0x00000042 ~player_title~ ~player_creature_name~, la fede ci ha avvertiti della tua venuta con il carico di ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~!~p~È dunque così?
+0x000000BB Benvenuto, capitano!~p~Aspettavamo un carico di ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~. Lo hai con te?
+0x000000CE Attendevamo la tua venuta con ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~.~p~Raccoglierai le reliquie e tornerai?~p~Ti attenderemo qui.
+0x0000001D Alcuni pianeti vicini sono provvisti di reliquie di ~mission_multi_delivery_item~. Tempo fa, le lasciavamo per evidenziare i luoghi dove avevamo perso una battaglia. Ora ci imbarazzano. Abbiamo imparato dalla nostra vergogna e le riteniamo inutili! Trovale e sbarazzatene. Forse il pianeta ~mission_multi_delivery_buyer_planet~ sarebbe interessato. Vai e controlla.
+0x0000008D Hai recuperato i ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~. Non ti resta che consegnarli al pianeta ~mission_multi_delivery_buyer_planet~.
+0x0000016A I pirati stanno contrabbandando dei manufatti esotici di ~mission_multi_delivery_item~ sottraendoli da altri mondi e trasportandoli attraverso il nostro sistema stellare! Abbiamo individuato le coordinate di diversi punti di sgancio che i pirati stanno usando per conservare temporaneamente i manufatti di ~mission_multi_delivery_item~.~p~Vorremmo che ti occupassi dei beni sottratti e li riportassi ai legittimi possessori sul pianeta ~mission_multi_delivery_buyer_planet~.
+0x00000169 Le nostre sonde hanno individuato un numero sorprendente di manufatti di ~mission_multi_delivery_item~ in questo sistema stellare. Ne ignoriamo la ragione, ma gli specialisti del pianeta ~mission_multi_delivery_buyer_planet~ potrebbero aiutarci. Ti va di recuperare e consegnarci questi oggetti rari?
+0x00000168 Abbiamo decifrato un antico testo che parla di alcune reliquie di ~mission_multi_delivery_item~ sui pianeti circostanti. Potrebbero contenere degli indizi sull'origine dell'universo! Recupera le reliquie per sottoporle a studi approfonditi.
+0x00000097 Il mancato recupero dei manufatti di ~mission_multi_delivery_item~ dai pianeti ~mission_multi_delivery_item_planet_list~ ci rende alquanto insoddisfatti. A questo punto, non ci sorprenderebbe vederti in difficoltà nel ritrovare i dati nel registro missione.
+0x00000167 DUPLICE RICHIESTA IN ARRIVO~p~RICHIESTA (1): trova i manufatti di ~mission_multi_delivery_item~~p~RICHIESTA (2): consegna i manufatti di ~mission_multi_delivery_item~ sul pianeta ~mission_multi_delivery_buyer_planet~.
+0x00000166 INIZIALIZZAZIONE~p~MODELLO VERBALE, ATTENDERE PREGO~p~MISSIONE PRONTA~p~DESCRIZIONE: recupera dei manufatti di ~mission_multi_delivery_item~ e consegnali al pianeta ~mission_multi_delivery_buyer_planet~.
+0x00000165 COMPITO: recupera dei manufatti di ~mission_multi_delivery_item~ e consegnali al pianeta ~mission_multi_delivery_buyer_planet~.~p~LOGICA: irrilevante. Tale conoscenza non è necessaria per la riuscita di questo compito.~p~DETTAGLI A SEGUIRE
+0x0000003F Benvenuto ~player_title~ ~player_creature_name~.~p~La scansione della vostra nave indica dei manufatti di ~mission_multi_delivery_item~. È corretta la nostra analisi?
+0x0000003E Benvenuto ~player_title~ ~player_creature_name~.~p~Ci è stato detto che avresti portato ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~ al nostro pianeta. Giusto?
+0x0000008F E ora? Hai bisogno di una rinfrescata sulle clausole del contratto? Devi trovare i manufatti di ~mission_multi_delivery_item~ sui seguenti pianeti: ~mission_multi_delivery_item_planet_list~.~p~Una volta fatto, portali al pianeta ~mission_multi_delivery_buyer_planet~ per la consegna. In questo modo completerai la tua parte di contratto. Controlla il registro missione per vedere a che punto sei.
+0x00000015 Cosa ne pensi di recuperare dei manufatti di ~mission_multi_delivery_item~? Il popolo del pianeta ~mission_multi_delivery_buyer_planet~ ne andrebbe pazzo. Naturalmente verresti ricompensato per le tue fatiche. Anche se a dire il vero sembra più divertente che faticoso!
+0x0000000B Coloro che credono nel falso "dio che diverrà" hanno creato delle reliquie di ~mission_multi_delivery_item~ e le hanno nascoste in altri pianeti di questo sistema stellare! Grazie alla nostra fede in Spode, le abbiamo individuate. Recupereresti per noi questi oggetti per poi consegnarli al pianeta ~mission_multi_delivery_buyer_planet~ in modo che vengano distrutti?
+0x0000008E Ehi, hai lasciato il lavoro a metà! Consulta il tuo registro missione.~p~Recupera i manufatti di ~mission_multi_delivery_item~ su questi pianeti:~p~~mission_multi_delivery_item_planet_list~.~p~Una volta fatto, consegnali al pianeta ~mission_multi_delivery_buyer_planet~. Torna qui quando avrai concluso tutto.
+0x00000081 Il tuo ritorno è il benvenuto, ~player_title~ ~player_creature_name~. La tua perspicacia nel riportare i manufatti di ~mission_multi_delivery_item~ ci ha lasciati piacevolmente stupiti.~p~Ecco la tua ricompensa di ~mission_rewards~ Sporecrediti.
+0x0000000D Per celebrare l'anniversario della nostra Federazione, sono stati creati vari manufatti di ~mission_multi_delivery_item~. Durante l'assalto dei pirati, alcuni di essi vennero rubati. Recentemente, il Gran Consiglio ha appreso che tali manufatti si trovano su altri pianeti.~p~Ti chiediamo di recuperarli e portarli sul pianeta ~mission_multi_delivery_buyer_planet~ per il Festival della Federazione.
+0x00000041 Benvenuto ~player_title~ ~player_creature_name~.~p~Ci è stato comunicato che avresti portato ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ al nostro pianeta.~p~Siamo pronti per ricevere sia te che il carico.
+0x0000000A Le sacre appendici di Spode hanno creato diverse reliquie di ~mission_multi_delivery_item~, purtroppo andate perdute durante la terribile Guerra Spodificatrice.~p~Grazie alla guida di Spode, abbiamo scoperto alcuni vicini esemplari superstiti. Te la senti di trovarli e portarli al pianeta ~mission_multi_delivery_buyer_planet~, in modo che gli abitanti possano finalmente inchinarsi al loro cospetto?
+0x00000040 Sei il benvenuto, ~player_title~ ~player_creature_name~.~p~Ci è stato detto che avresti portato ~mission_multi_delivery_buyer_num_needed_items~ esemplari di ~mission_multi_delivery_item~ sul nostro pianeta. Giusto?
+0x00000177 È piccola la galassia, vero Capitano? Che coincidenza che sia stato chiesto proprio a TE di portarci ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~.~p~Cosa non si farebbe per qualche Sporecredito. Ci rivediamo quando recuperi gli oggetti.
+0x0000001C Anni or sono, abbiamo lasciato delle reliquie di ~mission_multi_delivery_item~ su altri pianeti. Ahimè, ora i pirati le stanno rubando. Spetta a ~player_creature_name~ raccoglierle e consegnarle al pianeta ~mission_multi_delivery_buyer_planet~, al sicuro dai pirati. Per questo compito ~player_creature_name~ riceverà una ricompensa.
+0x0000000C Nei tempi passati della nostra specie, i manufatti di ~mission_multi_delivery_item~ erano considerati delle reliquie sacre. Dobbiamo scoprire se tutto ciò è ancora in linea con il Verbo di Spode!~p~Recupera delle reliquie di ~mission_multi_delivery_item~ nel nostro sistema stellare e portale al pianeta ~mission_multi_delivery_buyer_planet~ per farle esaminare.
+0x00000071 Grazie, prode viaggiatore.~p~Attendiamo con trepidazione la consegna delle ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ mancanti.~p~Vai a recuperarle e torna al nostro cospetto.
+0x00000027 Fortunatamente, siamo già in possesso delle coordinate approssimative dei manufatti di ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Consegnali al pianeta ~mission_multi_delivery_buyer_planet~, per ricevere la ricompensa di ~mission_rewards~ Sporecrediti al tuo ritorno.
+0x00000011 Abbiamo decifrato un documento di una razza aliena estinta che parla di alcune reliquie di ~mission_multi_delivery_item~ sparse per diversi pianeti. L'analisi di questi reperti non solo potrebbe dirci di più su questa antica specie, ma getterebbe anche un po' di luce su alcuni misteri. Le strutture migliori per questo tipo di analisi si trovano sul pianeta ~mission_multi_delivery_buyer_planet~.~p~Ti andrebbe di recuperarle e portarle al pianeta ~mission_multi_delivery_buyer_planet~?
+0x000000D4 Sai leggere un contratto, vero? Abbiamo concordato specificamente una consegna di ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. Né più né meno. Se non possiedi ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ ti conviene filare a recuperarle e tornare.
+0x00000018 Ehi, cosa ne pensi delle reliquie di ~mission_multi_delivery_item~? Le ami? Le odi? Non sai neanche di cosa si parla? Non importa. Ciò che conta è recuperarne un po' dai pianeti circostanti.~p~Abbiamo appena stipulato un contratto per consegnarne un carico al pianeta ~mission_multi_delivery_buyer_planet~. Cerchiamo qualcuno che si occupi di questo affare e tu sembri proprio il ~player_creature_name~ che fa al caso nostro!
+0x00000033 Pensiamo che le reliquie di ~mission_multi_delivery_item~ si trovino qui: ~mission_multi_delivery_item_planet_list~. Trovale, portale al pianeta ~mission_multi_delivery_buyer_planet~ e torna per ricevere la ricompensa di ~mission_rewards~ Sporecrediti.
+0x00000010 Il nostro intero codice genetico è stato trascritto su una serie di manufatti di ~mission_multi_delivery_item~ e spedito sul pianeta ~mission_multi_delivery_buyer_planet~. Sfortunatamente, la partita è stata intercettata da un'incursione pirata e il contenuto è andato perso.~p~Uno dei pirati spaziali è stato però catturato e, una volta interrogato dai nostri xeno-antropologi, ha confessato che i manufatti di ~mission_multi_delivery_item~ si trovano ancora nel nostro sistema stellare. Potresti recuperarli e portare a termine la consegna?
+0x000000D3 Grazie, capitano!~p~Vedo che devi consegnare ~mission_multi_delivery_buyer_num_needed_items~ ~^p^mission_multi_delivery_buyer_num_needed_items^manufatto^manufatti~ di ~mission_multi_delivery_item~.~p~Quando sei pronto, vieni qui.
+0x0000006A Ma... ma... ma... ma... ma... ma... ma... ma... ~p~OK.
+0x00000005 Sul pianeta ~mission_multi_delivery_buyer_planet~ si dice che non ci sia nulla di meglio di quella cosa chiamata ~mission_multi_delivery_item~. Sarà vero? Forse sì, forse no, ma ciò che conta è quello che vogliono!~p~Credo proprio che ci siano delle reliquie di ~mission_multi_delivery_item~ nel nostro sistema stellare. Ti va di raccoglierle e portarle al pianeta ~mission_multi_delivery_buyer_planet~?
+0x000000D6 ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. ~player_creature_name~ non ha portato ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~. Torna con ~mission_multi_delivery_buyer_num_needed_items~ o non farti più vedere.
+0x0000004B Oh, sì. Ricordo che era stato menzionato qualcosa del genere nell'ultima trasmissione di documenti per il centro di distribuzione principale. Stavamo attendendo qualcuno con dei manufatti di ~mission_multi_delivery_item~. Ma tu ne sei sprovvisto. Non per fare i pignoli, ma sei tu che non hai rispettato la tua parte dell'accordo, chiaro?
+0x00000006 TIPO MISSIONE: recupero e consegna~p~DETTAGLI MISSIONE: acquisire manufatti di ~mission_multi_delivery_item~ e consegnarli al pianeta ~mission_multi_delivery_buyer_planet~~p~PUNTO DI PARTENZA: i manufatti di ~mission_multi_delivery_item~ sono reperibili in questo sistema stellare.
+0x000000D5 CONSEGNA FALLITA. MOTIVO: incompetenza di ~player_creature_name~.~p~CONSIGLIO: tornare con ~mission_multi_delivery_buyer_num_needed_items~ manufatti di ~mission_multi_delivery_item~.
+0x000000DD Perfetto! Hai consegnato tutti i manufatti di ~mission_multi_delivery_item~. Torna a ~mission_source_empire~ per reclamare la tua ricompensa.
+0x000000B5 ~mission_source_empire~ mi ha chiesto di consegnare alcuni manufatti di ~mission_multi_delivery_item~.
+0x000000DE Vediamo un po'... Sì, sì, ci sono tutti i manufatti di ~mission_multi_delivery_item~. Gran bel lavoro! Ottimo lavoro!~p~D'altra parte come potrebbe un fantastico, magnifico ~player_creature_name~ come te avere dei problemi? Ma devo comunque controllare, sai? Tra me e te, non puoi neanche immaginarti quante specie non sanno contare correttamente.~p~Torna a ~mission_source_empire~ per ottenere la tua ricompensa.
+0x000000CD Chi dicevi di essere? ~player_creature_name~? ~player_creature_name~...? No, non abbiamo alcun contratto con te. Impossibile dimenticarsi di un'astronave tanto stupida! Oh oh!~p~Vediamo, abbiamo un accordo con ~mission_source_empire~... Lavori per loro...? ~p~Bene! Perché non l'hai detto prima?!? O forse lo hai detto? Non ricordo. Non importa, non importa.~p~Se stai lavorando per ~mission_source_empire~ devi collezionare ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~ da consegnare a noi...~p~Altrimenti, rivolgiti a loro... Si tratta di brava gente... eccetto di giovedì.
+0x00000085 Pace e felicità, ~player_title~ ~player_creature_name~.~p~Abbiamo ricevuto le reliquie di ~mission_multi_delivery_item~. E tutto grazie a te.~p~Torna a ~mission_source_empire~ del sistema stellare ~mission_source_star~ per ottenere la tua ricompensa... oppure rimani e fai riposare le tue stanche membra. Non c'è nulla di meglio che levitare.
+0x000000B6 Mi manda ~mission_source_empire~... Credo di essere qui per una consegna...
+0x000000AE Devo consegnarti un carico di manufatti di ~mission_multi_delivery_item~ per conto di ~mission_source_empire~.
+0x000000E2 Formali saluti, ~player_title~ ~player_creature_name~.~p~Sì, hai con te tutti i manufatti di ~mission_multi_delivery_item~ e anche i documenti sembrano essere in ordine. Grazie.~p~Torna a ~mission_source_empire~ nel sistema stellare ~mission_source_star~ per ottenere la ricompensa.
+0x000000E0 ~player_creature_name~ porta con sé le reliquie di ~mission_multi_delivery_item~. Molto bene. Torna a ~mission_source_empire~ per la ricompensa.
+0x000000DF CONSEGNA RIUSCITA.~p~CONSIGLIO: torna a ~mission_source_empire~ per ottenere la tua ricompensa.
+0x000000E1 Gioia e passione! Ogni consegna riuscita è una canzone nel cuore e una molla nei piedi. Torna a ~mission_source_empire~ per la tua dovuta ricompensa.
+0x0000005A Cosa dicevi di essere? ~player_creature_name~? Mmm... aspetta... mi sta sovvenendo... Ti ha mandato ~mission_source_empire~, giusto? Dovevi consegnarci ~mission_multi_delivery_buyer_num_needed_items~ reliquie di ~mission_multi_delivery_item~... Ma eccoti qui... a mani vuote.~p~Strano, non credi? Sarebbe meglio se le avessi con te...
+0x00000083 ~player_title~ ~player_creature_name~. La consegna è stata completata. Dirigiti a ~mission_source_empire~ nel sistema stellare ~mission_source_star~ per ricevere la tua ricompensa.
+0x000000EE Trova e consegna ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ~^p^mission_multi_delivery_buyer_num_needed_items^manufatto^manufatti~ al pianeta ~mission_multi_delivery_buyer_planet~.
+0x0000008A Meraviglioso, ~player_title~ ~player_creature_name~!~p~Hai completato la consegna. Torna a ~mission_source_empire~ nel sistema stellare ~mission_source_star~ per ricevere la loro gratitudine.
+0x000000A3 Desolato di avervi disturbato. Addio.
+0x0000007E Stai tentando di imbrogliare il potente ~race~ consegnando un numero minore di reliquie di ~mission_multi_delivery_item~ rispetto a quello richiesto?~p~Se non fosse per la Filosofia della Fede, metteremmo in discussione le tue abilità. Ma grazie alla fede attenderemo il tuo ritorno con il carico completo.
+0x0000008B Meraviglioso. Noi, del potente e giusto ~race~ nella nostra immensa saggezza abbiamo deciso di credere in ~player_title~ ~player_creature_name~ e per l'ennesima volta... non ci sbagliavamo.~p~Torna a ~mission_source_empire~ nel sistema stellare ~mission_source_star~ per ricevere la tua ricompensa.
+0x0000004A Bene. Noi di ~race~ siamo contenti del tuo aiuto.
+

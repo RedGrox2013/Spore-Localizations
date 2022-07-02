@@ -1,0 +1,386 @@
+﻿# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000011 Du gjorde det!
+
+# Act 1 name
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000020 Genomgång
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 5
+
+0x10000035 Kom igen!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000012 Vi fick just en signal från räddningsskeppet. Det går i omloppsbana just nu och bör landa snart.
+
+# Character name (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt")
+# Comments: Enemy workers on the Mothership.
+
+0x07B3CBF0 Braxoid-tekniker
+
+# Act 1 description
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000021 Ditt förband är instängt på den här planeten, men er befälhavare har en plan ...
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 2
+
+0x10000042 Hitta ett sätt att förstöra det innan det är för sent.
+
+# Act 4 name
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000026 Flykt
+
+# Character name (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld")
+# Comments: Friendly soldiers spawn from here.
+
+0x07B27E69 Kraschat landsättningsskepp
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 1
+
+0x10000041 Braxoid-soldaterna strålas ned från det här skeppet.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 4
+
+0x30000024 Håll dig undan från reaktorn!
+
+# Character name (Character: "brax_soldier", model: "Soldier_@creature_editorModel!0x07b3cbea.crt")
+# Comments: Standard enemy soldier. Relatively weak. Respawns.
+
+0x07B3CBEA Braxoid-soldat
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000015 Skynda! Ni måste slå ut moderskeppet!
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 5
+
+0x30000025 Jag visste att vi inte skulle ha skickat ned alla soldater.
+
+# 'Adventure won' message
+
+0x00000011 Gratulerar! Den här sektorn är rensad och snart är slagfältet säkrat.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000014 Vi håller ut här så länge vi kan.
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 1
+
+0x30000011 Hjärtat av braxoidernas moderskepp.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 2
+
+0x10000022 Ingen kommer att rädda er så länge som braxoidernas moderskepp svävar över er.
+
+# Act 4 description
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000027 Moderskeppet kommer att explodera! Hitta en väg ut!
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 1
+
+0x30000021 Inkräktare! Inkräktare!
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 2
+
+0x30000012 Slå ut det så följer resten av moderskeppet efter.
+
+# Act 2 name
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000022 Infiltrera
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 2
+
+0x30000022 Hjälp!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000013 Du måste ta dig in i fästningen och hitta ett sätt att komma ombord på skeppet!
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 1
+
+0x10000021 Landsättningsskeppet ”Gravio” har landsatt sina sista soldater.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 3
+
+0x30000023 Här borta!
+
+# Character name (Character: "brax_jet", model: "Mothership Jet_@vehicle_editorModel!0x07b27e59.vcl")
+# Comments: Alien Boat arriving at the Docks - it carries the Artifact. Called La Gaviota
+
+0x07B27E59 Braxoid-Scanjet
+
+# Character name (Character: "brax_sniper", model: "Biggulon Soldier_@creature_editorModel!0x07ba637d.crt")
+# Comments: Stationary enemy that protects the top of the wall.
+
+0x07BA637D Braxoid-prickskytt
+
+# Act 3 description
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000025 Du befinner dig på moderskeppet! Leta upp reaktorn och spräng den för att starta en serie explosioner i hela skeppet.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000015 Stick nu!
+
+# Character name (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt")
+# Comments: Guards the force field. Weak toady.
+
+0x07B4E801 Braxoid-vakt
+
+# Character name (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt")
+# Comments: Your commander. Looks tougher, does more damage and has more hit points then the common soldiers.
+
+0x07B2BCA6 Alpharon-befälhavare
+
+# Adventure name
+
+0x00000002 Moderskepp nere
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000013 Nu ska vi lämna den här jordhögen.
+
+# Character name (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld")
+# Comments: Inside the Mothership. Blow this up and get out fast!
+
+0x07C8A001 Huvudreaktorkärna
+
+# Character name (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt")
+# Comments: The common soldier. Long range pulse rifle, medium health. Respawns from dropship.
+
+0x07B27E57 Alpharon-soldater
+
+# Act 5 description
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000029 Moderskeppet är förintat!
+
+# Character name (Character: "mothership_exit", model: "Crate2_@building_editorModel!0x074e43ff.bld")
+# Comments: A placeholder object that marks where the player exits from the Mothership's teleporter.
+
+0x074E43FF Moderskeppets utgång
+
+# Character name (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld")
+# Comments: Used by the Brax Techs
+
+0x0744BD4E Kontrollpanel
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 3
+
+0x40000023 Var finns utgången?
+
+# Act 2 description
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000023 Ta dig in i fortet och hitta ett sätt att teleportera ombord på braxoidernas moderskepp.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 2
+
+0x40000022 Varje Brax för sig själv!
+
+# Character name (Character: "hero", model: "Dave Two_@creature_editorModel!0x07b4e7a0.crt")
+# Comments: The hero, doesn't talk.
+
+0x07B4E7A0 Soldat Z-15
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 1
+
+0x40000021 Spring!
+
+# Character name (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld")
+# Comments: Houses a teleporter used to get onto the Mothership
+
+0x07BA61BC Moderskeppets portal
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 2
+# Comments: Character comments: Stationary
+
+0x20000022 Ingen kommer förbi mig!
+
+# Act 3 name
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000024 Sabotage
+
+# 'Adventure lost' message
+
+0x00000012 Ge inte upp. Din grupp litar på att du ska rädda dem.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 5
+
+0x40000025 Vi är DÖDSDÖMDA!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 5
+
+0x30000035 Reaktorintegritet 99 %
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 4
+
+0x40000024 Den flyger i luften!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 4
+
+0x30000034 Trupptransportskeppen operativa
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 3
+
+0x30000033 Kontakten med Braxnor förlorad
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 2
+
+0x30000032 Stridsstatuskod blå
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 1
+
+0x30000031 Alla system är i drift
+
+# Adventure description
+
+0x00000003 Förstör fiendens moderskepp som svävar över ett slagfält där kampen är hård.
+
+# Character name (Character: "brax_walker", model: "Mothership Walker_@vehicle_editorModel!0x07b687fa.vcl")
+# Comments: Epic-sized Crane machine. Like a transformer. They all carry a crate.
+
+0x07B687FA Dödsvandrare
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000011 Vi kommer ingenstans så länge braxoidernas moderskepp finns där uppe.
+
+# Character name (Character: "brax_turret", model: "Mothership Drone_@vehicle_editorModel!0x07ba61ba.vcl")
+# Comments: Very small air vehicle. Floating orb that shoots lasers (like the one on the Millenium Falcon that Luke uses for lightsaber practice)
+
+0x07BA61BA Zip-sprängare
+
+# Character name (Character: "main_gate", model: "SC_ResearchGate_door_@building_editorModel!0x078feae8.bld")
+# Comments: Destructible part of the front wall
+
+0x078FEAE8 Huvudport
+
+# Character name (Character: "alph_tank", model: "Mothership Tank 2_@vehicle_editorModel!0x07b27e56.vcl")
+# Comments: Tough and slow. High damage.
+
+0x07B27E56 Alpharon-tank
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 1
+
+0x40000031 VARNING!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000014 Ta er in i den där fästningen vid horisonten och se efter om ni kan hitta något sätt att ta er ombord på moderskeppet.
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 4
+# Comments: Character comments: Stationary
+
+0x20000024 Moderskeppet är tryggt så länge jag lever.
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 2
+
+0x40000032 REAKTORVARNING!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 3
+
+0x40000033 SKROVET SPRINGER SNART LÄCK!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 4
+
+0x40000034 EVAKUERA!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 5
+
+0x40000035 FARA! FARA!
+
+# Character name (Character: "comm_tower", model: "Mothership City Hall_@building_editorModel!0x07b27e5c.bld")
+# Comments: A mobile communications device with a large antenna
+
+0x07B27E5C Kommunikationstorn
+
+# Act 5 name
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000028 Triumf!
+
+# 'Adventure start' message
+
+0x00000010 Landsättningsskeppet har kraschat och din grupp är omringad av fientliga trupper. Det finns bara en utväg ...
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 1
+# Comments: Character comments: Stationary
+
+0x20000021 Ni kommer aldrig att få nyckelkortet från min herre!
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 3
+# Comments: Character comments: Stationary
+
+0x20000023 Jag måste försvara portalen!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 1
+
+0x10000031 Smaka på den, Brax-slödder!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000011 Vi är fast! Vårt landsättningsskepp är trasigt och braxoiderna håller ned oss med sin eld.
+
+# Character name (Character: "brax_leader", model: "Biggulon_@creature_editorModel!0x07b3cb5d.crt")
+# Comments: Enemy boss. Big, strong, melee fighter.
+
+0x07B3CB5D Braxnor
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 2
+
+0x10000032 De är överallt!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000012 Vi kan inte hålla ut mycket längre. Braxoidernas fördömda moderskepp skickar ned trupper snabbare än vi kan döda dem.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+# I've radioed for help, but no one is going to rescue us if that Braxoid Mothership stays overhead.
+
+0x10000013 Jag har begärt hjälp via radio, men flottan kan inte hjälpa oss så länge moderskeppet svävar över oss.
+
+# Character talk dialog (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld"): Act 2, Variation 1
+
+0x20000031 Enda vägen upp till moderskeppet går här.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000012 Ingen kommer att riskera att bli nedskjuten för att rädda oss.
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 3
+
+0x10000033 Jag behöver hjälp här borta!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 4
+
+0x10000034 Kör! Kör!
+

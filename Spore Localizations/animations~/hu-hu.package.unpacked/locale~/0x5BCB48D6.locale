@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 Megnyerted a csatát a ~mission_target_planet~ bolygón. Tegyél jelentést a ~mission_source_planet~ bolygón, a ~mission_source_star~ rendszerben!
+0x00000093 Irány: ~mission_source_star~ rendszer.
+0x00000099 Siker! Tegyél jelentést a ~mission_source_star~ csillagrendszerben!
+0x00000097 Folyamatban
+0x00000098 Kész
+0x000000B2 Térj vissza a ~mission_source_planet~ bolygóra és tegyél jelentést!
+0x00000081 Nélküled kel folytatnunk a grox elleni harcot. Nem hagyhatjuk elesni ezt a szektort!
+0x00000071 Kinek az oldalán állsz? Ha a grox megfertőzi a ~mission_target_planet~ bolyót, hamar elesik a szektor maradéka is.
+0x00000092 Grox erőket észleltek a  ~mission_target_star~ csillagrendszerben. Ne hagyd, hogy továbbterjedjen a fertőzésük!
+0x00000041 Jó bunyó volt, ~ep1_captain_full_name~! Belőled bizonyosan nem hiányzik a harcosok ösztöne. ~p~Amíg te itt vagy, a groxnak semmi esélye.~p~Itt van jutalmad,  ~mission_rewards~ spóradolcsi. Ez biztosan fedezi, amit lőszerre költöttél.
+0x000000B1 Harcolj egy fertőzött hadsereg ellen a ~mission_target_planet~ bolygón!
+0x0000004E Nyomás, katona! A bolygóközi koordináták már feltöltésre kerültek a küldetésnaplódba!
+0x00000000 Vörös riadó! Egy grox robothajót láttak a ~mission_target_planet~ bolygón! Úgy tűnik, meg akarják téríteni a bolygót. Katonákra van szükségünk a felszínen, mégpedig sürgősen!~p~~ep1_captain_full_name~, számíthatunk rád?
+0x00000064 Ha leszáll egy grox fertőzőhajó, hamar ki kell iktatnod, mert ha gyökeret ereszt, csak a bolygópusztítóval lehet megszabadulni tőle.~p~Sajnos így magától a bolygótól is megszabadulnánk.
+0x00000094 Grox erőket észleltek a  ~mission_target_star~ csillagrendszerben. Ne hagyd, hogy továbbterjedjen a fertőzésük a ~mission_target_planet~ bolygón!
+

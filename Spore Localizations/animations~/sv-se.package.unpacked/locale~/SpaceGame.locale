@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7A8 Tänkande
+0x03EBF7A9 Växtätare
+0x03EBF7AA Köttätare
+0x03EBF7AB Allätare
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 Allierade
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF07F Ta en titt på våra fina varor
+0x043AF080 Vi vill verkligen ha lite gul här
+0x043AF03A Red krydda
+0x043AF038 Ta en titt på våra fina varor.
+0x043AF039 Wow, vi vill verkligen ha lite röd krydda.
+0x043AF084 Grön krydda
+0x043AF085 Vår rosa skörd var riktigt bra i år. Det här är ett tillfälle som du inte vill missa!
+0x043AF081 Gul krydda
+0x043AF082 Vi har genomsökt ditt lastrum, ser du något som intresserar dig?
+0x043AEF67 Har ni lila?
+0x043AEF68 Lila krydda
+0x043AEF66 Vi har ett specialpris på lila just nu.
+0x043AF086 Rosa gör oss starka. Rosa gör oss lyckliga. Synd att vi inte har någon.
+0x043AF42C Blå krydda
+0x043AF087 Rosa krydda
+0x043AF42A Vi undrade om du hade någon blå krydda.
+0x043AF42B Ta en titt på våra fina varor. Jag är säker på att vi kan komma överens.
+0x043AF083 Vår ledare ville veta om du hade någon grön ...
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF504 asteroidbälte
+0x043AF505 och
+0x043AF4FA här
+0x043AF4FB stjärnan ~star_name~
+0x043AF4FF protoplanetstjärnan ~star_name~
+0x043AF500 galaxens kärna
+0x043AF501 gasjätte
+0x043AF4FC maskhålet ~star_name~
+0x043AF4FD den stora stjärnan ~star_name~
+0x043AF4FE den röda stjärnan ~star_name~
+
+#random string for spg
+
+0x068B22CD Kan inte användas i det här systemet.
+
+#######################################
+# Filters
+
+0x031791AF Mitt imperium
+0x031791B2 Imperier
+0x031791B3 Uppdrag
+0x031791B4 Resväg
+0x0563D2AA Besökt
+0x0563D2AB Vänner och fiender
+
+#######################################
+# Plant types
+
+0x03EBF7AC Liten växt
+0x03EBF7AD Medelstor växt
+0x03EBF7AE Stor växt
+
+#######################################
+# Tech Levels
+
+0x03EAC03D Civ
+0x03EAC03E Rymd
+0x03EAC03B Stam
+0x03EAC03C Stad
+0x03EAC03A Vild
+0x03EAC039 Steril
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x03E81C65 ???????
+0x0539AA97 Plats för växtätare
+0x0539AA96 Plats för stor växt
+0x0539AAE8 Fyll i växter för upplåsning
+0x0539AA98 Plats för köttätare/allätare
+0x0539AA95 Plats för medelstor växt
+0x0539AA94 Plats för liten växt
+0x0473CB22 Köttätare
+0x0473CB26 Tät atmosfär
+0x0473CB2A Ingen atmosfär
+0x0473CB1A Växter
+0x0473CB1F Växtätare
+0x0473CB2E Låg temperatur
+0x0473CB32 Hög temperatur
+0x061DFE83 Fyll i föregående rad för att låsa upp
+
+#player titles
+
+0x05AC5B78 Omnipotent
+0x05AC5B73 Ultimat Väsen
+0x05AC5B01 Kapten
+0x05AC5B64 Den Store
+0x05AC5B2E Amiral
+0x05AC5B58 Den firade
+0x05AC5B5F Den Ryktbare
+0x05AC5B20 Kommendör
+0x05AC5B1B Befälhavare
+0x05AC5B68 Den Legendariske
+0x05AC5B6F Allsmäktig
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DFA Special
+0x05879DF3 Utforska
+0x05879DF4 Vapen
+0x05879DF8 Diplomati
+0x05879DF7 Kolonisering
+0x05879DF9 Dyrkan
+0x05879DF5 Terraformering
+0x05879DF6 Skapar
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 Vill du förstöra den här lasten permanent?
+0x03E81C55 Kasta last överbord
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 Spira
+0x04000006 Tallrik
+0x04000000 Gyllene avgudabild
+0x04000001 Bröst
+0x04000005 Lama
+0x04000010 Leveransbetalning
+0x04000009 Trofé
+0x04000004 Graal
+0x04000008 Snöglob
+0x04000003 Gnom
+0x04000002 Krona
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6B Hämta hologram
+0x03E81C6A Terraformering
+0x03E81C6C Hologramspanare
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A Avstånd: ~travel_distance~(pc)
+
+0x065672CB Tillgänglig för köp. Hitta ett imperium som säljer.
+0x0657C8D4 Du måste lämna planeten för att spara.
+0x065B76EF ~p~Låser upp:
+0x0580E601 Ditt eget imperium
+0x0657CC21 ~badge_points~ utmärkelse-poäng
+
+#######################################
+# Misc Rollovers
+
+0x0654CB0A Handelsvägsframsteg
+0x0654CB16 ~planet_name~ kapitulerade inte
+0x0654CB13 ~planet_name~ kapitulerade
+0x0654CB0F Erövringsframsteg
+0x06749C10 Säkerhetsdrönare
+0x0678CDDF Pirat
+
+#tool given
+
+0x06538847 Insamlade: ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+#######################################
+# Progress bar rollover
+
+0x0435ECEB Uppdrag: ~mission_count~
+0x0435ECE5 Kolonier: ~colony_count~
+0x0435ECE8 Anhängare: Stam: ~tribe_worshipper_count~, Civ: ~civ_worshipper_count~, Rymd: ~ally_count~
+0x0435ECE0 Utmärkelser: ~badge_count~
+0x0436D447 Utmärkelsepoäng: ~badge_points~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x03F5A128 Komet
+0x06748F94 Koloniserad
+0x063C3D96 Ej koloniserad
+
+#######################################
+# Comm/Trade fail text
+
+0x06790598 Ej öppen för handel.
+0x0679ED24 Otillräckliga medel.
+0x0679F573 Kan ej reparera i strid.
+0x06790599 Förbättra relationerna för handel.
+0x0679F574 Kan ej ladda upp i strid.
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9958 ~commodity_tool_req~ eller ~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~ och ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~ och ~commodity_tool_and_req~ eller ~commodity_tool_or_req~
+0x065B9969 ~commodity_badge_reqs~ och ~commodity_tool_reqs~
+0x065B8F3D utmärkelsen ~commodity_badge_req~ och ~commodity_badge_and_req~
+0x065B8F44 utmärkelsen ~commodity_badge_req~ och ~commodity_badge_and_req~ eller ~commodity_badge_or_req~
+0x065BD251 utmärkelsen ~commodity_badge_req~
+0x065B8F36 utmärkelsen ~commodity_badge_req~ eller ~commodity_badge_or_req~
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (Gratis)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F Redigera rymdskepp
+0x043DB6B9 Sälj koloni (~cost~)
+0x043DB6B5 Reparera byggnad (~cost~)
+0x043DB6B7 Reparera rymdskepp (~cost~)
+0x043DB6B8 Köp byggnader
+0x04C82968 Utrusta invånare
+0x043DB6B3 Riv
+0x043DB6B4 Sälj byggnad (~cost~)
+0x043DB6B1 Sälj försvarstorn (~cost~)
+0x043DB6B2 Reparera försvarstorn (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x03EAFDD3 från ~item_planet_name~
+0x04729A65 Ej skannad
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 Ej intresserad.
+0x0679EAC6 Lastrummet är fullt.
+
+#######################################
+# Tool Fail Text
+
+0x0653E5A0 Kan inte användas på hemvärlden.
+0x0653E59E Måste användas på vilda planeter.
+0x0653E598 Inget utrymme i flottan för ett skepp till.
+0x0653E599 Har redan en Mini-Du.
+0x0653E597 Måste användas på en främmande ras koloni.
+0x0653E59A Systemet måste ha en handelsväg.
+0x0653E59B Måste vara på planeten med högst teknologinivå i systemet.
+0x0653E596 Måste användas på en av imperiets planeter.
+0x0653E594 Slut på ammunition.
+0x0653E595 Laddar upp.
+0x0653E593 Måste vara på planet.
+0x0671CE05 Ett djur måste finnas på planeten.
+0x0671FB24 Du kan inte använda monoliten på den här planeten!
+0x066F7A20 Du är för högt upp.
+0x066F7A21 Stjärnsystemet har redan en tänkande art.
+0x066F7A22 Kan inte placera ut fler kolonier med aktuell T-poäng.
+0x066F7A1D Full energi.
+0x066F7A1E Kan inte användas över en stad.
+0x066F7A1F Kan inte användas över vatten.
+0x066F7A1A Måste användas på en av dina kolonier.
+0x066F7A1B Du kan bara ha en av dessa per planet.
+0x066F7A1C Full hälsa.
+0x0653E59D Kan inte användas i ett djurreservat.
+0x0653E59C Kan inte användas i imperiets system.
+0x0653E59F Behöver högre Terra-poäng.
+
+# used to name the Galactic Core.
+
+0x0591BD91 Galaxens kärna
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF508 1:a
+0x043AF509 2:a
+0x043AF50A 3:e
+0x043AF507 0:e
+0x043AF50E 7:e
+0x043AF50F 8:e
+0x043AF510 9:e
+0x043AF50B 4:e
+0x043AF50C 5:e
+0x043AF50D 6:e
+0x043AF526 Pågående
+0x043AF527 Slutfört
+0x043AF528 Misslyckades
+0x043AF52A Varning
+0x043AF529 Uppdrag
+0x043AF52B Utmärkelse
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EECF Förbättra terraformeringspoäng för att låsa upp
+0x0678EED0 Plats för koloni
+
+#######################################
+# Roll overs
+
+0x04359B0F Minikarta
+0x04359B05 Terraformering
+0x048662B4 Filter för stjärnkarta
+0x045FFE85 Alternativ
+0x045FFE89 Hjälp
+0x045FFE8E Pausa/starta
+0x061ECCF0 Rymdskeppsförmågor
+0x03E81C5F Vapen
+0x03E81C5E Last
+0x03E81C60 Huvudverktyg
+0x03E81C62 Redigera rymdskepp
+0x03E81C5C Terraformeringsverktyg
+0x03E81C5B Rymdskeppsalternativ
+0x03E81C5D Inled kommunikation
+0x03E81C61 Växla Sporepedin
+
+#######################################
+# colony object names
+
+0x4A1E2E7B Lyckobonus
+0xB4150FEB Kryddlager
+0x44B420E4 Lojalitetsbonus
+0xF55D419A Bioskydd
+0x405DC1DF Djurreservat
+0xE4EC3F34 Försvarssatellit
+0x3AAB4C0E Ambassad
+0xB7D22F27 Biostabilisator
+
+#######################################
+# Our Solar System
+
+0x03F5A0BA Uranus
+0x03F5A0B0 Sol
+0x03F5A0B2 Venus
+0x03F5A0B5 Mars
+0x03F5A0B6 Jupiter
+0x03F5A0B9 Titan
+0x03F5A0B8 Saturnus
+0x03F5A0B7 Ganymedes
+0x03F5A0B1 Merkurius
+0x03F5A0B4 Månen
+0x03F5A0B3 Jorden
+0x03F5A0BE Kometen Shoemaker-Levy 2
+0x03F5A0C0 Kometen Kohoutek
+0x03F5A0BC Halleys komet
+0x03F5A0BB Neptunus
+0x03F5A0C2 Kometen Borrelly
+0x03F5A0BD Kometen Hale-Bopp
+

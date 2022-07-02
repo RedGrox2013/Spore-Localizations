@@ -1,0 +1,129 @@
+﻿# 0x000000f9 ~guide: -h4~ Camera Pan
+# 0x00000181 ~guide: -bullet~ Hold down the right mouse button or press the arrow keys to pan the camera.
+
+0x00000511 ~guide: -bullet~ Land
+0x000005D1 ~guide: -h1~ Imperiemusik
+0x000005F1 ~guide: -h2~ När du erövrar, konverterar eller köper andra kolonier antar de din imperiemusik. Den musiken representerar ditt imperium.
+0x00000651 ~guide: -h3~ Instrument
+0x00000661 ~guide: -h2~ För att välja ett instrument, klicka på en av de blå knapparna. Prova tills du hittar ett du gillar.
+0x00000671 ~guide: -h3~ Melodi
+0x00000641 ~guide: -h2~ Nationalsången består av ett instrument och en melodi.
+0x00000621 ~guide: -h2~ Du kan även stänga av rytmen genom att klicka på den valda rytmknappen.
+0x00000631 ~guide: -h3~ Nationalsång
+0x00000501 ~guide: -h3~ Det finns tre fordonstyper:
+0x000004F1 ~guide: -h2~ Klicka på fordonsfliken för att öppna Fordonspanelen.
+0x000004C1 ~guide: -bullet~ Reparera byggnader - Skadade byggnader repareras med tiden av dina kolonister. Du kan välja att ersätta en skadad byggnad i Koloniplaneraren genom att klicka på den och dra den tillbaka till byggnadspanelen.
+0x000004D1 ~guide: -bullet~ Förstörda byggnader - De här tas bort med tiden, men du kan köpa en ny byggnad och helt enkelt placera den ovanpå spillrorna för att ersätta skadade byggnader snabbare.
+0x000004E1 ~guide: -h1~ Skapa fordon
+0x00000571 ~guide: -h1~ Kolonidekorationer
+0x00000581 ~guide: -h2~ De här är rent dekorativa utsmyckningar som du kan förse din koloni med.
+0x00000551 ~guide: -h2~ De fordon du markerar eller skapar kommer att köpas av din koloni när den växer och behöver dem. Större kolonier kan hålla sig med en större fordonsflotta.
+0x00000531 ~guide: -bullet~ Luft
+0x00000541 ~guide: -bullet~ Du kan också trimma din kärra här i Koloniplaneraren. Klicka på rymdskeppsikonen för att modifiera ditt skepp.
+0x000007B1 ~guide: -h3~ Slumpmässig
+0x000007C1 ~guide: -h2~ Som en genväg eller om du vill experimentera, klicka på slumpknappen längst ner i Stadsmusikskaparen.
+0x00000791 ~guide: -h3~ Spara
+0x000006D1 ~guide: -bullet~ Du kan ta bort noter från melodin genom att dra bort dem från kompositionsavdelningen.
+0x000006E1 ~guide: -bullet~ Du kan spela upp din melodi när som helst genom att klicka på bakgrunden i kompositionsavdelningen.
+0x000006B1 ~guide: -bullet~ När noterna har placerats i melodin kan du ändra tonhöjden genom att dra dem upp eller ner, eller ändra tonföljden genom att dra dem åt höger eller vänster.
+0x00000681 ~guide: -h2~ Det finns ett antal olika sätt att skapa din egen melodi.
+0x00000691 ~guide: -bullet~ Klicka på tärningen i melodikompositören för att skapa en slumpmässig melodi.
+0x000006A1 ~guide: -bullet~ Lägg till eller ta bort noter genom att klicka på knapparna nere i högra hörnet.
+0x000006F1 ~guide: -bullet~ Du kan slå på/av autospelningen av melodin genom att klicka på autospelningsknappen.
+0x00000741 ~guide: -h3~ Ladda
+0x00000761 ~guide: -h3~ Dela musik
+0x00000731 ~guide: -h2~ Klicka bara på någon av dem för att ångra eller göra om dina senaste ändringar.
+0x00000701 ~guide: -h3~ Miljöljud
+0x00000711 ~guide: -h2~ Miljöljudet spelas över hela planeten, till och med när du zoomar ut i rymden. När du närmar dig en planet som tillhör ett annat imperium kommer du att höra deras musik. För att välja ett miljöljud, klicka bara på upp till fyra av knapparna med miljöljudslager. Kombinera dem som du vill.
+0x00000721 ~guide: -h3~ Ångra och Gör om
+0x000002E1 ~guide: -bullet~ Fabriker
+0x000002C1 ~guide: -bullet~ Bostäder
+0x000002D1 ~guide: -bullet~ Underhållning
+0x00000301 ~guide: -h3~ Ditt stadshus
+0x00000321 ~guide: -h3~ Köpa byggnader
+0x00000331 ~guide: -h2~ För att köpa en byggnad till din koloni:
+0x00000231 ~guide: -bullet~ Befolkning
+0x00000241 ~guide: -bullet~ Lycka - olyckliga medborgare är mindre produktiva
+0x000001C1 ~guide: -bullet~ Din Imperieformation visas i översta fältet av Koloniplaneraren.
+0x00000201 ~guide: -h3~ Koloniinformation
+0x00000211 ~guide: -h2~ Koloniinformationen för kolonin du besöker visas uppe i högra hörnet av Koloniplaneraren, under Imperieinformationen.
+0x00000221 ~guide: -bullet~ Kolonins namn och identitetsfärg
+0x000001B1 ~guide: -h3~ Imperieinformation
+0x00000291 ~guide: -h1~ Skapa, köpa och placera byggnader
+0x000001A1 ~guide: -bullet~ De  Sporebucks du kan göra av med visas nere till vänster i Koloniplaneraren.
+0x000002A1 ~guide: -h3~ Det finns fem typer av byggnader du kan använda i din koloni:
+0x00000281 ~guide: -h2~ Låt inte din koloni vara namnlös! Klicka på "Namnge din koloni" för att ge den ett namn och fyll i beskrivningen nedanför.
+0x00000251 ~guide: -bullet~  Inkomst i Krydda/minut
+0x00000271 ~guide: -h3~ Namnge och beskriv din koloni
+0x00000421 ~guide: -bullet~ Hus ökar din befolkning och höjer din fordonsgräns. De skapar också platser som kan länka till Underhållningsbyggnader och Fabriker för att öka din kolonis lycka och produktivitet. Stadshuset räknas som ett hus.
+0x00000431 ~guide: -bullet~ Underhållningsbyggnader ökar lyckan i din koloni om de placeras intill hus - olyckliga medborgare producerar mindre och kan starta upplopp.
+0x00000401 ~guide: -h3~ Byggnadslänkar
+0x000003E1 ~guide: -h1~ Koloniplan
+0x000003F1 ~guide: -h2~ Att bygga en framgångsrik koloni kräver att du placerar de olika byggnadstyperna på bra platser.
+0x00000491 ~guide: -h3~ Sälja tillbaka byggnader
+0x00000461 ~guide: -h3~ Flytta byggnader
+0x00000471 ~guide: -bullet~ Du kan flytta valfri byggnad du placerar i din stad under det här besöket i Koloniplaneraren
+0x00000182 ~guide: -h3~ Sporebucks
+0x000004A1 ~guide: -bullet~ Du kan sälja tillbaka en byggnad när som helst genom att klicka på den och dra tillbaka den till Byggnadspanelen.
+0x000002B1 ~guide: -bullet~ Stadshus - varje koloni kan bara ha ett stadshus, och alla stadshus på planeten har samma design.
+0x00000601 ~guide: -h3~ Kolonins takt
+0x000005E1 ~guide: -h2~ Ditt imperiums musik består av flera delar: en takt, ett ledmotiv (en melodi och ett instrument) samt planetens miljöljud. Du kan välja puls, instrument, reglera bådas volym samt skapa din egen melodi i kompositionsavdelningen.
+0x000007E1 ~guide: -h2~ Sista skriket inom rymdfararmode hittas i Koloniekiperaren. Ge dina kolonister lite stil genom att ekipera dem.
+0x000007D1 ~guide: -h1~ Kolonekiperaren
+0x00000441 ~guide: -bullet~ Fabriker ökar din stads inkomst om de placeras intill hus, men ger också olyckliga medborgare. Ingen tycker om att arbeta hela dagen!
+0x000006C1 ~guide: -bullet~ Du kan förlänga varje enskild not genom att föra pekaren över den och använda mushjulet eller uppåt- och nedåtpilen på tangentbordet.
+0x000004B1 ~guide: -h3~ Skadade och förstörda byggnader
+0x00000751 ~guide: -h2~ Klicka på ladda-knappen så kommer du till Sporepedin med musikavdelningen uppslagen. Välj ett musikkort och klicka på den gröna bocken. Den valda imperiemusiken kommer nu att spelas när du återgår till Koloniplaneraren. För att förhandsgranska ett musikstycke, dubbelklicka på dess Sporekort.
+0x00000611 ~guide: -h2~ Klicka bara på en knapp. Var och en representerar ett rytmspår. Lyssna ett tag, eftersom de ändras över tid. Om du vill isolera rytmen, sänk volymen för alla de andra musikkomponenterna. När du har den rytm du vill ha, gå vidare till Nationalsångskomponenten.
+0x00000372 ~guide: -bullet~ När du har skapat eller markerat en byggnad visas den i byggnadslistan.
+0x000007A1 ~guide: -h2~ När du är färdig med att skapa din imperiemusik kan du spara den genom att klicka på spara-knappen. Spardialogen kommer att be dig namnge och beskriva ditt verk. Du kan sen hitta dina musikstycken under musikfliken i Sporepedin.
+0x00000812 ~guide: -h2~ Du kommer nu in i Koloniutstyrseln. Den dräkt du väljer för dessa nybyggare kommer delas med alla kolonister i ditt imperium.
+0x00000341 ~guide: -bullet~ Peka på den typ av byggnad du vill köpa.
+0x000003B1 ~guide: -bullet~ Byggnadens pris dras ifrån din Sporebucks-kassa.
+0x000005A1 ~guide: -bullet~ Välj den dekoration som du vill placera i din stad.
+0x00000191 ~guide: -h2~ Nu när du är en rymdfarande art, kommer du att utvinna krydda, handla med krydda och sällsynta föremål och utföra uppdrag åt andra imperier för att få ihop Sporebucks. Du behöver Sporebucks för att expandera ditt imperium. Ditt imperium måste få in tillräckligt med Sporebucks för att investera i byggnader, fordon, dekorationer och försvar, samt energi att driva ditt rymdskepp.
+0x00000591 ~guide: -bullet~ Öppna fliken Dekorationer.
+0x000003A1 ~guide: -bullet~ Placeringen är viktig. Se avsnittet om Kolonilayout för mer information.
+0x00000311 ~guide: -h2~ Ditt stadshus visas längst upp i byggnadslistan. Du kan välja att redigera stadshuset eller skapa ett nytt när som helst. Du kan bara ha ett stadshus för varje koloni.
+0x000005B1 ~guide: -bullet~ Klicka och dra dekorationen till staden och placera den på en av de lysande placeringsringarna.
+0x00000801 ~guide: -bullet~ Klicka på fliken Koloniutstyrsel i Koloniplaneraren.
+0x00000811 ~guide: -bullet~ Klicka på din kolonists porträtt i Utstyrselpaletten och klicka på Redigera utstyrsel.
+0x00000391 ~guide: -bullet~ Placera den på en av de lysande placeringsringarna i din koloni.
+0x000005C1 ~guide: -bullet~ Dekorationens pris dras ifrån din Sporebucks-kassa.
+0x00000381 ~guide: -bullet~ Klicka på byggnaden och dra den sedan från byggnadslisten till din koloni.
+0x00000781 ~guide: -h2~ För att importera .png-filer med imperiemusik från dina vänner, lägg bara filerna i mappen: ~save_path~StadsMusik~mac_save_append~, när Spore inte spelas. Du kan sedan nå filerna från Sporepedin.
+0x00000771 ~guide: -h2~ Imperiemusik delas inte automatiskt. För att dela din imperiemusik med dina vänner, leta rätt på filen i mappen: ~save_path~StadsMusik~mac_save_append~. Du kan e-posta .png-filen till dina vänner.
+0x00000451 ~guide: -bullet~ Försvarstorn försvarar din stad mot fientligt övertagande genom att automatiskt attackera enheter som närmar sig. De länkar inte till någon annan byggnad och måste placeras längs dina stadsmurar.
+0x00000561 ~guide: -h2~ Se avsnittet i Sporeguiden om Fordonsskaparen eller Rymdskeppsskaparen för mer information om hur du skapar egna.
+0x00000521 ~guide: -bullet~ Sjö
+0x00000821 ~guide: -h3~ Läs Sporeguiden-avsnittet om Ekiperarna för att få reda på mer om att ekipera dina kolonister.
+0x000001D1 ~guide: -bullet~ Ditt imperiums namn, färg och antal kolonier på den planet du besöker visas här, liksom Terra-poäng. Helt terraformerade planeter är gästvänligare för kolonier. T1-planeter kan ha en koloni, T2-planeter två kolonier och T3-planeter kan upprätthålla tre kolonier.
+0x00000261 ~guide: -bullet~ Försvar - ju fler försvarstorn du har, desto starkare är ditt försvar.
+0x00000351 ~guide: -bullet~ Bestäm om du vill välja en byggnad från Sporepedin eller skapa en egen
+0x000003C1 ~guide: -h2~ Obs! Se avsnittet i Sporeguiden om Byggnadsskaparen för mer information om hur du skapar din egen byggnad.
+0x00000411 ~guide: -h2~ När du placerar byggnader i din koloni visas en lysande länk mellan byggnader. Gröna länkar indikerar en bra placering, vitt är neutralt och rött är dåligt.
+0x000002F1 ~guide: -bullet~ Försvarstorn - försvarstorn försvarar din stad och reagerar automatiskt på alla hot tills de är för skadade för att fungera.
+
+0x00000021 ~guide: -h2~ Öppna Koloniplaneraren genom att klicka på Koloniplanerarknappen som visas ovanför stadshuset i någon av ditt imperiums kolonier. Dina byggnads- och fordonsval påverkar bara kolonierna på den planet du just nu besöker. Dock måste varje koloni anläggas separat.
+0x00000011 ~guide: -h1~ Välkommen till Koloniplaneraren
+0x00000041 ~guide: -h3~ Här får du tillgång till allt det här:
+0x00000031 ~guide: -bullet~ Hoppa till andra kolonier på samma planet, utan att stänga Koloniplaneraren, genom att klicka på pilknapparna intill koloninamnet i nedre fältet på Koloniplaneraren.
+0x000000C1 ~guide: -h1~ Några viktiga grunder
+0x000000A1 ~guide: -bullet~ Skapa din egen nationalsång
+0x000000E1 ~guide: -h3~ Kamerakommandon
+0x000000F1 ~guide: -h2~ Alla lägen i Koloniplaneraren använder samma kamerakommandon, utom Kolonekiperaren som har ett eget avsnitt i Sporeguiden.
+0x00000082 ~guide: -bullet~ Skapa eller modifiera ditt rymdskepp.
+0x000000D2 ~guide: -bullet~ Klicka på fliken för att öppna lämplig panel: Byggnader, Fordon, Stadsdekorationer, Koloniklädsel eller Tema.
+0x000000F2 ~guide: -h4~ Kamerarotation
+0x000000F8 ~guide: -bullet~ Även + och - tangenterna zoomar in och ut.
+0x000000F6 ~guide: -h4~ Kamerazoom
+0x000000D1 ~guide: -h2~ Flikarna längs Planeraren till vänster ger dig tillgång till olika funktioner i Koloniplaneraren.
+0x00000081 ~guide: -bullet~ Skapa fordon åt dina kolonier. Varje koloni hanterar sin egen flotta och köper och ersätter fordonen du skapar eller väljer åt dem när de behöver dem.
+0x00000071 ~guide: -bullet~ Köp Kolonidekorationer för att utsmycka din koloni.
+0x00000091 ~guide: -bullet~ Ekipera dina kolonister.
+0x000000B1 ~guide: -bullet~ Planera din koloni och få reda på dina kolonisters lycka och produktivitet.
+0x000000F5 ~guide: -bullet~ , och .-tangenterna roterar också kameran.
+0x00000061 ~guide: -bullet~ Köp försvarstorn för att förstärka din kolonis försvar.
+0x00000051 ~guide: -bullet~ Skapa och Köp byggnader.
+0x000000F4 ~guide: -bullet~ Håll ned höger musknapp och dra staden för att rotera kameran runt staden. På en Mac håller du ned Kommando, Alternativ och vänster musknapp.
+

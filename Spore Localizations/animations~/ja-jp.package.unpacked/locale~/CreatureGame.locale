@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E パートナー
+0x0524D329 パートナーを探す
+0x0509FC4F パートナーを探してクリックすれば、クリーチャークリエイターに入ります！
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 <hinticon>をクリックして、突撃の仕方を学んでください。
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546ABA4 集落を形成しましょう！
+0x0514F98E 移住
+0x0546AB9A 進化する
+0x0546AB9E 「進化」ボタンをクリックして、クリーチャーを進化させましょう。集落を形成して、文明生活の始まりです！
+0x0514F993 あなたの種族は、別の巣に移住しました。遠吠えを使い、足跡を追って彼らを見つけましょう。
+0x0524D32C 新しい巣に移住しましょう。
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 群れ
+
+# Find_NPC Goal Card
+
+0x0509FB92 クリーチャー
+0x0509FB93 他の種族を見つけてクリックしましょう！
+0x0524D328 別の種族に会う
+
+# crg-lowhealth.prop
+
+0x91A0449F 傷ついてしまいました！　回復するため、巣に戻りましょう
+
+# Combat text messages
+
+0xD39A5768 その能力はまだ使えません
+0x3538B712 この能力は演奏中にしか使用できません。
+0xF538B6FD この能力は戦闘中にしか使用できません。
+0x06778BAC 既にこのクリーチャーは感心しています
+0x739A4E05 近すぎます。
+
+# Combat Card - Mini Boss
+
+0x064D4054 狩る
+0x064D4056 この珍しいクリーチャーは他の種族よりも大型で力も強くなっています。
+0x064D4053 ~target_species_crg~を狩る
+0x067394F7 この珍しいクリーチャーは他のほとんどの種よりも大型で力も強くなっています。
+0x064D4055 ~target_species_crg~を倒せば、DNAポイントに大量のボーナスが得られるでしょう。
+
+# Eating_Herbivore Goal Card
+
+0x0524D325 あなたは草食動物です。果実を食べましょう。
+0x0509F9DB 食べる
+0x0509F9DC 草食動物は果実を食べなければ生きられません。木や茂みになっている果実をクリックすれば食べられます。
+
+# crg-verbcharge.prop
+
+0x6859AEDE その能力はまだ使えません
+
+# crg-spitclose.prop
+
+0x30A611E9 近すぎです
+
+# Social Card - Mini Boss
+
+0x064D4045 感心させる
+0x064D4048 この珍しいクリーチャーは他の種族よりも大型で力も強くなっています。
+0x064D4047 この珍しいクリーチャーは他の種族よりも大型で力も強くなっています。
+0x064D4044 ~target_species_crg~を感心させる
+0x064D4046 ~target_species_crg~を感心させて、頼もしい味方にしましょう。
+
+# Find Unlocks Card
+
+0x54D958AB 回収
+0x54D958AD 新しいパーツを探して進化しましょう。
+0x54D958AC 他の種族のリーダーを狩るか、感心させて、新しいパーツをアンロックしましょう。骸骨の中から見つけることもできます。
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D1 新しい巣
+0x0658F2D0 自分の巣
+0x0658F2D2 古い巣
+0x0658F2D3 不明な種族
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 回収
+0xF4DAF5CB 細胞パーツのアンロック
+0xF4DAF5CA 細胞を狩るか、隕石の欠片を壊して新しいパーツをアンロックしましょう。
+
+# Build Artifact
+
+0x064D4064 あなたの種族に対して、奇妙で神秘的なオーラを発するアイテムを発見しました。すべて集めて偶像を作りましょう！
+0x064D4061 アーティファクトを組み立てましょう！
+0x064D4062 謎のアーティファクトの部品をすべて集めましょう。
+0x064D4063 あなたの種族に対して、奇妙で神秘的なオーラを発するアイテムを発見しました。すべて集めて偶像を作りましょう！
+0x064D4060 アーティファクトを組み立てましょう！
+
+# Claim Nest
+
+0xD538B78F この巣を本拠地にしますか？　死亡した場合はここで復活することになります。
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 <hinticon>をクリックして、魅了の仕方を学んでください。
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC スピットを学びます
+
+# Combat - Extinct
+
+0x064D4058 狩る
+0x064D4059 ~target_species_crg~の種族は絶滅しています！
+0x064D405B ~target_species_crg~の種族は絶滅しています！
+0x064D405A ~target_species_crg~の種族は絶滅しています！
+0x064D4057 ~target_species_crg~を狩る
+
+# Eating_Carnivore Goal Card
+
+0x0509F9D9 食べる
+0x0509F9DA 肉食動物は肉を食べなければ生きられません。獲物を狩ったり、死骸を見つけてクリックすれば食べられます。
+0x0524D324 あなたは肉食動物です。獲物を狩って肉を食べて下さい。
+
+# Add_Posse Goal Card
+
+0x0509FC97 あなたの種族、もしくは仲間の種族を群れに加えるには、彼らを感心させてください。
+0x0509FC96 群れのメンバー
+0x0524D32A 群れのメンバーを追加
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 <hinticon>をクリックして、攻撃の仕方を学んでください。
+
+# First time socializing
+
+0xF4211909 他のクリーチャーの物真似をして、感心させましょう
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB <hinticon>をクリックして、歌い方を学んでください。
+
+# Find Unlocks Card - First Part
+
+0x06035A51 パーツを回収
+0x06035A52 他の種族のリーダーを狩るか、感心させて、新しいパーツをアンロックしましょう。骸骨の中から見つけることもできます。
+0x06035A53 進化するために、新しいパーツを見つけましょう。
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 <hinticon>をクリックして、踊り方を学んでください。
+
+# Social Card - Hostile Species
+
+0x064D403B 感心させる
+0x064D403D 生まれつき敵意を持った種族もいますが、あなたの行動によって永遠に敵対的になってしまったのかもしれません。注意してください！
+0x064D403A ~target_species_crg~を感心させる
+0x064D403E 生まれつき敵意を持った種族もいますが、あなたの行動によって永遠に敵対的になってしまったのかもしれません。注意してください！
+0x064D403C ~target_species_crg~を感心させることができませんでした！
+
+# Hints
+
+0x057736C3 <hinticon>をクリックして集落を作成してください
+0x142CD4F2 肉食生物は肉だけを食べ、草食生物は果実だけを食べることをお忘れなく！
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 感心させる
+0x064D4035 ~target_species_crg~を感心させる
+0x064D4039 この種族を感心させると、彼らの巣で傷を癒すことができるようになります。
+0x064D4038 この種族を感心させると、彼らの巣で傷を癒すことができるようになります。
+0x064D4037 ~mission_remaining_crg~匹の~target_species_crg~を感心させましょう。
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 クリーチャーをクリックすると交流ができます
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4031 感心させる
+0x064D4030 ~target_species_crg~を感心させる
+0x064D4034 この種族を感心させると、彼らの巣で傷を癒すことができるようになり、いずれ群れに加えることもできるようになります。
+0x064D4033 この種族を感心させると、彼らの巣で傷を癒すことができるようになり、いずれ群れに加えることもできるようになります。
+0x064D4032 ~mission_remaining_crg~匹の~target_species_crg~を感心させましょう。
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 <hinticon>をクリックして、噛み方を学んでください。
+
+# Reward text for all cards
+
+0x050A34CA 報酬：DNAポイントを~reward_evo_crg~獲得
+
+# Save Baby
+
+0x064D405E 赤ちゃんを無事に自分の巣まで誘導すれば助けることができます。
+0x06739532 ~target_species_crg~があなたの種族の赤ちゃんをわなにかけたようです！
+0x064D405C 赤ちゃんを救ってください！
+0x064D405D 赤ちゃんを救ってください！
+0x064D405F ~target_species_crg~があなたの種族の赤ちゃんを罠にかけたようです！
+
+# Combat Card
+
+0x064D404F 狩る
+0x064D4052 ~target_species_crg~を狩って支配し、絶滅させてください。
+0x064D404E ~target_species_crg~を狩る
+0x064D4051 この種族を狩って、絶滅させましょう。
+0x064D4050 ~mission_remaining_crg~匹の~target_species_crg~を狩りましょう。
+
+# crg-notarget.prop
+
+0x79E8F4C5 ターゲットを選んでください
+
+# Eating_Omnivore Goal Card
+
+0x0524D326 あなたは雑食動物です。果実か肉を食べて下さい。
+0x0509F9DE 雑食動物は色々食べられます。死骸や果実を見つけてクリックすると食べられます。
+0x0509F9DD 食べる
+
+# Species creator
+
+0xB3DAED77 ~creator~制作
+0x73DB4258 Sporeチーム制作
+
+# crg-useabilityposture.prop
+
+0x8693A0FC <hinticon>をクリックして、ポーズの取り方を学んでください。
+
+# con
+
+0x0564E650 ペットの~local_creature_name~
+0xB32FE522 赤ちゃん~local_creature_name~
+0x0595B72B 壮大な~local_creature_name~
+0x94ACB6F7 はぐれ ~local_creature_name~
+0xF32FE51B リーダー~local_creature_name~
+
+# crg-locatemate.prop
+
+0x200AFD34 <hinticon>をクリックしてパートナーを探してください
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404A 感心させる
+0x064D404C 相手の巣で回復できます！
+0x064D404B ~target_species_crg~は全て味方です！
+0x064D404D 相手の巣で回復できます！
+0x064D4049 ~target_species_crg~を感心させる
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4041 ~target_species_crg~は全て味方です！
+0x064D4040 感心させる
+0x064D4042 相手の巣で回復したり、メンバーを群れに加えることができます！
+0x064D4043 相手の巣で回復したり、メンバーを群れに加えることができます！
+0x064D403F ~target_species_crg~を感心させる
+

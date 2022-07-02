@@ -1,0 +1,393 @@
+﻿# Character name (Character: "small_house", model: "Brish House_@building_editorModel!0x076c4841.bld")
+# Comments: Small whitewashed houses
+
+0x3F290860 작은 집
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 3
+
+0x6BA6C822 하지만 먼저 자네 안에 있는 조화의 균형을 찾아야 할 것 같군.
+
+# Character name (Character: "wall", model: "Brish Wall_@building_editorModel!0x076c9d7b.bld")
+# Comments: town wall
+
+0x41428860 벽
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 2
+
+0x2B1E78C1 곧 있으면 해가 뜰 것입니다.
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 3
+
+0x2B1E78C2 삼아남을 수 있을지 모르겠어요.
+
+# Character name (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld")
+# Comments: Easter Island Head
+
+0x9ABF1860 바위 신
+
+# Character inspect text (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld"): Act 4, Variation 1
+
+0xFEFE2942 길이 이어져 있어.
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 1
+
+0x2B1E78C0 제발 도와주시오, 이방인.
+
+# Act 6 description
+
+0x00000029 두려운 일은 이제 모두 끝났습니다. 드루이드에게 돌아가십시오.
+
+# 'Adventure won' message
+
+0x00000011 다시 조화를 회복하였습니다! 더는 샤볼이 웨일즈 마을을 공격하지 않을 것입니다.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 1
+
+0x6BA6C920 이방인이여. 반드시 영혼의 길을 걷게나.
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 2
+
+0x6BA6C8A1 춥군, 빨리 이동 하게나.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 3
+
+0x6BA6C924 이방인이여, 이제 가게. 두려워할 것은 아무것도 없다네. 싸울 필요도 없네. 자네 안의 조화를 믿게나.
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 1
+
+0x953BC9C5 무서운 고대의 존재가 눈을 떴다!
+
+# Character name (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt")
+# Comments: Hags. Spout nonsense. Probably witches…
+
+0x97104860 마을 주민
+
+# Character name (Character: "large_house", model: "Brish Manor_@building_editorModel!0x076c4842.bld")
+# Comments: Larger house - centerpiece of village
+
+0x15377860 커다란 집
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 2
+
+0x6BA6C823 자 내 영혼의 지팡이를 받게. 그걸로 자네 안에 있는 기운을 불러오게. 그러면 안전할 걸세.
+
+# Character inspect text (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt"): Act 4, Variation 2
+
+0x953BC9C4 멀리 떨어져 있는 게 좋겠어.
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 3
+
+0x953BC9C7 샤볼은 광기에 이끌린 게 분명해.
+
+# Character inspect text (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt"): Act 4, Variation 1
+
+0x953BC9C1 마을을 두려움에 떨게 한 괴물들이 바로 이 놈들이야.
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 4
+
+0x953BC9C9 드루이드의 지팡이로 제단을 파괴해! 그러면 공포도 사라질 거야!
+
+# Character name (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld")
+# Comments: Evil altar used to summon monster
+
+0x00003003 명예의 제단
+
+# Act 6 name
+
+0x00000028 조화 회복
+
+# Act 2 description
+
+0x00000023 드루이드를 따라가서 조화의 원을 찾으십시오.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 1
+
+0x97104840 종말이 다가왔어요!!!
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 4
+
+0x2B1E7824 샤볼에 대해서는 아무것도 모릅니다. 우리를 도와주시겠소?
+
+# Character name (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld")
+# Comments: Markers along the path
+
+0xFEFE2861 폐허로 뒤덮인 길
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 2
+
+0x97104841 지난밤에 본 건 대체 뭐죠?
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 3
+
+0x97104842 이 마을은 저주받았어요.
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 2
+
+0x2B1E7821 매일 밤, 언덕의 샤볼이 우리 마을을 공격하고 있습니다. 사람들은 혼란에 빠졌어요.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 4
+
+0x97104843 그 늙은 드루이드가 나타나기 전까지는 모든 게 정상이었죠.
+
+# Adventure name
+
+0x00000002 영혼은 쉬지 않는다
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 3
+
+0x2B1E7822 마을 밖에서 떠돌아다니는 그 늙은 드루이드와 뭔가 관련 있는 게 분명합니다.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 5
+
+0x97104844 우린 모두 끝이야!
+
+# Character inspect text (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld"): Act 3, Variation 1
+
+0x9FD42940 차가운 기운이 이 돌을 감싸고 있어.
+
+# Character name (Character: "villager", model: "Brish Follower_@creature_editorModel!0x076c485e.crt")
+
+0xFEFE2943 마을 주민
+
+# Character name (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt")
+# Comments: Shabbols - Dangerous shaggy creatures near the path, like Yeti…
+
+0x953BC860 샤볼
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 1
+
+0x2B1E7820 도착했구나! 장로들이여 감사합니다!
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 4
+
+0xA468E843 숨을 곳이 필요해!
+
+# Character inspect text (Character: "large_house", model: "Brish Manor_@building_editorModel!0x076c4842.bld"): Act 1, Variation 1
+
+0x15377840 여기가 마을 지도자가 사는 집인 것 같군.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 5
+
+0xA468E844 놈들은 해가 지는 대로 공격해 올 거야.
+
+# Act 3 description
+
+0x00000025 귀를 기울이십시오. 무엇을 해야 할지 알 수 있을 겁니다.
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 3
+
+0xFCE109C4 바아아!
+
+# Character name (Character: "cross", model: "Brish Statue_@building_editorModel!0x076b3035.bld")
+# Comments: OR similar shape, a religious-ish icon like a statue
+
+0x8EFEC860 십자가
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 2
+
+0xFCE109C2 바아아아?
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 1
+
+0xFCE109C1 스포핏? 여기서 대체 뭘 하고 있는 거지?
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 3
+
+0x971048C3 저. 저기 어둠 속에 있는 건 뭐지?
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 1
+
+0xA468E840 왜 계속 우릴 공격하는 거야?
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 2
+
+0xA468E841 도움이 필요해!
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 2
+
+0x971048C1 해가 지면 우린 모두 끝이야!
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 2
+
+0x953BC9C6 그건 숲의 자연스러운 조화를 깨뜨리는 거예요.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 1
+
+0x971048C0 심판의 때가 다가왔다.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 3
+
+0xA468E842 대체 왜?
+
+# Act 1 name
+
+0x00000020 웨일즈의 어느 마을
+
+# Character name (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt")
+# Comments: The Player's old guide. Robes, trinkets, the whole druid bit. Wears a bit of wolf here and there (like a headpiece?) from #3. will become a stone
+
+0x6BA6C860 늙은 드루이드
+
+# Character name (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt")
+# Comments: At the end of the path
+
+0x953BC861 무서운 고대의 존재
+
+# 'Adventure lost' message
+
+0x00000012 참된 길에서 벗어났습니다. 숨을 크게 들이쉬고 긴장을 푼 다음, 다시 한번 도전하세요!
+
+# Act 3 name
+
+0x00000024 조화의 순환!
+
+# Character inspect text (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop"): Act 1, Variation 2
+
+0x40DDC841 날 부르는 소리가 들려!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 5
+
+0x953BC9D4 그러면 진실한 길을 찾게 될 거야! 잘 가게!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 4
+
+0x953BC9D3 이제 작별이야, 이방인. 믿음을 지키고 길을 따르는 것을 잊지 말게.
+
+# Act 5 description
+
+0x50000002 제단이 파괴되었습니다!
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 4
+
+0x6BA6C8A4 지독하게 춥군. 서두르기를 바랄 수밖에!
+
+# Character inspect text (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop"): Act 1, Variation 1
+
+0x40DDC840 영혼의 지팡이야!
+
+# Adventure description
+
+0x00000003 무시무시한 샤볼이 마을을 공격하고 있습니다. 영혼의 길을 걸어 이 땅에 조화를 가져오십시오.
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 3
+
+0x6BA6C8A2 이게 조화의 순환으로 가는 길이라네!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 2
+
+0x6BA6C821 뭔가 사악한 것이 언덕 위에서 생기고 있어.
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+# Comments: More Spoffitt. The most mystical of beings
+
+0xFCE10860 스포핏
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 샤먼, 드루이드, 조화
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 1
+
+0x6BA6C820 반갑네 이방인이여. 마을 사람이 혼란에 빠졌다고 들었네. 그럴 만도 하지.
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 1
+
+0x6BA6C8A0 날 따라오게. 이번 여행은 쉽지만은 않을 걸세.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 3
+
+0x953BC9D2 역시 강한 영혼을 가졌군.
+
+# Act 5 name
+
+0x50000001 사라져라!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 2
+
+0x953BC9D1 해냈군! 숲이 깨끗해 졌네.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 3
+
+0xA468E8C2 대장. 우린 이제 어떻게 해야 하죠?
+
+# Act 4 name
+
+0x00000026 길을 따라가십시오!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 4
+
+0x6BA6C824 나를 따라 원으로 오게. 그럼 더 많은 걸 알려주지
+
+# Character inspect text (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld"): Act 2, Variation 1
+
+0x9FD428C0 이곳의 석상은 수천 년은 된 것 같아.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 2
+
+0xA468E8C1 우리에게 신호를 달라고!
+
+# Act 1 description
+
+0x00000021 최근의 혼란과 관련한 더 많은 정보를 모으십시오.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 1
+
+0xA468E8C0 신호! 신호 말이야!
+
+# Character name (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt")
+# Comments: He who 'pours the pints' - the followers follow him around. Think the Hermit from Monty python
+
+0x2B1E7860 마을 지도자
+
+# Act 4 description
+
+0x00000027 길을 따라가십시오. 지팡이를 놓쳐서는 안 됩니다.
+
+# 'Adventure start' message
+
+0x00000010 지난밤, 잔인한 샤볼이 웨일즈 마을을 공격했습니다. 샤볼이 공격해 온 이유를 밝히고, 그들의 만행을 멈추십시오.
+
+# Character inspect text (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld"): Act 4, Variation 2
+
+0x40004002 드루이드의 지팡이로 이것을 부숴!
+
+# Character name (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt")
+
+0x07DF5FA5 주민
+
+# Character name (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop")
+# Comments: Completed Staff. From #3 PICKUP
+
+0x40DDC860 늑대의 지팡이
+
+# Character inspect text (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld"): Act 4, Variation 1
+
+0x40004001 공포는 이 제단에서 시작된 것 같군.
+
+# Character inspect text (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 4, Variation 2
+
+0x6BA6C9C3 가게, 계속 가.
+
+# Character inspect text (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld"): Act 3, Variation 1
+
+0xFEFE2941 여기가 길이 시작하는 곳인 것 같군.
+
+# Character inspect text (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 4, Variation 1
+
+0x6BA6C9C2 자네와 함께 갈 수는 없어. 이번 모험은 혼자 힘으로 끝마쳐야 하네.
+
+# Act 2 name
+
+0x00000022 성스러운 돌
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 1
+
+0x953BC9D0 오, 살아있었군.
+

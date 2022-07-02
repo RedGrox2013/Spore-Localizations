@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 OK
+0x06162C1F Välj Spore-sändning:
+0x06162C1E Lägg till Spore-sändning
+0x34F8116D Detta drag kommer att låsa upp:
+0x06162C22 Skapa ny Spore-sändning
+0x06162C24 Ny
+0x74BF153E Hitta den under spelets gång för att lägga till i Sporepedin!
+0x74BF153F Du kan stöta på ...
+
+# ProfileView.layout
+
+0x062EE735 Profilsida
+
+# vehicle stats (specific)
+
+0x058B5C24 Militär styrka
+0x058B5C26 Ekonomisk styrka
+0x058B5C25 Religiös styrka
+
+# AssetViewLarge.layout
+
+0x058B60F2 Beskrivning:
+0x058B60F6 av
+0x058B60F7 Nästa
+0x058B60F8 Föregående
+0x058B60F5 Tillgångsskapare
+0x058B60F4 Tillgångsnamn
+0x058B60F3 Taggar:
+0xD4AF63E8 Var god vänta ...
+
+# creature stats
+
+0x058B5C22 Social
+0x058B5C1E Allätare
+0x058B5C1F Köttätare
+0x058B5C21 Anfall
+0x058B5C20 Växtätare
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175EF Förra ~day_of_week~en
+0x05B175F6 <Saknas>
+0x05B175E9 måndag
+0x05B175E8 söndag
+0x05B175EE lördag
+0x05B175ED fredag
+0x05B175EA tisdag
+0x05B175EC torsdag
+0x05B175EB onsdag
+0x05B175F0 för ~seconds~ s sedan
+0x05B175F1 ~minutes~ min sedan
+0x05B175F2 ~hours~ h sedan
+
+# vehicle stats
+
+0x058B5C1D Hastighet
+0x058B5C1C Kraft
+0x058B5C1B Hälsa
+
+# AssetBrowser.layout
+
+0x05B1A59C Sök
+0x05B1A59E Välkommen, ~username~
+0x05B1A59D Sporepedin
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 Sortera efter:
+0x058B5C14 Typ
+0x058B5C19 Gå tillbaka
+0x058B5C13 Skapare
+0x058B5C12 Namn
+0x058B5C17 Online-innehåll är endast tillgängligt när du är inloggad
+0x058B5C11 Tidpunkt skapad
+0x058B5C18 Skapa egen
+0x058B5C1A Relation
+0x058B5C16 Online-innehåll är endast tillgängligt när du är inloggad
+0x058B5C15 Delad
+0x058B5C27 Tidpunkt nedladdad
+0x058B5C28 Creepy & Cute
+

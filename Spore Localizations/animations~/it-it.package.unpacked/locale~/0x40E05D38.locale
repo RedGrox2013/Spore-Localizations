@@ -1,0 +1,122 @@
+﻿0x50F7380E Electronic Arts~EA_GAMES~
+0x07F727E1 SPORE™~GAME_TITLE~
+0x319AD21D SPORE™ Avventure galattiche~PRODUCT_NAME~
+0x1004B90B Vuoi installare l'ultima versione di EA Download Manager? EADM ti informerà sugli aggiornamenti e i miglioramenti disponibili, che potrai scaricare e installare più rapidamente. I giocatori con EADM riceveranno contenuti esclusivi e aggiornamenti direttamente da Maxis™.~EADM_Install~
+0x64663ACA Aggiornamento di SPORE™ non completato. Riprova ad aggiornare SPORE™ o contatta il servizio clienti per ottenere maggiori informazioni.~PATCH_FAILED~
+0x7734F859 SPORE™ deve essere installato per installare ~string~.~SPORE_NOT_INSTALLED~
+0x6BA1B25F L'unità attualmente selezionata non dispone di sufficiente spazio libero. Devi liberare dello spazio sull'unità selezionata.~NO_SPACE_MSG_CP~
+0x7FA1F2A0 Rimuovi ~string~~UNINSTALL_APPLICATION~
+0x3C7BB1E1 Il programma di installazione di SPORE™ aggiornerà la tua copia di SPORE™ all'ultima versione disponibile prima di proseguire l'installazione di ~string~.~UPDATE_SPORE~
+0x64A17D06 Si è verificato un errore. L'installazione non può essere completata e verrà interrotta. Riprova.~GENERAL_ERROR~
+0x58210F85 ~string~ non è stato installato completamente. Il sistema non è stato modificato. Riprova.~INSTALL_UNSUCCESSFUL~
+0x44CA6AE6 Per installare è necessario accedere come amministratore.~ADMINISTRATOR_ACCOUNT~
+0x367E6B82 Una copia di SPORE™ è in esecuzione. Devi uscire da SPORE™ per continuare.~GAME_RUNNING~
+0x5EC7AFC0 Al momento è in esecuzione un'istanza di SPORE™ Creature Creator. Esci da SPORE™ Creature Creator prima di continuare.~GAME_RUNNING_CSA~
+0x0E777733 La vecchia versione del file da modificare con la patch non è presente.~PATCH_ERROR_MISSING_FILE~
+0x2BF6EA98 L'unità attualmente selezionata non dispone di sufficiente spazio libero. Puoi provare a eliminare dei file dall'unità selezionata, oppure puoi scegliere un'altra unità per effettuare l'installazione.~NO_SPACE_MSG~
+0x5CEBC9EF Impossibile impostare data e ora del file aggiornato.~PATCH_ERROR_TIME~
+0x46A61B9B Impossibile trovare ~string~.~MISSING_FILES~
+0x0D849C4A Clicca su Fine per uscire e iniziare a divertirti!~CLICK_FINISH~
+0x70C5CBE4 Impossibile scrivere nella tabella di eccedenza.~PATCH_ERROR_OVERFLOW_WRITE~
+0x6BCC80AF Impossibile rinominare o eliminare il file. Potrebbe essere bloccato o in uso.~PATCH_ERROR_RENAMING_DELETING~
+0x38A8F152 Benvenuto a ~string~~WELCOME_SPORE_TITLE~
+0x42A0F6F9 Si è verificato un errore durante la lettura del vecchio file.~PATCH_ERROR_READING_FILE~
+0x353F37C7 Devi rimuovere ~string~ per continuare. Vuoi farlo?~SPORE_REMOVE_CSA_WARNING~
+0x3BCC85D2 Spazio su disco insufficiente - Per installare la patch, occorrono %d byte liberi.~PATCH_ERROR_DISKSPACE~
+0x394403EB Impossibile creare il backup del file LOG.~PATCH_ERROR_BACKUP_LOG~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x6754C223 Il nuovo file è già esistente.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x39040F38 Leggimi~README~
+0x6AEE038F La cartella di aggiornamento non esiste.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x40CFBF3E Impossibile aprire il file della patch.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x657F7D49 Impossibile trovare il file della patch.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x09FAE7DA Il file della patch non è valido.~PATCH_ERROR_INVALID~
+0x0890C566 Errore di aggiornamento del database MSI.~PATCH_ERROR_MSI~
+0x08F68C4F L'opzione specificata non è ammessa.~PATCH_ERROR_ILLEGAL~
+0x61ABCBCD Si è verificato un errore durante la scrittura del nuovo file.~PATCH_ERROR_WRITING_FILE~
+0x45DB3D71 Impossibile aprire il file di origine del backup.~PATCH_ERROR_BACKUP_SOURCE~
+0x0AC7C17D Voce mancante o non valida nel registro o nel file INI.~PATCH_ERROR_REGISTRY~
+0x2F6DAE9F Il file della patch è compatibile con una piattaforma diversa.~PATCH_ERROR_PLATFORM~
+0x3162CD81 Errore della patch~PATCH_ERROR_TITLE~
+0x3C17044B Errore o interruzione dell'utente durante il caricamento di patchw32.dll.~PATCH_ERROR_IS_ABORT~
+0x3269ED31 Impossibile aprire il file dei messaggi di errore.~PATCH_ERROR_ERROR~
+0x303D349E File: ~string~~br~Errore: ~string~~COMP_ERROR_MSG~
+0x07B43E64 InstallShield Wizard ha aggiornato %P alla versione %VS.~UPDATE_COMPLETE~
+0x3017EF99 Desideri eliminare tutti i dati utente creati da ~string~?~REMOVE_USERDATA~
+0x16741C9F Avvia ~string~ dopo l'installazione~LAUNCH_SPORE~
+0x5760C2F0 Il file della patch non è valido.~PATCH_ERROR_VERIFY_FAILED~
+0x02699E57 Tipo di installazione~SETUP_TYPE_TITLE~
+0x166E669A Impossibile installare in ~string~~br~Seleziona un'altra cartella.~DANGEROUS_DIRECTORY_ERROR~
+0x15C024FC La cartella di aggiornamento ha un nome non valido.~PATCH_ERROR_DIRECTORY_INVALID~
+0x15CC67E6 ~string~ sarà installato in~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x27D33671 Il percorso prescelto è troppo lungo. Seleziona un percorso più breve.~DIR_TOO_LONG~
+0x568D9702 Nessuno dei parametri specificati in linea di comando è una cartella esistente.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x16FBAEAF Ora puoi utilizzare ~string~~READY_TO_PLAY~
+0x767EF241 Impossibile aprire il file di destinazione del backup.~PATCH_ERROR_BACKUP_DESTINATION~
+0x03BCF887 Seleziona una delle opzioni sotto.~SELECT_OPTIONS~
+0x292EDCB9 SPORE™ Creature Creator~CSA_TITLE~
+0x28A00C2C È possibile specificare un solo file e una sola cartella in linea di comando.~PATCH_ERROR_COMMAND_LINE~
+0x01725188 Aggiornamento di SPORE™ Creature Creator non riuscito. Prova a effettuare nuovamente l'aggiornamento più tardi.~PATCH_FAILED_CSA~
+0x144073D1 ~string~ sarà installato nella cartella selezionata.~CUSTOM_SPORE_SETUP~
+0x0F5F623F Impossibile raggiungere una posizione in un file.~PATCH_ERROR_SEEKING~
+0x72B5864F Il vecchio file non è stato trovato. È presente un file con lo stesso nome, che però non è stato aggiornato perché il contenuto è diverso.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x0F1854E4 Impossibile leggere il file di serializzazione.~PATCH_ERROR_READING_SERIALIZATION~
+0x0F48320C Impossibile caricare isrtp.dll.~PATCH_ERROR_IS_LOAD~
+0x151DEC2F Spore™ non può funzionare correttamente senza DirectX.~DIRECTX_WARNING~
+0x01FCAF57 Creazioni Spore~SAVE_FOLDER~
+0x74CA8AD7 Impossibile rinominare un file.~PATCH_ERROR_RENAMING~
+0x59450AC4 Tipo di installazione~br~Seleziona un tipo di installazione~SETUP_TYPE_MESSAGE~
+0x1498EC13 L'installazione può iniziare!~READY_TO_INSTALL~
+0x2A8D9AF3 Guida di EA~EA_HELP~
+0x2A2F9BCC Impossibile creare il file temporaneo.~PATCH_ERROR_TEMPORARY~
+0x4A43CA10 Impossibile aprire il vecchio file.~PATCH_ERROR_OLD_FILE~
+0x20176E40 Impossibile scrivere sul file di backup.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x1F726BCA Gioca~PLAY_SPORE~
+0x4C7A3E93 Il supporto MSI è disponibile solo per l'installazione di patch sotto Windows a 32 bit.~PATCH_ERROR_MSI_32BIT~
+0x1D6F9667 È richiesta una versione più recente del programma di installazione della patch.~PATCH_ERROR_INCOMPATIBLE~
+0x7E8BB5FD Installazione completata~INSTALLATION_COMPLETE~
+0x06220BA5 Clicca su Avanti per installare ~string~ sul tuo computer!~WELCOME_SPORE_MESSAGE~
+0x7EC3C6FA Impossibile creare la cartella di backup.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x208AB121 Si è verificato un errore durante l'installazione della patch (%d).~PATCH_ERROR_GENERAL~
+0x4950A450 Spore™ Creature Creator Demo~SCC_TRIAL_NAME~
+0x494AA82F L'applicazione è stata terminata prima che ~string~ fosse completamente aggiornato.~br~~br~Per completare l'aggiornamento del programma, esegui nuovamente l'applicazione di aggiornamento.~UNINSTALL_INCOMP~
+0x54F8A844 Memoria insufficiente.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x23584337 La modifica del registro o dei file INI durante l'installazione della patch non è supportata da DOS.~PATCH_ERROR_DOS~
+0x19843E71 Impossibile aprire il nuovo file.~PATCH_ERROR_NEW_FILE~
+0x23FD0D11 Spore™ Creature Creator~SCC_NAME~
+0x25A6ABC6 Impossibile aprire il file per l'eccedenza di informazioni.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55BA6A48 Impossibile leggere dalla tabella di eccedenza.~PATCH_ERROR_OVERFLOW_READ~
+0x3D73B13D Impossibile trovare del materiale specificato nel file della patch.~PATCH_ERROR_NOT_FOUND~
+0x1ADB7500 Impossibile aprire il file di serializzazione.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x4C87F179 Il file è già stato modificato con la patch.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF Operazione terminata da un'azione dell'utente.~PATCH_ERROR_CUSTOM_ACTION~
+0x227BB46B Non è stata inserita una password valida. Impossibile installare la patch.~PATCH_ERROR_PASSWORD~
+0x5C043E34 Installazione della patch...~APPLY_PATCH~
+0x71211E4D patchw32.dll non risponde.~PATCH_ERROR_BUSY~
+0x1E337A76 Clicca su Installa per avviare l'installazione.~br~~br~Se desideri modificare alcune impostazioni d'installazione, clicca su Indietro. Per uscire, clicca su Annulla.~br~~br~Non puoi rimuovere ~string~ se ~string~ non è stato rimosso.~DLG_SDSTARTCOPY2_MSG~
+0x6CD070E6 Alcune informazioni necessarie per la rimozione non sono state trovate. Potrebbe essersi verificato un errore durante la configurazione iniziale. Alcuni file e cartelle dovranno essere rimossi manualmente.~MISSING_UNINSTALL~
+0x7B152168 Clicca su Installa per avviare l'installazione~br~~br~Se desideri modificare alcune impostazioni d'installazione, clicca sul pulsante Indietro. Per uscire, clicca su Annulla.~BEGIN_INSTALLATION~
+0x51909529 Rimuovi l'autorizzazione per questo sistema~DEAUTHORIZE~
+0x374F68D8 Attendi mentre il programma cerca di rimuovere l'autorizzazione da ~string~.~WAIT_DEAUTHORIZE~
+0x3B9C8CD2 Devi rimuovere tutte le espansioni prima di poter rimuovere ~string~.~UNINSTALL_EXPANSIONS_FIRST~
+0x3C8EC28C Per disinstallare ~string~ è necessario prima rimuovere SPORE™ Creature Creator.~UNINSTALL_CSA_FIRST~
+0x711D4A01 Per installare ~string~ è necessario avere già installato SPORE™ o SPORE™ Creature Creator.~CSA_TRIAL_UNSUPPORTED~
+0x0018FC1D Il programma di installazione di SPORE™ aggiornerà anzitutto la tua copia di SPORE™ Creature Creator alla versione più recente, dopodiché riprenderà a installare ~string~.~UPDATE_CSA~
+0x5E418C32 Per disinstallare ~string~ è necessario prima rimuovere SPORE™.~UNINSTALL_SPORE_FIRST~
+0x40D6F8BD Visualizza il file Leggimi.txt dopo l'installazione~VIEW_README~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x51EA40D5 Continuando l'installazione senza essere collegato a Internet non verrà rimossa l'autorizzazione su questo computer. Vuoi continuare?~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\Leggimi.txt~ADD_REMOVE_PROGRAMS_README~
+0x0AA43B92 Consigliato~RECOMMENDED~
+0x0A77D8D6 SPORE™ Avventure galattiche~SPORE_EP1_NAME~
+0x7426EAA1 Collegamento sul desktop~DESKTOP_SHORTCUT~
+0x4DE32707 Ferma ~string~ prima di continuare.~GAME_RUNNING_STRING~
+0x7D4A4E2F Personalizzato~CUSTOM~
+0x3D927FE5 ACCORDO DI LICENZA CON L'UTENTE FINALE DEL SOFTWARE~SOFTWARE_LICENSE~
+0x40922E1B Il programma d'installazione di ~string~ ha aggiornato ~string~ alla versione ~string~.~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D Devi avere ~string~ installato per la patch ~string~.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 Il programma d'installazione di ~string~ sta per aggiornare la tua copia di ~string~ all'ultima versione disponibile.~UPDATE_PRODUCT~
+0x7D34F09B Il programma d'installazione di ~string~ sta provando ad aggiornare l'attuale versione installata (~string~) di ~string~ alla versione ~string~.~UPDATING_TO_NEW_VERSION~
+0x3D80E796 Il tuo prodotto ~string~ non è aggiornato. Patch non richiesta.~PATCH_NOT_REQUIRED~
+0x783C20B6 Il Wizard InstallShield aggiornerà la versione attualmente installata (%VI) di %P alla versione %VS.  Per continuare, clicca su Avanti.~UPDATE_TO_NEW_VERSION~
+

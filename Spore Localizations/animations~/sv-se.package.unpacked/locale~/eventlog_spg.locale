@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x067710B2 Planeten ~planet_name~ i stjärnsystemet ~star_name~ har utvecklats till Stamfasen!
+0x06771164 Planeten ~planet_name~ i stjärnsystemet ~star_name~ har utvecklats till Civilisationfasen!
+0x06771171 Planeten ~planet_name~ i stjärnsystemet ~star_name~ har utvecklats till Rymdfasen!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Märke upplåst
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Det måste finnas ett djur innan du kan använda detta verktyg!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Du har förtjänat rätten att lägga till en allierads rymdskepp till din flotta.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Det här verktyget kan enbart användas på imperiumplaneter.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD Kolonin hamnar för långt bort från kryddgejsrarna.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Det här verktyget kan inte användas över vatten.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Samlade in kryddor.
+
+#standard....
+
+0x0000000B Din expedition har gått bankrutt. Bäst att vänta på bärgning. [används inte]
+0x00000016 Du förstör dina egna byggnader.
+0x0000003F ~race~ och ~race2~ har bildat en allians.
+0x00000035 Ett av dina allierade rymdskepp förgjordes!
+0x00000003 Din allierade har sänt dig ett nytt skepp till din flotta.
+0x0000001A Din allians med ~race~ har brutits.
+0x04D28917 Nya verktyg tillgängliga.
+0x04E3AB1A Du kan inte sätta ner den i en koloni.
+0x00000034 Du har inte tillräckligt med pengar för att använda det där verktyget.
+0x04F7B80D Du måste förbättra T-värdet på planeten ~planet_name~ för att det ska kunna överleva här.
+0x00000006 Falsk profet! Den här stammen tycker att din religion är för mesar. [används inte]
+0x06159AE6 ~race~ håller på att tappa intresset för vår allians. Gör ett besök.
+0x00000002 Eftersom du har tillräckligt med hjälp, har ett av dina allierade skepp åkt hemåt.
+0x0000001C Ditt lastutrymme är fullt. Du måste frigöra några platser.
+0x0000000C Flyg till en av dina säkra kolonier för att reparera ditt rymdskepp.
+0x00000022 Rasen ~generic_name~ har svultit till undergång.
+0x06170F80 Det här verktyget kräver ett mål att skjuta mot.
+0x0000000F Den här planeten kan inte försörja fler kolonier förrän du höjer dess T-värde.
+0x00000045 Din Grox-närvaromätare sköt precis ned till "Lite rädd, typ"
+0x00000036 En moderiktig ny artefakt har upptäckts.
+0x0000003E ~race~ och ~race2~ har slutit ett fredsavtal.
+0x061DBC92 Målet är utanför vapnets räckvidd.
+0x04E39F9A Du kan bara ha en sådan per planet!
+0x00000017 Alla stammar på ~planet_name~ dyrkar dig! [används inte]
+0x0541A247 Du färdigställde en del av ekosystemet, vilket möjliggör förbättrade kolonier.
+0x04F615F5 Du måste lämna planeten för att spara.
+0x04ED0A12 Du har belönats med 42 fantastiska verktyg och hittat en sällsynt galaktisk formation.
+0x0000000D Planeten ~planet_name~ har nu ett T-värde på ~terraform_level~.
+0x00000041 Imperiet ~race~ har förgjorts.
+0x00000047 Din Grox-närvaromätare står på "Lite rädd, typ"
+0x00000004 Imperiet ~race~ har förklarat krig mot dig. Förbered dig på strid.
+0x065BCDA0 Varning: Att stjäla objekt från andra planeter upprör det lokala imperiet.
+0x00000042 Din Grox-närvaromätare sköt precis upp till "Inte skraj alls. Borde jag vara det?"
+0x00000048 Din Grox-närvaromätare står på "Galet skraj"
+0x0000001F ~generic_name~ dog ut. Du placerar saker och ting för nära varandra. Försök sprida ut dem på varsin sida av planeten. [används inte]
+0x0000001B Livsviktigt livsstöd!
+0x00000020 Rasen ~generic_name~ har dött ut på grund av växtbrist.
+0x065BCDA7 Varning: Att föra bort medborgare upprör det lokala imperiet.
+0x00000032 Lägg till en byggnad för att uppgradera din koloni.
+0x05C2BC26 Du måste fylla minst en rad med växter och djur innan du upphöjer en planet!
+0x04F77C3E Den rasen finns redan på den här platsen.
+0x04F7B030 Den köttätaren kan inte överleva på den här planeten. Lägg till fler växtätare.
+0x04E3AAFD Det objektet måste placeras på land.
+0x06527A69 Din handelsväg med ~race~ har brutits.
+0x06527A66 ~race~ håller på att tappa intresset för er handelsväg. Förbättra er relation!
+0x06037BB6 Något på planeten har dött ut på grund av förhöjda vattennivåer.
+0x0541A219 Du stabiliserade planetens T-värde.
+0x00000021 Rasen ~generic_name~ har dött ut.
+0x04BD78A5 Det finns inga fientligheter på den här planeten som dina allierade kan hjälpa dig med.
+0x00000049 Imperiet ~race~ har avbrutit ett uppdrag på grund av att vår relation till dem har försämrats.
+0x04BD7870 Du har inga allierade som kan komma till din undsättning!
+0x04BD78A0 Dina allierade hjälper dig redan!
+0x00000001 Du kan inte använda det verktyget i din hemvärld.
+0x00000043 Din Grox-närvaromätare sköt precis ned till "Inte skraj alls. Borde jag vara det?"
+0x00000028 Växter kan inte överleva under vatten. Placera dem på land.
+0x05483AB4 Du har lagt till ~creature_name~ i ditt vildmarksreservat. Reservatet har ~animal_count~ av ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ möjliga djur.
+0x057F4C52 Du har inte tillräckligt med energi för att använda det verktyget.
+0x0000003C Du misslyckades med att få den här staden att dyrka dig. Försök med nästa. [används inte]
+0x05790C96 Inkommande samtal från ~race~!
+0x00000027 Om du tappar bortförda killar dör de. Stråla ner dem försiktigt.
+0x0000001D Du hittade ~count~ laddningar av ~tool_name~!
+0x0000003B Alla städer på planeten dyrkar dig nu! [används inte]
+0x05807D8E Imperiet ~race~ har avslutat sitt krig mot dig.
+0x0000003A Du kan inte kolonisera här. Systemet ~star_name~ är redan hem för andra raser.
+0x00000018 Du har upprättat en koloni på ~planet_name~!
+0x0000002F Kolonier kan inte överleva under vatten. Placera din koloni på land.
+0x00000031 Planeten ägs redan.
+0x0000002E Djur kan inte överleva i lava. Placera dem på land.
+0x00000046 Din Grox-närvaromätare sköt precis upp till "Galet skraj"
+0x00000005 Dina anhängare på ~planet_name~ har blivit en teknologisk civilisation.  [används inte]
+0x0591CCD5 Du har hittat en sällsynt galaktisk formation.
+0x0591CCD6 Du har hittat en unik planet!
+0x00000044 Din Grox-närvaromätare sköt precis upp till "Lite rädd, typ"
+0x00000029 Växten är inte av rätt storlek att passa in i det lokala ekosystemet. Försök med en växt av annan storlek.
+0x0637C896 Det är en fälla! Du har hamnat i ett bakhåll med pirater!
+0x0000002C Den växtätaren kan inte överleva på den här planeten. Lägg till fler växter.
+0x0637C897 Insamlat: ~tool_name~.
+0x0000002B Den rasen kan inte leva under vatten. Placera dem på land.
+0x00000024 Imperiet ~race~ har förlorat kontrollen över systemet ~star_name~.
+0x00000025 Imperiet ~race~ har tagit kontrollen över systemet ~star_name~ och koloniserat en ny planet!
+0x00000023 Fientligt rymdskepp förgjort!
+0x0567757C Dina handelspartners i stjärnsystemet ~star_name~ tycker bra om dig. Kanske ~race~ är öppna för vidare diplomatiska samtal.
+0x04E38CF9 Det där verktyget kan bara användas på dina koloniserade planeter.
+0x0000003D Imperiet ~race~ förklarade krig mot imperiet ~race2~.
+0x00000019 Återvänd till hemplaneten. Ett nytt uppdrag väntar.
+0x00000037 Om du fortsätter att skjuta på dem, kommer de att besvara elden.
+0x0000002D Att släppa varelser från hög höjd dödar dem. Stråla ner dem försiktigt.
+0x0000001E Något på planeten har dött ut på grund av att T-värdet har sjunkit.
+0x00000026 Sprid ryktet, men gör det med en planet i taget.
+0x00000011 Pumpa läns! ~planet_name~ plundras av pirater.
+0x0580C3FA Det där verktyget kan bara användas på planeter som tillhör andra imperium.
+0x00000040 Alliansen mellan ~race~ och ~race2~ har upphört.
+0x0000002A Växter kan inte placeras i lava. Placera dem på land.
+0x0000000E Din skanning lyckades. All data lagras i Sporepedin.
+0x04EA4FD9 Dina skanners lyckades inte identifiera de boende på den här planeten. Rapportera tillbaka till hemvärlden.
+0x06707FAA Den ekologiska nischen är full och kan inte stödja en art till.
+0x066F10AB Inkommande sändning från hemvärlden!
+0x066F10B8 Inkommande sändning från din koloni!
+0x0546A708 Detta djurreservat kan inte rymma fler djur.
+0x00000010 Du har hittat ~rare_name~, ur samlingen ~rare_count~ ~rare_group~.
+0x04EA4FD8 Du dödade Groxerna på den här planeten genom att terraformera planeten till T-värde 1!
+0x0000004A För giftig för ditt lastutrymme. Lättantändligt ...
+0x00000008 ~count~ av ~tribe_count~ ~^p^count^stam^stammar~ på den här planeten ~^p^count^worships^worship~ dig! [not in use]
+0x00000039 ~count~ av ~city_count~ städer på planeten dyrkar dig nu! [NOT IN USE] [används inte] ~^p^count^city^cities~
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Det här verktyget kan inte användas på imperiumplaneter.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 Kolonier måste placeras nära kryddgejsrar.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Du kan inte använda det här verktyget på en planet som är ett vildmarksreservat.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Det här verktyget kan bara användas på vilda planeter.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Texten kommer här>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Det här verktyget kan inte användas ovanför en stad.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BAC9F Du kan inte använda det här verktyget på en episk varelse.
+0x0654CA48 En stad har kapitulerat inför dig.
+0x0654C9DF Planeten har kapitulerat, men det finns fortfarande fler planeter i systemet.
+0x064C024E Du måste höja planetens T-värde för att starta koloniplaneraren. [används inte]
+0x065BFFFA Du har inte plats för mer krydda.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Uppdragets statustext här>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Du har redan en väpnare.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Du har inte tillräckligt med utrymme i din flotta för ett rymdskepp till.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Uppdragets framgångsstatus här>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Du är för högt upp för att använda det här verktyget.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Det här verktyget kan bara användas på system som har handelsvägar.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA Den här planetens T-värde är för lågt för att använda det där verktyget.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 Kolonin är för nära kryddgejsrarna.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Du kan inte använda det här verktyget. Planeten har nått sin högsta nivå.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Uppdragets statustext här>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 ~vehicle_name~ har redan skannats.
+0x04374125 ~building_name~ har redan skannats.
+0x04374114 En ny byggnad, ~building_name~, har skannats och lagts till i Sporepedin.
+0x04377191 Ett nytt fordon, ~vehicle_name~, har skannats och lagts till i Sporepedin.
+0x043AD9F2 ~ufo_name~ har redan skannats.
+0x043AD9E0 Ett nytt rymdskepp, ~ufo_name~, har skannats och lagts till i Sporepedin.
+0x03FFE77B En ny växt, ~game_plant_name~, har skannats och lagts till i Sporepedin.
+0x03FFE7FB Växten ~game_plant_name~ har redan skannats.
+0x03FFE7FF En ny varelse, ~creature_name~, har skannats och lagts till i Sporepedin.
+0x03FFE803 ~creature_name~ har redan skannats.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Du kan inte använda monoliten på den här planeten!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Du kan inte använda det där verktyget så nära en byggnad.
+

@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Ez a képesség működésképtelenné teszi a szórakoztató intézményeket és a lövegtornyokat, boldogtalanságot okozva ezzel.
+0x0001003F Fekete felhő
+
+# CLG_Plant
+
+0x00000042 Növényevő
+0x00000043 A növényevő sejtek növényi anyagokat fogyasztanak.
+
+# CRG_CLG_Plant
+
+0x00010022 Sziréndal
+0x00010023 E képességgel a közeledben lévő lényeket egy időre elbűvölheted. Így könnyebben barátkozhatsz velük.
+
+# SPG_CRG_Mix
+
+0x0001004D Tuningdémon
+0x0001004E Ez a képesség gyorsabbá teszi a csillagközi utazást.
+
+# CVG_CRG_Attack
+
+0x00010037 Hatalmas bomba
+0x00010038 Ez a képesség minden járművet és épületet megrongál a hatósugarán belül.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatikus felkelés
+0x0001006C Áttéríti az összes várost
+
+# SPG_Wanderer_Tool
+
+0x00010068 Randomizes the species on a planet. NOT IN USE
+0x00010067 Species Shuffler NOT IN USE
+
+# CVG_Religious
+
+0x00000055 Vallási
+0x00000056 A vallási civilizációk a szavak erejével térítenek meg más nemzeteket, hogy azok átvegyék az ő gondolkodásmódjukat.
+
+# SPG_TRG_Social
+
+0x00010052 Ez a képesség javítja kezdeti kapcsolataidat az idegen fajokkal.
+0x00010051 Udvarias üdvözlés
+
+# TRG_Mix
+
+0x00000050 A törekvő törzsek megragadják a pillanatot, szükség esetén akár korábbi szövetségeseiket is megtámadva. Remek szövetségesek, de légy velük óvatos!
+0x0000004F Törekvő
+
+# CVG_CRG_Mix
+
+0x0001003C Ez a képesség azt okozza, hogy az ellenséges járművek megtámadják egymást a hatósugáron belül.
+0x0001003B Korrupciós bomba
+
+# CVG_TRG_Mix
+
+0x00010042 Ez a képesség meggyorsítja a felvásárlás folyamatát.
+0x00010041 Reklámvihar
+
+# SPG_CRG_Social
+
+0x0001004B Szép teljesítmény
+0x0001004C Ez a képesség boldoggá tesz összes kolóniádat és csökkenti egy felkelés esélyét.
+
+# SPG_CVG_Military
+
+0x00010056 Ez a képesség elriasztja a kalózokat és valószínűtlenebbé teszi, hogy megtámadnak.
+0x00010055 Tűnés, kalózok!
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Húsevő
+0x00000041 A húsevő sejtek húst fogyasztanak.
+
+# TRG_CLG_Mix
+
+0x00010029 Repülőhal
+0x0001002A E képességgel a törzsfőnök egy kígyót idézhet meg, mely a rémült halakat kizavarja a tengerből.
+
+# SPG_TRG_Attack
+
+0x00010050 Ez a képesség kedvezőbb árat ér el, ha fegyverekkel üzletelsz.
+0x0001004F Fegyverkereskedő
+
+##########################
+# Super Power names & descriptions
+
+0x067775E7 Elérhető a Civilizációs fázisban
+0x067775D9 Elérhető a Törzsi fázisban
+0x067775B1 Elérhető a Lényfázisban
+0x067775FA Elérhető az Űrfázisban
+
+# SPG_Trader
+
+0x00000062 A kereskedők mindent a haszonért csinálnak, istenük a mindenható spóradolcsi.
+0x00000061 Kereskedő
+
+# SPG_Bard
+
+0x00000057 Bárd
+0x00000058 A bárdok a kozmosz szociális laza művészei, akiknek a világegyetem maga jelenti a színpadot.
+
+# SPG_Warrior_Tool
+
+0x00010065 Rajtaütés
+0x00010066 Kaput nyit a kalózok számára, akik káoszba taszítják a bolygót.
+
+# SPG_Diplomat
+
+0x0000005D Diplomata
+0x0000005E A diplomaták tárgyalnak és problémákat oldanak meg. Csak akkor uralkodik béke a galaxisban, ha ők közvetítenek a fajok között.
+
+# CVG_Economic
+
+0x00000053 Gazdasági
+0x00000054 A gazdasági alapú civilizációk pénzzel befolyásolják a többi nemzetet. Kötnek ugyan szövetségeket, de többnyire ők járnak ezzel jobban.
+
+# CLG2_Discoverer
+
+0x00000103 Felfedező leírása
+0x00000102 Felfedező
+
+# SPG_Knight_Tool
+
+0x00010069 Mini-U megidézése
+0x0001006A Hajód miniatűr klónját idézi meg, amely segítségedre lesz kalandjaid során.
+
+# CLG2_Killer
+
+0x00000100 Gyilkos
+0x00000101 Gyilkos leírása
+
+# SPG_Warrior
+
+0x00000066 A harcosok elveszik, amit akarnak, és nem kérnek rá engedélyt. A galaxist csak a legerősebb birtokolhatja.
+0x00000065 Harcos
+
+# SPG_Wanderer
+
+0x00000067 Vándor
+0x00000068 A vándorok mindenből akarnak egy kis darabot. A galaxis nagy, ők pedig teljes egészében meg akarják tapasztalni.
+
+# CVG_CRG_Social
+
+0x00010039 Diplomataguru
+0x0001003A Ez a képesség javítja kapcsolataidat a kiválasztott nemzettel.
+
+# CRG_Attack
+
+0x00000046 Ragadozó
+0x00000047 A ragadozó lények azzal töltik az életüket, hogy prédára lesnek. Ők inkább kipusztítanak egy másik fajt, ahelyett, hogy táncolnának neki, vagy elbűvölnék őket.
+
+# TRG_CRG_Mix
+
+0x0001002F Vadúr
+0x00010030 Ezzel a képességgel a törzsfőnök elbűvölheti a közeli állatokat, amelyek segíthetik a harcban, vagy a társasági viselkedés során.
+
+# CVG_CLG_Meat
+
+0x00010032 Ez a képesség bizonyos időre minden károsodással szemben immúnissá teszi járművedet.
+0x00010031 Sérthetetlenség
+
+# TRG_CLG_Meat
+
+0x00020025 Csapdák
+0x00020026 E képességgel a törzsfőnök csapdákat helyezhet el, amelyek vadállatokat ejtenek fogságba.
+
+# SPG_CLG_Meat
+
+0x00010044 Ez a képesség növeli az összes fegyver hatékonyságát.
+0x00010043 Hataloméhes
+
+# SPG_CLG_Mix
+
+0x00010047 Kedves boltos
+0x00010048 Ez a képesség segít, hogy kedvezménnyel szerezd be az alapfelszereléseket.
+
+# SPG_TRG_Mix
+
+0x00010053 Kolónialáz
+0x00010054 Ez a képesség kedvezményt szerez minden kolonizálási eszköz megvásárlásakor.
+
+# Zero
+
+0x06941DC3 év
+0x06941DC2 ezer
+0x06941DC1 millió
+0x06941DC0 milliárd
+
+# SPG_CVG_Religious
+
+0x0002005A Ez a képesség csökkenti a biokatasztrófák hatását összes kolóniádon.
+0x00020059 Zöldbéke
+
+# CLG_Mix
+
+0x00000045 A mindenevő sejtek mindent megesznek.
+0x00000044 Mindenevő
+
+# SPG_Bard_Tool
+
+0x00010058 Megnyugtatja az idegen fajokat és ideiglenesen javítja a velük való kapcsolatot.
+0x00010057 Nyugtató dal
+
+# CRG_Social
+
+0x00000048 A szociális lények állandóan barátokat és szövetségeseket keresnek. ha új fajjal találkoznak, az a nap csúcspontját jelenti nekik.
+0x00000147 Szociális
+
+# CRG_Mix
+
+0x00000049 Alkalmazkodó
+0x0000004A Az alkalmazkodóképes lényeknek sok barátjuk és sok ellenségük van, döntéseiket az adott helyzet alapján hozzák meg.
+
+# SPG_CLG_Plant
+
+0x00010045 A buli lelke
+0x00010046 Ez a képesség hozzásegít, hogy azonnal és kedvezőbb áron juthass hozzá szociális eszközökhöz.
+
+# CRG_CLG_Meat
+
+0x00010020 Őrjöngő bömbölés
+0x00010021 E képességgel minden körülötted lévő lényt megfutamíthatsz.
+
+# CVG_CLG_Plant
+
+0x00010033 Gyógyító aura
+0x00010034 Ez a képesség megjavítja az összes járművedet és épületedet.
+
+# SPG_Shaman
+
+0x00000063 Sámán
+0x00000064 A sámánok értik, hogy az élet egy nagy, közös háló, és azt is, hogy az univerzum mindannyiunkban jelen van.
+
+# SPG_Ecologist
+
+0x0000005A Az ökológusok a természet védelmezői. A galaxist elözönlő, káros hatású fajokat könyörtelenül pusztítják.
+0x00000059 Ökológus
+
+# CVG_TRG_Attack
+
+0x0001003D Kütyübomba
+0x0001003E Ez a képesség kárt okoz az épületekben és a járművekben, továbbá segít a városok elfoglalásában.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Szafariporszívó
+0x0001005A Azonnal rakteredbe juttatja a bolygó összes fajának képviselőjét.
+
+# SPG_Zealot
+
+0x0000005C A hittérítők meg vannak róla győződve, hogy csakis az ő igazuk az, ami számít. Ha valaki nem így gondolja, szerintük nem méltó arra, hogy létezzen a világegyetemben.
+0x0000005B Hittérítő
+
+# SPG_Trader_Tool
+
+0x00010061 Pénzinjekció
+0x00010062 Azonnal megvásárolhatóvá teszi a kereskedelmi rendszereket.
+
+# SPG_CRG_Attack
+
+0x00010049 Elsődleges egyed
+0x0001004A Ez a képesség növeli űrhajód teljes egészségét.
+
+# CRG_CLG_Mix
+
+0x00010024 Falka hívása
+0x00010025 E képességgel egy csapatnyi társadat idézheted meg, akik segítenek a harcban vagy a barátkozásban.
+
+# TRG_Attack
+
+0x0000004B Agresszív
+0x0000004C Az agresszív törzsek addig gyilkolnak, amíg ki nem irtják ellenfeleiket. Könyörtelenül támadnak és minden forrást megtartanak maguknak.
+
+# SPG_Knight
+
+0x00000069 Lovag
+0x0000006A A lovagok nemes harcosok, akik az igazságért fognak fegyvert, nem a személyes haszonért. A galaxisra csak akkor köszönt béke, ha a gonosz végleg elbukott.
+
+# SPG_Scientist
+
+0x00000060 A tudósok logikusak és számítóak. A galaxis létezésének célja szerintük az, hogy tanulmányozzák és megértsék működését.
+0x0000005F Tudós
+
+# SPG_Shaman_Tool
+
+0x00010064 Azonnal anya-csillagrendszeredbe juttat vissza.
+0x00010063 Menettérti jegy
+
+# SPG_Zealot_Tool
+
+0x0001005C A te hitedre téríti az ellenséges területeket
+0x0001005B Fanatikus őrület
+
+# SPG_CVG_Economic
+
+0x00020058 Ez a képesség növeli összes kolóniád fűszertermelését.
+0x00020057 Fűszerláz
+
+# CVG_TRG_MixWin
+
+0x0001006D Globális egyesülés
+0x0001006E Minden várost megvásárol
+
+# Singular
+
+0x55496324 Év
+0x55496321 Milliárd
+0x55496323 Ezer
+0x55496322 Millió
+
+# TRG_CLG_Plant
+
+0x00010027 Frissítő vihar
+0x00010028 E képességgel a törzsfőnök vihart idézhet, amelynek hatására a fák újra gyümölcsöt hoznak, mely lehullik róluk.
+
+# CVG_TRG_AttackWin
+
+0x0001006F ICBM
+0x00010070 Minden várost lerombol
+
+# CVG_Military
+
+0x00000051 Katonai
+0x00000052 A katonai civilizációk fegyvereikben és nyers erejükben bíznak. Minden rendelkezésükre álló eszközzel más civilizációk megsemmisítésén munkálkodnak.
+
+# TRG_CRG_Social
+
+0x0001002D Tűzijáték
+0x0001002E Ez a képesség lehetővé teszi, hogy a törzsfőnök tűzijáték segítségével javítsa a kapcsolatokat a szomszédokkal.
+
+# TRG_Social
+
+0x0000004E A barátságos törzsek értik, miért fontos a csapatmunka. Ők szövetségeket kötnek, hogy megosszák forrásaikat és békében élnek más törzsekkel.
+0x0000004D Barátságos
+
+# Plural
+
+0x0694179E milliárd
+0x0694179F millió
+0x069417A0 ezer
+0x069417A1 év
+
+# CVG_CLG_Mix
+
+0x00010036 Ez a képesség ideiglenesen megbénítja az összes járművet, lövegtornyot és épületet.
+0x00010035 Bénító bomba
+
+# TRG_CRG_Attack
+
+0x0001002B Lángbombák
+0x0001002C Ez a képesség lehetővé teszi, hogy a főnök tüzes bombákkal pusztítsa a közeli ellenfeleket és épületeket.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Működésképtelenné teszi a bolygó hajóit és lövegtornyait
+0x0001005D Örök nyugalom
+
+# SPG_Scientist_Tool
+
+0x00010060 Visszabombázza az épületeket és civilizációkat a kőkorszakba.
+0x0001005F Nosztalgiahullám
+
+# Timeline GUIDS
+
+0x55496320 Történelem
+

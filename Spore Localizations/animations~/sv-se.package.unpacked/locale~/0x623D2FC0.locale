@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F Den lycklige
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD Den rättvise
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 Den ärevördige
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 Den gudfruktige
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 Den balanserade
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 Den måttliga
+
+# Zealot
+
+0x07CEA306 Abbot
+0x07CEA308 Profet
+0x07CEA307 Biskop
+0x07CEA309 Helig
+0x07CEA303 Munk
+0x07CEA302 Lärjunge
+0x07CEA305 Präst
+0x07CEA304 Kaplan
+0x07CEA300 Troende
+0x07CEA301 Tillbedjare
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 Den barmhärtiga
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA Den modige
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E Den vackra
+
+# Diplomat
+
+0x07CEA407 Minister
+0x07CEA406 Sändebud
+0x07CEA405 Konsul
+0x07CEA400 Assistent
+0x07CEA404 Fredsdomare
+0x07CEA403 Förstesekreterare
+0x07CEA402 Andresekreterare
+0x07CEA401 Attaché
+0x07CEA409 Ambassadör
+0x07CEA408 Kommissionär
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Rekrytera
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 Den måttfulle
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB Den försiktige
+
+# Shaman
+
+0x07CEA700 Samlare
+0x07CEA702 Jägare
+0x07CEA701 Skördare
+0x07CEA709 Andlig mästare
+0x07CEA708 Drömfångare
+0x07CEA707 Visionär
+0x07CEA704 Klänningsvävare
+0x07CEA703 Ansiktsmålare
+0x07CEA706 Fyrmakare
+0x07CEA705 Stavsnidare
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 Den universella
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C Av ~ep1_captain_species_name~-imperiet
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F Den vise
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 Den rättfärdige
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 Den strävsamma
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 Den medkännande
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 Den andlige
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A Den generöse
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 Den humoristiske
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B Den okynnige
+
+# Trader
+
+0x07CEA607 President
+0x07CEA606 VP
+0x07CEA605 Manager
+0x07CEA609 Storpamp
+0x07CEA608 VD
+0x07CEA604 Profitör
+0x07CEA603 Revisor
+0x07CEA600 Springsjas
+0x07CEA602 Smugglare
+0x07CEA601 Kurir
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE Den tysta
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 Den starke
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D Den logiske
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 Den lekfulle
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B Den intelligente
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A Den ihärdige
+
+# Wanderer
+
+0x07CEA908 Stjärnlöpare
+0x07CEA909 Galaktisk resenär
+0x07CEA905 Utforskare
+0x07CEA904 Banbrytare
+0x07CEA906 Resenär
+0x07CEA907 Planethoppare
+0x07CEA903 Spejare
+0x07CEA900 Vagabond
+0x07CEA902 Nomad
+0x07CEA901 Liftare
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 Den vilda
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 Den medkännande
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 Den påhittiga
+
+# Warrior 	
+
+0x07CEA808 General
+0x07CEA806 Officer
+0x07CEA804 Major
+0x07CEA803 Sergeant
+0x07CEA809 Krigsherre
+0x07CEA805 Löjtnant
+0x07CEA807 Befälhavare
+0x07CEA802 Legosoldat
+0x07CEA801 Kämpe
+0x07CEA800 Hejduk
+
+# Scientist
+
+0x07CEA505 Professor
+0x07CEA501 Tekniker
+0x07CEA500 Praktikant
+0x07CEA503 Ingenjör
+0x07CEA502 Forskare
+0x07CEA509 Geni
+0x07CEA508 Teoretiker
+0x07CEA504 Uppfinnare
+0x07CEA507 Skriftlärd
+0x07CEA506 Doktor
+
+# Bard
+
+0x07CEA100 Groupie
+0x07CEA101 Roadie
+0x07CEA102 Tuner
+0x07CEA103 Spelare
+0x07CEA104 Musiker
+0x07CEA105 Trendskapare
+0x07CEA108 Stjärna
+0x07CEA109 Världsstjärna
+0x07CEA106 Ikon
+0x07CEA107 Kändis
+
+# Ecologist
+
+0x07CEA209 Guru
+0x07CEA202 Botanist
+0x07CEA203 Skogsvaktare
+0x07CEA200 Ogräsplockare
+0x07CEA201 Trädgårdsskötare
+0x07CEA204 Jordbrukare
+0x07CEA205 Uppfödare
+0x07CEA206 Korsuppfödare
+0x07CEA207 Klonare
+0x07CEA208 Filosof
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 Den pålitliga
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 Den modige
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 Den trogne
+
+# Knight
+
+0x07CEAA07 Paladin
+0x07CEAA05 Vakt
+0x07CEAA06 Chevaleresk
+0x07CEAA09 Herre
+0x07CEAA08 Ädling
+0x07CEAA01 Lärling
+0x07CEAA00 Rövare
+0x07CEAA02 Väpnare
+0x07CEAA04 Soldat
+0x07CEAA03 Äventyrare
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

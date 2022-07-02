@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Goed genoeg
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Handleidingen
+0x058B62B2 Rand-scroll
+0x058B62B1 Speltips
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B5 Grafische instellingen
+0x0474E6B6 Laag
+0x0474E6C6 Hoog
+0x0474E6CC Schaduwen
+0x0474E6D6 Grafische effecten
+0x0474E6E4 Kwaliteit planeet
+0x0474E6E5 Kwaliteit belichting
+0x0474E6E9 Schermformaat
+0x0474E6F0 Profielen
+0x058B624C Venstermodus
+0x0474E6B4 Standaardinstellingen
+0x0474E6C2 Middel
+0x0474E6D0 Texturedetail
+0x058A2A2B Als je het schermformaat wilt veranderen, moet je opnieuw opstarten. Het kan van invloed zijn op de prestaties.
+0xBBFC7687 Diepte
+0x0474E6DE Kwaliteit model speler
+0x0474E6ED Grafische~br~buffer-formaat (MB)
+0x058B6240 Volledig-~br~scherm-modus
+0x0674D28F Speciaal lichteffect
+0x066A4BC8 Anti-aliasing
+0x0695A585 Met de Enter-toets schakel je tussen de venster- en volledig scherm-modus.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B6 Ruimteschip verplaatsen
+0x080B23B2 Beschaving
+0x080B23B3 Doelwit selecteren
+0x080B23B4 Gereedschap activeren
+0x090A24A7 Camera verplaatsen
+0x090A23A4 In- en uitzoomen
+0x090A23A3 Wezen verplaatsen
+0x090A28A7 Een voertuig selecteren
+0x090A28A6 Een stamlid selecteren
+0x088B63B6 Wezen
+0x090A21A6 Aanwijzingen geven
+0x088B63B9 Stam
+0x090A29A7 Cel verplaatsen
+0x090A50AA Klik en sleep met de linkermuisknop of gebruik de toetsen W, A, S en D
+0x090A50A6 Draai aan het muiswieltje
+0x090A50A5 Klik en sleep met de rechtermuisknop
+0x090A50A7 Klik en sleep met beide muisknoppen
+0x090A50A8 Klik en sleep met de rechtermuisknop of gebruik de toetsen W, A, S en D
+0x090A50A9 Wezen volgt cursor
+0x090A50A1 Gebruik de toetsen W, A, S en D
+0x090A30B5 Voertuigen selecteren door er een kader omheen te slepen
+0x090A30B4 Stamleden selecteren door er een kader omheen te slepen
+0x090A50A4 Klik met de rechtermuisknop
+0x090A50A3 Klik en sleep met de linkermuisknop
+0x090A50A2 Klik met de linkermuisknop
+0x088B63B3 Cel
+0x080B23B9 Ruimte
+0x088B63B4 Klik hier om automatisch de cursor te volgen
+0x090A26A9 Camerahoek instellen en~br~camera draaien
+0x090A50AB Houd de Command-toets, de Option-toets en de linkermuisknop ingedrukt
+0x080B23B8 Ruimteschiphoogte veranderen
+0x080B23B7 Camerahoek instellen en~br~camera draaien
+0x088B63B5 Beweeg over de iconen om te zien hoe ze werken
+0x088B63B7 Klik hier om draaien in te stellen op de rechtermuisknop
+0x090A50AC Houd de middelste muisknop ingedrukt
+
+#### profile - user selects ####
+
+0x0474E6FC Selectie gebruiker
+
+#### profile - performance ####
+
+0x0474E6F1 Prestaties
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289D Uitloggen
+0x0565289E Inloggen
+0x0565289F Registreren
+0x056528A0 Server-connectie
+0x056528A4 Niet geregistreerd
+0x056528A5 Maak een account aan om verbinding te maken met Spore.
+0x056528A7 Maak verbinding met Spore
+0x056528A8 ~generic0~ Verbonden
+0x056528A9 Verbinding met Spore sluiten of van gebruiker veranderen.
+0x058B63D4 Esthetisch matchen
+0x056528A3 Vragen bij opstarten
+0x056528A1 status:
+0x056528A2 Online-opties
+0x058B63D3 Alleen content van maatjes
+0x0626E392 Kopieer gewiste bestanden naar de archiefmap
+0x0626E390 Oude downloads wissen
+0x05E39554 Bezig met het bijwerken van de contentdatabase…
+0x0626E391 Het aantal dagen waarna de bestanden gewist worden.
+0x067A21D9 Dagen.
+0x067A21D8 Download alleen content van aanmeldingen die niet ouder zijn dan het volgende aantal dagen:
+0x067A21D7 Formaat downloadcache (MB)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF30 Credits
+0x0473EF2B Audio-instellingen
+0x0473EF2C Grafische instellingen
+0x0473EF32 Opties sluiten zonder op te slaan
+0x0473EF31 Je instellingen opslaan
+0x0473EF2E Opname-instellingen
+0x0473EF33 Instellingen
+0x0473EF2F Online-instellingen
+0x0473EF2D Spel-instellingen
+0x0473EF34 Besturingsinstellingen
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Log me automatisch in bij YouTube
+0x0589E518 Filmformaat
+0x0589E51C Fotoformaat
+0x0589E51D Klein
+0x0589E51F Groot
+0x058B63A0 Film opnemen zonder audio
+0x0589E51E Middel
+0x058B6381 Spel- & opname-instellingen
+0x05D1185C Spel- & hulpopties
+0x0631825F Als je bij de installatie de standaardlocaties hebt geaccepteerd, kun je je foto's en filmpjes vinden in ~generic0~(objecttype).
+
+#### profile - image quality ####
+
+0x0474E6F5 Kwaliteit foto's
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Master
+0x0431D893 Stemmen
+0x0431D897 Mix
+0x0431D898 Speakerconfiguratie
+0x0431D899 2 speakers (stereo)
+0x0431D89A 4 speakers (quad)
+0x0431D89B 5.1 speakers (surround)
+0x0431D895 Muziek
+0x0431D89C Geluidskwaliteit
+0x0431D89D Volume alle geluiden
+0x0431D89E Volume muziek
+0x0431D89F Volume wezenstemmen
+0x0431D8A0 Volume geluidseffecten
+0x0431D896 Geluid uit
+0x0431D894 SFX
+0x0431D8A1 De speler moet zich in het scherm van het Spore-melkwegstelsel bevinden om de speakerconfiguratie te kunnen veranderen.
+
+## Mac version
+
+0x06318D68 Als je bij de installatie de standaardlocaties hebt geaccepteerd, kun je je foto's en filmpjes vinden in My Spore Creations/(objecttype) in de map Documents in je thuismap.
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Szivárogj be a kutatólaboratóriumba a ~mission_target_planet~ bolygón!
+0x00000093 Irány: ~mission_source_star~ rendszer.
+0x00000099 Siker! Jelentkezz a ~mission_source_star~ csillagrendszerben.
+0x00000097 Folyamatban
+0x000000B2 Tegyél jelentést a ~mission_source_planet~ bolygón!
+0x00000098 Teljesítve
+0x00000000 Üdvözlet, ~ep1_captain_full_name~! Szörnyű híreket kaptunk! Okunk van azt hinni, hogy a C'Servoid tudósok egy hatalmas fegyvert építenek a ~mission_target_planet~ bolygón.~p~Le kell sugároznunk oda valakit, aki közelebbről is szemügyre veszi a technológiájukat. Érdekel a dolog?
+0x00000071 Meggondolnád magad, ha elmondanám, hogy számításaink szerint 92.3% esélyed van a sikerre?
+0x0000004E Mindent, amit tudnod kell, megtalálsz a küldetésnaplódban.~p~Ne feledd, tudományos adatgyűjtést folytatsz, ne robbants fel semmit, ha nem muszáj!
+0x00000081 Nem kívánjuk tőled, hogy csőre töltött pulzárfegyverekkel indulj rohamra, csak a TX-5000 technológiájából akarunk egy kis mintát.~p~Ha meglapulsz, elég kis esélyed van rá, hogy ízekre robbantanak.
+0x00000095 A TX-5000 fegyverprogramot leállították. Jelentkezz a ~mission_source_planet~ bolygón, a ~mission_source_star~ rendszerben!
+0x00000041 Kár, hogy a TX-5000 felrobbant. Egy kis szerencsével analizálhatjuk a megmaradt törmeléket és rekonstruálhatjuk az energiaforrást. ~p~MI természetesen soha nem használhatjuk fel fegyverként a technológiát. Minket csakis az... ööö ...érdekel, hogyan állíthatunk elő tiszta, megújuló energiát. ~p~Mindenesetre kösz a segítséget. Mindenképpen megérdemled ezt a ~mission_rewards~ spóradolcsit.
+0x00000092 Szivárogj be a kutatóállomásra a ~mission_target_star~ csillagrendszerben. Rejtőzz el és kerüld a közvetlen konfrontációt!
+0x00000064 Bantuii, a kémünk már a bázis belsejében van. Lopakodj el az őrök mellett és keresd meg! Ő majd további utasításokkal lát el.~p~Ez nem harci küldetés, ~ep1_captain_full_name~! A siker kulcsa a lopakodás és a türelem.~p~Sok szerencsét!
+0x00000094 Szivárogj be a kutatóállomásra a ~mission_target_planet~ bolygón a ~mission_target_star~ csillagrendszerben. Rejtőzz el és kerüld a közvetlen konfrontációt!
+

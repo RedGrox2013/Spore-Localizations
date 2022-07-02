@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Flight101_EradicateAnimals Reject
+0x0000001E Flight101_EradicateAnimals Abort
+0x00000018 Flight101_FetchAnimal Reject
+0x0000001D Flight101_FetchAnimal Abort
+0x00000051 Flight101_Scan Reject
+0x00000065 Flight101_Scan Abort
+0x00000046 Het is je gelukt om de soort te scannen.
+0x00000045 Je bent erin geslaagd om ~mission_explore_num_cities_to_visit~ steden te bezoeken.
+0x0000000B Gebruik de ontvoeringsstraal uit het vrachtruimtevenster om dit wezen op te stralen voor verder onderzoek.~p~Zorg dat je het gereedschap lang genoeg gebruikt zodat het wezen goed vastzit in de vrachtruimte.~p~Als je de straal te vroeg uitzet, vóór je vrachtruimte goed dicht zit, kan het slachtoffer in een onwenselijke situatie terechtkomen... Eh, ik bedoel het exemplaar.
+0x0000007B Neem geen dieren op die uitgeroeid moeten worden.
+0x00000076 Sorry. Wat was mijn missie ook alweer?
+0x00000077 Roei alsjeblieft alleen oplichtende wezens uit. Dank je.
+0x00000078 Missie mislukt. Te veel verkeerde slachtoffers.
+0x00000036 Je hebt de soort met succes gescand.
+0x00000075 …
+0x00000020 Zo te zien heb je het juiste exemplaar meegenomen. Je moet het in een van onze steden droppen.~p~Selecteer in het vrachtruimtevenster de lading die je wilt droppen en drop deze in een stad.~p~Zorg ervoor dat je de lading veilig naar het oppervlak straalt, anders moet je een nieuw exemplaar ophalen en de rommel opruimen.
+0x00000071 Ja.
+0x00000029 Heb je moeite met het scannen van een exemplaar? ~p~Als je het scangereedschap hebt geselecteerd, klik je met de linkermuisknop op een van de oplichtende wezens. ~p~Als je moeite hebt met het lokaliseren van het gecorrigeerde wezen, vergroot dan je hoogte met het muiswieltje om een panoramisch uitzicht te krijgen en zoek de gele pijlen. ~p~Als je je doelwit hebt gelokaliseerd, vlieg je er laag op af.
+0x00000001 Het ziet ernaar uit dat het exemplaar dat je had meegenomen ziek is en geïnfecteerd met een virus dat zich met een alarmerende snelheid verspreid. Het kan ons hele ecosysteem in gevaar brengen.~p~Natuurlijk willen we dit op een barmhartige manier aanpakken. We hebben je ruimteschip uitgerust met een zeer handige minilaser. Deze heeft de precisie die je nodig hebt om de geïnfecteerde wezens te elimineren zonder de gezonde wezens te treffen.
+0x0000004D Ik kom gauw terug.
+0x00000010 Zeer goed werk, cadet. Je hebt ons voorzien van een uitstekend exemplaar voor onderzoek. Sondeer tweemaal en ontvoer eenmaal, zeg ik altijd.
+0x00000089 Het is je gelukt om een ~mission_item~-dier terug te halen.
+0x00000019 Fantastisch! Onze wetenschappers kijken ernaar uit om de data te analyseren.
+0x00000015 Heb je nog steeds niet alle geïnfecteerde wezens uitgeroeid?~p~Rust je uit met de laser en houd de linkermuisknop ingedrukt op de geïnfecteerde wezens. Ze zijn snel, dus je moet je laser verplaatsen om ze te kunnen raken.
+0x0000003D Oké. Ik snap het. Bedankt.
+0x00000088 Het is je gelukt om ~mission_explore_num_cities_to_visit~ cities te bezoeken.
+0x00000052 Dat ding komt niet aan boord. Geen denken aan!
+0x00000005 Ik weet al hoe ik het bevel over m'n ruimteschip moet uitvoeren. Dat is bekend terrein.
+0x00000022 Begrepen.
+0x00000023 Je moet het exemplaar nog steeds droppen in een van je steden.~p~Selecteer het voorwerp dat je wilt afleveren door met de linkermuisknop te klikken op het bewuste voorwerp in je vrachtruimte. Zodoende activeer je je transportstraal waarmee je het voorwerp op de grond kunt plaatsen. Vlieg naar een van je steden en drop het exemplaar. Houd de linkermuisknop ingedrukt tot het wezen veilig aan de grond is in een van je steden. ~p~Als je te vroeg loslaat, valt het voorwerp kapot.
+0x0000004F Je hebt de ~mission_item~ ver van alle steden laten vallen. Raap hem op en plaats hem binnen de stadsmuren.
+0x00000024 Oké. Ik snap het. Bedankt.
+0x0000000D Oké, ik doe mee.
+0x00000013 Is er een probleem, cadet? ~p~Je moet door elk van de 7 sferen vliegen die boven een stad verschijnen. Gebruik de pijltoetsen of houd de rechtermuisknop ingedrukt om je ruimteschip te laten vliegen. Gebruik het muiswieltje om hoger of lager te gaan vliegen.~p~Je kunt ook over de planeet navigeren door met de linkermuisknop op de minikaart te klikken.
+0x00000021 Dus, wat wil je dat ik nu doe?
+0x00000061 Ja. Wat komt er nu?
+0x00000008 Nog niet. Ik ben van gedachten veranderd. Laten we steden bezoeken.
+0x00000031 Gebruik de minilaser uit de wapengroep.
+0x00000027 Ontvoer een ~mission_item~-dier.
+0x00000041 Het wezen in kwestie laat een eigenaardig oplichtend spoor achter.~p~Je ruimteschip is uitgerust met een radargereedschap dat in- en uitgeschakeld kan worden in het hoofdgereedschapsvenster. Het wijst op missiedoelen en interessante voorwerpen als je op het oppervlak van een planeet bent. De radar gaat sneller piepen naarmate je dichter bij je doel komt.~p~Selecteer het scangereedschap in het hoofdgereedschapsvenster.
+0x0000003B Ontvoer een exemplaar en drop het in een stad voor onderzoek.~p~Houd, als de ontvoeringsstraal is geselecteerd, de linkermuisknop ingedrukt op het wezen dat je wilt ontvoeren. De ontvoeringsstraal bevindt zich in de vrachtruimte van de gereedschapsgroepen. Gebruik de straal tot het wezen veilig en wel in je vrachtruimte is.~p~Als je een exemplaar hebt bemachtigd, vlieg je naar een stad en drop je het voorzichtig binnen de stadsmuren. Hiervoor moet je het voorwerp selecteren dat je uit je vrachtruimte wilt halen. Houd de linkermuisknop ingedrukt op de locatie waar je het voorwerp wilt plaatsen. Hou de knop ingedrukt tot het wezen veilig op de grond staat.
+0x00000034 Je bent erin geslaagd om zieke ~mission_target_animal_species~-dieren uit te roeien.
+0x00000014 We hebben dat exemplaar echt nodig voor onze onderzoeken. ~p~Klik, als je de ontvoeringsstraal hebt geselecteerd, met de linkermuisknop op het wezen dat je wilt ontvoeren. Houd de linkermuisknop ingedrukt tot het wezen veilig in je vrachtruimte is aanbeland. ~p~Je doelkaart wordt bijgewerkt als je je vrachtruimte gesloten hebt.~p~Als je een van die ettertjes in je vrachtruimte hebt, vlieg dan naar een stad en drop het binnen de stadsmuren. Zorg ervoor dat je het exemplaar niet laat vallen, want dan wordt het zo'n troep.~p~We sturen iemand die het wezen onder zijn hoede neemt zodra het is afgeleverd.
+0x00000009 Ja, ik weet wat ik doe. Breng mijn ruimteschip in gereedheid voor een ruimtereis.
+0x0000000E Drop de ~mission_item~ binnen de stadsmuren.
+0x00000037 Het is je gelukt om zieke ~mission_target_animal_species~ te verwijderen.
+0x00000002 Gebruik de rechtermuisknop om te vliegen en + en - om van hoogte te veranderen.
+0x00000048 Het is je gelukt om zieke ~mission_target_animal_species~-dieren uit te roeien.
+0x00000025 Klinkt goed. Ik ben er klaar voor.
+0x00000030 Gebruik het scangereedschap om de informatie over het wezen in te voeren in de Sporepedia.
+0x00000033 Je hebt de nieuwe soort gescand.
+0x0000003A Het Sporepedia-document van een plaatselijk wezen is verdwenen. Gebruik het scangereedschap om informatie over dit wezen te verzamelen.~p~Je vindt het scangereedschap in de sectie 'hoofdgereedschap'.~p~Het wezen in kwestie laat een oplichtend spoor achter. Luister naar het signaal van de radar om dit wezen op te sporen.~p~Wellicht vind je het makkelijker om het te zoeken vanaf een hogere of lagere hoogte. Gebruik de toetsen + en - of het muiswiel om de hoogte aan te passen.
+0x00000012 Klik op de ~mission_item~ in de vrachtruimte en houd de muisknop vervolgens ingedrukt in een stad naar keuze.
+0x0000000C Selecteer de minilaser in je wapenvenster en richt het op de geïnfecteerde wezens. ~p~Wees voorzichtig als je de laser richt. Je kunt er namelijk gebouwen, voertuigen en andere ruimteschepen mee vernietigen. ~p~Ga, voor de infectie zich nog verder verspreidt!
+0x00000026 Scan de ontbrekende soort.
+0x0000008D Het is je gelukt om een ~mission_item~-dier terug te halen.
+0x0000008B De ontvoeringsstraal is te vinden in je vrachtruimte.
+0x00000047 Het is je gelukt om een ~mission_item~ te halen.
+0x0000002B Open je communicatie.
+0x00000006 Verdraaid! De informatie die je had verzameld met het scannen, was tamelijk waardevol.~p~Het is ons nu duidelijk dat we deze soort nader moeten onderzoeken. ~p~Je ruimteschip is uitgerust met een ontvoeringsstraal, die te vinden is in je vrachtruimtevenster. Gebruik dit gereedschap om een exemplaar te verzamelen en dit naar ons terug te brengen.
+0x0000002E Open je communicatie.
+0x0000002C Open je communicatie.
+0x00000086 Vlieg door de lichtbol boven nog ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^stad^steden~.
+0x0000002D Open je communicatie.
+0x0000008C Je hebt ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^stad^steden~ bezocht.
+0x00000050 ~mission_num_eradicated_creatures~ gedood. Nog ~mission_num_kills_needed~  ~mission_target_animal_species~ ~^p^mission_num_kills_needed^wezen^wezens~ te gaan.
+0x00000007 Als je vindt dat je uit het juiste hout bent gesneden, ga dan vooral verder. ~p~We hebben je ruimteschip  uitgerust met alle spullen die je nodig hebt om ons ruimteverkenningsprogramma op te starten.~p~Ben je bereid om de planeet te verlaten?
+0x00000003 Gefeliciteerd, cadet! Je kar is echt top! ~p~We voegen nog steeds nieuwe spullen toe aan je ruimteschip, maar het zou in~br~no time ruimteklaar moeten zijn! ~p~Heb je ooit eerder in een ruimteschip gevlogen? Nee? ~p~Hmmm… Nou ja, een betere testvlucht is er niet. De voltallige populatie ~player_creature_name~ van de planeet ~race_homeworld~ kijkt toe.~p~Wat zeg je ervan? Ben je er klaar voor om je kapiteinsbadge te verdienen?~p~
+0x0000000A Zo mag ik het horen!~p~Elke stad op de planeet ~race_homeworld~ heeft een reusachtige lichtbol gelanceerd ter ere van je eerste ruimteschip! Echt… je kunt ze niet missen!~p~Maak met je ruimteschip een ritje om de planeet om ~mission_explore_num_cities_to_visit~ van onze steden te bezoeken. Vlieg door de lichtbollen heen om ze kapot te maken!~p~Als je klaar bent, geven we je verdere instructies.~p~Succes en probeer geen krassen op de lak te maken.
+0x0000004A Scan succesvol. Open je communicatievenster.
+0x0000008F ~mission_item~ ontvangen voor onderzoek. Open je communicatievenster.
+0x00000042 Het is je gelukt om ~mission_item~ te halen. Open je communicatievenster.
+0x00000043 Het is je gelukt om zieke ~mission_target_animal_species~-dieren uit te roeien. Open je communicatievenster.
+0x0000004E ~mission_item~ met succes ontvoerd. Open je communicatievenster.
+0x0000000F Goed werk, cadet. Als je zo vliegt, word je in no time Kapitein.
+0x0000001C In dat geval staat hier dus onze nieuwe Kapitein. Ben je er klaar voor om nog meer spannende missies uit te voeren?
+0x0000004B Het is je gelukt om zieke ~mission_target_animal_species~-dieren uit te roeien. Open je communicatievenster.
+0x00000040 Je hebt de nieuwe soort gescand. Open je communicatievenster.
+0x00000004 Nu je een kei bent in vliegen, durven we je enkele van onze ingewikkelde gereedschappen te laten gebruiken die we hebben uitgevonden voor je ruimteschip.~p~We werken aan de vaardigheid van het SCANNEN van de planten en dieren die je ontdekt op je reizen.~p~Zo te zien, komt dit gereedschap net op tijd! De Sporepedia-data van een van onze eigen dieren werd laatst corrupt en tegelijkertijd begon het dier vreemde symptomen te vertonen.~p~Je moet het dier scannen zodat we meer informatie krijgen over deze soort.
+0x0000003F Je hebt ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^stad^steden~ bezocht. Open je communicatievenster.
+0x0000008E Gelukt! Open je communicatievenster.
+0x0000003C Om te voorkomen dat de infectie zich verspreidt, moet je ~mission_num_kills_needed~ van de zieke ~mission_target_animal_species~ ~^p^mission_num_kills_needed^dier^dieren~ uit je thuiswereld verwijderen.~p~Gebruik de minilaser die zich bevindt tussen de wapens.
+0x00000039 Bezoek nog ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^stad^steden~ en vlieg door de erboven zwevende bol om deze uiteen te laten spatten. Gebruik de pijltoetsen om je ruimteschip te verplaatsen. Je kunt ook de rechtermuisknop ingedrukt houden om te vliegen.~p~Gebruik de toetsen + en - of het muiswiel om je hoogte aan te passen.~p~Als je een glanzende lichtbol boven een stad ziet, vlieg dan door die lichtbol heen.
+0x00000079 Bij nog ~mission_num_healthy_creatures_left~ onschuldig(e) ~^p^mission_num_healthy_creatures_left^slachtoffer^slachtoffers~ zal de missie mislukken.
+0x00000028 Verwijder nog ~mission_num_kills_needed~ ziek(e) ~^p^mission_num_kills_needed^dier^dieren~.
+0x00000017 In dat geval staat hier dus onze nieuwe Kapitein. Ben je er klaar voor om nog meer spannende missies uit te voeren?
+0x00000011 Prijzenswaardig! Je bent uit het juiste hout gesneden. Je hebt het respect en vertrouwen van onze thuiswereld verdiend. We willen dat je dit ruimteschip bestuurt en ons ras leidt naar galactische ontdekkingen en roem.~p~Je hebt de badge en de titel van Kapitein verdiend.~p~Onze wetenschappers hebben interplanetaire aandrijving voor je ruimteschip ontwikkeld, maar deze zul je eerst moeten installeren, Kapitein.
+

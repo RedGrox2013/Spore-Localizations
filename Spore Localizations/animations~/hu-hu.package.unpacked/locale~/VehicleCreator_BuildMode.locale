@@ -1,0 +1,48 @@
+﻿0x000001B1 ~guide: -h3~ Részek költségvetése
+0x000000B1 ~guide: -h3~ Központi szimmetria
+0x00000171 ~guide: -bullet~ Helyzetváltó gömb: Megváltoztatja a rész irányát.
+0x00000081 ~guide: -h3~ Részek kiválasztása és hozzáadása
+0x000001E1 ~guide: -h3~ Összetettségmérő
+0x00000071 ~guide: -h2~ Járműved az állványon lévő nyíl irányába néz.
+0x00000031 ~guide: -h2~ Építés módban a Részválaszték az Járműlabor képernyő bal oldalán nyílik meg.
+0x000000E1 ~guide: -h2~ A járművek alkatrészei szabadon kombinálhatóak, helyezd hát el őket, ahogyan csak akarod!
+0x000000A1 ~guide: -h2~ Ha ki akarod választani járműved egy részét, kattints rá, amíg meg nem jelenik rajta a kék kijelölés.
+0x00000121 ~guide: -h2~ Ha új résszel láttad el járművedet, használd a formázókat a módosításához.
+0x000000F1 ~guide: -h3~ Jármű átmérője és magassága
+0x00000061 ~guide: -h3~ Merre néz a járművem?
+0x000000C1 ~guide: -h2~ Az űrhajó teste és pilótafülkéje automatikusan az állványzat közepére kerül.
+0x000001A1 ~guide: -h1~ Összetettség és költségvetés
+0x00000051 ~guide: -h2~ Az Elemválaszték menü tetején találod az elemkategóriákat, amelyek közül választhatsz. Ezek a következők: testek, pilótafülkék, hajtóművek, különleges fegyverek, hatások és részletek. Egy kategória kiválasztásához kattints a megfelelő fülre.
+0x00000091 ~guide: -h2~ Ha ki akarsz választani egy részt, kattints rá a Részválasztékban, majd húzd a palettáról az állványzatra vagy járművedre.
+0x000000D1 ~guide: -h3~ Elemek egyesítése
+0x00000211 ~guide: -h2~ Ha a járműved túl bonyolultá válik, nem tudsz több elemet hozzáadni..
+0x00000101 ~guide: -h2~ Járműved átmérőjének és magasságának korlátai vannak. Ha ezeket meghaladod és megpróbálsz elhelyezni egy elemet, az egyszerűen nem marad ott, még akkor sem, ha egyébként odaillene, és piros jelölést kap. Az ilyen okból el nem helyezhető blokkok árát nem kell megfizetned.
+0x00000131 ~guide: -bullet~ Kattintással jelöld ki a részt, amelyet szerkeszteni akarsz. Ekkor megjelennek rajta a formázók.
+0x000002C1 ~guide: -h3~ Elemek másolása
+0x000001D1 ~guide: -h2~ Minden elem, amit a járművedre raksz, pontokba kerül. Ha kifogysz a pontokból, többé nem adhatsz hozzá új elemeket.
+0x00000041 ~guide: -h3~ Elemkategóriák
+0x00000151 ~guide: -bullet~ Állítás nyíl: Ezzel változtathatod a rész hosszát, szélességét, magasságát és hajlásszögét
+0x00000111 ~guide: -h1~ Elemek szerkesztése formázókkal
+0x00000161 ~guide: -bullet~ Forgatógyűrű: elforgatja az elemeket.
+0x00000021 ~guide: -h3~ Elemválaszték
+0x00000261 ~guide: -bullet~ Erő – minél magasabb a szám, annál nagyobb sebzést okoz a jármű minden lövése.
+0x000002A1 ~guide: -h3~ Fejlett elemformázók
+0x000002E1 ~guide: -h3~ Irányba helyezés
+0x000002B1 ~guide: -bullet~ Tartsd lenyomva a Tab billentyűt, miközben kijelölsz egy elemet a járműveden, és további elemformálók jelennek meg, hogy jobban irányíthasd az elhelyezésüket.
+0x00000221 ~guide: -h1~ Járműképességek
+0x00000241 ~guide: -h3~ Összegzett járműstatisztikák
+0x00000231 ~guide: -h2~ Minden elem, amit a járművedhez adsz, növeli a gyorsaságát, az életerejét és a teljesítményét. Hatékonyan költsd el a járműelemekre költhető költségvetésedet, hogy a jármű megkapja a kívánt képességeket!
+0x00000141 ~guide: -h3~ Az elemformázók:
+0x00000201 ~guide: -h2~ Az Összetettségmérő a járműved szerkezeti összetettségét méri.
+0x00000281 ~guide: -bullet~ Sebesség – minél magasabb a szám, annál gyorsabban mozognak a járműveid.
+0x00000291 ~guide: -h1~ Fejlett funkciók
+0x00000103 ~guide: -h2~ Egy rész eltávolításához válaszd ki azt és nyomd meg a Del gombot vagy kattints rá és húzd le a járműről vagy az állványról.
+0x000002F1 ~guide: -bullet~ Az egész jármű mozgatásához nyomd le a Shift gombot, kattints a járműre, majd mozgasd oda, ahova kívánod.
+0x00000102 ~guide: -h3~ Részek eltávolítása
+0x000001C1 ~guide: -h2~ Elemeid költségvetése a Járműlabor bal alsó sarkában jelenik meg.
+0x00000251 ~guide: -h2~ Életerő – minél magasabb a szám, annál nagyobb sebzést visel el a jármű a csatában.
+0x00000271 ~guide: -bullet~ Teljesítmény – minél nagyobb az érték, annál több sérülést képes a jármű okozni csatában.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Építés
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000002D1 ~guide: -bullet~ Járműved egy már létező elemének másolásához kattints rá az adott elemre, miközben lenyomva tartod az Alt billentyűt, aztán a másolatot húzd át a jármű egy másik pontjára.
+

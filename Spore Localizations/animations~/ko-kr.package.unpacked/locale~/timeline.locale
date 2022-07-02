@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~을(를) 잃었습니다.
+0x35492924 도시 잃어버림
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~이(가) 군사 도시가 됐습니다.
+0x060B4242 군사력 획득
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~이(가) 진화하였지만 ~timelineAbilityName~ 능력을 잃었습니다.
+0x550A15C2 ~timelineAbilityName~을 잃었습니다.
+
+# TRG_MeatGathered
+
+0x94F807CA ~timelineSummedCount~개의 고기를 모았습니다.
+0x060B4237 ~timelineSummedCount~개 고기 수확
+0x05FA01B9 ~timelineSummedCount~개의 고기를 모았습니다.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~년
+0x555450A5 ~timelineAbsoluteYears~년
+
+#### Time Line Title ####
+
+0x0448655A 부족 형성
+0x0448655B 세계 정복
+0x0448655E 우주 탐험
+0x0448655D 우주 시대
+0x0448655C 세계 지배
+0x04486557 지상의 생명의 진화
+0x04486556 육지로 나아갈 만큼 성장하기
+0x04486555 생명의 기원
+0x04486558 지능 발달
+0x04486559 문명의 새벽
+0x00000006 DNA를 모으고 기관을 얻음
+0x00000001 식사를 통해 DNA를 모으고 성장함
+0x00000011 우주를 탐험해 친구와 적을 만남
+0x00000009 5개 경쟁 부족을 정복 또는 감동시킴
+0x00000008 부족 단계
+0x00000002 적을 물리쳐 기관을 얻음
+0x0000000F 유닛을 사용해 경쟁 도시를 정복, 개종, 매수함
+0x0000000A 사냥, 낚시, 채집을 통해 통화를 얻음
+0x00000013 행성을 식민지화 하고 개발함
+0x00000012 임무를 완수해 통화를 얻음
+0x00000010 우주 단계
+0x00000007 짝짓기를 통해 진화함
+0x0000000B 도구를 구입해 능률을 향상시킴
+0x0000000C 문명 단계
+0x0000000D 시청에서 유닛을 구입하거나 생성함
+0x00000003 편집기에서 기관을 추가하고 진화함
+0x00000004 크리처 단계
+0x00000000 세포 단계
+0x00000005 전투, 감동, 사냥
+0x0000000E 스파이스 광산을 캐어 통화를 얻음
+
+# CLG_EatMeat
+
+0x352DBDB9 ~timelineEventCount~개의 고기를 먹었습니다.
+0x352DBDBA ~timelineMySpeciesName~이(가) 고기를 먹었습니다.
+0x352DBDBB ~timelineMySpeciesName~이(가) ~timelineEventCount~개의 고기를 먹었습니다.
+0x75580859 당신의 세포는 ~timelineEventCount~개의 고기를 먹었습니다.
+0x75580858 당신의 세포는 고기를 먹었습니다.
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~이(가) 에픽 ~timelineTargetOTDBName~을(를) 죽였습니다.
+0x060B422F 에픽 살해
+
+# SPG_ColonyOnPlanet
+
+0x060B424D 행성 식민지
+0x05FA01CB ~timelineMyEmpireName~이(가) ~timelinePlanetName~을(를) 식민지화하기 시작했습니다.
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~이(가) ~timelineTargetOTDBName~와(과) 동맹을 맺었습니다.
+0x060B4221 동맹함
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~이(가) ~timelineTargetEmpireName~(으)로부터 구입했습니다.
+0x06300C33 항성 구입
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~은(는) ~timelineEventCount~ 회 죽었습니다.
+0x05FA0196 ~timelineMySpeciesName~이(가) 죽었습니다.
+0x060B4214 죽음
+0x75580854 당신의 세포가 죽었습니다.
+0x75580855 당신의 세포가 ~timelineEventCount~ 회 죽었습니다.
+
+# CVG_CapturedCityEconomic
+
+0x06031AAB ~timelineMyCivName~이(가) 경제적 수단으로 ~timelineTargetCivName~의 도시를 점령했습니다.
+0x060B423D 경제적 점령
+
+# SPG_PlanetDestroyed
+
+0xB54938AC 행성 파괴
+0xB54938AD ~timelineMyEmpireName~이 행성 ~timelinePlanetName~을 파괴했습니다.
+
+# SPG_EndedWar
+
+0x35493814 종전
+0x35493815 ~timelineMyEmpireName~은 ~timelineTargetEmpireName~와 전쟁을 끝냈습니다.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x05FA0198 ~timelineMySpeciesName~이(가) 육식 크리처로 진화했습니다. 그들은 크리처 단계에서 고기만 먹을 수 있습니다.
+0x060B4216 육식성 획득
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 종교용 해역
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~은(는) 새로운 유닛을 설계했습니다. ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA844 척추를 형성하는 중입니다.
+0x064AA839 식물 종을 배포하는 중입니다.
+0x064AA83A 살균하는 중입니다.
+0x064AA83B 세포 라이브러리를 분화하는 중입니다.
+0x064AA838 재조합 담체를 발전시키는 중입니다.
+0x064AA840 신경 하부조직을 초기화하는 중입니다.
+0x064AA841 진화 담체를 재조합하는 중입니다.
+0x064AA842 애니메이션 변수를 계산하는 중입니다.
+0x064AA83C 데이터 원형을 무작위로 추출하는 중입니다.
+0x064AA83D 소화계를 형성하는 중입니다.
+0x064AA83E 외피층을 감싸는 중입니다.
+0x064AA843 먹이 그물을 형성하는 중입니다.
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 군용 지역
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01B3 ~timelineMyTribeName~이(가) 종교 도시가 되었습니다.
+0x060B4231 종교 획득
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~이(가) ~timelineEventCount~명의  부족민을 죽였습니다.
+0xB5303DE6 ~timelineMyTribeName~이(가) ~timelineTargetTribeName~의 부족민을 죽였습니다.
+0xB5303DE5 살해한 부족민
+
+# CVG_GameStart
+
+0x060B4238 게임 시작
+0x05FA01BA ~timelineMyCivName~이(가) 도시를 세웠습니다!
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 전쟁 종료
+0x9552AA74 ~timelineMyCivName~은(는) 더는 ~timelineTargetCivName~와(과) 전쟁 중이지 않습니다.
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~개의 달걀이 모였습니다.
+0x555BD5C1 ~timelineSummedCount~개의 달걀이 모였습니다.
+0x555BD5C0 ~timelineSummedCount~개의 달걀이 모였습니다
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 이동수단이 만들어졌습니다
+0x35523EC1 군용 해상 이동수단을 만들었습니다.
+0x35523EC2 ~timelineEventCount~개의 군용 해상 이동수단을 만들었습니다.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 이동수단이 만들어졌습니다
+0xB5523D44 상용 공중 이동수단을 만들었습니다.
+0xB5523D45 ~timelineEventCount~개의 상용 공중 이동수단을 만들었습니다.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~이(가) 새 유닛 ~timelineTargetOTDBName~을(를) 만들었습니다.
+0x060B423A 이동수단을 생성
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~이(가) 새 건물 ~timelineTargetOTDBName~을(를) 지었습니다.
+0x060B4239 건물을 지음
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~이(가) 종교 도시가 됐습니다.
+0x060B4241 종교 획득
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01A5 ~timelineMySpeciesName~ 종이 친근한 종족으로 진화했습니다.
+0x060B4223 사교 능력 획득
+
+# CVG_AccessorizedCreature
+
+0x060B423B 새로운 외관
+0x05FA01BD ~timelineMyCivName~이(가) 새로운 의복을 갖추었습니다.
+
+# SPG_GameStart
+
+0x060B424B 게임 시작
+0x05FA01C9 ~timelineMyEmpireName~이(가) 우주로 진출했습니다.
+
+# CRG_BefriendedSomething
+
+0x05FA01A9 ~timelineMySpeciesName~이(가) ~timelineTargetOTDBName~와(과) 친구가 되었습니다.
+0x060B4227 교제
+0x54F7EDA3 ~timelineMySpeciesName~이(가) ~timelineEventCount~마리의 크리처들과 친구가 됐습니다.
+
+# CRG_Migrated
+
+0x05FA01A1 ~timelineMySpeciesName~이(가) 새 보금자리를 차지했습니다.
+0x060B421F 새로운 보금자리
+
+# CRG_Death
+
+0x05FA01A7 ~timelineMySpeciesName~이(가) 죽었습니다.
+0x14F7EF6F ~timelineMySpeciesName~은(는) ~timelineEventCount~ 회 죽었습니다.
+0x060B4225 죽음
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~이(가) ~timelinePartName~ 기관을 발견했습니다.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x05FA01B2 ~timelineMyTribeName~이(가) 군사 도시가 되었습니다.
+0x060B4230 군사력 획득
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~은 새로운 빌딩 ~timelineTargetOTDBName~를 설계했습니다.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 상용 지역
+
+# CVG_SeaVehicleLost
+
+0x060B4249 유닛 손실
+0xD4F81D00 ~timelineEventCount~개의 해양 이동 수단을 잃었습니다.
+0x05FA01C7 해상 이동 수단을 잃었습니다.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~이(가) ~timelinePlanetName~을(를) 파괴했습니다.
+0x060B4251 행성 파괴탄
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 새로운 외관
+0xD5147CA7 ~timelineMyEmpireName~이(가) 새로운 의복을 갖추었습니다.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~이(가) ~timelineAbilityName~을(를) 개발했습니다.
+
+# TRG_BefriendedTribe
+
+0x05FA01AF ~timelineTargetTribeName~이(가) ~timelineMyTribeName~와(과) 동맹을 맺었습니다.
+0x060B422D 동맹
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 민간 공역
+
+# SPG_ColonyPlaced
+
+0x060B425F 신민지 건설
+0x05FA01D3 ~timelinePlanetName~에 ~timelineMyEmpireName~ 식민지가 건설되었습니다.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~은(는) ~timelineTargetCivName~와(과) 전쟁을 하고 있습니다.
+0x35492926 전쟁 시작
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~이(가) 우주의 음유시인이 됐습니다!
+0x060B4255 음유시인 속성 획득
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 ~timelineEventCount~개의 군용 공중 이동수단을 만들었습니다.
+0xB5523D41 군용 공중 이동수단을 만들었습니다.
+0xB5523D40 이동수단이 만들어졌습니다
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AD ~timelinePlanetName~을 개발했습니다.
+0x0627E7AC 추가 행성 개발 점수
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01B4 ~timelineMyTribeName~이(가) 경제 도시가 되었습니다.
+0x060B4232 경제력 획득
+
+# CRG_PackMemberAdded
+
+0x060B421D 무리 구성원 추가
+0x05FA019F ~timelineTargetOTDBName~가 무리에 추가되었습니다.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~이(가) 우주의 과학자가 됐습니다!
+0x060B4259 과학자 속성 획득
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~은 새로운 이동수단 ~timelineTargetOTDBName~를 설계했습니다.
+
+# SPG_MadeAlly
+
+0x060B424E 동맹 결성
+0x05FA01CC ~timelineMyEmpireName~이(가) ~timelineTargetEmpireName~와(과) 동맹을 맺었습니다.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 상용 육지 이동수단을 만들었습니다.
+0x15523CA3 이동수단이 만들어졌습니다
+0x15523CA5 ~timelineEventCount~개의 상용 육지 이동수단을 만들었습니다.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 ~timelineMySpeciesName~ 종이 빠른 종족으로 진화했습니다.
+0x060B4224 이동 능력 획득
+
+# CVG_CapturedCityReligious
+
+0x06031AAC ~timelineMyCivName~이(가) 종교적 수단으로 ~timelineTargetCivName~의 도시를 점령했습니다.
+0x060B423E 종교적 점령
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x05FA01A4 ~timelineMySpeciesName~ 종이 힘센 종족으로 진화했습니다.
+0x060B4222 공격 능력 획득
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~이(가) ~timelineSuperPowerName~을(를) 사용했습니다.
+0x060B4244 슈퍼 파워 사용
+
+# CVG_EpicKilled
+
+0x3552A305 ~timelineMyCivName~은 에픽 ~timelineTargetOTDBName~을(를) 죽였습니다.
+0x3552A304 죽은 에픽 크리처
+
+# CRG_KilledSomething
+
+0x05FA01A8 ~timelineMySpeciesName~이(가) ~timelineTargetOTDBName~을(를) 죽였습니다.
+0x060B4226 살해
+0xF4F7EE4B ~timelineMySpeciesName~이(가) ~timelineEventCount~마리의 크리처를 죽였습니다.
+
+# CVG_SpiceNodeCaptured
+
+0x060B4243 스파이스 광산 점령
+0x05FA01C1 ~timelineMyCivName~이(가) 스파이스 광산을 차지했습니다.
+0x15137CD5 ~timelineMyCivName~은(는) ~timelineEventCount~개의 스파이스 광산을 차지했습니다.
+
+# CVG_LostCityByMilitary
+
+0x35492920 도시 잃어버림
+0x35492921 ~timelineMyCivName~을(를) 잃었습니다.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~이(가) ~timelineTargetOTDBName~을(를) 멸종시켰습니다.
+0x060B4220 멸종됨
+
+# CRG_PackMemberDied
+
+0x05FA01A0 ~timelineMySpeciesName~이(가) 무리 구성원을 잃었습니다.
+0x060B421E 무리 구성원 죽음
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~이(가) 우주의 주술사가 됐습니다!
+0x060B425A 주술사 속성 획득
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 유닛 생성
+0x05FA01C3 지상 이동 수단을 만들었습니다.
+0xB4F817E5 ~timelineEventCount~개의 지상 이동 수단을 만들었습니다.
+
+# CVG_LandVehicleLost
+
+0x060B4248 유닛 손실
+0x54F81C70 ~timelineEventCount~개의 지상 이동 수단을 잃었습니다.
+0x05FA01C6 지상 이동 수단을 잃었습니다.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA852 도플러 효과 관리자를 초기화하는 중입니다.
+0x064AA853 기술적 요소를 공급하는 중입니다.
+0x064AA854 도시 활동성을 평준화하는 중입니다.
+0x064AA84F 탄화수소 자원을 측량하는 중입니다.
+0x064AA850 가상 밉맵의 크기를 조정하는 중입니다.
+0x064AA851 대륙 인구를 세부 조정하는 중입니다.
+0x064AA900 바이러스를 번식시키는 중입니다.
+0x064AA855 환경 음악을 작성하는 중입니다.
+0x064AA856 루프박스 파티클을 확장하는 중입니다.
+0x064AA857 문화적 변천이 시작되었습니다.
+0x064AA84E 지반을 다지는 중입니다.
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~이(가) 개화되었습니다.
+0x060B4254 CQ 준성
+
+# CRG_EvolveInEditor
+
+0x05FA019D ~timelineMySpeciesName~이(가) 진화했습니다!
+0x060B421B ~timelineGenerationCount~ 세대
+
+# CVG_AirVehicleLost
+
+0x060B424A 유닛 손실
+0x05FA01C8 비행 이동 수단을 잃었습니다.
+0xF4F81D2C ~timelineEventCount~개의 비행 이동 수단을 잃었습니다.
+
+# SPG_CapturedStare
+
+0x05FA01CE ~timelineMyEmpireName~이(가) ~timelineTargetEmpireName~에게 점령당했습니다.
+0x060B4250 항성 점령
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 종교용 지역
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~을(를) 잃었습니다.
+0x060B4263 우주선 피폭
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~이(가) 우주의 기사가 됐습니다!
+0x060B4258 기사 속성 획득
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~이(가) 진화하여 ~timelineAbilityName~ 능력을 얻었습니다.
+0x550A15C0 ~timelineAbilityName~을(를) 얻었습니다.
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 ~timelineTargetEmpireName~을(를) 발견했습니다.
+0x060B4264 조우한 제국
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~이(가) ~timelineTargetTribeName~에게 선물을 주었습니다.
+0xB5303DE2 제공한 선물
+0xB5303DE4 ~timelineMyTribeName~이(가) ~timelineEventCount~개의  선물을 주었습니다.
+
+# CVG_TradeRouteStarted
+
+0x3549292A 무역로가 생성됨
+0x3549292B ~timelineTargetCivName~와 새로운 통상로를 시작했습니다.
+
+# SPG_EditedUFO
+
+0x060B424C 우주선 편집
+0x05FA01CA ~timelineMyEmpireName~이(가) 새 우주선을 만들었습니다.
+
+# CLG_DiscoverPart
+
+0x05FA0193 ~timelineMySpeciesName~이(가) ~timelinePartName~ 기관을 발견했습니다.
+0x060B4211 기관 발견
+0x75580853 ~timelinePartName~ 부분을 발견했습니다.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~이(가) 우주의 전사가 됐습니다!
+0x060B425D 전사 속성 획득
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 유닛 생성
+0x05FA01C4 해상 이동 수단을 만들었습니다.
+0x94F819B5 ~timelineEventCount~개의 해양 이동 수단을 만들었습니다.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~은(는) ~timelineTargetCivName~을(를) 물리쳤습니다.
+0x35492928 전쟁 종료
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~이(가) 우주의 방랑자가 됐습니다!
+0x060B425C 방랑자 속성 획득
+
+# TRG_UnlockedTool
+
+0xD537EA55 ~timelineAbilityName~이(가) 잠금 해제되었습니다.
+0xD537EA56 ~timelineAbilityName~이(가) 잠금 해제되었습니다.
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~이(가) 우주의 생태학자가 됐습니다!
+0x060B4257 생태학자 속성 획득
+
+# TRG_DomesticatedSpecies
+
+0x05FA01B0 ~timelineMyTribeName~이(가) ~timelineTargetOTDBName~을(를) 애완동물로 길들였습니다.
+0x060B422E 새로운 애완동물 ~timelineTargetOTDBName~
+
+# SPG_UFODestroyed
+
+0x060B4260 우주선 파괴
+0x356A2D21 ~timelineEventCount~개의 우주선이 파괴되었습니다.
+0x05FA01D4 ~timelineTargetEmpireName~ 우주선이 파괴되었습니다.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 상용 해역
+
+# TRG_TribeMemberDied
+
+0x05FA01B6 ~timelineMyTribeName~이(가) 부족민을 잃었습니다.
+0xD4F7FE0D ~timelineMyTribeName~이(가) ~timelineEventCount~명의  부족민을 잃었습니다.
+0x060B4234 부족민 죽음
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 군용 공역
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 ~timelineEventCount~개의 군용 육지 이동수단을 만들었습니다.
+0x15523CA1 군용 육지 이동수단을 만들었습니다.
+0x15523CA0 유닛 생성
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~이(가) 우주의 무역업자가 됐습니다!
+0x060B425B 무역업자 속성 획득
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~이(가) 그록스를 만났습니다.
+0x060B4252 그록스와의 첫 번째 조우
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 ~timelineEventCount~개의 종교용 육지 이동수단을 만들었습니다.
+0x15523CA7 종교용 육지 이동수단을 만들었습니다.
+0x15523CA6 이동수단이 만들어졌습니다
+
+# TRG_ConqueredTribe
+
+0x05FA01AE ~timelineTargetTribeName~이(가) ~timelineMyTribeName~에게 정복당했습니다.
+0x060B422C 정복
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA901 힉스장을 조정하는 중입니다.
+0x064AA902 질량을 보존하는 중입니다.
+0x064AA903 로컬 우주 공간을 확장하는 중입니다.
+0x064AA907 은하계 화음을 발생시키는 중입니다.
+0x064AA908 특이점을 가속화하는 중입니다.
+0x064AA909 준성 적색 편이의 균형을 맞추는 중입니다.
+0x064AA904 중력 상수를 조정하는 중입니다.
+0x064AA905 방출형 성운을 충전하는 중입니다.
+0x064AA906 원시 행성계를 회전시키는 중입니다.
+0x064AA90A 은하계 토크를 리셋하는 중입니다.
+0x064AA90B 엔트로피 재조정
+0x064AA90C 제국 세력 지도를 작성 중입니다.
+
+# TRG_AccessorizedCreature
+
+0x05FA01AC ~timelineMyTribeName~이(가) 새로운 의복을 갖추었습니다.
+0x060B422A 새로운 외관
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~이(가) 진화했습니다.
+0x060B4212 ~timelineGenerationCount~ 세대
+
+# CRG_Grow
+
+0x05FA019E ~timelineMySpeciesName~의 두뇌가 커졌습니다!
+0x060B421C 두뇌 향상
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~이(가) 우주의 외교관이 됐습니다!
+0x060B4256 외교관 속성 획득
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A857 돈 버는 무역로
+0x7552A859 무역로를 통해 ~timelineSummedCount~ Spore 머니를 벌었습니다.
+0x7552A858 무역로를 통해 ~timelineSummedCount~ Spore 머니를 벌었습니다.
+
+# CLG_KilledSomething
+
+0x05FA019B ~timelineMySpeciesName~이(가) ~timelineTargetOTDBName~을(를) 죽였습니다.
+0xF4F7C380 ~timelineMySpeciesName~이(가) ~timelineEventCount~마리의 세포를 죽였습니다.
+0x060B4219 살해
+0x7558085A 당신의 세포가 ~timelineTargetOTDBName~을 죽였습니다.
+0x7558085B 당신의 세포는 ~timelineEventCount~마리의 세포를 죽였습니다.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA0199 ~timelineMySpeciesName~이(가) 잡식 크리처로 진화했습니다. 그들은 크리처 단계에서 과일이나 고기를 먹을 수 있습니다.
+0x060B4217 잡식성 획득
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA846 문화적 추상성을 발전시키는 중입니다.
+0x064AA847 애니메이션을 간소화하는 중입니다.
+0x064AA848 언어 체계를 구성하는 중입니다.
+0x064AA845 사회적 제약을 걸러내는 중입니다.
+0x064AA84C 패러다임을 국면 전환하는 중입니다.
+0x064AA84D 인식 능력을 배포하는 중입니다.
+0x064AA849 인식론적 구조를 계산하는 중입니다.
+0x064AA84A 외모를 평준화하는 중입니다.
+0x064AA84B 민족적 특성을 준비하는 중입니다.
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~이(가) 우주의 광신도가 됐습니다!
+0x060B425E 광신도 속성 획득
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 ~timelineSummedCount~개의 해초가 모였습니다.
+0x555BD5C3 ~timelineSummedCount~개의 해초가 모였습니다
+0x555BD5C4 ~timelineSummedCount~개의 해초가 모였습니다.
+
+# SPG_SpiceTraded
+
+0x060B4261 무역
+0x05FA01D5 ~timelineSummedCount~ 스파이스가 거래되었습니다.
+0x55564EC3 ~timelineSummedCount~개의 스파이스가 거래되었습니다.
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~이(가) 마스터 배지를 얻었습니다.
+0x060B4253 마스터 배지 획득
+
+# CLG_GameStart
+
+0x060B4210 ~timelineGenerationCount~ 세대
+0x05FA0192 운석으로부터 나타남.
+
+# CVG_EpicCharmed
+
+0x3552A306 마법에 걸린 에픽 크리처
+0x3552A307 ~timelineMyCivName~은 에픽 ~timelineTargetOTDBName~에 마법을 걸었습니다.
+
+# CVG_CapturedCityMilitary
+
+0x06031AAA ~timelineMyCivName~이(가) 군사적 수단으로 ~timelineTargetCivName~의 도시를 점령했습니다.
+0x060B423C 군사적 점령
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~은(는) ~timelineEventCount~개의 스파이스 광산을 잃었습니다.
+0xD54932C1 ~timelineMyCivName~은(는) 스파이스 광산을 잃었습니다.
+0xD54932C0 스파이스 노드 손실
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 ~timelineEventCount~개의 상용 해상 이동수단을 만들었습니다.
+0x35523EC3 이동수단이 만들어졌습니다
+0x35523EC4 상용 해상 이동수단을 만들었습니다.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~이(가) 육지로 나와 지각 있는 생물로의 여정을 시작했습니다.
+0x060B421A ~timelineGenerationCount~ 세대
+
+# CLG_EatPlant
+
+0x352DBDB8 ~timelineMySpeciesName~이(가) ~timelineEventCount~개의 식물을 먹었습니다.
+0x352DBDB7 ~timelineMySpeciesName~이(가) 식물을 먹었습니다.
+0x352DBDB6 ~timelineEventCount~개의 식물을 먹었습니다.
+0x75580857 당신의 세포는 ~timelineEventCount~개의 식물을 먹었습니다.
+0x75580856 당신의 세포는 식물을 먹었습니다.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~이(가) 부족을 이뤘습니다.
+0x060B4229 게임 시작
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~이(가) ~timelineTargetEmpireName~와(과) 전쟁을 시작했습니다.
+0x060B424F 전쟁 개시
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 군용 해역
+
+# TRG_TribeMemberBorn
+
+0x05FA01B5 ~timelineMyTribeName~에 신생아가 태어났습니다.
+0xD4F81307 ~timelineMyTribeName~에 ~timelineEventCount~명의 신생아가 태어났습니다.
+0x060B4233 부족민 탄생
+
+# SPG_RareFound
+
+0x060B4262 희귀품 발견
+0x05FA01D6 희귀품 발견: ~timelineRareName~
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 유닛 생성
+0x34F81C5A ~timelineEventCount~개의 비행 이동 수단이 만들어졌습니다.
+0x05FA01C5 비행 이동 수단을 만들었습니다.
+
+# TRG_FruitGathered
+
+0x94F804D9 ~timelineSummedCount~개의 과일을 채집했습니다.
+0x05FA01B7 ~timelineSummedCount~개의 과일을 채집했습니다.
+0x060B4235 ~timelineSummedCount~개 과일 수확
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~이(가) 경제 도시가 됐습니다.
+0x060B4240 경제력 획득
+
+# TRG_FishGathered
+
+0x54F8079A ~timelineSummedCount~마리의 물고기를 잡았습니다.
+0x060B4236 ~timelineSummedCount~마리 물고기 수확
+0x05FA01B8 ~timelineSummedCount~마리의 물고기를 잡았습니다.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 ~timelineEventCount~개의 종교용 해상 이동수단을 만들었습니다.
+0x35523EC6 이동수단이 만들어졌습니다
+0x35523EC7 종교용 해상 이동수단을 만들었습니다.
+
+# CVG_TradeCompleted
+
+0x3549292C 거래 발생
+0x3549292D ~timelineMyCivName~은 ~timelineSummedCount~Spore 머니로 거래했습니다.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 종교용 공중 이동수단을 만들었습니다.
+0xB5523D48 ~timelineEventCount~개의 종교용 공중 이동수단을 만들었습니다.
+0xB5523D46 이동수단이 만들어졌습니다
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 종교용 공역
+
+# CVG_GiftGiven
+
+0xD54932C3 머니 지급
+0xD54932C5 ~timelineMyCivName~은(는) ~timelineSummedCount~ Spore 머니를 지급했습니다.
+0xD54932C4 ~timelineMyCivName~은(는) ~timelineSummedCount~ Spore 머니를 지급했습니다.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x05FA0197 ~timelineMySpeciesName~이(가) 초식 크리처로 진화했습니다. 그들은 크리처 단계에서 과일만 먹을 수 있습니다.
+0x060B4215 초식성 획득
+

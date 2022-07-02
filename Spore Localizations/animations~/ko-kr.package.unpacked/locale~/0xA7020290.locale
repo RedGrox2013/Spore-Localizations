@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 축하합니다. 퍼즐왕이 당신의 놀라운 재치에 탄복했습니다. 당신과 다시 겨룰 날을 기대하는 듯한 눈치군요.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 각 카드는 색깔별로 열 수 있는 문이 다릅니다. 오직 단 하나의 문을 통해서만 신비의 열쇠를 얻을 수 있을 것입니다.
+
+# Adventure name
+
+0x00000002 퍼즐왕의 마법 문
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 신비의 열쇠
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 어서 여기 신비한 텐트로 들어오세요. 오셔서 지혜를 한 번 시험해 보세요.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE 퍼즐왕
+
+# Act 3 description
+
+0x00000025 열쇠를 찾았습니다! 이동장치를 이용해 퍼즐왕에게 열쇠를 주십시오.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 내 이름은 퍼즐왕이죠. 여행자들을 어리둥절하게 만드는 게 제 취미입니다.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 안녕하십니까. 정말 반갑습니다! 저의 여행 쇼에 오신 것을 환영해요.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 머뭇거리지 마세요. 행운을 빕니다!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 만약 당신이 지혜롭다면 내 열쇠를 찾을 수 있을 겁니다. 아니면 흠, 일단 그건 두고 보기로 하죠.
+
+# Act 1 name
+
+0x00000020 퍼즐왕을 만나라
+
+# 'Adventure lost' message
+
+0x00000012 포기하지 마세요. 정말로 최선을 다한 것입니까?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 우린 다시 만나게 될 겁니다. 분명히요!
+
+# Act 3 name
+
+0x00000024 찾았습니다!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 당신은 정말 천재예요!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (장담컨대 절대 실망하지 않을 걸요.)
+
+# Adventure description
+
+0x00000003 퍼즐왕이 당신의 지혜를 시험해 보고자 합니다. 그가 가진 신비의 열쇠를 얻을 수 있겠습니까?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 퍼즐, 퍼즐왕, 문, 열쇠
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 내 열쇠! 내 열쇠! 이젠 확실하군요.
+
+# Act 4 name
+
+0x00000102 최고입니다!
+
+# Act 1 description
+
+0x00000021 퍼즐왕의 신비한 텐트 안에 무엇이 있을까요?
+
+# Act 4 description
+
+0x00000103 퍼즐왕이 깜짝 놀랐습니다!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 이 퍼즐에는 요구 사항이 없죠
+
+# 'Adventure start' message
+
+0x00000010 퍼즐왕이 은하계를 누비면서 남녀노소 가리지 않고 모든 사람을 어리둥절하게 만들고 있습니다. 과연 그는 이 척박한 행성에 어떤 도전 과제를 남겨 놓았을까요?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 동시에 2개를 잡을수 있습니다.
+
+# Act 2 name
+
+0x00000100 신비의 열쇠
+

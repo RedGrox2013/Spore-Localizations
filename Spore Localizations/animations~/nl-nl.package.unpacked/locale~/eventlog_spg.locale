@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 De planeet ~planet_name~ in het ~star_name~-stelsel is overgegaan naar de beschavingsfase!
+0x06771171 De planeet ~planet_name~ in het ~star_name~-stelsel is overgegaan naar de ruimtefase!
+0x067710B2 De planeet ~planet_name~ in het ~star_name~-stelsel is overgegaan naar de stamfase!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Vrijgespeelde badge
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Er moet een dier aanwezig zijn voor je dit gereedschap kunt inzetten!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Je hebt het recht verdiend om een bondgenotenschip aan je vloot toe te voegen.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Dit gereedschap kan alleen op rijksplaneten gebruikt worden.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD De kolonie zal te ver van specerijen verwijderd zijn.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Dit gereedschap kan niet boven water gebruikt worden.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Specerijen verzameld.
+
+#standard....
+
+0x00000032 Voeg een gebouw toe om je kolonie op te waarderen.
+0x00000008 ~count~ van ~tribe_count~ ~^p^count^tribe^tribes~ op deze planeet ~^p^count^worships^worship~ je! [not in use]
+0x0000001B Levensgevaarlijke situatie!
+0x00000011 Ach en wee! ~planet_name~ wordt door piraten geplunderd.
+0x00000017 Alle stammen op ~planet_name~ aanbidden je! [not in use]
+0x0000000C Vlieg naar een van je veilige kolonies om je ruimteschip te repareren.
+0x00000005 Je aanbidders op ~planet_name~ hebben zich ontwikkeld tot een technologische beschaving. [not in use]
+0x00000016 Je verwoest je eigen gebouwen.
+0x0000000B Je expeditie is bankroet. Wacht maar op een sleper.
+0x00000003 Je bondgenoot heeft een nieuw schip gestuurd voor bij je vloot.
+0x00000006 Valse profeet! Deze stam vindt dat jouw religie voor mietjes is. [not in use]
+0x0000001C Je vrachtruim zit vol. Je moet wat ruimte vrij maken.
+0x0000001D Je hebt ~count~ hoeveelheden ~tool_name~ gevonden!
+0x0000002D Wezens overleven een val van grote hoogte niet. Straal ze voorzichtig over.
+0x0000002E Dieren kunnen niet leven in lava. Plaats ze op het land.
+0x00000029 Deze plant heeft niet de juiste grootte om in het plaatselijke ecosysteem te passen, probeer het met een plant van een andere grootte.
+0x0000002C Die planteneter kan op deze planeet niet leven. Voeg meer planten toe.
+0x0000002B Die soort kan onder water niet leven. Plaats ze op het land.
+0x0000002A Planten kunnen niet overleven in lava. Plaats ze op het land.
+0x00000031 Deze planeet is al geclaimd.
+0x00000027 Ontvoerde kerels gaan dood als je ze laat vallen. Straal ze voorzichtig over.
+0x0000002F Kolonies kunnen onder water niet overleven. Plaats je kolonie op land.
+0x0000000E Je scan is geslaagd. Alle data zijn vastgelegd in je Sporepedia.
+0x00000026 Vertel het rond, maar één planeet tegelijk.
+0x00000022 De ~generic_name~ soort is door honger uitgestorven.
+0x0000001F ~generic_name~ is uitgestorven. Je plaatst de dingen te dicht bij elkaar. Probeer het eens aan de andere kant van de planeet. [not in use]
+0x0000003B Elke stad op deze planeet aanbidt je nu! [not in use]
+0x00000035 Een van de schepen van je bondgenoten is verwoest!
+0x00000021 De ~generic_name~ is uitgestorven.
+0x00000034 Je hebt niet genoeg geld om dat gereedschap te gebruiken.
+0x00000036 Een fantastisch nieuw artefact is ontdekt.
+0x00000028 Planten kunnen onder water niet overleven. Plaats ze op het land.
+0x00000037 Als je op ze blijft schieten, schieten ze terug.
+0x00000023 Vijandig ruimteschip vernietigd!
+0x00000020 De ~generic_name~ soort is uitgestorven wegens een gebrek aan planten.
+0x00000018 Je hebt een kolonie gesticht op ~planet_name~!
+0x0000003C Je bent er niet in geslaagd deze stad zo ver te krijgen dat ze je aanbidden. Probeer het met een andere stad.
+0x00000042 Je Grox bewustzijns-o-meter is geklommen tot 'Echt niet bang. Moet dat dan?'
+0x00000043 Je Grox bewustzijns-o-meter is gedaald tot 'Echt niet bang. Moet dat dan?'
+0x00000046 Je Grox bewustzijns-o-meter is gestegen tot 'Krankzinnig Bang'.
+0x0000004A Te giftig voor het vrachtruim. Aan het verbranden...
+0x04D28917 Nieuw gereedschap nu beschikbaar.
+0x04E3AB1A Dat kun je niet in een kolonie neerzetten.
+0x06170F80 Dit gereedschap heeft een doelwit nodig.
+0x061DBC92 Het doelwit is buiten wapenbereik.
+0x04E39F9A Je mag er maar eentje per planeet!
+0x04EA4FD8 Je hebt de Grox op deze planeet gedood door de planeet te terravormen tot T1!
+0x0541A247 Je hebt een sectie van het ecosysteem voltooid, waardoor kolonies kunnen uitbreiden.
+0x065BCDA0 Pas op: met het stelen van voorwerpen van andere planeten maak je het plaatselijke rijk kwaad.
+0x0546A708 In dit wildreservaat is geen plaats voor nog meer dieren.
+0x065BCDA7 Pas op: met het ontvoeren van burgers maak je het plaatselijke rijk kwaad
+0x05C2BC26 Je moet tenminste één rij planten en dieren vullen voor je een planeet hoger kan tillen!
+0x04F77C3E Die soort is al aanwezig op deze locatie.
+0x04F7B030 Die vleeseter kan op deze planeet niet overleven. Voeg meer planteneters toe.
+0x04E3AAFD Het voorwerp moet op land geplaatst worden.
+0x06037BB6 Er is iets uitgestorven op deze planeet, vanwege het stijgende waterpeil.
+0x04BD78A5 Er zijn geen vijandigheden op deze planeet waarbij je bondgenoten je zouden kunnen helpen.
+0x04BD7870 Je hebt geen bondgenoten die je kunnen helpen!
+0x04BD78A0 Je bondgenoten helpen je al!
+0x05483AB4 Je hebt ~creature_name~ aan je wildreservaat toegevoegd. Er leven nu ~animal_count~ van de ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ mogelijke dieren.
+0x057F4C52 Je hebt niet genoeg energie om dat gereedschap te gebruiken.
+0x0591CCD6 Je hebt een unieke planeet gevonden!
+0x0637C896 Het is een val! Je bent in een piratenhinderlaag gelopen!
+0x0637C897 Verzameld: ~tool_name~.
+0x0567757C Je handelspartners in stelsel ~star_name~ slaan je hoog aan. Misschien dat het ~race~ open staat voor verdere diplomatieke verzoeken.
+0x04E38CF9 Dat gereedschap kan alleen gebruikt worden op je kolonieplaneten.
+0x00000039 ~count~ van ~city_count~ ~^p^count^stad^steden~ op deze planeet ~^p^count^worships^worship~ je! [not in use]
+0x00000041 Het ~race~ is vernietigd.
+0x0000001A Je verbond met het ~race~ is verbroken.
+0x05790C96 Binnenkomend bericht van het ~race~!
+0x00000049 Het ~race~ heeft een missie afgelast omdat onze relatie verzuurd is.
+0x06527A69 Je handelsroute met het ~race~ is verbroken.
+0x06707FAA Die ecologische plek zit vol en kan niet nog een soort ondersteunen.
+0x00000004 Het ~race~ heeft je de oorlog verklaard. Maak je op voor de strijd.
+0x0000003E Het ~race~ en ~race2~ hebben een vredesverdrag ondertekend.
+0x0000003F Het ~race~ en ~race2~ hebben een bondgenootschap gesloten.
+0x05807D8E Het ~race~ heeft haar oorlog tegen jou beëindigd.
+0x066F10AB Inkomend bericht van je thuiswereld!
+0x066F10B8 Inkomend bericht van je kolonie!
+0x00000001 Dat gereedschap kun je niet gebruiken op je thuiswereld.
+0x00000019 Ga terug naar je thuiswereld. Een nieuwe missie wacht.
+0x04EA4FD9 Je scanners kunnen de bewoners van deze planeet niet herkennen. Ga terug naar je thuiswereld.
+0x00000010 Je hebt ~rare_name~ gevonden uit de collectie van ~rare_count~ ~rare_group~.
+0x04F7B80D Je moet de T-score van ~planet_name~ verbeteren om deze te laten overleven.
+0x0000001E Er is iets uitgestorven op deze planeet omdat de T-score gezakt is.
+0x00000002 Omdat je genoeg hulp hebt, is een van je bondgenoten naar huis gegaan.
+0x00000040 Het bondgenootschap tussen het ~race~ en het ~race2~ is stuk gelopen.
+0x0000003D Het ~race~ heeft het ~race2~ de oorlog verklaard.
+0x00000045 Je Grox bewustzijns-o-meter is gedaald tot 'Best een beetje bang'.
+0x04F615F5 Je moet de planeet verlaten om op te kunnen slaan.
+0x0591CCD5 Je hebt een zeldzame galactische formatie gevonden.
+0x06159AE6 Het ~race~ raakt de interesse in jullie bondgenootschap kwijt. Ga eens langs.
+0x00000047 Je Grox bewustzijns-o-meter staat op 'Best een beetje bang'.
+0x04ED0A12 Je hebt 42 geweldige gereedschappen gekregen en hebt een zeldzame galactische formatie gevonden.
+0x00000044 Je Grox bewustzijns-o-meter is gestegen tot 'Best een beetje bang'.
+0x00000025 Het ~race~ heeft het ~star_name~-stelsel in haar macht gekregen en een nieuwe planeet gekoloniseerd!
+0x06527A66 Het ~race~ raakt de interesse in jullie handelsroute kwijt. Verbeter de relatie!
+0x0000000D De T-score van ~planet_name~ is nu ~terraform_level~.
+0x0000000F Nieuwe kolonies zijn pas mogelijk als je de T-score van de planeet verbetert.
+0x00000048 Je Grox bewustzijns-o-meter staat op 'Krankzinnig bang'.
+0x0580C3FA Dat gereedschap kan alleen gebruikt worden op de planeten van andere rijken.
+0x00000024 Het ~race~ is de macht over het ~star_name~-stelsel kwijt.
+0x0541A219 Je hebt de T-score van de planeet gestabiliseerd.
+0x0000003A Je kunt je hier niet vestigen. Het ~star_name~-stelsel wordt al bewoond door een andere soort.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Dit gereedschap kun je niet gebruiken op rijksplaneten.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 Kolonies moeten in de buurt van specerijen geplaatst worden.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Dit gereedschap kun je niet gebruiken op een wildreservaat-planeet.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Dit gereedschap kun je alleen op wilde planeten gebruiken.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Dit gereedschap kan niet boven een stad gebruikt worden.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BAC9F Je kunt dit gereedschap niet gebruiken bij een episch wezen.
+0x0654CA48 Een stad heeft zich aan je overgegeven.
+0x0654C9DF Deze planeet heeft zich overgegeven, maar er zijn nog meer planeten in dit stelsel.
+0x064C024E Je moet de T-Score op de planeet verhogen om de Kolonieplanner te kunnen betreden. [not in use]
+0x065BFFFA Je hebt geen ruimte om nog meer specerijen te verzamelen.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Je hebt al een Mini-U.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Je hebt niet genoeg ruimte in je vloot voor nog een schip.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Je zit te hoog om dit gereedschap te gebruiken.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Dit gereedschap kan alleen gebruikt worden in stelsels met een handelsroute.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA De T-score van deze planeet is te laag om dat gereedschap te gebruiken.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 De kolonie is te dicht bij specerijen.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Je kunt dit gereedschap niet gebruiken. Deze planeet zit op het hoogste niveau.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x03FFE7FB De ~game_plant_name~ is al ingescand.
+0x03FFE803 ~creature_name~ is al ingescand.
+0x043AD9F2 ~ufo_name~ is al ingescand.
+0x04374125 ~building_name~ is al ingescand.
+0x04377196 ~vehicle_name~ is al ingescand.
+0x03FFE77B Een nieuwe plant, ~game_plant_name~, is ingescand en toegevoegd aan je Sporepedia.
+0x04374114 Een nieuw gebouw, ~building_name~, is ingescand en toegevoegd aan je Sporepedia.
+0x04377191 Een nieuw voertuig, ~vehicle_name~, is ingescand en toegevoegd aan je Sporepedia.
+0x03FFE7FF Een nieuw wezen, ~creature_name~, is ingescand en toegevoegd aan je Sporepedia.
+0x043AD9E0 Een nieuw ruimteschip, ~ufo_name~, is ingescand en toegevoegd aan je Sporepedia.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Je kunt de monoliet niet op deze planeet gebruiken!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Je kunt dat gereedschap niet zo dichtbij een gebouw gebruiken.
+

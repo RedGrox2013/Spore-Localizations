@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 マヤ輸出ファイルは~br~~maya_export_path~~maya_export_name~*にセーブされました。
+
+# YouTube
+
+0x05496510 YouTubeのログインに失敗しました。正しいユーザー名とパスワードを入力してください。メンバー登録がまだの方は、登録してください。  
+0x0549366D アップロード  
+0x05496B24 YouTubeにログインしています…  
+0x055AA305 YouTubeにムービーをアップロードしています…  
+0x056691B0 YouTubeの登録を確認しています…  
+0x056D0627 アップロード完了！　Video URLを友達にメールしよう！  
+0x05B5AC4C YouTube利用規約
+0x05498D58 YouTubeへのアップロードでエラーが発生しました。~br~~br~インターネット接続の状況を確認するか、また後で試してください。
+0x05498260 YouTubeへのログインでエラーが発生しました。~br~~br~インターネット接続の状況を確認するか、また後で試してください。
+0x054C1E63 動画は~movie_pathname~~movie_name~.avi~mac_save_append~に保存されました。
+0x05E501EB <youtubeicon>アップロード
+0x05D2C767 アップロードはキャンセルされました。
+0x05D54AF7 関連のウェブサイトは英語で書かれています。あなたがお使いの言語でサイトを見るには、サイトセレクターで言語を選択してください。
+0x05600488 この機能を使用するには、Sporeにログインしてください。ログインしますか？
+0x0563C623 この機能を使用するには、Sporeに登録する必要があります。登録しますか？
+0x05498DCB アップロード完了！友達にメールしましょう！
+0x0549366C いいえ
+0x05B5FD1E すぐにアップロードしますか？
+
+# email
+
+0x04585F1F メールアドレスが正しくありません。  
+0x04585F49 送信先のメールアドレスが正しくありません。  
+0x045AD62F あなたのメールアドレス  
+0x045AD634 送信先のメールアドレス  
+0x05B5B8C4 友達にビデオについて知らせる
+0x0583897C クリックでポストカードをメールします。
+0x04588BEF ポストカードは送信されました。
+0x045AD5B9 Eメールでポストカードを送る
+
+# capture GIF
+
+0x058B90F2 動画アバターは~br~~gif_name~~mac_save_append~に保存されました。
+
+# tool tips
+
+0x046286F2 バック転  
+0x04598E97 送信  
+0x046286E7 スピン  
+0x046286F4 座る  
+0x04628713 鳴く  
+0x04628717 パンチ  
+0x04628719 ジャジャーン！  
+0x04628722 キュート  
+0x04628724 スモウ  
+0x04628726 やあ！  
+0x04628729 ムキムキ  
+0x04628733 ヘイ、ベイビー  
+0x04628737 ザ・ポイント 
+0x04628739 ウォーク 
+0x0462873F ホットフット 
+0x04628745 ホップ  
+0x04628749 ストンプ 
+0x04628798 ハッピー  
+0x0462879C 悲しみ  
+0x046287A0 恐怖  
+0x046287A1 怒り  
+0x046287A2 笑い  
+0x046287A3 メロメロ 
+0x046287A4 フォトビュアー  
+0x046287A5 フォト撮影  
+0x046287D8 背景  
+0x046287DA 赤ちゃん  
+0x046287ED セーブ  
+0x0462932D ヘルプ  
+0x0474E80D 消去  
+0x0474E80E セーブ  
+0x0462874E レイヴパンチ
+0x046287D6 アクション
+0x046286F8 唸る
+0x046287A6 ムービー録画
+0x0473F903 フォト管理
+
+# move all
+
+0x04583A4E すべてセーブ  
+
+#continue
+
+0x0549656C 続ける  
+
+# delete one done
+
+0x04583433 フォトを消去しました。
+
+# delete all done
+
+0x0458334E フォトを消去しました。
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D フォトは~play_photo_back~に保存されました。
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~  
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~  
+
+# move all done
+
+0x04583295 フォトはすべて~play_photo_back~に保存されました。
+
+# Are you sure: Yes
+
+0x04583FFB はい
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD アニメーション
+
+# photobackuppath
+
+0x06305594 マイドキュメント
+0x06305593 My Spore Creations/Pictures/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~  
+0x05BAF944 ログイン失敗
+0x05CBDEDA アップロードに失敗しました
+
+# your message
+
+0x045AD63A メッセージテキスト  
+
+#drag and drop fail message
+
+0x05889A21 テスト  
+0x05889A4C 「テスト」ではドラッグ＆ドロップができません。「作成」または「ペイント」モードに切り替えてください。
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~  
+
+# too many photos
+
+0x047FF0E4 フォトが多すぎます。いくつかアーカイブ化してください。
+
+# photo actions
+
+0x04613ED0 終了すると、保留しているフォトのセーブがキャンセルされます。終了しますか？
+0x045C206E フォトを消去しますか？
+0x045C2025 フォトをどうしますか？
+0x045C208A すべてのフォトを消去しますか？
+0x045C2094 フォトをアーカイブ化しますか？
+0x045C2098 すべてのフォトをアーカイブ化しますか？
+
+# delete all
+
+0x04583A36 すべて消去  
+
+# cancel
+
+0x04583AFB キャンセル  
+
+# Are you sure: No
+
+0x0458400E いいえ
+
+# email message
+
+0x056BCDCA Sporeで作った動画を見てください！~br~~video_url~
+0x056BCE10 私がSporeで作ったかっこいいクリーチャーを見てください！
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK  

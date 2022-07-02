@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gratulerar! Mr. Puzzle är imponerad av din underbara hjärna. Han ser fram emot att förbrylla dig igen.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Den här gåtan är inte krävande ...
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Om du kört fast kan du använda båda händerna.
+
+# Act 2 description
+
+0x00000101 De färgade korten öppnar motsvarande dörr. Bara en dörr leder till mysterienyckeln.
+
+# Adventure name
+
+0x00000002 Mr Puzzles magiska portar
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Mysterienyckel
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mitt mysterietält är det bästa som finns. Kliv in och testa ditt intellekt.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Mr. Puzzle
+
+# Act 3 description
+
+0x00000025 Du hittade nyckeln! Använd nu den magiska teleporten för att ge den till Mr Puzzle.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Mr. Puzzle är mitt namn. Förbryllande av besökare är mitt mål.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Hälsningar och ett stort hallå! Välkommen till min kringresande show.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Kör inte fast. Jag önskar dig lycka till!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Om du är smart hittar du min nyckel. Om inte ... nåja, låt oss vänta och se.
+
+# Act 1 name
+
+0x00000020 Träffa Mr. Puzzle
+
+# 'Adventure lost' message
+
+0x00000012 Ge inte upp. Har du försökt använda båda händerna?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Vi kommer att mötas igen, det garanterar jag!
+
+# Act 3 name
+
+0x00000024 Hittade det!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Att du är en riktig smart hjärnkille!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Jag är säker på att du inte säger emot.)
+
+# Adventure description
+
+0x00000003 Mr. Puzzle utmanar dig på ett intellektuellt test. Kan du få tag i hans mysterienyckel?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 gåta, Mr. Puzzle, grindar, nycklar
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Min nyckel! Min nyckel! Jag säger då det ...
+
+# Act 4 name
+
+0x00000102 Enastående jobbat!
+
+# Act 1 description
+
+0x00000021 Man vet aldrig vad Mr. Puzzle kommer att visa. Vad finns i hans mystiska tält idag?
+
+# Act 4 description
+
+0x00000103 Mr. Puzzle är mycket imponerad!
+
+# 'Adventure start' message
+
+0x00000010 Mr. Puzzle vandrar i galaxen och förbryllar ung såväl som gammal. Vilken utmaning för han med sig till denna ofruktbara planet?
+
+# Act 2 name
+
+0x00000100 Mysterienyckeln
+

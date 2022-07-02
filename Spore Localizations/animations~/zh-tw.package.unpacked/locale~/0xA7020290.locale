@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 恭喜！謎先生對你那精明的腦子感到驚訝。他打算再出難題考考你。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 這個謎題沒有設下限制…
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 如果你被困住了，用用你的雙手。
+
+# Act 2 description
+
+0x00000101 各種顏色的卡片，可以開啟顏色相同的門。只有其中一道門能讓你取得神秘鎖鑰。
+
+# Adventure name
+
+0x00000002 謎先生的魔法之門
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 神秘鎖鑰
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 我的神秘帳棚絕對是值得參觀的。進來考考你的智力吧！
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE 謎先生
+
+# Act 3 description
+
+0x00000025 你找到了鑰匙！現在使用魔法傳送器，將鑰匙交給謎先生。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 我叫謎先生。最喜歡出難題考訪客。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 幸會，你好啊！歡迎加入我的巡迴表演。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 別被困住啦！祝你好運！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 如果你夠聰明的話，就可以找到我的鎖鑰。如果不夠聰明的話…嗯嗯…到時候就知道了。
+
+# Act 1 name
+
+0x00000020 會見謎先生
+
+# 'Adventure lost' message
+
+0x00000012 別放棄。你試過用上雙手嗎？
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 我們會再見面的，我保證！
+
+# Act 3 name
+
+0x00000024 找到了！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 你真是絕頂聰明啊！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 （我相信你不會反對。）
+
+# Adventure description
+
+0x00000003 謎先生向你祭出智力考驗。你能夠取得他的神秘鎖鑰嗎？
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 謎題、謎先生、門、鑰匙
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 我的鎖鑰！我的鎖鑰！我得承認…
+
+# Act 4 name
+
+0x00000102 絕讚成就！
+
+# Act 1 description
+
+0x00000021 你絕不會知道謎先生會玩什麼把戲。今天，他的神秘帳棚裡有些什麼花樣？
+
+# Act 4 description
+
+0x00000103 謎先生十分驚訝！
+
+# 'Adventure start' message
+
+0x00000010 謎先生在銀河中四處遊走，老老少少都對他出的謎題感到困惑。他會替這個貧瘠的星球帶來什麼樣的挑戰呢？
+
+# Act 2 name
+
+0x00000100 神秘鎖鑰
+

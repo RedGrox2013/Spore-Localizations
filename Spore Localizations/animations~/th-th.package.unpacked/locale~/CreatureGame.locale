@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0524D329 ร้องหาคู่!
+0x0509FC4E คู่รัก
+0x0509FC4F ส่งเสียงเรียกเพื่อหาตัวคู่ของคุณแล้วคลิก เพื่อเข้าสู่โปรแกรมกำเนิด SPORE!
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 กด <hinticon> เพื่อพุ่งชน
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0514F98E ย้ายรัง
+0x0514F993 สายพันธุ์ของคุณได้ย้ายรังไปแล้ว  ส่งเสียงร้องเพื่อระบุตำแหน่งและตามรอยพวกเขาไปเรื่อยๆ จนพบรังใหม่!
+0x0546ABA4 สร้างเผ่า!
+0x0546AB9E นำสายพันธุ์ไปสู่จุดเริ่มต้นแห่งอารยธรรมโดยคลิกที่ปุ่มวิวัฒนาการแล้วก่อตั้งเผ่าของคุณ!
+0x0546AB9A สร้างเผ่า!
+0x0524D32C ย้ายไปรังใหม่
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 ฝูง
+
+# Find_NPC Goal Card
+
+0x0509FB92 สิ่งมีชีวิต
+0x0524D328 พบปะสายพันธุ์อื่น
+0x0509FB93 ออกหาสิ่งมีชีวิตต่างสายพันธุ์แล้วคลิกที่พวกเขา!
+
+# crg-lowhealth.prop
+
+0x91A0449F คุณได้รับบาดเจ็บ! รีบกลับไปรักษาตัวที่รัง
+
+# Combat text messages
+
+0x3538B712 คุณจะใช้ความสามารถได้เมื่อเลือกเป้าหมายแล้วเท่านั้น
+0xD39A5768 ยังไม่สามารถใช้งานได้ในขณะนี้
+0x739A4E05 คุณอยู่ใกล้เกินไป
+0x06778BAC คุณได้ทำให้สิ่งมีชีวตินั้นประทับใจ
+0xF538B6FD คุณจะใช้ความสามารถนี้ได้ระหว่างการต่อสู้เท่านั้น
+
+# Combat Card - Mini Boss
+
+0x064D4056 สิ่งมีชีวิตพิเศษตัวนี้มีขนาดใหญ่และแข็งแกร่งกว่าสายพันธุ์อื่นๆ แทบทั้งหมด
+0x064D4053 กำจัด ~target_species_crg~
+0x064D4054 กำจัด
+0x067394F7 สิ่งมีชีวิตที่มีลักษณะเฉพาะนี้มีขนาดใหญ่และมีพละกำลังมากกว่าสปีชีส์อื่นๆ
+0x064D4055 กำจัด ~target_species_crg~ เพื่อรับแต้ม DNA โบนัสก้อนใหญ่
+
+# Eating_Herbivore Goal Card
+
+0x0524D325 คุณเป็นพวกกินพืช หาผลไม้เป็นอาหาร
+0x0509F9DB กิน
+0x0509F9DC คุณเป็นสิ่งมีชีวิตประเภทกินพืช  ออกหาผลไม้ตามพุ่มไม้ แล้วคลิกเพื่อกิน
+
+# crg-verbcharge.prop
+
+0x6859AEDE ยังไม่สามารถใช้งานได้ในขณะนี้
+
+# crg-spitclose.prop
+
+0x30A611E9 คุณอยู่ใกล้เกินไป
+
+# Social Card - Mini Boss
+
+0x064D4046 ผูกมิตรกับ ~target_species_crg~ เพื่อจะสร้างพันธมิตรที่แข็งแกร่ง
+0x064D4045 ผูกมิตร
+0x064D4044 ผูกมิตรกับ ~target_species_crg~
+0x064D4048 สิ่งมีชีวิตพิเศษตัวนี้มีขนาดใหญ่และแข็งแกร่งกว่าสายพันธุ์อื่นๆ แทบทั้งหมด
+0x064D4047 สิ่งมีชีวิตพิเศษตัวนี้มีขนาดใหญ่และแข็งแกร่งกว่าสายพันธุ์อื่นๆ แทบทั้งหมด
+
+# Find Unlocks Card
+
+0x54D958AD รวบรวมชิ้นส่วนใหม่เพื่อใช้ในการวิวัฒนาการ
+0x54D958AC กำจัดหรือผูกมิตรกับจ่าฝูง และค้นกองกระดูกเพื่อปลดล็อคชิ้นส่วนใหม่ๆ
+0x54D958AB รวบรวม
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 รังบ้านเกิด
+0x0658F2D1 รังใหม่
+0x0658F2D3 สปีชีส์แปลกปลอม
+0x0658F2D2 รังเก่า
+
+# CELL Find Unlocks Card
+
+0xF4DAF5CB ปลดล็อคชิ้นส่วนเซลล์
+0xF4DAF5C9 รวบรวม
+0xF4DAF5CA กำจัดเซลล์อื่นหรือทำลายสะเก็ดดาวตกเพื่อปลดล็อคชิ้นส่วนใหม่ๆ
+
+# Build Artifact
+
+0x064D4064 คุณพบวัตถุลึกลับที่แผ่รังสีประหลาดออกมา  รวบรวมชิ้นส่วนของมันทั้งหมดให้ครบเพื่อประกอบขึ้นเป็นสัญลักษณ์!
+0x064D4061 สร้างเครื่องมือ!
+0x064D4062 รวบรวมชิ้นส่วนเครื่องมือลึกลับให้ครบ
+0x064D4063 คุณพบวัตถุลึกลับที่แผ่รังสีประหลาดออกมา  รวบรวมชิ้นส่วนของมันทั้งหมดให้ครบเพื่อประกอบขึ้นเป็นสัญลักษณ์!
+0x064D4060 สร้างเครื่องมือ!
+
+# Claim Nest
+
+0xD538B78F เมื่อคุณตาย คุณจะเกิดใหม่ที่รังปัจจุบัน  ต้องการจะย้ายมาอยู่ที่รังนี้หรือไม่?
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 คลิก <hinticon> เพื่อหว่านเสน่ห์
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC คลิก <hinticon> เพื่อหัดพ่นพิษ
+
+# Combat - Extinct
+
+0x064D4059 พวก ~target_species_crg~ สูญพันธุ์แล้ว!
+0x064D405A พวก ~target_species_crg~ สูญพันธุ์แล้ว!
+0x064D4057 กำจัดพวก ~target_species_crg~
+0x064D4058 กำจัด
+0x064D405B พวก ~target_species_crg~ สูญพันธุ์แล้ว!
+
+# Eating_Carnivore Goal Card
+
+0x0509F9DA คุณเป็นสิ่งมีชีวิตประเภทกินเนื้อ  ออกล่าเหยื่อหรือหาซากสัตว์ แล้วคลิกเพื่อกิน
+0x0509F9D9 กิน
+0x0524D324 คุณเป็นพวกกินเนื้อ ล่าเหยื่อเป็นอาหาร
+
+# Add_Posse Goal Card
+
+0x0524D32A เพิ่มสมาชิกฝูง
+0x0509FC97 ชักจูงสมาชิกในสายพันธุ์เดียวกันหรือเพื่อนต่างสายพันธุ์เข้ามาร่วมฝูงด้วยการทำให้พวกเขาประทับใจ
+0x0509FC96 สมาชิกฝูง
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 กด <hinticon> เพื่อตบตี
+
+# First time socializing
+
+0xF4211909 เลียนแบบท่าทางของสิ่งมีชีวิตตัวอื่นเพื่อสร้างความประทับใจ
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB คลิก <hinticon> เพื่อร้องเพลง
+
+# Find Unlocks Card - First Part
+
+0x06035A51 ค้นหาชิ้นส่วน
+0x06035A52 กำจัดหรือผูกมิตรกับจ่าฝูง และค้นกองกระดูกเพื่อปลดล็อคชิ้นส่วนใหม่ๆ
+0x06035A53 หาชิ้นส่วนใหม่ๆ เพื่อใช้วิวัฒนาการ
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 กด <hinticon> เพื่อเต้น
+
+# Social Card - Hostile Species
+
+0x064D403A ผูกมิตรกับพวก ~target_species_crg~
+0x064D403E สิ่งมีชีวิตบางสายพันธุ์นั้นเป็นอันตรายกับคุณโดยกำเนิด หรือบางครั้งการกระทำของคุณก็อาจจะทำให้บางสายพันธุ์ หันมาเป็นศัตรูกับคุณอย่างถาวร ระวังให้ดี!
+0x064D403D สิ่งมีชีวิตบางสายพันธุ์นั้นเป็นอันตรายกับคุณโดยกำเนิด หรือบางครั้งการกระทำของคุณก็อาจจะทำให้บางสายพันธุ์ หันมาเป็นศัตรูกับคุณอย่างถาวร ระวังให้ดี!
+0x064D403C คุณไม่สามารถจะผูกมิตรกับพวก ~target_species_crg~ ได้!
+0x064D403B ผูกมิตร
+
+# Hints
+
+0x142CD4F2 การกินอาหารผิดประเภทจะทำให้คุณเสียสุขภาพ!
+0x057736C3 คลิก <hinticon> เพื่อเริ่มสร้างเผ่า
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4039 เมื่อเป็นพันธมิตรกับสายพันธุ์นี้แล้ว คุณจะสามารถพักผ่อนที่รังของพวกเขาได้
+0x064D4038 เมื่อเป็นพันธมิตรกับสายพันธุ์นี้แล้ว คุณจะสามารถพักผ่อนที่รังของพวกเขาได้
+0x064D4037 ทำให้ ~target_species_crg~ ~mission_remaining_crg~ ตัว ประทับใจ และยินดีร่วมเป็นพันธมิตร
+0x064D4036 ผูกมิตร
+0x064D4035 ผูกมิตรกับพวก ~target_species_crg~
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 คลิกสิ่งมีชีวิตเพื่อเริ่มสื่อสารกับพวกมัน
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4034 เมื่อเป็นพันธมิตรกับสายพันธุ์นี้แล้ว คุณจะสามารถพักผ่อนที่รังของพวกเขาและนำตัวมาร่วมฝูงของคุณได้
+0x064D4033 เมื่อเป็นพันธมิตรกับสายพันธุ์นี้แล้ว คุณจะสามารถพักผ่อนที่รังของพวกเขาและนำตัวมาร่วมฝูงของคุณได้
+0x064D4031 ผูกมิตร
+0x064D4030 ผูกมิตรกับพวก ~target_species_crg~
+0x064D4032 ทำให้ ~target_species_crg~ ~mission_remaining_crg~ ตัว ประทับใจ และยินดีร่วมเป็นพันธมิตร
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 กด <hinticon> เพื่อกัด
+
+# Reward text for all cards
+
+0x050A34CA รางวัล: ได้รับ DNA ~reward_evo_crg~ แต้ม
+
+# Save Baby
+
+0x064D405C ช่วยเจ้าตัวจิ๋วด้วย!
+0x064D405E พาเจ้าตัวจิ๋วกลับไปให้ถึงรังของคุณอย่างปลอดภัย
+0x064D405D ช่วยเจ้าตัวจิ๋วด้วย!
+0x064D405F พวก ~target_species_crg~ ได้ลักพาเจ้าตัวจิ๋วของคุณไป!
+0x06739532 ~target_species_crg~ตัวนึงได้จับเจ้าตัวน้อยไปจากสปีชีส์คุณ!
+
+# Combat Card
+
+0x064D404E กำจัดพวก ~target_species_crg~
+0x064D4051 กำจัดสมาชิกในสายพันธุ์นี้ และทำให้สูญพันธุ์ไปในที่สุด
+0x064D4052 กำจัดพวก ~target_species_crg~ เพื่อให้สูญพันธุ์ไปในที่สุด
+0x064D4050 กำจัด ~target_species_crg~ ~mission_remaining_crg~ ตัว
+0x064D404F กำจัด
+
+# crg-notarget.prop
+
+0x79E8F4C5 คุณยังไม่ได้เลือกเป้าหมาย
+
+# Eating_Omnivore Goal Card
+
+0x0524D326 คุณเป็นพวกกินทั้งพืชและเนื้อ หาผลไม้หรือเนื้อเป็นอาหาร
+0x0509F9DE คุณเป็นสิ่งมีชีวิตประเภทกินทั้งพืชและเนื้อ  หาซากสัตว์หรือผลไม้แล้วคลิกเพื่อกิน
+0x0509F9DD กิน
+
+# Species creator
+
+0xB3DAED77 โดย~creator~
+0x73DB4258 โดยทีมงาน SPORE
+
+# crg-useabilityposture.prop
+
+0x8693A0FC คลิก <hinticon> เพื่อเต๊ะท่า
+
+# con
+
+0x0564E650 ~local_creature_name~ ตัวโปรด
+0x0595B72B ~local_creature_name~ ยักษ์
+0x94ACB6F7 ~local_creature_name~ จรจัด
+0xB32FE522 ~local_creature_name~ จิ๋ว
+0xF32FE51B จ่าฝูง ~local_creature_name~
+
+# crg-locatemate.prop
+
+0x200AFD34 คลิก <hinticon> เพื่อเรียกหาคู่ของคุณ
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D คุณสามารถพักผ่อนที่รังของพวกเขาได้!
+0x064D404C คุณสามารถพักผ่อนที่รังของพวกเขาได้!
+0x064D404B พวก ~target_species_crg~ เป็นพันธมิตรกับคุณแล้ว!
+0x064D404A ผูกมิตร
+0x064D4049 ผูกมิตรกับพวก ~target_species_crg~
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D403F ผูกมิตรกับพวก ~target_species_crg~
+0x064D4043 คุณสามารถพักผ่อนที่รังของพวกเขา หรือนำตัวมาร่วมฝูงคุณก็ได้!
+0x064D4042 คุณสามารถพักผ่อนที่รังของพวกเขา หรือนำตัวมาร่วมฝูงคุณก็ได้!
+0x064D4041 ~target_species_crg~ เป็นพันธมิตรของคุณแล้ว!
+0x064D4040 ผูกมิตร
+

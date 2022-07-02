@@ -1,0 +1,386 @@
+﻿# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000011 よくやった！
+
+# Act 1 name
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000020 ブリーフィング
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 5
+
+0x10000035 移動するぞ！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000012 救援に来た船からの信号を受け取った。まもなく軌道に進入し、降下してくる。
+
+# Character name (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt")
+# Comments: Enemy workers on the Mothership.
+
+0x07B3CBF0 ブラソイドの技術者
+
+# Act 1 description
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000021 この惑星にいるあなたの部隊は身動きが取れなくなっていますが、司令官には計画があるようです…
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 2
+
+0x10000042 手遅れになる前に、破壊する手段を発見しなければ。
+
+# Act 4 name
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000026 脱出
+
+# Character name (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld")
+# Comments: Friendly soldiers spawn from here.
+
+0x07B27E69 墜落した降下船
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 1
+
+0x10000041 ブラソイドの兵士達はこの船から転送降下してきている。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 4
+
+0x30000024 反応炉に近づくな！
+
+# Character name (Character: "brax_soldier", model: "Soldier_@creature_editorModel!0x07b3cbea.crt")
+# Comments: Standard enemy soldier. Relatively weak. Respawns.
+
+0x07B3CBEA ブラソイドの兵士
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000015 急げ！　母船を破壊するのだ！
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 5
+
+0x30000025 兵士をみんな転送降下させちゃいけなかったんですよ。
+
+# 'Adventure won' message
+
+0x00000011 おめでとうございます！　この一帯の敵は一掃され、戦場はまもなく確保されるでしょう。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000014 我々はできるかぎり、ここで持ちこたえる。
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 1
+
+0x30000011 ブラソイド母船の中心部。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 2
+
+0x10000022 ブラソイドの母船が上空にいる限り、誰も助けには来れない。
+
+# Act 4 description
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000027 母船が爆発します！　脱出路を探しましょう！
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 1
+
+0x30000021 侵入者！　侵入者だ！
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 2
+
+0x30000012 ここを爆破すれば、母船も爆発するだろう。
+
+# Act 2 name
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000022 潜入
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 2
+
+0x30000022 助けてくれ！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000013 要塞に入って、母船への入り口を探せ！
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 1
+
+0x10000021 降下船「グラヴィオ」はついに墜落した。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 3
+
+0x30000023 こっちだ！
+
+# Character name (Character: "brax_jet", model: "Mothership Jet_@vehicle_editorModel!0x07b27e59.vcl")
+# Comments: Alien Boat arriving at the Docks - it carries the Artifact. Called La Gaviota
+
+0x07B27E59 ブラソイドの探査船
+
+# Character name (Character: "brax_sniper", model: "Biggulon Soldier_@creature_editorModel!0x07ba637d.crt")
+# Comments: Stationary enemy that protects the top of the wall.
+
+0x07BA637D ブラソイドのスナイパー
+
+# Act 3 description
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000025 母船に乗り込みました！　反応炉を見つけて爆破し、船内に爆発を連鎖させましょう。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000015 さあ、行け！
+
+# Character name (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt")
+# Comments: Guards the force field. Weak toady.
+
+0x07B4E801 ブラソイドの衛兵
+
+# Character name (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt")
+# Comments: Your commander. Looks tougher, does more damage and has more hit points then the common soldiers.
+
+0x07B2BCA6 アルファロンの司令官
+
+# Adventure name
+
+0x00000002 母船を倒せ
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000013 このゴミためから出るぞ。
+
+# Character name (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld")
+# Comments: Inside the Mothership. Blow this up and get out fast!
+
+0x07C8A001 主反応炉のコア
+
+# Character name (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt")
+# Comments: The common soldier. Long range pulse rifle, medium health. Respawns from dropship.
+
+0x07B27E57 アルファロンの戦士
+
+# Act 5 description
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000029 母船は破壊されました！
+
+# Character name (Character: "mothership_exit", model: "Crate2_@building_editorModel!0x074e43ff.bld")
+# Comments: A placeholder object that marks where the player exits from the Mothership's teleporter.
+
+0x074E43FF 母船出口
+
+# Character name (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld")
+# Comments: Used by the Brax Techs
+
+0x0744BD4E コントロールパネル
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 3
+
+0x40000023 出口はどこだ？
+
+# Act 2 description
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000023 要塞に入り、ブラソイドの母船へテレポートする手段を発見しましょう。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 2
+
+0x40000022 ブラソイド総員、各個に対処しろ！
+
+# Character name (Character: "hero", model: "Dave Two_@creature_editorModel!0x07b4e7a0.crt")
+# Comments: The hero, doesn't talk.
+
+0x07B4E7A0 戦士Z-15
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 1
+
+0x40000021 走れ！
+
+# Character name (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld")
+# Comments: Houses a teleporter used to get onto the Mothership
+
+0x07BA61BC 母船への門
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 2
+# Comments: Character comments: Stationary
+
+0x20000022 誰も通すものか！
+
+# Act 3 name
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000024 破壊工作
+
+# 'Adventure lost' message
+
+0x00000012 あきらめないでください。部隊の運命はあなたにかかっています。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 5
+
+0x40000025 おしまいだ！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 5
+
+0x30000035 反応炉の状態：99%
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 4
+
+0x40000024 爆発するぞ！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 4
+
+0x30000034 兵士転送機：機能中
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 3
+
+0x30000033 ブラスナーとの通信が途絶
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 2
+
+0x30000032 戦況：コードブルー
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 1
+
+0x30000031 全システム操作可能
+
+# Adventure description
+
+0x00000003 戦闘区域上空にいる、敵の母船を倒しましょう。
+
+# Character name (Character: "brax_walker", model: "Mothership Walker_@vehicle_editorModel!0x07b687fa.vcl")
+# Comments: Epic-sized Crane machine. Like a transformer. They all carry a crate.
+
+0x07B687FA デスストーカー
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000011 ブラソイドの母船が上空にいる限り、どこへも行けん。
+
+# Character name (Character: "brax_turret", model: "Mothership Drone_@vehicle_editorModel!0x07ba61ba.vcl")
+# Comments: Very small air vehicle. Floating orb that shoots lasers (like the one on the Millenium Falcon that Luke uses for lightsaber practice)
+
+0x07BA61BA ジップブラスター
+
+# Character name (Character: "main_gate", model: "SC_ResearchGate_door_@building_editorModel!0x078feae8.bld")
+# Comments: Destructible part of the front wall
+
+0x078FEAE8 メインゲート
+
+# Character name (Character: "alph_tank", model: "Mothership Tank 2_@vehicle_editorModel!0x07b27e56.vcl")
+# Comments: Tough and slow. High damage.
+
+0x07B27E56 アルファロンの戦車
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 1
+
+0x40000031 警告！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000014 遠くに見える要塞に入り、あの母船へ行く方法があるかどうか探せ。
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 4
+# Comments: Character comments: Stationary
+
+0x20000024 俺が生きている限り、母船は安全だ。
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 2
+
+0x40000032 反応炉が危険！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 3
+
+0x40000033 まもなく船体が破壊されます！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 4
+
+0x40000034 脱出！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 5
+
+0x40000035 危険！　危険！
+
+# Character name (Character: "comm_tower", model: "Mothership City Hall_@building_editorModel!0x07b27e5c.bld")
+# Comments: A mobile communications device with a large antenna
+
+0x07B27E5C 通信塔
+
+# Act 5 name
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000028 勝利！
+
+# 'Adventure start' message
+
+0x00000010 あなたの降下船は墜落し、部隊は敵兵に包囲されました。脱出する道は1つです…
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 1
+# Comments: Character comments: Stationary
+
+0x20000021 隊長からキーカードを奪えやしないぞ！
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 3
+# Comments: Character comments: Stationary
+
+0x20000023 門を守らなければ！
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 1
+
+0x10000031 食らえ！ブラソイド野郎！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000011 我々は立ち往生している！　降下船は壊れ、ブラソイドによって釘付けにされた。
+
+# Character name (Character: "brax_leader", model: "Biggulon_@creature_editorModel!0x07b3cb5d.crt")
+# Comments: Enemy boss. Big, strong, melee fighter.
+
+0x07B3CB5D ブラスナー
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 2
+
+0x10000032 敵だらけだ！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000012 長くは持ちこたえられん。忌々しいブラソイドの母船は、我々が殺すよりも早く兵士を転送降下させてくる。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+# I've radioed for help, but no one is going to rescue us if that Braxoid Mothership stays overhead.
+
+0x10000013 救援を求めたが、母船が上空にいる以上、艦隊は我々を救出できん。
+
+# Character talk dialog (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld"): Act 2, Variation 1
+
+0x20000031 母船に乗り込むには、ここを通らなければならない。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000012 撃たれる危険をおかしてまで、我々を助けに来るヤツなどいない。
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 3
+
+0x10000033 救援求む！
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 4
+
+0x10000034 行け！　行け！
+

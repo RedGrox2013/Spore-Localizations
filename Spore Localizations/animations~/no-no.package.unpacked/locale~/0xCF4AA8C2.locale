@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Et nytt oppdrag gjør nok susen.
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B Regn med meg, jeg elsker eventyr.
+0xFADED019 Jeg er alltid klar for eventyr!
+0xFADED01A Høres ut som et spennende eventyr. Jeg er med.
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C Jeg må dessverre avslå, men jeg kan ikke si hvorfor.
+0xFADED018 Jeg setter pris på tilbudet, men jeg må dessverre si nei takk.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Vi håper dere forstår.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Jeg kan se at du trenger et øyeblikk for deg selv. Farvel.
+0xFADED009 Kanskje en annen gang. Ha det.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED015 Hyggelig å kunne hjelpe. Ha det.
+0xFADED011 Bare hyggelig. Ser deg senere.
+0xFADED016 Det er helt i orden. Farvel.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Jeg har ikke noe lyst til å utføre denne oppgaven lenger.
+0xFADED021 Denne oppgaven passer ikke lenger inn i timeplanen min.
+0xFADED020 Jeg må si nei til denne oppgaven.
+0xFADED022 Jeg vil heller gjøre noe annet.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Før jeg går, har jeg noen andre spørsmål.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Det skal bli! Ta det rolig!
+0xFADED005 Det er forstått. Vi ses.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Det er mottatt, Oppdragskontroll.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Jeg vil gjerne spørre deg om noe annet ...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Vi snakkes. Ha det.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 En ting til ...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Å, selvfølgelig! Oppdragsloggen. Jeg skal sjekke der!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Jeg er ikke interessert akkurat nå. Kanskje senere
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Kan du minne meg på hva oppdraget mitt var?
+0xFADED028 Nå har jeg helt glemt hva oppdraget var. Hva var det for noe igjen?
+0xFADED027 Hmm ... hva var det jeg skulle gjøre igjen?
+0xFADED024 Jeg har glemt hva jeg drev med. Hva var oppdraget mitt?
+0xFADED01F Jeg trenger en liten oppfriskning om oppdraget ...
+
+# mission_incomplete -> do exit
+
+0xFADED010 Jeg skjønner. Jeg kommer snart tilbake.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 Beklager at vi forstyrret. Ha det.
+0xFADED00B Jeg skjønner at du er opptatt. Vi snakkes senere.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Jeg har ikke tenkt til å gjøre dette, av flere grunner.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Dette føles helt feil. Nei.
+0xFADED00D Nei det er ikke snakk! Det der gidder jeg ikke!
+0xFADED012 Nei. Hele greia virker liksom litt ... usporty.
+0xFADED014 Aldri! Jeg hater vold.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Mottatt. Ha det
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 I tillegg ...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Før jeg går, har jeg noen andre spørsmål ...
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 ~race~ stiller spørsmålstegn ved beslutningsvegringen din. Det er tydelig at du mangler en kraft som kan lede deg i riktig retning. Det var uflaks.
+0xFADED02D Det er klart. Jeg visste at det var håpløst å legge noe såpass trivielt frem for en så vidunderlig skapning som deg. Kanskje du kunne trøste meg ved å bruke noen spenn i butikken min?
+0xFADED02E Ser ut til at du må finne ut hvordan du skal bli en legendarisk romkaptein på egen hånd.~p~Lykke til.
+0xFADED034 Forstått, ~player_title~ ~player_creature_name~. Vi godtar.~p~Det kommer faktisk til å spare oss for en del papirarbeid. Underkontraktgodkjenningsprosessen for interplanetarisk skapningstransport krever kun 362 separate skjemaer som må fylles ut og underskrives med tre kopier. ~p~Det er klart, dette er langt under retningslinjene som er etablert under standard operasjonsprosedyre ... du skulle sett hvor mange skjemaer du må ha for å frakte gjæret krydder.
+0xFADED033 GREIT ... bare vær sånn du. Vi blir ikke såret eller noe sånt.~p~OK, vi blir litt såret.
+0xFADED032 Nå må du følge veien som er staket ut for deg.~p~Lykke til, min venn.
+0xFADED031 Våger du å gå tilbake på ditt ord til Grox! Udugelige idiot!
+0xFADED02B Interessant valg, ~player_title~ ~player_creature_name~. Kanskje du har informasjon vi ikke har. Selv om det virker usannsynlig.
+0xFADED02C Å ... Ok ... ja, det stemmer. ~p~Hvis ikke du mener det med hjertet ... har vi ikke lyst til at du skal samhandle med andre livsformer.~p~
+0xFADED02F Å gi opp er ikke noe som ~race~ forstår. ~player_creature_name~ er ikke ~race~.
+

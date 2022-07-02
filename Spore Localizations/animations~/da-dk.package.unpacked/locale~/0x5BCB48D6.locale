@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 Krigen på planeten ~mission_target_planet~ blev vundet. Meld tilbage til planeten ~mission_source_planet~ i stjernesystemet ~mission_source_star~.
+0x00000099 Det lykkedes! Rapporter til stjernesystemet ~mission_source_star~.
+0x00000098 Gennemført
+0x00000093 På vej til: ~mission_source_star~-systemet.
+0x00000097 Aktiv
+0x00000081 Vi bliver nødt til at kæmpe mod Grox uden dig. Denne sektor må ikke falde!
+0x00000094 Grox er lokaliseret i stjernesystemet ~mission_target_star~. Lad dem ikke sprede sig til planeten ~mission_target_planet~.
+0x00000071 Hvis side er du på? Hvis Grox spreder sig til ~mission_target_planet~, så vil resten af denne sektor hurtigt ryge med i faldet.
+0x00000092 Grox er lokaliseret i stjernesystemet ~mission_target_star~. Lad dem ikke sprede sig!
+0x00000041 Godt kæmpet, ~ep1_captain_full_name~! Du har tydeligvis det der Kriger-instinkt.~p~Grox har ikke en chance, så længe du er i nærheden. ~p~Her har du ~mission_rewards~ Sporebucks. Det burde være rigeligt til at dække dine udgifter til ammunition.
+0x000000B1 Kæmp mod en hær på planeten ~mission_target_planet~.
+0x0000004E Lad os tage af sted, soldat! Planetkoordinaterne er allerede uploadet til din Missionslogbog.
+0x00000064 Når et Grox-invasionsskib lander, bliver du nødt til neutralisere det hurtigt. Hvis den slår rod, kan den kun fjernes med en Planetknuser.~p~Desværre fjerner det også selve planeten.
+0x000000B2 Rapporter tilbage til planeten ~mission_source_planet~.
+0x00000000 Alarm, alarm! Et Grox-sondeskib er set på ~mission_target_planet~!  Det ser ud til, at de prøver at omvende planeten. Vi har brug for soldater nede på jorden - og hurtigt!~p~~ep1_captain_full_name~, er du beredt?
+

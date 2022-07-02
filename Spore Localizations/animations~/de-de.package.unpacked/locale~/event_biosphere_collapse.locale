@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000002 Übertragung beenden
+0x00000009 Der Kollaps des Ökosystems wurde verhindert.
+0x00000008 ~mission_num_eradicated_creatures~ von ~mission_num_creatures~ ~mission_target_animal_species~-Tieren wurden vernichtet.
+0x0000000A Vernichte nur als Ziel markierte Tiere!
+0x00000005 Das Ökosystem ist jetzt wieder im Gleichgewicht.
+0x00000007 Die Biosphäre des Planeten ~mission_target_planet~ wird nun nicht zusammenbrechen.
+0x0000000F Die ~mission_target_animal_species~-Tierspezies ist ausgestorben.
+0x00000015 Vernichte die als Ziel markierten Tiere! Beeil dich!
+0x00000017 Der Zusammenbruch des Ökosystems auf dem Planeten ~mission_target_planet~ steht unmittelbar bevor. Vernichte die als Ziel markierten Tiere! Und zwar hurtig!
+0x00000004 Rette den Planeten ~mission_target_planet~ vor einer Ökokatastrophe!
+0x0000000E Das Tier ist krank. Das kannst du nicht an Bord bringen!
+0x00000018 Füge auf dem Planeten ~mission_target_planet~ Pflanzen und Tiere hinzu, um den Zusammenbruch des Ökosystems zu verhindern!
+0x00000090 Entferne die infizierten ~mission_target_animal_species~-Kreaturen aus der Herde!
+0x00000011 Entwaldung! Eine Pflanzenspezies ist ausgestorben.
+0x00000013 Das Ökosystem auf dem Planeten ~mission_target_planet~ ist zusammengebrochen.
+0x00000012 Ökosystem auf ~mission_target_planet~ zusammengebrochen: Eine Pflanzenspezies ist ausgestorben.
+0x00000010 Ökosystem auf ~mission_target_planet~ zusammengebrochen. ~mission_target_animal_species~-Tiere ausgestorben.
+0x00000014 Auf dem Planeten ~mission_target_planet~ ist das Ökosystem zusammengebrochen.
+0x00000091 Planet ~mission_target_planet~ ist gerettet!
+0x00000019 Biosphäre auf Planet ~mission_target_planet~ zusammengebrochen: Füge dem Ökosystem Pflanzen und Tiere hinzu, um den T-Score wieder zu stabilisieren!
+0x0000000D Tiere aus infizierten Herden sind an Bord des Raumschiffs ~ufo_name~ nicht zugelassen.
+0x0000001F Werter ~player_title~ ~player_creature_name~!~p~Die Harmonielehre besagt, dass der Kreislauf des Lebens einen ganz eigenen Rhythmus hat. Auf dem Planeten ~mission_target_planet~ hat sich nun eine falsche Note eingeschlichen!~p~Ein Virus breitet sich in einigen unserer wilden ~mission_target_animal_species~-Herden aus.~p~Du musst sie umgehend von ihrem Schmerz erlösen. Wenn sie noch länger leiden, wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Gehab dich wohl und eile herwärts!
+0x00000021 Achtung, ~player_creature_name~!~p~Begib dich umgehend zum Planeten ~mission_target_planet~ und vernichte die schwache ~mission_target_animal_species~-Spezies!~p~Ende der Durchsage!
+0x0000000C Warnung! Wenn du noch ~mission_num_healthy_creatures_left~ gesunde ~mission_target_animal_species~-Tiere eliminierst, stirbt die Spezies aus!
+0x0000001C ~player_title~ ~player_creature_name~!~p~Eine neue Feldstudie unserer Tierwelt liefert alarmierende Daten. Das Ökosystem auf dem Planeten ~mission_target_planet~ ist in großer Gefahr. Ein Virus breitet sich in einigen unseren wilden ~mission_target_animal_species~-Herden aus.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Wir erwarten deine Unterstützung, und zwar pronto! Flug auf kürzester Route sofort einleiten!
+0x0000001B Notsignal durch Großen Rat ausgelöst. Benötigen Unterstützung durch ~player_title~ ~player_creature_name~.~p~Das Ökosystem auf unserem Planeten ~mission_target_planet~ ist in großer Gefahr! Ein Virus breitet sich in einigen unseren wilden ~mission_target_animal_species~-Herden aus.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Du kannst dir sicher vorstellen, was das gerade für ein Chaos auslöst, natürlich in direktem Widerspruch zu unserer Philosophie der Ordnung. Wir verlangen dein Eingreifen gemäß unserem Bündnisabkommen, Dokument 48, Paragraf LXVIII.~p~Wir erwarten dein umgehendes Eintreffen.
+0x0000001D Zauberhaftes Hallöchen! Nichts macht einen schönen Tag so zunichte wie eine unmittelbar bevorstehende Ökokatastrophe.~p~~player_title~ ~player_creature_name~, du musst unbedingt kommen und das wieder geradebiegen. Unsere dummen wilden ~mission_target_animal_species~-Herden stecken übel in der Klemme, aber die zahmen Haustiervarianten sind immer noch putzig und gesund.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Beeilung, Beeilung! Komm schnell, ganz schnell!
+0x0000001A ~player_title~ ~player_creature_name~! Wir bitten dich dringendst um Hilfe!~p~Spodes Anhänger auf dem Planeten ~mission_target_planet~ schweben in großer Gefahr! Ein Virus breitet sich in einigen unserer wilden ~mission_target_animal_species~-Herden aus.~p~Eliminieren sollst du die Infizierten unter ihnen, sonst greift das Virus weiter um sich, und verlustig gehen wir der gesamten Spezies ... was den Untergang des Planeten einleiten würde.~p~Eile sofort hin, da entlang geht's!
+0x0000001E Oh, ~player_title~ ~player_creature_name~! Hilfe, Hilfe! Unser Ökosystem auf dem Planeten ~mission_target_planet~ ist in großer Gefahr! Ein Virus breitet sich in einigen unserer wilden ~mission_target_animal_species~-Herden aus.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Los, Beeilung!
+0x00000001 Wichtige Meldung an unseren Kapitän!~p~Das Ökosystem auf unserem Planeten ~mission_target_planet~ ist in großer Gefahr! Ein Virus verbreitet sich in unseren wilden ~mission_target_animal_species~-Herden.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Beeilung!~p~~mission_target_planet~ Ende!
+0x00000003 Werter ~player_title~ ~player_creature_name~!~p~Obschon wir versuchen, das Rad des Lebens unbeeinflusst laufen zu lassen, verlangt eine tragische Entwicklung unser Eingreifen. Unser Ökosystem auf dem Planeten ~mission_target_planet~ ist in großer Gefahr! Ein Virus breitet sich in einigen unserer wilden ~mission_target_animal_species~-Herden aus.~p~Du musst die infizierten Tiere umgehend eliminieren, sonst wird es noch schlimmer und wir verlieren die ganze Spezies ... und das wäre dann vielleicht erst der Anfang, und am Ende bricht die gesamte Biosphäre zusammen.~p~Beeilung!
+0x00000006 Das Ökosystem auf dem Planeten ~mission_target_planet~ ist in großer Gefahr! Ein Virus breitet sich unter den wilden ~mission_target_animal_species~-Herden aus. Die Infizierten erkennst du daran, dass sie leuchten.~p~Eliminiere umgehend die kranken Exemplare, sonst breitet sich das Virus noch weiter aus, und die ganze Spezies ist verloren ... und das ist vielleicht erst der Anfang. Am Ende stünde möglicherweise der Zusammenbruch der gesamten Biosphäre.
+0x00000020 Achtung, ~player_creature_name~!~p~Der Planet ~mission_target_planet~ weist eine Schwäche auf, die das ~race~ nicht tolerieren wird. Vernichte die schwache ~mission_target_animal_species~-Spezies sofort!~p~~race~ Ende!
+0x0000000B Katastrophe! Zu viele gesunde Tiere wurden ausgeschaltet.
+

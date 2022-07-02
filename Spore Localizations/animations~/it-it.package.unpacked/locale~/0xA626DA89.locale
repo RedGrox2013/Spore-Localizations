@@ -1,0 +1,386 @@
+﻿# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000011 Ce l'hai fatta!
+
+# Act 1 name
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000020 Istruzioni
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 5
+
+0x10000035 Andiamo!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000012 Abbiamo ricevuto un segnale da una nave di soccorso. Sta entrando in orbita, e dovrebbe atterrare a momenti.
+
+# Character name (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt")
+# Comments: Enemy workers on the Mothership.
+
+0x07B3CBF0 Tecnico Braxoid
+
+# Act 1 description
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000021 La tua unità di combattimento è bloccata su questo pianeta, ma il tuo Comandante ha un piano...
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 2
+
+0x10000042 Trova un modo per distruggerla prima che sia troppo tardi.
+
+# Act 4 name
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000026 Fuggi
+
+# Character name (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld")
+# Comments: Friendly soldiers spawn from here.
+
+0x07B27E69 Nave da sbarco precipitata
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 1
+
+0x10000041 I soldati Braxoid si stanno teletrasportando da questa nave.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 4
+
+0x30000024 Stai lontano dal reattore!
+
+# Character name (Character: "brax_soldier", model: "Soldier_@creature_editorModel!0x07b3cbea.crt")
+# Comments: Standard enemy soldier. Relatively weak. Respawns.
+
+0x07B3CBEA Soldato Braxoid
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000015 Presto! Devi distruggere quella nave madre!
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 5
+
+0x30000025 Lo sapevo che non dovevamo teletrasportare tutti i nostri soldati.
+
+# 'Adventure won' message
+
+0x00000011 Complimenti! Questo settore è sotto controllo, come presto lo sarà l'intero campo di battaglia.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000014 Noi cercheremo di resistere il più possibile.
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 1
+
+0x30000011 Il cuore della nave madre Braxoid.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 2
+
+0x10000022 Nessuno verrà a salvarci finché abbiamo quella nave madre Braxoid sopra di noi.
+
+# Act 4 description
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000027 La nave madre sta per esplodere! Trova una via d'uscita!
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 1
+
+0x30000021 Intruso! Intruso!
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 2
+
+0x30000012 Distruggilo per far esplodere l'intera nave.
+
+# Act 2 name
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000022 Infiltrati
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 2
+
+0x30000022 Aiuto!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000013 Devi entrare nella fortezza e trovare un modo per salire a bordo di quella nave!
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 1
+
+0x10000021 La nave da sbarco Gravio è atterrata per l'ultima volta.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 3
+
+0x30000023 Qui!
+
+# Character name (Character: "brax_jet", model: "Mothership Jet_@vehicle_editorModel!0x07b27e59.vcl")
+# Comments: Alien Boat arriving at the Docks - it carries the Artifact. Called La Gaviota
+
+0x07B27E59 Scanjet Braxoid
+
+# Character name (Character: "brax_sniper", model: "Biggulon Soldier_@creature_editorModel!0x07ba637d.crt")
+# Comments: Stationary enemy that protects the top of the wall.
+
+0x07BA637D Cecchino Braxoid
+
+# Act 3 description
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000025 Sei a bordo della nave madre! Trova il reattore e fallo esplodere per innescare una serie di esplosioni in tutta la nave.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000015 Ora vai!
+
+# Character name (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt")
+# Comments: Guards the force field. Weak toady.
+
+0x07B4E801 Guardia Braxoid
+
+# Character name (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt")
+# Comments: Your commander. Looks tougher, does more damage and has more hit points then the common soldiers.
+
+0x07B2BCA6 Comandante Alpharon
+
+# Adventure name
+
+0x00000002 Nave madre a terra
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000013 Andiamocene da questo postaccio.
+
+# Character name (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld")
+# Comments: Inside the Mothership. Blow this up and get out fast!
+
+0x07C8A001 Nucleo reattore principale
+
+# Character name (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt")
+# Comments: The common soldier. Long range pulse rifle, medium health. Respawns from dropship.
+
+0x07B27E57 Soldato Alpharon
+
+# Act 5 description
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000029 La nave madre è stata distrutta!
+
+# Character name (Character: "mothership_exit", model: "Crate2_@building_editorModel!0x074e43ff.bld")
+# Comments: A placeholder object that marks where the player exits from the Mothership's teleporter.
+
+0x074E43FF Uscita nave madre
+
+# Character name (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld")
+# Comments: Used by the Brax Techs
+
+0x0744BD4E Pannello di controllo
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 3
+
+0x40000023 Dov'è l'uscita?
+
+# Act 2 description
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000023 Entra nella fortezza e trova un modo per teletrasportarti sulla nave madre Braxoid.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 2
+
+0x40000022 Si salvi chi può!
+
+# Character name (Character: "hero", model: "Dave Two_@creature_editorModel!0x07b4e7a0.crt")
+# Comments: The hero, doesn't talk.
+
+0x07B4E7A0 Soldato Z-15
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 1
+
+0x40000021 Scappa!
+
+# Character name (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld")
+# Comments: Houses a teleporter used to get onto the Mothership
+
+0x07BA61BC Portale nave madre
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 2
+# Comments: Character comments: Stationary
+
+0x20000022 Non lascerò passare nessuno!
+
+# Act 3 name
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000024 Sabotaggio
+
+# 'Adventure lost' message
+
+0x00000012 Non arrenderti. Il destino della squadra è tutto nelle tue mani.
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 5
+
+0x40000025 Siamo SPACCIATI!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 5
+
+0x30000035 Integrità reattore al 99%
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 4
+
+0x40000024 Salterà in aria!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 4
+
+0x30000034 Trasportatori truppe operativi
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 3
+
+0x30000033 Contatto con Braxnor perduto
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 2
+
+0x30000032 Stato battaglia codice blu
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 1
+
+0x30000031 Sistemi operativi
+
+# Adventure description
+
+0x00000003 Distruggi la nave madre nemica sospesa sopra un campo di battaglia duramente conteso.
+
+# Character name (Character: "brax_walker", model: "Mothership Walker_@vehicle_editorModel!0x07b687fa.vcl")
+# Comments: Epic-sized Crane machine. Like a transformer. They all carry a crate.
+
+0x07B687FA Tallonamorte
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000011 Non andremo da nessuna parte finché avremo la nave madre Braxoid sopra la testa.
+
+# Character name (Character: "brax_turret", model: "Mothership Drone_@vehicle_editorModel!0x07ba61ba.vcl")
+# Comments: Very small air vehicle. Floating orb that shoots lasers (like the one on the Millenium Falcon that Luke uses for lightsaber practice)
+
+0x07BA61BA Zip Blaster
+
+# Character name (Character: "main_gate", model: "SC_ResearchGate_door_@building_editorModel!0x078feae8.bld")
+# Comments: Destructible part of the front wall
+
+0x078FEAE8 Cancello principale
+
+# Character name (Character: "alph_tank", model: "Mothership Tank 2_@vehicle_editorModel!0x07b27e56.vcl")
+# Comments: Tough and slow. High damage.
+
+0x07B27E56 Carro Alpharon
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 1
+
+0x40000031 ATTENZIONE!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000014 Entra in quella fortezza all'orizzonte e trova un modo per salire a bordo della nave madre.
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 4
+# Comments: Character comments: Stationary
+
+0x20000024 Finché resterò in vita, la nave madre sarà salva.
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 2
+
+0x40000032 ALLARME REATTORE!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 3
+
+0x40000033 BRECCIA NELLO SCAFO IMMINENTE!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 4
+
+0x40000034 EVACUARE!
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 5
+
+0x40000035 PERICOLO! PERICOLO!
+
+# Character name (Character: "comm_tower", model: "Mothership City Hall_@building_editorModel!0x07b27e5c.bld")
+# Comments: A mobile communications device with a large antenna
+
+0x07B27E5C Torre di comunicazione
+
+# Act 5 name
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000028 Trionfo!
+
+# 'Adventure start' message
+
+0x00000010 La tua nave da sbarco è precipitata e la tua squadra è circondata dalle truppe nemiche. C'è un'unica via d'uscita...
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 1
+# Comments: Character comments: Stationary
+
+0x20000021 Non prenderai mai la scheda d'accesso del mio padrone!
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 3
+# Comments: Character comments: Stationary
+
+0x20000023 Devo difendere il portale!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 1
+
+0x10000031 Distruggiamo quella feccia Brax!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000011 Siamo in trappola! La nostra nave da sbarco è fuori uso e i Braxoid ci hanno bloccati qui.
+
+# Character name (Character: "brax_leader", model: "Biggulon_@creature_editorModel!0x07b3cb5d.crt")
+# Comments: Enemy boss. Big, strong, melee fighter.
+
+0x07B3CB5D Braxnor
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 2
+
+0x10000032 Sono dappertutto!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000012 Non possiamo resistere ancora per molto. Da quella dannata nave madre Braxoid continuano a scendere soldati nemici!
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+# I've radioed for help, but no one is going to rescue us if that Braxoid Mothership stays overhead.
+
+0x10000013 Ho trasmesso una richiesta di soccorso, ma la flotta non potrà raggiungerci con quella nave madre tra i piedi.
+
+# Character talk dialog (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld"): Act 2, Variation 1
+
+0x20000031 Questa è l'unica via per raggiungere la nave madre.
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000012 E nessuno rischierà di essere abbattuto solo per venirci a salvare.
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 3
+
+0x10000033 Ho bisogno d'aiuto!
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 4
+
+0x10000034 Via, via!
+

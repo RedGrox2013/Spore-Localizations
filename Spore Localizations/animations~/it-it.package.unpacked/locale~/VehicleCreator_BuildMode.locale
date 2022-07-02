@@ -1,0 +1,48 @@
+﻿0x000001B1 ~guide: -h3~ Il budget di parti
+0x000000B1 ~guide: -h3~ Simmetria centrale
+0x000000D1 ~guide: -h3~ Parti intersecanti
+0x00000021 ~guide: -h3~ Il repertorio delle parti
+0x00000081 ~guide: -h3~ Selezionare e aggiungere parti
+0x000001E1 ~guide: -h3~ Indicatore di complessità
+0x00000071 ~guide: -h2~ Il veicolo è rivolto nella direzione della freccia sul piedistallo.
+0x000000E1 ~guide: -h2~ Le parti dei veicoli possono intersecarsi. Posizionale dove preferisci.
+0x00000101 ~guide: -h2~ I tuoi veicoli non possono superare determinati valori di diametro e altezza. Se superi questi limiti quando cerchi di posizionare una parte, questa resterà evidenziata in rosso e non potrà essere inserita neanche se la posizione è corretta. Non dovrai pagare per le parti che non è possibile posizionare.
+0x00000091 ~guide: -h2~ Per selezionare una parte, cliccaci sopra nel repertorio delle parti e trascinala sopra il piedistallo o sopra il veicolo.
+0x000000A1 ~guide: -h2~ Per selezionare una parte già aggiunta al tuo veicolo, cliccaci sopra finché non viene evidenziata in blu.
+0x00000121 ~guide: -h2~ Dopo aver aggiunto una parte al tuo veicolo, puoi modificarla usando i suoi agganci.
+0x00000111 ~guide: -h1~ Modificare le parti con agganci
+0x000000F1 ~guide: -h3~ Diametro e altezza del veicolo
+0x00000061 ~guide: -h3~ Da che parte è rivolto il veicolo?
+0x00000161 ~guide: -bullet~ Cerchio di rotazione: ruota la direzione delle parti.
+0x00000151 ~guide: -bullet~ Freccia di modifica: cambia l'altezza, la larghezza, la lunghezza o la curvatura di una parte.
+0x000000C1 ~guide: -h2~ Le parti del veicolo delle categorie corpo e abitacolo vengono allineate automaticamente con il centro del piedistallo.
+0x000001D1 ~guide: -h2~ Ogni parte che aggiungerai al veicolo ti costerà dei punti parte. Quando avrai esaurito questi ultimi, non potrai aggiungere altre parti.
+0x000001A1 ~guide: -h1~ Complessità e budget
+0x00000041 ~guide: -h3~ Categorie di parti
+0x00000171 ~guide: -bullet~ Sfere di posizione: modificano l'orientamento di una parte.
+0x00000131 ~guide: -bullet~ Seleziona la parte che vuoi modificare cliccandoci sopra. Verranno visualizzati i suoi agganci delle parti.
+0x00000031 ~guide: -h2~ In Modalità Costruisci, il repertorio delle parti è visualizzato nella parte sinistra della schermata "Creatore di veicoli".
+0x00000051 ~guide: -h2~ In alto nel repertorio delle parti sono visualizzate le categorie di parti disponibili: corpi, abitacoli, locomozione, armi specialità, effetti e dettagli. Per selezionare una categoria, clicca sulla scheda corrispondente.
+0x000002F1 ~guide: -bullet~ Per muovere l'intero veicolo, tieni premuto il tasto MAIUSC, clicca sul veicolo e spostalo nella direzione che preferisci.
+0x00000102 ~guide: -h3~ Rimuovere le parti
+0x00000211 ~guide: -h2~ Se il tuo veicolo diventerà troppo complesso, non potrai più aggiungere nuove parti.
+0x00000281 ~guide: -bullet~ Velocità - Più elevato è questo valore, maggiore sarà la velocità di movimento del veicolo.
+0x00000221 ~guide: -h1~ Capacità dei veicoli
+0x00000231 ~guide: -h2~ Ogni parte che aggiungi al veicolo ne migliora la velocità, la salute e la potenza. Investi nel modo migliore il budget di parti del tuo veicolo per ottenere la distribuzione di capacità che desideri.
+0x000002A1 ~guide: -h3~ Agganci avanzati delle parti
+0x00000201 ~guide: -h2~ L'indicatore di complessità mostra la complessità strutturale del tuo veicolo.
+0x00000271 ~guide: -bullet~ Potenza - Più elevato è questo valore, più danni infliggerà il tuo veicolo in battaglia.
+0x000002B1 ~guide: -bullet~ Tieni premuto il tasto TAB mentre selezioni una parte del veicolo per visualizzare altri agganci e ottenere più opzioni di posizionamento.
+0x000002D1 ~guide: -bullet~ Per copiare una parte che hai già aggiunto al tuo veicolo, cliccaci sopra tenendo premuto ALT, poi trascina la copia sopra un altro punto del veicolo.
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000241 ~guide: -h3~ Riepilogo statistiche veicolo
+0x00000291 ~guide: -h1~ Funzioni avanzate
+0x000002C1 ~guide: -h3~ Copiare parti
+0x000002E1 ~guide: -h3~ Posizionamento direzionale
+0x00000261 ~guide: -bullet~ Salute - Più elevato è questo valore, più danni il tuo veicolo potrà subire in battaglia.
+0x00000141 ~guide: -h3~ Gli agganci delle parti:
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Modalità Costruisci
+0x00000103 ~guide: -h2~ Per eliminare una parte, selezionala e premi Canc oppure trascinala via dal veicolo o dal piedistallo.
+0x000001C1 ~guide: -h2~ Il tuo budget di parti è visualizzato nell'angolo inferiore sinistro del Creatore di veicoli.
+0x00000251 ~guide: -h2~ Il riepilogo delle statistiche del tuo veicolo è visualizzato nell'angolo superiore destro della modalità Costruisci del Creatore di veicoli.
+

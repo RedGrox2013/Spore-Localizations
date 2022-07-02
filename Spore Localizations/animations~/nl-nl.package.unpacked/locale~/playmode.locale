@@ -1,0 +1,188 @@
+﻿# capture GIF
+
+0x058B90F2 Je geanimeerde avatar is opgeslagen in~br~~gif_name~~mac_save_append~.
+
+# move one done
+
+0x0458342D Je foto is gearchiveerd in: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# email message
+
+0x056BCDCA Bekijk het filmpje dat ik heb gemaakt in Spore!~br~~video_url~
+0x056BCE10 Bekijk het geweldige wezen dat ik heb gemaakt in Spore!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+# email
+
+0x04585F1F Je e-mailadres is ongeldig.
+0x04585F49 Het e-mailadres van de ontvanger is ongeldig.
+0x045AD62F Jouw e-mail
+0x045AD634 E-mail van de ontvanger
+0x0583897C Klik hier om een kaartje te versturen
+0x05B5B8C4 Vertel een vriend(in) over je filmpje
+0x04588BEF Je kaart is verstuurd.
+0x045AD5B9 Een ansichtkaart e-mailen
+
+# too many photos
+
+0x047FF0E4 Je hebt te veel foto's. Archiveer eerst enkele foto's.
+
+# move all done
+
+0x04583295 Je foto's zijn gearchiveerd in: ~play_photo_back~.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD Animatie
+
+# YouTube
+
+0x0549366C Nee
+0x0549366D Uploaden
+0x05496B24 Bezig met inloggen op YouTube…
+0x056691B0 Bezig met checken YouTube-registratie…
+0x05B5AC4C Algemene voorwaarden YouTube
+0x05496510 Kan niet inloggen op YouTube.~br~~br~Gebruik een geldige gebruikersnaam en wachtwoord of registreer je bij YouTube voor je doorgaat met uploaden.
+0x055AA305 Bezig met uploaden van het filmpje naar YouTube…
+0x056D0627 Uploaden gelukt! Stuur de URL van het filmpje naar een vriend(in)!
+0x05498DCB Je filmpje is geüpload. Wil je het aan je vriend(in) vertellen?
+0x0563C623 Je moet je registreren bij Spore om deze mogelijkheid te kunnen gebruiken. Wil je je registreren?
+0x05600488 Je moet zijn ingelogd bij Spore om deze mogelijkheid te kunnen gebruiken. Wil je inloggen?
+0x054C1E63 Je film is opgeslagen in ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Er is een fout opgetreden tijdens het uploaden naar YouTube.~br~~br~Controleer je internetverbinding of probeer het later nog eens.
+0x05498260 Er is een fout opgetreden tijdens het inloggen op YouTube.~br~~br~Controleer je internetverbinding of probeer het later nog eens.
+0x05B5FD1E Wil je nu uploaden?
+0x05D2C767 Het uploaden is geannuleerd.
+0x05D54AF7 De bijbehorende website is in het Engels. Om jouw taal te kiezen, selecteer je je land van herkomst in het site-selectie menu.
+0x05E501EB <youtubeicon>Uploaden
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Inloggen mislukt
+0x05CBDEDA Uploaden mislukt
+
+# tool tips
+
+0x04598E97 E-mail versturen
+0x046286E7 Draaien
+0x046286F4 Zitten
+0x046286F8 Brullen
+0x04628713 Roepen
+0x04628717 Stompen
+0x04628719 Tada!
+0x04628722 Schattig
+0x04628724 Sumo
+0x04628726 Hoi
+0x04628729 Buigen
+0x0462873F Heetpoot
+0x04628745 Hupperdepup
+0x04628798 Blij
+0x0462879C Verdrietig
+0x046287A0 Bang
+0x046287A1 Boos
+0x046287A4 Fotoviewer
+0x046287A5 Foto's maken
+0x046287A6 Film opnemen
+0x046287D8 Achtergronden
+0x046287ED Opslaan
+0x0462932D Help
+0x0473F903 Foto's beheren
+0x0474E80D Foto wissen
+0x0474E80E Foto archiveren
+0x04628737 Wijs aan
+0x04628739 Pas op de Plaats
+0x04628749 De Stamp
+0x0462874E Hakken
+0x046287A2 Lach
+0x04628733 Hé schatje
+0x046287A3 Zwijmelen
+0x046286F2 Salto
+0x046287DA Jonkies
+0x046287D6 Acties
+
+# Are you sure: Yes
+
+0x04583FFB Ja
+
+# delete all done
+
+0x0458334E Je foto's zijn gewist.
+
+# photobackuppath
+
+0x06305594 Mijn documenten
+0x06305593 Mijn Spore-creaties/Foto's/Backup
+
+#continue
+
+0x0549656C Doorgaan
+
+# delete one done
+
+0x04583433 Je foto is gewist.
+
+# Maya export
+
+0x05B04EF5 Je Maya Export-bestanden zijn opgeslagen in~br~~maya_export_path~~maya_export_name~*.
+
+# move all
+
+0x04583A4E Alles archiveren
+
+# photo actions
+
+0x045C2025 Wat wil je doen met de foto's?
+0x045C206E Weet je zeker dat je deze foto wilt wissen?
+0x045C208A Weet je zeker dat je alle foto's wilt wissen?
+0x045C2094 Weet je zeker dat je deze foto wilt archiveren?
+0x045C2098 Weet je zeker dat je alle foto's wilt archiveren?
+0x04613ED0 Als je nu afsluit, wordt het opslaan van foto's geannuleerd. Wil je nog steeds afsluiten?
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# your message
+
+0x045AD63A Jouw bericht
+
+# delete all
+
+0x04583A36 Alles wissen
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# cancel
+
+0x04583AFB Annuleren
+
+# Are you sure: No
+
+0x0458400E Nee
+
+#drag and drop fail message
+
+0x05889A21 Proefrit
+0x05889A4C Je kunt niet slepen in proefrit. Schakel over op bouwen of verven.
+
+#ok
+
+0x045C2917 Ok

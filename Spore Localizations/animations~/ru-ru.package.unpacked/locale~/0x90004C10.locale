@@ -1,0 +1,27 @@
+﻿# Civ Game
+
+0x04335D01 Дайте название новому городу!
+0x04335D02 Спороград
+0x04335D04 Изменение названия города
+0x04335D03 Введите допустимое название города.
+
+# These are formatted like so:
+# * 01 - Title of dialog
+# * 02 - Initial value of text field (comment out to take default value from code)
+# * 03 - Validation error text
+# Creature Game
+
+0x04335B02 ~blank text~
+0x04335B01 Дайте название новому виду!
+0x04335B03 Введите допустимое название вида.
+
+# Common
+
+0x00000001 Ошибка
+
+# Tribe Game
+
+0x04335C02 ~blank text~
+0x04335C01 Дайте название новому племени!
+0x04335C03 Введите допустимое название племени.
+

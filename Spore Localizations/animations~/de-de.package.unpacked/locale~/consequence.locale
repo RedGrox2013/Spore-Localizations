@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Diese Fähigkeit schaltet Unterhaltungsgebäude und Geschütze aus, um die Unzufriedenheit zu erhöhen.
+0x0001003F Schwarzwolke
+
+# CLG_Plant
+
+0x00000042 Pflanzenfresser
+0x00000043 Pflanzenfressende Zellen ernähren sich von Pflanzen.
+
+# CRG_CLG_Plant
+
+0x00010022 Sirenenlied
+0x00010023 Wenn du diese Fähigkeit einsetzt, beeindruckst du kurzfristig alle Kreaturen in deiner Nähe. Dies erleichtert dir die soziale Interaktion mit ihnen.
+
+# SPG_CRG_Mix
+
+0x0001004E Diese Fähigkeit beschleunigt die interstellare Raumfahrt.
+0x0001004D Derwisch
+
+# CVG_CRG_Attack
+
+0x00010037 Mächtige Bombe
+0x00010038 Diese Fähigkeit beschädigt alle Gebäude und Fahrzeuge in ihrer Reichweite.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatischer Aufstand
+0x0001006C Diese Fähigkeit konvertiert alle Städte.
+
+# SPG_Wanderer_Tool
+
+0x00010067 Species Shuffler NOT IN USE
+0x00010068 Wählt die Spezies eines Planeten zufällig aus. [NOT IN USE]
+
+# CVG_Religious
+
+0x00000056 Religiöse Zivilisationen benutzen die Macht des Wortes und der Ideen, um andere Nationen zu ihrem Denken zu konvertieren.
+0x00000055 Religiös
+
+# SPG_TRG_Social
+
+0x00010052 Diese Fähigkeit verbessert deine Beziehungen mit außerirdischen Rassen schon beim ersten Kontakt.
+0x00010051 Grandioser Gruß
+
+# TRG_Mix
+
+0x0000004F Arbeitsam
+0x00000050 Arbeitsame Stämme sind sprunghaft und greifen je nach Bedarf an oder schließen Bündnisse. Sie sind gute Verbündete, aber Vorsicht!
+
+# CVG_CRG_Mix
+
+0x0001003C Diese Fähigkeit führt dazu, dass sich alle feindlichen Fahrzeuge im Wirkungsradius der Bombe gegenseitig angreifen.
+0x0001003B Bestechungsbombe
+
+# CVG_TRG_Mix
+
+0x00010042 Diese Fähigkeit beschleunigt den Kauf einer Stadt.
+0x00010041 Werbekampagne
+
+# SPG_CRG_Social
+
+0x0001004C Diese Fähigkeit macht alle deine Kolonien zufrieden und verringert die Wahrscheinlichkeit eines Aufstands.
+0x0001004B Galavorstellung
+
+# SPG_CVG_Military
+
+0x00010056 Diese Fähigkeit wirkt wie ein Anti-Piraten-Spray und senkt die Wahrscheinlichkeit eines Überfalls.
+0x00010055 Piraten-Ex
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Fleischfresser
+0x00000041 Fleischfressende Zellen ernähren sich von Fleisch.
+
+# TRG_CLG_Mix
+
+0x00010029 Fliegender Fisch
+0x0001002A Mit dieser Fähigkeit ruft der Häuptling eine Schlange herbei, die die Fische erschreckt, damit diese aus dem Meer an Land springen.
+
+# SPG_TRG_Attack
+
+0x00010050 Diese Fähigkeit verschafft dir einen Preisnachlass auf alle Kampfwerkzeuge.
+0x0001004F Waffenhändler
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Verfügbar in der Kreaturenphase
+0x067775FA Verfügbar in der Weltraumphase
+0x067775E7 Verfügbar in der Zivilisationsphase
+0x067775D9 Verfügbar in der Stammesphase
+
+# SPG_Trader
+
+0x00000061 Händler
+0x00000062 Händler streben nach Profit. Ihr einziger Verbündeter ist der allmächtige Spore-Dollar.
+
+# SPG_Bard
+
+0x00000058 Barden sind die sozialen, kontaktfreudigen Entertainer des Kosmos. Die Galaxie ist ihre ganz persönliche Spielwiese.
+0x00000057 Barde
+
+# SPG_Warrior_Tool
+
+0x00010065 Piratenparty
+0x00010066 Diese Fähigkeit öffnet ein mystisches Piraten-Portal, das auf einem Planeten totales Chaos anrichtet.
+
+# SPG_Diplomat
+
+0x0000005D Diplomat
+0x0000005E Diplomaten verhandeln und lösen Probleme. Es kann nur dann Frieden in der Galaxie herrschen, wenn alle Spezies offen miteinander kommunizieren.
+
+# CVG_Economic
+
+0x00000054 Wirtschaftszivilisationen nehmen durch Geld und Handelsrouten Einfluss auf andere Nationen. Sie gehen Bündnisse nur ein, wenn sie dabei im Vorteil bleiben.
+0x00000053 Wirtschaftlich
+
+# CLG2_Discoverer
+
+0x00000103 Entdecker - Beschreibung
+0x00000102 Entdecker
+
+# SPG_Knight_Tool
+
+0x00010069 Mini-U herbeirufen
+0x0001006A Diese Fähigkeit ruft einen Miniatur-Klon deines Raumschiffs, der dir bei deinen Abenteuern behilflich ist.
+
+# CLG2_Killer
+
+0x00000101 Killer - Beschreibung
+0x00000100 Vernichter
+
+# SPG_Warrior
+
+0x00000065 Krieger.
+0x00000066 Krieger nehmen sich, was sie wollen, und fragen niemals um Erlaubnis. Die Galaxie ist eine Trophäe, die nur der Stärkste verdient.
+
+# SPG_Wanderer
+
+0x00000067 Wanderer
+0x00000068 Wanderer wollen alles erleben und mitkriegen. Die Galaxie ist riesig, und sie wollen jedes Detail davon erfahren.
+
+# CVG_CRG_Social
+
+0x00010039 Diplo-Derwisch
+0x0001003A Diese Fähigkeit verbessert deine Beziehungen mit der Zielnation.
+
+# CRG_Attack
+
+0x00000047 Räuberische Kreaturen verbringen ihre Leben damit, nach Beute zu suchen. Sie können eine ganze Spezies weitaus schneller ausrotten als "Tanzen" oder "Bezaubern".
+0x00000046 Raubtier
+
+# TRG_CRG_Mix
+
+0x0001002F Herr der Tiere
+0x00010030 Wenn du diese Fähigkeit einsetzt, bezaubert der Häuptling Tiere in der Nähe, die dir beim Sozialisieren oder im Kampf helfen
+
+# CVG_CLG_Meat
+
+0x00010032 Diese Fähigkeit macht deine Fahrzeuge vorübergehend unverwundbar.
+0x00010031 Unverwundbarkeit
+
+# TRG_CLG_Meat
+
+0x00020025 Fallen
+0x00020026 Mit dieser Fähigkeit kann der Häuptling Fallen stellen, mit denen Wildtiere gefangen werden können.
+
+# SPG_CLG_Meat
+
+0x00010043 Machtgier
+0x00010044 Diese Fähigkeit erhöht die Effektivität aller Waffen.
+
+# SPG_CLG_Mix
+
+0x00010047 Alleskönner
+0x00010048 Mit dieser Fähigkeit bekommst du einen Preisnachlass auf jede Art von Standardausrüstung.
+
+# SPG_TRG_Mix
+
+0x00010053 Koloniekoller
+0x00010054 Mit dieser Fähigkeit bekommst du einen Preisnachlass auf alle Kolonisierungswerkzeuge.
+
+# Zero
+
+0x06941DC3 Jahre
+0x06941DC2 Tausend
+0x06941DC0 Milliarden
+0x06941DC1 Millionen
+
+# SPG_CVG_Religious
+
+0x0002005A Diese Fähigkeit verringert in allen deinen Kolonien die Wahrscheinlichkeit einer Bio-Katastrophe.
+0x00020059 Grüner Däumling
+
+# CLG_Mix
+
+0x00000044 Allesfresser
+0x00000045 Allesfressende Zellen ernähren sich von allem, was verfügbar ist.
+
+# SPG_Bard_Tool
+
+0x00010058 Diese Fähigkeit beruhigt außerirdische Rassen und verbessert vorübergehend die Beziehungen zu ihnen.
+0x00010057 Beruhigungslied
+
+# CRG_Social
+
+0x00000048 Soziale Kreaturen suchen ständig nach neuen Freunden und Verbündeten. Wenn sie auf eine neue Spezies treffen, ist ihr Tag gerettet.
+0x00000147 Sozial
+
+# CRG_Mix
+
+0x00000049 Anpassungsfähig
+0x0000004A Anpassungsfähige Kreaturen haben viele Freunde und ebenso viele Feinde. Sie treffen ihre Entscheidungen anhand der aktuellen Situation.
+
+# SPG_CLG_Plant
+
+0x00010045 Engelszunge
+0x00010046 Mit dieser Fähigkeit bekommst du bei Verhandlungen einen sofortigen Preisnachlass auf alle sozialen Werkzeuge.
+
+# CRG_CLG_Meat
+
+0x00010020 Wutgebrüll
+0x00010021 Wenn du diese Fähigkeit einsetzt, laufen alle Kreaturen in der Nähe vor Angst davon.
+
+# CVG_CLG_Plant
+
+0x00010033 Heilaura
+0x00010034 Diese Fähigkeit repariert all deine Fahrzeuge und Gebäude.
+
+# SPG_Shaman
+
+0x00000064 Schamanen glauben, dass alles Leben miteinander verbunden ist. Die gesamte Galaxie existiert in jedem von uns.
+0x00000063 Schamane
+
+# SPG_Ecologist
+
+0x00000059 Ökologe
+0x0000005A Ökologen schützen die Natur. Spezies, die die Galaxie ausbeuten und verderben, müssen ausgerottet werden.
+
+# CVG_TRG_Attack
+
+0x0001003D Trickbombe
+0x0001003E Diese Fähigkeit beschädigt Gebäude und Fahrzeuge und kann helfen, Städte zu erobern.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safarisauger
+0x0001005A Diese Fähigkeit füllt deinen Frachtraum umgehend mit allen Spezies eines Planeten.
+
+# SPG_Zealot
+
+0x0000005B Zelot
+0x0000005C Zeloten sind davon überzeugt, dass ihr Glaube die einzig relevante Wahrheit darstellt. Wer anders denkt, ist unwürdig, in dieser Galaxie überhaupt zu existieren.
+
+# SPG_Trader_Tool
+
+0x00010061 Finanzspritze
+0x00010062 Diese Fähigkeit sorgt umgehend dafür, dass du Handel treibende Systeme käuflich erwerben kannst.
+
+# SPG_CRG_Attack
+
+0x00010049 Spitzenprodukt
+0x0001004A Diese Fähigkeit erhöht die maximale Gesundheit deines Schiffes.
+
+# CRG_CLG_Mix
+
+0x00010024 Hilfe der Herde
+0x00010025 Wenn du diese Fähigkeit einsetzt, rufst du mehrere Dienerwesen herbei, die dir beim Sozialisieren oder im Kampf helfen.
+
+# TRG_Attack
+
+0x0000004B Aggressiv
+0x0000004C Aggressive Stämme wollen die Konkurrenz auslöschen. Sie greifen rücksichtslos an und horten alle Rohstoffe für sich selbst.
+
+# SPG_Knight
+
+0x0000006A Ritter sind edle Krieger, die für das Gute kämpfen, nicht zur persönlichen Bereicherung. Frieden wird in der Galaxie erst dann herrschen, wenn das Böse bezwungen ist.
+0x00000069 Ritter
+
+# SPG_Scientist
+
+0x00000060 Wissenschaftler denken logisch und berechnend. Die Galaxie existiert nur, um studiert und verstanden zu werden.
+0x0000005F Wissenschaftler
+
+# SPG_Shaman_Tool
+
+0x00010063 Rückfahrkarte
+0x00010064 Diese Fähigkeit bringt dich mit einem Sprung zurück in dein Heimatsystem.
+
+# SPG_Zealot_Tool
+
+0x0001005B Glühender Fanatismus
+0x0001005C Diese Fähigkeit konvertiert Systeme mit Fremdbesitzern, damit sie sich deinem Reich anschließen.
+
+# SPG_CVG_Economic
+
+0x00020058 Diese Fähigkeit erhöht in all deinen Kolonien die Gewürzproduktion.
+0x00020057 Gewürzexperte
+
+# CVG_TRG_MixWin
+
+0x0001006D Globale Fusion
+0x0001006E Diese Fähigkeit kauft alle Städte.
+
+# Singular
+
+0x55496323 Tausend
+0x55496322 Million
+0x55496321 Milliarde
+0x55496324 Jahr
+
+# TRG_CLG_Plant
+
+0x00010027 Sturm der Erneuerung
+0x00010028 Mit dieser Fähigkeit ruft der Häuptling einen Sturm herbei, der die Bäume wieder auffüllt. Ihre Früchte fallen auf den Boden.
+
+# CVG_TRG_AttackWin
+
+0x0001006F Interkontinentalrakete
+0x00010070 Diese Fähigkeit zerstört alle Städte.
+
+# CVG_Military
+
+0x00000052 Militärische Zivilisationen gedeihen durch Waffeneinsatz. Sie nutzen sämtliche verfügbaren Rohstoffe zur Vernichtung anderer Nationen.
+0x00000051 Militärisch
+
+# TRG_CRG_Social
+
+0x0001002D Feuerwerk
+0x0001002E Wenn du diese Fähigkeit einsetzt, entzündet der Häuptling ein Feuerwerk, das die Beziehungen zu den Nachbarn verbessert.
+
+# TRG_Social
+
+0x0000004E Freundliche Stämme haben die Bedeutung von Zusammenarbeit erkannt. Sie schließen Bündnisse, teilen ihre Rohstoffe und kommen gemeinsam mit anderen Stämmen zu Wohlstand.
+0x0000004D Freundlich
+
+# Plural
+
+0x069417A0 Tausend
+0x069417A1 Jahre
+0x0694179E Milliarden
+0x0694179F Millionen
+
+# CVG_CLG_Mix
+
+0x00010036 Diese Fähigkeit deaktiviert vorübergehend alle Fahrzeuge, Geschütze und Gebäude.
+0x00010035 Statikbombe
+
+# TRG_CRG_Attack
+
+0x0001002B Feuerbomben
+0x0001002C Wenn du diese Fähigkeit einsetzt, wirft der Häuptling Feuerbomben, die Gegner und Gebäude in der Nähe beschädigen.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Diese Fähigkeit deaktiviert alle feindlichen Schiffe und Geschütze auf einem Planeten.
+0x0001005D Elektrostatik
+
+# SPG_Scientist_Tool
+
+0x00010060 Diese Fähigkeit befördert Kulturen und Gebäude zurück in die Steinzeit.
+0x0001005F Gravitationswelle
+
+# Timeline GUIDS
+
+0x55496320 Geschichte
+

@@ -1,0 +1,21 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000000 Welcome ~ep1_captain_full_name~, fellow follower of the true Philosophy of Faith! You are a fellow follower, right? ~p~I have a Priest in need of protection down on ~mission_target_planet~.~p~He's trying to reach the Temple of Spode and could use an escort. Interested?
+0x00000041 Why are the Black Claw so upset? They should appreciate the Temple we built for them to worship in.~p~Why can't they simply drop their weapons and embrace the teachings of Spode?~p~For your faithful service we grant you ~mission_rewards~ Sporebucks. May Spode travel with you in your journeys.
+0x0000004E The Priest awaits you on the planet ~mission_target_planet~. Check your mission log for the exact location.~p~Be quick! How are you going to help him if he gets eaten before you arrive?
+0x00000064 Praise Spode! The Priest awaits your arrival by the shore.~p~May your journey be uneventful and swift.
+0x00000071 We will pray that Spode's divine shield surrounds and protects the Priest while we search for another escort.
+0x00000081 Did you try asking Spode for help? Good things come to those that believe.
+0x000000B1 Protect the Priest on planet ~mission_target_planet~.
+0x000000B2 Report back to planet ~mission_source_planet~.
+0x00000092 Protect the Priest in the ~mission_target_star~ star system. Defend him throughout his journey.
+0x00000093 Heading: ~mission_source_star~ system.
+0x00000094 Protect the Priest in the ~mission_target_star~ star system. Defend him throughout his journey. He awaits you on ~mission_target_planet~.
+0x00000095 The Priest on ~mission_target_planet~ has reached the Temple. Report back to planet ~mission_source_planet~ in the system ~mission_source_star~.
+0x00000097 In Progress
+0x00000098 Completed
+0x00000099 Success! Report to the ~mission_source_star~ star system.

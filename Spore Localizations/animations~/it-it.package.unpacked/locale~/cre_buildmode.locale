@@ -1,0 +1,69 @@
+﻿0x00000151 ~guide: -h3~ Torso
+0x000002F1 ~guide: -h3~ Indicatore di complessità
+0x00000231 ~guide: -h1~ Arti
+0x00000061 ~guide: -h3~ Selezionare e aggiungere parti
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Modificare gli arti
+0x000000F1 ~guide: -bullet~ Cerchio di rotazione: ruota le parti.
+0x00000181 ~guide: -bullet~ Usa la rotellina del mouse o premi i tasti freccia su e giù per aumentare o ridurre la dimensione del torso all'altezza della vertebra.
+0x000000D1 ~guide: -bullet~ Freccia di modifica: cambia l'altezza, la larghezza, la lunghezza o la curvatura di una parte. Tirala e osserva cosa succede.
+0x000002E1 ~guide: -h1~ Complessità e budget
+0x00000081 ~guide: -h3~ Rimuovere le parti
+0x00000171 ~guide: -bullet~ Evidenzia una singola vertebra posizionandoci sopra il puntatore del mouse.
+0x00000221 ~guide: -h2~ Per piegare la spina dorsale, clicca su una singola vertebra e trascinala. Il metodo migliore è procedere vertebra dopo vertebra apportando piccoli ritocchi.
+0x000001F1 ~guide: -h2~ Sposta il puntatore sopra il torso per far apparire la spina dorsale della creatura. Clicca sul torso e vedrai apparire delle frecce alle estremità della spina dorsale. Clicca su una delle frecce e trascinala verso l'esterno per inserire vertebre, oppure verso l'interno per eliminarne.
+0x00000261 ~guide: -h3~ Aggiungere manipolatori o piedi
+0x00000071 ~guide: -h2~ Per selezionare una parte, cliccaci sopra nel repertorio delle parti e trascinala sopra la creatura, collocandola dove preferisci.
+0x00000161 ~guide: -bullet~ Sposta il puntatore sopra il torso della creatura per far apparire la spina dorsale.
+0x000000C1 ~guide: -h3~ Comandi delle parti
+0x00000271 ~guide: -h2~ L'estremità di un arto è l'unico punto di una creatura su cui puoi collocare un piede o un manipolatore. Ogni arto possiede un piede o un manipolatore predefinito che puoi sostituire aggiungendo un nuovo piede o un nuovo manipolatore.
+0x00000201 ~guide: -h2~ NOTA: se accorci la spina dorsale (e quindi il corpo) della tua creatura dopo aver aggiunto delle parti, qualcuna di esse può diventare rossa. Ciò significa che è impossibile accorciare così tanto la spina dorsale, perché è scomparsa la parte di corpo a cui erano attaccate le parti evidenziate in rosso.
+0x00000121 ~guide: -h1~ Clonare le parti
+0x00000131 ~guide: -h2~ Per copiare una parte che hai già aggiunto alla tua creatura, cliccaci sopra tenendo premuto il tasto ALT, poi trascina la copia sopra un altro punto della creatura. Queste copie ti costeranno dei punti DNA.
+0x000000B1 ~guide: -h2~ Clicca su una parte della creatura per mostrare gli agganci che ti permettono di manipolarla.
+0x000000A1 ~guide: -h3~ Modificare le parti con agganci
+0x00000041 ~guide: -h3~ Sbloccare parti
+0x000001E1 ~guide: -h1~ Allungare la spina dorsale
+0x000002C1 ~guide: -h3~ Comandi degli arti avanzati
+0x00000211 ~guide: -h3~ Curvare il corpo
+0x00000291 ~guide: -h2~ Puoi accedere ad altri agganci delle parti dopo aver aggiunto una parte alla tua creatura: selezionala e tieni premuto il tasto TAB. Vedrai apparire nuovi agganci delle parti che ti permetteranno di collocare la parte con maggior precisione.
+0x00000281 ~guide: -h1~ Accedere agli agganci delle parti avanzati
+0x000000E1 ~guide: -bullet~ Sfere di posizione: ti permettono di spostare le parti, oppure di modificarne l'orientamento nel caso delle corna, dei palchi, eccetera.
+0x00000431 ~guide: -h2~ Mostra la salute della tua creatura. Più elevato è questo valore, più colpi la creatura potrà subire in battaglia prima di morire.
+0x00000361 ~guide: -h1~ Abilità delle creature
+0x00000381 ~guide: -h3~ Riepilogo abilità creatura
+0x00000092 ~guide: -h1~ Modificare le parti
+0x00000331 ~guide: -h3~ Il budget del DNA
+0x00000421 ~guide: -h4~ Salute
+0x000003D1 ~guide: -h2~ Mostra le abilità belliche della tua creatura e il loro attuale livello.
+0x00000411 ~guide: -h2~ Mostra l'attuale livello di velocità della creatura.
+0x000003B1 ~guide: -h2~ Mostra abilità come Richiamo, Furtività, Salto e Planata e il loro attuale livello.
+0x000003A1 ~guide: -h3~ Abilità
+0x000000F4 ~guide: -bullet~ seleziona la parte cliccandoci sopra.
+0x000002D2 ~guide: -bullet~ Tieni premuto il tasto Ctrl e trascina un nuovo arto per unirlo alle articolazioni rimaste dell'altro arto.
+0x000000F5 ~guide: -bullet~ usa la rotellina del mouse o le frecce su e giù per ridimensionare la parte.
+0x000000F3 ~guide: -h4~ Per aumentare o ridurre la dimensione di una parte che hai aggiunto alla tua creatura,
+0x00000351 ~guide: -h2~ Quando avrai esaurito i punti da investire, non potrai aggiungere altre parti.
+0x00000401 ~guide: -h4~ Velocità
+0x000000F2 ~guide: -h3~ Ridimensionare le parti
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000441 ~guide: -h4~ Dieta
+0x00000371 ~guide: -h2~ Ogni parte che aggiungi alla tua creatura migliora le sue abilità. Le informazioni che appaiono lasciando il puntatore sopra ogni parte ti spiegano quali abilità essa fornisce.
+0x000003C1 ~guide: -h4~ Combattimento
+0x000003F1 ~guide: -h2~ Mostra le abilità sociali della tua creatura e il loro attuale livello.
+0x00000021 ~guide: -h3~ Il repertorio delle parti
+0x00000141 ~guide: -h1~ Dare forma al torso
+0x000002D1 ~guide: -bullet~ Tieni premuto Ctrl e clicca fra due articolazioni di un arto per eliminare una sezione (non puoi eliminare il segmento della spalla o dell'anca).
+0x00000391 ~guide: -h2~ Le abilità della tua creatura sono visualizzate in alto a destra, nella sezione del riepilogo delle abilità. Clicca su un pulsante abilità qualsiasi per ottenere una breve anteprima della tua creatura in azione.
+0x00000341 ~guide: -h2~ Ogni parte che aggiungi alla creatura costa dei punti DNA.
+0x00000321 ~guide: -h2~ Se la tua creatura diventerà troppo complessa, non potrai più aggiungere nuove parti.
+0x00000311 ~guide: -h2~ L'indicatore di complessità mostra la complessità anatomica della tua creatura.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Modalità Costruisci
+0x00000251 ~guide: -h2~ Sugli arti, le articolazioni funzionano come sfere di posizione che puoi spostare o ridimensionare. Ruotando la creatura riuscirai a manipolarne facilmente gli arti. Se è di profilo, puoi spostare gli arti più avanti o indietro; se è rivolta verso di te o di schiena, puoi spostarli in su o in giù. Talvolta è necessario spostare leggermente verso l'alto il torso della creatura per creare spazio per gli arti. Basta tenere premuto il pulsante sinistro del mouse sulla zona del torso della creatura e muoverlo nella posizione desiderata.
+0x00000031 ~guide: -h2~ Il repertorio delle parti della creatura è visualizzato a sinistra quando accedi al Creatore di creature (Creature Creator). Esistono diverse categorie di parti: bocche, sensi, arti, ecc. Seleziona la scheda desiderata per visualizzare tutte le parti relative.
+0x00000461 ~guide: -h2~ Nota: se hai aperto il Creatore di creature (Creature Creator) tramite l'opzione Crea, potrai scegliere il tipo di bocca e l'alimentazione della tua creatura.
+0x00000051 ~guide: -h2~ Durante la fase Creatura inizierai con un set di parti determinato dalle tue azioni nella fase Cellula. Ogni nuova parte scoperta e raccolta si sbloccherà nel Creatore di creature (Creature Creator) e potrai aggiungerla quando decidi di far evolvere la tua creatura.
+0x00000451 ~guide: -h2~ Il tuo percorso evolutivo nella fase Cellula ha determinato la tua dieta (erbivora, carnivora o onnivora). I tipi di bocca disponibili nel Creatore di creature (Creature Creator) saranno solo quelli relativi al tuo tipo di alimentazione.
+0x00000191 ~guide: -bullet~ Clicca senza rilasciare con il pulsante sinistro sulla vertebra per curvare la spina dorsale in quel punto.
+0x00000091 ~guide: -h2~ Puoi rimuovere o aggiungere delle parti alla tua creatura. Clicca sulla parte che vuoi rimuovere, tieni premuto il pulsante sinistro del mouse e trascina la parte fuori dalla creatura, oppure premi il tasto Indietro per rimuovere la parte. Il valore in punti DNA della parte rimossa verrà aggiunto nuovamente al tuo budget del DNA.
+0x000003E1 ~guide: -h4~ Socializzazione
+

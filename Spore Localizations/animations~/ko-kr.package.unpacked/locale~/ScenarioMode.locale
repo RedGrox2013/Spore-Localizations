@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x0757671A 시작
+0x07186066 ~ep1_adventure_lose~ ~br~ 점수: ~ep1_score~ ~br~ 번: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~이 저장되었습니다.
+0x070B1805 다시 시작
+0x070B1800 나가기
+0x070B17F3 작가가 만든 대모험 실패 메시지가 여기 나타납니다.
+0x071877BA 작가가 만든 대모험 성공 메시지가 여기 나타납니다.
+0x071877C1 이 모험의 제작자가 아직 모험의 서두를 설정하지 않았습니다.~p~모험 창조기의 액트 패널에 있는 서두 버튼을 클릭한 다음, 서두를 추가하십시오.
+0x07959A07 모험을 하기 위해서는 적절한 위치에 대장이 필요합니다.
+0x07B4DD6E 이 모험을 플레이 하려면 대장이 적절한 위치에 있어야 합니다.
+0x071877AD ~ep1_adventure_win~ ~br~ 점수: ~ep1_score~ ~br~ 번: ~ep1_time~
+0x07CCEEFC 동료
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91076 목표가 적절하지 않습니다
+0x07D91073 목표에 명확하지 않은 변수가 있습니다
+
+# instance checks
+
+0x07D910E8 적대적인 목표물에는 목표를 적용할 수 없습니다
+0x07D910E1 목표물이 적절하지 않은 위치에 있습니다
+0x07D910E4 영역 목표물이나 공격적인 목표물에는 목표를 적용할 수 없습니다.
+0x07D910E6 에픽 크리쳐에는 목표를 적용할 수 없습니다
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F 전체
+
+# Second, for buildings and vehicles
+
+0x07B52A49 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~ 수집
+0x07B52A4E ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~ (으)로 부터 막기
+0x07B51567 수비
+0x07B51549 이동
+0x07B5155C 수집
+0x07B5154C 시험
+0x07B5154F 파괴
+0x07B51564 막기
+0x07B51559 가져오기
+0x07B51562 주기
+0x07B5506C ~ep1_goal_target_name~을(를) 수집 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B5505D ~ep1_goal_target_name~(으)로 이동 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B55063 ~ep1_goal_target_name~을(를) 파괴 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B52A50 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~을(를) 지키기
+0x07B52A4C ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~에게 주기
+0x07B55073 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~에게 주기
+0x07B55079 ~ep1_goal_total~ ~ep1_goal_target_name~을(를) 지키기
+0x07B55076 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~으로 부터 막기
+0x07B5506A ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 이동하기
+0x07B55060 ~ep1_goal_target_name~을(를) 조사
+0x07B52A3A ~ep1_goal_total_or_all~ ~ep1_goal_target_name~(으)로 이동
+0x07B52A47 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 이동하기
+0x07B52A44 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~을(를) 파괴
+0x07B52A41 ~ep1_goal_target_name~을(를) 조사
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910D3 고정 물체에는 목표를 적용할 수 없습니다
+0x07D910CF 건물에는 목표를 적용할 수 없습니다
+0x07D910D5 휴대용을 제외한 나머지 물체에는 목표를 적용할 수 없습니다
+0x07D910DA 아바타에는 목표를 적용할 수 없습니다
+0x07D910DD 최소한 하나 이상의 목표물은 움직일 수 있어야 합니다
+0x07D910CD 차량에는 목표를 적용할 수 없습니다
+0x07D910CB 크리쳐에 목표를 적용할 수 없습니다
+0x07D910C0 액트의 목표물을 투명하게 설정합니다
+0x07D910C6 액트의 목표물 체력을 무적으로 설정합니다
+0x07D910C4 액트의 목표물 체력을 0으로 설정합니다
+0x07D910D8 물체에는 목표를 적용할 수 없습니다
+
+# Special first half of give goal:
+
+0x079E8291 ~ep1_goal_target_name~를(을) 찾으십시오
+
+# Editor object placement hints
+
+0x07D8C658 물체가 행성의 표면에서 너무 멀리 있습니다
+0x07D8C64C 해상용 차량은 땅 위에 놓을 수 없습니다
+0x07D8B21E 육상용 차량은 물 위에 놓을 수 없습니다
+0x07D8C654 크리쳐는 물 위에 놓을 수 없습니다
+
+# Goal strings used for mission cards
+
+0x0727D37F 오류: 목표 미설정
+
+# Sculpt panel UI
+
+0x07316C09 기후
+0x07316C0D 기본 도구
+0x07316C0E 길
+0x07316C00 지역
+0x07316C04 물
+0x07316C05 변형
+0x07316C02 대기
+0x07316C03 주제
+0x0768A3E9 대륙 및 섬
+0x0768A339 바다 및 호수
+0x079EDFB9 스페셜
+0x07B280CB 언덕
+0x07B278FE 자갈 도로
+0x07B278FF 포장 도로
+0x07B2739C 계곡
+0x07B278FD 비포장 길
+0x07B27900 테크 도로
+0x07316C06 산
+0x07316C01 행성 테마
+0x07316C10 해변을 없애시겠습니까?
+0x07316C0F 계곡을 없애시겠습니까?
+0x07316C0C 강
+0x07316C08 식물
+0x07316C07 식물
+0x07316C0A 행성 색
+0x07316C0B 토양 색
+0x07B27901 광장
+
+# Third, for all other (tools)
+
+0x07968DE4 [대상 미설정]
+0x07B52A5E ~ep1_goal_total_or_all~ ~ep1_goal_target_name~ 수집
+0x07B5160C 이동
+0x07B51611 시험
+0x07B5162D 수집
+0x07B51644 수비
+0x07B51628 가져오기
+0x07B51637 주기
+0x07B5163F 막기
+0x07B5508A ~ep1_goal_target_name~을(를) 수집 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B5507B ~ep1_goal_target_name~(으)로 이동 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B52A59 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 이동하기
+0x07B52A61 ~ep1_goal_target_name~을(를) 집기
+0x07B52A52 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~(으)로 이동
+0x07B52A56 ~ep1_goal_target_name~을(를) 조사
+0x07B52A63 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~에게 주기
+0x07B52A68 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~을(를) 지키기
+0x07B52A65 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 부터 막기
+0x07B51633 집기
+0x07B55092 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 부터 막기
+0x07B5507E ~ep1_goal_target_name~을(를) 조사
+0x07B5508D ~ep1_goal_target_name~을(를) 집기
+0x07B5508F ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~에게 주기
+0x07B55088 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 이동하기
+0x07B55095 ~ep1_goal_total~ ~ep1_goal_target_name~을(를) 지키기
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 목표 2 완료
+0x07292A93 목표 3 완료
+0x07292A8D 목표 1 완료
+0x07290AF0 목표 1 증가
+0x07290AF5 목표 2 증가
+0x07290AF8 목표 3 증가
+0x074BB7EC ~ep1_current_act~ /  ~ep1_total_acts~ 액트
+
+# Editor object intersection hints
+
+0x07D8FAB8 식물은 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07ECC0AB 바위는 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA9C 차량은 식물과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA99 차량은 바위와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA8D 차량은 건물과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA93 차량은 고정 장식품과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAA8 휴대용 장식품은 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAA5 휴대용 장식품은 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAAD 바위는 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAAA 휴대용 장식품은 바위와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA87 차량은 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA85 건물은 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA72 크리쳐는 차량에 너무 가까이 놓을 수 없습니다
+0x07D8FA75 에픽 크리쳐는 건물에 놓을 수 없습니다
+0x07D8FA77 크리쳐는 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA79 크리쳐는 고정 물체와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA7C 크리쳐는 바위와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA7F 크리쳐는 식물과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA90 차량은 크리쳐와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA82 건물은 에픽 크리쳐 아래에 놓을 수 없습니다
+0x07D8FAA3 고정 물체는 크리쳐와 너무 가까운 거리에 놓을 수 없습니다
+0x07D8FAB5 식물은 크리쳐와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAAF 바위는 크리쳐와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07DA2A90 물체 사이의 거리가 너무 가까워 ~ep1_visibility_intersect_act~ 액트에서 동시에 보입니다
+0x07D8FA9E 차량은 물체와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAA1 고정 물체는 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA97 차량은 휴대할 수 있는 물체와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FA6F 물체는 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FAB2 바위는 휴대할 수 있는 물체와 너무 가까운 거리에 함께 놓을 수 없습니다
+0x07D8FABB 물체는 차량과 너무 가까운 거리에 함께 놓을 수 없습니다
+
+# Goal string for goal count combo box:
+
+0x07C53729 전체
+
+# inter-act checks
+
+0x07D91130 목표가 다른 액트의 목표와 동일합니다
+0x07D91132 목표물 숫자가 다른 액트의 목표물 숫자와 모순됩니다
+0x07D91134 같은 액트의 가져오기와 막기에는 같은 목표물을 설정할 수 없습니다.
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B3 가져오기
+0x073C19B4 모으기
+0x073C19B2 동맹 맺기
+0x073C19B1 친구 되기
+0x073C19B8 지키기
+0x073C19B7 막기
+0x073C19B6 주기
+0x073C19AF 대화
+0x073C19AE 이동
+0x073C19B0 제거
+
+# goal count checks
+
+0x07D91125 최소한 하나 이상의 목표물이 있어야 합니다
+0x07D91122 목표물 숫자가 유효한 목표물의 수보다 큽니다
+0x07D91128 최소한 둘 이상의 목표물이 있어야 합니다
+0x07D9112B 목표물 숫자가 "전부"이지만 현재 유효한 목표물이 없습니다
+0x07D9112E 그룹 슬롯을 열기에는 부족한 숫자입니다
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 ~ep1_goal2_target_name~으로부터 ~ep1_goal_target_name~를(을) 막는 데 실패했습니다.
+0x0796CEE4 죽고 말았습니다.
+0x0796CFDD 시간이 다 됐습니다.
+0x0796CFE5 ~ep1_goal_total~ ~ep1_goal_target_name~를(을) 방어하는 데 실패했습니다.
+0x0796D599 더 이상 이 목표를 끝낼 수 없습니다: ~ep1_goal_description~
+0x0796D59A 이번 목표를 어겼습니다: ~ep1_goal_description~
+0x07C50B5F 이 액트에는 하나 이상의 동일한 목표가 있습니다.
+
+# First, for creatures
+
+0x07311C75 ~ep1_goal_total~ ~ep1_goal_target_name~를(을) 방어하십시오
+0x072AA965 ~ep1_goal_target_name~를(을) ~ep1_goal2_target_name~에게 주십시오
+0x07311C6E ~ep1_goal2_target_name~으로부터 ~ep1_goal_target_name~을 막으십시오
+0x07B52A31 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~ 수집
+0x07B52A2C ~ep1_goal_total_or_all~ ~ep1_goal_target_name~와(과) 동맹
+0x07B52A28 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~ 제거
+0x0727D387 ~ep1_goal_target_name~와(과) 대화하십시오
+0x0727D391 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~ (으)로 이동하십시오.
+0x072AA963 ~ep1_goal_target_name~을(를) 모으십시오 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x0727D38B ~ep1_goal_target_name~와(과) 친구가 되십시오 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x0727D389 ~ep1_goal_target_name~을(를) 없애십시오 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x0727D38E ~ep1_goal_target_name~와(과) 무리를 지으십시오 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x0727D384 ~ep1_goal_target_name~(으)로 이동 (~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B52A21 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~(으)로 이동
+0x07B52A36 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 부터 막기
+0x07B52A2E ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~(으)로 이동하기
+0x07B52A2A ~ep1_goal_total_or_all~ ~ep1_goal_target_name~와(과) 친해짐
+0x07B52A34 ~ep1_goal_target_name~을(를) ~ep1_goal2_target_name~에게 주기
+0x07B52A25 ~ep1_goal_target_name~와(과) 대화
+0x07B52A38 ~ep1_goal_total_or_all~ ~ep1_goal_target_name~을(를) 지키기
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2671 ~timelineMySpeciesName~ 이(가) ~timelinePartName~ 을 찾았습니다.
+0x076B2674 진급되었습니다
+0x076B2675 ~ep1_captain_name~ 이(가) ~ep1_captain_primary_title~ (으)로 진급되었습니다.
+0x076B2673 모험 ~timelinePlanetName~ 을(를) 완료했습니다.
+
+# Used for palette
+
+0x079C4769 게임플레이 대상
+0x07103106 건물
+0x07103107 차량
+0x0710310C 사용 중인 캐스트
+0x0710310A 소리
+0x07103108 크리쳐
+0x07103109 고정 물체
+0x0710310B 효과
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x075E40EF 시나리오 변화 표제 3
+0x075E40EE 시나리오 변화 표제 2
+0x075E40ED 시나리오 변화 표제 1
+0x07312E6E 모험 이름 생성
+
+# other
+
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+0x07D9113B 도움 힌트 3을 위해 남겨 놓음
+0x07D91140 도움 힌트 5를 위해 남겨 놓음
+0x07D9113E 도움 힌트 4를 위해 남겨 놓음
+

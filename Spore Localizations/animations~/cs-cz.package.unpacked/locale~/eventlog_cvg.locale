@@ -1,0 +1,41 @@
+﻿#######################################
+# event logs
+
+0x0000001A Úspěšně jste odkoupili město ~target_city_name~!
+0x00000019 Váš pokus o odkoupení města ~target_city_name~ se nezdařil.
+0x0000000F Město ~target_city_name~ bylo konvertováno!
+0x0000000E Město ~target_city_name~ bylo zajato!
+0x00000005 Konvertovali jste cizí město, zvané ~target_city_name~.
+0x00000004 Obsadili jste město, zvané ~target_city_name~.
+0x00000018 ~target_city_name~ je nyní na prodej.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B Město ~target_city_name~ přijalo váš návrh k otevření obchodní cesty.
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x0000002B Vaše spojenectví s národem ~source_civ_name~ bylo ukončeno.
+0x0000002F Jedna z vašich těžebních věží je pod útokem!
+0x0000002C Nyní jste ve spojenectví s ~source_civ_name~.
+0x00000034 Město ~target_city_name~ oslavuje a proto z něj plyne vyšší příjem!
+0x0000002A S národem ~source_civ_name~ již neválčíte.
+0x00000030 Kmenu jste uloupili %d Sporáčů!
+0x00000021 Na vaše město ~target_city_name~ někdo útočí!
+0x00000033 Obsadili jste těžební věž.
+0x00000032 Získali jste gejzír koření.
+0x00000027 Národ ~source_civ_name~ zajal město ~target_city_name~!
+0x00000026 ~source_civ_name~ již neexistuje.
+0x00000029 Nyní s národem ~source_civ_name~ válčíte.
+0x00000028 Nyní jste ve válce s ~source_civ_name~.
+0x00000035 Kliknutí na město = vypuštění.
+0x00000023 Kliknutím na gejzír koření pošli své vozidlo těžit.
+0x00000024 Bylo založeno město  ~target_city_name~.
+0x0000001C Ve městě ~target_city_name~ byla založena obchodní cesta.
+0x00000036 Kmen je nepřátelský a útočí na vaše vozidlo!
+0x00000031 Od kmene jste zdarma získali vozidlo!
+
+# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E Město ~target_city_name~ odmítlo obchodní spojení s vaším městem.
+

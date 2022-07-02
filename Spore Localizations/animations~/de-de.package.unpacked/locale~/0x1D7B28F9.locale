@@ -1,0 +1,63 @@
+﻿0x4782CC92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782CC94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782CC95 Option3~IDS__DialogId_10105_ControlId_603~
+0x4782CC93 Option5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Option2~IDS__DialogId_10105_ControlId_602~
+0x4782CC91 Option7~IDS__DialogId_10105_ControlId_607~
+0x4782CC97 Option1~IDS__DialogId_10105_ControlId_601~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x4782CC9F Option9~IDS__DialogId_10105_ControlId_609~
+0x4782CCA0 Option8~IDS__DialogId_10105_ControlId_608~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x689470D4 Feature~ID_STRING1~
+0x494AA82F Der Deinstallationsvorgang wurde unterbrochen, bevor ~string~ vollständig deinstalliert werden konnte.~br~~br~Um das Programm zu einem späteren Zeitpunkt vollständig zu deinstallieren, führen Sie das Deinstallationsprogramm bitte erneut aus.~UNINSTALL_INCOMP~
+0x4E1203F5 Möchten Sie den aktuellen EA Download Manager installieren? Wenn Sie den aktuellen EA Download Manager nicht installieren, können Patches und bestimmte Funktionen auf Ihrem System nicht installiert werden.~EADM_INSTALL~
+0x303D349E Datei: ~string~~br~Fehler: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Wählen Sie die gewünschten Funktionen aus und deaktivieren Sie alle Funktionen, die Sie nicht installieren möchten. Klicken Sie auf "Weiter", um fortzufahren.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Für die Installation sind Administratorrechte erforderlich.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Desktopverknüpfung~DESKTOP_SHORTCUT~
+0x7E8BB5FD Installation abgeschlossen~INSTALLATION_COMPLETE~
+0x4DE32707 Bitte beenden Sie ~string~, bevor Sie fortfahren.~GAME_RUNNING_STRING~
+0x2BF6EA98 Auf dem gewählten Laufwerk ist nicht ausreichend freier Speicherplatz vorhanden. Entfernen Sie nicht benötigte Dateien oder wählen Sie ein anderes Laufwerk aus.~NO_SPACE_MSG~
+0x05082CC9 Vollständig~IDPROP_SETUPTYPE_COMPLETE~
+0x7D4A4E2F Individuell~CUSTOM~
+0x051414BE @10550,10551;1;0;;0,128,128 ~IDS__DialogId_10105_ControlId_1200~
+0x3017EF99 Sollen alle Benutzerdaten, die von ~string~ erzeugt wurden, gelöscht werden?~REMOVE_USERDATA~
+0x1F726BCA Spielen~PLAY_SPORE~
+0x6CD070E6 Einige für die Deinstallation benötigte Informationen wurden nicht gefunden. Möglicherweise ist bei der Installation ein Fehler aufgetreten. Einige Dateien und Ordner müssen möglicherweise manuell entfernt werden.~MISSING_UNINSTALL~
+0x64A17D06 Ein Fehler ist aufgetreten. Setup kann nicht abgeschlossen werden und wird nun beendet.~GENERAL_ERROR~
+0x7CF6B4E8 Individuell~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Installation in ~string~~br~ nicht möglich. Bitte wählen Sie ein anderes Verzeichnis aus.~DANGEROUS_DIRECTORY_ERROR~
+0x02699E57 Setupmodus~SETUP_TYPE_TITLE~
+0x16741C9F ~string~ nach der Installation starten~LAUNCH_SPORE~
+0x0AA43B92 Empfohlen~RECOMMENDED~
+0x159098E0 < &Zurück~IDS__DialogId_10105_ControlId_12~
+0x38A8F152 Willkommen bei ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 Readme~README~
+0x15538FF6 Setupmodus~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Wählen Sie den Setupmodus, der Ihren Anforderungen entspricht.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Individuell~IDPROP_SETUPTYPE_CUSTOM~
+0x06220BA5 Klicken Sie auf "Weiter", um ~string~ auf Ihrem Computer zu installieren!~WELCOME_SPORE_MESSAGE~
+0x74C9257A Vollständig~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Die Installation kann beginnen!~READY_TO_INSTALL~
+0x144073D1 ~string~ wird im gewählten Verzeichnis installiert.~CUSTOM_SPORE_SETUP~
+0x7E9C7EC7 &Weiter >~IDS__DialogId_10105_ControlId_1~
+0x2A8D9AF3 EA-Hilfe~EA_HELP~
+0x7E9C7ECF Abbrechen ~IDS__DialogId_10105_ControlId_9~
+0x40D6F8BD ReadMe.txt nach der Installation lesen~VIEW_README~
+0x7B152168 Klicken Sie auf "Installieren", um mit der Installation zu beginnen.~br~~br~Wenn Sie Ihre Einstellungen noch einmal überprüfen oder ändern möchten, klicken Sie bitte auf "Zurück". Klicken Sie auf "Abbrechen", um das Programm zu verlassen.~BEGIN_INSTALLATION~
+0x0D849C4A Klicken Sie auf "Fertig stellen", um loszulegen.~CLICK_FINISH~
+0x27D33671 Dein Dateipfad ist zu lang. Bitte wähle einen kürzeren Dateipfad.~DIR_TOO_LONG~
+0x46A61B9B ~string~ nicht gefunden.~MISSING_FILES~
+0x01FCAF57 MeinSpore-Kreationen~SAVE_FOLDER~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x15CC67E6 ~string~ wird im Verzeichnis ~br~~string~ installiert.~RECOMMENDED_SPORE_SETUP~
+0x4950A450 Spore™ Labor – Testversion~SCC_TRIAL_NAME~
+0x23FD0D11 Spore™ Labor~SCC_NAME~
+0x151DEC2F Ohne DirectX funktioniert Spore™ nicht korrekt.~DIRECTX_WARNING~
+0x0537CFA1 ~string~ deinstallieren~UNINSTALL~
+0x16FBAEAF Sie können ~string~ jetzt starten.~READY_TO_PLAY~
+0x59450AC4 Setupmodus~br~Wählen Sie einen Setupmodus aus.~SETUP_TYPE_MESSAGE~
+0x03BCF887 Wählen Sie aus.~SELECT_OPTIONS~
+0x353F37C7 Wir müssen deine Version von ~string~ deinstallieren. Klicke auf "Ja", um die Deinstallation zu starten. SPORE™ enthält alle Funktionen des Spore-Labors. Außerdem kannst du alle bereits erschaffenen Kreaturen behalten.~SPORE_REMOVE_CSA_WARNING~
+

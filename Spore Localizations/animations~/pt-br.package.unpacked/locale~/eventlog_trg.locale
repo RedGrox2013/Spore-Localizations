@@ -1,0 +1,31 @@
+﻿#######################################
+# event logs
+
+0x00000001 Uma nova tribo foi fundada!
+0x00000002 Hora de festejar! ~tribe_creature_name~ acaba de nascer! 
+0x00000003 O filhote ~tribe_creature_name~ morreu. 
+0x00000004 ~tribe_creature_name~ chegou à idade adulta.
+0x00000005 Socorro! Um filhote está em perigo!
+0x0000000D Invasores avistados! Estamos sendo atacados por outra tribo.
+0x00000012 Defenda-se! Sua tribo está sendo atacada!
+0x00000016 A tribo ~tribe_name~ está dividida em relação à existência de sua tribo.
+0x051CC20D Você domesticou um membro da espécie ~tribe_creature_species~!
+0x051CC258 Você possui animais domesticados demais no momento.
+0x051CCA6A Você já domesticou um animal da espécie  ~tribe_creature_species~!
+0x0590E277 Animais selvagens estão vindo para roubar seu alimento!
+0x05932CF9 Invasores avistados! Eles planejam roubar nossa comida!
+0x00000017 A tribo ~tribe_name~ agora é amiga.
+0x00000018 A tribo ~tribe_name~ agora é aliada.
+0x066F6C43 Você destravou a ferramenta Lança!
+0x066F6C44 Você destravou a ferramenta Tocha!
+0x066F6C3C Você destravou a ferramenta machado!
+0x066F6C3E Você destravou a ferramenta Pescaria!
+0x066F6C3D Você destravou a ferramenta Didgeridoo!
+0x066F6C41 Você destravou a ferramenta Corneta!
+0x066F6C42 Você destravou a ferramenta Maraca!
+0x066F6C3F Você destravou a ferramenta Coleta!
+0x066F6C40 Você destravou a ferramenta Cura!
+0x0000000E A ~tribe_name~ está oferecendo um presente à sua tribo! Clique na cesta de presente para aceitá-la!
+0x00000015 A ~tribe_name~ não gosta da sua tribo.
+0x00000014 A ~tribe_name~ agora é inimiga.
+

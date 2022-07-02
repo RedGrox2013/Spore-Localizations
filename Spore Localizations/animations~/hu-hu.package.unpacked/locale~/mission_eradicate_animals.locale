@@ -1,0 +1,269 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000CA ...
+0x00000097 Talán majd máskor. Viszlát!
+0x0000003E Hurrá! Éljen! Köszönjük, hogy megsegítetted azokat az aranyos teremtményeket a szükség órájában.~p~Mielőtt megérkeztél volna, állig felfegyverzett elitcsapatokat küldtünk, hogy ők eliminálják a beteg példányokat, de csak belenéztek azokba a nagy szemekbe és...~p~Nem voltak rá képesek! Ó, a cukiság! A cukiság! Rémséges volt.
+0x00000023 Pacifista vagyok. Nem csinálom.
+0x0000002C Ezek a lények a pokol szüleményei, nevük: ~mission_target_animal_species~. Lézerrel kell megtisztítani a tisztátalanokat! A te helyes lelki utad gyújtja majd lángra őket.~p~A lények száma: ~mission_num_kills_needed~. Ennyit kell elpusztítani közülük, hogy a bolygó ismét megtisztuljon. Tudd azonban ezt is: ~group:star_clue~.
+0x00000016 ~player_creature_name~ ~player_title~! Ismeretlen betegség tört ki a ~mission_target_planet~ bolygó állatain, amely vérszomjas ragadozóvá változtatta őket. Felfogadnánk, hogy kipusztítsd ezeket.
+0x000000A4 Megjegyeztük ám felelőtlen viselkedésedet!
+0x0000005B Furcsa módon úgy tűnik, hogy nem mentél el a ~mission_target_planet~ bolygóra, hogy megsemmisítsd a ~mission_target_animal_species~ fajt. Nem voltak megfelelőek az útmutatásaink vagy elpusztult a küldetésnaplód? Esetleg te nem kezelted megfelelően az adatokat?
+0x0000006B Oké, értem. Hamarosan visszajövök.
+0x0000000E Törvényen kívüli génkalózok módosították a ~mission_target_planet~ bolygó egyik állatának génállományát, így az most fenyegeti a helyi fauna, sőt, polgáraink biztonságát is! Segítesz nekünk megoldani a problémát?
+0x0000007C Felhatalmazunk rá, hogy a ~mission_target_planet~ bolygó felé vedd az irányt és kiiktasd a ~mission_target_animal_species~ faj tagjait, azonban csak ~mission_time~ szektonnyi időd van, hogy befejezd a feladatot. Ne tüzelj épületekre, polgárokra és ártalmatlan állatokra.
+0x00000077 Ezeket a démoni teremtményeket mind hamuvá kell égetni! Teljes sebességgel eredj a ~mission_target_planet~ bolygó felé a ~mission_target_star~ rendszer szomszédságába. Ha odaértél, ~mission_time~ szektonnyi időd van, hogy megmutasd a ~mission_target_animal_species~ fajnak Spóriusz haragját. Óvd azonban Spóriusz gyermekeit, kímélje meg őket a démoni láng!
+0x00000021 Hogy találhatnám meg?
+0x000000A5 Milyen érdekes. Viszontlátásra.
+0x00000092 Gyógyító ceremóniát kell majd tartanunk, hogy felépüljünk a visszautasítás után.
+0x0000004B Van még egy kérdésem...
+0x0000000F ~player_creature_name~ ~player_title~! Sajnálattal kell közölnünk, hogy egyik kísérletünk nem váltotta be a hozzá fűzött reményeket. Egy szelíd, háziasítható állat helyett a génkezelő vad, húsevő szörnyeket szabadított a ~mission_target_planet~ bolygóra. Ugye segítesz megszabadulni nekünk ettől a rémségtől?
+0x0000001F Útbaigazítást kérnék.
+0x00000099 Látom, magányra vágysz. Szia!
+0x00000062 Kérdezhetek valamit?
+0x0000000B Spóriusz törvényei szerint az állatoknak a hívők segítségére kell lenniük, de van egy faj, amely ellenük támadt! Remélem, segítesz elpusztítani ezt a fenyegető szörnyűséget!
+0x0000005C A magam méltatlan módján kénytelen vagyok rámutatni, hogy nem pusztítottad el a ~mission_target_animal_species~ fajt, ahogyan az a küldetésnaplódban olvasható szerződésben áll. Elutaznál a ~mission_target_planet~ bolygóra, hogy kiirtsd a ~mission_target_animal_species~ fajt? Továbbra is fenntartod becses érdeklődésedet jutalmunk iránt?
+0x00000057 Még valami...
+0x0000006A Ó, már értem.
+0x0000001E Mondj még valamit...
+0x000000A2 A megállapodás egyoldalú felrúgása miatt a Nagytanács kénytelen lesz átgondolni a fajodhoz fűződő viszonyt.
+0x00000088 Hú, ez aztán a rossz hír! Attól tartok, messze, nagyon messze leszel innen ráadásul hamarosan, ugye?~p~Az együtt töltött időt azonban senki nem veheti el tőlünk.~p~Most pedig indulj! Menj el nagyon gyorsan és nagyon messzire!~p~Szevasz!
+0x0000007E Öröm járja át méltatlan szolgád lelkét jöttödre! Kérlek, ne sújts haragoddal, ~player_creature_name~, midőn azt mondom, hogy kegyeskedj megkímélni az ártatlan érző lények és oktalan állatok életét. Ráadásul csupán ~mission_time~ szektonnyi időd van, hogy ~mission_target_planet~ bolygó összes ~mission_target_animal_species~ egyedét elpusztítsd.
+0x00000087 Jaj ne! Csak abban reménykedtünk, hogy megmented a ~mission_target_animal_species~ fajt a szörnyű sorstól.~p~Attól tartok, semmi sem fékezi meg az úgilázat, így az szabadon terjed és végez a ~mission_target_animal_species~ fajjal!
+0x000000B5 Visszatértél hát, ~player_creature_name~ ~player_title~!~p~A Filozófusok Rendje külön rendeletben tiltja a rendetlenséget. Tragikus módon a te gátlástalan agressziód helyrehozhatatlan módon szétzilálta a galaxis rendjét!~p~A Nagytanács a veled kötött szerződést ezentúl filozófiánkra veszélyesként értékeli majd.
+0x00000075 Hamar igyekezz a ~mission_target_planet~ bolygóra, ahol alig ~mission_time~ szektonnyi időd van, hogy megsemmisítsd a ~mission_target_animal_species~ fajba tartozó szentségtelen szörnyetegeket! Ha azonban ártalmatlan lényekre vagy a Spóriusz akarat szerint élőkre tüzelsz, lesújt rád az Ő halhatatlan haragja!
+0x0000003A Kizárt. Nem ölök állatokat!
+0x00000037 Hogyne, megoldom!
+0x00000084 Számíthattok rám.
+0x00000034 Igen, azt hiszem, meg tudom oldani.
+0x00000024 Nem én vagyok a megfelelő ember erre a feladatra.
+0x00000098 Látom, sok a dolgod. Majd később beszélünk.
+0x000000B4 Hohó! ~player_creature_name~ ~player_title~ ismét….Én azonban azt hiszem, ez mégsem ~player_title~.~p~Lőttél mindenre, ami mozgott, mi? Tudom ám, hogy jó buli... de nem ezt kértük.~p~Tegyél le a spóradollárokról!
+0x00000008 Ezt a fertőzést ki kell purgálni! Elég erős ehhez a gyomrod?
+0x00000096 Bocsánat a zavarásért. Viszlát.
+0x00000094 És még...
+0x0000006D Talán majd máskor. Viszlát!
+0x0000001D Kozmoszunk hihetetlen mértékben tele van agresszivitással, egészen az ősrobbanástól fogva. Ott van a gammasugár-kibocsátás, de még az egysejtűek is bekebelezik prédájukat! Van egy állat a ~mission_target_planet~ bolygón, amely az őrülettel határos módon vad és ádáz. Lehet, hogy fenyegetést jelent.
+0x00000059 Spóriusz útja az igazság útja. Igazat szóltál, amikor azt mondtad, hogy elutazol a ~mission_target_planet~ bolygóra és kiirtod a ~mission_target_animal_species~ fajt? Mielőtt válaszolnál, ne feledd, hogy Spóriusz ismeri küldetésnaplód tartalmát!
+0x0000007A Ha a ~mission_target_planet~ bolygó megmenekül, az csakis a te erőfeszítésednek lesz köszönhető. Csak ~mission_time~ szektonnyi időd van, hogy ~mission_target_planet~ a bolygóról kipusztítsd a ~mission_target_animal_species~ fajt. Köszönjük, hogy megpróbálod fenntartani a biológiai egyensúlyt!
+0x00000035 Bele tudnék ebbe szokni, határozottan.
+0x00000039 Nem vállalom. Ez nem helyénvaló.
+0x00000095 Még valami...
+0x0000004C Kérdezhetek valamit?
+0x0000006E Látom, sok a dolgod. Majd később beszélünk.
+0x0000004F Micsoda sietség! Kösz! Szia!
+0x00000028 Mielőtt indulnék, kérdeznék még pár dolgot.
+0x00000086 Naaa...~p~Ugyan, haver, ne hagyj minket a pácban!~p~Azt hittük, jó fej vagy!~p~Mindegy!!!~p~Én mondom! Én mondom, A SZÖRNYŰ GROX HARAGJA SZÁLLJON A FEJEDRE!
+0x00000079 Te jelentheted a megváltást a ~mission_target_planet~ bolygó számára! Gyorsan eredj oda és mentsd meg biológiai rendszerét a fenyegetéstől!
+0x0000006C Bocsánat a zavarásért. Viszlát.
+0x00000078 Menj azonnal a ~mission_target_planet~ bolygóra. A ~mission_target_star~ rendszerében találod. Itt ~mission_time~ szektonnyi időd van, hogy elpusztítsd a ~mission_target_animal_species~ faj démoni szörnyeit. Ne lőj azonban az ártatlan állatokra és azokra, akik Spóriusz parancsai szerint élnek, mert magadra vonod ezzel az Ő haragját.
+0x000000B3 Hát persze, a küldetésnapló! Már nézem is!
+0x0000007B Köszönjük! ~mission_time~ szektonnyi időd van, hogy a ~mission_target_planet~ bolygóra érve megsemmisítsd a ~mission_target_animal_species~ faj egyedeit.
+0x0000000D A ~mission_target_planet~ bolygó állatai között betegség terjed, amely a bolygó teljes élővilágára veszélyt jelent! Segítesz nekünk megoldani a problémát azzal, hogy kiiktatod a fertőzött állományt?
+0x00000074 A ~player_creature_name~ faj nagylelkűnek és bölcsnek bizonyult. Kérünk hát, hogy utazz a ~mission_target_planet~ bolygóra, ahol, ~mission_time~ szektonnyi idő áll rendelkezésedre, hogy megszabadíts minket a ~mission_target_animal_species~ faj fenyegetésétől. Ne légy ártalmára polgárainknak és az ártalmatlan lényeknek, ha lehet.
+0x0000005A A jelentések szerint a ~mission_target_animal_species~ faj veszélyezteti a ~mission_target_planet~ bolygót. Segítesz nekünk, hogy megszabaduljunk ettől a fenyegetéstől? Minden szükséges információt megtalálsz a küldetésnaplóban.
+0x000000A1 Mielőtt indulnék, kérdeznék még pár dolgot.
+0x000000B2 Botrány! Ez több mint katasztrófa! Nem jutok... nem jutok szóhoz. A felelőtlenséged új, tiszta érzelmekhez juttatott.~p~Szörnyen félreismertünk téged! Ez a feladat precíz munkát és jó időzítést kívánt, de úgy tűnik, te egyikre sem vagy képes, te ostoba!~p~A ~mission_target_animal_species~ populáció teljesen destabilizálódott, ezért nagy volumenű csökkenést, majd teljes megsemmisülést prognosztizálunk. Minden elveszett!
+0x00000050 Hé, én csak a munkámat végzem!
+0x00000093 Ez az egyszerű feladat is meghaladja a képességeidet? Ezt megjegyezzük.
+0x0000009E Bocsáss meg a szóhasználatért, de hogy lehetsz ilyen szőrösszívű?~p~A ~mission_target_animal_species~ faj a kihalás szélén áll és te lehettél volna az egyetlen, aki megmenthette volna őket! Nekik most annyi!~p~Bár lett volna bennünk annyi bátorság, hogy magunk intézkedjünk!
+0x00000017 ~player_creature_name~ ~player_title~! Egy növényevőkkel kapcsolatos kísérletbe szörnyű hiba csúszott a ~mission_target_planet~ bolygón és ennek következtében egy azelőtt ártalmatlan lény más állatokra, sőt, saját falkatársaira is rátámad! Segítesz nekünk megoldani a problémát?
+0x00000007 A Nagytanács garantálja, hogy polgárainknak semmitől nem kell félniük. Egy alvállalkozó a ~mission_target_planet~ bolygó felmérése közben nem vette figyelembe, hogy a növényevő ~mission_target_animal_species~ faj egyedei húsevőkké válnak. A Nagytanács akkor lenne elégedett, ha a ~mission_target_planet~ bolygó felszínét megtisztítanák a faj összes egyedétől.
+0x0000008D Igaz hát, hogy hitetlen szíve kemény, mint a kőszikla. Viszontlátásra.
+0x0000002F ~player_creature_name~ ~player_title~! Pusztíts el ~mission_num_kills_needed~ darabot a célul kijelölt állatok közül.~p~Gyorsan kell végrehajtanod ezt a feladatot, mielőtt az őrjöngő állatok teljesen ellenőrizhetetlenné válnak! Irány a ~mission_target_planet~ bolygó, de azonnal! ~group:star_clue~.
+0x00000066 Nem. Bocs.
+0x000000A3 A pogány szava hazug szó. Viszontlátásra.
+0x000000A6 Fajod mindig megpróbál nekünk kellemes meglepetéseket szerezni, kár, hogy ez soha nem sikerül.
+0x000000AA Uhh... Még egyszer; mit is kellene csinálnom?
+0x000000A8 Téged egy igen szeszélyes vándorszellem szállt meg.
+0x0000001B Ahogy a fák is a nap felé nyújtóznak, az állatok is folyvást küzdenek a táplálékért és a dominanciáért. A ~mission_target_planet~ bolygó egyik állata már-már a bolygót akarja uralni, ahogyan mi a galaxist. A szituáció kényes és nem hagyhatjuk, hogy így menjen tovább a dolog. Ugye egyetértesz?
+0x00000033 Habár hozzánk méltatlan egy ilyen faj megsemmisítése, a magadfajta talán alkalmas ilyesmire. A ~mission_target_planet~ bolygót az a veszély fenyegeti, hogy elözönli a ~mission_target_animal_species~ faj. Fényes a farkuk, így nevetségesen könnyű zsákmányul ejteni őket.~p~Ölj meg ~mission_num_kills_needed~ darabot a veszedelmes fenevadak közül! ~group:star_clue~.~p~A távolból figyeljük majd, hogy biztosak lehessünk benne, hogy haladsz és nem lazsálsz.
+0x00000072 A Nagytanács elégedett. Kérlek, indulj el a ~mission_target_planet~ bolygó felé, de haladéktalanul! Ha odaértél, ~mission_time~ szektonnyi időd van rá, hogy eltöröld a ~mission_target_animal_species~ fajt. Ne bánts véletlenül sem egyetlen polgárt vagy ártatlan lényformát sem!
+0x00000005 ~player_creature_name~ ~player_title~! Az általad alkalmazott céltalan erőszak komoly károkat okozott a táplálékláncban! Csalódottak vagyunk.
+0x000000AB kiment a fejemből, mi is a küldetésem. Tényleg, mi is?
+0x0000008E Csak reménykedni tudunk, hogy a ~mission_target_planet~ bolygó élővilága a segítséged nélkül sem pusztul el. Viszontlátásra.
+0x0000005F Azt mondtuk, hogy menj a ~mission_target_planet~ bolygóra és pusztítsd el a ~mission_target_animal_species~ fajt, de küldetésnaplódban más áll.~p~Csak csapkodsz, mint hal a szatyorban! Véges ám a türelmünk!
+0x000000AC Elfelejtettem, mit is csinálok. Mi is a küldetésem?
+0x00000076 Kezdődjék a mészárlás! ~mission_time~ szektonnyi időd van, hogy felperzseld a ~mission_target_planet~ bolygón az összes ~mission_target_animal_species~ állatot mind egy szálig! Kíméld azonban Spóriusz népét és az ő birtokaikat.
+0x00000020 Hogy juthatok oda?
+0x0000004D Még egy utolsó dolog…
+0x0000008B A Nagytanács kényszerítő eszközöket vet majd be minden faj ellen, amely akarata ellen cselekszik. A tárgyalások lassan véget érnek. Viszontlátásra.
+0x0000009D Félbeszakítod a küldetést? Hát ez...~p~Nem teheted!... A bolygónak el kell nyernie uraink tetszését...~p~A RIDEG ÉS RETTENTHETETLEN GROX HALLANI FOG ÁM ERRŐL!
+0x00000061 Van még egy kérdésem...
+0x00000019 A ~mission_target_planet~ bolygón lévő egyik imakörünk nem a megfelelő szellemet szólította. Azt reméltük, hogy a megboldogult Flrthrb néni lesz, akivel szót válthatunk, de egy csomó testetlen szellem jelent meg, amelyek megszálltak egy csoportnyi állatot, mire azok ámokfutásba kezdtek! Ugye kiirtod nekünk ezeket?
+0x00000014 Roppantul sajnálom, hogy efféle hírekkel kell megzavarnom kegyelmességedet, de sajnálattal közölnöm kell, hogy a ~mission_target_planet~ bolygót irtózatos fenevadak támadták meg, amelyek fenyegetik népünk boldogságát. Ugye, méltó jutalom fejében segítesz elhárítani a veszélyt?
+0x00000064 Úgy döntöttem, erre nem vagyok hajlandó.
+0x00000041 És még...
+0x00000060 Hadd kérjelek meg még valamire...
+0x00000082 Mindjárt jövök.
+0x000000AF Miért öltél meg annyi jelöletlen egyedet?~p~Hát nem mondtuk, hogy azt ne csináld? Ez egy ápolt bolygó volt, ha nem tudnád!.~p~Igen, huhhh... A SZIGORÚ ÉS PONTOS GROX... nem, ez nem fog nekik tetszeni... egyáltalán nem. Egy kicsit sem.~p~Mondhatom, szép kis bajt kevertél itt!
+0x0000008C A Nagytanács aggodalommal szemléli ~player_creature_name~ sikertelen kísérletét, amellyel megpróbál betartani egy olyan szerződést, amelyet szabad akaratából kötött. Viszontlátásra.
+0x0000002D Utazz a ~mission_target_planet~ bolygóra. ~group:star_clue~.~p~A szerencsétlen ~mission_target_animal_species~ állatok fajának foszforeszkálni kezdett a farka, emiatt pedig a ragadozók könnyű zsákmányaivá váltak.~p~Öld meg legalább ~mission_num_kills_needed~ példányát a ~mission_target_animal_species~ fajnak, hogy elkerülhetővé váljon a katasztrófa. A bolygó élethálója minden egyéb szempontból kiegyensúlyozott, így a fertőzéssel nem sújtott állatokat nem kell megölnöd és ne bánts más lényeket sem.~p~Siess, mielőtt a helyzet még problémásabbá válik!
+0x0000009B Fel kell frissítenem, amit a küldetésről tudok...
+0x0000002B Mielőtt indulnék, kérdeznék még pár dolgot.
+0x00000065 Ez erkölcstelen. Nem csinálom!
+0x000000AD Emlékeztetnél rá, mi a feladatom?
+0x00000091 Ó, jaj, ó, jaj... Ha csak a jutalomra gondolok, ami a tiéd lehetett volna...
+0x00000015 Jaj nekünk! Most kaptuk a hírt, hogy betegség tört ki a ~mission_target_planet~ bolygó állatain, amely agresszívvé és vaddá teszi őket. Alázatosan megkérünk hát, hogy a te kegyességedben méltóztass mind lemészárolni ezeket a fenevadakat.
+0x00000009 A ~mission_target_planet~ bolygó a menedékünk, ezért mindenáron meg kell óvnunk harciasságunk eme erődjét a démoni lényektől. Ugye megmented a híveket a veszedelemtől?
+0x0000005D Játsszunk egy olyan játékot, aminek az a lényege, hogy és kitalálom, mi van a küldetésnaplódban. Nos, a küldetésnaplódban az áll, hogy vállaltad, hogy elmész a ~mission_target_planet~ bolygóra és megsemmisíted a ~mission_target_animal_species~ fajt!
+0x00000069 Így van, öld meg az állatokat!
+0x00000080 Tilos népünk képviselőire, épületeinkre és az ártalmatlan állatokra lőnöd. Indulj el azonnal! Csak ~mission_time~ szektonnyi időd van, hogy megszabadítsd a ~mission_target_planet~ bolygót a ~mission_target_animal_species~ fenyegetésétől.
+0x000000A9 Ilyen lenne a ~player_creature_name~ faj becsülete?
+0x00000070 Kérlek, érts meg!
+0x00000011 Megtréfáltak minket. Esztétikai okokból létrehoztunk pár genetikusan módosított állatot a ~mission_target_planet~ bolygón. Szépek ugyan, de megesznek bennünket! Ugye megmentesz minket attól, hogy ebéd váljon belőlünk?
+0x0000009F Küldetés lefújva? Jaj ne, ez tragikus!~p~Habár, ha jól meggondolom, talán sikeresnek is értékelhetjük az akciót, ha elmész innen, de nagyon gyorsan.~p~Fizetség ezért természetesen nem jár, mert miért is járna? Mindenesetre gondolhatod magadban, hogy most sikeres ember voltál.
+0x0000009C Nem folytatod? Döbbenet!~p~Ugye tudod, hogy a környezetvédők majd kibeszélnek a blogjukon?
+0x00000073 Utazz hát a ~mission_target_planet~ bolygóra, ahol ~mission_time~ szektonnyi időd van, hogy megsemmisítsd a ~mission_target_animal_species~ fajt. Köszönettel tartozunk neked, hogy biztosítod polgáraink biztonságát és egészségét!
+0x0000001C A pajkos szellő hozhat virágillatot és pestisbűzt egyaránt. Talán egy gyáva ellenség fertőzte meg a ~mission_target_planet~ bolygó állatait valami kórsággal, mire azok ragadozóvá váltak. Érdekelne egy kis céllövészet?
+0x000000B0 Ó ne! Ez kész katasztrófa!~p~Szegény, védtelen ~mission_target_animal_species~ állatok! Olyan kedvesek és szeretetreméltóak voltak, most pedig meg van pecsételve a sorsuk! Kihalásra ítélt faj lett! Ez sok még nekem is!~p~Annyit megöltél közülük, hogy destabilizáltad a teljes populációt! Mégis, mit ártottak ők neked?
+0x00000051 Nos, akkor indulok is...
+0x00000006 A ~mission_target_planet~ bolygó lakosainak biztonsága érdekében meg kell óvni őket a ragadozóktól. Segítenél megtisztítani a félelmetes ~mission_target_animal_species~ faj képviselőitől a ~mission_target_planet~ bolygót?
+0x00000090 De annyira dögösen nézel ki azzal a fegyverrel a kezedben! Hát, jó.
+0x00000030 És még...
+0x0000004E Ez zavaró volt. Jónapot.
+0x0000008F Akkor majd megoldjuk mi magunk. Viszontlátásra.
+0x00000063 Csak még valami….
+0x00000031 Még valami...
+0x00000038 A küldetés borzalmas. Kiszállok.
+0x00000083 Leléptem állatokat gyilkolni.
+0x00000067 Elegem van! Ez nagyon nehéz volt!
+0x0000009A Kérlek, értsd meg a helyzetemet...
+0x00000068 Rendben, értem. Viszlát.
+0x00000022 Ú, rossz karma. Nem, kösz.
+0x000000B6 A szemtelen ~player_creature_name~ ~player_title~!~p~Agyatlan lövöldözéseddel megsértetted a harmóniát, amelynek létrehozásán munkálkodtunk! Fejlődj valamelyest és légy óvatos a jövőben!
+0x0000002E A szerződésed szerint feladatkörödbe tartozik a ~mission_num_kills_needed~ létszámú ~mission_target_animal_species~ állomány ritkítása, lézeres eszközökkel, egészen a légnemű állapotig.~p~A cél a ~mission_target_planet~ bolygó. ~group:star_clue~.~p~A célpontul kiszemelt állatokat foszforeszkáló farkukról lehet felismerni. Az állomány felszámolása a levegőből tökéletes biztonságban elvégezhető. Siess és hajtsd végre a feladatot, mielőtt továbbterjed a járvány!~p~Ne feledd, a 45.6.2-os paragrafus szerint semmilyen más állatot vagy tárgyat nem érhet bántódás a ~mission_target_planet~ bolygó felszínén a szerződéses kötelezettség végrehajtásának időtartama alatt.
+0x0000005E Imánkkal küldtünk neked pozitív hullámokat, miközben a ~mission_target_planet~ bolygó felé tartottál, erre itt találunk! Azt hittük, hogy úton vagy és elpusztítod az összes ~mission_target_animal_species~ egyedet!~p~Hát nincs minden adat a küldetésnaplódban?
+0x00000081 Hamarosan visszajövök.
+0x00000089 Az egek hatalmas balszerencsével vertek meg minket! Hamarosan kezdődik a műsor, és rengeteg tennivalónk van még!~p~Még le kell ragasztanunk ezeket a völgyeket, vazelint kell kennünk a hegycsúcsokra és akkor még nem is végeztünk!~p~Miattad nem mi leszünk a show legjobbjai és ezt nem felejtjük el neked, te gazember!
+0x0000004A Hadd kérjelek meg még valamire...
+0x000000FE Csak a foszforeszkáló állatokat lődd, ha kérhetnénk. Köszönjük.
+0x000000EA Még valami...
+0x000000D8 Rengeteg haszontalan állat van a ~mission_target_planet~ bolygón és te segítesz a probléma megoldásában.
+0x000000FF A küldetés sikertelen. Túl sok szükségtelen gyilkolás.
+0x000000BB Hoppá. Az én hibám. Na szia!
+0x000000C8 Még valami...
+0x000000D5 Látom, sok a dolgod. Majd később beszélünk.
+0x000000BF ~player_creature_name~ barátunkat legyőzte egy pokolfajzat? No igen, nagyon sokan voltak!
+0x000000C9 Mielőtt indulnék, kérdeznék még pár dolgot.
+0x000000D3 Bocsánat a zavarásért. Viszlát.
+0x000000EC Üdvözlet ismét, kapitány! Látom, nehézségekkel volt kénytelen szembenézni küldetése során.~p~Csalódást okoz, hogy nem volt képes elég gyorsan megsemmisíteni a ~mission_target_animal_species~ fajba tartozó állatokat. Talán több céllövészetre lenne szüksége!
+0x000000C6 Mielőtt indulnék, kérdeznék még pár dolgot.
+0x00000102 Fertőzött életforma. Elporlasztás…
+0x000000D2 Felmentést kérek a feladat alól, esedezem!
+0x00000101 Potenciális fertőzés. Elporlasztás…
+0x000000D4 Akkor legközelebb. Viszlát.
+0x000000EB A ~player_creature_name~ nem volt képes eliminálni az ~mission_target_animal_species~ állatokat a megadott idő alatt. A ~player_creature_name~ faj tehát nem hatékony.
+0x000000EF Fogadd őszinte bocsánatkérésemet!
+0x000000BE Üdvözlünk ~player_creature_name~ ~player_title~! A Nagytanács nevében köszöntünk ismét.~p~Ha már itt tartunk... Szomorúan közlöm veled, hogy megbuktál a küldetésen. Úgy értékelem, az eset áttekintést igényel. Mire sikerül kiértékelni és elvégezni a papírmunkát, talán javíthatsz a megítéléseden.
+0x000000E1 Nem vadásztál le ~mission_target_animal_species~ állatokat a ~mission_target_planet~ bolygón, pedig minden információ benne volt a küldetésnaplóban.
+0x000000D7 Azt szeretnénk, ha ellátogatnál a ~mission_target_planet~ bolygóra és levadásznál néhány állatot, amelyek gondot okoznak nekünk.
+0x000000C7 És még...
+0x000000BD Micsoda? Úgy látjuk, a sikeressel ellentétes állapotban tértél vissza! Mi a sikeres ellentétének ellentétére számítottunk!~p~Ó, ejnye! B terv! B tervre van szükségünk!
+0x000000B8 Mielőtt elindulnék, lenne néhány kérdésem...
+0x000000BA De ez így nagyobb buli! Viszontlátásra.
+0x000000F5 Túl sok egészséges állatot öltél meg! Térj vissza a ~mission_source_star~ csillag rendszerébe és közöld a rossz hírt.
+0x000000E4 Gyorsan, kapitány! Sietnünk kell, csak ~mission_time~ szektonnyi ideje van, hogy a ~mission_target_planet~ bolygóról elsöpörje a beteg ~mission_target_animal_species~ egyedeket.
+0x000000F3 A bolygó a ~mission_target_star~ rendszerben van.
+0x000000F4 Térj vissza a ~mission_source_star~ csillag ~mission_source_planet~ bolygójára a fizetségedért.
+0x000000E8 Kilépsz? De mi számítottunk rád!
+0x000000CE Az összes, célpontként kijelölt ~mission_target_animal_species~ állat elpusztult. Jelentkezz a jutalmadért!
+0x000000E3 A küldetésre kevés idő van, ezért azonnal indulnod kell. Csak ~mission_time~ szektonnyi időd van, hogy kiirtsd a ~mission_target_planet~ bolygón az ~mission_target_animal_species~ állatokat.
+0x000000DA Veszedelmes betegséget hordozó állatok támadtak településünkre a ~mission_target_planet~ bolygón! A segítségedre van szükségünk!
+0x000000E6 És még...
+0x000000CC Még valami...
+0x000000B9 Dehát dolgokat felrobbantani nagy buli! Na sziasztok!
+0x000000CB És még...
+0x000000E7 Az ellenállás a groxnak maga az öngyilkosság.
+0x000000F2 Kudarc. Menj vissza a ~mission_source_planet~ bolygóra.
+0x000000E5 Nem engedelmeskedsz a parancsnak?
+0x000000C2 Hohó! ~player_creature_name~ ~player_title~ ismét... bár azt hiszem, talán nem is annyira ~player_title~.~p~Lássuk csak... Legyőzött egy csomó ostoba vadállat, amelyek világítanak a sötétben és nincs módjuk ellentámadásra.~p~Hihi Pedig milyen jó kis tuninghajód volt! Kár, hogy az egész titkos! Haha!
+0x000000C3 Kedves ~player_creature_name~ ~player_title~, te ugyan biztonságban visszatértél, de a feladattal kudarcot vallottál.~p~Megértjük a dolgot. Nehéz ám farkasszemet nézni az ilyen gyapjas kis lényekkel, aztán hidegvérrel a szemük közé lőni.
+0x000000B7 ~player_creature_name~! A fegyver igazi mestere nem lő ám mindenre, ami megjelenik a célgömbben, csak a célra!~p~Nos, te nem vagy efféle mester. Sőt, semmilyen.
+0x000000F1 Kudarc. Menj vissza a ~mission_source_planet~ bolygóra.
+0x000000D6 Kérlek, értsd meg a helyzetemet...
+0x000000D0 Nem fogadhatom el ezt a feladatot.
+0x000000D9 Be fogod mutatni nekünk a ~mission_target_planet~ bolygó katonai potenciálját.
+0x00000108 Kérlek, fogadd őszinte bocsánatkérésemet…
+0x000000C4 A ~race~ azt mondta, hogy ~player_creature_name~ siessen a ~mission_target_planet~ bolygóra, de ~player_creature_name~ ehelyett az idejét pazarolta. ~player_creature_name~ hatékonysága kérdéses.
+0x000000FB Nem sikerült időben kiirtanod a fertőzött állatokat. Menj vissza a ~mission_source_star~ rendszer ~mission_source_planet~ bolygójára és mondd el nekik a rossz hírt.
+0x000000D1 Ez a feladat már nem fér bele a napirendembe.
+0x000000DC Egy ártalmatlan vírus a vadvilágot veszélyeztető mutánssá fejlődött a ~mission_target_planet~ bolygón. Segítenél nekünk?
+0x000000C0 Hú… Üdvözlet ismét itthon.~p~Hallottuk, hogy nem tudtad véghezvinni a küldetést, de ettől meg is könnyebbültünk. Talán szükségtelen is volt.
+0x000000C1 ~player_creature_name~ ~player_title~! Fajod még egyszerű utasítások végrehajtására is képtelen, és ezt nem fogjuk elfelejteni a legközelebbi találkozáskor.
+0x000000F0 Előre nem látott problémáim akadtak. Viszontlátásra.
+0x000000FA Túl sok egészséges állatot öltél meg. Menj vissza a ~mission_source_star~ rendszer ~mission_source_planet~ bolygójára és mondd el nekik a rossz hírt.
+0x000000CF Inkább valami mást csinálnék.
+0x000000F8 Az összes, célpontként kijelölt ~mission_target_animal_species~ egyed megsemmisítve. Térj vissza a ~mission_source_star~ rendszer ~mission_source_planet~ bolygójára a fizetségedért.
+0x000000E2 A halálos veszélyt jelentő ~mission_target_animal_species~ állatfaj nem tűnt el a ~mission_target_planet~ bolygóról! Tekints bele küldetésnaplódba és azonnal utazz oda!
+0x000000F6 Nem sikerült idejében levadásznod a beteg állatokat. Térj vissza a ~mission_source_star~ csillag rendszerébe és közöld a rossz hírt.
+0x00000103 Letelt az idő. A küldetés sikertelen.
+0x000000E9 ~player_creature_name~, nem teljesítetted, amit a grox kívánt tőled! Ezt feljegyeztük.
+0x000000DB Ragadozó állatok támadják a ~mission_target_planet~ bolygó lakóit. Segítesz nekünk?
+0x000000AE Azt hiszem, hasznos lett volna, ha megnézed egy értelmező szótárban az „állománymegóvás” szó jelentését, mielőtt belekezdesz ebbe az utazásba. .~p~Ha megtizedeled a ~mission_target_animal_species~ faj teljes populációját, sokkal nehezebb lesz megőrizni bármit is, főleg, hogy a fajt a kihalás szélére sodortad!~p~Te aztán nagy segítség vagy, mondhatom!
+0x0000000A A hamis Eljövendő Istenség hívei betegségeket terjesztettek el a ~mission_target_planet~ bolygó állatai között. Segítenél abban, hogy legyőzzük ezt a rontást?
+0x0000001A Megpróbálunk minél jobb viszonyt fenntartani az állatokkal, de a ~mission_target_planet~ bolygón ellenségesen viselkednek velünk és valósággal elszabadult a pokol! Ugye lenyugtatod őket? Lehet lézerrel is ám!
+0x00000018 Mi próbálunk harmóniában élni a természettel, de ő úgy gondolja, hogy ennek az is a része, hogy néha mi vagyunk az ebéd. Épp ilyen helyzet állt elő a ~mission_target_planet~ bolygón, ahol az állatok különösen vérszomjassá váltak. Mi tartunk a vérontástól, ezért a te segítségedet kérjük.
+0x00000010 Nincs nevetségesebb, mint a divatjamúlt dolgok. Többé nem szórakoztatóak számunkra a ~mission_target_planet~ bolygó világító állatai! Megszabadulsz tőlük a kedvünkért?
+0x0000007F Köszönjük! ~mission_time~ szektonnyi időd van, hogy ~mission_target_planet~ bolygón kiirtsd a ~mission_target_animal_species~ fajt. Ne légy ártalmára más állati barátainknak és ne pusztíts el egyet se közülünk, valamint kíméld meg feng shuinkat is.~p~Kérünk, hogy gyorsan cselekedj, mielőtt a ~mission_target_animal_species~ még jobban elterjed!
+0x00000012 Kellemes utazgatásunk közben fénylő foltokat festettünk néhány állatra a ~mission_target_planet~ bolygón. Nem tudhattuk, hogy ez feldühíti őket. Ugye segítesz nekünk? Arra gondoltunk, hogy a dühöngő fenevadakból pár sokkal látványosabb hamukupacot kellene gyártanod.
+0x00000036 Védtelen állatok lemészárlása? Ki ne hagyjatok!
+0x000000EE Megállj, ~player_creature_name~!~p~Az esztelen lövöldözésed nagyobb kárt tett, mint maguk a vadállatok! Azt hittük, tudod, mi a különbség a jó és a gonosz között, de nyilvánvalóan tévedtünk.
+0x00000052 Hmmm. Elfelejtetted, mi a küldetésed? Meglepő. Az aktáidban nagyon jó értékelések vannak. Y~p~Mindegy, a helyzet a következő:~p~Válassz ki ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^mutánst^mutánst~ a ~mission_target_star~ rendszer ~mission_target_planet~ bolygójáról.~p~Az érintett lényeket világító feromon-aurájukról azonosíthatod. Jó vadászatot.
+0x000000FD Siker! Az összes, célpontként kijelölt ~mission_target_animal_species~ állat elpusztult.
+0x00000045 ~player_creature_name~ ~player_title~! Megtisztítottad a ~mission_target_planet~ bolygót. Kérlek, fogadd hát el a ~mission_rewards~ fizetséget és próbáld elfelejteni ezt az esetet, amilyen hamar csak tudod.
+0x00000000 Van ám itt valami.... A fizetség ~mission_rewards~, de sajnos ehhez el kell altatni egy-két állatot.~p~Bizonyos konzervatív köröket érdekelni kezdte a ~mission_target_planet~ bolygó és úgy döntöttek, hogy bizonyos génkészlettel rendelkező fajok megfigyelésére és ritkítására lesz szükség.~p~Egy fajt úgy azonosítottak ugyanis, hogy az éppen evolúciója fordulópontján jár, így annak egyes egyedeit ki kellene iktatnod, hogy ne fejlődhessenek tovább.
+0x0000003D Hé! Ez igen! Nem is tudom, hogy mondjak neked köszönetet! Nagylelkű lépés volt, hogy kihúztál minket a pácból. Itt a ~mission_rewards~, ahogy ígértük.~p~Mi magunk is véghezvittük volna, de számunkra első a politikai pálya, így nem tehetünk ilyesmit nyilvánosan.~p~Még akkor sem, ha mindez A HATALMAS GROX ÉRDEKEIT SZOLGÁLJA! ÖRÖK DICSŐSÉG NEKI!
+0x00000047 Szevasz, szevasz, ~player_creature_name~ ~player_title~! Megtetted, amit mások nem. Kitűnő, igazán kitűnő! Látod, itt van neked ~mission_rewards~.
+0x00000040 Csodás és elragadtatott ünneplés vár ránk az űrminiszter idei planetáris felvágási estjén! Hála magának most már biztosan mi leszünk a show győztesei, drága, drága lélek!~p~Itt a díja, ahogy ígértem. ~mission_rewards~! Megérte az utolsó spóracentig!
+0x00000046 Pompás! A ~mission_target_planet~ bolygó felszíne most sokkal érdekesebb azokkal a kis kráterekkel! Tiéd a ~mission_rewards~!
+0x00000048 Kedves ~player_creature_name~ ~player_title~, örülünk visszatértednek.~p~Köszönjük, hogy visszaállítottad az egyensúlyt, így harmóniát találhatunk aranyos kis barátainkkal, az állatokkal. Itt van hát a ~mission_rewards~. Órákig imádkoztunk felette!
+0x0000003C Kiváló munka, mint mindig. A kolóniákon komoly nagyrabecsülésnek örvend.~p~~mission_rewards~ összeget ígértünk fizetségért, igaz?~p~Öröm egy ilyen megbízható üzletféllel megállapodást kötni!
+0x00000049 ~player_creature_name~! Úgy tűnik, hogy képes vagy egyszerű parancsoknak engedelmeskedni. Ezt a ~mission_rewards~ összeget tekintsd pozitív visszacsatolásnak.
+0x000000A7 A ~mission_rewards~ jutalmat egy megbízhatóbb fajnak kell majd félretennünk.
+0x00000042 Üdvözlet, ~player_creature_name~ ~player_title~!~p~A Nagytanács elégedett volt veled. Megkapod a Másodosztályú Vállveregetést, és a ~mission_rewards~ jutalmat!
+0x000000A0 Ez elképzelhetetlen! Ilyen nem történhet meg!~p~A bírák bármelyik percben itt lehetnek és neked köszönhetően a bolygó még csak félkész! ~p~A ~mission_target_planet~ bolygó így maximum a „Nem is annyira rossz” díjra pályázhat!
+0x000000DF ~player_creature_name~! Engedelmeskedtél a parancsnak. Jutalmul ~mission_rewards~ összeget kínálunk, mert néha ez motiválja az olyan szerves élőlényeket, mint te.
+0x00000043 ~player_creature_name~ ~player_title~! Méltónak bizonyultál a bizalmunkra. Vedd a ~mission_rewards~ jutalmat! Spóriusz világítsa meg utadat!
+0x00000044 Hálásak vagyunk, de a ~mission_target_planet~ bolygó ökoszisztémája még inkább az. Örömmel adjuk át neked a ~mission_rewards~ fizetséget.
+0x000000E0 Nagyszerű munka, kapitány! És az a ~mission_rewards~, ami itt hever!
+0x0000003F Ó~p~Megint maga. Ez gyors volt.~p~Igazi buzgómócsing maga, nyüzsög, mint egy sajtkukac.~p~Ha most megfizetünk, megint elmegy, ugye?~p~Ne, itt a ~mission_rewards~, ahogy ígértük, most pedig húzzon el innen, mint a vadlibák.
+0x00000058 A Nagytanács aggodalommal veszi tudomásul, hogy nem ölted meg a ~mission_target_animal_species~ faj összes egyedét. A küldetés összes paraméterét tartalmazza küldetésnaplód. Polgáraink továbbra is veszélyben vannak. Elutaznál a ~mission_target_planet~ bolygóra és kiirtanád a ~mission_target_animal_species~ fajt?
+0x0000006F Látom, magányra vágysz. Viszlát!
+0x000000F7 Irts ki ~mission_num_kills_needed~ célul kijelölt ~mission_target_animal_species~ ~^p^mission_num_kills_needed^állatot^állatot~ a ~mission_target_star~ rendszer ~mission_target_planet~ bolygóján.
+0x00000029 Menj a ~mission_target_planet~ bolygóra. ~group:star_clue~.~p~Ölj meg ~mission_num_kills_needed~ megjelölt ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~! Gondolom ez nem okoz problémát.
+0x00000056 Kérlek, ne késlekedj! Az Űrminisztérium Felvágós Kiállítása egyre közeledik!~p~Minden precizitásunkra és önbizalmunkra szükségünk lesz, hogy emlékezz majd a feladatodra:~p~Ölj meg ~mission_num_kills_needed~ ~mission_target_animal_species~ fajú ~^p^mission_num_kills_needed^állatot^állatot~ a ~mission_target_star~ rendszer ~mission_target_planet~ bolygóján.~p~Ha ez nem így lesz, büntetést kapunk és nem mi leszünk a show legjobbjai!
+0x00000053 Hé, haver! Figyelj, tudod, hogy kedvelünk, mint minden érző lényt, ugye? Ez az egész csak szakma.~p~Figyelj... ölj meg ~mission_num_kills_needed~ darab ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~ a ~mission_target_star~ naprendszer ~mission_target_planet~ bolygóján és minden rendben lesz.~p~Nem az a lényeg, hogy mi hogy érzünk irántad, hanem az, hogy A BÖLCS ÉS SZIGORÚ GROX A MAGA MINDENHATÓSÁGÁBAN AZT KÍVÁNJA, HOGY SZOLGÁLD ŐT!
+0x000000FC ~mission_num_eradicated_creatures~ megvan, még ~mission_num_diseased_creatures_left~ ~mission_target_animal_species~  van még hátra.
+0x000000CD Semmisíts meg ~mission_num_kills_needed~ célul kijelölt ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~ a ~mission_target_planet~ bolygón.
+0x000000DD Menj a ~mission_target_planet~ bolygóra. ~group:star_clue~.~p~Ölj meg ~mission_num_kills_needed~ megjelölt ~mission_target_animal_species~ ~^p^mission_num_kills_needed^állatot^állatot~. Ez minden, amit tudnod kell.
+0x00000054 Tényleg nem akarunk ám zavarni. komolyan!~p~Csak arról lenne szó, hogy ~mission_num_kills_needed~ darab ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~ kellene megölni, mert elkapta őket az úgiláz! Olyan virulensek, hogy világítanak! Ezt nem vehetjük könnyedén!~p~Kérlek, indulj a ~mission_target_star~ rendszerbe és keresd meg a ~mission_target_planet~ bolygót.~p~Öld meg a fertőzött állatokat és ne hagyd, hogy elbűvöljenek a cukiságukkal, mint bennünket!
+0x00000003 Tennivalót akarsz? Hát persze! Tudjuk, hogyan szabadulhatunk meg tőled, illetve, izé... Lenne egy feladatunk a számodra.~p~Mi lenne, ha... Nem is tudom... mondjuk megölnél ~mission_num_kills_needed~ darabot a ~mission_target_animal_species~~^p^mission_num_kills_needed^fajból^fajból~?~p~Igen, ez tényleg eltarthat egy jó darabig. Csak csináld.~p~Megfizetünk, jól... ~mission_rewards~ hogy hangzik? Ennyiért eltűnsz innen, ugye?
+0x00000027 Frankó! Azt akarjuk, hogy kinyírj ~mission_num_kills_needed~ jelölt ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~. Ezeket arról ismered meg a bolygó felszínén, hogy fénylenek.~p~Néhány tény: ~group:star_clue~. A bolygó, amelyet keresel, a ~mission_target_planet~ nevet kapta.~p~Ha végeztél, ~mission_rewards~ üti a markod.~p~Nyomás, nyomás!
+0x00000055 Nem hittem a szememnek, amíg meg nem szólaltál! Most már a tulajdon kilenc érzékemben sem bízom. Visszajöttél volna dolgod végezetlen? Hahh!~p~Figyelj alaposan: ölj meg ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^lényt^lényt~ a ~mission_target_star~ rendszer ~mission_target_planet~ bolygóján.~p~A legfontosabb azonban az, hogy ne felejts el eltakarodni innen!
+0x00000002 Milyen szerencse, hogy jössz! Sürgősen találnunk kell valakit egy olyan feladat végrehajtására, amellyel mi nem boldogulnánk.~p~Az ennivalóan aranyos ~mission_target_animal_species~ fajról van szó! Közülük ~mission_num_kills_needed~ példány a rettegett úgi-láz áldozatául esett. Ha nem sikerül megállítani a kórt, mind kihal!~p~A fertőzött állatokat így sajnos el kell pusztítani.~p~Megfizetünk ám! Legyen ~mission_rewards~. Elég lesz?
+0x00000071 Kérdeznék még valamit…
+0x0000003B Nem, soha! Nem. Bocs.
+0x00000026 Kérdeznék még valamit…
+0x0000008A Kérdeznék még valamit…
+0x00000085 Hmmm, ez szokatlan! Úgy hallottuk, hogy többnyire minden galaktikus megbízást elfogad.~p~Sajnálatos ez az eset. A ~mission_target_animal_species~ faj fejlődése rossz irányt vehet fel, ha nem teszünk valamit ez ellen.~p~Nem minden fajnak van olyan szerencséje, hogy megfelelő tanítóra találjon. Azt hiszem, a véletlenre kell bíznunk magunkat a ~mission_target_animal_species~ faj ügyében.
+0x000000C5 Kérdeznék még valamit…
+0x000000B1 Kérdeznék még valamit…
+0x0000002A Blark! ~mission_num_kills_needed~ ~mission_target_animal_species~ azonosítva, ezeket kell kiiktatni. Hogy megismerd őket, meg is jelöltük mindet egy világító anyaggal, amellyel azonosíthatóak.~p~Juhú! Nagy buli ám a foszforeszkálás, nem is felejtjük el a legközelebbi flortondiai reblix napon. Te is szereted a flortondiai sültet? Szerintem kissé sótlan, legalábbis legtöbbször.~p~Várjunk csak, még mindig itt vagy? Nem tudod, merre kellene menned?~p~~group:star_clue~. A bolygó neve ~mission_target_planet~ bolygó.~p~A fizetség ~mission_rewards~ lesz majd.
+0x000000ED A csillag neve ~mission_target_star~
+0x00000100 További ~mission_num_healthy_creatures_left~ egészséges ~^p^mission_num_healthy_creatures_left^lény^lény~ halála a küldetés végét jelenti.
+0x000000DE ~mission_target_planet~ bolygón keress ~mission_target_animal_species~ egyedeket. Világító nyomot hagynak, így nem lesz nehéz megtalálni őket. Öld meg mindet, de ne essen bántódásuk az épületeknek, a lakosoknak és a többi állatnak!~p~~group:star_clue~. ~mission_target_planet~ bolygó ott lesz a közelben.
+0x00000107 Látom, szüksége van egy kis időre. Visszajövök később.
+0x00000013 Én, szánalmas nyomoronc alig-alig merészellek zaklatni, de sajnos vészhelyzet állt elő. A ~mission_source_empire~ ragadozó létformák támadása alatt áll. Alantas szolgád őszintén reméli, hogy kegyes leszel és segítesz kipusztítani a ~mission_target_animal_species~ faj egyedeit a ~mission_target_planet~ bolygóról. A sikeres munkát természetesen komoly díjjal jutalmazzuk.
+0x00000025 Van egy kis problémám. Azt hiszem, nem.
+0x0000000C ~player_creature_name~ ~player_title~! Valaki rossz helyre írt egy számot a bolygóközi felmérésben, ezért a ~mission_source_empire~ egyik bolygójára nem a megfelelő alfaj került. Ez az agresszív állat nemcsak a helyi állatvilágot, de már polgárainkat is veszélyezteti.~p~Érdekelne egy olyan munka, amelynek keretében el kellene söpörnöd a ~mission_target_animal_species~ fajt a ~mission_target_planet~ bolygóról?
+0x000000BC Látom, szüksége van egy kis időre. Visszajövök később.
+0x00000105 ~mission_target_star~ csillag körülbelül ~mission_clue_distance~ parszekre van egy ~mission_clue_landmark1~ körzetében.
+0x00000106 ~mission_target_star~ csillag ~mission_clue_range_min~ – ~mission_clue_range_max~ parszekre van egy ~mission_clue_landmark1~ közelében.
+0x00000004 Ma rádmosolygott a szerencse, kedves lényem! Megvan a neked való feladat!~p~Neveztük a ~mission_target_planet~ bolygót az Űrminisztérium Felvágós Kiállítására. Ez a legrangosabb hasonló esemény, és mi nagyon keményen dolgoztunk azon, hogy a ~mission_target_planet~ bolygó sikerrel indulhasson. Minden tökéletes!~p~Hogy pontosak legyünk, csak majdnem minden. Sajnos, a ~mission_target_animal_species~ faj egy kis csoportja nem viselkedik megfelelően, pedig hamarosan indul a műsor! Ezeket az állatokat sajnos ki kell irtanod.
+0x0000007D Indulj a ~mission_target_planet~ bolygó felé, és likvidáld az összes ~mission_target_animal_species~ egyedet. Mindössze ~mission_time~ szektonnyi időd van, hogy megmentsd a mieinket. Más fajok ne váljanak célpontoddá és kíméld meg kis otthonainkat, valamint ne bánts bennünket sem!~p~Siess, ne hagyd, hogy a ~mission_target_animal_species~ faj még több kárt okozzon!
+0x00000032 Ez a történet a ~mission_target_planet~ bolygón játszódik majd. ~group:star_clue~. Sajnálatos módon a harmónia fenntartása érdekében ~mission_num_kills_needed~ számú egyedet el kell távolítani a vad ~mission_target_animal_species~ állatok csapatából.
+

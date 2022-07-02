@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 Has completado la investigación en el planeta ~mission_target_planet~. Vuelve al planeta ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000098 Completada
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000097 En progreso
+0x00000000 ¡~ep1_captain_full_name~, acabamos de tener noticias de una catástrofe biológica! Una nave alienígena no identificada se ha estrellado cerca de uno de nuestros centros de investigación ecológica. ~p~Hemos perdido toda comunicación con dicho centro. ~p~Nos preocupa que la nave alienígena transportase algún tipo de agente contagioso. ~p~¿Lo comprobarás por nosotros?
+0x0000004E Las coordenadas planetarias han sido transferidas a tu historial de misiones. Date prisa antes de que el contagio se extienda.
+0x00000081 ¿Seguro que no quieres exponerte a un contagio alienígena potencialmente mortal?~p~Nuestra lista de conejillos de Indias se está acortando...
+0x00000092 Investiga en el sistema estelar ~mission_target_star~. Prueba a contactar con el centro de investigación.
+0x00000064 Sabía que podíamos contar contigo. Averigua qué ocurrió en el centro de investigación y vuelve para informar de inmediato. ~p~Date prisa, ~ep1_captain_full_name~, antes de que el contagio se extienda.
+0x00000094 Investiga en el sistema estelar ~mission_target_star~. Prueba a contactar con el centro de investigación del planeta ~mission_target_planet~.
+0x000000B1 Investiga la nave que se ha estrellado en el planeta ~mission_target_planet~.
+0x00000071 Sinceramente, tampoco nos gustaría descender a un planeta peligroso para investigar un contagio alienígena letal.~p~Tu raza es más inteligente de lo que parece.
+0x00000041 Ha ocurrido lo que temíamos. Toda la estación ha sucumbido al contagio salvo esta niñita. Esperemos que su sistema inmune nos dé pistas que ayuden a evitar este tipo de catástrofes en el futuro.~p~ No es mucho, pero nos gustaría ofrecerte ~mission_rewards~ esporetas por tu ayuda.
+

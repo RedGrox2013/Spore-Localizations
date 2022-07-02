@@ -1,0 +1,255 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000BC ...
+0x0000003C Du kan regne med mig.
+0x0000003D Okay, jeg er på vej.
+0x00000027 Åh. Ikke lige nu. Senere, måske.
+0x00000028 Det passer ikke så godt nu. Måske senere.
+0x0000003B Jeg er tilbage om lidt.
+0x00000004 Se lige den ynkelige skrotbunke, vi kalder vores hjem! Vi er så trætte af det sted! Det hele! Alting! Hele økosystemet! ~p~Vi har givet vores planter og væsener alt for lang snor. Nu er det på tide, at de skrider! ~p~Vi har brug for, at du finder planeten ~mission_target_planet~ og snupper et eksemplar af hver plante og væsen der. Vi har tænkt at de skal erstatte den ynkelige samling af DNA, der breder sig på denne planet. Måske har vi det lidt sjovere med lidt nyt blod.
+0x00000029 Undskyld, vi har ret travlt lige nu.
+0x0000003A Vi ses.
+0x00000005 ~race~-arten er uforlignelige mesterkokke, kendt for vores fine smagsløg og fremragende kulinariske færdigheder - og vi har opdaget den hellige gral i finere madlavning: Planetbouillabaisse! ~p~Planeten ~mission_target_planet~ har den perfekte blanding af fauna og flora. Det er som om planetens mål har været at blive så lækker som mulig! ~p~Du skal finde denne planet og vende tilbage hertil med prøver på alt liv - en af hver. Derefter vil vi holde sand festmiddag!
+0x00000003 Det skete igen! Banditter! En gruppe ungdomskriminelle fra et nærliggende system har spredt kaos i vores nabolag. Planterne og dyrene er med jævne mellemrum har jævnligt fået olferter, buksevand og er blevet spraymalet - og nu ser de efterhånden lidt medtagne ud. Så vi vil pifte stedet lidt op med et par nye eksemplarer.~p~Du skal finde frem til planeten ~mission_target_planet~ og hente os et par af dens beboere. En af hver.
+0x00000040 Ved du hvad? Jeg takker nej.
+0x0000003F Helst ikke - jeg har gang i andre ting.
+0x0000003E Det her er bare ikke min kop te.
+0x00000032 ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~.   Indsaml et eksemplar af alle planter og dyr, og vend derefter tilbage hertil
+0x00000041 Nej, men tak for tilbuddet.
+0x00000024 Er det langt væk?
+0x00000023 Hvordan finder jeg denne planet?
+0x00000026 Helst ikke, tak. Nej tak.
+0x00000022 Er det svært at finde denne planet?
+0x00000025 Hvordan finder jeg den?
+0x000000D0 Du formåede ikke at finde eksemplarerne i tide. Tag tilbage til planeten ~mission_source_planet~ i ~mission_source_star~-systemet for at aflevere de dårlige nyheder.
+0x0000007D Vi ser frem til at se resultatet af denne intelligenstest.
+0x000000C0 Hvad? Hvad? Hvad foregår der?
+0x00000083 Vil du overveje tilbuddet igen, hvis vi lod dig skyde ting?
+0x00000087 Jeg må hellere komme af sted. Jeg er på vej!
+0x00000082 Jeg ville ikke forvente, at en laverestående art som din er interesseret i disse vigtige gøremål.
+0x00000089 Neeeej! Du kan ikke lade mig i stikken sådan her, makker! Du forstår ikke - den salve er det eneste, der forhindrer den kongelige kløe i at forsvinde. ~p~Når Kejserens hud bliver irriteret, bliver Kejseren irriteret. Og når Kejseren bliver irriteret ... så bliver du ekspederet! Jeg må leve et liv i smerter.
+0x00000088 Det her er en stor skuffelse og et plet på dit omdømme. ~p~Men mest af alt er det overraskende. Jeg har set din fil, og det lyder ikke som den frygtløse eventyrer, jeg læser om. ~p~Jeg må vel bare finde en anden.
+0x00000085 Stol trygt på mig!
+0x00000084 Så er vi på vej, vil jeg mene.
+0x00000086 Du kan regne med mig!
+0x0000008B Det burde jeg! Ingen siger nej til ~race~-arten! Det kommer til at koste dig dyrt! Vi vil - URK!!! ~p~Vi vil - HUNNGH! ~p~Vi - NYAAAGH! ~p~Vi vil tage vores hjertemedicin - hurtigt! Vi vil tage os af dig senere. Bare lad os være i fred.
+0x000000CE Du har alle eksemplarer. Vend tilbage til planeten ~mission_source_planet~ i systemet ~mission_source_star~ for at få din belønning.
+0x0000008C Åh, hvor er det bare nederen! Vi havde længtes efter at kildre vores smagsløg og den silkebløde smag, som kun kan findes på denne planet. ~p~Vi vil nok aldrig støde på en anden, rejsevillig gastronom, der er villig til at hjælpe os i vores jagt på nydelse. Vi er dog for evigt forventningsfulde ved udsigten til denne nye smagsoplevelse. Vi hungrer efter at udforske alle mundens nydelsesorganer!
+0x0000008A Åh. Hmm, det her er meget skuffende. Vi får sjældent besøgende (af den ikke-vandaliserende art), så der går nok lidt tid, før vi finder nogen, der kan hjælpe os. ~p~Og vi ville gøre det selv, men vi kan slet ikke klare ting, der omfatter løft af tunge ting. Vores rygproblemer er dokumenterede i den medicinske litteratur.
+0x00000054 Det var sjovt. Hyg dig.
+0x00000055 Er kun glad for at hjælpe. Farvel.
+0x00000057 Jeg vil gerne hjælpe. Vi ses.
+0x00000056 Glad for at hjælpe. Jeg lever for at give.
+0x00000072 Klart. Det giver mening. Jeg er på vej!
+0x00000078 MISSIONSSTATUS: Accepteret af leverandør - i gang. ~p~PSYKOLOGISK OPMUNTRING: Tak. Storartet! ~p~LEVERANDØRSTATUS: Tager af sted.
+0x00000077 Hele verdensrummets samlede masse af vidundere vil snart eksplodere i vores munde, en bid af gangen! Du vil blive en del af den gastronomiske historie, når du vender tilbage, og bliver snart fejret som kulinarisk helt lige indtil universet kollapser! ~p~Min mund løber i vand ved tanken om det kommende måltid. Nej, det passer ikke. Jeg *savler* ved tanken om dette planetære måltid. Jeg har mistet enhver form for værdighed og blufærdighed!
+0x00000076 Åh, hey - tak, makker. Du er grim, men på en pæn måde. ~p~Nå, du må hellere smutte. Den planet finder ikke sig selv. ~p~Smut hellere nu. Skrub af. Forduft.
+0x00000075 Storartet! Du er en god sjæl, når du hjælper os. Vidste du det?~p~Vi ville tage af sted selv, men så snart vi forlader atmosfæren, er der en, der er bange for, at der ikke er lukket for en vandhane. Det skaber selvfølgelig en masse panik, og inden vi ved af det, så er rumskibet vendt om. ~p~Så sørg derfor at tjekke, at du har slukket for kaffemaskine og strygejern, inden du tager af sted, okay?
+0x00000069 Bare en ting mere, inden vi skilles ad.
+0x00000052 Bare en ting mere, inden vi skilles ad.
+0x00000068 Jeg har brug for lidt andre informationer ...
+0x0000006B Det her er ikke let. Så jeg siger op!
+0x0000006A Jeg ville spørge dig om noget andet.
+0x00000067 Må jeg stille dig et spørgsmål?
+0x000000E4 Jeg antager, at du har bedre ting at foretage dig end at fragte træer rundt!
+0x000000E5 Vi vil prøve at gøre udryddelsen af din art så smertefri som mulig.
+0x00000053 Jeg ville spørge dig om noget andet.
+0x000000E3 Vi råder dig til at tænke nøje, før du slår hånden af os igen.
+0x00000070 Det var det, jeg skulle vide. Tak.
+0x0000006F Okay, tak. Forstået.
+0x00000071 Ah, okay. Jeg tror, at jeg har forstået det nu.
+0x0000006E Jeg giver op. Det her er alt for svært.
+0x0000006C Det her er alt for forvirrende. Jeg siger op.
+0x000000E1 Tag straks af sted.
+0x0000006D Jeg kan ikke finde planeten. Jeg er færdig.
+0x000000AE Vi bærer ikke nag, champ.
+0x00000098 Jeg har brug for lidt andre informationer ...
+0x000000BA Jeg ville spørge dig om noget andet.
+0x00000097 Må jeg stille dig et spørgsmål?
+0x00000099 Bare en ting mere, inden vi skilles ad.
+0x0000009D Tja, jeg har travlt ...
+0x0000009E Jeg er sent på den. Sååå ...
+0x0000009C En anden gang, måske. Vi ses.
+0x0000009A Jeg ville spørge dig om noget andet.
+0x0000009B Beklager, at jeg ikke kunne hjælpe.
+0x000000BD Det her er svært. Kan jeg få lidt hjælp?
+0x000000BE Så ... hvad var missionen igen?
+0x00000093 Du er heldig, at vi er meget tolerante af natur.
+0x000000BB Beklager.
+0x000000AF Jeg har ret travlt med andre ting. Du forstår.
+0x00000051 Jeg har brug for lidt andre informationer ...
+0x000000B1 Lad os indse det. Det fungerede bare ikke.
+0x000000A3 Jeg må indrømme, at vi normalt ikke har de store armbevægelser; mange respekterer os for vores fornuftige natur og rolige gemyt. ~p~Alligevel føler jeg, at jeg er forpligtet til at fortælle dig, at ~race~-arten vil koge og syde af vrede, når de hører disse triste nyheder. ~p~Vi startede forberedelserne til denne madfest lige efter du tog af sted - så meget glædede vi os til denne kulinariske lækkerbisken. Alle de anstrengelser - til ingen verdens nytte!
+0x000000A4 MISSIONSSTATUS: Annulleret af leverandør; mission mislykket. ~p~STÆRKT UTILFREDS UDTALELSE: Din konfiguration af ansigtstræk er meget uheldig - og du er udstyret med tvivlsomme klæder, et drægtigt eksemplar fra din art kunne gå i. ~p~ÅRSAG/ANDET: Du ved, hvad du gjorde! ~p~TILENDEBRINGELSE AF FORHOLD: Vi er færdige med dig. Skrid!
+0x000000A0 Tager du pis på mig, makker? Det er bare gas, ikke? ~p~Nej? ÅH NEJ! ÅH NEJ! DET HER ER FORFÆRDELIGT! HIMLEN FALDER NED! HIMMELEN - ~p~Undskyld, jeg blev lige lidt svimmel der. Det er bare - når Kejseren bliver vred, så er han lidt ... drabelig. ~p~Okay. Tænk. Tænk. Jeg kan nok finde ud af noget. Jeg klarer det her. ~p~Nej. Jeg er helt blank. Jeg er dødsdømt!
+0x00000050 Må jeg stille dig et spørgsmål?
+0x000000A1 Åh, øh ... altså ... det er vel okay. Egentlig ikke. Det er ikke noget problem. Vi klarer den. Altså, det ... jo, det går nok. Alt går nok. ~p~Du ved ... Bare glem det. ~p~Jeg er sikker på, at du gjorde dit bedste, så ... øhm. Tak. Sådan da. Ja.
+0x000000A2 Du har begået en stor fejl i dag. ~race~-arten er kendt for at bære nag. Vi har knust et helt imperium af grunde, vi har glemt! ~p~Vi vil foretage en undersøgelse. Der vil være en komite og stillet masser af spørgsmål. Skriftlige erklæringer. Vidnestævninger. Vi finder en passende straf. Bare vent. ~p~Du skal nok finde ud af hvad det bliver. Vi ses snart, makker.
+0x000000B0 Jeg er SÅ færdig med denne mission.
+0x000000BF Jeg ... Jeg glemte, hvad jeg havde gang i.
+0x000000D1 En ting mere ...
+0x000000EF Jeg vil gerne lige se, hvad min mission var.
+0x000000EE Jeg har helt glemt, hvad min mission gik ud på.
+0x000000ED Jeg skal gennemse min mission.
+0x000000F0 Jamen, selvfølgelig! Missionslogbogen. Jeg kigger der!
+0x000000F1 Jeg har et par spørgsmål, før jeg går ...
+0x000000E8 En anden gang, måske. På gensyn.
+0x000000E9 Jeg kan se, at du har travlt. Vi tales ved senere.
+0x000000EC Jamen, selvfølgelig! Missionslogbogen. Jeg kigger der!
+0x000000EB Håber på din forståelse.
+0x000000EA Jeg kan se, at du lige har brug for lidt fred. Farvel.
+0x000000FB Håber på din forståelse.
+0x000000FA Jeg kan se, at du har travlt. Vi tales ved senere.
+0x000000F4 Jeg vil hellere lave noget andet.
+0x000000F2 Desuden ...
+0x000000F3 En ting mere ...
+0x000000F6 Denne opgave passer ikke længere ind i mit program.
+0x000000F9 Indtil vi tales ved igen. På gensyn.
+0x000000F7 Jeg kan ikke udføre denne opgave. Tilgiv mig.
+0x000000F8 Beklager, at jeg forstyrrede. På gensyn.
+0x000000D2 Beklager, at vi forstyrrede. På gensyn.
+0x000000AC Gentag lige din opgave. Mine noter er lidt utydelige.
+0x0000008F Meget vel. Vi indsamler dette parti på andre måder. Farvel.
+0x00000009 Vores pilgrimme, der er faste i troen, er klar til at rejse til en helt ny verden! Men vi mangler oplysninger om de arter, der venter os. Vil du hjælpe os med at udforske Spodes værk på denne nye verden?
+0x00000001 ~race~-arten har startet en omfattende, økologisk entreprise, og vi har brug for din hjælp. ~p~Vi etablerer store plantesamlinger for et par af de lovende økosystemer som et værn mod uventede hændelser, der kan føre til udryddelse. Du ved - meteornedslag, solstorme - den slags. ~p~Du skal finde planeten ~mission_target_planet~ og indsamle eksemplarer af planteliv. En af hver plantetype.
+0x000000AB Morer denne opførsel dig? Det morer ikke os. Farvel.
+0x00000006 FØRSTE MÅL: Find planeten ~mission_target_planet~. ~p~ANDET MÅL: Indsaml prøver på al flora og fauna. Vend tilbage hertil. ~p~ÅRSAG/ANDET: De ved, hvad de gjorde! ~p~BETALING: ~mission_rewards~ Sporebucks.
+0x000000A5 Den galaktiske apokalypse er over os. Vi forudser, at du ikke overlever. Farvel.
+0x00000049 Storrådet lykønsker dig på en vellykket mission. Jeg er bemyndiget til at tildele dig et anbefalingscertifikat af anden grad - samt ~mission_rewards~ Sporebucks.
+0x00000013 Et af vores handelsskibe passerede for nylig en verden, der måske er egnet til beboelse. Desværre skulle handelsskibet et andet sted hen for at aflevere en last med forbrugervarer, så den kunne ikke undersøge planeten nærmere. ~p~Et væsen så storslået som dig kan sikkert foretage en undersøgelse af planter og væsener på planeten uden problemer. Kan vi friste dig med en passende belønning?
+0x0000002E Vi har kun få informationer: ~group:star_clue~. ~p~Du får følgende belønning: ~mission_rewards~ Spucks.
+0x0000008E Uoplyste væsener som dig vil aldrig kunne værdsætte Spodes storhed. Farvel.
+0x00000047 MISSIONSSTATUS: Gennemført. ~p~ERKLÆRING: Godt gået! ~p~BETALING: ~mission_rewards~ Sporebucks. ~p~AFSKEDSHILSEN: ~race~-arten vil overveje at lade dig eksistere fremover.
+0x000000CD Planeten ~mission_target_planet~ ligger i ~mission_target_star~-systemet. ~p~Indsaml eksemplarer af alle livsformer på denne planet. ~p~Brug din bortføringsstråle til at tilføje eksemplarer til dit lastrum. Fødekæden fortæller dig, hvilke planter og dyr, du kan finde på planeten ~mission_target_planet~.~p~Husk: ~group:star_clue~
+0x00000048 Spodes glorværdighed er til stede i alle disse eksemplarer! Tag venligst ~mission_rewards~ Sporebucks og tal med vores missionær på vejen ud.
+0x000000D9 Stjernen ligger cirka ~mission_clue_distance~ parsec fra ~mission_clue_landmark1~.
+0x000000C5 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Hent os et eksemplar af hver plante og hvert dyr.
+0x00000058 Kom så! Vågn op! Du skal fokusere, hvis vi skal finde planeten ~mission_target_planet~: ~p~~group:star_clue~ - og vi betaler dig ~mission_rewards~ Sporebucks, når du leverer eksemplarer af alt liv til os.
+0x000000A8 Opgav du undersøgelsesmissionen? Men vi gjorde den lettere - bare for din skyld!
+0x0000001D Vi vil gerne slå os ned på planeten ~mission_target_planet~, men først skal vi undersøge planeten. Vil du hjælpe os?
+0x000000A6 Nægter du at følge vores aftale? Det vil jeg informere Storrådet om. Farvel.
+0x00000095 Dette får konsekvenser. Eller har du ikke hørt det?
+0x000000C2 Det er nødvendigt at foretage en undersøgelse af planter og dyr på ~mission_target_planet~. Det klarer du.
+0x00000020 Planeten ~mission_target_planet~ har brug for nyt liv. Kan du hjælpe os med at denne opgave?
+0x0000008D MISSIONSSTATUS: Afslået af leverandør; leder efter arbejdskraft. ~p~UDTRYK FOR MISBILLIGELSE: Du sutter maks. ~p~ÅRSAG/ANDET: Du ved, hvad du gjorde! ~p~BRAT AFSKEDSBESKED: Jaja.
+0x00000021 Ups! Da vi vågnede op efter den sidste fest, fandt vi ud af, at vi havde dræbt og spist det sidste medlem af flere lækre arter. Vil du hjælpe os med at skaffe nye forsyninger?
+0x0000004E Tak for din hjælp. Disse data afslører, at planeten ~mission_target_planet~ er rig på ressourcer - så vi er allerede i gang med at sende boretårne af sted. ~p~Her er din belønning: ~mission_rewards~ Sporebucks.
+0x00000045 Åh, se lige her. De planter. De er ikke et hak bedre end den sidste forsendelse! Og dyrene. Lad mig ikke komme i gang! ~p~Nå, men. Hvad skal man stille op. En aftale er en aftale. Her har du din belønning som aftalt: ~mission_rewards~ Sporebucks. ~p~Okay, så - vi har travlt med at udskifte planetens økosystem, så bare smut. Vi ses.
+0x0000001F Da vi slog os ned i denne verden, gjorde vi os umage med at udslette alt det kedelige eller grimme planteliv samt væsener. Men vi gik lidt over gevind ... nu er økosystemet ved at bryde sammen! Kan du hjælpe os?
+0x00000094 Vi klarer opgaven selv, så. Farvel.
+0x0000004B Spodes glorværdighed er til stede i alle disse eksemplarer! Tag venligst ~mission_rewards~ Sporebucks, og tal med vores missionær på vejen ud.
+0x0000009F ~player_creature_name~! Hvor ærgerligt! ~p~Vi havde helt ærligt forventet lidt mere fra dig. Du har altid tjent ~race~-arten så godt før i tiden. Hvor er vi skuffede. ~p~Det lader til, at du hellere vil drive rundt i rummet uden mål og uden bekymringer. ~p~Det lyder faktisk også ret fedt. Hvor er du heldig!
+0x0000002F RELEVANT INFORMATION: ~group:star_clue~ ~p~BETALINGSINFORMATION: ~mission_rewards~ Sporebucks. ~p~SPØRGSMÅL: Accepterer du disse vilkår?
+0x0000002D Hvad, skal vi skære det ud i pap for dig? Her er det, vi ved: ~group:star_clue~. ~p~Af sted. Du får ~mission_rewards~ Sporebucks.
+0x00000030 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Indsaml prøver på Spodes værk - planter og dyr - og vend tilbage hertil.
+0x000000A7 Vi skal sørge for, at din arts inkompetence bliver kendt over hele galaksen. Farvel.
+0x0000004C Din pragt overstråler i sandhed stjernerne! Nyd din belønning på ~mission_rewards~ Sporebucks, og din særlige tour rundt på vores basar, hvor der er unikke tilbud de næste par timer.
+0x000000A9 ~player_creature_name~. Det bedste vi kan sige om din fiasko er, at vi aldrig har set noget lignende. Farvel.
+0x00000016 Vi har opdaget en ny verden ved ~mission_target_star~. En af vores åndemagere drømte, at en af livsformerne på denne verden ville hjælpe os til at danne ektoplasma. Vil du hjælpe os i denne sag?
+0x00000012 Vi overvejer at rykke til planeten ~mission_target_planet~ og få lidt afveksling på den endeløse række af fester og festivaler, og i stedet udforske et fremmed økosystem. Men kan vi overhovedet leve der? Det kræver en undersøgelse. ~p~Gider du smutte forbi planeten ~mission_target_planet~ og foretage en for os?
+0x00000092 Tilsyneladende er ~player_creature_name~ for mægtig til at interessere sig for historien. Måske vil du kigge forbi vores markedsplads?
+0x0000000D En af vores sonder har opdaget en ny verden, planeten ~mission_target_planet~, der muligvis er egnet til beboelse. Men vi må først foretage en komplet undersøgelse. ~p~Vil du hjælpe os med dette?
+0x000000C1 Vi vil slå os ned på planeten ~mission_target_planet~, men vi vil lige sikre os, at der ikke venter os ubehagelige overraskelser. Kan du foretage en undersøgelse?
+0x0000004A ~player_title~ ~player_creature_name~. Tak. En tidlig analyse af prøverne viser, at denne planet er egnet til beboelse. Hvis denne belønning på ~mission_rewards~ Sporebucks behager dig, så er de dine.
+0x0000000A En undersøgelse har netop leveret informationer til Storrådet om, at der er en verden, der muligvis er egnet til beboelse. For at finde ud af, om dette er rigtigt, skal der foretages en komplet undersøgelse af planter og dyr af vores forskere på Foreningsinstituttet. Vil du hjælpe dem?
+0x00000091 Du har ikke lyst til at kigge rundt her? Er du også allergisk?
+0x0000004F Hvor er det godt, at vi stødte på dig! Snup de planter og dyr dernede, under løvgangen, og tag denne belønning som tak: ~mission_rewards~ Spucks.
+0x00000096 Planterne og dyrene har sikkert blændet dig rent spirituelt. Eller måske var du bare ikke særlig smart til at begynde.
+0x00000090 Undskyld, vi glemte, at din arts nysgerrighed angående naturen er ret begrænset. Farvel.
+0x000000D7 Stjernen ligger ~mission_clue_range_min~ til ~mission_clue_range_max~ parsec fra ~mission_clue_landmark1~
+0x000000AA I er et fjollet folk. Farvel.
+0x000000C6 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Hent os et eksemplar af hver plante og hvert dyr.
+0x00000046 Ah, vores astro-gastronomer er vendt tilbage med råvarer til aftenens middag! Godt gået! ~p~Her har du ~mission_rewards~ Spucks som tak for din kulinariske leverance. Vi takker for din hjælpsomhed. ~p~Desværre har jeg dårligt nyt: Med så lidt service har vi besluttet, at kun medlemmer af ~race~-arten har adgang til festmåltidet på planeten ~mission_target_planet~. Vi beklager for denne misforståelse.
+0x0000000C Et af vores spejderskibe blev for nylig angrebet af rumpirater. Undersøgelsesdata fra planeten ~mission_target_planet~ blev tabt. Kan du foretage en ny undersøgelse på vores vegne?
+0x0000004D Vores viden om naturen på planeten ~mission_target_planet~ er betragteligt forøget, og vores chancer for at leve i harmoni med dette økosystem er forbedret. Vi er glade for at kunne give dig din belønning: ~mission_rewards~ Spucks. Tak for din indsats.
+0x000000D6 Stjernen ligger cirka ~mission_clue_distance~ parsec fra ~mission_clue_landmark1~.
+0x0000007E Storartet! Vi ser frem til at du vender tilbage med en last af det, vi mangler!
+0x00000042 Godt gået! Her har du ~mission_rewards~ Sporebucks for dit slæb. ~p~De eksemplarer, du leverede, er i god stand, og er introduceret for deres nye hjem med succes. De vandrer alle glade rundt. ~p~Tja, bortset fra planterne, altså. De står der bare, men jeg er overbevist om, at de også er glade.
+0x000000B4 ~player_title~ ~player_creature_name~. Vi ville give dig en vejledning i, hvordan du henter planter og dyr fra planeten ~mission_target_planet~, men vi har ikke mere tid. Farvel.
+0x000000CB Du har alle eksemplarer. Vend tilbage til planeten ~mission_source_planet~ for at få din belønning.
+0x000000B3 ~player_title~ ~player_creature_name~. Var betingelserne i missionen ikke tydelige nok? Bare glem det. Vi sender et undersøgelsesskib, der klarer det, du ikke formåede.
+0x0000000B Storrådet har bestemt, at der skal foretages en undersøgelse af planeten ~mission_target_planet~ med det samme, men alle vores ressourcer er optaget andetsteds. Kan du hjælpe os?
+0x00000019 For nylig opdagede man et komplet økosystem på planeten ~mission_target_planet~. Denne nye art kan vise sig at være en værdifuld tilføjelse til vores lager af naturlige vidundere. Vi ser gerne, at du undersøger denne verden for at afgøre, om disse arter er skadelige - eller om de kan bidrage til vores fødekæde. ~p~Vil du foretage en undersøgelse for os?
+0x000000B5 Du kom. Du så. Du reagerede … på et eller andet, håber vi.
+0x00000081 Tak for dit bidrag til vores viden om planeten ~mission_target_planet~.
+0x0000002C De eksakte koordinater blev ødelagt under den seneste vandalisme, men her er det, vi ved: ~group:star_clue~ Du vil få ~mission_rewards~ Sporebucks som tak.
+0x00000080 Tak. Gennemfør venligst denne mission så hurtigt som muligt.
+0x000000E2 Ah, helt ærligt! Det bliver sjovt!
+0x00000033 Tag hen til planeten ~mission_target_planet~, der er i kredsløb om ~mission_target_star~. Indsaml et eksemplar af alle planter og dyr. Vend derefter tilbage hertil.
+0x00000018 Ude af Den Ene kom De Mange, og ud af De Mange kom De Mange, Mange Andre. Men vi er alle Den Ene, bortset fra dem, der er De Ensomme! Blandt De Mange er der en nyopdaget planet, ~mission_target_planet~. Vi ved ikke, om den er en del af Den Ene eller ikke, og det kræver en undersøgelse, før vi ved mere. Vil du hjælpe os?
+0x0000000F En i Registerafdelingen har arkiveret undersøgelsen af planeten ~mission_target_planet~ med det forkerte 26-cifrede nummer, og nu kan vi ikke finde de nødvendige data. Det her er ekstremt irriterende, da vi havde håbet at etablere en beboelse der. Vil du foretage en hurtig undersøgelse for os?
+0x000000E6 Du har ikke leveret planterne og dyrene fra planeten ~mission_target_planet~. Vores biologer har stået og ventet til ingen verdens nytte.
+0x00000079 Lad missionen begynde! Må Spode lede dig på rette vej.
+0x00000015 Vi har opdaget en ny verden, der muligvis er egnet til at udvinding af vores industri! Men først skal der foretages en udforskning af dens naturlige ressourcer, så vi kan finde ud af, hvilke industrier, der er passende. Måske kunne vi friste dig til at foretage en undersøgelse, hvis belønningerne er passende?
+0x000000E7 ~player_creature_name~. Du har ikke leveret planterne og dyrene fra planeten ~mission_target_planet~. Din uduelighed vil vi ikke glemme med det samme.
+0x0000007C Fremragende! Vi vil snart vælge indbyggere fra en pulje af frivillige.
+0x00000010 Vi har fundet en lovende, ny planet! Planeten ~mission_target_planet~ er proppet med nye, spændende organismer, der muligvis kan bruges som udsmykning eller kæledyr. Vil du ikke være en skat og foretage en undersøgelse?
+0x00000014 Planeten ~mission_target_planet~ er muligvis egnet til handel! Men før vi laver forretninger der, skal vi foretage en undersøgelse. Et væsen så storslået som dig vil sikkert betragte denne opgave som en sand trivialitet - og vi vil selvfølgelig betale fyrsteligt.
+0x000000C4 Vores studier af miljøødelæggelserne kræver flere eksemplarer. Dem skal du hente.
+0x0000007B Tak. Vores xenobiologer vil skærpe deres dissekeringsknive og vente på, at du vender tilbage.
+0x000000B2 Var planter og dyr for meget for dig? Du har virkelig brug for, at Spodes lys viser dig vejen.
+0x0000002A Vi ... øh ... mistede de eksakte koordinater grundet en administrativ fejl. Hehe. Her er det, vi ved: ~group:star_clue~. Betaling for denne opgave er ~mission_rewards~ Sporebucks.
+0x000000AD Vi har for ikke lang tid siden opdaget, at der er liv på planeten ~mission_target_planet~. For at finde ud af om vi kan bebo den, skal vi indsamle eksempler på liv. Vil du gøre dette for os?
+0x000000DC Fremragende! Vi starter en analyse af eksemplarerne med det samme. I mellemtiden kan du nyde ~mission_rewards~ Sporebucks.
+0x000000B9 Du kom. Du så. Du reagerede … på et eller andet, håber vi.
+0x000000C7 Indsaml eksemplarer af dyr og planter fra planeten ~mission_target_planet~.
+0x00000038 Hver af disse eksemplarer nærmest emmer med transcendental energi! Nyd din belønning: ~mission_rewards~ Sporebucks.
+0x000000B8 Planeten ~mission_target_planet~ viser siger sig at have en bæredygtig biosfære. Kan du foretage en undersøgelse for os?
+0x000000DE Vi venter stadig på eksemplarer fra planeten ~mission_target_planet~. Alle informationer finder du i din Missionslogbog. Hvornår kan vi forvente en leverance?
+0x00000034 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Indsaml et eksemplar af alle planter og dyr. Vend derefter tilbage hertil.
+0x00000035 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Indsaml et eksemplar af alle planter og dyr. Vend derefter tilbage hertil.
+0x00000037 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Indsaml et eksemplar af alle planter og dyr. Vend derefter tilbage hertil.
+0x000000DD Eksemplarerne er noget sikkert frem. Her er din belønning: ~mission_rewards~ Sporebucks.
+0x00000036 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Rejs derhen og indsaml prøver på alle planter og dyr. Tag derefter din last herhen.
+0x00000039 Planterne på planeten ~mission_source_planet~ her blev fundet på planeten ~mission_target_planet~. Desværre er vi skyldige i en lidt for ... øhm ... våd aften på vej tilbage, og vi glemte lidt, hvor planeten ~mission_target_planet~ rent faktisk er, selv om vi er ret sikre på, at den er i nærheden af ~group:star_clue~. ~p~Når du finder planeten ~mission_target_planet~, skal du støvsuge den for alt levende, og derefter levere lasten til planeten ~mission_source_planet~.
+0x000000DA AFSTAND: Cirka ~mission_clue_range_min~ til ~mission_clue_range_max~ parsec fra ~mission_clue_landmark1~.
+0x0000005A Find planeten ~mission_target_planet~, så vi kan få fat i de arter, vi mangler! ~p~Jeg ved kun dette: ~group:star_clue~. ~p~Hent en last med alt liv for at få ~mission_rewards~ Sporebucks.
+0x0000005B Spilder du vores tid, eller hvad? Vi smadrer dig, hvis du ikke henter os de arter, vi mangler fra planeten ~mission_target_planet~. ~p~Hør nu her! Her er det, vi ved: ~group:star_clue~. ~p~Klarer du det her, så får du ~mission_rewards~ Sporebucks.
+0x0000005D MISSIONSSTATUS: Stadig i gang. Leverandør kræver assistance. Missionsoverblik-sekvens påbegyndt. ~p~MISSIONSPARAMETRE: Returnér eksemplarer af alt liv fra planeten ~mission_target_planet~. ~p~~group:star_clue~ ~p~BETALING: ~mission_rewards~ Sporebucks.~p~Forsinkelser bliver ikke tolereret.
+0x0000001E Vores flåde er ikke hjemme lige nu, men i stedet ude for at skræmme vores naboer. Men vi ser gerne, at planeten ~mission_target_planet~ bliver undersøgt nu. Er du interesseret?
+0x00000031 Planeten ~mission_target_planet~ er i kredsløb omkring ~mission_target_star~. Indsaml prøver af alle planter og dyr og vend derefter tilbage.
+0x000000DB Stjernen hedder ~mission_target_star~
+0x000000E0 Tak! Med lidt held vil denne planet være perfekt til beboelse!
+0x00000007 Spodes veje er mange og uransagelige. Man har opdaget en verden, der er rig på organismer, og som kan tjene beboelse, hvorfra Spodes lys kan oplyse hele galaksen. ~p~Vil du hjælpe os i dette hellige kald?
+0x00000066 Fabelagtigt! Må positive energier flyde i din retning.
+0x0000001B Vi har længe planlagt en undersøgelse af planeten ~mission_target_planet~, men vores økologer har travlt med at forvandle vores beboede planeter til frodige verdener. Kan du undersøge planeten på vores vegne?
+0x000000B6 Blev du narret af dumme planter og dyr? Måske har vi udsalg på mere hjernekapacitet i vores basar.
+0x000000F5 Jeg er nødt til at sige nej til denne opgave.
+0x000000C3 Planeten ~mission_target_planet~ kræver eksemplarer af alle planter og dyr. Du har ikke andet at lave.
+0x00000017 Vi har opdaget en helt ny verden - herligt jomfruelig! Vi bliver nødt til at finde ud af, om der kan blive et passende sanktuarium for vores håndlæsere, krystalkuglekiggere, numerologer og alle vores andre medier! Vil du hjælpe os med en undersøgelse?
+0x0000001A Vores rekognosceringshold har travlt med at udføre undersøgelser andetsteds, og kan derfor ikke foretage en samlet undersøgelse af planeten ~mission_target_planet~. Vil du træde i deres sted?
+0x0000000E Sonden, der var på vej tilbage fra planeten ~mission_target_planet~, er blevet ødelagt af rumpirater. Tidlige data afslører, at planeten har et meget interessant økosystem. Vil du foretage en undersøgelse på vores vegne?
+0x00000063 Hvor er lasten fra planeten ~mission_target_planet~? Vi ønsker at sanse deres metafysiske vidundere!
+0x0000001C Økosystemet på planeten ~mission_target_planet~ har tilsyneladende flere unikke egenskaber. Vil du foretage en undersøgelse af planeten for os?
+0x00000011 Planeten ~mission_target_planet~ myldrer med liv - men det er interessant liv eller irriterende liv? Vil du ikke hente et par eksemplarer til os - så finder vi ud af det.
+0x00000064 Vi har brug for et komplet samling af eksemplarer fra fødekæden på planeten ~mission_target_planet~. Alle relevante data er gemt i din Missionslogbog. Vil du gennemføre din mission ved ~mission_target_star~?
+0x000000B7 Din fiasko er ufattelig. Farvel.
+0x00000074 Jeg har et par andre spørgsmål ...
+0x0000005F Storrådet venter stadig på en undersøgelse af alle planter og dyr på planeten ~mission_target_planet~ ~mission_target_star~-systemet? Alle detaljer burde stå i din Missionslogbog.
+0x00000065 Vi venter stadig på prøverne fra ~mission_target_planet~! Er der et problem? Har du kigget i din Missionslogbog?
+0x00000073 Fremragende. Vi vidste, at vi kunne regne med dig. Du har altid tjent ~mission_source_empire~-imperiets interesser på trofast vis. ~p~Må det store kosmos føre dig hurtigt og sikkert til planeten ~mission_target_planet~. ~p~Vores arkæologiprojekter har en vigtig, galaktisk funktion. Det ville være en skam at miste et helt økosystem på en planet, så vi har altid en back-up.
+0x00000044 Tusind tak for din hjælp! Her har du ~mission_rewards~ Sporebucks, præcis som vi aftalte. ~p~Åh, wow! Disse nye tilføjelser til planeten får det hele til at gå op i en højere enhed. Stedet ser bedre og bedre ud.~p~Og bare så du ved det, så skrev vi et vredt brev til disse vandalers forældre. ~p~Anonymt, selvfølgelig.
+0x00000061 Skal vi tilkalde havearkitekterne eller flammekasterne? Vi ved det ikke, før vi ser din last fra ~mission_target_planet~. Hvis din hukommelse er hullet, kan du altid kigge i din Missionslogbog for yderligere information.
+0x000000C8 Vend tilbage til planeten ~mission_source_planet~.
+0x0000007F Vi glæder os helt vildt til at begynde med at spekulere på ejendomsmarkedet! Rejs venligst til ~mission_target_planet~ og vend tilbage med en lyst fyldt til randen med flora og fauna!
+0x000000C9 Tiden er udløbet. Vend tilbage til planeten ~mission_source_planet~.
+0x000000DF På trods af at vi har uploadet missionsinformationerne til din Missionslogbog, har du ikke formået at hente eksemplarer fra ~mission_target_planet~.
+0x00000062 Hvor er planterne og dyrene? Du finder en beskrivelse af vores anmodning i din Missionslogbog. Vil du gennemføre din mission ved ~mission_target_planet~?
+0x0000007A Storrådet siger tak. Rejs venligst til ~mission_target_planet~ med det samme.
+0x00000060 Vi er ikke eksperter i strukturen af din arts hukommelse, men din opførsel antyder, at du muligvis ahr glemt den mission, hvor du skulle hente en last på ~mission_target_planet~? Står dette stadig i din Missionslogbog - eller har du slettet den med vilje?
+0x00000008 Priset være Spore! En hel ny verden, der er fyldt til randen med Spodes værk, er opdaget! Vil du hjælpe os med at udforske denne nye kreation?
+0x00000002 Jeg er ked af at jeg må afslå ...
+0x000000D3 Du har alle eksemplarer. Vend tilbage til ~mission_source_star~ systemet for at få din belønning.
+0x00000043 En anden ting ...
+0x0000002B Jeg er ked af at jeg må afslå ...
+0x00000059 En anden ting ...
+0x0000005C Vores gourmand vender tilbage tomhændet? Har du brug for hjælp? ~p~Vi ved kun dette: ~br~~group:star_clue~. ~p~Snup derefter et eksemplar af alle planter og dyr og vend tilbage, så vi kan lave den lækre Planetbouillabaisse.
+0x0000005E Spodes glorværdige skabninger er ikke vendt tilbage fra ~mission_target_planet~? Dit løfte bekræftes af din Missionslogbog. Vil du gennemføre missionen?
+0x000000D4 Mission mislykket! Tiden er gået!
+0x000000CA Planeten  ligger i ~mission_target_star~-systemet. Brug madnettet til at til at identificere livsformer.
+0x000000CC Du formåede ikke at finde eksemplarerne i tide. Tag tilbage til planeten ~mission_source_planet~ i ~mission_source_empire~systemet for at aflevere de dårlige nyheder.
+

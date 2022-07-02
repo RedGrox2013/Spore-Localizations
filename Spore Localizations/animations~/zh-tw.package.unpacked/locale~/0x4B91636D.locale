@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 任務成功！向<~mission_source_star~> 星系回報。
+0x00000098 已完成
+0x00000097 進行中
+0x00000093 前往：<~mission_source_star~>星系。
+0x000000B2 向<~mission_source_planet~>回報。
+0x000000B1 潛入<~mission_target_planet~>上的研究設施。
+0x00000064 我們的間諜，班圖伊，已經進入了基地。悄悄通過警衛，找到他。~p~這可不是戰鬥任務，~ep1_captain_full_name~！隱匿與耐性是關鍵。~p~祝你好運！
+0x00000000 幸會，~ep1_captain_full_name~。我們接獲了一則可怕的消息。我們有理由相信，塞福德的科學家正在<~mission_target_planet~>上建造一種巨型武器。~p~我們希望有人能夠下去那裡仔細瞧瞧他們的科技。你有興趣嗎？
+0x00000071 如果我們告訴你，根據我們的估算，你有92.3%的成功機率，你是否會改變心意呢？
+0x00000092 潛入<~mission_target_star~>星系的研究設施。保持低調，避免正面衝突。
+0x00000095 TX-5000武器計畫已經中止。向<~mission_source_star~>星系的<~mission_source_planet~>回報。
+0x00000094 潛入<~mission_target_star~>星系<~mission_target_planet~>上的研究設施。保持低調，避免正面衝突。
+0x00000081 我們並未要求你在脈衝武器發射時衝過去。我們只想要對TX-5000技術做個小試驗。~p~如果你能閃得遠遠的，你被汽化的機率微乎其微。
+0x0000004E 你需要知道的一切，都已記載於你的任務日誌上。~p~記住，你是去那裡收集科學資料。不要隨便破壞東西。
+0x00000041 真可惜，TX-5000炸毀了。幸運的話，我們可以對殘骸進行分析，設法以逆向工程的方式重製動力源。~p~當然，我們絕不會利用這種科技作為武器。我們只對…呃…創造乾淨、可再生的能源有興趣。~p~無論如何，謝謝你的協助。這~mission_rewards~Spore幣是你應得的。
+

@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Estas criaturas ficam no lugar.
+0x079817BE Estas criaturas seguem outro membro designado do elenco.
+0x079817BA Estas criaturas se movem alternadamente entre dois pontos.
+0x079817B5 Estas criaturas se movem aleatoriamente em torno da posição inicial.
+0x079EDF5A Estes veículos ficam no lugar.
+0x079EDF5B Estes veículos se movem aleatoriamente em torno da posição inicial.
+0x079EDF5C Estes veículos se movem alternadamente entre dois pontos.
+0x079EDF5D Estes veículos seguem outro membro designado do elenco.
+
+# Planet Paint
+
+0xB6AFCFC0 Cobertura Terrestre
+0xB6AFCFC1 Flores
+0xB6AFCFC2 Estilo de Nuvens
+
+#Goals:
+
+0x07981798 Impeça que estes ~ep1_current_cast~ sejam destruídos.
+0x0798178C Impeça estes ~ep1_current_cast~ de estabelecer contato com outro membro do elenco.
+0x0798177E Mantenha estes ~ep1_current_cast~.
+0x07981789 Leve estes ~ep1_current_cast~ a outro membro do elenco.
+0x07981785 Colete estes ~ep1_current_cast~.
+0x07981782 Dê estes ~ep1_current_cast~ a outro membro do elenco.
+0x07981764 Aproxime-se destes ~ep1_current_cast~.
+0x0798176F Destrua estes ~ep1_current_cast~.
+0x0798177B Fale com estes ~ep1_current_cast~.
+0x07981773 Socialize-se com estes ~ep1_current_cast~.
+0x07981777 Faça uma aliança com estes ~ep1_current_cast~ para que eles se juntem à sua tripulação.
+
+# Cloud Names
+
+0x56AFCF73 Rede
+0x56AFCF74 Pólen
+0x56AFCF75 Esponja
+0x56AFCF72 Alienígena
+0x56AFCF70 Padrão
+0x56AFCF71 Caracol
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 criaturas
+0x07981E93 objetos
+0x07981E92 estruturas
+0x07981E91 veículos
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Clique em uma criatura, estrutura ou veículo para removê-lo permanentemente do seu jogo.~br~Para remover a aventura definitivamente do seu jogo, saia da aventura e abra a Sporepédia (aperte a tecla “B”). Na Sporepédia, encontre a aventura que gostaria de remover, selecione-a e clique no botão Banir Criação, no canto direito inferior da tela. Isso removerá a aventura, mas não as criações que estão nela – estas deverão ser removidas individualmente.~br~Um relatório sobre a criação será enviado para a equipe de Suporte ao Cliente do Spore.
+
+#Awareness:  
+
+0x07981DE3 Determina a distância a partir da qual essas criaturas podem ver.
+0x079EDF5E Determina a distância a partir da qual estes veículos podem ver.
+
+#Stances:
+
+0x0798179D Essas criaturas atacarão unidades inimigas imediatamente.
+0x079817A1 Estas criaturas avisam antes de atacar.
+0x079817AD Estas criaturas fogem se forem atacadas.
+0x079817A9 Estas criaturas só se defendem se forem atacadas.
+0x079817A5 Estas criaturas nunca se desviam do comportamento definido.
+0x079EDF55 Estes veículos atacarão unidades inimigas imediatamente.
+0x079EDF57 Estes veículos nunca se desviam do comportamento definido.
+0x079EDF56 Estes veículos avisam antes de atacar.
+0x079EDF58 Estes veículos só se defendem se forem atacados.
+0x079EDF59 Estes veículos fogem se forem atacados.
+
+#Pickup:
+
+0x079817C2 Estas criaturas pegam qualquer ferramenta.
+0x079817C5 Estas criaturas pegam a ferramenta designada.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE71 Claymation
+0x56AFCE73 Coral
+0x56AFCE7D Shitaake
+0x56AFCE7B Pedras Normais
+0x56AFCE7A Pedras de Gelo
+0x56AFCE7C Pedras de Lava
+0x56AFCE72 Conglomerado
+0x56AFCE60 Nenhum
+0x56AFCE79 Suíço
+0x56AFCE75 Granito
+0x56AFCE76 Orgânico
+0x56AFCE78 Arenito
+0x56AFCE74 Cristal
+0x56AFCE77 Espinhos
+
+# posse ui
+
+0x0760B242 Tripulação
+
+#mission ending description#
+
+0x0760B241 Fim
+
+0x0760B0F8 Descrição e Música do Ato ~ep1_current_act~
+0x075E4C79 Defina o Tipo de Objetivo
+0x075E4C78 Arraste o Objetivo até o Membro do Elenco
+0x0760B0F9 Introdução:
+0x0760B0FB Texto de Derrota:
+0x0760B0FA Texto de Vitória:
+
+#Teams:
+
+0x07981E72 Estas estruturas serão atacadas por membros do elenco de equipes inimigas.
+0x07981E71 Estas criaturas nunca atacam outros membros do elenco em suas equipes.
+0x079EDF5F Estes veículos nunca atacam outros membros do elenco em suas equipes.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Ato ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Esta Aventura tem um ato sem objetivos. O jogador não poderá vencer a aventura a menos que o ato tenha um objetivo ou seja o último da aventura.  Você deseja salvá-la mesmo assim?
+
+#Give:
+
+0x079817CE Estas criaturas dão uma ferramenta a um membro designado do elenco.
+0x079817C9 Estas criaturas dão uma ferramenta a qualquer membro do elenco.
+

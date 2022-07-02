@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Udeří na cíl za úbytek energie.
+0x00000013 Energetický úder
+
+# Part: Harpolizer
+
+0x00001047 Vylepšená Píseň, která vylepšuje vztahy a spotřebuje malé množství energie.
+0x00001046 Inspirující píseň
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001042 Kradmý štít
+0x00001043 Učiní vaši příšerku téměř nevystopovatelnou, ale během doby, po kterou je aktivován, spotřebovává energii.
+
+### Complexity Meter ##
+
+0x07426209 Příliš složité
+0x0742620A Odstraňte extra instance nebo snižte počet specifických modelů.
+0x05F110B4 Když je tento ukazatel zaplněný, nemůžete přidávat žádné další předměty.
+0x05F110B3 Ukazatel vývoje
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Vylepšený Půvab, který vylepšuje vztahy a spotřebuje málo energie.
+0x00000101 Holo-půvab
+
+# Part: Hop Gogs
+
+0x00001053 Vylepšený Tanec, který vylepšuje vztahy a spotřebuje malé množství energie.
+0x00001052 Oslnivý tanec
+
+# Part: Icy Band
+
+0x00001028 Mrazivý poryv
+0x00001029 Na chvíli zmrazí cíl na místě.
+
+# Part: Jump Jet
+
+0x00001045 Velmi vysoký skok se spotřebováním středního množství energie.
+0x00001044 Skokotryska
+
+# Part: Plasma Pulser
+
+0x00001006 Pulzující proud
+0x00001007 Vystřelí na cíl koncentrovaný proud energie a spotřebuje přitom  energii.
+
+# Part: Power Shield (RENAME)
+
+0x00001015 Pohltí veškeré utržené poškození a spotřebuje přitom velké množství energie.
+0x00001014 Posílené brnění
+
+# Part: Hypnomelder
+
+0x00001024 Slití mysli
+0x00001025 Na určitou dobu promění nepřátele v přátele.
+
+# Part: Fettipopper
+
+0x00001059 Vylepšená Póza, která vylepšuje vztahy a spotřebuje malé množství energie.
+0x00001058 Konfety-póza
+
+# Part: Imperial Robe
+
+0x00001037 Energická póza, která napomůže vylepšení vztahů.
+0x00001036 Blažená póza
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001012 Bitevní brnění
+0x00001013 Lehce sníží poškození a nespotřebuje přitom žádnou energii.
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Vystřelí jednu raketu, která poškodí cíl a jeho okolí za úbytek energie.
+0x00000001 Raketový útok
+
+# Part: Regal Ring
+
+0x00001034 Dvorní půvab
+0x00001035 Oslnivý půvab, který napomůže vylepšení vztahů.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Vyvolá roj vlezlého hmyzu, který bude sužovat vaše nepřátele.
+0x00001022 Vyvolání roje
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001065 Zvyšuje energetickou kapacitu.
+0x00001064 Zásobárna energie
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Obnova zdraví
+0x00001019 Zrychluje obnovu životů.
+0x00002012 ~icon_amount~ zdraví/sek.
+
+# Part: Ducal Cape
+
+0x00001033 Krásná píseň, která napomůže vylepšení vztahů.
+0x00001032 Harmonická píseň
+
+# Part: Regen-Deflector
+
+0x00001017 Převede malé množství utrženého poškození přímo v energii.
+0x00001016 Absorbování energie
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001038 Nával rychlosti
+0x00001039 Za malý úbytek energie vylepší na chvíli rychlost.
+
+# Part: Glider Pack
+
+0x00001041 Prodlouží pobyt ve vzduchu a spotřebuje přitom malé množství energie.
+0x00001040 Vznášedlo
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Úder blesku
+0x00001001 Omráčí cíl a uštědří velké poškození za úbytek energie.
+
+# Part: Toxic Crystal
+
+0x00001027 Vytvoří toxický jed, který po určitou dobu způsobuje malé poškození.
+0x00001026 Otrávené ostří
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001021 Vylepšuje maximální množství životů.
+0x00001020 Posílení zdraví
+
+# Part: Danger Reductor
+
+0x00000019 Generátor štítu
+0x00000020 Vytvoří ochrannou kouli, která snižuje utržená zranění a vylepšuje energetickou účinnost.
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001030 Ladný valčík
+0x00001031 Ladný tanec, který napomůže vylepšení vztahů.
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Zvyšuje rychlost obnovování energie.
+0x00000010 Regenerace energie
+0x00000012 ~icon_amount~ energie/sek
+0x00000021 Zaštítění
+0x00000022 Někdy je nejlepší obrana obrana.
+

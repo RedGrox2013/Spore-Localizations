@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Tillykke! Hr. Gåde er imponeret over din fantastiske hjerne. Han ser frem til at være gådefuld i en snar fremtid.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Hvert farvet kort åbner en matchende dør. Kun en dør fører til Mystiknøglen.
+
+# Adventure name
+
+0x00000002 Hr Gådes magiske porte
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Mystiknøgle
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mit Mystiktelt findes ikke bedre. Træd indenfor og se, hvad du duer til.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Hr. Gåde
+
+# Act 3 description
+
+0x00000025 Du fandt nøglen! Brug den magiske teleporter for at give den til Hr Gåde.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Hr. Gåde er mit navn. Gåder er mit gesjæft.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Vær hilset! Velkommen til mit omrejsende show.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Hold ud og giv ikke op. Held og lykke til enhver, der ikke siger stop!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Hvis du er klog nok, finder du min nøgle. Hvis ikke, tja - så lad os se, hvad der sker.
+
+# Act 1 name
+
+0x00000020 Mød Hr. Gåde
+
+# 'Adventure lost' message
+
+0x00000012 Giv ikke op. Prøvede du at bruge begge hænder?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Vi ses snart, er jeg sikker på!
+
+# Act 3 name
+
+0x00000024 Fundet!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Du er vel nok den største hjerne på dette sted!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Jeg er sikker på, at du er helt enig med mig)
+
+# Adventure description
+
+0x00000003 Hr. Gåde udfordrer dig til en intellektuel duel. Kan du få fingre i hans Mystiknøgle?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 gåde, Hr. Gåde, porte, nøgler
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Min nøgle! Min nøgle! Jeg erklærer hermed ...
+
+# Act 4 name
+
+0x00000102 Glimrende indsats!
+
+# Act 1 description
+
+0x00000021 Du ved aldrig, hvad hr. Gåde vil vise. Hvad gemmer der sig i Mystikteltet i dag?
+
+# Act 4 description
+
+0x00000103 Hr. Gåde er meget imponeret!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 Denne gåde stiller ikke de store krav dette sted ...
+
+# 'Adventure start' message
+
+0x00000010 Hr. Gåde vandrer rundt i galaksen og får ung som gammel til at gruble. Hvilken udfordring har han med til denne golde planet?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 Hvis du sidder fast, kan du med to hænder blive ved.
+
+# Act 2 name
+
+0x00000100 Mystiknøglen
+

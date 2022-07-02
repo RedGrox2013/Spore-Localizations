@@ -1,0 +1,302 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000E8 ...
+0x00000006 Kyllä, kyllä. Olet varmasti oikeassa. Ehkäpä vääryydet pitäisi todella korjata.~p~No, nopeasti sitten! Luotamme siihen, että ammut vain huijareita. Ei laukaustakaan kohti tavallisia kansalaisia. Ei ensimmäistäkään. Anna heidän olla ihan rauhassa.~p~
+0x00000007 Galaktisen elämän perusopit opettavat, että kaikki lajit noudattavat valtakuntansa kansalaisten enemmistöpäätöksellä valitsemia lakeja. Valitettavasti tätä liittovaltiomme perustuslakia ei aina noudateta, ja eräässä vähemmistä maailmoista koko planeetan kansa on alistettu despootin valtaan. Voisitko palauttaa rauhan tähänkin maailmaan?
+0x00000008 Avaruudesta tullut outo kasvi muuttaa parhaillaan planeetan ~mission_target_planet~ kansalaisia palkokasveissa kasvatetuiksi klooneiksi. Moiset otukset hyökkäilevät jo kansalaistemmekin kimppuun! Auttaisitko meitä tuhoamaan tämän uhkan?
+0x00000002 Tämä tehtävä edellyttää aika hienovaraista otetta. Me kiistämme osallisuutemme täysin, joten ei sitten kannata jäädä kiinni.~p~Jos sinun nähdään tuhoavan sairaita yksilöitä, siitä syntyy paniikki. Kaupungissa moinen saisi puolustusjoukot varmasti reagoimaan asiaan.
+0x00000004 Täytyy jatkaa matkaa. Näkemiin.
+0x0000000B Biokemiallinen koe meni pahasti pieleen planeetalla ~mission_target_planet~. Väestönhallintaa käsittelevässä projektissa pyrittiin lisäämään lajimme rationaalista ajattelua ja yhteistyöhalukkuutta. Ikävä kyllä koehenkilöt tulivatkin hulluiksi ja hyökkäilevät nyt kaikkien kimppuun. Mikä pahinta, koehenkilöt ovat vapaalla jalalla. Autatko meitä saamaan tilanteen hallintaan?
+0x00000009 Geeniterroristit ovat levittäneet zombiruttoa planeetalle ~mission_target_planet~!~p~Tämä tarttuva tauti saa otukset hyökkäämään toistensa kimppuun ja siten levittämään tautia.~p~Valitettavasti parannuskeinoa ei ole, ja zombikansalaiset pitää kompostoida ennen kuin heidän sairautensa leviää koko planeetalle.~p~Autatko meitä tässä kammottavassa tehtävässä?
+0x0000000C Tulevan jumalan petolliset palvelijat hyökkäilevät Paten kansan kimppuun planeetalla ~mission_target_planet~. Armeijamme tukee parhaillaan lähetystyötä muualla, joten se ei pääse vastaamaan iskuun hetimmiten. Autatko meitä murskaamaan nämä Paten viholliset?
+0x0000000A Kapinallinen tieteilijä nimeltä Garpassi työskentelee planeetalla ~mission_target_planet~. Hän on kehittänyt aivotoukan, joka pyyhkii uhrin muistin ja täyttää tämän mielen halulla totella kropoja. Nyt Garpassi on vaarassa kavaltaa koko lajimme kropoille. Hänet pitää pysäyttää. Auttaisitko meitä tehtävässä?
+0x0000000F Jotakin ihmeen Patea palvovat oudot lähetyssaarnaajat ovat laskeutuneet planeetalle ~mission_target_planet~ käännyttämään kansaa. Nyt uudet käännynnäiset yrittävät tappaa tulevan jumalan kannattajia. Suvaitsemme kaikkea muuta paitsi suvaitsemattomuutta, joten haluaisimme auttaa näitä kiusankappaleita siirtymään suoraan tuonpuoleiseen. Voisitko hoitaa asian puolestamme?
+0x0000000E Toisesta maailmasta tulevat mellakoijat uhkaavat ryöstää rauhallisen kauppa-asemamme. Olemme rauhanomaista väkeä, ja meillä on kovin vähän keinoja vastata tähän uhkaan. Se, joka pelastaa uhanalaisen kansamme, saa osakseen suuren kansansuosion ja suuren palkkion. Kiinnostaako mahdollinen palkkio?
+0x00000010 Militaristijärjestö nimeltä Kaikenvastustajat on käynnistänyt vallankumouksen planeetalla ~mission_target_planet~. Nujertaisimme heidät helposti, mutta toisaalta kapinajohtajien uskottavuus kärsisi vielä enemmän, jos heidät kukistaisi vieras laji. Voitko auttaa meitä?
+0x000000D7 Sori. Mun moka. Hupsista.
+0x00000073 Haluaisin kysyä vielä jotakin.
+0x0000002E Olen pahoillani, mutta ei onnistu. Olen kovin kiireinen juuri nyt.
+0x00000021 Mutatoituneet kansalaiset hohtavat pimeässä, joten niiden pitäisi löytyä helposti. Pelasta maailma tuhoamalla otukset. Älä vahingoita ystävällismielisiä kansalaisia tai mitään rakennuksia.~p~Tehtävän nopea suoritus on tärkeää, joten pistähän töpinäksi!
+0x0000003C Paten sanaa saarnaavat lähetyssaarnaajat ovat käynnistäneet laajamittaisen hyökkäyksen planeetalle ~mission_target_planet~. Haluaisitko harjoitella ampumista?
+0x000000D6 Sori. Lähdenkin tästä kaikessa hiljaisuudessa.
+0x0000009D En voinut olla huomaamatta, että sille planeetan ~mission_target_planet~ pestille on edelleen kosolti hakijoita. Singahdahan heti tähtijärjestelmään ~mission_target_star~ ja hankkiudu eroon niistä ryökäleistä!
+0x0000007E Vielä yksi juttu...
+0x00000115 Mahdollisesti sairastunut. Käynnistetään polttimia...
+0x00000065 Matkaa heti tähden ~mission_target_star~ järjestelmään ja tuhoa Paten viholliset ~mission_time~ sektonin kuluessa. Asiamme ei siedä viivytyksiä. Pate olkoon kanssasi!
+0x0000008B Minulla olisi vielä muuta kysyttävää.
+0x00000029 Mitä jos kaikki joutuvat paniikkiin?
+0x00000061 Erinomaista! Matkaa tähden ~mission_target_star~ järjestelmään. Kun pääset perille, sinulla on ~mission_time~ sektonia aikaa pelastaa planeetta.
+0x000000C2 Oletko luovuttamassa? Eiväthän he edes ammu takaisin!
+0x00000091 Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0x00000111 Kaikki merkityt kansalaiset on eliminoitu.
+0x0000012B Tehtävä suoritettu! Palaa planeetalle ~mission_source_planet~ ja nouda palkkiosi.
+0x00000074 Minulla olisi vielä pari kysymystä.
+0x000000BE Ymmärrän. Et pysty tukahduttamaan irrationaalista käytöstäsi, vaikka kuinka sitä yritätkin.
+0x00000011 Voin varmaan auttaa.
+0x00000117 Tehtävään annettu aika on kulunut loppuun.
+0x00000049 Kohteesi on tähden ~mission_target_star~ järjestelmässä sijaitseva planeetalla ~mission_target_planet~.
+0x0000002A Mitä teen, jos vastaan tulee ongelmia?
+0x0000009A Kiitos. Oli mukava asioida kanssanne.
+0x000000C3 Eikö tappaminen olekaan mieleesi? Heikkoutesi on kirjattu muistiin.
+0x0000006C Selvä. Palaan pian.
+0x0000002C Valitettavasti minun on kieltäydyttävä.
+0x00000014 Anna täysi tilanneraportti.
+0x0000008F Ehkä joskus toiste. Nähdään taas.
+0x000000E9 Tekisin mieluummin jotakin ihan muuta.
+0x000000CF Voi synkeyttä! ~p~Ehkä sinä yritit parhaasi, mutta sääli silti kaikkia menehtyneitä viattomia. ~p~Täytyy pitää hetken hiljaisuus.
+0x000000AD Hei, ehditkö vähän jutella?
+0x000000A8 Mitä sinä täällä teet? Sinähän lupasit mennä planeetalle ~mission_target_planet~ ja pelastaa kansamme hyökkäykseltä. Jos nyt unohdit asian, niin katso lisätietoja tehtävälokista.
+0x00000066 Totisesti, Pate on lähettänyt sinut meidän avuksemme! Ota heti suunnaksesi ~mission_target_star~ ja polta kaikki pahantekijät Paten pyhällä tulella. Sinulla on tehtävään aikaa ~mission_time~ sektonia.
+0x0000007B Serkkumme kuolevat ja meidän kauppakeskuksemme ryöstetään. Surumme on suunnatonta. Basaari on sitten suljettu... öh... inventaarion vuoksi.
+0x000000DE Vihollisen demoninen energia oli selvästi liikaa sinulle. Ei huolta, Paten pyhät soturit kyllä onnistuvat siinä, missä toiset horjuvat uskossaan.
+0x00000122 Niin, kaikki ei sujunut ihan suunnitelmien mukaan.
+0x000000CE Päätön räiskintäsi johti kansalaistemme ja heidän omaisuutensa vahingoittumiseen. Pyysimme sinua vain palauttamaan järjestyksen, emme tuhoamaan koko maailmaa!
+0x000000DA Vielä yksi juttu...
+0x000000B2 Selvä, Ymmärrän. Palaan pian.
+0x000000A9 Kapinalliset ovat yhä elossa! Tehtäväsi planeetalla ~mission_target_planet~ on yhä kesken. Kaikki tarpeelliset tiedot ovat kyllä tehtävälokissasi. Milloin oikein tapat heidät?
+0x00000107 Et saanut sairastuneita kansalaisia hävitettyä ajoissa. Palaa tähtijärjestelmään ~mission_source_star~ ja kerro sen asukkaille huonot uutiset.
+0x00000104 Planeetta sijaitsee tähtijärjestelmässä ~mission_target_star~.
+0x0000011D Pyydän vielä, että yrittäisitte ymmärtää.
+0x00000120 Sori vaan. Voisimmeko keskustella jostakin muusta?
+0x000000E6 Vielä yksi juttu...
+0x0000009B Teen vain työtäni.
+0x00000084 Toivon ymmärrystä.
+0x00000050 Kiusankappaleilla on hohtavaa meikkiä, joten erotat heidät varmasti.~p~Lähetä kaikki heistä seuraavaan inkarnaatioon, mutta varo vahingoittamasta kasveja tai rakennuksia viattomista otuksista puhumattakaan. He ovat jo kärsineet tarpeeksi.
+0x00000052 Olen valmis..
+0x00000062 Apusi taudin torjunnassa on mitä tervetulleinta! Matkaa nyt nopeasti planeetalle ~mission_target_planet~ ja pelasta kansalaisemme ~mission_time~ sektonin kuluessa.
+0x0000003B Kalmakultti elää nimensä mukaisesti. Planeetalla ~mission_target_planet~ on melkoinen meininki. Voisitko auttaa hieman auttaa meitä?
+0x00000102 Et onnistunut pelastamaan otuksia planeetalla ~mission_target_planet~. Pahat heput voittivat.
+0x000000C9 Tervetuloa, tervetuloa! Tännepäin. Voinko ottaa tilauksenne? ~p~Ai, se oletkin sinä.~p~Katso nyt minua! Katso mitä minusta on tullut. Katso millaista työasua joudun käyttämään.~p~Jätit minut todella pahaan pulaan ja sotkit asiani todella totaalisesti.
+0x000000AE Pitikö minun tehdä tuo? Ei onnistu!
+0x00000080 Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000AF Joo, mitä oikein ajattelin? Ei.
+0x00000077 Hoidamme tämän taudin sitten itse. Toivo vaan, että se ei leviä sinun kansasi keskuuteen.
+0x00000081 Ehkä joskus toiste. Nähdään taas.
+0x0000003A Tyytymättömät asiakkaat ovat hyökänneet planeetan ~mission_target_planet~ putiikkeihin. Koko lajimme on vaarassa! Autatko, jos maksamme siitä?
+0x00000034 Kohteesi on ~mission_target_planet~ tähtijärjestelmässä ~mission_target_star~.~p~Selviätkö tehtävästä?
+0x00000040 Mihin minun pitäisi suunnata?
+0x00000015 Kuulostaa julmalta, mutta välttämättömältä.
+0x00000024 Mepäs tiedämme salaisuuden. Ei, emme millään voi kertoa.~p~No, hyvä on sitten. Sinä voitit! Tiedämme, että pahan voimat ovat soluttautuneet eräälle planeetalle tuhotakseen kaikki sen kansalaiset.~p~Eikö olekin hupaisaa? Ai, miten niin ei?
+0x00000020 Erään planeetan kansalaiset ovat ilmoittaneet haluavansa liittyä liittovaltioon. Valitettavasti planeetan vähemmistökansa ryhtyi mellakoimaan enemmistöpäätöksen johdosta. Sopeuta nämä hylkiöt tuonpuoleiseen yhteiskuntaan, jotta enemmistön mielipide voidaan toteuttaa ja tämä uusi laji pääsee liittymään joukkoihimme.
+0x00000112 Rajoita tapot merkittyihin yksilöihin.
+0x000000E2 Et saanut kapinaa tukahdutettua ajoissa. Poistamme tämän syövän sitten itse.
+0x000000DF Valitettavasti aika on nyt täysin lopussa. Et sitten pelastanut meitä ajoissa. Turha odottaa palkkiota.
+0x000000D9 Sori vaan. Näkemiin.
+0x00000079 Ne, jotka eivät seuraa Paten polkuja, ovat tuomittuja tuhoon. Mieti tätä, kun poistut maailmastamme.
+0x00000041 Eips, en ryhdy tällaiseen.
+0x000000A1 Minulla olisi vielä muuta kysyttävää.
+0x000000A7 Planeetalla ~mission_target_planet~ asuvat lajikumppanimme ovat edelleen vaarassa. Sopimuksemme on tallennettu tehtävälokiisi. Tarkista sieltä, että mitä tuli luvattua. Oletko valmis pelastamaan heidät?
+0x000000F2 Vallankumoukselliset osoittavat mieltään planeetalla ~mission_target_planet~. Pelasta heidän uhrinsa!
+0x00000078 Jos tehtävä ei sovi pirtaasi, emme voi toki pakottaa sinua. Hyvästi.
+0x00000060 Kiitos, että otit vastaan tämän epämiellyttävän, mutta tärkeän tehtävän. Planeetan ~mission_target_planet~ väkivaltainen vähemmistö pitää eliminoida, jotta lainkuuliaiset kansalaiset voivat jälleen elää rauhassa ja pelotta. Valitettavasti sinulla on vain ~mission_time~ sektonia aikaa suorittaa tehtävä.
+0x000000B5 Joo, mahtavaa!
+0x0000003E Ok. Minne minun pitääkään mennä?
+0x00000063 Suuntaa tähtijärjestelmään ~mission_target_star~. Sinulla on ~mission_time~ sektonia aikaa hävittää mutatoituneet kansalaiset ja siten pelastaa muut.
+0x00000082 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x0000004B Kohteenasi on tähtijärjestelmässä ~mission_target_star~ sijaitseva planeetta ~mission_target_planet~.
+0x000000E7 Voih, tämä on todella ikävää. Toivoimme, että olisimme löytäneet jonkun toisen, jota vaivaa sama hajuelinten liikakasvu ja arvostus aromaattisia ympäristöjä kohtaan. Mikä harmi.
+0x000000A3 Kuulimme juuri uutisen, että mutatoituneet kansalaiset ovat yhä valloillaan planeetalla ~mission_target_planet~. Etkö aiokaan tukahduttaa heidän mellastustaan? Tarkista toimeksiannon yksityiskohdat tehtävälokistasi.
+0x00000118 Toivon ymmärrystä.
+0x00000018 Tämä tehtävä ei nyt tunnu oikein sopivalta.
+0x0000012C Tehtävä epäonnistui. Palaa planeetalle ~mission_source_planet~.
+0x0000008C Vielä yksi juttu...
+0x00000022 Järjenvastustajien taiteilijakollektiivi on erikoistunut lisäämään sivilisaatiomme kaaosta. Tavoitteensa vuoksi ryhmä tartutti itseensä viruksen, joka muuntaa heidät raivopäisiksi ja murhanhimoisiksi hirviöiksi. Auta meitä nujertamaan heidät.
+0x00000075 Vielä yksi juttu...
+0x0000006B Ota heti suunnaksi ~mission_target_star~. Eliminoi vain viralliset kohteet. Älä hyökkää rakennusten kimppuun äläkä vahingoita kansalaisia, jotka eivät kapinoi. Sinulla on vain ~mission_time~ sektonia todistaa taitosi.
+0x000000D2 Mikä ihmeen hinku sinulla on räjäyttää kaikki eteen osuva? Sinun piti tuhota vain hohtavat jutut.
+0x00000113 Tehtävä epäonnistui liian vapaamuotoisen räiskyttelyn vuoksi.
+0x000000AB Olisi vielä yksi kysymys...
+0x00000026 Jotkut planeetalla ~mission_target_planet~ asuvista kansalaisistamme söivät valaistuksenjanossaan paikallisia sieniä, ja nyt he ovat muuttuneet vertajanoaviksi zombeiksi. Voisimme hyödyntää lasertaitojasi tilanteen ratkaisussa.
+0x000000B0 En varmasti tee tuota. Kuulostaa ilkeältä.
+0x000000B1 Pyydän vapautusta tästä tehtävästä.
+0x00000083 Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0x000000AC Jos sopii, niin kysyisin vielä jotakin muuta...
+0x00000038 Joukko kiittämättömiä alkuasukkaita hyökkäsi Paten kannattajien kimppuun planeetalla ~mission_target_planet~. Autatko meitä tuhoamaan nämä tulevan jumalan väkivaltaiset palvojat?
+0x0000004D Riivatut hehkuvat demonista energiaa. Tuhoa heidät kaikki, mutta säästä Paten seuraajat.~p~Toimi nopeasti, ennen kuin pahalaiset pääsevät voitolle!
+0x000000F8 Voitko todella jättää planeetan ~mission_target_planet~ asukkaat kuoleman omiksi? Me kun uskoimme sinuun!
+0x0000003D Missä tämä sivilisaatio on?
+0x00000035 Paten sanaa saarnaavien uskonnollisten radikaalien tulo on aiheuttanut häiriöitä yhdellä planeetoistamme. Vaikka suurneuvosto takaakin uskonvapauden, me emme voi suvaita häiriköintiä. Voitko auttaa palauttaa järjestyksen palauttamisessa planeetalle ~mission_target_planet~?
+0x0000007A Odotimme niin kovasti, että pääsemme ihailemaan, kuinka räjäyttelet tavaraa!
+0x00000076 Vielä yksi juttu...
+0x0000011A Kohteesi on planeetalla ~mission_target_planet~, joka on tähden ~mission_target_star~ järjestelmässä.
+0x00000013 Autamme mielellämme.
+0x00000106 Ammuskelit vähän liikaa omiasi. Palaa tähtijärjestelmään ~mission_source_star~.
+0x000000C4 Unohdin, mitä olin tekemässä. Mitä minun pitikään tehdä?
+0x00000056 Ei. En millään saa tätä mahtumaan aikatauluuni.
+0x00000042 Itse pidän tehtävistä, joissa murhataan hieman vähemmän.
+0x00000096 Jos sopii, niin kysyisin vielä jotakin muuta...
+0x00000064 Ota heti suunnaksi ~mission_target_star~. Eliminoi kohteet, joiden kemiallinen epätasapaino saa ne hohtamaan. Älä vahingoita tavallisia kansalaisia tai rakennuksia. Hommasta pitää sitten suoriutua ~mission_time~ sektonin kulussa.
+0x00000043 En vain suostu tähän. En ota tehtävää.
+0x000000C7 Minulla olisi vielä pari kysymystä.
+0x00000095 Olisi vielä yksi kysymys...
+0x000000A2 Anarkistit ovat yhä vallassa planeetalla ~mission_target_planet~. Suoritatko loppuun rauhantehtäväsi planeetalla ~mission_target_planet~? Tehtäväparametrit on tallennettu tehtävälokiisi.
+0x00000045 Kohteesi on ~mission_target_planet~ tähtijärjestelmässä ~mission_target_star~.~p~Selviätkö tehtävästä?
+0x00000046 Kohteesi on ~mission_target_planet~ tähtijärjestelmässä ~mission_target_star~.~p~Hoidatko tehtävän?
+0x000000EB Tämä tehtävä ei enää sovi aikatauluuni.
+0x0000008E Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000F5 Ota heti suunnaksi ~mission_target_star~. Kun pääset perille, sinulla on ~mission_time~ sektonia aikaa. Tuhoa kaikki merkityt elämänmuodot, mutta älä vahingoita tulevia orjiamme tai heidän kotejaan.
+0x000000C0 Miten niin lopetat?~p~Et voi jatkaa näin. Siirry nyt ohjauspaneeliin ja napsauta peräänantamattomuus-toiminto päälle. Saatpahan vähän selkärankaa.
+0x00000124 Keskitytään vain tulevaan...
+0x00000054 Hyväksyn tehtävän.
+0x0000011B Kiitos vain, mutta minun täytyy kyllä kieltäytyä.
+0x000000D3 Silmitön väkivaltasi on aiheuttanut mittaamatonta tuhoa ja kuolemaa kansamme keskuudessa. Surkeudellamme ei ole rajoja!
+0x00000099 No, sepä oli hauskaa.
+0x000000D5 Luulitko, ettemme huomaa, miten aiheutat mielivaltaista tuhoa maailmassamme? ~p~Vai oliko tämä ehkä jonkinlainen kömpelö sodanjulistus?
+0x00000069 Toivon lonkero kurottaa kohti valon pilkahdusta. Matkaa tähden ~mission_target_star~ järjestelmään ja pelasta serkkumme. Mellakoijat kantavat soihtuja, joten tunnistat heidät helposti.~p~Pidä huoli siitä, että tuhoat vain merkityt kohteet – kansamme ei saa kärsiä tästä yhtään enempää. Toimi nopeasti. Sinulla on vain ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~!
+0x0000011C Kiitos vain, mutta minun täytyy kyllä kieltäytyä.
+0x0000010C Et saanut sairastuneita kansalaisia hävitettyä ajoissa. Palaa järjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~ ja kerro huonot uutiset.
+0x00000100 Tapoit siviilejä ja tuhosit omaisuutta planeetalla ~mission_target_planet~. Sinun täytyy kyllä oppia hallitsemaan aseesi, kapteeni.
+0x000000F0 Paten polkujen kirkkautta saarnaavat lähetyssaarnaajat ovat aloittaneet väkivaltaisen vallankumouksen planeetalla ~mission_target_planet~. Voisitko auttaa tilanteen saamisessa hallintaan?
+0x00000039 Tämä ei varmasti ollut minun syytäni... vai oliko? En nyt millään muista, mutta ongelma oli lyhyesti seuraava.~p~Paikallisiksi puettuja vitsirobotteja oli pilan päiten sijoitettu planeetalle ~mission_target_planet~. Unohdimme kuitenkin viimeistellä ohjelmoinnin, ja nyt nämä robotit täytyy poistaa – tai muuten ne valtaavat koko planeetan!
+0x000000FC ~mission_target_planet~ on yhä kaaoksen vallassa! Eikös sinun pitänyt auttaa planeetan otuksia?~p~Tehtävälokista löydät kaiken tarvitsemasi tiedon.
+0x0000010E Nähdään joskus toiste. Moro!
+0x00000126 Minun pitää nyt mennä.
+0x0000007F Vielä yksi juttu...
+0x0000003F Missä ne ovat?
+0x000000BD Ostiko vihollinen sinut puolelleen? Hyvästi, petturi.
+0x00000068 Ahaa! Tämäpä hauskaa.~p~Mikä jännittävintä, sinulla on vain ~mission_time~ sektonia aikaa suorittaa poistotoimi planeetalla ~mission_target_planet~.~p~Voi, kunpa voisin tulla mukaasi leikkimään. Hei vaan.
+0x00000101 Epäonnistuit yksinkertaisessa tehtävässä planeetalla ~mission_target_planet~. Taitojesi puute on pantu merkille.
+0x00000109 Kaikki merkityt kansalaiset on eliminoitu. Palaa nyt tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, niin saat palkkiosi.
+0x000000DC Kuulimme, että tilanne oli sinulle liian vaikea, joten otimme käyttöön suunnitelman B.~p~Kiitos kuitenkin ponnisteluistasi. Parempi onni jatkossa.
+0x00000108 Eliminoi sairastuneet otukset planeetalla ~mission_target_planet~, joka sijaitsee tähtijärjestelmässä ~mission_target_star~.
+0x0000010D Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000FE Annatko periksi? Siitä seuraa vain kaaosta!
+0x000000F4 Ongelmatapaukset kantavat kirkkaita soihtuja ja näyttävät suorastaan hohtavan. Poista heidät elävien kirjoista. Älä kuitenkaan vahingoita siviilejä tai kiinteistöjä.
+0x00000027 Vihollisen planeetalle ~mission_target_planet~ tekemä biologinen isku on tartuttanut taudin useisiin kaupunkeihimme tehden niistä vaarallisia ja elinkelvottomia. Tauti ei tartu sinun lajiisi, joten pyydämme sinua auttamaan tilanteen ratkaisussa.
+0x00000055 Eips, ei tule onnistumaan.
+0x000000B4 Selvä, näin tehdään. Lähden hoitamaan hommaa.
+0x0000009F Öh. Mitäs minun nyt pitikään tehdä?
+0x000000FD Jos hylkäät tämän tehtävän, kansasi menettää vielä toivonsa.
+0x00000097 Hei, ehditkö vähän jutella?
+0x0000006A Kiitos oikein paljon! Matkaa heti planeetalle ~mission_target_planet~ ja selvitä tilanne nopeasti, ennen kuin ~mission_time~ sektonin aikaraja umpeutuu.
+0x000000E4 Minulla olisi vielä muuta kysyttävää.
+0x000000A6 Muistimme ei ehkä ole galaksin tarkin, mutta olisimme voineet vannoa, että lupauduit menemään planeetalle ~mission_target_planet~ ja pelastamaan kansamme... tuota... no, siltä porukalta, joka haluaa tappaa heidät. Jos muistisi on yhtä huono kuin meidänkin, sinua varmaan lohduttaa, että kaikki tallentuu kyllä tehtävälokiisi. Tarkistahan siis sieltä.
+0x000000E1 Et auttanut meitä ajoissa. Joudumme näköjään siivoamaan jäljet itse.
+0x000000A4 Tartunnan saaneet otukset uhkaavat yhä kansalaisiamme planeetalla ~mission_target_planet~.~p~Kaikki oleelliset tiedot on tallennettu tehtävälokiisi.~p~Puututko nyt tilanteeseen sovitusti?
+0x00000044 Kohteesi on ~mission_target_planet~ tähtijärjestelmässä ~mission_target_star~.~p~Selviätkö tehtävästä?
+0x0000006E Nähdään pian.
+0x00000057 Ei. En hyväksy tätä.
+0x0000007D Miten niin et suostu hyökkäämään aseettomien vihollisten kimppuun? Millainen taistelija oikein olet?
+0x00000012 Autan toki.
+0x00000019 Ehkä ensi kerralla onnistaa.
+0x00000028 Mitä teen paniikkitilanteessa?
+0x00000016 Ei onnistu! En auta teitä moisessa.
+0x00000090 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x00000105 Kaikki merkityt kansalaiset on eliminoitu. Palaa tähtijärjestelmään ~mission_source_star~.
+0x000000F1 Planeetalla ~mission_target_planet~ asuva laji on päättänyt uhmata kropoja. Vaimenna tämä epäsuotuisa käytös.
+0x000000A5 Paten kannattajat ovat yhä vainon kohteena planeetalla ~mission_target_planet~. Kaikki tarvittavat tiedot ovat tehtävälokissasi. Pelastatko heidät, kuten lupasit?
+0x00000125 Toivon ymmärrystä.
+0x00000017 Olette sairaita. En tasan auta.
+0x0000005F Liittovaltion kansalaiset voivat täysin vapaasti osallistua kaikkiin enemmistöpäätöksellä sallittuihin tilaisuuksiin. Suurneuvosto on kuitenkin evännyt kansalaisuuden planeetalla ~mission_target_planet~ asuvilta anarkisteilta. Matkaa heti tähtijärjestelmään ~mission_target_star~ ja eliminoi kaikki anarkistit ~mission_time~ sektonin kuluessa.
+0x00000048 Kohteenasi on tähtijärjestelmässä ~mission_target_star~ sijaitseva planeetta ~mission_target_planet~.~p~Sopiihan tehtävä sinulle?
+0x00000089 Toivon ymmärrystä.
+0x00000025 Terve tähtienvälinen kauppa aiheutti usean teollisuusyrityksen kaatumisen planeetalla ~mission_target_planet~. Potkut saaneet työntekijät ovat aloittaneet mellakan, ja he uhkaavat mullistaa yhteiskuntarakenteen! Voisiko teidän erinomaisuutenne auttaa meitä – palkkiota vastaan tietenkin!
+0x00000094 Voisinko kysyä jotakin?
+0x00000058 Kiitämme sinua suurneuvoston nimeen. Ylläpidä tehtävää suorittaessasi matalaa profiilia. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja tuhottava kaikki planeetan ei-siviilit.
+0x0000002D Ei kiitos. Tämä tehtävä hermostuttaa minua.
+0x000000D8 Nöyrimmät pahoitteluni. Näkemiin.
+0x0000006D Palaan, kun tämä on hoidettu.
+0x00000067 Puhdistettakoon ~mission_target_star~ pahasta! Pate johdattakoon sinua tehtävässäsi. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on tuhottava muuttuneet kansalaiset.
+0x0000008A Haluaisin kysyä vielä jotakin.
+0x0000001F Meidän ei varmastikaan tarvitse opettaa sinulle mielentyhjentimen kaltaisen yksinkertaisen laitteen käyttöä.
+0x000000FB Tehtäväparametrit siirrettiin tehtävälokiisi, mutta siitä huolimatta et ole tuhonnut merkittyjä kohteita planeetalla ~mission_target_planet~.~p~Tee heti se, mitä käskemme.
+0x0000007C Etkö todellakaan voi auttaa? Siinä tapauksessa meidän täytyy kutsua apuun kung-fu-ahvenat.
+0x000000D0 Epäonnistuit ohjeiden seuraamisessa.~p~Täydellinen omantunnonpuutteesi saattaa tosin olla ominaisuus, jota hyödynnämme jatkossa. Kaupunkimme ovat kärsineet suuresti järjestämästäsi päättömästä tuhosta. Olet vain pahentanut tilannetta. Hyvästi!
+0x00000085 Tarvitsisin muistutuksen tehtävästäni.
+0x00000037 Eräs tiedemiehistämme yritti hiljattain saada planeettaa ~mission_target_planet~ hallintaansa. Hän levitti kaikkialle virusta, joka muutti yhteisön jäsenet pahansuovaksi armeijaksi! Auttaisitko meitä nujertamaan tämän hullun professorin?
+0x000000F3 Eliminoitaviksi merkityt kohteet on merkitty hohtomaalilla. Tapa vain merkityt kohteet.
+0x0000010B Tehtävä on päättynyt. Ammuit liikaa omiasi. ~p~Palaa heti planeetalle ~mission_source_planet~ tähtijärjestelmään ~mission_source_star~.
+0x000000F6 Kiiruhda, ennen kuin tilanne kärjistyy entisestään! Kun saavut planeetalle ~mission_target_planet~, sinulla on ~mission_time~ sektonia aikaa auttaa meitä.
+0x000000CD Vielä yksi juttu...
+0x00000119 Poista nämä otukset olevaisuudesta. Niiden olemus on outo ja epäilyttävä, sillä jostakin syystä ne hohtavat kirkkaasti kaikissa olosuhteissa. No, ainakin tunnistat heidät helposti.
+0x000000AA Voisinko kysyä jotakin?
+0x00000110 Merkityistä yksilöistä tuhottu ~mission_num_eradicated_creatures~/~mission_num_creatures~.
+0x00000098 Tästä ei sitten puhuta enää koskaan.
+0x00000103 Tehtävä epäonnistui. Palaa planeetalle ~mission_source_planet~.
+0x000000EC Pyydän vapautusta tästä tehtävästä.
+0x000000E3 Haluaisin kysyä vielä jotakin.
+0x000000E5 Voinko kysäistä jotakin?
+0x00000047 Singahda-pingahda tähtijärjestelmän ~mission_target_planet~ planeetalle ~mission_target_star~.~p~Seuraa hohdetta kohteidesi luo. Päästä muut menemään!
+0x0000002B Miten rauhoitan ne?
+0x00000051 Kohteet kantavat mukanaan suitsukkeita, ja he hohtavat kirkkaasti. Jos siis näet jotain kirkasta ja kiiltävää, tapa se. Tapa ne kaikki.
+0x00000121 Eliminoi planeetan ~mission_target_planet~ sairastuneet otukset.
+0x00000023 Planeetan ~mission_target_planet~ lähetyssaarnaajat ovat joutuneet pakanoiden hyökkäyksen kohteeksi. Auta pelastamaan heidät.
+0x000000EE Pyhältä polulta harhautuneet otukset ovat hyökänneet planeetalle ~mission_target_planet~. Toivomme sinun palauttavan järjestyksen planeetalle.
+0x000000BB Aivoissani on aukko tämän tehtävän kohdalla. Miten se nyt menikään?
+0x000000E0 Kohotit toiveemme vain murskataksesi ne. Ehkäpä vaimennat pettymystämme tuhlaamalla varojasi kauppakeskuksessamme?
+0x0000004A Kohteenasi on tähtijärjestelmässä ~mission_target_star~ sijaitseva planeetta ~mission_target_planet~.
+0x000000ED Havainnollista sotilaallisia voimakeinojasi planeetalla ~mission_target_planet~. Älä viivyttele.
+0x000000B3 Just, selvä homma. Tulen pian takaisin!
+0x0000008D Vielä yksi juttu...
+0x00000123 Tämä ei mennyt ihan niin kuin piti...
+0x0000011F Haluaisin kysyä vielä jotakin.
+0x000000BF Paten puolustajat eivät katso valarikkureita hyvällä. Nimesi lisätään vääräuskoisten luetteloon.~p~Hyvästi.
+0x0000010F Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x0000011E Ymmärrämme haluttomuutesi turvautua väkivaltaan. Lähetämme omat rauhanturvaajamme planeetalle ~mission_target_planet~.
+0x000000DB Vaikka emme lopputuloksesta pidäkään, arvostamme vaivaa, jonka olet nähnyt puolestamme. Korvaukseksi suurneuvosto myöntää sinulle kolman... öh, neljännen luokan suosiomerkin.
+0x000000C5 Voisitteko muistuttaa, mikä tehtäväni olikaan?
+0x000000C1 Olet epäonnistunut suurtuhon estämisessä. Nimesi lisätään velvollisuutensa täyttämättä jättäneiden asiakkaiden luetteloon. Hyvästi.
+0x00000032 Haa! Tämä on se paras juttu!~p~Voit rauhoittaa päällekäyvät kaupunkilaiset mielentyhjentimellä. Se pistää ne aina hiljaiseksi!~p~Ei muistoja, ei ongelmia! Enkö olekin oikeassa? Hahahaa! Toivottavasti sinulla on jo sellainen.~p~Palkkio on hyvä: ~mission_rewards~ spaaleria.
+0x00000005 Yök! Mikä lemu. Sen haistaa parsekkien päähän. Se sumentaa täysin herkät aistimme!~p~Kaikki johtuu planeetan ~mission_target_planet~ väestä. Unohdetaan hienotunteisuus: jotkut heistä vain kerta kaikkiaan löyhkäävät!~p~Olemme pyytäneet heitä kiinnittämään huomiota hygieniatottumuksiinsa, mutta turhaan. Nyt sai riittää! On tullut aika puhdistaa nuo törkyturvat kerralla. Suoritettakoon tämä pysyväluonteinen puhdistus laserilla.
+0x000000A0 Haju on tosi pinttynyt. Se ei lähde valovuosiin. Eihän tällaista voi sivistynyt otus sietää.~p~Auta meitä, me pyydämme. Mene planeetalle ~mission_target_planet~, joka kiertää tähtijärjestelmää ~mission_target_star~ ja tuhoa sieltä kaikki kansalaiset, joilla on hygieniaongelma.~p~Tunnistat heidät hajupilvestä.
+0x00000003 Meitä on potkittu pitkin galaksia jo tuhannen vuoden ajan planeetan ~mission_target_planet~ öykkärisalaliiton toimesta. Nyt otimme suuren riskin ja hankimme salassa teknologiaa, joka voi tuhota nämä hirviöt.~p~Haluammekin sinun etsivän nämä öykkärit ja muuttavan heidät tuhkaksi.~p~Yleensä emme ole näin kostonhimoisia, mutta viimeksi ne jo huuhtelivat päämme mustassa aukossa. Olemme saaneet tarpeeksi pomputuksesta, nyt se saa luvan loppua!
+0x0000009E Unohditko tehtäväsi? Se on varmaan jollain tapaa meidän syytämme. Olen kovin pahoillani kyvyttömyydestämme.~p~Tehtäväsi oli mennä planeetalle ~mission_target_planet~, joka kiertää tähteä ~mission_target_star~. Kun saavut planeetalle, sinun pitäisi eliminoida kaikki sen kaupungeissa asuvat öykkärit. Tunnistat ne niitä ympäröivästä inhotuspilvestä.
+0x00000030 Avaruusalukseni mielentyhjennin toimii moitteettomasti. Käytän sitä kaiken aikaa – muihin tietysti.~p~Se todella antaa toimillesi sitä riittävää lisäpontta.~p~Tehtävään sisältyy JÄTTIMÄINEN palkankorotus. Jos hoidat tämän homman, minä hommaan sinulle palkkioksi ~mission_rewards~ Spore-taaleria.
+0x0000002F Tutkimukset osoittavat, että paras tapa selvitä tilanteesta on käyttää avaruusaluksen mielentyhjennintä, olettaen tietenkin että omistat sellaisen. Se on yksinkertainen, tehokas ja teoriassa ihan hillitöntä hupia tarjoava laite.~p~Koeta olla perinpohjainen. Meillä ei ole varaa suureen paniikkiin, mutta ei kyllä kulkutautiinkaan!~p~Hoida tehtävä, niin saat ~mission_rewards~ Spore-taaleria.
+0x0000000D Kai se täytyy myöntää: yksi piloistamme meni hitusen pieleen.~p~Kloonasimme planeetan ~mission_target_planet~ asukkaat ja päästimme ne sitten valloilleen kaupunkiin.~p~Ajattele nyt. Sitä kävelee kadulla ja vastaan käveleekin pari kolme kappaletta omasta itsestään. Hillitöntä!
+0x0000001A Pyydämme, että suoritat työn mahdollisimman vaivihkaisesti.~p~Jos jokin menee mönkään, tutkimustietojen mukaan paniikkia voi rajoittaa mielentyhjentimellä. Kannattaa varmistaa, että aluksessasi on sellainen.~p~
+0x0000009C Olkoon sitten niin. Tässä kertaus:~p~Mene tähtijärjestelmään ~mission_target_star~ ja suuntaa planeetalle ~mission_target_planet~.~p~Tuhoa siellä kaikki sairastuneet kansalaiset, mutta älä tapa liian monia terveitä otuksia. Peitä lopuksi jälkesi mielentyhjentimellä, jos sinulla on sellainen.~p~Tätä keskustelua ei sitten koskaan käyty.
+0x00000033 Panikoivat kansalaiset ovat aina riesa, mutta älä pelkää. Tiedänkin jo ratkaisun: lepytät vain rahvaan kohtuullisen kokoisella mielentyhjennintujauksella. Kai sinulla on sellainen?~p~Kansamme vanha sananlasku sanoo:~p~"Se mitä et haista, ei voi sinua vahingoittaa." Hahahaa. Hahahaa. Guffatti sentään. Hillitöntä!~p~Ota tästä ~mission_rewards~ Spore-taaleria vaivoistasi.
+0x000000D1 ~player_title~ ~player_creature_name~. Vihollisen demoninen energia oli selvästi liikaa sinulle. Ei huolta, Paten pyhät soturit kyllä onnistuvat siinä, missä toiset horjuvat uskossaan.
+0x000000EA Haluaisin kieltäytyä tästä tehtävästä.
+0x000000EF Planeetan ~mission_target_planet~ älylliset elämänmuodot on tuhottava. Tehtävää suorittamaan on valittu ~player_creature_name~.
+0x0000001C Olisi loogista suorittaa työ mahdollisimman vaivihkaisesti.~p~Voinen myös ehdottaa, että rajoitat paniikkia mielentyhjentimellä. Tutkimukset ovat osoittaneet sen tehokkuuden. Jos aluksessasi ei ole sellaista, kannattaa harkita laitteen hankkimista.~p~
+0x000000F7 ~player_creature_name~ ei hyödytä kropoja toimillaan. Kohenna toimintasi laatua, tai sinut saatetaan merkitä poistettavaksi.
+0x000000B7 Kai sinä vitsailet? Oikeasti.~p~Et voi tuosta vain lopettaa. Et sinä näin etene urallasi. Sinusta ei ikinä tule mitään, jos jatkat samaan tapaan. Miten ihmeessä minä nyt saan sen työn firman pääkonttorista? Rehellisellä työlläkö muka? Tuskinpa vain. Kukaan tässä maailmassa ei ole ikinä menestynyt rehellisellä työllä.~p~Tiedätkö mitä? En hyväksy tällaista niskoittelua. Saat potkut!
+0x0000001D Olisi fiksua suorittaa työ mahdollisimman vaivihkaisesti.~p~Tai sitten paniikkia voinee rajoittaa mielentyhjentimellä. Se on kuulemma erittäin tehokas.~p~Kai sinä omistat sellaisen?~p~
+0x000000DD Ehkäpä kaikkein epäonnisinta planeetan ~mission_target_planet~ tilanteessa on, että luotimme niin täysin siihen, että ~player_creature_name~ selvittää tilanteen. Näkemiin.
+0x000000B6 ~player_creature_name~, ~player_creature_name~, ~player_creature_name~...~p~Olemme hyvin pettyneitä sinuun. Epäonnistumisesi asettaa meidät kaikki alttiiksi tälle virukselle.~p~Roskalehdet ottavat tästä vielä kaiken irti.
+0x000000B9 Et pääse helpolla. Voit tietysti lopettaa, mutta sinun olisi hyvä tietää pari juttua... Nimesi lisätään~p~MUSTALLE LISTALLE!~p~Palaamme vielä maksamaan kalavelkoja. Aikataulun mukaan vuorosi tulee tarkalleen ottaen... noin kolmen miljardin vuoden kuluttua.~p~MUISTA LISTA, PELKÄÄ SITÄ! PELKÄÄ HALKI VUOSISATOJEN!
+0x000000D4 ~player_title~ ~player_creature_name~. Olet aiheuttanut massatuhon planeetalla ~mission_target_planet~. Sinuna suojautuisin, sillä keräämäsi paha karma iskee pian niskaasi kuin höyryjuna.
+0x000000BA Miten julmaa, miten kovin piittaamatonta! Kohotit toiveemme, ja sitten murskasit ne armotta kuin etanan.~p~Jokin täällä haisee, ja se olet SINÄ!
+0x000000B8 Lopetatko sinä? Voi ei, voi ei, voi ei, voi ei, voi ei, voi ei, voi ei, voi ei...~p~Urh...~p~No niin, olen pahoillani. Taisin vähän panikoida. Oli pakko ampua itseäni mielentyhjentimellä, jotta rauhoittuisin.~p~Kukas sinä oikein olitkaan?
+0x000000BC Minulle on kerrottu, että epäonnistuit tehtävässäsi ja eräs liittovaltiomme planeetoista vajosi anarkiaan. Alamme epäillä, että ~player_creature_name~ oli alkujaankin levottomuuksien takana. Hyvästi.
+0x00000070 Minä kun luulin, että sinulla olisi ollut tällaiseen karuun tehtävään vaadittava rautainen luonteenlaatu. Olen pahoillani, ettei homma sovi sinulle. Taudin leviämistä ei taida nyt estää mikään.~p~Jos et voi auttaa suoraan, kai sentään ostat matkamuistoja.
+0x0000001E Ällös viattomia otuksia ammu. Jos et vahingolle minkään voi, tekosi mielentyhjentimellä piilota. Omistuksessas kai sellainen on?
+0x00000071 Hei, älä viitsi olla tuollainen. Miksi olet niin torjuva? Emmehän me nyt pyytäneet sinua tappamaan ketään.~p~Eikun hetkinen... Pyysimmepäs. Heh. Jopas sattui.~p~No, hyvä on. Pidä tämä omana tietonasi. Firmat pitävät kyllä siitä, että niiden työtekijät ovat oma-aloitteisia, mutta tämä saattaisi aiheuttaa väärinkäsityksiä.
+0x00000087 Hiukka nättiä! ~player_title~ ~player_creature_name~. Keskustelin juuri pääkonttorin kanssa ja sain työn. Aloitan ensi viikolla!~p~Suurkiitos, kamu. Tiesin, että voin luottaa sinuun.~p~Hei, tiesitkö firman etsivän nuoria osaajia, joiden käsitys hyvästä ja pahasta joustaa tilanteen mukaan? Sopisit hyvin hommaan, ja minä saisin löytöpalkkion.~p~Mietihän sitä. Tässä joka tapauksessa lupaamani ~mission_rewards~ Spore-taaleria.
+0x000000C8 Kivat sulle, hemmo! Kiitos, että teit hankalasta tilanteesta entistäkin hankalamman.~p~Jätät minulle sellaisen paperivuoren ettet uskokaan.~p~Mene nyt, ole niin kiltti.
+0x000000FF ~player_creature_name~. Hyökkäyksesi planeetalle ~mission_target_planet~ kohdistui tasaveroisesti kaikkiin planeetan asukkaisiin. Sinun kuitenkin käskettiin tuhota vain merkityt kohteet. Epäonnistuit siis ohjeiden noudattamisessa.~p~. Täydellinen omantunnonpuutteesi saattaa tosin olla ominaisuus, jota hyödynnämme jatkossa.
+0x00000072 Voi ei! Kaipa me ennemmin tai myöhemmin löydämme jonkun, joka on valmis hoitamaan homman, mutta...~p~Tämä on vain niin...~p~Rahtikirjojen mukaan lähiplaneetoille on hiljattain kuljetettu paljon mätiä tomaatteja. Siitä ei varmasti seuraa mitään hyvää! Pelkäämme jo pahinta
+0x0000001B Lajillamme ei ole monta syytä ylpeyteen, mutta pelkuruutemme on kyllä legendaarista. Jos jäät kiinni, me käyttäydymme kuin emme lainkaan tuntisi sinua. Ei siis kannata aiheuttaa hälytystä.~p~Jos aiheutat liikaa paniikkia, kaupungin joukot hyökkäävät kimppuusi.~p~Toivottavasti homma tuli selväksi.
+0x000000CA Voi ei, miten kamalaa! Tällä kertaa sohaisit oikeaa ampiaispesää.~p~Me kiistämme kaiken osallisuutemme tähän. Kiistämme kaiken.~p~Kuka oikeastaan olet? Me emme ole koskaan tavanneet sinua. Emme ole koskaan nähneetkään. Se on totta, vannon sen!
+0x0000006F Mitä? Kieltäydytkö? Sietäisit kyllä...~p~Kirottua! Se ratkaisi asian! Emme todellakaan pidä sinusta! Tiedätkö mitä se tarkoittaa? Lisäämme sinut...~p~MUSTALLE LISTALLE!~p~Noin. Nimesi on merkitty listan viimeiseksi. Saat vielä maksaa teoistasi. Ehkä miljoonan vuoden päästä, ehkä huomenna! Revi siitä hupia!
+0x000000CB Ei meillä sen kanssa periaatteessa mitään ongelmaa ole, mutta kun räiskit hengiltä liikaa viattomia otuksia, meidän on puututtava asiaan, sillä saamme jälkien siivoamisesta hirveän päänsäryn.~p~Lajimme päänsäryt ovat todella ikäviä. Niihin ei auta mikään. Et jätä vaihtoehtoa. Tiedätkö, mitä juuri teit? No, tiedätkö? Häh?~p~Pakotit juuri minut lisäämään nimesi...~p~MUSTALLE LISTALLE!
+0x000000CC Oi kamalaa kohtaloa! ~player_title~ ~player_creature_name~. Tämä tehtävä on silkka katastrofi! Nyt meillä on riesanamme sekä vastenmielinen haju että planeetta ~mission_target_planet~, jonka väki on raivoissaan toimistamme.~p~Olemme tuhon omat, matkalla suoraan mustaan aukkoon.
+0x00000001 Erästä planeetan ~mission_target_planet~ älyllistä lajia vaivaa omituinen, lähes loogisesti käyttäytyvä mikrobi, joka nyt leviää tähtijärjestelmän ~mission_target_star~ planeetan kaupungeissa.~p~Toivoisimme, että ongelman voisi ratkaista rauhanomaisesti, mutta sairastuneet yksilöt levittävät tautia – ja tätä mikrobia ei kerta kaikkiaan saa päästää leviämään laajemmalti.~p~On siis eliminoitava kaikki sairastuneet yksilöt ilman, että terve väestönosuus kärsii pahoja vahinkoja.
+0x00000116 Sairastunut elämänmuoto. Käynnistetään polttimia...
+0x00000114 Jos vielä ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^viaton^viatonta~ kuolee, seurauksena on varmasti jokin pahempi selkkaus.
+0x000000C6 No niinpä tietysti. Tehtäväloki. Vilkaisen heti sitä.
+0x0000005B ~player_title~ ~player_creature_name~. Olet hoitanut tilanteen planeetalla ~mission_target_planet~. Ota nämä ~mission_rewards~ ja koeta parhaasi mukaan unohtaa tämä hankala tehtävä.
+0x0000005C Aatteemme valo on jälleen voittanut. Paten viholliset ovat menneisyyttä. Ylistetty olkoon Pate. Hänen armostaan saat nämä ~mission_rewards~.~p~Meillä on myös saarnaajien iskuryhmä valmiusasemissa sinua varten. Sana vain, niin pääset keskustelemaan paikastasi ikuisuudessa.
+0x0000005D Nyt me juhlitaankin oikein olan takaa sun sotilaallisii taitojas! Ota tästä ~mission_rewards~ palkkioksi ja täytä lasi lempilimpparillasi!
+0x00000036 Jos sinulla ei ole mielentyhjenninlaitetta, kannattaa ehkä harkita sen hankkimista. Se rauhoittaa kaikki kiihtyneet mielet.~p~Maksamme tästä valitettavasta, mutta tärkeästä tehtävästä ~mission_rewards~!
+0x00000092 ~player_title~ ~player_creature_name~. Aiomme esittää viisitoistatuntisen kiitosoperetin sinun kunniaksesi. Ota nämä ~mission_rewards~ ja nauti esityksestä.
+0x0000004F TILA: Suoritettu.~p~PALKKIO: ~mission_rewards~.~p~VIESTI: Erinomaista!
+0x0000005E Vaatimattomat sanamme eivät millään riitä kuvaamaan onneamme ja kiitollisuuttamme. Tässä lupaamamme ~mission_rewards~. Toivottavasti basaaristamme löytyy sinulle jotain mieleistä.
+0x0000005A Mutatoituneiden kansalaisten vitsaus saatiin nujerrettua sinun avullasi. Nyt voimme aloittaa planeetan ~mission_target_planet~ ekosysteemin tasapainottamisen. Annamme sinulle mielellämme ~mission_rewards~ palkkion.
+0x00000093 Kiitos nopeasta ja täsmällisestä toiminnastasi planeetalla ~mission_target_planet~. Olemme tarkkailleet taktiikoitasi ja todenneet ne tehokkaiksi. Tässä palkkiosi, ~mission_rewards~.
+0x00000059 ~player_title~ ~player_creature_name~. Tervehdimme sinua suurneuvoston nimeen. Tunnustukseksi ansioistasi olemme valmiita myöntämään sinulle toisen luokan suosiomerkin ja ~mission_rewards~.~p~Edellytämme, ettet hiisku asiasta kenellekään. Kiitos.
+0x000000F9 ~player_creature_name~, tehtäväsi planeetalla ~mission_target_planet~ onnistui. Tästä saat palkkioksi ~mission_rewards~.
+0x000000FA Pelastit planeetan ~mission_target_planet~ otukset. Olet todella ansainnut palkkiosi, ~mission_rewards~.
+0x0000004C ~player_creature_name~. Häikäilemätön suunnitelmamme toteutuu tähtijärjestelmä kerrallaan. Muutaman miljardin vuoden kuluttua koko galaksi tietää, että jos ryppyilee meille, kerjää vain ongelmia.~p~Tässä ovat lupaamamme ~mission_rewards~.~p~Mikä parempaa, sinun nimeäsi ei lisätä meidän...~p~MUSTALLE LISTALLEMME!
+0x0000004E Hengitä syvään, kapteeni! Nenämme on vapautettu. Haistatko kaikki nuo ihastuttavat tuoksut? Ah, herkkuruokia, huumaavia kukkia, ihastuttavan pistäviä kaasupäästöjä. Ihanaa! Kerrassaan hurmaavaa.~p~Olet totisesti ansainnut nämä ~mission_rewards~, jotka lupasimme palkkioksi.
+0x00000053 Otan tehtävän vastaan.
+0x00000086 Tämä oli aika ikävä homma. Tiesinhän minä, että ~player_creature_name~ oli oikea laji tähän hommaan.~p~Öh. En siis tarkoita, että sinä olisit ikävä. Kunhan vain...~p~Kuule, unohdetaan äskeinen keskustelu.~p~Tässä sinulle palkkioksi luvatut ~mission_rewards~.
+0x00000088 En voi uskoa, että se on nyt ohi. Oletko varma, että sait ne kaikki?~p~Mahtavaa!~p~Tässä luvattu palkkiosi, ~mission_rewards~.~p~Sinun kannattaisi jäädä hetkeksi. Pidämme pian planeetanlaajuisen juhlan, joten luvassa on ilmapalloeläimiä joka lähtöön sekä kaikenmakuisia vähäsuolaisia, vähärasvaisia ja sokerittomia ravinnetikkuja. Tästä tulee tosi hauskaa!
+0x00000031 Kerran kuussa osa lajistamme joutuu suuren eksistentiaalisen puuskan kouriin. Mikään ei ratkaise sitä niin mukavasti kuin mielentyhjennin. Kehotan kokeilemaan, toivottavasti omistat sellaisen.~p~Päästä meidät tästä pahasta! Palkkioksi saat ~mission_rewards~.
+

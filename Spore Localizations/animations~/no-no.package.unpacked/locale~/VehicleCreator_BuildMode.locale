@@ -1,0 +1,48 @@
+﻿0x000001B1 ~guide: -h3~ Delbudsjettet
+0x000000B1 ~guide: -h3~ Sentrer symmetri
+0x000000D1 ~guide: -h3~ Deler som går over i hverandre
+0x00000171 ~guide: -bullet~ Posisjoneringsball: Juster retningen på en del.
+0x00000021 ~guide: -h3~ Delpaletten
+0x00000081 ~guide: -h3~ Velge og legge til deler
+0x000001E1 ~guide: -h3~ Kompleksitetsmåler
+0x00000071 ~guide: -h2~ Fremkomstmiddelet ditt vender mot pilen på fremkomstmiddelplattformen.
+0x00000031 ~guide: -h2~ I byggemodus er delpaletten åpen på venstre side av fremkomstmiddelskaperskjermen.
+0x000000E1 ~guide: -h2~ Fremkomstmiddeldeler kan gå over i hverandre. Plasser dem der du vil.
+0x00000101 ~guide: -h2~ Det er grenser for hvor bredt og høyt fremkomstmiddelet ditt kan være. Hvis du overskrider disse grensene, vil ikke lenger delene du prøver å bruke feste seg. De forblir røde (selv om det ser ut som om de kommer til å feste seg). Du må ikke betale for deler som ikke kan plasseres.
+0x00000091 ~guide: -h2~ Du velger en del ved å klikke på den i delpaletten og dra den fra paletten til plattformen eller fremkomstmiddelet.
+0x000000A1 ~guide: -h2~ Hvis du vil velge en del som er på fremkomstmiddelet, klikker du på den til den er markert i blått.
+0x00000121 ~guide: -h2~ Når du har lagt en del til fremkomstmiddelet, bruker du redigeringshendlene til å modifisere delen.
+0x00000131 ~guide: -bullet~ Velg delen du vil redigere ved å klikke på den. Hendlene vises.
+0x00000111 ~guide: -h1~ Redigere deler med hendler
+0x000000F1 ~guide: -h3~ Diameter og høyde på fremkomstmidler
+0x00000061 ~guide: -h3~ Hvilken vei vender fremkomstmiddelet mitt?
+0x00000161 ~guide: -bullet~ Rotasjonsring: Roter retningen til delene.
+0x00000051 ~guide: -h2~ Langs toppen av delpaletten finner du delkategoriene du kan velge mellom. Her har du kropper, cockpiter, fremdriftsmetoder, våpen, effekter og detaljer. Du velger kategori ved å klikke på fliken.
+0x00000151 ~guide: -bullet~ Justeringspil: Endre høyde, bredde, lengde eller krumming på en del.
+0x000000C1 ~guide: -h2~ Kroppsdeler og cockpiter på fremkomstmidler vil automatisk plasseres på midten av plattformen.
+0x000001D1 ~guide: -h2~ Hver del du setter på fremkomstmiddelet ditt koster delpoeng. Når du har sluppet opp for poeng å bruke, kan du ikke legge til flere deler.
+0x000001A1 ~guide: -h1~ Kompleksitet og budsjett
+0x00000041 ~guide: -h3~ Delkategorier
+0x00000103 ~guide: -h2~ Hvis du vil fjerne en del, kan du enten velge delen og trykke på Delete eller klikke og dra den av fremkomstmiddelet eller plattformen.
+0x00000102 ~guide: -h3~ Fjerne deler
+0x00000211 ~guide: -h2~ Hvis fremkomstmiddelet ditt blir for komplekst, kan du ikke legge til flere deler.
+0x00000201 ~guide: -h2~ Kompleksitetsmåleren måler hvor komplekst fremkomstmiddelet ditt er.
+0x00000221 ~guide: -h1~ Fremkomstmiddelegenskaper
+0x000002C1 ~guide: -h3~ Kopiere deler
+0x00000251 ~guide: -h2~ Fremkomstmiddelstatistikken din finner du øverst i høyre hjørne i byggemodus i fremkomstmiddelskaperen.
+0x000002D1 ~guide: -bullet~ Hvis du vil kopiere en del du allerede har på fremkomstmiddelet, holder du inne Alt-tasten og klikker på delen du vil kopiere. Så drar du kopien til et annet sted på fremkomstmiddelet.
+0x000002E1 ~guide: -h3~ Retningsplassering
+0x00000271 ~guide: -bullet~ Kraft - Jo høyere tall, jo mer skade gjør fremkomstmiddelet ditt i kamp.
+0x00000281 ~guide: -bullet~ Fart - Jo høyere tall, jo raskere går fremkomstmiddelet ditt.
+0x00000291 ~guide: -h1~ Avanserte funksjoner
+0x00000261 ~guide: -bullet~ Helse - Jo høyere tall, jo mer skade tåler fremkomstmiddelet ditt i kamp.
+0x000002A1 ~guide: -h3~ Avanserte delhendler
+0x000002B1 ~guide: -bullet~ Hold inne Tab-tasten mens du velger en del på fremkomstmiddelet, så kommer det frem nye delhendler du kan bruke til å få enda bedre kontroll over plasseringen.
+0x00000231 ~guide: -h2~ Delen du legger til fremkomstmiddelet forbedrer enten hastigheten, helsen eller kraften. Bruk fremkomstmiddeldelbudsjettet ditt effektivt, så du får egenskapene du er ute etter.
+0x00000241 ~guide: -h3~ Oppsummering av fremkomstmiddelstatistikk
+0x00000141 ~guide: -h3~ Delhendlene:
+0x000001C1 ~guide: -h2~ Delbudsjettet ditt vises nederst i venstre hjørne i fremkomstmiddelskaperen.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Byggemodus
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000002F1 ~guide: -bullet~ Du beveger fremkomstmiddelet ved å holde inne Shift-tasten, klikke på fremkomstmiddelet og bevege det i retningen du vil ha det.
+

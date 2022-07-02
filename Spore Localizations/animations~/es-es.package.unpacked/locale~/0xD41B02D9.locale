@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x000000B1 Restablece la armonía en el planeta ~mission_target_planet~.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000097 En progreso
+0x00000098 Completada
+0x00000095 La armonía de ~mission_target_planet~ se ha restaurado. Vuelve al planeta ~mission_source_planet~ del sistema ~mission_source_star~ para informar.
+0x00000092 Restablece la armonía en el sistema estelar ~mission_target_star~. La verdad se te revelará si te mantienes en el camino.
+0x00000041 ¡~ep1_captain_full_name~, lo lograste! Has seguido el camino y has restaurado la armonía. ~p~La Unidad tiene un lugar para ti en el Gran Plan, ¡así que sal y extiende esa energía armónica! ~p~Para ayudarte en tu viaje espiritual, te ofrecemos ~mission_rewards~ esporetas. Gástalas con sabiduría.
+0x00000081 No todo el mundo posee el equilibrio interior necesario para moverse por ambos lados de la realidad. Te deseamos suerte en el lado que elijas.
+0x00000071 Ningún capitán puede caminar por todos los caminos que la galaxia ofrece. Que las bendiciones te acompañen en los caminos que tomes.
+0x00000064 Desciende y habla con el líder de la ciudad. Él no es consciente de la energía armónica, pero escucha atentamente y quizá percibas una verdad de mayor envergadura.
+0x0000004E Discúlpame, amable viajero. No quiero desequilibrar tu aura, pero los aldeanos necesitan tu ayuda. ~p~En tu historial de misiones encontrarás toda la información necesaria.
+0x00000000 ~ep1_captain_full_name~, hemos recibido una señal de peligro de una colonia cercana. Su pequeña aldea está siendo atacada cada noche por monstruosas criaturas.~p~Sospechamos que la causa de esta alteración es un desequilibrio armónico, pero desde la órbita no podemos localizar la fuente. ~p~ La violencia y la fuerza no son útiles para este asunto. Pero intuimos en ti una armonía interior que podría ser muy útil para esta misión.~p~ ¿Te apuntas?
+0x00000094 Restablece la armonía en el sistema estelar ~mission_target_star~. Los aldeanos de ~mission_target_planet~ necesitan tu ayuda.
+

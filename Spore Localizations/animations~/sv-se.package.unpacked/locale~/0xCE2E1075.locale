@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 Undersökningen på ~mission_target_planet~ är slutförd. Rapportera tillbaka till planeten ~mission_source_planet~ i systemet ~mission_source_star~.
+0x00000099 Framgång! Avlägg rapport i stjärnsystemet ~mission_source_star~.
+0x00000098 Avklarat
+0x000000B2 Avlägg rapport på planeten ~mission_source_planet~.
+0x00000093 Kurs: ~mission_source_star~-systemet.
+0x00000097 Laddar
+0x00000000 ~ep1_captain_full_name~, vi har just fått information om en biologisk katastrof! En oidentifierad utomjordisk farkost har kraschat nära en av våra avlägset liggande ekologiska forskningsstationer. ~p~Vi har tappat allt samband med stationen. ~p~Vi är oroliga för att den utomjordiska farkosten kan ha fört med sig något slags smitta. ~p~Kan du undersöka saken åt oss?
+0x0000004E Planetkoordinaterna har överförts till din uppdragslogg. Skynda dig innan smittan sprider sig.
+0x00000081 Är du säker på att du inte vill utsätta dig för en potentiellt dödlig utomjordisk smitta?~p~Vår lista över försökskaniner blir allt kortare ...
+0x00000092 Undersök stjärnsystemet ~mission_target_star~. Försök kontakta forskningsstationen.
+0x00000064 Jag visste att jag kunde räkna med dig. Ta reda på vad som hände vid forskningsstationen och avlägg rapport hit så snart som möjligt. ~p~Skynda dig ~ep1_captain_full_name~, innan smittan sprider sig.
+0x00000094 Undersök stjärnsystemet ~mission_target_star~. Försök kontakta forskningsstationen på planeten ~mission_target_planet~.
+0x000000B1 Undersök den störtade farkosten på planeten ~mission_target_planet~.
+0x00000071 Ärligt talat skulle inte vi heller vilja strålas ned till en farlig planet för att undersöka en dödlig utomjordisk smitta.~p~Din ras är smartare än den ser ut.
+0x00000041 Det är som vi fruktat. Hela stationen gick under i smittan utom den här lilla flickan. Förhoppningsvis innehåller hennes immunsystem ledtrådar som kan hjälpa oss att förhindra den här typen av katastrofer i framtiden.~p~ Det är inte mycket, men vi vill erbjuda dig ~mission_rewards~ Sporebucks för din hjälp i det här ärendet.
+

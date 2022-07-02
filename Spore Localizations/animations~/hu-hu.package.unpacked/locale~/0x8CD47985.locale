@@ -1,0 +1,14 @@
+﻿# For SporeAlert message box caption
+
+0x07D1E41A Riadó
+
+# message for diaglog shown when assets are downloaded from a 
+# sporecast marked with the notify flag by the server.
+
+0x07C3B843 ~SyncNum~ új, ingyenes alkotás letöltése a ~SyncName~ Spóradásból.
+
+# Scenario variations of the banning messages
+
+0x07D9DB89 El akarod távolítani a játékból a következőt: ~generic0~? ~br~~br~Ne feledd, a kalandra vonatkozó pontszámod így nem kerül megjelenítésre.
+0x07D9DB8E Ez helyi tartalom. Törölni akarod a következőt: ~generic0~?~br~~br~Ne feledd, a kalandra vonatkozó pontszámot így nem kapod meg.
+

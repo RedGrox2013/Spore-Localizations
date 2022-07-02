@@ -1,0 +1,17 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000005 Vihollisesi lähetti laivaston tuhoamaan sivilisaatiosi tähtijärjestelmässä ~mission_target_star~.
+0x00000002 Lopeta lähetys
+0x00000006 Vihollislaivasto ei ole enää tähden ~mission_target_star~ järjestelmässä.
+0x0000000B Taisteluasemiin! ~mission_attacker_empire~ hyökkää planeetalle ~mission_target_planet~.
+0x00000004 ~mission_attacker_empire~ hyökkää planeetalle ~mission_target_planet~!
+0x00000007 ~mission_attacker_empire~ hyökkää sivilisaatiosi kimppuun planeetalla ~mission_target_planet~. Kiiruhda tähtijärjestelmään ~mission_target_star~.
+0x00000003 ~mission_attacker_empire~ ei hyökkää enää planeetalle ~mission_target_planet~!
+0x00000008 ~mission_attacker_empire~ ei enää hyökkää sivilisaatiosi kimppuun tähtijärjestelmän ~mission_target_star~ planeetalla ~mission_target_planet~.
+0x00000001 Kapteeni, hei! Kaipaamme kipeästi apuasi. ~p~~mission_attacker_empire~ lähetti laivueen kimppuumme. Matkaa mahdollisimman nopeasti planeetalle ~mission_target_planet~ tähden ~mission_target_star~ järjestelmään.~p~Olemme hätää kärsimässä. Kiiruhda, ole kiltti!
+0x0000000C ~mission_attacker_empire~ lopetti toimensa. Selkkaus on ohitse.
+

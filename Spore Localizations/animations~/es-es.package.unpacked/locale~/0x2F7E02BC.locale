@@ -1,0 +1,25 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Visita Vat Tego en el planeta ~mission_target_planet~.
+0x00000004 Estar al mando de una nave espacial sólo es la mitad de las responsabilidades de un capitán espacial. La otra mitad exige habilidades tácticas sobre el terreno una vez tu tripulación y tú abandonéis vuestra nave espacial y descendáis a los planetas.
+0x0000001B Regresa al planeta de origen ~mission_source_planet~.
+0x0000001F Has cumplido tu misión en ~mission_target_planet~. Vuelve a tu planeta de origen ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000008 ¡Una aventura! Me apunto.
+0x0000000D ¿Has consultado tu historial de misiones últimamente? ~p~Tienes que ir inmediatamente hasta el puerto espacial Vat Tego del planeta ~mission_target_planet~. Ésta podría ser la misión más importante de tu carrera.
+0x00000005 ¿Descender?
+0x00000021 Completada
+0x00000007 Nuestros científicos han dotado a tu nave de un dispositivo de teletransporte que os permitirá a tu tripulación y ti bajar hasta la superficie del planeta para realizar misiones planetarias.~p~Es lo que usan los capitanes más guays. ~p~¿Estás a punto para visitar Vat Tego?
+0x00000002 Cuéntame más...
+0x00000001 El control de la misión tiene una excitante nueva misión para ti.~p~Queremos que viajes hasta el planeta ~mission_target_planet~ y que realices una misión de reconocimiento en el puerto espacial Vat Tego.
+0x00000020 En progreso
+0x0000000A ¡Bienvenido de nuevo, capitán! Los datos del historial de tu nave indican que has obtenido toda la información necesaria para convertirte en un hábil capitán espacial.~p~ Recapitulemos, ¿de acuerdo?~p~Primero, tienes que llevar a cabo misiones de aventura para ganar experiencia como capitán. A medida que subas de rango, obtendrás nuevos accesorios y habilidades con los que equiparte. Contar con miembros de la tripulación de tu flota hará más fáciles las misiones cuando estés en el planeta.~p~¡Está chupado! Ahora sal y empieza a forjar tu leyenda.
+0x0000001D Rumbo: Sistema ~mission_source_star~.
+0x0000001C Viaja hasta el sistema estelar ~mission_target_star~. Habla con el robot jefe para obtener más datos de la misión.
+0x00000011 ¡Genial! En cuanto llegues a ~mission_target_planet~, baja volando hasta el planeta de la forma habitual para iniciar la secuencia de descenso.~p~Busca al robot jefe cuando llegues a Vat Tego: dispondrá de más información acerca de dónde ir y con quién hablar en el puerto espacial.~p~Que tengas un viaje seguro, capitán.
+0x00000022 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x0000001E Viaja hasta el sistema estelar ~mission_target_star~.  Desciende al puerto espacial Vat Tego del planeta ~mission_target_planet~.  Habla con el robot jefe para obtener más datos de la misión.
+

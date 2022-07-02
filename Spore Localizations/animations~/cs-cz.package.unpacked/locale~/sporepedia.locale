@@ -1,0 +1,121 @@
+﻿#######################################
+# Filter Names
+
+0x00020001 Vzduch
+0x00020002 Budovy
+0x00020003 Buňky
+0x00020004 Radnice
+0x00020005 Kolonie
+0x00020006 Zvířata
+0x00020007 Národy
+0x00020008 Stvoření
+0x00020009 Říše
+0x0002000A Náboženský
+0x0002000B Ekonomický
+0x0002000C Zábava
+0x0002000D Továrna
+0x0002000E Flóra
+0x0002000F Vysoký strom
+0x00020010 Nízký strom
+0x00020011 Keř
+0x00020013 Dům
+0x00020014 Země
+0x00020015 Vojenský
+0x00020016 Hudba
+0x00020017 Moře
+0x00020019 Vozidla
+0x0002001A Kmeny
+0x0002001B Doporučená stvoření
+0x00020012 Vše
+0x0002001C Planety
+0x00020018 Kosmické lodě
+
+#######################################
+# Misc
+
+0x00030002 nebo Vytvořit novou
+0x00030004 Neplatné prostředky ~num_items_invalid~ se nezobrazují. 
+0x00030001 Třídit
+0x00030005 Zobrazeno ~num_filtered_items~ z ~num_items~ položek
+0x00030003 Zobrazuji položky: ~num_items~
+0x00030007 Pro zobrazení více výtvorů změňte parametry vyhledávání nebo zvolte možnost Vše. Existuje ~num_items~ dalších výtvorů, které zadaným kritériím nevyhovují.
+0x00030006 Načítání... ~loading_percent~%
+
+#######################################
+# Category Names
+#######################################
+# Category Names
+
+0x00000001 Kamarádi
+0x00000003 Stvoření
+0x00000004 Další
+0x00000006 Komunita
+0x00000007 Popisky
+0x00000008 Moje věci
+0x00000005 ~my_game_name~
+0x00000002 Sporekanál
+
+#######################################
+# SPUIFeedListItem.cpp
+
+0xF4C87CF7 ~num_subscribers~ Odběratelé
+0xF4C87CF6 ~num_subscribers~ Odběratel
+
+#######################################
+# Call To Action Messages
+
+0x00040002 Vyberte si hudbu pro svoje město
+0x0004000A Vyberte si zábavní budovu
+0x00040009 Vyberte si ekonomické plavidlo
+0x0004000D Vyberte si vojenské vznášedlo
+0x0004000C Vyberte si dům
+0x0004000B Vyberte si továrnu
+0x00040005 Vyberte si náboženské vozidlo
+0x00040004 Vyberte si náboženské vznášedlo
+0x00040003 Vyberte si radnici
+0x00040008 Vyberte si ekonomické vozidlo
+0x00040006 Vyberte si náboženské plavidlo
+0x0004000E Vyberte si vojenské vozidlo
+0x00040015 Vyberte si příšerku
+0x00040011 Vyberte si příšerku
+0x0004000F Vyberte si vojenské plavidlo
+0x00040014 Vyberte si osadnické plavidlo
+0x00040013 Vyberte si osadnické vozidlo
+0x00040012 Vyberte si osadnické vznášedlo
+0x00040001 Váš univerzální prohlížeč obsahu
+0x00040010 Vyberte si kosmickou loď
+0x00040017 Vyberte si nebo vytvořte vesmírnou příšerku
+0x00040016 Vyberte si nebo vytvořte civilizační příšerku
+0x00040007 Vyberte si ekonomické letecké vozidlo
+0x00040018 Vyberte si nebo vytvořte kmenovou příšerku
+0x0004001A Vyberte si buňku
+0x00040019 Vyberte si nebo vytvořte příšerku
+
+#######################################
+# Feed Item Names
+
+0x00010003 Maxis
+0x00010009 Možnosti
+0x0001000A Ukončit hru
+0x0001000B Zpět do hlavního menu
+0x0001000C Uložit hru
+0x0001000D Vztahy
+0x0001000E Časová osa
+0x0001000F Snímky
+0x00010001 Všechna
+0x00010002 Má stvoření
+0x00010005 Najít kamaráda
+0x00010008 Spore katalog
+0x00010007 Stránka MySpore
+0x00010010 Úspěchy
+0x00010014 Civilizační hra
+0x00010011 Buněčná hra
+0x00010013 Kmenová hra
+0x00010012 Hra vyvíjení příšerek
+0x00010017 Stahování
+0x00010018 Poslední stahování
+0x00010015 Vesmírná hra
+0x00010016 Hledat on-line
+0x00010006 Vyhledat Sporekanál
+0x00010004 Vytvořit Sporekanál
+

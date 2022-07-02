@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F Iloinen
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD Oikeamielinen
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 Kunnioitettu
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 Hurskas
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 Tasapainoinen
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 Nuuka
+
+# Zealot
+
+0x07CEA308 Profeetta
+0x07CEA307 Arkkiotus
+0x07CEA309 Pyhä otus
+0x07CEA306 Apotti
+0x07CEA303 Munkki
+0x07CEA302 Oppinut
+0x07CEA305 Puhmunkki
+0x07CEA304 Uskonotus
+0x07CEA300 Uskovainen
+0x07CEA301 Palvoja
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 Armelias
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA Urhea
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E Kaunis
+
+# Diplomat
+
+0x07CEA407 Ministeri
+0x07CEA406 Edustaja
+0x07CEA405 Neuvos
+0x07CEA400 Avustaja
+0x07CEA404 Tuomari
+0x07CEA403 Sihteeri
+0x07CEA402 Apulaissihteeri
+0x07CEA401 Lähettiläs
+0x07CEA409 Suurlähettiläs
+0x07CEA408 Komissaari
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Värvää
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 Kiukkuinen
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB Järkevä
+
+# Shaman
+
+0x07CEA700 Keräilijä
+0x07CEA702 Metsästäjä
+0x07CEA701 Sadonkorjaaja
+0x07CEA709 Henkimestari
+0x07CEA708 Unensieppaaja
+0x07CEA707 Visionääri
+0x07CEA704 Kutoja
+0x07CEA703 Kasvomaalaaja
+0x07CEA706 Tulentekijä
+0x07CEA705 Sauvantekijä
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 Kokenut
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C lajin ~ep1_captain_species_name~ valtakunnasta
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F Viisas
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 Vanhurskas
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 Tuottelias
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 Empaattinen
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 Hengellinen
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A Antelias
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 Hauska
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B Pahankurinen
+
+# Trader
+
+0x07CEA609 Moguli
+0x07CEA608 Toimitusjohtaja
+0x07CEA605 Manageri
+0x07CEA604 Keinottelija
+0x07CEA607 Päällikkö
+0x07CEA606 Varapäällikkö
+0x07CEA603 Kirjanpitäjä
+0x07CEA600 Juoksuotus
+0x07CEA602 Salakuljettaja
+0x07CEA601 Lähetti
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE Hiljainen
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 Vahva
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D Looginen
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 Leikkisä
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B Älykäs
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A Itsepintainen
+
+# Wanderer
+
+0x07CEA908 Tähtitaivaltaja
+0x07CEA909 Galaksin kiertäjä
+0x07CEA905 Seikkailija
+0x07CEA904 Tienraivaaja
+0x07CEA906 Matkailija
+0x07CEA907 Planeettapyrähtelijä
+0x07CEA903 Tiedustelija
+0x07CEA900 Kiertolainen
+0x07CEA902 Vaeltaja
+0x07CEA901 Liftari
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 Hurja
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 Myötätuntoinen
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 Neuvokas
+
+# Warrior 	
+
+0x07CEA803 Kersantti
+0x07CEA809 Sotapäällikkö
+0x07CEA805 Luutnantti
+0x07CEA804 Majuri
+0x07CEA806 Upseeri
+0x07CEA808 Kenraali
+0x07CEA807 Komentaja
+0x07CEA802 Palkkasoturi
+0x07CEA801 Taistelija
+0x07CEA800 Öykkäri
+
+# Scientist
+
+0x07CEA501 Teknikko
+0x07CEA500 Harjoittelija
+0x07CEA503 Insinööri
+0x07CEA502 Tutkija
+0x07CEA509 Nero
+0x07CEA508 Teoreetikko
+0x07CEA505 Professori
+0x07CEA504 Keksijä
+0x07CEA507 Akateemikko
+0x07CEA506 Tohtori
+
+# Bard
+
+0x07CEA103 Soittaja
+0x07CEA104 Muusikko
+0x07CEA101 Roudari
+0x07CEA102 Virittäjä
+0x07CEA105 Muodinluoja
+0x07CEA108 Tähti
+0x07CEA109 Supertähti
+0x07CEA106 Ihanne
+0x07CEA107 Julkkis
+0x07CEA100 Fani
+
+# Ecologist
+
+0x07CEA209 Guru
+0x07CEA202 Kasvitieteilijä
+0x07CEA203 Eläintenhoitaja
+0x07CEA200 Kitkijä
+0x07CEA201 Puutarhuri
+0x07CEA204 Viljelijä
+0x07CEA205 Kasvattaja
+0x07CEA206 Risteyttäjä
+0x07CEA207 Kloonitohtori
+0x07CEA208 Filosofi
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 Luotettava
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 Urhea
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 Uskollinen
+
+# Knight
+
+0x07CEAA05 Vahti
+0x07CEAA07 Rehtiritari
+0x07CEAA06 Jalotus
+0x07CEAA09 Lordi
+0x07CEAA08 Aatelinen
+0x07CEAA01 Harjoittelija
+0x07CEAA00 Voro
+0x07CEAA02 Kavaljeeri
+0x07CEAA04 Sotilas
+0x07CEAA03 Seikkailija
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

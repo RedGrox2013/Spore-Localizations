@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C1F เลือก Sporecast:
+0x06162C22 สร้าง Sporecast
+0x06162C1E เพิ่มใน Sporecast
+0x06162C24 สร้างใหม่
+0x06162C25 ตกลง
+0x74BF153F คุณจะได้พบกับ...
+0x74BF153E คุณสามารถเพิ่มทุกอย่างที่คุณพบขณะเล่นเข้าไปใน Sporepedia ได้!
+0x34F8116D ลักษณะเฉพาะนี้จะปลดล็อค:
+
+# ProfileView.layout
+
+0x062EE735 ข้อมูลผู้เล่น
+
+# vehicle stats (specific)
+
+0x058B5C26 อำนาจเศรษฐกิจ
+0x058B5C25 อำนาจศาสนา
+0x058B5C24 อำนาจทหาร
+
+# AssetViewLarge.layout
+
+0x058B60F7 ต่อไป
+0x058B60F8 ก่อนหน้า
+0x058B60F6 โดย
+0x058B60F3 คำสำหรับค้น :
+0x058B60F4 ชื่อ
+0x058B60F5 โปรแกรมสร้าง
+0xD4AF63E8 กรุณารอสักครู่...
+0x058B60F2 คำอธิบาย:
+
+# creature stats
+
+0x058B5C1F กินเนื้อ
+0x058B5C20 กินพืช
+0x058B5C21 โจมตี
+0x058B5C22 สังคม
+0x058B5C1E กินทั้งพืชและเนื้อ
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175E9 จันทร์
+0x05B175E8 อาทิตย์
+0x05B175EC พฤหัสบดี
+0x05B175ED ศุกร์
+0x05B175EA อังคาร
+0x05B175EB พุธ
+0x05B175F5 ~username~
+0x05B175F6 <Missing>
+0x05B175F0 ~seconds~ วินาทีที่แล้ว
+0x05B175F1 ~minutes~ นาทีที่แล้ว
+0x05B175EF ~day_of_week~ที่แล้ว
+0x05B175EE เสาร์
+0x05B175F4 ~modelname~
+0x05B175F2 ~hours~ ชั่วโมงที่แล้ว
+
+# vehicle stats
+
+0x058B5C1D ความเร็ว
+0x058B5C1C พลัง
+0x058B5C1B พลังชีวิต
+
+# AssetBrowser.layout
+
+0x05B1A59E ยินดีต้อนรับ ~username~
+0x05B1A59D Sporepedia™
+0x05B1A59C ค้นหา
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 เรียงตาม:
+0x058B5C27 เวลาที่ดาวน์โหลด
+0x058B5C19 ย้อนกลับ
+0x058B5C18 สร้างใหม่
+0x058B5C17 กรุณาล็อกอินเพื่อใช้คุณสมบัติออนไลน์
+0x058B5C11 เวลาที่สร้าง
+0x058B5C1A ความสัมพันธ์
+0x058B5C14 ชนิด
+0x058B5C12 ชื่อผลงาน
+0x058B5C13 ชื่อโปรแกรมสร้าง
+0x058B5C15 ถูกแบ่งปัน
+0x058B5C16 กรุณาล็อกอินเพื่อใช้คุณสมบัติออนไลน์
+0x058B5C28 น่ารักน่าบรื๋อ
+

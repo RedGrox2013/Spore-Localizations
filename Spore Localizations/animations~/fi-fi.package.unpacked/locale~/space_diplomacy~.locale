@@ -1,0 +1,1490 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000026 Huh! Kuka siellä? Ei kai vaan kaupustelijoita?~p~Ai, se oletkin taas sinä. ~race~ ei pidä sinusta.~p~Toisaalta me emme pidä kenestäkään. Ainakin me tunnemme sinut, joten ehkä sinulla on pullat hyvin uunissa. No, mitä oikein haluat?
+0x000000E2 ~purchase_offer_2~
+0x000000E3 ~purchase_offer_1~
+0x000000E0 ~purchase_offer_4~
+0x000000DF ~purchase_offer_5~
+0x000000E1 ~purchase_offer_3~
+0x000000F5 ~peace_offer_4~
+0x000000F6 ~peace_offer_3~
+0x000000F4 ~peace_offer_5~
+0x000000F8 ~peace_offer_1~
+0x000000F7 ~peace_offer_2~
+0x00000103 ~large_gift_amount~
+0x00000105 ~small_gift_amount~
+0x00000104 ~medium_gift_amount~
+0x00000007 Tervehdys. Aluksesi ei ole tietokannassamme.~p~Ilmoita tunnuksesi ja rekisteröintitietosi.
+0x00000005 Oletko sinä ruokaa?
+0x00000012 Oletko sinä ruokaa?
+0x00000006 Kropot tuhoavat sinut.
+0x00000020 Ah, on aina mukavaa saada vieraiksi tähtienvälisiä liittolaisiamme.~p~Kuinkas hurisee?
+0x00000017 Mikäli et hyväksy Paten sanomaa, meidän polkumme kulkevat eri suuntiin.
+0x00000018 Olemme lievästi sanottuna ahdistuneita siitä, että kaltaisesi mahtava otus ylipäätään huomaa meidät. Voisitko mitenkään mennä pois?
+0x00000014 Joko syödään?
+0x00000015 Suojelemme universaalia lajikarttaa kaltaisiltasi häpäisijöiltä.
+0x0000001D Haa! Universumi viskaa eteemme taas uuden lajin. Tämä onkin vielä melkoinen untuvikko.~p~Voi, kuinka söpö oletkaan. Haluaisitko leikkiä kanssamme?
+0x00000019 Meidän on paras lopettaa tämä keskustelu nopeasti. Sinua ympäröivä paha karma pudottaa pian taivaan niskaasi.
+0x0000001A Älä kiinnitä mitään huomiota noihin jättisuuriin aseisiin, jotka on suunnattu päätäsi kohden. Ne on tarkoitettu ainoastaan meidän turvaksemme, ei sinun pääsi menoksi.
+0x0000000B Uhoaminen on henkisesti kehittymättömien yksilöiden tyypillinen piirre.
+0x0000000A Olet ehkä suuri ja mahtava, mutta toimesi kyllä asettavat älykkyytesi kyseenalaiseksi.
+0x0000000E Ollos tervehditty, sivistyksen nimissä.~p~~race~ on kaikin tavoin omistautunut havainnoinnin, tutkimuksen ja empiirisen totuuden palvelukseen. Universumi vastaa niille, jotka kuuntelevat.~p~Voimmeko auttaa sinua tutkimustehtävässäsi?
+0x0000000F Selvännäkijämme tiesivät, että sanoisit noin.
+0x00000010 Tervehdys, muukalainen. Olet tervetullut. Esitäthän nyt henkilötietosi, viisumisi ja matkustuslupasi.
+0x00000008 On hyvä, että tunnustat ylivoimaisuutemme.
+0x00000009 Jos kerran olet niin ihmeellinen, miksi emme ole koskaan kuulleetkaan sinusta?
+0x00000032 Saat nyt tilaisuuden puolustella olemassaoloasi.
+0x00000002 Tervetuloa, tervetuloa! On aina mukavaa tavata uusia ystäviä – jos siis olette sellaisia.~p~Mikä onkaan nimenne?
+0x00000033 Suurneuvosto on hyvin kiinnostunut siitä, että ~player_title~ on saapunut.
+0x00000030 Neuvotellaanpa hieman.
+0x00000031 Lajisi ei näemmä ole vieläkään sammunut.
+0x0000002D Tervehdys, luonnonlapsi.
+0x0000002E Tervehdys! Jälleen kerran silmämme saavat ihailla erinomaisuuttanne. Miten voimme ilahduttaa teitä, ~player_title~?
+0x0000002F Tervehdin sinua Paten nimeen.
+0x00000004 Muukalainen, kuka olet?
+0x00000022 Tuo on ehkä totta, mutta siitä huolimatta olet vain sivuhuomautus maailmankaikkeuden lajikartalla.
+0x0000002A Tervehdimme sinua suurneuvoston nimeen.
+0x0000002B Joko olet valmis syötäväksi?
+0x0000002C Oi ikuisuuden lapsi, aurasi on täynnä yllätyksiä.
+0x00000029 Kropot lähettivät terveisiä.
+0x00000355 Edes liittolaisten ei pidä leikkiä suurneuvoston tunteilla.
+0x000005A7 Enempi vastarinta olisi turhaa. Hyväksytkö antautumisemme?
+0x00000356 Tarjous on aivan liian pieni!
+0x00000353 Tarjouksesi on täysin riittämätön.
+0x00000625 Olet todistanut olevasi varsin kelvollinen ehdokas liittolaiseksemme. Hyväksymme tarjouksesi.
+0x00000354 Toivoimme, että liittolaisemme tekisi meille kunnon tarjouksen.
+0x00000358 Luulimme, että olet liittolaisemme, mutta oletkin pelkkä selkäänpuukottaja.
+0x00000359 Seuraavien tarjousten on parasta olla vakavammin otettavia.
+0x00000329 Kuolaamme ilosta nähdessämme liittolaisemme. Mitähän hyvää hänellä on taskuissaan?
+0x00000357 Älä haaskaa aikaamme. Meillä on taimia istutettavana.
+0x00000626 Hartain toiveemme on jo pitkään ollut, että voisimme liittoutua kanssasi. Kukoistakoon liittomme!
+0x0000032A ~player_title~ on ryhdiltään ylivertainen – täydellisen olennon perikuva. Tiedämme, ettei liittolaisemme missään tapauksessa vieraile ilman lahjaa. Voimmeko auttaa sen laskemisessa?
+0x00000623 Pate valvokoon, että tämän liiton ehtoja noudatetaan.
+0x0000034E Olemme panostaneet kovalla kädellä tämän järjestelmän puolustamiseen, ja haluaisimme korvauksen vaivoistamme.
+0x0000034F Kunnioitettu vieraamme tehköön suoran tarjouksen, niin harkitsemme vastaustamme.
+0x0000034D Jos turvallisuutemme taattaisiin, tämä vaihto saattaisi olla mahdollinen. Turvallisuudenhan voi tunnetusti taata parhaiten kattavalla asejärjestelmällä, joten voisitko ehkä ostaa meille uusia aseita?
+0x0000034C Olemme valmiita rikkomaan maalliset suhteemme tähän tähtijärjestelmään, jos vain saamme riittävästi maallista motivaatiota.
+0x000005BF Rauha ei merkitse mitään kropoille.
+0x00000622 Pate siunaa tämän liiton.
+0x00000624 Tällä hetkellä liitto vaikuttaa varsin järkevältä vaihtoehdolta.
+0x0000032B Vastustamme kaikkia pyrkimyksiä käännyttää meitä materialistiseen elämäntapaasi. Vaan kuinka paljon materiaa toitkaan?
+0x00000352 Voit ehdottaa sopivaa summaa. Sopiva summa ei sitten ole ihan pieni.
+0x00000351 Tee toki tarjous. Me saatamme hyväksyä sen... tai sitten emme.
+0x000005A8 Seis! Me antaudumme, ennen kuin tuhoat loputkin kauppatavaroistamme. Hyväksytkö antautumisemme?
+0x00000350 Autamme tässä asiassa mielellämme, mutta haluamme kyllä korvauksen järjestelmään tekemistämme sijoituksista.
+0x0000032C Karkea lahjuksesi kilpistyy henkisen ylivoimaisuutemme läpäisemättömään muuriin. Kuinkas karkea se lahjuksesi oikein oli?
+0x0000035A Tuolla rahalla ei makseta näiden bileiden laskua – hyvä jos edes ilmapalloja!
+0x00000363 Tarjouksesi asettaa järkesi kyseenalaiseksi.
+0x00000368 Vain syvä kunnioituksemme mahtavaa persoonaasi kohtaan estää meitä heittämästä tarjousta takaisin kauniille silmillesi.
+0x00000369 Toivomme kohtuullista voittoa, emme matkaa köyhäintaloon!
+0x0000036A Suurneuvosto on valmis hyväksymään tarjouksesi ja toivoo suhteidemme säilyvän lämpiminä.
+0x00000367 Mahtava ystäväni on taas ihan hupsu!
+0x00000364 Tarjouksesi ei mahdu logiikkaparametrien sisään.
+0x00000365 Tarjouksesi on hälyttävän pieni. Ehkäpä siinä on pilkkuvirhe?
+0x0000035C Olet tainnut kuule eksyä vääränlaiseen tähtisumuun!
+0x0000035B Kuule, kamu. Jätä vitsailu ammattikoomikoille. Tarjouksesi ei paljoa naurata!
+0x00000361 Paten kannattajat eivät koskaan hyväksy moisia pikkurahoja.
+0x00000362 Mikäli tämä ei ole jonkinlainen harhautusliike, sinun täytyy kärsiä vakavista harhoista.
+0x00000360 Varmastikaan liittolaisemme ei tahallaan pyri ärsyttämään meitä.
+0x0000035D Kuinkahan sanoisin tämän niin, etten loukkaa herkkiä tunteitasi?~p~EI! EI ONNISTU, EI IKINÄ!
+0x0000035E Luulitko, että uskomme takia meitä olisi jotenkin helppo huijata?
+0x0000035F Tuolla summalla ei edes kiillotettaisi Paten temppelin portaita!
+0x00000336 Liittolaisemme lahja on kuin kaunis kukka keväällä. Kuinkahan monta kukkaa liittolaisemme on kedollemme tuomassa?
+0x00000337 Et selvästikään ole huomannut, että koneet eivät yleensä tarvitse rahaa. Käytämme rahat silti hyväksemme, sillä voimme lahjoa niillä ahneita, likaisia ja lyhytnäköisiä elämänmuotoja tuhoamaan omat sivilisaationsa. Kuinka paljon siis toitkaan?
+0x00000338 Liittolaisemme maailmankaikkeuden lajikartalla ovat tervetulleita tekemään tarjouksen.
+0x00000335 Liittolaisemme ovat tervetulleita keskuuteemme. Jalomielinen lahjasi käytetään kummankin lajin eduksi. Voimmeko laskea jalomielisyytesi määrän?
+0x00000332 Meitä häkellyttää oletus, että meidät voisi lahjoa. Kai lahjuksesi sentään on kohtuullisen suuri?
+0x00000333 Kaikki lahjat käytetään kauniin kiiltävien aseiden ostoon. Kerrohan nyt, että kuinka monta asetta voimme arsenaaliimme lisätä?
+0x00000334 Soturihenkeä ei voi rahalla mitata. Minkä kokoisen palan soturihenkeä ajattelit rahoillasi lunastaa?
+0x000005B7 Harkitsemme rauhaa, mutta vain jos tarjouksesi on riittävän korkea.
+0x0000033D Emme mielellämme poistu maailmasta, jonka olemme vallanneet Patelle, mutta budjetissamme on vajetta sotilaallisten saarnaajien kohdalla. Voisitko siis auttaa täyttämään aukkoa?
+0x0000033E Järjestelmää ei ole tutkittu Paten suunnitelman mukaisesti. Ilmaiseksi se ei silti irtoa.
+0x0000033C Olemme kovin imarreltuja siitä, että haluat maailmamme. Vielä enemmän meitä kuitenkin imartelisi antelias tarjous.
+0x00000339 Se on yksi näteimmistä tähdistäni! Ehkä voisimme vapauttaa sen, jos lupaatte sponsoroida seuraavia juhliamme.
+0x0000033A Normaalisti kieltäytyisimme automaattisesti, mutta nyt budjetissamme on pikkuinen lovi. Ehkäpä voisit auttaa täyttämään sen.
+0x000005B1 Arvostamme elämää, emme rahaa. Edustat kuitenkin materialistista kulttuuria, joten kaikki kassavarojasi kuluttava lienee oiva rangaistus. Kuinka paljon olet valmis tarjoamaan?
+0x000005B0 Suurneuvosto ei muuta periaatteitaan, mutta selkeyden vuoksi pyydämme sinua selventämään tarjoustasi.
+0x000005AF On vain kohtuullista, että virheen tehnyt osapuoli tarjoaa hyvityksiä. Suurneuvosto odottaa suurta avokätisyyttä.
+0x000005B2 Rahalla saatetaan hyvinkin korjata aiheuttamasi vahingot. Kuinka paljon tarjoat?
+0x000005B4 Meillä kun oli niin hauskaa tykittäessämme sinua silpuksi. Saat luvan tarjota melkoista rahasummaa, jotta harhautat meidät huvistamme!
+0x000005B3 Toivottavasti voit tarjota niin paljon, että se kattaa kaikki rauhanjuhlan kulut ja rahaa jää vielä tyylikkäisiin releisiinkin.
+0x00000330 Maallisen omaisuuden hylkääminen on ensi askel viisauteen. Kuinka paljon materiaalista omaisuuttasi ajattelit meille hylätä?
+0x00000331 Kunnon sotureina me halveksimme pyrkimystäsi horjuttaa päättäväisyyttämme pelkällä rahalla! Kerro tuomasi rahasumman suuruus, jotta voimme nauraa sille.
+0x000005B6 Jos summa olisi poikkeuksellisen mittava, saattaisimme tulkita tämän vilpittömäksi hyvityslahjaksi.
+0x0000032F Aurasi todistaa sinut myötätuntoiseksi ja anteliaaksi luonteeksi. Kuinka pitkälle anteliaisuutesi mahtaa ulottua?
+0x000005AE Kropotko antautuisivat? Logiikkavirhe.
+0x0000032D Me olemme jo hylänneet materialistisen elämäntyylin. Olemme kuitenkin havainneet, että alempien lajien kanssa toimimiseen kannattaa varata jokin kaupanteon väline. Kuinka paljon siis toitkaan?
+0x0000032E Vaikka henkinen kasvu onkin ensisijainen huolenaiheemme, on materiaalisella kehollamme ruumiillisia tarpeita. Kuinka suurella summalla ajattelit vastata tarpeisiimme?
+0x00000349 Sinä haluat ostaa tähtijärjestelmän, ja me taas haluamme ostaa harvinaisia kristalleja, joihin voimme varastoida henkistä energiaamme. Ehkä voimme löytää jonkinlaisen tasapainon.
+0x000005AA Henkinen ylevyytemme ei auttanut meitä tässä kamppailussa. Me antaudumme!
+0x00000620 Ehdottomasti, tähtikamu! Me ollaan aina oltu sitä mieltä, että sä oot ykkönen.
+0x0000061F Hyväksymme sinut liittolaiseksemme. Yhdessä me täydennämme maailmankaikkeuden lajikarttaa!
+0x00000348 Majoitamme sinut mielellämme. Kirjoita vain riittävän suuri sekki.
+0x000005BA Saat kyllä luvan korvata saaliin, jonka normaalisti ryöstäisimme maailmastasi!
+0x000005BB Halveksimme tarjoustasi materiaalisesta hyvityksestä, mutta jos taloudellinen tappiosi on todella mittava, hyväksymme sen yhdeksi karman ilmentymismuodoksi. Kuinka paljon tarjoat karman mestareille?
+0x000005BD Halveksimme sitä, että yrität ratkaista kiistan rahalla. Toisaalta haluamme kovasti ostaa valtakunnallemme uusia asejärjestelmiä. Poikkeuksellisen suuri materiaalinen lahjoitus saattaisi saada meidät harkitsemaan mielipidettämme uudelleen.
+0x000005BE Niiltä, jotka eivät ymmärrä kunniaa, me odotamme taloudellista hyvitystä. Koska sinulla ei ole kunniantuntoa, odotamme sinulta vain ja ainoastaan rahaa – paljon rahaa. Kuinka paljon tarjoat?
+0x000005A9 Älkää enää ampuko! Antaudumme, jos vain sallitte meidän paeta vähien varojemme kera.
+0x0000034B Maailmanhenki ilmoitti, että saattaisi olla halukas vaihtamaan uuteen huoltajaan. Voisitko kuitenkin korvata meidän kulumme?
+0x00000621 Lennetään rinnakkain maailmankaikkeuden loppusuhahdukseen asti.
+0x00000343 Avustamme mielellämme, mutta odotamme avustamme kohtuullista palkkiota.
+0x00000344 Olemme valmiita majoittamaan sinut, mikäli saamme sopivan maksun.
+0x000005B8 Edellytämme riittävän korkeaa tarjousta.
+0x00000342 Ehdottamasi vaihto on looginen vain, jos järjestelmän arvo arvioidaan oikein.
+0x0000033F ~player_title~ voi tehdä tarjouksen. Me sitten tulkitsemme Paten tahtoa.
+0x00000341 Ehdotuksesi ei ole täysin toteuttamiskelvoton. Meillä on kuitenkin oikeus odottaa kunnollista rahallista vastinetta.
+0x000005AD Taktiikkasi olivat häkellyttävän tehokkaita. Me antaudumme!
+0x000005AC Joukkosi ovat voittaneet. Antaudumme kunniakkaille vihollisillemme.
+0x000005AB Emme taida selvitä hengissä niin pitkään, että kaatuisit lopulta omaan karmaasi. Me antaudumme!
+0x000005B9 Saatat hyvinkin kääntää päämme, jos lahjus on riittävän suuri! Kuinka paljon tarjoat?
+0x00000345 Ehdotuksesi on houkutteleva, mutta sen todellinen merkitys paljastuu vasta, kun olemme tarkistaneet lompakkosi koon.
+0x00000346 Vastatkoon summa lajisi kunniakkuutta!
+0x00000347 Kaikki on kaupan, kunhan teet sopivan tarjouksen. Tee kunnon tarjous!
+0x0000036B Suurneuvosto kiittää ja toivoo kansojemme suhteen lujittuvan entisestään.
+0x000003A4 Kiitos lahjoituksestasi, ~player_title~. Valitettavasti minun täytyy muistuttaa sinua, että olemme jo päättäneet politiikastamme.
+0x000003A5 Suurneuvosto hyväksyy lahjoituksesi. Valtakuntamme on kuitenkin jo päättänyt politiikkansa suuntaviivoista, ja tämä ei vaikuta niihin.
+0x000003A6 Hyväksymme tämän liittomme nimissä, mutta ~player_title~ tietäköön, ettei mikään rahamäärä voi parantaa jo entuudestaan tukevalla pohjalla olevaa liittoamme.
+0x0000059C Olet oppinut soturin tavoille! Luovutamme tämän tähtijärjestelmän sinulle, jos vain suostut aselepoon.
+0x00000636 Ehkäpä muistisi pettää. Lupasit hoitaa puolestamme erään asian. Se on yhä kesken. Harkitsemme pyyntöäsi, kun tehtävä on suoritettu.
+0x000003A2 Suurneuvosto hyväksyy lahjoituksesi, mutta ei muuta mielipidettään sinusta.
+0x000003A3 Pyrkimyksesi horjuttaa ihanteitamme on epäonnistunut.
+0x000003A7 Tämä raha vain nolostuttaa meitä. Hyväksymme sen kohteliaisuudesta sinua kohtaan, mutta toivomme sinun tietävän, että suhteemme on jo niin tiivis, ettei se voi tästä juuri parantua.
+0x000003AA Kiitos lahjoituksestasi. Se ei kuitenkaan vaikuta ystävyyteemme millään tavoin.
+0x000003AB Kiitos avokätisestä lahjoituksestasi, mutta emme jousta periaatteistamme.
+0x00000599 Olet voittanut julman ja sydämettömän filosofiasi avulla! Jos lupaat keskeyttää voimatoimet, me evakuoimme eloonjääneet ja poistumme järjestelmästä.
+0x0000059A Saat tästä tonneittain pahaa karmaa! Voit lieventää karmataakkaasi, jos suostut aselepoon ja sallit meidän poistua tähtijärjestelmästä rauhanomaisesti.
+0x0000059B Meidän on myönnettävä, että taktiikkasi ovat ylivoimaisia omiimme nähden. Jos lupaat lopettaa voimatoimet, me lopetamme vastarinnan ja luovutamme tämän tähtijärjestelmän sinulle.
+0x000003A8 Sen sijaan, että muuttaisimme mielemme suhteesi, käytämme likaiset rahasi taisteluun sinua vastaan!
+0x000003A9 Nauramme säälittävälle yrityksellesi vaikuttaa mielipiteeseemme.
+0x0000039B Syistä, joita pieni mielesi ei voi käsittää, me hyväksymme lahjoituksesi.
+0x00000633 Hei, tähtikamu! Relaahan nyt. Milloin oikein viet loppuun sen tehtävän, jonka sanoit suorittavasi?
+0x0000059F Saavumme luoksesi toivoen, että hyväksyt antautumisemme.
+0x00000399 Liittoumamme voima kasvaa tämän lahjoituksen myötä merkittävästi.
+0x00000632 Aivosolumme rappeutuvat kiihtyvällä vauhdilla, mutta olemme silti muistavinamme, että lupasit suorittaa meille erään tehtävän. Emme siirry vakavampien asioiden pariin, ennen kuin tämä tehtävä on suoritettu!
+0x0000039A Emme näe mitään syytä olla ottamatta rahoja.
+0x00000634 Pate näkee ja tietää kaiken. Hän tietää, ettet ole vieläkään suorittanut tehtävää, jonka lupasit hänen nimeensä suorittaa. Emme kuuntele liittopuheita, ennen kuin tämä tehtävä on suoritettu.
+0x0000059D Kropot antautuvat. Logiikkavirhe.
+0x00000635 Juuri nyt emme voi käsitellä liittolaishakemustasi. Paten seuraajat liittoutuvat vain luotettavien tahojen kera. Sikäli kuin me muistamme, lupasit suorittaa puolestamme erään tehtävän. Tämä tehtävä on edelleen suorittamatta.
+0x0000059E Suurneuvosto on päättänyt, että antautuminen on paras vaihtoehtomme.
+0x000003C0 Oliko siinä kaikki?
+0x000003C1 Tämä lahjoitus on totisesti muuttanut mielipidettämme sinusta. Kun aiemmin vain epäilimme sinua kitupiikiksi, nyt tiedämme sen varmasti!
+0x000003C2 Kiitos avustuksestasi, mutta valitettavasti putiikkimme hinnat säilyvät ennallaan.
+0x000003BF Kiitämme sinua loistavasta kontribuutiostasi, ~player_title~. Liittomme oli kuitenkin vakaalla pohjalla jo valmiiksi.
+0x000003BC Kiitämme sinua osallisuudestasi, mutta olemme pettyneitä siihen, että edes kuvittelit voivasi vaikuttaa suhteeseemme.
+0x000003BD Vaikka ystävyytemme pysyykin muuttumattomana, voit olla varma siitä, että pistämme lahjoituksesi hyvään käyttöön.
+0x000003BE Liittolainen, me kiitämme sinua avokätisyydestäsi, mutta tämä oli täysin tarpeetonta.
+0x000003C3 Lahjasi oli kovin miellyttävä, mutta emme anna sen vaikuttaa ystävyyteemme.
+0x000003C6 Lahjontayrityksesi oli toivoton.
+0x00000596 Taktiikkasi ovat osoittautuneet ylivoimaisiksi. Jos keskeytät voimatoimesi, me pidättäydymme vastarinnasta ja luovutamme tämän maailman sinulle.
+0x000003C7 Olet hölmö, jos uskot tämän karkean juonittelun ratkaisevan mitään.
+0x00000597 Voit lopettaa voimanosoituksesi! Jos hyväksyt aselevon, me poistumme ja jätämme tämän tähtijärjestelmän sinulle!
+0x000003C4 Mahtavuutesi on vailla vertaa, mutta lahjasi oli täysin tarpeeton. Voi eih! Sanoinko tosiaan noin?
+0x00000598 Lopeta, ole niin kiltti! Jos vain lopetat sotatoimet, me evakuoimme väkemme ja jätämme kaiken sinulle!
+0x000003C5 Mahtava lahjasi täyttää sydämemme ilolla, mutta liittoumamme tasapainoon se ei vaikuta mitenkään.
+0x000003BB Tarjouksesi on laadultaan... mielenkiintoinen. Mitättömän pieni, mutta mielenkiintoinen.
+0x000003B0 Hylkäämme surullisen mutta vilpittömän yrityksesi parantaa suhdettamme. Rahat me kuitenkin pidämme.
+0x000003B1 Kiitos kovasti, mutta pidimme sinua tähtikamunamme jo ennestään.
+0x000003B2 Ei sinun enää tarvitse lahjoa meitä! Me pidämme sinusta kovasti jo nyt.
+0x000003AF Luulitko, että myisimme itsemme halvalla?
+0x000003AC En tosiaankaan tarvitse näitä rahoja, mutta kiitos kuitenkin.
+0x000003AD Suhteemme on jo ennestään vahva, mutta otamme lahjoituksesi kohteliaasti vastaan.
+0x000003AE Jos on jotakin lahjusta säälittävämpää, niin pieni lahjus.
+0x000003B3 Liittomme on jo nyt vahva kuin teräs, emme olisi oikeastaan tarvinneet rahoja.
+0x000003B8 Vaikka liittoumamme on jo valmiiksi voimakas ja vakaa kuin peruskallio, hyväksymme tämän arvokkaan lahjan Paten nimeen.
+0x000003B9 Tämä lahja oli täysin tarpeeton, sillä olemme jo yhtä Patessa.
+0x000003BA Ennen kuin otamme rahasi käyttöön, luotaamme ne tarttuvien organismien varalta.
+0x000003B7 Käytämme rahat Paten aatetta edistääksemme, mutta kahdenväliseen suhteeseemme ne eivät vaikuta.
+0x000003B4 Yrityksesi heikentää päättäväisyyttämme on päinvastoin vahvistanut mielipiteemme.
+0x000003B5 Pate näkee sydämeesi ja tietää, että tämän lahjan tarkoitus on käännyttää meidät materialismin tielle.
+0x000003B6 Kiitämme sinua lahjoituksestasi, mutta päätöksemme on järkähtämätön.
+0x00000631 Muistelemme, että lupauduit kerran suorittamaan meille erään tehtävän. Kun tehtävä on suoritettu, harkitsemme kyllä tätä liittolaisuusasiaa.
+0x0000062B Kunniakkaalla käytökselläsi ansaitset erikoistunnustuksen. Me ryhdymme liittolaisiksesi.
+0x00000378 Tämä lahjoitus auttaa meitä suuresti seuraavien juhlien rahoittamisessa. Ollaan ystäviä.
+0x0000062C Hyväksymme liittolaisuustarjouksen, kunhan tottelet jatkossakin komentojamme.
+0x00000377 Näkemyksemme sinusta on muuttunut... hieman.
+0x0000062A Olet oiva liittolainen. Hyväksymme mielihyvin.
+0x00000376 Lahjan seurauksena aiemmin jäätävä suhteemme on nyt vain kireähkö.
+0x000005A3 Meidän pitää ehtiä yksiin bileisiin, joten ajateltiin, että säästettäisiin kaikkien aikaa ja antauduttaisiin.
+0x00000379 Kiitos, tähtikamu! Voit olla varma, että käytämme kaiken johonkin joutavaan.
+0x0000062E Suurneuvosto harkitsee ehdotustasi mielellään, kunhan ensin suoritat tehtävän, jonka lupasit suorittaa puolestamme.
+0x0000037C Hyväksymme tämän lahjan Paten nimeen ja toivomme, että syvenevän liittolaisuutemme myötä sinäkin vielä päästät Paten sydämeesi.
+0x000005A1 Tämä sota on jatkunut riittävän pitkään. Me antaudumme.
+0x0000037B Tooga-bileet!
+0x000005A2 Selvä homma. Olet virallisesti galaksin ilkein laji. Me luovutamme.
+0x0000062D Hyväksymme sinut liittolaiseksemme – toistaiseksi.
+0x00000375 Maailmankaikkeuden lajikartta tulee täydentymään tämän avokätisen lahjoituksen seurauksena. Voimmeko jotenkin auttaa liittolaistamme?
+0x00000370 Kiitämme lahjasta, jonka tulemme käyttämään maailmankaikkeuden lajikartan hyväksi.
+0x00000371 Toivomme valtakuntiemme välisen suhteen kasvavan ja kehittyvän.
+0x00000372 Kiitos tästä jalomielisestä lahjoituksesta. Jatkukoon ystävyytemme.
+0x0000036F Suurneuvosto hyväksyy lahjoituksen kiitoksin ja myöntää sinulle liittovaltion lujittajan arvonimen.
+0x0000036C Olen iloinen voidessani hyväksyä tarjouksesi suurneuvoston nimissä. Lisäksi suurneuvosto myöntää sinulle tämän kolmannen luokan suosiomerkin.
+0x0000036D Suurneuvosto hyväksyy tarjouksesi suurin kiitoksin ja toivoo kansojemme ystävyyden kestävän ja kehittyvän.
+0x0000036E Olemme iloisia voidessamme hyväksyä liittolaisemme lahjoituksen. Suurneuvosto on aina vastaanottavainen ehdotuksille, joita ~player_title~ esittää.
+0x00000373 Kiitämme tästä lahjoituksesta. ~player_title~ säilyy ylimpänä ystävänämme.
+0x00000628 Olemme tulkinneet tulevaa sisälmyksistä ja nyt peseydyttyämme voimme iloiten todeta, että sisälmykset hyväksyvät liiton.
+0x000005A4 On Paten tahto, että sivilisaatiomme on kuilun partaalla. Antaudumme. Säästä se, mikä ei vielä ole tuhkana.
+0x00000629 Olemme paukuttaneet noitarumpua ja heittäneet luita. Karman kehä sitoo meidät yhteen!
+0x00000627 Toivomme, että tämä liitto tuo onnea galaksiimme! Hyväksymme tarjouksesi.
+0x00000374 Tämä lahjoitus käytetään liittomme vahvistamiseen!
+0x000005A6 Tiedot analysoituamme toteamme, että taistelujen jatkaminen olisi turhaa. Näin ollen antaudumme.
+0x000005A5 Meidän on säästettävä se, mitä on jäljellä! Jos säästät Paten seuraajien hengen, me antaudumme sinulle.
+0x0000038F Taisin juuri havaita henkisyyden hiukkasen kehittymättömässä mielessäsi.
+0x00000390 Lahjasi on hyväksytty. Muodostamme mietiskelyringin ja meditoimme ystävyytesi johdosta.
+0x00000391 Lahjasi on erittäin sopiva! Sekoittukoon auramme yhdeksi spektriksi!
+0x0000038E Vaikuttaa sittenkin siltä, että materialistinen mielesi voi oppia uutta ja kasvaa henkisesti. Kuinka voimme keventää mieltäsi?
+0x0000038B Totisesti on sanottu: "Se, joka ostaa jotakin arvokasta, on asiakas, mutta se, joka antaa tukuittain rahaa ilmaiseksi, on elinikäinen ystävä."
+0x0000038C Me suorastaan hyppelemme ilosta lahjasi mahtavuuden edessä! Kukoistakoon liittolaisuutemme kuin keväinen kukkaketo!
+0x0000038D Herkeämme ilolauluun jo sinut nähdessämme! Haluaisitko tulla palvotuksi?
+0x00000392 Liittolaisemme on tuonut meille mahtavan lahjan! Messutkaamme harmonian hymni.
+0x00000397 Lahjasi vahvistaa ystävyyttämme.
+0x000005A0 Jotta säästäisimme luontoa enemmältä vahingolta, me antaudumme.
+0x00000398 Käytämme mahtavan lahjasi vahvistaaksemme liittoumamme voimaa.
+0x00000396 Kiitämme sinua! Lahjoituksesi käytetään turvallisuutemme varmistamiseen.
+0x00000393 Tämän lahjan avulla lajimme saavuttaa henkisen ykseyden.
+0x00000394 Katsomme sinua nyt uusin silmin. Ehkä voit sittenkin olla hyödyksi.
+0x00000395 Ah, kissa yrittää imarrella tiikeriä. Kissalla on toki oma paikkansa tiikerin rinnalla.
+0x0000038A Ystävämme ~player_title~ puhuu sanoin, jotka puhuttelevat meitä kovin. Kuinka voimme auttaa?
+0x0000037F Ilahdut varmasti kuullessasi, että lahjoituksesi käytetään Paten sanan levittämiseen.
+0x00000380 Tämä merkityksellinen lahjoitus käytetään kokonaisuudessaan Paten mahtavuuden korostamiseen.
+0x00000381 Tämä lahjoitus takaa, että liittoumamme voi jatkaa Paten suuren suunnitelman edistämistä.
+0x00000630 Saatamme suhtautua asiaan suosiollisesti, kunhan suoritat ensin vastaanottamasi tehtävän.
+0x0000037D Paten uskolliset seuraajat käyttävät tämän lahjoituksen viisaasti. Kiitos, että muistutit meitä siitä, että epäuskoisetkin ovat osa Paten suunnitelmaa.
+0x0000062F Tallenteemme osoittavat, että et ole saanut suoritettua tehtävää, johon tarjouduit vapaaehtoiseksi. Käsittelemme mahdollista liittoa vasta, kun olet suorittanut tehtäväsi.
+0x0000037E Paten kiitos tästä suuresta lahjasta. Tuokoon Pate meidät lähemmäksi toisiamme.
+0x00000382 Kiitos lahjasta. Käytämme sen jollakin rationaalisella tavalla.
+0x00000387 Kiitos mahtavasta lahjoituksestasi, ~player_title~. Ole huoleti ja tiedä, että olemme valmiita edistämään liittolaisemme etuja siinä missä omiammekin.
+0x00000388 Pidämme sinusta nyt hitusen enemmän, mutta olisimme toki suoneet sinun olevan hivenen avokätisempi. Ehkäpä voit korvata kitsastelusi vierailemalla putiikissamme?
+0x00000389 Hyväksymme tarjouksesi ja toivomme suhteidemme pysyvän niin hyvinä, että jatkoa seuraa.
+0x00000386 Emme unohda liittolaisemme ruhtinaallista tukea aatteellemme. Autamme sinua mielellämme yhteisten tavoitteidemme saavuttamisessa.
+0x00000383 Ehkäpä lajisi ei olekaan niin totaaliseen hyödytön kuin ajattelimme.
+0x00000384 Kiitämme lahjasta ja toivomme ystävyytemme jatkuvan.
+0x00000385 Kiitos, ~player_title~. Olet hyvä ystävä ja vakuutamme, että lahjoitus pistetään hyvään käyttöön.
+0x000002B6 Tervehdys. Pate edellyttää meiltä vieraanvaraisuutta jopa pakanoita kohtaan.
+0x000002B7 Pate on kaiken toivon lähde. ~player_title~ tekisi viisaasti kuunnellessaan Paten sanoja.
+0x000002B8 Tervehdys. Toivomme, että ~player_title~ esittää asiansa lyhyesti.
+0x000002B5 Hei! Toivomme, että ~player_title~ viihdyttää meitä.
+0x000002B2 ~player_title~ keskeytti aromaterapiaistuntomme. Nyt kun olet täällä, niin kaipa me voimme jutella.
+0x000002B3 Olemme kaikki tähtiainesta. Myös ~player_title~.
+0x000002B4 ~player_title~ taitaa olla meille entuudestaan tuttu. Vai olikohan se sittenkin joku toinen, yhtä mitättömän näköinen otus?
+0x000002B9 Toivomme, että ~player_title~ auttaa keskustelullaan meitä palvelemaan luontoa.
+0x000002BE ~race~ tarkoittaa järkeä ja tiedon lisäämistä. Merkitseekö ~player_title~ mitään tiettyä?
+0x000002BF ~player_title~ ei tunnu sopivan mihinkään lajiin tai luokkaan. Hmm. Sattuisitko tietämään, mihin pääjaksoon kuulut?
+0x000002C0 Selvitä asiasi.
+0x000002BD ~player_title~ on palannut. Oletamme, että olet avuntarpeessa.
+0x000002BB Vierailusi aiheuttama ilo ei voisi olla tätä suurempi, ellei ~player_title~ sitten vierailisi putiikissamme.
+0x000002BC ~player_title~ on palannut turvavyöhykkeellemme. Pidättäydymme kysymästä moisen teon syytä.
+0x000002B1 Suurneuvosto haluaa tietää syyn sille, että ~player_title~ on saapunut alueelle.
+0x000005EE Haluamme auttaa henkistä kasvuasi, joten vähennämme karmataakkaasi ottamalla nämä rahat harteiltasi. Vallitkoon rauha kansojemme välillä.
+0x000005ED Otamme rahasi vastaan... Jos piipahdat putiikissamme, otamme vastaan vielä lisääkin rahojasi.
+0x000005EC Tarjoamasi summa on erittäin kohtuullinen. Ollaan ystäviä. Muista, että pidämme sinusta entistäkin enemmän, jos ostat joitakin tuotteitamme.
+0x000005EF Vakuutamme sinulle, että messuttuamme pois rahojen pahan karman aiomme käyttää näitä rahoja vain henkisesti yleviin tarkoituksiin.
+0x000005F2 Mitä on rauha? Kropot keskeyttävät hetkeksi nykyisen kohteen tuhoamisen.
+0x000005F1 On kunnia murskata joukkosi, polttaa planeettasi, viedä rahasi ja julistautua voittajaksi.
+0x000005F0 Voittaja saa pitää saaliin. Älä enää koskaan yllytä meitä tuhoamaan sinua.
+0x000005EB Kerrankin päätelmäsi ovat rationaalisia. Tulkoon rauha.
+0x000002AF ~player_title~ voi nyt puolustella olemassaolonsa jatkumista.
+0x000005E6 Tämä riittää juuri kattamaan viikonlopun biletyksen. Rauha rulaa!
+0x000005E7 Tällä rahalla saamme tosi viileitä asuja. Rauhaa vaan sullekin!
+0x000005EA Analyysimme vastaavat toisiaan. Sopikaamme erimielisyytemme.
+0x000005E9 Kymmenykset ovat riittävät. Tulkoon rauha.
+0x000005E8 Vastineeksi tästä rahasta Paten soturit pidättelevät pyhää vihaansa – hetken ajan.
+0x000002CA Onko ~player_title~ tullut opettelemaan käytöstapoja?
+0x00000606 Elämänvastaisten kropojen vihamielisyyden johdosta kaikki asiakaspalvelijamme ovat juuri nyt hyvin kiireisiä. Yritä hetken kuluttua uudelleen.
+0x000002CB Jopa ~player_title~ kelpaa meille kauppakumppaniksi.
+0x000005DD Tarjoamasi summa ei saa meitä poikkeamaan uskonsoturin polulta.
+0x00000605 Pahat kropot ovat hyökänneet kimppuumme. Emme ehdi asioida kanssasi juuri nyt. Palaa myöhemmin.
+0x000002C9 Ole hyvä ja perustele läsnäolosi, ~player_title~.
+0x000005DE Tarkistimme asian oraakkelilta. Hän käski pyytämään lisää.
+0x000002CC Kunnioitat meitä läsnäolollasi. Nyt kun meille on osoitettu kunnioitusta asiaankuuluvasti, ~player_title~ voi poistua.
+0x000002D1 ~player_title~ teki kohtalokkaan virheen.
+0x000002D2 Pohtiessaan kaikkia mahdollisia teitä rauhaan ja galaktiseen järjestykseen suurneuvosto sallii, että ~player_title~ lähestyy neuvostoa.
+0x000002D3 Onko ~player_title~ tullut antautumaan neuvostolle?
+0x000002D0 Lajisi on täydellinen todiste siitä, ettei älykästä suunnittelua ole olemassakaan.
+0x000002CD Olemme valmiita, ja halutessamme ~player_title~ murskataan kuin ötökkä. Voisitko ehkä kertoa syyn, miksi emme tekisi näin?
+0x000002CE Onko ~player_title~ tullut anelemaan apuamme?
+0x000002CF Olemme järkeviä otuksia. Emme tosin ole aivan varmoja siitä, onko ~player_title~ sellainen.
+0x00000604 Suurneuvosto on kiireinen kropojen hyökkäyksen vaatimissa korjaustoimissa. Emme voi puhua kanssasi juuri nyt.
+0x000002C7 Ole varuillasi, tai Pate vihastuu sinuun.
+0x000002C4 Tuonelassa on erityinen loukko, joka on varattu sellaisille viheliäisille otuksille kuin ~player_title~.
+0x000002C1 ~race~ vastustaa sitä aggressiivisuutta, jota ~player_title~ edustaa. Sano sanottavasi nopeasti.
+0x000002C2 ~player_title~ on suurneuvoston silmissä epäilyttävä. Mitä oikein haet täältä?
+0x000002C3 Jos tulit tyrkyttämään meille materialistista elämäntyyliäsi, voit lähteä heti.
+0x000002C8 Paten palvelijat ovat nyt kiireisiä. Sano asiasi nopeasti.
+0x000005E1 Raha ei merkitse mitään kropoille.
+0x000005E0 Tämä ei korvaa sitä iloa, jonka saamme tuhoamisestasi!
+0x000005DF Tällä summalla maksettaisiin ehkä tavanomaiset aseet, mutta me haluamme kaikki krumeluurit. Tee parempi tarjous!
+0x000005E2 Suurneuvosto on mielissään ja hyväksyy tarjouksesi.
+0x000005E5 Olemme luonteeltamme rauhallista kansaa ja hyväksymme tämän merkkinä ystävyydestä lajiemme välillä.
+0x000005E4 Tämä korvaa kaikki sodan tuhot ja kulut.
+0x000005E3 Suurneuvosto pitää tarjoustasi riittävänä. Vallitkoon kansojemme välillä rauha.
+0x00000296 Perustele olemassaolosi jatkuminen.
+0x00000601 Taidat pelätä oikein tosissasi, kun tarjoat meille näin paljon. Otamme rahat, ja kehotamme sinua pelkäämään jatkossakin.
+0x00000295 Sinun ei tarvinnut tehdä muuta kuin ilmaantua paikalle. Nyt selvännäkijämme eivät muuta teekään kuin kieriskele maassa huutaen: "Ahrum!"
+0x00000294 Aurasi on niin kovin vihamielinen. Jos sinut poistettaisiin, maailmasta katoaisi suuri pahojen vibojen aiheuttaja.
+0x00000600 Henkisesti ylevämpinä olentoina me olemme paljon sinua parempia vartijoita näille laajoille ja mittaville rahavaroille. Tulkoon rauha.
+0x000005FC Hyväksymme sekä rauhantarjouksesi että tämän massiivisen lahjan.
+0x000005FB Muhkean tarjouksesi pohjalta tekemämme analyysi osoittaa, että sinun täytyy olla pahasti harhainen. Kaikesta huolimatta hyväksymme toki tarjouksesi.
+0x000005FA Avokätinen tarjouksesi osoittaa, että Pate on liikuttanut sinua sydänjuuriasi myöten. Hyväksymme rauhantarjouksesi Paten nimeen.
+0x000005FD JIIHAA! HYVÄKSYMME! OLEMME RIKKAITA, RIKKAITA, RIKKAITA!
+0x00000603 Mitä on rauha? Kropot keskeyttävät hetkeksi nykyisen kohteen tuhoamisen.
+0x000005FF Kun olet nyt luopunut tästä valtavasta summasta, olet ottanut ensimmäisen askeleen kohti henkistä valaistumista.
+0x000005FE Jos olisimme tienneet sinulla olevan tällaisia rahavaroja, olisimme julistaneet sodan jo aikaa sitten!
+0x00000291 Sivilisaatiomme ylistää Patea, joka toi meille totuuden ja valon. Sinä sen sijaan vaellat yhä pimeydessä. Mitä oikein haluat meistä?
+0x00000283 Emme voisi koskaan liittoutua yhdenkään henkisesti noin epäpuhtaan otuksen kanssa.~p~Aiotko puhdistautua?
+0x0000028F Olet varsin mielenkiintoinen yksilö. Olisipa hauskaa olla paikalla ruumiinavauksessasi.
+0x00000290 ~race~ on päästänyt Paten sydämeensä, mutta sinä et ole. Mitä yhteistä meillä muka voisi olla?
+0x0000028C Luonto on oppaamme, mutta sinä vaikutat varsin luonnottomalta otukselta.
+0x000002A7 Toivottavasti Paten seuraajat voivat olla avuksesi, ~player_title~.
+0x000002A8 Onko ~player_title~ valmis kuulemaan Paten sanaa?
+0x000002A9 Tervetuloa, ~player_title~. Neuvotellaanpa hieman.
+0x000002A6 Tervehdys sinulle, ystävämme ~player_title~. Olet Paten nimeen tervetullut!
+0x000002A3 ~player_title~ on tervetullut nauttimaan maallisesta paratiisistamme.
+0x000002A4 ~player_title~ vetää kirkkaudessaan vertoja jopa auringolle taivaalla. Tervetuloa! Pahoittelemme, ettei kauppakeskuksemme vastaa mahtavuuttasi, mutta toivomme, että silti katsastat varastomme.
+0x000002A5 Olemuksenne on mitä loisteliain, ja sitä himmentää vain teidän mahtavuutenne arvoisten varusteiden puute. Ehkäpä ~player_title~ haluaisi ostaa meiltä jotain?
+0x000005F5 Tällä summalla muutamme monta maailmaa vihreiksi! Vallitkoon rauha kansojemme välillä.
+0x000005F4 Hyvityksesi on odotuksiamme suurempi. Suurneuvosto hyväksyy rauhansopimuksen välittömästi.
+0x000005F3 Häkellyttävä avokätisyytesi palkitaan välittömällä rauhalla.
+0x000002AB Tapaamme taas tiedon ykseydessä. Puhu, ~player_title~.
+0x000002AC Näemme, että ~player_title~ kukoistaa kuin vahvan puun ympäri kietoutunut köynnös. ~race~ on puu, ja sinä olet se köynnös.
+0x000002AD Tervetuloa turvavyöhykkeellemme, kunnioitettu ~player_title~.
+0x000002A2 Tervetuloa vehreään kotoomme, ~player_title~.
+0x00000297 ~race~ koostuu järkevästä väestä. Nyt olemme esimerkiksi järkeilleet, että murskaamme sinut pian sotajoukoillamme.
+0x00000298 Tervehdimme sinua suurneuvoston nimeen, ~player_title~.
+0x000005F6 Tällä mittavalla summalla olet luopunut materialistisesta maailmankuvastasi!
+0x000005F9 Emme odottaneet aivan näin jalomielistä tarjousta. Tarjouksesi osoittaa sinun todella katuvan tekojasi.
+0x000005F8 Suuren avokätisyytesi ansiosta minulla on varaa hankkia uusi hurtixinnahkainen sohvakalusto.
+0x000005F7 Meidän pitää olla varovaisia, jotta taivaalta putoavat rahavuoret eivät murskaa meitä. Solmitaan toki rauhansopimus. Olemmekin liian rikkaita sotiaksemme.
+0x0000029A Suurneuvosto on tyytyväinen, että ~player_title~ on palannut heidän luokseen.
+0x0000029F Kuinka voit, ~player_title~? Voimmeko tasapainottaa jinisi ja jangisi?
+0x000002A1 Tervehdys, luonnonlapsi. Olemme iloisia tavatessamme sinut, ~player_title~.
+0x0000029E ~race~ lähettää sinulle terveisensä! Ilahdumme hyvänsuovasta aurastasi, ~player_title~.
+0x0000029C Sehän on taas se söpö pieni ~player_title~. Nyt kun pieni ~player_title~ on täällä, voimme leikkiä ja pitää hauskaa.
+0x0000029D Sivilisaatiosi on kasvanut aikuisiin mittoihin! Sinun pitäisi olla ylpeä, pikkuinen ~player_title~.
+0x0000061C Suurneuvosto hyväksyy liittolaisuustarjouksesi.
+0x000005CF Tarjouksesi on pahasti alakanttiin. Jatka taistelua tai hyväksy köyhyys!
+0x000005D0 Raha ei merkitse mitään kropoille.
+0x0000061D Suurneuvosto on tyytyväinen uudesta ystävästään. Tarjouksesi on hyväksytty.
+0x0000030A Meillä on nyt kiire! Auta meitä, tai soita myöhemmin uudelleen!
+0x0000030B Tuho on yllämme!
+0x00000308 Valon valkoinen käsi ja kaaoksen musta koura ovat yhdistymässä. Jos et heti häivy täältä, ne kuristavat sinut yhteistyössä!
+0x00000307 Keskeytit eksistentiaalisen kriisin!
+0x0000061A Toimit kunniakkaasti ilmoittaessasi meille päätöksestäsi.
+0x00000614 Harmi, ettei se onnistunut. Meditoimme asiaa ja yritämme selvittää, missä kohden polkumme erkanivat toisistaan.
+0x000005D3 Tämä summa ei korvaa kipua ja särkyä.
+0x00000615 Todellako? Sanoimmeko jotenkin pahasti?
+0x00000613 Suurneuvosto on pahoillaan päätöksesi johdosta.
+0x00000611 Olemme juuri suorittamassa liikekannallepanoa kropojen hiljattaisen yllätyshyökkäyksen johdosta. Emme ehdi asioida kanssanne juuri nyt. Ehkä hieman myöhemmin.
+0x00000612 Kropot hyökkäsivät kimppuumme. Valmistelemme parhaillaan massiivista vastaiskua ja emme todellakaan ehdi keskittyä muihin asioihin. Palaa asiaan voitonjuhlamme jälkeen.
+0x000005D4 Vaikka hyväksymmekin hyvitysajatuksen teoriassa, tarjottu summa on käytännössä riittämätön.
+0x00000616 Liitto pakanan kanssa on aina suuri riski. Hyvästi.
+0x000005D1 Suurneuvosto ei pidä summaa täysin riittävänä.
+0x00000619 Näkijä Frank Furtah ennakoi tekosi profetiansa 44. säkeessä.
+0x00000618 Olemme pahoillamme, että olet tätä mieltä. Olet silti tervetullut piipahtamaan putiikissamme.
+0x000005D2 Tämä hyvitystarjous ei täytä edellytyksiämme.
+0x00000617 Mikäli todisteet osoittavat, että liitto ei ole enää kannattava, meidän tulee todellakin purkaa liitto.
+0x000005C1 Suurneuvosto pitää nykyistä tarjoussummaa kovin riittämättömänä.
+0x000005C0 Suurneuvosto kehottaa sinua harkitsemaan uudelleen tätä mitätöntä tarjoustasi.
+0x000005C2 Tämä mitätön summa osoittaa, ettet selvästikään ole tosissasi rauhan suhteen.
+0x000005C5 Arvostamme suuresti kykyäsi hauskuuttaa meitä samaan aikaan kun lajisi taistelee olemassaolostaan. Emme kuitenkaan aio lopettaa voimatoimia, ennen kuin suhtaudut asiaan vakavasti.
+0x000005C3 Tämä summa riittää hädin tuskin yhden taimen istutukseen.
+0x00000313 Sinua ei näy nykyisissä laskelmissamme.
+0x00000314 Puhumalla meille asetat itsesi suureen vaaraan!
+0x000005C6 Luuletko todella, että nämä pennoset pysäyttävät Paten pyhät soturit?
+0x00000310 Olemme pahassa pulassa! Emme tosiaan ehdi nyt juttelemaan!
+0x00000311 Saavuit kriittisellä hetkellä!
+0x0000061E On hyvä löytää kanssasielu galaktisella lajikartalla. Olemme tyytyväisiä, että olet meidän liittolaisemme.
+0x0000030F Joudumme juuri nyt keskittymään hieman kiusalliseen tilanneeseen.
+0x0000030C Tämä on kriisi! Käytä rahaa tai tee itsestäsi muuten hyödyllinen!
+0x0000030D Olemme katastrofin partaalla!
+0x0000030E Olemme kiireisiä toimittaessamme Paten asioita.
+0x000005CE Näin naurettavaa summaa ei voi kuin ivata!
+0x000005C9 Tämä riittämätön summa on todiste puutteellisesta päättelykyvystäsi.
+0x000005C8 Tilanneanalyysisi vaikuttaa kovin väärältä. Mitätön tarjouksesi ei houkuta meitä laisinkaan.
+0x000005C7 Loukkaat meitä tällä mitättömällä summalla!
+0x000005CA Et taida ottaa tätä vakavasti? Saamme paljon enemmän jo ryöstämällä omaisuutesi.
+0x000005CD Yritämme vain auttaa sinua saavuttamaan henkisen ykseyden materiaalista omaisuutta uhraamalla. Tämä uhraus on kyllä naurettavan pieni. Etkö sinä kaipaa ykseyttä?
+0x000005CC Tunnut kuvittelevan, että haluamme likaisia rahojasi ja että pystyt huijaamaan meitä.
+0x000005CB Älä kuule kitsastele, kun sinua osoitetaan aseella!
+0x000005DB Tarjouksesi sai meidät istumaan ja pohtimaan asiaa, mutta nyt ajatuksemme alkoi taas harhailla. Voisitko tarjota vähän enemmän?
+0x000005DA Kuluanalyysi osoittaa, että tämä summa ei täysin korvaa kulujamme.
+0x00000609 Demonisten kropojen epäpyhät koneet hyökkäsivät juuri Paten poikasten kimppuun. Emme ehdi käsitellä anomuksia juuri nyt. Palaa asiaan myöhemmin.
+0x00000608 Kropot hyökkäsivät kimppuumme! Emme oikein tiedä, että miksi. Ehkä he eivät pidä kevään mallistostamme! Meillä on nyt käsissämme täysimittainen muotikriisi, joten emme ehdi juttelemaan!
+0x000002E4 Toivotamme ystävämme takaisin matkaltaan galaksin keskipisteeseen! Tiesimme aina, että sinussa oli potentiaalia jumaluuteen.~p~Mahtavuutesi kunniaksi olemme antaneet basaarimme tuotteille suorastaan ainutkertaiset hinnat.
+0x00000607 Bileisiin tuli äkkistoppi, kun kropot hyökkäsivät kimppuumme! Tule rellestämään joku toinen kerta.
+0x000005DC Aika hyvin ensimmäiseksi tarjoukseksi! Odotamme innolla jatkoa.
+0x0000060A Kropojen tappokoneet kurittavat meitä parhaillaan! Palaa takaisin joskus toiste!
+0x000002E5 Jumalaisten voimiesi alkuperä kiinnostaa meitä. Ehkäpä sait ne Patelta?
+0x000005D7 Arvostamme rehellisyyttäsi, mutta tämä summa on täysin riittämätön.
+0x000002E6 Luotauksemme osoittavat, että olet saanut hämmästyttäviä ominaisuuksia. Meidän pitää päästä yksimielisyyteen siitä, miten uusia ominaisuuksiasi käytetään.
+0x0000060C Kropot ovat hyökänneet kimppuumme. Yritämme selvittää logiikkaa hyökkäyksen takana, ja juuri nyt meillä ei ole aikaa vähäpätöisemmille asioille. Palaa takaisin myöhemmin.
+0x0000060B Tutkimme parhaillaan tietoja äskettäisestä kropojen hyökkäyksestä. Palaa takaisin joskus toiste.
+0x000005D9 Järkeilysi ei ole kaukana totuudesta, mutta summa on silti liian pieni.
+0x000005D8 Pate vaatii suurempia kymmenyksiä.
+0x000002D8 ~player_title~ voi anella niin paljon kuin lystää. Me emme myy sinulle mitään, ennen kuin antaudut!
+0x000002D9 Olemme rauhallista väkeä, mutta suututettuina olemme raivokkaita!
+0x000002DA Ehdoton ja nöyrä antautuminen on paras vaihtoehtosi.
+0x000002D7 Onko ~player_title~ päättänyt luopua ilkeyden ja aggressiivisuuden politiikastaan?
+0x000002D4 Mikäli ~player_title~ antautuu, voimme pitää suuret juhlat!
+0x000002D5 ~player_title~ sotii itse Patea vastaan! Hyväksy Paten polut, tai kohtaat loppusi!
+0x000002D6 Paten soturit pidättävät tultaan vain pienen hetken. Puhu siis nopeasti.
+0x000002DB Kun sodannälkä kerran syttyy, sitä on mahdoton hillitä.
+0x000002E0 Hei! oliko galaksin keskipisteessä hauskaa? Pitäisikö meidän rakentaa sinne lomakohde?~p~Näemme, että olet nyt ihan erimahtava! Universumista tulee paljon mielenkiintoisempi paikka, kun täällä on kaltaisiasi otuksia!
+0x000002E1 Hei vau! Sinustahan on tullut ihan jumalainen ja silleen. Onpa pieni ~player_title~ kasvanut!~p~Nyt kun sinulla on nämä hienot ominaisuudet, toivomme sinun käyttävän niitä jollakin huvittavalla tavalla.
+0x000002E2 Tervetuloa! Aallonpituutesi on tosi ylimaallinen. Komenna, ja alamaisesi tottelevat.
+0x000002DF Näemme, että ~player_title~ on tehtävänsä myötä kasvanut entistäkin mahtavammaksi. Suurneuvosto neuvoo mielellään, mutta ymmärrämme näkemyksemme rajallisuuden.
+0x000002DC Ota leikkausveitset esiin! Kunniavieraamme saapui juuri.
+0x000002DD Ammutaan ensin ja järkeillään myöhemmin.
+0x000002DE Ystävämme ~player_title~ on suorittanut pitkän ja merkityksellisen tehtävän.
+0x0000060F Jos auramme vaikuttaa synkältä, se johtuu kropojen hyökkäyksestä! Luemme parhaillaan suojamantraa, joten emme ehdi oikein juttelemaan. Palaa asiaan joskus toiste.
+0x000005D5 Viimeinkin onnistuit herättämään huomiomme. Valitettavasti huomiomme ei kyllä pysy moisessa summassa.
+0x00000610 Yritimme opettaa kropoille numerologiaa, mutta ne hyökkäsivät meidän kimppuumme! Ehkä nollien ja ykkösten tasapainotus ei ollut heidän mieleensä. Olemme siis hieman kiireisiä juuri nyt. Palaa asiaan myöhemmin.
+0x0000060E Kropot hyökkäsivät kimppuumme! Emme osaa päättää, pitäisikö meidän nostaa hintojamme vai pitää tuholoppuunmyynti. Palaa takaisin myöhemmin.
+0x0000060D Kropot räjäyttivät tuotteemme! Putiikki on suljettu. Palaa takaisin myöhemmin.
+0x000005D6 Valitettavasti tämä summa ei millään kata edes murjomiseesi käyttämiämme ammuksia.
+0x000002EB Värähtelet tavattoman vihamielisesti. Pysy kaukana meistä!
+0x000002ED Sama se, kuinka mahtava olet. Me emme myy sinulle mitään, jos et voi maksaa ostoksistasi.
+0x000002EA ~player_title~ on ehkä saanut uusia leluja, mutta on silti vanha tylsä itsensä.
+0x000002E7 Olet palannut suurelta matkaltasi mahtavien uusien voimien kera.~p~Ole varovainen, ettet aiheuta niillä tuhoa. Vaikka emme halua sinulle pahaa, puolustaudumme kyllä, jos uhkaat meitä.
+0x000002E9 Suurneuvosto asettuu vastaasi, mikäli yrität kohota valtaan uusien voimiesi avulla.
+0x000002EE Kun muutuit tulevaksi jumalaksi, häpäisit pyhän järjestyksen viimeisen kerran. Varo Paten vihaa!
+0x000002EF Mikäli pyrit tuomaan voimillasi uuden pimeän ajan, me vastustamme sinua viimeiseen otukseen!
+0x000002F0 Jos hyökkäät kimppuumme, taistelemme vastaan viimeiseen asti!
+0x000004A8 Gurumme Spuunon sanoin: "Kun alempi olento loukkaa sinua tietämättömyyttään, ei kannata vastata sanoin, vaan päästelemällä negatiivisesti tulkittavia ääniä." Prrrht!
+0x000004A9 Onko tämä naurettava tarjous tarkoitettu loukkaukseksi?
+0x000004AA Tämä muistuttaa kohtuullista tarjousta vain samassa määrin kuin kukan tuoksu muistuttaa itse kukkaa.
+0x000004A7 Emme ole typeryksiä, vaikka mielemme majaileekin korkeammalla tasolla!
+0x000004A5 Tällä summalla saa hädin tuskin yhtä voimakristallia!
+0x000004A6 Olemme meditoineet pitkään tämän tarjouksen äärellä, mutta se on yhä huono. Emme usko lisämeditoinnin parantavan sitä.
+0x000004AB Koska olet liittolaisemme, emme tällä kertaa katso tätä häpeällistä tarjousta sodanjulistukseksi.
+0x000004B0 Tämä on melko lähellä vaatimuksiamme. Voisitko tarjota hieman enemmän?
+0x000004B1 Olisiko sinun mahdollista kasvattaa tarjoustasi, ennen kuin esitämme sen suurneuvostolle?
+0x000004B2 Suurneuvosto joutuu ikävä kyllä hylkäämään tarjouksesi. Vaikka se on lähellä toivomaamme, se ei silti täytä vaatimuksiamme.
+0x000004AF Suurneuvosto on kiinnostunut tarjouksesi yleisestä luonteesta, mutta talouskomitea on todennut sen liian alhaiseksi.
+0x000004AC Tarjouksesi ei todellakaan kata uusien asejärjestelmien kehittelyyn kuluvia varoja, saati sitten rakennuskustannuksia.
+0x000004AD Olisi parempi, ettet loukkaisi ylempiäsi.
+0x000004AE Tarjouksesi on riittämätön. Yritä uudelleen.
+0x000004A4 Ehdotuksesi ei kiinnosta meitä.
+0x0000049F Olemme aivan liian kehittyneitä ja älykkäitä edistääksemme materialismia moisella tavalla ja noin materialismiin suuntautuneen lajin kanssa.~p~Vastauksemme on kieltävä.
+0x000004A0 Oman itsesi vuoksi suosittelemme, että keskityt henkisten voimavarojesi kehittämiseen ja unohdat materialismin polut.
+0x0000064A Juuri nyt meillä ei ole tarjota sinulle mitään! Ehdit siis hyvin piipahtaa putiikissamme.
+0x0000049E Olimme tarjouksestasi erittäin innoissamme, kunnes katsoimme tarkemmin tarjoamiasi lukuja. Numerot eivät valehtele. Tarjouksesi ei ole kannattava: voimme sijoittaa rahamme kannattavamminkin. Olen pahoillani.
+0x0000064B Valitettavasti meillä ei juuri nyt ole kilpailutettavia tehtäviä. Palaa takaisin myöhemmin.
+0x0000064C Enteet eivät juuri nyt lupaa hyvää. Kysy myöhemmin uudelleen.
+0x0000064E Meillä ei ole nyt alemmille olennoille sopivia tehtäviä. Voit tiedustella asiaa myöhemmin uudelleen.
+0x000004A3 Kieltäydymme.
+0x000004A2 Miksi haluat, että riistämme talouttasi? Onko tämä jokin temppu?
+0x000004A1 Kauppareittisi ovat jo nyt liian monituiset. Korjaahan tarjoustasi, niin harkitsemme asiaa uudelleen.
+0x0000064D Kysyimme asiaa ihmepallolta. Sen mukaan tulevaisuus on utuinen ja asiaan pitäisi palata myöhemmin.
+0x00000650 Nykytilanteessa meillä ei ole kaltaisellesi otukselle sopivia töitä.
+0x000004C6 Tällä summalla saamme melkein kaikki tarvitsemamme voimakristallit. Voisitko mitenkään korottaa sitä hieman?
+0x0000064F Juuri nyt laivastomme on liikekannalla. Palaa asiaan paremmalla ajalla.
+0x000004C3 Tarjouksesi ei yllä kunniakkuudessaan sille tasolle, jolla katsomme sinun olevan.
+0x000004C4 On ikävä hylätä kunniakkaan ystävämme tarjous, mutta summa ei aivan täytä edellytyksiämme!
+0x000004C5 Tarjouksesi meni hitusen alakanttiin! Voitko korottaa sitä hivenen?
+0x00000651 Arvostamme nöyristelyäsi, mutta tarjolla ei ole sinulle sopivia tehtäviä.
+0x00000653 Jospa vain ostaisit tarvikkeesi ja poistuisit?
+0x00000654 Muista käyttäytyä, tai suljemme kaupan!
+0x000004C9 Tämä tarjous kattaa melkein liittolaisiltamme vaaditun omakustannehinnan. Voisitko korottaa summaa vielä vähän?
+0x000004C8 Selvännäkijäsi eivät tainneet kertoa sinulle meidän toivettamme. Jospa tarjoaisit hieman lisää.
+0x000004C7 Kaksi ei ole vielä yksi. Jos yksi kuitenkin korottaa hieman summaa, yksi voi hyvinkin olla pian yksi, joka koostuu kahdesta yhdestä.
+0x00000652 Omalla alueellamme käyttäydymme niin kuin haluamme.
+0x000004C2 Summa olisi sopiva, jos planeetta olisi alennusmyynnissä, mutta ale päättyi jo viime viikolla!
+0x000004B7 Tarjouksesi kattaa nyt tilavuokran, ruoat ja juomat. Voisitko kohottaa tarjoustasi vielä hitusen, jotta saisimme juhliimme myös vähän viihdettä?
+0x000004B8 Vau! Tuo on todella lähellä, mutta hinta ei siltikään ole sopiva.
+0x000004B9 Toivoimme, että tarjoaisit niin paljon, että voisimme värittää kotiplaneettamme kokonaan purppuraksi. Tästä jää nyt kyllä puuttumaan aika paljon!
+0x000004B6 Tarjouksesi on hieman alakanttiin. Voisitko kohottaa sitä sopivasti?
+0x000004B3 Summa ei aivan vastaa odotuksiamme.
+0x000004B4 Voisitko tarkistaa tarjoustasi vähän ylemmäs, niin että saisimme sen kattamaan myös kierrätyskulut?
+0x000004B5 Voisitko kasvattaa tarjoustasi, ihan vain liittomme tähden?
+0x000004BA Vaikka maalaisit tarjouksesi planeetan pintaan hohtomaalilla, se ei silti herättäisi kiinnostustamme.
+0x000004BF Tarjouksesi ei ole kohtuuton, mutta on se silti liian pieni.
+0x000004C0 Summa ei aivan täytä vähimmäisvaatimuksiamme. Voisitko vähän korottaa sitä?
+0x000004C1 Toivoimme, että liittolaisemme olisi tarjonnut hieman enemmän.
+0x000004BE Jos voisit korottaa tarjoustasi niin, että se kattaisi myös Paten kymmenykset, me voisimme hyväksyä sen Paten nimeen.
+0x000004BB Paten kansa uskoi kyllä saavansa vähän enemmän.
+0x000004BC Tämä ei täytä vähimmäisvaatimuksiamme.
+0x000004BD Rukoilimme Patelta vastausta, ja nyt olemme sen saaneet: Pate vaatii meitä kieltäytymään tarjouksesta. Jos voisit korottaa summaa hieman, Pate saattaisi valaista sitä myöntyvästi.
+0x0000047E Kauppa lisää molemminpuolista turvallisuutta. Lähetämme aluksemme matkaan.
+0x0000047F Odotamme hyötyvämme tästä ehdotuksesta. Hyväksymme ehdotuksesi.
+0x00000480 Hyvä on. Lähetämme aluksemme valtakuntasi keskukseen. "Kauppa-aluksemme" siis.
+0x0000047D Hyväksymme ehdotuksen mielihyvin. Aluksemme ovat matkalla.
+0x0000047A Virratkoon valuutta maailmojemme välillä!
+0x0000047B Mahtava ja valaistunut suurslarkki hyväksyy ehdotuksenne. Laitamme aluksemme matkaan!
+0x0000047C Profetia ennusti toimesi jo kaksituhatta vuotta sitten! Hyväksymme ehdotuksesi.
+0x00000481 Suurneuvosto on päättänyt, että etumme eivät ole yhteneväiset. Kieltäydymme kohteliaasti tarjouksestasi.
+0x00000486 Jospa panostaisit vähän lisää suhdetaitoihisi. Katsotaan nyt, voisiko sinusta olla hyötyä jollain muulla tavalla.
+0x00000487 Juuri nyt Paten kansa on rauhaton pakanoiden läsnäolon vuoksi. Haluamme oppia tuntemaan sinut paremmin, ennen kuin voimme hyväksyä.
+0x00000488 Pyysimme asiassa Paten johdatusta, ja Pate kehotti meitä enteillään hylkäämään tarjouksen. Ehkäpä Pate on suosiollisempi tulevaisuudessa.
+0x00000485 Emme ole ihan varmoja, haluammeko katsella teitä koko aikaa. Pahoittelut.
+0x00000482 Suurneuvosto toteaa, että kahdenvälisten suhteidemme tulisi merkittävästi parantua, jotta voisimme ryhtyä ehdottamaasi hankkeeseen.
+0x00000483 Suhteidemme ollessa nykytilassaan epäröimme suuresti rajojemme avaamista aluksillesi. Ehkä joskus toiste.
+0x00000484 Olemme epävarmoja siitä, millainen vaikutus tällä olisi kulttuuriimme. Meidän täytyy tutustua tapoihinne paremmin.
+0x00000479 Uskomme, että kauppa lisää onnea. Tulkoon onni. Tähtiputiikkimme ovat jo matkalla.
+0x00000471 Kauppareitti kuulostaa fiksulta idealta. Aluksemme ovat pian matkalla.
+0x00000472 Toiveeseesi on myönnytty. Toivomme, että kauppareitti tuo muassaan rauhaa ja sivistystä.
+0x0000046F Suurneuvosto myöntyy mielellään pyyntöösi. Kauppareitti voidaan vihkiä tuota pikaa.
+0x00000470 Suurneuvosto totesi, että kauppareitti auttaisi molempia yhteiskuntia. Toiveeseesi on myönnytty.
+0x00000473 Pidämme varsinkin niistä teidän lihaisista tuotteistanne. Tehdään kaupat!
+0x00000477 Maailmojen välinen kauppareitti kuulostaa järkevältä idealta. Aluksemme ovat matkalla.
+0x00000478 Olemme harkinneet tarkkaan ehdotuksesi seuraamuksia, ja päätimme myöntyä siihen. Aluksemme saapuu pian.
+0x00000476 Tulkoon kauppareitti ja rikkaudet. Toivomme, että kauppareitti edistää niin Paten sanaa kuin kauppaakin.
+0x00000475 Kysyimme ylemmiltä voimilta ratkaisua asiaan, ja Pate siunasi hankkeen.
+0x00000499 Paten kansa on immuuni niille mitättömille houkutuksille, joita sinä tarjoat.
+0x00000498 Olet toki henkilönä ihan mukava tyyppi, mutta emme ole valmiita tekemään bisnestä kanssasi.~p~Bileet meidän planeetalla huomenna, eiks jeh? Tuo mukanas jotain pikkupurtavaa.
+0x00000497 Kuule, kaupparatsu. Otahan iisisti nyt noiden sopimustesi ja kauppojesi kanssa.~p~Me emme vaihda orrawannahkoja kanssasi.
+0x0000049A Meidän on pakko kieltäytyä. Nähdäksemme et ole täysin sitoutunut Paten palvelijoihin.
+0x00000649 Nykyinen tilanne ei edellytä urakoitsijoiden käyttämistä. Kysy joku toinen kerta.
+0x0000049D Emme haluaisi kieltäytyä kaupoista kaltaisesi mahtavan otuksen kanssa, mutta olet venyttänyt nykyiset resurssisi äärimmilleen.~p~Näin ollen meidän on kunnioittaen kieltäydyttävä tarjouksestasi.
+0x00000648 Juuri nyt meillä ei ole tarjota tehtäviä. Kysy myöhemmin uudelleen.
+0x00000496 Näyttää siltä, että sinulla on riittävästi tekemistä nykyistenkin kauppareittiesi parissa. Jos perustat uusia kauppareittejä, aiheutat vain tuhoa galaksille.~p~Meidän on suojeltava galaksin kauneutta.~p~Hylkäämme tarjouksesi.
+0x0000048D Pyhät kristallit suosittelevat hylkäämään tarjouksen. Pahoittelut.
+0x0000048E Profeetta Artippan 43. enne ilmoitti, että saavut tekemään tämän tarjouksen. Valitettavasti profetia myös kehotti meitä hylkäämään sen.
+0x0000048F Emme tiedä lajistasi riittävästi, jotta voisimme arvioida luotettavuutesi kauppakumppanina. Niinpä meidän on kieltäydyttävä tarjouksesta.
+0x0000048C Molemminpuolinen luottamus on tärkeää tällaisen laajamittaisen hankkeen onnistumiselle. Valitettavasti emme tunne sinua niin hyvin, että voisimme sitoutua hankkeeseen. Pahoittelut.
+0x00000489 Asiassa näyttää olevan liikaa epävarmuustekijöitä. Kieltäydymme tarjouksesta.
+0x0000048A Suhteemme ei ole vielä kohonnut tasolle, jolla voisimme hyväksyä tarjouksesi. Meidän on pakko kieltäytyä.
+0x0000048B Ikävää kieltäytyä mahdollisista tuloista, mutta meillä ei ole muita vaihtoehtoja. Tiedämme lajistasi aivan liian vähän, jotta voisimme ryhtyä näin pitkäkestoiseen hankkeeseen.
+0x00000490 Ehdotuksesi on kiintoisa, mutta suhteidemme on kyllä parannuttava, ennen kuin voimme sallia aluksillesi vapaan pääsyn tähtitilaamme.
+0x00000495 Toivoimme neuvotteluilta parempaa lopputulosta, mutta meidän on todettava, että toistaiseksi kauppa sivilisaatiosi kanssa ei olisi kustannustehokasta.
+0x00000494 Suurneuvosto uskoo, että nykyisessä poliittisessa tilanteessa kauppa valtakuntasi kanssa ei olisi järkevää. Kysele toki uudelleen suhdanteen vaihduttua.
+0x00000491 Emme voi hyväksyä ehdotustasi.
+0x00000492 Kieltäydymme.
+0x00000493 Suurneuvosto on todennut, että jo nykyiset kauppaoperaatiosi venyttävät kapasiteettisi äärimmilleen. Ota yhteyttä, kun olet vähemmän kiireinen.
+0x000004FE Pate on varmasti koskettanut sydäntäsi ja saanut sinut tekemään tämän kolossaalisen tarjouksen. Hyväksymme sen Paten nimeen.
+0x00000513 Nöyryys on ensi askel Paten poluille!
+0x00000515 En muista kutsuneeni sinua tänne.
+0x00000514 Ainoa todellinen rauha on rauha, jonka Pate suo seuraajilleen.
+0x000004FD Olemme häkeltyneitä avokätisyydestä, jota osoitat Paten aatteelle. Hyväksymme tarjouksesi.
+0x0000066A Kiitos ymmärryksestä.
+0x00000669 Kuten haluat. Aluksemme eivät enää purjehdi satamiisi. Ette pääse enää nauttimaan rohdostamme.
+0x00000500 Kunnia olkoon Paten! Tarjoat meille enemmän rahaa kuin uskoimme mahdolliseksi. Kaikukoot ilovirret.
+0x000004FF Yllättävä avokätisyytesi aloittaa täysin uuden aikakauden Paten palvonnassa. Olemme varmoja siitä, että sinut palkitaan tuonpuoleisessa.
+0x000004FC Kuin olisi löytänyt lahjakätkön viikkoa ennen urmasjuhlaa. Hyväksymme tarjouksesi.
+0x0000051D Puhdista mielesi, niin tehtävän yksityiskohdat palaavat kyllä mieleesi.~p~Jos mielesi tuntuu kovin sotkuiselta, voit tietysti avata myös tehtävälokin.~p~
+0x000004F9 Tällä rahalla voisimme ostaa puolen tusinaa pienempää tähtijärjestelmää! Kiitos erittäin paljon.
+0x000004F8 Kunnioitat meitä odottamattoman avokätisellä tarjouksellasi. Toivottavasti olemme luottamuksesi arvoisia.
+0x000004F5 Tarjouksesi on odottamattoman reilu. Hyväksymme mielihyvin.
+0x000004F6 Hieno tarjouksesi ylittää odotuksemme. Sovittu.
+0x000004F7 Näin mahtavalla summalla voimme ulottaa lajikartan kaikkiin maailmoihin. Kirjoitetaan kauppakirjat heti.
+0x0000051B Tervehdys, kapteeni. Epäonnistuiko tietojen siirto tehtävälokiisi?
+0x000004FB Vau! Ihan kuin rahakeiju olisi juuri lentänyt sisään. Hyväksymme ehdotuksesi.
+0x00000517 Suuruuden voi saavuttaa vain palvelemalla jotain itseään suurempaa. Eikös ollutkin suuri ajatus?
+0x00000516 Ylläpidä rauhaa, kunnes kutsumme sinut sotaan vihollisiamme vastaan.
+0x00000518 Kerskailu on ominaisuus, joka sopii huonosti diplomaatille.
+0x0000051A Oikeutesi eivät riitä meidän komentelemiseemme.
+0x000004FA Emme sentään ole niin häkeltyneitä tästä upeasta tarjouksesta, ettemme hyväksyisi sitä.
+0x00000519 Suurneuvostolla on oikeus suojella kansalaisiaan.
+0x00000504 Liittomme vahvistuu suuresti tämän kaupan turvin! Sinun olkoon keskinkertainen tähtijärjestelmä, meille tulkoot valtaisat summat rahaa.
+0x00000505 Kyllä, totta kai! Me hyväksymme! Olemme RIKKAITA! OLEMME RIKKAITA, RIKKAITA, RIKKAITA!
+0x00000506 Tarjouksesi erinomaisuus ylittää käsityskykymme! Mietimme jo päämme puhki, että miten rahat käytämme.
+0x0000065C Arvostamme kyllä tarjousta, mutta meidän on valitettavasti kieltäydyttävä.~p~Jos siitä ei ole liikaa vaivaa, voisit ehkä auttaa meitä parissa pikku hommassa. Jos siis et ole kovin kiireinen.
+0x0000050F Liittolaisemme imartelee meitä moisella jalomielisyydellä. Ole huoleti. Me käytämme summan tarvikkeisiin, joilla voimme vahvistaa liittoumaamme.
+0x00000503 Olet maksamassa järjestelmästä aivan liikaa, mutta kaipa sinulla on siihen varaa.
+0x00000507 Tämän mahtipontisesti ylilyödyn tarjouksesi turvin yritit kai ostaa ystävyytemme. No, onnistuit siinä. Kukoistakoon liittomme!
+0x0000050C Ollos ylistetty suuresta ymmärryksestäsi. Vain ylimaallisen viisas otus ymmärtää hankkiutua eroon tällaisesta massiivisesta määrästä korruptoivaa rahaa. Avautukoot hengen tiet sinulle. Me sen sijaan aiomme avata korkotilin, joka avaa meille tien eläkkeelle.
+0x0000050D Olet pahasti yliarvioinut järjestelmän arvon. Hyväksymme toki rahasi, mutta jos ajattelit lahjovasi meidät tolkuttomalla tarjouksellasi, olet pahasti väärässä.
+0x0000050E Ylenpalttinen jalomielisyytesi yllätti meidät. Jos rahalla saa turvallisuutta, me aiomme nyt ostaa sitä.
+0x0000050B Tämän tavattoman avokätisen tarjouksen myötä kahdesta on totisesti tullut yksi. Sinusta on tullut yhtä uuden tähtijärjestelmäsi kanssa, ja meistä on tullut yhtä jättimäisten rahasummien kanssa!
+0x00000508 Tämä jättimäinen summa on merkkipaalu avokätisyydessä! Koska sinulla kerran on niin paljon rahaa, haluaisit varmaan tuhlata sitä hieman kauppakeskuksessamme!
+0x00000509 Emme uskoneet, että antaisit näin täydellisesti periksi materialismille. Hyväksymme ehdotuksesi.
+0x0000050A Olemme valaistuneita otuksia, joten hyväksymme tämän summan vastineeksi siitä materiasta, joka on lopultakin vain tyhjiössä leijaileva kivikasa.
+0x00000511 Järjestelmä ei ole alkuunkaan maksamasi summan arvoinen.
+0x00000501 Olet kyllä pahasti yliarvioinut järjestelmämme arvon, mutta otamme rahasi toki vastaan.
+0x00000512 Mikäli yritit lahjoa meitä tällä suunnattomalla summalla, epäonnistuit pahasti.
+0x00000667 Kaikki ovat vähän kireänä kropojen viimeaikaisten hyökkäysten takia. Sinun kannattaisi varmaan palata myöhemmin, kapteeni.
+0x00000660 Todista olevasi kunnioituksemme arvoinen, niin ryhdymme liittolaisiksesi.
+0x0000065F Liekitön kynttilä ei voi valaista huonetta. Meistä ei voi tulla valaisevaa liekkiäsi, ennen kuin todistat voimasi.
+0x00000502 Tarjoustasi leimaa epälooginen ylenpalttisuus. Hyväksymme tarjouksesi, ennen kuin tulet järkiisi.
+0x00000663 Vaiti! Emme puhu liittolaisuuksista ennen kuin alistut tahtoomme.
+0x00000662 Sinäkö liittoutuisit kropojen kanssa?~p~Et ole edes läsnäolomme arvoinen.
+0x00000661 ~race~ ei voi liittoutua sellaisten kanssa, jotka eivät ole todistaneet kunniaansa.~p~Todista mahtisi, niin voimme neuvotella voimiemme yhdistämisestä.
+0x000004F4 Suurneuvosto on ilahtunut tämän mahtavan tarjouksen laadusta. Hyväksymme ehdotuksesi.
+0x000004D2 Suurneuvosto hyväksyy tarjouksesi. Vahvistukoon liittomme tämän kaupan turvin!
+0x000004D1 Pitkään harkittuaan suurneuvosto on päättänyt hyväksyä tarjouksesi.
+0x000004D0 Suurneuvosto on mielissään ja hyväksyy tarjouksesi.
+0x0000065A Valitettavasti emme voi juuri nyt solmia liittoa mahtavan lajisi kanssa.~p~Nykyinen tehtävämme on aivan liian kiireinen.~p~Saattaisimme harkita uudelleen, jos autat meitä tehtävässämme.
+0x00000520 Tietysti, tietysti. Luulin, että olisit jo lähtenyt, mutta ei se mitään.~p~Tarkista tehtävän tiedot tehtävälokista.~p~
+0x000004D5 Toimimme heti sopimuksemme mukaisesti.
+0x000004D6 Hyväksymme ilomielin liittolaisemme tarjouksen. Eläköön liittouma!
+0x00000521 Hum! Kun kädessä on kourallinen vettä, tehtävän muistot hiipuvat mielestä. Hohoo!~p~Onneksi sinulla on tehtäväloki, joka muistuttaa helposti unohtuvista asioista, kuten nimistä, tähdistä ja lajeista!
+0x00000522 ~race~ antoi kaikki tiedot tehtävälokiisi. Miksi vaivaat meitä jälleen?
+0x000004D3 Suurneuvosto katsoo suopeasti tarjouksesi suuntaan. Tehtäköön siirto hetimmiten!
+0x000004D4 Hyväksymme tarjouksesi ja poistumme järjestelmästä saman tien.
+0x00000656 Ah ja voi! Galaksi on vaarallinen paikka.~p~Pidä huolta tästä aluksesta, sillä nämä eivät ole turhan halpoja.
+0x000004CC Olemme harkinneet kunnioitetun liittolaisemme tarjousta huolella, mutta katsommepa sitä miltä kantilta hyvänsä, se ei täytä meidän vaatimuksiamme.
+0x000004CB Tarjouksesi ei kyllä täytä vaatimuksiamme. Voisitko kasvattaa sitä jonkin verran?
+0x000004CA Tämä ei kyllä kata tähtijärjestelmän puolustuskulujamme. Jos voit korottaa tarjoustasi hieman, me voimme hyväksyä sen.
+0x000004CD Tarjouksesi on kunnioitettava, mutta se ei riitä kaavailemiamme asejärjestelmien ostoon. Voisitko kohottaa sitä sopivasti?
+0x000004CF Tarjoa enemmän.
+0x000004CE Laskujemme mukaan järjestelmämme on paljon tätä arvokkaampi.
+0x000004E9 Mielemme ovat yhtä! Hyväksymme tarjouksesi.
+0x000004EA Näemme aurastasi, että tarjous oli vilpitön. Hyväksymme mielihyvin.
+0x000004EB Tarjouksesi on hyväksytty. Vallitkoon rauha ja järjestys.
+0x000004E8 Hyväksymme tarjouksesi. Palvelkoon tämä sopimus suurempaa viisautta!
+0x000004E5 Olet melkoinen kauppamies! Hyväksymme ehdotuksesi.
+0x000004E6 Hykertelemme ilosta mahtavan liittolaisemme tekemän viisaan ja avokätisen tarjouksen edessä. Järjestelmä on sinun!
+0x000004E7 Liikkukoot mielemme sähköimpulssit samaan tahtiin. Hyväksymme ehdotuksesi.
+0x000004EC Hinta on sopiva. Hyväksymme ehdotuksesi.
+0x000004F1 Suurneuvosto on äimistynyt jalomielisyydestäsi. Hyväksymme ehdotuksesi.
+0x000004F2 Tarjouksesi ylittää kaikki odotuksemme. Suurneuvosto päättää kaupan välittömästi.
+0x000004F3 Liittolaisemme tarjous on suurempi kuin uskalsimme kuvitellakaan. Suurneuvosto on mielissään ja hyväksyy.
+0x000004F0 Summa on riittävä. Hyväksyn.
+0x000004ED Hyväksymme ilomielin liittolaisemme reilun ja avokätisen tarjouksen.
+0x000004EE Hyväksymme liittolaisemme kunniakkaan tarjouksen. Vahvistukoon liittomme tämän seurauksena!
+0x000004EF Hinta on kohtuullinen. Saat järjestelmän.
+0x000004E4 Hyväksymme iloiten kunnioitetun ystävämme tarjouksen!
+0x000004D9 Hyväksymme tarjouksesi, ystävä hyvä. Nyt juhlitaan!
+0x000004DA Hyväksymme ehdotuksesi. Olemme ylpeitä siitä, että pikku ystävämme on kasvanut oikeaksi kiinteistökauppiaaksi!
+0x000004DB Hyväksymme ehdotuksesi. Viimeistelläänkö paperit, jotta pääsemme jatkamaan ilotanhuamme?
+0x000004D8 Hei, tähtikamu! Oiva tarjous. Me otetaan myynti-ilmoitus heti pois näkyvistä. Voit muuttaa järjestelmään milloin vain.
+0x000004DC Hyväksymme tarjouksesi Paten nimeen.
+0x000004E1 Tarjouksesi ottaa hienosti huomioon kaikki satunnaiset kulut. Olemme valmiita allekirjoittamaan.
+0x000004E2 Olemme tyytyväisiä liittolaisemme tarkkanäköisyyteen. Hyväksymme mielihyvin tämän tarjouksen.
+0x000004E3 Tarjouksesi on hyvä ja kannattava. On kunnia hyväksyä se.
+0x000004E0 Tarjoamasi hinta on kohtuullinen. Hyväksymme tarjouksesi.
+0x000004DD Pate on suosiollinen tälle tarjoukselle. Hyväksymme.
+0x000004DE Rukoiltuamme asian puolesta olemme päättäneet hyväksyä tarjouksen. Järjestelmä kuulukoon Paten ystävälle.
+0x000004DF Tapahtukoon Paten tahto. Liittolaisemme saakoon järjestelmän.
+0x00000552 On epäloogista olettaa, että tottelisimme käskyjäsi.
+0x000003F9 Liittolaisemme kunnioittaa meitä vierailullaan. Kuinka voimme auttaa?
+0x000003F6 Toivotamme liittolaisemme tervetulleeksi ja pyydämme johdatustasi.
+0x00000639 Haluamme levittää galaksiin onnea ystäviemme avustuksella, mutta et ole vieläkään suorittanut tehtävää, johon lupauduit. Se masentaa meitä kovin. Hoida tehtävä, niin voimme neuvotella asiasta.
+0x000003F7 Suuren liittolaisemme vierailu on aina juhlan aihe! Kuinka voimme auttaa?
+0x000003FB Yhdessä tuomme galaksiin sivistystä ja viisautta. Miten voimme auttaa?
+0x00000575 Ole huoletta. Me keksimme sinulle kyllä käyttöä... ennen pitkää.
+0x00000400 Miksi Paten pyhät soturit sallisivat pakanoiden puhutella heitä?
+0x00000574 Kropojen palveleminen on paras tae selviämiselle.
+0x000003FF Oi, katso! Se on pikkiriikkinen lähettiläs pikkiriikkisestä sivilisaatiosta. Onkohan sillä jotain asiaa?
+0x000003FC Puhu vapaasti vain, mieli mielelle, sielu sielulle.
+0x000003FD Suurneuvosto on liian kiireinen ottaakseen sinut vastaan. Puhu tähän pikkuvempeleeseen, niin joku saattaa joskus kuunnellakin sanojasi.
+0x000003FE Rohkenetko puhutella meitä? Emme kiellä sinua puhumasta.
+0x000003F5 Ole hyvä ja kerro, miten voimme auttaa sinua.
+0x000003F2 Pate siunatkoon tätä neuvottelua! Voimmeko jotenkin auttaa sinua?
+0x000003F1 Liittolaisemme auttaa meitä edistämään Paten sanomaa! Kuinka voimme auttaa?
+0x000003F0 Tuloasi on odotettu kiivaasti. Miten voimme auttaa sinua?
+0x00000638 Odotamme edelleen tuloksia tehtävästä, jonka lupasit meille suorittaa! Kun tehtävä on hoidettu, voimme keskustella muista aiheista.
+0x00000577 Oletko valmiina hommiin? Katsotaanpa, olisiko meillä jotakin sinulle.
+0x000003F4 Olet tervetullut tänne viihdyttämään meitä!
+0x00000637 On irrationaalista hyväksyä liittolaista, joka on tunnetusti epäluotettava ja lupaa suorittaa tehtäviä, mutta ei koskaan hoida niitä.
+0x00000578 Kaipaatko tekemistä? Tarkistan, että olisiko meillä mitään sinulle.
+0x000003F3 Kylvemme viisaiden sanojesi lämmössä!
+0x00000570 On hyvin mahdollista, että voimme tarjota sinulle tehtäviä, jotka eivät sovi kaltaisillemme aidoille sotureille.
+0x0000040D Aluksemme lentävät galaksissa yhdessä ja levittävät Paten pyhää sanaa!
+0x0000063F Liittolaisillamme ei saa olla keskeneräisiä tehtäviä.
+0x0000040C Paten soturit liittyvät pian seuraasi.
+0x0000063D Liitosta on turha puhuakaan, ennen kuin olet suorittanut tehtävän, jonka vapaaehtoisesti otit hoitaaksesi.
+0x0000040B Kelluvat bileet! Joo, erinomainen ajatus. Aluksemme on jo matkalla.
+0x0000063E Selvästi konemieli muistaa paremmin kuin vetinen solusäkki. Etkö luvannut suorittaa tehtävää puolestamme? Eikö se ole yhä kesken?
+0x0000040E On rationaalista olettaa, että kaksi alusta on tehokkaampi kuin yksi. Lähetämme aluksen heti matkaan.
+0x0000056E Avuliaisuus, jota osoitat meitä palvellessasi, saattaa olla ykseyden alku! Tutkitaanpa polkuja, joita voimme yhdessä tallustaa.
+0x00000412 Yhdessä meistä tulee mitä pelottavin vastus. Lähetämme uusimman sota-aluksemme tueksesi!
+0x00000640 Suurneuvosto on pahoillaan, mutta uusia tehtäviä ei ole saatavilla. Kysy myöhemmin uudelleen.
+0x00000411 Ajattelimme juuri ihan samaa! Aluksemme saapuu pian luoksesi.
+0x0000040F Mikäli muut lajit näkevät, että olemme liittoutuneet, se tekee meistäkin entistä vaikuttavampia. Aluksemme on matkalla.
+0x0000056F Nöyryys ja jalomielisyys ovat valistuneen mielen tunnusmerkkejä.
+0x00000410 Lähetämme aluksen heti avuksesi. Kaapparien on turha hyökätä kimppuumme, kun meillä on kaltaisiasi mahtavia liittolaisia.
+0x00000402 Sivilisaatiosi ostovoima on mitätön meihin verrattuna! Miksi me markkinoisimme mitään niin mitätöntä kuin sinä?
+0x0000063C Emme koskaan voisi liittoutua sellaisen otuksen kanssa, jonka sanaan ei voi luottaa. Etkös sinä luvannut suorittaa tehtävän puolestamme?
+0x00000572 Apusi ansiosta voimme paremmin keskittyä sotatoimien valmisteluun.
+0x0000063B Profeetta on sanonut: "Ne ken rikkoo lupauksensa, elää yksin ja ystävättä." Olisikohan profeetta ehkä tarkoittanut sinua?
+0x0000063A Emme millään voi hyväksyä liittolaista, jolla on pahaa karmaa, ja sinulla sitä riittää, koska et saanut tehtävääsi suoritettua. Hoida tehtäväsi, niin kysymme ennuskiveltämme mielipidettä liitosta.
+0x00000401 Todisteet osoittavat, että meidän sivilisaatiomme on paljon suurempi ja voimakkaampi kuin teidän. Olisit kiitollinen, että me kuuntelemme – edes hetken.
+0x00000573 On mahdollista, että voit olla meille hyödyksi.
+0x00000403 Henkisesti valaistuneen sivilisaatiomme ylivoimaisuus on itsestään selvää. Puhu nopeasti, ennen kuin primitiivinen kulttuurisi turmelee mielemme.
+0x00000407 Suurneuvosto on tyytyväinen voidessaan auttaa liittolaistaan. Aluksemme on sinun käytössäsi.
+0x00000408 Aluksemme ovat komennossasi. ~p~Juhlistamme tätä iloista tapahtumaa polttamalla seremoniapuun ja tanssimalla kielletyn hurmahumpan.
+0x00000409 Kun aluksemme liittyvät joukkoihisi, liittoumastamme tulee entistäkin voimakkaampi.
+0x00000406 Suurneuvosto on suotuisa tälle ehdotukselle. Aluksemme liittyy pian seuraasi.
+0x00000571 On hyvä, että pyrit miellyttämään meitä.
+0x00000404 Valitse sanasi huolella, niin emme tuhoa sivilisaatiotasi.
+0x00000405 Puhu. Nopeasti. Äkkiä.
+0x000003EF Ystävämme ja liittolaisemme on saapunut puhumaan kanssamme.
+0x000003D2 Otamme lahjasi, mutta siitä ei ole sinulle hyötyä.
+0x000003D1 Olemme jo yhtä. Enemmät lahjat ovat tarpeettomia.
+0x0000058D Keskeytä hyökkäyksesi, niin evakuoimme järjestelmän ja jätämme sen haltuusi.
+0x000003D0 Liittoumamme perustuu korkeammille arvoille, ei pelkälle materialismille.
+0x000003D3 Me olemme kropoja. Tavoitteemme eivät muutu markkinahintojen lailla.
+0x000003CF Arvostamme lahjoitustasi, mutta suhteemme pysyy muuttumattomana, kunnes kehität henkiminääsi.
+0x00000593 Pate on asettanut eteemme koettelemusten ajan. Me poistumme tähtijärjestelmästä, jos vain ette ammu.
+0x000003CA Liittomme on jo luja, ja ainoa siihen vaikuttava valuutta on kunnia. Kaikki muu on toisarvoista.
+0x00000592 Sotilaallinen ylivoimasi ja taituruutesi ovat varmistaneet sinulle taisteluvoiton! Jos annat meille hetken pakata tavaramme, me lähdemme ja jätämme planeetan haltuusi!
+0x000003C9 Tästä karkeasta lahjontayrityksestä huolimatta ystävyytemme pysyy muuttumattomana.
+0x00000595 Tilastojen valossa meidän on todettava, että olemme hävinneet taistelun. Jos keskeytät hyökkäyksesi, me poistumme ja jätämme järjestelmän sinun haltuusi.
+0x000003C8 Kiitos, mutta suhteemme keskeinen luonne pysyy ennallaan.
+0x00000594 Tuntemattomia ovat Paten polut. Meille tuntemattomasta syystä hän sallii sinun voittavan. Jos sallit meidän evakuoida rauhassa, poistumme tähtijärjestelmästä ja jätämme sen sinun haltuusi.
+0x000003CB Kiitämme liittolaistamme, mutta enemmät lahjoitukset eivät ole tarpeen.
+0x0000058F Välttääksemme enemmät vahingot me luovutamme tämän tähtijärjestelmän hallintaasi, jos vain komennat joukkosi keskeyttämään hyökkäyksensä.
+0x000003CE Ystävä, lahjasi on vastaanotettu, mutta se ei vaikuta periaatteisiimme.
+0x0000058E Meidän on pakko myöntää, että taistelun jatkaminen olisi hyödytöntä. Antaudumme ja luovutamme tähtijärjestelmän, jos vain sallit meidän poistua vahingoittumattomina.
+0x000003CD Tämä on alkukantaisen mielen tekoa.
+0x00000591 Hyvä on, senkin öykkäri! Me lähdemme, jos vain lopetat ampumisen.
+0x000003CC Kiellämme sinut ja karkean materialistisen tietoisuutesi!
+0x00000590 Ylivoimaisen tekniikkasi ansiosta olet voittanut taistelun. Poistumme tähtijärjestelmästä, jos vain annat meille tilaisuuden evakuoida joukkomme.
+0x000003EB Osallistumme mielellämme sivistyneeseen keskusteluun. Käytöstavat ennen kaikkea.
+0x000003EA Toverimme ilmaiskoon asiansa vapaasti.
+0x000003E9 ~player_title~ on tervetullut neuvonpitoomme.
+0x000003EC Aurasi on kovin miellyttävä väriltään! Kuinka voimme auttaa?
+0x000003EE Kuulemme mielellämme, mitä liittolaisellamme on sanottavanaan.
+0x000003ED Suurneuvosto kuulee mielellään liittolaisensa mielipiteitä.
+0x000003E8 Olet itse täydellisyys! Kuinka voimme auttaa sinua?
+0x000003DE ~player_title~ voi vapaasti ehdottaa parannusta kansojemme suhteeseen.
+0x000003DF Kuuntelemme mielellämme kaukaisten ystäviemme ehdotuksia.
+0x000003E0 On mukana tavata ~player_title~ ja kuulla ehdotuksesi.
+0x000003DD Suurneuvosto kuuntelee mielellään ystävänsä neuvoja.
+0x000003DA Kerro asiasi, niin me päätämme ratkaisusta.
+0x000003DB Voit vapaasti aloittaa tylsistyttävän jorinasi. Jätämme sinut täysin huomiotta.
+0x000003DC Kerro jotain uutta.
+0x000003E1 Sehän on meidän tähtikamu! Voidaanko me auttaa sua?
+0x000003E6 Harkitsemme mielellämme asiaasi.
+0x000003E7 Onpa hienoa, että mahtava ystävämme saapui vierailulle kauppaamme! Mitä saisi olla?
+0x000003E5 Tervetuloa, ystävä hyvä. Me kuuntelemme huoliasi.
+0x000003E3 Toivotamme sinut tervetulleeksi Paten nimeen. Kuinka voimme auttaa?
+0x000003E4 Toivomme parannusta suhteisiimme. Pyytäkäämme siunausta Patelta.
+0x00000413 Alus ilmoittautuu pian sinulle. Yhdessä pakotamme vihollisen polvilleen.
+0x00000450 Olemme valmiita hyökkäykseen, mutta ensin meidän pitää kasvattaa armeijan yhteishenkeä valtavilla juhlilla! Se maksaa sinulle ~attack_cost~.
+0x00000451 Laivaston varustaminen lähetyssaarnaajilla ja Paten pyhillä kirjoilla on osoittautunut arvioitua kalliimmaksi ja syönyt kassamme tyhjäksi. Voisitko mitenkään maksaa ~attack_cost~ Paten pyhän aatteen puolesta?
+0x00000452 Henki on vahva, lompakko heikko! Voisitko lahjoittaa ~attack_cost~ aatteellemme?
+0x0000044F Oomme ihan messissä vihollisen atomeiksi räjäyttämisessä ja sellasessa, mut' kaikki massit on käytetty bilettämiseen. Taskut on ihan tyhjät. Voisitko millään osallistua kustannuksiin ja maksaa ~attack_cost~? Pitäähän laivaston liikekannallepanoa juhlii huolella.
+0x0000044C Väliaikainen talousvaje estää laivastomme täyden varustamisen. Tarvitaan vielä ~attack_cost~.
+0x0000044D Taistelijoiden varustaminen biohajoavilla aseilla vei kaikki rahamme, ja nyt ne eivät riitä itse taisteluun. Voisitko ehkä lahjoittaa meille ~attack_cost~?
+0x0000044E Luonnonmukaisen elämäntyylin ylläpito sotalaivastossa onkin kalliimpaa kuin kuviteltiin. Voisitko mitenkään osallistua kustannuksiin ja maksaa ~attack_cost~?
+0x00000453 Hyökkäys perustui silloisiin budjettitietoihin, mutta budjettiin oli näköjään livahtanut pari pilkkuvirhettä. Voisitko ehkä lahjoittaa meille ~attack_cost~?
+0x00000458 Olemme kiinnittäneet huomiota lähinnä yhteiskuntamme henkiseen hyvinvointiin, emme niinkään taloudellisiin pikkuasioihin! Jos annat meille ~attack_cost~, kokoamme laivaston hyökkäystäsi varten.
+0x00000459 Sotalaivastomme on valmis, mutta meidän pitää miettiä kotimaan puolustuskustannuksia laivaston ollessa poissa. Jalo liittolaisemme ei varmastikaan halua kotimaailmamme kärsivän, joten hän auttanee sotaponnistuksiamme seuraavalla summalla: ~attack_cost~.
+0x0000045A Siviilihallintomme teki taannoin pahan arviointivirheen ja siirsi varoja siviilikohteiden rakentamiseen ja ylläpitoon. Näin ollen sotajoukkojemme varustaminen maksaa hieman enemmän, tarkalleen ottaen ~attack_cost~ enemmän.
+0x00000457 Henkistä kehitystä painottava elämäntyylimme on aiheuttanut raaka-ainepulan. Voisitko millään antaa meille ~attack_cost~?
+0x00000454 Määrittelemättömät kulut ovat syöneet sotilasvoiman käytölle tarkoitetut varat. Tarvitaan ~attack_cost~, jos hyökkäys aiotaan toteuttaa.
+0x00000455 Valitettavasti turnipsifutuurit osoittautuivat huonoksi sijoituskohteeksi, ja nyt taloutemme on kriisissä. Auttaisiko mahtava ystävämme meitä rahallisesti hädän hetkellä? Tarvitsemme ~attack_cost~.
+0x00000456 Sotalaivaston rakentaminen maksaa rahaa! Sinun osuutesi olisi ~attack_cost~.
+0x0000044B Suurneuvosto on hyvin perillä taloudellisesta taakasta, jonka hyökkäys väistämättä kaataisi kansalaistemme harteille. Voitko auttaa meitä? Tarvitsemme hyökkäysrahastoomme vielä ~attack_cost~.
+0x00000444 Haluat siis, että joukkomme matkustavat koko tuon matkan vain yhden taistelun takia? Ei onnistu!
+0x00000561 Haluatko työskennellä meille? Hieno homma, tähtikamu. Kuulostaa tosi herkulta!
+0x00000442 Suurneuvosto pahoittelee, mutta kohde on laivastomme ulottumattomissa.
+0x00000563 Annamme sinulle hommia mielihyvin! Katsotaanpa, mitä on tarjolla.
+0x00000443 Aluksemme joutuisivat liian kauas kotimaailmastamme.
+0x00000560 Voisimme tutkia yhteistyön tarjoamia mahdollisuuksia.
+0x00000448 Aluksemme eivät millään voi matkustaa noin kauas, eivät edes avaruuskristallien taikavoimien avulla!
+0x00000449 Oi kunnianarvoisa liittolaisemme. Toimisimme mielihyvin liittolaissopimuksemme mukaisesti, mutta kohde on laivastomme kantaman ulkopuolella.
+0x0000044A Laivaston siirtäminen noin kauas heikentäisi puolustustamme.
+0x0000055E Tarjoudutko auttamaan meitä? Mielenkiintoinen ajatus.
+0x00000446 Valitettavasti pyydät mahdottomia. Laivastomme kantama ei riitä tehtävään.
+0x0000055F Tarvitsemme usein apua täydentäessämme maailmankaikkeuden lajikarttaa. Neuvotellaanpa käytännön asioista.
+0x00000447 Auttaisimme teidän erinomaisuuttanne mielihyvin, mutta kohde on meille liian kaukana.
+0x00000558 Uhkailusi eivät tehoa meihin.
+0x0000046A Hyökätkää! Mestari Baffilump ennustaa voittoa!
+0x00000557 Puhu kunnioittavammin Paten seuraajien edessä!
+0x00000469 Kuljemme soturin tietä. Laivasto on matkalla!
+0x00000468 Emme voi hävitä. Emme varsinkaan nyt, kun meillä on näin mahtava liittolainen! Laivasto on valmiina ryöstelyyn!
+0x00000559 Jos kaipaat kuolemaa, autamme mielellämme.
+0x0000046B Aluksemme ovat sitoutuneita tähän sotaan. Eläköön liittouma!
+0x0000046D Hyökkäys alkaa välittömästi.
+0x00000553 Päämäärätön aggressiivisuutesi on merkki alhaisesta älykkyydestä.
+0x0000046E Komennostasi tuhoamme kaikki orgaaniset elämänmuodot.
+0x00000554 Jos haluat koetella taitojasi, se tehtäköön nyt heti.
+0x00000556 Olemme valppaita ja vilpittömiä suojellessamme Paten kansaa pakanoilta.
+0x0000046C Laivasto on matkalla. Hyökkäämme kohteeseen, kun vain pyydät.
+0x00000555 Hyvä vieras ei uhkaile isäntäänsä.
+0x00000467 Aluksemme ovat matkalla. Alkakoon ryöstely!
+0x0000045F Laivasto on lähetetty matkaan, ja se hyökkää pian!
+0x00000460 Liittomme on luja. Aluksemme käynnistävät hyökkäyksen välittömästi.
+0x00000461 Olemme täysin valmiita verenvuodatukseen. Yks, kaks, yks, kaks! Hyökkäykseen!
+0x0000045E Suurneuvosto hyökkää liittoumamme nimissä.
+0x0000045B Hyökkäys maksaa sinulle ~attack_cost~.
+0x0000045C Alustemme vuokra maksaa sinulle ~attack_cost~.
+0x0000045D Suurneuvosto on äänestänyt sodanjulistamisen puolesta. Laivasto on matkalla!
+0x00000462 Laivastomme on valmis! Suunnittelemme jo voitonjuhlia.
+0x0000055C Suurneuvostolle suorittamasi tehtävä on ensi askel kansojemme väliseen ystävyyteen, yhteistyöhön ja avunantoon.
+0x00000466 Aluksemme syöksyvät korkeuksista vihollisen kimppuun kuin jumalten viha. Analyytikkomme ennustavat jo murskavoittoa.
+0x00000465 Laivasto on jo matkalla. Odotamme kuulevamme pian uutisia eturintamalta.
+0x00000463 Edetköön sota Paten nimeen!
+0x00000464 Tuntekoon vihollisemme Paten vihan!
+0x0000055D Jutellaanpa asiasta hieman tarkemmin.
+0x00000564 Olemme iloisia siitä, että olet valmis työskentelemään Paten pyhän aatteen puolesta!
+0x00000421 Taistelemme toki rinnallanne, mutta parhaimmatkaan telepaattimme eivät ole saaneet kohdetta selville.
+0x00000422 Parin tunnin messuamisen ja suitsukkeenpolton jälkeen aluksemme ovat valmiita lähtöön. Nyt olisi hyvä hetki paljastaa meille kohde.
+0x00000423 Palvelemme liittolaistamme kunniakkaasti, kunhan joku vain kertoo meille kohteen koordinaatit.
+0x00000420 Mahtavan liittolaisemme tarvitsee vain kertoa, mihin iskeä. Me tottelemme.
+0x0000041D Jotta voimme käyttää sotavoimiamme parhaiten, sinun tulee kertoa meille kohteemme sijainti.
+0x0000041E Olemme valmiit murskaamaan vihollisemme! Kertoisitko vielä, missä he ovat?
+0x0000041F Olemme valmiita räjäyttämään planeetan pahojen heppujen jalkojen alta, jos vain kerrot meille, että keitä ne pahat heput ovat!
+0x00000424 Laivasto odottaa valmiina, ~player_title~! Kerrotko vielä, että minne se on menossa?
+0x00000429 Normaalisti auttaisimme mielellämme vihollistesi tuhoamisessa, mutta juuri nyt asiat ovat täällä aika pahassa jamassa. Kaipaisimme sinun apuasi. Autathan meitä siivoamaan tämän sotkun!
+0x0000042B Tilannearvio osoittaa, ettemme voi osallistua eturintaman sotaan, kun käsissämme on samaan aikaan sisäinen kriisi. Arvostaisimme suuresti apuasi jälkimmäisen ongelman ratkaisussa.
+0x00000428 Valtakuntamme on juuri nyt hätätilassa. Apusi olisi kovasti tarpeen.
+0x00000425 Olemme ylpeitä voidessamme auttaa orgaanisten elämänmuotojen tuhoamisessa. Ilmoita meille tarkempi kohteemme.
+0x00000426 Minne haluat meidän iskevän?
+0x00000427 Valitettavasti meillä on käsissämme oma kriisi. Suurneuvosto olisi kiitollinen avustasi.
+0x00000416 Mitä tavoitetta liittolaisemme tavoittelee?
+0x00000642 Meillä ei ole suoritettavia tehtäviä. Yritä myöhemmin uudelleen.
+0x00000417 Laivastomme on valmis. Minne haluat sen menevän?
+0x0000056D Karmamme liittykööt yhteen! Siirrytäänkö asiaan?
+0x00000414 Lähetämme aluksen sinne. Jos et kohtele sitä hyvin, saat kärsiä seuraukset.
+0x00000641 Suurneuvosto ylistää yhteistyöhenkeäsi, mutta pahoittelee tehtävien puutetta. Ehkä joskus toiste.
+0x00000415 Suostumme pyyntöösi, mutta täysin omista syistämme.
+0x00000643 Kunnioitamme kyllä avuliaisuuttasi, mutta uusia tehtäviä ei vain ole nyt tarjolla. Tule joskus toiste uudelleen.
+0x0000041B Paten soturit odottavat käskyjäsi. Mikä on kohteemme?
+0x0000056B Tarjoamme mahtavia palkkioita kaikille, jotka auttavat meitä! Täytä hakemus, niin katsomme, olisiko meillä sopivia töitä tarjolla.
+0x0000041C Paten armeija on valmiina käyttämään galaktisen tuhon aseita! Minne olemme matkalla?
+0x0000041A Olemme valmiita iskemään armotta säälittävien vihollistemme kimppuun. Kunhan vain kerrot, mihin pitää mennä ja kenen kimppuun iskeä.
+0x00000418 Onko meillä yhteinen vihollinen? Jos on, niin kuka se lienee?
+0x0000056C Haluatko työskennellä meille? Tarjoamme palkkioita, jotka vetävät vertoja monen ammattikunnan ansioille! Mainittakoon vaikka ahtarit ja tiskaajat.
+0x0000043C Eräs tiedustelijamme ilmoitti viimeisillä voimillaan, että tähtijärjestelmän kimppuun on jo hyökätty.
+0x00000568 Analyysimme osoittaa, että urakoitsijalle voisi olla käyttöä joissakin projekteissa. Harkitsemme tilannetta.
+0x0000043D Spektrianalyysi osoittaa, että järjestelmän kimppuun on jo hyökätty.
+0x00000646 Paten lapset arvostavat nöyrää asennettasi, mutta juuri nyt meillä ei ole sinulle tehtäviä. Tarjoa palveluitasi uudelleen joku toinen kerta.
+0x0000043A Sensorimme ilmoittavat, että tähtijärjestelmän elämänmuodot ovat uhanalaisia. Hyökkäys käynnissä!
+0x00000569 Mikäli tarjolla on tehtäviä ja olet niihin saatavilla, on vain loogista, että palkkaamme sinut niihin.
+0x0000043B Joku taisi ehtiä edellesi, tähtikamu! Tähän tähtijärjestelmään on jo hyökätty.
+0x00000647 Paten lapset pitävät kyllä huolen omista asioistaan, mutta onhan se mahdollista, että Patella on sinulle tehtävä myöhemmin.
+0x00000440 Tiedustelualuksemme ilmoitti, että järjestelmän kimppuun on jo hyökätty.
+0x00000565 Jos olet valmis edistämään Paten sanomaa, voimme neuvotella asiasta.
+0x00000441 Olet myöhässä. Järjestelmä on jo hyökkäyksen kohteena.
+0x00000566 Halu työskennellä Paten lasten rinnalla on ensimmäinen askel viisauden polulla. Mietitäänpä asiaa.
+0x0000043E Törmäsimme pakolaisiin, jotka kertoivat meille, että tähtijärjestelmään on jo hyökätty!
+0x00000567 Olemme valmiita tarjoamaan kohtuullisen korvauksen kaikista töistä, joita me tarjoamme... edellyttäen siis, että meillä on tarjota töitä.
+0x0000043F Näkijämme vaipui transsiin ja ilmoitti, että hyökkäys on jo käynnissä.
+0x00000645 Hei, tähtikamu. Ei täällä kummempia. Juuri nyt ei ole meneillään mitään. Tsekkaa uudelleen, kun tähdet ovat toisessa asennossa.
+0x00000430 Suurneuvosto on mielissään voidessaan raportoida, että tämän kohteen kimppuun on jo hyökätty.
+0x00000431 Laivastomme on jo aloittanut hyökkäyksen tämän maailman kimppuun.
+0x0000042F Ei. Odottakaa komentoja.
+0x0000042C Taistelisimme mielellään rintarinnan mahtavien liittolaistemme kanssa, mutta omassa valtakunnassamme vallitsee hätätilanne! Autatko meitä ensin hädässämme?
+0x0000042D Potkisimme mielellämme muutamaa henkisesti kehittymätöntä tolvanaa pitkin galaksia, mutta omassa valtakunnassamme on juuri käynnistynyt paha hätätilanne. Saisit varmasti hyvää karmaa auttamisestamme!
+0x0000042E On sodankäynnin perusoppeja, että sotaa ei pidä käydä kahdella rintamalla. Meillä on valtakunnassamme oma taistelu taisteltavana. Haluaisivatko liittolaisemme ehkä auttaa meitä asiassamme?
+0x00000433 Paten pyhät soturit hyökkäsivät jo tämän maailman kimppuun, ja pian he ottavat maalikseen oikeamielisyyden vastustajat!
+0x00000438 Ei tarvitse komennella. Aluksemme hyökkäsivät jo kyseiseen maailmaan.
+0x0000056A Haluatko siis auttaa meitä? Pitäisikö meidän myös maksaa sinulle?
+0x00000439 Tiedusteluosasto raportoi, että kohteen kimppuun on jo hyökätty.
+0x00000437 Aluksemme matkaavat jo planeetalle tuhotakseen sen.
+0x00000434 Taktikkomme ovat vahvistaneet tilannearviosi ja antaneet suosituksensa jo aiemmin. Kvadrantissa oleva laivastomme on käynnistänyt hyökkäyksen.
+0x00000435 Ennakoimme taktiset mietteesi ja hyökkäsimme jo vihollisen kimppuun!
+0x00000436 Ennen tuloasi gurumme Nostratavis aisti aatoksesi eetteristä. Näin ollen olemme sinua edellä, ja aluksemme hyökkäävät jo vihollisen kimppuun!
+0x0000012C Liittolaisemme saavat toki vapaasti esittää tarjouksia, mutta muista, että kansalaisemme odottavat tarjousten olevan reiluja.
+0x0000012B Juttelemme toki kaikesta vapaasti ystäviemme kanssa, mutta meillä pitäisi olla todella painava syy, että luopuisimme itsemääräämisalueistamme.
+0x0000012D Alamaisen ehdotus ei kaiu kuuroille korville, mutta suurneuvosto haluaa tietää, miten heidän myötämielisyytensä palkittaisiin.
+0x0000012F Harkitsemme tätä, mikäli kaikille elämänmuodoille on riittävät turvaverkot ja järjestelmän kehitykseen käyttämämme aika ja vaiva korvataan.
+0x0000012E Ehdottamasi ei ole täysin mahdotonta, mutta haluamme reilun korvauksen tähtijärjestelmään tekemistämme sijoituksista.
+0x00000127 Oi, katso! Pieni ~player_title~ tuli lahjomaan meitä. Kuinkas paljon sinä oikein tarjoatkaan, ~player_title~?
+0x00000126 Kaikki lahjoitukset käytetään universaalin lajikartan laajentamiseen. Kuinka suuresta lahjoituksesta puhuitkaan?
+0x00000128 Lahjukset ovat niin hellyttäviä! Kuinka paljon ajattelit meitä viihdyttää?
+0x0000012A Saavuit juuri ajoissa, sillä päättömän räyhäämisen juhla alkaa aivan pian! Kuinka monta päivää sinulla on varaa räyhätä?
+0x00000129 Se söpö pieni ~player_title~ palasi rahapannuineen. Kuinkas paljon kilisevää sinulla on pannussa, ~player_title~?
+0x00000131 Olen pahoillani, että tiemme eroavat näin. Älä satuta meitä.
+0x00000130 Mikäli omat etumme huomioidaan, autamme mielellämme liittolaistamme.
+0x00000132 Tämäpä ikävää. Harmi, että tässä kävi näin.
+0x00000134 Tästä jäi nyt vähän paha maku suuhun, mutta liittomme taisi olla parhaimmillaankin hatara. Olen pahoillani, että asiat eivät sujuneet.
+0x00000133 Minä kun luulin, että olemme kumppaneita tässä hankkeessa. Sinä olit minulle kuin oma palkokumppani, ja nyt tunnen oloni niin petetyksi!
+0x00000117 Kaikki henkisesti edistyneet lajit toivovat rauhaa, harmoniaa ja enkelikuorojen aariaa.
+0x00000113 Olet pelkkää pikselitomua digitaalituulessa. Vain Pate on kaikkivoipa.
+0x00000112 Toivomme, että lajiemme välillä vallitsee ikuinen rauha ja yhteisymmärrys.
+0x00000114 Me emme ole lainkaan nöyriä.
+0x00000116 Olemme törmänneet moneen suuruuttaan julistaneeseen lajiin – ja murskanneet ne kaikki.
+0x00000115 Sinulla on melkoisesti syytä nöyryyteen... Kunhan vitsailen – oikeasti.
+0x00000122 Päivää, kapteeni! Olet valinnut asutettavat planeetat oivallisesti.~p~~planet_name~ on hyvä paikka kerätä rohtoa. Siitä tulee hyvä tukikohta asutuksellemme galaksissa.
+0x00000121 Mukava kuulla sinusta, kapteeni! Asutusoperaatiomme planeetalla ~planet_name~ etenee hyvin.~p~Lisää ihmeessä rakennuksia siirtokuntaan. Se lisäisi mukavasti tuottavuutta.
+0x00000123 Olemme toki kiinnostuneita, mutta haluaisimme kuulla tarjouksestasi tarkemmin.
+0x00000125 Jotta osaamme parhaiten hyödyntää avokätisen lahjasi, meidän tulisi tietää enemmän sen kattavuudesta.
+0x00000124 Nykyinen tarjouksesi vaikuttaa hieman epämääräiseltä. Voisitko hieman tarkentaa?
+0x00000120 Katsomme lahjasi merkiksi alistumisesta.
+0x0000014A Hei, ei millään pahalla, mutta emme tunne sinua niin hyvin, että voisimme luottaa sinuun varauksetta. Voisit lisätä luottamustamme pienellä vakuudella. Tee meille jokin palvelus, niin uskomme sinut helpommin liittolaiseksemme.
+0x00000149 Tehdäänpä näin. Hoida meille se yksi homma, josta puhuttiin, niin me solmimme mielihyvin liiton kanssasi.
+0x0000014B Joo, ei tule onnistumaan. Universumissa vallitsee tiukka nokkimisjärjestys, ja me emme vain voi näyttäytyä kanssasi.
+0x00000111 Suurneuvosto toivoo rakentavaa lajienvälistä dialogia.
+0x000000EC Ole hyvä vaan.
+0x000000EB Puhu, jos luulet edistäväsi tavoitteitamme.
+0x000000ED Tämä tähti ja kaikki järjestelmän planeetat kuuluvat sinulle. Odota vielä hetki, jotta ehdimme pakata tavaramme ja häipyä tieltäsi.
+0x000000E8 Pidän sen mielessä.
+0x000000EA Oli mukava asioida kanssanne.
+0x000000E9 On kunnia palvella teitä! Kauppa on tehty, ja tähtijärjestelmä on nyt teidän.
+0x000000F0 Me antaudumme! Emmehän me pysty kilpailemaan mahtisi kanssa. Ole niin kiltti, ota saaliisi ja jätä meidät rauhaan.
+0x000000F3 Luuletko, että ongelma voidaan ratkaista rahalla? Hmm... saatat olla oikeassa.
+0x000000D7 Luotamme siihen, ettet kohtele meitä yhtä alentuvasti kuin muita lajeja.
+0x000000D9 Kuuntelemme toki, mitä sinulla on sanottavanasi. Älä silti turhaan pura laukkujasi.
+0x000000DB Me kuuntelemme ehdotustasi, mutta sen on parasta luvata meille voittoja!
+0x000000D2 Paten asiat eivät odota. Pidä kiirettä.
+0x000000D5 Kuuntelemme jopa epäuskoisten asiaa. Ainakin hetken.
+0x000000E5 Suurneuvosto on tyrmistynyt ehdotuksesi riittämättömyydestä.
+0x000000DC Puhu. Jos sanasi eivät kiinnosta meitä, voimme aina olla kuuntelematta.
+0x000000DE Suurneuvosto kuuntelee harkiten kaikkia ehdotuksia, jotka ~player_title~ tekee, mutta suurneuvostolla on velvollisuuksia kansalaisiaan kohtaan. Heidän kovan työnsä hedelmät eivät saa valua hukkaan.
+0x00000100 Kappas vaan! Lupaan, ettei sinulla ole enää ongelmia kanssamme. Kovin avokätistä!
+0x00000102 Kuinka paljon likaista rahaasi aiot meille tarjota?
+0x00000110 Luuletko, että uusista supervoimistasi on vastusta kropoille? Valmistaudu tuhoon.
+0x0000010B Lätäkkö voi puhua, mutta kuunteleeko meri?
+0x000000FA Nuo hilut eivät ole edes lähellä vaadittua summaa. Mitätön tarjouksesi antaa meille jälleen yhden syyn murskata sinut.
+0x000000FC Haha! Hyvä yritys, mutta ei meitä noin helposti lepytetä.
+0x000000FE Hmm, no olkoon. Tämä pikkulahja liennyttäköön vihamme hetkeksi.
+0x000001A3 Vähemmän puhetta, enemmän toimintaa, kiitos. Täällä on pieni kriisinpoikanen menossa.
+0x000001A2 Nyt ei ole puheiden, vaan toiminnan aika.~p~Komentokeskus kuittaa.
+0x000001A0 Mitä te tylsät pikkuotukset oikein teette täällä?
+0x0000019F Suurneuvosto on hyvin huolestunut läsnäolostasi.
+0x000001A9 Hahahaa! Sinäkö haluat solmia liiton? Hahahaa!~p~Oletko tosissasi?~p~Lyöhän sitten rahaa tiskiin, niin nähdään miten tosissasi olet.
+0x000001A8 Otahan vähän iisimmin.~p~Olet ihan mukavanoloinen, mutta sinun pitää ensin ansaita kunnioituksemme.
+0x000001AA Emme koskaan lähde tuntemattomien otusten kelkkaan.~p~Se on bileiden perussääntöjä. Kaikkihan sen tietävät.~p~Kuule, jos vaikka suoritat puolestamme pari tehtävää, niin katsotaan sitten uudelleen.
+0x000001AB Vuoren viisas vanhus sanoo kirjassaan, ettei koskaan pidä lyöttäytyä tuntemattomien matkaan.~p~Jos palvelet Patea hyvin, olemme valmiita harkitsemaan asiaa.
+0x000001A5 Galaksin turvallisuuspalvelu saapui arvioimaan kropojen viimeisimmän hyökkäyksen tuhoja.~p~Tule takaisin myöhemmin, kun meillä on aikaa jutella.
+0x000001A6 Hyväksymme lahjasi... bzz... bzz... bzz... Laskentavirhe. Annetut tiedot ovat puutteelliset.
+0x000001A7 Hidastahan vähän. Me hädin tuskin tunnemme sinua.~p~Ensin meillä on sinulle pari tehtävää suoritettavaksi, jotta lajimme tutustuisivat paremmin.
+0x0000019A Tarjouksesi on kyllä rohkaiseva. Rohkaistumisemme tarkka määrä on kuitenkin yhä mysteeri.
+0x00000199 Voimme harkita tarjoustasi, mutta haluaisimme kovasti kuulla enemmän.
+0x0000019B Toivotamme ystävämme tervetulleeksi, ja mietimme tämän lahjan tarkkaa määrää.
+0x0000019C On viisasta luottaa meihin. Me käytämme lahjan parhaalla mahdollisella tavalla. Mikä se lahja tarkalleen ottaen on?
+0x0000019E Suurneuvosto haluaa tietää, mitä oikein teet täällä.
+0x0000019D Pahoitteluni, kapteeni, mutta en ehdi puhua juuri nyt. Kimppuumme on näet hyökätty.~p~Kaipaisimme apuasi.
+0x000001B2 Jos luulet, että voit vaikuttaa mielipiteeseemme pelkällä rahalla, olet täysin oikeassa! Kuinka kovasti haluatkaan meidän olevan samaa mieltä kanssasi?
+0x000001B3 ~player_title~ on olemukseltaan niin jumalainen, että sille vetää vertoja vain hänen avokätisyytensä. Hetki, kuinka avokätinen siis oletkaan?
+0x000001B4 Mikä mahtavuus, mikä arvokkuus ja äly. Mitkä valtavat rahasäkit! Hei, kuinka valtavia ne rahasäkit ovatkaan?
+0x000001B1 Olemme valmiita muuttamaan sinusta muodostamaamme kehnoa mielikuvaa, jos vain teet suuren lahjoituksen hyvinvointimme eteen! Kuinka paljon kahisevaa oikein toitkaan?
+0x00000198 Ajatusmaailmasi on pahasti kieroutunut, jos todella kuvittelet, että voit vaikuttaa meidän päätöksiimme vaivaisella... paljonko oikein tarjositkaan?
+0x00000166 Tällä hetkellä emme voi ohjata sinua kohti toivomaasi tavoitetta. Se ei taida onnistua. Palaathan takaisin?
+0x0000016A Kuka olisi uskonut, että tämä voisi seurata siitä, että pitää jouluvaloja päällä kuukauden liian pitkään.~p~Kiitos, että autoit edistämään alkeellista yhteiskuntaamme.
+0x00000169 Nöyrimmät kiitoksemme, että jaoit teknologiasi kanssamme ja edistit yhteiskuntamme kehitystä. Toivomme, että valtakuntamme voivat jakaa galaksin rauhassa ja yhteisymmärryksessä.
+0x0000016F On vain loogista, että jossain vaiheessa lajimme kehittää avaruusmatkailuun vaadittavan teknologian. Kiitos avustasi.
+0x00000170 Arvostamme tekojasi suuresti.~p~Nyt meillä kuitenkin on runsaasti työtä edessämme. Suurta laivastoa ei rakenneta nopeasti.
+0x0000016C Aistimme sinusta paljon hyvää. Onnea matkallesi. Toivomme, että valtakuntamme saavat nauttia pitkästä ja hedelmällisestä yhteiselosta galaksissamme.
+0x0000016B Kiitos, että autoit meitä saavuttamaan fyysisen ja metafyysisen kehityksemme seuraavan tason.
+0x0000016D Koko lajimme kiittää sinua hyvyydestäsi. Nyt voimme markkinoida tuotteitamme läpi galaksin.
+0x0000016E Ylistetty olkoon Pate! Nyt aloitetaan sanan levittäminen galaksiin.
+0x0000015D Valitettavasti minulla ei ole nyt tarjota mitään.
+0x0000015A Tällä hetkellä tarjolla ei ole tehtäviä. Käymme itse asiassa edelleen läpi edellisen tehtävän tietoja. Saimme siitä aika paljon ajattelemisen aihetta.
+0x00000171 Toimesi eivät vaikuta järkeviltä.
+0x0000018A Miksi näytät noin nyrpeää auraa?
+0x00000189 Neuvotellaanpa hieman.
+0x0000018B On hyvä, että lähestyt meitä nöyrästi.
+0x0000018D Osallistu messuumme, niin naamasikin oikenee.
+0x0000018C Kunhan säilytät nöyryytesi, emme varmasti ajaudu riitoihin.
+0x00000185 Jos olet rauhantahtoinen, me emme myy sinulle aseita – paitsi jos niin vaadit!
+0x00000184 ~player_title~ vaikuttaa tänään vähän kärttyisältä, vai mitä luulet?
+0x00000186 Kaltaisesi mahtavat otukset ovat varmasti valmiita tuhlaamaankin mahtavasti.
+0x00000188 Toivomme tuottoisaa tietojen vaihtoa.
+0x00000187 Asejärjestelmämme seuraavat kyllä jokaista liikettäsi, mutta vain siksi, että välitämme sinusta!
+0x00000194 Kuten Pate sanoo, avokätisyys on yksi ylevyyden ihanteista. Kuinka ylevä tarkalleen ottaen ajattelit olla?
+0x00000193 Paten seuraajat ovat mielissään vähäisistäkin lahjoituksista ja pohtivat aatteellemme tekemäsi lahjoituksen määrää.
+0x00000195 ~player_title~ on varmasti tyytyväinen tiedosta, että lahjoituksesi käytetään lähetystyömme tukemiseen! Millaista lahjoitusta meillä onkaan lupa odottaa?
+0x00000197 Primitiiviset yksilöt uskovat usein, että objektiivisuuteen voi vaikuttaa hyvän onnen talismaaneilla, kuten rahalla.
+0x00000196 Kaikki lahjoitukset menevät hyvään tarkoitukseen, kuten yhteisten vihollistemme kuritukseen. Kuinka kovaan kuritukseen sinulla on varaa?
+0x0000018F Valitsemme ensimmäisen oven, ~player_title~! Mitä sen takana lienee?
+0x00000190 Olet mielestämme yhtä aikaa ihmeellinen, nokkela ja huvittava! Ehdotuksesi huvittaa meitä suuresti. Kuinka paljon rahaa olet valmis käyttämään huvittamiseemme?
+0x00000192 Et näköjään kykene ymmärtämään, että arvomaailmamme on moraalinen ja henkinen, ei materiaalinen. Saatamme silti löytää rahoillesi käyttöä. Paljonko sitä olikaan?
+0x00000191 Paten seuraajat ovat immuuneja lahjonnalle, mutta olemme toki kiinnostuneet siitä, minkä arvoinen ystävyytemme sinulle olisi.
+0x00000177 Lähetämme sinulle pyytämäsi apujoukot ja taistelemme rinnallasi.
+0x00000176 Herttileijaa sentään! Nämä kropot ovat kovia kavereita.~p~Kapteeni, urhoollisuutesi on pantu merkille.
+0x00000178 Toiveeseesi on myönnytty. Aluksemme on matkalla.
+0x00000172 Hei, kapteeni! Et kai vain eksynyt galaksin huonomaineiselle seudulle?~p~Nautihan uuden aluksen tuoksusta.
+0x00000173 Kiesus ja kuusitoista! Kylläpäs saitkin sakinhivutusta.~p~Valtakuntamme tunnustaa urheutesi vaarojen edessä.
+0x00000175 Hui hirvitys! Kropot eivät näemmä suo uhreilleen armoa.~p~Kunnioitamme urhoollisuuttanne.
+0x00000174 Auts! Kropot taitavat olla juuri niin vahvoja ja vaarallisia kuin huhuttiinkin.~p~Olethan varovainen, kapteeni.
+0x00000181 Päinvastoin. Sinä olet pelkkä nolla
+0x00000180 Nöyryys on suurin lumme viisauden lammella!
+0x00000182 Nöyrrymme kaikki luonnon majesteetillisuuden edessä.
+0x00000183 Olkoot kaikki maailmasi hedelmällisiä!
+0x0000008A Nimeä lajisi!
+0x0000008C Kerro nimesi!
+0x0000008E Tuntematon alus, nimeä valtakuntasi!
+0x0000003A Ai, mitä? Muistan sinut hämärästi. Tiedän, ettet ole mikään uhka, mutta se onkin sitten kauneinta, mitä voin sinusta sanoa. Mitä oikein haluat? Tuskin me sinua autamme, mutta ainahan voi kysyä.
+0x00000039 Terve! Jalo sankarimme Hupple-radan varresta on palannut. Miten matkasi on edistynyt? Kerro kaikki ja pian, jotta koko ~race_homeworld~ saa kuulla tähtimatkoillasi suorittamistasi ihmeteoista.
+0x0000003E Lajisi ei näemmä ole vieläkään sammunut.
+0x0000003F Toivottavasti ~player_title~ kykenee älylliseen keskusteluun.
+0x0000003D Toivomme, että olet valmis auttamaan talouttamme mahtavuutesi voimalla.
+0x00000037 On hauska nähdä sinut uudelleen. Koko ~race_homeworld~ iloitsee siitä, että vieraanamme on arvokkuudellasi ja asemallasi varustettu otus. Kunnioitat meitä läsnäolollasi ja tyrmäävän upealla ulkonäölläsi. Kyllä vain, olen sinut itseni kanssa ja kehtaan sanoa näin!
+0x00000035 ~player_title~ on omituinen pikku otus, mutta herttaisella tavalla. Ehkäpä tästä tulee hauska visiitti.
+0x00000036 Tervehdys. Paten palvelijat miettivät, mikä onkaan tuonut sinut luoksemme, ~player_title~.
+0x00000034 Hei, ~player_title~. Voimmeko oikaista henkesi?
+0x000000AD Opettakaa minulle teidän tapanne, jotta minusta voisi tulla teidän kaltaisenne.
+0x000000AC Me odotamme innolla, että todistat niin sanotun suuruutesi.
+0x0000009B Suurneuvosto on kiinnostunut mahdollisesta avustasi.
+0x00000097 Tukevatko tiedot väitettäsi?
+0x00000099 Ehkäpä suuruuttasi koetellaan vielä joku päivä.
+0x00000098 Uskooko suuruuttasi kukaan muu kuin sinä itse?
+0x0000009E Olisiko tehtäviä tarjolla? Tarvitaanko tekijöitä? Minulle kelpaisi tehtävä.
+0x000000A4 Juteltaisiinko vähän näistä minun tehtävistäni?
+0x000000A3 Voisinko saada vähän selvennystä näihin tehtäviin?
+0x000000A5 Suurneuvosto kuuntelee mielellään kaikkia ehdotuksia, mutta sen kärsivällisyys on rajallinen.
+0x000000A0 Olen oikeastaan aika kätevä käsistäni... tai siis tarttuimistani. Ei sinulla olisi mitään käsiteltävää... eikun siis tartuteltavaa?
+0x0000009F Haluaisin niin kovasti tuntea aurinkotuulen ihollani. Olisiko tehtäviä tehtäväksi?
+0x000000A2 Haluaisin vähän jutella näistä tehtävistä.
+0x000000A1 Minulla olisi vähän kysyttävää näistä tehtävistä...
+0x00000056 Sivilisaatiot tulevat ja menevät, mutta luonto pysyy.
+0x00000059 Kylläpä sitä nyt ollaan supermahtavia! Galaksista tulee kyllä paljon mielenkiintoisempi paikka, kun täällä on kaltaisiasi otuksia!
+0x00000058 Suurneuvosto pyytää sinua käyttämään uusia voimiasi galaksin rauhan, turvallisuuden ja hyvinvoinnin puolesta.
+0x00000054 Oi, elämänlähde. ~race~ kohtaa taas uuden lajin. Ollos tervetullut. Mikä on nimesi?
+0x0000005F Ollos kolmasti tervetullut. Sinullapa on mielenkiintoinen alus. Juttelisin mielelläni sen suunnittelijan kanssa. Kerrassaan kiehtovaa, kerrothan minulle yhteystietosi, niin voimme jatkaa juttua.
+0x0000005C Mahtavuutesi on vailla vertaa! Galaksin keskustasta saamasi teknologia ja ominaisuudet ovat häkellyttäviä.~p~Eiväthän ne sattumalta ole myynnissä?
+0x0000005B Tervetuloa! Näemme, että sinä olet se odotettu tuleva jumala, josta on näin tullut saapunut jumala. Toivomme, että käytät voimiasi levittääksesi elämää ylenpalttisesti kaikkialle galaksiin.
+0x0000005E Todisteet osoittavat, että olet saanut jumalaisia voimia.~p~Toivomme, että käytät näitä voimia merkityksen ja totuuden etsimiseen.
+0x0000005D Paten seuraajat eivät hyväksy pyhyyttäsi, mutta ehkäpä me pääsemme toisenlaiseen sopimukseen.
+0x00000052 Muotosi on minulle entuudestaan tuntematon.~p~Mistä sinut tunnetaan?
+0x00000051 Aistimme maailmankaikkeudessa uuden olemuksen. Tervetuloa.~p~Mikä on nimesi?
+0x0000004B ~player_title~! Kuolemasi palvelee Paten pyhää suunnitelmaa.
+0x0000004C Olemme sodassa, ~player_title~! Saisit olla kiitollinen siitä, että olet yhä hengissä. Mikä on asiasi?
+0x0000004F Näkisimme mielelläsi pääsi formaldehydipurkissa!
+0x0000004E Avunhuutoihisi tuskin vastataan.
+0x00000050 Ystävä. Kuka siellä?
+0x0000004D Olemme sodassa! Putiikki on suljettu.
+0x0000004A Väkivaltaisuutesi on hyödytöntä ja äärimmäisen ikävystyttävää. Miten ihmeessä me joskus erehdyimmekään ajattelemaan, että ~player_title~ olisi jotenkin söpö!
+0x00000044 Ole sitten nopea, ~player_title~.
+0x00000045 Toivottavasti olet valmis tuhlaamaan, ~player_title~.
+0x00000042 Sama vanha ja tylsä ~player_title~. Kenen mukana ~player_title~ oikein pääsi tänne?
+0x00000043 ~player_title~ haparoi pimeässä etsien Paten valoa.
+0x00000048 Hyvä ~player_title~, suurneuvosto on jalomielisesti valmis harkitsemaan asiaasi.
+0x00000049 Saamme sinusta pahoja aistimuksia. Puhu nopeasti!
+0x00000046 Lajisi liekki lepattaa levottomasti aurinkotuulessa. Pian tuo liekki sammuu.
+0x00000047 ~player_title~! Voitko antaa edes yhden hyvän syyn, miksi en heti avaisi vatsalaukkuasi?
+0x00000060 Näemme, että sinusta on tullut jotain, mitä koneista ei voi tulla.~p~Jos yrität sammuttaa meitä, me vastustamme.
+0x00000040 Onko ~player_title~ ymmärtänyt tekojensa kammottavat seuraukset?
+0x00000041 Vain sukupolvien mittainen pahan karman ketju voi tuottaa jotain sellaista kuin sinä, ~player_title~.
+0x00000065 Jos kerran olet niin suuri ja mahtava, käytät varmasti kosolti rahaa kauppakeskuksessamme.
+0x00000068 Mielenkiintoinen DNA-rakenne, osaatko puhua?
+0x00000067 Miten mielenkiintoinen muukalaislaji. Mikä on nimesi?
+0x00000069 Ah, tunnistamaton laji. Upeaa. Kerrothan meille kaiken itsestäsi.
+0x0000006B Olemme yhtä mieltä siitä, että olet äärimmäisen erinomainen. Joko lompakon nyörit heltisivät?
+0x0000006A Seis! Ken olet?
+0x0000006C Sinä pysähtyy. Ilmoittaa nimi.
+0x000000B9 Suuruuden hivenesi on vain varjo Paten mahdista.
+0x000000D0 Sano asiasi lyhyesti. Pölinäsi särkee korviani.
+0x000000CC Me kuuntelemme ehdotustasi, mutta sen enempää emme voi luvata.
+0x000000CA Sano sanottavasi. Meillä on taimia istutettavana.
+0x000000CF Ok. Kiitos tiedosta!
+0x000000CE Mitä? Miten olet taas täällä?
+0x000000CD Selvä. Hyvä tietää tämä.
+0x000000D1 No, kiitos kuitenkin.
+0x000000BB Suurneuvosto ei ole lainkaan vaikuttunut mitättömistä rahallisista kannustimistasi, mutta on utelias tietämään, mikä näiden kannustimien määrä olisi.
+0x000000BC Kerro tarjouksesi, jotta suurneuvoston ei tarvitse haaskata aikaansa.
+0x000000C2 Nopeasti nyt. Suurneuvostolla on kalenteri täynnä tänään.
+0x000000C0 Apu saapuu mitä parhaimmalla hetkellä. Jotta apu saataisiin parhaiten ohjattua oikeaan kohteeseen, pyydämme saada tietää avun kokonaismäärän.
+0x000000C1 Kuinka paljon rahaa meinaat meille tyrkyttää?
+0x000000BF Suurneuvosto on ilahtunut liittolaisensa avokätisyydestä. Kuinka pitkälle tämä avokätisyys ulottuukaan?
+0x000000BD Suurneuvosto on kiinnostunut ehdotuksestasi.
+0x000000BE Suurneuvosto ottaa kaikki lahjat kiitoksin vastaan, mutta raha voitaisiin käyttää parhaiten, jos paljastaisit sen määrän.
+0x000000C4 Suurneuvosto auttaa mielellään liittolaisiaan. Mikä on kohteemme?
+0x0000039C Annas kun kysyn yhtä toista juttua.
+0x000003D4 Annas kun kysyn yhtä toista juttua.
+0x000003D5 Voinko kysäistä jotakin?
+0x000003D9 Olkoon niin.
+0x000003D6 Olisi vielä yksi kysymys...
+0x000003D7 Haluaisin jutella yhdestä asiasta.
+0x000003D8 Näkemiin.
+0x000003A0 Näkemiin.
+0x000003A1 Olkoon niin.
+0x0000039D Voinko kysäistä jotakin?
+0x0000039E Olisi vielä yksi kysymys...
+0x0000039F Haluaisin jutella yhdestä asiasta.
+0x00000286 Haluan etsiä älyllistä elämää.
+0x00000287 Haluan etsiä muinaisjäänteitä.
+0x00000288 Värittäisin mielelläni planeettoja.
+0x00000285 Galaksi on laaja ja tutkittavaa on paljon. On tutkimattomia planeettoja sekä lukemattomia uusia elämänmuotoja ja älyllisiä otuksia, jotka vain odottavat löytäjäänsä.~p~Käy mahdollisimman monella eri planeetalla. Matkoillasi kohtaat erilaisia eläimiä, outoja planeettoja, uusia sivilisaatioita ja jännittäviä salaisuuksia.~p~Kun jatkat tutkimuksiasi, ansaitset ansiomerkkejä, joita keräämällä saat tilaisuuden ostaa uusia laitteita. Ne auttavat sinua myöhemmissä seikkailuissasi.
+0x00000282 Haluan puuhailla avaruuden muiden elämänmuotojen kanssa.
+0x00000284 Juuri nyt en kaipaa tekemistä.
+0x0000028A Ei juuri nyt.
+0x0000028B Valtakuntaa voi laajentaa monella tapaa.~p~Voimme aloittaa tyhjästä ja rakentaa siirtokunnan asumattomalle planeetalle.~p~Voimme myös luoda kauppareittejä toisten valtakuntien planeetoille, jolloin voimme ennen pitkää ostaa järjestelmän itsellemme.~p~Lisäksi voimme aina vallata toisen planeetan väkivalloin, mutta silloin planeetan entisestä hallitsijasta tulee varmasti vihollisemme.~p~Huolimatta siitä miten päätät valtakuntaasi laajentaa, rahaa tarvitaan varmasti paljon. Paras tapa ansaita Spore-taalereita on myydä rohtoa toisille valtakunnille.~p~Rohdonkeruu onnistuu parhaiten siirtokunnista.
+0x00000315 Haluan asuttaa planeettoja.
+0x0000031B Juuri nyt en kaipaa tekemistä.
+0x0000031C Voit valita liittolaisesi ja vihollisesi aivan vapaasti.~p~Luonnollisesti vihollisten hankkiminen on helpompaa kuin ystävien pitäminen. Voit ilahduttaa ystäviäsi käymällä kauppaa heidän kanssaan, antamalla heille rahaa ja auttamalla heitä, kun he tarvitsevat apua. Jos ystäväsi ovat riittävän tyytyväisiä, heistä tulee liittolaisiasi.~p~Mitä enemmän liittolaisia sinulla on, sitä helpompaa elostasi tulee.~p~Liittolaiset suojelevat sinua vaaroilta, he helpottavat matkustamista galaksissa, käyvät rohtokauppaa kanssasi, auttavat sinua korjaamaan avaruusaluksesi ja lataamaan sen akut sekä myyvät sinulle uusia laitteita.~p~Liittolaiset myös liittyvät laivastoosi ja taistelevat rinnallasi. Voit kasvattaa laivastoasi ansaitsemalla mestarimerkkejä.
+0x0000031D Haluan etsiä älyllistä elämää.
+0x0000031A Käydään sotaan toisen valtakunnan kanssa.
+0x00000317 Haluan käydä rohtokauppaa.
+0x00000318 Haluan myydä muinaisjäänteitä toisille.
+0x00000319 Haluan luoda kauppareitin toiseen valtakuntaan.
+0x00000322 Juuri nyt en kaipaa tekemistä.
+0x00000323 Kerro minulle lisää oppisuunnastasi.
+0x00000324 Haluaisin tietää lisää lajistasi.
+0x00000321 Käydään sotaan toisen valtakunnan kanssa.
+0x0000031E Haluan käydä rohtokauppaa.
+0x0000031F Haluan luoda kauppareitin toiseen valtakuntaan.
+0x00000320 Haluaisin hankkia uusia liittolaisia.
+0x0000052A ~race~ opettaa usein jäljiteltyä talousoppia. Meidän oppimme on kuitenkin paras ja tuottoisin niin tässä universumissa kuin kaikissa vieraissa ja tuntemattomissakin universumeissa. Talousoppi painottaa uskollisuuden, rehellisyyden, asiakastyytyväisyyden ja hyvin laaditun sopimuksen pyhyyttä. Edes talouden laintaulut eivät nimittäin takaa tulevaa menestystä menneiden suoritusten perusteella. Pykälät ovat tärkeitä.
+0x00000526 Viisas matkalainen. Opi niin paljon kuin pystyt, sillä elämän keskeisiin kysymyksiin on monia vastauksia, ja kaikki niistä ovat oikein. ~race~ noudattaa harmoniaopin periaatteita. Me tiedämme, että jokaisen lajin on etsittävä oma totuutensa.~p~Harmonian seuraajien kiintopiste on koti. Lahjamme avulla voimme siirtyä mistä tahansa universumista takaisin kotimaailmaan.
+0x0000053B Unohdin, mitä olin sanomassa.
+0x00000538 Kiitos, että otit minut vastaan.
+0x0000053D Hups, sori vaan. Väärä muukalainen.
+0x0000053C Tämä taitaa riittää. Moikka!
+0x00000537 Tervehdys! Haluaisin keskustella eräästä asiasta.
+0x00000535 Tervehdys! Mukava tavata.
+0x00000536 Avaruusalus ~ufo_name~ pyytää lupaa siirtyä kiertoradalle.
+0x00000551 Galaktisen yhteiskunnan nimissä toivotan sinut tervetulleeksi avaruuteen.
+0x0000053F Taistelukentillä nähdään!
+0x0000053E Hupsis, väärä numero.
+0x00000540 Ehkä voisimme välttää sodan sopivalla summalla.
+0x00000530 ~race~ on luja ja voimakas. Voimaoppi on ainoa vaihtoehto. Muut oppisuunnat ovat heikoille! ~p~Ne, jotka ovat riittävän vahvoja noudattamaan voimaoppia, voivat kutsua taistelussa apujoukkoja hyökkäämään vihollistensa kimppuun.
+0x00000533 Muuta minun ei tarvitse tietääkään. Morjens!
+0x00000532 Mielenkiintoista! Kiitos tiedoista.
+0x00000657 Anna tulla vaan! Olen valmis.
+0x00000659 Anna tulla vaan! Olen valmis.
+0x00000655 Onneksi olkoon! Uusi siirtokunta on perustettu planeetalle ~planet_name~! Kasvakoon ja menestyköön valtakuntamme.
+0x0000066D ~race~ tuntee voimaopin tien. Se on tie voimaan ja voittoon.~p~Ensin olimme voimakkaampia kuin naapurimme. Sitten olimme voimakkaampia kuin naapurivaltakuntamme. Sitten löysimme uusia maita ja uusia naapureita. Meitä oli paljon, ja se oli suuri taistelu: me olimme jälleen voimakkaampia ja voitimme. Me olemme valtakunnista voimakkain... on vain yksi voimakkaampi.~p~Joka luulee olevansa voimakkaampi, astukoon esiin. ~race~ taistelee heitä vastaan ja voittaa heidät kaikki.
+0x00000668 Haluaisin lopettaa kauppareittimme.
+0x000000FF Mikä helpotus.
+0x00000106 Unohda koko juttu. Muutin mieleni.
+0x0000010C Kyllä
+0x0000010E Olen pahoillani, en tiennyt asiasta.
+0x0000011E Kuka on tämä hölmö kuolevainen, joka pyrkii mahtavien ja erinomaisten kropojen puheille? Miten uskallat häpäistä meidät mitättömällä ja vähäpätöisellä olemuksellasi? Emme halua hengittää ilmaa, jonka olet saastuttanut tympeällä olemuksellasi.~p~Oletan nyt, että aikani sinua tässä solvattuani tajuat itse poistua järjestelmästämme. Uh. Groteski olemuksesi satuttaa silmiäni. Minun pitää nyt mennä huuhtelemaan silmämunani. Löydät varmaan itse ulos sillä aikaa. Häivy siis ja vauhdilla, sillä tänne et ole tervetullut.~p~Poistu heti tästä tähtijärjestelmästä, tai potkimme sinuun vauhtia asteroidilla tai parilla.
+0x000000C3 Ymmärrän kyllä. Vielä yksi juttu ennen lähtöä...
+0x00000072 Kiitos, että otit minut vastaan.
+0x00000073 Hupsis, väärä numero.
+0x0000011A Haluan laajentaa valtakuntaamme.
+0x0000011B Haluan puuhailla avaruuden muiden elämänmuotojen kanssa.
+0x0000011C Juuri nyt en kaipaa tekemistä.
+0x00000119 Haluan tutkia universumia.
+0x00000071 Tervehdys! Haluaisin keskustella eräästä asiasta.
+0x00000070 Avaruusalus ~ufo_name~ pyytää lupaa siirtyä kiertoradalle.
+0x0000006F Tervehdys! Mukava tavata.
+0x000000FB Hupsis, taisimme laskea väärin.
+0x000000C6 ~empire_name_2~ tähtijärjestelmässä ~star_name_2~
+0x000000C8 ~empire_name_4~ tähtijärjestelmässä ~star_name_4~
+0x000000A6 Hyväksythän lahjamme. Haluamme kovasti, että meistä tulee ystäviä.
+0x000000C7 ~empire_name_3~ tähtijärjestelmässä ~star_name_3~
+0x000000FD Pidän sen mielessä.
+0x000000C5 ~empire_name_1~ tähtijärjestelmässä ~star_name_1~
+0x00000142 Voinko kysäistä jotakin?
+0x00000143 Olisi vielä yksi kysymys...
+0x00000145 Joo, olen valmis. Nyt tehdään historiaa.
+0x00000144 Haluaisin jutella yhdestä asiasta.
+0x00000146 Toivon yhteistyöstämme pitkää ja antoisaa.
+0x0000014D Voisitko selittää sen tehtävän vielä kertaalleen?
+0x0000014C Voitaisiinko jutella vielä siitä tehtävästä?
+0x0000014E Kerrattaisiinko vielä se tehtävä?
+0x00000150 Todistan arvoni teille keinolla millä hyvänsä.
+0x0000014F Voitaisiinko jutella vielä siitä tehtävästä?
+0x00000147 Tulevaisuus näyttää hyvältä!
+0x00000148 Jes! Kukaan ei voi pysäyttää meitä! Hähähähää!
+0x000000F2 Ei onnistu, tuhosi on minulle hyödyllisempää.
+0x00000083 Haluatko kakkua? Meillä taitaa olla kakkua.~p~Hetkinen, tarkistan... Äh, ei meillä olekaan kakkua.~p~Pahus! Olisi niin tehnyt mieli kakkua.~p~Hei, ei sinulla sattumoisin ole kakkua myynnissä?
+0x00000155 Universumi on raaka paikka.
+0x00000087 Rauhaa ja valoa. Mikä on tahtosi?
+0x00000152 Aion varmistaa, että tämä liitto toteutuu – hinnalla millä hyvänsä!
+0x00000154 Huhhuh, meno äityy universumissa välillä aika hurjaksi.
+0x00000153 Miten voisin osoittaa, että olen vakavissani?
+0x00000161 Haluaisin jutella yhdestä asiasta.
+0x00000158 Näinkö tässä käykin? Ymmärrän kyllä.
+0x00000156 Tuo oli aika pahasti sanottu. Minun on kai pakko toimia.
+0x00000157 Hyvä on, hyvä on. Tähänkö tässä nyt päädytään?
+0x0000015F Voinko kysäistä jotakin?
+0x00000160 Olisi vielä yksi kysymys...
+0x0000015E Annas kun kysyn yhtä juttua.
+0x00000088 Ota rauhassa vain... nauti olevaisuuden aalloista...~p~Kun olet valmis, kerro meille mitä tarvitset.
+0x00000168 Ehkä ensi kerralla onnistaa.
+0x00000151 Aion varmistaa että se, minkä pitää tapahtua, myös tapahtuu.
+0x00000167 Olisi vielä yksi kysymys...
+0x0000008B Tämä on meille kunnia.
+0x00000162 Hihkaise, jos saat sopivia tehtäviä.
+0x00000089 Kyllä vain. Valmiina palvelemaan. Kuinka voimme auttaa?
+0x00000082 Hetki vaan! Yritän arvata, mitä voisit haluta.~p~Hmm. Haluatko... sateenvarjon?~p~Etkö? Höh. No ei sitten. Kerro mitä tahdot.
+0x00000163 Kerro, jos jotain sopivaa tulee vastaan.
+0x0000008D En ole niin pieni kuin luulet, mutta jatketaan toki...
+0x00000164 Huh! Kaipaisin kovasti uutta tehtävää.
+0x00000165 Kerrothan, jos kaipaatte apuani.
+0x00000079 Taistelukentillä nähdään!
+0x0000007A Odota, ehkä voisimme välttää sodan sopivalla summalla.
+0x0000007B Ei tästä tule mitään. Unohda koko juttu. Pitää mennä.
+0x0000008F Aistin ilmassa hivenen kireyttä, mutta jatketaan toki...
+0x00000077 Hups, sori vaan. Väärä muukalainen.
+0x00000078 Unohda koko juttu. Pitää mennä.
+0x0000007C Siismitäsanootyhjäpäinenmuukalainen?
+0x00000076 Tämä taitaa riittää. Moikka!
+0x00000075 Unohdin, mitä olin sanomassa.
+0x00000074 Siismitäsanootyhjäpäinenmuukalainen?
+0x00000139 Sattuuhan näitä. Ei muistella menneitä.
+0x00000138 Haluaisin jutella yhdestä asiasta.
+0x0000013A Mikä laulaen tulee, se viheltäen menee.
+0x00000137 Olisi vielä yksi kysymys...
+0x0000013B Äh, ei tehdä kärpäsestä härkästä.
+0x00000141 Annas kun kysyn yhtä toista juttua.
+0x0000013C Ei muistella pahalla. Pärjäilkäähän.
+0x0000007E Tervehdys, kapteeni. Kuinka voimme auttaa?
+0x0000007D Tervehdys, kapteeni. Miten voimme auttaa?
+0x0000007F Tervehdys, kapteeni. Voimmeko auttaa?
+0x00000135 Annas kun kysyn yhtä toista juttua.
+0x00000080 Nyt kun kaikki on kunnossa, voisit ehkä ilmoittaa asiasi.
+0x00000136 Voinko kysäistä jotakin?
+0x00000081 Suurneuvosto on valmis kuulemaan pyyntösi.
+0x000000B8 Minun piti jutella kanssasi eräästä toisesta asiasta.
+0x000000B4 Tämä liitto on menneisyyttä. Nähdään taas. Ensi kerralla nokikkain.
+0x000000D3 Tässä rahasi.
+0x000000B5 Liittomme on entinen. Törmäillään!
+0x00000101 Haluan rauhan hinnalla millä hyvänsä.
+0x000000C9 Tarkemmin ajateltuna, ehkei kuitenkaan.
+0x000000B3 Emme tunnusta enää liittolaisuutta.
+0x00000061 Katso! Tulen suuresta ja mahtavasta maailmasta nimeltä ~player_homeworld~.
+0x000000D4 Ei kiitos.
+0x00000062 Kutsu aluksesi takaisin tai räjäytän sen kappaleiksi.
+0x000000B2 Tämä meidän liittomme... Se saa nyt luvan jäädä.
+0x000000F9 Unohda koko juttu. Sota taitaa sittenkin olla se halvempi ratkaisu.
+0x00000280 Haluan tutkia universumia.
+0x000000AA Voisitko taistella puolestani?
+0x000000A9 Voisitko taistella puolestani?
+0x000000AE Liitto tekisi meistä molemmista mahtavampia, eikö vain?
+0x000000AF Eikö liitto hyödyttäisi meitä molempia?
+0x000000D6 Kiitos.
+0x000000AB Haluaisin ostaa tämän tähtijärjestelmän.
+0x000000DD Hyvä on, ehkä sitten kun minulla on vähemmän kauppareittejä.
+0x000000EF Tuhoan kaiken mieluummin kuin päästän sinut pakoon!
+0x000000EE Valtaan tämän itselleni.
+0x000000D8 Olen varma, että pian aloitetaan.
+0x000000B0 Kansamme hyötyisivät yhteistyöstämme.
+0x000000A7 Voisitko lainata laivastolleni yhden aluksistasi?
+0x000000E4 Unohda koko juttu. Minun pitää miettiä tätä.
+0x000000B1 Minusta meidän kannattaisi liittoutua.
+0x000000A8 Haluaisin luoda kauppareitin kaupunkiisi.
+0x00000281 Haluan laajentaa valtakuntaamme.
+0x000000F1 Tulkoon rauha.
+0x000003E2 Rentoudu, niin jutellaan.
+0x000003FA ~race~ toivottaa kunnianarvoisan liittolaisemme tervetulleeksi. Miten voimme auttaa?
+0x000003F8 ~race~ toivottaa kunnianarvoisan liittolaisemme tervetulleeksi. Miten voimme auttaa?
+0x000002C5 Onko siinä oikeasti ~player_title~, vai sumentaako migreeni taas silmäni?
+0x000002C6 Siinähän sinä olet... Juuri ajoissa. Aiomme näet nimittää sinut nöyryytysfestivaalimme kunniavieraaksi! Pysyhän maisemissa, niin laitamme tomaatteja tulemaan sinun suuntaasi.
+0x000002F5 Hienoa. Olet kovin avulias.
+0x000002F6 Ymmärrän kyllä. Vielä yksi juttu ennen lähtöä...
+0x000002F7 Hyvästi
+0x000002F4 Puhu.
+0x000002F1 Odotamme selontekoasi.
+0x000002F2 Bzz.~p~Ilmoita vierailun tarkoitus.
+0x000002F3 Kerro asiasi.
+0x000002E8 Matkalta saamasi ominaisuudet ovat häkellyttäviä. Olet saanut mahtavat voimat.~p~Olemmekin valmiita kohtelemaan sinua tasavertaisina kanssamme.
+0x00000292 Olemme liian ilkeitä ja vähäpätöisiä ollaksemme arvoisiasi. Jospa vain menisit matkoihisi... ellet sitten halua tuhlata rahaa basaarissamme?
+0x0000029B ~race~ on hyvin iloinen siitä loputtomasta huvituksesta, jota ~player_title~ heille tuottaa. Tervetuloa.
+0x000002F8 Haluaisin kysyä vielä jotakin.
+0x0000034A Olimme valmiita luovuttamaan kaupungin komennuksen mille tahansa riittävän kehittyneelle lajille. Koska ~player_creature_name~ on materialisti, meidän pitänee tyytyä materiaanne.
+0x0000033B Mitä vain kaipaat, kaveri! Meillä on vähän muuttokuluja, voisitko jeesata niiden kanssa?
+0x00000366 Hahahaa! Hyvä läppä. Kai se oli vitsi?
+0x00000309 Olemme keskellä kriisiä!
+0x00000312 Odotamme selontekoasi... sitten myöhemmin.
+0x000002FD Tekosi ei lainkaan kohenna mainettasi. Matkoihisi siitä.
+0x000002FE Kauppasopimuksen rikkomisessa ei ole mitään kunniakasta. Mene tiehesi.
+0x000002FF Kropot eivät välitä teoistasi. Kohtalosi on ennalta määrätty.
+0x000002FC Erotkaamme yhteisymmärryksessä ja hyvillä mielin. Valaiskoot tähdet tietäsi.
+0x000002F9 Haluaisin kysyä vielä jotakin.
+0x00000304 Suurneuvosto toivoo, että suotte anteeksi virallisen vastaanottoseremonian uupumisen. Tämä on kriittistä aikaa.~p~Tai jos muotoilen asian toisin: APUA!
+0x00000305 Apua!
+0x00000306 Näillä kavereilla ei taida olla huumorintajua. Auttakaa!
+0x00000303 Apua!
+0x00000300 Kapteeni, on äärimmäisen tärkeää, että aloitamme avaruusohjelmamme pikaisesti tutkimalla galaksia.~p~Tiedämme, että universumissa riittää vieraita lajeja, joihin voimme tutustua. On useita aurinkokuntia ja planeettoja, jotka vain odottavat löytämistään.~p~~player_homeworld~ alkaa käydä jo ahtaaksi, joten meidän pitäisi ehdottomasti etsiä uusia asutettavia planeettoja.~p~Tekemistä siis riittää. Oletko valmis ottamaan vastaan tehtävän?
+0x00000301 Galaktisen kauppasaartoartiklan 1.0004B mukaan sinulla on oikeus purkaa tämä kauppasopimus.~p~Kerro, jos muutat mielesi.
+0x00000510 Olemme häkeltyneitä summan suuruudesta, mutta pyrimme olemaan osoittamasi kunnian arvoisia.
+0x0000051F ~player_title~ ~player_creature_name~. Tehtäväsi oli selvä. Näimme kyllä, miten teit muistiinpanoja tehtävälokiin.
+0x0000051C Kaikki tiedustelut tulee osoittaa tiedusteluvirastoon, varsinkin jos tiedustelu liittyy tähtienvälisiin lentoihin.~p~Galaksin säädösten mukaan tietojen pitäisi kyllä olla tallennettuna tehtävälokissasi.
+0x0000051E Joo hei, on siis niin väärin, et joutuu keskittyy ja muistelee kaikkee turhaa. Miksi ajat ja paikat muka olis niin tärkeitä? Antaa luonnon vaan ohjata meitä. Kaikki sujuis sillai niin paljon paremmin.~p~Ai, sanoitsä jotain? En jaksanu kuunnella.~p~Kai sulla on jossain se tehtäväloki. Kato sieltä lisää.
+0x000004D7 Liittolaisemme jalomielinen tarjous on hyväksytty. Tähtijärjestelmä on nyt lajin ~player_creature_name~ hallinta-aluetta.
+0x00000602 Näin suurella rahasummalla ostamme aseita, joiden tuhovoimasta emme uskaltaneet aiemmin edes unelmoida. Otamme rahasi vastaan... ja sillä ostetut aseet, pommit ja raketit!
+0x00000579 Voi hyvänen aika. Galaksin toimintakäytäntöjen standardi ei salli koulutusta kahdessa oppisuunnassa yhtä aikaa. Ei missään nimessä. Ajattele, millaisen kaaoksen se aiheuttaisi. Ei onnistu! Älä edes ajattele moista, siitä seuraa vain harmeja.~p~Jos haluat sitoutua järjestysoppiin, sinun pitää hylätä aiemmat sitoumuksesi.
+0x0000057B Vaikka me kaikki olemmekin osa samaa universumia, on mahdotonta syventyä elämänoppiin, jos ajatukset juoksevat toisen opin radoilla.~p~Kerro siis huonot uutiset toisen opin edustajille. Voimme jatkaa koulutusta yhdessä, kun toinen kurssi on keskeytetty.
+0x00000585 Jos haluat liittyä harmoniaopin seuraajiin, sinun pitää hylätä kaikki epäharmoniset opit
+0x00000584 Hienoa, hienoa! Yksi pikku muotoseikka – ihan vain pienenpieni yksityiskohta.~p~Talousopin perusartikla edellyttää yksinoikeudellisuutta. Voimme solmia sopimuksen vain, jos peruutat kaikki muut koulutukset.
+0x00000581 Hyvä, ~player_title~ ~player_creature_name~. Tiedeoppi edellyttää absoluuttista omistautumista asialleen. Jos haluat opiskella tieteen saloja kansamme, sinun pitää ensin lopettaa muut opintosi.
+0x0000057E Jos haluat opetella sattumaopin polkuja, sinun pitää hylätä toisen opin tiet
+0x0000057D Jos haluat opetella sattumaopin polkuja, sinun pitää hylätä toisen opin tiet
+0x00000580 Jos haluat selvittää uskonopin salat, sinun pitää hylätä harhaoppisi
+0x0000057F Jos haluat selvittää uskonopin salat, sinun pitää hylätä harhaoppisi
+0x00000576 Katsotaanpa, olisiko komentokeskuksella sinulle sopivaa tehtävää.
+0x000005B5 Pate ei suostu noin köykäiseen rauhantarjoukseen. Ehkäpä suuremmat kymmenykset auttaisivat asiaa.
+0x00000586 Jos haluat liittyä harmoniaopin seuraajiin, sinun pitää hylätä kaikki epäharmoniset opit
+0x00000550 Olen pahoillani, ~player_title~ ~player_creature_name~. Juuri nyt emme voi solmia pitkäkestoista liittoa lajisi kanssa.~p~Ehkä joskus tulevaisuudessa.
+0x000005C4 Aika hyvä vitsi! Onhan tämä vitsi, onhan?
+0x000005BC Materiaalinen omaisuus tukahduttaa sisintäsi. Kuinka paljosta olet valmis luopumaan?
+0x00000658 Meidän on pakko kieltäytyä tarjouksestasi, ~player_title~ ~player_creature_name~.~p~Meillä on aivan liian kiire kokeidemme kanssa. Emme millään ehdi käydä neuvotteluja kanssasi.~p~Ehkä voisit auttaa meitä tutkimuksissamme.
+0x00000445 Joukkomme eivät ole niin virkaintoisia, että voisimme lähettää aluksemme noin kauas palvelemaan Patea.
+0x00000419 Niin olkoon! Tulkoot räjähdykset, sirpaleet ja tuho! Räjäytetään kaikki! Poltetaan heidän maailmansa tuhkaksi! Aika pelata raa'asti!~p~Öö... kenen kimppuun me nyt oltiinkaan hyökkäämässä?
+0x0000040A Suurin haaveemme on kiertää galaksissa tähtikamumme kanssa! Aluksemme liittyy seuraasi heti, kun saamme nämä bailut päätökseen!
+0x0000042A Auttaisimme sinua mielellämme taistelussa Paten vihollisia vastaan, mutta juuri nyt meillä on edessämme omiakin haasteita. Ehkäpä voisit edistää Paten asiaa meitä auttamalla.
+0x0000061B Mitä? No, pitihän se arvata! Tajusit siis viimeinkin, että lajisi kokonaisvaltainen puutteellisuus tekee tästä liitostamme kovin epätasa-arvoisen. Aioimme itse asiassa purkaa liiton jo aiemmin aamulla, mutta se jäi koska meillä oli niin kiire... tuota... kaikenlaisissa puuhissa.~p~Olkoon sitten. Pidä tyhmä liittosi. Emme edes hyötyneet siitä pennin latia! Maailmasta löytyy varmasti sadoittain lajeja, jotka ovat valmiita liittoon kanssamme. Hahahaa! Kropot eivät ainakaan kaipaa mitään! Paitsi ehkä yhteistä levykokoelmaamme... ja sitä punaista verkkapaitaa, jota sinäkin aina aamuisin käytit... ja makuuhuoneen laavalamppua tulee ehkä ikävä, mutta näiden lisäksi kropot eivät siis tarvitse yhtään mitään!~p~Katoa nyt silmistäni.
+0x0000049B Päivää, ~player_title~ ~player_creature_name~.~p~Tilastotiedot osoittavat, että valtakuntasi toimii jo kauppakapasiteettinsa äärirajoilla.~p~Voimme vain kieltäytyä tarjouksestasi. Parempi onni jatkossa.
+0x0000049C ~player_title~ ~player_creature_name~, hyvä että saavuit.~p~Tähtienvälinen kauppasopimus edellyttää ennakkosuunnittelua ja sitoutumista molemmilta osapuolilta. Analyysimme mukaan et todennäköisesti pysty suoriutumaan omista velvoitteistasi. Näin ollen meidän on kieltäydyttävä.
+0x000001DA Kiitti vaan tästäkin! Sinullahan on tuo lentovekottimesi. Mikset joskus käyttäisi sitä johonkin järkevään, kuten meidän auttamiseemme?
+0x000001DB Kiitos, että vaivauduit paikalle... Harmi, että tulit niin myöhään. Nyt tulostasi ei ollut mitään hyötyä. Koeta jatkossa vastata pyyntöihin ripeämmin.
+0x000001D9 Hei, missä oikein olit? Parempi, kun et ota tavaksesi hävitä aina, kun tulee ongelmia.
+0x000001D8 Eipä mitään.
+0x000001DC Tilanne ratkaistiin jo ilman sinun apuasi. Jatkossa toivomme sinun vastaavan kiireisiin avunpyyntöihimme ripeästi.
+0x000001DF Haa, ratsuväki saapuu! Valitettavasti vain niin myöhään, ettei siitä ole mitään hyötyä. Kun jatkossa pyydämme apua, voisit ehkä keskeyttää valssin läpi universumin ja kiinnittää huomiota ajan kulumiseen.
+0x000001DD Kaikki subjektiivisen aikavyöhykkeen 13 tiukuviisasta vahvistivat sinun saapuneen niin myöhään, ettei sinusta juuri ollut apua. Kiitos kuitenkin.
+0x000001DE Olet myöhässä. Olemme jo ottaneet käyttöön keskisuurten ja vakavien kriisien aikaan käytettävän hätätilaprotokollan. Jäljellä on enää paperitöiden hoitaminen, ja siitä selviämme kyllä itsekin, kiitos vain.
+0x000001D6 Otetaan pian uusiksi.
+0x000001D3 Myönteinen vastaus. ~player_species~ oli kovin avulias. Tässä perinteiden mukainen kiitos: kiitos!
+0x000001D4 TILA: Tilanne hallinnassa. ~player_species~ tarjoaa taustatukea. Alihankkijaa kohtaan osoitettava kohtuullista kunnioitusta.
+0x00000092 Avaa meille mielesi salat. Paten seuraajat kuuntelevat.
+0x00000093 Kuten uskonkääröissä sanotaan: "Käännytä älä kulkijaa, ennen kuin tiedät hänen matkansa tarkoituksen."~p~Mikä on matkasi tarkoitus?
+0x00000094 ~player_title~ ~player_creature_name~. On pakko sanoa, että jos et edes kerro meille, mitä oikein haluat, me emme voi auttaa sinua.
+0x0000009A Sano sanottavasi. Mitä haluat?
+0x00000109 Vau. Tämä tuli aika yllättäen.~p~Kaipa tämä on hyvä juttu. Emme halua riistää planeettamme luonnonvaroja liikaa.
+0x00000108 Etkö haluakaan enää jakaa rohtovarojasi meidän kanssamme? Harmillista. No, me jaamme resurssimme sitten niitä paremmin kaipaaville.
+0x00000107 Oletko kohdannut kropot? He ovat siis jossakin lähellä.~p~Meidän täytyy kutsua galaksin yleiskokous koolle.~p~Kropot suojelevat varmasti jotakin galaksin keskustassa olevaa.
+0x00000095 ~player_title~ ~player_creature_name~. Mikä on matkasi tarkoitus?
+0x00000096 Mitä oikein haluat? Nopeasti nyt. Älä haaskaa aikaamme.
+0x0000010D Kropojen hiljattainen hyökkäys jätti meille melkoiset traumat. Pitää istahtaa alas ja hengittää syvään.~p~Puhutaan myöhemmin lisää.
+0x000001C2 Tekosi puhuvat sanojasi voimakkaammin lajisi kunniasta. Kiitämme sinua sydämemme pohjasta.
+0x0000011F Tervehdys, kapteeni. Planeetta ~planet_name~ vaikuttaa valmiilta asutukselle.~p~Olemme valmiita palvelemaan sinua ja valtakuntaa.
+0x000001C4 No huh. Tässä olisi voinut syntyä rumaa jälkeä. Onneksi hoidit homman kotiin. Kiitos kaikesta.
+0x000001C7 Kiitos avusta. Emme varmasti olisi selvinneet ilman sinua. Muista, etten lyö vetoa kovin usein. Olen markkinaopportunisti, en uhkapeluri.
+0x000001C8 Kiitos, että pidät meidät leivänsyrjässä! Et uskokaan, kuinka paljon tuloja olisimme menettäneet ilman väliintuloasi.
+0x000001C6 Se oli upeaa, hienoa ja mahtavaa. Teoillasi on suuri merkitys, sanoilla ei. Kiitokset.
+0x000001C5 Tässä olisi voinut käydä huonosti. Taisit kuule pelastaa päivän. Olet kansamme sankari.
+0x000001BE Mikä ilon päivä! Parasta ettemme enää pohdi sitä, mitä olisi voinut tapahtua ilman apuasi. Kiitokset.
+0x000001BF Hurraa! Me selvisimme. Ketä voimme kiittää tästä? Ai, sinuako... No, olkoot. Tottahan sinä ansaitset kiitokset urotyöstäsi. Kiitos oikein paljon!
+0x000001BD Kiitos avustasi. Ilman apuasi emme olisi millään saaneet suoritettua kansanäänestystä siitä, perustetaanko kahden kiireellisen toimen valmistelukomitea.
+0x000001BB Kiitos. Julkaisemme heti kiireellisen hakemuksen virallisen kiitostiedotteen julkaisusta. Jos paperit käsitellään ripeästi, voimme odottaa ratkaisua kahden galaktisen standardivuoden kuluessa.
+0x000001BC Arvostamme apuasi suuresti. Katson, että tarjoamasi apu kirjataan Hyvien tekojen ja positiivisten toimien rekisteriin.
+0x000001C1 Kiitos, ystävä. Siunattu olkoon se, joka auttaa liittolaisiaan hädässä. Häntä itseään tullaan vielä hädässä auttamaan.
+0x000001C9 Kiitos avusta! Juuri tällaisten ulkoisten aputoimien ansiosta vakuutusmaksumme pysyvät kurissa.
+0x000001CD ~player_species~ auttoi meitä hätämme hetkellä. Kiitämme sinua tästä avusta.
+0x0000011D Terve, kapteeni! Olemme saapuneet turvallisesti planeetalle ~planet_name~ ja aloittaneet siirtokuntapaketin purkuprosessin.~p~Odotamme jo innokkaasti sitä, että pääsemme aloittamaan rohdonkeruun. Kuten varmasti tiedät, siirtokunnan tuottavuus paranee, kun sinne lisätään rakennuksia.
+0x000001F8 Pyydän anteeksi.
+0x000001F9 Siirtokunta planeetalla ~planet_name~ on aina ollut kiitollinen kaikesta mahdollisesta avusta. Katsotaanpa, mitä me keksimme pääsi keksimme.
+0x000001F7 Olen pahoillani. Vastaan ensi kerralla ripeämmin.
+0x000001FA Oletko valmis auttamaan planeetan ~planet_name~ siirtokuntalaisia? Katsotaanpa.
+0x000001FB Planeetan ~planet_name~ siirtokunta kaipaisi apuasi. Katsotaanpa, olisiko täällä sinua kiinnostavia tehtäviä.
+0x000001E9 Huh, se oli lähellä! Et uskokaan, että kuinka lähellä se oikeastaan oli. Olisit nähnyt tilanteen omin silmin, jos olisit tuonut silmäsi ajoissa paikalle. Sinun avullasi tilanne ei varmaankaan olisi ollut lainkaan tukala. Nyt se on kuitenkin aivan liian myöhäistä – kaikin tavoin.
+0x000001EA Liian myöhäistä tehdä mitään. Tämä jääköön meidän välillemme, mutta saisit olla kiitollinen, ettemme haasta sinua oikeuteen rikollisen myöhästelyn vuoksi.
+0x000001E7 Valitettavasti olet aivan liian myöhässä. No, ei se mitään, elämä jatkuu. Jatkossa pyytäisin sinua kuitenkin vastaamaan ripeämmin.
+0x000001EE ~player_species~ on myöhässä. Pahasti myöhässä! ~race~ on jo ratkaissut tilanteen.
+0x000001E4 On jo liian myöhäistä. Turha pyydellä anteeksi. Ajoissa tarjottu apu vastaa tuhatta anteeksipyyntöä.
+0x0000009D Olisiko mitään minulle sopivaa puuhaa?
+0x000001E3 Hoidimme tilanteen itse. Kiitos silti. Valitettavasti olet pahasti myöhässä ollaksesi enää avuksi.
+0x0000009C Haluaisin oppia lisää. Voitko auttaa asiassa?
+0x000001E2 Kaikki on jo ohitse. Kiitos, että ylipäätään saavuit paikalle. Valitettavasti mitään ei ole enää tehtävissä.
+0x000001E5 En haluaisi nalkuttaa, mutta voisit olla vähän... vastaanottavaisempi. Tiedät kai, mitä tarkoitan. Nytkin jäit paitsi kaikesta toiminnasta.
+0x000001E6 Luonto selviää aina, mutta ei se pistäisi apuakaan pahitteeksi. Asiat olisivat voineet mennä vähän paremmin, jos vain olisit ollut paikalla.
+0x000001F1 ~player_species~ tuli apuun, mutta liian myöhään. Pate rankaiskoon sinua myöhästelystäsi.
+0x000001F3 ~race~ poistuu taistelukentältä vahingoittumattomana. Kiitos ja kunnia olkoot Paten. Jos haluat päästä osalliseksi tulevista kunnian hetkistä, sinun tulee toimia ripeästi, kun sinulta pyydetään apua.
+0x00000179 Et millään voi lopettaa kauppaa juuri nyt. Tarvitsemme rohtoa maksaaksemme vuosittaisten tyrmäystanssikisojemme kulut.~p~Maksoimme jo DJ:n ennakon, ja pitopalvelukin aloitti jo paahdettujen zurppipalojen valmistuksen... Mmm... Zurpit ovat herkkua.
+0x0000017D Tiedot osoittavat tämän kauppasopimuksen olevan molemmille osapuolille hyödyllinen.~p~Päätöksesi ei ole looginen.
+0x0000017E Nämä ovat todella huonoja uutisia, kerrassaan hirveitä.~p~Arvostamme asiakkaitamme ja toivomme sinun harkitsevan asiaa uudelleen.~p~Ehkä voisit täyttää normaalin palautelomakkeemme?
+0x0000017C Päätöksesi on kovin epälooginen. Ehkäpä harkitset asiaa uudelleen, kun olet palannut järkiisi.
+0x0000017A Pate ei ole mielissään tästä. Rukoilemme puolestasi.
+0x0000017B Toivottavasti päätöksesi painaa omaatuntoasi. Rukoilemme puolestasi.
+0x0000017F Tämä vaikuttaa varmasti tuleviin tuloraportteihimme. Toivoisin, että harkitset uudelleen.~p~Kenet meidän pitää erottaa, jotta perut päätöksesi?
+0x00000159 Jaa, että tehtäviä. Ei, juuri nyt ei ole mitään.~p~On itse asiassa varsin hiljaista. Luulen, että on jonkin sortin juhlapyhä. Taidan itsekin sulkea vähän aiemmin – älä kerro kenellekään!
+0x0000015B Olisiko tehtäviä? Olisiko kenelläkään tehtäviä? Eikö kenelläkään?~p~Ei. Näyttää siltä, ettei täällä kerta kaikkiaan ole sinulle tehtäviä. Pahoittelut.
+0x0000015C Ai, tehtailijoita. Joo, niitä löytyy. Niitä on laatikollinen tuolla takana.~p~Hups, siis tehtäviä. Kuulin väärin. Ei. Tehtäviä ei ole juuri nyt. Teepä pikku pyrähdys tuolla hienolla aluksellasi, niin voit vaikka myöhemmin kysellä uudelleen.
+0x00000090 Kerro, miten voimme tehdä vierailustasi miellyttävämmän.~p~Autamme mielellämme kaikin tavoin.
+0x00000091 Mitä asiasi koskee?
+0x000001AF Kuulinko oikein? Kävit siis kropojen planeetalla ja tulit sitten tänne?~p~Voi ei, senkin hullu! Kauppa pitää heti sulkea. Ehdimme vielä paeta. Tästä seuraa takuulla hankaluuksia.~p~Matkaaminen niin lähelle galaksin keskusta on vaarallista.
+0x000001AE Kuulin, että kohtasit kropot eräällä heidän siirtokunnistaan. Onko se totta?~p~Ihan järjetöntä ja tosi siistiä samaan aikaan.~p~Kohtasimme kropot kerran matkatessamme kohti galaksin keskustaa. Ne tyypit eivät ole ihan luomuja.
+0x000001AC Kropon popo sentään! Kohtasit kropot ja olet yhä yhtenä kappaleena.~p~Omituista. Parempi, kun et tuo niitä outoja robottikamujasi meidän planeetoillemme.~p~Toivottavasti ne pysyy siellä keskuksessa niin kuin pitääkin.
+0x000001AD Kropojen kohtaaminen oli varmasti henkisesti vaikeaa. Sielusi kärsi kaiketi kovin.~p~Olisi varmaan parasta, jos liottaisit negatiivisen energian pois Puhtauden pyhässä altaassa.~p~Ah, mitä salaisuuksia galaksin keskukseen kätkeytyykään?
+0x000001B7 TILA: Yhteys luotu.
+0x000001BA Olet todellinen sankari! Emme tiedä, mitä oikein olisimme tehneet, jos et olisi tullut paikalle. Kiitos.
+0x000001B8 Kiitos saapumisesta. Ilman sinua tämä olisi ihan toivotonta. Arvostamme todella apuasi!
+0x000001B9 Kiitos avusta. Pelastit todella nahkamme. Tämä olisi ollut katastrofi ilman sinua.
+0x0000018E Sanotaan, että kaikki hyvä päättyy aikanaan. Ilmeisesti yhteistyömme loppu on nyt tullut.
+0x000001A1 Saan tästä hirveän päänsäryn!
+0x00000057 Tervetuloa, tervetuloa! On aina mukavaa nähdä ystäviä. Hetki, anna kun arvaan... On varmasti jotain, mitä tiedän sinusta. Olemme kai tavanneet aiemmin, eikö niin? En koskaan unohtaisi alusta, joka on yhtä mielenkiintoinen kuin omasi.
+0x00000027 Me antaudumme! Olkaa kilttejä, me...~p~Hei, katsokaas! Sehän on ~player_creature_name~! Mikä helpotus. Me kun luulimme, että kimppuumme hyökätään, ja yritimme toimia ennaltaehkäisevästi.~p~Oikeasti, kaverit. On ihan turvallista tulla esiin. Meitä ei sittenkään orjuuteta. Jatka vain.
+0x00000021 Hei, sehän on vanha vihollisemme, ~player_creature_name~! Mietinkin juuri lahoa ruhoasi ja sitä, mitä sinulle kuuluu? Ehkäpä minulla on jotain henkisiä kykyjä. Osaisinkohan lukea ajatuksesi?~p~Hei, ei tarvitse ajatella noin töykeästi. Itse olet ääliö!
+0x0000003B Bzzz. Luodataan...~p~Luodataan…~p~LAJI: ~player_creature_name~~p~VAARALLISUUSTASO: Alhainen.~p~MIELIHALUT: Tarpeeton tieto. – Järjestelmävirhe –
+0x000000BA Todistan arvoni teille keinolla millä hyvänsä. Näkemiin.
+0x00000003 Tervetuloa, hyvä elämänmuoto. On mukava saada älyllisestä seuraa, eikö vain? Nauttikaamme tästä hetkestä.~p~Mikä onkaan nimesi?
+0x00000001 Tervehdys, kapteeni. Siirtokuntasi planeetalla ~planet_name~ on nyt täysin toimintakykyinen.~p~Oli mukava asioida kanssasi.
+0x00000038 Ai, ~player_creature_name~.~p~Suonet anteeksi, mutta viime viikolla ~race_homeworld~ kärsi hankalasta loistartunnasta, jonka taltuttamisessa olen auttanut. On ollut vähän kiire.
+0x000000B7 Harjoittelen erästä toista oppia varten, mutta nyt kun ajattelen asiaa, niin tämä oppisuunta vaikuttaa kyllä kiehtovammalta.
+0x00000053 Meissä kaikissa sykkivä elämänlähde on jälleen synnyttänyt maailmaan uuden ihmeen, uuden älyllisen lajin. Tervehdys!~p~~race~ uskoo, että lajikartalla on oma sijansa jokaiselle. Jokaisen otuksen pitää elää harmoniassa luonnon kanssa. Matkammehan on yhteinen, joten miksemme jakaisi sitä? Millä nimellä kutsumme sinua, ystävä?
+0x00000024 Hauska tavata, ~player_creature_name~! ~race~ pitää sinua varmasti välittömänä tarinankertojana. Saammehan mekin nauttia tarinoista uroteoistasi ja seikkailuistasi tähdissä? Lupaamme kuunnella henkeämme pidättäen. Omat tarinamme vaikuttavat kertomustesi rinnalla latteilta kuin talvinen Pohjanmaailma.
+0x0000005A Tervehdys! Olet tehnyt pitkän matkan ja saavuttanut lopullisen ylimaallisuuden. Kuinka voimme auttaa sinua?
+0x0000001B Tervehdys, kapteeni ~player_creature_name~! Kotiplaneettamme ~race_homeworld~ toivottaa sinut avosylin tervetulleeksi.~p~Sinulla on varmasti huimia tarinoita kerrottavana. Koko ~race_homeworld~ odottaa innokkaana kuulevansa uusista seikkailuistasi. Oi, kerro meille, mitä olet nähnyt ja tehnyt.
+0x00000055 Tervetuloa, hyvä elämänmuoto. On mukava saada älyllisestä seuraa, eikö vain? Nauttikaamme tästä hetkestä.~p~Mikä onkaan nimesi?
+0x000000E6 Eiköhän tämä riitä.
+0x00000023 Ah, ystäväni! Mietinkin jo, että minne se häkellyttävän upea galaktinen sankarimme oikein hävisi. Hyvänen aika, olet tainnut laihtua! Vai oletko alkanut treenata? Joka tapauksessa näytät upealta. Niin kovin norja.~p~Tulisit ihmeessä käymään useammin. ~race_homeworld~ tuottaa niin herkullisia aineksia kunnon uppopaistoksille. Tule joskus vaikka illalliselle.
+0x0000003C Tervehdys! ~race~ tunnistaa sinut, ~player_title~.
+0x000000E7 Olemme harkinneet tarjoustasi, mutta katsoipa sitä miltä kantilta hyvänsä, se on hieman riittämätön.
+0x00000474 Kauppareitti kuulostaa tosi hyvältä. Rahdatkaa vain kaikki vappunenät ja virvokkeet meille!
+0x00000432 Vau! Ihan kuin mielemme olisivat synkassa. Oma Kashmir-komppaniamme aloitti jo hyökkäyksen kohteen kimppuun!
+0x00000644 Juuri nyt olemme keskittyneitä viettämään ylettömän ylellisyyden juhlaa! Kysy myöhemmin uudelleen, tähtikamu.
+0x0000065D Jaa, pitäisiköhän suunnata galaksin keskustaan?
+0x0000065E Sanotaan, että ilman itätuulen apua Jodorin kuu ei asetu linjaan Vanktar 7:n kanssa.~p~Jos toimit avustavana itätuulenamme, me saatamme muuttaa mielemme.
+0x00000562 Haluat siis tehdä varsinaisen rehkimisen sillä aikaa, kun me istutaan varjossa vaahtokarkkeja popsien. Kuulostaa hyvältä!
+0x00000528 ~race~ noudattaa elämänkääröjä.~p~Me seuraamme taivaita, taivaallista valoa ja tähtiä! Me olemme maa, me olemme vesi, ja me olemme ilma. Me uskomme universumin ja kaiken olevaisen tasapainoon. Olemme osa suurempaa kokonaisuutta, pieni osa kaikkeutta! Pian kerromme sinulle, mikä joukkoomme liittyviä odottaa...
+0x00000025 Bzzz. KOHDE: ~player_creature_name~. Kropot tuntevat lajin jo entuudestaan. LUOKKA: Vähäpätöinen. Kiitos rekisteröinnistä. – Loppu –
+0x000001EF ~player_species~ saapui apuun, mutta avun aika on jo ohi.
+0x0000010A Ei sitten. Emme me olisi halunneetkaan käydä kauppaa kanssanne.~p~Huokaus. Nyt tiukkana. ~race~ ei saa menettää kasvojaan asiakkaan edessä.~p~Älä itke. Älä vain itke…
+0x000000DA Selvä.
+0x000000CB Okei. Kiitos tiedosta.
+0x00000118 Innokkaat tieteilijät ovat asentaneet avaruusalukseesi SETI-laitteen, jonka avulla voit etsiä vieraita elämänmuotoja kaukaisilta planeetoilta. Valitettavasti sinun täytyy kuitenkin olla syvällä avaruudessa voidaksesi käyttää sitä.~p~Olemme kaikki häkeltyneitä siitä, että löysit muukalaislajin – olkoonkin sitten kuolleen sellaisen. Avaruuden syövereistä löytyy varmasti enemmänkin otuksia. Erityisesti nämä kropot kuulostavat mielenkiintoiselta ja mahdollisesti myös vähän vaaralliselta lajilta. Meidän pitää tutkia galaksin rikkauksia ja panostaa avaruustutkimukseen, jotta voimme laajentaa valtakuntaamme. Kapteeni, meillä on lukuisia tehtäviä, joita voit suorittaa kansasi puolesta: on siirtokuntien perustamista, tutkimusmatkailua ja vaikka mitä. Mistä haluaisit aloittaa?
+0x00000086 Oi, jalo ~player_creature_name~. Kerro meille, mitä halajat.
+0x00000085 Oi, jalo ~player_creature_name~. Kerro meille pyyntösi.
+0x00000084 Oi, jalo ~player_creature_name~. Miten voimme auttaa tänä päivänä?
+0x0000037A Jalomielinen lahjasi pistetään hyvään käyttöön. Kumpi kuulostaisi paremmalta: järvi täynnä dippikastiketta vai kokonaan kauniin kukertavaksi maalattu planeetta?
+0x00000340 Pate siunaa siirron, mutta vain jos teet lahjoituksen Paten temppelille. Haluatko siis edesauttaa tätä siunausta?
+0x00000000 Olen lajin ~player_creature_name~ edustaja ja aikeeni ovat hyvät.
+0x00000666 Tule, oppilaani. Tule ja opi kaikki lajistamme. ~race~ noudattaa tiedeoppia, tiesitkö? On meidän velvollisuutemme tutkia meitä ympäröivää todellisuutta ja arvioida tieteen keinoin sitä, mikä ei ole järjellä selitettävissä. Tiede on universumin ainoa totuus, ei uskonto eikä voima tai valuutta. Tiukat tosiseikat ratkaisevat. Faktat ovat meidän jumaliamme.
+0x00000664 Kuules, kaveri. Me kerrotaan sulle homman nimi. ~race~ ollaan me, ja me seurataan elämänkääröjen oppeja. Me uskotaan, että sä olet osa meitä, ja me sua. Me ollaan kaikki osa samaa kokonaisuutta. Jokainen otus, kasvi, eläin, avaruuden tähti ja taivaan pilvi on osa toisiinsa liittyvää kokonaisuutta! Meillä on käytössä laite nimeltä safarisieppari. Se sieppaa kerralla planeetan kaikki kasvit ja eläimet. Näin ne on helppo liittää elämän kehään.
+0x00000665 ~race~ olemme me, ja seuraamme ainoaa oikeaa oppia: uskonoppia. Turma niille, jotka eivät jaa uskoamme Paten pyhyyteen, sillä he ovat vain harhaoppisia oikeamielisyyden valossa. Jos nyt kadut tekojasi ja myönnät avoimesti harhaoppisi, saatamme armahtaa sinut ja auttaa sinut totuuden tielle.
+0x0000066B Kysyikö ~player_creature_name~ lajistamme? Silloin ~player_creature_name~ kysyi voimasta. ~race~ vastaa kysymyksiisi.~p~Voima on vahva kuin kivi. Myrskyjä tulee, myrskyjä menee, mutta kivi kestää. Kivi on luja, kivi ei liiku, kivi ei murru. Kaikki muu murtuu kiven alla. Kivi murskaa, kivi ei murskaudu.~p~~race~ on kivivuori. Aina vahva, ei koskaan yksin. Jos vihollinen tulee, me taistelemme yhdessä. Me emme murru. Jos vihollinen ei tule, kivi menee vihollisen luo ja murskaa sen! Sellainen on voiman tie.
+0x00000529 ~race~ on nimemme. Me noudatamme elämänkäärön oppeja.~p~Näiden oppien mukaan velvollisuutemme on turvata luonnon pyhyys. Meidän tulee istuttaa ja kasvattaa elämää. Me niitämme vain rauhaa ja muistoja. Me täytämme tyhjiön elämällä. Pian kerromme sinulle, mikä joukkoomme liittyviä odottaa...
+0x00000531 ~race~ olemme me. ~player_creature_name~ haluaa tietää, miksi olemme kuten olemme.~p~Vastaus on voimaopissa. Miten olemme selvinneet? Aina toiset haastavat, haluavat viedä sen, mikä on meidän. Voimaopin avulla voitamme aina. Kun vihollinen hyökkää, me taistelemme, ja me taistelemme paremmin. Me taistelemme yhdessä ja voitamme. ~race~ on sellainen! Voimaoppi on sellainen.~p~Joka tuntee voiman, se tietää olevansa vahva yksin, mutta vielä vahvempi kumppanien kanssa.~p~Voimaoppi tuo apua taisteluun.
+0x0000052F ~race~ seuraa tieteen kääröjä.~p~Me uskomme, että lajien säilyminen pohjaa riskinhallintaan. Miten arvioidaan riskit? Tutkimalla ja taustatietoja keräämällä tietenkin. Tieteen poluilla ei ole varaa ailahteluille. Me tutkimme kaikkea elämää ja olevaista, joten käytämmekin tieteen keinoja tuottaaksemme gravitaatioaallon, joka tuhoaa tieteen viholliset.
+0x0000052C ~race~ olemme me, ja me noudatamme Paten sanaa ja uskonopin sanomaa. Emme olleet uskoa korviamme, kun kuulimme tulostanne ja siitä, ettette noudata Paten oppeja. Miten se on mahdollista? Se on uskomatonta!
+0x0000052D ~race~ olemme me. Uskomme totuuteen ja noudatamme uskonopin doktriineja. Sinunkin kannattaisi uskoa meidän tavallamme, sillä me molemmat kyllä tiedämme, että vain me olemme oikeassa. Ylistetty olkoon Pate!
+0x0000052E ~race~ seuraa tieteen kääröjen opetuksia.~p~On velvollisuutemme tutkia, analysoida ja havainnoida kaikki ympärillämme oleva. Etsimme tietoutta ja uskomme vakaasti, että jokaiseen kysymykseen voidaan vastata tutkimuksen, järjestelmällisen luokittelun, päättäväisyyden ja loogisen päättelykyvyn avulla. Tieto on meidän polttoaineemme, ja universumissa ei ole suurempaa kutsumusta kuin oppiminen. Ne, jotka yrittävät estää tieteen voittokulkua, tekevät sen oman henkensä uhalla.
+0x000001A4 ~race~ olemme me. Me seuraamme sattumaopin teitä. Emme tyydy seuraamaan massaa tai pukeutumaan ja käyttäytymään konventionaalisesti. Sen sijaan me nauramme ja laulamme ja tanssimmekin, jos vain kasviemme keskellä on siihen tilaa.~p~Pian kerromme sinulle, mitä voit odottaa, jos liityt meidän joukkoihimme.
+0x00000013 ~race~ vaatii sinua esittämään asiansa, sillä olet turvavyöhykkeellämme. Annahan kuulua.
+0x0000028D ~race~ olemme me. Vastustamme aggressiivisuuttasi ja luonnotonta elämäntyyliäsi.
+0x0000028E ~race~ on omistautunut järjen ja tietämyksen tavoitteluun, kuten näkyy. Emme kuitenkaan ole varmoja, täytätkö nämä vaatimukset.
+0x0000001E ~race~ rukoilee taivasta kääntäköön kasvonsa lajimme puoleen! Jälleen yksi muukalaislaji on katsonut meidät ensikontaktin arvoisiksi. Tämä on mitä suotuisin tapahtuma. Juhlan kunniaksi me illastamme maukkaimpia ruokiamme, laulamme iloamme yöhön, tanssimme ja lyömme lystiä aamuun saakka.~p~Runoniekkamme kirjatkoon kaiken tämän ylös, jotta tulevat sukupolvet voivat muistaa tämän suuren päivän.
+0x0000001C ~race~ tervehtii sinua.~p~Sinä et näytä olevan kaltaisemme, mutta toivomme sinun olevan ainakin viihdyttävä.
+0x00000016 ~race~ tarvitsee vapaaehtoisen vivisektioon. Kiinnostaisiko sinua? Lupaan, ettei se satu.
+0x000001D7 Eipä kestä.
+0x0000006D Mitä ihmettä? Mitä haluat?~p~Mikä siinä on, että aina on joku galaksia tutkiva toope pyörimässä jaloissa ja ottamassa ensikontaktia. ~race~ ei ole ainut laji galaksissa, ettäs tiedät.~p~No olkoot, kunhan pysyt poissa pihanurmeltamme.~p~Jos rantapallosi lentää pihallemme, pidämme sen itsellämme!
+0x00000066 ~race~ käskee sinua pysähtymään! Tullimme pitää tarkistaa kaikki matkalaiset.~p~Ilmoita nimesi. ~race~ odottaa.
+0x00000064 Seis. ~race~ koostuu totuuden seuraajista ja oikeuden palvelijoista. Me harkitsemme oikeamielisyyttäsi.~p~Millä asialla liikuitkaan?
+0x000002E3 Pitkä etsintäsi on tuottanut tulosta. ~race~ toivottaa sinut tervetulleeksi.~p~Olemme toiveikkaita siitä, että uudet voimasi auttavat kropojen nujertamisessa.
+0x00000011 ~race~ ja sen suurneuvosto tervehtii sinua.~p~Olemme mielissämme, kun saamme tavata toisen älyllisen lajin. Voimmeko nyt tarkistaa henkilötietosi ja matkalupasi?
+0x000002BA ~race~ on sulkenut basaarinsa juuri nyt, mutta kaipa me voimme avata sen, jos ~player_title~ lupaa ostaa jotain.
+0x000002AE ~race~ ja ~player_title~ ovat aina kohdelleet toisiaan kunnioituksella. Tervehdimme ystäväämme kunnioittaen.
+0x000002B0 ~race~ ihmettelee, miksi ~player_title~ on saapunut lajimme alueelle?
+0x000002AA ~race~ tahtoo auttaa ystäväänsä, ~player_title~. Sopiiko?
+0x0000000C Olemme mykistyneitä! ~player_creature_name~ on universumissa kuin kala vedessä.~p~~race~ tässä vaan. Uskomme, että onnellisuus on universaalia valuuttaa. Parhaiten onnellisuutta voi tuottaa vapaalla ja rajoittamattomalla kaupankäynnillä, jossa kaikki osapuolet hyväksyvät kaupat ja tulevat niistä onnellisiksi.~p~Miten voimme tehdä sinusta onnellisen? Haluaisitko ehkä tutkailla tuotteita kauppakeskuksessamme?
+0x0000000D Sinä pakanallinen muukalainen, vapise. ~race~ puhuu nyt kanssasi.~p~Paljasta, mikä luulet olevasi, niin harkitsemme kohtaloasi.
+0x00000327 ~race~ olemme me, ja sattumaoppia toteutamme. Me ei turhista säännöistä piitata, niille tapana kintaalla on viitata. Me yhtenään lystiä lyömme, ja pitkiä ovat yömme. Jos hyvän tuulemme annat talttua, me teemme susta palttua.~p~Pian lisää kerromme näistä meidän opeistamme...
+0x00000328 ~race~ olemme me, ja sattumaopin polkuja tallaamme! Näin ulkonäkömme pettää saattaa, sillä emme oo sakkia sotaisaa. Päinvastoin, ilo ompi elämämme, mink' ruoalle ja laululle pyhitämme. Ystäviä arvostamme, syömme heitä lounaanamme. Herkullista kerrassaan!~p~Sitä tulokkaille luvataan, kuten pian kerrotaan...
+0x000002A0 Tervehdys, ~player_title~. ~race~ on iloinen tavatessaan sinut.
+0x00000299 Hyvä ~player_title~. ~race~ ja sen suurneuvosto on iloinen voidessaan toivottaa sinut tervetulleeksi lajin kotimaailmaan.
+0x0000052B ~race~ on tyytyväinen talousoppiin, sillä sen ansiosta arvostamme kaikkea! Arvostamme omaa valtakuntaamme ja muiden valtakuntia, arvostamme tyytyväistä kansaa, arvostamme tyytymätöntä kansaa. Eniten arvostamme kuitenkin voittomarginaalia ja kaikkia niitä asioita, jotka kasvattavat voittomarginaaliamme.
+0x000001D0 On Paten tahto, että ~player_creature_name~ tuli avuksemme hädän hetkellä! Kiitos olkoon Paten ja sinun, ~player_creature_name~.
+0x000001CB ~player_title~ ~player_creature_name~, autoit meitä suuresti. Kiitos vaivoistasi.
+0x000001CC ~player_title~ ~player_creature_name~, olemme sinulle suuren kiitoksen velkaa. Emme unohda apuasi.
+0x000001B5 ~race~ on kunnioitettu voidessaan olla kaltaisesi suuren otuksen vaikutuspiirissä.~p~Sanotaan, että ~player_creature_name~ vieraili kropojen luona pelkäämättä.~p~Jos ~player_creature_name~ todella haluaa koetella rohkeuttaan, hänen tulisi yrittää galaksin keskukseen.
+0x000001B6 Pate on ennustanut, että jotain päivänä sankari tulee vapauttamaan meidät kropojen uhasta.~p~~player_creature_name~ saattaa hyvinkin olla tuo sankari, sillä hän kohtasi kropot ja on yhä elossa.~p~Ennustus kertoo, että vastaukset kaikkiin kysymyksiin ovat galaksin keskipisteessä.
+0x000001B0 ~player_title~ ~player_creature_name~, tietojemme mukaan olet kohdannut kropot.~p~Mekin olemme tutkineet lajia ja mysteerejä, jotka liittyvät galaksin keskukseen.~p~Onnea tutkimuksillesi.
+0x000001F4 Avunpyynnön peruminen. ~player_creature_name~ ei vastannut pyyntöön ajoissa. Ei välitöntä tarvetta jatkoapuun.
+0x000001F5 TILA: Tilanne hallinnassa. SELVITYS: ~player_creature_name~ oli ratkaisun kannalta hyödytön.
+0x000001EB ~player_title~ ~player_creature_name~, epäonnistumisesi nopeassa toiminnassa on vaarantanut tutkimuksemme. Arvostaisimme jatkossa suurta ripeyttä.
+0x000001E8 Kiitos, että tulit, mutta tässä vaiheessa tappiot on jo merkitty kirjoihin ja ylpeys nielty. ~player_creature_name~ on varmasti hyvin kiireinen ja keksii itselleen muutakin tekemistä.
+0x000001EC ~player_title~ ~player_creature_name~, on liian myöhäistä auttaa mitenkään. Jos pyydämme toiste apuasi, toimi ripeästi.
+0x000001ED ~player_title~ ~player_creature_name~, tilanne on jo ratkaistu. Johdonmukainen myöhästelysi ei ole hyväksyttävää.
+0x000001F6 Tilanne ratkesi ilman apuvoimia. ~player_creature_name~ ei ollut läsnä toivottuna aikana.
+0x000001D5 Apu vahvistettu. ~player_creature_name~ ansaitsee kiitokset avustaan. – Loppu –
+0x000001D2 ~race~ kiittää sinua. ~player_species~ muistetaan ikuisesti avuliaisuudesta hädän hetkellä.
+0x00000523 ~player_title~ ~player_creature_name~ on antanut pyhän lupauksen. ~race~ muistaa kyllä.~p~Oletko epäluotettava petturi, vai onko tehtävälokisi ehkä rikki?
+0x00000587 ~player_species~ voi valita voimaopin vain, jos hän todistaa vakaumuksensa. ~player_species~ peruuttakoon kaikki muut koulutuksensa. Tee tämä ja palaa sitten asiaan.
+0x0000010F Jiihaa! Aloitit urasi untuvikkokapteenina, mutta nyt olet oikea ~player_title~. ~p~~player_creature_name~ iloitsee suuresti.~p~Käytä uusia supervoimiasi viisaasti.
+0x000001CA ~player_title~ ~player_creature_name~, apuasi arvostetaan suuresti. Tekosi merkitään varmasti kirjoihin ja kansiin.
+0x0000001F Kappas vain. Eikös se olekin suosikkireissaajamme? ~player_creature_name~ on aina tervetullut vieras tänne siirtokuntiin. Toivottavasti sinulla on nälkä, sillä pistimme padan tulelle heti havaittuamme poimumoottorisi säteilyjäämät. Pian syödään niin, että napa ruskaa.
+0x0000065B Kohtasitko kropot? Ja olet yhä hengissä!~p~~player_creature_name~ laulaa sinulle ylistystä.~p~Meidän täytyy tuhota kropot jos aiomme ikinä saada selville, mitä salaisuuksia galaksin keskukseen kätkeytyy.
+0x00000028 ~player_creature_name~ on mitätön hippu kosmisessa yhteydessä! Sinä ja kansasi saatte pian tuta, millaista elämä on. ~race~ tulee hallitsemaan sinua rautaisella tarttuimella. Valmistaudu kurjuuteen. Kaikki tuntemasi tulee muuttumaan tuhkaksi. Me tuhoamme kaiken!
+0x000002EC ~race~ taistelee yhä universaalin lajikartan puolesta. Ei sillä väliä, miten paljon voimasi ovat kasvaneet.
+0x00000316 Haluan maankaltaistaa jotakin.
+0x00000293 Varoituksen sana on paikallaan. ~race~ käyttää kauppakeskuksemme kattavaa asejärjestelmää puolustaakseen itseään! Päähäsi kohdistettuja lasereita ei tule tulkita vihamielisesti.~p~Toki me myös myymme niitä sopivaan hintaan.
+0x00000524 Kuinka kehtaat palata kropojen luo ilman pyytämäämme!~p~Me emme vaivaudu toistamaan sanojamme. Tehtävälokissasi on kyllä riittävästi tietoa.
+0x00000525 Tehtävälokiin kirjatusta käskystämme huolimatta et ole saanut asioita hoidettua. Sinun on suoritettava tehtävä välittömästi.
+0x00000534 ~race~, tervehdys. Hauska tavata.
+0x000001F0 ~player_species~ saapui liian myöhään auttaakseen meitä. ~player_species~ on parasta olla ensi kerralla ajoissa.
+0x000001F2 Kiitos Paten, hoidimme tilanteen itse. ~player_species~ ei luonnollisesti ansaitse kiitosta, sillä heidän ajankäyttönsä on tehottomuudessaan surullisenkuuluisaa.
+0x000001C3 Universumissa ei ole suurempaa urotekoa, kuin auttaa toista hädässä. ~player_species~ on tästä lähin kunnioitettu ystävämme. Lajisi ansaitsee nöyrimmät kiitoksemme.
+0x000001C0 ~player_species~ kauan eläköön! Ylistämme nimeäsi laululla, jota laulamme päivittäin niin, ettei tapahtunut pääse unohtumaan keneltäkään!
+0x000001CE ~player_species~ auttaa. Me kiitollisia. ~player_species~ ansaitsee kiitokset.
+0x000001CF ~player_species~ saapui auttamaan lajiamme. ~race~ kiittää nöyrästi.
+0x000001E1 "~player_species~ kauan eläköön!" Näin olisimme saattaneet huutaa, jos olisit tullut apuun ajoissa. Nyt on aivan liian myöhäistä.
+0x000001E0 Kerronpa sinulle tarinan. ~player_species~ asusteli galaksissa ja tällä oli liittolainen. ~race~ nimeltään. Kerran liittolainen tarvitsi ystävänsä apua, mutta ei sitä saanut ja pettyi kovin. Tiedät varmaan itsekin, miten tarina jatkuu.
+0x000001D1 ~player_title~ ~player_species~ olkoon tuhannesti ylistetty. ~race~ kiittää sinua avustasi.
+0x00000063 Hyvänen aika sentään! Säikäytit meidät. Varoittaisit vähän ennen kuin ryntäät tekemään ensikontaktia. ~race~ voisi vaikka kärsiä sydänvaivoista. Koko lajimme saattaisi menehtyä kerralla, ja kaikki vain siksi, että sinusta on kiva yllättää uusia lajeja. Miettisit vähän pidemmälle!
+0x0000006E ~race~, tervehdin teitä. Hauska tavata.
+0x00000670 ~race~ uskoo vakaasti talousoppiin. Se opettaa meidät huolehtimaan omista asioistamme ja huolehtimaan niistä hyvin. Universumista ei löydy toista valtakuntaa, jonka kustannustehokkuus vetäisi meille vertoja.~p~Laji ~player_creature_name~ on varmasti täynnä fiksua väkeä, ja hoidatte varmasti valtakuntaanne erinomaisesti. Turha olla vaatimaton, tiedän tämän todeksi. Muutenhan emme nyt puhuisi asiasta.~p~Vain universumin fiksuimmat lajit tulevat luoksemme ja pyytävät, että ~race~ auttaa heitä taloudellisissa asioissa. Vain lajeista fiksuimmat ilmoittautuvat talousopin harjoittelukurssillemme. Tarjoamme myös erityisiä ryhmäalennuksia – jos siis satut tietämään muita taloudenhoidosta kiinnostuneita valtakuntia. Maksettuja kurssimaksuja ei palauteta.
+0x0000027F Kapteeni, oletko valmis laajentamaan valtakuntaasi ~player_creature_name~ syvemmälle galaksiin?~p~On paljon tehtävää ja paljon opittavaa.~p~Millaista tehtävää siis etsit seuraavaksi?
+0x00000289 ~race~ on nimi, jota lajistamme usein käytetään. Ylpeä kansamme noudattaa järjestysopin doktriineja. Kun emme solmi diplomaattisia liittoja, suurneuvostomme perustaa alakomiteoita päättämään tärkeistä sisäpoliittisista asioista. Hallintomme on tehokas ja toimiva, sillä kaikelle on paikkansa ja tarkoituksensa.~p~Oppimme kannattajilla on käytössään superase nimeltä staattinen lukko. Se pysäyttää kaikki maanpäälliset puolustusaseet. Täytyyhän tykit hiljentää, jotta liitto voidaan luoda. Kröh.
+0x000000B6 Tämä liitto ei enää hyödytä planeetan ~player_homeworld~ kansaa.
+0x0000066C Hahaha! Kysyikö ~player_creature_name~ lajistamme? ~race~ voi kyllä vastata kysymyksiisi, mutta huomaamme, että ~player_creature_name~ on hermostunut. ~player_creature_name~ pelkää, pelkää lajiamme. Pelko on hyvä. Kaikkien lajien tulee pelätä ja kunnioittaa sitä voimaa, jota edustamme.~p~Me noudatamme voimaoppia. Olemme voimakkaita ja mahtavia, ja meitä on paljon. Voima tekee meistä vahvoja ja takaa meille voiton taistelukentällä.~p~~race~ on voimakkain, kuka muka meidät päihittäisi? Joskus toiset luulevat olevansa voimakkaampia. He ovat aina väärässä. On vain yksi laji, jota emme voita, mutta se ei ole sinun lajisi.
+0x0000066F ~race~ koostuu yksinkertaisesta väestä, sillä universumi on yksinkertainen paikka. Meitä kiinnostavat yksinkertaiset asiat. Meillä on tässä maailmassa vain yksi elämänohje: talousopin noudattaminen. Yksinkertaisempaa oppia ei olekaan.~p~Jos ihan totta puhutaan, niin parasta oppimme laintaulussa ovat konkreettiset kirjanpito-ohjeet. Totta kai siinä on myös ohjeet myös voittoennusteiden tekoon, ja kukapa voisi unohtaa niitä kauniita säkeitä kauppataseesta ja markkinasegmenttien kustannusanalyyseista. Suosikkilukuni on kuitenkin analyysi aurinkotuulen vaikutuksista pan-galaktisen valtakunnan kuukohtaisesti lokalisoitujen tuotteiden kysynnän vaihteluun.~p~~race~ koostuu totisesti yksinkertaisesta väestä, jolla on yksinkertaiset voittotavoitteet.
+0x0000066E ~race~ olemme me, ja me seuraamme harmoniaoppia. Ne, jotka kulkevat samalla polulla kanssamme, ovat löytäneet sisäisen rauhan kaiken alkupisteestä: kotoa.~p~Sisäisen kauneutemme korostumisen lisäksi harmoniaopin seuraaminen tuo muitakin hienoja etuja, kuten paluulipun mahtavan voiman. Sen avulla voi siirtyä mistä tahansa universumin kolkasta takaisin kotiin.
+0x00000527 ~race~ on nimemme. Me seuraamme harmoniaopin teitä. Kaikki olevainen kuuluu harmonian kehään ja voi muuttua osaksi harmoniaa.~p~Harmonia tarjoaa meille paluun alkupisteeseen, sinne mistä matkamme alkoi. Kun on harmoniassa universumin kanssa, voi siirtyä silmänräpäyksessä mistä tahansa universumin kolkasta omaan kotimaailmaansa, omaan harmoniapisteeseensä.
+0x00000325 ~race~ olemme me, ja toteutamme järjestysoppia. Kun vierailet suurneuvostomme pakeilla, kiinnitä huomiota neuvostosalin oveen kaiverrettuun mottoon: "Rauha seuraa järkeä ja järjestystä". Me pyrimme tuomaan kaikki kansat, lajit ja valtakunnat järjestyksen pariin.~p~Tarjoamme kannattajillemme staattisen lukon superasetta. Se neutralisoi viholliskaupunkien tykit, jotta me pääsemme puhumaan järkeä heidän johtajilleen.
+0x00000326 Lajistamme käytetään montaa nimeä. ~race~ me kuitenkin olemme. Eri nimien avulla luokittelemme nimiä käyttävät lajit. Huomaat varmaan, että seuraamme järjestysopin teitä. Neuvostomme ylläpitää harmoniaa ja päivittää kaikkia galaksin lomakkeita ja kalentereita. Kehitystä pitää voida mitata ja valvoa, sillä ilman järjestystä kaduilla vallitsee kaaos.~p~Meillä on käytössämme myös superase, jota kutsutaan staattiseksi lukoksi. Sen avulla voi hetkeksi pysäyttää kaikkien reuhaavien kaupunkien tykit, ja tämän yksipuolisen aselevon turvin voidaan neuvotella rauhanehdoista... sekä täyttää kaikki lomakkeet ajoissa ja kolmena kappaleena.
+

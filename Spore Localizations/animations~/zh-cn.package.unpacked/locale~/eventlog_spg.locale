@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x067710B2 ~star_name~星系的~planet_name~星进化到了部落阶段！
+0x06771164 ~star_name~星系的~planet_name~星进化到了文明阶段！
+0x06771171 ~star_name~星系的~planet_name~星进化到了宇宙阶段！
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 解锁徽章
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 要使用这个工具，必须先找一只动物！
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 您获得授权，将同盟船只加入舰队。
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A 此工具只能适用于帝国行星。
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD 殖民地距离香料太远。
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 这个工具无法在海上使用。
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 收集的香料
+
+#standard....
+
+0x0000003C You've failed at getting this city to worship you. Try another. [not in use]
+0x0000003B Every city on this planet now worships you!  [not in use]
+0x0000003F ~race~和~race2~形成了同盟。
+0x04BD78A0 您的同盟已经帮助您了！
+0x04D28917 现在有新的工具可以使用了。
+0x00000001 您不能在自己的母星使用这个工具。
+0x04BD78A5 这颗星球上没有您的同盟能帮您对抗的敌人。
+0x00000031 这颗行星已经被占领了。
+0x0580C3FA 这个工具只能使用在其他帝国的行星上。
+0x00000027 直接将诱捕的家伙扔下来会摔死的。请在放下来的过程中温柔一点。
+0x00000042 您的格洛克斯表针移动到了“有什么可怕的。我该害怕吗？”
+0x0591CCD6 您发现了一颗独特的行星！
+0x0000002F 殖民地不能在水下建设，请放置在地面上。
+0x04BD7870 没有任何同盟能向你提供援助！
+0x00000044 您的格洛克斯表针移动到了“有点可怕”
+0x0000003E ~race~和~race2~签订了和平协议。
+0x06170F80 此工具需要目标才能开火。
+0x0000002D 直接将生物扔下来会摔死的。请在放下来的过程中温柔一点。
+0x00000029 这种植物的体积不适合本地的生态环境，请选择其它尺寸的植物。
+0x05790C96 ~race~的通话请求！
+0x0000002B 这个物种不能在水中生存。请将他们放在陆上。
+0x0000002C 草食动物无法在这颗行星上生存。请添加更多植物。
+0x061DBC92 目标超出范围。
+0x0000002A 植物不能在岩浆中生存。请将他们放在地上。
+0x00000043 您的格洛克斯表针移动到了“有什么可怕的。我该害怕吗？”
+0x00000040 ~race~和~race2~的同盟破裂了。
+0x0000002E 动物不能在岩浆中生存，请将他们放置在陆地上。
+0x00000028 植物不能在水下生存。请将它们放在陆地上。
+0x0000000C 飞到一个您的安全殖民地对飞船进行修理。
+0x0000001C 您的货舱满了，您需要更多的空余栏位。
+0x00000003 您的同盟派遣了一艘新飞船加入您的舰队之中。
+0x0000001D 您找到了~count~个~tool_name~！
+0x0000001E 此行星上的某些东西已经因为T值下降被毁灭。
+0x00000034 您没有足够的钱使用这个工具。
+0x00000035 我们的一艘同盟飞船被摧毁了！
+0x00000046 您的格洛克斯表针移动到了“令人发狂”
+0x065BCDA0 警告：从其它行星偷取物品会激怒相应帝国。
+0x0000001B 生命维持系统严重损伤！
+0x00000011 啊！~planet_name~被海盗袭击了。
+0x0000000F 在您提升T值之前，这颗行星无法支持更多殖民点。
+0x0000000E 您的调查成功了。所有资料都被加入到您的Spore百科中。
+0x00000047 您的格洛克斯表针移动到了“有点可怕”
+0x0000000D ~planet_name~的T值现在到达~terraform_level~。
+0x00000032 通过添加一个建筑省级您的殖民地。
+0x00000020 ~generic_name~物种已经因为没有植物而灭绝了。
+0x00000021 ~generic_name~已经灭绝了。
+0x00000002 由于您已经提供了足够的援助，您的一艘同盟飞船已经返回。
+0x00000048 您的格洛克斯表针移动到了“令人发狂”
+0x0541A219 您稳定了行星的T值。
+0x04EA4FD9 您的扫描器没能鉴定出此星球生物。回到母星报告这个情况。
+0x04EA4FD8 您将这颗星球提升到了T1，借此杀死了这颗星球上的格洛克斯！
+0x0000004A 这对于货舱来说毒性太大了。正在焚毁……
+0x04E3AB1A 您不能将它放在殖民地内。
+0x00000026 散布这些消息，但是请一个一个行星慢慢来。
+0x0637C896 这是一个陷阱！您被海盗偷袭了！
+0x0000003A 您不能在此殖民。~star_name~星系已经是其他物种的家了。
+0x04E39F9A 您每颗星球上只能有一个！
+0x04E3AAFD 这个物品必须放在陆地上。
+0x00000045 您的格洛克斯表针移动到了“有点可怕”
+0x00000016 您摧毁了自己的建筑！
+0x04E38CF9 这个工具只能使用在殖民星球上。
+0x00000019 回到您的母星。一项新的任务正等待着您。
+0x00000023 敌人的飞船已经被摧毁！
+0x04F7B80D 您要提升~planet_name~的T值来保证生存。
+0x00000018 您已经在~planet_name~建立了一个殖民地！
+0x06037BB6 这个行星上的某些东西因为水位上升而灭绝了。
+0x00000036 传说中的新神器被发现了。
+0x00000022 ~generic_name~物种因为饥饿而灭绝。
+0x04F615F5 您必须离开此星球才能储存。
+0x0000001A 您和~race~的同盟破裂了。
+0x04F7B030 食肉动物无法在此星球存活，请添加更多食草动物。
+0x04F77C3E 此物种已经在本地存在。
+0x0591CCD5 您发现了一种稀有天体的形成。
+0x0541A247 您完成了生态系统的一个部件，这将增强您的殖民地。
+0x00000005 在~planet_name~上的崇拜者成为了科技文明。  [not in use]
+0x00000017 ~planet_name~的所有部落崇拜你！ [not in use]
+0x00000006 假先知！ 这个部落认为你就是信仰真是可笑。 [not in use]
+0x0000001F ~generic_name~灭绝了。 You are placing things too close to each other. Try placing on the other side of the planet. [not in use]
+0x0000000B 你的考察队已经破产了。 等着拖车吧。 [not in use]
+0x066F10B8 来自殖民地的来袭警告！
+0x066F10AB 来自母星的来袭警告！
+0x06707FAA 该生态系统已经饱和，无法再为另一个物种提供生存环境。
+0x057F4C52 您没有足够能量使用这件工具。
+0x00000041 ~race~被摧毁了。
+0x06159AE6 ~race~失去与你结盟的兴趣，去拜访他们吧。
+0x00000010 您找到了~rare_name~。这些是~rare_count~个~rare_group~。
+0x05C2BC26 您在离开星星之前至少要填满第一行的动植物！
+0x00000037 如果您继续涉及他们的话，他们可要还击了。
+0x04ED0A12 您得到了42个起源装置并发现了一种新的天体存在。
+0x00000008 在这个行星上的~count~个~tribe_count~~^p^count^tribe^tribes~现在~^p^count^worships^worship~你！ [not in use]
+0x00000049 ~race~由于我们的关系问题取消了任务。
+0x0000003D ~race~对~race2~开战了。
+0x00000004 ~race~已经向我们宣战。准备战斗。
+0x065BCDA7 警告：诱捕市民会激怒当地的帝国。
+0x00000025 ~race~控制了~star_name~星系并殖民了新的行星！
+0x06527A69 您和~race~的商路中止了。
+0x05483AB4 您将~creature_name~添加到了野生生物避难所中。保护区可以存放~animal_count~/~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~只动物。
+0x06527A66 ~race~对商路失去兴趣了。请增加您们的关系！
+0x0567757C 您在~star_name~星系的商路对您有好处，或许~race~会接受今后的外交动议。
+0x05807D8E ~race~停止了和我们的战争。
+0x00000039 ~count~ of ~city_count~~^p^count^city^cities~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000024 ~race~对~star_name~星系失去了控制。
+0x0637C897 已收集：~tool_name~。
+0x0546A708 此野生生物避难所无法容纳更多动物。
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 此工具不能对于帝国行星使用。
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 殖民地必须接近香料。
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 您不能在野生生物避难所的星球上使用此工具。
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 这个工具无法使用在荒野行星。
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 此工具无法在城市上使用。
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x0654C9DF 这颗行星已经投降了，但是本星系还有其它行星。
+0x0654CA48 一座城市向你投降了。
+0x065BFFFA 你没有空间放置香料了。
+0x064C024E You must raise the T-Score on the planet to enter the Colony Planner. [not in use]
+0x065BAC9F 您不能在史诗生物上使用此工具。
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F 您已经拥有了Mini-U。
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 您的舰队没有足够空间容纳另一艘船。
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC 您所处位置太高，无法使用此工具。
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 此工具只能在拥有商路的星系使用。
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA 此星球的T值太低，无法使用此工具。
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 殖民地离香料太近了。
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 您不能使用此工具，星球处于最高等级。
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x04374125 ~building_name~已经被搜索过。
+0x04377191 ~vehicle_name~，已经被搜索到并加入到您的Spore百科中。
+0x04374114 ~building_name~，已经被搜索到并加入到您的Spore百科中。
+0x03FFE77B ~game_plant_name~，已经被搜索到并加入到您的Spore百科中。
+0x043AD9E0 ~ufo_name~，已经被搜索到并加入到您的Spore百科中。
+0x043AD9F2 ~ufo_name~已经被搜索过。
+0x03FFE803 ~creature_name~已经被搜索过。
+0x03FFE7FF ~creature_name~，已经被搜索到并加入到您的Spore百科中。
+0x03FFE7FB ~game_plant_name~已经被搜索过。
+0x04377196 ~vehicle_name~已经被搜索过。
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 你不能在这颗星球上使用巨石！
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 您不能将此工具在靠近建筑地方使用。
+

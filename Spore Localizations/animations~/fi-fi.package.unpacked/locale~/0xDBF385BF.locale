@@ -1,0 +1,172 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000AD ~city_name_7~
+0x000000AE ~city_name_8~
+0x000000B0 ~city_name_10~
+0x000000AF ~city_name_9~
+0x000000AC ~city_name_6~
+0x000000A8 ~city_name_2~
+0x000000A7 ~city_name_1~
+0x000000A9 ~city_name_3~
+0x000000AA ~city_name_4~
+0x000000AB ~city_name_5~
+0x000000A2 Kuulostaa hyvältä. On hienoa, että olette puolellamme.
+0x00000025 Lähde paheksuu kansaasi ja heidän luomuksiaan. Miksi otit meihin yhteyttä?
+0x00000093 Ymmärretty. Pistetään homma katkolle.
+0x0000001B Kenraalimme eivät pidä tästä. Meiltä on turha odottaa vastaavaa tarjousta tulevaisuudessa.
+0x000000A3 Toimeksi vain!
+0x00000021 Sivilisaatiosi hämmentää meitä. Mitkä oikein ovat aikeesi?
+0x00000013 Kaupankäynnin ohessa voimme myös levittää pyhää sanaa. Perustakaamme kauppareitti kaupunkiin ~target_city_name~. Maksamme sinulle osuuden jokaiselta matkalta.
+0x0000001F Armeijamme on matkalla rajoillesi. Tervehdimme sinua vain muodon vuoksi.
+0x00000096 Kiitos. Arvostamme tukeanne.
+0x00000020 Meillä ei ole aikaa jutteluun. Kerro, mitä haluat.
+0x00000046 Esi-isäsi olivat limaisia avaruusetanoita.
+0x0000001D Emme aivan ymmärrä logiikkaasi, mutta voimme toki suunnata muualle tekemään bisnestä.
+0x00000039 Käytimme vain murto-osan rahavaroistamme, ja ~source_captured_npc_city_name~ on nyt hallussamme. Kansakuntamme aikoo jatkaa laajentumistaan.
+0x00000005 Taloutemme saattaa hieman kärsiä tästä, mutta emme voi enää sietää käytöstäsi. Kaupankäynti kaupunkien ~source_city_name~ ja ~target_city_name~ välillä on keskeytetty.
+0x00000012 Jotta saisimme armeijamme täyteen toimintakuntoon, tarvitsemme kauppatavaroita, joita ~target_city_name~ voi vain tarjota. Perustakaamme kauppareitti. Saat meiltä rahaa jokaisesta kauppaerästä.
+0x00000082 Hups.
+0x00000080 Hups.
+0x00000042 Kansamme ihailee laajoja maa-alueitasi.
+0x000000B1 Unohda koko juttu
+0x00000022 Olemme tyytyväisiä kansakuntiemme suhteeseen. Miten voimme auttaa?
+0x00000090 Tämä ei lainkaan miellytä meitä.
+0x00000019 Hienoa. Molemmat kaupungit hyötyvät tästä sopimuksesta.
+0x00000016 Hylkään tarjouksen! Pidä tunkkisi.
+0x00000017 Olet paljon enemmän kuin pelkkä ystävä. Olet fiksu ystävä. Odotamme innolla pitkää ja tuottoisaa yhteistyötä.
+0x00000023 Olet mitä mainioin liittolainen. Mistä halusitkaan keskustella?
+0x000000A1 Jiihaa!
+0x0000007D Olet aikamoinen kauppamies. Hyväksymme tarjouksesi.
+0x00000018 Lähde hymyilee viisaudellesi. Olkoot kaupunkimme iäti yhteydessä toisiinsa.
+0x0000007F Asiaa tarkkaan harkittuamme olemme päättäneet hylätä tarjouksenne.
+0x0000009A Tämäpä oli ikävä uutinen.
+0x000000A0 Hienoa. Pian teemme vihollisistamme hakkelusta!
+0x00000051 Haluamme tarjota sinulle lahjoja. Otatko ne vastaan?
+0x00000081 Moinen tarjous on loukkaus minua ja sukuani kohtaan. Emme ikinä voisi hyväksyä mitään noin naurettavaa.
+0x000000A4 Ikävä uutinen.
+0x00000014 Meidän on vahvistettava talouttamme, jotta kaupunkimme kasvaisivat. Haluaisimme luoda kauppareitin kaupunkiin ~target_city_name~. Lähetämme kaupunkiisi parhaita tuotteitamme ja maksamme jokaisesta saattueesta veroa kaupungille.
+0x00000003 Armeijamme perustettiin, jotta voisimme vastata tuollaiseen touhuun. Kaupankäynnin kaupunkien ~source_city_name~ ja ~target_city_name~ välillä on keskeytetty.
+0x00000030 ~source_lost_city_to_player_name~ on saastunut vuoksesi, ja se on vain viimeinen virheistäsi. Älä kuvittelekaan, että saat pidettyä kaupungin hallussasi.
+0x00000092 Olemme järkyttyneitä siitä, että ~npc1_name_nation~ on kauppakumppaninne. Vaadimme, että lopetatte heti kaupankäynnin.
+0x00000038 Olet kääntynyt meitä vastaan ja hyökännyt väkemme kimppuun. Saat vielä katua päätöstäsi. Valmistaudu sotaan.
+0x000000B4 Valitettavasti hinta on liian korkea.
+0x00000086 Pistetään valloittaen.
+0x000000B2 Autamme toki, kunhan hinnasta sovitaan. Sopisiko ~offer_1~ Spore-taaleria?
+0x0000008F Älä kuule koettele onneasi.
+0x000000B3 Selvä. Asia on sovittu.
+0x0000008D Saatte rahat vain, jos tapatte meidät.
+0x00000024 Olet häpäissyt uskontoamme ja pilkannut kansaamme. Mitä oikein haluat?
+0x0000008E Fiksu valinta.
+0x00000033 Hyökkäsit koteihimme! Miten oikein perustelet tämän hulluuden? Tiedät varmasti, ettei tätä hyväksytä.
+0x000000BA yksi
+0x00000089 Me voitettiin! Yhdistetään voimamme, niin maailma yhtenäistyy.
+0x0000002A Sinun kaltaistasi uhkaa näkee harvoin. Toimitko hyvyyden vai pahuuden nimissä?
+0x00000084 Aika eliminoida kilpailijat.
+0x0000000F Olemme harkinneet tarjoustasi perusteellisesti ja todenneet sen riittämättömäksi. Vastauksemme on kieltävä.
+0x0000002D Mikään ei pysty rikkomaan tällaista suurta liittoumaa! Kerro toki mietteesi, naapuri.
+0x00000059 Ilo on minun puolellani
+0x00000078 Unohda koko juttu.
+0x0000005A Tottahan toki. Kiitos jo etukäteen!
+0x000000B7 Kiitos käteisestä!
+0x00000064 Hyvä on, öykkäri. Me antaudumme. Katso nyt missä kunnossa ~target_city_name~ on. Toivottavasti olet tyytyväinen!
+0x00000063 Sanoitko jotain?
+0x000000A6 Mikä kaupunki?
+0x00000009 Pidä rahasi. Emme olisi tarvinneetkaan niitä.
+0x000000BB kaksi
+0x00000067 Moikka!
+0x00000074 ~offer_2~ Spore-taaleria
+0x00000057 Olenkin aina luottanut otusten ystävällisyyteen.
+0x00000065 Moikka!
+0x0000002C Tervehdys! Teot vaikuttavat markkinoilla sanoja voimakkaammin, ja sinä vaikutat vallan mukavalta naapurilta. Miten siis voimme auttaa?
+0x00000066 Uskontosi on saanut jalansijaa kaupungissa ~target_city_name~. Antaudumme imperialistisen kulttuurisi edessä. Levitköön sanoma muihinkin kaupunkeihin.
+0x00000058 Arvostamme pyrkimystäsi suhteiden parantamiseen.
+0x0000000D Hienoa!
+0x000000BC kolme
+0x0000009D Tottahan toki. Liitymme mieluusti joukkoihinne.
+0x00000076 ~offer_4~ Spore-taaleria
+0x0000002B Mitä haluat?
+0x00000075 ~offer_3~ Spore-taaleria
+0x0000005E Tässä 1 000 Spore-taaleria.
+0x0000003E Aseelliselle yhteenotolle ei ollut tarvetta, mutta päätit silti tuoda sodan kaupunkiimme. Täytät sydämemme surulla.
+0x0000000B Tällaisen yhteistyön myötä saisimme levitettyä uskonasiaamme. Hyväksymme tarjouksesi.
+0x0000000E Meidän ei tarvitse käydä kauppaa tuollaisten surkeiden sivilisaatioiden kanssa. Ei tosiaankaan.
+0x0000005B No, mitä tarjottavaa sinulla on?
+0x00000004 Pyhimmätkään kansat eivät voi jatkuvasti kääntää toista poskea. Kaupankäynti kaupunkien ~source_city_name~ ja ~target_city_name~ välillä on keskeytetty.
+0x00000077 ~offer_5~ Spore-taaleria
+0x0000000C Kaupankäynnin avulla saamme täytettyä rahasäiliöitämme. Hyväksymme tarjouksesi.
+0x0000005C Tässä on 4 000 Spore-taaleria.
+0x0000005F Unohda koko juttu
+0x0000000A Kaupankäynti lisäisi valtaamme entisestään. Hyväksymme ehdotuksesi.
+0x00000007 Lähde on puhunut, ja me olemme kuunnelleet. Meidän on keskeytettävä kaupankäynti kaupunkien ~source_city_name~ ja ~target_city_name~ välillä.
+0x0000005D Tässä on 2 000 Spore-taaleria.
+0x00000062 Kaupankäynnin ja keskustelun aika on ohi. Valmistaudu sotaan.
+0x00000098 Sopii hyvin. Mukavaa, että pääsimme yhteisymmärrykseen.
+0x0000007A Valitan.
+0x00000006 Armeijamme kehittämiseen ei tarvita enää varoja. Kaupankäynti kaupunkien ~source_city_name~ ja ~target_city_name~ välillä on keskeytetty.
+0x00000028 Lähde riemuitsee liittolaissuhteestamme ja yhteisestä voimastamme. Kerro toki, mitä mielessäsi on.
+0x000000B8 Ilo on meidän puolellamme.
+0x0000006B Moikka!
+0x00000073 ~offer_1~ Spore-taaleria
+0x0000006C Jippii! Valtasimme kaupungin ~target_city_name~!
+0x0000006E ~target_city_name~ täydentää valtakuntaamme mainiosti!
+0x0000006D Jatkossa saat pistää paremmaksi, sillä ~target_city_name~ kuuluu nyt meille.
+0x0000009C Kaipaisimme apuanne. Julistaisitteko sodan kansakunnalle ~npc1_name_nation~?
+0x00000008 Kauppasuhteemme ei ole enää kannattava. Kaupankäynti kaupunkien ~source_city_name~ ja ~target_city_name~ välillä on keskeytetty.
+0x00000070 Hieno juttu.
+0x0000007B Olet kovin avokätinen. Hyväksymme mieluusti tarjouksesi.
+0x00000026 Olemme meditoineet tuntikausia, mutta emme vieläkään ole päässeet varmuuteen siitä, oletko ystävä vai vihollinen. Mitä siis haluat?
+0x00000072 Ymmärrämme kyllä, että ~target_city_name~ kiinnostaa. Mitä siis tarjoat?
+0x0000006F ~target_city_name~ kukistui mahtimme edessä!
+0x0000003F Tarvitsemme sinua avuksemme. Taistelisitko puolestamme?
+0x00000027 Uskomme sinun edistävän hyvyyttä. Miten siis voimme auttaa?
+0x000000B5 Selvä juttu. Käymme hommiin!
+0x000000A5 Ehkä ensi kerralla.
+0x00000069 Moikka!
+0x00000068 ~target_city_name~ kukistui todella helposti. Toivottavasti puolustautuminen sujuu ensi kerralla paremmin.
+0x00000010 Rahasäiliömme ovat ääriään myöten täynnä, joten olemme päättäneet toistaiseksi keskeyttää kaupankäynnin. Olen pahoillani.
+0x00000056 Joo joo
+0x0000008A Olin toivonutkin, että liittyisit joukkoihimme.
+0x0000008B Teidän on aika osoittaa meille kunnioitusta. Vaadimme ~offer_1~ Spore-taaleria.
+0x000000B6 Kiitos avusta.
+0x00000029 Pelkkä olemassaolosi uhkaa planeetan olemassaoloa. Mitä oikein haluat meiltä?
+0x00000071 Tarjoamme ~offer_1~ Spore-taalerin hintaa kaupungista ~target_city_name~. Kiinnostaisiko kauppa?
+0x00000079 Kiitti vaan aikamme haaskaamisesta.
+0x00000060 Koko planeetta vapisee sotavoimiemme edessä. Tästä et selviä puhumalla. Valmistaudu sotaan.
+0x0000009E Pistäkääpä pottiin vielä 2 000 Spore-taaleria, niin voitte pitää asiaa sovittuna.
+0x00000054 Pärjäile
+0x00000052 Näkemiin
+0x0000009F Olen pahoillani, se ei olisi nykytilanteessa järkevää.
+0x0000009B Tämä on lopullinen päätöksemme. Hyvästi.
+0x00000088 Sydämemme on iloinen, kun voimme hyväksyä antautumisenne.
+0x00000015 Hyväksyn tarjouksenne. Aloittakaa lähetykset heti.
+0x00000091 Haaskaat aikaasi... ja minun aikaani.
+0x0000008C Hyvä on. Emme halua vaarantaa liittoamme.
+0x00000095 Olen pahoillani, se ei olisi nykytilanteessa järkevää.
+0x00000099 Kiitos ja näkemiin.
+0x00000097 Hienoa. Hyvästi nyt.
+0x00000085 Nyt levitämme totuuden sanaa tälle jumalanhylkäämälle planeetalle.
+0x00000087 Näemme totuuden siinä missä muut sulkevat silmänsä. On koittanut rauhan aika.
+0x000000B9 Testaan vain viestintäkanavaa...
+0x00000094 No, voisitte korvata tappiomme 4 000 Spore-taalerilla.
+0x00000083 Hei, täällä ~player_name_nation~ ja ~target_city_name~. Onko mitään uutta kerrottavaa?
+0x00000053 Puhut viisauden sanoja.
+0x00000011 Hyvä on.
+0x0000007E Vau!
+0x00000061 Koko maailman on kuultava ainoan oikean uskonnon sanaa. Saat luvan oppia totuuden tien – kuten parempasi ennen sinua.
+0x0000007C Vau!
+0x0000001E Yritän muistaa. Nyt riittää. Hyvästi.
+0x0000001A Hyvä on. Tämä riittää tältä erää.
+0x00000035 Valtakuntamme jatkaa kasvuaan! Ristiretkemme pyhän voiman ansiosta ~source_captured_npc_city_name~ on nyt osa kansakuntaamme.
+0x00000034 Kaappasimme surkean kaupunkisi, ja ~source_captured_player_city_name~ kuuluu nyt meille. Pian sen asukkaat saavat tuta, mitä usko todella tarkoittaa.
+0x0000006A Ehkä syy oli soittajissa, ehkä musiikissa. Ken tietää? Joka tapauksessa kansalaiset ovat päättäneet, että ~target_city_name~ liittyykin meidän kansakuntaamme. Taidamme vain olla liian vetovoimaisia.
+0x0000002E Mahtavat joukkomme ovat vallanneet yhden kaupungeistasi! Oletko tullut anelemaan, että ~source_captured_player_city_name~ palautettaisiin hallintaasi?
+0x0000001C Oletpa typerä johtaja. Kansakuntasi ei tule kukoistamaan.
+0x00000036 Haluat ehkä lannistaa meidät, mutta surkea yrityksesi on tuomittu epäonnistumaan. Vaikka ~source_lost_city_to_player_name~ onkin nyt hallussasi, saamme kaupunkimme pian takaisin.
+0x0000002F Kansakuntamme jatkaa laajenemistaan. ~source_captured_npc_city_name~ auttaa meitä nousemaan universumin valtiaiksi. Miksi otit meihin yhteyttä?
+0x0000003A Haluamme kasvattaa kansakuntaamme ilman turhia taisteluita. Uskomme sen olevan mahdollista, varsinkin kun ~source_captured_npc_city_name~ siirtyi haltuumme pelkän rahan turvin.
+0x00000055 Teen sinusta koristeen takkani ylle…
+

@@ -1,0 +1,14 @@
+﻿# For SporeAlert message box caption
+
+0x07D1E41A Upozornění
+
+# message for diaglog shown when assets are downloaded from a 
+# sporecast marked with the notify flag by the server.
+
+0x07C3B843 Stahování ~SyncNum~ nových, zdarma stahovatelných výtvorů ze Sporekanálu ~SyncName~…
+
+# Scenario variations of the banning messages
+
+0x07D9DB89 Chcete ze hry odstranit "~generic0~"?~br~~br~Za odehrání tohoto dobrodružství se vám skóre nenavýší.
+0x07D9DB8E Toto je místní obsah. Chcete smazat "~generic0~"?~br~~br~Za odehrání tohoto dobrodružství se vám skóre nenavýší.
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000098 Completada
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000097 En progreso
+0x00000095 Los Montalette y los Capague están en paz. Vuelve al planeta ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000064 Excelente. Nuestras fuentes nos informan de que las tensiones están en su punto álgido. Resuelve este problema con palabras, ¡no con armas!
+0x000000B1 Evita una guerra en el planeta ~mission_target_planet~.
+0x00000094 La guerra está a punto de estallar en el planeta ~mission_target_planet~, en el sistema estelar ~mission_target_star~. Esta misión requiere negociaciones delicadas.
+0x00000000 ~ep1_captain_full_name~, me alegro de verte. El Gran Consejo ha tenido conocimiento de lo que está ocurriendo en ~mission_target_planet~. ~p~Es necesaria una intervención diplomática urgente, ¡te pedimos que visites el planeta de inmediato!
+0x00000081 El Gran Consejo entiende que resolver problemas con paciencia y palabras puede resultar mucho más complicado que usar la prisa y la fuerza.~p~Quizá llegues a comprenderlo cuando tu raza madure.
+0x00000041 ¡Un trabajo excelente! Acaban de informarnos de que se ha programado una ceremonia nupcial. Esperemos que las dos familias no entren en guerra tras discutir por el color del glaseado de la tarta del banquete. ~p~Por hacer tan bien tu trabajo, el Gran Consejo ha decidido que sería oportuno concederte ~mission_rewards~ esporetas.
+0x00000071 Los acontecimientos han tomado un desafortunado giro. ~p~Contábamos contigo para resolver este problema diplomáticamente.
+0x00000092 Reúnete con el duque y el señor de la guerra en el sistema estelar ~mission_target_star~.
+0x0000004E Tu historial de misiones habla de una guerra que está a punto de estallar.~p~¿Podrías ir hasta allí para ayudar?
+

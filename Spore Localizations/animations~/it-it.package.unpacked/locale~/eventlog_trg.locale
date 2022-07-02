@@ -1,0 +1,31 @@
+﻿#######################################
+# event logs
+
+0x00000001 È stata fondata una nuova tribù!
+0x00000002 Urrà! È nata la creatura ~tribe_creature_name~! 
+0x00000003 Il piccolo di ~tribe_creature_name~ è morto. 
+0x00000004 La creatura ~tribe_creature_name~ è diventata adulta.
+0x00000005 Aiuto! Un piccolo è in pericolo!
+0x0000000D Predoni avvistati! Un'altra tribù sta attaccando.
+0x00000012 Difenditi! La tribù è sotto attacco!
+0x051CC20D Hai addomesticato un membro della specie ~tribe_creature_species~!
+0x051CC258 Al momento possiedi troppi animali addomesticati.
+0x051CCA6A Hai già addomesticato un animale della specie ~tribe_creature_species~!
+0x0590E277 Stanno arrivando degli animali selvatici a rubarti il cibo!
+0x05932CF9 Sono stati avvistati dei predoni! Vogliono rubare il vostro cibo!
+0x066F6C43 Hai sbloccato lo strumento Lancia!
+0x066F6C44 Hai sbloccato lo strumento Torcia!
+0x066F6C3C Hai sbloccato lo strumento Ascia!
+0x066F6C3D Hai sbloccato lo strumento Didgeridoo!
+0x066F6C41 Hai sbloccato lo strumento Corno!
+0x066F6C42 Hai sbloccato lo strumento Maracas!
+0x066F6C3E Hai sbloccato lo strumento per pescare!
+0x0000000E La tribù del ~tribe_name~ ti sta offrendo un regalo! Clicca sul cesto per accettarlo!
+0x066F6C3F Hai sbloccato lo strumento per la raccolta!
+0x00000018 La tribù del ~tribe_name~ è diventata tua alleata.
+0x00000015 La tribù del ~tribe_name~ disprezza la tua tribù.
+0x00000017 La tribù del ~tribe_name~ è diventata tua amica.
+0x00000016 La tribù del ~tribe_name~ è neutrale nei confronti della tua tribù.
+0x066F6C40 Hai sbloccato lo strumento per guarire!
+0x00000014 La tribù del ~tribe_name~ è diventata tua nemica giurata.
+

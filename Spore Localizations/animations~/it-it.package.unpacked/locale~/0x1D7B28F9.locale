@@ -1,0 +1,63 @@
+﻿0x051414BE @10550,10551;1;0;;0,128,128   ~IDS__DialogId_10105_ControlId_1200~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x4782CCA0 Opzione8~IDS__DialogId_10105_ControlId_608~
+0x4E1203F5 Vuoi installare l'ultima versione di EA Download Manager? Se non installerai l'ultima versione di EA Download Manager, sarà impossibile inviare al tuo computer le patch e alcune funzioni.~EADM_INSTALL~
+0x303D349E File: ~string~~br~Errore: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Seleziona le caratteristiche che desideri installare e deseleziona quelle che non vuoi che siano installate. Clicca su Avanti per procedere.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Per installare è necessario accedere come amministratore.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Collegamento sul desktop~DESKTOP_SHORTCUT~
+0x7E8BB5FD Installazione completata~INSTALLATION_COMPLETE~
+0x4DE32707 Ferma ~string~ prima di continuare.~GAME_RUNNING_STRING~
+0x2BF6EA98 L'unità attualmente selezionata non dispone di sufficiente spazio libero. Puoi provare a eliminare dei file dall'unità selezionata, oppure puoi scegliere un'altra unità per effettuare l'installazione.~NO_SPACE_MSG~
+0x05082CC9 Completa ~IDPROP_SETUPTYPE_COMPLETE~
+0x4782CC92 Opzione6~IDS__DialogId_10105_ControlId_606~
+0x4782CC91 Opzione7~IDS__DialogId_10105_ControlId_607~
+0x7D4A4E2F Personalizzato~CUSTOM~
+0x3017EF99 Desideri eliminare tutti i dati utente creati da ~string~?~REMOVE_USERDATA~
+0x1F726BCA Gioca~PLAY_SPORE~
+0x6CD070E6 Alcune informazioni necessarie per la rimozione non sono state trovate. Potrebbe essersi verificato un errore durante la configurazione iniziale. Alcuni file e cartelle dovranno essere rimossi manualmente.~MISSING_UNINSTALL~
+0x4782CC93 Opzione5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Opzione2~IDS__DialogId_10105_ControlId_602~
+0x4782CC9F Opzione9~IDS__DialogId_10105_ControlId_609~
+0x4782CC97 Opzione1~IDS__DialogId_10105_ControlId_601~
+0x4782CC95 Opzione3~IDS__DialogId_10105_ControlId_603~
+0x64A17D06 Si è verificato un errore. L'installazione non può essere completata e verrà interrotta.~GENERAL_ERROR~
+0x7CF6B4E8 Personalizzata~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Impossibile installare in ~string~~br~Seleziona un'altra cartella.~DANGEROUS_DIRECTORY_ERROR~
+0x15CC67E6 ~string~ sarà installato in~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x16FBAEAF Ora puoi utilizzare ~string~~READY_TO_PLAY~
+0x02699E57 Tipo di installazione~SETUP_TYPE_TITLE~
+0x16741C9F Avvia ~string~ dopo l'installazione~LAUNCH_SPORE~
+0x0AA43B92 Consigliato~RECOMMENDED~
+0x159098E0 < &Indietro~IDS__DialogId_10105_ControlId_12~
+0x0D849C4A Clicca su Fine per uscire e iniziare a divertirti!~CLICK_FINISH~
+0x38A8F152 Benvenuto a ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 Leggimi~README~
+0x15538FF6 Tipo di installazione~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Seleziona il tipo d'installazione più adatto alle tue esigenze.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Personalizzato~IDPROP_SETUPTYPE_CUSTOM~
+0x06220BA5 Clicca su Avanti per installare ~string~ sul tuo computer!~WELCOME_SPORE_MESSAGE~
+0x74C9257A Completa~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 L'installazione può iniziare!~READY_TO_INSTALL~
+0x144073D1 ~string~ sarà installato nella cartella selezionata.~CUSTOM_SPORE_SETUP~
+0x59450AC4 Tipo di installazione~br~Seleziona un tipo di installazione~SETUP_TYPE_MESSAGE~
+0x7E9C7EC7 &Avanti>~IDS__DialogId_10105_ControlId_1~
+0x2A8D9AF3 Guida di EA~EA_HELP~
+0x7E9C7ECF Annulla~IDS__DialogId_10105_ControlId_9~
+0x03BCF887 Seleziona una delle opzioni sotto.~SELECT_OPTIONS~
+0x7B152168 Clicca su Installa per avviare l'installazione~br~~br~Se desideri modificare alcune impostazioni d'installazione, clicca sul pulsante Indietro. Per uscire, clicca su Annulla.~BEGIN_INSTALLATION~
+0x494AA82F L'applicazione è stata terminata prima che ~string~ fosse completamente rimosso.~br~~br~Per completare la rimozione del programma, esegui nuovamente l'applicazione di rimozione.~UNINSTALL_INCOMP~
+0x0537CFA1 Rimuovi ~string~~UNINSTALL~
+0x4782CC94 Opzione4~IDS__DialogId_10105_ControlId_604~
+0x01FCAF57 Creazioni Spore~SAVE_FOLDER~
+0x689470D4 Funzione~ID_STRING1~
+0x27D33671 Il percorso prescelto è troppo lungo. Seleziona un percorso più breve.~DIR_TOO_LONG~
+0x46A61B9B Impossibile trovare ~string~.~MISSING_FILES~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x40D6F8BD Leggi il file Leggimi.txt dopo l'installazione~VIEW_README~
+0x23FD0D11 Spore™ Creature Creator~SCC_NAME~
+0x151DEC2F Spore™ non può funzionare correttamente senza DirectX.~DIRECTX_WARNING~
+0x4950A450 Spore™ Creature Creator Demo~SCC_TRIAL_NAME~
+0x353F37C7 È necessario rimuovere la tua copia indipendente di ~string~. Clicca su "Sì" per procedere. SPORE™ comprende tutte le funzioni di Spore Creature Creator e potrai conservare tutte le creature che hai già realizzato.~SPORE_REMOVE_CSA_WARNING~
+

@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA Sporetastický
+0x045882FB Sporezián
+
+#Default Creation name
+
+0x04D93065 Nepojmenovaný objekt
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC Kontrolní modifikátor teď vybírá všechny bloky.
+0x0450C9DD Kontrolní modifikátor teď vybírá podobné bloky.
+0x0450C9DE Oční kapátko teď vybírá barvu a vzor.
+0x0450C9DF Oční kapátko teď vybírá pouze barvu.
+0x0450C9E0 Oční kapátko teď vybírá pouze vzor.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x061349C1 "~newmodelname~" nebyl nasdílen.
+0x047E7E84 "~newmodelname~" byl úspěšně nasdílen!
+0x047E7E83 Jste si jistí, že chcete sdílet výtvor "~newmodelname~" na Spore.com? ~br~ Sdílíte jako: ~username~
+0x047E7E85 "~newmodelname~" byl již nasdílen!
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Určitě chcete Spore Tvoření příšerek opustit?
+
+#paint mode paint buddy
+
+0x05BD6E0D Smažte mě [NOT IN USE]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD Tento výtvor není platný.
+0x053740AE S tímto výtvorem sice můžete hrát hru, ale nebude z následujících důvodů sdílen: [NOT IN USE]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x045921AD "~modelname~" byl úspěšně nasdílen!
+0x04592638 <Klikněte zde pro přihlášení>
+0x045700B6 Jste si jistí, že chcete sdílet výtvor "~modelname~" na Spore.com? ~br~ Sdílíte jako: ~username~
+0x0563D473 "~modelname~" nebyl nasdílen úspěšně.
+
+#paint mode color chicklets
+
+0x05BF125F Klikněte a podržte tlačítko myši pro zobrazení větší nabídky barev
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------
+0x0535B1B0 MojeVýtvory [NOT IN USE]
+0x0535B1B1 Návrhy [NOT IN USE]
+0x0535B1AE Vše [NOT IN USE]
+0x0535B1B2 Výtvory ostatních [NOT IN USE]
+0x0535B1AF Hra SPORE [NOT IN USE]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA015 STP zkušební kresby
+0xB4CEA016 STP registrace kreseb
+0xB4CEA017 STP partner kreseb 1
+0xB4CEA010 STP zkušební části
+0xB4CEA014 STP všechny části
+0xB4CEA011 STP registrace částí
+0xB4CEA013 STP partner částí 2
+0xB4CEA012 STP partner částí 1
+0x9F3415A4 Jádro Spore
+0xB4CEA019 STP všechny kresby
+0xB4CEA018 STP partner kreseb 2
+
+### this text goes in CSA###
+
+0x00000002 Prodat za
+0x00000007 Prodat za
+0x00000008 Vytvořit nesouměrnost
+0x00000003 Dílčí styly
+0x00000101 Příliš drahé
+0x00000105 Tento nástroj je již používán
+0x00000102 Příliš mnoho částí
+0x0000020C (NOT IN USE) The maximum number of vehicles of all types has already been purchased.
+0x0000010B Uzamčeno
+0x0000010A Žádné volné místo pro věže
+0x00000109 Město může mít pouze 1 radnici
+0x00000103 Není místo pro další budovy
+0x00000107 Tento nástroj získáte od jiných kmenů
+0x00000001 Kopírovat místo
+0x00000005 Počet budov
+0x00000104 Dosaženo maximální možné množství vozidel tohoto typu
+0x0000010C Dosažen maximální možný počet vozidel
+0x00000201 (NOT IN USE) Tato položka je příliš drahá a nyní si ji tudíž koupit nemůžete.
+0x00000208 (NOT IN USE) Tato planeta potřebuje vyšší terraformovací skóre, abyste na ní mohli postavit více budov.
+0x00000207 (NOT IN USE) Tento nástroj si zpřístupníte, když se spřátelíte s kmenem, který ho vlastní, nebo když tento kmen přemůžete.
+0x00000206 (NOT IN USE) Vozidla se vyrábějí automaticky.
+0x00000209 (NOT IN USE) Radnice je středobodem všech budov ve městě. Stavěním dalších budov se vaše město rozrůstá.
+0x0000020A (NOT IN USE) Nejsou k dispozici žádná volná pole pro umístění věží.
+0x00000202 (NOT IN USE) Váš výtvor již obsahuje příliš mnoho částí. Nějaké odstraňte, uvolníte tak místo.
+0x00000205 (NOT IN USE) Jeden kus každého nástroje vystačí pro celý kmen.
+0x00000204 (NOT IN USE) Už jste nakoupili maximální možný počet vozidel tohoto typu.
+0x00000203 (NOT IN USE) Už nejsou volná žádná pole pro umisťování budov. Místo uvolníte odstraněním některé z budov.
+0x00000108 Příliš nízké TerraSkóre
+0x00000106 Kolonie si nakupují vozidla samy
+0x0000010D Vytvořte, upravte nebo si vyberte kosmickou loď.
+0x0000020D (NOT IN USE)
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Tvoření
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Tato část je dostupná, pokud si zakoupíte hru SPORE.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D286 Jste si jistí, že si přejete trvale odstranit tento objekt ze své hry? Před odstraněním objektu bude vaše hra uložena a restartována.
+0x0450D285 Jste si jistí, že si přejete trvale odstranit tento objekt ze své hry?
+0x0450D284 Přejete si odstranit všechny výskyty tohoto objektu ze všech svých uložených her?
+0x063AB852 Tento objekt je používán jako avatar v jedné z Vašich her. Danou hru musíte nejprve smazat.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Tento výtvor používá součásti Spore, které nejsou nainstalovány.
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C Výtvor ~newmodelname~ byl uložen. Vyzkoušejte tvora ~newmodelname~ v sekci “Mé výtvory” ve Sporepedii.
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000008 Chcete před pokračováním uložit změny do “~newmodelname~”?
+0x10000009 Váš současný výtvor není možné uložit z následujících důvodů: ~br~~br~~generic0~~br~~br~Chcete pokračovat v načítání a ztratit všechny změny, které jste u svého výtvoru provedli?
+0x10000018 Chcete před načtením uložit změny “~newmodelname~”?
+0x10000019 Váš současný výtvor není možné uložit z následujících důvodů: ~br~~br~~generic0~~br~~br~Chcete pokračovat v načítání a ztratit všechny změny, které jste u svého výtvoru provedli?
+0x10000028 Chcete před novým tvořením uložit změny do “~newmodelname~”?
+0x10000029 Váš výtvor není možné uložit z následujících důvodů: ~br~~br~~generic0~~br~~br~Jste si jistí, že chcete začít nové tvoření a ztratit vaše současné změny?
+0x10000038 Chcete před ukončením uložit změny  do “~newmodelname~”?
+0x10000039 Váš výtvor není možné uložit z následujících důvodů: ~br~~br~~generic0~~br~~br~Jste si jistí, že chcete odejít a ztratit váš současný výtvor?
+0x1000003A Chcete před ukončením uložit "~newmodelname~" jako nový výtvor, nebo nahradit "~oldmodelname~"?
+0x1000000A Chcete před pokračováním uložit "~newmodelname~" jako nový výtvor, nebo nahradit "~oldmodelname~"?
+0x1000000B Uložit "~newmodelname~" jako nový výtvor, nebo nahradit "~oldmodelname~"?
+0x1000001A Chcete před načtením uložit "~newmodelname~" jako nový výtvor, nebo nahradit "~oldmodelname~"?
+0x1000002A Chcete před novým tvořením uložit "~newmodelname~" jako nový výtvor, nebo nahradit "~oldmodelname~"?
+0x10000040 Jakmile začnete svoji příšerku oblékat, nebudete ji již moci dále upravovat. Chcete pokračovat?  [NOT IN USE]
+0x1000000D Pokud práci ukončíte nyní, provedené změny budou ztraceny. Určitě chcete práci ukončit?
+0x1000000C Tvoření nyní ukládá "~newmodelname~". Pokud práci ukončíte nyní, "~newmodelname~" bude nenávratně ztracen. Jste si jisti že chcete práci ukončit?
+

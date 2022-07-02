@@ -1,0 +1,41 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 Urgent message for our Captain!~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry!~p~~mission_target_planet~ out!
+0x00000003 Kind ~player_title~ ~player_creature_name~!~p~While we try to let the cycle of life run its more natural course, a tragic turn requires intervention. Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry!
+0x0000001A ~player_title~ ~player_creature_name~! We seek you to assist us most urgently.~p~Spode's Faithful on planet ~mission_target_planet~ are at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~Thou shalt cull the infected from the pack immediately, or the virus will spread and lost will be the entire species... and to that end, the beginning doom to the planet.~p~May you speed this way at once!
+0x0000001B Distress signal launch procedure has been initiated per the Grand Council. Seeking the assistance of ~player_title~ ~player_creature_name~.~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~I'm sure you can imagine the chaos this is creating, in direct defiance to our Philosophy of Order. We request your intervention per our Alliance Agreement, document 48, paragraph LXVIII.~p~We anticipate that your arrival is imminent.
+0x0000001C ~player_title~ ~player_creature_name~.~p~A recent field study of our wildlife returned some alarming data. The ecosystem on planet ~mission_target_planet~ is at great risk. A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~We request your assistance STAT. Initiate the most efficient flight plan at once. 
+0x0000001D Fiddledee floo! Nothing ruins a beautiful day like imminent catastrophic ecological disaster.~p~~player_title~ ~player_creature_name~, you simply must come and make things right. Our silly wild ~mission_target_animal_species~ herds have put themselves in a terrible fix, though the domesticated ones are still quite lovable and healthy.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry, hurry! Come quick, come quick!
+0x0000001E Oh, ~player_title~ ~player_creature_name~! Help, help!~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry, hurry!
+0x0000001F Kind ~player_title~ ~player_creature_name~.~p~As the ways of Harmony teach us, the cycle of life has a rhythm all its own. Alas, this melody has hit a wrong note on planet ~mission_target_planet~!~p~A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~You must relieve them from their pain at once. If they suffer much longer, the infection will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Fare thee well and speed you this way.
+0x00000020 Attention ~player_creature_name~!~p~Planet ~mission_target_planet~ has exposed a weakness the ~race~ will not tolerate. Eliminate the weak ~mission_target_animal_species~ immediately.~p~~race~ out.
+0x00000021 Attention ~player_creature_name~!~p~You will report to planet ~mission_target_planet~ at once to eradicate the weak ~mission_target_animal_species~.~p~That is all.
+0x00000002 Close Transmission
+0x00000004 Save planet ~mission_target_planet~ from ecodisaster!
+0x00000091 Planet ~mission_target_planet~ is saved!
+0x00000090 Eradicate the infected ~mission_target_animal_species~ creatures from the herd.
+0x00000005 The ecosystem has returned to its balanced state.
+0x00000006 The ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru the wild ~mission_target_animal_species~ herds. Identify the infected by their glowing trail.~p~Cull the infected from the pack immediately, or the virus will spread and the entire species will be lost.. and that may be only the beginning of an entire biosphere collapse.
+0x00000007 There is no longer a biosphere collapse on planet ~mission_target_planet~.
+0x00000008 ~mission_num_eradicated_creatures~ of ~mission_num_creatures~ ~mission_target_animal_species~ animals have been eradicated.
+0x00000009 Ecosystem collapse has been prevented.
+0x0000000A Eradicate only targeted animals.
+0x0000000B Disaster! Too many healthy animals were killed.
+0x0000000C Warning! If you kill ~mission_num_healthy_creatures_left~ more of the healthy ~mission_target_animal_species~ animals they will go extinct!
+0x0000000D Animals from infected herds are not permitted aboard the ~ufo_name~.
+0x0000000E That animal is sick. You can't bring it on board!
+0x0000000F The ~mission_target_animal_species~ animal species has gone extinct.
+0x00000010 Ecosystem collapse on ~mission_target_planet~. The ~mission_target_animal_species~ animals are now extinct.
+0x00000011 Deforestation! A plant species has become extinct.
+0x00000012 Ecosystem collapse on ~mission_target_planet~: A plant species has become extinct.
+0x00000013 The ecosystem on planet ~mission_target_planet~ has collapsed.
+0x00000014 There has been an ecosystem collapse on planet ~mission_target_planet~.
+0x00000015 Eliminate targeted animals. Be quick!
+0x00000017 Ecosystem collapse looming on planet ~mission_target_planet~. Eradicate targeted animals. Quickly!
+0x00000018 Add plants and animals to planet ~mission_target_planet~ to prevent ecosystem collapse.
+0x00000019 Biosphere collapse on planet ~mission_target_planet~: Add plants and animals to the ecosystem to prevent T-Score failure!

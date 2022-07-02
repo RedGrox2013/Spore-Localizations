@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Protege al sacerdote en el planeta ~mission_target_planet~.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x000000B2 Regresa al planeta ~mission_source_planet~.
+0x00000098 Completada
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000097 En progreso
+0x0000004E El sacerdote te espera en el planeta ~mission_target_planet~. Consulta tu historial de misiones para obtener la ubicación exacta.~p~¡Date prisa! ¿Cómo vas a ayudarlo si lo devoran antes de que llegues?
+0x00000000 ¡Bienvenido, ~ep1_captain_full_name~, hermano y seguidor de la verdadera Filosofía de la Fe! Eres un hermano y seguidor, ¿verdad? ~p~Tengo un sacerdote que necesita protección en ~mission_target_planet~.~p~Está intentando alcanzar el templo de Spode y le vendría muy bien un escolta. ¿Te interesa?
+0x00000041 ¿Por qué está tan molesta la Garra Negra? Deberían agradecer el templo que les hemos construido para que rindan culto.~p~¿Por qué no dejan las armas y se someten a las enseñanzas de Spode?~p~Te entregamos ~mission_rewards~ esporetas por tu fiel servicio. Que Spode te acompañe en tus viajes.
+0x00000095 El sacerdote de ~mission_target_planet~ ha llegado al templo. Vuelve a ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000081 ¿Has probado a pedirle ayuda a Spode? Cosas buenas les ocurren a aquellos que creen.
+0x00000071 Rezaremos para que el divino escudo de Spode envuelva y proteja al sacerdote mientras buscamos otro escolta.
+0x00000094 Protege al sacerdote en el sistema estelar ~mission_target_star~. Defiéndelo a lo largo de su viaje. Te espera en ~mission_target_planet~.
+0x00000092 Protege al sacerdote en el sistema estelar ~mission_target_star~. Defiéndelo a lo largo de su viaje.
+0x00000064 ¡Alabado sea Spode! El sacerdote espera tu llegada junto a la orilla.~p~Que tu viaje sea rápido y tranquilo.
+

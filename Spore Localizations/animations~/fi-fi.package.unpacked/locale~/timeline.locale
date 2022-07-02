@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~ menetti kaupungin.
+0x35492924 Kaupunki menetettiin
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ päätyi sotilaalliseksi sivilisaatioksi.
+0x060B4242 Sai armeijapiirteen
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ kehittyi, mutta menetti ominaisuuden: ~timelineAbilityName~.
+0x550A15C2 ~timelineAbilityName~ menetettiin
+
+# TRG_MeatGathered
+
+0x05FA01B9 ~timelineSummedCount~ liha-annosta saalistettu.
+0x060B4237 ~timelineSummedCount~ liha-annosta saalistettu.
+0x94F807CA ~timelineSummedCount~ liha-annosta saalistettu.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ vuotta
+0x555450A5 ~timelineAbsoluteYears~ vuotta
+
+#### Time Line Title ####
+
+0x0448655A Kokoa oma heimo
+0x0448655B Maiden ja merien herra
+0x0448655E Universumia tutkimassa
+0x0448655D Katse tähtiin
+0x0448655C Valtaa koko maailma
+0x04486557 Kehitys maan kamaralla
+0x04486556 Kasva ja kipua maalle
+0x04486555 Elämän kehto
+0x04486558 Kehitä älykkyyttä
+0x04486559 Sivistyksen kehto
+0x00000000 Solupeli
+0x00000008 Heimopeli
+0x0000000D Kaupungintalossa voit ostaa tai rakentaa ajoneuvoja
+0x00000007 Tee poikasia ja kehity
+0x0000000B Osta työkaluja ja paranna tehokkuutta
+0x00000003 Lisää osia editorissa ja kehity
+0x0000000C Sivilisaatiopeli
+0x0000000E Hanki varoja keräämällä rohtoa
+0x00000009 Valloita tai tee vaikutus viiteen toiseen heimoon
+0x0000000A Hanki varoja metsästämällä, kalastamalla tai keräilemällä
+0x00000002 Kukista vihollisia, niin saat valikoimaasi uusia osia
+0x00000005 Taistele, tee vaikutus tai ryöstä
+0x00000012 Hanki varoja suorittamalla tehtäviä
+0x00000006 Ansaitse DNA-pisteitä ja avaa osia
+0x00000011 Tutki taivaita, kohtaa ystäviä ja vihollisia
+0x00000010 Avaruuspeli
+0x0000000F Kulkuneuvoilla voit valloittaa, käännyttää tai ostaa viholliskaupunkeja
+0x00000004 Otuspeli
+0x00000013 Perusta siirtokuntia ja maankaltaista planeettoja
+0x00000001 Syömällä saat DNA-pisteitä, kasvat ja kehityt
+
+# CLG_EatMeat
+
+0x352DBDBB ~timelineMySpeciesName~ söi ~timelineEventCount~ lihapalaa.
+0x352DBDBA ~timelineMySpeciesName~ söi lihanpalan.
+0x352DBDB9 ~timelineEventCount~ lihapalaa syöty
+0x75580858 Solu söi lihaa.
+0x75580859 Solu söi ~timelineEventCount~ lihapalaa.
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~ kaatoi jätin: ~timelineTargetOTDBName~.
+0x060B422F Jätti kaadettu
+
+# SPG_ColonyOnPlanet
+
+0x05FA01CB ~timelineMyEmpireName~ on perustanut siirtokunnan planeetalle ~timelinePlanetName~.
+0x060B424D Siirtokunta planeetalla
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ liittoutui lajin ~timelineTargetOTDBName~ kanssa.
+0x060B4221 Liittolaiset
+
+# SPG_PurchasedStar
+
+0x06300C33 Tähtikauppaa
+0x06300C34 ~timelineMyEmpireName~ on ostanut planeetan. Myyjä: ~timelineTargetEmpireName~.
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~ kuoli ~timelineEventCount~ kertaa.
+0x060B4214 Kuolema
+0x05FA0196 ~timelineMySpeciesName~ kuoli.
+0x75580854 Solu kuoli.
+0x75580855 Solu kuoli ~timelineEventCount~ kertaa.
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Taloudellinen tuho
+0x06031AAB ~timelineMyCivName~ on taloudellisten resurssiensa avulla kaapannut kaupungin. ~timelineTargetCivName~ menetti kaupunkinsa.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planeetta tuhottiin
+0xB54938AD ~timelineMyEmpireName~ tuhosi planeetan ~timelinePlanetName~.
+
+# SPG_EndedWar
+
+0x35493814 Sota päättyi
+0x35493815 ~timelineMyEmpireName~ ei ole enää sodassa. ~timelineTargetEmpireName~ solmi rauhan.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Sai lihansyöjän piirteen
+0x05FA0198 ~timelineMySpeciesName~ on kehittynyt lihansyöjäksi. Lihansyöjät voivat syödä otuspelissä vain lihaa.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Uskonnon vesikulkuneuvo
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ kehitteli uuden kulkuneuvon: ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA83A Rajoitetaan ruokavaliota
+0x064AA83C Satunnaistetaan solujakaumaa
+0x064AA838 Paikannetaan perintötekijöitä
+0x064AA839 Kasvatetaan kasvikuntaa
+0x064AA83D Siloitellaan siluettia
+0x064AA842 Lasketaan lajityyppejä
+0x064AA843 Laajennetaan lajikarttaa
+0x064AA844 Vedätetään verkkomahoja
+0x064AA83E Puhdistetaan pintasolukkoa
+0x064AA840 Tavoitellaan tietoutta
+0x064AA841 Ennustetaan evoluutiosegmenttejä
+0x064AA83B Suoristetaan soluja
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Armeijan maa-ajoneuvo
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Sai seurustelupiirteen
+0x05FA01B3 ~timelineMyTribeName~ on kehittynyt ja perustanut kaupungin, jonka erikoisvahvuutena on uskonto.
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~ nujersi ~timelineEventCount~ heimon jäsentä.
+0xB5303DE6 ~timelineMyTribeName~ nujersi heimon ~timelineTargetTribeName~ jäsenen.
+0xB5303DE5 Nujersi vastustajaheimon jäsenen
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ on perustanut kaupungin!
+0x060B4238 Siirryit sivilisaatiopeliin
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Sota päättyi
+0x9552AA74 ~timelineMyCivName~ ei enää ole sodassa. ~timelineTargetCivName~ solmi rauhan.
+
+# TRG_EggGathered
+
+0x555BD5C2 Kerätyt munat: ~timelineSummedCount~.
+0x555BD5C1 Kerätyt munat: ~timelineSummedCount~.
+0x555BD5C0 Kerätyt munat: ~timelineSummedCount~
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Kulkuneuvo
+0x35523EC1 Armeijan vesikulkuneuvo rakennettiin.
+0x35523EC2 ~timelineEventCount~ armeijan vesikulkuneuvoa rakennettiin.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Kulkuneuvo
+0xB5523D44 Talouden ilma-alus rakennettiin.
+0xB5523D45 ~timelineEventCount~ talouden ilma-alusta rakennettiin.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ on kehitellyt uuden kulkuneuvon: ~timelineTargetOTDBName~.
+0x060B423A Kulkuneuvo luotiin
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ on kehitellyt uuden rakennuksen: ~timelineTargetOTDBName~.
+0x060B4239 Rakennus luotu
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ päätyi uskonnolliseksi sivilisaatioksi.
+0x060B4241 Sai uskontopiirteen
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Sai seurustelupiirteen
+0x05FA01A5 ~timelineMySpeciesName~ on kehittynyt sosiaaliseksi lajiksi.
+
+# CVG_AccessorizedCreature
+
+0x060B423B Uusi asu
+0x05FA01BD ~timelineMyCivName~ suunnitteli uuden asun.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ on päässyt tähtiin.
+0x060B424B Siirryit avaruuspeliin
+
+# CRG_BefriendedSomething
+
+0x54F7EDA3 ~timelineMySpeciesName~ ystävystyi ~timelineEventCount~ otuksen kanssa.
+0x060B4227 Ystävystyi jonkin kanssa
+0x05FA01A9 ~timelineMySpeciesName~ ystävystyi otuksen ~timelineTargetOTDBName~ kanssa.
+
+# CRG_Migrated
+
+0x060B421F Uusi pesä
+0x05FA01A1 ~timelineMySpeciesName~ muutti uuteen pesään.
+
+# CRG_Death
+
+0x14F7EF6F ~timelineMySpeciesName~ kuoli ~timelineEventCount~ kertaa.
+0x060B4225 Kuolema
+0x05FA01A7 ~timelineMySpeciesName~ kuoli.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ löysi osan ~timelinePartName~.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Sai hyökkäyspiirteen
+0x05FA01B2 ~timelineMyTribeName~ on kehittynyt ja perustanut kaupungin, jonka erikoisvahvuutena on armeija.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ kehitti uuden rakennuksen: ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Talouden maa-ajoneuvo
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Menetti vesi-kulkuneuvon
+0xD4F81D00 ~timelineEventCount~ vesikulkuneuvoa menetettiin.
+0x05FA01C7 Vesikulkuneuvo menetettiin.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ on tuhonnut planeetan ~timelinePlanetName~.
+0x060B4251 Planeetta tuhottiin
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Uusi asu
+0xD5147CA7 ~timelineMyEmpireName~ vaihtoi asuaan.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ kehitti uuden ominaisuuden: ~timelineAbilityName~.
+
+# TRG_BefriendedTribe
+
+0x060B422D Liittoutui heimon kanssa
+0x05FA01AF ~timelineMyTribeName~ muodosti liittouman. Liittolainen: ~timelineTargetTribeName~.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Talouden ilma-alus
+
+# SPG_ColonyPlaced
+
+0x060B425F Siirtokunta sijoitettu
+0x05FA01D3 ~timelineMyEmpireName~ on sijoittanut siirtokunnan planeetalle ~timelinePlanetName~.
+
+# CVG_WarStarted
+
+0x35492926 Sota syttyi
+0x35492927 ~timelineMyCivName~ on sodassa. ~timelineTargetCivName~ on vastapuolena.
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ on nyt soittaja!
+0x060B4255 Sai soittajapiirteen
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 ~timelineEventCount~ armeijan ilma-alusta rakennettiin.
+0xB5523D41 Armeijan ilma-alus rakennettiin.
+0xB5523D40 Kulkuneuvo
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC Kohotti planeetan maankaltaisuusluokkaa
+0x0627E7AD ~timelinePlanetName~ maankaltaistettu.
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Sai yhdistelmäpiirteen
+0x05FA01B4 ~timelineMyTribeName~ on kehittynyt ja perustanut kaupungin, jonka erikoisvahvuutena on talous.
+
+# CRG_PackMemberAdded
+
+0x060B421D Uusi lauman jäsen
+0x05FA019F ~timelineTargetOTDBName~ lisättiin laumaasi.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ on nyt tieteilijä!
+0x060B4259 Sai tieteilijäpiirteen
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~ kehitti uuden kulkuneuvon: ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x060B424E Sai liittolaisen
+0x05FA01CC ~timelineMyEmpireName~ on liittoutunut. ~timelineTargetEmpireName~ on vastapuoli.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Talouden maa-ajoneuvo rakennettiin.
+0x15523CA3 Kulkuneuvo
+0x15523CA5 ~timelineEventCount~ talouden maa-ajoneuvoa rakennettiin.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Sai yhdistelmäpiirteen
+0x05FA01A6 ~timelineMySpeciesName~ on kehittynyt nopeaksi lajiksi.
+
+# CVG_CapturedCityReligious
+
+0x060B423E Valloitus uskonnolla
+0x06031AAC ~timelineMyCivName~ on uskonnollisten voimiensa avulla kaapannut kaupungin. ~timelineTargetCivName~ menetti kaupunkinsa.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Sai hyökkäyspiirteen
+0x05FA01A4 ~timelineMySpeciesName~ on kehittynyt vahvaksi lajiksi.
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~ on käyttänyt supervoimaa ~timelineSuperPowerName~.
+0x060B4244 Käytti supervoimaa
+
+# CVG_EpicKilled
+
+0x3552A304 Jätti kaadettiin
+0x3552A305 ~timelineMyCivName~ kaatoi jätin: ~timelineTargetOTDBName~.
+
+# CRG_KilledSomething
+
+0x060B4226 Tappoi jotakin
+0x05FA01A8 ~timelineMySpeciesName~ tappoi otuksen ~timelineTargetOTDBName~.
+0xF4F7EE4B ~timelineMySpeciesName~ nujersi ~timelineEventCount~ otusta.
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~ on kaapannut ~timelineEventCount~ rohtoesiintymää.
+0x05FA01C1 ~timelineMyCivName~ on vallannut rohtoesiintymän.
+0x060B4243 Rohtoesiintymä kaapattiin
+
+# CVG_LostCityByMilitary
+
+0x35492921 ~timelineMyCivName~ menetti kaupungin.
+0x35492920 Kaupunki menetetty
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ tappoi sukupuuttoon lajin ~timelineTargetOTDBName~.
+0x060B4220 Kuoli sukupuuttoon
+
+# CRG_PackMemberDied
+
+0x060B421E Lauman jäsen kuoli
+0x05FA01A0 ~timelineMySpeciesName~ menetti laumanjäsenen.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ on nyt samaani!
+0x060B425A Sai samaanipiirteen
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Rakensi maa-ajoneuvon
+0x05FA01C3 Maa-ajoneuvo rakennettiin.
+0xB4F817E5 ~timelineEventCount~ maa-ajoneuvoa rakennettiin.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Menetti maa-ajoneuvon
+0x54F81C70 ~timelineEventCount~ maa-ajoneuvoa menetettiin.
+0x05FA01C6 Maa-ajoneuvo menetettiin.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA84F Kasataan kalustoja
+0x064AA850 Kartoitetaan kauppareittejä
+0x064AA851 Muovataan mantereita
+0x064AA84E Kansallistetaan kulttuureja
+0x064AA852 Kootaan kaupungintaloja
+0x064AA856 Koristetaan kaupungintaloja
+0x064AA857 Salaperäistetään samaaneja
+0x064AA853 Alustetaan alakuloefektiä
+0x064AA854 Makustellaan mantroja
+0x064AA855 Tehostetaan tehdastuotantoa
+0x064AA900 Viimeistellään vastustajia
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~ on valaistunut.
+0x060B4254 Kvasaarin loiste
+
+# CRG_EvolveInEditor
+
+0x060B421B Sukupolvi ~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~ kehittyi.
+
+# CVG_AirVehicleLost
+
+0x060B424A Menetti ilma-aluksen
+0xF4F81D2C ~timelineEventCount~ ilma-alusta menetettiin.
+0x05FA01C8 Ilma-alus menetettiin.
+
+# SPG_CapturedStare
+
+0x060B4250 Tähti kaapattu
+0x05FA01CE ~timelineMyEmpireName~ on kaapannut kaupungin. ~timelineTargetEmpireName~ menetti kaupunkinsa.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Uskonnon maa-ajoneuvo
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~ menetetty.
+0x060B4263 Pelaajan avaruusalus tuhottiin
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ on nyt ritari!
+0x060B4258 Sai ritaripiirteen
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ kehittyi ja sai ominaisuuden: ~timelineAbilityName~.
+0x550A15C0 ~timelineAbilityName~ parani
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 ~timelineTargetEmpireName~ löydetty.
+0x060B4264 Kohtasi valtakunnan
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~ antoi lahjan heimolle ~timelineTargetTribeName~.
+0xB5303DE4 ~timelineMyTribeName~ antoi ~timelineEventCount~ lahjaa.
+0xB5303DE2 Lahja annettu
+
+# CVG_TradeRouteStarted
+
+0x3549292A Kauppareitti perustettiin
+0x3549292B ~timelineTargetCivName~ aloitti kauppareitin kaupunkisi kanssa.
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~ on suunnitellut uuden avaruusaluksen.
+0x060B424C Avaruusalusta muokattu
+
+# CLG_DiscoverPart
+
+0x060B4211 Etsi osa
+0x05FA0193 ~timelineMySpeciesName~ löysi osan ~timelinePartName~.
+0x75580853 Löysi osan ~timelinePartName~.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ on nyt soturi!
+0x060B425D Sai soturipiirteen
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Rakensi vesikulkuneuvon
+0x94F819B5 ~timelineEventCount~ vesikulkuneuvoa rakennettiin.
+0x05FA01C4 Vesikulkuneuvo rakennettiin.
+
+# CVG_WarEndedByWinning
+
+0x35492928 Sota päättyi
+0x35492929 ~timelineMyCivName~ kukisti kansakunnan. ~timelineTargetCivName~ on hävinnyt.
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ on nyt kulkuri!
+0x060B425C Sai kulkuripiirteen
+
+# TRG_UnlockedTool
+
+0xD537EA55 ~timelineAbilityName~ avattu
+0xD537EA56 ~timelineAbilityName~ avattu
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ on nyt ekologi!
+0x060B4257 Sai ekologipiirteen
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Tappoi lemmikin ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ kesytti lemmikin: ~timelineTargetOTDBName~.
+
+# SPG_UFODestroyed
+
+0x060B4260 Avaruusalus tuhottiin
+0x356A2D21 Avaruusaluksia tuhottiin ~timelineEventCount~.
+0x05FA01D4 ~timelineTargetEmpireName~ on menettänyt avaruusaluksen.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Talouden vesikulkuneuvo
+
+# TRG_TribeMemberDied
+
+0x060B4234 Heimon jäsen kuoli
+0x05FA01B6 ~timelineMyTribeName~ menetti heimonjäsenen.
+0xD4F7FE0D ~timelineMyTribeName~ menetti ~timelineEventCount~ heimon jäsentä.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Armeijan ilma-alus
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 ~timelineEventCount~ armeijan maa-ajoneuvoa rakennettiin.
+0x15523CA1 Armeijan maa-ajoneuvo rakennettiin.
+0x15523CA0 Kulkuneuvo
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ on nyt kauppias!
+0x060B425B Sai kauppiaspiirteen
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 Ensikohtaaminen kropojen kanssa
+0x05FA01D0 ~timelineMyEmpireName~ kohtasi kropot.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 ~timelineEventCount~ uskonnon maa-ajoneuvoa rakennettiin.
+0x15523CA7 Uskonnon maa-ajoneuvo rakennettiin.
+0x15523CA6 Kulkuneuvo
+
+# TRG_ConqueredTribe
+
+0x05FA01AE ~timelineMyTribeName~ kukisti heimon ~timelineTargetTribeName~.
+0x060B422C Heimo kukistettu
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Keskitetään kvarkkeja
+0x064AA90C Käsitteellistetään keisarikuntaa
+0x064AA908 Suhteutaan singulariteetteja
+0x064AA909 Kohdennetaan kvasaareja
+0x064AA90A Pyöristetään pulsareja
+0x064AA901 Askaroidaan asteroidikenttiä
+0x064AA905 Madotetaan madonreikiä
+0x064AA906 Kierretään kiertoratoja
+0x064AA907 Tähystetään tähdenlentoja
+0x064AA902 Ulotetaan ulottuvuuksia
+0x064AA904 Puntaroidaan painovoimaa
+0x064AA903 Luodataan lähiavaruutta
+
+# TRG_AccessorizedCreature
+
+0x060B422A Uusi asu
+0x05FA01AC ~timelineMyTribeName~ vaihtoi asuaan.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ kehittyi.
+0x060B4212 Sukupolvi ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x060B421C Uusi älykkyystaso
+0x05FA019E ~timelineMySpeciesName~ kasvatti aivojaan!
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ on nyt diplomaatti!
+0x060B4256 Sai diplomaattipiirteen
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 Kauppareiteiltä ansaittu ~timelineSummedCount~ Spore-taaleria.
+0x7552A857 Kauppareitiltä ansaittu rahaa
+0x7552A858 Kauppareiteiltä ansaittu ~timelineSummedCount~ Spore-taaleria.
+
+# CLG_KilledSomething
+
+0x060B4219 Tappoi jotakin
+0x05FA019B ~timelineMySpeciesName~ tappoi otuksen ~timelineTargetOTDBName~.
+0xF4F7C380 ~timelineMySpeciesName~ nujersi ~timelineEventCount~ solua.
+0x7558085A Solu tappoi otuksen ~timelineTargetOTDBName~.
+0x7558085B Solu tappoi ~timelineEventCount~ otusta.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Sai yhdistelmäpiirteen
+0x05FA0199 ~timelineMySpeciesName~ on kehittynyt kaikkiruokaiseksi otukseksi. Ne voivat syödä otuspelissä hedelmiä ja lihaa.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA848 Arkistoidaan asuja
+0x064AA849 Parannellaan paradigmoja
+0x064AA84A Tasapainotetaan toteemia
+0x064AA845 Säädetään sosiaalisuutta
+0x064AA846 Kehitellään kulttuureja
+0x064AA847 Tutkitaan työkaluja
+0x064AA84B Sijoitetaan saaliseläimiä
+0x064AA84C Kehitetään kalakantaa
+0x064AA84D Kuumennetaan kokkoja
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x060B425E Sai fanaatikkopiirteen
+0x06031C15 ~timelineMyEmpireName~ on nyt fanaatikko!
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 Kerätty merilevä: ~timelineSummedCount~.
+0x555BD5C3 Kerätty merilevä: ~timelineSummedCount~
+0x555BD5C4 Kerätty merilevä: ~timelineSummedCount~.
+
+# SPG_SpiceTraded
+
+0x060B4261 Rohtokauppa
+0x55564EC3 ~timelineSummedCount~ rohtoyksikköä myyty.
+0x05FA01D5 ~timelineSummedCount~ rohtoyksikköä myyty.
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~ on saanut mestarimerkin.
+0x060B4253 Mestarimerkki ansaittu
+
+# CLG_GameStart
+
+0x060B4210 Sukupolvi ~timelineGenerationCount~
+0x05FA0192 Ryömit esiin meteoriitista
+
+# CVG_EpicCharmed
+
+0x3552A306 Jätti hurmattiin
+0x3552A307 ~timelineMyCivName~ hurmasi jätin ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Kaupungin sotilaallinen valloitus
+0x06031AAA ~timelineMyCivName~ on armeijansa avulla kaapannut kaupungin. ~timelineTargetCivName~ menetti kaupunkinsa.
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ on menettänyt ~timelineEventCount~ rohtoesiintymää.
+0xD54932C1 ~timelineMyCivName~ menetti rohtoesiintymän.
+0xD54932C0 Rohtoesiintymä menetettiin
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 ~timelineEventCount~ talouden vesikulkuneuvoa rakennettiin.
+0x35523EC3 Kulkuneuvo
+0x35523EC4 Talouden vesikulkuneuvo rakennettiin.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ nousi maalle ja aloitti matkansa kohti tietoisuutta.
+0x060B421A Sukupolvi ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 ~timelineEventCount~ kasvia syöty
+0x352DBDB7 ~timelineMySpeciesName~ söi kasvin.
+0x75580856 Solu söi kasvin.
+0x352DBDB8 ~timelineMySpeciesName~ söi ~timelineEventCount~ kasvinosaa.
+0x75580857 Solusi söi ~timelineEventCount~ kasvinosaa.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ on muodostanut heimon.
+0x060B4229 Siirryit heimopeliin
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~ on nyt sodassa. ~timelineTargetEmpireName~ on vastapuoli.
+0x060B424F Sota aloitettu
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Armeijan vesikulkuneuvo
+
+# TRG_TribeMemberBorn
+
+0x060B4233 Heimon jäsen syntyi
+0xD4F81307 Heimoon ~timelineMyTribeName~ syntyi ~timelineEventCount~ poikasta.
+0x05FA01B5 ~timelineMyTribeName~ sai uuden poikasen.
+
+# SPG_RareFound
+
+0x05FA01D6 Harvinainen esine löytyi: ~timelineRareName~
+0x060B4262 Harvinainen esine löytyi
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Rakensi ilma-aluksen
+0x34F81C5A ~timelineEventCount~ ilma-alusta rakennettiin.
+0x05FA01C5 Ilma-alus rakennettiin.
+
+# TRG_FruitGathered
+
+0x05FA01B7 ~timelineSummedCount~ hedelmää kerätty.
+0x060B4235 ~timelineSummedCount~ hedelmää kerätty.
+0x94F804D9 ~timelineSummedCount~ hedelmää kerätty.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ päätyi taloudelliseksi sivilisaatioksi.
+0x060B4240 Sai talouspiirteen
+
+# TRG_FishGathered
+
+0x54F8079A ~timelineSummedCount~ kalaa ongittu.
+0x05FA01B8 ~timelineSummedCount~ kalaa ongittu.
+0x060B4236 ~timelineSummedCount~ kalaa ongittu.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 ~timelineEventCount~ uskonnon vesikulkuneuvoa rakennettiin.
+0x35523EC6 Kulkuneuvo
+0x35523EC7 Uskonnon vesikulkuneuvo rakennettiin.
+
+# CVG_TradeCompleted
+
+0x3549292C Kaupat solmittiin
+0x3549292D ~timelineMyCivName~ kävi kauppaa ~timelineSummedCount~ Spore-taalerin edestä.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Uskonnon ilma-alus rakennettiin.
+0xB5523D48 ~timelineEventCount~ uskonnon ilma-alusta rakennettiin.
+0xB5523D46 Kulkuneuvo
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Uskonnon ilma-alus
+
+# CVG_GiftGiven
+
+0xD54932C3 Maksu suoritettiin
+0xD54932C5 ~timelineMyCivName~ lahjoitti ~timelineSummedCount~ Spore-taaleria.
+0xD54932C4 ~timelineMyCivName~ lahjoitti ~timelineSummedCount~ Spore-taaleria.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Sai kasvinsyöjän piirteen
+0x05FA0197 ~timelineMySpeciesName~ on kehittynyt kasvinsyöjäksi. Kasvinsyöjät voivat syödä otuspelissä vain hedelmiä.
+

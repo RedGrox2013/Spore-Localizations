@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000093 Место назначения: ~mission_source_star~.
+0x00000097 Выполняется
+0x00000095 Битва на планете ~mission_target_planet~ выиграна. Возвращайся на планету ~mission_source_planet~ в звездной системе ~mission_source_star~.
+0x00000099 Задание выполнено! Пора вернуться в звездную систему ~mission_source_star~.
+0x00000098 Выполнено
+0x000000B2 Вернуться на планету ~mission_source_planet~.
+0x00000081 Мы не можем отдать этот сектор гроксам. Борьба будет продолжаться, но уже без тебя.
+0x00000094 Гроксы напали на звездную систему ~mission_target_star~. Не дай им захватить планету ~mission_target_planet~.
+0x00000071 Ты вообще на чьей стороне? Если гроксы захватят планету ~mission_target_planet~, то скоро весь сектор будет принадлежать им.
+0x00000092 В звездной системе ~mission_target_star~ начинается нашествие гроксов. Останови захватчиков!
+0x00000041 Блестящая победа, ~ep1_captain_full_name~! У тебя явно есть военная жилка.~p~Против тебя у гроксов нет никаких шансов.~p~Вот твои ~mission_rewards~ спорл. Этого должно хватить на оплату всех издержек.
+0x000000B1 Останови нашествие на планете ~mission_target_planet~.
+0x0000004E Вперед, боец! Координаты планеты уже внесены в архив заданий!
+0x00000000 Тревога! На планете ~mission_target_planet~ замечен корабль гроксов! Похоже, они хотят захватить планету. Нам срочно нужно отправить туда военных!~p~Что скажешь, ~ep1_captain_full_name~?
+0x00000064 Корабль гроксов должен быть уничтожен как можно скорее. Потом его можно будет разрушить только бластером.~p~Но тогда уже, к сожалению, вместе с планетой.
+

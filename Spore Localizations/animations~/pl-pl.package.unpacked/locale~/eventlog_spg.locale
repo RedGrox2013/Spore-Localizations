@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 Planeta ~planet_name~ w układzie ~star_name~ osiągnęła fazę cywilizacji!
+0x06771171 Planeta ~planet_name~ w układzie ~star_name~ osiągnęła fazę kosmosu!
+0x067710B2 Planeta ~planet_name~ w układzie ~star_name~ osiągnęła fazę plemienia!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Odznaka odblokowana
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Aby można było użyć tego narzędzia, na planecie musi żyć jakiś gatunek zwierzęcia!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Zdobywasz prawo dodania sprzymierzonego statku do swojej floty.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A To narzędzie może być użyte tylko na planetach należących do imperiów.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD Kolonia będzie zbyt daleko od przyprawy.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 To narzędzie nie może być używane pod wodą.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Zwiększono zapas przyprawy.
+
+#standard....
+
+0x0000002F Kolonie nie mogą przetrwać pod wodą. Umieść swoją kolonię na lądzie.
+0x00000017 Wszystkie plemiona na planecie ~planet_name~ wyznają Twe imię! [nieużywane]
+0x00000031 Ta planeta jest już zajęta.
+0x057F4C52 Masz za mało energii, aby użyć tego narzędzia.
+0x0000002C Ten roślinożerca nie przetrwa na tej planecie. Dodaj więcej roślin.
+0x00000005 Twoi wyznawcy na planecie ~planet_name~ stali się cywilizacją technologiczną. [nieużywane]
+0x04E38CF9 To narzędzie może być użyte tylko na planetach, na których znajduje się Twoja kolonia.
+0x04E39F9A Możesz mieć tylko jeden egzemplarz na każdej planecie!
+0x04E3AB1A Nie możesz tego odłożyć wewnątrz kolonii.
+0x04E3AAFD Ten obiekt musi zostać umieszczony na lądzie.
+0x0580C3FA To narzędzie może być użyte tylko na planetach innych imperiów.
+0x0000001E Jakiś gatunek na tej planecie wymarł na skutek pogorszenia się typu planety.
+0x0000002E Zwierzęta nie przetrwają w lawie. Umieść je na lądzie.
+0x065BCDA0 Uważaj: kradzież obiektów z innych planet rozgniewa lokalne imperium.
+0x065BCDA7 Uważaj: porywanie mieszkańców planety rozgniewa lokalne imperium.
+0x0000001C Twoja ładownia jest pełna. Musisz zwolnić trochę miejsca.
+0x0000002D Upuszczanie stworów z dużych wysokości zabija je. Transportuj je na dół delikatnie.
+0x0000001B Krytyczny status funkcji podtrzymywania życia!
+0x00000016 Niszczysz swoje własne budynki.
+0x00000032 Dodaj budynek, aby rozwinąć swoją kolonię.
+0x00000034 Masz za mało pieniędzy, aby użyć tego narzędzia.
+0x0000002B Ten gatunek nie przetrwa pod wodą. Umieść go na lądzie.
+0x0637C896 To pułapka! Wpadasz w zasadzkę zastawioną przez piratów!
+0x0000000B Twoja ekspedycja zbankrutowała. Poczekaj na holownik. [nieużywane]
+0x0637C897 Zebrane: ~tool_name~.
+0x0000000D Typ planety ~planet_name~ to obecnie ~terraform_level~.
+0x00000023 Wrogi statek kosmiczny został zniszczony!
+0x00000011 Patrz! Planeta ~planet_name~ jest plądrowana przez piratów.
+0x00000027 Upuszczanie porwanych istot zabija je. Transportuj je na dół delikatnie.
+0x00000006 Fałszywy prorok! To plemię uważa, że Twoja religia jest dla słabeuszy. [nieużywane]
+0x04F77C3E Ten gatunek jest już obecny w tym miejscu.
+0x0000000E Skanowanie zakończone powodzeniem. Wszystkie dane zostały zapisane w Sporpedii.
+0x04F7B80D Aby ta forma życia mogła przetrwać na planecie ~planet_name~, musisz poprawić jej typ.
+0x00000036 Wykryto wspaniały nowy artefakt.
+0x04F7B030 Ten mięsożerca nie przetrwa na tej planecie. Dodaj więcej roślinożerców.
+0x0000003A Nie możesz się tutaj osiedlić. System ~star_name~ jest już domem innego gatunku.
+0x00000022 Gatunek ~generic_name~ wymarł z głodu.
+0x06037BB6 Jeden z gatunków obecnych na planecie wymarł z powodu podniesienia się poziomu wody.
+0x00000002 Widząc, że masz wystarczającą pomoc, jeden ze sprzymierzonych statków powrócił do domu.
+0x00000026 Nieś nowinę, ale rób to systematycznie.
+0x00000003 Twój sojusznik przysłał nowy statek, który dołączył do Twojej floty.
+0x061DBC92 Cel poza zasięgiem.
+0x06170F80 To narzędzie musi zostać wycelowane.
+0x04F615F5 Aby zapisać, musisz opuścić planetę.
+0x05483AB4 Dodajesz stwora o nazwie ~creature_name~ do swojego rezerwatu przyrody. W rezerwacie znajduje się ~animal_count~ z ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ możliwych zwierząt.
+0x00000035 Jeden ze statków naszych sprzymierzeńców został zniszczony!
+0x0000000C Poleć do jednej z naszych bezpiecznych kolonii, aby naprawić swój statek kosmiczny.
+0x0546A708 W tym rezerwacie przyrody nie ma już miejsca na więcej zwierząt.
+0x05C2BC26 Przed poprawieniem typu planety musisz zapełnić przynajmniej jeden rząd roślin i zwierząt!
+0x0000002A Rośliny nie przetrwają w lawie. Umieść je na lądzie.
+0x0591CCD6 Znajdujesz unikatową planetę!
+0x0000000F Ta planeta nie będzie mogła utrzymać dodatkowych kolonii, dopóki nie poprawisz jej typu.
+0x0000001F Gatunek ~generic_name~ wymarł. Umieszczasz rzeczy zbyt blisko siebie. Spróbuj umieszczać po drugiej stronie planety. [nieużywane]
+0x04EA4FD9 Twoje skanery nie zdołały zidentyfikować mieszkańców tej planety. Zamelduj się na swojej planecie macierzystej.
+0x00000021 Gatunek ~generic_name~ wymarł.
+0x04ED0A12 Otrzymujesz w nagrodę 42 fantastyczne narzędzia i znajdujesz rzadką Formację Galaktyczną.
+0x00000028 Rośliny nie przetrwają pod wodą. Umieść je na lądzie.
+0x00000029 Ta roślina ma niewłaściwą wielkość i nie pasuje do miejscowego ekosystemu. Spróbuj rośliny innej wielkości.
+0x04D28917 Dostępne są nowe narzędzia.
+0x00000020 Gatunek ~generic_name~ wymarł z powodu braku roślin.
+0x00000001 Nie możesz użyć tego narzędzia na własnej planecie macierzystej.
+0x00000043 Twój wskaźnik obawy przed Groksami właśnie zmalał do „Wcale się nie boję. A jest czego?”.
+0x00000044 Twój wskaźnik obawy przed Groksami właśnie wzrósł do „Troszkę się boję”.
+0x00000048 Twój wskaźnik obawy przed Groksami wskazuje „Szaleńczy strach”.
+0x00000042 Twój wskaźnik obawy przed Groksami właśnie wzrósł do „Wcale się nie boję. A jest czego?”.
+0x0000004A Zbyt toksyczne do Twojej ładowni. Trwa spalanie...
+0x00000045 Twój wskaźnik obawy przed Groksami właśnie spadł do „Troszkę się boję”.
+0x00000046 Twój wskaźnik obawy przed Groksami właśnie wzrósł do „Szaleńczy strach”.
+0x00000047 Twój wskaźnik obawy przed Groksami wskazuje „Troszkę się boję”.
+0x06707FAA Ta nisza ekologiczna jest już wypełniona i nie można w niej umieścić następnego gatunku.
+0x066F10AB Otrzymano wiadomość z planety macierzystej!
+0x066F10B8 Otrzymano wiadomość z kolonii!
+0x00000025 Pzredstawiciele ~race~ przejęli kontrolę nad systemem ~star_name~ i skolonizowali nową planetę!
+0x00000024 W tym momencie ~race~ utraciło kontrolę nad systemem ~star_name~.
+0x00000049 Niestety, ~race~ anulowało misję, ponieważ nasze stosunki się pogorszyły.
+0x06159AE6 Członkowie ~race~ tracą zainteresowanie sojuszem z Tobą. Złóż im wizytę.
+0x00000041 Ostatecznie ~race~ zostało zniszczone.
+0x00000040 Sojusz między ~race~ oraz ~race2~ został zerwany.
+0x0000003F Rasy z ~race~ oraz ~race2~ zawarły sojusz.
+0x06527A69 Twój szlak handlowy do ~race~ został zerwany.
+0x06527A66 Przedstawiciele ~race~ tracą zainteresowanie Twoim szlakiem handlowym. Popraw swoje stosunki!
+0x0000003E Rasy z ~race~ oraz ~race2~ podpisały traktat pokojowy.
+0x05807D8E Ostatecznie ~race~ zakończyło wojnę z Tobą.
+0x05790C96 Nadchodzi przekaz od ~race~!
+0x00000008 ~count~ z ~tribe_count~ ~^p^count^plemienia^plemion~ na tej planecie teraz ~^p^count^czci^czci~ ciebie! [nieużywane]
+0x0000003B Obecnie każde miasto na tej planecie oddaje tobie cześć! [nieużywane]
+0x00000010 Udało ci się znaleźć rzadki obiekt o nazwie ~rare_name~. Pochodzi z kolekcji ~rare_count~ ~rare_group~.
+0x00000019 Wróć na swoją planetę macierzystą. Czeka na ciebie kolejne zlecenie.
+0x0000003D Hej, ~race~ wypowiedziało wojnę ~race2~.
+0x04BD7870 Nie masz żadnych sojuszników, którzy mogliby przybyć ci na pomoc!
+0x04BD78A5 Na tej planecie nie ma żadnych wrogów, w walce z którym mogliby ci pomóc Twoi sojusznicy.
+0x04BD78A0 Twoi sojusznicy już ci pomagają!
+0x04EA4FD8 Udało ci się zabić Groksów na tej planecie, terraformując ją do poziomu T1!
+0x0591CCD5 Udało ci się znaleźć Galaktyczną Formację.
+0x00000004 Hej, ~race~ wypowiedziało ci wojnę. Szykuj się do bitwy.
+0x0000001A Twój sojusz z ~race~ został zerwany.
+0x0000003C Nie udało ci się sprawić, aby to miasto oddawało ci cześć. Spróbuj gdzieś indziej. [nieużywane]
+0x0000001D Udało ci się znaleźć ~count~ ładunków narzędzia o nazwie ~tool_name~!
+0x00000037 Jeśli będziesz do nich strzelać, oni zaczną strzelać do ciebie.
+0x0567757C Twoi partnerzy handlowi w systemie gwiezdnym ~star_name~ wysoko cię oceniają. Być może ~race~ jest gotowe do dalszych rozmów dyplomatycznych.
+0x00000018 Udało ci się założyć kolonię na planecie ~planet_name~!
+0x00000039 ~count~ z ~city_count~ ~^p^count^miasta^miast~ na tej planecie teraz ~^p^count^oddaje^oddają~ tobie cześć! [nieużywane]
+0x0541A219 Udało ci się ustabilizować typ planety.
+0x0541A247 Udało ci się skompletować sekcję ekosystemu, co umożliwia powstanie zaawansowanych kolonii.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Tego narzędzia nie można użyć na planetach imperiów.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 Kolonie muszą być umieszczane w pobliżu przyprawy.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Nie możesz użyć tego narzędzia na planecie z rezerwatem przyrody.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 To narzędzie może być używane tylko na dzikich planetach.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Tu będzie tekst>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Tego narzędzia nie można użyć ponad miastem.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BAC9F Nie możesz użyć tego narzędzia na stworze epickim.
+0x0654C9DF Ta planeta poddała się, ale w systemie nadal pozostały inne planety.
+0x064C024E Aby otworzyć planistę kolonii, musisz poprawić typ planety. [nieużywane]
+0x065BFFFA Nie masz miejsca na więcej przyprawy.
+0x0654CA48 Miasto poddało się tobie.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Tu tekst postępu misji>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Masz już Mini-Ty.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 W Twojej flocie jest zbyt mało miejsca na kolejny statek.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Tu tekst postępu misji>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Jesteś zbyt wysoko, aby użyć tego narzędzia.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 To narzędzie może być użyte tylko w systemie gwiezdnym ze szlakiem handlowym.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA Typ tej planety jest zbyt niski, aby móc użyć tego narzędzia.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 Kolonia jest zbyt blisko przyprawy.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Nie możesz użyć tego narzędzia. Ta planeta osiągnęła już najwyższy poziom.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Tu tekst statusu misji>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 Pojazd ~vehicle_name~ został już przeskanowany.
+0x043AD9E0 Nowy statek kosmiczny, ~ufo_name~, został przeskanowany i dodany do Twojej Sporpedii.
+0x04374114 Nowy budynek, ~building_name~, został przeskanowany i dodany do Twojej Sporpedii.
+0x04374125 Budynek ~building_name~ został już przeskanowany.
+0x04377191 Nowy pojazd, ~vehicle_name~, został przeskanowany i dodany do Twojej Sporpedii.
+0x03FFE77B Nowa roślina, ~game_plant_name~, została przeskanowana i dodana do Twojej Sporpedii.
+0x03FFE7FB Roślina ~game_plant_name~ została już przeskanowana.
+0x03FFE803 Stworzenie ~creature_name~ zostało już przeskanowane.
+0x03FFE7FF Nowe stworzenie, ~creature_name~, zostało przeskanowane i dodane do Twojej Sporpedii.
+0x043AD9F2 Statek kosmiczny, ~ufo_name~, został już przeskanowany.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Na tej planecie nie można użyć monolitu!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Nie możesz użyć tego narzędzia tak blisko konstrukcji.
+

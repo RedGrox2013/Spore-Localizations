@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C Te pojazdy poruszają się między dwoma punktami.
+0x079EDF5D Te pojazdy podążają za wyznaczonym członkiem obsady.
+0x079EDF5B Te pojazdy poruszają się losowo wokół miejsca początkowego.
+0x079EDF5A Te pojazdy stoją w miejscu.
+0x079817B5 Te stwory poruszają się losowo wokół miejsca początkowego.
+0x079817B1 Te stwory stoją w miejscu.
+0x079817BA Te stwory poruszają się między dwoma punktami.
+0x079817BE Te stwory podążają za wyznaczonym członkiem obsady.
+
+# Planet Paint
+
+0xB6AFCFC0 Pokrycie gruntu
+0xB6AFCFC1 Kwiaty
+0xB6AFCFC2 Styl chmury
+
+#Goals:
+
+0x0798177E Zatrzymaj następujące obiekty: ~ep1_current_cast~.
+0x07981782 Daj następujące obiekty innemu członkowi obsady: ~ep1_current_cast~.
+0x0798178C Nie dopuść do spotkania między następującym obiektem a innym członkiem obsady: ~ep1_current_cast~.
+0x0798177B Porozmawiaj z następującymi stworami: ~ep1_current_cast~.
+0x07981764 Przejdź w pobliże następującego obiektu: ~ep1_current_cast~.
+0x07981798 Chroń następujące obiekty przed zniszczeniem: ~ep1_current_cast~.
+0x0798176F Zniszcz następujący obiekt: ~ep1_current_cast~.
+0x07981785 Zbierz następujące obiekty: ~ep1_current_cast~.
+0x07981789 Zanieś następujące obiekty innemu członkowi obsady: ~ep1_current_cast~.
+0x07981773 Dokonaj interakcji towarzyskich z następującymi stworami: ~ep1_current_cast~.
+0x07981777 Połącz siły z następującym stworem, aby dołączył do Twojej ekipy: ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF73 Sieć
+0x56AFCF74 Pyłek kwiatowy
+0x56AFCF75 Gąbka
+0x56AFCF72 Obcy
+0x56AFCF70 Domyślne
+0x56AFCF71 Zakręcony
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 budynki
+0x07981E91 pojazdy
+0x07981E90 stwory
+0x07981E93 obiekty
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Kliknij stwora, budynek lub pojazd, aby usunąć go z gry na stałe. ~br~Aby usunąć na stałe przygodę, wyjdź z przygody i otwórz Sporpedię (w tym celu wciśnij klawisz „B”). W Sporpedii znajdź przygodę, którą chcesz usunąć, wybierz ją, a następnie kliknij przycisk „Zablokuj dzieło” znajdujący się na dole po prawej stronie. Spowoduje to usunięcie przygody, ale nie zawartych w niej dzieł — te musisz usunąć oddzielnie. ~br~Do działu obsługi klienta Spore zostanie wysłany raport o tym dziele.
+
+#Awareness:  
+
+0x07981DE3 Określa, jak daleko sięga wzrok tych stworów.
+0x079EDF5E Określa, jak daleko sięga „wzrok” tych pojazdów.
+
+#Stances:
+
+0x0798179D Te stwory atakują wrogie jednostki w polu widzenia.
+0x079EDF58 Te pojazdy będą się bronić tylko wtedy, gdy zostaną zaatakowane.
+0x079EDF59 Jeżeli te pojazdy zostaną zaatakowane, zaczną uciekać.
+0x079EDF55 Te pojazdy atakują wrogie jednostki w polu widzenia.
+0x079EDF56 Te pojazdy ostrzegają przed zaatakowaniem.
+0x079EDF57 Te pojazdy nigdy nie porzucają wyznaczonego zachowania.
+0x079817A1 Te stwory ostrzegają przed zaatakowaniem.
+0x079817A5 Te stwory nigdy nie porzucają wyznaczonego zachowania.
+0x079817AD Jeżeli te stwory zostaną zaatakowane, zaczną uciekać.
+0x079817A9 Te stwory będą się bronić tylko wtedy, gdy zostaną zaatakowane.
+
+#Pickup:
+
+0x079817C5 Te stwory podnoszą wyznaczone narzędzie.
+0x079817C2 Te stwory podnoszą dowolne narzędzie.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE71 Claymation
+0x56AFCE7D Shitaake
+0x56AFCE7B Regularne skały
+0x56AFCE7A Lodowe skały
+0x56AFCE7C Skały magmowe
+0x56AFCE72 Konglomerat
+0x56AFCE73 Koralowiec
+0x56AFCE60 Brak
+0x56AFCE79 Szwajcarski ser
+0x56AFCE75 Granit
+0x56AFCE76 Organiczny
+0x56AFCE78 Piaskowiec
+0x56AFCE74 Kryształ
+0x56AFCE77 Kolce
+
+# posse ui
+
+0x0760B242 Załoga
+
+#mission ending description#
+
+0x0760B241 Finał
+
+0x0760B0F9 Wprowadzenie:
+0x075E4C78 Przeciągnij cel na członka obsady
+0x075E4C79 Ustal typ celu
+0x0760B0F8 Akt ~ep1_current_act~: opis i muzyka
+0x0760B0FA Tekst wygranej:
+0x0760B0FB Tekst przegranej:
+
+#Teams:
+
+0x07981E72 Te budynki będą atakowane przez członków obsady należących do wrogich drużyn.
+0x07981E71 Te stwory nigdy nie atakują innych członków obsady będących członkami tej samej drużyny.
+0x079EDF5F Te pojazdy nigdy nie atakują innych członków obsady będących członkami tej samej drużyny.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Akt ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Ta przygoda zawiera akt bez wyznaczonego celu. Gracz nie będzie w stanie wygrać przygody, jeśli akt nie posiada celu, lub jest ostatnim aktem przygody. Czy pomimo to chcesz zapisać przygodę?
+
+#Give:
+
+0x079817CE Te stwory dają narzędzie wyznaczonemu członkowi obsady.
+0x079817C9 Te stwory dają narzędzie dowolnemu członkowi obsady.
+

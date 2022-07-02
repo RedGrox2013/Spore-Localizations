@@ -1,0 +1,31 @@
+﻿#######################################
+# event logs
+
+0x00000001 Es wurde ein neuer Stamm gegründet!
+0x00000002 Frohlocket! ~tribe_creature_name~ ist geboren! 
+0x00000003 Baby ~tribe_creature_name~ ist gestorben. 
+0x00000004 ~tribe_creature_name~ ist jetzt erwachsen.
+0x00000005 Hilfe! Ein Baby ist in Gefahr!
+0x0000000D Angreifer in Sicht! Ein anderer Stamm greift an.
+0x00000012 Verteidige dich! Der Stamm wird angegriffen!
+0x00000014 ~tribe_name~ ist ab sofort dein Erzfeind.
+0x00000015 ~tribe_name~ mag deinen Stamm nicht.
+0x00000017 ~tribe_name~ ist jetzt dein Freund.
+0x00000018 ~tribe_name~ ist jetzt dein Verbündeter.
+0x051CC258 Du hast im Moment zu viele domestizierte Tiere.
+0x0590E277 Wilde Tiere wollen dein Futter stehlen!
+0x05932CF9 Es wurden Räuber gesehen! Sie wollen dein Futter stehlen!
+0x066F6C43 Du hast das Werkzeug "Speer" freigeschaltet!
+0x066F6C44 Du hast das Werkzeug "Fackel" freigeschaltet!
+0x066F6C3C Du hast das Werkzeug "Axt" freigeschaltet!
+0x066F6C3E Du hast das Werkzeug "Angeln" freigeschaltet!
+0x066F6C3D Du hast das Werkzeug "Didgeridoo" freigeschaltet!
+0x066F6C41 Du hast das Werkzeug "Horn" freigeschaltet!
+0x066F6C42 Du hast das Werkzeug "Maraca" freigeschaltet!
+0x066F6C3F Du hast das Werkzeug "Sammeln" freigeschaltet!
+0x066F6C40 Du hast das Werkzeug "Heilen" freigeschaltet!
+0x0000000E ~tribe_name~ möchte deinem Stamm etwas schenken! Klicke auf den Korb, um das Geschenk anzunehmen.
+0x00000016 ~tribe_name~ weiß nicht recht, was es von dir halten soll.
+0x051CC20D Du hast ein Mitglied der ~tribe_creature_species~-Spezies domestiziert!
+0x051CCA6A Du hast bereits ein Tier der ~tribe_creature_species~-Spezies domestiziert!
+

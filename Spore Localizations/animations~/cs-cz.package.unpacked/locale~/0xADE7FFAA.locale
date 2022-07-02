@@ -1,0 +1,122 @@
+﻿0x711D4A01 Chcete-li nainstalovat ~string~, musíte mít nejprve nainstalováno SPORE™ nebo SPORE™ Tvoření příšerek.~CSA_TRIAL_UNSUPPORTED~
+0x25A6ABC6 Soubor nelze otevřít kvůli jeho informacím o přetečení.~PATCH_ERROR_OVERFLOW_CREATE~
+0x71211E4D Soubor patchw32.dll je zaneprázdněn.~PATCH_ERROR_BUSY~
+0x7B152168 Kliknutím na Instalovat zahájíte instalaci.~br~~br~Pokud si chcete ještě prohlédnout nebo změnit některá vaše nastavení instalace, klikněte na Zpět nebo kliknutím na Zrušit instalaci ukončete.~BEGIN_INSTALLATION~
+0x06220BA5 Pro nainstalování ~string~ na váš počítač klikněte na Další!~WELCOME_SPORE_MESSAGE~
+0x07B43E64 Průvodce InstallShield Wizard zaktualizoval %P na verzi %VS.~UPDATE_COMPLETE~
+0x09FAE7DA Soubor záplaty je  neplatný.~PATCH_ERROR_INVALID~
+0x72B5864F Starý soubor nebyl nalezen. Byl však nalezen stejný soubor. Obsahy se liší, a proto nebyla provedena žádná aktualizace.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x7D4A4E2F Vlastní~CUSTOM~
+0x2F6DAE9F Soubor záplaty pro nesprávnou platformu.~PATCH_ERROR_PLATFORM~
+0x3017EF99 Přejete si smazat všechna uživatelská data vytvořená ~string~?~REMOVE_USERDATA~
+0x227BB46B Nebylo zadáno platné heslo. Záplatu nelze aplikovat.~PATCH_ERROR_PASSWORD~
+0x70C5CBE4 Nelze zapisovat do tabulky přetečení.~PATCH_ERROR_OVERFLOW_WRITE~
+0x02699E57 Druh instalace~SETUP_TYPE_TITLE~
+0x4A43CA10 Nelze otevřít starý soubor.~PATCH_ERROR_OLD_FILE~
+0x494AA82F Průvodce byl přerušen dříve, než mohl být na ~string~ nainstalován opravný balíček.~br~~br~Až budete chtít později tento balíček na program nainstalovat, spusťte prosím instalaci balíčku znovu.~UNINSTALL_INCOMP~
+0x4950A450 Spore™ Tvoření příšerek zkušební verze~SCC_TRIAL_NAME~
+0x38A8F152 Vítejte ve ~string~~WELCOME_SPORE_TITLE~
+0x3C8EC28C Než bude možné odinstalovat ~string~, musíte odinstalovat SPORE™ Tvoření příšerek.~UNINSTALL_CSA_FIRST~
+0x01FCAF57 Moje Spore výtvory~SAVE_FOLDER~
+0x4DE32707 Než budete pokračovat, ukončete prosím ~string~.~GAME_RUNNING_STRING~
+0x292EDCB9 SPORE™ Tvoření příšerek~CSA_TITLE~
+0x4C7A3E93 Podpora MSI je dostupná pouze při aplikaci záplaty v 32-bitové verzi systému Windows.~PATCH_ERROR_MSI_32BIT~
+0x4C87F179 Na soubor již byla záplata aplikována.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF Přerušeno akcí uživatele.~PATCH_ERROR_CUSTOM_ACTION~
+0x303D349E Soubor: ~string~~br~Chyba: ~string~~COMP_ERROR_MSG~
+0x07F727E1 SPORE™~GAME_TITLE~
+0x45DB3D71 Nelze otevřít zdrojový soubor zálohy.~PATCH_ERROR_BACKUP_SOURCE~
+0x61ABCBCD Při zapisování do nového souboru došlo k chybě.~PATCH_ERROR_WRITING_FILE~
+0x3D73B13D Nelze najít záplatu určenou v souboru záplaty.~PATCH_ERROR_NOT_FOUND~
+0x1004B90B Přejete si nainstalovat nejnovější EA Download Manager? EADM vás bude informovat o nejnovějších herních aktualizacích a vylepšeních a umožní vám jejich rychlejší stahování. Hráči, používající EADM, budou moci využívat exkluzivní obsahy a herní aktualizace od Maxis™.~EADM_Install~
+0x3B9C8CD2 Než odinstalujete ~string~, musíte nejdříve odinstalovat všechny rozšiřující balíčky.~UNINSTALL_EXPANSIONS_FIRST~
+0x7734F859 Před instalací produktu ~string~ musíte mít nainstalované SPORE™.~SPORE_NOT_INSTALLED~
+0x16FBAEAF Nyní se můžete pustit do hraní ~string~~READY_TO_PLAY~
+0x1E337A76 Kliknutím na Instalovat zahájíte instalaci.~br~~br~Pokud si chcete ještě prohlédnout nebo změnit některá vaše nastavení instalace, klikněte na Zpět. Kliknutím na Zrušit tohoto průvodce ukončíte.~br~~br~~string~ nelze odinstalovat, pokud nebyl odinstalován produkt ~string~.~DLG_SDSTARTCOPY2_MSG~
+0x46A61B9B ~string~ nenalezeno.~MISSING_FILES~
+0x23FD0D11 Spore™ Tvoření příšerek~SCC_NAME~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x5EC7AFC0 Máte již spuštěnou kopii SPORE™ Tvoření příšerek. Než budete pokračovat, ukončete prosím SPORE™ Tvoření příšerek.~GAME_RUNNING_CSA~
+0x59450AC4 Druh instalace~br~Zvolte si druh své instalace~SETUP_TYPE_MESSAGE~
+0x1D6F9667 Je potřeba novější verze programu záplaty.~PATCH_ERROR_INCOMPATIBLE~
+0x55BA6A48 Nelze číst z tabulky přetečení.~PATCH_ERROR_OVERFLOW_READ~
+0x3BCC85D2 Nedostatek volného místa na disku - k aplikaci záplaty je potřeba nějaké místo uvolnit.~PATCH_ERROR_DISKSPACE~
+0x1ADB7500 Nelze otevřít serializační soubor.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x54F8A844 Nedostatek paměti.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x2A2F9BCC Nelze vytvořit dočasný soubor.~PATCH_ERROR_TEMPORARY~
+0x367E6B82 Hru SPORE™ máte zrovna spuštěnou. Než budete pokračovat, ukončete ji prosím.~GAME_RUNNING~
+0x58210F85 Instalace produktu ~string~ nebyla úspěšná. Váš systém nebyl upraven. Zkuste to prosím znovu.~INSTALL_UNSUCCESSFUL~
+0x5760C2F0 Soubor záplaty není platný.~PATCH_ERROR_VERIFY_FAILED~
+0x374F68D8 Čekejte prosím, než se nastavení pokusí o zrušení autorizace ~string~.~WAIT_DEAUTHORIZE~
+0x783C20B6 Průvodce InstallShield Wizard nyní zaktualizuje nainstalovanou verzi (%VI) produktu %P na verzi %VS.  Pokračujte stisknutím tlačítka Další.~UPDATE_TO_NEW_VERSION~
+0x568D9702 Žádný z parametrů na příkazovém řádku nepředstavuje existující adresář.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x353F37C7 Aby bylo možné pokračovat, je třeba odinstalovat ~string~. Přejete si pokračovat?~SPORE_REMOVE_CSA_WARNING~
+0x5CEBC9EF Pro aktualizovaný soubor nelze nastavit razítko s časem/datem.~PATCH_ERROR_TIME~
+0x3C17044B Přerušeno uživatelem/chyba při načítání souboru patchw32.dll.~PATCH_ERROR_IS_ABORT~
+0x19843E71 Nelze otevřít nový soubor.~PATCH_ERROR_NEW_FILE~
+0x01725188 Aplikace záplaty na SPORE™ Tvoření příšerek nebyla dokončena. Zkuste prosím aplikaci záplaty na SPORE™ Tvoření příšerek zopakovat později.~PATCH_FAILED_CSA~
+0x3C7BB1E1 Instalační program SPORE™ nejprve aktualizuje vaší kopii hry SPORE™ na nejnovější verzi a poté bude pokračovat v instalaci ~string~.~UPDATE_SPORE~
+0x5E418C32 Než bude možné odinstalovat ~string~, musíte odinstalovat SPORE™.~UNINSTALL_SPORE_FIRST~
+0x50F7380E Electronic Arts~EA_GAMES~
+0x5C043E34 Probíhá aplikace záplaty na soubory...~APPLY_PATCH~
+0x2A8D9AF3 EA Nápověda~EA_HELP~
+0x0018FC1D Instalační program SPORE™ nejprve aktualizuje vaši kopii SPORE™ Tvoření příšerek na nejnovější verzi a poté obnoví instalační proces ~string~.~UPDATE_CSA~
+0x51909529 Odeberte tomuto stroji autorizaci~DEAUTHORIZE~
+0x51EA40D5 Jste-li ve stavu offline a pokračujete v odinstalaci, nebude u tohoto počítače provedeno zrušení autorizace. Přejete si pokračovat?~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\Ctimne.txt~ADD_REMOVE_PROGRAMS_README~
+0x27D33671 Zvolili jste příliš dlouhou cestu k souboru. Zvolte prosím kratší.~DIR_TOO_LONG~
+0x6AEE038F Adresář aktualizace neexistuje.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x28A00C2C Na příkazovém řádku může být zadán pouze jeden soubor a jeden adresář.~PATCH_ERROR_COMMAND_LINE~
+0x74CA8AD7 Nelze přejmenovat soubor.~PATCH_ERROR_RENAMING~
+0x40D6F8BD Po instalaci zobrazit soubor Čti mne.txt~VIEW_README~
+0x6BA1B25F Na zvolené jednotce není dostatek volného místa. Musíte na ni místo uvolnit.~NO_SPACE_MSG_CP~
+0x144073D1 ~string~ se nainstaluje do vámi zvolené složky.~CUSTOM_SPORE_SETUP~
+0x319AD21D SPORE™~PRODUCT_NAME~
+0x23584337 Aplikace záplaty na registr/INI není v systému DOS podporována.~PATCH_ERROR_DOS~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x1498EC13 Instalace může začít!~READY_TO_INSTALL~
+0x3D927FE5 SOFTWAROVÉ LICENČNÍ UJEDNÁNÍ PRO KONCOVÉHO UŽIVATELE~SOFTWARE_LICENSE~
+0x6BCC80AF Soubor nelze odstranit či přejmenovat. Soubor může být zamčen či používán.~PATCH_ERROR_RENAMING_DELETING~
+0x3162CD81 Chyba záplaty~PATCH_ERROR_TITLE~
+0x0A77D8D6 SPORE™ Galaktická dobrodružství~SPORE_EP1_NAME~
+0x0F5F623F V souboru nelze vyhledávat k umístění.~PATCH_ERROR_SEEKING~
+0x6CD070E6 Nebyly nalezeny některé informace potřebné pro odinstalaci. Chyba možná nastala během úvodního nastavování. Některé soubory a složky možná budou muset být odstraněny ručně.~MISSING_UNINSTALL~
+0x7E8BB5FD Instalace byla dokončena~INSTALLATION_COMPLETE~
+0x7EC3C6FA Nelze vytvořit adresář zálohy.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x0AA43B92 Doporučená~RECOMMENDED~
+0x0F1854E4 Serializační soubor nelze přečíst.~PATCH_ERROR_READING_SERIALIZATION~
+0x7426EAA1 Ikona na ploše~DESKTOP_SHORTCUT~
+0x40CFBF3E Nelze otevřít soubor záplaty.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x7FA1F2A0 Odinstalovat ~string~~UNINSTALL_APPLICATION~
+0x0F48320C Nelze načíst isrtp.dll.~PATCH_ERROR_IS_LOAD~
+0x0AC7C17D Položka registru /INI chybí nebo je neplatná.~PATCH_ERROR_REGISTRY~
+0x6754C223 Nový soubor již existuje.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x3269ED31 Nelze otevřít soubor chybové zprávy.~PATCH_ERROR_ERROR~
+0x767EF241 Nelze otevřít cílový soubor zálohy.~PATCH_ERROR_BACKUP_DESTINATION~
+0x39040F38 Čti mne~README~
+0x394403EB Nelze vytvořit soubor protokolu zálohy.~PATCH_ERROR_BACKUP_LOG~
+0x151DEC2F Spore™ nebude řádně fungovat bez DirectX.~DIRECTX_WARNING~
+0x64663ACA Záplatování SPORE™ nebylo dokončeno. Pokuste se prosím SPORE™ zazáplatovat znovu později, nebo si vyžádejte více informací přes zákaznickou podporu.~PATCH_FAILED~
+0x2BF6EA98 Na aktuálním svazku není dostatek volného místa. Můžete z něj buď odstranit nějaké soubory, nebo zvolit jinou cílovou jednotku.~NO_SPACE_MSG~
+0x03BCF887 Vyberte si z uvedených možností.~SELECT_OPTIONS~
+0x166E669A Do ~string~ nelze instalovat.~br~Zvolte prosím jinou složku.~DANGEROUS_DIRECTORY_ERROR~
+0x16741C9F Po instalaci ~string~ spustit~LAUNCH_SPORE~
+0x15CC67E6 ~string~ se nainstaluje do~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x08F68C4F Zadaná volba není přípustná.~PATCH_ERROR_ILLEGAL~
+0x0890C566 Chyba při aktualizaci databáze MSI.~PATCH_ERROR_MSI~
+0x15C024FC Adresář aktualizace není platným názvem adresáře.~PATCH_ERROR_DIRECTORY_INVALID~
+0x0E777733 Chybí stará verze souboru, na který má být záplata aplikována.~PATCH_ERROR_MISSING_FILE~
+0x44CA6AE6 Instalace vyžaduje administrátorský účet.~ADMINISTRATOR_ACCOUNT~
+0x1F726BCA Hrát~PLAY_SPORE~
+0x657F7D49 Nelze najít soubor záplaty.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x0D849C4A Pro zavření okna klikněte na Dokončit a můžete začít hrát~CLICK_FINISH~
+0x42A0F6F9 Při čtení ze starého souboru došlo k chybě.~PATCH_ERROR_READING_FILE~
+0x64A17D06 Nastala chyba. Průvodce nemůže instalaci dokončit a bude ukončen. Zkuste to prosím znovu.~GENERAL_ERROR~
+0x208AB121 Při aplikaci záplaty došlo k chybě. (%d)~PATCH_ERROR_GENERAL~
+0x20176E40 Nelze zapsat soubor zálohy.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x7D34F09B ~string~ Instalační soubor se pokouší aktualizovat instalovanou verzi  (~string~) hry ~string~ na verzi ~string~.~UPDATING_TO_NEW_VERSION~
+0x3D80E796 Toto je nejnovější verze produktu ~string~. Aktualizace není nutná.~PATCH_NOT_REQUIRED~
+0x40922E1B ~string~ Instalační soubor aktualizoval ~string~ na verzi ~string~.~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D Musíte nainstalovat ~string~, abyste mohli opravit ~string~.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 ~string~ Instalační soubor aktualizuje hru ~string~ na nejnovější verzi.~UPDATE_PRODUCT~
+

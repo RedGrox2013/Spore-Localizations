@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E 交配
+0x0509FC4F 透過呼喚找到你的配偶，然後點選他們進入創造器！
+0x0524D329 呼喚你的配偶！
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 點擊<hinticon>學習衝刺攻擊
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546ABA4 組織部落！
+0x0514F98E 遷徙
+0x0524D32C 遷徙至新巢穴。
+0x0546AB9E 點選前進按鈕組織部落並展開你的文明生活，進化你的物種！
+0x0546AB9A 進化
+0x0514F993 你的物種必須遷移至另一個巢穴。利用你的配偶呼喚，然後跟隨軌跡找到他們！
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 群體
+
+# Find_NPC Goal Card
+
+0x0509FB93 尋找其他物種的成員，並點選他們！
+0x0509FB92 生物
+0x0524D328 會見其他物種。
+
+# crg-lowhealth.prop
+
+0x91A0449F 你受傷了！返回你的巢穴療傷
+
+# Combat text messages
+
+0x739A4E05 你太靠近了
+0xD39A5768 該能力尚未就緒
+0x3538B712 你只能在表演期間使用這技能
+0xF538B6FD 你必須在戰鬥中使用這能力
+0x06778BAC 你已經取悅過這生物
+
+# Combat Card - Mini Boss
+
+0x064D4054 打獵
+0x064D4053 獵取 ~target_species_crg~
+0x064D4056 這種獨特的生物比大多數其他物種更巨大且更強有力得多。
+0x067394F7 這獨一無二的生物比其他物種更大，更有威力。
+0x064D4055 獵取"~target_species_crg~"這生物來獲得大量的DNA獎勵。
+
+# Eating_Herbivore Goal Card
+
+0x0509F9DB 進食
+0x0509F9DC 素食生物，進食水果才能生存。尋找水果並點擊它進食。
+0x0524D325 你是吃水果的素食生物。
+
+# crg-verbcharge.prop
+
+0x6859AEDE 該能力尚未就緒
+
+# crg-spitclose.prop
+
+0x30A611E9 你太靠近了
+
+# Social Card - Mini Boss
+
+0x064D4047 這種獨特的生物比大多數其他物種更巨大且更強有力得多。
+0x064D4048 這種獨特的生物比大多數其他物種更巨大且更強有力得多。
+0x064D4046 取悅~target_species_crg~取得一個強而有力的同盟。
+0x064D4045 取悅
+0x064D4044 取悅~target_species_crg~
+
+# Find Unlocks Card
+
+0x54D958AC 獵捕或是與生物交朋友來解開新組件或是在骨頭中找到組件。
+0x54D958AB 蒐集
+0x54D958AD 尋找新的組件來進化。
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 老巢
+0x0658F2D1 新巢穴
+0x0658F2D2 舊巢穴
+0x0658F2D3 未知物種
+
+# CELL Find Unlocks Card
+
+0xF4DAF5CB 解開細胞組件
+0xF4DAF5C9 收集
+0xF4DAF5CA 獵捕細胞或是打破隕石外殼都可以解開新組件。
+
+# Build Artifact
+
+0x064D4062 收集所有神祕工藝品的碎片。
+0x064D4060 建造工藝品！
+0x064D4061 建造工藝品！
+0x064D4063 你已發現一個物件，對著你的物種散發著奇怪的神祕靈氣，蒐集他們來建立一個圖示！
+0x064D4064 你已發現一個物件，對著你的物種散發著奇怪的神祕靈氣，蒐集他們來建立一個圖示！
+
+# Claim Nest
+
+0xD538B78F 你要讓這個巢成為你的家嗎？如果你死了，將會在此重生。
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 點擊<hinticon>學習魅惑
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC 點擊<hinticon>學習噴吐
+
+# Combat - Extinct
+
+0x064D4059 ~target_species_crg~物種已絕種！
+0x064D4057 獵取 ~target_species_crg~
+0x064D405A ~target_species_crg~物種已絕種！
+0x064D405B ~target_species_crg~物種被滅絕了！
+0x064D4058 打獵
+
+# Eating_Carnivore Goal Card
+
+0x0524D324 你是葷食生物。狩獵並進食。
+0x0509F9DA 葷食生物，進食肉品才能生存。尋找屍體並點擊它進食。
+0x0509F9D9 進食
+
+# Add_Posse Goal Card
+
+0x0509FC97 讓一名同種的成員或其他友善物種加入你的群體，首先得取悅他們。
+0x0509FC96 群體成員
+0x0524D32A 增加群體成員。
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 點擊<hinticon>學習打擊
+
+# First time socializing
+
+0xF4211909 模仿其他生物取悅他們
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB 點擊<hinticon>學習歌唱
+
+# Find Unlocks Card - First Part
+
+0x06035A51 收集一個組件
+0x06035A53 找一個新的組件來進化。
+0x06035A52 獵捕或是交朋友來解開新組件，或在骨骼中找到其他組件。
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 點擊<hinticon>學習跳舞
+
+# Social Card - Hostile Species
+
+0x064D403B 取悅
+0x064D403A 取悅~target_species_crg~
+0x064D403C 你無法取悅~target_species_crg~！
+0x064D403D 一些物種天生就是不友善的，或是你的動作將會讓他們永久的跟你對抗，小心點！
+0x064D403E 一些物種天生就是不友善的，或是你的動作將會讓他們直接對抗你，小心點！
+
+# Hints
+
+0x142CD4F2 記住，葷食生物只吃肉品，素食生物只吃水果！
+0x057736C3 點選 <hinticon> 建立一個部落
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4035 取悅~target_species_crg~
+0x064D4036 取悅
+0x064D4038 一旦與這個物種結盟，你就可以在他們的巢穴中治療。
+0x064D4039 一旦與這個物種結盟，你就可以在他們的巢穴中治療。
+0x064D4037 取悅~mission_remaining_crg~隻~target_species_crg~來結盟。
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 點選一隻生物，與之進行社交
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 取悅~target_species_crg~
+0x064D4031 取悅
+0x064D4032 取悅~mission_remaining_crg~隻~target_species_crg~來結盟。
+0x064D4034 一旦與這個物種結盟，你可以在他們的巢穴治癒，並且可以邀請他們加入你的群體之中。
+0x064D4033 一旦與這個物種結盟，你可以在他們的巢穴治癒，並且可以邀請他們加入你的群體之中。
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 點擊<hinticon>學習啃咬
+
+# Reward text for all cards
+
+0x050A34CA 獎勵：獲得 ~reward_evo_crg~ 點DNA點數
+
+# Save Baby
+
+0x064D405F 一隻 ~target_species_crg~ 從你的物種中誘捕到寶寶。
+0x064D405E 安全的引領寶寶回到巢穴。
+0x064D405D 拯救寶寶！
+0x064D405C 拯救寶寶！
+0x06739532 一隻 ~target_species_crg~ 從你的物種中誘捕到寶寶！
+
+# Combat Card
+
+0x064D404E 獵取 ~target_species_crg~
+0x064D404F 打獵
+0x064D4050 獵取~mission_remaining_crg~隻~target_species_crg~
+0x064D4051 獵捕這個物種並且最終滅絕他們。
+0x064D4052 獵捕~target_species_crg~來統治他們，並且最終滅絕他們。
+
+# crg-notarget.prop
+
+0x79E8F4C5 你沒有目標
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE 雜食生物變化的飲食。找到屍體或水果，然後點選之進食。
+0x0509F9DD 進食
+0x0524D326 你是吃水果或肉的雜食生物。
+
+# Species creator
+
+0xB3DAED77 由 ~creator~ 創造
+0x73DB4258 Spore團隊製作
+
+# crg-useabilityposture.prop
+
+0x8693A0FC 點擊<hinticon>學習姿勢
+
+# con
+
+0x0595B72B 史詩生物 ~local_creature_name~
+0x0564E650 寵物~local_creature_name~
+0xB32FE522 寶寶~local_creature_name~
+0x94ACB6F7 ~local_creature_name~無賴
+0xF32FE51B ~local_creature_name~頭目
+
+# crg-locatemate.prop
+
+0x200AFD34 點選 <hinticon> 找到你的配偶
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404B ~target_species_crg~ 成為你的盟友！
+0x064D404A 取悅
+0x064D4049 取悅~target_species_crg~
+0x064D404C 你能在他們的巢穴裡治療！
+0x064D404D 你能在他們的巢穴裡治療！
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4041 ~target_species_crg~ 是你的盟友！
+0x064D403F 取悅~target_species_crg~
+0x064D4040 取悅
+0x064D4042 你可以在他們的巢穴治療或者是增加他們到你的群體裡！
+0x064D4043 你可以在他們的巢穴治療或者是增加他們到你的群體裡！
+

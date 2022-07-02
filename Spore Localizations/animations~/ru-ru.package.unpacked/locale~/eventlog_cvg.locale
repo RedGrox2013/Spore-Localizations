@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E Город ~target_city_name~ отклоняет предложение о заключении торгового соглашения.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B Город ~target_city_name~ принимает предложение о заключении торгового соглашения.
+
+#######################################
+# event logs
+
+0x00000004 Вы захватили город ~target_city_name~.
+0x00000019 Не удалось приобрести город ~target_city_name~.
+0x0000001A Город ~target_city_name~ успешно приобретен!
+0x0000000F Город ~target_city_name~ обращен в другую веру!
+0x0000000E Город ~target_city_name~ захвачен!
+0x00000005 Вы обратили город ~target_city_name~ в свою веру.
+0x00000018 Вы можете купить город ~target_city_name~.
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x00000023 Выберите технику и щелкните на источнике пряности, чтобы начать добычу.
+0x0000001C ~target_city_name~: заключено торговое соглашение.
+0x0000002C ~source_civ_name~: заключен союз.
+0x00000026 Город ~source_civ_name~ уничтожен.
+0x0000002B ~source_civ_name~: союз расторгнут.
+0x0000002A Война окончена! ~source_civ_name~ вам больше не враг.
+0x00000032 Вы захватили новый источник пряности.
+0x00000033 Вы захватили вышку на источнике пряности.
+0x00000034 В городе ~target_city_name~ праздник. Доход повысился!
+0x00000029 Война! Ваш враг - ~source_civ_name~.
+0x00000035 Щелкните на кнопке, чтобы начать.
+0x0000002F На вашу вышку напали!
+0x00000027 ~source_civ_name~: захвачен город ~target_city_name~!
+0x00000024 Основан город ~target_city_name~!
+0x00000030 Вы ограбили другое племя! Добыча - %d спорл.
+0x00000021 ~target_city_name~: на ваш город напали!
+0x00000028 Война! Ваш враг - ~source_civ_name~.
+0x00000036 Это племя настроено враждебно. Оно атакует вашу технику!
+0x00000031 Племя подарило вам единицу техники!
+

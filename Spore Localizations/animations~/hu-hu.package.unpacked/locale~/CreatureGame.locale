@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E Párzás
+0x0524D329 Találd meg a párodat!
+0x0509FC4F Hívással találhatod meg a párodat, aztán kattints rá, hogy beléphess a Lényszerkesztőbe!
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 Kattints a <hinticon> ikonra, hogy megtanulj támadni
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546ABA4 Alapíts törzset!
+0x0514F993 A fajod egy másik fészekbe költözik. Használd a hívást és kövesd a nyomokat, ha meg akarod őket találni!
+0x0524D32C Vándorolj egy új fészekbe.
+0x0514F98E Terjeszkedés
+0x0546AB9E A fajodat a Fejlődés gombra kattintva fejlesztheted. Ezzel törzset alapítasz, és megkezded a civilizált életet.
+0x0546AB9A Fejlődés
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 Falka
+
+# Find_NPC Goal Card
+
+0x0509FB93 Keresd meg egy másik faj tagját, és kattints rá!
+0x0509FB92 Lények
+0x0524D328 Találkozz más fajokkal!
+
+# crg-lowhealth.prop
+
+0x91A0449F Megsebesültél! Térj vissza fészkedhez, hogy meggyógyulhass!
+
+# Combat text messages
+
+0xD39A5768 Ez a képesség még nem áll rendelkezésre
+0x739A4E05 Túl közel vagy
+0x3538B712 Ezt a képességet csak előadás közben használhatod
+0xF538B6FD Ezt a képességet csak harc közben használhatod
+0x06778BAC Ezt a lényt már lenyűgözted
+
+# Combat Card - Mini Boss
+
+0x064D4054 Vadássz
+0x064D4056 Ez az egyedi lény sokkal nagyobb és erősebb, mint a legtöbb másik faj.
+0x067394F7 Ez az egyedi lény sokkal nagyobb és erősebb, mint a legtöbb másik faj.
+0x064D4053 Vadássz a ~target_species_crg~ fajra!
+0x064D4055 Vadássz le ~target_species_crg~ lényt jókora DNS bónuszért.
+
+# Eating_Herbivore Goal Card
+
+0x0509F9DC A növényevőknek gyümölcsöt kell ennie a túlélésért. Keress gyümölcsöt a fákon és bokrokon, és kattints rá, hogy megedd.
+0x0524D325 Növényevő vagy. Egyél egy gyümölcsöt.
+0x0509F9DB Egyél
+
+# crg-verbcharge.prop
+
+0x6859AEDE A képesség még nem használható
+
+# crg-spitclose.prop
+
+0x30A611E9 Túl közel vagy
+
+# Social Card - Mini Boss
+
+0x064D4045 Lenyűgözés
+0x064D4047 Ez az egyedi lény sokkal nagyobb és erősebb, mint a legtöbb másik faj.
+0x064D4048 Ez az egyedi lény sokkal nagyobb és erősebb, mint a legtöbb másik faj.
+0x064D4044 Nyűgözd le a ~target_species_crg~ fajt!
+0x064D4046 Nyűgözd le a ~target_species_crg~ fajt, hogy erős szövetségesed legyen!
+
+# Find Unlocks Card
+
+0x54D958AD A fejlődéshez keríts új testrészeket!
+0x54D958AC Új elemek szerzéséhez vadássz le alfa lényeket vagy barátkozz velük, illetve keress részeket a csontvázakban!
+0x54D958AB Gyűjtögetés
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 Anyafészek
+0x0658F2D1 Új fészek
+0x0658F2D3 Ismeretlen faj
+0x0658F2D2 Régi fészek
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 Összegyűjtés
+0xF4DAF5CA Új részek eléréséhez vadássz le sejteket vagy törj fel meteorszilánkokat!
+0xF4DAF5CB Sejtelemek szerzése
+
+# Build Artifact
+
+0x064D4064 Felfedeztél egy tárgyat, ami különös, misztikus aurát von a fajod köré. Gyűjtsd össze az összest, és építs belőlük ikont!
+0x064D4063 Felfedeztél egy tárgyat, ami különös, misztikus aurát von a fajod köré. Gyűjtsd össze az összest, és építs belőlük ikont!
+0x064D4062 Gyűjtsd össze a titokzatos ereklye összes részét!
+0x064D4061 Építsd meg az ereklyét!
+0x064D4060 Építsd meg az ereklyét!
+
+# Claim Nest
+
+0xD538B78F Szeretnéd ezt a fészket az otthonodul? Itt születsz újra, ha meghalsz.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 Kattints a <hinticon> ikonra, hogy megtanulj elbűvölni
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC Kattints a <hinticon> ikonra, hogy megtanulj köpni
+
+# Combat - Extinct
+
+0x064D4058 Vadássz
+0x064D4057 Vadássz a ~target_species_crg~ fajra!
+0x064D4059 A ~target_species_crg~ faj kihalt!
+0x064D405A A ~target_species_crg~ faj kihalt!
+0x064D405B A ~target_species_crg~ faj kihalt!
+
+# Eating_Carnivore Goal Card
+
+0x0509F9DA Húsevő vagy. Húst kell enned a túléléshez. Vadássz vagy keress egy tetemet, és kattintással edd meg!
+0x0524D324 Húsevő vagy. Vadássz zsákmányra, hogy ehess!
+0x0509F9D9 Egyél
+
+# Add_Posse Goal Card
+
+0x0524D32A Falkatag hozzáadása
+0x0509FC97 A falkádat úgy egészítheted ki ki fajod vagy egy szövetséges faj tagjával, ha lenyűgözöd őt.
+0x0509FC96 Falkatagok
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 Kattints a <hinticon> ikonra, hogy megtanulj támadni
+
+# First time socializing
+
+0xF4211909 Utánozd a másik teremtményt, hogy lenyűgözd őket
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB Kattints a <hinticon> ikonra, hogy megtanulj énekelni
+
+# Find Unlocks Card - First Part
+
+0x06035A51 Gyűjts össze egy elemet
+0x06035A52 Vadássz alfákra, vagy barátkozz össze velük, hogy új elemeket szerezz, illetve kutasd át a csontvázakat!
+0x06035A53 A fejlődés érdekében találj új elemet.
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 Kattints a <hinticon> ikonra, hogy megtanulj táncolni
+
+# Social Card - Hostile Species
+
+0x064D403C Nem tudod lenyűgözni a ~target_species_crg~ fajt!
+0x064D403B Lenyűgözés
+0x064D403D Némelyik faj eredendően harcias, vagy végleg magad ellen fordítottad őket. Légy óvatos!
+0x064D403E Némelyik faj eredendően harcias, vagy végleg magad ellen fordítottad őket. Légy óvatos!
+0x064D403A Nyűgözd le a ~target_species_crg~ fajt!
+
+# Hints
+
+0x142CD4F2 Ne feledd, hogy a húsevők csupán húst, a növényevők csupán gyümölcsöt ehetnek!
+0x057736C3 Kattints ide: <hinticon>, hogy törzset alkoss!
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 Lenyűgözés
+0x064D4037 Nyűgözz le ~mission_remaining_crg~ ~target_species_crg~ példányt, hogy szövetségre lépj velük!
+0x064D4038 Ha szövetséget kötsz ezzel a fajjal, gyógyulhatsz a fészkükben.
+0x064D4039 Ha szövetséget kötsz ezzel a fajjal, gyógyulhatsz a fészkükben.
+0x064D4035 Nyűgözd le a ~target_species_crg~ fajt!
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 Kattints egy teremtményre, lépj velük kapcsolatba
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4031 Lenyűgözés
+0x064D4032 Nyűgözz le ~mission_remaining_crg~ ~target_species_crg~ példányt, hogy szövetségre lépj velük!
+0x064D4034 Ha szövetségre lépsz ezzel a fajjal, gyógyulhatsz a fészkükben, és végül a falkádhoz adhatod őket.
+0x064D4033 Ha szövetségre lépsz ezzel a fajjal, gyógyulhatsz a fészkükben, és végül a falkádhoz adhatod őket.
+0x064D4030 Nyűgözd le a ~target_species_crg~ fajt!
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 Kattints a <hinticon> ikonra, hogy megtanulj harapni
+
+# Reward text for all cards
+
+0x050A34CA Jutalom: ~reward_evo_crg~ DNS pont
+
+# Save Baby
+
+0x064D405F A ~target_species_crg~faj csapdába ejtett egy kölyköt a fajtádból!
+0x064D405E Vezesd vissza biztonságban a kölyköt a fészekhez, hogy megmentsd.
+0x064D405D Mentsd meg a kölyköt!
+0x064D405C Mentsd meg a kölyköt!
+0x06739532 A ~target_species_crg~ faj csapdába ejtett egy kölyköt a fajtádból!
+
+# Combat Card
+
+0x064D404E Vadássz a ~target_species_crg~ fajra
+0x064D404F Vadássz
+0x064D4051 Vadássz erre a fajra, hogy végül kiirtsd őket.
+0x064D4052 Vadássz a ~target_species_crg~ fajra, hogy urald, és végül kiirtsd őket.
+0x064D4050 Vadássz le ~mission_remaining_crg~ ~target_species_crg~ példányt!
+
+# crg-notarget.prop
+
+0x79E8F4C5 Nincs célpontod
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE A mindenevők étrendje vegyes. Keress egy dögöt vagy egy gyümölcsöt, és kattints rá, hogy megedd.
+0x0524D326 Mindenevő vagy. Egyél gyümölcsöt vagy húst.
+0x0509F9DD Egyél
+
+# Species creator
+
+0xB3DAED77 ~creator~ alkotása
+0x73DB4258 A SporeTeam alkotása
+
+# crg-useabilityposture.prop
+
+0x8693A0FC Kattints a <hinticon> ikonra a pózolás megtanulásához
+
+# con
+
+0xB32FE522 Kölyök ~local_creature_name~
+0x94ACB6F7 Vad ~local_creature_name~
+0x0564E650 Háziállat ~local_creature_name~
+0xF32FE51B Alfa ~local_creature_name~
+0x0595B72B ~local_creature_name~, a Gigász
+
+# crg-locatemate.prop
+
+0x200AFD34 Kattints ide <hinticon> hogy megtaláld a párod
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D Gyógyulhatsz a fészkükben!
+0x064D404C Gyógyulhatsz a fészkükben!
+0x064D404B A ~target_species_crg~ faj a szövetségesed!
+0x064D404A Lenyűgözés
+0x064D4049 Nyűgözd le a ~target_species_crg~ fajt!
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4042 Gyógyulhatsz a fészkükben, vagy a falkádhoz adhatod őket!
+0x064D4041 A ~target_species_crg~ faj a szövetségesed!
+0x064D4043 Gyógyulhatsz a fészkükben, vagy a falkádhoz adhatod őket!
+0x064D4040 Lenyűgözés
+0x064D403F Nyűgözd le a ~target_species_crg~ fajt!
+

@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E 다른 임무가 좋을 것 같습니다.
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B 하겠습니다, 난 대모험을 좋아하니까요.
+0xFADED01A 흥미로운 대모험 같군요. 하겠습니다.
+0xFADED019 대모험이라면 언제든 환영입니다!
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C 거절이지만 이유는 말할 수 없습니다.
+0xFADED018 제안은 고맙지만 거절해야겠습니다.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E 제발 이해해주기 바래.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A 생각할 시간이 필요하시군요. 그럼.
+0xFADED009 다음 기회가 있겠지요. 그럼 이만.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED015 돕게 되어 영광입니다. 그럼 이만.
+0xFADED011 언제든 좋습니다. 나중에 뵙지요.
+0xFADED016 의심의 여지가 없습니다. 그럼.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED022 다른 걸 했으면 좋겠군.
+0xFADED021 이 임무는 내 스케쥴과는 맞지 않아.
+0xFADED020 이 임무는 거절해야겠어.
+0xFADED029 이 임무에서는 제발 빼줬으면 좋겠어.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 가기 전에, 다른 질문이 있습니다.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C 괜찮습니다! 천천히 하십시오!
+0xFADED005 알겠습니다. 나중에 봅시다.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 알았다, 임무 본부
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 다른 걸 질문하고 싶습니다.
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A 다시 이야기할 때까지, 안녕.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 한가지 더요.
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 아, 물론! 임무 일지. 그걸 보면 되지!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D 지금은 흥미 없어. 나중엔 어떨지 모르지.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED024 뭘하고 있었는지 까먹었어. 내 임무가 뭐지?
+0xFADED028 임무가 있어. 또 뭐야?
+0xFADED025 내 임무가 뭔지 말해줄 수 있어?
+0xFADED01F 잠깐 재충전의 시간이 필요한 것 같아.
+0xFADED027 음, 뭘 다시 해야 하는 거지?
+
+# mission_incomplete -> do exit
+
+0xFADED010 알겠습니다. 곧 다시 오겠습니다.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 귀찮게 해드려 정말 죄송합니다. 그럼 이만.
+0xFADED00B 바쁘신 것 같군요. 나중에 이야기합시다.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 여러 이유로 하지 않겠습니다.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F 어쩐지 내키지 않습니다.
+0xFADED00D '맨'을 위해 일하지 않습니다! 거절하겠습니다!
+0xFADED014 무슨 말씀을! 난 폭력이라면 질색입니다.
+0xFADED012 싫습니다. 모든 것이.별로군요.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 알겠습니다. 안녕히 계십시오
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 또.
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 가기 전에, 다른 질문이 있습니다.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED02F ~race~ 은(는) 중간에 그만두는 걸 이해 못 해요. ~player_creature_name~ 이(가) ~race~은(는) 아니죠.
+0xFADED030 ~race~이(가) 당신의 우유부단함을 의문스러워해요. 확고한 의지가 부족한 것 같군요. 불행해라.
+0xFADED02B ~player_title~ ~player_creature_name~, 흥미로운 선택입니다. 그렇지 않은 것 같지만, 우리가 모르는 정보가 당신에게 있을지도 모르겠군요.
+0xFADED032 자신만의 길을 가야 해요.~p~ 무사하길, 나의 친구여.
+0xFADED031 감히 그록스와 말을 섞다니! 어리석고 무례한 자식!
+0xFADED02D 물론, 물론이죠. 당신처럼 위대한 사람에게 그런 하찮은 일을 얘기한다는 게 소용없는 일이겠죠. 아마 날 돈으로 매수할 수도 있을까요?
+0xFADED02E 전설적인 대장이 되는 방법은 스스로 찾아야 할 것 같군요. 어려운 방법으로 말이죠. ~p~ 행운을 빌게요.
+0xFADED02C 오오 좋아요 그래, 그래요.~p~당신이 원하지 않는다면, 당신이 다른 크리쳐와 상호작용 하도록 하지 않을 거예요.~p~
+0xFADED033 좋아요. 그렇게 해요. 우린 기분 나쁘지 않아요.~p~아니, 조금은 그렇지만.
+0xFADED034 이해합니다, ~player_title~ ~player_creature_name~. 당신의 예의 바른 태도에 감사드립니다.~p~사실, 서류 작업이 약간 줄게 되었습니다. 행성 간 크리쳐를 수송하는 하청 계약 승인 과정에서는 각각 세 부씩 준비되어 있는 고작 362가지 종류의 서류에 서명하고 도장을 찍으면 됩니다. ~p~물론, 기본 절차에서 말하는 기준에도 훨씬 못 미치는 양이지요. 난폭한 종을 수송하려면 따로 필요한 서류를 작성해야 합니다.
+

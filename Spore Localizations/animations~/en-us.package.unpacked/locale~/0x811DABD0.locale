@@ -1,0 +1,21 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000000 ~ep1_captain_full_name~, you like treasure? Artifacts? Rare idols and precious gems? Of course you do!~p~Well, listen up, because I got a plan. I'll tell you the whereabouts of the legendary Golden Llama if you go fetch it for me.~p~In exchange I'll pay you ~mission_rewards~ Sporebucks.~p~Deal?
+0x00000041 Yes! The Golden Llama is finally mine! This will look great with my collection of gold things. Hmmm...maybe it would look better with my collection of llamas?~p~Thanks ~ep1_captain_full_name~ for risking your life for ~mission_rewards~ Sporebucks. I'll be sure to look you up the next time I need help acquiring a precious artifact. 
+0x0000004E Having trouble getting your hands on that Golden Llama? Check your mission log for the exact coordinates.
+0x00000064 The Golden Llama is sitting right out in the open. You just have to navigate a maze of blood-thirsty creatures to get to it.~p~Hey, if the job was easy I'd do it myself!
+0x00000071 Which part of this mission don't you like? The gold or the llama?
+0x00000081 Travelling through dangerous jungles looking for treasure isn't for everyone.~p~It's not even for me. That's why I pay others to do it!
+0x000000B1 Recover the Golden Llama on planet ~mission_target_planet~.
+0x000000B2 Report back to planet ~mission_source_planet~.
+0x00000092 Recover the Golden Llama in the ~mission_target_star~ star system. Watch out for the Guardian! 
+0x00000093 Heading: ~mission_source_star~ system.
+0x00000094 Recover the Golden Llama on the planet ~mission_target_planet~ in the ~mission_target_star~ star system. Watch out for the Guardian!
+0x00000095 The Golden Llama has been recovered. Report back to planet ~mission_source_planet~ in system ~mission_source_star~.
+0x00000097 In Progress
+0x00000098 Completed
+0x00000099 Success! Report to the ~mission_source_star~ star system.

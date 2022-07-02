@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000009 Unterhaltung
+0x0000000A Geschütz
+0x0000000B ~species_name~-Stadt
+0x0000000C ~species_name~-Kolonie
+0x00000002 ~species_name~-Reich
+0x00000010 ~species_name~-Bürger
+0x00000007 Haus
+0x0000000F ~species_name~-Dörfler
+0x00000008 Fabrik
+0x0000000E ~species_name~-Dorf
+0x00000011 ~species_name~-Kolonist
+0x0000000D ~species_name~-Nation
+0x00000001 ~id_color_name~-Nation
+0x00000004 ~id_color_name~-Bürger
+0x00000003 ~id_color_name~-Dorfbewohner
+0x00000006 ~id_color_name~-Rathaus
+0x00000005 ~id_color_name~-~species_name~-Kolonist
+0x00000000 ~id_color_name~-Dorf
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCF3 Braun
+0x053DBCF2 Neutral
+0x053DBCF1 Spieler
+0x053DBCFD Scharlachrot
+0x053DBCFC Wald
+0x053DBCFA Rot
+0x053DBCFB Blau
+0x053DBCFE Violett
+0x053DBCF9 Gelb
+0x053DBCF5 Zyan
+0x053DBCF6 Grün
+0x053DBCF4 Pink
+0x053DBCF8 Orange
+0x053DBCF7 Lavendel
+

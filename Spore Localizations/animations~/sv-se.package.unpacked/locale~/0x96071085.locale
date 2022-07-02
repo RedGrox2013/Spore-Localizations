@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Följande skapelser som används i det här äventyret har raderats av servern. Vill du publicera dem igen så att äventyret kan spelas av andra?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Följande skapelser som används i det här äventyret har inte publicerats ännu. Vill du publicera dem så att äventyret kan spelas av andra?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Vissa skapelser i detta äventyr bannlystes.~p~ Din score kommer inte att krediteras.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Vissa skapelser i detta äventyr raderades.~p~ Vill du ladda ned dem igen?
+
+# Editing adventures offline
+
+0x07AA5B67 Avbryt
+0x07AA5B66 Ersätt
+0x07AA5B64 Du måste logga in innan du kan hämta skapelser för det här äventyret. Om du redigerar äventyret ersätts skapelserna.
+0x07AA5B65 Logga in
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Detta äventyr innehåller förbjudna skapelser och skapelser med delar du inte har.~p~ En del skapelser kommer att bytas ut.
+
+# Editing adventures with banned assets
+
+0x0750187C Vissa skapelser i detta äventyr bannlystes.~p~ Vissa skapelser kommer att bytas ut.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Vissa skapelser i detta äventyr bannlystes.~p~ Din poäng har inte delats.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Nedladdningsförlopp för skapelse
+0x00000004 Nedladdning av skapelse misslyckades
+0x00000005 Du måste logga in för att hämta skapelser som används i det här äventyret.
+0x00000002 Hämtar äventyrsskapelser
+0x00000006 Kunde inte publicera skapelser.
+0x00000003 Avbryt
+0x00000007 Publiceringsförlopp
+0x00000008 Publicering ...
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Kunde inte hämta skapelse. Vill du fortsätta?~p~Några tillgångar kommer att bytas ut och din poäng kommer inte att krediteras.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D En del skapelser i det här äventyret innehåller delar som du inte har.~p~ En del skapelser kommer att bytas ut.
+

@@ -1,0 +1,337 @@
+﻿0x000000E1 ~guide: -bullet~ Kommer du att utforska de mest avlägsna platserna i galaxen under ditt sökande efter rikedomar?
+0x000000A1 ~guide: -h1~ Ditt mål
+0x000000F1 ~guide: -bullet~ Kommer du att bli galaxens mest ryktbare handlare?
+0x00000091 ~guide: -h2~ Du inleder dina rymdäventyr vid rodret på din civilisations nyutvecklade rymdskepp. Härifrån kan du utforska hela kosmos. Håll kontakten med din hemvärld via kommunikationspanelen där du får uppdrag så att du kommer igång.
+0x00000031 ~guide: -h1~ Komma igång
+0x00000101 ~guide: -bullet~ Kommer du kanske att söka en djupare mening i ett uppdrag till galaxens mittpunkt?
+0x00000081 ~guide: -h3~ Uppskjutning
+0x00000051 ~guide: -h2~ Välj en planet som du vill spela i galaxen. Skapa eller välj sedan din rymdfarande varelse och välj rymdskepp och det stadshus som ska användas som din hemvärlds bas. Du får också välja ett tema för det här spelet samt svårighetsgrad.
+0x000000C1 ~guide: -bullet~ Kommer du att utöka ditt imperium genom terraformering och kolonisering av planeter i avlägsna stjärnsystem?
+0x00000041 ~guide: -h3~ Direkt från galaxen
+0x00000111 ~guide: -h2~ Din ras resa är i dina händer och du har den vidsträckta galaxen vid dina fötter.
+0x000000D1 ~guide: -bullet~ Kommer du att upptäcka andra raser och bli vän med dem så att du kan bilda en intergalaktisk federation eller kasta handsken och starta intergalaktiska krig?
+0x00001191 ~guide: -bullet~ Öppna fliken Vapen igen och välj önskat vapen.
+0x00001181 ~guide: -h4~ Så här riktar du in dig på planetbaserade försvar:
+0x00001241 ~guide: -bullet~ Alla föremål som den här kolonin eller rasen har och kan förhandlas om finns på handelsskärmens övre panel.
+0x00001111 ~guide: -h4~ Så här kämpar du mot ett eller flera rymdskepp:
+0x00001121 ~guide: -bullet~ Klicka på fliken Vapen i rymdskeppsverktygen.
+0x00001101 ~guide: -h2~ I strid måste du hantera dina attacker och försvar mot potentiellt dussintals fientliga rymdskepp och alla landbaserade försvar samtidigt. Du bör hålla koll på dina hälso- och energimätare under striden, samt lagren av tillgängliga vapen.
+0x00001131 ~guide: -bullet~ Klicka på det vapen du ska använda. Vissa vapen är rent försvarsmässiga.
+0x00001161 ~guide: -bullet~ Om du behöver fly trycker du på minus för att stiga och navigera bort från konflikten.
+0x00001151 ~guide: -bullet~ Vissa vapen, som lasern, kräver att du klickar och håller ned musknappen med markören över målet.
+0x00001171 ~guide: -bullet~ När du slagit ut ditt mål kan du rikta in dig på återstående motståndare.
+0x00001251 ~guide: -bullet~ Dina egna handelsföremål visas i den nedre panelen.
+0x00001141 ~guide: -bullet~ Om du valt ett offensivt vapen klickar du på målet.
+0x000011F1 ~guide: -h2~ Om du vill hämta ett allierat skepp till din rymdflotta återvänder du till det imperiums system som du allierat dig med. Öppna din kommunikationspanel och klicka på Diplomati-knappen och be ett av deras skepp göra dig sällskap.
+0x00001201 ~guide: -h1~ Handel
+0x000011E1 ~guide: -h4~ Kalla på allierade
+0x000011D1 ~guide: -h2~ När du bygger upp allianser kan du kalla på dina allierade för att hjälpa dig i strider. Om du har fått möjlighet att ha en flotta kommer dina allierade att vara med dig. Om du allierade dig med dem innan du kunde upprätthålla en flotta eller om du förlorar ett allierat skepp i strid måste du återvända till deras system för att plocka upp dem.
+0x000011C1 ~guide: -h3~ Allierade i strid
+0x000011B1 ~guide: -bullet~ Klicka eller klicka och håll ned musknappen för att använda dina vapen.
+0x00001231 ~guide: -bullet~ Klicka på knappen Handel för att inleda förhandlingarna.
+0x000011A1 ~guide: -bullet~ Klicka på ett planetbaserat föremål om du vill ha det som mål.
+0x00001211 ~guide: -h2~ Handel, likväl som att förhandla om reparationer och fylla på energi är en kritisk aktivitet för att hålla igång ditt rymdprogram. Du kan handla med dina egna kolonier och andra utomjordiska raser.
+0x00001221 ~guide: -bullet~ Om du vill inleda förhandlingar med en koloni eller ett främmande imperium flyger du till deras planet och öppnar din kommunikationspanel.
+0x000013A1 ~guide: -h2~ Obs! Du kan bara ha tre aktiva handelsvägar i taget.
+0x00000505 ~guide: -bullet~ Om du vill flytta kameran relativt till ditt rymdskepp kan du använda rotationskontrollerna längst ned till vänster på skärmen nära minikartan.
+0x000013B1 ~guide: -h1~ Rymduppdrag
+0x00001391 ~guide: -bullet~ Klicka på alternativet för att föreslå en handelsväg.
+0x000013C1 ~guide: -h2~ Rymduppdrag kan erbjudas av din hemvärld eller av främmande imperier
+0x000013E1 ~guide: -h2~ Om du accepterar ett uppdrag visas ett litet uppdragskort längst upp till vänster på skärmen.
+0x000013F1 ~guide: -h2~ Detta lilla kort innehåller den viktigaste informationen om uppdraget. Vad du ska göra, vilket stjärnsystem och vilken planet det gäller samt vem uppdragsgivaren är.
+0x000013D1 ~guide: -h2~ Potentiella uppdrag presenteras via dina kommunikationer med din hemvärld eller främmande raser. Öppna kommunikationspanelen och välj uppdrag.
+0x00001341 ~guide: -h2~ Stjärnsystem är inte billiga så du måste ha gott om kontanter för att utöka ditt imperium med den här metoden. Fördelen är att du kan få en fullt fungerande koloni utan ytterligare kostnader.
+0x00001351 ~guide: -h4~ Så här upprättar du handelsvägar:
+0x00001331 ~guide: -h2~ Till slut kommer din handelsväg att mogna, du kan kontrollera dess status genom att placera markören över stjärnsystemet som du handlar med. En framgångsrik handelsväg kan leda till att du får ett erbjudande från den främmande rasen om att köpa ut deras stjärnsystem.
+0x00001361 ~guide: -bullet~ Flyg till det stjärnsystem och den planet som du vill handla med.
+0x00001381 ~guide: -bullet~Välj Diplomati-alternativet.
+0x00001371 ~guide: -bullet~ Inled kommunikationer med denna redan vänskapligt sinnade ras.
+0x00001471 ~guide: -h2~ Du kommer ibland att stöta på planeter där invånarna inte har utvecklats till samma höga rymdresande nivå som din ras. Du kan investera i dessa arter för framtiden eller skrämma dem från vettet här och nu.
+0x00001461 ~guide: -h1~ Interagera med den vildare sidan
+0x00001451 ~guide: -h2~ Med uppdragsfiltret aktiverat har alla stjärnsystem som är inblandade i något av dina aktiva uppdrag en liten uppdragsindikator.
+0x00001401 ~guide: -bullet~ Du kan få mer information om det uppdrag du accepterat genom att klicka på rubriken för det lilla kortet och sedan på kortets brödtext, eller klicka på din Min samlingsdagbok och öppna fliken Uppdrag.
+0x00001441 ~guide: -h2~ Ett annat sätt att hålla koll på de uppdrag som du accepterat är att aktivera filtret Uppdrag i dina filter på stjärnkartan i interstellär rymd.
+0x00001411 ~guide: -bullet~ I Min samlingsdagbok visas alla de uppdrag som du har accepterat och som anses vara pågående. Du kan välja vilka uppdrag du vill spåra på skärmen och se historik för redan slutförda uppdrag.
+0x00001421 ~guide: -bullet~ När du har slutfört ett uppdrag påminns du om att återvända till den främmande ras som initierat uppdraget eller till din hemvärld för en belöning.
+0x00001431 ~guide: -h3~ Uppdragsfilter på stjärnkartan
+0x000014D1 ~guide: -h1~ Sökandet
+0x000014F1 ~guide: -h1~ Följa dina framsteg
+0x000014E1 ~guide: -h2~ Genom att samla bitar av information från uråldriga rullar verkar det finnas en tro som delas av många av de främmande raserna i galaxen. Tron är att det finns något unikt mysterium som endast kan lösas genom att man färdas till galaxens mittpunkt. Det är upp till dig att utföra det här äventyret.
+0x00001491 ~guide: -bullet~ Stamplaneter och Civiliserade planeter - Det är jättekul att skrämma invånarna på dessa planeter. Flyg över dem med ditt skepp, gör en vild varelse superstor och se den gå till attack eller sätt myror i huvudet på dem med cirklar i sädesfält.
+0x000014A1 ~guide: -h2~ Du kan också välja att investera för framtiden. Dra igång en viss stams klättring mot civilisationsstatus eller ge en civilisation en knuff mot rymdresande med hjälp av Monolit-verktyget. Efter hand kommer de här tidiga arterna att utvecklas och få status som rymdresande ras, och då kommer de att villigt svära sin tro till dig utan ytterligare ansträngningar från din sida.
+0x000012C1 ~guide: -bullet~ Klicka på det föremål som du vill handla med i den nedre panelen på handelsskärmen. Det visas sedan längst ned till höger på handelsskärmen.
+0x00001281 ~guide: -bullet~ Använd piltangenterna för att ändra kvantiteten. Den högra siffran anger det maximala antalet av föremålet som du har plats för i ditt lastrum.
+0x00001291 ~guide: -bullet~ Utför köpet genom att klicka på knappen Köp föremål
+0x000012A1 ~guide: -bullet~ Priset dras av i din Sporebucks-kassa.
+0x00001261 ~guide: -h4~ Så här köper du ett föremål:
+0x00001271 ~guide: -bullet~ Markera det föremål du vill köpa i den övre panelen. Föremålet visas längst ned till höger på skärmen.
+0x000012B1 ~guide: -h4~ Så här säljer du ett föremål:
+0x00001311 ~guide: -h2~ Du kan upprätta handelsvägar med främmande raser som du är på god fot med. Handelsvägar transporterar krydda mellan era två stjärnsystem.
+0x00001321 ~guide: -h2~ Relationerna mellan era två raser kommer att förbättras så länge handelsvägen upprätthålls.
+0x000012D1 ~guide: -bullet~ Använd piltangenterna för att ändra kvantiteten.
+0x00001301 ~guide: -h3~ Handelsvägar och utköp av system
+0x000012E1 ~guide: -bullet~ Utför försäljningen genom att klicka på knappen Sälj föremål
+0x000012F1 ~guide: -bullet~ Om priset är godtagbart kommer motsvarande mängd Sporebucks att läggas till i din kassa och föremålet flyttas från ditt lastrum till handlarens lager.
+0x000010F1 ~guide: -h3~ Strid på planeten
+0x00000E81 ~guide: -bullet~ Om du behöver öka atmosfären använder du verktyg som Molnbesåning, eller till och med en Atmosfärgenerator om du kan hitta den
+0x00000EA1 ~guide: -bullet~ När du använder dessa verktyg ser du hur den röda punkten på atmosfärmonitorn rör sig. Fortsätt knuffa punkten mot monitorns centrum.
+0x00000E91 ~guide: -bullet~ Om du behöver sänka planetens temperatur använder du verktyg som Isstorm eller Molndammsugare.
+0x00000E71 ~guide: -bullet~ Det finns en uppsjö Planetatmosfärverktyg som du kan handla med eller upptäcka. Om du accepterar hemvärldens terraformeringsuppdrag får du ett startpaket som du kan experimentera med.
+0x00000E41 ~guide: -bullet~ Om planeten inte redan är en T3-planet, visas en röd punkt i en av kvadranterna. Punktens position hjälper dig att bedöma om du behöver öka eller minska atmosfären och om du behöver öka eller minska temperaturen för att stödja liv.
+0x00000E61 ~guide: -bullet~ Nu när du utvärderat situationen vet du vilka förbättringar du ska sikta på.
+0x00000EB1 ~guide: -bullet~ Terraformering är inte en exakt vetenskap. Ibland kommer temperaturverktygen att påverka atmosfären och atmosfärverktygen att påverka temperaturen. Var tålmodig, kontrollera effekten av dina handlingar innan du vidtar nästa åtgärd.
+0x00000EE1 ~guide: -h2~ Till höger om atmosfärmonitorn finns livsmedelnätdisplayen, som identifierar de olika arter som planeten stöder för tillfället. När temperaturen och atmosfären närmar sig idealläget ökar planetens terraformeringsnivå, och den kan stödja mer varierade större växt- och djurarter. En planet med stor biologisk mångfald stödjer ett större antal kolonier och byggnader.
+0x00000ED1 ~guide: -h4~ Livsmedelsnätet
+0x00000F01 ~guide: -bullet~ När en position i ekosystemet är tillgänglig för en ny växt- eller djurart, kommer den svarta punkten att övergå till en tom blå cirkel.
+0x00000EF1 ~guide: -h2~ När du förbättrar en planets T-poäng kan du placera ut nya växt- och djurarter på planeten för att stabilisera planeten.
+0x00000E31 ~guide: -bullet~ En idyllisk T3-planet kommer att ha en balanserad temperatur och atmosfär. I det här fallet kommer en grön punkt att visas i mitten av atmosfärmonitorn.
+0x00000D81 ~guide: -h2~ Använd atmosfärövervakningsdisplayen, en uppsättning terraformeringsverktyg och transplantera liv från andra planeter för att skapa ett första ekosystem. Du kan transformer en steril stenklump till en grönskande planet som kan stödja flera kolonistäder.
+0x00000DA1 ~guide: -h2~ När du anländer till ett stjärnsystem genomsöker du planeterna i solsystemet. Planetens T-poäng anges när du tittar på planeten.
+0x00000D71 ~guide: -h2~ Du kan behöva terraformera en planet innan du kan kolonisera den. Terraformering är processen som består av att förändra en planets temperatur och atmosfär för att göra den mer lämplig för att stödja liv.
+0x00000D51 ~guide: -bullet~ När du kommer till den sista kolonistaden kan den här utposten välja att kapitulera. Du får välja att ta över kolonin eller spränga den i bitar.
+0x00000D61 ~guide: -h1~ Terraformering
+0x00000E11 ~guide: -bullet~ Längs x-axeln finns planetens temperatur, från kall till varm.
+0x00000E01 ~guide: -bullet~ Längst till vänster visas atmosfärmonitorn.
+0x00000E21 ~guide: -bullet~ Längs y-axeln finns planetens atmosfär, från för lite till för mycket.
+0x00000DF1 ~guide: -bullet~ Klicka på planetknappen längst upp till höger i minikartan för att växla till Atmosfär- och Livsmedelsmonitorn.
+0x00000DC1 ~guide: -h2~ Terraformering av planeter med gröna planetspår i solsystemet är enklare än att terraformera planeter med antingen röda eller blå spår, på grund deras närhet eller avstånd till systemets stjärna.
+0x00000DB1 ~guide: -h2~ T-poängens intervall är från T0, mest ogästvänligt, till T3, helt terraformerade och färdiga med ett stödjande ekosystem.
+0x00000DE1 ~guide: -h2~ Bedöm först planetens aktuella atmosfäriska förhållande.
+0x00000DD1 ~guide: -h4~ Utvärdering av planetens förhållanden
+0x00000F11 ~guide: -bullet~ Transportera en växt- eller djurart från lastrummet till den planet som motsvarar den öppna positionen: liten, medelstor eller stor växt, växtätare eller köttätare.
+0x00001051 ~guide: -bullet~ Obs! Det är farligt att resa ut i fientligt rymdterritorium. När du har retat upp en utomjordisk ras kommer dess territorium att markeras med rött i rymden mellan stjärnorna. Inkräktar du på deras territorium kommer de att skicka ut försvarsspaningsskepp för att möta dig. Du kan utkämpa striden på närmaste planet eller också kan du fly och fara iväg utom räckhåll för dem genom att flyga utanför den röda zonen.
+0x00001071 ~guide: -h4~ Nu när fördelarna med att vara en god galaktisk granne är tydliga för dig finns det många sätt att förbättra dina relationer med utomjordiska imperier.
+0x00001061 ~guide: -h4~ Förbättra relationer
+0x00001031 ~guide: -h2~ Relationer behöver också underhållas. För att behålla dina allierade, eller dina fiender för den delen, måste du så att säga stanna på deras radar. Fortsätt dina diplomatiska ansträngningar med dina allierade och förbli på deras goda sida.
+0x00001021 ~guide: -h2~ Ditt rykte föregår dig i galaxen. Dina handlingar å en ras vägnar kan reta upp dess fiender och de kommer nu att bli dina fiender. Välj dina uppdrag och handelsallianser väl.
+0x00001041 ~guide: -bullet~ Om du vill identifiera allierade eller fientliga imperier kan du använda stjärnkartans filter Allierade och fiender när du är mellan stjärnor.
+0x000010C1 ~guide: -h1~ Strid
+0x000010D1 ~guide: -h2~ Under dina äventyr kan du stöta på våldsamt motstånd mot dina interstellära aktiviteter eller behöva försvara dina egna intressen. Din ras kan också vara den krigshetsande typen och anamma en strategi där ni gör er av med mindre viktiga varelser för att härska över galaxen. I dessa tillfällen är det dags för strid.
+0x000010A1 ~guide: -bullet~ Ambassader - Upprättande av en ambassad på en utomjordisk ras planet kan hjälpa dig förbättra eller bibehålla dina relationer. Om du vill upprätta en ambassad måste du först investera i ett Ambassadverktyg. Placera din ambassad på någon av de utomjordiska rasens kolonier eller deras hemvärld.
+0x00001081 ~guide: -bullet~ Uppdrag - Åta dig uppdrag å deras vägnar. Detta kommer undantagslöst att förbättra deras bild av dig. Var dock medveten om att ibland kan ett uppdrag för en ras göra att du kommer på kant med en annan. Välj dina handlingar klokt.
+0x00001091 ~guide: -bullet~ Diplomati - Att ge gåvor till andra raser är alltid ett bra sätt att stiga i deras aktning. Att föreslå handel mellan era imperier är ett annat diplomatiskt ställningstagande som kan fortsätta att förbättra era relationer. När du har upprättat handelsvägar kan du efter hand också få möjlighet att köpa ut den utomjordiska rasens stjärnsystem.
+0x00001011 ~guide: -bullet~ Fiende - Imperier vars mål är motsatta dina egna eller som du redan har stridit med. Fiender är i krig med dig. De kommer att beskjuta dig om du korsar deras territorium och de kommer att aktivt söka upp dina kolonier och din hemvärld för att förstöra dem.
+0x00000F61 ~guide: -h1~ Utforska galaxen
+0x00000F51 ~guide: -h2~ Bekämpa dessa katastrofer med samma verktyg som du använder för att terraformera en planet.
+0x00000F81 ~guide: -h2~ Utforska stjärnorna efter unika astronomiska formationer
+0x00000F71 ~guide: -h2~ Galaxen är full av rikedomar.
+0x00000F31 ~guide: -h4~ Biologiska planetkatastrofer
+0x00000F21 ~guide: -bullet~ Den öppna positionen fylls och när du placerar markören där visas den växt- eller djurart som nu upptar den platsen i planetens ekosystem.
+0x00000F41 ~guide: -h2~ Ibland kan en skiftning i galaxen göra att en biologisk katastrof inträffar på planeter, kolonier eller din hemvärld. Detta är atmosfär- eller temperaturkatastrofer som kan destabilisera planeterna och mycket negativt påverka invånarnas liv.
+0x00000F91 ~guide: -h2~ Utforska planeter efter verktyg, unika artefakter och föremål som kan ge höga priser vid handel.
+0x00000FF1 ~guide: -bullet~ Neutrala - Imperier som du har neutrala relationer med och som du kan handla med, om än till lite höga priser. De är också ett tillfälle för allians och handel.
+0x00000FE1 ~guide: -bullet~ Vänskapligt sinnade - Imperier som du har goda relationer med är bra handels- och uppdragshamnar.
+0x00001001 ~guide: -bullet~ Fientligt sinnade - Imperier som du har en fientlig relation med kommer att reagera på din närvaro i deras territorium. De kommer att skicka ett spaningsskepp att eskortera dig och brukar vara lätta på avtryckaren när det gäller potentiellt fientliga handlingar av dig.
+0x00000FB1 ~guide: -h1~ Relationer med utomjordiska imperier
+0x00000FC1 ~guide: -h2~ När du utforskar galaxen kommer du utan tvekan att stöta på andra tänkande raser och deras imperier. Dina handlingar kommer att avgöra hur dessa raser känner för dig.
+0x00000CE1 ~guide: -bullet~ Din koloni är upprättad. Se till att komma på besök då och då för att samla in kryddintäkter och för att bibehålla och utöka din närvaro på planeten.
+0x00000CF1 ~guide: -h2~ Du kan behöva försvara dina kolonier, förbättra deras produktivitet eller deras lycka. För detta finns verktyg som du kan köpa från utomjordiska raser som hjälper dig att hantera dina kolonier. Titta efter dessa verktyg när du stöter på andra raser.
+0x00000CA1 ~guide: -bullet~ Din koloni kommer att packas upp med ett stadshus och grundarkolonister.
+0x00000CB1 ~guide: -bullet~ När planeten kan stödja fler byggnader markerar du stadshuset och väljer sedan fliken Byggnader för att lägga till byggnader.
+0x00000C91 ~guide: -bullet~ Klicka på en plats där du vill placera din koloni. Den måste vara inom räckhåll för en kryddgejser
+0x00000CD1 ~guide: -bullet~ Dina kolonister kommer att sköta utvinning av krydda. Balansen för dina byggnader, fabriker respektive bostäder respektive underhållning, kan påverka kolonins produktivitet samt hur lojala dina kolonister är.
+0x00000CC1 ~guide: -bullet~ När du investerar i byggnader kommer dina kolonister att utveckla fordon. De använder samma modeller som din hemvärld om du inte väljer att designa nya fordon åt dem. Detta gör du genom att öppna fliken Fordon i Koloniplaneraren och designa nya fordon för varje planet som du koloniserar.
+0x00000D41 ~guide: -bullet~ Förstör byggnaderna för alla kolonistäder.
+0x00000D21 ~guide: -h4~ Så här tar du över befintliga kolonier:
+0x00000D31 ~guide: -bullet~ Var beredd med ett välfyllt vapenlager. Du måste bryta ned försvaren i alla städer på en koloniserad planet och du kan behöva strida mot grupper av försvarsfarkoster om de anländer i tid för att försvara sin koloni.
+0x00000D01 ~guide: -h4~ Ta över kolonier
+0x00000D11 ~guide: -h2~ Om din ras inställning är lite mer på den aggressiva sidan kan du skippa "bygg själv"-idén för din kolonisering och i stället fokusera på att ta över andra imperiers kolonier.
+0x00001511 ~guide: -h2~ Ju fler utmärkelser du får, desto mer fylls framstegsmätaren som indikerar antalet mästarutmärkelser du har fått. När du når den främsta mästarutmärkelsen kan din ras anses vara en galaktisk gud.
+0x00000FD1 ~guide: -bullet~ Allierad - Imperier med vilka du har upprättat en allians. Allierade kommer inte bara att vara mer villiga att handla med dig, men du kan också reparera ditt skepp eller fylla på energi på deras hemvärld eller i deras kolonier. Dessutom hjälper dina allierade dig i strid. När du får utmärkelser kan du stödja en flotta av rymdskepp. Alla allierade du får skickar ett av sina egna rymdskepp för att utöka din flotta.
+0x00000A25 ~guide: -h2~ Nyckeln till expansion är att ha en närvaro i galaxen. Etablera kolonier på gästfria planeter i nya stjärnsystem, så kommer ditt imperium att växa.
+0x00000A29 ~guide: -h3~ Kolonisera en planet
+0x00000571 ~guide: -bullet~ För att flyga till en annan stjärna, klicka på den.
+0x00000A51 ~guide: -h2~ T3-planeter kan upprätthålla tre fullvärdiga kolonier.
+0x00000A55 ~guide: -h2~ När du har hittat en planet med tillräckligt bra atmosfär och strategiskt värde, kan du bygga en koloni på den för att börja utvinna krydda och för att ge en anhalt i ditt expanderande imperium.
+0x00000A21 ~guide: -h1~ Bygga ditt imperium
+0x00000521 ~guide: -h2~ Du måste först ha en interplanetär motor för att lämna din hemplanets atmosfär. Du kommer att belönas med en sådan när du har genomgått Flygutbildning eller tackar nej till detta uppdrag.
+0x00000821 ~guide: -h3~ Föra bort och transportera
+0x00000531 ~guide: -bullet~ För att nå ditt solsystem, rulla mushjulet för att flyga uppåt. Ditt skepp kommer att uppleva lite turbulens när det lämnar atmosfären och kommer sen att hamna ovanför din hemplanet i solsystemet.
+0x000008C1 ~guide: -h2~ När du överför exemplar från ditt lastrum till en planets yta för terraformering, bör du börja med växter. Stråla sen ner växtätare som äter växterna och avsluta med köttätare som äter andra djur.
+0x00000841 ~guide: -h4~ För att föra bort ett föremål:
+0x00000341 ~guide: -h3~ Ditt skepps porträtt
+0x00000A39 ~guide: -h4~ Starta en koloni
+0x00000891 ~guide: -bullet~ Föremålet placeras i ditt lastrum. Utrymmet är begränsat, men kan kanske utökas med tiden med ytterligare verktyg.
+0x00000A3D ~guide: -h2~ När du söker efter planeter att kolonisera, försök hitta planeter som är strategiskt placerade i förhållande till din hemplanet och andra kolonier eller har stora kryddfyndigheter.
+0x00000371 ~guide: -bullet~ Om du når kritisk skada, återvänd till din hemplanet, någon av dina kolonier eller allierade för att få reparationer.
+0x00000A2D ~guide: -h4~ Kolonier spelar ett par avgörande roller för ditt imperium:
+0x00000A31 ~guide: -bullet~ Kolonier genererar inkomster åt ditt imperium. Välutvecklade kolonier utvinner krydda, en eftertraktad resurs som du kan sälja för att få mer Sporebucks. Dem kan du sen investera i fler verktyg och expandera ditt imperium ytterligare.
+0x000008A1 ~guide: -bullet~ Du kan transportera bortförda föremål till andra planeter för att introducera nya arter.
+0x00000A35 ~guide: -bullet~ Kolonier utgör viktiga anhalter när du hoppar över galaxen i ditt rymdskepp. Du kan reparera och ladda upp ditt skepp vid dina egna kolonier.
+0x000001F1 ~guide: -h2~ Varje planet du färdas över kommer att visas i kartform nere i vänstra hörnet av din instrumentpanel.
+0x00000261 ~guide: -bullet~ Flyg till ett solsystem eller en planet som de bebor
+0x000008B1 ~guide: -h4~ För att överföra från lastrummet:
+0x00000591 ~guide: -h4~ Tangentbordskontroller för kameran i solsystemet och interstellära rymden
+0x00000351 ~guide: -h4~ Hälsa
+0x00000751 ~guide: -bullet~ Vänsterklicka på planeten för att visa var du vill använda verktyget.
+0x00000A4D ~guide: -h2~ T2-planeter kan upprätthålla två fullvärdiga kolonier.
+0x00000851 ~guide: -bullet~ Under Rymdskeppsverktyg, välj Last-fliken.
+0x00000A09 ~guide: -bullet~ Klicka på knappen Min samling nere i vänstra hörnet för att öppna din journal.
+0x000008D1 ~guide: -bullet~ Under Rymdskeppsverktyg, välj Last-fliken.
+0x000005A1 ~guide: -bullet~ Använd W eller pil upp för att tippa kameran uppåt
+0x00000A49 ~guide: -h2~ T1-planeter kan upprätthålla en fullvärdig koloni. De här kolonierna kommer att börja utvinna krydda. För att göra kolonin maximalt produktiv, fyll den med byggnader. Fler fabriker höjer produktiviteten, men dina kolonister är inte så lojala om de är olyckliga.
+0x00000A11 ~guide: -bullet~ Uppdrag - Visa alla dina aktiva uppdrag och dina tidigare bedrifter.
+0x00000871 ~guide: -bullet~ Klicka och håll ner på föremålet för att stråla det till ditt lastrum. Föremålet börjar lyftas mot ditt rymdskepp.
+0x00000741 ~guide: -h2~ De första nio verktygen i varje låda är kopplade till snabbtangenter. Siffran nere i vänstra hörnet av verktyget anger vilken tangent som väljer det verktyget. Tryck på den tangenten för att aktivera ett verktyg.
+0x00000A19 ~guide: -bullet~ Sällsyntheter - Förlorade föremål och sällsynta samlarobjekt finns spridda i galaxen. Komplettera samlingarna eller sälj föremålen ett och ett.
+0x00000141 ~guide: -h2~ Alla segment i framstegsfältet markerar ditt erkännande för bedrifter i form av förtjänsttecken. Varje förtjänsttecken för dig högre upp i graderna för rymdfarande raser i galaxen. När du har fått din tionde mästarutmärkelse rankas du som en Gud i din egen galax.
+0x000007B1 ~guide: -h3~ Söka av föremål
+0x000007D1 ~guide: -h4~ För att söka av ett föremål:
+0x000002A1 ~guide: -h2~ Läs i avsnittet om att Använda verktyg lite längre fram i den här guiden.
+0x00001481 ~guide: -bullet~ Vilda planeter - Dessa planeter är i tidiga evolutionsstadier, men redan befolkade med vilda varelser och växter. Placera provexemplar i ditt lastrum om du vill få igång ett ekosystem på en planet som du vill terraformera senare, eller för ditt eget djurreservat om du investerar i det verktyget.
+0x00000781 ~guide: -h2~ När du sätter dig bakoms spakarna i ditt skepp, kommer Uppdragskontrollen att ge dig några inledande uppdrag som hjälper dig att lära dig rymdfartens grunder.
+0x00000791 ~guide: -bullet~ Kummunikationer - Du kommer att lära dig använda Kommunikationspanelen. Observera att kommunikation med planeter oftast initieras av planetens invånare. Varje gång du får ett meddelande hörs ett pip och kommknappan blinkar.
+0x000003B1 ~guide: -h2~ Ditt skepp drivs med Sporillium som tillverkas av krydda. Din energireserv visas som en blå mätare ovanför skeppets porträtt.
+0x000009E1 ~guide: -bullet~ Acceptera uppdrag från andra imperier. Du har oftast nåt att vinna på det.
+0x00000511 ~guide: -h3~ Lämna planeten - Solsystemet
+0x000007A1 ~guide: -bullet~ Flyga ditt skepp - Använd kontrollerna ovan för att utföra de olika uppgifter du får av Uppdragskontrollen.
+0x00000581 ~guide: -bullet~ För att besöka det stjärnsystemet, rulla mushjuler för att flyga ner
+0x000002B1 ~guide: -h2~ När du har skaffat dig ett verktyg, kommer det att visas i lämplig verktygslåda i din Verktygspanel.
+0x000008E1 ~guide: -bullet~ Klicka på arten du vill överföra. Antalet exemplar ombord på ditt rymdskepp visas i ikonen.
+0x000004E1 ~guide: -bullet~ Använd mushjulet eller ikonerna + och - för att ändra flyghöjd
+0x00000391 ~guide: -h2~ Din hemplanet har utvecklat en del rätt häpnadsväckande teknik. Om skeppet blir nerskjutet kommer du och din kassa mirakulöst att skyddas och transporteras till din hemplanet eller till närmaste koloni. Där väntar ett identiskt skepp på dig.
+0x00000361 ~guide: -h2~ Ditt rymdskepps skick visas av hälsomätaren ovanför skeppets porträtt.
+0x00000201 ~guide: -bullet~ Klicka på kartan för att flyga till den platsen på planeten.
+0x000008F1 ~guide: -bullet~ Klicka och håll på en plats på planetens yta tills överföringen är klar. Om du släpper för tidigt kan det hända att din last tumlar iväg i atmosfären.
+0x000003A1 ~guide: -h4~ Energi
+0x000009F9 ~guide: -h2~ De rikaste planeterna att kolonisera finns i system med blå stjärnor, gula stjärnor har planeter med goda gruvresurser. Röda stjärnor brukar ha planeter med magra kryddförekomster.
+0x000009F1 ~guide: -bullet~ Utforska galaxen, planet för planet, för att hitta sällsynta föremål som är utmärkta bytesvaror.
+0x000001E1 ~guide: -h3~ Planetär navigationshjälp (minikartan)
+0x000007E1 ~guide: -bullet~ Under Rymdskeppsverktyg, välj fliken Huvudverktyg.
+0x000009FD ~guide: -h2~ De mest produktiva koloniplaneterna är de som kan rymma flera större städer. Fler byggnader,  fler kolonister och fler fordon gör att de blir lyckligare och mer produktiva.
+0x000002D1 ~guide: -bullet~ Vapenlådan - Här finns både offensiva och defensiva vapen.
+0x00000901 ~guide: -bullet~ Ett exemplar av arten överförs till planetens yta.
+0x00000761 ~guide: -h2~ När det gäller stridsverktyg kan du rikta dem både mot markbaserade föremål och andra skepp. Klicka bara på det mål du väljer.
+0x00000681 ~guide: -bullet~ Resväg - Det här filtret visar den väg du har tagit. Dina tio senase hopp visas.
+0x00000551 ~guide: -bullet~ För att besöka planeten, rulla mushjulet för att flyga ner
+0x00000311 ~guide: -bullet~ Planetskulpteringsverktyg - Använd de här verktygen när du så att säga vill sätta din signatur på en planet.
+0x00000671 ~guide: -bullet~ Uppdrag - Använd Uppdragsfiltret för att visa/dölja de stjärnsystem där du för tillfället har aktiva uppdrag.
+0x00000911 ~guide: -h3~ Använda din laser
+0x000009C1 ~guide: -h2~ Att utforska galaxen kostar pengar. Pengar hjälper dig att uppfinna nya verktyg, sluta handelsavtal med andra imperier samt bekostar bränsle och reparationer till ditt skepp. Pengar behövs för att expandera ditt imperium.
+0x00000411 ~guide: -h2~ På din färd genom galaxen kommer du att förhandla med andra imperier. För att finsnsiera ditt imperiums rymdprogram har Uppdragskontrollen låtit ditt skep ha hand om imperiets kassa. Alla Sporebucks du samlar ihop genom handel, kryddutvinning och uppdrag visas i nedre vänstra hörnet av skeppets panel. Bli inte skärrad om din hemplanet eller dina kolonier vill ha betalt för verktyg eller reparationer.
+0x000001B5 ~guide: -h3~ Historia och konsekvens
+0x000001B9 ~guide: -h2~ Som du har märkt under dina äventyr genom varje fas, är evolutionen en färd där de tidigaste valen får konsekvenser för din arts framtid. Den väg du har tagit sen du var en mikroskopisk cell tills du utvecklade civilisation har fått långtgående konsekvenser. Kulmen av dessa konsekvenser är den filosofi du har antagit som rymdfarande art.
+0x000009B1 ~guide: -h3~ Hur du finansierar ditt rymdprogram
+0x00000421 ~guide: -h1~ Flygkontroller
+0x00000431 ~guide: -h3~ Kontroller för planetär flykt
+0x00000691 ~guide: -bullet~ Besökta - Du kan identifiera vilka stjärnsystem du har besökt med det här verktyget.
+0x00000331 ~guide: -bullet~ Last - den här lådan innehåller inta bara din mycket viktiga bortförar- och transportstråle utan även den flora och fauna du har fört bort från en planet. Lasten blir det första fröt på en planet som du vill terraformera och göra gästvänlig.
+0x00000441 ~guide: -h2~ När du flyger nära en planet, kan du använda de ghär enkla kontrollerna för att ta dig fram.
+0x00000541 ~guide: -bullet~ För att flyga till en annan planet, klicka på den.
+0x00000921 ~guide: -h2~ Vapen kan bli nödvändiga under dina äventyr, eller så kan de så att säga vara ditt favoritsätt att kommunicera. Det mest grundläggande vapnet är din laser.
+0x00000611 ~guide: -h3~ Stjärnkartsfilter
+0x00000251 ~guide: -h2~ För att kantakta ett annat imperium:
+0x00000931 ~guide: -h4~ För att använda din laser:
+0x00000961 ~guide: -bullet~ Klicka på ett mål på planeten för att ge det en kort laserpuls.
+0x00000221 ~guide: -bullet~ Andra imperiers skepp syns som punkter i respektive imperiums färg.
+0x000003F1 ~guide: -bullet~ Ditt aktiva verktyg visas i övre vänstra hörnet av ditt skepps porträtt.
+0x000001C5 ~guide: -h2~ Men din filosofi är inte huggen i sten. Om du träffar på en annan art vars filosofi tilltalar dig, kan du välja att anamma deras filosofi. Anta ett uppdrag som utforskar artens filosofi, så får du möjlighet att byta filososfi.
+0x000001C9 ~guide: -h1~ Ditt rymdskeppp
+0x000003E1 ~guide: -h4~ Aktivt verktyg
+0x000005F1 ~guide: -h1~ Interstellär rymdfart
+0x00000951 ~guide: -bullet~ Klicka på laser-ikonen.
+0x00000941 ~guide: -bullet~ Under Rymdskeppsverktyg, klicka på Vapen-fliken.
+0x00000115 ~guide: -h1~ Följa dina framsteg
+0x00000651 ~guide: -bullet~ Allierade och fiender - slår på eller av visning av markörer i sjärnsystem som tillhör dina allierade eller dina motståndare. Varje imperiums hemsystem visas med en fylld cirkel, kolonier med tomma cirklar.
+0x00000981 ~guide: -h1~
+0x00000661 ~guide: -bullet~ Imperier - visar alla kända imperier i galaxen.
+0x000005B1 ~guide: -bullet~ Använd S eller pil ner för att tippa kameran neråt
+0x000001BD ~guide: -h2~ De särdrag du har skaffat dig under din historia spelar nu roll för hur lätt du använder vissa taktiker när du utforskar galaxen. Militäriska arter kan till exempel märka att vissa verktyg är billigare. Filosofin avgör också vilka unika verktyg ditt imperium har till sitt förfogande.
+0x000009A1 ~guide: -h2~ Det finns några viktiga saker du måste veta innan du ger dig ut i galaxen.
+0x00000401 ~guide: -h3~ Imperiets kassa
+0x00000621 ~guide: -h2~ Du hittar dessa filter på samma ställe där planetens minikarta visades när du var i atmosfären. De hjälper dig att hålla rätt på var i galaxen du har varit, var andra arter bor, med mera.
+0x000001D1 ~guide: -h2~ Du är nu kapten på det skepp som kommer att föra din art ut i rymden. Ditt rymdskepp innehåller:
+0x00000281 ~guide: -h3~ Dina verktyg
+0x00000561 ~guide: -h3~ Lämna solsystemet - Interstellär rymd
+0x00000641 ~guide: -bullet~ Mitt imperium - Identifierar de stjärnsystem där du har kolonier, samt din hemplanet. På stjärnkartan visas din hemplanet med en märkesfyr som sticker upp över galaxplanet. Tryck på Backsteg i Galaxvyn för att fokusera kameran på din hemplanet.
+0x00000321 ~guide: -bullet~ Planetmålningsverktyg - använd de här verktygen för att uttrycka din estetik på planeterna du besöker.
+0x00000631 ~guide: -h2~ För att använda Stjärnkartans filter kan du helt enkelt slå på eller av de olika filtren för att visa den vy du vill.
+0x000006E1 ~guide: -bullet~ Standardutrustning - Verktyg som när de är monterade alltid är aktiva. Exempel är ditt skepps framdrivning eller ditt SETI-verktyg.
+0x000005E1 ~guide: -bullet~ Använd zoom-ikonerna eller + och - för att zooma kameran
+0x000006F1 ~guide: -bullet~ Laddade verktyg - verktyg som kan användas ett begränsat antal gånger. Laddade verktyg har en liten siffra i övre högra hörnet av sin verktygslådeikon för att visa hur många laddningar som är kvar i verktyget.
+0x00000071 ~guide: -h2~ Du lyckades ena din hemplanet och din ras har skapat sitt första rymdskepp som kan flyga mellan planeter, flyga utanför din atmosfär och ut mellan stjärnorna. Din ras historia från dess tidiga evolutionsutveckling som cell till global dominans som civilisation har utvecklat din ras kulturella identitet, dess drag. Det här draget kommer att bestämma vilka unika verktyg som bara din ras kan bemästra. Dina framsteg är dock inte huggna i sten. Din ras har möjlighet att ändra sitt medvetande när de lär sig från sina resor i rymden. Ta reda på hur din ras utvecklas genom att klicka på knappen Historia intill framstegsfältet.
+0x00000481 ~guide: -bullet~ Använd pil upp eller W för att flyga framåt
+0x00000491 ~guide: -bullet~ Använd pil ner eller S för att flyga bakåt
+0x00000271 ~guide: -bullet~ Klicka på knappen Öppna kommunikationer för att inleda en dialog
+0x00000721 ~guide: -bullet~ Klicka på verktyget för att aktivera det.
+0x000004C1 ~guide: -bullet~ Använd E för att glida åt höger
+0x00000731 ~guide: -h2~ Notera om beskrivningen anger att verktyget bara kan användas på en planet eller i den interstellära rymden.
+0x000004D1 ~guide: -bullet~ Använd Q för att glida åt höger
+0x00000701 ~guide: -h2~ Verktygsförmågor - Verktyg av de olika typerna kan användas på olika sätt. Vissa har en aktiveringstid, andra behöver ett mål, åter andra kan bara användas på vissa platser. Läs i verktygsbeskrivningen hur du ska använda ett verktyg.
+0x00000711 ~guide: -h3~ Att använda ett verktyg
+0x000003C1 ~guide: -bullet~ När ditt skepp har slut på energi, återvänd till din hemplanet, någon av dina kolonier eller allierade för att förhandla dig till en uppladdning.
+0x000009D1 ~guide: -h2~ Det finns många sätt att tjäna Sporebucks.
+0x00000461 ~guide: -bullet~ Använd mushjulet för att ändra flyghöjd.
+0x00000451 ~guide: -bullet~ För att ge motorpådrag, håll ner höger musknapp. Styr sen ditt skepp genom att föra musen åt det håll du vill flyga.
+0x000006C1 ~guide: -h2~ Det finns tre huvudtyper av verktyg som ditt skepp kommer att använda.
+0x00000211 ~guide: -bullet~ Eventuella kolonier eller städer på en planet visas på minikartan.
+0x00000471 ~guide: -h4~ Tangentbordskontroller
+0x000006A1 ~guide: -h1~ Använda verktyg
+0x000002F1 ~guide: -bullet~ Koloniverktyg - Alla verktyg för att etablera och underhålla dina kolonier.
+0x000006B1 ~guide: -h3~ Verktygstyper
+0x00000161 ~guide: -h1~ Din hemvärld
+0x00000151 ~guide: -bullet~ Placera markören över skeppets ikon för att se koordinaterna.
+0x00000501 ~guide: -h2~ Obs! Du kan använda tangentkombinationer för att röra dig åt två håll samtidigt.
+0x00000191 ~guide: -h2~ När du utökar din andel av galaxen genom att kolonisera andra planeter och alliera dig med andra raser kommer ditt imperium, med din hemvärld som central styrka att utökas.
+0x000004F1 ~guide: -bullet~ Använd CTRL + eller - för att krafthoppa till planet-, sol- eller galaxvy
+0x00000181 ~guide: -h1~ Ditt imperium
+0x00000171 ~guide: -h2~ Ditt skepp skjuts upp från huvudstaden på din hemvärld. Detta är din hemmabas. Det är dina rötter. Du kan alltid återvända hit för nyheter från hemmafronten, för att ta dig an uppdrag som hjälper ditt imperium, eller efter strider när du behöver fylla på bränsle eller reparera skeppet.
+0x00000C01 ~guide: -h4~ Terraformering T-poäng:
+0x000001B1 ~guide: -h2~ Alla imperier har identitetsfärger. Din är baserad på din varelses hudfärg.
+0x00000C61 ~guide: -h2~ Du måste först skaffa ett Koloni-snabbpaketverktyg från din hemvärld eller en främmande handlare. Om du accepterar hemvärldens koloniseringsuppdrag får du detta verktyg.
+0x00000C71 ~guide: -bullet~ Flyg till målplaneten.
+0x00000C81 ~guide: -bullet~ Öppna koloniseringsverktygslådan i rymdskeppets verktygspanel.
+0x00000C31 ~guide: -bullet~ T2 - Planeten har ett balanserat och mångfaldigt livsmedelsnät som kan upprätthålla två kolonier. Efter hand, och med försiktighet, kan planeten förbättras och blomstra.
+0x00000C41 ~guide: -bullet~ T3 - Planeten har ett sjudande livsmedelsnät och kan upprätthålla tre befolkade städer.
+0x00000C11 ~guide: -bullet~ T0 - Planeten är steril och livlös. Dess temperatur är för extrem för att kunna upprätthålla liv och det finns kanske ingen atmosfär eller något vatten.
+0x00000C21 ~guide: -bullet~ T1 - Planeten har möjlighet att upprätthålla liv, men har inte utvecklat något livsmedelsnät. En enskild koloni skulle kunna överleva här om den hade gott om förnödenheter.
+0x00000C51 ~guide: -h4~ Så här upprättar du en koloni på en planet:
+0x000005C1 ~guide: -bullet~ Använd tangenterna , eller . för att vrida kameran
+0x000004B1 ~guide: -bullet~ Använd D eller Högerpilen för att flyga åt höger
+0x000004A1 ~guide: -bullet~ Använd A eller Vänsterpilen för att flyga åt vänster
+0x000001C1 ~guide: -h2~ Dessa verktyg är tillgängliga för dig när du kommer in i Rymdfasen och hittas bland dina Rymdskeppsverktyg. De visas med en speciell bård runt verktygsikonen.
+0x000001A1 ~guide: -h2~ När du reser mellan stjärnorna indikeras din hemvärld med en sköldsymbol och alla imperiers kolonier är också markerade.
+0x000014B1 ~guide: -h1~ Groxerna!
+0x00000881 ~guide: -h2~ Obs! När du väl har börjat lyfta, sluta inte förrän föremålet är ombord. Annars har föremålet lång väg att falla ner till planetytan ...
+0x000000B1 ~guide: -h2~ Till skillnad från de stadier som föregick din uppskjutning i rymden så är det nu upp till dig hur du väljer att föra din ras vidare i Rymdfasen.
+0x00000061 ~guide: -h3~ Från Civilisationsfasen
+0x00000A45 ~guide: -h2~ Planeter med Terra-Poäng på 0 kan bara upprätthålla en utpostkoloni. De kolonierna behöver en kupol för att skydda medborgarna mot skadliga gaser och strålning. Utposter fungerar som anhalter, men kan inte utvinna krydda.
+0x00000A41 ~guide: -h2~ Planeter med högre Terra-poäng är lättast att kolonisera eftersom de lätt kan uppehålla liv och fullt utbyggda kolonier utan investeringar i Terraformering.
+0x00000A05 ~guide: -h2~ Under din färd kommer du att samla på uppdrag, utmärkelser, verktygsrättigheter och sällsynta föremål. Du kan läsa om dem i din Min samling.
+0x00000A0D ~guide: -h4~ Samlingsflikar
+0x000009F5 ~guide: -bullet~ Etablera kolonier för att utvinna krydda. Krydda är en eftertraktad resurs i galaxen. Du kan sälja din hemplanets krydda till andra imperier. Om du etablerar kolonier kan du utöka dina kryddreserver och få fler möjligheter till handel.
+0x00000A01 ~guide: -h3~ Min samling
+0x00000A15 ~guide: -bullet~ Utmärkelser - Kolla här när du vill skryta. Alla utmärkelser du har tagit visas här. Ställ in siktet på de utmärkelser du vill ta härnäst.
+0x00000A1D ~guide: -bullet~ Verktyg - När du får utmärkelser får du rätt att producera mer avancerade verktyg. Ta reda på villka du har, vilka du kan köpa och få en försmak av verktyg du kan försöka skaffa dig.
+0x00000E51 ~guide: -h4~ Förbättra Terra-poängen
+0x00000EC1 ~guide: -bullet~ När punkten rör sig från en ring till en annan i monitorn, förändras planeten Terra-poäng från T0 till T1, T2 eller T3. Efter varje övergång kan du stabilisera planeten i den fasen genom att placera ut växter och djur. Se avsnittet om Livsmedelsnätet.
+0x00000771 ~guide: -h2~ Det finns några unika verktyg (till exempel bortförar- och transportstrålen) som du lär dig använda under Flygutbildningen. Det är ditt första träningsuppdrag från hemplaneten. När du klarat det får du din kaptensutmärkelse.
+0x000007A5 ~guide: -bullet~ Du kommer att behöva använda tre av de mest användbara och rätt unika verktyg som dina rymdprogramstekniker har uppfunnit till ditt skepp.
+0x000007C1 ~guide: -h2~ Ditt rymdskepp har en skanner som du kan använda för att söka av planetytan efter föremål att lägga till i Sporepedin. Du kan skanna planeter, civilisationer, byggnader, varelser och växter.
+0x00000775 ~guide: -h1~ Få din Kaptensutmärkelse
+0x000006D1 ~guide: -bullet~ Permanenta verktyg - Du kan använda de här när som helst när ditt skepp är utrustat med ett sånt verktyg. Exempel på permanenta verktyg är Skanner, Radar och Laser.
+0x00000971 ~guide: -bullet~ Klicka och håll på ett mål för att ge det en långvarig laserpuls.
+0x00000831 ~guide: -h2~ Du kan plocka föremål från planetytan och stoppa dem i ditt lastrum med hjälp av din bortförningsstråle. Den kan användas bland annat till att samla in flora och fauna för att terraformera planeter eller till att samla in sällsyntheter att handla med.
+0x000007F1 ~guide: -bullet~ Klicka på Skanner-ikonen.
+0x00000811 ~guide: -bullet~ Föremålet läggs till i Sporepedin.
+0x00000801 ~guide: -bullet~ Klicka på föremålet på planetytan för att skanna.
+0x00000861 ~guide: -bullet~ Klicka på ikonen för bortförningsstråle.
+0x00000D91 ~guide: -h4~ Terra-poäng
+0x00000291 ~guide: -h2~ Ditt rymdskepp kan utrustas med en mängd verktyg. Du kommer att behöva dem på dina äventyr i galaxen. Vissa verktyg kommer från din hemvärld eller dina kolonier, andra måste du först göra dig förtjänt av genom att få utmärkelser. Sen måste du hitta ett imperium som antingen vill sälja verktyget eller byta det mot något annat. Ibland kan du ha tur och hitta ett verktyg på en öde planet.
+0x00000231 ~guide: -h3~ Kommunikationspanel
+0x00000241 ~guide: -h2~ Din Kommunikationspanel är en livsviktig del av ditt skepp. Den gör det möjligt att kommunicera med städer och kolonier på olika planeter.
+0x00000131 ~guide: -h2~ Alla segment i framstegsfältet markerar ditt erkännande för bedrifter i form av utmärkelser. Varje utmärkelse för dig högre upp i graderna för rymdfarande raser i galaxen. När du har fått ditt tionde mästarutmärkelse rankas du som en Gud i din egen galax.
+0x00000121 ~guide: -h2~ Du kan hålla koll på dina framsteg genom Rymdfasen med hjälp av Framstegsfältet längst ned på skärmen.
+0x00000011 ~guide: -image-left-h1 0x05556b31!gge-space-button.png~ Välkommen till Rymdfasen.
+0x00000021 ~guide: -h2~ Välkommen till Rymdfasen. Din civilisation har enat planeten och bemästrat teknologin för att utforska det som ligger utanför er egen atmosfär. Du har befälet över det nyligen uppfunna rymdskeppet å din ras vägnar. Utforska kosmos, terraformera sterila planeter, utöka ditt imperium, sök efter liv på andra planeter som du kan bli vän med, eller inte ... du kan till och med söka efter meningen med livet i galaxens mystiska mittpunkt.
+0x00001521 ~guide: -h2~ När du når denna status upphöjs du till den exklusiva grupp av raser som kan skryta med en sådan bedrift. Din resa, mätt i dina egna mål, kan dock vara i sin linda. Utforska hela galaxen, skapa en Sporepedin fylld med tusentals och åter tusentals unika kort ... eller börja om från början, återvänd till galaxens huvudingång och hoppa på en meteor för att se vad som kan hända om du väljer en annan evolutionsväg.
+0x00001501 ~guide: -h2~ Framstegsfältet för Rymdfasen visas längst ned på skärmen. Varje segment representerar framsteg mot att höja din ras status bland sina likar i galaxen.
+0x000003D1 ~guide: -bullet~  Öppna din kommunikationspanel för att beställa energi.
+0x00000FA1 ~guide: -h2~ När du upptäcker något på en planet lägger du till den i ditt lastrum med din bortförningsstråle.
+0x00000381 ~guide: -bullet~ Öppna din kommunikationspanel för att beställa reparationer.
+0x00000601 ~guide: -h2~ När du har utrustat ditt skepp och tagit dig ut i den interstellära rymden, kommer du att se att galaxen är ett enormt hav av stjärnor. Hur ska du nånsin kunna hitta vägen? Brödsmulor? Lyckligtvis är ditt rymdskepp utrustat med ett Intestellärt Navigationssystem.
+0x000002E1 ~guide: -bullet~ Huvudverktyg - Här är de verktyg du använder ofta. Radar, Skanner, reparationssats.
+0x00000301 ~guide: -bullet~ Atmosfärverktyg - De här verktygen har du nytta av när du försöker förbättra en planets Terra-poäng för att göra den till en mer gästvänlig och produktiv plats för dina kolonier.
+0x000002C1 ~guide: -bullet~ Umgängeslådan - Innehåller verktyg som hjälper dig interagera med andra imperier eller till och med primitiva varelser i tidigare faser av evolutionsstadiet.
+0x000014C1 ~guide: -h2~ Se upp för de här typerna. Det här är den ras som alla andra raser fruktar. Inte mycket är känt om dem utöver det faktum att de är mycket stridslystna och beskyddande för sitt rymdterritorium. De som stött på dem delar gärna med sig av sina historier om Grox destruktiva kraft.
+

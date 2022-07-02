@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x07186066 ~ep1_adventure_lose~ ~br~ score: ~ep1_score~ ~br~ tijd: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ score: ~ep1_score~ ~br~ tijd: ~ep1_time~
+0x0757671A Starten
+0x071877C5 ~ep1_adventure_name~ opgeslagen.
+0x07959A07 Er moet een Kapitein in de wereld zijn, op een geldige locatie, voor het avontuur kan worden opgeslagen.
+0x070B1800 Afsluiten
+0x070B1805 Opnieuw starten
+0x071877C1 De auteur van dit avontuur heeft het nog geen introductie gegeven.~p~Klik in de avonturenschepper op de knop 'introductie' in het paneel 'bedrijf' om een introductie toe te voegen.
+0x07CCEEFC Bemanning
+0x07B4DD6E Voor je een avontuur kunt spelen moet je een kapitein in de wereld hebben geplaatst, op een geldige locatie.
+0x070B17F3 Speler-gegenereerd AVONTUUR VERLOREN tekst komt hier.
+0x071877BA Speler-gegenereerd AVONTUUR GEWONNEN tekst komt hier.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Doel heeft een ongedefinieerde parameter
+0x07D91076 Doel is ongeldig
+
+# instance checks
+
+0x07D910E4 Doel kan niet van toepassing zijn op een doel dat in het bedrijf is ingesteld op territoriaal of agressief.
+0x07D910E6 Doel kan niet van toepassing zijn op Epici
+0x07D910E8 Doel kan niet van toepassing zijn op een doel dat in het bedrijf is ingesteld op vijandig
+0x07D910E1 Doel is een ongeldige locatie
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Alles
+
+# Second, for buildings and vehicles
+
+0x07B51559 Brengen
+0x07B5154F Vernietigen
+0x07B51562 Geven
+0x07B5155C Verzamelen
+0x07B5154C Onderzoeken
+0x07B51549 Gaan naar
+0x07B51564 Weghouden bij
+0x07B51567 Verdedigen
+0x07B55060 Onderzoek ~ep1_goal_target_name~
+0x07B55063 Vernietig ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ vernietigd)
+0x07B5505D Ga naar ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ voltooid)
+0x07B5506A Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x07B55076 Houd ~ep1_goal_target_name~ weg bij ~ep1_goal2_target_name~
+0x07B55079 Verdedig ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Verzamel ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ verzameld)
+0x07B55073 Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07B52A47 Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x07B52A49 Verzamel ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Onderzoek ~ep1_goal_target_name~
+0x07B52A44 Vernietig ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07B52A4E Houd ~ep1_goal_target_name~ weg bij ~ep1_goal2_target_name~
+0x07B52A3A Ga naar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Verdedig ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Doelgezondheid is in dit bedrijf ingesteld op onkwetsbaar
+0x07D910C4 Doelgezondheid is in dit bedrijf ingesteld op nul
+0x07D910C0 Doel is in dit bedrijf ingesteld op onzichtbaar
+0x07D910CB Doel is niet van toepassing op wezens
+0x07D910CD Doel is niet van toepassing op voertuigen
+0x07D910DA Doel is niet van toepassing op avatar
+0x07D910DD Minstens één van de doelen moet beweegbaar zijn
+0x07D910D8 Doel is niet van toepassing op gameplay-objecten
+0x07D910CF Doel is niet van toepassing op gebouwen
+0x07D910D3 Doel is niet van toepassing op vaste objecten
+0x07D910D5 Doel is niet van toepassing op niet-handvoorwerpen
+
+# Special first half of give goal:
+
+0x079E8291 Zoek ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Watervoertuigen kunnen niet op land worden geplaatst
+0x07D8B21E Landvoertuigen kunnen niet op water worden geplaatst
+0x07D8C654 Wezens kunnen niet op water worden geplaatst
+0x07D8C658 Het object bevindt zich te ver boven het planeetoppervlak
+
+# Goal strings used for mission cards
+
+0x0727D37F Fout: doel niet ingesteld
+
+# Sculpt panel UI
+
+0x07316C04 Water
+0x07316C08 Flora
+0x07316C07 Flora
+0x07316C03 Thema's
+0x07316C02 Atmosfeer
+0x07316C05 Terravormen
+0x07316C00 Terrein
+0x07316C0E Wegen
+0x07316C0A Planeetkleuren
+0x07316C09 Weer
+0x07316C0D Basisgereedschappen
+0x079EDFB9 Speciaal
+0x0768A3E9 Continenten & eilanden
+0x0768A339 Oceanen & meren
+0x07316C0F Canyons      #REMOVED?
+0x07316C10 Beaches      #REMOVED?
+0x07316C01 Planeetthema's
+0x07316C0C Rivieren
+0x07316C0B Terreinkleuren
+0x07316C06 Bergen
+0x07B2739C Valleien
+0x07B280CB Heuvels
+0x07B278FF Verharde wegen
+0x07B27900 Technische wegen
+0x07B27901 Pleinen
+0x07B278FD Onverharde wegen
+0x07B278FE Wegen van keien
+
+# Third, for all other (tools)
+
+0x07B51644 Verdedigen
+0x07B5163F Weghouden bij
+0x07B51611 Onderzoeken
+0x07B5160C Gaan naar
+0x07B51628 Brengen naar
+0x07B51637 Geven
+0x07B51633 Vasthouden
+0x07B5162D Verzamelen
+0x07B52A65 Houd ~ep1_goal_target_name~ weg bij ~ep1_goal2_target_name~
+0x07B52A68 Verdedig ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A61 Houd ~ep1_goal_target_name~ vast
+0x07B52A63 Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07B52A59 Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x07B52A5E Verzamel ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Onderzoek ~ep1_goal_target_name~
+0x07B55092 Houd ~ep1_goal_target_name~ weg bij ~ep1_goal2_target_name~
+0x07B55095 Verdedig ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508D Houd ~ep1_goal_target_name~ vast
+0x07B5508F Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07B55088 Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x07B5508A Verzamel ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ verzameld)
+0x07B5507B Ga naar ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ voltooid)
+0x07B5507E Onderzoek ~ep1_goal_target_name~
+0x07B52A52 Ga naar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07968DE4 [Geen doel gekozen]
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A93 Doel 3 voltooid
+0x07292A8D Doel 1 voltooid
+0x07292A91 Doel 2 voltooid
+0x07290AF8 Voortgang doel 3
+0x07290AF5 Voortgang doel 2
+0x07290AF0 Voortgang doel 1
+0x074BB7EC Bedrijf ~ep1_current_act~ van ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07D8FA97 Voertuigen kunnen niet te dicht bij handvoorwerpen worden geplaatst
+0x07D8FA93 Voertuigen kunnen niet te dicht bij vaste ornamenten worden geplaatst
+0x07D8FA90 Voertuigen kunnen niet te dicht bij wezens worden geplaatst
+0x07D8FA99 Voertuigen kunnen niet te dicht bij stenen worden geplaatst
+0x07D8FAA1 Vaste ornamenten kunnen niet te dicht bij voertuigen worden geplaatst
+0x07D8FA9E Voertuigen kunnen niet te dicht bij gameplay-objecten worden geplaatst
+0x07D8FA8D Voertuigen kunnen niet te dicht bij gebouwen worden geplaatst
+0x07D8FA7C Wezens kunnen niet te dicht bij stenen worden geplaatst
+0x07D8FA79 Wezens kunnen niet te dicht bij vaste ornamenten worden geplaatst
+0x07D8FA77 Wezens kunnen niet te dicht bij elkaar worden geplaatst
+0x07D8FA87 Voertuigen kunnen niet te dicht bij elkaar worden geplaatst
+0x07D8FA85 Gebouwen kunnen niet te dicht bij voertuigen worden geplaatst
+0x07D8FA82 Gebouwen kunnen niet onder Epici worden geplaatst
+0x07D8FABB Gameplay-objecten kunnen niet te dicht bij voertuigen worden geplaatst
+0x07D8FAA8 Handvoorwerpen kunnen niet te dicht bij elkaar worden geplaatst
+0x07D8FAA5 Handvoorwerpen kunnen niet te dicht bij voertuigen worden geplaatst
+0x07D8FAA3 Vaste ornamenten kunnen niet te dicht bij wezens worden geplaatst
+0x07D8FAAA Handvoorwerpen kunnen niet te dicht bij stenen worden geplaatst
+0x07D8FAB2 Stenen kunnen niet te dicht bij handvoorwerpen liggen
+0x07D8FAAF Stenen kunnen niet te dicht bij wezens liggen
+0x07D8FAAD Stenen kunnen niet te dicht bij voertuigen liggen
+0x07D8FA75 Epici kunnen niet op gebouwen worden geplaatst
+0x07D8FA72 Wezens kunnen niet te dicht bij voertuigen worden geplaatst
+0x07DA2A90 Objecten bevinden zich te dicht bij elkaar nu ze allebei zichtbaar zijn in bedrijf ~ep1_visibility_intersect_act~
+0x07D8FA6F Deze objecten kunnen niet te dicht bij elkaar zijn.
+0x07D8FAB5 Flora kan niet te dicht bij wezens staan
+0x07D8FAB8 Flora kan niet te dicht bij voertuigen staan
+0x07ECC0AB Rotsen kunnen niet te dicht bij elkaar staan
+0x07D8FA9C Voertuigen kunnen niet te dicht bij flora worden geplaatst
+0x07D8FA7F Wezens kunnen niet te dicht bij flora worden geplaatst
+
+# Goal string for goal count combo box:
+
+0x07C53729 Alles
+
+# inter-act checks
+
+0x07D91132 Het beoogde aantal doelen botst met dat van een ander doel in het bedrijf
+0x07D91130 Doel is een duplicaat van een ander doel in het bedrijf
+0x07D91134 De doelen 'brengen' en 'weghouden bij' kunnen in hetzelfde bedrijf niet hetzelfde doel hebben
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B1 Sluit vriendschap met
+0x073C19AF Praat met
+0x073C19AE Ga naar
+0x073C19B8 Verdedig
+0x073C19B4 Verzamel
+0x073C19B3 Brengen
+0x073C19B6 Geef...
+0x073C19B7 Blokkeer...
+0x073C19B2 Een bondgenootschap sluiten
+0x073C19B0 Doden
+
+# goal count checks
+
+0x07D91125 Er moet minstens één bruikbaar doel zijn in de wereld
+0x07D91128 Er moeten minstens twee bruikbare doelen zijn in de wereld
+0x07D9112B Doelaantal is 'alles', maar er zijn geen bruikbare doelen in de wereld
+0x07D91122 Doelaantal is groter dan het aantal bruikbare doelen in de wereld
+0x07D9112E Aantal beschikbare troepplaatsen is onvoldoende
+
+# Explain to user/author why the adventure was lost
+
+0x0796CEE4 Je bent dood.
+0x0796CFDD Je tijd is om.
+0x0796CFE1 Het is je niet gelukt om ~ep1_goal_target_name~ te weren bij ~ep1_goal2_target_name~.
+0x0796CFE5 Het is je niet gelukt om ~ep1_goal_total~ ~ep1_goal_target_name~ te verdedigen.
+0x0796D59A Je hebt je niet gehouden aan dit doel: ~ep1_goal_description~
+0x0796D599 Dit doel kun je niet meer voltooien: ~ep1_goal_description~
+0x07C50B5F Dit bedrijf heeft een dubbel doel.
+
+# First, for creatures
+
+0x07311C6E Weer ~ep1_goal_target_name~ bij ~ep1_goal2_target_name~
+0x072AA965 Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07311C75 Verdedig ~ep1_goal_total~ ~ep1_goal_target_name~
+0x0727D387 Praat met ~ep1_goal_target_name~
+0x0727D38E Sluit een bondgenootschap met ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ toegevoegd)
+0x0727D38B Sluit vriendschap met ~ep1_goal_target_name~ (vriendschap gesloten met ~ep1_goal_progress~ van ~ep1_goal_total~)
+0x0727D391 Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x0727D384 Ga naar ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ voltooid)
+0x072AA963 Verzamel ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ verzameld)
+0x07B52A25 Praat met ~ep1_goal_target_name~
+0x07B52A21 Ga naar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Dood ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Sluit een bondgenootschap met ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Sluit vriendschap met ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E Breng ~ep1_goal_target_name~ naar ~ep1_goal2_target_name~
+0x07B52A36 Houd ~ep1_goal_target_name~ weg bij ~ep1_goal2_target_name~
+0x07B52A31 Verzamel ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A34 Geef ~ep1_goal_target_name~ aan ~ep1_goal2_target_name~
+0x07B52A38 Verdedig ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x0727D389 Dood ~ep1_goal_target_name~ (~ep1_goal_progress~ van ~ep1_goal_total~ gedood)
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Avontuur ~timelinePlanetName~ voltooid.
+0x076B2671 ~timelineMySpeciesName~ heeft het onderdeel ~timelinePartName~ gevonden.
+0x076B2675 ~ep1_captain_name~ is bevorderd tot ~ep1_captain_primary_title~.
+0x076B2674 Bevorderd
+
+# Used for palette
+
+0x07103109 Vaste objecten
+0x0710310A Geluid
+0x07103108 Wezens
+0x07103106 Gebouwen
+0x07103107 Voertuigen
+0x0710310C Cast in gebruik
+0x079C4769 Objecten gameplay
+0x0710310B Effecten
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EF Scenario Transition Subheading 3
+0x075E40ED Scenario Transition Subheading 1
+0x075E40EE Scenario Transition Subheading 2
+0x075E40EC ~Generic0~
+0x07312E6E Je avontuur een naam geven
+
+# other
+
+0x07D91140 Gereserveerd voor verbeterende hint 5
+0x07D9113E Gereserveerd voor verbeterende hint 4
+0x07D9113B Gereserveerd voor verbeterende hint 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

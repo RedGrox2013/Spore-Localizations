@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F 楽しい
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD 公正な
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 名誉ある
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 信心深き
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 バランスの取れた
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 質素な
+
+# Zealot
+
+0x07CEA300 信者
+0x07CEA301 崇拝者
+0x07CEA306 修道院長
+0x07CEA307 司教
+0x07CEA308 預言者
+0x07CEA305 僧侶
+0x07CEA302 侍祭
+0x07CEA303 修道僧
+0x07CEA304 牧師
+0x07CEA309 聖人
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 慈悲深き
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA 勇敢なる
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_secondary_title~~ep1_captain_primary_title~：~ep1_captain_name~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_secondary_title~~ep1_captain_primary_title~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E 美
+
+# Diplomat
+
+0x07CEA403 一等書記官
+0x07CEA404 判事
+0x07CEA405 参事官
+0x07CEA402 二等書記官
+0x07CEA400 助手
+0x07CEA401 大使館員
+0x07CEA406 特使
+0x07CEA407 公使
+0x07CEA408 高等弁務官
+0x07CEA409 大使
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 新人
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 温厚な
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB 慎重な
+
+# Shaman
+
+0x07CEA706 火を灯す者
+0x07CEA705 杖を作る者
+0x07CEA708 夢守り人
+0x07CEA707 幻視者
+0x07CEA704 服を編む者
+0x07CEA701 収穫者
+0x07CEA700 採集者
+0x07CEA703 顔を塗る者
+0x07CEA702 ハンター
+0x07CEA709 魂を統べる者
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 全能なる
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C ~ep1_captain_species_name~族
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F 賢明な
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 高潔なる
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 勤勉な
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 共感できる
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 気高き
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A 寛大な
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 愉快な
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B お茶目な
+
+# Trader
+
+0x07CEA608 CEO
+0x07CEA600 客引き
+0x07CEA601 運び屋
+0x07CEA602 密輸業者
+0x07CEA609 大立者
+0x07CEA603 会計係
+0x07CEA604 成金
+0x07CEA605 支配人
+0x07CEA606 部門長
+0x07CEA607 取締役
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE 物静かな
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 強き
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D 論理的な
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 陽気な
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B 有能なる
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A 粘り強い
+
+# Wanderer
+
+0x07CEA908 スターランナー
+0x07CEA909 銀河旅行者
+0x07CEA905 探検家
+0x07CEA904 先駆者
+0x07CEA906 航海者
+0x07CEA907 惑星渡り
+0x07CEA903 偵察者
+0x07CEA900 放浪者
+0x07CEA902 遊牧民
+0x07CEA901 ヒッチハイカー
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 荒々しい
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 情け深き
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 機知にあふれた
+
+# Warrior 	
+
+0x07CEA809 将軍
+0x07CEA806 将校
+0x07CEA805 中佐
+0x07CEA808 大将
+0x07CEA807 司令官
+0x07CEA804 少佐
+0x07CEA800 ごろつき
+0x07CEA803 軍曹
+0x07CEA802 傭兵
+0x07CEA801 戦士
+
+# Scientist
+
+0x07CEA509 天才
+0x07CEA508 理論家
+0x07CEA505 教授
+0x07CEA506 博士
+0x07CEA507 学者
+0x07CEA504 発明家
+0x07CEA501 技術者
+0x07CEA502 研究員
+0x07CEA503 エンジニア
+0x07CEA500 インターン
+
+# Bard
+
+0x07CEA102 調律師
+0x07CEA103 演奏者
+0x07CEA104 音楽家
+0x07CEA105 流行仕掛け人
+0x07CEA109 スーパースター
+0x07CEA106 アイドル
+0x07CEA107 セレブ
+0x07CEA108 スター
+0x07CEA100 追っかけ
+0x07CEA101 ローディー
+
+# Ecologist
+
+0x07CEA208 哲学者
+0x07CEA209 教祖
+0x07CEA207 クローン製作者
+0x07CEA204 農民
+0x07CEA205 ブリーダー
+0x07CEA206 クロスブリーダー
+0x07CEA203 管理人
+0x07CEA200 草刈り人
+0x07CEA201 園芸家
+0x07CEA202 植物学者
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 頼りになる
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 勇ましき
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 忠実なる
+
+# Knight
+
+0x07CEAA04 武装兵
+0x07CEAA03 冒険家
+0x07CEAA06 名誉騎士
+0x07CEAA05 衛兵
+0x07CEAA02 従者
+0x07CEAA01 見習い
+0x07CEAA07 聖騎士
+0x07CEAA09 君主
+0x07CEAA08 貴族
+0x07CEAA00 はぐれ者
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_name~
+

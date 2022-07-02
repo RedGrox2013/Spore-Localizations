@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C Ces véhicules vont et viennent entre deux points.
+0x079EDF5D Ces véhicules suivent tout personnage désigné.
+0x079EDF5B Ces véhicules roulent au hasard autour de leur point de départ.
+0x079EDF5A Ces véhicules restent sur place.
+0x079817B5 Ces créatures évoluent au hasard autour de leur point de départ.
+0x079817B1 Ces créatures restent sur place.
+0x079817BA Ces créatures vont et viennent entre deux points.
+0x079817BE Ces créatures suivent un autre personnage désigné.
+
+# Planet Paint
+
+0xB6AFCFC0 Revêtement
+0xB6AFCFC1 Fleurs
+0xB6AFCFC2 Style Nuage
+
+#Goals:
+
+0x0798177E Retenez ces ~ep1_current_cast~.
+0x07981782 Donnez ces ~ep1_current_cast~ à un autre personnage.
+0x0798178C Empêchez ces ~ep1_current_cast~ d'entrer en contact avec un autre personnage.
+0x07981777 Devenez amis avec ces ~ep1_current_cast~ pour qu'ils rejoignent votre bande.
+0x0798177B Parlez à ces ~ep1_current_cast~.
+0x07981764 Approchez de ces ~ep1_current_cast~.
+0x07981798 Empêchez la destruction de ces ~ep1_current_cast~.
+0x0798176F Détruisez ces ~ep1_current_cast~.
+0x07981785 Ramassez ces ~ep1_current_cast~.
+0x07981789 Apportez ces ~ep1_current_cast~ à un autre personnage.
+0x07981773 Fraternisez avec ces ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF72 Alien
+0x56AFCF73 Toile
+0x56AFCF75 Eponge
+0x56AFCF70 Défaut
+0x56AFCF71 Frisé
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 bâtiments
+0x07981E91 véhicules
+0x07981E90 créatures
+0x07981E93 objets
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Cliquez sur une créature, un bâtiment ou un véhicule pour l'effacer de votre jeu.~br~Pour effacer l'Aventure, quittez-la puis ouvrez la Sporepedia (touche B). Trouvez l'Aventure à supprimer, sélectionnez-la puis cliquez sur le bouton Exclure la création en bas à droite. L'Aventure sera supprimée mais pas les créations attachées. Vous devrez les supprimer individuellement.~br~Un rapport sur la création sera envoyé au Service clients Spore.
+
+#Awareness:  
+
+0x07981DE3 Détermine jusqu'à quelle distance ces créatures peuvent voir.
+0x079EDF5E Détermine jusqu'à quelle distance ces véhicules peuvent voir.
+
+#Stances:
+
+0x0798179D Ces créatures attaquent les unités ennemies à vue.
+0x079EDF58 Ces véhicules ne se défendent que si on les attaque.
+0x079EDF59 Ces véhicules prennent la fuite quand on les attaque.
+0x079EDF55 Ces véhicules attaquent les unités ennemies à vue.
+0x079EDF56 Ces véhicules préviennent avant d'attaquer.
+0x079EDF57 Une fois l'attitude définie, ces véhicules n'en changent plus.
+0x079817A1 Ces créatures préviennent avant d'attaquer.
+0x079817A5 Une fois l'attitude définie, ces créatures n'en changent plus.
+0x079817AD Ces créatures prennent la fuite quand on les attaque.
+0x079817A9 Ces créatures ne se défendent que si on les attaque.
+
+#Pickup:
+
+0x079817C5 Ces créatures ramassent l'objet désigné.
+0x079817C2 Ces créatures ramassent n'importe quel objet.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7B Blocs
+0x56AFCE7A Blocs de glace
+0x56AFCE7C Blocs de lave
+0x56AFCE7D Shiitaké
+0x56AFCE71 Argile
+0x56AFCE72 Collecte
+0x56AFCE73 Corail
+0x56AFCE60 Aucun
+0x56AFCE79 Suisse
+0x56AFCE75 Granit
+0x56AFCE76 Organique
+0x56AFCE78 Sable
+0x56AFCE74 Cristal
+0x56AFCE77 Pointes
+
+# posse ui
+
+0x0760B242 Bande
+
+#mission ending description#
+
+0x0760B241 Fin
+
+0x0760B0FA Texte victoire :
+0x0760B0FB Texte défaite :
+0x0760B0F9 Introduction :
+0x075E4C78 Tirer l'objectif vers le personnage
+0x075E4C79 Définir type d'objectif
+0x0760B0F8 Description et musique Acte ~ep1_current_act~
+
+#Teams:
+
+0x07981E72 Ces bâtiment seront attaqués par des personnages d'équipes ennemies.
+0x07981E71 Ces créatures n'attaquent jamais un personnage de leur équipe.
+0x079EDF5F Ces véhicules n'attaquent jamais de personnage de la même équipe.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Acte ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Cette Aventure contient un acte sans objectif. Les joueurs ne pourront pas la réussir tant que l'acte n'aura pas d'objectif ou si cet acte n'est pas le dernier de l'Aventure. Voulez-vous néanmoins sauvegarder ?
+
+#Give:
+
+0x079817CE Ces créatures donnent un outil au personnage désigné.
+0x079817C9 Ces créatures donnent un outil à n'importe quel personnage.
+

@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 好得很  
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 教程  
+0x058B62B1 游戏提示
+0x058B62B2 边缘滚动  
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 默认  
+0x0474E6B5 图像设置  
+0x0474E6B6 低  
+0x0474E6C2 中  
+0x0474E6C6 高  
+0x0474E6CC 阴影  
+0x0474E6D0 材质细节  
+0x0474E6D6 图像效果  
+0x0474E6DE 玩家模型质量  
+0x0474E6E4 行星质量  
+0x0474E6E5 光线质量  
+0x0474E6E9 屏幕尺寸  
+0x0474E6ED 图像缓存大小（MB）  
+0x0474E6F0 档案  
+0x058A2A2B 更改屏幕大小需要重新启动游戏，并且可能会影响游戏的运行效果。  
+0x058B6240 全屏模式  
+0x058B624C 窗口模式  
+0xBBFC7687 区域深度
+0x066A4BC8 反锯齿
+0x0674D28F 屏幕泛光
+0x0695A585 按Command-Return可以在窗口模式和全屏模式之间切换。
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B4 激活工具
+0x080B23B3 选择目标
+0x080B23B2 文明
+0x080B23B6 移动太空船
+0x080B23B9 太空
+0x080B23B8 改变太空船高度
+0x080B23B7 转动镜头
+0x090A50A6 滚动鼠标滚轮
+0x090A50A7 单击并拖拽两个鼠标键
+0x090A50A4 点击鼠标右键
+0x090A50A5 点击并拖拽鼠标右键
+0x090A50AA 点击并拖拽鼠标左键或使用W, A, S, D键
+0x090A50A8 点击并拖拽鼠标右键或使用W, A, S, D键
+0x090A50A9 生物追随光标
+0x090A30B4 圈选部落成员
+0x090A29A7 移动细胞
+0x090A50A2 点击鼠标左键
+0x090A50A3 点击并拖拽鼠标左键
+0x090A30B5 圈选载具
+0x090A50A1 使用W, A, S, D键
+0x090A26A9 转动镜头
+0x090A23A3 移动生物
+0x090A24A7 移动镜头
+0x090A23A4 缩放
+0x088B63B6 生物
+0x088B63B7 点击这里用鼠标右键旋转地图
+0x088B63B5 在图标上放悬停查看工作方式
+0x088B63B3 细胞
+0x088B63B4 点击这里自动追踪光标
+0x090A28A7 选择一个载具
+0x090A28A6 选择第一个部落成员
+0x090A21A6 给出方向
+0x088B63B9 部落
+0x090A50AB 同时按住Command，Option和鼠标左鍵
+0x090A50AC 按住鼠标中键
+
+#### profile - user selects ####
+
+0x0474E6FC 用户选择  
+
+#### profile - performance ####
+
+0x0474E6F1 性能  
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A1 状态：
+0x0565289D 登出  
+0x0565289E 登录  
+0x0565289F 注册  
+0x056528A0 服务器连接  
+0x056528A3 在启动时提示
+0x056528A4 未注册过
+0x056528A6 线下  
+0x056528A8 ~generic0~已连接
+0x058B63D4 美观搭配  
+0x056528A9 从SPORE断开连接或者更改用户。
+0x056528A7 连接到SPORE。
+0x058B63D3 仅好友内容
+0x056528A2 线上选项
+0x0626E392 复制已删除到存档文件夹
+0x067A21D8 只有最新几天的新添下载内容：
+0x067A21D7 下载缓存大小 (MB)
+0x067A21D9 天。
+0x0626E390 删除旧的下载
+0x0626E391 天之前将被删除
+0x056528A5 创建一个账号来连接到Spore。
+0x05E39554 升级内容资料库……
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B 音频设置 
+0x0473EF2C 图像设置  
+0x0473EF2D 游戏设置  
+0x0473EF2E 捕捉设置  
+0x0473EF2F 线上设置  
+0x0473EF30 制作团队  
+0x0473EF31 保存您的设置  
+0x0473EF33 设置 
+0x0473EF32 不保存并关闭选项菜单
+0x0473EF34 控制设置
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 自动将我登录到YouTube
+0x0589E518 电影大小  
+0x0589E519 160x120  
+0x0589E51A 320x240  
+0x0589E51B 640x480  
+0x0589E51D 小  
+0x0589E51E 中  
+0x0589E51F 大  
+0x058B6381 游戏及捕捉设置  
+0x058B63A0 捕捉电影但不录下音频  
+0x05D1185C 游戏和帮助选项
+0x0631825F 如果在安装过程中您接受了默认路径，那么您可以在~generic0~处找到您的照片和电影
+0x0589E51C 照片大小
+
+#### profile - image quality ####
+
+0x0474E6F5 照片质量
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 主
+0x0431D893 语音
+0x0431D898 扬声器设置
+0x0431D895 音乐 
+0x0431D896 全部静音 
+0x0431D89C 声音质量 
+0x0431D89E 游戏音乐音量 
+0x0431D89F 生物语音音量  
+0x0431D8A0 声音效果音量  
+0x0431D8A1 玩家必须在SPORE银河屏幕中才能更改扬声器设置
+0x0431D899 2扬声器（立体声）
+0x0431D89A 4扬声器（四声道）
+0x0431D897 混合
+0x0431D89D 所有声音音量
+0x0431D89B 5.1扬声器（环绕立体声）
+0x0431D894 音效
+
+## Mac version
+
+0x06318D68 如果在安装过程中您接受了默认路径，那么您可以在根目录的文档文件夹中的我的Spore创造物/（资产类型）处找到您的照片和电影。
+

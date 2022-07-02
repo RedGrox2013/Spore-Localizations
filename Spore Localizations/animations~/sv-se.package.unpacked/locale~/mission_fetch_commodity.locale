@@ -1,0 +1,243 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B7 ...
+0x000000BE Kanske en annan gång. Hejdå.
+0x000000CF Jag skulle vilja se över detaljerna i mitt uppdrag.
+0x00000094 Jag ser att du är upptagen. Vi får snacka senare.
+0x000000BD Ledsen att vi störde dig. Hejdå.
+0x00000080 Jag ber att få bli befriad från denna uppgift.
+0x000000BF Jag ser att du är upptagen. Vi får snacka senare.
+0x000000C1 Jag ber om din förståelse.
+0x000000C0 Jag kan se att du behöver lite betänketid. Hejdå.
+0x000000D9 Beklagar att vi har upptagit din tid. Adjö.
+0x000000CD Jag måste gå igenom mitt uppdrag.
+0x000000DA Tills vi ses igen. Adjö.
+0x000000D8 Denna uppgift passar inte längre in i mitt schema.
+0x000000CE Jag har glömt bort detaljerna i mitt uppdrag.
+0x000000DB Jag ber om din förståelse.
+0x000000C2 Ah, så klart! Uppdragsloggen, där ska jag kolla!
+0x000000D2 Upprepa ditt önskemål. Mina anteckningar är otydliga.
+0x0000007D Jag gör hellre något annat.
+0x0000009E Får jag fråga om något annat?
+0x00000059 stjärnans namn är ~mission_target_star~
+0x00000062 Låt mig fråga dig en sak till ...
+0x0000001D Vi har upptäckt att ~mission_item~ är användbart för att förbättra våra krigares prestationsförmåga. Vi skulle vara tacksamma om du kan skaffa en mängd åt oss.
+0x00000075 Patetiskt ... det räcker inte som beskrivning på dig, eller hur?
+0x000000A2 Nå, det är ju för tråkigt.
+0x00000093 Jaså ? Tror du att du bara kan gå din väg när vi har varit så generösa och gett dig information kring uppdraget? ~p~Tror du det kompis ~p~Va? VA!? GÖR DU DET!? ~p~Ha ha ha ha ha! Vi driver bara med dig, kompis! Vi skojar bara lite. Vi gillar dig tillräckligt nog för att inte göra mos av dig. ~p~Om du inte vill göra jobbet där det ditt problem. Vi letar bara reda på någon annan.
+0x00000022 Hur hittar jag den?
+0x00000081 Vi väntar med spänning på din återkomst. Åk till planeten ~mission_target_planet~. När du kommer dit har du ~mission_time~ sektoner på dig att upprätthålla avtalet och sedan återvända.
+0x0000004F En sak till innan jag ger mig av ...
+0x00000084 Det krävs en tillräcklig tillförsel av ~mission_item~ för vårt ekonomiska välbefinnande. Snabba på till planeten ~mission_target_planet~ där du endast har ~mission_time~ sektoner på dig för att inte äventyra våra planer. Nämn inte våra namn om det uppstår problem.
+0x00000043 Stjärnan ligger ~mission_clue_range_min~ till ~mission_clue_range_max~ parsek från ~mission_clue_landmark1~.
+0x00000085 ~mission_item~ får vår lilla värld att snurra. När du kommer till planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att återvända så att vi kan fortsätta snurra.
+0x00000039 OK, jag åker
+0x000000A9 Åh, alla våra kulinariska planer dunstar bort som stjärnstoft! ~p~Vi har anlitat dig för att hjälpa oss att få våra gastronomiska skapelser att nå stratosfäriska höjder, men i verkligheten vispade du ihop en långt mer lömsk maträtt - en sufflé bestående av våra förväntningar, en flambé som antändes av dina egna inflammerade önskningar. ~p~Nu är det dags för dig att dinera på frukten av ditt misslyckande - vår förtvivlan! ~p~Smakar det bra?
+0x00000038 Jag tror att jag kan hjälpa till.
+0x00000077 Jag har några andra frågor innan jag ger mig av.
+0x00000078 Får jag fråga om något annat?
+0x000000A7 Nä, kom igen! ~p~Det är inte rättvist! Om vi själva skulle försöka skaffa ~mission_item~ skulle vi bli slagna gula och blå av galaxens alla översittare. ~p~Men vi behöver ~mission_item~ för att kunna göra slut på vårt lidande. Vi behöver hjälp från någon som du; någon som kan ta vara på sig själv där ute i den kalla mörka rymden. ~p~Vet du vad du är? Du är en riktig bråkstake!
+0x00000017 Vår lyckliga art håller på att drabbas av nedstämdhet på grund av bristen på ~mission_item~. Kan denna eländiga varelse få erbjuda kompensation mot en leverans?
+0x00000007 ~mission_item~ är en nödvändig komponent i vår utsläppsfria energiväv, men nyligen kapades en leverans av pirater. Kan du hämta en viss mängd åt oss så att vår värld kan bibehålla sin ofördärvade storslagenhet?
+0x00000001 Vi har nyligen fått kunskap om en grynig och puderliknande substans som kallas för ~mission_item~, med många märkliga och användbara egenskaper. ~p~Vi har upplysningar om en höggradig mängd ~mission_item~ på planeten ~mission_target_planet~. ~p~Vi vill att du letar reda på ämnet och lägger beslag på det. I det här uppdraget kan du använda valfria medel för att nå målet.
+0x00000076 Det är något annat jag vill fråga om ...
+0x000000B1 Först ska du och sedan inte. Sedan ska du och sedan inte. Varför inte hoppa direkt till ska inte?
+0x00000068 Jag slutar! Hämta det själva!
+0x00000092 Åh, det här är inte alls välkommet! ~p~Även de mest elegant tillagade gastronomiska delikatesser framstår som lika smaklösa och menlösa som lamtungerot, när vi nu känner till källan till ~mission_item~. ~p~Det är synd att du inte vill hjälpa oss. Vi har även övervägt att ge dig en bit dingelbärspaj kryddad med ~mission_item~ när du återvänder, och vi är inte kända för att dela med oss av mat till främlingar.
+0x00000070 Ditt misslyckade försök har väckt vår medkänsla. Nästa gång kanske vi ger dig ett enklare uppdrag.
+0x00000016 Vi kan knappast föreställa oss att en varelse med er makt skulle kunna visa intresse för våra futtiga problem, men våra marknader har drabbats av brist på ~mission_item~. Om det inte ställer till för stora besvär undrar vi om du kan skaffa oss lite av varan i utbyte mot en belöning som matchar er storhet?
+0x0000005B Du har inte hämtat ~mission_item~ till oss som utlovat, vilket finns registrerat i uppdragsloggen. Spode måste dyrkas på rätt sätt. Kommer du att hålla ditt löfte?
+0x000000AC Förräderi belönas inte av Spode. Adjö.
+0x000000B0 Vi får väl tjäna alla pengar åt oss själva. Adjö.
+0x00000005 Har du möjligen haft tillfälle att avnjuta en måltid med en nypa ~mission_item~? Det känns som om munnen fylls av tusentals änglar som stiger mot himlen! ~p~Vi har hittat en större mängd ~mission_item~ på planeten ~mission_target_planet~. Vi måste få tag på den till varje pris! ~p~Vi har galaxens finaste kockar. Att en sådan sällsynt råvara skulle få finnas i torftigare kök är ett hån mot våra gommar.
+0x000000C7 Återvänd till planeten ~mission_source_planet~ i systemet ~mission_source_star~ för din belöning.
+0x00000037 OK, jag gör det.
+0x000000AD Det verkar som om du inte är intresserad av ömsesidigt fördelaktiga relationer. Vi får skapa vår ekonomi utan dig. Adjö.
+0x000000AB Du har satt en ny standard i oberäknelighet. Adjö.
+0x00000019 Lärare Nk har upptäckt att vår synskhet förstärks om vi skvätter ~mission_item~ i ögonen, men det håller på att ta slut. Kan du hämta mer åt oss?
+0x0000009D Låt mig fråga en sak till ...
+0x0000009A I så fall har du säkert redan alla pengar du behöver. Skulle det vara så kan du besöka vår basar.
+0x00000052 Det var trevligt att gör affärer med er.
+0x00000066 Jag har fått nog. Jag är klar.
+0x00000099 Okej! Om du inte gillar skrytsamt entreprenörskap och rekordhög profit, kommer vi inte att försöka ändra dig.
+0x00000020 Vad sägs om lite vägvisning?
+0x00000124 Gick det inte att skaffa ~mission_item~? Vi räknade ju med dig!
+0x00000125 Åk genast till planeten ~mission_target_planet~. När du kommer dit måste du återvända med ~mission_item~ inom ~mission_time~ sektoner.
+0x000000CC Du klarade inte av att hämta en vara i tid. Åk tillbaka till planeten ~mission_source_planet~ i systemet ~mission_source_star~ och berätta de dåliga nyheterna för dem.
+0x0000009C Okej, vi stjäl det själva då.
+0x0000003A Nej tack.
+0x0000004E Jag har ytterligare en fråga ...
+0x00000065 En sak till innan jag ger mig av ...
+0x00000053 Ha det så trevligt. Att tjäna är mitt kall.
+0x00000064 Jag har ytterligare en fråga ...
+0x0000001E Sedan urminnes tider har ~mission_item~ kastats för fötterna på våra framgångsrika befälhavare. Vi har vunnit så många segrar den senaste tiden att det börjar ta slut. Kan du hämta lite åt oss?
+0x000000A6 Kompis. Varför måste du vara så trist!? En sån tråkmåns? ~p~Vi erbjöd spänning! Vi erbjöd äventyr! Varför rynkar du på näsan åt sånt? ~p~Du ser ut som en sorglös typ, full av liv och dristighet. Jag antar att utseendet kan bedra, kompis, för du är en riktig kuf.
+0x000000A3 Jag beklagar att jag inte kunde hjälpa till.
+0x0000009B Vi insisterar inte. Vi behåller bara vår metafysiska glans för oss själva.
+0x0000001B Gurun Spud säger att lyckan befrämjas om ~mission_item~ sprids ut runt huset, och nu är efterfrågan stor. Kan du hämta lite åt oss?
+0x00000057 Hallå, du har inte betalt för att söla. Sätt igång! Visa lite initiativförmåga. Här är en sammanfattning av läget: ~p~Du måste ta dig till planeten ~mission_target_planet~ i systemet ~mission_target_star~ och leta reda på ~mission_item~ åt oss. ~p~Tydligen blir man mycket stark av det. Vi måste skaffa lite av det. ~p~Gör vad som krävs.
+0x00000073 Du milde! Vi trodde att du var, nåja, mäktig eller något sådant. Vi får försöka trösta oss själva genom att sälja artiklar från basaren till dig.
+0x00000063 Får jag fråga om något annat?
+0x00000008 Små mängder av ~mission_item~ har visat sig användbart vid återställning av skogsskövlade områden. Kan du hämta en mängd åt oss?
+0x00000129 Ber du om döden? Vi kan möjligen bevilja dig den.
+0x00000074 Men hur ska jag nå nästa transfysiska plan utan ~mission_item~?
+0x00000058 Har du kryddan ~mission_item~? Inte? Om du behöver en sammanfattning: ~p~Hämta ~mission_item~ åt oss. Det sägs finnas i stjärnsystemet ~mission_target_star~ på planeten ~mission_target_planet~. ~p~Snabba på! Jag är utsvulten! ~p~Tanken på att inta mat utan de rika övertoner som den här kryddan ger gör mig bokstavligen spyfärdig. Ge mig lite!
+0x0000004D Får jag fråga om något annat?
+0x0000012A Det passar inte att vackla nu! Eller så gör det det.
+0x00000095 Vi får väl hantera våra egna resurser. Adjö.
+0x00000015 Enligt det senaste modet ska ~mission_item~ formas till blomvaser som bärs på huvudet, men efterfrågan är större än tillgången. Kan du skaffa lite åt oss så att fler kan klä sig enligt vad modet föreskriver?
+0x00000056 Varför har du kommit tillbaka? Vi vill inte vara framfusiga och störiga, men vi behöver verkligen ~mission_item~ från planeten ~mission_target_planet~, i stjärnsystemet ~mission_target_star~. ~p~Det kommer att göra oss stora och starka, och alla andra imperier kommer att sluta med sina ständiga trakasserier när de ser våra gigantiska muskler med vener som prinskorvar. ~p~Vi ska nog visa dem!
+0x00000121 Tros de data som har överförts till din uppdragslogg har du inte återvänt med en leverans av ~mission_item~.
+0x00000032 Enligt det senaste modet ska ~mission_item~ formas till blomvaser som bärs på huvudet, men efterfrågan är större än tillgången. Kan du skaffa lite åt oss så att fler kan klä sig enligt vad modet föreskriver?
+0x00000072 Hämtade du inte ~mission_item~? Våra festivaler kommer att förlora sin lyster.
+0x00000098 Om du inte vill hjälpa oss, påbjuder logiken att vi hjälper oss själva. Adjö.
+0x00000122 Tros de data som har överförts till din uppdragslogg har du inte återvänt med en leverans av ~mission_item~. Vårt behov är stort ... kan du inte hjälpa oss?
+0x00000127 Begrep du inte vår order?
+0x00000128 Vill du inte stjäla resurser som hör till någon annan? Vi förlorar pengar! Nu finns inte tid till moraliska hänsyn.
+0x000000AA UPPDRAGSSTATUS: Avbruten av leverantören. ~p~BEDÖMNING: Oacceptabelt! ~p~BARSK LEKTION: Om någon ville ha ~mission_item~ på vår tid var denne tvungen att uppfinna interstellära resor och leta reda på det den hårda vägen genom att leta på en planet i taget. ~p~SAMMANFATTNING: Ni ungdomar förstår inte hur bra ni fått det.
+0x00000097 Vi kommer inte att hindra dig om du har ärenden på annan plats. Farväl.
+0x00000086 Vi dreglar av förväntan. Res till planeten ~mission_target_planet~ med det samma. När du kommer fram har du ~mission_time~ sektoner på dig att slutföra uppgiften.
+0x0000005E Efterfrågan på ~mission_item~ bara ökar, och du har inte skaffat något åt oss. Informationen finns i din uppdragslogg. Det är ont om tid!
+0x000000D1 Uppdraget misslyckades. Tiden har gått ut.
+0x0000006D Okej. Jag är redo nu.
+0x0000008F Det var olyckligt. ~p~Jag är säker på att vi skulle kunna hitta någon som kan hjälpa oss att hitta ~mission_item~, men personalpsykologen sade att du är den lämpligaste kandidaten för jobbet. ~p~Ingen annan gör det som du!
+0x0000007C Det är superfantastiska nyheter, kompis! ~p~Vi vet att du kommer att ta hand om saker och ting på ett skickligt sätt. ~p~När du har landat på planeten ~mission_target_planet~ måste du återvända inom ~mission_time~ sektoner.
+0x00000061 I din uppdragslogg beskrivs avtalet om att du ska hämta ~mission_item~ åt oss från planeten ~mission_target_planet~. Skrämdes du bort av de där patetiska infödingarna eller finns det någon annan orsak till ditt misslyckande?
+0x00000021 Jag skulle ha användning för lite mer information.
+0x00000079 En annan sak ...
+0x0000008A Tack. Vi uppskattar lite rymdröveri i gott syfte. ~p~De ~mission_time~ sektoner som tilldelats dig för att slutföra uppgiften börjar räknas ned när du anländer till planeten ~mission_target_planet~.
+0x00000090 Åh, kompis. Du fattar inte vilken spännande möjlighet du tackar nej till. ~p~Resan för att hämta ~mission_item~ kommer garanterat att vara fylld med spännande händelser och äventyr. ~p~Jag trodde att du hade ryggrad som matchade ditt utseende, men jag hade väl fel. Hör du till en ryggradslös art?
+0x000000C4 Åk tillbaka till planeten ~mission_source_planet~.
+0x00000023 Nja. Jag känner inte för det här uppdraget.
+0x0000006B Javisst. Det stämmer.
+0x00000088 Så patetiskt ~mission_source_empire~ ter sig inför er mäktiga art. Om du återvänder med tillräckligt med ~mission_item~ kommer vi att darra inför din väldiga storslagenhet. ~p~När du är framme på planeten ~mission_target_planet~ väntar vi på dig inom ~mission_time~ sektoner.
+0x00000003 Våra hängande trädgårdar har fått en stor ökning av galaktiska turister under den senaste tiden, vilket har inneburit att växtligheten ansträngs. Vi vill att du skaffar lite ~mission_item~ från planeten ~mission_target_planet~ åt oss. Detta gör växterna starkare.
+0x0000006C Okej. Nu förstår jag.
+0x00000036 Ja. Jag hjälper till.
+0x0000003B Tack, men jag är inte intresserad.
+0x00000050 Jag är glad att kunna hjälpa till. Tack igen!
+0x0000007B Vi tänkte att du inte skulle kunna motstå lockelsen hos en sådan potentiellt viktig upptäckt. ~p~När du landat på planeten ~mission_target_planet~ måste du återvända inom ~mission_time~ sektoner för att våra mål ska kunna uppfyllas.
+0x00000009 Vi har upptäckt att ~mission_item~ har egenskaper som förstärker vår arts immunsystem. Kan du hämta lite av det här värdefulla ämnet åt oss?
+0x00000013 Våra allt mer frenetiska fester drivs med stora mängder ~mission_item~, men nu verkar det ta slut. Kan du skaffa lite åt oss så att kalasen kan fortsätta?
+0x000000A0 En sak till innan jag ger mig av ...
+0x00000060 Kom vi inte överens om att du skulle skaffa ~mission_item~ åt oss? Efterfrågan är enorm! Informationen finns i din uppdragslogg.
+0x000000B2 Din brist på heder kan endast mätas med din brist på tålamod.
+0x000000A8 Vad!? ~p~Hur vågar du ignorera vårt uppdrag! Du godkände! ~p~Nu måste vi få ut alla våra skepp ur torrdocka, ordna en fest och göra det här själva. Vilket jobb! ~p~Du kunde ha gjort det här enkelt, men nej det gick ju inte. ~p~När vi hittar ~mission_item~ och förvandlar oss själva till stadiga väggar av vältränade muskler, då kanske vi börjar leta efter dig, pysen. ~p~Vi ses. Ja ...
+0x000000D0 Uppdraget slutfört. ~mission_item~ finns ombord.
+0x0000002C Stjärnan ligger ungefär ~mission_clue_distance~ parsek från ~mission_clue_landmark1~.
+0x00000018 Pirater har kapat vår leverans av ~mission_item~. Skulle vi kunna be er att hämta ytterligare en leverans åt oss?
+0x00000024 Nej tack. Jag står över.
+0x0000006E Det verkar som om du inte ens klarar av den här enkla uppgiften. Vi tar själva hand om uppgiften.
+0x00000051 Ett rent nöje, som alltid.
+0x0000006A Just det. Jag förstår. Okej.
+0x0000011B Våra vetenskapsmän har upptäckt så många nya användningsområden för ~mission_item~ att det har uppstått brist på varan. Kan du hämta varan åt oss?
+0x00000010 Våra ekonomiska trendanalyser har missat den ökade användningen av ~mission_item~. Vill du hjälpa oss hämta en mängd?
+0x0000011C Vi har förlorat en leverans av ~mission_item~ på grund av en piraträd. Kan du avhjälpa bristen?
+0x0000000C ~mission_item~ ska finnas på alla riktigt försedda altare, men Spodes rättrogna har svårt att skaffa det som behövs. Kan du hjälpa oss med vår tillbedjan?
+0x0000009F Jag har ytterligare en fråga ...
+0x0000004C Låt mig fråga en sak till ...
+0x000000A1 Ha! Nå. Måste ge mig av.
+0x0000011A ~mission_item~ har blivit livsviktigt för vår ekonomi. Kan du hämta lite åt oss?
+0x00000012 Ett fraktfartyg med en leverans av ~mission_item~ har förstörts i en piraträd. Kan du hjälpa oss att klara avbräcket?
+0x000000C3 Hämta en ~mission_item~ från planeten ~mission_target_planet~.
+0x00000025 Jag tror inte jag passar för det här.
+0x0000007E När vi väl har ~mission_item~ kan vi trakassera och pina våra offer mycket effektivare. När du kommer till planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att återvända.
+0x000000C6 Planeten ~mission_target_planet~ finns i stjärnsystemet ~mission_target_star~.
+0x00000089 Det är underbart av dig att hjälpa oss med vår metafysiska mission på det här sättet. Trots att tiden egentligen inte angår oss, så måste du återvända inom ~mission_time~ sektoner. Den galaktiska klockan börjar ticka när du anländer till planeten ~mission_target_planet~.
+0x00000091 Åh, öh. Okej. Jag menar, om du inte vill hjälpa till så är det okej. Ja ... ~p~Det är bara att ... nå ... du förstår ... öhh ~p~Ja, det är många som gnäller på oss. Du verkade vara typen som bryr sig ... ~p~Glöm det. Jag tror nog att vi klarar oss. Vi lyckas alltid överleva på något sätt. ~p~Tack i alla fall. Ja.
+0x000000A4 Jag ber om din förståelse.
+0x0000005D ~player_title~ ~player_creature_name~. Enligt poster i din egen uppdragslogg har du gått med på att skaffa ~mission_item~ åt oss från planeten ~mission_target_planet~. Tänker du fullfölja din del av avtalet?
+0x00000030 ~mission_item~ finns på planeten ~mission_target_planet~, vilken bebos av en art som är immun mot förnuft och ekonomiska incitament. Använd så lite våld som möjligt när du anförskaffar ett förrådl av ~mission_item~, och återvänd sedan hit.
+0x0000002F Res till planeten ~mission_target_planet~ som kretsar kring systemet ~mission_target_star~, och hämta ett prov på ~mission_item~. Återvänd till oss så fort som möjligt. Den här världen bebos visserligen av en art som har förkastat medlemskap i vår federation, men du behöver inte bry dig om dem. Återvänd med minimala förluster.
+0x0000011D ~mission_item~ finns på planeten ~mission_target_planet~, som kretsar kring systemet ~mission_target_star~. Åk dit, hämta en mängd och återvänd hit. ~p~Du kan välja att döda eller spara den infödda arten.
+0x0000011E ~mission_item~ finns på planeten ~mission_target_planet~, som kretsar kring systemet ~mission_target_star~. Åk dit, fyll lastrummen och återvänd hit. ~p~Det finns intelligent liv på planeten, men vårt behov är större än deras. Undvik överdrivet våld.
+0x00000126 Vi ser fram emot att få ~mission_item~. Åk genast. ~p~När du kommer fram till planeten ~mission_target_planet~ har du endast ~mission_time~ sektoner på dig att slutföra uppdraget.
+0x000000C5 Uppdraget misslyckades. Återvänd till planeten ~mission_source_planet~.
+0x00000123 ~player_creature_name~. Oorganiserade tankar verkar vara din arts kännetecken.
+0x0000001C ~mission_item~ har nyligen visat sig användbart i konstruktionen av ett nytt vapen. Kan du hämta varan åt oss?
+0x0000000A Tillbedjan av Spode kräver att vissa heliga objekt tillhandahålls. En grundlig genomsökning av alla Spodes tempel visar på en oroväckande brist på ~mission_item~. Kan du skaffa mer av det åt oss?
+0x0000003C Jag tror inte det här uppdraget är rätt för mig.
+0x0000003D Jag ber dig. Jag kan inte göra det.
+0x00000054 Vi sammanfattar: ~p~Vi vill att du åker till systemet ~mission_target_star~ och letar reda på ~mission_item~ på planeten ~mission_target_planet~. ~p~När du har hittat ~mission_item~ måste du anförskaffa det, med valfri metod. ~p~Var försiktig, snabb och noggrann, och fuska inte. Försök komma ihåg vad du sysslar med den här gången?
+0x00000004 Vill du hjälpa oss? Vi har ett litet uppdrag åt dig ... ~p~Vi har hört om en krydda, ~mission_item~. Den ska vara bra för kroppen eller nåt sånt. Gör dig stor och stark. ~p~En av våra före detta fiender brukade ge det till soldaterna innan striden börjande. Vi vill ha ~mission_item~.~p~Vi har hört att det finns lite på planeten ~mission_target_planet~.~p~Du måste skaffa den där kryddan åt oss. Kosta vad det kosta vill.
+0x0000000B Våra teologiska helbrägdagörare använder ~mission_item~ för att bota Spodes rättrogna, men vi börjar få brist av varan. Kan du hämta lite åt oss?
+0x00000118 Åk till planeten ~mission_target_planet~ och hämta ~mission_item~ åt oss. Förbered avresan omedelbart.
+0x00000119 Förbered omedelbart en resa tur och retur till planeten ~mission_target_planet~.
+0x000000A5 Du inser förstås att det blir en tråkig plump i ditt protokoll. ~p~Ett så beklagligt sätt att avsluta en sån enastående karriär. Så synd. ~p~Åh, vem försöker jag lura egentligen. Här finns det alltid plats för dig. ~p~~player_creature_name~, vi släpper dig aldrig!
+0x0000002E ~mission_item~ finns på planeten ~mission_target_planet~. Invånarna på ~mission_target_planet~ är ett otroget patrask som har förkastat Spodes läror, och du kan döda så många av dem som behövs.
+0x00000096 Korrekt tillbedjan är en invecklad konst och uppenbarligen helt bortom begreppsvärlden hos ~player_creature_name~. Farväl.
+0x000000B8 Jag återvänder inom kort. Hej så länge.
+0x00000034 Det finns tillgångar av ~mission_item~ på planeten ~mission_target_planet~, som kretsar kring systemet ~mission_target_star~. Folket som bor där är mindre andligen utvecklade än vad vi är, så du kan gott strunta i dem. ~p~Ta dock inte strid med dem, det skulle förstöra karman.
+0x000000C8 Du har misslyckats med att hämta ~mission_item~ i tid. Återvänd till stjärnsystemet ~mission_source_star~.
+0x0000007F Åh, så härligt! Så fint av dig att föra det här åt oss. ~p~Jag ska hålla mig från att diskutera måltiderna vi ska tillaga när du väl har hämtat ~mission_item~ åt oss. Du borde ge dig av ... ~p~Åh, en till kan inte skada: ~p~Mmmm! Läckert, stött kyndel och slakt geggelgräs med en lätt glasyr av sjökogurka. När du väl befinner dig på planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att återvända med den kulinariska ingrediensen.
+0x00000011 Handeln med ~mission_item~ är ett viktigt element i vårt interstellära handelsnätverk. Kan du resa till en angränsande värld och anskaffa en mängd?
+0x0000008C Jag ber om din förståelse.
+0x0000000E Det krävs ~mission_item~ för att den ambitiöst planerade arkitekturen för Stora rådshallen ska kunna slutföras. Kan du hjälpa oss att skaffa det?
+0x00000071 ~player_title~ ~player_creature_name~. Vissa arter kan se din oduglighet som charmig, men i vår ekonomi finns ingen marknad för charm.
+0x0000006F ~player_title~ ~player_creature_name~. Du måste ha hindrats av demoniska styrkor. Vi kommer att prisa Spode, och sedan fortsätta.
+0x00000035 ~mission_item~ finns på planeten ~mission_target_planet~. ~p~Den här världen bebos av en infödingsart. Våra behov är viktigare än deras, så du kan ignorera dem om du nu inte behöver öva lite prickskytte.
+0x0000007A Uppgiften är påbörjad. Adjö.
+0x000000B5 Jag måste sticka. Adjö!
+0x00000069 Jag kan inte genomföra detta uppdrag. Förlåt mig.
+0x000000B6 Tack för möjligheten. Hej så länge.
+0x00000087 Ert mod väcker vördnad i hela vår art. Vi darrar inför din majestätiska gestalt! ~p~Låt oss fortsätta vår tillbedjan genom att återvända inom ~mission_time~ sektoner. Klockan startar när du anländer till planeten ~mission_target_planet~.
+0x00000033 Den närmsta källan med ~mission_item~ finns på planeten ~mission_target_planet~. Hämta lite och kom tillbaka med det så fort som möjligt. Invånarna på ~mission_target_planet~ kan protestera, men de bjuder knappast upp till något motstånd värt namnet.
+0x0000008B Jag måste fortsätta. Adjö.
+0x000000CA Du har lyckats lägga beslag på föremålet ~mission_item~.~p~Återvänd till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ för att få din belöning.
+0x00000026 Jag hoppas att ni förstår, jag kan inte ta detta uppdrag.
+0x000000D7 Jag måste avsäga mig den här uppgiften.
+0x000000B3 Och ...
+0x000000BB Dessutom ...
+0x000000B9 Jag skulle vilja fråga dig något annat ...
+0x000000BA Innan jag går har jag en annan fråga ...
+0x0000000F I den senaste utvecklingsplanen har Stora rådet betecknat ~mission_item~ som en klass A-substans. På grund av den begränsade tillgången riskerar vi att missa vår tilldelning. Kan du skaffa oss en mängd ~mission_item~?
+0x0000000D Stora rådet önskar endast lycka och välgång åt sina medborgare. För att våra medborgare ska kunna blomstra behöver vi tillräckliga leveranser av ~mission_item~. Skulle du kunna tänka dig att skaffa det åt oss?
+0x0000002D Den närmsta källan med ~mission_item~ finns på planeten ~mission_source_planet~. Hämta lite och kom tillbaka med det så fort som möjligt. De oupplysta infödingarna på planeten ~mission_target_planet~ kan innebära problem för dig men försök att inte skada dem ... till och med sådana som de har sin plats i den galaktiska ordningen.
+0x00000031 Vi har upptäckt att om man häller ~mission_item~ i dricksvattnet så stärks hälsan och välbefinnandet, eller åtminstone så upplevs det så. Men eftersom vi bara bryr oss  om ytan så är det den som räknas. Nu håller det på att ta slut ... Kan du hämta lite åt oss?
+0x00000002 Vill du umgås med förmögna och inflytelserika personer? ~p~I så fall har vi ett uppdrag som passar dig. Garanterat! ~p~Om du slutför det hamnar du helt klart på nyheterna. Är du intresserad? Jag är glad att du frågade:~p~Det här uppdraget gäller den berömda kryddan ~mission_item~. Nya ändringar i patentreglerna påverkar planeten ~mission_target_planet~ betyder att ... ~p~Hörru! Är du intresserad? Jag trodde väl det. Vill du veta mer?
+0x000000D4 Innan jag går så har jag andra frågor ...
+0x000000D5 Och ...
+0x00000067 Jag är klar. Leta reda på din egna kryddor!
+0x00000014 Vi har upptäckt att om man häller ~mission_item~ i dricksvattnet så stärks hälsan och välbefinnandet, eller åtminstone så upplevs det så. Men eftersom vi bara bryr oss om ytan så är det den som räknas. Nu håller det på att ta slut ... Kan du hämta lite åt oss?
+0x00000117 Groxerna behöver mer ~mission_item~. Vi förväntar oss att du hämtar det.
+0x0000005A Vår energivärld har brist på ~mission_item~. Det står i din egen Uppdragslogg att du har lovat hjälpa oss. Varför har du inte skaffat den mängd som du lovade?
+0x0000005F Våra marknader går trögt på grund av otillräckliga leveranser av ~mission_item~. Varför har du inte skaffat något till oss? Mängd och källa finns angivna i din Uppdragslogg.
+0x0000005C Våra marknader går trögt på grund av otillräckliga leveranser av ~mission_item~. Alla uppgifter finns i Uppdragsloggen. Kan du hämta det här objektet åt oss?
+0x0000008D Jag skulle vilja fråga dig något annat ...
+0x00000082 ~mission_item~ är viktigt för tillbedjan av Spode. Åk till planeten ~mission_target_planet~ där du har ~mission_time~ sektoner på dig att förtjäna Spodes välsignelse.
+0x0000001A ~mission_item~ används för att rena tillbedjare under Ceremonin för självförhärligande, där vi lyckönskar oss själva för att vi är så andligen utvecklade. Men det är brist på ~mission_item~ på grund av allt lovsjungande, så vi undrar om du kan skaffa mer åt oss?
+0x000000AE Vill du inte göra jobbet? Du kanske tillåter att våra vetenskapsmän på kirurgisk väg ändrar din hjärna till en mer rationell konfiguration.
+0x00000083 Stora rådet står i skuld till dig. Res till planeten ~mission_target_planet~ med det samma. När du kommer fram har du ~mission_time~ sektoner på dig att slutföra uppgiften.
+0x0000008E Innan jag går har jag andra frågor ...
+0x00000120 Bra arbetat, kapten! ~mission_item~ blir ett rejält lyft för vår ekonomi. Det är inte mer än rättvist att du får ~mission_rewards~.
+0x00000048 Utmärkt. Våra fester lyser allt starkare tack vare dig. Ta gärna dina ~mission_rewards~.
+0x0000003E Det här är fantastiska nyheter! ~p~Om våra vetenskapsmäns beräkningar är korrekta kan industri och samhälle dra stora fördelar av analysen av ~mission_item~. ~p~Du kommer troligen att hälsas som hjälte. Igen. Gäsp. ~p~Hur som helst erbjuder vi en summa om ~mission_rewards~. Tack för dina stora ansträngningar.
+0x0000004B Tack för den här leveransen som kom i rättan tid. Vi erbjuder ~mission_rewards~ om det inte räcker med äran av att få representera oss.
+0x00000047 Tack för ditt nödvändiga bidrag till vår ekonomi. Vi hoppas att dessa ~mission_rewards~ kan vara till hjälp för ditt eget ekonomiska välbefinnande.
+0x0000011F ~player_creature_name~. Du har återvänt med ~mission_item~ av tillräcklig kvalitet. Enligt din arts sedvänjor erbjuder vi ~mission_rewards~.
+0x00000049 Tack för din storslagna handling, nu blomstrar vår ekonomi. När du har hämtat dina ~mission_rewards~ kan du ta en rundtur på vår marknadsplats.
+0x0000002B Du hittar planeten ~mission_target_planet~ i oupphörligt omlopp kring stjärnan ~mission_target_star~. ~p~Åh, blotta tanken på det rika och aromatiska växelspelet av smaker som bara en gnutta ~mission_item~ ger alla måltider gör mig sjukligt längtande, en sjukdom som endast kan botas av en ordentlig bukfylla. ~p~Åk din väg! Snabba på! Som belöning får du ~mission_rewards~!
+0x00000044 Tack vare dina ansträngningar förblir stjärnsystemet ~mission_source_empire_home_star~ ett föredöme som ett välorganiserat samhälle i galaxen. Vi är glada att kunna ge dig ~mission_rewards~.
+0x00000040 Det här är så spännande för oss, och allt är tack vare dig! ~p~Vi erbjuder en summa om ~mission_rewards~.~p~Snart kommer vetenskapen och ~mission_item~ att förvandla oss till muskelberg som ingen kommer att våga sig på. ~p~Vissa säger att ~mission_item~ orsakar oförutsägbara raseriutbrott och att ... ehhhh ... delar kan krympa. ~p~Men det kommer det att vara värt nästa gång en översittare kommer för att trakassera oss.
+0x0000003F Du klarade det där uppdraget galant, kompis! I ärlighetens namn kan vi inte tacka dig tillräckligt. ~p~~mission_item~ kommer garanterat till god användning. ~p~Vi ger dig ~mission_rewards~ för dina ansträngningar. ~p~Du har varit till fantastisk hjälp, kompis. Tack! Jag menar det verkligen.
+0x000000C9 Hämta en ~mission_item~ från planeten ~mission_target_planet~ som finns i stjärnsystemet ~mission_target_star~.~p~Det är känt att ~group:star_clue~. ~p~När du befinner dig på planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att identifiera och föra bort objektet.
+0x00000042 ~player_title~ ~player_creature_name~. Åh, ~mission_item~ innebär år av överdådiga middagar som skulle passa kejsarinnan själv. ~p~Det gäller din kompensation. Jag tror att erbjudandet var ~mission_rewards~. Stämmer det? ~p~Mmmmm. Jag undrar vilken rätt jag ska börja förbereda med den här kryddan? Friterade horgblad? Sockerdoppade fönrullar? Bringstek av blomba-blager i en reducerad sås av oogasås? ~p~ Ja, säger jag! Ja till allt!
+0x00000028 Just det kompis! Nu ska vi sätta dig i arbete. ~p~Vi vill att du tar dig till stjärnsystemet ~mission_target_star~ så snabbt som ~ufo_name~ bara kan åka. ~p~Ta dig sedan till planeten ~mission_target_planet~ och hämta ~mission_item~ åt oss. ~p~Du kan stöta på ... hinder. Men vi tror nog att en stor och smart rymdhjälte som du säkert kommer på något. ~p~Uppdraget är värt ~mission_rewards~. Vad säger du?
+0x0000002A Du hittar planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~. ~p~Det här uppdraget är viktigt för vår öppet aggressiva livsstil så vi betalar dig ~mission_rewards~ för att skaffa varorna åt oss. ~p~Vi finner mycket nöje i att låta mindre imperier och civilisationer lida. ~mission_item~ kan utjämna kampen och förstöra allt vi står för!
+0x00000029 Planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. ~p~Du borde kunna hitta ~mission_item~ där. ~p~Vi är så trötta på att skuffas runt i galaxen så att vi struntar i hur du får tag på det. Se bara till att få tag på det! ~p~Vi betalar ~mission_rewards~. ~p~Snälla, kan du hjälpa oss? Snälla?
+0x00000045 ~player_title~ ~player_creature_name~. Tack vare dig kan rätt offergåvor nu ges till Spode. Låt ~mission_rewards~ vara dina ... och även Spodes heliga ord, tillgängliga i den här bärbara utgåvan.
+0x00000046 ~player_title~ ~player_creature_name~. Stora rådet är belåtet med ditt bidrag till vår ekonomi. Jag har fått i uppdrag att belöna dig med Lovordscertfikat av andra klassen och ~mission_rewards~.
+0x00000055 Vad är det för fel? Trasslade händelserna till det? Brottas du med tvekan och förvirring? ~p~Letar du efter svar? Vi kan hjälpa dig... ~p~Ditt mål ligger i systemet ~mission_target_star~, på planeten ~mission_target_planet~. ~p~Där kommer du att hitta det du söker - ~mission_item~. ~p~Skaffa fram det på valfritt sätt och ta det sedan till oss.
+0x000000D3 Ah, så klart! Jag ska kika i Uppdragsloggen.
+0x000000B4 En sak till ...
+0x000000BC En sak till ...
+0x000000D6 En sak till ...
+0x000000AF Outgrundliga är sannerligen ~player_species~.
+0x00000027 Planeten ~mission_target_planet~ kretsar kring stjärnan ~mission_target_star~.~p~Om du slutför uppdraget utan några incidenter får du ~mission_rewards~. ~p~För våra interna syften har det här uppdraget klassificerats som "Endast för kännedom". Så länge som du kan skaffa pulvret åt oss struntar vi i hur du har gjort det. ~p~Förstår du?
+0x0000004A Utmärkt! Njut av dina ~mission_rewards~ med kunskapen om att du har hjälpt oss att bli mer transcendentala!
+0x00000041 ~player_creature_name~. Hahahahahaha! ~p~Nu kan vi finna nyckeln till mysterierna hos ~mission_item~ och förvandla oss själva till en ohejdbar armé med hypertrofiska supervarelser. ~p~Vi kommer att krossa våra fiender. Se hur de flyr för oss och lyssna till deras överlevandes jämmer.~p~Ta dina ~mission_rewards~ och far i väg.
+

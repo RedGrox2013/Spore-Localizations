@@ -1,0 +1,274 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000F8 ...
+0x00000009 Illegale Gen-Hacker haben das Verteidigungsnetz des Planeten ~mission_target_planet~ in ihre Gewalt gebracht. Unsere eigenen Bürger werden für illegale Experimente benutzt! Hilfst du dabei, sie zu retten?
+0x00000003 Ja, du kannst tatsächlich was für uns tun, aber es ist ein bisschen knifflig ...~p~Frag nicht, warum, aber du sollst sämtliche Geschütze auf dem Planeten ~mission_target_planet~ zerstören. Gebäude dürfen nicht beschädigt werden. Und Bürger schon gar nicht.~p~Du musst präzise sein wie ein Chirurg.~p~Meinst du, du kriegst das hin?
+0x00000008 Frieden und Wohlstand herrschen seit Langem überall in unserer Zivilisation. Doch jetzt haben Anarchisten die Verteidigungssysteme des Planeten ~mission_target_planet~ in ihre Kontrolle gebracht. Kannst du uns helfen, die Ordnung wiederherzustellen?
+0x0000000E Wir müssen leider zugeben, dass es unter Spodes Gläubigen falsche Propheten gibt. Eine Splittergruppe namens Spodes Bruderschaft (reformiert) hat die Kontrolle über den Planeten ~mission_target_planet~ übernommen und drangsaliert nun die wahrhaft Gläubigen. Hilfst du uns, sie zu besiegen?
+0x0000000F Mitglieder eines irrationalen Kultes, der den sogenannten Unbekannten Gott anbetet, haben einen Putschversuch auf dem Planeten ~mission_target_planet~ gemacht. Könntest du uns dabei helfen, sie zu besiegen und den Planeten ~mission_target_planet~ wieder unter das Banner der Vernunft zu stellen?
+0x0000000A Piraten haben den Planeten ~mission_target_planet~ angegriffen, die Kontrolle über die Verteidigungssysteme an sich gerissen und rauben nun die dortige Wirtschaft und die Bürger aus. Kannst du da eingreifen?
+0x0000000C Anhänger des falschen Gottes, Der Nicht Kommen Wird, haben eine Verschwörung gegen Spodes Willen angezettelt. Die Verschwörer bedrängen die Gläubigen auf dem Planeten ~mission_target_planet~. Hilfst du uns, die Unterdrücker zu besiegen und den Planeten ~mission_target_planet~ wieder auf Spodes Weg zu bringen?
+0x00000000 Die nächste Mission erfordert militärische Präzision und wahren Kampfgeist.~p~Auf dem Planeten ~mission_target_planet~ hat es einen Militärputsch gegeben.~p~Die neuen Herrscher stehen unseren Zielen ablehnend gegenüber und müssen neutralisiert werden, ohne Gebäude oder die Bürger zu gefährden.~p~Wir halten es für das Beste, wenn wir uns ausschließlich darauf konzentrieren, ihre Geschütze zu zerstören. Also zerstöre sämtliche Geschütze auf dem Planeten!
+0x0000000B Ein verrückter Wissenschaftler namens Garb hat eine Seuche unter unseren Bürgern verbreitet, die sie paranoid und militaristisch macht. Sie haben bereits das Verteidigungssystem des Planeten ~mission_target_planet~ übernommen. Kannst du die Verteidigung des Planeten lahm legen, damit wir Friedenstruppen und medizinisches Personal zur Behandlung der Opfer dorthin bringen können?
+0x00000004 Hast du die Städte auf dem Planeten ~mission_target_planet~ gesehen?~p~Kann eine Gesellschaft ästhetisch betrachtet *schlechtere* Entscheidungen treffen? Passen die Geschütze zum Rathaus? Wohl kaum!~p~Wir können als selbst ernannte Modepolizei des Universums dieses architektonische Verbrechen nicht länger dulden!~p~Entferne ... äh ... zerstöre sämtliche Geschütze auf dem Planeten ~mission_target_planet~, damit sie das Auge nicht länger beleidigen!~p~Aber vergiss nicht, wir sind Ästheten, keine Barbaren! Anderer Schaden jeglicher Art ist völlig unzulässig!
+0x0000000D Unsere Bemühungen, die Bewohner des Planeten ~mission_target_planet~ zu konvertieren, waren erfolgreich. Aber jetzt hat eine Handvoll Abtrünniger und Ketzer die Kontrolle über das Verteidigungssystem dieser Welt übernommen und verfolgt Spodes Anhänger. Kannst du uns helfen, die Übeltäter zu besiegen?
+0x00000010 Eine abtrünnige Künstlergruppe, die sich Anti-Vernunft-Kult nennt, hat die Macht auf dem Planeten ~mission_target_planet~ übernommen. Hilfst du uns, sie zu besiegen und die Ordnung auf unserer Welt wiederherzustellen?
+0x000000AD Kannst du mir die Mission noch mal erklären?
+0x0000003B Nein! Du suchst dir besser einen anderen.
+0x000000F0 Bist du absichtlich so willkürlich, oder hast du einfach nur keine Arbeitsmethode? Leb wohl!
+0x00000093 Reise sofort zum Planeten ~mission_target_planet~ im ~mission_target_star~-Sternsystem, wo du ~mission_time~ Sectonen Zeit hast, sämtliche Geschütze zu zerstören! Achte darauf, dass keiner von Spodes Gläubigen Schaden nimmt!
+0x00000054 Du bist wieder da! Hast du Goolp gesehen? Nicht?~p~Oh, da bin ich aber geknickt! Ich dachte, du wärst bereits ins ~mission_target_star~-System geflogen und hättest sämtliche Geschütze auf dem Planeten ~mission_target_planet~ zerstört, ohne irgendein Gebäude oder Wesen in Mitleidenschaft zu ziehen!~p~Mit 'irgendein' meine ich vor allem meinen alten Brieffreund Goolp. Wenn ihm etwas passieren würde, wäre ich am Ende. Oh, Goolp! Ich vermisse dich so sehr!
+0x0000006C Du hast es sicher gut gemeint, aber jetzt hast du ungewollt eine intergalaktische Krise heraufbeschworen!~p~Die Idee der Operation war, die abtrünnige Regierung zu stürzen, aber Gebäude und Zivilisten in Ruhe zu lassen.~p~Völlig egal, ob dir das Spaß macht, du kannst nicht einfach nach Belieben Zeug in die Luft jagen!~p~Zumindest nicht, während die Missionsuhr tickt.
+0x0000002B ZIELPLANET DER MISSION: Planet ~mission_target_planet~.~p~STERNSYSTEM: ~mission_target_star~.~p~BEZAHLUNG: ~mission_rewards~ Spore-Dollars.~p~AUFGABE: Elektromagnetisches Rauschen entfernen, um Oberflächentelemetrie fortsetzen zu können.
+0x0000010D Ich möchte von dieser Aufgabe entbunden werden.
+0x00000048 Du hast der Aura der Wesen auf dem Planeten ~mission_target_planet~ dieses rosige Leuchten zurückgegeben. Um das Trauma, handgreiflich geworden zu sein, zumindest teilweise wiedergutzumachen, bekommst du ~mission_rewards~ Spore-Dollars.
+0x00000099 Vielen Dank! Du hast auf dem Planeten ~mission_target_planet~ ~mission_time~ Sectonen Zeit, um alle Geschütze zu zerstören. Bitte beschädige dabei weder unschuldige Wesen noch Pflanzen oder Tiere! Beeil dich, bevor die Situation sich verschlimmert!
+0x0000001C Fanatische Militaristen, die einen 'Krieg gegen alles und jeden' wollen, haben die Macht auf dem Planeten ~mission_target_planet~ an sich gerissen. Die Seifenblase ihrer Wahnvorstellungen bringt man wohl am besten dadurch zum Platzen, dass eine außerirdische Rasse die Verteidigungsanlagen lahm legt. Hättest du darauf Lust?
+0x000000F1 Mein schwacher Geist durchdringt deine Weigerung zum Abschluss dieser Mission nicht. Ich werde mich daher zurückziehen, bis es mir dämmert. Leb wohl!
+0x0000010C Diese Aufgabe passt nicht länger in meinen Terminplan.
+0x00000092 Für diese Aktion werden wir dir lange dankbar sein. Reise bitte zum Planeten ~mission_target_planet~, der im ~mission_target_star~-System seine Kreise zieht, und zerstöre die Geschütze! Erledige das innerhalb von ~mission_time~ Sectonen, damit der Feind sich nicht verschanzen kann!
+0x00000086 Dein Versuch, unsere Feinde in der vorgeschriebenen Zeit zu besiegen, ist gescheitert. Wir erledigen das nun selbst ... und im Gegensatz zu dir werden wir nicht rumtrödeln!
+0x0000009F Oh!~p~Mit dieser Reaktion von dir hatten wir nicht gerechnet.~p~Unsere Psychiater hatten gesagt, du wärst das richtige Wesen für den Job.~p~Schon eine Schande, dass du dich so gegen die Freiheit stellst! Zumal jetzt, wo sie auf dem Vormarsch ist! Eine Schande!
+0x0000006E Oh, nein! Oh, Goolp!~p~Wäre ich doch nur kein bluterkranker Pazifist mit Gelenkproblemen, dann würde ich's dir jetzt zeigen!~p~Wenn Goolp wegen deiner Rücksichtslosigkeit etwas zugestoßen ist, dann ... werde ich ...~p~*Schluchz*~p~Oh, Goolp!
+0x00000033 Wer sich auf eine statische Verteidigung verlässt, baut auch Strohmauern, um den Ozean fernzuhalten ...~p~Liefere einen Beweis für dieses Prinzip, indem du die Geschütze auf dem Planeten ~mission_target_planet~ zerstörst. Andere Gebäude oder loyale Zivilisten bitte nicht beschädigen!
+0x000000B4 Vielleicht ein anderes Mal. Bis dann!
+0x00000042 Glückwunsch! Der Große Rat hat mich ermächtigt, dir ein Belobigungszertifikat erster Klasse und ~mission_rewards~ Spore-Dollars zu übergeben.
+0x00000025 Ich bedaure, aber ich muss ablehnen.
+0x000000BD Weit reicht der Arm von Spodes Rache! Leb wohl!
+0x000000DC Du hast sämtliche Geschütze zerstört! Reife Leistung! Kehre zum Planeten ~mission_source_planet~ im ~mission_source_star~-Sternsystem zurück und hole deine Belohnung ab!
+0x00000087 Es tut mir leid. Können wir über etwas anderes reden ...?
+0x00000049 Du hast unsere Feinde erfolgreich besiegt. Sehr professionell, das muss man sagen! Da dich materielle Belohnungen ebenso motivieren wie die Ehre, geben wir dir ~mission_rewards~ Spore-Dollars.
+0x0000009D Ich muss weiter. Leb wohl!
+0x000000B7 Oh! Ich würde nie dein offensichtlich überlegenes Urteilsvermögen in dieser Angelegenheit infrage stellen, aber wäre es nicht besser, wenn du die Mission einfach mal erledigst?~p~Ich weiß ja nicht und meine auch nur, sonst nichts. Vergiss es!~p~Ich werde Goolp wohl nie mehr schreiben können.~br~*Seufz*~br~Oh, Goolp!
+0x00000059 Unsere Bürger auf dem Planeten ~mission_target_planet~ sind immer noch in Gefahr! Alle Details stehen in deinem Missionstagebuch. Wirst du zum Planeten ~mission_target_planet~ reisen und sie befreien?
+0x000000D6 Du gibst auf? Wozu haben wir dir dann überhaupt einen Laser gegeben?
+0x000000F7 Es tut uns leid, dich belästigt zu haben. Bis dann!
+0x000000F6 Eines noch ...
+0x00000067 Ich möchte von dieser Aufgabe entbunden werden.
+0x00000016 Ich armseliger Unwürdiger könnte mich ohrfeigen! Unzufriedene Kunden haben sich zusammengerottet und die Kontrolle über die Verteidigung des Planeten ~mission_target_planet~ übernommen. Sie wollen ihr Geld zurück! Natürlich können wir nicht die Heiligkeit eines Vertrages verletzen, nur um sie zufriedenzustellen.~p~Würdest du gegen ein großzügiges Entgelt diese Angelegenheit für uns in die Hand nehmen?
+0x000000AA O weh, unsere armen bemitleidenswerten Bürger! Unsere Spezies wird umgehend mit der Trauer beginnen. Leb wohl!
+0x000000DA Der Planet befindet sich im ~mission_source_star~-Sternsystem. Kehre dorthin zurück und überbringe die schlechte Nachricht!
+0x0000004B Ich möchte mit dir noch über etwas anderes reden ...
+0x00000030 Die Zerstörung der Geschütze müsste ausreichen, um diese unglücklichen Seelen zur Vernunft zu bringen. Was immer du tust, jag nichts anderes in die Luft, und eliminiere keins der Wesen, die schreiend herumlaufen und Deckung suchen! Denn weißt du, dann wäre es viel zu leicht.
+0x00000064 Ich kündige. Diese Mission ist schwer.
+0x00000034 Okay, kapiert. Ich nehme sie alle.
+0x0000003A Nein, danke. Ich bin nicht interessiert.
+0x000000F9 Vielleicht ein anderes Mal. Bis dann!
+0x000000D2 Rasch, Kapitän! Wir zählen auf dich! Auf dem Planeten ~mission_target_planet~ hast du nur ~mission_time~ Sectonen Zeit, um alle Geschütze zu zerstören.
+0x00000065 Dieser Auftrag funktioniert einfach nicht.
+0x0000008B Wir wussten, dass wir irgendwann jemanden finden würden, der uns hilft. Vielen Dank! Danke!~p~Und wenn du meinen Brieffreund Goolp triffst, dann sag ihm, dass ich in dieser Zeit der Prüfung unseren Briefkontakt sehr vermisst habe!~p~Aber verschwende nicht zu viel Zeit damit, ihn zu suchen! Du hast auf dem Planeten ~mission_target_planet~ nämlich nur ~mission_time~ Sectonen Zeit, um alle Geschütze zu zerstören.
+0x00000011 Ein abtrünniger Wissenschaftler, der dem sogenannten 'Kult meines glorreichen Ichs' vorsteht, hat die Computer übernommen, die das Verteidigungssystem des Planeten ~mission_target_planet~ kontrollieren. Kannst du uns helfen, diesen Irren zu besiegen?
+0x000000AC Uns war nicht klar, dass du militärisch so schwach auf der Brust bist.
+0x0000009A Begib dich zum Planeten ~mission_target_planet~ im ~mission_target_star~-Sternsystem und zerstöre dort innerhalb der vorgegebenen ~mission_time~ Sectonen sämtliche Geschütze! Wir schätzen Tüchtigkeit, also beeil dich, wenn du unsere Wertschätzung behalten willst!
+0x00000022 Ich schieße auf nichts, was zurückschießen kann.
+0x000000F3 Du reizt uns wirklich dazu, handgreiflich zu werden.
+0x0000009E Ich bitte um Verständnis.
+0x000000C9 Das Verteidigungsnetz des Planeten ~mission_target_planet~ wurde bisher nicht ausgeschaltet. Alle wichtigen Informationen stehen in deinem Missionstagebuch. Zerstöre sämtliche Geschütze!
+0x0000006A Hab's kapiert. Danke.
+0x00000089 Ausgezeichnet! Wir wussten, dass wir auf dich zählen können.~p~Melde dich hier so bald wie möglich, damit wir der ganzen Galaxie erzählen können, dass eine große und wichtige Mission abgeschlossen worden ist.~p~Dann bekommst du auch deine ~mission_rewards~ Spore-Dollars. Aber vergiss nicht: Du hast auf dem Planeten ~mission_target_planet~ nur ~mission_time~ Sectonen Zeit, um alle Geschütze zu zerstören.
+0x0000010B Ich muss meine Zusage für diese Aufgabe widerrufen.
+0x000000F2 Du rettest unser Volk nicht? Dann müssen wir jetzt jede Menge Heilenergie schicken.
+0x000000B5 Dein Glück, dass wir das nicht als Behinderung der Justiz werten!~p~Die Mission von vornherein abzulehnen, wäre ja akzeptabel gewesen, aber mittendrin zu kneifen, ist es nicht! Du bringst die Bewohner des Planeten ~mission_target_planet~ um die Freiheit, um die sie uns nie bitten konnten und auch nie gebeten haben.~p~Schämen solltest du dich! Schämen, aber wirklich! SCHÄMEN!!!
+0x00000088 Ja, es gab Komplikationen ...
+0x00000050 Stets ein Vergnügen ...
+0x000000CE Wir teilen deinen Verdruss über das Scheitern dieser schwierigen Mission. Als Ausgleich für die Unannehmlichkeiten hat mich der Große Rat ermächtigt, dir ein Belobigungszertifikat zweiter Klasse zu verleihen.
+0x0000006B Okay. Dann geh ich mal ein paar Sachen in die Luft jagen.
+0x000000F4 Bevor ich gehe, habe ich noch ein paar Fragen.
+0x00000109 Eines noch ...
+0x00000068 In Ordnung! Bin in Kürze wieder zurück.
+0x000000BC Angesichts eines derart ruchlosen Verbrechens gibst du auf? Leb wohl!
+0x0000004A Da ist noch was, bevor ich gehe ...
+0x0000002F Die Kultisten haben die Kontrolle des planetaren Verteidigungssystems übernommen. Zerstöre die Geschütze auf dem Planeten ~mission_target_planet~! Andere Gebäude oder gar unschuldige Zivilisten dürfen nicht darunter leiden.
+0x000000C4 Ein Kult, der etwas anbetet, was er den 'Unbekannten Gott' nennt, hat den Planeten ~mission_target_planet~ übernommen. Du musst dort zu Hilfe eilen!
+0x0000010A Ich würde lieber etwas anderes machen.
+0x000000F5 Also ...
+0x00000069 Ah! Verstehe. Okay.
+0x00000057 MISSIONSSTATUS: Läuft; Auftragnehmer verlangt Wiederholung der Sachinformationen.~p~MISSIONSÜBERBLICK: Zerstöre Geschütze auf dem Planeten ~mission_target_planet~ im ~mission_target_star~-System.~p~ZUSÄTZLICHE PARAMETER: Andere Gebäude nicht zerstören. Bürger nicht verletzen!
+0x000000C3 Es gibt Probleme auf dem Planeten ~mission_target_planet~. Du sollst die Wesen dort retten!
+0x0000007B Langweiler! Nun, ich hab da noch 'ne Frage.
+0x00000114 Also ...
+0x0000002A Du findest diese linkischen und stillosen Modeverbrecher vom Planeten ~mission_target_planet~ auf einer elliptischen Umlaufbahn um einen Himmelskörper im ~mission_target_star~-System.~p~Wenn du uns dabei hilfst, die Modemonster friedlich aus diesem Teil der Galaxie zu vertreiben, wären wir dir auf ewig dankbar.~p~Außerdem würden wir dir ~mission_rewards~ Spodos als Vergütung bezahlen.~p~Bist du zufällig daran interessiert?
+0x00000023 Geschütze? Keine Chance!
+0x0000001B Gewalttätige Kultisten, die etwas verehren, was sie den Unbekannten Gott nennen, haben die Verteidigungssysteme des Planeten ~mission_target_planet~ übernommen. Wir würden zu gerne herausfinden, ob du damit fertig wirst.
+0x0000002D Spodes Kinder könnten in Freude leben, wenn die Geschütze ihrer Unterdrücker auf dem Planeten ~mission_target_planet~ zerstört wären. Ach, käme doch nur heiliges Feuer über den Planeten ~mission_target_planet~! Die Zeit drängt, darum brich sofort auf!
+0x000000CB Dein Zielsystem funktioniert fast gar nicht und hat unnötige Zerstörungen verursacht. Wir werden das in Zukunft mit ins Kalkül ziehen.
+0x000000E0 Ich sehe, du brauchst einen Moment Zeit. Leb wohl!
+0x0000007C Verflixt! Nun, ich würde da gerne über was reden.
+0x0000003E Oh, ich kann es kaum erwarten, meine Korrespondenz mit Goolp wieder aufzunehmen! Und der Rest von uns ist bestimmt auch total glücklich, dass unsere Brieffreunde vom Planeten ~mission_target_planet~ wieder schreibfähig sind.~p~Hier deine Belohnung, wie versprochen: ~mission_rewards~ Spodos. Wir können dir wirklich gar nicht genug danken.~p~Und jetzt entschuldige mich, ich muss ein epochales Traktat an den guten alten Goolp zu Papier bringen.
+0x00000082 Du hast es nicht geschafft, die Geschütze rechtzeitig zu zerstören. Schade!
+0x000000C5 Der Planet ~mission_target_planet~ zieht im ~mission_target_star~-System seine Kreise. Zerstöre dort sämtliche Geschütze. Andere Gebäude oder unsere künftigen Arbeitskräfte bitte nicht beschädigen!
+0x00000113 Bevor ich gehe, habe ich noch weitere Fragen ...
+0x0000007A Mist! Na gut, lass mich dich was anderes fragen!
+0x000000AF Ich möchte dich etwas anderes fragen ...
+0x00000079 Dein zielloses Rumballern zeigt, dass du nicht zielen kannst und vermutlich sogar in Panik geraten bist. Du bist herzlich eingeladen, unsere Sicherheitszone sofort zu verlassen.
+0x00000096 Vielen Dank! Reise sofort zum Planeten ~mission_target_planet~, der seine Kreise im ~mission_target_star~-System zieht, und zerstöre sämtliche Geschütze! Und mach schnell, bevor die Zeit abläuft!
+0x000000BF Es ist notwendig, eine militärische Demonstration auf dem Planeten ~mission_target_planet~ durchzuführen. Du wirst das übernehmen!
+0x00000097 Haben wir schon erwähnt, wie sehr wir es schätzen, dass du nicht viel Federlesens machst? Mach dich auf zum Planeten ~mission_target_planet~, der seine Kreise im ~mission_target_star~-System zieht, und zerstöre jedes Geschütz, das dir unter die Augen kommt! Das Ganze innerhalb von ~mission_time~ Sectonen, bevor die Dinge vollends aus dem Ruder laufen!
+0x000000D1 Die Mission ist zeitkritisch, also fang sofort an! Du hast ~mission_time~ Sectonen Zeit, um zu dem Planeten ~mission_target_planet~ zu reisen und dort alle Geschütze zu zerstören.
+0x0000007F Ich hatte einen freien Tag. Mein Fehler.
+0x00000024 Klingt gefährlich. Ich verzichte lieber.
+0x000000D3 Missachtung der Grox, damit begann dieses ganze Problem!
+0x00000118 Ich bin bald wieder da. Bis dann!
+0x000000E2 Ich möchte dich etwas anderes fragen ...
+0x00000043 Deine Bemühungen zum Schutz unseres Volkes stoßen auf Anerkennung. Viel Spaß mit deinen ~mission_rewards~ Spodos!
+0x00000081 Ich bitte vielmals um Entschuldigung.
+0x00000117 Danke für die Gelegenheit! Bis dann!
+0x00000116 Ich sollte jetzt gehen. Leb wohl!
+0x00000080 Ich war wohl einfach nicht mit dem Herzen dabei.
+0x000000B0 Bevor ich gehe, habe ich noch ein paar Fragen.
+0x00000044 Wahrlich, Spode hat seine Kinder vor dem dämonischen Gott, Der Nicht Kommen Wird, bewahrt! Fürwahr, du hast dir deine ~mission_rewards~ Spore-Dollars redlich verdient. Und wenn du kurz Zeit hast, hier ist ein Missionar, der dringend mit dir sprechen möchte.
+0x00000115 Eines noch ...
+0x00000119 Die Aufgabe ist klar. Leb wohl!
+0x000000E1 Ich bitte um Verständnis.
+0x0000007D Shazbot! Ach, was soll's ...
+0x0000001A Eine Gruppe von militanten Tierschützern hat die Kontrolle über den Planeten ~mission_target_planet~ übernommen und hält die Bürger als Geiseln. Wir sollen den Verzehr von tierischem Eiweiß sofort einstellen. Das ist aber unmöglich, weil wir es dem Gewissen jedes Einzelnen überlassen, ob er Tiere aus Freilandhaltung, die ohne Antibiotika aufgezogen wurden, essen will oder lieber dem Dasein in der Wildbahn überlässt.~p~Wir lehnen Gewaltanwendung ab, aber in dieser Situation erscheint sie uns seltsam sinnvoll. Würdest du für uns im Namen der ernährungstechnischen Freiheit die Laser schwingen?
+0x000000CC Wir wissen deine Bemühungen für unsere Sache zu schätzen. Nun müssen wir unsere eigenen Kräfte mobilisieren, um mit der Krise fertig zu werden.
+0x0000007E Das Licht ihres Sterns hat mein Zielauge geblendet.
+0x000000B1 Also ...
+0x00000019 Die Verteidigung des Planeten ~mission_target_planet~ ist einem bösen Wesen, das aus einer finsteren Dimension beschworen wurde, in die Hände gefallen. Vielleicht war's auch nur ein abtrünniger Hacker. Wie auch immer, kannst du unsere Bürger retten?
+0x000000D0 Du hast das Zeitlimit für deine Mission auf dem Planeten ~mission_target_planet~ überschritten. Deine Fähigkeiten sind unzureichend.
+0x00000098 Ehrfurcht überkommt uns, wenn wir deine Entschlusskraft und deine kämpferischen Qualitäten sehen! Reise bitte zum Planeten ~mission_target_planet~, der im ~mission_target_star~-System seine Kreise zieht, und zerstöre sämtliche Geschütze! Dort hast du ~mission_time~ Sectonen Zeit, um sie alle in rauchende Ruinen zu verwandeln.~p~Unter keinen Umständen dürfen unsere Bürger oder ihr Besitz Schaden nehmen!
+0x000000A3 Nein sagst du?~p~Warum lässt du uns dann erklären, welche kriminellen Vorgänge den Planeten ~mission_target_planet~ und seine Bürger heimsuchen, hm?~p~Verhöhnst du etwa unser unfehlbares Urteil? Verspottest du womöglich gar ... die Modepolizei!?!
+0x00000110 Ich sehe, dass du beschäftigt bist. Wir reden später.
+0x0000003C Gut gemacht! Wir wussten, dass wir unseren besten All-Jockey auf diese Mission ansetzen mussten. Hier sind deine ~mission_rewards~ Spore-Dollars, wie angekündigt.~p~Ich bin froh, dass mich mein Instinkt bei dir nicht getrogen hat! Dafür werde ich bestimmt befördert!~p~Die Bürger des Planeten ~mission_target_planet~ können nun ganz frei eine Regierungsform anstreben, die eher in unserem Sinne liegt.~p~Hurra! Die Freiheit ist nicht aufzuhalten!
+0x00000051 Pass auf dich auf!
+0x00000020 Wie komme ich dahin?
+0x00000047 Verzückung verklärt mein ganzes Sein! Bitte lenke deinen Blick auf den Glanz deiner ~mission_rewards~ Spore-Dollars!
+0x000000B2 Eines noch ...
+0x000000A9 Du wirst uns nicht helfen? Aber unsere Geschütze sehnen sich doch so nach dem Kuss deiner Laser!
+0x000000DE Deine Mission ist gescheitert. Kehre zum Planeten ~mission_source_planet~ im ~mission_source_star~-Sternsystem zurück und überbringe die schlechte Nachricht!
+0x0000002E Die gewalttätigen Dissidenten bemannen die Verteidigungsgeschütze in allen größeren Städten des Planeten ~mission_target_planet~. Reise ins ~mission_target_star~-System, finde den Planeten ~mission_target_planet~ und zerstöre sämtliche Geschütze, damit unsere Friedenstruppen landen können. Gefährde bei deinem Angriff keine friedlichen Bürger!
+0x000000AE Ah, natürlich! Das Missionstagebuch! Ich schau sofort nach!
+0x00000028 Oh, Verzeihung! Der Planet ~mission_target_planet~ befindet sich im ~mission_target_star~-Sternsystem. Ihn zu finden, sollte kein Problem sein.~p~Du bekommst dafür auch ~mission_rewards~ Spore-Dollars.~p~Ich kann es kaum abwarten, meinen Brieffreunden auf dem Planeten ~mission_target_planet~ wieder zu schreiben! Es war so ein toller Dialog! Ich kann es kaum erwarten, die Sammlung zu veröffentlichen. Na ja, ein bisschen frech war er schon. Etwas derb sozusagen. Ein wenig arrogant zudem. Und nachgerade unartig. Mit einem Wort, jeder Brief 'ne Riesenparty!~p~Ho! Ho! Ho! Ho! Ho!
+0x000000C0 Eine andere Rasse stellt sich den Grox entgegen. Du wirst ihre Verteidigung zerstören!
+0x0000010F Bis zum nächsten Mal! Bis dann!
+0x000000B3 Es tut uns leid, dich belästigt zu haben. Bis dann!
+0x0000010E Es tut uns leid, dich belästigt zu haben. Bis dann!
+0x00000094 Sobald die Geschütze des Planeten ~mission_target_planet~ zerstört sind, wird religiös betrachtet wieder Strenggläubigkeit herrschen. Reise umgehend ins ~mission_target_star~-System, wo du ~mission_time~ Sectonen Zeit hast, die Geschütze mit heiligem Feuer zu entfernen! Spodes gläubigen Kindern darf dabei nichts geschehen!
+0x000000D5 Wir haben kaum je eine Spezies gesehen, die derart unbeirrt auf ihren eigenen Untergang zusteuert.
+0x00000085 Du hast unser Volk nicht rechtzeitig gerettet! Danke für den Versuch, aber wir empfehlen von nun an regelmäßige Meditationen - vielleicht kannst du dich dann besser auf die aktuelle Aufgabe konzentrieren.
+0x000000C2 Wir haben eine Mission für dich, Kapitän! Hat was mit Schießen zu tun.
+0x00000083 Wir haben die ganze Zeit auf die Anzeigetafel geschaut, und als der Timer abgelaufen war, standen da immer noch Geschütze! Mehr Glück beim nächsten Mal!
+0x00000095 Die Bösen verschanzen sich in den Geschützen auf dem Planeten ~mission_target_planet~ und wagen es, Spodes Gläubige zu beschießen. Reise ins ~mission_target_star~-System, wo du ~mission_time~ Sectonen Zeit hast, die Geschütze zu zerstören und damit Spodes Licht auf den Planeten zu bringen! Spodes heiligen Anhängern darf nichts geschehen, nicht einmal irrtümlich.
+0x000000A1 Oh, das ist furchtbar! Welch schreckliche Enttäuschung!~p~Armer Goolp! Es ist so schlimm, nicht zu wissen, was der gute alte Goolp gerade macht. Wir sind jetzt schon so lange Brieffreunde ...~p~Oh, Goolp!
+0x00000046 Das von dir zurückgelassene Wrack strahlt so ein gewisses ernstes Pathos aus, das wir echt bewegend finden! Allein dafür geben wir dir ~mission_rewards~ Spodos.
+0x00000077 Dein Waffeneinsatz war übertrieben enthusiastisch! Großes Wehklagen herrscht ob der Zerstörung, die du verursacht hast!
+0x00000112 Ich möchte dich etwas anderes fragen ...
+0x000000DF Du hast es nicht geschafft, sämtliche Geschütze rechtzeitig zu zerstören. Kehre zum Planeten ~mission_source_planet~ im ~mission_source_star~-Sternsystem zurück und überbringe die schlechte Nachricht!
+0x000000CA Uns fällt auf, dass das Verteidigungssystem des Planeten ~mission_target_planet~ nicht zerstört wurde! Du musst dem Volk helfen und die Geschütze zerstören. Alle Informationen stehen in deinem Missionstagebuch.
+0x00000076 Wir schätzen ja deine Entschlossenheit, aber du bist wirklich zu weit gegangen. Du hast genau die falschen Ziele zerstört! Dabei wollten wir dieses Jahr gar nicht renovieren!
+0x00000041 MISSIONSSTATUS: Von Auftragnehmer erfolgreich abgeschlossen.~p~BEZAHLUNG: ~mission_rewards~ Spore-Dollars.~p~ÄUSSERUNG DER ZUFRIEDENHEIT: Steile Leistung, Alter! Wir sollten mal gemeinsam zum Spachteln gehen.
+0x000000A6 Wir schaudern bei dem Gedanken an die Kreaturen, die diese Verbrecher freisetzen werden. Leb wohl!
+0x00000029 Was? Erzähl mir nicht, du hättest in deinem Raumschiff nicht jede Menge Leuchtschnickschnack, der dir genau sagt, wie du da hinkommst! Egal, wie auch immer. Also:~p~Der Planet ~mission_target_planet~ ist auf einer Umlaufbahn um eine Gaskugel im ~mission_target_star~-System. Du kannst ihn nicht verfehlen.~p~Als Bezahlung winken dir ~mission_rewards~ Spodos.~p~Interessiert?
+0x00000073 Du hast ziellose Zerstörung auf unsere Welt gebracht! Wir haben keine Zeit mehr für dich ... der Wiederaufbau wartet - und die Trauer um unsere Opfer. Leb wohl!
+0x00000074 Da hat Spodes Hand dich wohl nicht geleitet! Der Planet wurde nicht rechtzeitig befreit, um die Unterdrückung unseres Volkes zu vermeiden. Sobald Spode es will, werden wir unsere Märtyrer rächen.
+0x000000A8 Wir verstehen dein Zögern. Unsere eigenen Sicherheitskräfte werden sich darum kümmern.
+0x000000BE Derart irrationale Handlungen führen nur selten zu befriedigenden Resultaten. Leb wohl!
+0x000000D4 Du hilfst uns nicht? Wirklich nicht?
+0x00000111 Ich bitte um Verständnis.
+0x00000063 Ich habe noch eine Frage.
+0x0000009B Das war nicht gerade meine beste Leistung ...
+0x0000009C Konzentrieren wir uns auf die Zukunft ...
+0x00000091 Frieden und Wohlstand seien deine Belohnung! Reise umgehend zum Planeten ~mission_target_planet~ und zerstöre sämtliche Geschütze! Solltest du scheitern, richte es bitte so ein, dass du die Existenz dieser Mission jederzeit glaubhaft leugnen kannst!
+0x000000B8 WIE KANNST DU DIESE MISSION EINFACH ABBRECHEN???~p~Sie ist ... nun, also, sie ist wirklich und echt total wichtig für uns.~p~UND DU HAST WERTVOLLE ZEIT VERSCHWENDET!!!! WIR SOLLTEN DEIN SCHIFF VOM HIMMEL HOLEN!!!~p~Aber erst brauchen wir so schnell wie möglich Ersatz, diesmal fähig, wenn's geht!~p~Diese Mission ... es steckte so viel mehr dahinter.~p~Oh, Herr Grinsi!~p~*Schluchz!!!*
+0x0000001D Ein kluger Feind hat jetzt die Verteidigungscomputer des Planeten ~mission_target_planet~ unter Kontrolle. Wir könnten die Angelegenheit zwar auch selbst erledigen, aber der Feind soll ruhig wissen, dass andere Spezies bereit sind, uns zu helfen. Interessiert?
+0x000000D8 Kehre zum Planeten ~mission_source_planet~ im ~mission_source_star~-Sternsystem zurück und hole deine Belohnung ab!
+0x0000001F Wie finde ich diesen Planeten?
+0x0000005C Wir spielen ungern das kollektive Gedächtnis der Galaxie, müssen dich aber dennoch daran erinnern, dass du die Geschütze auf dem Planeten ~mission_target_planet~ angreifen wolltest. Wenn du uns nicht glaubst, schau in dein Missionstagebuch!
+0x00000101 Bevor ich gehe, habe ich noch weitere Fragen ...
+0x00000103 Zerstöre sämtliche Geschütze auf dem Planeten ~mission_target_planet~!
+0x000000FB Ich sehe, du brauchst einen Moment Zeit. Leb wohl!
+0x00000037 Okay, ich bin weg.
+0x000000CD Die Daten vom Planeten ~mission_target_planet~ zeigen, dass deine Waffen wohl doch nicht so mächtig sind wie angenommen. Wir werden die Ordnung der Vernunft auf dem Planeten selbst wiederherstellen.
+0x000000B9 Die Presse ist vernichtend! Hast du's gelesen? Du hast der Modepolizei ein ungeheuerliches Unrecht angetan! Das werden wir nicht vergessen!~p~Und etwas anders werden wir uns auch merken: deine unsägliche Nachlässigkeit selbst bei einfachsten Accessoires!~p~Die Modepolizei wird diesem Fall auf den Grund gehen! Du hörst von uns.
+0x0000004D Eines noch! Tut mir leid, wenn ich nerve ...
+0x000000D9 Deine Mission ist gescheitert. Kehre ins Sternsystem ~mission_source_star~ zurück und überbringe die schlechte Nachricht!
+0x0000008F Der Große Rat dankt dir. Reise bitte zum Planeten ~mission_target_planet~, wo du ~mission_time~ Sectonen Zeit hast, um alle Geschütze zu zerstören!
+0x000000C1 Es ist notwendig, dass du das Verteidigungsnetz des Planeten ~mission_target_planet~ zerstörst. Du wirst das sofort erledigen.
+0x000000A7 Unsere Märtyrer werden dich noch aus dem Jenseits anklagen! Möge Spodes Liebe dich bis zu deinem vorzeitigen Hinscheiden begleiten! Leb wohl!
+0x0000005A Worin liegt der Grund, dass deine Befreiung des Planeten ~mission_target_planet~ unvollendet bleibt? Deine Verpflichtung hierzu ist aus deinem Missionstagebuch klar ersichtlich! Wirst du dein Wort halten?
+0x0000005E Die Aufgabe mag ja schwierig sein, aber der Planet ~mission_target_planet~ wartet immer noch auf den Frieden. Hilfst du uns? Alle Informationen müssten in deinem Missionstagebuch stehen.
+0x00000102 Also ...
+0x00000104 Du hast sämtliche Geschütze zerstört! Reife Leistung! Kehre jetzt ins ~mission_source_star~-System zurück, um deine Bezahlung abzuholen!
+0x00000062 Kann ich dich was fragen?
+0x00000100 Ich vergessen, was ich tun. Was ist meine Mission?
+0x000000C8 Ausgezeichnete Arbeit, Kapitän! Wir freuen uns, dir ~mission_rewards~ Spore-Dollars überreichen zu können.
+0x000000C6 Der Planet ~mission_target_planet~ zieht im ~mission_target_star~-System seine Kreise. Um dem Volk gegen seine Unterdrücker zu helfen, musst du sämtliche Geschütze zerstören. Gebäude oder Bevölkerung dürfen nicht zu Schaden kommen.
+0x00000021 Wo sind die denn?
+0x000000FF Mir ist meine Mission entfallen. Wie war das noch mal?
+0x00000013 Irgendwelche völlig humorlosen Typen haben von einem unserer Nachbarn von dieser 'Militarismus'-Philosophie erfahren und jetzt eine unserer Welten an sich gebracht! Kannst du mal zu ihnen rüberschauen und ihnen zeigen, wo der Laser hängt?
+0x00000035 Nun ... ich muss da noch was in die Luft sprengen ...
+0x0000004E Das hat Spaß gemacht. Danke.
+0x000000CF Du hast die Geschütze nicht schnell genug zerstört, Kapitän! Feuer einstellen!
+0x0000004F Zerstörung ist immer was Feines. Danke.
+0x0000005B Der Planet ~mission_target_planet~ wird immer noch von den Kultisten beherrscht, die auch immer noch die Verteidigungssystem besetzt halten. Wirst du ins ~mission_target_star~-Sternsystem reisen und die Geschütze zerstören? Alle wichtigen Informationen stehen in deinem Missionstagebuch.
+0x000000FE Äh ... was soll ich gleich noch mal tun?
+0x0000004C Kann ich dir noch eine Frage stellen?
+0x000000FC Ich bitte um Verständnis.
+0x000000BB Viele unserer Bürger werden wegen deiner Ablehnung untergehen. Du bist ein Feind der Zivilisation an sich! Leb wohl!
+0x00000039 Mit allem Respekt, ich lehne ab.
+0x00000105 Fehlgeschlagen. Kehre zum Planeten ~mission_source_planet~ zurück!
+0x00000036 Dann mach ich mich mal auf den Weg ...
+0x00000106 Du hast es nicht geschafft, sämtliche Geschütze rechtzeitig zu zerstören. Kehre zum Planeten ~mission_source_planet~ zurück!
+0x0000005F Die Verteidigung auf dem Planeten ~mission_target_planet~ steht noch. Deine Ehre verlangt, das zu erledigen - steht auch in deinem Missionstagebuch. Wir erwarten entweder deine siegreiche Rückkehr oder zumindest, dass es dein Schiff beim Versuch zerrissen hat.
+0x00000017 O weh, das Universum quillt über mit Schlechtigkeit! Industrielle, die hohe Einfuhrzölle durchsetzen wollen, haben die Geschütze des Planeten ~mission_target_planet~ besetzt und drohen damit, unsere billigen, kundenfreundlichen Importe zu blockieren. Kannst du uns helfen, natürlich gegen ein zauberhaftes Sümmchen?
+0x000000FD Ich brauche eine kleine Auffrischung der Missionsdaten ...
+0x0000001E Kannst du mir noch ein bisschen mehr erzählen?
+0x000000A2 Bah! Du nutzloser Fleischsack!~p~Da machen wir uns die Mühe und erzählen dir alles über die Mission, weil sie unbedingt erledigt werden muss, und du lehnst ab? Einfach so?~p~Du gehst jetzt besser, und zwar pronto, wenn du weißt, was gut für dich ist!~p~Na? Weißt du's?
+0x0000005D Wir vernehmen das Wehklagen unserer Freunde auf dem Planeten ~mission_target_planet~. Kannst du ihre Befreiung abschließen? Alle nötigen Informationen müssten auf dein Missionstagebuch hochgeladen worden sein.
+0x000000A5 Der Große Rat zwingt keine Spezies dazu, gegen ihren Willen gewaltsam zu handeln. Frieden sei mit dir!
+0x00000061 Ich würde gerne über etwas anderes reden.
+0x000000D7 Ich sehe, dass du beschäftigt bist. Wir reden später.
+0x000000FA Ich sehe, dass du beschäftigt bist. Wir reden später.
+0x000000AB Wenn du dem Frieden eine Chance geben willst, so verstehen wir das.
+0x00000060 Okay. Ganz schnell eine Sache noch ...
+0x00000071 MISSIONSSTATUS: Fehlgeschlagen.~p~BEGRÜNDUNG/ANDERE: Auftragnehmer hat Gebäude oder Wesen unnötig beschädigt.~p~AUFTRAGNEHMERSTATUS: In Ungnade.
+0x0000006D Ach, Alter! Mutwillige Zerstörung ist einfach inakzeptabel!~p~Wir haben höflich darum gebeten, Gebäude und Bürger in Ruhe zu lassen.~p~Es war nicht einfach so dahingesagt. Jetzt mal ohne Spaß!~p~Diese ganze Kiste mit dem irren Kaiser ist eine tickende Zeitbombe. Das greift doch alles ineinander, Alter!~p~Wir sind echt voll von dir enttäuscht.
+0x00000066 Das war's wohl für mich. Ja, ich kündige.
+0x0000008A Das ist super-duper-fantastico, Amigo!~p~Du leistest hier echt was Großes, denn du hilfst einem Volk in Not.~p~Zeig dem irren Kaiser, dass seine Streiche nicht gerne gesehen werden. Zumindest nicht in dieser Galaxie.~p~Ja, Alter, mach das!
+0x00000027 Klar, Alter! So wie du drauf bist, findest du's ganz sicher, gar kein Problem.~p~Der Planet ~mission_target_planet~ befindet sich im ~mission_target_star~-Sternsystem.~p~Und Alter, heute ist echt dein Glückstag: Für deine gute Tat zahlen wir dir sogar was! Wie wär's mit ~mission_rewards~ Spodos?~p~Jetzt aber ran an die Geschütze, Tiger!
+0x000000B6 Oh, Alter! Alter, Alter, Alter ...~p~Du hast uns echt hängen lassen. Ist dir das klar?~p~Die ganze Zeit, in der du *keine* Geschütze in die Luft gejagt hast, hätte ein anderer Auftragnehmer damit verbringen können, genau das zu tun. Ist dir das klar?~p~Wir hatten wirklich mehr von dir erwartet, Alter.
+0x000000A0 Oh, Alter! Das zieht mich jetzt aber echt übel runter, Mann!~p~Hast du etwa Angst vor dem irren Kaiser? Ist es das?~p~Keine Sorge! Das ist okay. Er ist ja auch eine imposante Gestalt. Und irre dazu!~p~Die Reaktion ist also normal - aber dennoch enttäuschend.
+0x0000008D Du bringst Freude in unsere Herzen, denn nun wissen wir, dass dieser Modenotfall rasch und gründlich behoben wird! Danke!~p~Und nun Abflug! Mögen die Sonnenwinde dich zu deinem Zielort tragen! Und richte deine Waffen nur auf die vorgesehenen Ziele! Falls nicht, werden die Paparazzi dich dabei erwischen. Schnell! Du hast auf dem Planeten ~mission_target_planet~ nur ~mission_time~ Sectonen Zeit, um diese abscheulichen Geschütze zu zerstören.
+0x00000038 Klingt nach einem Fischzug. Ich verzichte.
+0x00000001 Du hast die einmalige Gelegenheit, einer Spezies in Not zu helfen.~p~Der Planet ~mission_target_planet~ ist in der Hand eines irren Kaisers!~p~Er hat alle Städte mit Geschützen abgeriegelt und kontrolliert so die Bevölkerung. Du musst diese Geschütze ausschalten!~p~Und jetzt kommt das Problem, Alter! Niemand darf verletzt und kein Gebäude beschädigt werden. Das würde die Situation nur noch schlimmer machen.~p~Alles klar?
+0x00000090 Die ~player_creature_name~-Spezies hat sich als wahrer Freund der Zivilisation erwiesen. Reise zum Planeten ~mission_target_planet~, wo du nur ~mission_time~ Sectonen Zeit hast, um durch die Zerstörung aller Geschütze seine Bürger zu befreien!
+0x0000008E MISSIONSSTATUS: Vom Auftragnehmer angenommen. In Bearbeitung.~p~LOBENDE WORTE: Danke, Alter!~p~ABSCHIEDSWORTE: Auf dem Planeten ~mission_target_planet~ hast du nur ~mission_time~ Sectonen Zeit, um alle Geschütze zu zerstören. Man sieht sich!
+0x00000040 Welch wunderbare Neuigkeiten! Hier ist deine Bezahlung: ~mission_rewards~ Spore-Dollars, wie versprochen.~p~Es ist stets eine enorme Befriedigung, wenn du einer Welt, der es so offensichtlich an Geschmack und feinerer Empfindsamkeit fehlt, ein bisschen Stilbewusstsein vermitteln kannst.~p~Die Modepolizei hat hier und heute gute Arbeit geleistet! Lob an alle!~p~Nun zu etwas anderem:~p~Also, dieses Ding da, das du Raumschiff nennst ...
+0x000000A4 MISSIONSSTATUS: Vertrag nicht erfüllt. Von Auftragnehmer abgelehnt.~p~AUFTRAGNEHMERSTATUS: Nicht länger erwünscht. Ersatz beschaffen!
+0x00000045 ~player_title~ ~player_creature_name~! Der Planet ~mission_target_planet~ steht nun wieder unter rationaler Leitung. Unser Dank ist dir sicher. Um dich für eine künftige Zusammenarbeit zu motivieren, bieten wir dir hiermit ~mission_rewards~ Spore-Dollars an.
+0x00000056 Hör jetzt gut zu! Die Modepolizei befiehlt es!~p~Reise ins ~mission_target_star~-Sternsystem und zerstöre sämtliche Geschütze auf dem Planeten ~mission_target_planet~!~p~Aber vergiss nicht:~br~Wir wollen unsere Übermacht nur dazu einsetzen, ihre Geschmacksverbrechen zu ahnden - die Kombination von Geschützen und Rathaus. Das ist einfach widerlich!~p~Wir wollen niemandem etwas tun - weder den Gebäuden noch der Bevölkerung. Also bitte!
+0x00000055 Was machst du denn hier, du großer Flegel?!~p~Du solltest doch Herrn Grinsi retten! --~p~Das heißt ... äh ...~p~Du musst sämtliche Geschütze auf dem Planeten ~mission_target_planet~ im ~mission_target_star~-Sternsystem zerstören.~p~Und jetzt wird's wichtig: Lass *alle* anderen Gebäude und vor allem *alle* Wesen in Ruhe!~p~Wie, warum? Kümmere dich um deinen eigenen Kram!
+0x00000053 Alter? Was machst du denn hier?~p~Unsere Eroberung ...~p~äh ... Ich meine, unser Kampf gegen die Schreckensherrschaft des irren Kaisers muss bald vonstatten gehen. Die Uhr tickt!~p~Du machst einfach Folgendes:~p~Reise zum Planeten ~mission_target_planet~ im ~mission_target_star~-System! Zerstöre dort sämtliche Geschütze, lass die anderen Gebäude stehen und tu auch sonst niemandem was! Ganz einfach! Ein Kinderspiel!
+0x00000058 Der Große Rat hat die Hilferufe seiner Bürger vernommen, die beklagen, dass du nicht aktiv wirst. Die ~player_creature_name~-Spezies hat diese Mission angenommen, das bestätigen die Anweisungen in deinem Missionstagebuch. Wirst du sie auch abschließen?
+0x0000003D Wow, oh, wow, Alter! Das war aber mal Präzision, so manövriermäßig!~p~Du hast dir diese ~mission_rewards~ Spodos hart erarbeitet. Viel Spaß damit und danke, Alter!~p~Und jetzt, wo der 'irre Kaiser' besiegt ist, können wir mit unserer wirtschaftlichen Erschließung des befreiten Planeten ~mission_target_planet~ fortfahren. Lasst den Güter- und Dienstleistungsverkehr beginnen!
+0x0000008C Hi, hi, hi! Das ist super, Mann! Wir wussten, auf dich ist Verlass!~p~Aber denk immer dran: Kein Schaden! Nicht an Gebäuden, nicht an Zivilisten, nicht an Pflanzen, nicht an Tieren! Und da du auf dem Planeten ~mission_target_planet~ nur ~mission_time~ Sectonen Zeit hast, um alle Geschütze zu zerstören, solltest du dich lieber beeilen. Wir wünschen eine hohe Trefferquote!
+0x00000052 Vergesslichkeit? Da haben wir aber mehr von dir erwartet ...~p~Also, pass auf: Zerstöre alle Geschütze auf dem Planeten ~mission_target_planet~ im ~mission_target_star~-System.~p~Aber zerstöre *keine* Gebäude! Eliminiere *keine* Bürger!~p~Hier geht's um die Freiheit! Schlechte PR können wir dabei nicht gebrauchen.
+0x00000012 Wir wollten die Geschütze auf dem Planeten ~mission_target_planet~ umprogrammieren, damit sie beim Festival des Abhängen-und-dabei-cool-aussehens Feuerwerkskörper verschießen, aber ... ups! ... jetzt schießen sie auf uns! Wir haben es langsam satt, uns ständig zu verstecken und um unser Leben zu rennen! Könntest du möglicherweise unseren kleinen Fehler wieder hinbiegen?
+0x000000BA MISSIONSSTATUS: Vertrag nicht erfüllt. Von Auftragnehmer abgelehnt.~p~AUFTRAGNEHMERSTATUS: Nicht länger erwünscht. Von künftigen Vertragsangeboten ausschließen!
+0x00000075 ~player_title~ ~player_creature_name~! Die Daten vom Planeten ~mission_target_planet~ zeigen, dass deine Waffen wohl doch nicht so mächtig sind wie angenommen. Wir werden die Ordnung der Vernunft auf dem Planeten selbst wiederherstellen.
+0x00000078 Meine Güte! ~player_title~ ~player_creature_name~! Du hast große Zerstörung über unsere Welt gebracht! Jetzt müssen wir eine ökumenische Trauerfeier abhalten. Es wäre taktvoll, wenn du nicht daran teilnimmst.
+0x00000032 Fliege zum Planeten ~mission_target_planet~ im ~mission_target_star~-Sternsystem und zerstöre dort alle Geschütze! Danach können die Opfer mit der Bewältigung dieser Tragödie beginnen.
+0x00000070 Ach, ~player_title~ ~player_creature_name~.~p~Dein unvorsichtiges Ignorieren unserer Anweisungen hat dazu geführt, dass wir es nicht länger mit einem Modeverbrechen zu tun haben, sondern mit einer *richtigen* Katastrophe! Hoffentlich bist du jetzt glücklich!
+0x0000002C Reise zum Planeten ~mission_target_planet~ im ~mission_target_star~-System und zerstöre die Geschütze, damit unsere Friedenstruppen landen und die Ordnung wiederherstellen können.
+0x000000C7 ~player_creature_name~! Deine militärischen Fähigkeiten sind ausreichend. Als Motivation für eine weitere Zusammenarbeit bekommst du ~mission_rewards~ Spore-Dollars.
+0x00000014 Wir fürchten, die Gesellschaft für Sprengkunst ist auf dem Planeten ~mission_target_planet~ ein wenig außer Kontrolle geraten. Sie haben unsere Verteidigungswaffen übernommen und schießen jetzt auf alles, was sich bewegt. Könntest du ihrer Kunst in deiner Eigenschaft als Kritiker wohl einen gepfefferten Verriss widmen?
+0x0000003F Oh, ~player_creature_name~-Spezies, vielen Dank! Hier sind deine ~mission_rewards~ Spodos.~p~Ohne die Geschütze ist unser Schnuckel-Schnuffi-Kuschel-Putzi Herr Grinsi wieder sicher!~p~Oh! Hab ich das gerade laut gesagt? Du solltest nicht von dem Mini-Oogie Herr Grinsi erfahren, unserem Haustier. Wir haben den kleinen Kerl doch so lieb!~p~*Schnief*~p~Die vom Planeten ~mission_target_empire~ hatten ihn entführt, aber jetzt ist ihre Verteidigung im Eimer, und wir können Herrn Grinsi zurückholen.~p~Und dann wird ein schrecklicher Wirbelsturm den Planeten ~mission_target_planet~ heimsuchen!
+0x00000018 Wir fällen nur ungern Urteile über andere, aber die Mitglieder des Verrückten Endzeitkultes haben unsere Toleranzgrenzen nun endgültig überschritten: Sie haben nämlich das Verteidigungsnetz des Planeten ~mission_target_planet~ besetzt. Könntest du da eine Kleinigkeit unternehmen, die sie wieder in die Schranken weist?
+0x00000072 ~player_title~ ~player_creature_name~! Wir teilen deinen Verdruss über das Scheitern dieser schwierigen Mission. Als Ausgleich für die Unannehmlichkeiten hat mich der Große Rat ermächtigt, dir ein Belobigungszertifikat zweiter Klasse zu verleihen.
+0x00000002 Wir haben eine interstellare Brieffreundschaft mit dem Planeten ~mission_target_planet~.~p~Nun mussten wir erfahren, dass dort ein mächtiger Despot die Kontrolle an sich gerissen hat, jeden Kontakt nach draußen verbietet und auch sonst voll gemein ist.~p~Du sollst nun sämtliche Geschütze auf dem Planeten zerstören, damit die Bevölkerung wieder an die Macht kommt und uns wieder Briefe schreiben kann!~p~Ach, eines noch: Gebäude und Bürger dürfen keinerlei Schaden davontragen!
+0x000000DB Zerstöre sämtliche Geschütze des ~mission_target_empire~es! Das ~mission_target_empire~ befindet sich auf dem Planeten ~mission_target_planet~ im ~mission_target_star~-System.
+0x00000007 Alle fühlenden Wesen haben das Recht, in Frieden und Freiheit zu leben. Trotzdem haben Separatisten auf dem Planeten ~mission_target_planet~ eine Revolte angezettelt und Waffenstellungen errichtet, die die friedliche Entspannung der Galaxie bedrohen. Würde die ~player_creature_name~ uns dabei helfen, mit dieser Bedrohung fertig zu werden?
+0x00000084 Das ~mission_source_empire~ ist bekümmert! Doch trotz der Unterdrückung unserer Artgenossen gestatten wir dir den Besuch unseres Basars.
+0x00000031 Die Wesen des ~mission_source_empire~es könnten in Freiheit leben, wenn die Geschütze ihrer Unterdrücker auf dem Planeten ~mission_target_planet~ zerstört wären. Aber wir sind nun mal eine friedfertige Spezies und können das nicht selbst erledigen.
+0x00000006 Der Pakt des ~mission_source_empire~es garantiert unseren Bürgern, dass es keine Tyrannei gibt. Nun hat eine andersdenkende Minderheit die Kontrolle auf dem Planeten ~mission_target_planet~ an sich gerissen und befestigt jetzt seine Städte. Hilfst du uns, diese Revolte niederzuringen und die Bürger des Planeten ~mission_target_planet~ zu befreien?
+0x00000107 Die Geschütze des ~mission_target_empire~es befinden sich auf einem Planeten im ~mission_target_star~-System.
+0x0000006F WAS??? WIE KANNST DU UNSERE BEFEHLE MISSACHTEN???~p~Herr Grinsi, unser geliebter Knuddel-Kuschel-Schnuffel-Muffel-Mini-Oogie, war eine Geisel des ~mission_target_empire~es!~p~Wenn ihm jetzt wegen dir etwas zugestoßen ist ...~p~DANN ESSEN WIR DICH!!!~p~Aber du hast Glück. Für schnöde Vergeltung ist jetzt keine Zeit. Nicht solange Herr Grinsi in Gefahr schwebt. Alles muss sich nun darauf konzentrieren, ihn zu finden!!!~p~HINFORT!!!
+0x00000026 Der Planet ~mission_target_planet~ befindet sich im ~mission_target_star~-Sternsystem.~p~Wenn wir die dortige Machtverschiebung rechtzeitig unterdrücken, können wir unsere Beziehungen mit dem ~mission_target_empire~ aufrechterhalten. Wir zahlen dir dafür ~mission_rewards~ Spore-Dollars!
+0x00000005 Das elektromagnetische Rauschen der Verteidigungsgeschütze auf dem Planeten ~mission_target_planet~ stört unsere empfindlichen Instrumente. Du musst sie endgültig außer Gefecht setzen, damit wir unsere Scans zu Ende führen können. Das ~mission_target_empire~ scheint es nicht zu begreifen, aber es ist zu seinem Besten.
+0x00000015 Der Planet des ~mission_source_empire~es ist zutiefst frustriert und wütend. Einige unserer armen Bürger werden von der militaristischen Spezies vom Planeten ~mission_target_planet~ unterdrückt. Eine große Belohnung winkt demjenigen, der sie befreien kann!
+

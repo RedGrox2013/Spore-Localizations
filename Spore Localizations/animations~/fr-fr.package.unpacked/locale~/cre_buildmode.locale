@@ -1,0 +1,69 @@
+﻿0x000002F1 ~guide: -h3~ La Jauge de complexité
+0x00000231 ~guide: -h1~ Membres
+0x00000061 ~guide: -h3~ Choisir et ajouter des éléments
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Modifier des membres
+0x000000F1 ~guide: -bullet~  Anneau rotation : fait tourner les éléments.
+0x00000181 ~guide: -bullet~ Pour élargir ou affiner une créature, cliquez sur une vertèbre et utilisez la molette de la souris pour augmenter ou diminuer la taille du tronc à cet endroit.
+0x000002E1 ~guide: -h1~ Complexité et budget
+0x00000081 ~guide: -h3~ Enlever des éléments
+0x00000171 ~guide: -bullet~ Pour mettre une vertèbre en surbrillance, survolez-la avec la souris.
+0x00000221 ~guide: -h2~ Pour courber la colonne, cliquez sur une vertèbre et faites-la glisser. Ajustez chaque vertèbre l'une après l'autre.
+0x000001F1 ~guide: -h2~ Déplacez la souris sur le tronc de la créature pour voir sa colonne. Cliquez sur le tronc. Des flèches apparaissent aux extrémités de la colonne. Cliquez sur la flèche puis glissez-la vers l'extérieur pour ajouter une vertèbre ou vers l'intérieur pour en effacer une.
+0x00000261 ~guide: -h3~ Ajouter des mains ou des pieds
+0x00000071 ~guide: -h2~ Pour sélectionner un élément, cliquez dessus dans la palette des éléments puis glissez-le sur votre créature jusqu'à l'endroit désiré.
+0x00000251 ~guide: -h2~ Les articulations ressemblent à des sphères. Vous pouvez placer les membres dessus ou réduire leur volume. Faites tourner votre créature pour manipuler ses membres. Pour avancer ou reculer un membre, mettez la créature de profil. Pour monter ou descendre un membre, mettez la créature de face ou de dos. Vous devrez peut-être remonter le tronc d'une créature pour libérer de la place pour de nouveaux membres. Cliquez et maintenez le bouton gauche de la souris sur le tronc de votre créature et déplacez-le jusqu'à la bonne position.
+0x00000161 ~guide: -bullet~ Déplacez la souris sur le tronc de la créature pour voir sa colonne.
+0x000000C1 ~guide: -h3~ Manipulation des éléments
+0x00000271 ~guide: -h2~ L'extrémité d'un membre est le seul endroit où il est possible de fixer un pied ou une main. Même en début d'évolution, un membre se termine toujours par une main ou un pied que vous pouvez remplacer ultérieurement.
+0x00000201 ~guide: -h2~ REMARQUE : après raccourcissement de la colonne (et donc du corps) d'une créature déjà équipée d'éléments, certains peuvent devenir rouges. Cela signifie qu'ils reposent sur cette partie du corps et qu'il n'est pas possible de diminuer la colonne de façon exagérée.
+0x00000121 ~guide: -h1~ Cloner des éléments
+0x00000131 ~guide: -h2~ Pour copier un élément déjà présent sur votre créature, cliquez sur cet élément tout en maintenant la touche ALT enfoncée, puis glissez l'élément copié ailleurs sur la créature. Ces opérations de copie vous coûtent des points ADN.
+0x00000151 ~guide: -h3~ Tronc
+0x000000B1 ~guide: -h2~ Cliquez sur un élément de votre créature pour accéder à des commandes spécifiques.
+0x000000A1 ~guide: -h3~ Modifier des éléments avec les poignées
+0x00000041 ~guide: -h3~ Débloquer des éléments
+0x000001E1 ~guide: -h1~ Rallonger la colonne
+0x000002C1 ~guide: -h3~ Commandes de membres avancées
+0x00000211 ~guide: -h3~ Courber le corps
+0x000000E1 ~guide: -bullet~ Boule de positionnement : repositionnez les éléments ou changez leur inclinaison s'il s'agit de cornes ou de bois, etc.
+0x00000092 ~guide: -h1~ Modifier des éléments
+0x000000F4 ~guide: -bullet~ sélectionnez-le en cliquant dessus;
+0x000002D2 ~guide: -bullet~ Maintenez la touche CTRL enfoncée et faites glisser un membre pour le coller aux articulations disponibles de l'autre membre.
+0x000000F5 ~guide: -bullet~ utilisez la molette de la souris ou utilisez les touches fléchées Haut et Bas pour modifier sa taille.
+0x000000F3 ~guide: -h4~ Pour agrandir ou réduire un élément de votre créature :
+0x000000F2 ~guide: -h3~ Taille des éléments
+0x00000431 ~guide: -h2~ Affiche l'état de santé de votre créature. Un bon indice permet à votre créature d'encaisser plus de coups au combat avant de mourir.
+0x00000361 ~guide: -h1~ Compétences des créatures
+0x00000381 ~guide: -h3~ Résumé des compétences des créatures
+0x00000331 ~guide: -h3~ Le budget ADN
+0x00000421 ~guide: -h4~ Santé
+0x000003D1 ~guide: -h2~ Affiche les compétences offensives de votre créature et le niveau atteint pour chaque compétence.
+0x00000411 ~guide: -h2~ Indique la vitesse de votre créature.
+0x00000451 ~guide: -h2~ L'historique de votre évolution définit une fois pour toutes votre régime alimentaire : carnivore, herbivore ou omnivore. Seules bouches correspondant à votre régime vous seront proposées dans l'Atelier des créatures.
+0x00000351 ~guide: -h2~ Une fois votre budget épuisé, vous ne pouvez plus ajouter d'éléments.
+0x00000401 ~guide: -h4~ Vitesse
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000441 ~guide: -h4~ Régime
+0x00000371 ~guide: -h2~ Chaque élément ajouté améliore les compétences de votre créature. Sur tous les éléments, des infos déroulantes indiquent la compétence acquise.
+0x000003C1 ~guide: -h4~ Combat
+0x00000031 ~guide: -h2~ La palette des éléments des créatures se trouve sur la gauche de l'écran d'accueil de l'Atelier des créatures. Il existe plusieurs catégories d'éléments : bouches, capteurs, membres, etc. Sélectionnez l'onglet correspondant à la catégorie d'éléments qui vous intéresse.
+0x00000021 ~guide: -h3~ Palette des éléments
+0x00000141 ~guide: -h1~ Forme du buste
+0x000002D1 ~guide: -bullet~ Maintenez la touche CTRL et cliquez entre deux extrémités d'un membre pour supprimer une partie (l'épaule ou la hanche ne peuvent être supprimées).
+0x00000341 ~guide: -h2~ Chaque élément ajouté à votre créature coûte des points ADN.
+0x00000321 ~guide: -h2~ Si votre créature devient trop complexe, vous ne pouvez plus ajouter d'éléments.
+0x00000311 ~guide: -h2~ La jauge de complexité mesure la complexité de votre créature.
+0x00000051 ~guide: -h2~ Au début de la phase Créature, vous disposez d'un choix d'éléments dépendant de votre passé de cellule. Chaque nouvel élément découvert et ramassé sera débloqué dans l'Atelier des créatures. Vous pouvez disposer de ces éléments pour faire évoluer votre créature.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Mode Conception
+0x000000D1 ~guide: -bullet~ Flèche d'ajustement : modifie la taille, largeur, longueur ou forme d'un élément. Essayez pour voir !
+0x00000461 ~guide: -h2~ REMARQUE : si vous avez accédé à l'Atelier des créatures via "Créer", vous pourrez choisir son type de bouche et son régime alimentaire.
+0x00000281 ~guide: -h1~ Accédez aux poignées de modification
+0x00000291 ~guide: -h2~ Pour accéder au contrôle avancé d'un élément, sélectionnez-le sur votre créature et maintenez la touche Tab. Des moignées de modification apparaissent et vous permettent de placer chaque élément de façon optimale.
+0x00000191 ~guide: -bullet~ Cliquez et maintenez le bouton gauche enfoncé sur la vertèbre pour courber la colonne à cet endroit.
+0x00000091 ~guide: -h2~ Ajoutez ou enlevez des éléments de créature. Pour cela, cliquez sur l'élément à enlever, maintenez le bouton gauche de la souris et glissez l'élément hors de la créature (ou appuyez sur la barre d'espace). Vous récupérez alors la valeur en points ADN de cet élément, qui vient se rajouter à votre budget ADN.
+0x000003F1 ~guide: -h2~ Affiche les compétences sociales de votre créature et le niveau atteint pour chaque compétence.
+0x000003E1 ~guide: -h4~ Sociabilité
+0x00000391 ~guide: -h2~ L'ensemble des compétences de votre créature est visible en haut à droite dans la zone réservée aux compétences. Cliquez sur une des compétences pour avoir un bref aperçu de votre créature en train de faire les mouvements correspondants.
+0x000003A1 ~guide: -h3~ Capacités
+0x000003B1 ~guide: -h2~ Affiche certaines capacités (esquive, saut, glissade, etc) et le niveau atteint.
+

@@ -1,0 +1,192 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A7 ...
+0x000000A5 Jag kan se att du är upptagen. Vi talas vid senare.
+0x000000AF Framgång! Återvänd till stjärnsystemet ~mission_source_star~.
+0x000000B7 Du misslyckades med att hämta djuret ~mission_item~ i tid. Res tillbaka till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ för att berätta de dåliga nyheterna för dem.
+0x0000002B Tyvärr har varelsen ~mission_item~ i vårt Zoo just dött. Kan du ersätta den?
+0x0000008E Kanske en annan gång. Hej då.
+0x0000000E De uråldriga skrifterna förtäljer att Spode hade ett djur som följeslagare. Vi är osäkra på vilket djur det var, men vissa menar att det kan vara varelsen ~mission_item~. Kan du föra en sådan till oss så att vi kan undersöka den?
+0x0000003B När som helst. Vi ses.
+0x0000008D Ursäkta att vi störde dig. Hej då.
+0x00000050 Jag måste avsäga mig den här uppgiften.
+0x00000003 Vi ålägger dig att hämta oss varelsen ~mission_item~. Ge dig av med detsamma.
+0x00000022 Jag ska göra som ni önskar.
+0x00000080 Jag ber att få lösas från detta uppdrag.
+0x00000023 Å nej! Aldrig att jag sätter DET DÄR i mitt lastrum!
+0x0000004A Du inte hämtade åt ~race~ det som frågades efter: djuret ~mission_item~. ~race~ gav dig all instruktion i Uppdragslogg.
+0x000000AE Hämta ett djur, ~mission_item~, från planeten ~mission_target_planet~.
+0x0000003C Du är mycket generös.
+0x00000014 Varelsen ~mission_item~ kan vara till nytta i vårt krig mot skadedjur. Kan du hämta ett prov för ytterligare studier?
+0x00000066 Trots hos en art som din leder inte till respekt, utan förintelse.
+0x00000064 Jag ber om din förståelse.
+0x000000A6 Jag ser att du behöver tänka en stund. Farväl.
+0x00000005 Jag ber om din förståelse.
+0x0000001B Frystorkade djur har blivit en oumbärlig modedetalj, men jag vill att mitt ska vara exotiskt! Kan du skaffa mig varelsen ~mission_item~ från planeten ~mission_target_planet~?
+0x00000026 Jag beklagar att jag måste avböja.
+0x000000AB Jag skulle vilja repetera detaljerna i mitt uppdrag.
+0x0000007E Jag måste avsäga mig den här uppgiften.
+0x00000039 Ett nöje att hjälpa till. Hej då.
+0x0000007D Jag skulle hellre göra nåt annat.
+0x0000000C Varelsen ~mission_item~ kan vara användbar för att bekämpa skadedjur. Kan du hämta en åt oss?
+0x00000004 Jag måste hasta vidare. Farväl.
+0x00000007 Mäster Spam säger att vi borde hitta en levande boning för våra ledande andar och att den idealiska varelsen är ~mission_item~ från planeten ~mission_target_planet~.  Kan du hämta en sådan?
+0x000000B5 Du har en ~mission_item~. Res nu tillbaka till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ för att få din belöning.
+0x0000007F Den här uppgiften passar inte längre in i mitt schema.
+0x00000086 Visst, visst. Jag visste att det var hopplöst att komma med nåt så trivialt till nån så upphöjd som du. Kanske kan du trösta mig genom att spendera pengar i min boutique?
+0x00000018 Päls från varelsen ~mission_item~ har blivit en statussymbol här på planeten ~mission_source_planet~! Om du hämtade en åt mig, skulle jag kunna hålla huvudet högt bland mina likar och många viktiga kontrakt skulle bli mina! Kan jag besvära dig med att hämta en åt mig?
+0x00000040 Ja, kapten. Du skulle hämta varelsen ~mission_item~. Laddades inte informationen till din Uppdragslogg som den skulle?
+0x0000002C Varelsen ~mission_item~ är duktig på att utrota ohyra. Vi funderar på att introducera den i vårt eget biom, men vi måste studera den först. Kan du hämta ett exemplar?
+0x00000088 Tänk dig för två gånger innan du förspiller vår tid.
+0x00000025 Tyvärr måste jag avslå denna begäran.
+0x00000024 Faktiskt insåg jag just hur upptagen jag är.
+0x00000051 Den här uppgiften passar inte längre in i mitt schema.
+0x00000056 Uppgiften skulle redan ha utförts. Jag far!
+0x000000B1 Stjärnsystemet ~mission_target_star~ är din destination.
+0x0000003A Inga problem. Farväl.
+0x000000BE stjärnan ligger ~mission_clue_range_min~ till ~mission_clue_range_max~ parseker från ~mission_clue_landmark1~.
+0x0000001D Varelsen ~mission_item~ har ovanligt skarpt väderkorn och skulle kunna vara användbar för att spåra upp överlevande flyktingar efter ett segerrikt slag. Kan du hämta en så att vi kan studera den?
+0x000000B2 Du har skaffat ~mission_item~. Planeten ~mission_source_planet~ har din belöning.
+0x00000092 Ursäkta att vi störde dig. Hej då.
+0x000000B0 Misslyckades. Återvänd till ~mission_source_star~.
+0x00000021 Visst, det fixar jag.
+0x00000020 Det verkar genomförbart. Jag tackar ja!
+0x0000000A Varelsen ~mission_item~ kan vara till hjälp för att stabilisera ekosystemet på planeten ~mission_source_planet~. Kan du hämta en, så att vi kan studera den?
+0x00000077 Jag borde fara. Farväl!
+0x000000BF stjärnan heter ~mission_target_star~
+0x00000015 Vivisektionsprojektets mål är att ge oss en komplett sammanställning av alla djur i vår galax. Vårt exemplar av varelsen ~mission_item~ dog innan vi kunde använda det. Kan du hämta en ny?
+0x00000043 Rensa ditt sinne och detaljerna om varelsen ~mission_item~ skola visa sig. ~p~Självfallet har du även möjlighet att öppna din logg med uppdrag.~p~
+0x0000002A Vi överväger att släppa ut varelsen ~mission_item~ på planeten ~mission_source_planet~. Kan du hämta en så att vi kan undersöka den?
+0x0000004F Jag ger upp.
+0x000000BC Uppdragsfristen löpte ut.
+0x000000BB Uppdraget utfört. ~mission_item~ finns ombord.
+0x00000094 Jag kan se att du är upptagen. Vi talas vid senare.
+0x00000095 Jag ber om din förståelse.
+0x00000028 Metoder för att utrota organiskt liv testas på försöksobjekt. Du ska ge oss ett objekt: varelsen ~mission_item~.
+0x00000052 Jag ber att få lösas från detta uppdrag.
+0x000000AC Repetera din begäran. Mina anteckningar är otydliga.
+0x000000AA Jag har glömt detaljerna i mitt uppdrag.
+0x0000003F Trots de order som laddats i din Uppdragslogg har du ännu inte hämtat djuret ~mission_item~. Du måste omedelbart fullgöra uppdraget.
+0x000000A4 Kanske en annan gång. Hej då.
+0x00000001 Vi behöver varelsen ~mission_item~, du behöver inte veta varför. Den kan hittas på planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~.
+0x000000A9 Jag måste repetera mitt uppdrag.
+0x00000090 Jag ber om din förståelse.
+0x00000079 Jag återvänder inom kort. Hej då.
+0x0000009D Så fånigt! Allt du behövde göra var att följa spillningen!
+0x000000A3 Ursäkta att vi störde dig. Hej då.
+0x00000054 Tack igen. Hej då.
+0x00000053 Nu förstår jag. Farväl!
+0x0000008F Vi talas vid igen. Farväl.
+0x0000007A Uppgiften kallar. Farväl.
+0x0000009C Visst, visst. Jag visste att det var hopplöst att komma med nåt så trivialt till nån så upphöjd som du. Kanske kan du trösta mig genom att spendera pengar i min boutique?
+0x0000001F Jag antar ditt anbud.
+0x00000017 Varelserna som kallas ~mission_item~ är plötsligt eftertraktade på planeten ~mission_source_planet~! Om du kan hämta en åt mig, skulle jag kunna stoppa den i kloningstankarna och tjäna storkovan! Naturligtvis skulle du få riklig kompensation för dina insatser.
+0x0000000B Körtlarna från varelsen ~mission_item~ producerar möjligen ett ämne som på naturlig väg kan bekämpa en farlig växtparasit, men vidare studier krävs för att bekräfta det. Kan du hämta detta djur åt oss?
+0x00000078 Tack för möjligheten. Hej då.
+0x00000044 Å ja…visst är det besvärligt att fokusera och komma ihåg saker. Jag vet. Varför måste vi drivas av detaljer…Låt naturen leda oss…så säger vi.~p~…Vad sa du... vi lyssnade inte....~p~ …kanske har du en Uppdragslogg eller nåt…
+0x0000005D ~player_title~ ~player_creature_name~! Vi har fått höra att du har misslyckats med ditt uppdrag! ~p~Spionerade? Nej, vi spionerade inte. Vi skyddade bara vår investering.
+0x0000005F ~player_creature_name~ har återvänt utan något djur? Ingen ~mission_item~?  Även om det är en struntsak, är inte den förlorade hedern det.
+0x00000048 Självfallet, självfallet. Jag trodde att du hade gett dig av redan…men det är ingen stor sak.~p~Lovade inte ers magnificens mig djuret ~mission_item~? Konsultera din Uppdragslogg för kontraktets detaljer.
+0x00000068 Vi undrar vem som är mest intelligent, ~player_creature_name~ eller djuret ~mission_item~.
+0x00000009 Sifu Slm säger att varje gång en varelse av typen ~mission_item~ nyser betyder det tur! Jag skulle behöva lite tur, så jag skulle vilja ha ett sånt djur. Kan du hämta ett åt mig?
+0x00000027 Varelsen ~mission_item~ överlevde inte våra inledande prov. Du ska hämta en till åt oss.
+0x00000058 Var hälsad igen, vän.~p~Vi förstår att du har misslyckats. ~p~~player_title~ av ~player_creature_name~ måste komma ihåg att allt som är värt att göra kräver koncentration, min vän.
+0x0000005A ~player_title~ av ~player_creature_name~, har du misslyckats med att hämta djuret ~mission_item~ inom tidsfristen? Det ska vi inte glömma.
+0x00000099 ~race~ ifrågasätter din obeslutsamhet. Det står klart att du saknar en stark drivande kraft. Så olyckligt.
+0x0000009E Lägga av är inget ~race~ förstår. ~player_creature_name~ är inte ~race~.
+0x00000087 Så korkat! Allt du behövde göra var att följa lämningarna!
+0x0000002F ~player_title~ ~player_creature_name~ har tjänat ~race~ väl. Dina ~mission_rewards~ är välförtjänta.
+0x00000083 ~race~ ifrågasätter ditt vankelmod. Det står klart att du saknar en stark drivande kraft. Så olyckligt.
+0x00000013 Varelsen ~mission_item~ har nyligen upptäckts ha ovanliga attribut som bidrar till dess överlevnad i naturen. De enda exemplaren vi har av denna art har dissekerats eller frystorkats. Kan du hämta ett levande exemplar?
+0x00000046 Alla frågor skall ställas till Frågebyrån, särskilt frågor angående varelsetransporter. ~p~Självfallet har informationen även lagrats i din Uppdragslogg, enligt galaktisk policy.
+0x00000016 Jag vill verkligen inte störa någon så mäktig som du, men vi måste tyvärr meddela att varelsen ~mission_item~ nyligen har dött i vårt zoo! Om jag donerar en ny till zoot, skulle jag kunna komma ifråga för ett nytt kontrakt! Kanske skulle du mot en viss kompensation kunna hämta ett av de här djuren åt mig?
+0x0000001E Bland våra straff för vissa brott finns att bli uppäten av ett gluphungrigt djur, eller ibland en hel flock. Vi är alltid på jakt efter nya djur och varelsen ~mission_item~ skulle kunna passa våra behov. Kan du hämta ett exemplar för utvärdering?
+0x00000011 Varelsen ~mission_item~ tros vara bärare av en farlig sjukdom som kan smitta vår art. Vi måste undersöka djuret noggrant. Eftersom din art är immun mot smittan, skulle du kunna föra ett av dessa djur till våra medicinska laboratorier?
+0x00000041 ~player_creature_name~. Du har misslyckats med att hämta djuret ~mission_item~ inom föreskriven tid. Din ineffektivitet är noterad.
+0x0000000F Vi önskar en unik belöning till den unga person som bäst har memorerat Spodes Ord. Varelsen ~mission_item~ är ett lämpligt sällskapsdjur åt någon i den åldern. Kan du hämta en sådan åt oss innan Recitationsfestivalen?
+0x00000008 Jag vill leva i samklang med naturen, och varelsen ~mission_item~ är en verkligt söt, gullig del av naturen som jag vill ha som ägodel! Om du hämtar en åt mig, lovar jag att ge den mat, vatten och motion och uppfylla alla dess behov. Kan du resa till planeten ~mission_target_planet~ och hämta en, snääälla?
+0x00000093 Tills vi talas vid igen. Hej då.
+0x000000BD stjärnan befinner sig ungefär ~mission_clue_distance~ parsek från ~mission_clue_landmark1~.
+0x0000009B Intressant val, ~player_title~ ~player_creature_name~. Kanske har du nån information som vi saknar, även om det verkar osannolikt.
+0x000000A0 Innan jag går, har jag några andra frågor ...
+0x0000009F Jag skulle vilja fråga dig nåt annat ...
+0x00000010 Stora rådet vill kartlägga alla arter inom federationen. Varelsen ~mission_item~ har hittills glömts bort. Kan du föra en sån till Institutet?
+0x000000A1 Dessutom ...
+0x0000000D Spode har instruerat oss att inspektera alla levande organismer för att avgöra om de är rena eller orena. Vi har ännu inte dömt i detta beträffande varelsen ~mission_item~ från planeten ~mission_target_planet~. Kan du hämta en sådan åt oss?
+0x00000012 Federationens Zoos sista kvarvarande exemplar av varelsen ~mission_item~ har avlidit. Eftersom Stora rådet vill att där ska finnas ett exemplar av alla djur inom vår federation, skulle vi vilja ersätta vår ~mission_item~ omgående. Kan du hämta en åt oss?
+0x00000098 Ooo ... okej ... Ja, det är i sin ordning. ~p~Om du inte är engagerad ... vill vi ju inte att du ska interagera med en annan livsform. ~p~
+0x00000006 Du vågar ignorera Groxernas krav!? Oförskämda dåre!
+0x00000062 Det här var inte mitt bästa arbete ...
+0x0000003D Javisst, Uppdragsloggen! Jag ska titta i den!
+0x00000085 Intressant val, ~player_title~ ~player_creature_name~. Kanske har du nån information som vi saknar, även om det verkar osannolikt.
+0x00000063 Låt oss fokusera på framtiden ...
+0x0000004C Innan jag går, har jag några andra frågor ...
+0x0000007B Dessutom ...
+0x0000008A Innan jag går, har jag några andra frågor ...
+0x0000004D Dessutom ...
+0x00000074 Innan jag går, har jag några andra frågor ...
+0x00000037 Dessutom ...
+0x00000082 Ooo ... okej ... Ja, det är i sin ordning. ~p~Om du inte är engagerad ... vill vi ju inte att du ska interagera med en annan livsform. ~p~
+0x00000036 Innan jag går, har jag några andra frågor ...
+0x00000089 Jag skulle vilja fråga dig nåt annat ...
+0x00000047 ~player_title~ ~player_creature_name~. Ditt uppdrag var att hämta ett exemplar av ~mission_item~ till vår forskning. Jag är säker på att du förde tillräckliga anteckningar i din Uppdragslogg.
+0x00000042 Kapten, ditt misslyckande är verkligen överraskande! Vi var helt beredda på att ta emot en ~mission_item~ ... vi kunde aldrig ha anat att du inte skulle klara av att leverera djuret.~p~Säkert stötte du på oväntade komplikationer.~p~
+0x00000069 Helt förståeligt, Kapten.~p~Ursäkta att vi besvärar dig med sådant.
+0x00000045 ~player_title~ ~player_creature_name~ har svurit att leverera till ~race~ den varelsen som kallas ~mission_item~.~p~Är du en svekfull person, eller är din Uppdragslogg opålitlig?
+0x00000067 Helt förståeligt, Kapten.~p~Ursäkta att vi besvärar dig med sådant.
+0x0000008B Dessutom ...
+0x0000004B Jag skulle vilja fråga dig nåt annat ...
+0x00000073 Jag skulle vilja fråga dig nåt annat ...
+0x0000006A Innan jag går, har jag några andra frågor ...
+0x00000075 Dessutom ...
+0x00000029 Du vågar bryta ditt ord mot Groxerna!? Oförskämda dåre!
+0x00000057 Utgå. Du har ~mission_time~ sektoner på planeten ~mission_target_planet~ för att hitta djuret.
+0x0000005B ~player_title~ ~player_creature_name~, du har inte hämtat djuret ~mission_item~ inom den stipulerade tidsfristen.  Jag blir tvungen att upplysa Stora rådet om ditt misslyckande.
+0x00000060 Ursäkta. Kan vi diskutera nåt annat ...
+0x00000059 Hej, ~player_title~ ~player_creature_name~ ... ~p~Vänta ...var är djuret ~mission_item~? Bad vi dig inte hämta en? Åh, du har misslyckats? Nedrans ...
+0x0000001C Våra barn tycker om att titta på när varelsen ~mission_item~ slåss. Det sägs finnas en mer aggressiv underart i naturen. Skulle du kunna hämta en?
+0x00000055 Jag återvänder inom kort ... på riktigt den här gången. Hej då.
+0x00000035 Jag skulle vilja fråga dig nåt annat ...
+0x00000071 Jippee! Jag ska färga min lila! ~p~Skynda på! Du får bara ta ~mission_time~ sektoner på dig att hitta varelsen på planeten ~mission_target_planet~.
+0x00000061 Ja, vi stötte på problem ...
+0x00000019 Snacka om att jag har ett jobb åt dig!~p~Jag såg mode-ikonen ENERGI***STJÄRNA***FLADDERMUS med sin tama ~mission_item~, och nu bara måste jag ha en! Kan du hämta en åt mig?
+0x00000097 Du måste följa din egen väg.~p~Lev väl, min vän.
+0x0000006B Ytterst generösa själ. ~p~Kom ihåg att ditt skepp kan störa den känsliga ~mission_item~. Arbeta snabbt. Du har ~mission_time~ sektoner på planeten ~mission_target_planet~ för att fullgöra ditt uppdrag.~p~Var inte oroad, och flyg väl.
+0x0000005C ~player_title~ ~player_creature_name~, har du misslyckats med att få tag på exemplaret i tid? ~p~En systematisk inspektion av planeten borde ha gett det resultat du eftersträvade. Att göra på annat sätt verkar ineffektivt. ~p~ Vi finner detta utfall till 70 % som förväntat.
+0x0000002E Åh, ~player_title~ ~player_creature_name~!~p~Underbar varelse den här ~mission_item~....så väldigt, liksom, naturlig. ~p~Vi skulle så gärna skänka dig nåt mer än ~mission_rewards~ ... en stor kram, kanske?
+0x0000009A Uppfattat, ~player_title~ ~player_creature_name~. Vi uppskattar dina etikettsregler.~p~Faktiskt kommer det att bespara oss en del pappersarbete. Godkännandeprocessen för underkontrakt gällande interplanetär varelsetransport kräver endast 362 olika blanketter undertecknade och stämplade i tre vidimerade kopior. ~p~Detta är givetvis långt färre än vad som anges i Standardproceduren ... Du skulle se blanketterna som krävs för fermenterade kryddor.
+0x000000B4 För bort varelsen känd som ~mission_item~ från planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~.~p~Det är känt att ~group:star_clue~. ~p~Väl på planeten ~mission_target_planet~ kommer du att ha ~mission_time~ sektoner på dig att identifiera och bortföra det önskade exemplaret.
+0x0000005E Ha ha! Är ditt skepp så långsamt att det inte kan hitta en liten varelse i tid?! ~p~Jag tror att vi ~race~ borde utmana dig på en kapplöpning.
+0x00000084 Uppfattat, ~player_title~ ~player_creature_name~. Vi uppskattar dina etikettsregler.~p~Faktiskt kommer det att bespara oss en del pappersarbete. Godkännandeprocessen för underkontrakt gällande interplanetär varelsetransport kräver endast 362 olika blanketter undertecknade och stämplade i tre vidimerade kopior. ~p~Detta är givetvis långt färre än vad som anges i Standardproceduren ... Du skulle se blanketterna som krävs för fermenterade kryddor.
+0x00000034 ~player_creature_name~ hämtar vårt djur.~p~~race~ är nöjda. ~race~ ger dig ~mission_rewards~.
+0x00000030 ~player_title~ ~player_creature_name~. I Stora rådets namn erbjuder jag dig dessa ~mission_rewards~, samt ett Lovordscertifikat av tredje graden (som postas senare).
+0x00000070 Tack, tack! Jag kan knappt låta bli att dregla!~p~Jag är säker på att vi nåmnde en sista liten detalj ... När du anländer till planeten ~mission_target_planet~ kommer du att ha väl tilltagna ~mission_time~ sektoner på dig att säkra din last. Vi är säkra på att detta inte kommer att vara något problem för en så skicklig pilot som ~player_title~ ~player_creature_name~. ~p~Ja, ja! Kör, kör!
+0x00000002 ~player_creature_name~.~p~Det här är varelsen vi efterfrågade.~p~~player_creature_name~ har fått betalt.~p~Vi har inte mer att prata om.
+0x00000081 Du måste följa din egen väg.~p~Lev väl, min vän.
+0x0000006F ~player_title~ ~player_creature_name~, du kommer att bidra till forskningsframsteg som kommer att gynna hela galaxen.~p~För att exemplaret inte ska ta skada måste du identifiera och fånga varelsen inom ~mission_time~ sektoner när du landat på planeten ~mission_target_planet~. ~p~Lycka till.
+0x00000032 Utmärkt, ~player_title~ ~player_creature_name~!  Vi har den överenskomna summan ~mission_rewards~. Tala inte om för nån var du fick dem ifrån!
+0x0000006E I Stora rådets namn tackar vi dig innerligt.~p~Galaktiska standardprocedurer ger dig hela ~mission_time~ sektoner på planeten ~mission_target_planet~ för att hitta och fånga varelsen ~mission_item~. ~p~Lycka till, ~player_title~ ~player_creature_name~.
+0x0000002D Din framgång lyser kring dig, ~player_title~ ~player_creature_name~. ~p~Vi förärar dig med  ~mission_rewards~ och önskar dig mycken glädje.
+0x000000B3 Du misslyckades med att hämta djuret ~mission_item~ i tid. Planeten ~mission_source_planet~ kommer inte att jubla.
+0x00000049 Ja, ~race~ har väntat otåligt på djuret ~mission_item~! Flög du vilse eller nåt?  Det är känt av alla att ~group:star_clue~!~p~ Konsultera din Uppdragslogg, så kanske du hittar vägen!
+0x0000001A Ja! ~p~ För länge, länge sen fanns en varelse som kallades ~mission_item~ och var högsta mode. Alla bara MÅSTE ha en.~p~Men lika fort som den blev inne, lika fort ansågs den ute igen. De samlades in och skickades till planeten ~mission_target_planet~, där de inte kunde störa vårt sinne för trender.~p~ Nu är de på väg att bli moderna igen, och jag måste helt enkelt ha den första.~p~
+0x000000A8 Javisst, Uppdragsloggen! Jag ska titta i den!
+0x00000065 Tack, kapten! Vi uppskattar insatsen! ~p~Väl på planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att hämta djuret ~mission_item~.
+0x0000006C Utmärkt…det är verkligen goda nyheter…verkligen. ~p~ Ta god tid på dig...liksom... Se på utsikten…men det är klart…väl på planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att infånga och bortföra den näpna ~mission_item~... Så... ha så kul!
+0x00000091 Du vågar återvända till Grox utan föremålet vi begär!~p~Vi vägrar upprepa oss. Din Uppdragslogg talar om var du ska hitta varelsen ~mission_item~...om du inte har glömt hur man avänder den.
+0x0000006D Gå i Spodes namn! ~race~ inväntar din återkomst. ~p~ Väl på planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att hämta djuret ~mission_item~.
+0x0000003E Tack, kapten! Djuret ~mission_item~ har anlänt i gott skick. Här är dina ~mission_rewards~.
+0x000000A2 En sak till ...
+0x0000004E En sak till ...
+0x00000076 En sak till ...
+0x00000038 En sak till ...
+0x0000007C En sak till ...
+0x0000008C En sak till ...
+0x00000031 ~player_title~ ~player_creature_name~. Tack för att du hjälper oss samla in värdefulla data. Här är dina ~mission_rewards~ enheter.
+0x00000033 Tjoho! Tack! Jag ska döpa min till "Trasan"! ~p~ Jag ger dig ~mission_rewards~!
+0x00000072 Okej. ~race~ förstår att ~player_creature_name~ kommer att ha ~mission_time~ sektoner på planeten ~mission_target_planet~ för att hämta varelsen ~mission_item~. Åk nu.
+

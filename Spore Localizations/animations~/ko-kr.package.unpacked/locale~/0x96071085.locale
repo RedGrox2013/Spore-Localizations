@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 이번 모험에 사용한 창조물 중 다음 것은 서버에서 삭제되었습니다. 다른 사람이 모험을 플레이 할 수 있게 창조물을 다시 출판하시겠습니까?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 이번 모험에 사용한 창조물 중 다음 것은 아직 출판하지 않았습니다. 다른 사람이 모험을 플레이 할 수 있게 창조물을 출판하시겠습니까?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A 이번 모험의 창조물 중 금지된 것이 있습니다. ~p~점수가 반영되지 않을 것입니다.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B 이번 모험의 창조물 중 삭제된 것이 있습니다. ~p~다시 다운로드 하시겠습니까?
+
+# Editing adventures offline
+
+0x07AA5B65 로그인
+0x07AA5B64 이 모험을 위한 창조물을 다운로드하려면 먼저 로그인을 해야 합니다. 만약 이 모험을 편집하면, 창조물은 교체될 것입니다.
+0x07AA5B67 취소
+0x07AA5B66 교체
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E 이 모험에는 금지된 것이나 현재 가지고 있지 않은 것이 포함되어 있습니다.~p~창조물 중 일부는 교체될 것입니다.
+
+# Editing adventures with banned assets
+
+0x0750187C 이번 모험의 창조물 중 금지된 것이 있습니다. ~p~만든 것 중 일부는 교체될 것입니다.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 이번 모험의 창조물 중 금지된 것이 있습니다. ~p~점수가 반영되지 않을 것입니다.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 창조물 다운받기 진행 중
+0x00000004 창조물 다운받기 실패
+0x00000006 창조물 출판에 실패했습니다.
+0x00000003 취소
+0x00000007 출판 진행 중
+0x00000005 이번 대모험에 사용할 창조물을 다운받으려면 로그인하셔야 합니다.
+0x00000002 대모험 창조물 다운받는 중
+0x00000008 출판 중.
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 창조물 다운받기에 실패했습니다. 계속하시겠습니까?~p~자산 중 일부가 되돌아가며 점수가 반영되지 않게 됩니다.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D 이번 모험의 창조물 중 현재 가지고 있지 않은 것이 포함되어 있습니다. ~p~창조물 중 일부는 교체될 것입니다.
+

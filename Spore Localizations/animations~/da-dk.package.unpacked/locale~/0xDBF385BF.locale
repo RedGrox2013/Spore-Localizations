@@ -1,0 +1,172 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000AD ~city_name_7~
+0x000000AE ~city_name_8~
+0x000000B0 ~city_name_10~
+0x000000AF ~city_name_9~
+0x000000AC ~city_name_6~
+0x000000A8 ~city_name_2~
+0x000000A7 ~city_name_1~
+0x000000A9 ~city_name_3~
+0x000000AA ~city_name_4~
+0x000000AB ~city_name_5~
+0x00000073 ~offer_1~ Sporebucks
+0x00000074 ~offer_2~ Sporebucks
+0x00000076 ~offer_4~ Sporebucks
+0x00000075 ~offer_3~ Sporebucks
+0x00000077 ~offer_5~ Sporebucks
+0x00000003 Vores militær blev mobiliseret for at håndtere typer som dig.  Vi har afsluttet al form for handel mellem ~source_city_name~ og ~target_city_name~.
+0x00000006 Vores militær kræver ikke mere kapital. Vi har afsluttet al form for handel mellem ~source_city_name~ og ~target_city_name~.
+0x00000004 Selv troende folk har grænser for deres tolerance. Vi har afsluttet al form for handel mellem ~source_city_name~ og ~target_city_name~.
+0x00000020 Vi har ikke meget at sige til dig.  Kom til sagen.
+0x00000005 Det er ikke godt for vores forretning, men din opførsel er utålelig. Vi har afsluttet al form for handel mellem ~source_city_name~ og ~target_city_name~.
+0x00000023 Du er en stærk allieret.  Hvad ønsker du at tale om?
+0x00000024 Du har tilsmudset vores tro og gjort nar af vores folk.  Hvad vil du?
+0x00000025 Kilden har kun foragt tilovers for dit folk og dets kreationer.   Hvorfor kontakter du os?
+0x00000021 Din civilisation forvirrer os.  Hvad er dine hensigter?
+0x00000022 Vi er glade for vores indbyrdes forhold.  Hvordan kan vi hjælpe dig?
+0x00000018 Kilden hilser din visdom velkommen. Må vores byer være forbundet til evig tid.
+0x00000017 Nu er du ikke kun en ven, men en klog ven. Vi ser frem til et langt, udbytterigt forhold.
+0x0000000E Vi behøver ikke at handle med ubetydelige civilisationer som jeres. Nej.
+0x0000000D Storartet!
+0x00000019 Fremragende. Begge vores byer vil have glæde af denne aftale.
+0x0000000F Vi har overvejet dit tilbud nøje, men fandt det mangelfuldt. Nej.
+0x00000014 Vores byer vokser kun, hvis vores økonomi vokser. Vi vil gerne etablere en handelsrute til ~target_city_name~. Vi sender fartøjer fyldt med vores fineste varer og betaler en skat til din by for hvert besøg.
+0x00000016 Jeg takker nej til dit tilbud! Du kan beholde jeres tarvelige varer.
+0x00000013 Ordet kan ikke spredes uden der er de rigtige forbindelser. Lad os etablere en handelsrute med ~target_city_name~. Hver tur vil generere indkomst for dig.
+0x00000012 Vores hære kræver varer, som ~target_city_name~ besidder, for at trives. Lad os etablere en handelsrute. Vi betaler dig generøst for hver tur.
+0x0000001D Vi kan ikke se logikken bag din beslutning, men handler gerne et andet sted.
+0x00000009 Vi havde alligevel ikke brug for dine penge.
+0x0000000B Vores budskab kan kun nå længere ud, hvis vi samarbejder. Vi accepterer.
+0x0000001F Vores militær står ved dine grænser.  Vi hilser dig kun for at håne dig.
+0x00000007 Vi har ført samtale med Kilden og Den har talt. Vi må afslutte al handel mellem ~source_city_name~ og ~target_city_name~.
+0x00000008 Vores forhold er ikke længere fordelagtigt for begge parter. Vi har afsluttet al form for handel mellem ~source_city_name~ og ~target_city_name~.
+0x0000001B Vores generaler er alt andet end tilfredse. Det er usandsynligt, at vi vil tilbyde en lignende aftale igen.
+0x0000000C Handel kan kun forøge begge parters velstand. Vi tager imod dit tilbud.
+0x00000046 Dit folk stammer fra rumamøber.
+0x00000039 Købet af ~source_captured_npc_city_name~ er kun toppen af isbjerget, når det gælder vores ambitioner.
+0x00000042 Vores folk beundrer dine store vidder.
+0x0000007D Du er en snu forhandler. Vi accepterer.
+0x00000051 Vi bringer gaver. Accepterer du?
+0x00000030 Du besudling af ~source_lost_city_to_player_name~ bliver din sidste fejltagelse nogen sinde. Vi vil ikke gøre livet nemt for dig fra nu af.
+0x00000038 Du har vendt dig mod vores race og erklæret krig.  Det her vil vi ikke tolerere. Forbered dig på krig.
+0x0000007C Jubii!
+0x00000033 Du angriber os i vores hjem! Hvad kan ligge bag sådan en sindssyg opførsel? Du må da vide, at det her ikke bliver tolereret.
+0x0000002A Vi støder sjældent på en trussel af din kaliber. Er du for det gode eller det onde?
+0x0000002D Store alliancer som vores vil klare tidens udfordringer! Let dit hjerte, nabo.
+0x00000059 Det var så lidt
+0x00000078 Bare glem det ...
+0x0000005A Ja tak. På forhånd tak!
+0x00000064 Okay, bølle. Vi overgiver os. Håber du nyder, det du har gjort ved ~target_city_name~.
+0x00000063 Jeg beklager, sagde du noget?
+0x00000067 Farvel
+0x00000057 Jamen, jeg har altid regnet med en venlig hånd fra fremmede ...
+0x00000065 Farvel
+0x0000002C Vær hilset! Handlinger taler for sig selv, når det gælder handel - og du virker som et behageligt bekendtskab og nabo indtil videre. Hvad mangler du?
+0x00000066 Din religion er blevet populær i ~target_city_name~!  Vi har ikke andet valg end at konvertere til din kultur. Spred det gode budskab til andre byer!
+0x00000058 Vi værdsætter dit forsøg på at forbedre vores indbyrdes forhold.
+0x0000002B Hvad er dit formål?
+0x0000005E Her har du 1000 Sporebucks ...
+0x0000003E Der var ingen grund til en væbnet konflikt, men du har ført krigen til vores hjem. Vi er bedrøvede over denne udvikling.
+0x0000005B Helt ærligt.
+0x0000005C Her har du 4000 Sporebucks ...
+0x0000005F Bare glem det
+0x0000005D Her har du 2000 Sporebucks ...
+0x00000062 Tiden for kommunikation og handel er forbi. Forbered dig på krig.
+0x0000007A Beklager.
+0x00000052 Farvel
+0x00000028 Kilden synger om vores alliance og dens styrke.  Tal frit, ven.
+0x0000006B Farvel
+0x0000006C Hey, vi har erobret ~target_city_name~. Juhuu!
+0x0000006E ~target_city_name~ udgør en fin tilføjelse til vores imperium!
+0x0000006D Håber du er klar til os - for ~target_city_name~ er nu vores.
+0x00000070 Godt for dig.
+0x0000007B Du er en meget generøs køber. Vi tager imod dit tilbud.
+0x00000026 Vi har mediteret over dette i timevis, men kan ikke afgøre, om du er ven eller fjende. Hvad mangler du?
+0x00000072 Vi har forstået, at du ønsker ~target_city_name~ skal blive din. Nævn din pris.
+0x0000006F ~target_city_name~ falder for vores vælde!
+0x0000003F Vi har brug for dine styrker. Vil du kæmpe på vores vegne?
+0x00000027 Vi tror, at du vil sprede gode vibrationer her i universet.  Hvad mangler du?
+0x00000069 Farvel
+0x00000068 ~target_city_name~ var ren barnemad. Håber, at du forsvarer dig bedre næste gang!
+0x00000056 Ja ja
+0x00000029 Din eksistens truer denne planets overlevelse. Hvad ønsker du af os?
+0x00000071 Vi vil gerne tilbyde ~offer_1~ Sporebucks for ~target_city_name~.  Interesseret?
+0x00000079 Tak, fordi du spildte vores tid.
+0x00000060 Denne planet ryster og skælver ved synet af vores mægtige flåde. Du overlever aldrig.  Forbered dig på krig.
+0x00000054 Hyg dig
+0x000000A2 Lyder godt. Godt at have dig på vores side.
+0x00000093 Vi forstår. Vi ignorerer dem.
+0x000000A3 Lad os komme i gang!
+0x00000096 Tak, vi værdsætter din støtte.
+0x00000082 Ups.
+0x00000080 Ups.
+0x000000B1 Bare glem det
+0x00000090 Det her huer os ikke.
+0x000000A1 Halløjsa!
+0x0000007E Jubii!
+0x0000007F Efter grundige overvejelser må vi desværre meddele, at vi takker nej til dit tilbud.
+0x0000009A Det er vi skuffede over at høre.
+0x000000A0 Fremragende. Lad os knuse vores fjender!
+0x00000081 Du fornærmer mine forældre og forældres forældre. Et så latterligt tilbud kan ikke tolereres.
+0x000000A4 Det er jeg ked af at høre.
+0x00000092 Vi er ret rystede over, at du handler med ~npc1_name_nation~. Vi insisterer, at du stopper med det samme!
+0x00000086 Tid til at erobre denne planet.
+0x0000008F Rolig nu, makker ...
+0x000000B3 Okay, det er en aftale.
+0x0000008D Tag dine penge - hvis du kan vriste dem fra vores kolde, døde hænder.
+0x0000008E Det var et klogt valgt.
+0x000000BA et
+0x00000089 Vi vandt! Lad os slutte os sammen, så verden kan leve i fordragelighed.
+0x00000084 Tid til at monopolisere denne planet.
+0x000000A6 Hvilken by?
+0x000000BB to
+0x000000BC tre
+0x0000009D Absolut. Vi er glade for, at du ville slutte dig til os.
+0x00000098 Det kan vi godt. Godt, at vi kunne nå til enighed.
+0x000000B8 Det var så lidt ...
+0x0000009C Vi kunne bruge din hjælp. Vil du erklære krig mod ~npc1_name_nation~?
+0x000000B5 Okay, lad os komme i gang!
+0x000000A5 Nå, måske næste gang ...
+0x0000008A Jeg håbede, at du en dag ville slutte dig til os.
+0x0000008B Det er på tide, at du viser os den passende respekt. Vi kræver ~offer_1~ Sporebucks.
+0x000000B6 Tak for hjælpen ...
+0x0000009E Hmmm - måske hvis du forsøder aftalen med 2000 Sporebucks?
+0x000000B2 Vi kan hjælpe dig - for en pris. Hvad med ~offer_1~ Sporebucks?
+0x000000B7 Tak for pengene!
+0x000000B4 Beklager, men det for dyrt.
+0x0000009F Beklager. Det føles ikke velgennemtænkt lige nu
+0x0000009B Det er vores endelige ord Farvel.
+0x00000088 Vi accepterer din overgivelse.
+0x00000015 Jeg accepterer dit tilbud! Start forsendelserne med det samme!
+0x00000091 Du spilder dine kræfter.
+0x0000008C Meget vel - vi vil helst ikke bryde denne alliance.
+0x00000095 Beklager. Det føles ikke velgennemtænkt lige nu
+0x00000099 Tak. Farvel.
+0x00000097 Fremragende. Farvel.
+0x00000085 Tid til at sprede sandheden her på planeten.
+0x000000B9 Tester denne kommunikationskanal ...
+0x00000094 Tja, hvis du kunne dække vores tab med 4000 Sporebucks ...
+0x00000083 Hej, ~target_city_name~ fra ~player_name_nation~ her. Hvad nyt bringer du?
+0x00000053 Det er kloge ord.
+0x00000011 Meget vel.
+0x00000061 Verdenen skal samle sig om den sande Tro.  Du skal nok lære sandheden, præcis som alle dem før dig har set lyset.
+0x0000001E Det er noteret. Farvel.
+0x0000001A Enig. Farvel for nu.
+0x00000087 Dine beskeder har overbevist os om, at det er klogt at slå os sammen.
+0x0000000A Handel kan kun forøge vores magt. Vi accepterer.
+0x00000035 Vores indflydelse fortsætter med at brede sig! Vores korstog har tilføjet byen ~source_captured_npc_city_name~ til vores nation.
+0x00000010 Vores kister bugner. Vi har ikke behov for at handle med dig på nuværende tidspunkt. Jeg beklager.
+0x00000034 Vi har erobret din ynkelige undskyldning af en by, ~source_captured_player_city_name~. Snart vil den også se sandheden, vores tro bringer.
+0x0000006A Var det sangen? Var det musikken? Vi ved det ikke med sikkerhed, men dine indbyggere har besluttet, at ~target_city_name~ slutter sig til vores nation. Beklager, men det er svært at stå for sådan en charme.
+0x0000002E Vores mægtige styrker har erobret en af dine byer! Er du kommet for at tigge os om at få ~source_captured_player_city_name~ tilbage?
+0x0000001C Du er en idiotisk leder. Din nation vil aldrig opleve fremgang.
+0x00000036 Dit ynkelige forsøg på at knuse os vil mislykkes.  Du har muligvis erobret ~source_lost_city_to_player_name~, men vi vil tage den tilbage inden længe.
+0x0000002F Vores nation fortsætter med at udvide sig. ~source_captured_npc_city_name~ er en anden fin tilføjelse i vores bestræbelser på total dominans. Hvorfor kontakter du os?
+0x0000003A Vi har købt ~source_captured_npc_city_name~, hvilket beviser, at vi kan udvide vores nation uden sammenstød med andre.
+0x00000055 Du vil se godt ud, hængende over min kamin ...
+

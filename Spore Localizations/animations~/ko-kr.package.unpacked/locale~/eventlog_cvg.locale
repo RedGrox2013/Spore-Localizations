@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~이(가) 당신의 무역 요청을 거절했습니다.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~이(가) 당신이 제안한 무역로를 수락했습니다.
+
+#######################################
+# event logs
+
+0x0000001A ~target_city_name~시를 성공적으로 매수했습니다!
+0x00000019 ~target_city_name~시를 매수하려는 노력이 실패했습니다.
+0x0000000F ~target_city_name~이(가) 귀화했습니다!
+0x0000000E ~target_city_name~이(가) 점령당했습니다!
+0x00000005 ~target_city_name~시를 귀화시켰습니다.
+0x00000004 ~target_city_name~시를 점령했습니다.
+0x00000018 ~target_city_name~은(는) 이제 구매할 수 있습니다.
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x00000032 스파이스 광산을 차지했습니다.
+0x00000033 스파이스 광산을 점령했습니다.
+0x0000001C ~target_city_name~에 무역로가 생겼습니다.
+0x00000036 당신의 도시가 귀화했습니다!
+0x0000002B ~source_civ_name~와(과) 동맹 관계가 끝났습니다.
+0x0000002F 당신의 스파이스 광산이 공격을 받고 있습니다!
+0x0000002C ~source_civ_name~와(과) 동맹을 맺었습니다.
+0x0000002A ~source_civ_name~와(과)의 관계가 중립이 됐습니다.
+0x00000021 당신의 도시, ~target_city_name~이(가) 공격을 받고 있습니다!
+0x00000027 ~source_civ_name~이(가) ~target_city_name~을(를) 점령했습니다!
+0x00000026 ~source_civ_name~은(는) 멸망했습니다.
+0x00000029 ~source_civ_name~와(과)의 전쟁이 시작됐습니다.
+0x00000028 ~source_civ_name~와(과)의 전쟁이 시작됐습니다.
+0x00000035 공격할 도시를 클릭합니다.
+0x00000023 스파이스 광산을 클릭하여 유닛으로 채굴을 시작하도록 설정하십시오.
+0x00000024 ~target_city_name~이(가) 발견되었습니다!
+0x00000031 그 부족이 당신에게 무료 유닛을 제공했습니다!
+0x00000034 ~target_city_name~가 기뻐하고 있습니다, 수입이 증가합니다!
+0x00000030 그 부족에게서 %d Spore 머니를 획득했습니다.
+

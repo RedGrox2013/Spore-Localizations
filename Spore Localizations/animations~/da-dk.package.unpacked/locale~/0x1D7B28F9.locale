@@ -1,0 +1,63 @@
+﻿0x4782CC92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782CC94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782CC95 Option3~IDS__DialogId_10105_ControlId_603~
+0x4782CC93 Option5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Option2~IDS__DialogId_10105_ControlId_602~
+0x4782CC91 Option7~IDS__DialogId_10105_ControlId_607~
+0x4782CC97 Option1~IDS__DialogId_10105_ControlId_601~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x4782CC9F Option9~IDS__DialogId_10105_ControlId_609~
+0x4782CCA0 Option8~IDS__DialogId_10105_ControlId_608~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x494AA82F Installationsprogrammet blev afbrudt, før ~string~ blev afinstalleret helt.~br~~br~For at afinstallere dette spil på et senere tidspunkt, skal du køre afinstallationsprogrammet igen.~UNINSTALL_INCOMP~
+0x303D349E Fil: ~string~~br~Fejl: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Vælg de features, du vil installere, og fravælg de features, du ikke vil installere.  Klik på Næste for at fortsætte.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Det kræver en administratorkonto for at kunne installere.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Skrivebordsgenvej~DESKTOP_SHORTCUT~
+0x7E8BB5FD Installationen er gennemført~INSTALLATION_COMPLETE~
+0x4DE32707 Stop venligst ~string~ før du fortsætter.~GAME_RUNNING_STRING~
+0x2BF6EA98 Den nuværende harddisk har ikke tilstrækkelig ledig plads. Du kan fjerne filer fra den valgte harddisk eller vælge et andet sted at installere.~NO_SPACE_MSG~
+0x05082CC9 Fuldstændig~IDPROP_SETUPTYPE_COMPLETE~
+0x7D4A4E2F Brugerdefineret~CUSTOM~
+0x051414BE @10550,10551;1;0;;0.128.128   ~IDS__DialogId_10105_ControlId_1200~
+0x3017EF99 Vil du slette alle brugerdata, som ~string~ har oprettet?~REMOVE_USERDATA~
+0x1F726BCA Spil~PLAY_SPORE~
+0x6CD070E6 Der manglede informationer for at afinstalleringen kunne gennemføres. Der opstod en fejl under den indledende opsætning. Enkelte filer og mapper skal muligvis fjernes manuelt.~MISSING_UNINSTALL~
+0x64A17D06 Der opstod en fejl. Installationsopsætningen stopper nu.~GENERAL_ERROR~
+0x7CF6B4E8 Brugerdefineret~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Kan ikke installere til ~string~~br~Vælg venligst en anden mappe. ~DANGEROUS_DIRECTORY_ERROR~
+0x0537CFA1 Afinstallér ~string~~UNINSTALL~
+0x16FBAEAF Du er nu klar til at spille ~string~~READY_TO_PLAY~
+0x16741C9F Start ~string~ efter installation~LAUNCH_SPORE~
+0x0AA43B92 Anbefalet~RECOMMENDED~
+0x0D849C4A Klik på Udfør for at afslutte og komme i gang~CLICK_FINISH~
+0x38A8F152 Velkommen til ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 Læs mig~README~
+0x15538FF6 Opsætningstype~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Vælg den opsætningstype, der passer bedst til dine behov.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Brugerdefineret~IDPROP_SETUPTYPE_CUSTOM~
+0x74C9257A Fuldstændig~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Vi er klar til at installere!~READY_TO_INSTALL~
+0x2A8D9AF3 EA-hjælp~EA_HELP~
+0x7E9C7ECF Annullér~IDS__DialogId_10105_ControlId_9~
+0x40D6F8BD Læs Læsmig.txt efter installationen~VIEW_README~
+0x7B152168 Klik på Installér for at begynde installationen~br~~br~Hvis du vil gennemse eller ændre dine installationsindstillinger, skal du klikke på Tilbage-knappen - eller klikke på Annullér for at afslutte.~BEGIN_INSTALLATION~
+0x01FCAF57 Mine Spore-kreationer~SAVE_FOLDER~
+0x59450AC4 Opsætningstype~br~Vælg din opsætning~SETUP_TYPE_MESSAGE~
+0x03BCF887 Vælg indstillinger fra.~SELECT_OPTIONS~
+0x689470D4 Indeholder ~ID_STRING1~
+0x27D33671 Din mappesti er for lang. Vælg en kortere mappesti.~DIR_TOO_LONG~
+0x159098E0 < &Tilbage~IDS__DialogId_10105_ControlId_12~
+0x7E9C7EC7 &Næste >~IDS__DialogId_10105_ControlId_1~
+0x46A61B9B ~string~ kunne ikke findes.~MISSING_FILES~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x144073D1 ~string~ bliver installeret i en mappe efter dit valg.~CUSTOM_SPORE_SETUP~
+0x06220BA5 Klik på "Næste" for at installere ~string~ på din computer!~WELCOME_SPORE_MESSAGE~
+0x4E1203F5 Vil du installere den seneste udgave af EA Download Manager? Hvis du ikke installerer den seneste udgave af EA Download Manager, vil patches og bestemte features ikke leveres til din computer.~EADM_INSTALL~
+0x4950A450 Spore™ Creature Creator Trial Edition~SCC_TRIAL_NAME~
+0x23FD0D11 Spore™ Creature Creator~SCC_NAME~
+0x151DEC2F Spore™ kan ikke afvikles korrekt uden DirectX.~DIRECTX_WARNING~
+0x15CC67E6 ~string~ bliver installeret i mappen~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x353F37C7 Vi skal afinstallere dit selvstændige eksemplar af ~string~. Klik på Ja for at afinstallere. SPORE™ indeholder alle features fra Creature Creator og du kan beholde alle de væsener, du har skabt. ~SPORE_REMOVE_CSA_WARNING~
+0x02699E57 Opsætningstype~SETUP_TYPE_TITLE~
+

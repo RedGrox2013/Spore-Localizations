@@ -1,0 +1,69 @@
+﻿0x000002F1 ~guide: -h3~ Kompleksitetsmåler
+0x00000231 ~guide: -h1~ Lemmer
+0x00000061 ~guide: -h3~ Velge og legge til deler
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Redigere lemmer
+0x000000F1 ~guide: -bullet~ Rotasjonsring: Rotere deler.
+0x00000281 ~guide: -h1~ Tilgang til avanserte hendler
+0x000000D1 ~guide: -bullet~ Justeringspil: Endre høyde, bredde, lengde eller krumming på en del. Bare dra og se hva den gjør.
+0x000002E1 ~guide: -h1~ Kompleksitet og budsjett
+0x00000081 ~guide: -h3~ Fjerne deler
+0x000000E1 ~guide: -bullet~ Posisjoneringsball: Flytt deler eller endre retningen på horn o.l.
+0x00000171 ~guide: -bullet~ Marker en ryggvirvel ved å holde markøren over den.
+0x00000221 ~guide: -h2~ Du bøyer ryggraden ved å klikke og dra de enkelte ryggvirvlene. Den beste metoden er å gå fra virvel til virvel og gjøre små endringer.
+0x00000261 ~guide: -h3~ Legg til gripere eller føtter
+0x00000071 ~guide: -h2~ Du velger en del ved å klikke på den i delpaletten og dra den fra paletten til skapningen og plassere den der du vil ha den.
+0x000000C1 ~guide: -h3~ Delkontroller
+0x00000271 ~guide: -h2~ Det eneste stedet på et lem du kan plassere en fot eller en griper er på enden. Hvert lem leveres med en startfot eller -griper. Du kan erstatte disse ved å legge til en ny fot eller griper på samme sted.
+0x00000201 ~guide: -h2~ MERK: Hvis du forkorter ryggraden (og dermed kroppen) når skapningen har kroppsdeler, kan det hende at en eller flere av kroppsdelene blir røde. Dette indikerer at du ikke kan forkorte ryggraden så mye, fordi disse lemmene "bor" på delene av kroppen du prøver å fjerne.
+0x00000121 ~guide: -h1~ Klone deler
+0x00000131 ~guide: -h2~ Hvis du vil kopiere en del du allerede har lagt til skapningen din, klikker du på delen mens du holder inne Alt-tasten på tastaturet og drar kopien til et annet sted på skapningen. Disse kopiene koster DNA-poeng.
+0x000000B1 ~guide: -h2~ Klikk på en del av skapningen for å vise hendler som lar deg manipulere delen.
+0x000000A1 ~guide: -h3~ Redigere deler med hendler
+0x00000041 ~guide: -h3~ Låse opp deler
+0x00000191 ~guide: -bullet~ Klikk og hold inne venstre museknapp på ryggvirvelen for å bøye den.
+0x000001E1 ~guide: -h1~ Forlenge ryggrad
+0x000002C1 ~guide: -h3~ Avanserte lemkontroller
+0x00000211 ~guide: -h3~ Bøye kroppen
+0x00000291 ~guide: -h2~ Du får tilgang til flere hendler når du velger en del på skapningen og holder inne Tab-tasten. Hendlene gir deg større kontroll over plasseringen av hver del.
+0x00000431 ~guide: -h2~ Viser helsenivået til skapningen din. Jo høyere tall, jo flere treff tåler skapningen din før den dør.
+0x00000361 ~guide: -h1~ Skapningens egenskaper
+0x00000381 ~guide: -h3~ Oppsummering av skapningenes egenskaper
+0x00000092 ~guide: -h1~ Modifisere deler
+0x00000331 ~guide: -h3~ DNA-budsjettet
+0x00000321 ~guide: -h2~ Hvis cellen din blir for kompleks, kan du ikke legge til flere deler.
+0x00000421 ~guide: -h4~ Helse
+0x000003E1 ~guide: -h4~ Sosial
+0x000003D1 ~guide: -h2~ Viser skapningens angrepsegenskaper og hvilket nivå de er på.
+0x00000411 ~guide: -h2~ Viser skapningens fartsnivå.
+0x00000451 ~guide: -h2~ Evolusjonshistorien din som celle har avgjort om du livnærer deg på som kjøtteter, planteeter eller er alteter. Munntypene som er tilgjengelige i skapningsskaperen er kun av typen som støtter dietten din.
+0x000003B1 ~guide: -h2~ Viser egenskaper som roping, sniking, hopping og sveving og hvilket nivå egenskapene er på.
+0x000003A1 ~guide: -h3~ Egenskaper
+0x000000F4 ~guide: -bullet~ Velg delen ved å klikke på den.
+0x000000F5 ~guide: -bullet~ Rull med musehjulet eller bruk opp- og nedpilen for å endre størrelse på delen.
+0x000000F3 ~guide: -h4~ Hvis du vil forstørre eller forminske en del du har lagt til skapningen din,
+0x00000351 ~guide: -h2~ Når du har sluppet opp for poeng å bruke, kan du ikke legge til flere deler.
+0x00000401 ~guide: -h4~ Fart
+0x000000F2 ~guide: -h3~ Skalere deler
+0x00000301 ~guide: -image-left 0x05556b31!complexityMeter.png~
+0x00000341 ~guide: -h2~ [dank icon] Hver del du setter på skapningen koster DNA-poeng.
+0x00000441 ~guide: -h4~ Diett
+0x00000371 ~guide: -h2~ Hver del du legger til skapningen gir den nye egenskaper. Informasjonen som kommer frem når du beveger musen over en del forteller deg om hva delen gjør.
+0x000003C1 ~guide: -h4~ Kamp
+0x000003F1 ~guide: -h2~ Viser skapningens sosiale egenskaper og hvilket nivå de er på.
+0x00000161 ~guide: -bullet~ Beveg musen over cellens torso for å vise ryggraden.
+0x00000151 ~guide: -h3~ Torso
+0x00000181 ~guide: -bullet~ Bla med musehjulet eller bruk opp- og ned pilen på tastaturet til å forstørre eller forminske torsoen rundt den aktuelle ryggvirvelen.
+0x00000141 ~guide: -h1~ Forme torso og deler
+0x00000251 ~guide: -h2~ På lemmer fungerer leddene som plasseringsballer, du kan flytte dem rundt og endre størrelsen. Hvis du roterer skapningen din, kan det bli lettere å manipulere lemmene. Beveg lemmene frem og tilbake mens du ser skapningen fra siden, og beveg dem opp og ned når skapningen ser mot deg eller fra deg. Av og til kan det være nødvendig å flytte skapningens torso litt opp for å gjøre plass til lemmene. Det er bare å holde inne venstre museknapp på torsoen og bevege den til der du vil ha den.
+0x000001F1 ~guide: -h2~ Flytt musen over torsoen for å vise ryggraden til skapningen. Klikk på torsoen, så ser får du frem piler ved begge endene av ryggraden. Klikk på en av pilene og dra utover for å legge til ryggvirvler eller innover for å slette ryggvirvler.
+0x00000031 ~guide: -h2~ Skapningsdelpaletten er på venstre side av skjermen når du går åpner skapningsskaperen. Det er flere delkategorier, munner, sanser, lemmer osv. Velg delkategorifliken du vil se på delene fra.
+0x00000021 ~guide: -h3~ Delpalett
+0x000002D1 ~guide: -bullet~ Hold inne Ctrl-tasten og klikk mellom de to leddene for å fjerne en del (du kan ikke fjerne skulder- eller hoftesegmenter).
+0x00000391 ~guide: -h2~ Summen av skapningens egenskaper kan du se øverst til høyre. Du kan klikke på egenskapsknappene for å se skapningen din bruke egenskapene.
+0x00000311 ~guide: -h2~ Kompleksitetsmåleren måler hvor kompleks anatomien til skapningen din er.
+0x00000461 ~guide: -h2~ Merk: Hvis du åpnet skapningsskaperen ved å klikke på Skap, kan du velge munn og diett til skapningen din.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Byggemodus
+0x00000051 ~guide: -h2~ I  skapningsfasen begynner du med et sett deler basert på det du har gjort som celle. Hver ny del du oppdager og tar med deg blir låst opp i skapningsskaperen. Du kan velge å sette disse delene på skapningen din når den utvikler seg.
+0x000002D2 ~guide: -bullet~ Hold inne Ctrl-tasten og dra et nytt lem bort til leddene på andre lemmer.
+0x00000091 ~guide: -h2~ Du kan fjerne deler og legge deler til skapningen din. Det er bare å klikke på delen du vil fjerne, holde inne venstre museknapp og dra delen av cellen eller trykke på backspace på tastaturet. Du får DNA-poengverdien til delen lagt til i DNA-budsjettet ditt.
+

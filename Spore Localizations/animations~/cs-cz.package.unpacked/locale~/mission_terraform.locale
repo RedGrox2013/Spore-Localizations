@@ -1,0 +1,222 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000002F Na planetu ~mission_source_planet~ byl život přenesen z planety ~mission_target_planet~. Bohužel během katastrofy byly záznamy o planetě ~mission_target_planet~ zničeny - jsme ale přesvědčeni, že se nachází poblíž soustavy ~mission_target_star~.~p~Prosím nalezněte tento svět, získejte kompletní sadu exemplářů jeho sítě života a vraťte se na planetu ~mission_source_planet~.
+0x000000DA Ještě jedna věc…
+0x0000006E Ještě jedna otázka by tu byla…
+0x000000DB Raději bych něco jiného.
+0x00000070 Ještě o jedné věci bychom si rádi promluvili.
+0x000000DF Neradi jsme vás obtěžovali. Nashle.
+0x000000D9 A také…
+0x0000006C Jó. Jasně. To do sebe zapadá. Nashle.
+0x000000DD Tento úkol se mi již nevejde do mého programu.
+0x0000006D Prosím o pochopení.
+0x000000DE Zprosťte mě prosím tohoto úkolu.
+0x000000E0 Na slyšenou.
+0x00000071 Ach, Císařovna bude mít z této zprávy velikou radost!~p~Věděli jste, že její útulek pochází už z doby, kdy ještě Úgí nebyli rozumní a oddělily se od příšerek, ze kterých se později vyvinuly miniaturní Úgí, kterých si naše Císařovna tolik cení? Není to úchvatné?~p~Nicméně. ~group:star_clue~.~p~Jděte, už jděte, na shledanou.
+0x0000006F Můžu se zeptat ještě na něco?
+0x0000001C Kdyby byla planeta ~mission_target_planet~ terraformovaná, byla by výbornou předsunutou vojenskou základnou. Chcete na tuto práci uzavřít smlouvu?
+0x0000001D Zajímáme se o koncept nedestruktivní terraformace. Mohli byste nám předvést ukázku?
+0x00000051 Jasně, jasně. Uvidíme se.
+0x0000001A Naši jasnovidci tvrdí, že duše holé planety ~mission_target_planet~ prahne po obyvatelích, kteří by jí rozuměli a pečovali o ni. Možná by se vám chtělo ji připravit pro naše osídlení?
+0x0000002D Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~.
+0x0000002B Ještě o něčem je potřeba si promluvit.
+0x0000004F Inu, bavilo mě to. Uvidíme se!
+0x0000001F Byly by potřeba ještě nějaké informace.
+0x0000001E Planeta ~mission_target_planet~ je vhodná pro terraformaci. Rádi bychom zjistili, jestli je to ve vašich silách.
+0x0000002C A také…
+0x00000050 Terraformování je vždy uspokojující činnost. Nashle.
+0x00000015 Na soustavě planety ~mission_target_star~ není nic špatného, ale je to jen nudná kolekce planet! Chtěli bychom jí obléci do fungl nágl stylu! Postarali byste se o to pro nás?
+0x00000016 Celá galaxie žasne nad vašimi vědomostmi a mocí. Mohla by se tato ubohá příšerka pokoušet vás poprosit, jestli byste nemohli demonstrovat své terraformovací dovednosti v soustavě hvězdy ~mission_target_star~? Odměna by byla velkolepá.
+0x00000031 Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~, potom nás tady čeká velká oslava!
+0x00000052 No, myslím, že to dovede věci do zdárného konce…
+0x00000032 Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~.~p~~group:star_clue~.
+0x00000014 Nalezli jsme jednu starou, opotřebovanou planetu, kterou bychom rádi předělali. Nechcete nám předvést své dekorační schopnosti?
+0x0000002E Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~. Nechť vám Spod žehná.
+0x00000030 Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~, poté se vraťte.
+0x00000017 Nový svět se již třese na to, že bude zaplněn konzumenty! Ovšem dříve, než budeme moci vážně uvažovat o osídlení, musí být ještě provedena řada úprav. Takové úpravy by byly pro bytost vaší velikosti jistě bezvýznamnou záležitostí…možná by vás nalákala dobrá odměna?
+0x00000024 Spíš hledám nějaký "lehký" prachy.
+0x00000025 To je příliš těžké. Ne, díky.
+0x00000042 STAV MISE: Dokončena; Planeta ~mission_target_planet~ je nyní terraformována na úroveň ~mission_terraform_target_score~.~p~ODMĚNA: ~mission_rewards~ Sporáčů.~p~POCHVALNÉ PROHLÁŠENÍ: Na méněcenný organismus na bázi proteinů jste celkem dobří. Pěkně jste s tím zamávali!
+0x00000028 Udělám, oč žádáte.
+0x00000044 Planeta ~mission_target_planet~ si hoví na výsluní Spodovy slávy. Vezměte si svých ~mission_rewards~ Sporáčů. A před odchodem si ještě vezměte jedny svaté texty.
+0x00000027 Prosím pokračujte. Soustředěně poslouchám.
+0x00000026 Ehm. Tohle opravdu není můj obor.
+0x00000020 Hodilo by se mi, vědět něco bližšího o tom, jak se tam dostanu.
+0x00000029 Ještě jedna otázečka by tu byla…
+0x0000004C Ještě jedna otázka…
+0x0000004E Ještě jedna věc, než poletíme…
+0x0000004D Můžu se zeptat ještě na něco?
+0x0000002A Můžu se zeptat ještě na něco?
+0x0000004A Vedli jste si dobře. Vaše schopnosti si dobře zapamatujeme. Užijte si svých ~mission_rewards~ Sporáčů.
+0x00000023 Ach. Terraformování je otrava. Ne díky.
+0x00000021 Mohli byste mě nějak nasměrovat?
+0x0000004B Mám ještě jednu otázku…
+0x00000022 Jak se tam nejlépe dostat?
+0x00000065 Neříkali jste, že to budě těžké! Končím!
+0x00000038 Jasně. Udělám to. Se mnou můžete počítat.
+0x0000000D Příprava planet pro osidlování naší federací je pro Velkou radu prioritní záležitostí. Jedna vhodná planeta byla před nedávnem nalezena ve hvězdné soustavě ~mission_target_star~. Pomůžete nám tím, že tento svět terraformujete?
+0x00000066 Tohle je drsný. Do toho nejdu.
+0x00000039 Každá planeta je dokonalá taková, jaká je!
+0x00000037 To vypadá, že by to mohla být sradna. Jdu do toho.
+0x00000036 No, nemám zrovna nic lepšího na práci.
+0x0000000E Náš průzkum planety ~mission_target_planet~ napovídá, že tato planeta je pro terraformaci vhodná. Velká rada by tuto planetu ráda nechala ihned osídlit. Pomůžete nám s terraformací planety ~mission_target_planet~?
+0x00000064 Můžu se na něco zeptat?
+0x00000063 Ještě ohledně něčeho jiného…
+0x00000062 Jenom ještě jedna věc…
+0x0000006B Rozumím. Brzy se vrátím.
+0x000000E2 Prosím o pochopení.
+0x0000003C Bohužel musím odmítnout.
+0x000000E1 Vidím, že máte hodně práce. Promluvíme si později.
+0x0000003D To je ta nejlepší zpráva, kterou jsem v celém věku Hrubešů slyšel!~p~Ihned začneme na planetu ~mission_target_planet~ vysílat naše srdečné osadníky. Jejich cesta bude obtížná a budou jí následovat těžkosti při budování tohoto nového světa.~p~Jejich odvážná oběť nám tady dole ulehčí život.~p~Na znamení našich díků přijměte ~mission_rewards~ Sporáčů.
+0x00000068 Ne e. Končím. Sory.
+0x00000067 Pche! To ne!
+0x0000003A Terraformace je nepřirozená!
+0x0000006A Aha! Chápu. Nashle.
+0x00000069 Dobrá. Chápu to. Díky.
+0x0000003B Terraformace je proti přírodě!
+0x0000005A Ve světle soustavy hvězdy ~mission_target_star~ dosud nebyly spatřeny Spodovy úžasné výtvory. Splníte svůj slib, který dokládá váš Záznam misí, a terraformujete tento svět?
+0x00000059 Nedokončili jste svoji práci na planetě ~mission_target_planet~. Nestačí vám na to snad vaše terraformovací schopnosti? Nebo jste snad omylem vymazali potřebná data ze svého Záznamu misí?
+0x00000034 Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~ a poté se vraťte.~p~~group:star_clue~.
+0x00000033 Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~ a poté nám dejte vědět, abychom tam mohli vyslat naše radostné osadníky, kteří s tímto světem budou žít v harmonii.
+0x00000061 Ještě jedna věc, potom půjdu…
+0x00000060 Nejste schopni planetu ~mission_target_planet~ terrafromovat? Máte nějaké potíže se Záznamem misí?
+0x0000005F Mysleli jsme si, že zrovna terraformujete planetu  ~mission_target_planet~. Je tu snad nějaký problém? Nejsou snad ve vašem Záznamu misí všechny potřebné podrobnosti?
+0x0000000F Planeta ~mission_target_planet~ je Velkou radou považována za vhodnou pro terraformaci. Pomůžete nám s naším úkolem osidlování a rozšiřování civilizace?
+0x00000010 Snažíme se o vesmíru zjistit co největší možné množství informací, což samozřejmě zahrnuje i naše sousedy a jejich technologie. Vhodný svět byl nalezen poblíž hvězdy ~mission_target_star~. Nechtěli byste nám předvést malou ukázku svých schopností? Vše by samozřejmě bylo vyrovnáno patřičnou odměnou.
+0x00000011 Byl nalezen svět, který by mohl být po zavedení vhodné ekologie vhodný pro osídlení. Naše vlastní terraformovací jednotky mají plné ruce práce někde jinde. Měli byste o takovou práci zájem?
+0x0000005D Nesouhlasili jste snad s tím, že budete terraformovat planetu ~mission_target_planet~, řekněme, právě touhle dobou? Věřte nám, poflakovače zrovna v lásce nemáme! Podrobnosti naší dohody naleznete ve svém Záznamu misí.
+0x0000005C Navzdory údajům z vašeho Záznamu misí jste evidentně nedokončili terraformaci planety ~mission_target_planet~. Máte dvě volby. Pomůžete nám nebo ne?
+0x0000005B Dosažené terraformovací skóre nesplňuje požadavky mise. Budete v misi v soustavě hvězdy ~mission_target_star~ pokračovat? Nezbytné informace jsou obsaženy ve vašem Záznamu misí.
+0x0000005E Běda, ukázka vašich terraformovacích schopností nebyla úspěšná! Budete svoji misi v soustavě hvězdy ~mission_target_star~ dokončovat? Nebo jste si snad omylem tuto informaci ze svého Záznamu misí vymazali?
+0x00000035 Jasně, proč ne. Udělám to.
+0x000000B8 Odměnu si vyzvedněte v soustavě hvězdy ~mission_source_star~.
+0x0000000A Sám Spod nám dal úkol - zúrodnit holá místa vesmíru. V soustavě hvězdy ~mission_target_star~ jsme nalezli holý svět. Byli byste ochotni, ho osídlit Spodovými nádhernými výtvory?
+0x00000088 Pouhý bezvěrec beztak nemůže vylepšit Spodův výtvor. Sbohem.
+0x00000087 Když ne, tak ne. Sbohem.
+0x000000B7 Planeta se nachází v soustavě hvězdy ~mission_target_star~. Dostupné informace:~p~~group:star_clue~.
+0x00000085 Ach, Císařka bude zuřit a jančit, až se dozví o tomto strašném opovrhování jejími mini-Úgí a jí samotnou! Budeme losovat, kdo jí tuhle nanejvýš neradostnou novinu bude muset sdělit.~p~Snad ne já!
+0x00000082 Ale kámo. Kámo? Káááámó!~p~Nezraňujete tím jenom nás, kámo. Zraňujete FunusCorp a celou její rodinu - všechny naše přidružené organizace, pobočky, regály, pulty a síť motivovaných smluvních partnerů, jako jste ostatně i vy.~p~Nechtěli jsme po vás jen dokončení práce. Ne. Chtěli jsme, abyste se stali součástí rodiny. Rodiny FunusCorp.
+0x00000083 A sakra!~p~Ty brďo. Omluvte, prosím, můj výbuch. Ujišťuji vás, že nic z toho není namířeno na vás. Neubližujte nám, prosím!~p~Nemusíte nám pomáhat při naší obraně před planetární šikanou, která by mohla způsobit vyhlazení našeho druhu, ale prosím nepřilévejte olej do ohně našeho zoufalství tím, že sami spácháte PŠ! Prosím! Poníženě vás prosíme!
+0x000000BD Ano, jistě! Záznam misí. Podívám se do něj!
+0x000000BC Ano, jistě! Záznam misí. Podívám se do něj!
+0x00000084 Grrrrr.~p~Jestli nechcete přijmout placenou práci, tak se ani na žádnou nevyptávejte. Co je to s váma?~p~Pche! My jsme bohatý a mocný! S náma si nezahrávejte. My nejsme organismy, který by se mohly brát na lehkou váhu, jasný?
+0x000000BA Vraťte se na planetu ~mission_source_planet~ v soustavě hvězdy ~mission_source_star~ pro svojí odměnu.
+0x000000D3 ~group:star_clue~.~p~Můžete začít.
+0x00000089 Dobrá tedy. Planetu si pro osídlení připravíme sami. Nashle.
+0x00000090 Můžu se zeptat ještě na něco?
+0x0000008E Tuto neschopnost budeme brát v budoucnu v potaz. Sbohem.
+0x0000008F Ještě jedna otázečka by tu byla…
+0x000000D5 Rozkaz Hrubešů nelze neuposlechnout.
+0x00000091 Ještě o něčem bychom si rádi promluvili.
+0x000000B1 Chceme vyhladit květenu jedné planety. Pomůžete nám?
+0x0000008B To je špatné. Tolik jsme doufali, že tyto komplexní úkoly nebudou tak daleko za hranicemi vašich schopností.
+0x000000D4 Vy to neuděláte? Nic nechápete!
+0x000000B5 Terraformujte planetu ~mission_target_planet~ na T-Skóre ~mission_terraform_target_score~.
+0x0000008D Inu dobrá, zřejmě s tím nic nenaděláte, když nejste v jednotě s přírodou, jako my.
+0x000000B4 Rádi bychom studovali šíření organického života, abychom tomu v případě potřeby mohli předejít. Vy nám s tím pomůžete.
+0x0000008C Budeme se muset spolehnout na naše vlastní ubohé snažení. Možná by vás alespoň zlákalo naše tržiště?
+0x000000CD Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~, poté se vraťte.
+0x00000077 Data naznačují následující: ~group:star_clue~.~p~Budeme se těšit na tuto ukázku vašich schopností.
+0x00000076 Prosím o pochopení.
+0x000000CC Planeta ~mission_target_planet~ se nachází v soustavě hvězdy ~mission_target_star~. Terraformujte tento svět, dokud nedosáhne cílového terraformovacího skóre ~mission_terraform_target_score~, poté se vraťte.
+0x000000D1 V plnění svého úkolu na planetě ~mission_target_planet~ jste nebyli úspěšní. Parametry naleznete ve svém Záznamu misí. Okamžitě se vrátíte k plnění mise.
+0x00000072 A také…
+0x000000D2 Paráda! ~p~~group:star_clue~.~p~Budeme se těšit na návštěvu nové zahrady galaxie!
+0x00000074 ~group:star_clue~.~p~Nechť Spodova svatá práce ihned započne. Kéž Spod osvítí vaši cestu na planetu ~mission_target_planet~.
+0x000000CF Planetě ~mission_target_planet~ byla dodána biosféra, přesně jak jsme požadovali. Chápeme, že biologické druhy budou vyžadovat ~mission_rewards~ Sporáčů.
+0x00000073 ~group:star_clue~.~p~Těšíme se na skvělé výsledky. Věříme vám, že vytvoříte nádherný svět!
+0x000000D0 Dosud čekáme na úspěšnou terraformaci planety ~mission_target_planet~. Specifikace jsou ve vašem Záznamu misí!
+0x0000007A Vy vytvoříte nemovitost, která pro nás bude zlatým dolem! Ihned vyražte na planetu ~mission_target_planet~!
+0x00000008 Planeta ~mission_target_planet~ byla shledána vhodnou pro terraformaci. Naše terraformovací jednotky jsou zrovna nasazené někde jinde, ale říkali jsme si, že byste tuto misi pro nás mohli splnit vy. Nepomohli byste nám rozšířit galaktickou síť života?
+0x0000007F Vše dám okamžitě do pořádku!
+0x00000080 Na mě se můžete spolehnout.
+0x00000006 ZADÁNÍ MISE: Terraformujte planetu ~mission_target_planet~ dokud nedosáhne stanoveného terraformovacího skóre.~p~STANOVENÉ TERRAFORMOVACÍ SKÓRE: ~mission_terraform_target_score~.~p~HVĚZDNÁ SOUSTAVA: Soustava hvězdy ~mission_target_star~.~p~DŮVOD/OSTATNÍ: Ví, co udělala!~p~ODMĚNA: ~mission_rewards~ Sporáčů.~p~DOTAZ: Je pro vás tento úkol něčím zajímavý?
+0x000000BE T-Skóre planety ~mission_target_planet~ bylo vylepšeno. Planetu nyní stabilizujte umístěním rostlin.
+0x0000007E Jedna planeta, na zakázku. Už letím!
+0x000000C8 Hvězda se nazývá ~mission_target_star~
+0x000000C7 Hvězda je od ~mission_clue_landmark1~ vzdálena ~mission_clue_range_min~ až ~mission_clue_range_max~ parseků.
+0x0000007D Budu v mžiku zpět.
+0x0000007C Velmi dobře. Efektivita se počítá.
+0x000000C6 Hvězda je přibližně ~mission_clue_distance~ parseků od ~mission_clue_landmark1~.
+0x00000096 Nic ve zlém. Nashle.
+0x000000A8 Vidím, že potřebujete trochu času. Tak zatím.
+0x00000095 Jo, sory. Se uvidíme.
+0x00000099 Ach vy strašní malí -- !~p~Božíčku! Co jsem to povídal!?! Co jsem to udělal!?!~p~Omluvte, prosím, mojí netaktnost! Zmocnily se mě emoce, ale už jsem zase při smyslech. Slibuji.~p~Jenom, prosím, neubližujte nám! Od bytosti, kterou jsme pověřili ochraňováním nás před ohavnostmi, bychom planetární šikanu nesnesli.
+0x000000A7 Vidím, že máte hodně práce. Promluvíme si později.
+0x000000D7 Chcete, aby byl po vaší smrti proveden nějaký rituál?
+0x000000AB Rádi bychom si znovu prošli detaily mise.
+0x00000092 A také…
+0x000000AC Opakujte požadavek. Mé poznámky jsou nejasné.
+0x00000093 Tahle mise mi prostě nesedne… Sbohem.
+0x000000A9 Potřebuji si zopakovat zadání mise.
+0x00000094 Prostě to nějak necejtim, víš co. Tak zatím.
+0x000000AA Unikly mi podrobnosti o mé misi.
+0x000000A6 Možná jindy. Nashle.
+0x000000A0 Už jste uvažovaly o mozkových implantátech? Mohly by vám pomoci, udržet mysl zaměřenou.
+0x0000009F Vy tuto misi nesplníte? Velká rada o tom bude informována. Sbohem.
+0x000000A3 Vzdáváte to, co? No dobrá, ve vesmíru je mnoho cest.
+0x000000A1 Ten úkol byl nad vaše možnosti? To nás nepřekvapuje.
+0x0000009E Spod si vaší věrolomnost bude pamatovat a Spod neodpouští!
+0x000000A5 Neradi jsme vás obtěžovali. Nashle.
+0x000000D8 Než půjdu, mám ještě pár otázek…
+0x0000009D Mrháte naším časem.
+0x0000009C STAV MISE: Pozastavena; Zrušena smluvní stranou.~p~VYJÁDŘENÍ EXTRÉMNÍ FRUSTRACE: ÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉ! Co budeme dělat!?!~p~DŮVOD/OSTATNÍ: Nevíme, co budeme dělat, ale vy víte, co jste provedli!
+0x000000AD Bohužel musím odmítnout.
+0x000000AE …
+0x000000AF Kdyby měla planeta ~mission_target_planet~ řádnou biosféru, byla by ideálním místem pro založení osady. Můžete nám s tím pomoci?
+0x000000B0 Planeta ~mission_target_planet~ potřebuje terraformovat. Mohli byste se s tím poprat?
+0x000000DC Potřebuji tento úkol odmítnout.
+0x00000012 Planeta ~mission_target_planet~ je vhodná pro terraformaci. Jde o rozsáhlou akci a tak si říkáme, jestli to ~player_creature_name~ zvládne?
+0x00000013 Chtěli bychom vytvořit novou zábavní planetu! Bude to chtít jemné vánky, malebné krajiny, širokou škálu vegetace, ze které se dají připravovat delikátní nápoje a také nějaká zajímavá zvířata. Nechtělo by se vám to pro nás vybudovat?
+0x00000047 Vaše práce na planetě ~mission_target_planet~ byla vzorová! Stane se jistě vyhledávaným místem pro líbánky všech krásných mladých bytostí galaxie! Zde je vašich ~mission_rewards~ Sporáčů... Zdárec!
+0x0000003F *Uf*~p~Jsme vám tak vděční! Rozhodně si plně zasloužíte svoji odměnu - ~mission_rewards~ Sporáčů! Zatímco jste byli pryč, došlo k další PŠ.~p~Tentokrát si naštěstí nevyžádala oběti, což ale nikterak nesnižuje závažnost toho útoku.~p~Konkrétně: Schválně se mě zeptejte, kde je moje spodní prádlo. No, do toho. Odpověď vás překvapí...
+0x00000043 Vytvořili jste rozkošný ekosystém. S radostí vám předáváme ~mission_rewards~ Sporáčů.
+0x00000049 Planeta ~mission_target_planet~ je parádním místem pro liturgické zpěvy, meditaci, klystýr a všechny naše ostatní ezoterické praktiky! Zde, vemte si svých ~mission_rewards~ Sporáčů. Vy pro nás můžete vytvořit nový svět kdykoliv znovu!
+0x00000040 Cha cha cha cha, čéče. Pěkná práce. Tady je tvých ~mission_rewards~ Sporáčů. Velké skupině mocných jedinců jste poskytli nezměrnou službu.~p~Obchodníci by ten svět moc rádi podědili - uvidíme, jak se jim bude líbit, když jim ho necháme - bez všech těch dobrých věcí!!~p~Cha cha cha cha cha cha...
+0x00000007 Jakožto součást naší mise, ve které se snažíme pochopit vzájemnou závislost všech živých bytostí, bychom rádi viděli ukázku vašich terraformovacích dovedností. Mohli byste odcestovat do soustavy hvězdy ~mission_target_star~ a demonstrovat nám tam své znalosti ekometrie?
+0x000000BF Úspěch! Vraťte se do soustavy hvězdy ~mission_source_star~ pro svoji odměnu.
+0x000000B2 Planeta ~mission_target_planet~ potřebuje biosféru. Vy ji dodáte.
+0x000000B3 Rádi bychom poznali vaše terraformovací schopnosti. Planeta ~mission_target_planet~ je pro takovou ukázku vhodná.
+0x000000B6 Dobrá práce! Vraťte se na planetu ~mission_source_planet~.
+0x00000009 Naším úkolem je šířit po galaxii život. Vy nám můžete pomoci tím, že terraformujete planetu ~mission_target_planet~. Měli byste o tento úkol zájem?
+0x0000009A Ale ne! Myslíte si, že od toho můžete jen tak odejít? Proč vy prťaví špinaví…~p~Nemůžete od toho ustoupit! Nikdo nemůže jen tak odejít od jakéhokoliv z našich úkolů - a obzvláště od tohohle ne!~p~Rozmetali bychom vás i vaši mizernou lodičku, ale náš vojenský smluvní partner, Temnovod, má zrovna plné ruce práce s potlačováním rolnického povstání.~p~Tentokrát jste měli štěstí, chuligáni!
+0x00000081 C-C-Cože? Jak jste mohli takhle opustit svůj vlastní druh?~p~Kdybychom bávali byli jednali dříve - možná, když se proměňovaly ledovce? Ne, i to by bylo už pozdě...~p~Možná, když jsme obětovali lesy. Ne ne. Taky už  pozdě.~p~Možná, když jsme defenestrovali ozónovou vrstvu?~p~Ach, to je tak složité přemýšlení. Teď už stejně nemá cenu hledat viníka.
+0x00000079 ~group:star_clue~.~p~Začněte s tím okamžitě! A ať už budete dělat cokoliv, nezapomeňte na vodu!
+0x000000D6 Nechceme kritizovat, ale dneska působíte hodně zmatečně.
+0x0000009B Ach, Císařovnu a její mini-Úgí vaše rozhodnutí pěkně rozčílí.~p~(Haló všichni! Já se hlásím jako první, že jí o tomhle rozhodnutí říkat nebudu.)~p~Císařovna už vedla války kvůli větším malichernostem, než je tohle, ty bídáku!~p~A mini-Úgí by vás roztrhaly na kusy, kdyby se dozvěděly, že musí dál zůstat nacpaní na tom měsíci-kotci.~p~Aťužjsipryč, bídnej zmocněnče.
+0x0000000C Spod nám velí přivést jeho světlo do všech temných zákoutí. To se ovšem docela těžko dělá bez dýchání…mohli byste pro nás tedy terraformovat planetu ~mission_target_planet~, abychom jí mohli použít jako odrazový můstek pro roznášení Spodova světla po galaxii?
+0x0000008A Je to od vašeho druhu odvážné takhle upřímně uznat, že jste neschopní. Sbohem.
+0x00000097 Bylo by to úplně něco jiného, kdybyste ten úkol odmítli v okamžik, kdy byl nabízen, ale teď? To je to samé jako sabotáž!~p~Ztráceli jsme cenný čas v naději, že pro nás něco uděláte.~p~Teď vidíme, že najmout vás bylo asi tak moudré, jako chtít přehlížet to, že se nám ztratila naše Velká bonbónová hora!
+0x00000048 Výměnou za vytvoření tak hodnotné nemovitosti vám nabízíme ~mission_rewards~ Sporáčů. Jakmile se vám to bude hodit, projděte se, prosím, naším obchodem.
+0x00000019 Velmi se zajímáme o duši druhu ~player_creature_name~ a o duši nic nevypovídá lépe, než její výtvory. V soustavě hvězdy ~mission_target_star~ jsme nalezli holou planetu a chtěli bychom po vás, abyste jí terraformovali a tím svoji duši odkryli. Odkryjete pro nás svoji duši?
+0x0000001B Planeta ~mission_target_planet~ je jako čisté plátno čekající na první políbení štětcem! Chcete být malířem?
+0x00000098 Ale ne. Tak to tady ve FunusCorp chodí, kámo.~p~Vy rodinu FunusCorp neopustíte...~p~Protože z rodiny se odejít prostě nedá, blázínku!~p~Ale jestli naši rodinu opustit chcete - Rodinu FunusCorp - potom klidně jděte.~p~Vrátíte se. Uvidíte. FunusCorp vás miluje.
+0x00000045 Velká rada je velmi potěšena vaším úsilím. Přijměte, prosím, tento Záslužný certifikát druhé třídy a ~mission_rewards~ Sporáčů.
+0x00000086 STAV MISE: Pozastavena; Odmítnuta smluvní stranou.~p~VYJÁDŘENÍ NESMÍRNÉ PODRÁŽDĚNOSTI: Kéž si mocná ultramegafauna z planety Trus-2 uleví po svém sto denním flámu přímo na vás a na vaši chabou pidiloď!~p~DŮVOD/OSTATNÍ: Vy víte, co jste provedli!
+0x000000CE Výborná práce, kapitáne! Planeta ~mission_target_planet~ je připravena k osídlení! Vezměte si, prosím, svých ~mission_rewards~ Sporáčů.
+0x00000004 Ti nejbohatší a nejmocnější z nás se rozhodli, že už mají dost tý bandy nebohejch a bezmocnejch nekňubů, který na těch lepších jen parazitujou jak pijavice - padáme odsud! Schválně, co oni na to!~p~Leťte na planetu ~mission_target_planet~. Je v soustavě hvězdy ~mission_target_star~. Změňte terraformovací skóre na ~mission_terraform_target_score~ a připravte tak půdu pro náš přesun.~p~Zaplatíme vám ~mission_rewards~ Sporáčů.
+0x00000003 Strašně moc si na nás na planetární úrovni někdo zasedl a šikanuje nás. Z dlouhodobého hlediska si děláme si starosti o přežití našeho druhu.~p~Potřebujeme od vás, abyste úroveň terraformace planety ~mission_target_planet~ ležící v soustavě hvězdy ~mission_target_star~, přeměnili tak, aby planeta byla námi osídlitelná - tedy na TerraSkóre ~mission_terraform_target_score~.~p~Na čím více planet se rozšíříme, tím spíše nevyhyneme po jedné PŠ - Planetární šikaně.
+0x0000003E Tyjo, to jsou supr-hupr zprávy, kámo!~p~Naše kádě už začínaly být přeplněné. Máme obrovskou úrodu konzumentů připravených k umístění na planetu ~mission_target_planet~!~p~Již zanedlouho začnou nakupovat (s výhradním právem) produkty společnosti FunusCorp . Neexistují potřeby, které by FunusCorp nebyla schopná uspokojit.~p~Což mi připomíná - tady je tvých ~mission_rewards~ Sporáčů, kámo. Skvělá práce!
+0x0000007B ~group:star_clue~.~p~Vezměte si, prosím, tento neviditelný amulet - bude vám svítit na cestu!
+0x00000001 Tady na povrchu už začíná být nějak přecpáno. ~p~Úspěšnost našeho živočišného druhu nám přináší nečekané a překvapující výzvy, které nás nutí řešit naše přežití. Kdo by si to byl pomyslel?~p~Takže potřebujeme, abyste nám pomohli s malým rozšiřováním. Byli bychom rádi, kdybyste terraformovali planetu ~mission_target_planet~ ležící v soustavě hvězdy ~mission_target_star~.~p~Zvyšte úroveň terraformování planety ~mission_target_planet~ na ~mission_terraform_target_score~.~p~Stojí nám to za ~mission_rewards~ Sporáčů, protože je to pro nás velmi důležité.
+0x000000A2 Porušujete naši smlouvu! Ještě o tom uslyšíte od našich právníků!
+0x00000018 Náš filozof Gundrab pojmenoval Tři Potřebnosti: důvěřivý spotřebitel, nacpaná peněženka a nová planeta překypující zdroji, které jen čekají, aby byly zneužity! To zneužívání by bylo podstatně snazší, kdyby ta planeta byla nejprve terraformovaná…možná výměnou za štědrý poplatek...byste tento úkol za nás chtěli provést?
+0x000000A4 Někdy, když musí příšerka čelit vlastní neschopnosti, je moudřejší to prostě vzdát.
+0x00000046 Vaše schopnosti nás mile překvapily. Planeta ~mission_target_planet~ byla přeměněna v ráj, který může nyní náš druh osídlit. Vezměte si, prosím, svých ~mission_rewards~ Sporáčů.
+0x00000005 Věděli jste, že má naše Císařka tu nejrozsáhlejší sbírku krásných trpasličích Úgí celého tohoto koutu galaxie? Je to pravda! No neohromuje vás to? ~p~Už se nevejdou na svůj měsíc-kotec, takže bychom ocenili, kdybyste mohli terraformovat planetu  ~mission_target_planet~ nacházející se v soustavě hvězdy ~mission_target_star~.~p~Úgí naší Císařky jsou velmi specifická, takže vylepšete terraformovací skóre planety alespoň na ~mission_terraform_target_score~.~p~Tato Úgí jsou klenotem našeho impéria, takže vám zaplatíme ~mission_rewards~ Sporáčů.
+0x0000000B Svatí poutníci jsou připraveni osídlit nový svět! Nejprve tu planetu ale musíme pro náš druh připravit…mohli byste to pro Spodovy lidi udělat?
+0x00000075 Těší nás, že na této misi věnované civilizaci, budeme spolupracovat. Vyražte, prosím, ihned na planetu ~mission_target_planet~. ~group:star_clue~.
+0x00000041 Takové báječné zprávy pro naši Císařku! Zasype mě svojí velkorysostí!~p~Tady- vezměte si svých ~mission_rewards~ Sporáčů. Vy máte cenu desetkrát větší! Obrazně řečeno, samozřejmě.~p~Ještě je toho na převoz mini-Úgí na planetu ~mission_target_planet~ potřeba tolik připravit. Obávám se, že vás musím požádat, abyste odjeli.~p~Držte se. Nechť je vaše obloha vždy jasná!
+0x00000002 Kámo, zrovna nám běží parádní projekt. Hele:~p~Pro naší mateřskou organizaci FunusCorp pěstujeme značkové konzumenty.~p~Potřebujeme, abyste terraformovali planetu ~mission_target_planet~ obíhající v soustavě hvězdy ~mission_target_star~.~p~Kdyby se vám podařilo zvýšit úroveň jejího terraformování na ~mission_terraform_target_score~, mohli bychom na ní náš živočišný druh konzumentů vysadit a začít tak vydělávat.~p~Jo a kámo, hodí to ~mission_rewards~ Sporáčů.
+0x00000054 Ale no tak, dejte se do kupy!~p~Ještě pořád musíte terraformovat planetu ~mission_target_planet~. Tady je popis, jak jí zhruba najdete:~p~~group:star_clue~.
+0x000000B9 Terraformace planety ~mission_target_planet~ nacházející se v soustavě hvězdy ~mission_target_star~.~p~Dostupné informace:~p~~group:star_clue~.~p~Použijte své terraformovací nástroje k vylepšení T-Skóre na ~mission_terraform_target_score~ a poté umístěním rostlin stabilizujte tamní životní prostředí.
+0x00000057 Císařovně a jejím mini-Úgí odvádíte medvědí službu, když lelkujete v jejích službách!~p~Odleťte na planetu ~mission_target_planet~, terraformujte ji a tím ji připravte pro mini-Úgí. Takhle se tam dostanete nejrychleji:~p~~group:star_clue~.
+0x00000055 Prosím, prosím, prosím, terraformujte planetu ~mission_target_planet~. Tohle je podle nás ta nejkratší cesta:~p~~group:star_clue~.
+0x00000056 Na co čekáte, co!?! Dostaňte se na planetu ~mission_target_planet~ a terraformujte ji, už!~p~Neumíme moc dobře dávat instrukce, ale tady je pokus:~p~~group:star_clue~.
+0x00000053 Potřebujeme, abyste nám pomohli zmírnit tlak naší narůstající populace tím, že terraformujete planetu ~mission_target_planet~. Tohle vám pomůže, se tam dostat:~p~~group:star_clue~.
+0x00000058 STAV MISE: Probíhá; Smluvní strana vyžaduje asistenci.~p~PŘEHLED MISE: Terrafomovat planetu ~mission_target_planet~.~p~DALŠÍ: ~group:star_clue~.
+

@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~ hat eine Stadt verloren.
+0x35492924 Stadt verloren
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ ist am Ende eine militärische Zivilisation.
+0x060B4242 Militärische Fähigkeit erhalten
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ hat sich weiterentwickelt, aber die ~timelineAbilityName~-Fähigkeit verloren.
+0x550A15C2 ~timelineAbilityName~ verloren
+
+# TRG_MeatGathered
+
+0x05FA01B9 ~timelineSummedCount~ Fleisch gesammelt.
+0x060B4237 ~timelineSummedCount~ Fleisch gesammelt
+0x94F807CA ~timelineSummedCount~ Fleisch gesammelt.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ Jahre
+0x555450A5 ~timelineAbsoluteYears~ Jahre
+
+#### Time Line Title ####
+
+0x0448655A Baue deinen Stamm auf
+0x0448655B Globale Eroberung
+0x0448655E Erforsche das Universum
+0x0448655D Das Weltraumzeitalter
+0x0448655C Erobere die Welt
+0x04486557 Die Evolution des Lebens an Land
+0x04486556 Werde groß genug, um an Land zu gehen
+0x04486555 Schöpfungsgeschichte
+0x04486558 Entwickle Intelligenz
+0x04486559 Morgen der Zivilisation
+0x00000010 Weltraumphase
+0x00000001 Friss, um DNA zu sammeln und zu wachsen
+0x00000011 Erforsche den Himmel und stoße auf Freund wie Feind
+0x0000000F Setze Fahrzeuge ein, um rivalisierende Städte zu erobern, zu konvertieren oder zu kaufen
+0x0000000E Baue Gewürzgeysire ab, um Währung zu verdienen
+0x00000005 Kämpfen, beeindrucken oder plündern
+0x00000006 Sammle DNA und schalte Teile frei
+0x00000013 Kolonisiere & terraforme Planeten
+0x00000007 Paare dich, um dich weiterzuentwickeln
+0x00000002 Besiege Gegner, um Teile freizuschalten
+0x00000012 Erfülle Missionen, um Währung zu verdienen
+0x00000000 Zellenphase
+0x00000004 Kreaturenphase
+0x0000000D Kaufe oder baue im Rathaus Fahrzeuge
+0x0000000B Kaufe Werkzeuge, um die Produktivität zu steigern
+0x0000000C Zivilisationsphase
+0x00000008 Stammesphase
+0x00000009 Erobere oder beeindrucke 5 rivalisierende Stämme
+0x0000000A Jage, angle oder sammle, um Währung zu verdienen
+0x00000003 Füge im Designer Teile hinzu und entwickle dich weiter
+
+# CLG_EatMeat
+
+0x352DBDBB ~timelineMySpeciesName~ hat ~timelineEventCount~ Fleischstücke gefressen.
+0x352DBDBA ~timelineMySpeciesName~ hat ein Fleischstück gefressen.
+0x352DBDB9 ~timelineEventCount~ Fleischstücke gefressen
+0x75580858 Deine Zelle hat ein Fleischstück gefressen.
+0x75580859 Deine Zelle hat ~timelineEventCount~ Fleischstücke gefressen.
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~ hat einen epischen ~timelineTargetOTDBName~ eliminiert.
+0x060B422F Epische Kreatur eliminiert
+
+# SPG_ColonyOnPlanet
+
+0x05FA01CB ~timelineMyEmpireName~ haben mit der Kolonisierung von ~timelinePlanetName~ begonnen.
+0x060B424D Kolonie auf Planet
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ hat sich mit den ~timelineTargetOTDBName~ verbündet.
+0x060B4221 Verbündet
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ hat vom ~timelineTargetEmpireName~-Reich gekauft.
+0x06300C33 Kauf von Sternen
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~ ist ~timelineEventCount~ Mal gestorben.
+0x060B4214 Tod
+0x05FA0196 ~timelineMySpeciesName~ ist gestorben.
+0x75580854 Deine Zelle ist gestorben.
+0x75580855 Deine Zelle ist ~timelineEventCount~ Mal gestorben.
+
+# CVG_CapturedCityEconomic
+
+0x06031AAB ~timelineMyCivName~ hat eine Stadt der ~timelineTargetCivName~ mit wirtschaftlichen Mitteln übernommen.
+0x060B423D Wirtschaftliche Eroberung
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planet zerstört
+0xB54938AD ~timelineMyEmpireName~ hat den Planeten ~timelinePlanetName~ zerstört.
+
+# SPG_EndedWar
+
+0x35493814 Krieg beendet
+0x35493815 ~timelineMyEmpireName~ hat den Krieg mit ~timelineTargetEmpireName~ beendet.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Fleischfresserfähigkeit erhalten
+0x05FA0198 ~timelineMySpeciesName~ hat sich zu einem Fleischfresser entwickelt und kann in der Kreaturenphase nur Fleisch fressen.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Religion Wasser
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ hat ein neues Fahrzeug gebaut: ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA83C Datenarchetypen zufällig auswählen
+0x064AA838 Vektoren zur Neukombinierung entwickeln
+0x064AA839 Metaphyta vertreiben
+0x064AA842 Animationsvarianten berechnen
+0x064AA844 Wirbelsäulen netzförmig anlegen
+0x064AA841 Evolutionsvektoren neu kombinieren
+0x064AA83D Entleert Verdauungssystem
+0x064AA83E Epidermalschichten werden erzeugt
+0x064AA840 Initialisiert Neurales Subsystem
+0x064AA843 Initialisiert Nahrungsverteilung
+0x064AA83B Sortiert Zellenbibliothek
+0x064AA83A Desinfiziert Keimzellen
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Militärisch Land
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Soziale Fähigkeit erhalten
+0x05FA01B3 ~timelineMyTribeName~ hat sich zu einer religiösen Stadt entwickelt.
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~ hat ~timelineEventCount~ Stammesmitglieder eliminiert.
+0xB5303DE6 ~timelineMyTribeName~ hat ein Mitglied der ~timelineTargetTribeName~ eliminiert.
+0xB5303DE5 Stammesmitglied eliminiert
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ hat eine Stadt gegründet!
+0x060B4238 Zivilisationsphase beginnen
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Krieg beendet
+0x9552AA74 ~timelineMyCivName~ ist nicht länger mit ~timelineTargetCivName~ im Krieg.
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~ Eier gesammelt.
+0x555BD5C1 ~timelineSummedCount~ Eier gesammelt.
+0x555BD5C0 ~timelineSummedCount~ Eier gesammelt
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Fahrzeug gebaut
+0x35523EC1 Militärisches Wasserfahrzeug gebaut.
+0x35523EC2 ~timelineEventCount~ militärische Wasserfahrzeuge gebaut.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Fahrzeug gebaut
+0xB5523D44 Wirtschafts-Luftfahrzeug gebaut.
+0xB5523D45 ~timelineEventCount~ Wirtschafts-Luftfahrzeuge gebaut.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ hat ein neues Fahrzeug gebaut: ~timelineTargetOTDBName~.
+0x060B423A Fahrzeug erstellt
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ hat ein neues Gebäude gebaut: ~timelineTargetOTDBName~.
+0x060B4239 Gebäude erstellt
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ ist am Ende eine religiöse Zivilisation.
+0x060B4241 Religiöse Fähigkeit erhalten
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Soziale Fähigkeit erhalten
+0x05FA01A5 Die Spezies ~timelineMySpeciesName~ hat sich zu einer sozialen Rasse entwickelt.
+
+# CVG_AccessorizedCreature
+
+0x05FA01BD ~timelineMyCivName~ hat jetzt neue Kleidung.
+0x060B423B Neues Outfit
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ ist zu den Sternen vorgestoßen.
+0x060B424B Weltraumphase beginnen
+
+# CRG_BefriendedSomething
+
+0x54F7EDA3 ~timelineMySpeciesName~ hat sich mit ~timelineEventCount~ Kreaturen angefreundet.
+0x060B4227 Mit etwas angefreundet
+0x05FA01A9 ~timelineMySpeciesName~ hat sich mit einem ~timelineTargetOTDBName~ angefreundet.
+
+# CRG_Migrated
+
+0x060B421F Neues Nest
+0x05FA01A1 ~timelineMySpeciesName~ hat ein neues Nest besetzt.
+
+# CRG_Death
+
+0x14F7EF6F ~timelineMySpeciesName~ ist ~timelineEventCount~ Mal gestorben.
+0x060B4225 Tod
+0x05FA01A7 ~timelineMySpeciesName~ ist gestorben.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ hat das ~timelinePartName~-Teil entdeckt.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Angriffsfähigkeit erhalten
+0x05FA01B2 ~timelineMyTribeName~ hat sich zu einer militärischen Stadt entwickelt.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ hat ein neues Gebäude entworfen: ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Wirtschaft Land
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Fahrzeug verloren
+0xD4F81D00 ~timelineEventCount~ Wasserfahrzeuge verloren.
+0x05FA01C7 Wasserfahrzeug verloren.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ hat ~timelinePlanetName~ zerstört.
+0x060B4251 Planet zerstört
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Neues Outfit
+0xD5147CA7 ~timelineMyEmpireName~ hat jetzt neue Kleidung.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ hat ~timelineAbilityName~ erfunden.
+
+# TRG_BefriendedTribe
+
+0x060B422D Mit Stamm verbündet
+0x05FA01AF ~timelineMyTribeName~ hat sich mit ~timelineTargetTribeName~ verbündet.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Wirtschaft Luft
+
+# SPG_ColonyPlaced
+
+0x060B425F Kolonie gegründet
+0x05FA01D3 ~timelineMyEmpireName~ hat ~timelinePlanetName~ kolonisiert.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ ist nun mit ~timelineTargetCivName~ im Krieg.
+0x35492926 Krieg entfesselt
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ ist jetzt Weltraum-Barde!
+0x060B4255 Bardenfähigkeit erhalten
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 ~timelineEventCount~ militärische Luftfahrzeuge gebaut.
+0xB5523D41 Militärisches Luftfahrzeug gebaut.
+0xB5523D40 Fahrzeug gebaut
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC T-Level zu Planet hinzugefügt
+0x0627E7AD ~timelinePlanetName~ terraformt.
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Fähigkeit aus gemischtem Verhalten erhalten
+0x05FA01B4 ~timelineMyTribeName~ hat sich zu einer Wirtschaftsstadt entwickelt.
+
+# CRG_PackMemberAdded
+
+0x060B421D Rudelmitglied hinzugefügt
+0x05FA019F ~timelineTargetOTDBName~ wurde deinem Rudel hinzugefügt.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ ist jetzt Weltraum-Wissenschaftler!
+0x060B4259 Wissenschaftlerfähigkeit erhalten
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~ hat ein neues Fahrzeug entworfen: ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x05FA01CC ~timelineMyEmpireName~ hat sich mit ~timelineTargetEmpireName~ verbündet.
+0x060B424E Verbündeten gefunden
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Wirtschafts-Landfahrzeug gebaut.
+0x15523CA3 Fahrzeug gebaut
+0x15523CA5 ~timelineEventCount~ Wirtschafts-Landfahrzeuge gebaut.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Fähigkeit aus gemischtem Verhalten erhalten
+0x05FA01A6 Die Spezies ~timelineMySpeciesName~ hat sich zu einer schnellen Rasse entwickelt.
+
+# CVG_CapturedCityReligious
+
+0x06031AAC ~timelineMyCivName~ hat eine Stadt der ~timelineTargetCivName~ mit religiösen Mitteln übernommen.
+0x060B423E Religiöse Eroberung
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Angriffsfähigkeit erhalten
+0x05FA01A4 Die Spezies ~timelineMySpeciesName~ hat sich zu einer starken Rasse entwickelt.
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~ hat ~timelineSuperPowerName~ eingesetzt.
+0x060B4244 Superwaffe eingesetzt
+
+# CVG_EpicKilled
+
+0x3552A304 Epische Kreatur besiegt
+0x3552A305 ~timelineMyCivName~ hat einen epischen ~timelineTargetOTDBName~ eliminiert.
+
+# CRG_KilledSomething
+
+0xF4F7EE4B ~timelineMySpeciesName~ hat ~timelineEventCount~ Kreaturen eliminiert.
+0x05FA01A8 ~timelineMySpeciesName~ hat einen ~timelineTargetOTDBName~ eliminiert.
+0x060B4226 Etwas eliminiert
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~ hat ~timelineEventCount~ Gewürzgeysire erobert.
+0x05FA01C1 ~timelineMyCivName~ hat einen Gewürzgeysir erobert.
+0x060B4243 Gewürzstock erobert.
+
+# CVG_LostCityByMilitary
+
+0x35492920 Stadt verloren
+0x35492921 ~timelineMyCivName~ hat eine Stadt verloren.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ hat ~timelineTargetOTDBName~ besiegt.
+0x060B4220 Ausgestorben
+
+# CRG_PackMemberDied
+
+0x060B421E Rudelmitglied gestorben
+0x05FA01A0 ~timelineMySpeciesName~ hat ein Rudelmitglied verloren.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ ist jetzt Weltraum-Schamane!
+0x060B425A Schamanenfähigkeit erhalten
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Fahrzeug gebaut
+0x05FA01C3 Landfahrzeug gebaut.
+0xB4F817E5 ~timelineEventCount~ Landfahrzeuge gebaut.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Fahrzeug verloren
+0x54F81C70 ~timelineEventCount~ Landfahrzeuge verloren.
+0x05FA01C6 Landfahrzeug verloren.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA850 Imitatoren-MIP-Maps dimensionieren
+0x064AA852 Dopplereffekt-Manager initialisieren
+0x064AA856 Loopbox-Partikel ausdehnen
+0x064AA853 Technologische Faktoren verbreiten
+0x064AA854 Urbane Dynamik anpassen
+0x064AA857 Mimetische Überleitung initialisiert
+0x064AA900 Befruchtet Viraldaten
+0x064AA855 Komponiert Umgebungsmelodien
+0x064AA851 Bevölkert kontinentale Subsysteme
+0x064AA84F Prüft Kohlenwasserstoffvorräte
+0x064AA84E Stabilisiert geostatische Grenzen
+
+# SPG_CGQuasar
+
+0x060B4254 CQ Quasar
+0x05FA01D2 ~timelineMyEmpireName~ hat Erleuchtung erfahren.
+
+# CRG_EvolveInEditor
+
+0x05FA019D ~timelineMySpeciesName~ hat sich weiterentwickelt.
+0x060B421B Generation ~timelineGenerationCount~
+
+# CVG_AirVehicleLost
+
+0x060B424A Fahrzeug verloren
+0xF4F81D2C ~timelineEventCount~ Luftfahrzeuge verloren.
+0x05FA01C8 Luftfahrzeug verloren.
+
+# SPG_CapturedStare
+
+0x05FA01CE ~timelineMyEmpireName~ wurde von ~timelineTargetEmpireName~ erobert.
+0x060B4250 Stern erobern
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Religion Land
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~ verloren.
+0x060B4263 Spielerraumschiff zerstört
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ ist jetzt Weltraum-Ritter!
+0x060B4258 Ritterfähigkeit erhalten
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ hat sich weiterentwickelt und die ~timelineAbilityName~-Fähigkeit erhalten.
+0x550A15C0 ~timelineAbilityName~ erhalten
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 ~timelineTargetEmpireName~-Reich entdeckt.
+0x060B4264 Begegnung mit Reich
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~ hat ~timelineTargetTribeName~ ein Geschenk überreicht.
+0xB5303DE4 ~timelineMyTribeName~ hat ~timelineEventCount~ Geschenke überreicht.
+0xB5303DE2 Geschenk überreicht
+
+# CVG_TradeRouteStarted
+
+0x3549292A Handelsroute eingerichtet
+0x3549292B Handelsroute mit der ~timelineTargetCivName~ eingerichtet.
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~ hat ein neues Raumschiff gebaut.
+0x060B424C Raumschiff bearbeitet
+
+# CLG_DiscoverPart
+
+0x060B4211 Teil entdecken
+0x05FA0193 ~timelineMySpeciesName~ hat das ~timelinePartName~-Teil entdeckt.
+0x75580853 ~timelinePartName~-Teil entdeckt.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ ist jetzt Weltraum-Krieger!
+0x060B425D Kriegerfähigkeit erhalten
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Fahrzeug gebaut
+0x94F819B5 ~timelineEventCount~ Wasserfahrzeuge gebaut.
+0x05FA01C4 Wasserfahrzeug gebaut.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ hat ~timelineTargetCivName~ besiegt.
+0x35492928 Krieg beendet
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ ist jetzt Weltraum-Wanderer!
+0x060B425C Wandererfähigkeit erhalten
+
+# TRG_UnlockedTool
+
+0xD537EA55 ~timelineAbilityName~ freigeschaltet
+0xD537EA56 ~timelineAbilityName~ freigeschaltet.
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ ist jetzt Weltraum-Ökologe!
+0x060B4257 Ökologenfähigkeit erhalten
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Neues Haustier ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ hält nun ~timelineTargetOTDBName~ als Haustier.
+
+# SPG_UFODestroyed
+
+0x060B4260 Raumschiff zerstört
+0x356A2D21 ~timelineEventCount~ Raumschiffe zerstört.
+0x05FA01D4 ~timelineTargetEmpireName~ Raumschiff zerstört.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Wirtschaft Wasser
+
+# TRG_TribeMemberDied
+
+0xD4F7FE0D ~timelineMyTribeName~ hat ~timelineEventCount~ Stammesmitglieder verloren.
+0x060B4234 Stammesmitglied gestorben
+0x05FA01B6 ~timelineMyTribeName~ hat ein Stammesmitglied verloren.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Militärisch Luft
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 ~timelineEventCount~ militärische Landfahrzeuge gebaut.
+0x15523CA1 Militärisches Landfahrzeug gebaut.
+0x15523CA0 Fahrzeug gebaut
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ ist jetzt Weltraum-Händler!
+0x060B425B Händlerfähigkeit erhalten
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 Erste Begegnung mit den Grox
+0x05FA01D0 ~timelineMyEmpireName~ ist auf die Grox getroffen.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 ~timelineEventCount~ religiöse Landfahrzeuge gebaut.
+0x15523CA7 Religiöses Landfahrzeug gebaut.
+0x15523CA6 Fahrzeug gebaut
+
+# TRG_ConqueredTribe
+
+0x060B422C Stamm ausgerottet
+0x05FA01AE ~timelineMyTribeName~ hat ~timelineTargetTribeName~ erobert.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Entropische Rekalibrierung
+0x064AA90C Karte des imperialen Einflusses berechnet
+0x064AA908 Singularitäten beschleunigt
+0x064AA90A Galaktisches Drehmoment zurückgesetzt
+0x064AA907 Galaktische Polyphonie erstellt
+0x064AA902 Masse konserviert
+0x064AA904 Gravitationskonstante angepasst
+0x064AA901 Higgs-Feld wird aufgehoben
+0x064AA906 Protoplanetare Systeme aktiviert
+0x064AA905 Strahlnebel wird aufgeladen
+0x064AA909 Quasar-Rotverschiebung wird ausbalanciert
+0x064AA903 Lokaler Subraum wird gedehnt
+
+# TRG_AccessorizedCreature
+
+0x060B422A Neues Outfit
+0x05FA01AC ~timelineMyTribeName~ hat jetzt neue Kleidung.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ hat sich weiterentwickelt.
+0x060B4212 Generation ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x060B421C Verbesserung des Gehirns
+0x05FA019E ~timelineMySpeciesName~ hat jetzt ein größeres Gehirn.
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ ist jetzt Weltraum-Diplomat!
+0x060B4256 Diplomatenfähigkeit erhalten
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 ~timelineSummedCount~ Spore-Dollars durch Handelsrouten eingenommen.
+0x7552A857 Durch Handelsrouten eingenommenes Geld
+0x7552A858 ~timelineSummedCount~ Spore-Dollars durch Handelsrouten eingenommen.
+
+# CLG_KilledSomething
+
+0x7558085A Deine Zelle hat einen ~timelineTargetOTDBName~ vernichtet.
+0x7558085B Deine Zelle hat ~timelineEventCount~ Zellen vernichtet.
+0xF4F7C380 ~timelineMySpeciesName~ hat ~timelineEventCount~ Zellen eliminiert.
+0x05FA019B ~timelineMySpeciesName~ hat einen ~timelineTargetOTDBName~ eliminiert.
+0x060B4219 Etwas eliminiert
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Allesfresserfähigkeit erhalten
+0x05FA0199 ~timelineMySpeciesName~ hat sich zu einem Allesfresser entwickelt und kann in der Kreaturenphase Früchte oder Fleisch fressen.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84C Phasenverschiebende Paradigmen
+0x064AA845 Filtert Soziale Beschränkungen
+0x064AA84B Ethnografische Probenentnahme wird vorbereitet
+0x064AA84A Gesichtsglättung initialisiert
+0x064AA848 Strukturiert Sprachsysteme
+0x064AA847 Animationen werden poliert
+0x064AA846 Entwickelt kulturelle Abstraktionen
+0x064AA849 Erkenntnistheoretisches Bezugssystem werden eingearbeitet
+0x064AA84D Denkfähigkeit wird optimiert
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x060B425E Zelotenfähigkeit erhalten
+0x06031C15 ~timelineMyEmpireName~ ist jetzt Weltraum-Zelot!
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 ~timelineSummedCount~ Seetang gesammelt.
+0x555BD5C3 ~timelineSummedCount~ Seetang gesammelt
+0x555BD5C4 ~timelineSummedCount~ Seetang gesammelt.
+
+# SPG_SpiceTraded
+
+0x060B4261 Gewürz gehandelt
+0x55564EC3 ~timelineSummedCount~ Gewürz gehandelt.
+0x05FA01D5 ~timelineSummedCount~ Gewürz gehandelt.
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~ hat eine Meister-Plakette erhalten.
+0x060B4253 Meister-Plakette erhalten
+
+# CLG_GameStart
+
+0x060B4210 Generation ~timelineGenerationCount~
+0x05FA0192 Aus dem Meteoriten gekrochen.
+
+# CVG_EpicCharmed
+
+0x3552A306 Epische Kreatur bezaubert
+0x3552A307 ~timelineMyCivName~ hat einen epischen ~timelineTargetOTDBName~ bezaubert.
+
+# CVG_CapturedCityMilitary
+
+0x06031AAA ~timelineMyCivName~ hat eine Stadt der ~timelineTargetCivName~ mit militärischen Mitteln übernommen.
+0x060B423C Militärische Eroberung
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ hat ~timelineEventCount~ Gewürzgeysire verloren.
+0xD54932C1 ~timelineMyCivName~ hat einen Gewürzgeysir verloren.
+0xD54932C0 Gewürzstock verloren
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 ~timelineEventCount~ Wirtschafts-Wasserfahrzeuge gebaut.
+0x35523EC3 Fahrzeug gebaut
+0x35523EC4 Wirtschafts-Wasserfahrzeug gebaut.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ hat Land betreten und die Reise zu einem Bewusstsein begonnen.
+0x060B421A Generation ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 ~timelineEventCount~ Pflanzen gefressen
+0x352DBDB7 ~timelineMySpeciesName~ hat eine Pflanze gefressen.
+0x75580856 Deine Zelle hat eine Pflanze gefressen.
+0x75580857 Deine Zelle hat ~timelineEventCount~ Pflanzenschoten gefressen.
+0x352DBDB8 ~timelineMySpeciesName~ hat ~timelineEventCount~ Pflanzenschoten gefressen.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ hat einen Stamm gegründet.
+0x060B4229 Stammesphase beginnen
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~ ist nun mit ~timelineTargetEmpireName~ im Krieg.
+0x060B424F Krieg begonnen
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Militärisch Wasser
+
+# TRG_TribeMemberBorn
+
+0xD4F81307 ~timelineEventCount~ Babys wurden bei den ~timelineMyTribeName~ geboren.
+0x060B4233 Stammesmitglied geboren
+0x05FA01B5 ~timelineMyTribeName~ hat ein neues Baby.
+
+# SPG_RareFound
+
+0x05FA01D6 Etwas Seltenes gefunden: ~timelineRareName~
+0x060B4262 Etwas Seltenes gefunden
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Fahrzeug gebaut
+0x34F81C5A ~timelineEventCount~ Luftfahrzeuge gebaut.
+0x05FA01C5 Luftfahrzeug gebaut.
+
+# TRG_FruitGathered
+
+0x060B4235 ~timelineSummedCount~ Früchte gesammelt
+0x94F804D9 ~timelineSummedCount~ Früchte gesammelt.
+0x05FA01B7 ~timelineSummedCount~ Frucht gesammelt.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ ist am Ende eine Wirtschaftszivilisation.
+0x060B4240 Wirtschaftsfähigkeit erhalten
+
+# TRG_FishGathered
+
+0x54F8079A ~timelineSummedCount~ Fische gesammelt.
+0x060B4236 ~timelineSummedCount~ Fische gesammelt
+0x05FA01B8 ~timelineSummedCount~ Fisch gesammelt.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 ~timelineEventCount~ religiöse Wasserfahrzeuge gebaut.
+0x35523EC6 Fahrzeug gebaut
+0x35523EC7 Religiöses Wasserfahrzeug gebaut.
+
+# CVG_TradeCompleted
+
+0x3549292C Handel abgeschlossen
+0x3549292D ~timelineMyCivName~ hat Handel in Höhe von ~timelineSummedCount~ Spore-Dollars abgeschlossen.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Religiöses Luftfahrzeug gebaut.
+0xB5523D48 ~timelineEventCount~ religiöse Luftfahrzeuge gebaut.
+0xB5523D46 Fahrzeug gebaut
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Religion Luft
+
+# CVG_GiftGiven
+
+0xD54932C3 Geld bezahlt
+0xD54932C4 ~timelineMyCivName~ hat ~timelineSummedCount~ Spore-Dollars bezahlt.
+0xD54932C5 ~timelineMyCivName~ hat ~timelineSummedCount~ Spore-Dollars bezahlt.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Pflanzenfresserfähigkeit erhalten
+0x05FA0197 ~timelineMySpeciesName~ hat sich zu einem Pflanzenfresser entwickelt und kann in der Kreaturenphase nur Früchte fressen.
+

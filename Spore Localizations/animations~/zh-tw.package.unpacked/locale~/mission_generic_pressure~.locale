@@ -1,0 +1,18 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000013 通話完畢
+0x0000000A 船長，很抱歉，我們必須通知你，<~mission_target_planet~>上的居民正在罷工，拒絕生產更多的香料。此外，他們還威脅要把目前庫存的香料分配給太空計畫的部分重新配置，做更多整地的研究。~p~看來他們已經很久沒看到你，對太空計畫帶給他們的獲利已經失去信心。我相信你的拜訪將是鼓舞他們的關鍵。~p~我們希望在香料被重新分配前很快就可以看到你。~p~向<~mission_target_planet~>出發。
+0x00000002 在<~mission_target_star~>星系中的<~mission_target_planet~>上，居民正在罷工，拒絕生產更多的香料。此外，他們還威脅要把重新配置太空計畫的香料，挪做更多整地的研究。~p~看來他們已經很久沒看到你，對太空計畫帶給他們的獲利已經失去信心。你簡單的拜訪可以鼓舞他們。~p~把一次行程設定到<~mission_target_planet~>。~p~記住，定期的去拜訪你的殖民地，否則，他們會中斷對你銀河探險的貢獻。
+0x00000001 <~mission_target_planet~>的居住地已經開始恢復他們的香料計畫。
+0x00000004 <~mission_target_planet~>的工人在罷工。
+0x00000007 財務破產！<~mission_target_planet~>上的香料重新分配。
+0x00000005 成功！<~mission_target_planet~>上的工人開始回去工作，香料的生產也重新開始。~p~記住，定期的去拜訪你的殖民地，否則，他們會中斷對你銀河探險的貢獻。
+0x00000006 停止香料生產！因為忽視， <~mission_target_planet~>的居民開始罷工！
+0x00000009 成功！<~mission_target_planet~>上的工人開始生產香料計畫。
+0x00000090 香料生產現在停止，面臨重新分配的風險。馬上起身到<~mission_target_star~>星系。
+0x00000091 成功！香料生產繼續。
+

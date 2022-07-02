@@ -1,0 +1,40 @@
+﻿0x00000041 ~guide: -h3~ Blokkategorier
+0x00000081 ~guide: -h2~ Hvis du vil velge en blokk som er på bygningen din, klikker du på den til den er markert i blått.
+0x00000031 ~guide: -h2~ I byggemodus er blokkpaletten åpen på venstre side av bygningsskaperskjermen.
+0x00000101 ~guide: -h1~ Redigere blokker
+0x00000111 ~guide: -h3~ Redigere blokker med hendler
+0x00000131 ~guide: -bullet~ Velg blokken du vil redigere ved å klikke på den. Når den er valgt, blir den markert i blått.
+0x00000121 ~guide: -h2~ Når du har lagt en blokk til bygningen, kan du redigere den ved å bruke redigeringshendlene.
+0x000001A1 ~guide: -h3~ Blokkbudsjettet
+0x000001C1 ~guide: -h2~ Hver blokk du setter på bygningen din koster blokkpoeng. Når du har sluppet opp for poeng å bruke, kan du ikke legge til flere blokker.
+0x000001D1 ~guide: -h3~ Kompleksitetsmåler
+0x00000051 ~guide: -h2~ Langs toppen av blokkpaletten har du blokkategorier du kan velge fra. Strukturdeler, tak, sammenkoblinger, dører, vinduer, funksjonsdeler og detaljer. Du velger blokkategorien du vil bruke ved å klikke på den tilhørende fliken.
+0x00000191 ~guide: -h1~ Kompleksitet og budsjett
+0x000000A1 ~guide: -bullet~ Hvis du plasserer to blokker sammen på plattformen, vil de gli inn i hverandre automatisk når du fører dem sammen.
+0x00000091 ~guide: -h3~ Stable eller krysse tak- og kroppsdeler
+0x00000021 ~guide: -h1~ Blokkpaletten
+0x00000071 ~guide: -h2~ Du velger en blokk ved å klikke på den i blokkpaletten og dra den fra paletten til plattformen eller bygningen.
+0x000000E1 ~guide: -h3~ Diameter og høyde på bygninger
+0x000000D1 ~guide: -h2~ Du kan plassere en blokk hvor du vil på bygningen. Vinduer, dører og detaljer flyttes automatisk til passende steder. Du merker at de smetter på plass når du drar blokkene bort til bygningen.
+0x00000061 ~guide: -h3~ Velge og legge til blokker
+0x000000C1 ~guide: -h3~ Flytt til
+0x000000B1 ~guide: -bullet~ Hvis du plasserer en blokk rett over en annen, stables blokkene oppå hverandre.
+0x000000F1 ~guide: -h2~ Det er grenser for hvor brede og høye bygningene dine kan være. Hvis du går utover disse grensene når du plasserer en blokk, vil ikke blokken feste seg. Den blir markert rød. Du må ikke betale for blokker som ikke kan plasseres.
+0x00000141 ~guide: -h4~ Blokkhendlene:
+0x00000151 ~guide: -bullet~ Justeringspiler: Endre høyde, bredde, lengde eller krumming på en blokk. Bare dra og se hva den gjør.
+0x00000201 ~guide: -h1~ Avanserte funksjoner
+0x00000161 ~guide: -bullet~ Rotasjonsring: Endrer retningen på blokkene.
+0x00000251 ~guide: -h3~ Retningsplassering
+0x000001B1 ~guide: -h2~ Blokkbudsjettet ditt vises nederst i venstre hjørne i bygningsskaperen.
+0x00000241 ~guide: -bullet~ Hvis du vil kopiere en del du allerede har på bygningen, kan du klikke på delen mens du holder inne Alt-tasten på tastaturet og dra kopien til et annet sted på bygningen.
+0x00000221 ~guide: -bullet~ Holde inne Tab-tasten mens du velger en blokk på bygningen. Hendlene gir deg større kontroll over plasseringen av hver del.
+0x000000F2 ~guide: -h3~ Fjerne blokker
+0x000001F1 ~guide: -h2~ Kompleksitetsmåleren måler hvor kompleks bygningen din er. Hvis bygningen blir for kompleks, kan du ikke legge til flere blokker.
+0x00000211 ~guide: -h3~ Avanserte delhendler
+0x00000261 ~guide: -bullet~ Hvis du vil bevege en blokk opp og ned (jada, de kan til og med sveve i luften!), holder du inne Ctrl-tasten mens du velger en blokk. Fortsett å holde Ctrl inne mens du flytter blokken med musen.
+0x00000231 ~guide: -h3~ Kopiere deler
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Byggemodus
+0x000000F3 ~guide: -h2~ Du fjerner en blokk ved å velge den og trykke enten på Delete- eller backspace-tasten på tastaturet. Alternativt kan du klikke og dra blokken av bygningen eller plattformen.
+0x00000271 ~guide: -bullet~ Hvis du vil flytte en blokk til venstre og høyre uten å justere høyden, holder du inne Shift-tasten når du velger en blokk og fortsetter å holde inne Skift mens du flytter blokken med musen.
+0x000001E1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+

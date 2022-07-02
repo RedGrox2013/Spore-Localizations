@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000000 ~id_color_name~ Vesnice
+0x00000001 ~id_color_name~ Národ
+0x00000003 ~id_color_name~ Vesničan
+0x00000009 Zábavní budova
+0x0000000A Věž
+0x0000000B Město druhu ~species_name~
+0x0000000C Kolonie druhu ~species_name~
+0x00000006 ~id_color_name~ Radnice
+0x00000002 ~species_name~ Impérium
+0x00000004 ~id_color_name~ Obyvatel
+0x00000010 Obyvatel druhu ~species_name~
+0x00000007 Dům
+0x0000000F Vesničan druhu ~species_name~
+0x00000008 Továrna
+0x0000000E Vesnice druhu ~species_name~
+0x00000011 Kolonialista druhu ~species_name~
+0x0000000D Národ druhu ~species_name~
+0x00000005 ~id_color_name~ ~species_name~ Kolonialista
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCF2 Neutrální
+0x053DBCF1 Hráč
+0x053DBCF4 Růžová
+0x053DBCF3 Hnědá
+0x053DBCF5 Modrozelená
+0x053DBCF6 Zelená
+0x053DBCF7 Levandulová
+0x053DBCFD Karmínová
+0x053DBCFE Purpurová
+0x053DBCFC Zelená
+0x053DBCF9 Žlutá
+0x053DBCF8 Oranžová
+0x053DBCFA Červená
+0x053DBCFB Modrá
+

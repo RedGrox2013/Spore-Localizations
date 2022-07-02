@@ -1,0 +1,129 @@
+﻿# 0x000000f9 ~guide: -h4~ Camera Pan
+# 0x00000181 ~guide: -bullet~ Hold down the right mouse button or press the arrow keys to pan the camera.
+
+0x000005D1 ~guide: -h1~ Muzyka imperium
+0x000005E1 ~guide: -h2~ Muzyka Twojego imperium składa się z kilku elementów: rytmu, motywu (melodii oraz instrumentu) oraz muzycznego tła planety. Możesz wybrać rytm i główny instrument, ustawić indywidualne poziomy głośności tych elementów, a także stworzyć własną melodię w kompozytorze.
+0x000005F1 ~guide: -h2~ Podbite, nawrócone lub wykupione przez Ciebie kolonie przyjmą muzykę Twojego imperium. Ta muzyka reprezentuje aspekt Twojego imperium.
+0x00000601 ~guide: -h3~ Rytm kolonii
+0x00000651 ~guide: -h3~ Instrumenty
+0x00000671 ~guide: -h3~ Melodia
+0x00000641 ~guide: -h2~ Hymn składa się z sekcji instrumentów oraz melodii.
+0x00000611 ~guide: -h2~ Kliknij przycisk — każdy reprezentuje inną ścieżkę rytmiczną. Posłuchaj przez kilka chwil, gdyż ścieżka zmienia się z czasem. Jeśli chcesz wyizolować sam rytm, po prostu wycisz pozostałe elementy muzyki. Gdy uzyskasz zadowalający rytm, przejdź do następnego elementu hymnu.
+0x00000621 ~guide: -h2~ Możesz także wyłączyć rytm, klikając przycisk wybranego rytmu.
+0x00000631 ~guide: -h3~ Hymn
+0x00000501 ~guide: -h3~ Istnieją trzy typy pojazdów:
+0x00000511 ~guide: -bullet~ Lądowe
+0x00000521 ~guide: -bullet~ Pływające
+0x000004F1 ~guide: -h2~ Kliknij zakładkę „Pojazdy”, aby otworzyć panel pojazdów.
+0x000004D1 ~guide: -bullet~ Zniszczone budynki — zniszczone budynki zostaną z czasem usunięte, jednak możesz zawsze kupić nowy budynek i po prostu umieścić go na gruzach. W ten sposób dużo szybciej wymienisz uszkodzone budynki.
+0x000004E1 ~guide: -h1~ Tworzenie pojazdów
+0x00000571 ~guide: -h1~ Ozdoby kolonii
+0x00000581 ~guide: -h2~ To czysto dekoracyjne elementy, które możesz dodawać do swojej kolonii.
+0x00000531 ~guide: -bullet~ Latające
+0x00000541 ~guide: -bullet~ W planiście kolonii możesz także udoskonalić swój środek transportu. Kliknij ikonę statku kosmicznego, aby go zmodyfikować.
+0x000007B1 ~guide: -h3~ Losowo
+0x000007C1 ~guide: -h2~ Dla zaoszczędzenia czasu, albo gdy chcesz poeksperymentować, kliknij przycisk „Losowo” widoczny na dole kompozytora muzyki miasta.
+0x000007A1 ~guide: -h2~ Gdy skończysz komponowanie muzyki swojego imperium, będziesz mieć możliwość jej zapisania. W tym celu kliknij przycisk „Zapisz” i wpisz nazwę oraz opis swojego dzieła w wyświetlonym oknie. Swoje kompozycje znajdziesz na karcie „Muzyka” w Sporpedii.
+0x00000791 ~guide: -h3~ Zapisz
+0x000007D1 ~guide: -h1~ Stylista kolonii
+0x000006C1 ~guide: -bullet~ Aby wydłużyć lub skrócić czas odtwarzania danej nuty, wskaż ją myszą i użyj kółka myszy lub klawiszy strzałek w górę i w dół.
+0x000006D1 ~guide: -bullet~ Aby usunąć nutę z melodii, przeciągnij ją poza sekcję kompozytora.
+0x000006E1 ~guide: -bullet~ Skomponowaną melodię możesz odtworzyć w dowolnej chwili, klikając tło sekcji kompozytora.
+0x000006B1 ~guide: -bullet~ Po umieszczeniu nut w melodii można zmieniać wysokość dźwięków, przeciągając nuty w górę lub w dół, a także ich kolejność, przeciągając je w lewo lub w prawo.
+0x00000681 ~guide: -h2~ Własną melodię można skomponować na kilka sposobów.
+0x00000691 ~guide: -bullet~ Kliknij kostkę w sekcji kompozytora, aby wygenerować losową melodię.
+0x000006A1 ~guide: -bullet~ Aby dodać lub usunąć nutę, kliknij odpowiedni przycisk widoczny w lewym dolnym rogu ekranu.
+0x000006F1 ~guide: -bullet~ Aby włączyć lub wyłączyć automatyczne odtwarzanie melodii, kliknij przycisk autoodtwarzania.
+0x00000741 ~guide: -h3~ Wczytaj
+0x00000761 ~guide: -h3~ Udostępnianie muzyki
+0x00000731 ~guide: -h2~ Aby cofnąć lub powtórzyć serię ostatnich czynności, kliknij jeden z tych przycisków.
+0x00000701 ~guide: -h3~ Tło
+0x00000711 ~guide: -h2~ Tło muzyczne słyszalne jest na całej planecie, nawet gdy oddalasz widok do kosmosu. Gdy zbliżysz się do planety innego imperium, usłyszysz także jego muzykę. Aby wybrać tło muzyczne, kliknij do czterech przycisków warstw tła. Możesz włączyć dowolną kombinację tych przycisków.
+0x00000721 ~guide: -h3~ Cofnij i powtórz
+0x000004B1 ~guide: -h3~ Uszkodzenia i zniszczone budynki
+0x000002F1 ~guide: -bullet~ Wieżyczki — wieżyczki zapewniają kolonii obronę. Będą automatycznie reagować na wszelkie zagrożenia, chyba że zostaną uszkodzone w stopniu uniemożliwiającym działanie.
+0x000002E1 ~guide: -bullet~ Zakłady pracy
+0x000002B1 ~guide: -bullet~ Ratusz — każda kolonia może mieć tylko jeden ratusz. Kolonie na każdej planecie budowane są w tym samym stylu co ratusz.
+0x000002D1 ~guide: -bullet~ Rozrywka
+0x00000301 ~guide: -h3~ Twój ratusz
+0x00000321 ~guide: -h3~ Kupowanie budynków
+0x00000331 ~guide: -h2~ Aby kupić dowolny typ budynku do Twojej kolonii:
+0x00000231 ~guide: -bullet~ Populacja
+0x00000241 ~guide: -bullet~ Zadowolenie — niezadowoleni mieszkańcy pracują mniej wydajnie
+0x000001C1 ~guide: -bullet~ Dane Twojego imperium są wyświetlone wzdłuż górnego paska planisty kolonii.
+0x00000201 ~guide: -h3~ Informator kolonialny
+0x00000211 ~guide: -h2~ Informator kolonialny odwiedzanej kolonii znajduje się w prawym górnym rogu ekranu planisty kolonii, pod informatorem imperialnym.
+0x00000221 ~guide: -bullet~ Nazwa i kolor identyfikujący kolonii
+0x000001B1 ~guide: -h3~ Informator imperialny
+0x00000291 ~guide: -h1~ Tworzenie, kupowanie i umieszczanie budynków
+0x000002A1 ~guide: -h3~ Jest pięć typów budynków, które możesz wykorzystywać w swojej kolonii:
+0x00000281 ~guide: -h2~ Twoja kolonia nie może pozostać nienazwana! Kliknij przycisk „Nazwij swoją kolonię” i wpisz nazwę w polu opisu.
+0x00000251 ~guide: -bullet~ Dochód w jednostkach przyprawy na minutę
+0x00000261 ~guide: -bullet~ Obrona — im więcej masz wieżyczek, tym silniejszy jest Twój system obronny.
+0x00000271 ~guide: -h3~ Nazwij i opisz swoją kolonię
+0x00000431 ~guide: -bullet~ Budynki rozrywkowe umieszczane w pobliżu domostw zwiększają zadowolenie mieszkańców kolonii — niezadowolone kolonie wytwarzają mniejszy dochód i mogą się buntować.
+0x00000401 ~guide: -h3~ Połączenia budynków
+0x000003E1 ~guide: -h1~ Układ kolonii
+0x000003F1 ~guide: -h2~ Zbudowanie prosperującej kolonii wymaga ustawiania różnych typów budynków w odpowiednich miejscach.
+0x00000441 ~guide: -bullet~ Zakłady pracy umieszczane w pobliżu domów zwiększają dochód kolonii, ale też wytwarzają niezadowolonych mieszkańców. Nikt nie lubi pracować cały dzień!
+0x00000491 ~guide: -h3~ Odsprzedaż budynków
+0x000004A1 ~guide: -bullet~ Możesz w dowolnym momencie odsprzedać budynek, klikając go i przeciągając z powrotem na panel budowy.
+0x00000461 ~guide: -h3~ Przesuwanie budynków
+0x00000471 ~guide: -bullet~ Możesz przesunąć dowolny budynek umieszczony w Twojej kolonii podczas tej wizyty w planiście kolonii.
+0x00000451 ~guide: -bullet~ Wieżyczki pomogą obronić miasto przed wrogim przejęciem, automatycznie atakując zbliżające się jednostki przeciwnika. Nie łączą się z żadnymi innymi budynkami i muszą być rozmieszczone wzdłuż murów kolonii.
+0x00000812 ~guide: -h2~ Otworzy się okno stylisty kolonii. Z wyposażenia, które stworzysz dla tego kolonisty, będą korzystali wszyscy koloniści Twojego imperium.
+0x00000372 ~guide: -bullet~ Stworzony lub wybrany budynek pojawi się na liście budynków.
+0x00000561 ~guide: -h2~ Więcej informacji na temat tworzenia własnych środków transportu znajdziesz w sekcji Przewodnika SPORE dotyczącej fabryki budynków oraz fabryki statków kosmicznych.
+0x000005B1 ~guide: -bullet~ Kliknij i przeciągnij ozdobę na swoje miasto, a następnie umieść ją na jednym z podświetlonych pierścieni rozmieszczenia.
+0x000003B1 ~guide: -bullet~ Koszt budynku zostanie odjęty od posiadanych sporylionów.
+0x00000351 ~guide: -bullet~ Zdecyduj, czy chcesz wybrać budynek ze Sporpedii, czy stworzyć własny.
+0x00000381 ~guide: -bullet~ Kliknij budynek, a następnie przeciągnij go z listy budynków na swoją kolonię.
+0x000003A1 ~guide: -bullet~ Rozmieszczenie jest ważne. Więcej informacji uzyskasz w sekcji dotyczącej układu kolonii.
+0x00000341 ~guide: -bullet~ Przesuń kursor myszy nad typ budynku, który chcesz zakupić.
+0x00000311 ~guide: -h2~ Twój ratusz pojawi się na szczycie listy budynków. Możesz w dowolnej chwili modyfikować ten ratusz lub stworzyć nowy. W każdej kolonii możesz mieć tylko jeden ratusz.
+0x00000801 ~guide: -bullet~ Kliknij zakładkę „Stylista kolonii” w planiście kolonii.
+0x000001D1 ~guide: -bullet~ Tutaj widnieją nazwa i kolor Twojego imperium oraz liczba kolonii na odwiedzanej planecie, jak również typ planety. Całkowicie ukształtowane planety lepiej nadają się do kolonizacji. Planeta typu T1 pomieści jedną kolonię, T2 — dwie, a T3 — trzy.
+0x000005A1 ~guide: -bullet~ Wybierz ozdobę, którą chcesz umieścić w swoim mieście.
+0x00000591 ~guide: -bullet~ Otwórz kartę „Ozdoby”.
+0x000003C1 ~guide: -h2~ Uwaga: więcej informacji na temat tworzenia własnych budynków znajdziesz w sekcji przewodnika SPORE dotyczącej fabryki budynków.
+0x000005C1 ~guide: -bullet~ Koszt ozdoby zostanie odjęty od posiadanych sporylionów.
+0x000001A1 ~guide: -bullet~ Dostępna liczba sporylionów widnieje w lewym górnym rogu ekranu planisty kolonii.
+0x00000182 ~guide: -h3~ sporyliony
+0x00000781 ~guide: -h2~ Aby zaimportować do gry muzykę imperium otrzymaną od znajomego, umieść otrzymany plik .png w folderze ~save_path~CityMusic~mac_save_append~, gdy gra SPORE nie jest uruchomiona. Od tej pory otrzymane pliki będą dostępne za pośrednictwem Sporpedii.
+0x00000771 ~guide: -h2~ Muzyka imperium nie jest publikowana automatycznie. Aby opublikować znajomym muzykę swojego imperium, odszukaj odpowiedni plik w folderze ~save_path~CityMusic~mac_save_append~. Plik .PNG można przesłać znajomym pocztą elektroniczną.
+0x00000551 ~guide: -h2~ Wybrane lub stworzone pojazdy będą kupowane przez Twoich kolonistów w miarę rozwoju kolonii i jej potrzeb. Większe kolonie mogą utrzymać liczniejsze floty pojazdów.
+0x000004C1 ~guide: -bullet~ Naprawa budynków — Twoi koloniści będą z upływem czasu naprawiać uszkodzone budynki. Możesz wymienić uszkodzony budynek w planiście kolonii, klikając go i przeciągając z powrotem na panel budowy.
+0x00000751 ~guide: -h2~ Kliknięcie przycisku „Wczytaj” przeniesie cię do sekcji muzyki w Sporpedii. W tej sekcji wybierz kartę muzyki i kliknij zielony znaczek potwierdzenia. Wybrana muzyka imperium będzie odtwarzana, gdy wrócisz do planisty kolonii. Aby odsłuchać dany utwór, kliknij dwukrotnie jego kartę w Sporpedii.
+0x00000811 ~guide: -bullet~ Kliknij portret swojego kolonizatora na palecie wyposażenia, a następnie wybierz przycisk wyposażania kolonisty.
+0x00000821 ~guide: -h3~ Aby dowiedzieć się więcej o wyposażaniu swoich kolonistów, zajrzyj do sekcji „Styliści” w Przewodniku SPORE.
+0x000007E1 ~guide: -h2~ U stylisty kolonii można znaleźć najnowsze kreacje mody kosmicznej. Wyraź styl swoich kolonistów, odpowiednio ich wyposażając.
+0x00000661 ~guide: -h2~ Aby wybrać instrument, kliknij jeden z niebieskich przycisków. Eksperymentuj, aż znajdziesz taki, który ci się spodoba.
+0x00000421 ~guide: -bullet~ Domy nie tylko zwiększają Twoją populację i limit pojazdów, ale mogą też łączyć się z budynkami rozrywkowymi i zakładami pracy. W ten sposób zwiększysz produktywność i zadowolenie mieszkańców swojej kolonii. Ratusz jest traktowany jako domostwo.
+0x00000191 ~guide: -h2~ Stajesz na progu wyścigu kosmicznego — będziesz wydobywać przyprawę, handlować nią i rzadkimi obiektami oraz wykonywać zlecenia innych imperiów w celu zdobycia sporylionów. Sporyliony umożliwią ci rozbudowę państwa. Twoje imperium musi zdobyć odpowiednie fundusze, aby inwestować w budynki, pojazdy, ozdoby, systemy obronne i energię napędzającą statek kosmiczny.
+0x00000391 ~guide: -bullet~ Umieść budynek na jednym ze świecących pierścieni rozmieszczenia w Twojej kolonii.
+0x00000411 ~guide: -h2~ W trakcie rozmieszczania budynków w kolonii, między obiektami będą pojawiać się świecące połączenia. Kolor zielony oznacza dobrą lokalizację, biały — neutralną, a czerwony — złą.
+0x000002C1 ~guide: -bullet~ Domy
+
+0x00000071 ~guide: -bullet~ Kupuj ozdoby kolonii w celu zwiększenia atrakcyjności swojej kolonii
+0x00000051 ~guide: -bullet~ Tworzenie i kupowanie budynków
+0x00000021 ~guide: -h2~ Aby wywołać planistę miejskiego, kliknij przycisk planisty pojawiający się nad ratuszem dowolnej kolonii w Twoim imperium. Czynności dotyczące budynków i pojazdów będą miały wpływ wyłącznie na kolonie znajdujące się na odwiedzanej planecie. Jednak każda kolonia musi być projektowana z osobna.
+0x00000061 ~guide: -bullet~ Kupuj wieżyczki, aby poprawić obronność kolonii.
+0x00000011 ~guide: -h1~ Witaj w planiście kolonii
+0x00000041 ~guide: -h3~ Tu zyskasz dostęp do następujących elementów:
+0x00000031 ~guide: -bullet~ Możesz przechodzić do innych kolonii na danej planecie bez zamykania planisty kolonii. Służą do tego przyciski strzałek obok nazwy kolonii na dolnym pasku planisty kolonii.
+0x000000C1 ~guide: -h1~ Kilka podstawowych wiadomości
+0x000000A1 ~guide: -bullet~ Skomponuj swój hymn
+0x00000082 ~guide: -bullet~ Twórz lub modyfikuj statki kosmiczne.
+0x000000E1 ~guide: -h3~ Sterowanie kamerą
+0x000000F8 ~guide: -bullet~ Klawisze + i – również przybliżają i oddalają widok.
+0x000000F6 ~guide: -h4~ Zbliżanie/oddalanie
+0x000000F5 ~guide: -bullet~ Klawisze &lt; oraz &gt; również powodują obrócenie kamery.
+0x000000F2 ~guide: -h4~ Obrót kamery
+0x000000D2 ~guide: -bullet~ Kliknij odpowiednią zakładkę, aby otworzyć panel budynków, pojazdów, ozdób miasta, stylisty kolonii albo hymnu.
+0x000000F1 ~guide: -h2~ Kamerą steruje się w taki sam sposób we wszystkich trybach planisty kolonii z wyjątkiem stylisty kolonii, który jest omówiony w oddzielnym rozdziale Przewodnika SPORE.
+0x000000D1 ~guide: -h2~ Zakładki wokół panelu planisty zapewniają dostęp do różnych sekcji planisty kolonii.
+0x00000081 ~guide: -bullet~ Buduj pojazdy dla swoich kolonii. Każda kolonia będzie zarządzać swoją flotą, w razie potrzeby kupując i wymieniając pojazdy stworzone lub wybrane przez Ciebie.
+0x00000091 ~guide: -bullet~ Ekwipowanie kolonistów
+0x000000B1 ~guide: -bullet~ Projektowanie kolonii i zdobywanie informacji o zadowoleniu i wydajności pracy kolonistów.
+0x000000F4 ~guide: -bullet~ Możesz także przytrzymać wciśnięty prawy przycisk myszy i poruszyć myszą, aby obrócić kamerę wokół miasta. Na komputerach Mac, przytrzymaj klawisz Command, Option i lewy przycisk myszy.
+

@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x071877C5 ~ep1_adventure_name~ saved.
+0x07186066 ~ep1_adventure_lose~ ~br~ 分數：~ep1_score~ ~br~ 時間：~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ 分數： ~ep1_score~ ~br~ 時間： ~ep1_time~
+0x0757671A 開始
+0x071877BA 在此填入冒險成功時要出現的文字。
+0x070B1800 離開
+0x070B17F3 在此填入冒險失敗時要出現的文字。
+0x070B1805 重新開始
+0x07959A07 冒險總是需要一名英雄，在對的時間，挺身而出拯救一切。
+0x071877C1 本冒險的作者尚未替此冒險編寫序幕。~p~在「冒險創造器」中，點選「戲幕面板」上的「序幕」按鈕，增加介紹說明。
+0x07B4DD6E 在冒險能夠進行之前，世界中必須有位置身有效位置的艦長。
+0x07CCEEFC 隊員
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 目標有不明參數
+0x07D91076 目標無效
+
+# instance checks
+
+0x07D910E8 目標無法套用至戲幕中的敵意生物
+0x07D910E6 目標無法套用至史詩生物
+0x07D910E1 對象處於無效位置
+0x07D910E4 目標無法套用至戲幕中設定為「固守」或「侵略」的目標
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F 全部
+
+# Second, for buildings and vehicles
+
+0x07B51559 攜帶…
+0x07B5154F 摧毀
+0x07B5154C 檢查
+0x07B5155C 蒐集
+0x07B51562 給予…
+0x07B51564 阻擋…
+0x07B52A44 摧毀~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B52A41 檢查~ep1_goal_target_name~
+0x07B52A49 蒐集~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B52A47 攜帶~ep1_goal_target_name~，交給~ep1_goal2_target_name~
+0x07B5506A 攜帶~ep1_goal_target_name~給~ep1_goal2_target_name~
+0x07B55063 摧毀~ep1_goal_target_name~ (已摧毀~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B55073 將~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x07B5506C 蒐集~ep1_goal_target_name~ (已蒐集~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B55060 檢查~ep1_goal_target_name~
+0x07B55076 阻擋~ep1_goal_target_name~接近~ep1_goal2_target_name~
+0x07B52A4C 將~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x07B52A4E 阻擋~ep1_goal_target_name~接近~ep1_goal2_target_name~
+0x07B55079 守護~ep1_goal_total~ x ~ep1_goal_target_name~
+0x07B52A50 守護~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B51567 守護
+0x07B5505D 移動到~ep1_goal_target_name~處 (已完成~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B52A3A 移動到~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B51549 移動到
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910DD 至少要有一個對象為可移動
+0x07D910DA 目標未套用至化身
+0x07D910CD 目標未套用至載具
+0x07D910CF 目標未套用至建築物
+0x07D910D8 目標未套用至遊戲物件
+0x07D910D3 目標未套用至固定物件
+0x07D910D5 目標未套用至非手持物件
+0x07D910C0 對象在本戲幕中設定為隱形
+0x07D910C6 對象生命在本戲幕中設定為刀槍不入
+0x07D910CB 目標未套用至生物
+0x07D910C4 對象生命在本戲幕中設定為零
+
+# Special first half of give goal:
+
+0x079E8291 找尋~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C654 生物無法安置在水上
+0x07D8C64C 水面載具無法安置在陸上
+0x07D8B21E 陸地載具無法安置在水上
+0x07D8C658 物件距離星球地表太遠
+
+# Goal strings used for mission cards
+
+0x0727D37F 錯誤：目標沒有設定
+
+# Sculpt panel UI
+
+0x07316C04 水
+0x07316C03 主題
+0x07316C02 大氣
+0x07316C07 植物
+0x07316C05 整地
+0x07316C00 地形
+0x07316C08 植物
+0x07316C0E 道路
+0x07316C0A 星球顏色
+0x07316C0D 基礎工具
+0x0768A3E9 陸地&島嶼
+0x079EDFB9 特殊
+0x0768A339 內海&湖泊
+0x07316C0F Canyons      #REMOVED?
+0x07316C10 Beaches      #REMOVED?
+0x07316C0C 河流
+0x07316C0B 地形顏色
+0x07316C01 星球主題
+0x07316C06 山脈
+0x07B27900 科技路
+0x07B278FF 柏油路
+0x07B278FD 泥巴路
+0x07B278FE 石子路
+0x07B27901 廣場
+0x07B280CB 山丘
+0x07B2739C 山谷
+0x07316C09 自然環境
+
+# Third, for all other (tools)
+
+0x07968DE4 [未設目標]
+0x07B5163F 阻擋…
+0x07B51637 給予…
+0x07B5162D 蒐集
+0x07B51633 持有
+0x07B51628 攜帶…
+0x07B51611 檢查
+0x07B52A61 持有~ep1_goal_target_name~
+0x07B5508D 持有~ep1_goal_target_name~
+0x07B52A65 阻擋~ep1_goal_target_name~接近~ep1_goal2_target_name~
+0x07B5507E 檢查~ep1_goal_target_name~
+0x07B52A5E 蒐集~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B52A63 將~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x07B52A59 攜帶~ep1_goal_target_name~，交給~ep1_goal2_target_name~
+0x07B52A56 檢查~ep1_goal_target_name~
+0x07B5508F 將~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x07B55092 阻擋~ep1_goal_target_name~接近~ep1_goal2_target_name~
+0x07B5508A 蒐集~ep1_goal_target_name~ (已蒐集~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B55088 攜帶~ep1_goal_target_name~，交給~ep1_goal2_target_name~
+0x07B52A68 守護~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B51644 守護
+0x07B55095 守護~ep1_goal_total~ x ~ep1_goal_target_name~
+0x07B5507B 移動到~ep1_goal_target_name~處 (已完成~ep1_goal_progress~ / ~ep1_goal_total~)
+0x07B52A52 移動到~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B5160C 移動到
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A93 目標3完成
+0x07292A8D 目標1完成
+0x07292A91 目標2完成
+0x07290AF8 目標3增加
+0x07290AF5 目標2增加
+0x07290AF0 目標1增加
+0x074BB7EC 劇幕~ep1_current_act~/~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07D8FA99 載具不能太靠近岩石
+0x07D8FA77 生物彼此不能太過靠近
+0x07D8FA75 史詩生物不能放在建築物上
+0x07D8FA7C 生物不能太靠近岩石
+0x07D8FA79 生物不能太靠近靜態裝飾品
+0x07D8FA72 生物不能如此靠近載具
+0x07D8FA90 載具不能太靠近生物
+0x07D8FA8D 載具不能太靠近建築物
+0x07D8FA97 載具不能太靠近手持物件
+0x07D8FA93 載具不能太靠近靜態裝飾品
+0x07D8FA82 建築物不能安置在史詩生物底下
+0x07D8FA87 載具彼此不能太過靠近
+0x07D8FA85 建築物不能太靠近載具
+0x07DA2A90 物件彼此太過靠近，現在它們在戲幕~ep1_visibility_intersect_act~中均為可見
+0x07D8FAB2 岩石不能太靠近手持物件
+0x07D8FAAF 岩石不能太靠近生物
+0x07D8FABB 遊戲物件不能太靠近載具
+0x07D8FAA3 靜態裝飾品不能太靠近生物
+0x07D8FAA5 手持物件不能太靠近載具
+0x07D8FA9E 載具不能太靠近遊戲物件
+0x07D8FAA1 靜態裝飾品不能太靠近載具
+0x07D8FAAD 岩石不能太靠近載具
+0x07D8FAA8 手持物件彼此不能太過靠近
+0x07D8FAAA 手持物件不能太靠近岩石
+0x07ECC0AB 岩石彼此不能太過靠近
+0x07D8FA7F 生物不能太靠近植物
+0x07D8FA6F 這些物件彼此不能太過靠近
+0x07D8FAB5 植物不能太靠近生物
+0x07D8FAB8 植物不能太靠近載具
+0x07D8FA9C 載具不能太靠近植物
+
+# Goal string for goal count combo box:
+
+0x07C53729 全部
+
+# inter-act checks
+
+0x07D91134 同一戲幕中的「攜帶」和「阻擋」目標不得有同樣對象
+0x07D91132 目標對象總數與戲幕中的其他目標發生衝突
+0x07D91130 目標與戲幕中的其他目標重複
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B1 交朋友
+0x073C19B0 摧毀
+0x073C19AE 移動到
+0x073C19B4 蒐集
+0x073C19B2 結盟…
+0x073C19B3 攜帶…
+0x073C19B7 阻擋…
+0x073C19B6 給予…
+0x073C19AF 交談
+0x073C19B8 守護
+
+# goal count checks
+
+0x07D91122 對象總數超過世界中的適用對象數量
+0x07D91125 世界中至少得有一個適用對象
+0x07D9112B 對象總數為「全部」，但世界中沒有適用對象
+0x07D9112E 開放的團隊欄位數量不足
+0x07D91128 世界中至少得有兩個適用對象
+
+# Explain to user/author why the adventure was lost
+
+0x0796CEE4 你死了。
+0x0796CFDD 時間耗盡。
+0x0796D59A 你違反此目標：~ep1_goal_description~
+0x0796D599 你無法完成此目標：~ep1_goal_description~
+0x07C50B5F 本戲幕有重複目標。
+0x0796CFE5 守護~ep1_goal_total~X~ep1_goal_target_name~失敗。
+0x0796CFE1 ~ep1_goal_target_name~沒能成功阻擋~ep1_goal2_target_name~。
+
+# First, for creatures
+
+0x07311C6E 從~ep1_goal2_target_name~阻止~ep1_goal_target_name~
+0x072AA965 把~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x0727D387 跟~ep1_goal_target_name~交談
+0x072AA963 蒐集~ep1_goal_target_name~（已蒐集~ep1_goal_progress~ / ~ep1_goal_total~）
+0x07B52A2E 攜帶~ep1_goal_target_name~，交給~ep1_goal2_target_name~
+0x07B52A31 蒐集~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B52A2A 與~ep1_goal_total_or_all~ x ~ep1_goal_target_name~交朋友
+0x07B52A2C 與~ep1_goal_total_or_all~ x ~ep1_goal_target_name~結盟
+0x07B52A34 將~ep1_goal_target_name~給予~ep1_goal2_target_name~
+0x07B52A36 阻擋~ep1_goal_target_name~接近~ep1_goal2_target_name~
+0x07B52A28 消滅~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07B52A25 與~ep1_goal_target_name~交談
+0x0727D389 消滅~ep1_goal_target_name~（已消滅 ~ep1_goal_progress~ / ~ep1_goal_total~ ）
+0x0727D38B 和~ep1_goal_target_name~交朋友（已結交 ~ep1_goal_progress~ / ~ep1_goal_total~ 個朋友）
+0x0727D391 帶~ep1_goal_target_name~去到~ep1_goal2_target_name~
+0x0727D38E 和~ep1_goal_target_name~結為盟友（已加入 ~ep1_goal_progress~ / ~ep1_goal_total~ ）
+0x07B52A38 守護~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+0x07311C75 守護~ep1_goal_total~名~ep1_goal_target_name~
+0x0727D384 移動到~ep1_goal_target_name~處（已完成 ~ep1_goal_progress~ / ~ep1_goal_total~ ）
+0x07B52A21 移動到~ep1_goal_total_or_all~ x ~ep1_goal_target_name~
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2671 ~timelineMySpeciesName~發現了~timelinePartName~組件。
+0x076B2673 ~timelinePlanetName~的冒險已完成。
+0x076B2674 晉級
+0x076B2675 ~ep1_captain_name~晉級為~ep1_captain_primary_title~。
+
+# Used for palette
+
+0x07103109 固定物件
+0x0710310A 聲音
+0x07103108 生物
+0x07103106 建築物
+0x07103107 載具
+0x0710310C 參與演員
+0x079C4769 遊戲物件
+0x0710310B 效果
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E 替你的冒險命名
+0x075E40ED 劇情轉換標題1
+0x075E40EF 劇情轉換標題3
+0x075E40EE 劇情轉換標題2
+
+# other
+
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91140 保留給矯正提示5
+0x07D9113B 保留給矯正提示3
+0x07D9113E 保留給矯正提示4
+0x07D91139 ~ep1_goal_error_str2~
+

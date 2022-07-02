@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7AA 肉食
+0x03EBF7AB 雑食
+0x03EBF7A9 草食
+0x03EBF7A8 知的生命体
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 艦隊
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF080 この辺りでは黄色が好まれます
+0x043AF07F 私たちのすてきな商品をどうぞご覧になってください
+0x043AF083 リーダーがあれをお持ちか知りたがっています。あれとは、あの緑の…
+0x043AF082 私たちはあなたの貨物をスキャンしました。何かあなたの興味を引くものはありますか？
+0x043AF038 私たちのすてきな商品をどうぞご覧になってください
+0x043AEF66 只今、紫色がお買い得となっています。
+0x043AEF67 紫色はありませんか？
+0x043AF42B 私たちのすてきな商品をどうぞご覧になってください。いい取引ができると思います。
+0x043AF086 ピンク色は私たちを強く、幸せにします。持っていないのが残念です。
+0x043AF085 今年のピンク色の収穫は上質でした。この取引を断るわけにはいかないでしょう！
+0x043AEF68 パープルスパイス
+0x043AF03A レッドスパイス
+0x043AF039 おお、私たちはレッドスパイスに飢えています。
+0x043AF084 グリーンスパイス
+0x043AF087 ピンクスパイス
+0x043AF42C ブルースパイス
+0x043AF081 イエロースパイス
+0x043AF42A ブルースパイスをお持ちではないでしょうか。
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF4FF ~star_name~という名の原始惑星
+0x043AF500 銀河のコア
+0x043AF504 小惑星帯
+0x043AF4FB ~star_name~という名の星
+0x043AF4FD ~star_name~という名の巨大な星
+0x043AF4FE ~star_name~という名の赤い惑星
+0x043AF4FC ~star_name~という名のワームホール
+0x043AF4FA ここ
+0x043AF501 ガス惑星
+0x043AF505 と
+
+#random string for spg
+
+0x068B22CD このシステムでは使用できません。
+
+#######################################
+# Filters
+
+0x0563D2AA 訪問
+0x031791B4 旅の軌跡
+0x0563D2AB 敵と味方
+0x031791B3 ミッション
+0x031791AF 我が帝国
+0x031791B2 帝国
+
+#######################################
+# Plant types
+
+0x03EBF7AC 植物（小）
+0x03EBF7AD 植物（中）
+0x03EBF7AE 植物（大）
+
+#######################################
+# Tech Levels
+
+0x03EAC03E 宇宙
+0x03EAC03D 文明
+0x03EAC03A 野生
+0x03EAC039 不毛
+0x03EAC03B 集落
+0x03EAC03C 都市
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x03E81C65 ???????
+0x061DFE83 前の1列を完成させて解除する
+0x0473CB1A 植物
+0x0473CB32 高温
+0x0473CB22 肉食生物
+0x0473CB1F 草食生物
+0x0473CB2E 低温
+0x0473CB2A 大気がない
+0x0539AAE8 植物標本を完成させて解除する
+0x0539AA97 草食スロット
+0x0539AA98 肉食／雑食スロット
+0x0473CB26 大気が濃い
+0x0539AA95 植物スロット（中）
+0x0539AA96 植物スロット（大）
+0x0539AA94 植物スロット（小）
+
+#player titles
+
+0x05AC5B01 艦長
+0x05AC5B68 伝説の存在
+0x05AC5B73 究極の存在
+0x05AC5B64 偉大な存在
+0x05AC5B1B 司令官
+0x05AC5B2E 提督
+0x05AC5B5F 名高い存在
+0x05AC5B58 賛美された存在
+0x05AC5B6F 強大な存在
+0x05AC5B20 准将
+0x05AC5B78 全知全能
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF4 兵器
+0x05879DF3 探検
+0x05879DF6 作成
+0x05879DF7 植民
+0x05879DFA スペシャル
+0x05879DF8 外交
+0x05879DF9 崇拝
+0x05879DF5 テラフォーム
+
+#######################################
+# destroy cargo text
+
+0x03E81C55 貨物を投棄する
+0x03E81C56 この貨物を完全に破棄しますか？
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 杖
+0x04000010 配達支払
+0x04000008 雪の球
+0x04000009 トロフィー
+0x04000005 ラマ
+0x04000001 箱
+0x04000000 金の偶像
+0x04000002 王冠
+0x04000004 聖杯
+0x04000003 小鬼の石像
+0x04000006 プレート
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6C ホログラム偵察
+0x03E81C6B ホログラムを拾う
+0x03E81C6A テラフォーミング
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A 距離：~travel_distance~(pc)
+
+0x065B76EF ~p~解除：
+0x0657CC21 ~badge_points~バッジポイント
+0x0657C8D4 保存するには、惑星を離れてください。
+0x065672CB 購入可能です。売ってくれる帝国を探しましょう。
+0x0580E601 プレイヤーの帝国
+
+#######################################
+# Misc Rollovers
+
+0x0654CB13 ~planet_name~は降伏しました
+0x0654CB16 ~planet_name~は降伏していません
+0x0654CB0F 確保の進行
+0x0654CB0A 進行中の交易ルート
+0x06749C10 セキュリティ用無人機
+0x0678CDDF 宇宙海賊
+
+#tool given
+
+0x06538847 集めたもの：~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+#######################################
+# Progress bar rollover
+
+0x0435ECE8 軍団：　集落：~tribe_worshipper_count~、文明：~civ_worshipper_count~、宇宙：~ally_count~
+0x0436D447 バッジポイント：~badge_points~
+0x0435ECEB ミッション：~mission_count~
+0x0435ECE0 バッジ：~badge_count~
+0x0435ECE5 コロニー：~colony_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x03F5A128 すい星
+0x06748F94 所有
+0x063C3D96 未所有
+
+#######################################
+# Comm/Trade fail text
+
+0x06790599 関係を改善すると交易ができます。
+0x0679F573 戦争中には修理できません。
+0x0679F574 戦争中には補充できません。
+0x0679ED24 資金が足りません。
+0x06790598 交易の許可が出ていません。
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065BD251 ~commodity_badge_req~バッジ
+0x065B9969 ~commodity_badge_reqs~、そして ~commodity_tool_reqs~
+0x065B8F36 ~commodity_badge_req~か~commodity_badge_or_req~のバッジ
+0x065B8F3D ~commodity_badge_req~と~commodity_badge_and_req~のバッジ
+0x065B995C ~commodity_tool_req~ および ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~ および ~commodity_tool_and_req~ または ~commodity_tool_or_req~
+0x065B9958 ~commodity_tool_req~ または ~commodity_tool_or_req~
+0x065B8F44 ~commodity_badge_req~と~commodity_badge_and_req~か、~commodity_badge_or_req~のバッジ
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (無料)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F 宇宙船を編集
+0x043DB6B5 建物を修理する(~cost~)
+0x043DB6B4 建物を(~cost~)で売却
+0x043DB6B7 宇宙船を修理する(~cost~)
+0x043DB6B9 コロニーを(~cost~)で売却
+0x043DB6B8 建物を購入
+0x043DB6B3 解体
+0x043DB6B2 砲塔を修理する(~cost~)
+0x043DB6B1 砲塔を(~cost~)で売却
+0x04C82968 市民にアクセサリをつける
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x03EAFDD3 ~item_planet_name~から
+0x04729A65 スキャンされていない
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 興味がありません。
+0x0679EAC6 貨物室がいっぱいです。
+
+#######################################
+# Tool Fail Text
+
+0x066F7A1A 自身のコロニーで使う必要があります
+0x066F7A1F 水の上では使用できません。
+0x0671CE05 動物が惑星にいなければなりません。
+0x0671FB24 この惑星では、モノリスを使うことはできません！
+0x066F7A20 高度が高すぎます。
+0x066F7A21 星系には既に知的生命体が存在します。
+0x0653E593 惑星上である必要があります。
+0x0653E594 弾切れになりました。
+0x0653E595 エネルギーを補充しています。
+0x0653E59A 星系には交易ルートが必要です。
+0x0653E598 艦隊には他の船を入れる余裕がありません。
+0x0653E596 帝国の惑星で使う必要があります。
+0x0653E597 異星人のコロニーで使う必要があります。
+0x0653E59E 野生の惑星で使う必要があります。
+0x0653E59F より高いテラフォーム・スコアが必要です。
+0x0653E59B 星系で最高の技術レベルを持つ惑星である必要があります。
+0x0653E59C 帝国の惑星では使用できません。
+0x0653E5A0 母星では使用できません。
+0x0653E59D 野生種保護区では使用できません。
+0x0653E599 すでにミニUFOはいます。
+0x066F7A1D エネルギーは最大です。
+0x066F7A1E 都市の上では使用できません。
+0x066F7A1B 惑星ごとに一つしか置けません。
+0x066F7A1C 耐久力は最大です。
+0x066F7A22 現在のT-スコアではこれ以上コロニーを建設できません。
+
+# used to name the Galactic Core.
+
+0x0591BD91 銀河核
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF50F 8番目
+0x043AF510 9番目
+0x043AF50E 7番目
+0x043AF50D 6番目
+0x043AF527 完了
+0x043AF528 失敗
+0x043AF526 進行中
+0x043AF50A 3番目
+0x043AF50B 4番目
+0x043AF509 2番目
+0x043AF507 0番目
+0x043AF508 1番目
+0x043AF50C 5番目
+0x043AF529 ミッション
+0x043AF52B バッジ
+0x043AF52A 警告
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EED0 コロニースロット
+0x0678EECF テラフォーム・スコアを上げるとアンロックできます
+
+#######################################
+# Roll overs
+
+0x061ECCF0 宇宙船の能力
+0x03E81C5E 貨物
+0x03E81C62 宇宙船を編集
+0x03E81C61 スポアペディアの切り替え
+0x03E81C60 メインツール
+0x03E81C5F 武器
+0x03E81C5C テラフォーミング・ツール
+0x03E81C5B 宇宙船のオプション
+0x045FFE85 オプション
+0x045FFE89 ヘルプ
+0x045FFE8E ポーズ／ゲーム再開
+0x04359B0F ミニマップ
+0x04359B05 テラフォーミング
+0x048662B4 スターマップフィルター
+0x03E81C5D 通信パネルを開く
+
+#######################################
+# colony object names
+
+0xB4150FEB スパイス貯蔵庫
+0xE4EC3F34 衛星を防御する
+0x44B420E4 忠誠心ブースター
+0xB7D22F27 バイオ・スタビライザー
+0x405DC1DF 野生動物の聖地
+0x3AAB4C0E 大使館
+0xF55D419A バイオ・プロテクター
+0x4A1E2E7B 満足度ブースター
+
+#######################################
+# Our Solar System
+
+0x03F5A0B1 水星
+0x03F5A0C0 コホーテクすい星
+0x03F5A0BE シューメーカー・レヴィ第2すい星
+0x03F5A0BD ヘール・ボップすい星
+0x03F5A0C2 ボレリーすい星
+0x03F5A0B8 土星
+0x03F5A0B9 タイタン
+0x03F5A0B7 ガニメデ
+0x03F5A0B2 金星
+0x03F5A0B3 地球
+0x03F5A0B6 木星
+0x03F5A0B5 火星
+0x03F5A0B4 月
+0x03F5A0BB 海王星
+0x03F5A0BC ハレーすい星
+0x03F5A0BA 天王星
+0x03F5A0B0 太陽
+

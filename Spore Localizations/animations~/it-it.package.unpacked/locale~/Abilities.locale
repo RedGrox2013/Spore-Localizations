@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Carica
+0x0000001E Un attacco che intercetta dalla distanza un singolo bersaglio e lo stordisce al momento del contatto.
+
+# Colony_Building.prop
+
+0x0000004F Produzione
+0x00000050 Aumentando la produzione ricaverai di più dalla colonia.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 Militare aereo
+0x0630D532 Vola verso il dominio militare.
+
+# Colony_CivicObject.prop
+
+0x00000051 Oggetti civici
+0x00000052 Gli oggetti civici sono puramente decorativi.
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Coloniale aereo
+0x0630D572 Esplora la colonia dai cieli!
+
+#socialize
+
+0x00001001 Socializza
+0x00002001 Aggiungi le parti Canto, Ballo, Posa e Fascino per socializzare con altre creature.
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Coloniale marino
+0x0630D574 Esplora la colonia via mare!
+
+# City_Income.prop
+
+0x00000037 Introiti
+0x00000038 Le fabbriche producono maggiori introiti quando sono collocate vicino alle case, ma riducono la felicità, soprattutto se sono vicine alle strutture di intrattenimento.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Ballo
+0x33A78A34 Balla per fare amicizia con le altre creature che preferiscono questo stile di socializzazione.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000102 Aste guaritrici
+0x00000103 Equipaggia i membri della tribù con un bastone da sciamano in modo che possano guarire i propri compagni sul campo.
+0x0666A342 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~ salute veicolo
+
+# CL_Proboscis.prop
+
+0x0000004B Onnivora
+0x0000004C La tua cellula assorbe liquidi da piante e cellule viventi.
+0x06493565 Onnivora - Mangi piante verdi o cellule viventi.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Coloniale terrestre
+0x0630D576 Esplora la colonia da terra!
+
+# Charm5.prop
+
+0x0000008B Fascino
+0x0000008C Le creature dotate di molte parti con dettagli possono essere affascinate grazie a questo atteggiamento sociale.
+
+# Spit2.prop
+
+0x000000C2 Sputo
+0x000000C3 Un attacco rapido che lancia proiettili contro un bersaglio singolo.
+
+# Herbivore1-5.prop
+
+0x0473A24E Erbivora
+0x0473A24F La tua creatura mangia frutta.
+
+# City_Cultural.prop
+
+0x0000002B Converti altri
+0x0000002C I veicoli religiosi possono convertire le città insoddisfatte alla tua civiltà.
+
+# Spit4.prop
+
+0x000000C6 Sputo
+0x000000C7 Un attacco rapido che lancia proiettili contro un bersaglio singolo.
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~ %
+
+# Charge5.prop
+
+0x00000021 Carica
+0x00000022 Un attacco che intercetta dalla distanza un singolo bersaglio e lo stordisce al momento del contatto.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Sputo
+0x000000BF Un attacco rapido che lancia proiettili contro un bersaglio singolo.
+
+##### Tribal Accessories #####
+
+0x055D4830 Combattimento
+0x055D4836 Raccolta
+0x055D4838 Pesca
+0x055D4834 Salute
+0x055D4835 Gli accessori per la salute aumentano i danni che ogni membro della tribù può subire.
+0x055D4837 Gli accessori da raccolta rendono più veloce la raccolta di cibo.
+0x055D4833 Gli accessori sociali aumentano le possibilità di impressionare le altre tribù durante le interazioni sociali.
+0x055D4831 Gli accessori da combattimento aumentano i danni inflitti da ogni membro della tribù.
+0x055D4839 Gli accessori da pesca migliorano la tua abilità nella pesca.
+0x055D4EB3 Aggiungi accessori per migliorare l'abilità Raccolta.
+0x055D4E62 Raccolta
+0x055D4832 Socializzazione
+
+### Complexity Meter ##
+
+0x05F110B3 Indicatore di complessità
+0x05F110B4 Se questo indicatore è al massimo, non puoi aggiungere altre parti.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Attacco automatico
+0x049A3CDB L'attacco automatico a morsi standard
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD Livello ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 Canto
+0x00000121 Canta per farti amiche le creature cui piace intonare melodie.
+
+#health
+
+0x00001004 Salute
+0x00001008 Salute
+0x00002008 La salute indica quanti danni può sopportare la tua cellula. Ogni cellula dispone di tre unità di salute.
+0x00002004 Ogni livello cerebrale guadagnato fa aumentare la tua salute, oppure puoi comprare parti che ti aiutino a sopravvivere in combattimento.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Velocità
+0x04CEA2D3 Aumenta la velocità del tuo veicolo.
+
+# Colony_House.prop
+
+0x066657CA Produzione
+0x066657CB Le fabbriche producono più spezia se sono collegate alle case.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Potenza
+0x04CEA2D5 Maggiore potenza significa maggiore efficienza.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00002000 Aggiungi le parti Morso, Colpo, Carica e Sputo per attaccare altre creature.
+0x00001000 Attacco
+0x00001007 Attacco
+0x00002007 Aggiungi le parti Aculeo, Veleno ed Elettricità per attaccare altre cellule.
+
+# Posture3.prop
+
+0x000000A7 Posa
+0x000000A8 Le pose sono molto diffuse tra le altre creature con manipolatori.
+
+# Dance2.prop
+
+0x00000057 Ballo
+0x00000058 Balla per fare amicizia con le altre creature che preferiscono questo stile di socializzazione.
+
+# Bite2.prop
+
+0x00000005 Morso
+0x00000006 Un attacco rapido che può danneggiare un bersaglio singolo a distanza ravvicinata.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Fascino
+0x0000008A Le creature dotate di molte parti con dettagli possono essere affascinate grazie a questo atteggiamento sociale.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526772 La tua cellula dà la caccia ad altre cellule, mangia i pezzi di carne rossi e assorbe liquidi da piante e cellule viventi.
+0x06526762 Onnivoro
+
+# Charge2.prop
+
+0x0000001B Carica
+0x0000001C Un attacco che intercetta dalla distanza un singolo bersaglio e lo stordisce al momento del contatto.
+
+# Bite1.prop
+
+0x00000001 Morso
+0x00000002 Un attacco rapido che può danneggiare un bersaglio singolo a distanza ravvicinata.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Fabbrica
+0x06496725 Aumenta gli introiti ma riduce la felicità.
+
+# CL_Cilia.prop
+
+0x0000003F Svolta rapida
+0x00000040 La tua cellula si gira rapidamente.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Produzione
+0x066657CD Mantieni felici i tuoi cittadini costruendo edifici d'intrattenimento accanto alle case.
+
+# Colony_Factory.prop
+
+0x066657CE Produzione
+0x066657CF Se sono posizionate accanto alle case, le fabbriche producono più spezia ma riducono la felicità (specialmente se sono vicine agli edifici di intrattenimento).
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Accessori tribali
+0x04D02BF8 Aggiungi abiti ai membri della tua tribù per migliorare le loro abilità!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 Militare marino
+0x0630D534 Salpa verso il dominio militare.
+
+#movement
+
+0x00001003 Velocità
+0x00001006 Movimento
+0x00002003 Aggiungi piedi più rapidi per aumentare la velocità!
+0x00002006 Aggiungi le parti Flagelli, Ciglia e Jet per muoverti più velocemente. Ogni parte di movimento incrementerà la velocità della creatura.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Scanner
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526771 La tua cellula mangia le piante verdi e assorbe liquidi da piante e cellule viventi.
+0x06526761 Onnivoro
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ potenza
+
+# Spit5.prop
+
+0x000000C8 Sputo
+0x000000C9 Un attacco rapido che lancia proiettili contro un bersaglio singolo.
+
+# Posture5.prop
+
+0x000000AB Posa
+0x000000AC Le pose sono molto diffuse tra le altre creature con manipolatori.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Intrattenimento
+0x06496727 Aumenta la felicità e quindi la protezione dagli attacchi religiosi.
+
+# Dance5.prop
+
+0x0000005D Ballo
+0x0000005E Balla per fare amicizia con le altre creature che preferiscono questo stile di socializzazione.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Scatto
+0xF386C342 Lo scatto permette una breve accelerazione rapida. Ogni parte da scatto allunga la durata dell'accelerazione.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Velocità
+0x0473A251 Aggiungi piedi migliori per correre più velocemente.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 Commerciale terrestre
+0x0630D546 Gestisci la tua scalata al successo da terra!
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6D Salute
+0x04CB5B6C Una migliore salute incrementa le probabilità di sopravvivenza a un attacco da parte di altre creature.
+
+# CL_Shock.prop
+
+0x0000004D Fulmina
+0x0000004E La tua cellula può dare una scossa alle cellule vicine e otterrà l'immunità dalle scosse di altre cellule.
+
+# CL_Poke.prop
+
+0x00000049 Attacca e rompi
+0x0000004A Effettua una carica per attaccare le cellule; se urtati, alcuni oggetti si romperanno.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Accelerazione rapida
+0x00000046 La tua cellula accelera rapidamente.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F Manipolatori
+0x000000A0 Raccogli oggetti nello scenario e usali. 
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 Religioso terrestre
+0x0630D556 Converti le masse da terra!
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Potere commerciale
+0x06318043 Aumentando il potere commerciale del tuo veicolo ne migliorerai la potenza commerciale.
+
+# CL_Speed.prop
+
+0x0563FF82 Velocità
+0x0563FF83 Velocità
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE Livello ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Arpioni da pesca
+0x000000F1 Equipaggia i membri della tribù con Arpioni da pesca per ottenere il massimo dalla pesca.
+0x0666A340 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+# Bite5.prop
+
+0x0000000B Morso
+0x0000000C Un attacco rapido che può danneggiare un bersaglio singolo a distanza ravvicinata.
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~ potere religioso
+
+# Tribe_Hunt3.prop
+
+0x0000010A Lance
+0x0000010B Le lance consentono ai membri della tua tribù di attaccare da lontano.
+0x0666A346 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+# Spit3.prop
+
+0x000000C4 Sputo
+0x000000C5 Un attacco rapido che lancia proiettili contro un bersaglio singolo.
+
+# Posture2.prop
+
+0x000000A5 Posa
+0x000000A6 Le pose sono molto diffuse tra le altre creature con manipolatori.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 Religioso marino
+0x0630D554 Converti le masse dai mari!
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~ potere commerciale
+
+# City_Population.prop
+
+0x0000003B Popolazione
+0x0000003C Le case aumentano gli introiti quando sono collegate alle fabbriche. Inoltre, ogni casa aumenta di 1 il limite di veicoli.
+
+#diet
+
+0x00001002 Dieta
+0x00001005 Dieta
+0x00002005 Aggiungi Bocche filtro, Mascelle e Proboscidi per mangiare tipi di cibo diversi.
+0x00002002 La tua dieta nella fase Creatura è legata a quella che avevi nella fase Cellula.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Parata
+0x00000016 Durante i combattimenti, usa la parata per evitare di subire danni.
+
+# City_Defense.prop
+
+0x0000002D Difendi la città!
+0x0000002E Aumenta le difese.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BB Crea un abito per i tuoi cittadini.
+0x05B1E9BC Crea un abito per i tuoi cittadini.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Carica
+0x00000018 Un attacco che intercetta dalla distanza un singolo bersaglio e lo stordisce al momento del contatto.
+
+# Charm3.prop
+
+0x00000087 Fascino
+0x00000088 Le creature dotate di molte parti con dettagli possono essere affascinate grazie a questo atteggiamento sociale.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Salto
+0x00000098 Saltando potrai raggiungere zone altrimenti poco accessibili. I livelli superiori accrescono l'altezza dei tuoi salti. Premi la barra spaziatrice nella Modalità Prova per avere un'anteprima.
+
+# Strike2.prop
+
+0x000000D8 Colpo
+0x000000D9 Un attacco devastante che può danneggiare più bersagli a distanza ravvicinata.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Potere religioso
+0x06318041 Aumentando il potere religioso del tuo veicolo ne migliorerai la potenza religiosa.
+
+# Dance4.prop
+
+0x0000005B Ballo
+0x0000005C Balla per fare amicizia con le altre creature che preferiscono questo stile di socializzazione.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Casa
+0x06496723 Aumenta la popolazione della città e il limite di veicoli.
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Planata
+0x00000096 Le creature munite di ali possono volare. Ai livelli più elevati si può volare più distante.
+
+# Tribe_Gather3.prop
+
+0x000000FC Bastoni da raccolta
+0x000000FD Equipaggia i membri della tribù con Bastoni da raccolta per ottenere il massimo dalla raccolta di frutta.
+0x0666A341 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+# City_Happiness.prop
+
+0x00000033 Felicità
+0x00000034 Mantieni felici i tuoi cittadini collocando edifici di intrattenimento vicino alle case.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Salute
+0x04CEA2D1 Aumentando la salute del tuo veicolo, gli permetterai di resistere più a lungo nei combattimenti.
+
+# Bite3.prop
+
+0x00000007 Morso
+0x00000008 Un attacco rapido che può danneggiare un bersaglio singolo a distanza ravvicinata.
+
+# CL_Poison.prop
+
+0x00000047 Sputa veleno
+0x00000048 La tua cellula sputerà nuvole di veleno e otterrà l'immunità dalle emissioni velenose di altre cellule.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 Militare terrestre
+0x0630D536 Guida verso il dominio militare.
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 La tua cellula mangia le piante verdi, dà la caccia ad altre cellule e mangia i pezzi di carne rossi.
+0x06526760 Onnivoro
+
+# Starvivore.prop
+
+0x04D19389 Senza bocca
+0x04D1938A Una creatura senza bocca è condannata a morire di fame. Aggiungi una bocca!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Posa
+0x000000A2 Le pose sono molto diffuse tra le altre creature con manipolatori.
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~ potenza militare
+
+# Vocalize2.prop
+
+0x0000011E Canto
+0x0000011F Canta per farti amiche le creature cui piace intonare melodie.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 Furtività
+0x000000D3 Avvicinati furtivamente a creature ignare o eludi gli aggressori. Se attacchi una creatura dopo esserti avvicinato furtivamente, otterrai un bonus in attacco.
+
+# Charge4.prop
+
+0x0000001F Carica
+0x00000020 Un attacco che intercetta dalla distanza un singolo bersaglio e lo stordisce al momento del contatto.
+
+# Strike3.prop
+
+0x000000DA Colpo
+0x000000DB Un attacco devastante che può danneggiare più bersagli a distanza ravvicinata.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 Alta velocità
+0x00000042 La tua cellula si sposta più velocemente.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Potenza militare
+0x06318045 La potenza militare aumenta le abilità belliche.
+
+# City_Military.prop
+
+0x00000039 Veicoli militari
+0x0000003A I veicoli militari possono attaccare e distruggere altre città.
+
+# Strike5.prop
+
+0x000000DE Colpo
+0x000000DF Un attacco devastante che può danneggiare più bersagli a distanza ravvicinata.
+
+# Tribe_Hunt.prop
+
+0x00000104 Attacco
+0x00000105 Caccia gli animali per ottenere cibo o attacca le altre tribù.
+0x0666A343 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+# City_Economic.prop
+
+0x0000002F Crea rotte commerciali con altre città
+0x00000030 I veicoli commerciali possono commerciare con altre città per comprarle un po' per volta.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Vista
+0x0500E7DE La tua creatura ha bisogno di occhi per vedere chiaramente nello scenario.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 Onnivoro
+0x06526773 La tua cellula mangia le piante verdi, dà la caccia ad altre cellule, mangia i pezzi di carne rossi e assorbe liquidi da piante e cellule viventi.
+
+# CL_Herbivore.prop
+
+0x00000043 Erbivora
+0x00000044 La tua cellula mangia le piante verdi.
+0x06494A72 Erbivora - Mangi piante verdi.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Carnivora
+0x0473A24D La tua creatura mangia altre creature.
+
+# Omnivore.prop
+
+0x04D18880 Onnivora
+0x04D18881 La tua creatura mangia sia frutti che altre creature.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A Canto
+0x0000011B Canta per farti amiche le creature cui piace intonare melodie.
+
+# HitPoints.prop
+
+0x062CFA7E Una migliore salute incrementa le probabilità di sopravvivenza a un attacco da parte di altre creature.
+0x062CFA7D Salute
+
+#Generic
+
+0x04D3040D Abilità
+0x04D3040E Le parti che aggiungi ti conferiscono delle abilità. Evolviti!
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 Commerciale aereo
+0x0630D542 Gestisci la tua scalata al successo dai cieli!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 Astronave
+0x0630D566 L'unica cosa che ti separa dal vuoto spaziale è questa meraviglia di 2 metri.
+
+# Colony_UFO.prop
+
+0x00000053 Astronave
+0x00000054 Esplorazione! Costruzione! Rapimento! Distruzione! Queste sono le abilità della tua astronave.
+0x06779205 Questa colonia non ha un porto.
+
+# Strike4.prop
+
+0x000000DC Colpo
+0x000000DD Un attacco devastante che può danneggiare più bersagli a distanza ravvicinata.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 Religioso aereo
+0x0630D552 Converti le masse dai cieli!
+
+# City_Food.prop
+
+0x00000031 ELIMINATO
+0x00000032 ELIMINATO
+
+# Dance3.prop
+
+0x00000059 Ballo
+0x0000005A Balla per fare amicizia con le altre creature che preferiscono questo stile di socializzazione.
+
+# Vocalize4.prop
+
+0x00000122 Canto
+0x00000123 Canta per farti amiche le creature cui piace intonare melodie.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~ velocità veicolo
+
+# Tribe_Hunt1.prop
+
+0x00000106 Torce infuocate
+0x0666A344 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+0x00000107 Le torce infuocate distruggono rapidamente le capanne, ma sono meno efficaci contro le creature.
+
+# CL_GameSpeed.prop
+
+0x0649A10C Velocità
+0x0649A10D Aggiungi le parti Flagelli, Ciglia e Jet per muoverti più velocemente. Ogni parte di movimento incrementerà la velocità della creatura.
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 Commerciale marino
+0x0630D544 Gestisci la tua scalata al successo via mare!
+
+# Vocalize5.prop
+
+0x00000124 Canto
+0x00000125 Canta per farti amiche le creature cui piace intonare melodie.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Maracas
+0x00000111 Impressiona le tribù vicine con queste maracas!
+0x0666A349 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Aggiungi abiti agli abitanti della tua colonia!
+
+# CL_Carnivore.prop
+
+0x0000003D Carnivora
+0x0000003E La tua cellula dà la caccia alle altre cellule e mangia i pezzi di carne rossi.
+0x06494A73 Carnivora - Dai la caccia alle altre cellule e mangi i pezzi di carne rossi.
+
+# City_CivicObject.prop
+
+0x533DD075 Decorazioni
+0x533DD076 Vai in città! Solo per uno sguardo.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Colpo
+0x000000D5 Un attacco devastante che può danneggiare più bersagli a distanza ravvicinata.
+
+# Posture4.prop
+
+0x000000A9 Posa
+0x000000AA Le pose sono molto diffuse tra le altre creature con manipolatori.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoo
+0x0000010F Impressiona le tribù vicine con questi didgeridoo!
+0x0666A348 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Corni di legno
+0x0666A347 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+0x0000010D Impressiona le tribù vicine con questi strumenti!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Fascino
+0x00000082 Le creature dotate di molte parti con dettagli possono essere affascinate grazie a questo atteggiamento sociale.
+
+# City_Harvester.prop
+
+0x00000035 ELIMINATO
+0x00000036 ELIMINATO
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Municipio
+0x06496721 Fonda una nuova città.
+
+# Bite4.prop
+
+0x00000009 Morso
+0x0000000A Un attacco rapido che può danneggiare un bersaglio singolo a distanza ravvicinata.
+
+# Charm2.prop
+
+0x00000085 Fascino
+0x00000086 Le creature dotate di molte parti con dettagli possono essere affascinate grazie a questo atteggiamento sociale.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Asce di pietra
+0x0666A345 Conquista o alleati con altre tribù per avere accesso ai loro strumenti.
+0x00000109 Le asce di pietra sono tremendamente efficaci contro le creature selvatiche e le tribù, ma molto meno contro le capanne.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 Richiama per localizzare il partner e il nido. Attenzione però ai predatori nelle vicinanze.
+0x0000007F Rich. accoppiamento
+

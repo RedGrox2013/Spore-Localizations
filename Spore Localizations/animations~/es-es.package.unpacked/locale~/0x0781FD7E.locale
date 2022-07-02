@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000097 En progreso
+0x00000098 Completada
+0x00000041 ¡El coronel Farkus me ha contado que el concierto fue un éxito gracias a ti! Supongo que no te las habrás apañado para hacer una grabación pirata del concierto en un holochip para mí, ¿no?~p~¡Aquí tienes ~mission_rewards~ esporetas por haber dado el do de pecho!
+0x00000000 Acabo de recibir una señal de emergencia de la máxima prioridad enviada por el coronel Farkus.~p~Está organizando un concierto de rock en el parque y su cantante principal no... ¿Eh? ¡Espera un sectundo! ¡Eso no es ninguna emergencia! ¿Cuántas veces tengo que decirle a Farkus que no me llame a mi línea directa?~p~Mmh... ¿Podrías hacerme el favor de ocuparte de esto?
+0x0000004E El coronel Farkus es un tipo estupendo, pero no puedo acudir en su ayuda cada vez que uno de sus cantantes pilla una rabieta. ¿Podrías ocuparte de esto por mí?
+0x00000064 El coronel Farkus podrá darte todos los detalles cuando hayas descendido. Es inconfundible.~p~Busca a un tipo con chistera, pajarita y cuatro brazos.
+0x00000092 El coronel Farkus necesita ayuda para dar un concierto. Vuela hasta el sistema estelar ~mission_target_star~ y échale una mano.
+0x00000081 No te culpo. Tratar con famosos egocéntricos que cobran más de lo que deberían es suficiente para sacar a cualquiera de sus casillas.
+0x00000094 El coronel Farkus está esperando que desciendas. Se encuentra en ~mission_target_planet~, en el sistema estelar ~mission_target_star~.
+0x000000B1 Ayuda a un promotor de conciertos en el planeta ~mission_target_planet~.
+0x00000095 Shmelvin vuelve a estar sobre el escenario: ¡en ~mission_target_planet~, todo el mundo está disfrutando del rock! Vuelve a ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000071 Te entiendo. Personalmente, preferiría estar plantando flores en planetas grox a ayudando a un viejo promotor de conciertos a dar un espectáculo.
+

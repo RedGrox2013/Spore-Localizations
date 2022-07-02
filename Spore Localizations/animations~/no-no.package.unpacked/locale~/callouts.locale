@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Stammehøvding
+0x067213A6 Høvdingen leder stammen. Stammen din kan gå i kamp uten høvdingen, men høvdingen er nødvendig for alle sosiale møter med andre stammer.~p~Det er også høvdingen som bruker stammens konsekvensegenskaper. Hvis du vil bruke en konsekvensegenskap, må du først velge høvdingen og så klikke på egenskapen du vil bruke.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 Bruk handelspanelet til å kjøpe og selge verktøy, krydder og sjeldne gjenstander. Ting du har i lasterommet som kan selges vises nederst i handelspanelet.~p~Klikk på disse i handelspanelet hvis du har lyst til å kjøpe og selge noe.
+0x0670C6DB Handelspanel
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Du har dannet en stamme!
+0x06281000 Nå kommanderer du en stamme med tre medlemmer.~p~Du kan velge en og en av skapningene eller flere, avhengig av hva du skal gjøre.~p~Du må samhandle med andre stammer for å få fremdriftsmåleren til å gå fremover. Nå skal vi ta en titt ...~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Konsekvensegenskap
+0x06721404 Ved å fullføre cellefasen, har du fått en ny egenskap. Trykk på denne knappen for å bruke den.
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Fremdrift
+0x06271001 Denne måleren viser fremdriften din.~p~Du fyller den ved å bygge opp forhold til andre arter eller utslette dem.~p~Nå finner vi det første målet ditt ...~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Dette er fremdriftsmåleren din.~p~Etter hvert som du spiser, vil du få DNA-poeng. Du kan bruke disse poengene på deler til å utvikle cellen din.~p~Etter hvert som du utvikler deg, blir både du og verdenen du beveger deg i større.~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Dagene med utvikling er over. Men mote kan man aldri få nok av. Gi skapningen en ny look, nye antrekk og tilbehør gjør susen.
+0x063976F0 [IKKE I BRUK]
+0x0668AF4D Utstyrsbutikk
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Lavt energinivå
+0x06627B5D Skipet og verktøyene dine drives av energi, det er energi som gjør det mulig for deg å reise rundt i galaksen.~p~Energi er gratis på hjemmekloden, men allierte og kolonier tar betalt for å fylle opp energien din. Bruk kommunikasjonspanelet for å fylle opp.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Velkommen til sivilisasjonen
+0x0625E9BE Nå kontrollerer du fremkomstmidlene og byplanleggingen for nasjonen din. Du begynner med den første byen.~p~Du må samhandle med andre nasjoner. Når du treffer på dem, begynner du på reisen mot global dominans.~p~Nå skal vi se på fremdriftsmåleren din ...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06290007 Journal-knappen gir deg tilgang til oppdragsloggen, utmerkelser, verktøy og sjeldne gjenstander.
+0x06638D3E Journal
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Du har tvunget den siste kolonien i dette solsystemet til å overgi seg. Trykk på erobringsknappen øverst på skjermen hvis du vil erobre dette solsystemet.~p~Hvis ikke du har lyst til å eie systemet, kan du fortsette å angripe koloniene for å utslette fienden.
+0x06627A27 Systemerobring
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA3 Stammetaktikken din har etablert det første kulturelle trekket ditt. Dette trekket staker ut kursen for nasjonens spesialitet og den teknologiske forskningen. Etter hvert som nasjonen vokser, utvikler innbyggerne unike verktøy som hjelper sivilisasjonen på vei mot global dominans. Bruk dem smart.
+0x1535ABA2 Historie
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Minikart
+0x06721419 Bruk minikartet til hjelp med å navigere deg rundt i verden. Her finner du reiret ditt, mat og migrasjonsvei.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Verktøy
+0x065E5ECE Verktøy låses opp ved å få utmerkelser. Når et verktøy er låst opp, kan du kjøpe det på hjemmekloden.~p~Noen verktøy brukes opp, og må kjøpes på nytt. Andre verktøy er permanente og kan koste energi å bruke.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06281004 Babyer blir snart produktive medlemmer av stammen.~p~Til det skjer, kan du holde rede på dem her.
+0x06280004 Dette burde du vite ...
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06280010 Bra jobba!
+0x06281010 Nå som du kan det mest grunnleggende, starter vi med å finne litt mat.
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Gratulerer!
+0x06281006 Stammen din er eneveldig!~p~Når du er klar til å bli sivilisert, klikker du på evolusjonsknappen!~p~
+
+# Callout_SPG_ProgressBar.prop
+
+0x06638D71 Fremdriftsmåler
+0x06290001 Denne måleren følger fremdriften din i antall utmerkelser du har oppnådd, i tillegg til å vise hvor nær du er sentrum av galaksen.~p~Lederne på overflaten av planeten har lyst til å prate med deg. Nå skal vi lære å kommunisere.~p~
+
+#######################################
+# City Planner
+
+0x0639783F Disse flikene hjelper deg med å navigere i byplanleggeren. Kjøp fremkomstmidler, bygninger eller offentlige elementer, lag en nasjonalsang eller kle opp innbyggerne.
+0x06397840 Disse flikene hjelper deg med å navigere i byplanleggeren. Kjøp fremkomstmidler, bygninger eller ting til det offentlige rom, lag en nasjonalsang eller kle opp innbyggerne.
+0x06280005 Byplanlegger
+0x0665E829 Byplanlegger
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Mål
+0x06550888 Her vises nasjonens mål.~p~Det første målet ditt er å legge beslag på en kryddergeysir og begynne å utvinne krydder.~p~Når du kontrollerer kryddergeysirer, økes produksjonen til nasjonen din.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Hvorfor gå når du kan rulle?~p~Bruk venstre museknapp til å velge et fremkomstmiddel eller klikk og dra en boks rundt flere for å lage en hel flåte. Du høyreklikker for å sende dem mot et mål.~p~
+0x0626F434 Selection NOT IN USE
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Dette burde du vite ...
+0x00000005 Dette er evolusjonsknappen. Klikk her for å gå til skapningsfasen.~p~På veien kan du gjøre en siste evolusjonsstopp for å gjøre cellen din klar for livet på land.
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Gratulerer!
+0x062EFB85 Du har oppnådd global dominans!~p~Når du er klar til å utforske utenfor hjemmekloden, klikker du på  evolusjonsknappen!~p~
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Speiding
+0x06627BE0 Hologramspeideren din har landet på planetens overflate. Det er bare å utforske, så mye du vil.~p~Hent speideren ved å trykke på Plukk opp hologram-knappen i avatarvinduet.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x063971E5 [IKKE I BRUK]
+0x0668ACDF Celleskaper
+0x06397215 Du kan endre modus i alle skaperne ved å klikke på knappene over.~p~Før du går tilbake til vanndammen, kan du stoppe innom malemodus og freshe deg opp med en ny look!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3BF You should know...NOT IN USE
+0x0626F3C4 Dette er minikartet ditt, det er et kart over hele planeten. Du kan se byer, kryddergeysirer og etter hvert fremkomstmidler. Dette hendige lille navigasjonssystemet sørger for at du ikke går deg bort! NOT IN USE
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Katastrofe!
+0x06628758 Det har inntruffet en katastrofe på ~planet_name~ i ~star_name~-systemet!~p~Du får beskjed via hendelsesloggen når det inntreffer katastrofer på planetene som tilhører imperiet ditt eller dine allierte.~p~Disse er indikert i galaksevisningen med røde markører, normalt ledsaget av en melding.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06280002 Dette burde du vite ...
+0x06281002 Du kan sjekke helse, sult og gjeldende aktivitet for stammemedlemmene her.~p~Klikk på bildene deres for å velge dem.
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Matnettpanel
+0x0662811B Denne knappen gjør at du bytter mellom minikartet og matnettdisplayet.~p~Målet til venstre viser planetens atmosfære og temperatur, eller terraformnivå.~p~Bruk terraformingsverktøyene til å forbedre planetens terraformnivå ved å bevege prikken mot ringen i midten. Ringen i midten representerer en ideell T3-planet.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Stjernekart
+0x0664AACD Bruk stjernekartfiltrene når du navigerer deg rundt i galaksen.~p~Mitt imperium-filteret viser alle stjernene som for øyeblikket eies av imperiet ditt.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D3 Stabilisere terraformnivået
+0x066281D9 Gratulerer, du har forbedret terraformnivået til planeten!~p~En T1-planet kan opprettholde liv. Plasser planter fra lasterommet i tre størrelser for å stabilisere terraformnivået.~p~Hvis ikke du gjør dette fort, vil terraformnivået falle.
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Kommunikasjonspanel
+0x062EFB67 Alle nasjoner som får mer enn en enkelt by vises i kommunikasjonspanelet.~p~Hold markøren over ikonet til en nasjon for å sjekke forholdsstatus eller grunnen til holdningene de har til deg. Du kan også kontakte dem.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 Medlemmene i flokken din hjelper deg med å angripe andre skapninger eller bli venner med dem.~p~Du har plass til et medlem.~p~Sosialiser med en alliert for få denne skapningen til å slå seg sammen med deg.
+0x06270004 Bygg opp en flokk
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Du har fått skade og trenger noen reparasjoner. ~p~Reparasjoner er gratis på hjemmekloden, mens allierte og kolonier tar betalt for dem. Bruk kommunikasjonspanelet til å reparere.
+0x06627DBE Trenger reparasjon
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06290006 Våpenpanelet har ale verktøyene du kan bruke til ødeleggelser og forsvar.~p~Velg minilaseren ved å klikke på den.
+0x06638D98 Våpenpanel
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E GoalsNOT IN USE
+0x0626F429 På reisen mot global dominans kan det hende du kommer til å trenge litt hjelp. Her har du noen tips som kan komme godt med! NOT IN USE
+
+# Callout_SPG_ActiveTool.prop
+
+0x06638C6B Aktivt verktøy
+0x06290008 Det aktive verktøyet ditt vises på romskipikonet. Du deaktiverer et verktøy med Esc-tasten.
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Klikk her for å grunnlegge den første byen din!~p~ Du blir sendt til skaperne for å lage rådhus og et kjøretøy.
+0x06280007 Utvikle til sivilisasjon
+
+# Callout_TRG_FirstGoals.prop
+
+0x06281003 Disse målene styrer deg gjennom stammelivet.~p~Den første oppgaven blir å kle opp stammen din i stammeutstyrsbutikken!~p~Klikk på hytta ...
+0x06280003 Mål
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Plassere dyr
+0x06628274 Du har stabilisert atmosfæren og temperaturen! Merk deg at plantene du har plassert er lagt til i matnettet. Denne planeten er nå klar dyreliv.~p~Plasser planteetere og kjøttetere, i den rekkefølgen for å fylle ut matnettet.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06270000 Velkommen til land!
+0x06271000 Nå er du en skapning, omgitt av reirkompisene dine!~p~Du utvikler deg ved å treffe andre arter på planeten og få mer DNA!~p~Når du får mer DNA fylles fremdriftsmåleren din. Nå skal vi ta en titt ...~p~
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 Handelsruter vil etter hvert gjøre det mulig for deg å kjøpe et solsystem. Dra til handelspartnerens solsystem og trykk på Kjøp solsystem-knappen øverst på skjermen. Dette gjør at du åpner kommunikasjonspanelet, som lar deg kjøpe systemet.
+0x06627F31 Systemoppkjøp
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359775 Personlig historie
+0xD5359776 Denne tidslinjen viser en historie over handlingene du har gjort som celle.~p~Du har etablert et trekk som gir deg unike egenskaper for fremtidige generasjoner.~p~Hvilken sti har du valgt?
+
+# Tribe Planner
+
+0x06397802 Klikk på hatteikonet for å åpne stammemedlempanelet.~p~Hold markøren over stammemedlemmet og klikk på Rediger antrekk-knappen for å gå til stammeutstyrsbutikken.
+0x0668B06F Stammeplanlegger
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Velkommen til verdensrommet!
+0x06291000 Velkommen til det ypperste innen eksistens, det ytterste grenseland, den aller villeste vesten: Verdensrommet!~p~Du kontrollerer romskipet og leder arten din fra å være en sivilisasjon som kun holder til på en enkelt planet til å bli et galaktisk imperium.~p~Nå skal vi se litt på hvordan du gjør dette ...
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397261 En ny modus å leke med ... prøvekjøring! Prøv skapningen din før du går tilbake til planeten.
+0x06397260 NOT IN USE
+
+# Callout_SPG_CargoBin.prop
+
+0x06290005 Dette er lastepanelet. Velg bortføringsstrålen og hold inne venstre museknapp på planter eller dyr for å legge dem i lasterommet. ~p~Hvis du vil slippe fra deg noe, velger du det i lastepanelet og holder inne venstre museknapp på planetoverflaten.
+0x06638CAC Lastepanel
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Oppdragslogg
+0x065E5F30 Hvis du ser denne teksten. Skriv en bug.
+
+######################################## Creature Editor
+
+0x0668B8D1 Skapningsskaper
+
+# cell opening
+
+0x00000002 Gratulerer!
+0x00000001 Velkommen til vanndammen
+0x00000000 Gjennom hele Spore, har valgene du gjør innvirkning på fremtiden.~p~Som celle er målet ditt å spise, vokse og utvikle deg. Vekst måles med fremdriftsmåleren under.
+0x00000003 Når det gjelder å svømme i gjørme, er du den soleklare eneren i dammen!~p~Når du er klar til å strekke på beina ute i den store verden, klikker du på evolusjonsknappen.
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Historie
+0x1535ABA5 Valgene du tar gjennom utviklingshistorien har resultert i at arten din endelig har tatt steget ut i verdensrommet. Trekkene påvirker ikke bare egenskapene dine, men har også gitt deg et unikt verktøy i romskipets arsenal.
+
+# Callout_TRG_UICameraControls.prop
+
+0x06281009 Disse kontrollene gjør at du kan zoome og rotere kameraet.~p~Du kan også zoome og rotere med musehjulet. Nå prøver vi ...
+0x0665EE03 Zoom og roter
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Minikart
+0x06550367 Legg merke til at kryddergeysiren du har gjort krav på nå har fargen til nasjonen din.~p~Klikk på rådhuset på minikartet for å flytte kamera til rådhuset, så du kan begynne å bygge opp hovedstaden din.
+
+# Callout_SPG_FirstGoals.prop
+
+0x06290003 Oppdragsmålene du har for øyeblikket registreres i oppdragsloggen. Du kan følge med på opp til tre oppdrag i miniform.~p~Åpne den fullstendige oppdragsloggen med L-tasten.
+0x06638CED Mål
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Statusmålere
+
+# CalloutSample.prop
+
+0x0615824E Tittel på beskrivelse
+0x06158262 Tekst på beskrivelse
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Stjernekart
+0x0677176A Allierte og fiender-filteret viser deg regionene i verdensrommet som kontrolleres venner og fiender.~p~Imperie-filteret viser deg alle solsystemene som tilhører fremmede imperier.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06290004 Verktøyene dine sorteres etter type. Skanneverktøyet finner du i hovedverktøypanelet. Du bruker skanneverktøyet ved å klikke på det.
+0x06638D0B Hovedverktøypanel
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Fullføre terraforming
+0x066282BD Du har fullført en rad i økosystemet! Hvis du har plassert en koloni på denne planeten, kan du nå legge til bygninger ved å klikke på rådhuset.~p~Du lager flere kolonier ved å forbedre terraformnivået og fylle ut matnettet.~p~Du finner et dyr med radaren ved å klikke på dyrets prikk i matnettet.
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB33 Konsekvensegenskaper
+0x062EFB38 Dette er superegenskapene til nasjonen din.~p~Innbyggerne dine utvikler denne teknologien etter hvert som nasjonen vokser.
+
+# Callout_CRG_Stance.prop
+
+0x06270003 Stilling
+0x06271003 Stillingen din bestemmer om du angriper andre skapninger eller er snill mot dem.~p~Før du samhandler, klikker du på den grønne knappen for å bli venner eller den røde for å skaffe middag. Så kan du bruke egenskapsknappene.
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Sjeldne gjenstander
+0x065E5F4E Hvis du ser denne teksten. Skriv en bug.
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Fremdrift
+0x0626F40D Dette er fremdriftsmåleren din.~p~For hver by du erobrer, konverterer eller kjøper kommer du nærmere målet med å kontrollere hele planeten.~p~Nasjonen har til å begynne med en spesialitet, men du kan få flere ved å overta andre byer.~p~
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 Stammehøvding
+0x0678787A Høvdingen leder stammen. Stammen din kan gå i kamp uten høvdingen, men høvdingen må være til stede hvis man skal utføre sosiale samhandlinger med den andre stammen.
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Stjernekart
+0x06771767 Bruk Oppdrag-filteret til å finne solsystemer der du har oppdrag for øyeblikket.~p~Reisespor- og Besøkt-filtrene er nyttige når du vil finne ut hvor du har vært.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Flåteliste
+0x0626F457 Du kan også klikke på fremkomstmidler her, i flåtelisten, for å velge dem eller se hva de driver med for øyeblikket.~p~Når du dobbeltklikker på et fremkomstmiddelikon, velger du alle fremkomstmidlene av denne typen.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Klikk her for å etablere en stamme!~p~ Du må ta en siste tur til skaperen for å fullføre looken din for all ettertid! Dette er den siste sjansen du har til å legge til armer, de er nyttige når du skal bære verktøy!
+0x06270005 Utvikle til stamme
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCE9 Kameraopplæring
+0x0671FCED Du kan bevege kameraet fritt rundt. Dette er en god hjelp når du skal sjekke hvordan det står til i byer eller følge med på fremkomstmidler du har gitt ordre.~p~Nå tar vi en liten pause og lærer om de grunnleggende kamerakontrollene og hvordan du velger et fremkomstmiddel ...~p~
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Mål
+0x06271002 Her finner du målene dine.~p~Som dette målet antyder, mat er nødvendig for å overleve.~p~Nå skal vi se oss rundt og se om vi finner noe.
+
+# Callout_SPG_CommButton.prop
+
+0x06290002 Du bruker kortdistansevideokommunikatoren til å kontakte dem som bor på kloden under deg.~p~Du må være i bane rundt planeten for å åpne en linje.~p~Et blinkende signal betyr at noen prøver å kontakte deg ...~p~
+0x06638CCE Kommunikasjonspanel
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06280001 Fremdrift
+0x06281001 Dette er fremdriftsmåleren din.~p~Du må alliere deg med eller erobre andre stammer for å utvikle din egen art.
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Klikk her for å starte romprogrammet!~p~Du blir sendt til skaperen for å lage et skip til jomfruturen.~p~Modifikasjoner kan gjøres senere i en hvilken som helst by eller koloni i imperiet.
+0x062EFB73 Gå til romfasen
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Parringsrop
+0x067213F5 Klikk på paringsropknappen under for å finne partneren din og starte skapningsskaperen. Det er her du endrer utseende og legger til delene du har funnet rundt omkring.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Kameraopplæring
+0x06281008 Nå kan du bevege kameraet fritt rundt. Dette er nyttig når du skal sjekke hvordan det går med stammemedlemmene du har gitt ordre til.~p~Nå tar vi oss en pause og lærer de grunnleggende kamerakontrollene ...
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Utmerkelser
+0x065E5D6C Du får utmerkelser som resultat av eventyrene dine i verdensrommet.~p~Etter hvert som du får utmerkelser, går du opp i gradene, får nye titler og nye egenskaper.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Noen verktøy, som minilaseren, koster energi å bruke .~p~Fyll opp energien og helsen din via kommunikasjonsskjermen. Denne tjenesten er gratis på hjemmekloden din.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Historie
+0x1535ABA1 Handlingene dine som skapning har gitt deg et nytt trekk som definerer arten. Nye egenskaper venter deg i stammefasen.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Gratulerer!
+0x06271006 Du har kommet deg til toppen av næringskjeden!~p~Når du er klar til å prøve deg på stammelivet, klikker du på avolusjonsknappen.~p~
+

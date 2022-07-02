@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x07959A07 Voit tallentaa seikkailun vasta, kun maailmaasi on sijoitettu kapteeni.
+0x070B17F3 Käyttäjän luoma ilmoitus seikkailussa epäonnistumisesta.
+0x070B1800 Poistu
+0x070B1805 Aloita alusta
+0x071877BA Käyttäjän luoma ilmoitus seikkailun läpäisemisestä.
+0x071877C5 ~ep1_adventure_name~ tallennettu.
+0x071877AD ~ep1_adventure_win~~br~Pisteet: ~ep1_score~~br~Aika: ~ep1_time~
+0x07186066 ~ep1_adventure_lose~~br~Pisteet: ~ep1_score~~br~Aika: ~ep1_time~
+0x0757671A Aloita
+0x071877C1 Seikkailun tekijä ei ole kirjoittanut seikkailulle esittelyä.~p~Napsauta esittelypainiketta seikkailueditorissa, niin voit kirjoittaa esittelyn.
+0x07CCEEFC Miehistö
+0x07B4DD6E Voit pelata seikkailua vasta, kun maailmaasi on sijoitettu kapteeni.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Tavoitteessa on määrittämätön arvo
+0x07D91076 Tavoite on virheellinen
+
+# instance checks
+
+0x07D910E4 Tavoite ei päde kohteeseen, joka on määritetty näytöksen ajaksi aggressiiviseksi tai puolustamaan aluettaan
+0x07D910E6 Tavoite ei päde jätteihin
+0x07D910E8 Tavoite ei päde kohteisiin, jotka on määritetty näytöksen ajaksi vihamielisiksi
+0x07D910E1 Kohteen sijainti on virheellinen
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Kaikki
+
+# Second, for buildings and vehicles
+
+0x07B51559 Vie...
+0x07B5154F Tuhoa
+0x07B51562 Anna...
+0x07B5155C Kerää
+0x07B5154C Tutki
+0x07B51564 Estä...
+0x07B51567 Suojaa
+0x07B55060 Tutki kohdetta ~ep1_goal_target_name~
+0x07B55063 Tuhoa ~ep1_goal_target_name~ (tuhottu ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B5505D Mene kohteen ~ep1_goal_target_name~ luo (suoritettu ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B5506A Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luo
+0x07B55076 Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x07B55079 Suojeltavana: ~ep1_goal_target_name~ (~ep1_goal_total~ kpl)
+0x07B5506C Kerää ~ep1_goal_target_name~ (kerätty ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B55073 Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07B52A47 Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luo
+0x07B52A49 Kerää ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A41 Tutki kohdetta ~ep1_goal_target_name~
+0x07B52A44 Tuhoa ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A4C Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07B52A4E Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x07B52A3A Mene kohteen ~ep1_goal_target_name~ luo (~ep1_goal_total_or_all~ kpl)
+0x07B52A50 Suojeltavana: ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B51549 Mene
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Kohde on määritetty näytöksen ajaksi haavoittumattomaksi
+0x07D910C4 Kohteen kunto on määritetty näytöksen ajaksi nollaan
+0x07D910C0 Kohde on määritetty näytöksen ajaksi näkymättömäksi
+0x07D910CB Tavoite ei koske otuksia
+0x07D910CD Tavoite ei koske kulkuneuvoja
+0x07D910DA Tavoite ei koske animoituja hahmoja
+0x07D910DD Ainakin yhden kohteen tulee olla liikuteltava
+0x07D910D8 Tavoite ei koske pelikohteita
+0x07D910CF Tavoite ei koske rakennuksia
+0x07D910D3 Tavoite ei koske kiinteitä esineitä
+0x07D910D5 Tavoite ei koske pieniä esineitä
+
+# Special first half of give goal:
+
+0x079E8291 Etsi ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Vesikulkuneuvoja ei voi asettaa maalle
+0x07D8B21E Maa-ajoneuvoja ei voi asettaa veteen
+0x07D8C654 Otuksia ei voi asettaa veteen
+0x07D8C658 Kohde on liian korkealla planeetan pinnan yläpuolella
+
+# Goal strings used for mission cards
+
+0x0727D37F Virhe: Tavoitetta ei ole määritetty
+
+# Sculpt panel UI
+
+0x07316C03 Teemat
+0x07316C08 Kasvit
+0x079EDFB9 Erikoisuudet
+0x07316C0A Planeetan värit
+0x07316C09 Säätila
+0x0768A339 Meret ja järvet
+0x0768A3E9 Mantereet ja saaret
+0x07316C04 Vesi
+0x07316C02 Ilmakehä
+0x07316C00 Maasto
+0x07316C05 Maankaltaistus
+0x07316C0D Perustoiminnot
+0x07316C07 Kasvit
+0x07316C0E Tiet
+0x07316C01 Planeetan teemat
+0x07316C0C Joet
+0x07316C0B Maaston värit
+0x07316C06 Vuoret
+0x07316C10 Rannat
+0x07316C0F Kanjonit
+0x07B2739C Laaksot
+0x07B280CB Kukkulat
+0x07B278FF Asfalttitiet
+0x07B27900 Teknotiet
+0x07B27901 Aukiot
+0x07B278FD Soratiet
+0x07B278FE Mukulakadut
+
+# Third, for all other (tools)
+
+0x07968DE4 [Kohdetta ei määritetty]
+0x07B51644 Suojaa
+0x07B5163F Estä...
+0x07B51611 Tutki
+0x07B5160C Mene kohteen luo
+0x07B51628 Vie kohteen luokse...
+0x07B51637 Anna...
+0x07B51633 Pidä
+0x07B5162D Kerää
+0x07B52A65 Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x07B52A68 Suojeltavana: ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A61 Pidä ~ep1_goal_target_name~ hallussasi
+0x07B52A63 Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07B52A59 Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luo
+0x07B52A5E Kerää ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A56 Tutki kohdetta ~ep1_goal_target_name~
+0x07B55092 Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x07B55095 Suojeltavana: ~ep1_goal_target_name~ (~ep1_goal_total~ kpl)
+0x07B5508D Pidä ~ep1_goal_target_name~ hallussasi
+0x07B5508F Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07B55088 Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luo
+0x07B5508A Kerää ~ep1_goal_target_name~ (kerätty ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B5507B Mene kohteen ~ep1_goal_target_name~ luo (suoritettu ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B5507E Tutki kohdetta ~ep1_goal_target_name~
+0x07B52A52 Mene kohteen ~ep1_goal_target_name~ luo (~ep1_goal_total_or_all~ kpl)
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A93 Tavoite 3 suoritettu
+0x07292A91 Tavoite 2 suoritettu
+0x07292A8D Tavoite 1 suoritettu
+0x074BB7EC Näytös ~ep1_current_act~/~ep1_total_acts~
+0x07290AF8 Tavoitteen 3 edistyminen
+0x07290AF0 Tavoitteen 1 edistyminen
+0x07290AF5 Tavoitteen 2 edistyminen
+
+# Editor object intersection hints
+
+0x07DA2A90 Kun molemmat kohteet ovat nyt näkyviä näytöksessä ~ep1_visibility_intersect_act~, ne ovat liian lähellä toisiaan
+0x07D8FA97 Kulkuneuvot eivät voi olla liian lähellä pieniä esineitä
+0x07D8FA93 Kulkuneuvot eivät voi olla liian lähellä kiinteitä koristeita
+0x07D8FA90 Kulkuneuvot eivät voi olla liian lähellä otuksia
+0x07D8FA99 Kulkuneuvot eivät voi olla liian lähellä kiviä
+0x07D8FAA1 Kiinteät koristeet eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FA9E Kulkuneuvot eivät voi olla liian lähellä pelikohteita
+0x07D8FA8D Kulkuneuvot eivät voi olla liian lähellä rakennuksia
+0x07D8FA7C Otukset eivät voi olla liian lähellä kiviä
+0x07D8FA79 Otukset eivät voi olla liian lähellä kiinteitä koristeita
+0x07D8FA77 Otukset eivät voi olla liian lähellä toisiaan
+0x07D8FA87 Kulkuneuvot eivät voi olla liian lähellä toisiaan
+0x07D8FA85 Rakennukset eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FA82 Rakennuksia ei voi sijoittaa jättien alle
+0x07D8FABB Pelikohteet eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FAA8 Pienet esineet eivät voi olla liian lähellä toisiaan
+0x07D8FAA5 Pienet esineet eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FAA3 Kiinteät koristeet eivät voi olla liian lähellä otuksia
+0x07D8FAAA Pienet esineet eivät voi olla liian lähellä kiviä
+0x07D8FAB2 Kivet eivät voi olla liian lähellä pieniä esineitä
+0x07D8FAAF Kivet eivät voi olla liian lähellä otuksia
+0x07D8FAAD Kivet eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FA75 Jätit eivät voi olla rakennuksissa
+0x07D8FA72 Otukset eivät voi olla liian lähellä kulkuneuvoja
+0x07D8FA6F Nämä esineet eivät voi olla liian lähellä toisiaan
+0x07D8FAB5 Kasvustot eivät voi olla liian lähellä otuksia
+0x07D8FAB8 Kasvustot eivät voi olla liian lähellä kulkuneuvoja
+0x07ECC0AB Kivet eivät voi olla liian lähellä toisiaan
+0x07D8FA9C Kulkuneuvot eivät voi olla liian lähellä kasvustoa
+0x07D8FA7F Otukset eivät voi olla liian lähellä kasvustoa
+
+# Goal string for goal count combo box:
+
+0x07C53729 Kaikki
+
+# inter-act checks
+
+0x07D91134 Samassa näytöksessä olevalla tuonti- ja estotavoitteella ei voi olla samat kohteet
+0x07D91132 Tavoitevaatimus on ristiriidassa näytöksen toisen tavoitteen kanssa
+0x07D91130 Tavoite on kopio toisesta saman näytöksen tavoitteesta
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B1 Ystävysty otuksen kanssa
+0x073C19AF Puhu otukselle
+0x073C19B8 Suojaa
+0x073C19B4 Kerää
+0x073C19B3 Tuo...
+0x073C19B6 Anna...
+0x073C19B7 Estä...
+0x073C19B2 Hanki liittolainen...
+0x073C19B0 Tapa
+0x073C19AE Mene
+
+# goal count checks
+
+0x07D91125 Alueella on oltava vähintään yksi kelvollinen tavoite
+0x07D91128 Alueella on oltava vähintään kaksi kelvollista tavoitetta
+0x07D9112B Kaikkien tavoitteiden suorittamista vaaditaan, mutta alueella ei ole kelvollisia tavoitteita
+0x07D91122 Tavoitevaatimus on suurempi kuin alueella olevien tavoitteiden määrä
+0x07D9112E Virheellinen määrä avoimia jahtiseuruepaikkoja
+
+# Explain to user/author why the adventure was lost
+
+0x0796CEE4 Kuolit.
+0x0796D59A Töpeksit tavoitteessa: ~ep1_goal_description~
+0x0796CFE1 Epäonnistuit tavoitteessasi pitää ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~.
+0x0796CFE5 Epäonnistuit tavoitteessasi suojata ~ep1_goal_target_name~ (~ep1_goal_total~ kpl).
+0x0796D599 Et voi enää suorittaa tavoitetta: ~ep1_goal_description~
+0x0796CFDD Aika loppui.
+0x07C50B5F Näytöksessä on kahdentunut tavoite.
+
+# First, for creatures
+
+0x0727D387 Puhu otukselle ~ep1_goal_target_name~
+0x07311C6E Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x072AA965 Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07311C75 Suojele: ~ep1_goal_target_name~ (~ep1_goal_total~ kpl)
+0x0727D38E Hanki liittolainen: ~ep1_goal_target_name~ (~ep1_goal_progress~/~ep1_goal_total~)
+0x0727D38B Hanki ystävä: ~ep1_goal_target_name~ (ystäviä ~ep1_goal_progress~/~ep1_goal_total~)
+0x0727D391 Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luokse.
+0x0727D384 Mene kohteen ~ep1_goal_target_name~ luo (suoritettu ~ep1_goal_progress~/~ep1_goal_total~)
+0x0727D389 Eliminoi ~ep1_goal_target_name~ (eliminoitu ~ep1_goal_progress~/~ep1_goal_total~)
+0x072AA963 Kerää ~ep1_goal_target_name~ (kerätty ~ep1_goal_progress~/~ep1_goal_total~)
+0x07B52A25 Puhu otukselle ~ep1_goal_target_name~
+0x07B52A21 Mene kohteen ~ep1_goal_target_name~ luo (~ep1_goal_total_or_all~ kpl)
+0x07B52A28 Tapa ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A2C Hanki liittolainen: ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A2A Hanki ystävä: ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A2E Vie ~ep1_goal_target_name~ kohteen ~ep1_goal2_target_name~ luo
+0x07B52A36 Pidä ~ep1_goal_target_name~ loitolla kohteesta ~ep1_goal2_target_name~
+0x07B52A31 Kerää ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+0x07B52A34 Anna ~ep1_goal_target_name~ otukselle ~ep1_goal2_target_name~
+0x07B52A38 Suojeltavana: ~ep1_goal_target_name~ (~ep1_goal_total_or_all~ kpl)
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 ~timelinePlanetName~ on suoritettu.
+0x076B2671 ~timelineMySpeciesName~ löysi osan ~timelinePartName~.
+0x076B2674 Ylennys
+0x076B2675 ~ep1_captain_name~ on ylennetty, ja hänen arvonimensä on nyt ~ep1_captain_primary_title~.
+
+# Used for palette
+
+0x07103109 Sijoitetut esineet
+0x0710310A Äänet
+0x07103106 Rakennukset
+0x07103107 Kulkuneuvot
+0x07103108 Otukset
+0x0710310C Käytössä olevat hahmot
+0x079C4769 Pelikohteet
+0x0710310B Tehosteet
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x07312E6E Nimeä seikkailu
+0x075E40EF Uuden kohtauksen alaotsikko 3
+0x075E40EE Uuden kohtauksen alaotsikko 2
+0x075E40ED Uuden kohtauksen alaotsikko 1
+0x075E40EC ~Generic0~
+
+# other
+
+0x07D91140 Varattu viidennelle hätävihjeelle
+0x07D9113E Varattu neljännelle hätävihjeelle
+0x07D9113B Varattu kolmannelle hätävihjeelle
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Barátkozás
+0x01020007 Felfedezés
+0x01020003 Nincs műfaj
+0x01020004 Támadás
+0x01020005 Védekezés
+0x0102000A Gyűjtés
+0x01020009 Történet
+0x01020008 Küldetés
+0x0102000D Sablon
+0x0102000C Bolygók
+0x0102000B Fejtörő
+
+#######################################
+# Filter Names
+
+0x01020001 Kalandok
+0x01020002 Játszható kalandok
+0x07200107 Kapitány
+0x07200108 Kapitányaim
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ lejátszás
+
+### Difficulty Descriptions
+
+0x07D86C49 Nehézségi szint: ~ep1_adventure_difficulty~
+0x07D86C6A Nagyon könnyű
+0x07D86C87 Közepes
+0x07D86C7C Könnyű
+0x07D86CA8 Nagyon nehéz
+0x07D86C9F Nehéz
+
+# Unpublish
+
+0x07D9CFD7 A továbbiakban nem kívánod megosztani ezt a kreációt? Eltávolításra kerül a szerverről.
+0x07D9CFB6 Megosztás befejezése
+
+#######################################
+# Misc
+
+0x02000002 ~num_selected_items~ tárgy kiválasztva
+0x02000001 A kiválasztott tárgy szerkesztés alatt áll. Most nem távolíthatod el.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Objektumok
+
+# Audio filters
+
+0x01021007 Tömeg
+0x01021006 Hang
+0x01021008 Környezet
+0x0102100A Zene
+0x01021009 Mechanikus
+0x0102100C Egyszeri
+0x0102100B Jegyzet
+
+### Ratings
+
+0xC7647889 Értékelés
+
+# Download adventure
+
+0x02200002 Meg kívánod nyitni ezt a kalandot?
+0x02200001 Kaland letöltése
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ pont
+
+#######################################
+# Category Names
+
+0x00000001 Kaland objektumok
+
+# Fixed object filters
+
+0x01021004 Sziklák
+0x01021003 Játékbeli objektumok
+0x01021002 Kézben tartott objektumok
+0x01021005 Statikus díszek
+0x01021001 Rögzített objektumok
+
+# Effects filters
+
+0x01022003 Természeti effektek
+0x01022002 Fényeffektek
+0x01022006 Egyszeri effektek
+0x01022005 Véletlenszerű effektek
+0x01022004 Sci-fi effektek
+0x01022001 Effektek
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Válassz bolygót
+0x07B24B83 A ranglista és a kaland értékelésének megtekintéséhez be kell jelentkezned.
+0x079EDCD5 Hozd létre kapitányodat vagy válassz ki egyet
+0x072925B0 Válassz ki egy kalandot
+0x072000E3 Kapitány létrehozása vagy kiválasztása
+0x072925BB Válassz ki egy vagy több effektet
+0x072925BA Válassz ki egy vagy több űrhajót
+0x072925B9 Válassz ki egy vagy több járművet
+0x07B67C69 Válassz ki egy vagy több játékbeli objektumot
+0x072925BD Válassz ki egy objektumot
+0x072925BC Válassz ki egy vagy több hangobjektumot
+0x072925B8 Válassz ki egy vagy több épületet
+0x072925B4 Válassz ki egy hangobjektumot
+0x072925B3 Válassz ki egy vagy több objektumot
+0x072925B2 Hozz létre vagy válassz ki egy stábtagot
+0x072925B7 Válassz ki egy vagy több lényt
+0x072925B6 Válaszd meg kalandod stábját
+0x072925B5 Válassz növényzetet
+

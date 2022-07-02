@@ -1,0 +1,94 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000003 Congratulations Cadet! You've got a fine ride there!~p~We are still adding new equipment to your ship but we should have it ready for space travel in no time! ~p~Have you flown a space ship before? No? ~p~Hmmm... well... nothing like a test flight while the entire population of the ~player_creature_name~ of Planet ~race_homeworld~ looks on.~p~What do you say? Ready to earn your Captain's Badge?~p~
+0x00000004 Now that you're an ace at flying we're ready for you to use some of the sophisticated tools we've invented for your spaceship.~p~We've been working on the ability to SCAN the plants and animals you discover on your travels.~p~Looks like this tool comes just in the nick of time! The Sporepedia record of one of our own animals recently became corrupted at the same time the animal started exhibiting some odd symptoms.~p~We need you to scan the animal so we can collect more information about this species.
+0x00000006 Gadzooks! The information you collected by scanning was quite valuable.~p~It is now clear to us that we need to examine this species more closely. ~p~Your ship is equipped with an Abduction Beam, which you'll find in your Cargo panel. Use this tool to collect a specimen and return it to us. 
+0x00000001 It appears that the specimen you collected was sick and is infected with a virus that is capable of spreading at an alarming rate. It could endanger our entire ecosystem.~p~Of course we want to handle this compassionately. We've equipped your spaceship with an extremely handy Mini Laser. It has the precision you'll need to take out the infected creatures, while avoiding the healthy creatures.
+0x0000000D Okay. I'm in.
+0x00000005 I already know how to command my ship. Been there, done that.
+0x00000007 If you feel you're made of the right stuff then by all means proceed. ~p~We've equipped your spaceship with all the right gear to start our space exploration program.~p~Are you prepared to leave the planet?
+0x00000008 Not yet, I've changed my mind. Let's visit cities.
+0x00000009 Yes, I know what I'm doing. Get my spaceship ready for space travel.
+0x0000000A That's the spirit!~p~Each city on Planet ~race_homeworld~ has launched a giant orb in celebration of our first spaceship! Really... you can't miss them!~p~Take your ship on a spin around the planet to ~mission_explore_num_cities_to_visit~ of our cities. Fly through the orbs to break them!~p~Once you have finished we'll give you further instructions. ~p~Good luck and try not to scratch the paint.
+0x00000041 The creature in question is exhibiting an odd glowing trail.~p~Your ship has been equipped with a Radar Tool that can be turned off and on in the Main Tools panel. It will point to mission targets and items of interest when on a planet's surface. The Radar beeps faster when you're closer to your target~p~Select the Scan Tool from your Main Tools panel. 
+0x0000000B Use the Abduction Beam, found in the Cargo panel, to collect this creature for further research.~p~Make sure you deploy the tool long enough, until the creature is fully secured in the ship's cargo bay.~p~Stopping the ray too soon, before your cargo is secured, may result in less than desirable circumstances for the victim... er, I mean specimen.
+0x0000000C Select the Mini Laser in your Weapons panel and aim it at the infected creatures. ~p~Be careful where you point that laser. It's capable of destroying buildings, vehicles, and other spaceships. ~p~Now go, before the infection spreads further!
+0x0000004D I'll be back soon.
+0x0000000F Good job cadet. With flying like that, you'll make Captain in no time.
+0x00000019 Excellent! Our scientists are eager to analyze the data.
+0x00000010 Measurably fine work cadet. You've provided us with an excellent specimen to research. Probe twice, abduct once I always say.
+0x00000011 Laudable job! You are the right stuff. You've earned your homeworld's respect and confidence. We want you to pilot this spaceship and lead our race forward into galactic exploration and glory.~p~You've earned the badge and title of Captain.~p~Our scientists have developed an interplanetary drive for your ship, but you'll need to install it first, Captain.
+0x00000021 So, what do you want me to do next?
+0x00000025 Sounds good. I'm ready.
+0x00000013 Is there a problem cadet? ~p~You'll need to fly through any 7 spheres that appear over a city. Use the arrow keys or Hold the Right Mouse Button to fly your spaceship. Use the Middle Mouse Wheel to raise and lower your elevation.~p~You can also navigate around the globe by left clicking the mini map.
+0x00000029 Having a hard time scanning a specimen? ~p~With the Scan Tool selected, left click on one of the glowing yellow creatures. ~p~If you're having a difficult time locating the corrected creature, try increasing your altitude with the Middle Mouse Wheel in order to get a bird's eye view and look for the yellow arrows. ~p~Then you can fly in low, once you've located your target.
+0x00000014 We really need that specimen delivered to us for studying. ~p~With your abduction ray selected, Left Click on the creature you want to abduct. You must hold down the Left Mouse Button the entire time until the creature is secured in your cargo bay. ~p~Your goal card will update when you've secured your cargo.~p~Once you've got one of the little buggers in your cargo bay, fly to any city and drop it off inside the city walls. Make sure you don't let the specimen drop, it's such a mess.~p~We'll send a handler out to secure the creature when it's been delivered.
+0x00000015 You still haven't exterminated all of the infected creatures? ~p~Make sure you have the laser equipped and Hold the Left Mouse Button on the infected creatures. They're fast so you'll need to move your laser around until you've hit them.
+0x0000003D Right. I see now. Thanks.
+0x00000017 In that case, it seems like we're looking at our new Captain. Are you ready to take on more exciting missions?
+0x00000051 Flight101_Scan Reject
+0x00000018 Flight101_FetchAnimal Reject
+0x0000001A Flight101_EradicateAnimals Reject
+0x00000061 Yes. What's next?
+0x0000001C In that case, it seems like we're looking at our new Captain. Are you ready to take on more exciting missions?
+0x00000065 Flight101_Scan Abort
+0x0000001D Flight101_FetchAnimal Abort
+0x0000001E Flight101_EradicateAnimals Abort
+0x00000071 Yes.
+0x00000075 ...
+0x00000076 I'm sorry. What's the mission again?
+0x00000020 Looks like you've collected the correct specimen. We'll need you to drop it off inside one of our cities.~p~Select the cargo you want to drop off in the Cargo panel and drop it off in a city.~p~Make sure you beam it safely to the surface or we'll need you to collect another specimen and clean up your mess.
+0x00000022 Got it.
+0x00000023 You still need to drop off the specimen at one of your cities.~p~Select the item you want to drop off by Left Clicking the item in your cargo bin. This will equip your Transport Beam allowing you to place the item on the ground. Fly to one of your cities and drop off the specimen. Hold the Left Mouse Button down until the creature has made it safely to the surface inside one of your cities. ~p~Letting go too soon will drop the item, destroying it.
+0x00000024 Right. I see now. Thanks.
+0x00000086 Fly through the orb over ~mission_explore_num_cities_left_to_visit~ more ~^p^mission_explore_num_cities_left_to_visit^city^cities~.
+0x00000026 Scan the missing species.
+0x00000027 Abduct a ~mission_item~ animal.
+0x0000000E Drop off the ~mission_item~ within the city walls.
+0x00000028 Remove ~mission_num_kills_needed~ more diseased ~^p^mission_num_kills_needed^animal^animals~.
+0x0000002B Open your communications.
+0x0000002C Open your communications.
+0x0000002D Open your communications.
+0x0000002E Open your communications.
+0x00000002 Use the Right Mouse Button to fly and +/- to change altitude.
+0x00000030 Use the Scan Tool to enter the information targeted creature into Sporepedia.
+0x0000008B The Abduction Beam is found in your Cargo area. 
+0x00000012 Click on the ~mission_item~ in the Cargo area, then click and hold inside any city.
+0x00000031 Use the Mini-Laser in the Weapons group.
+0x0000008C You visited ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^city^cities~. 
+0x00000033 You scanned the new species.
+0x0000008D You successfully retrieved ~mission_item~ animal. 
+0x00000034 You successfully eradicated diseased ~mission_target_animal_species~ animals.
+0x00000088 You successfully visited ~mission_explore_num_cities_to_visit~ cities.
+0x00000036 You successfully scanned the species.
+0x00000089 You successfully retrieved ~mission_item~ animal.
+0x00000037 You successfully removed diseased ~mission_target_animal_species~ animals.
+0x00000039 Visit ~mission_explore_num_cities_left_to_visit~ more ~^p^mission_explore_num_cities_left_to_visit^city^cities~ and fly thru the hovering orb to pop it.~p~Use the arrow keys to move your spaceship. You can also hold down Right Mouse Button to fly.~p~To change your altitude use either the +/- keys or the mouse wheel.~p~Look for shiny orbs over the cities and fly through the orbs.
+0x0000003A The Sporepedia record of a local creature has vanished. Use the Scan Tool to collect the information about this creature.~p~The Scan Tool is located in the Main Tools section.~p~The creature in question has a glowing trail. To track this creature, listen to the signal from the Radar.~p~You may find it easier to track from higher or lower altitudes. Use the +/- keys or the mouse wheel to change altitude.
+0x0000003B Abduct a specimen and drop it off in a city for studying.~p~With the Abduction Beam selected, Left Click and Hold on the creature you want to abduct. The Abduction Beam is in the Cargo area of the Tool groups. Deploy the beam until the creature is secured up into your cargo bay.~p~Once you have obtained a specimen, fly to any city and drop it off gently inside the city walls. To do this, select the item you with to drop from the Cargo area. Left Click on the location you wish to place the object and hold. Again, hold the button until the creature is safely on the ground.
+0x0000003C To prevent the infection from spreading, remove ~mission_num_kills_needed~ diseased ~mission_target_animal_species~ ~^p^mission_num_kills_needed^animal^animals~ from the Homeworld.~p~Use the Mini-Laser found in the Weapons.
+0x0000003F You visited ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^city^cities~. Open your communications.
+0x00000040 You scanned the new species. Open your communications.
+0x00000042 You successfully fetched ~mission_item~. Open your communications.
+0x00000043 You successfully eradicated diseased ~mission_target_animal_species~ animals. Open your communications.
+0x00000045 You successfully visited ~mission_explore_num_cities_to_visit~ cities.
+0x00000046 You successfully scanned the species.
+0x00000047 You successfully fetched ~mission_item~.
+0x00000048 You successfully eradicated diseased ~mission_target_animal_species~ animals.
+0x0000008E Success! Open your communications.
+0x0000004A Scan successful. Open your communications.
+0x0000008F ~mission_item~ received for examination. Open your communications.
+0x0000004B Successfully eradicated diseased ~mission_target_animal_species~ animals. Open your communications.
+0x0000004E Successfully abducted ~mission_item~. Open your communications.
+0x0000004F You dropped the ~mission_item~ far from any of the cities. Pick it up and place it inside the city walls.
+0x00000050 ~mission_num_eradicated_creatures~ down, ~mission_num_kills_needed~ more ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ to go.
+0x00000077 Eradicate glowing creatures only, please. Thank You.
+0x00000078 Mission Failure. Too many untargeted eradications.
+0x00000079 ~mission_num_healthy_creatures_left~ more untargeted ~^p^mission_num_healthy_creatures_left^eradication^eradications~ will cause mission failure.
+0x00000052 You're not bringing that thing on-board. No way!
+0x0000007B Don't take in animals targeted for eradication.

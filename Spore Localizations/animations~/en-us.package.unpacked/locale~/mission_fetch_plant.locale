@@ -1,0 +1,234 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000065 Yes, Captain. There is a little something we were needing help with if you have some time.~p~We will of course reimburse you for your efforts.
+0x00000069 Well, I'd have to get approval of course. But I do know there is a plant retrieval that has been designated for outsourcing...
+0x000000AF Ya... I think we have something... Are you one with nature?... Do you have a connection to plant life?
+0x000000B0 Let's see, let's see.~p~Yes, yes.~p~Here we have something. We are in urgent need, urgent need of a plant...
+0x000000B1 Hee ho! You need money do you! Ha!~p~We can send you here and there. Are you fast? We have a quick botanical errand.
+0x000000B2 Yes, indeed. There is a plant we seek...
+0x000000B3 Yes, ~player_title~ ~player_creature_name~. We have need of a specimen of plant...
+0x000000B4 Yes. We seek a plant...
+0x000000C4 There is a plant we seek...
+0x000000C6 Accessing records. Request Approved.
+0x0000001F Tell me more...
+0x00000020 I'm interested.
+0x00000021 I'd like to hear more...
+0x00000022 I'm available.
+0x00000023 Oops! I just remembered... I'm busy.
+0x00000024 Let me get back to you on that.
+0x00000025 Actually, nevermind. I wanted to ask you something else...
+0x00000026 I'm looking for something different.
+0x00000003 We need you to retrieve a sample of a particular plant species for us on planet ~mission_target_planet~ in the ~mission_target_star~ system.~p~The ~mission_item~ plant, and its extraordinary medicinal properties have been whispered about for millennia, but it was assumed to be nothing more than myth and superstition, a popular fairy-tale among the galaxy's bohemians and slackers.~p~It is imperative that we analyze this plant, and its active compounds, for the betterment of all!
+0x00000142 ~mission_item~ has been discovered to have useful pharmaceutical properties. Can you bring us a sample, so that we can cultivate it? 
+0x00000143 All the ~mission_item~ in our Exobiology Museum died from an unknown cause. Can you replace them?
+0x00000144 A blight has wiped out ~mission_item~ on our world. Can you bring us a specimen?
+0x00000001 Hey, Space-dude. You'd really be doing us a favor if you'd haul over to the ~mission_target_star~ system, and brought us back a sprout of the ~mission_item~ herb from planet ~mission_target_planet~. We'd like, totally be your friend, if you did that. Totally. ~p~You see, the Emperor's birthday is coming up, and the old coot is always talking about how the royal gardens are missing a ~mission_item~ plant. If I had one, It'd totally make the other gifts look like Grox-fertilizer! It'd be so awesome!
+0x00000002 We have a mission of terrible importance to the ~mission_source_empire~. We need you to retrieve a certain plant for us. ~p~For eons, we've suffered from a terrible variety of ailments, from the vapors and sporiasis, to foreign accent syndrome and trenchfoot. ~p~However, we've recently learned of the ~mission_item~ plant, found on planet ~mission_target_planet~ in the ~mission_target_star~ system. This amazing flora is said to have curative properties for all these ailments, and we expect to corner the market!
+0x00000004 We have sizable stakes in several large pharmaceutical companies, and an amazing new plant, the ~mission_item~, threatens to undermine our business model. ~p~This remarkable flora grows exclusively on ~mission_target_planet~, in the ~mission_target_star~ system. The restorative properties of the ~mission_item~ are said to be unparalleled in the universe! ~p~We need you to retrieve a sample for us - we want to make sure these claims are true before we obliterate the planet!
+0x00000005 The ~mission_item~ plant is cloaked in mystery, shrouded in legend, and obscured by the mists of time. It was long considered to be a myth, but now we have proven its veracity, and determined its location as well! ~p~You must spirit yourself quickly and discretely to planet ~mission_target_planet~ in the ~mission_target_star~ star system and return with a specimen. ~p~We're going to make a fine tea on that day, I declare! 
+0x00000006 MISSION OVERVIEW: Retrieve floral sample.~p~MISSION STAR SYSTEM: ~mission_target_star~.~p~MISSION PLANETARY BODY: ~mission_target_planet~.~p~TARGET FLORA: ~mission_item~.~p~REASONING/OTHER: Genetic noise must be muted.~p~COMPENSATION: ~mission_rewards~.
+0x00000007 Our ecologists suspect that ~mission_item~ might find a suitable niche in our ecosystem, but it must first be studied carefully. Can you bring a sample to our Collegiate Arboretum?
+0x00000008 Scans of ~mission_item~ indicate that it might have a natural immunity to the Three-Toed Arboreal Wasp that has become such a danger to our food crops. Will you bring us a sample?
+0x00000009 The dried stalks of ~mission_item~ have proved useful in providing an environmentally safe energy source, but our team has misplaced its only sample. Can you bring us a specimen?
+0x0000000A The celebration of the Holy Heart of Spode will soon take place throughout Spode's Holy Empire. We need an adequate supply of ~mission_item~ to decorate Spode's altars. Will you bring us some?
+0x0000000B Our theologians are always adding to our knowledge of Spode's creation. We have not yet categorized ~mission_item~ as clean or unclean. Can you bring us a specimen?
+0x0000000C ~mission_item~ has been deemed a Sanctioned Symbol of Spode's Holy Light. We are now faced with a shortage. Can you help us?
+0x0000000D The Botanical Gardens are being upgraded by order of the Grand Council. In order that we complete our collection and that our scientists will have the largest number of plants for study, we request that you travel to ~mission_target_star~ and fetch ~mission_item~.
+0x0000000E Our botanists have recently developed an interest in the unique properties of ~mission_item~. Our own specimens were lost in a bureaucratic mix-up. Would you be interested in replacing them?
+0x0000000F The Grand Council desires nothing so much as the health and welfare of our citizens. The pharmaceutical properties of ~mission_item~ have recently been discovered on another of our worlds. Can you bring us a specimen in order to promote the health of this world? 
+0x00000010 The pharmaceutical uses of ~mission_item~ has recently been discovered by our scientists. This could be of invaluable benefit to the health of our citizens who suffer from Glarthrb's Palsy. Would you be willing to bring us a supply?
+0x00000011 A recent blight has wiped our world clean of ~mission_item~. Would you be willing to fetch us some uncontaminated samples from ~mission_target_planet~?
+0x00000012 We suspect that the unique DNA of ~mission_item~ may be useful in solving several biological mysteries. Would you be willing to bring us a sample so that we may isolate its properties?
+0x00000013 The Yawning Festival is coming up, and we need an adequate supply of ~mission_item~ to make fans from its branches. Can you bring us some?
+0x00000014 We're bored with our view here, and we've decided to stage an opera and re-landscape the entire planet! We will plant ~mission_item~ here and there, just to provide interesting accents, but we seem to have run short. Can you bring us some?
+0x00000015 We've got the Festival of Refined Irony on the horizon, and I'd like to wear a new ensemble calculated to provide a subtle commentary on the mores and follies of our time. A sprig from the branches of ~mission_item~ will be required for the hat. Could you possibly bring me a sprig of ~mission_item~ quietly, on the sly, so no one will know what I'm up to?
+0x00000016 We have discovered a new and profitable use for ~mission_item~! We would be willing to share our profits with your radiant majesty if you should bring us such a plant from its home world.
+0x00000017 A recent fashion for ~mission_item~ in landscaping has caught us with an inadequate supply. Though we hesitate... to trouble a being of your awesomeness, might we tempt you to fetch us some ~mission_item~ in return for a reward?
+0x00000018 Difficult though it must be for a being as cosmic as yourself to concern yourself with mere planetary matters, we have discovered that ~mission_item~ has uses in medicine. In return for a reward, could we ask you to bring us such a plant and increase the happiness and health of our customers?
+0x00000019 The Ceremony of Transcendent Being is about to take place, and we must all bedeck ourselves with ~mission_item~. We're running a little short... could you help us?
+0x0000001A One of our gurus has discovered that ~mission_item~ is useful for inner cleansing. The plant has proven so useful that we've run out... would you possibly bring us some? 
+0x0000001B A seer has had a dream informing him that ~mission_item~ can save the universe from regressing during the turning of the next Cycle! Can you bring us some?
+0x0000001C We have discovered a use for ~mission_item~ in healing wounds. Would you bring us one for our medical arboretum?
+0x0000001D An enemy biological strike has wiped out ~mission_item~ from our world. Would you be willing to bring us a new sample?
+0x0000001E We suspect that ~mission_item~ may secrete a natural toxin that might be of use to our biological warfare specialists. Can you bring us some?
+0x0000013F It is necessary that you bring us a plant from ~mission_target_planet~. You will agree. 
+0x00000140 You will bring us ~mission_item~. It is not necessary for you to know the purpose of this mission.
+0x00000141 Our studies of weaknesses of organic systems require ~mission_item~. You will bring this.
+0x000000C7 Abduct a plant? Yeah, I can do that.
+0x000000C8 This sounds pretty easy. I'm in.
+0x000000C9 Yeah, okay. I'll do it.
+0x000000CA Sure. Sounds fun.
+0x000000CB I'll have to pass. I think I am allegic to ~mission_item~ pollen.
+0x000000CC Actually, I'm going to have to pass. I don't wan't plant droppings in my cargo hold.
+0x000000CD I hate to say no... but, no.
+0x000000CE I'm sorry. I can't do this at the moment.
+0x00000027 If there's one thing the ~race~ have learned since we launched you into space, it's that we can always count on ~player_creature_name~ to get the job done, and done well. ~p~Soon, we will have unlocked the secrets of this plant, and you shall ease the suffering of millions from the many illnesses for which ~mission_item~ provides relief. ~p~For your unwavering dedication to our people, please accept ~mission_rewards~.
+0x00000028 Oh, yeah! Great work, amigo! And you have quite an eye for greenery, as well! That's an excellent example of the ~mission_item~ plant. The emperor will be most pleased! ~p~While you were away, I did some snooping to find out what other birthday gifts the Emperor will be receiving, and this one is by far the best. This is really going to kick my career into overdrive! ~p~We offer you a payment of ~mission_rewards~ Sporebucks. Many thanks, big guy.
+0x00000029 We're so overwhelmed with joy and gratefulness... we... we... we must sit for a moment. The Market is reacting.~p~You have performed a great service for the ~mission_source_empire~! The new product line you have made possible will make you rich. Enjoy the ~mission_rewards~ as a first day bonus!
+0x0000002A Well, done! We could tell from the moment we met you that you were a true friend of the free market. After all, if everyone could maintain their health cheaply, then the economic engines that power the ~race~ society would break down, and we can't have that! ~p~Take your payment of ~mission_rewards~ Sporebucks and be gone. Remember to keep quiet about what you know about the ~mission_item~ - we don't want to have to label you an enemy of progress. That always ends in tears.
+0x0000002B Why, Elder Gods be praised! You've returned, magnanimous in victory, and with an air of humility about you so lacking in your peers and comrades. It is as refreshing as melt-water from the SaccaRhine River. Truly, you are the very model of a modern major voyager. ~p~Please, allow us to compensate you for your travails with the reward of ~mission_rewards~ Sporebucks, as thanks for services expertly rendered.
+0x0000002C MISSION STATUS: Successful transfer of ~mission_item~ plant to the ~race~. ~p~STATEMENT OF PRAISE: Well done. You are a credit to slow-thinking, biologically-based meatbag entities everywhere. Additionally, your personal scent is not as odious as initial assessments indicated. ~p~PAYMENT: ~mission_rewards~. ~p~SOCIAL NICETY: Thank you, carbon wad.
+0x0000002D Hey ~player_title~ ~player_creature_name~... Thank you.~p~If nurtured carefully, this plant may prove beneficial... both to our economy and ecology! We're happy to present you with ~mission_rewards~ Spucks.
+0x0000002E ~player_title~ ~player_creature_name~.~p~Spode's faithful delight in the presence of ~mission_item~! Take your ~mission_rewards~ Sporebucks and Spode's blessing.
+0x0000002F Welcome ~player_title~ ~player_creature_name~. ~p~Thank you for your efforts! The Grand Council offers you a Certificate of Commendation, Third Class, and ~mission_rewards~ Sporebucks.
+0x00000030 ~player_title~ ~player_creature_name~. Our citizens' health will soon be improved! You have behaved in a sagacious way, and sagaciously we offer you ~mission_rewards~ Sporebucks.
+0x00000031 Hee hee! You arrived just in time, ~player_title~ ~player_creature_name~! Everyone's talking about ~mission_item~! Please take your ~mission_rewards~ Spucks!
+0x00000032 Welcome, welcome ~player_title~ ~player_creature_name~.~p~Truly the prospect of profit brings happiness to all sentient beings! Please enjoy your ~mission_rewards~ Sporebucks and a tour of the emporium.
+0x00000033 Dear ~player_title~ ~player_creature_name~. ~p~We happily accept this ~mission_item~ with full confidence that it will increase our store of metaphysical cool points! Your reward of Sporebucks in the number of ~mission_rewards~ are well deserved!
+0x00000034 ~player_creature_name~. Well done. You have shown yourself employable. Please take these ~mission_rewards~ Sporebucks.
+0x00000145 ~player_creature_name~. The plant has arrived in suitable condition. As is customary among organic species, we are transferring ~mission_rewards~ Sporebucks.
+0x00000146 Welcome back, Captain.~p~The plant called ~mission_item~ has arrived in good shape! Excellent work! We have ~mission_rewards~ Sporebucks for your efforts.
+0x00000035 I'd like to ask you something else...
+0x00000036 Before I go, I have other questions.
+0x00000037 Also...
+0x00000038 One more thing...
+0x00000039 The best part of my job is the cash! Goodbye.
+0x0000003A Happy to be of service. Farewell.
+0x0000003B Cash! I'm eating steaks tonight! Out.
+0x0000003C Hey, no problem. You're welcome. So long.
+0x0000005F It is my pleasure to serve you. Goodbye
+0x0000003D You appear to be suffering from some short-term memory loss. Fortunately, the ~mission_item~ plant is rumored to be a terrific boon for overall cognitive functioning. ~p~Here's a recap: Go to the ~mission_target_star~ system, and gather a sample of the ~mission_item~ plant from ~mission_target_planet~.
+0x0000003E Oh no! This is a nightmare! The Emperor's birthday celebration is almost upon us. ~p~Quickly! You must make tracks to planet ~mission_target_planet~ in the ~mission_target_star~ system and bring me a ~mission_item~ plant. ~p~Everyone must know that my love and devotion for the Emperor is unsurpassed in all the galaxy!
+0x0000003F Oh? Have you become confused over something? ~p~That's thoroughly understandable - this is a very complex mission involving the wrangling of exotic and cunning flora. ~p~Here's a recap: ~p~Go to the ~mission_target_star~ system and locate planet ~mission_target_planet~. There, you will find the ~mission_item~ plant. Bring us a sample. ~p~Hmm, now that I say that out loud, it doesn't sound very complex, after all.
+0x00000040 This is unacceptable! You should already be half-way to the ~mission_target_star~ system by now! ~p~Tick tick tick... every second wasted here is time that could be better spent on the surface of planet ~mission_target_planet~, collecting a sample of the ~mission_item~ plant.
+0x00000041 Perhaps you, too, have been overcome with excitement over the existence of the legendary ~mission_item~ plant? It is exciting, isn't it? ~p~Nonetheless, we expect you to carry out you mission in a timely fashion, so please let out for planet ~mission_target_planet~ in the ~mission_target_star~ star system post-haste, and retrieve a sample specimen for our most learned and scholarly botanists to study.
+0x00000042 MISSION STATUS: Incomplete. ~p~STATEMENT OF DISAPPROVAL: What is taking so long? This is slow, even by the standards of a walking bag of poorly optimized fluids such as yourself. ~p~MISSION RE-CAP: Retrieve ~mission_item~ sample from planet ~mission_target_planet~ in the ~mission_target_star~ system.
+0x00000043 Didn't you promise to bring us ~mission_item~ from ~mission_target_star~? Can you complete this mission? All relevant data is stored in your Mission Log. 
+0x00000044 You are overdue. Where is the ~mission_item~ that you promised to bring us, as witnessed in your Mission Log? Will you bring what you promised, or must you face the Wrath of Spode? 
+0x00000045 You have not brought us the ~mission_item~ for the Botanical Gardens. Our specifications are in your Mission Log. Will you be fetching it anytime soon?
+0x00000046 On our last meeting, you indicated your willingness to travel to ~mission_target_star~ in search of ~mission_item~. Is the memory of your Mission Log defective, or is there some other reason you've returned with empty holds?
+0x00000047 Hmm. Let me try words of one syllable: Where is the ~mission_item~ that you said you would bring? Aren't all the details in your Mission Log? 
+0x00000048 What happened to the ~mission_item~ from the ~mission_target_star~ system? We've borrowed heavily for the processing plant, and wish the profits to start flowing immediately. All details of the agreement should be found in your Mission Log. 
+0x00000049 We had thought you were bringing us ~mission_item~, but it seems you weren't. Did you accidentally erase your Mission Log? 
+0x0000004A You had obliged yourself to visit to ~mission_target_star~ in search of ~mission_item~. Has this escaped both your memory and the memory of your Mission Log?
+0x00000147 You have not returned with ~mission_item~ as we commanded. All parameters have been uploaded into your Mission Log.
+0x00000148 We're still waiting for ~mission_item~! You should be able to find the details in your Mission Log.
+0x0000004B I'd like to ask you something else...
+0x0000004C Before I go, I have other questions.
+0x0000004D Can I ask about something else?
+0x0000004E One more thing...
+0x0000004F This mission is far too complex for me. I quit.
+0x00000050 This is one wily, slippery plant. I give up.
+0x00000051 I tire of this mission. Thanks, but I'm done.
+0x00000052 Bah! Feh! I give up.
+0x00000053 Ahh, okay. I've got it now.
+0x00000054 Ooh. I see. Okay, I'm off.
+0x00000055 Oooh. Bring you the plant. My bad.
+0x00000056 Okay, I think I'm clear on my mission now.
+0x00000057 Hey, ~player_title~ ~player_creature_name~...~p~Wait... where is the ~mission_item~? Didn't we ask you to bring one?... Oh, you have failed?... bummer.
+0x00000058 ~player_title~ of the ~player_creature_name~, you have failed to bring us a simple plant in the time allowed. We shall not forget.
+0x00000059 ~player_title~ ~player_creature_name~, you have not brought the ~mission_item~ animal, in the allotted time, as you agreed. I shall be compelled to inform the Grand Council of your failure.
+0x0000005A Greetings ~player_title~ ~player_creature_name~.~p~Analysis of your ship indicates your mission was unsuccessful. The greatest scientific minds of our civilization are baffled by your inability to return with a simple plant.
+0x0000005B Hee hee!! Ho ho!! You are slow slow slow.~p~It's a plant. It's stuck in the ground. You're not going to tell us it ran away, are you?~p~Ha ha ha!
+0x0000005C What, what ~player_title~ ~player_creature_name~?~p~You failed to find the plant? The vegetable wasn't running away or anything, was it? Perhaps you could buy some spectacles at the emporium so that you can see where you're going.
+0x0000005D Greetings again, friend.~p~We understand you have failed in your attempt. ~p~~player_title~ of the ~player_creature_name~ must remember, all things worth doing require the focus of the mind, my friend.
+0x0000005E Puny ~player_creature_name~.~p~You failed to secure a mere plant? Is this genuine ineptitude, or are you mocking us in some way? In either case, beware.
+0x00000149 ~player_creature_name~. Your lack of follow-thru is noted. You are of limited use.
+0x0000014A Welcome back, Captain.~p~It appears you did not retrieve the item from planet ~mission_target_planet~. Perhaps your ship suffered a malfunction of some kind...?
+0x00000060 I'm sorry. Can we discuss something else...
+0x00000061 Yes, there were complications...
+0x00000062 This wasn't my best work...
+0x00000063 Let's focus on the future...
+0x0000007C I need to move on. Farewell.
+0x0000007D I beg your understanding.
+0x00000064 Wonderful! We had a feeling you'd accept this mission. It just seemed like something you'd be into. ~p~And naturally, we'll pay you for your efforts, in the amount of ~mission_rewards~.~p~You will have ~mission_time~ sectons on planet ~mission_target_planet~ to complete the assignment.~p~Have fun!~p~
+0x00000066 Please bring the ~mission_item~ quickly so that we may sooner enjoy the benefits! ~p~In fact, did we mention you will have just ~mission_time~ sectons on ~mission_target_planet~ to identify and retrieve the specimen? ~p~No? Ah well, you know we always like to be upfront about these things.~p~Bountiful travels to you!~p~
+0x00000067 Clearly you have the conviction to accept this assignment. We expect that you also have the courage and tenacity to see it through quickly, and effectively.~p~The engines of economic progress will be served by retrieving the ~mission_item~ plant, efficiently.~p~You have only ~mission_time~ sectons remaining. Now move, soldier!
+0x00000068 This day shall be remembered for all time as a joyous prelude to the undisputed re-discovery of the ~mission_item~ plant. You shall receive a hero's welcome upon your return! ~p~Without compunction or hesitation, we proudly offer you ~mission_rewards~ Sporebucks as financial remuneration for the successful completion of this most solemn and austere undertaking with which you have been charged.~p~But do be mindful of the time as it passes. You have but ~mission_time~ sectons on planet ~mission_target_planet~ to bring this task to conclusion. ~p~Good luck to you, kind soul. And Godspeed.~p~
+0x0000006A Thank you for your generosity with your time.~p~Speaking of time... You will have ~mission_time~ sectons on planet ~mission_target_planet~ to retrieve the specimen. ~p~We won't forget your help.
+0x0000006B Spode's light advances! Blessed are those that are granted ~mission_time~ sectons on planet ~mission_target_planet~ to identify and retrieve the specimen.~p~Go at once. ~p~
+0x0000006C Excellent. Our contract is approved. ~p~You are to deliver said specimen of ~mission_item~ as soon as possible. Your time on planet ~mission_target_planet~ must not exceed ~mission_time~ sectons. ~p~The Grand Council thanks you.~p~
+0x0000006D ~player_title~ ~player_creature_name~. We thank you for your enthusiastic cooperation.~p~Plan your exploration wisely. Your time on planet ~mission_target_planet~ must not exceed ~mission_time~ sectons.~p~Work well.~p~
+0x0000006E Most excellent! Do be mindful of the hour. Your time on planet ~mission_target_planet~ must not exceed ~mission_time~ sectons. ~p~Fare thee well! 
+0x0000006F Oh, this is wonderful! Just wonderful! ~p~We'd go ourselves, but we always get distracted when we travel. In fact, the ~mission_source_empire~ accidentally discovered space flight during a failed cooking experiment.~p~Our ability to focus is limited. Which is why we so desperately need your help.~p~Besides, we don't respond well to pressure, and with only ~mission_time~ sectons allowed on planet ~mission_target_planet~ would give us palpitations.~p~We await your return with bated breath. In fact, we expect that the ~mission_item~ plant will take care of this problem as well. Have you ever smelled bated breath? It's disgusting!~p~
+0x00000070 We gambol in anticipation of profit! ~mission_item~ will open new markets for us! ~p~One other thing... you will have just ~mission_time~ sectons on planet ~mission_target_planet~ to identify and retrieve the specimen. That won't be a problem, will it?~p~Thank you and happy flight.~p~
+0x00000071 We grovel before your radiance!~p~Of course, we could only allow you ~mission_time~ sectons on planet ~mission_target_planet~ to get the jump on our competitor's herbal hair-product launch.~p~Please being us the ~mission_item~, and rewards shall be yours!
+0x00000072 Thank you! ~p~You have been granted ~mission_time~ sectons on planet ~mission_target_planet~ to identify and retrieve the specimen.~p~You're accumulating good karma!~p~
+0x00000073 Work quickly. You will have ~mission_time~ sectons to identify and retrieve the specimen.~p~Please leave at once. 
+0x0000014B We have generously allowed you ~mission_time~ sectons on planet ~mission_target_planet~ to identify and retrieve the specimen.~p~Begin at once.~p~
+0x0000014C Thanks, Captain!~p~Work quickly. Upon arrival, you will have ~mission_time~ sectons to identify and retrieve the specimen.~p~We'll look forward to your return!
+0x00000074 I'd like to ask you something else...
+0x00000075 Before I go, I have other questions.
+0x00000076 Also...
+0x00000077 One more thing...
+0x00000078 I guess I'll see you again soon.
+0x00000079 Be back shortly, Okay? Thanks! Bye!
+0x0000007A I can't resist easy money like this!
+0x0000007B I'll be right back!
+0x0000007E Perfectly understandable, Captain.~p~Sorry to trouble you with such matters.~p~
+0x0000007F Understood, ~player_title~ ~player_creature_name~. We appreciate your decorum.~p~It will actually save us a bit of paperwork. The sub-contract approval process for interplanetary vegetation transport requires only three hundred and sixty-two separate forms signed and stamped in triplicate. ~p~Of course, this is well below the guidelines established in the Standard Operating Procedure... You should see the required forms for transporting fermented spices. 
+0x00000080 You must follow your own path.~p~Be well my friend.
+0x00000081 Oooh... okay... Yes, that's alright. ~p~If your heart is not in it, we wouldn't want you interacting with unspoiled nature... ~p~
+0x00000082 Interesting choice ~player_title~ ~player_creature_name~. Perhaps you have some information we do not, although that seems unlikely.
+0x00000083 Of course, of course. I knew it was hopeless to bring such a trivial matter to so glorious a one as yourself. Perhaps you could console us by spending money in the boutique?
+0x00000084 Does a rooted plant frighten you so!? Ho ho! What foolishness! 
+0x00000085 Think twice before you waste our time.
+0x00000086 The ~mission_source_empire~ questions your indecision. It is clear you lack a strong force guiding your direction. How unfortunate.
+0x00000087 Defiance in a species such as yours brings not respect, but destruction. 
+0x00000088 You dare to ignore the demands of the Grox!? Insolent fool!
+0x0000008A I'd like to ask you something else...
+0x0000008B Before I go, I have other questions.
+0x0000008C Also...
+0x0000008D One more thing...
+0x0000008E Very sorry to have bothered you. So long.
+0x0000008F Perhaps another time. So long.
+0x00000090 I can see you are busy. We'll speak later.
+0x00000091 I can see you need a moment. Farewell.
+0x00000089 I beg your understanding.
+0x00000092 Perfectly understandable, Captain.~p~Sorry to trouble you with such matters.~p~
+0x00000093 Understood, ~player_title~ ~player_creature_name~. We appreciate your decorum.~p~It will actually save us a bit of paperwork. The sub-contract approval process for interplanetary vegetation transport requires only three hundred and sixty-two separate forms signed and stamped in triplicate. ~p~Of course, this is well below the guidelines established in the Standard Operating Procedure... You should see the required forms for transporting fermented spices. 
+0x00000094 You must follow your own path.~p~Be well my friend.
+0x00000095 Oooh...okay... Yes, that's alright. ~p~If your heart is not in it, we wouldn't want you interacting with unspoiled nature... ~p~
+0x00000096 Interesting choice ~player_title~ ~player_creature_name~. Perhaps you have some information we do not, although that seems unlikely.
+0x00000097 Of course, of course. I knew it was hopeless to bring such a trivial matter to so glorious a one as yourself. Perhaps you could console me by spending money in the boutique?
+0x00000098 Does a rooted plant frighten you so!? Ho ho! What foolishness! 
+0x00000099 Think twice before you waste our time.
+0x0000009A The ~mission_source_empire~ questions your indecision. It is clear you lack a strong force guiding your direction. How unfortunate.
+0x0000009B Defiance in a species such as yours brings not respect, but destruction. 
+0x0000009C You dare to ignore the demands of the Grox!? Insolent fool!
+0x000000A0 I'd like to ask you something else...
+0x000000A1 Before I go, I have other questions.
+0x000000A2 Also...
+0x000000A3 One more thing...
+0x000000A4 Very sorry to have bothered you. So long.
+0x000000A5 Perhaps another time. So long.
+0x000000A6 I can see you are busy. We'll speak later.
+0x000000A7 I can see you need a moment. Farewell.
+0x0000009D I beg your understanding. 
+0x000000A8 ...
+0x000000A9 I need a little refresher on the mission...
+0x000000AA Uhh... What am I supposed to do again?
+0x000000AB I spaced on my mission. What is it again?
+0x000000AC I forgot what I doing. What's my mission?
+0x000000AD Can you remind me of my mission?
+0x000000AE Ah, of course! The Mission Log. I will look there!
+0x000000BF Before I go, I have other questions...
+0x000000C0 Also...
+0x000000C1 One more thing...
+0x000000CF I'd rather do something else.
+0x000000D0 I need to decline this task.
+0x000000D1 This task no longer fits into my schedule.
+0x000000D2 I beg to be released from this task.
+0x000000D3 Very sorry to have bothered you. So long.
+0x000000D4 Until we speak again. So long.
+0x000000D5 I can see you are busy. We'll speak later.
+0x000000D6 I beg your understanding.
+0x000000B5 Procure a ~mission_item~ plant from ~mission_target_planet~.
+0x000000B6 Complete! Return to star system ~mission_source_star~.
+0x000000B7 Mission failed. Return to star system ~mission_source_star~.
+0x000000B8 The planet ~mission_target_planet~ is located in the ~mission_target_star~ star system.
+0x000000B9 You have the plant specimen called ~mission_item~. Return to planet ~mission_source_planet~ and receive your reward.
+0x000000BA Time has run out. Return to planet ~mission_source_planet~ and give them the bad news.
+0x000000BB Procure a ~mission_item~ plant from ~mission_target_planet~ in the ~mission_target_star~ star system. It is known that ~group:star_clue~. ~p~Once on planet ~mission_target_planet~, you will have ~mission_time~ sectons to identify and abduct the required specimen.~p~
+0x000000BC You have ~mission_item~.~p~Return to ~mission_source_planet~ in the ~mission_source_star~ star system to get your reward.
+0x000000BE You failed to fetch a ~mission_item~ plant on time. Go back to planet ~mission_source_planet~ in system ~mission_source_star~ to give them the bad news.
+0x000000C2 Mission complete. ~mission_item~ is onboard.
+0x000000C3 Mission failed. Allowed time has expired. 
+0x000000D8 the star is approximately ~mission_clue_distance~ parsecs from ~mission_clue_landmark1~
+0x000000D9 the star is ~mission_clue_range_min~ to ~mission_clue_range_max~ parsecs from ~mission_clue_landmark1~
+0x000000DA the star name is ~mission_target_star~

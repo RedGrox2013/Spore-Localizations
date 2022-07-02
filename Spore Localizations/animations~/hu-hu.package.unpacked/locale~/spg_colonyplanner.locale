@@ -1,0 +1,129 @@
+﻿# 0x000000f9 ~guide: -h4~ Camera Pan
+# 0x00000181 ~guide: -bullet~ Hold down the right mouse button or press the arrow keys to pan the camera.
+
+0x000005E1 ~guide: -h2~ Birodalmad zenéje számos részből tevődik össze: Egy ütemből, egy témából (dallam és hangszer) valamint a bolygó környezeti hangjából. Az ütemet és a fő hangszert megválaszthatod, sőt, beállíthatod egyedi hangerejüket is, továbbá létrehozhatod saját egyedi dallamodat is a melódiaszerkesztő szekcióban.
+0x000005F1 ~guide: -h2~ Ha meghódítasz, megtérítesz vagy megvásárolsz más kolóniákat, azok átveszik a birodalmi dallamodat. Ez a zene birodalmad egy jellemzője.
+0x00000601 ~guide: -h3~ Kolóniaütem
+0x00000651 ~guide: -h3~ Hangszerek
+0x00000661 ~guide: -h2~ Egy hangszer kiválasztásához csak annyit kell tenned, hogy rákattintasz egy kék gombra. Próbálgasd őket addig, míg nem találsz neked tetszőt.
+0x00000671 ~guide: -h3~ Melódia
+0x00000641 ~guide: -h2~ A himnusz egy hangszerből és egy melódiából áll.
+0x00000611 ~guide: -h2~ Csak kattints egy gombra: mindegyik más és és más ritmus-sávot jelképez. Hallgasd egy kicsit őket, mivel idővel változnak. Ha szeretnéd csak az ütemet hallani, egyszerűen vedd le a többi zenei összetevő hangerejét. Ha megtaláltad a neked tetszőt, lépj át a himnusz-komponensre.
+0x00000621 ~guide: -h2~ A ritmusszekciót ki is kapcsolhatod, ehhez csak rá kell kattintanod a kiválasztott ütem-gombra.
+0x00000631 ~guide: -h3~ Himnusz
+0x00000501 ~guide: -h3~ Háromféle járműtípus létezik:
+0x00000511 ~guide: -bullet~ Szárazföldi
+0x00000521 ~guide: -bullet~ Vízi
+0x000004F1 ~guide: -h2~ Kattints a jármű fülre a Járműpanel megnyitásához.
+0x000004E1 ~guide: -h1~ Járművek létrehozása
+0x00000561 ~guide: -h2~ Lásd a Spórakalauzt a Járműlaborban vagy az Űrhajólaborban, ha többet szeretnél megtudni arról, hogy alkothatsz egyedül.
+0x00000571 ~guide: -h1~ Kolóniadekorációk
+0x00000581 ~guide: -h2~ Ezek pusztán tetszetős díszek, melyekkel szebbé teheted a kolóniádat.
+0x00000551 ~guide: -h2~ A kiválasztott, illetve létrehozott járműveket gyarmatosítóid megvásárolják majd fejlődésük során, ahogy a szükség hozza. A nagyobb kolóniák nagyobb járműflottát tudnak fenntartani.
+0x00000531 ~guide: -bullet~ Légi
+0x000007B1 ~guide: -h3~ Véletlenszerű
+0x000007C1 ~guide: -h2~ Gyors megoldásként, vagy ha kísérletező kedved van, kattints a véletlenszerű gombra a városdallam-alkotó alján.
+0x00000791 ~guide: -h3~ Mentés
+0x000007D1 ~guide: -h1~ A Kolóniaszépítő
+0x000007E1 ~guide: -h2~ Az űrjárók legfrissebb divatja: ez vár rád a Kolóniaszépítőben! Legyenek stílusosak a gyarmatosítóid!
+0x000006D1 ~guide: -bullet~ A dallamból el is távolíthatsz hangjegyeket. Csak rájuk kell kattintanod és így lehúzni őket a melódiaszerkesztő szekcióról.
+0x000006E1 ~guide: -bullet~ A melódiaszerkesztő szekció hátterére kattintva bármikor visszajátszhatod a dallamodat.
+0x000006B1 ~guide: -bullet~ Ha elhelyezted a hangjegyeid a melódiában, rájuk kattintva majd őket felfelé vagy lefelé húzva igazíthatsz a magasságukon, illetve jobbra-balra a sorrendjükön is.
+0x00000681 ~guide: -h2~ Többféleképp is létrehozhatod saját dallamodat.
+0x00000691 ~guide: -bullet~ Kattints a melódiaszerkesztőben az alakzatra, ha szeretnél véletlenszerű melódiát létrehozni.
+0x000006A1 ~guide: -bullet~ A bal alsó sarokban látható, hangjegy hozzáadása vagy eltávolítása gombokra kattintva adhatsz hozzá vagy távolíthatsz el hangjegyeket.
+0x000006F1 ~guide: -bullet~ A dallam automatikus lejátszását az automatikus lejátszás gombbal kapcsolhatod ki és be.
+0x00000741 ~guide: -h3~ Töltés
+0x00000751 ~guide: -h2~ A töltés gombra kattintva a Spóropédiába jutsz, a megnyitott zeneszekcióhoz. Csak válassz egy zenekártyát és kattints a zöld pipára. Amikor visszatérsz a Kolóniatervezőbe, megszólal a kiválasztott birodalmi dallam. Ha bele szeretnél hallgatni a kiválasztott zenébe, kattints duplán a Spóropédia-kártyájára.
+0x00000761 ~guide: -h3~ Zene megosztása
+0x00000731 ~guide: -h2~ Ezekre kattintva egyszerűen visszavonhatod, illetve megismételheted a legutóbbi akcióidat.
+0x00000701 ~guide: -h3~ Környezeti hangok
+0x000004B1 ~guide: -h3~Sebzés és lerombolt épületek
+0x000002E1 ~guide: -bullet~ Gyárak
+0x000002C1 ~guide: -bullet~ Otthonok
+0x000002D1 ~guide: -bullet~ Szórakoztatás
+0x00000301 ~guide: -h3~ Városházád
+0x00000321 ~guide: -h3~ Épületvásárlás
+0x00000231 ~guide: -bullet~ Népesség
+0x000001C1 ~guide: -bullet~ Birodalmad információi a Kolóniatervező felső sávjában jelennek meg.
+0x00000201 ~guide: -h3~ Kolónia információ
+0x00000211 ~guide: -h2~ A Kolóniainformációt a meglátogatott kolóniáról a Kolóniatervező jobb felső sarkában találhatod, a birodalmi információ alatt.
+0x00000221 ~guide: -bullet~ Kolónia név és azonosítószín
+0x000001B1 ~guide: -h3~ Birodalmi információ
+0x00000291 ~guide: -h1~ Épületek létrehozása, vásárlása és elhelyezése
+0x000001A1 ~guide: -bullet~ Elkölthető spóradollárjaid mennyisége a Kolóniatervező bal alsó sarkában látható.
+0x000002A1 ~guide: -h3~ A kolóniában öt felhasználható épülettípus érhető el:
+0x00000281 ~guide: -h2~ Ne hagyd, hogy kolóniád név nélkül senyvedjen! Kattints a Kolónia elnevezése gombra, írj be egy nevet, és tölts ki a jellemzésnek hagyott dobozt!
+0x00000251 ~guide: -bullet~ Bevétel fűszer/percben
+0x00000261 ~guide: -bullet~ Védelem – minél több lövegtornyod van, annál erősebb a védelmed.
+0x00000271 ~guide: -h3~ Kolónia elnevezése és jellemzése
+0x00000421 ~guide: -bullet~ A házak nemcsak a népességedet és az engedélyezett járműpark méretét növelik, de olyan helyeket is létrehoznak, amiket összekapcsolhatsz a szórakoztató létesítményekkel és a gyárakkal, hogy elősegítsd a városod termelékenységét és boldogságát. A városháza is háznak számít.
+0x00000401 ~guide: -h3~ Épületek kapcsolódásai
+0x000003E1 ~guide: -h1~ Kolóniaterv
+0x000003F1 ~guide: -h2~ Ahhoz, hogy sikeres kolóniát építhess, jó helyen kell elhelyezned a különféle épülettípusokat.
+0x00000441 ~guide: -bullet~ A gyárak megnövelik a városod bevételét, ha házak mellett állnak, de boldogtalan lakosokat is generálnak. Senki sem szeret egész álló nap dolgozni!
+0x00000491 ~guide: -h3~ Épületek eladása
+0x000004A1 ~guide: -bullet~ Bármikor eladhatsz egy épületet úgy, hogy rákattintasz, és visszahúzod az Épületlaborba.
+0x00000451 ~guide: -bullet~ A lövegtornyok úgy védik az ellenséges elfoglalástól a városodat, hogy automatikusan megtámadnak minden közelgő egységet. Nem kapcsolhatók egyetlen más épülethez sem, és a kolónia falán kell őket elhelyezni.
+0x00000461 ~guide: -h3~ Épületek áthelyezése
+0x00000471 ~guide: -bullet~ A Kolóniatervezőben tett mostani látogatásod során bármilyen épületet, amit a kolóniádba teszel, áthelyezhetsz.
+0x000003C1 ~guide: -h2~ Megjegyzés: Nézd meg a Spórakalauz épülettervezéssel golalkozó részét, hogy megtudd hogyan hozhatsz létre saját épületeket.
+0x00000591 ~guide: -bullet~ Nyisd meg a Dekoráció fület.
+0x00000431 ~guide: -bullet~ A szórakoztató létesítmények növelik a kolóniád boldogságát, ha házak mellett állnak – a boldogtalan kolóniák kevesebb pénzt termelnek, és zavargások fészkei lehetnek.
+0x000004C1 ~guide: -bullet~ Épületek javítása – A megrongálódott épületeket idővel megjavítják a gyarmatosítóid. Úgy is dönthetsz azonban, hogy a sérült épületet lecseréled a Kolóniatervezőben. Ehhez rá kell kattintanod és visszahúzni az Épület panelre.
+0x000004D1 ~guide: -bullet~ Lerombolt épületek – Ezek idővel eltávolításra kerülnek, ugyanakkor ha szeretnéd hamarabb lecserélni a megrongálódott épületeket, csak annyit kell tenned, hogy megvásárolsz egy új épületet és a romokra helyezed.
+0x000006C1 ~guide: -bullet~ Minden egyes hangjegy hosszát megnövelheted, ha fölé viszed az egeret és görgeted az egér görgőjét – de használhatod a fel és le billentyűket is.
+0x000002F1 ~guide: -bullet~ Lövegtornyok – a lövegtornyok a kolóniád védelmét szolgálják, és automatikusan reagálnak minden fenyegetésre, amíg csak működésképtelenné nem sebződnek.
+0x00000241 ~guide: -bullet~ Boldogság – a boldogtalan lakosok kevésbé termelékenyek.
+0x00000311 ~guide: -h2~ A városháza az épületlista tetején jelenik meg. Bármikor úgy dönthetsz, hogy megváltoztatod ezt a városházát, vagy hogy újat készítesz. Minden kolóniához csak egy városháza tartozhat.
+0x00000191 ~guide: -h2~ Most, hogy űrutazóvá vált fajod, fűszert bányászol, ritka tárgyakkal és fűszerekkel kereskedsz és egész küldetéseket indítasz majd az űrbe, hogy spóradollárt keress, amelyek segítenek birodalmad terjeszkedésében. Épületeket, járműveket, díszítéseket és haderőt csak spóradollárért vehetsz, de pénzbe kerül űrhajóid üzemanyaga is.
+0x00000331 ~guide: -h2~ Épületek vásárlásához kolóniád számára:
+0x00000721 ~guide: -h3~ Visszavonás/Újra
+0x00000711 ~guide: -h2~ A környezeti hangok az egész bolygón szólnak majd, még akkor is, ha az űrből szemléled bolygódat. Ha egy másik birodalom bolygójának közelébe kerülsz, hallani fogod annak a birodalmi dallamát is. A környezeti hangok megválasztásához csak meg kell nyomnod maximum négyet a környezeti hangok gombjaiból. Kombináld őket tetszésed szerint.
+0x000005D1 ~guide: -h1~ Birodalmi dallam
+0x000007A1 ~guide: -h2~ Ha befejezted birodalmi dallamod létrehozását, a mentés gomb használatával el is mentheted. A megjelenő ablakban adj neki nevet és leírást. Ezt követően minden egyes kompozíciót megtalálhatsz majd a Spóropédiád zene-fülén.
+0x000002B1 ~guide: -bullet~ Városháza – minden kolónián csak egy városháza lehet, és az azonos bolygón lévő kolóniák városházái egyező stílusúak.
+0x00000541 ~guide: -bullet~ Járgányodat a Kolóniatervezőben is felturbózhatod. Kattints az űrhajó ikonra hajód módosításához.
+0x00000372 ~guide: -bullet~ Ha létrehoztál egy épületet vagy kiválasztottál egyet, az feltűnik az épületlistán.
+0x00000182 ~guide: -h3~ Spóradollár
+0x000001D1 ~guide: -bullet~ Itt jelenik meg a birodalmad neve, színe és kolóniái száma, akárcsak a terraformáltsági pontok száma. A tökéletesen terraformált bolygók barástágosabb környezetet biztosítanak a kolóniáknak. A T1 bolygók egy kolóniát tartanak fenn, a T2 bolygók két kolóniát tartanak fenn, a T3 bolygók három kolóniát tartanak fenn.
+0x00000351 ~guide: -bullet~ El kell döntened, kiválasztasz egy épületet a Spóropédiából vagy létrehozol egy újat.
+0x00000811 ~guide: -bullet~ Kattints gyarmatosítód portréjára a Felszerelés palettán, majd kattints a Külső szerkesztése gombra.
+0x000003A1 ~guide: -bullet~ Helyezd el a városod egyik fénylő elhelyezési gyűrűjén.
+0x00000391 ~guide: -bullet~ Kattints az épületre, aztán húzd le az épületlistádról a kolóniádra!
+0x000003B1 ~guide: -bullet~ Az épület költsége levonódik a vagyonodból.
+0x00000341 ~guide: -bullet~ Vidd a kurzort a megvenni szándékozott épülettípus fölé.
+0x00000781 ~guide: -h2~ A barátaidtól érkezett birodalmi dallam .png állományok importálásához csak annyit kell tenned, hogy bemásolod a .png állományt a következő mappába: ~save_path~Városi zene~mac_save_append~, de úgy, hogy közben a Spore nem fut. Ezt követően már hozzáférhetsz az állományhoz a Spóropédiában.
+0x00000771 ~guide: -h2~ A birodalmi dallam nem kerül automatikusan megosztásra. Ha szeretnéd megosztani birodalmi dallamodat barátaiddal, keresd meg az adott állományt a következő mappában: ~save_path~Városi zene~mac_save_append~. A .png állományt elküldheted a barátaidnak.
+0x000005A1 ~guide: -bullet~ Válaszd ki a városodban elhelyezni kívánt dekorációt.
+0x000005C1 ~guide: -bullet~ A dekoráció ára levonásra kerül elérhető spóradollárjaidból.
+0x000005B1 ~guide: -bullet~ Kattints a dekorációra és húzd rá a városodban található valamely világító elhelyezési gyűrűre.
+0x00000801 ~guide: -bullet~ Válaszd ki a Gyarmatszépítő fület a Gyarmattervezőben!
+0x00000821 ~guide: -h3~ Ha többet szeretnél megtudni a gyarmatosítók öltöztetéséről, nézd meg a Spórakalauz Szépítőkről szóló részét!
+0x00000812 ~guide: -h2~ Most belépsz a Kolóniaszépítőbe, és a kolóniád lakóinak tervezett öltözék megjelenik kolóniád összes lakosán.
+0x00000381 ~guide: -bullet~ Ha létrehoztál vagy kiválasztottál egy épületet, megjelenik az épületlistán.
+0x00000411 ~guide: -h2~ Ahogy elhelyezed az épületeket a kolóniádban, fénylő kapcsolódási pontok jelennek meg az épületek között. A zöld kapcsolatok jó elrendezésre utalnak, a fehérek semlegesre, a vörösek rosszra.
+
+0x00000051 ~guide: -bullet~ Épületek vásárlása és létrehozása
+0x00000061 ~guide: -bullet~ Lövegtornyok vásárlása kolóniád védelmének megerősítésére
+0x00000011 ~guide: -h1~ Üdvözlünk a Kolóniatervezőben!
+0x00000041 ~guide: -h3~ Itt hozzáférhetsz a következőkhöz:
+0x00000031 ~guide: -bullet~ Ha ugyanazon a bolygón egy másik kolóniára akarsz ugrani a Kolóniatervező becsukása nélkül, kattints a város neve melletti nyílgombokra a Kolóniatervező alsó sávján.
+0x000000C1 ~guide: -h1~ Alapok
+0x000000B1 ~guide: -bullet~ A kolóniádról, illetve a polgárok produktivitásáról és boldogságáról szóló áttekintés
+0x000000A1 ~guide: -bullet~ Himnuszod létrehozása
+0x00000091 ~guide: -bullet~ Telepeseid felöltöztetése
+0x000000E1 ~guide: -h3~ Kameravezérlés
+0x000000F1 ~guide: -h2~ A kamera kezelőszervei a Kolóniatervező összes módjában ugyanazok, kivéve a Kolóniaszépítőt, amellyel külön fejezet foglalkozik a Spórakalauzban.
+0x00000021 ~guide: -h2~ A Kolóniatervezőt a hozzá tartozó gombbal nyithatod meg, amely birodalmad bármely gyarmatának városháza felett jelenik meg. Cselekvésed csak arra a városra fog vonatkozni, amelyet éppen nézel. Az összes kolóniát külön kell kezelni.
+0x000000D1 ~guide: -h2~ A tervezőpanel fülei a Kolóniatervező több szolgáltatásához is eljuttatnak.
+0x00000082 ~guide: -bullet~ Űrhajód létrehozása vagy módosítása
+0x00000081 ~guide: -bullet~ Járművek létrehozása – minden kolónia saját flottát kezelhet, és szükség szerint újakat vásárolnak vagy lecserélik a régieket az általad létrehozottakra, illetve választottakra
+0x00000071 ~guide: -bullet~ Kolóniadíszek vásárlása kolóniád vonzerejének növeléséért
+0x000000F6 ~guide: -h4~ Kamera közelítése/távolítása
+0x000000F2 ~guide: -h4~ Kamera forgatása
+0x000000D2 ~guide: -bullet~ Kattints a fülre a megfelelő panel megnyitásához, legyen az az épületeké, járműveké, városdíszeké, gyarmattervezőé vagy himnuszé.
+0x000000F8 ~guide: -bullet~ A + és a – gombok is nagyítják/kicsinyítik a kamera képét.
+0x000000F5 ~guide: -bullet~ A , és az . gombok is forgatják a kamerát.
+0x000000F4 ~guide: -bullet~ Tartsd lenyomva a jobb egérgombot, és ezzel nézhetsz körbe városodban a kamerával; Mac-en tarts lenyomva a Command, az Option és az egérgombot.
+

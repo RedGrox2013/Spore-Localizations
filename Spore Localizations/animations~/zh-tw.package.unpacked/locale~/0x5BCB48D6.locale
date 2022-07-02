@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B2 向<~mission_source_planet~>回報。
+0x00000098 已完成
+0x00000095 已打贏<~mission_target_planet~>上的戰爭。向<~mission_source_star~>星系的<~mission_source_planet~>回報。
+0x00000097 進行中
+0x00000099 任務成功！向<~mission_source_star~> 星系回報。
+0x00000093 前往：<~mission_source_star~>星系。
+0x0000004E 出發吧，士兵！星球座標已經上傳至你的任務日誌！
+0x00000092 Grox現蹤於<~mission_target_star~>星系。阻止他們的侵擾行動繼續擴大。
+0x00000071 你站在哪一邊啊？如果Grox入侵<~mission_target_planet~>，這整個星區將會快速淪陷。
+0x00000041 打得漂亮啊，~ep1_captain_full_name~！可以確定的是，你擁有戰士天賦。~p~只要你在這裡，Grox一點機會也沒有。~p~這~mission_rewards~Spore幣給你。這筆費用應該足以彌補你耗損的彈藥。
+0x00000000 紅色警戒！在<~mission_target_planet~>上發現了一艘Grox無人太空船！看來，他們正試圖改造那星球。我們必須派士兵下去，而且動作要快！~p~~ep1_captain_full_name~，你要參加嗎？
+0x00000094 Grox現蹤於<~mission_target_star~>星系。阻止他們入侵<~mission_target_planet~>。
+0x00000081 就算沒有你，我們也得繼續和Grox作戰。我們不能讓這個星區淪陷！
+0x00000064 Grox侵擾船艦著陸時，你得盡快解決它。一旦它落地生根，只有動用星球剋星才能能除掉它。~p~不幸的是，這樣做也會將行星一併摧毀。
+0x000000B1 與入侵<~mission_target_planet~>的軍隊一戰。
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Infiltrati nella Stazione di ricerca sul pianeta ~mission_target_planet~.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x00000097 In corso
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000098 Completata
+0x00000071 Cambieresti idea se ti dicessimo che la missione ha una percentuale di successo pari al 92,3%? Almeno secondo i nostri calcoli...
+0x0000004E Tutto ciò che devi sapere è contenuto nel registro missione.~p~Ricorda che il tuo compito è raccogliere dati scientifici. Cerca di non far esplodere nulla.
+0x00000081 Non ti chiediamo di intervenire con i fucili Pulsar spianati. Vogliamo solo un piccolo campione della tecnologia TX-5000.~p~Restando a debita distanza, le probabilità di venire vaporizzati sono piuttosto ridotte.
+0x00000094 Infiltrati nella Stazione di ricerca su ~mission_target_planet~, un pianeta del sistema ~mission_target_star~. Resta nascosto ed evita qualsiasi scontro diretto.
+0x00000092 Infiltrati nella Stazione di ricerca nel sistema ~mission_target_star~. Resta nascosto ed evita qualsiasi scontro diretto.
+0x00000064 Bantuii, una nostra spia, è già all'interno della base. Supera le guardie e trovalo. Lui saprà fornirti istruzioni più dettagliate.~p~Questa non è una missione di combattimento, ~ep1_captain_full_name~! Furtività e pazienza sono la chiave di tutto.~p~Buona fortuna!
+0x00000095 Il progetto TX-5000 è stato fermato. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+0x00000000 Saluti, ~ep1_captain_full_name~. Abbiamo appena ricevuto una notizia tremenda. Pare che gli scienziati C'Servoid stiano costruendo un'arma gigantesca sul pianeta ~mission_target_planet~.~p~Abbiamo bisogno che qualcuno si teletrasporti laggiù e ispezionare da vicino la loro tecnologia. Ti interessa?
+0x00000041 Peccato che il TX-5000 sia esploso. Con un pizzico di fortuna, potremo analizzare i rottami e scoprire il segreto della sua fonte energetica.~p~NOI non useremmo mai questa tecnologia a fini bellici, ovviamente. Ci interessa solo... uhm, la possibilità di creare una nuova fonte di energia pulita e rinnovabile.~p~Grazie per il tuo aiuto, comunque. Ti sei meritato questi ~mission_rewards~ Sporecrediti.
+

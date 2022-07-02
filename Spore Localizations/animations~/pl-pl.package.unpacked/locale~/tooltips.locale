@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE7B Utrzymuj pozycję
+0x0567AE82 Agresywna
+0xF67C278E Umiejętności ogólne
+0x0568AE90 Manipulacje gospodarcze
+0xF47C278E Nastawienie towarzyskie
+0xF57C276F Nastawienie towarzyskie
+0xF57C278E Nastawienie wojownicze
+0xF57C279A Nastawienie wojownicze
+0x0568AE91 Łapówki i zamieszanie
+0x0568AE92 Agresywna kampania reklamowa
+0x0568AE70 Uzbrojenie wojskowe
+0x0568AE71 Bomba napalmowa
+0x0568AE72 Pocisk jądrowy
+0x0568AE73 Atak balistyczny
+0x0568AE80 Moce religijne
+0x0568AE81 Uzdrowiciel
+0x0568AE82 Koszmarny deszcz
+0x0568AE83 Nadejście Mesjasza
+0x0568AE93 Globalna kampania reklamowa
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ — ~local_level_string~ ~local_ability_level~
+
+### Global UI specific ###
+
+0x04BC1A80 Punkty DNA. Punkty te uzyskuje się z pożywienia i wydaje na nowe elementy.
+0x04CAC3D6 Zbliżenie
+0x04CAC3D7 Oddalenie
+0xF27C278D Ewoluuj, aby wyjść na ląd. Jedz, by rosnąć.
+0xF57C278D Punkty DNA
+0xF77C278D Aby zwyciężyć, zwiększaj liczbę mieszkańców, kojarząc pary i werbując!
+0xF87C278D Zebrane pożywienie
+0x04CAC3C1 Aby posunąć się naprzód w grze, podbij inne plemiona lub sprzymierz się z nimi.
+0x04CAC3C2 Aby posunąć się naprzód w grze, podbij inne plemiona lub sprzymierz się z nimi.
+0x04CAC3C3 Aby posunąć się naprzód w grze, podbij inne plemiona lub sprzymierz się z nimi.
+0xF47C279B Elementy odblokowane
+0x04CAC3D8 Sporyliony
+0xF47C279A Lista misji
+0xF47C279D Ukończone misje
+0xF47C279C Wykonywane misje
+0xF67C278D Zdobywaj punkty DNA, aby ewoluować
+0xF47C278D Przejmij 10 miast, aby wynaleźć podróże kosmiczne.
+0x04CAC3D4 Obrót
+0x04CAC3D5 Obrót
+0x04CAC3C4 Przejmij 2 miasta, aby wynaleźć jednostki pływające
+0x062E9EC2 Wymaga 2 miast
+0x062EABDE Wymaga 1 miasta
+0x062E9ECA Wymaga 6 miast
+0x065FC365 Planista plemienny
+0x06565205 Planista kolonii
+0xF17C278D Historia
+0x065FC366 Dodaj małe (~tribe_food_required_for_baby~ jednostek pożywienia)
+0x062E9EC6 Wymaga 4 miast
+0x064A7050 Planista miejski
+0x04CAC3C5 Przejmij 4 miasta, aby wynaleźć pojazdy latające.
+0x062DACA9 Odblokowanie tej umiejętności wymaga ukończenia fazy stwora.
+0x062DACAD Odblokowanie tej umiejętności wymaga ukończenia fazy plemienia.
+0x062DAC92 Odblokowanie tej umiejętności wymaga ukończenia fazy komórki.
+0x062E98FB Umiejętności następcze
+0x06453852 Przejdź do fazy kosmosu
+0x0645384B Przejdź do fazy plemienia
+0x06453842 Przejdź do fazy stwora
+0x0645384F Przejdź do fazy cywilizacji
+0x06562784 - Wymaga większej ilości domów
+0x0671FB71 - Niewystarczająca ilość sporylionów
+0x065F79F0 Dochód: +~civ_income~$/min
+0x064A7064 Kup jednostkę lądową (1 000$)
+0x064A7057 Kup jednostkę latającą (3 000$)
+0x064A705D Kup pojazd pływający (1500$)
+0x065767B3 - Twoje miasto musi znajdować się na wybrzeżu.
+0x065767B7 - Wymaga 2 miast
+0x0657690C - Stwórz pojazd pływający w planiście miejskim
+0x0657690D - Stwórz pojazd latający w planiście miejskim
+0x065767BB - Wymaga 4 miast
+0x0657690B - Stwórz pojazd lądowy w planiście miejskim
+0x065CD6F2 - Osiągnięto limit posiadanych pojazdów
+0x065FC369 – Plemię ma już maksymalną liczebność
+0x065FC367 – Za mało żywności
+0x065FC368 – Potrzebna większa chata
+0x0643EDB7 Udało ci się wynaleźć jednostki latające
+0x0643EDBE Udało ci się wynaleźć podróże kosmiczne
+0x0643ED9B Udało ci się wynaleźć pojazdy pływające
+
+#### CSA Spore Guide ###
+
+0x04F65BBC Na dobry początek
+0x04F65BBD Tryb budowy
+0x04F65BBF Tryb malowania
+0x063C34EB Wczytaj nowe dzieło
+0x04F65BBB Witaj w SPORE
+0x04F65BBE Próba generalna
+
+### Consequence Timeline ###
+
+0x06131BB0 Widok kalendarium
+0x06131BB1 Widok następstw
+0x06131BB2 Zegar ewolucyjny
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Kup
+0xF17C273B Modyfikuj
+0xF47C273B Następna strona
+0xF57C273B Poprzednia strona
+0xF67C273B Twórz od zera
+0xF77C273B Sortuj według
+0xF87C273B Sprzedaj
+0xF27C273B Publikuj
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C283C Pomoc na temat plemion
+0xF81C284C Pomoc na temat cywilizacji
+0xF81C286C Pomoc na temat podboju kosmosu
+0xF81C287C Główna sekcja pomocy
+0x05B5517E Komórka — pomoc
+0xF81C282C Pomoc na temat stworów
+0xF81C285C Pomoc do fabryki
+
+#### Posse UI ### (not CSA)
+
+0xF87C278E Wybierz znajomego
+0x05D298AC Porozmawiaj ze sprzymierzeńcem, aby otrzymać statek kosmiczny
+0xF97C278E Porozumiewaj się z sojusznikiem, aby dodać go do swojego stada.
+0x0614906C Kliknij, aby dodać małe
+0xF77C278E Wybierz wszystkich
+
+#### Global UI Space ####
+
+0xF57C270A Narzędzia terraformowania
+0x93CF382F Śledzenie planety
+
+#### Planners -- Global ### (not CSA)
+
+0x04BAFA06 Limit pojazdów religijnych
+0x04BAFA05 Limit pojazdów wojskowych
+0x04BAFA07 Limit pojazdów gospodarczych
+0x0F1C278E Limit budynków i wieżyczek
+0xF27C278E Limit pojazdów zbierających
+0xF57C278F Populacja
+0xF58C278F Zadowolenie
+0xF59C278F Obrona
+0xF60C278F Gospodarka
+0xF70C278F Edycja sprzętu
+0xF71C278F Poziom znudzenia
+0xF72C278F Poziom zmęczenia
+0x0626EA63 Posiadane miasta religijne
+0x0626EA64 Posiadane miasta gospodarcze
+0x0626EA62 Posiadane miasta wojskowe
+0x06381A1A Nazwa Twojego imperium
+0x06381A1B Dochód planety (na minutę)
+0x0653C13B Następne miasto
+0x0653C13E Poprzednia kolonia
+0x0653C13C Poprzednie miasto
+0x0653C13D Następna kolonia
+0x06381A18 Nazwa Twojego plemienia
+0x06381A17 Przegląd budynków
+0x06381A16 Przegląd pojazdów
+0x05342949 W celu odblokowania nowych obiektów popraw typ planety.
+0x06381A19 Nazwa Twojego narodu
+0x06381A13 Dochód narodowy (na minutę)
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Nagranie animowanego awatara
+0x05B04FE7 Pliki formatu Maya
+
+## cell ##
+
+0x03000000 Zew godowy
+0x03000002 Przywołaj partnera, by przejść do fabryki komórek!
+0x03000001 Przywołaj partnera, by przejść do fabryki komórek!
+0x03000003 Wykształć kończyny i wyjdź na ląd!
+
+## Lock Icon##
+
+0x0679F344 Modyfikacja niemożliwa.
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Zapis
+0xF81C228B Wyjście z gry
+0xF81C238B Wyjście do menu głównego
+0xF81C248B Zablokuj element
+0xF81C25AB Powtórz
+0xF81C25CB Cofnij
+0xF81C26CB Akceptuj
+0xF81C277B Opcje
+0xF81C27CB Usuń
+0xF81C28CB Zamknij
+0xF81C292C Wyślij
+0xF81C303C Wczytaj ponownie
+0xF81C304C Anuluj
+0xF81C305C Wyjdź na ląd!
+0xF81C306C Wstecz
+0xF81C281C Minimalizuj
+0xF81C28CC Zapisz i wyjdź
+0xF81C310C Anuluj — nie zapisuj
+0xF81C309C Wyślij
+0xF81C307C Informacje
+0xF81C308C Anuluj subskrypcję
+0x0615DD1B Już opublikowano
+0x0615DD1C Musisz zapisać dzieło przed jego opublikowaniem
+0x0615FFA6 Moja kolekcja
+0x0615FFA4 Wyposażenie
+0x0615FFA5 Graj
+0xF81C311C Zablokuj dzieło
+0xF81C313C Wyczyść wyszukiwanie
+0xF81C314C Dodaj znajomego
+0xF81C258B Ustawienia
+0x0615FFA9 Zdrowie
+0x0615FFB0 Głód
+0x0615FFA8 Ukryj
+0x0615FFA7 Pokaż
+0xF81C276B Przewodnik SPORE
+0xF81C312C Wyświetl detale
+0x0655200D Graj
+0xF81C278B Wstrzymaj
+0x0612F6B6 Publikuj
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A14 Typ planety
+0x06381A15 Liczba kolonii na tej planecie
+0xF72C27AA Populacja
+0xF72C27BB Zadowolenie
+0xF72C27CC Dochód
+0xF72C27DD Obrona
+
+### Options Panel###
+
+0xF57C573C Luneta
+0xF57C674D Zablokuj
+0xF57C775E Ustawienia
+0xF57C778E Wznów modyfikowanie
+0xF57C777E Wyjdź z gry SPORE
+0xF57C776E Powrót do gry
+0x0678C049 Wyjdź z fabryki, a potem ze SPORE.
+0x0678C04A Tryb lunety nie jest dostępny w fazie komórki.
+0x0678C04B Tryb blokowania nie jest dostępny w fazie komórki.
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Elementy odblokowane
+0x05837B77 Dostępne odblokowane elementy
+
+#### CSA ### 
+
+0x04E404F9 Opcje
+0x04E404FA Pomoc
+0x04E404FB Opcje
+0x04E404FF Ustawienia
+0x04E404FE Zapisz stwora
+0x04E404FC Sporpedia
+0x04E404F8 Wiadomości SPORE
+0x04E404FD Nowe dzieło
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08754 Wybierz komórkę
+0x05B08759 Wybierz ratusz
+0x05B08760 Wybierz statek kosmiczny
+0x05B08851 Wybierz nazwę losowo
+0x05B08862 Wybierz element losowo
+0x05B08863 Zablokuj element
+0x05B08755 Wybierz stwora
+0x05B08756 Wybierz stwora plemiennego
+0x05B08757 Wybierz stwora cywilizowanego
+0x05B08758 Wybierz stwora kosmicznego
+
+### Editor Camera instructions ###
+
+0x05013A33 Zbliżenie
+0x05013A34 Oddalenie
+0x05013A32 Obrót
+0x05013A31 Obrót
+
+#### Editors -- Global ###
+
+0xF37C273B Budżet
+0xF37C275B Tryb budowy
+0xF37C276B Tryb malowania
+0xF37C278C Nazwij mnie
+0xF37C278D Minimalizuj
+0x05AF4A02 Więcej kategorii
+0x05AF4A03 Więcej kategorii
+0xF37C274B Wskaźnik złożoności
+0x05AF4A05 Maluj jak model „~newmodelname~”
+0x05AF4A06 Nowy kolor domyślny
+0x064D2884 Budżet
+0x064D2885 Budżet
+0x064D2883 Budżet
+0x064D2882 Budżet
+0xF37C277B Próba generalna
+0x05AF4A04 Maluj jak...
+
+#### GGE #####
+
+0xF36C273B Spore.com
+0x0577BFC5 Generuj nazwę
+0xF45C273B Logowanie i rejestracja
+0xF82C275B Graj
+0xF54C273B Twórcy
+0xF81C275B Fabryka statków kosmicznych
+0xF63C273B Fabryka komórek
+0xF81C271B Fabryka budynków
+0xF18C213B Sporpedia
+0xF72C273B Fabryka stworów
+0x063AEAA9 Duży widok
+0xF81C2A3B Stylista
+0x0609BC40 Stylista kosmiczny
+0x0609BC3D Stylista cywilizacyjny
+0x0609BC24 Stylista plemienny
+0xF81C274B Fabryka pojazdów
+0xF81C273B Fabryka pojazdów
+0xF81C272B Fabryka pojazdów
+0xF27C223B Katalog SPORE
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/godz.
+
+##GGE General##
+
+0x05B08744 Anuluj
+0x05B08745 Informacja
+0x05B08746 Dalej
+0x05B08747 Wróć
+0x05B08749 Przykładowe elementy
+0x05B08750 Kolor identyfikujący
+0x05B08751 Odblokowane
+0x05B08752 Zablokowane
+0x05B08753 Losowo
+0x05B08748 Temat Spormediów
+

@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Rasga o alvo por um custo energético.
+0x00000013 Rasgão de Energia
+
+# Part: Harpolizer
+
+0x00001047 Uma Canção acrescentada que melhora as relações e tem um custo energético pequeno.
+0x00001046 Canção Inspiradora
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Torna a sua criatura impossível de detectar, mas consome energia enquanto está activado.
+0x00001042 Campo Discreto
+
+### Complexity Meter ##
+
+0x07426209 Demasiado Complexo
+0x0742620A Remova exemplos extra ou reduza o número de modelos únicos.
+0x05F110B4 Se este indicador estiver cheio, então não pode adicionar mais objectos.
+0x05F110B3 Indicador de Complexidade
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Um Amuleto acrescentado que melhora as relações e tem um custo energético pequeno.
+0x00000101 Amuleto Holográfico
+
+# Part: Hop Gogs
+
+0x00001053 Uma Dança acrescentada que melhora as relações e tem um custo energético pequeno.
+0x00001052 Dança Atordoante
+
+# Part: Icy Band
+
+0x00001029 Congela um alvo por um pequeno período de tempo.
+0x00001028 Expansor de Congelação
+
+# Part: Jump Jet
+
+0x00001044 Jacto de Saltos
+0x00001045 Um salto muito alto a um custo energético médio.
+
+# Part: Plasma Pulser
+
+0x00001007 Dispara uma explosão de energia concentrada para o alvo por um custo energético.
+0x00001006 Impulsionador
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Armadura Energizada
+0x00001015 Absorve todos os danos sofridos com um custo energético elevado.
+
+# Part: Hypnomelder
+
+0x00001024 Fusão de Mentes
+0x00001025 Torna amigáveis os inimigos hostis por um período de tempo.
+
+# Part: Fettipopper
+
+0x00001059 Uma Pose acrescentada que melhora as relações e tem um custo energético pequeno.
+0x00001058 Pose de Confetti
+
+# Part: Imperial Robe
+
+0x00001036 Pose Radiante
+0x00001037 Uma pose chamativa que ajuda a melhorar as relações.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Reduz os danos ligeiramente e não tem qualquer custo de energia.
+0x00001012 Armadura de Batalha
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Dispara um míssil que provoca danos na área que circunda o alvo por um custo energético.
+0x00000001 Ataque de Mísseis
+
+# Part: Regal Ring
+
+0x00001034 Charme Real
+0x00001035 Um charme estonteante que ajuda a melhorar as relações.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Invoca um enxame de insectos inoportunos para atormentar os seus inimigos.
+0x00001022 Invocador de Enxame
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Armazenamento de Energia
+0x00001065 Aumenta a capacidade total de energia.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Regeneração de Saúde
+0x00001019 Aumenta a regeneração de saúde.
+0x00002012 ~icon_amount~ saúde/seg
+
+# Part: Ducal Cape
+
+0x00001033 Uma linda canção que ajuda a melhorar as relações.
+0x00001032 Canção Harmoniosa
+
+# Part: Regen-Deflector
+
+0x00001017 Converte uma pequena percentagem dos danos sofridos em energia.
+0x00001016 Absorção de Energia
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Melhora a velocidade por um curto período de tempo e tem um custo energético pequeno.
+0x00001038 Sprint Turbo
+
+# Part: Glider Pack
+
+0x00001041 Mantenha-se mais tempo no alto por um custo energético pequeno.
+0x00001040 Flutuador
+
+# Part: Lightning Striker (RENAME)
+
+0x00001001 Atordoa o alvo e provoca uma quantidade elevada de danos por um custo energético.
+0x00001000 Relâmpagos
+
+# Part: Toxic Crystal
+
+0x00001026 Lâmina Venenosa
+0x00001027 Liberta veneno tóxico que causa uma pequena quantidade de danos ao longo do tempo.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Impulsor de Saúde
+0x00001021 Melhora a saúde na sua totalidade.
+
+# Part: Danger Reductor
+
+0x00000020 Cria uma órbita protectora, reduzindo os danos sofridos e melhorando a eficiência energética.
+0x00000019 Gerador de Escudo
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Uma dança elegante que ajuda a melhorar as relações.
+0x00001030 Valsa Graciosa
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Aumenta a velocidade a que a energia se regenera.
+0x00000010 Regeneração de Energia
+0x00000012 ~icon_amount~ energia/seg
+0x00000021 Protecção
+0x00000022 Por vezes a defesa é a melhor defesa.
+

@@ -1,0 +1,39 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000084 ...
+0x0000004E Avbryt min utbildning, även om jag redan har betala för den.
+0x00000034 Det är jag som är hedrad. Jag skulle vilja fråga dig om någonting annat ...
+0x0000000B Jag är inte intresserad just nu. Kanske senare.
+0x0000005F Det var allt.
+0x00000005 Kan vi diskutera något annat ...
+0x00000012 Utbildningen är klar!
+0x00000013 Erövra planeterna och lär dig Kraftens filosofi.
+0x0000004A Uppfattat. En sak till ...
+0x00000029 Jag har ändrat mig. Jag är nöjd så länge.
+0x00000008 Jag skulle vilja fråga om någonting annat ...
+0x00000017 Utbildningen inom Kraftens filosofi är nu slutförd! Återvänd till stjärnsystemet ~mission_source_star~!
+0x00000003 Jag skulle vilja fråga om någonting annat ...
+0x00000010 Kanske ~race~ gjorde fel som tog sig an dig. Du saknar styrka.
+0x0000006B Kan vi diskutera något annat ...
+0x00000014 Återvänd till stjärnsystemet ~mission_source_star~ och hämta din belöning!
+0x00000071 Det var allt.
+0x00000009 Det var allt.
+0x00000006 Påminn mig om hur jag kan slutföra min utbildning.
+0x00000053 Det var allt.
+0x00000022 Jag vill ge mig hän. Lär mig.
+0x00000007 Jag förstår. Fortsätt gärna.
+0x0000007E Tyvärr. Jag sticker nu.
+0x00000033 ~player_creature_name~, du har skött dig väl! Du har bevisat din styrka. Utbildningen är klar. Vi har glädjen att erbjuda dig Plundrarpartaj.
+0x0000003A Jag ska nu använda Plundringspartaj mot fienden!
+0x0000000F Nåja, ~player_creature_name~. Kom tillbaka när du känner dig redo att hänge dig.
+0x0000000E Utbildningen börjar, ~player_creature_name~. Kraftens filosofi bygger på styrka och mod. Visa oss din styrka. Visa oss ditt mod. Erövra ~mission_num_actions_left_to_perform~ planeter. Då ska vi ge dig superkraften Raiderrally.
+0x00000002 Kraftens filosofi är inte lätt att följa. ~player_creature_name~ måste visa beslutsamhet. Det kan inte finnas styrka utan beslutsamhet.~p~~player_creature_name~ ska betala ~mission_accept_cost~ Sporebucks och måste överge sin gamla superkraft. Detta är kravet för att ~race~ ska lära ut Kraftens filosofi.
+0x00000001 ~player_creature_name~ ber att få lära Kraftens filosofi. ~player_creature_name~ vill ställa sig bland de stora krigarna. Att förlita sig på Kraften är att ha vänner i striden. Med förmågan Raiderrally kan du hämta hjälp i striden. Vänner är ett mycket starkt vapen.~p~~player_creature_name~ måste vara medveten om att utbildningen är svår. För att kunna använda Kraften måste du vara stark. Du måste vara tålig. Du måste hänge dig fullständigt.
+0x00000011 Erövra ~mission_num_actions_left_to_perform~ ~^p^mission_num_actions_left_to_perform^planet^planeter~ till.
+0x00000004 ~player_creature_name~ måste erövra ~mission_num_actions_left_to_perform~ ~^p^mission_num_actions_left_to_perform^planet^planeter~ till. Då ska ~race~ vara tillfreds med din styrka.
+0x00000016 Om du vill slutföra din utbildning inom Kraftens filosofi måste du bevisa din styrka genom att erövra ~mission_num_actions_left_to_perform~ ~^p^mission_num_actions_left_to_perform^planet^planeter~ till.
+

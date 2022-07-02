@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000D4 Porozmawiamy przy następnej okazji. Do zobaczenia.
+0x00000051 Męczy mnie ta misja. Dzięki, ale rezygnuję.
+0x0000001E Podejrzewamy, że gatunek ~mission_item~ wydziela naturalną toksynę, która może się przydać naszym specjalistom od wojny biologicznej. Czy możesz dostarczyć nam kilka okazów?
+0x00000009 Wysuszone łodygi rośliny o nazwie ~mission_item~ okazały się przyjaznym dla środowiska źródłem energii, lecz nasi energetycy zgubili jedyny egzemplarz tego gatunku. Czy możesz dostarczyć nam nowy okaz?
+0x000000B8 Planeta ~mission_target_planet~ znajduje się w układzie ~mission_target_star~.
+0x00000023 Oj! Właśnie mi się przypomniało... Mam mnóstwo roboty.
+0x000000C3 Misja nieudana. Dopuszczalny czas upłynął.
+0x000000D5 Widzę, że pracujesz. Porozmawiamy później.
+0x000000B7 Misja nieudana. Wróć do układu ~mission_source_star~.
+0x000000C0 Ponadto...
+0x00000012 Podejrzewamy, że DNA gatunku o nazwie ~mission_item~ może dostarczyć rozwiązania kilku biologicznych zagadek. Czy zechcesz dostarczyć nam próbkę, abyśmy mogli zbadać jego właściwości?
+0x0000001D Nieprzyjacielski atak bronią biologiczną doprowadził do wyginięcia na naszej planecie gatunku ~mission_item~. Czy zechcesz dostarczyć nam nową próbkę?
+0x00000025 Właściwie to nieważne. Chodziło mi o coś innego...
+0x000000C2 Misja wykonana. ~mission_item~ znajduje się na pokładzie.
+0x00000050 To jakaś cuchnące oślizgłe zielsko. Rezygnuję.
+0x000000C1 Jeszcze jedno...
+0x000000BF Zanim się pożegnamy, mam inne pytania...
+0x000000BA Czas minął. Wróć na planetę ~mission_source_planet~ i przekaż zleceniodawcy złe wieści.
+0x0000000B Nasi teolodzy nie ustają w wysiłkach nad poszerzaniem wiedzy o dziele Spoda. Jak dotąd nie udało się nam ustalić, czy gatunek ~mission_item~ jest czysty, czy nieczysty. Możesz dostarczyć nam jeden okaz?
+0x000000C4 Przydałaby się nam pewna roślina...
+0x000000B9 Masz roślinę z gatunku ~mission_item~. Teraz wróć na planetę ~mission_source_planet~, aby odebrać nagrodę.
+0x000000D6 Błagam o wyrozumiałość.
+0x000000CB Nie mogę się tego podjąć. Mam uczulenie na pyłki rośliny ~mission_item~.
+0x000000A9 Odnośnie do tego zadania... Czy możecie odświeżyć moją pamięć?...
+0x00000040 To nie do przyjęcia! Twój statek powinien być już w połowie drogi do układu ~mission_target_star~! ~p~Tik-tak, tik-tak... Każda sekunda zmarnowana na pobyt tutaj oznacza mniej cennego czasu, który można by przeznaczyć na pobyt na planecie ~mission_target_planet~ i zbieranie próbek rośliny z gatunku ~mission_item~.
+0x000000A6 Widzę, że pracujesz. Porozmawiamy później.
+0x000000CC Niestety muszę zrezygnować. Nie chcę mieć roślinnych bobków w ładowni.
+0x000000A7 Widzę, że potrzebujesz trochę czasu. Na razie.
+0x000000AB Misja mi się poplątała. O co właściwie chodzi?
+0x0000009D Błagam o wyrozumiałość.
+0x0000003B Kasa! Dzisiaj szampan i kawior do syta! Żegnam.
+0x000000CA Pewnie. Będzie zabawa.
+0x000000AC Nie pamiętam, co mam zrobić. O co chodzi w tej misji?
+0x0000001F Proszę o więcej szczegółów...
+0x0000003D Chyba cierpisz na zanik pamięci krótkotrwałej. Na szczęście roślina z gatunku ~mission_item~ ma być niezwykle skutecznym środkiem wspierającym wszelkie procesy myślowe. ~p~Oto przypomnienie zadania: udaj się do układu ~mission_target_star~ i pobierz próbkę gatunku ~mission_item~ z planety ~mission_target_planet~.
+0x000000AA Ehm... Co ja właściwie mam zrobić?
+0x0000003C To żaden problem. Proszę bardzo. Do zobaczenia.
+0x00000013 Nadchodzi Festiwal Ziewaczy i potrzebujemy odpowiedniej ilości roślin z gatunku ~mission_item~, aby zrobić wachlarze z ich gałęzi. Czy możesz dostarczyć nam kilka okazów?
+0x000000A2 Ponadto...
+0x000000CE Przykro mi. Aktualnie nie mogę się tego podjąć.
+0x00000006 CEL MISJI: Zdobyć próbkę rośliny. ~p~DOCELOWY UKŁAD SŁONECZNY: ~mission_target_star~. ~p~DOCELOWA PLANETA: ~mission_target_planet~. ~p~DOCELOWA ROŚLINA: ~mission_item~. ~p~UZASADNIENIE/INNE: Trzeba zlikwidować zakłócenia genetyczne. ~p~NAGRODA: ~mission_rewards~.
+0x000000D1 Nie mam już czasu na to zadanie.
+0x000000CF Bardziej odpowiadałoby mi inne zadanie.
+0x000000A0 Chcę zapytać o coś innego...
+0x00000005 Roślina o nazwie ~mission_item~ jest otoczona mgłą tajemnicy, kryje się za zasłoną plotek i w mroku dziejów. Przez długi czas uważano ją za legendę, ale udało się nam dowieść jej istnienia, a nawet ją zlokalizować! ~p~Musisz dyskretnie pospieszyć na planetę ~mission_target_planet~ w układzie ~mission_target_star~ i przywieźć nam jeden z okazów. ~p~A wtedy napijemy się smacznej herbatki, przysięgam!
+0x000000A5 Może innym razem. Do zobaczenia.
+0x000000CD Z ogromną przykrością... odmawiam.
+0x00000021 Chcę poznać więcej szczegółów...
+0x000000A1 Zanim się pożegnamy, mam inne pytania.
+0x000000A3 Jeszcze jedno...
+0x0000003A Miło było pomóc. Na razie.
+0x0000004E Jeszcze jedno...
+0x0000004D Mogę spytać o coś innego?
+0x000000B2 Tak, istotnie. Poszukujemy pewnej rośliny...
+0x0000004F Ta misja jest dla mnie zbyt skomplikowana. Wycofuję się.
+0x000000B6 Gotowe! Wróć do układu ~mission_source_star~.
+0x000000B5 Zdobądź roślinę należącą do gatunku ~mission_item~ z planety ~mission_target_planet~.
+0x000000B4 Tak. Szukamy pewnej rośliny...
+0x00000097 Oczywiście, oczywiście. Wiedzieliśmy, że kłopotanie tak wspaniałej istoty tak trywialną sprawą nie ma sensu. A może wynagrodzisz mi to, robiąc zakupy w naszym sklepie wolnocłowym?
+0x00000008 Badania rośliny o nazwie ~mission_item~ wykazują, że może ona mieć naturalną odporność na trójpazurzastą osę drzewną, która jest ogromnym zagrożeniem dla naszych upraw. Czy dostarczysz nam próbkę?
+0x000000C6 Łączenie z archiwami... Prośba przyjęta.
+0x0000009B W przypadku takiego gatunku, jak twój, opór zaowocuje nie szacunkiem, a zagładą.
+0x0000004B Chcę zapytać o coś innego...
+0x00000038 Jeszcze jedno...
+0x00000037 Ponadto...
+0x000000AF Tak... Chyba mam coś ciekawego... Czy stanowisz jedność z naturą...? Masz dobre powiązania ze światem roślin?
+0x000000AE A, oczywiście! Dziennik misji. Zaraz go sprawdzę!
+0x00000014 Znudził się nam widok za oknem, postanowiliśmy wystawić operę, a w ramach tworzenia dekoracji — zmienić cała planetę! Tu i tam zasadzimy rośliny z gatunku ~mission_item~, jako ciekawe akcenty krajobrazowe, lecz zdaje się, że właśnie nam ich zabrakło. Czy możesz dostarczyć nam kilka okazów?
+0x00000039 Kasa to najlepsza część mojej roboty! Do widzenia.
+0x000000AD Czy możecie przypomnieć mi informacje o moim zadaniu?
+0x00000035 Chcę zapytać o coś innego...
+0x0000004C Zanim się pożegnamy, mam inne pytania.
+0x000000C8 To chyba łatwa rzecz. Wchodzę w to.
+0x00000099 Zanim zaczniesz marnować nasz czas, zastanów się dwa razy.
+0x000000C9 Jasne, w porządku. Zrobię to.
+0x000000D2 Błagam o zwolnienie z tego obowiązku.
+0x00000036 Zanim się pożegnamy, mam inne pytania.
+0x00000089 Błagam o wyrozumiałość.
+0x00000091 Widzę, że potrzebujesz trochę czasu. Na razie.
+0x00000053 Ach, dobrze. Teraz już wiem.
+0x0000006A Dziękujemy, że zechciałeś poświęcić nam swój czas.~p~A skoro już o czasie mowa... Podczas pobytu na planecie ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na zdobycie poszukiwanego okazu. ~p~Twoja pomoc nie zostanie zapomniana.
+0x00000061 Tak, były pewne komplikacje...
+0x00000054 Och. Rozumiem. Dobrze, już ruszam.
+0x0000007A Nie mogę się oprzeć takiej okazji do łatwego zarobku!
+0x0000008D Jeszcze jedno...
+0x00000148 Ciągle czekamy na nasz egzemplarz gatunku ~mission_item~! Wszystkie szczegóły znajdziesz w swoim dzienniku misji.
+0x000000DA gwiazda ta nazywa się ~mission_target_star~
+0x00000074 Chcę zapytać o coś innego...
+0x00000070 Podskakujemy z emocji na myśl o tych zyskach! ~mission_item~ otworzy przed nami nowe rynki! ~p~Jeszcze jedno... Na planecie ~mission_target_planet~ będziesz mieć tylko ~mission_time~ sektonów na znalezienie i zdobycie wymaganego okazu. To chyba nie kłopot?~p~Dziękujemy i życzymy pomyślnych lotów.~p~
+0x00000056 Dobrze, teraz chyba wiem, o co chodzi w tej misji.
+0x0000000E Nasi botanicy zainteresowali się ostatnio niebywałymi i niepowtarzalnymi cechami gatunku o nazwie ~mission_item~. Jednak w nawale prac biurokratycznych zapodzialiśmy posiadane okazy. Czy dasz się namówić do dostarczenia nowych?
+0x00000087 W przypadku takiego gatunku, jak twój, opór zaowocuje nie szacunkiem, a zagładą.
+0x0000007C Muszę już ruszać. Na razie.
+0x00000085 Zanim zaczniesz marnować nasz czas, zastanów się dwa razy.
+0x0000005F Praca dla was to przyjemność. Do widzenia.
+0x00000076 Ponadto...
+0x0000007D Błagam o wyrozumiałość.
+0x0000008F Może innym razem. Do zobaczenia.
+0x00000069 Cóż, oczywiście potrzebne by było odpowiednie zezwolenie. Wiem jednak, że mamy zlecenie na sprowadzenie pewnej rośliny...
+0x00000075 Zanim się pożegnamy, mam inne pytania.
+0x00000055 Ooo. Trzeba było dostarczyć roślinę? Ale wpadka.
+0x0000007B Zaraz wracam!
+0x00000090 Widzę, że pracujesz. Porozmawiamy później.
+0x00000060 Przykro mi. Możemy porozmawiać o czymś innym?...
+0x00000077 Jeszcze jedno...
+0x000000D9 gwiazda ta znajduje się ~mission_clue_range_min~-~mission_clue_range_max~ parseków od punktu charakterystycznego ~mission_clue_landmark1~.
+0x00000078 Chyba szybko się znów zobaczymy.
+0x00000079 Wracaj szybko, dobrze? Dziękujemy! Pa pa!
+0x0000000D Z nakazu Wielkiej Rady rozbudowujemy nasze ogrody botaniczne. Abyśmy mogli uzupełnić naszą kolekcję i aby nasi naukowcy mieli jak największą liczbę roślin do zbadania, udaj się do układu ~mission_target_star~ i zdobądź przedstawiciela gatunku ~mission_item~.
+0x00000142 Odkryliśmy, że roślina z gatunku ~mission_item~ ma cenne właściwości lecznicze. Czy możesz dostarczyć nam jeden egzemplarz, abyśmy mogli ją zacząć uprawiać?
+0x0000001A Jeden z naszych guru odkrył, że roślina z gatunku ~mission_item~ znakomicie nadaje się do wewnętrznego oczyszczenia. W istocie okazała się być tak użyteczna, że już nam jej zabrakło... zechcesz może dostarczyć nam kilka okazów?
+0x0000013F Musisz nam dostarczyć roślinę z planety ~mission_target_planet~. Przyjmiesz tę misję.
+0x00000141 Nasze badania nad słabościami istot organicznych wymagają egzemplarza z gatunku ~mission_item~. Dostarczysz nam go.
+0x0000008B Zanim się pożegnamy, mam inne pytania.
+0x00000072 Dziękujemy! ~p~Otrzymujesz ~mission_time~ sektonów pobytu na planecie ~mission_target_planet~, by znaleźć i zabrać wymagany okaz.~p~Dzięki temu poprawi się też twoja karma!~p~
+0x00000052 Ba! Ha! Rezygnuję.
+0x00000063 Skupmy się na przyszłości...
+0x000000D8 ~mission_clue_landmark1~ znajduje się w przybliżeniu ~mission_clue_distance~ parseków od gwiazdy, której szukasz.
+0x0000000C Ogłosiliśmy, że ~mission_item~ jest Uduchowionym Symbolem Świętego Światła Spoda. Aktualnie jednak go nam zabrakło. Czy możesz nam pomóc?
+0x00000073 Działaj szybko. Będziesz mieć ~mission_time~ sektonów na zlokalizowanie i zdobycie okazu.~p~Wyruszaj natychmiast.
+0x00000144 Niedawna zaraza spowodowała u nas wyginięcie gatunku ~mission_item~. Czy możesz dostarczyć nam jeden okaz?
+0x00000062 To nie było moje najlepsze osiągnięcie...
+0x00000015 Zbliża się Festiwal Wyrafinowanego Sarkazmu, a ja planuję pokazać się na nim w nowym kostiumie, obliczonym na wywołanie subtelnych komentarzy na temat zwyczajów i szaleństw naszych czasów. Potrzebuję gałązki rośliny o nazwie ~mission_item~ do zatknięcia na kapeluszu. Czy zdołasz dostarczyć mi skrycie taką gałązkę, aby nikt się nie zorientował, co zamierzam?
+0x00000016 Odkryliśmy nowe, zyskowne zastosowanie dla rośliny o nazwie ~mission_item~! Chętnie podzielimy się zyskami z waszą świetlistą mością, jeśli zachcesz dostarczyć nam jeden okaz z jej macierzystej planety.
+0x0000008A Chcę zapytać o coś innego...
+0x0000008C Ponadto...
+0x00000143 Wszystkie egzemplarze z gatunku ~mission_item~, które znajdowały się w naszym Muzeum Egzobiologii, wyginęły z nieznanych przyczyn. Czy możesz dostarczyć nowe okazy?
+0x000000BB Zdobądź roślinę z gatunku ~mission_item~ z planety ~mission_target_planet~ w układzie ~mission_target_star~. Wiadomo, że ~group:star_clue~. ~p~Po dotarciu na planetę ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na zlokalizowanie i porwanie wymaganego okazu.~p~
+0x000000C7 Porwać roślinę? Jasne, mogę to zrobić.
+0x0000014C Dzięki, kapitanie!~p~Działaj szybko. Po przybyciu będziesz mieć ~mission_time~ sektonów na zlokalizowanie i zdobycie okazu.~p~Nie możemy się doczekać Twojego powrotu!
+0x00000064 Wspaniale! Tak przypuszczaliśmy, że podejmiesz się tej misji. Wydawała się czymś w sam raz dla ciebie. ~p~Oczywiście zapłacimy za Twoje wysiłki — otrzymasz ~mission_rewards~.~p~Podczas pobytu na planecie ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na wykonanie zadania.~p~Baw się dobrze!~p~
+0x0000006B Światło Spoda się rozprzestrzenia! Błogosławieni Ci, którym dano ~mission_time~ sektonów pobytu na planecie ~mission_target_planet~, aby zidentyfikowali i zabrali odpowiedni okaz.~p~Ruszaj natychmiast. ~p~
+0x0000006E Wprost doskonale! Pamiętaj jednak o zegarze. Czas Twojego pobytu na planecie ~mission_target_planet~ nie może przekroczyć ~mission_time~ sektonów. ~p~Dobrej drogi!
+0x00000082 ~player_title~ ludu ~player_creature_name~? To ciekawy wybór. Być może dysponujesz jakimiś informacjami, których nie posiadamy, choć to mało prawdopodobne.
+0x000000D0 Muszę odmówić wykonania tego zadania.
+0x0000003E O nie! To jakiś koszmar! Urodziny cesarza są tuż tuż. ~p~Szybko! Musisz dotrzeć do planety ~mission_target_planet~ w układzie ~mission_target_star~ i przywieźć mi roślinę z gatunku ~mission_item~. ~p~Wszyscy muszą się dowiedzieć, że moja miłość do cesarza i poświęcenie dla niego nie mają sobie równych w całej galaktyce!
+0x00000066 Okaz ~mission_item~ powinien jak najszybciej do nas dotrzeć, abyśmy mogli jak najprędzej go wykorzystać! ~p~Czy wspomnieliśmy, że na planecie ~mission_target_planet~ będziesz mieć tylko ~mission_time~ sektonów na znalezienie i zabranie egzemplarza? ~p~Nie? Ach, wiesz, że zawsze chcemy być dwa kroki do przodu.~p~Życzymy pomyślnej podróży!~p~
+0x000000B3 Niech ~player_title~ ludu ~player_creature_name~ posłucha. Potrzebujemy jednego okazu pewnej rośliny...
+0x0000009C Ośmielasz się ignorować żądania Groksów!? Bezczelny głupcze!
+0x00000096 ~player_title~ ludu ~player_creature_name~? To ciekawy wybór. Być może dysponujesz jakimiś informacjami, których nie posiadamy, choć to mało prawdopodobne.
+0x00000088 Ośmielasz się ignorować żądania Groksów!? Bezczelny głupcze!
+0x00000020 To brzmi ciekawie.
+0x00000071 Korzymy się przed twoją świetlistością!~p~Niestety, musimy prosić, by Twój pobyt na planecie ~mission_target_planet~ trwał nie więcej niż ~mission_time~ sektonów. Musisz zdążyć, zanim nasza konkurencja wprowadzi na rynek swój ziołowy szampon.~p~Gdy tylko ~mission_item~ do nas trafi, nagroda będzie twoja!
+0x00000149 ~player_creature_name~. Twoja niekonsekwencja została zanotowana. Twoja przydatność jest ograniczona.
+0x00000024 Pozwól, że do tego wrócimy.
+0x00000022 Mogę rozpocząć pracę.
+0x00000065 Tak, kapitanie. Jest pewien drobiazg, w przypadku którego przydałaby się nam pewna pomoc, jeśli dysponujesz wolną chwilą.~p~Oczywiście wynagrodzimy Twój trud.
+0x00000026 Szukam czegoś innego.
+0x00000080 Musisz iść własną drogą.~p~Powodzenia.
+0x00000094 Musisz iść własną drogą.~p~Powodzenia.
+0x00000083 Oczywiście, oczywiście. Wiedzieliśmy, że kłopotanie tak wspaniałej istoty tak trywialną sprawą nie ma sensu. A może wynagrodzisz nam to, robiąc zakupy w naszym sklepie wolnocłowym?
+0x000000B0 Zobaczymy, zobaczymy.~p~O tak.~p~Mamy coś. Bardzo, bardzo pilnie potrzebujemy pewnej rośliny...
+0x0000002C STAN MISJI: ~race~ otrzymało roślinę z gatunku ~mission_item~. ~p~UDZIELONA POCHWAŁA: Dobra robota. Przynosisz zaszczyt wszystkim powoli myślącym biologicznym mięsistym istotom. Ponadto Twój zapach nie jest tak ohydny, jak sugerowała wstępna ocena. ~p~ZAPŁATA: ~mission_rewards~. ~p~ZWYCZAJOWA UPRZEJMOŚĆ: Dziękujemy, węglostworze.
+0x00000001 Witaj, kosmiczny gościu. Wyświadcz nam przysługę i wybierz się do układu ~mission_target_star~ i przywieź nam stamtąd, a dokładniej z planety ~mission_target_planet~, sadzonkę rośliny ~mission_item~. Jeśli to zrobisz, zostaniemy twoimi wiernymi przyjaciółmi. ~p~Widzisz, zbliżają się urodziny cesarza, a ten stary piernik ciągle narzeka, jak bardzo w monarszych ogrodach brakuje rośliny z gatunku ~mission_item~. Gdyby udało mi się taką zdobyć, inne prezenty wyglądałyby przy moim jak groksowskie łajno! To by było niesamowite!
+0x00000011 Niedawna zaraza spowodowała u nas wyginięcie gatunku ~mission_item~. Zechcesz może dostarczyć nam kilka zdrowych próbek z planety ~mission_target_planet~?
+0x0000007F ~player_title~ ludu ~player_creature_name~? Doceniamy Twoje dobre obyczaje.~p~Zaoszczędzą nam sporo papierkowej roboty. Zatwierdzenie subkontraktu na międzyplanetarny przewóz roślinności wymaga wypełnienia jedynie trzystu sześćdziesięciu dwóch różnych formularzy w trzech kopiach i zdobycia stosownych pieczęci na każdym z nich. ~p~Oczywiście to dużo poniżej wytycznych Standardowej Procedury Działania... Nie znasz formularzy niezbędnych w przypadku przewozu przypraw sfermentowanych.
+0x00000093 ~player_title~ ludu ~player_creature_name~? Doceniamy Twoje dobre obyczaje.~p~Zaoszczędzą nam sporo papierkowej roboty. Zatwierdzenie subkontraktu na międzyplanetarny przewóz roślinności wymaga wypełnienia jedynie trzystu sześćdziesięciu dwóch różnych formularzy w trzech kopiach i zdobycia stosownych pieczęci na każdym z nich. ~p~Oczywiście to dużo poniżej wytycznych Standardowej Procedury Działania... Nie znasz formularzy niezbędnych w przypadku przewozu przypraw sfermentowanych.
+0x0000006D ~player_title~ ludu ~player_creature_name~? Dziękujemy za entuzjastyczną chęć współpracy.~p~Zaplanuj mądrze swoją ekspedycję. Czas Twojego pobytu na planecie ~mission_target_planet~ nie może przekroczyć ~mission_time~ sektonów.~p~Działaj wydajnie.~p~
+0x0000005A ~player_title~ ludu ~player_creature_name~? Witaj.~p~Analiza Twojego statku wskazuje, że zadanie nie zostało wykonane. Największe naukowe umysły naszej cywilizacji są skonfudowane twoją niezdolnością do przywiezienia nam zwykłej rośliny.
+0x0000001B Pewien prorok doznał wizji, że obiekt o nazwie ~mission_item~ może ocalić wszechświat przed regresem na zakończenie bieżącego Cyklu! Czy możesz dostarczyć nam kilka sztuk?
+0x00000029 Jesteśmy tak przepełnieni radością i wdzięcznością, że... że... Aż nie możemy ustać na nogach. Rynek już reaguje. ~p~Wiedz, że ~mission_source_empire~ jest ci niezmiernie wdzięczne! Nowa linia produktów, którą dzięki tobie wprowadziliśmy do oferty, uczyni z ciebie milionera. Niech ~mission_rewards~ będzie dobrą nagrodą na początek!
+0x00000049 Myśleliśmy, że dostarczysz nam obiekt ~mission_item~, lecz najwyraźniej nie było to nam pisane. Twój dziennik misji został przypadkowo skasowany?
+0x00000031 Hi, hi! ~player_title~ ludu ~player_creature_name~? Przybywasz w samą porę! Wszyscy mówią o gatunku ~mission_item~! Oto Twoje ~mission_rewards~ nagrody!
+0x0000008E Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x0000007E To całkowicie zrozumiałe, kapitanie.~br~Przepraszamy, że zawracaliśmy ci mózg takimi sprawami.~p~
+0x00000010 Nasi naukowcy odkryli ostatnio medyczne zastosowania obiektu o nazwie ~mission_item~. Może on przynieść ogromną ulgę naszym obywatelom cierpiącym na porażenie czkawkowe. Czy możesz nam go dostarczyć?
+0x00000081 Ooo... No dobrze... Niech będzie. ~br~Jeśli nie masz do tego serca... Nie chcielibyśmy narażać cię na kontakt z nieskażoną przyrodą. ~p~
+0x0000002F ~player_title~ ludu ~player_creature_name~? Witamy! ~p~Dziękujemy za pomoc! Wielka Rada przekazuje ci pisemną pochwałę trzeciej klasy i ~mission_rewards~.
+0x00000086 Niestety, ~mission_source_empire~ krytykuje Twoje niezdecydowanie. To oczywiste, że brak ci odpowiedniej siły przewodniej. Szkoda.
+0x00000027 Odkąd ~race~ wysłało cię w kosmos, nauczyliśmy się jednego: ~player_creature_name~ zawsze zrobi to, co do niego należy, i to dobrze. ~p~Już wkrótce rozwikłamy tajemnice tej rośliny i dzięki Twojej pomocy ulgę zyskają miliony istot cierpiących na liczne choroby, które ~mission_item~ może leczyć. ~p~Za Twoje niezachwiane poświęcenie sprawie naszego ludu otrzymasz nagrodę: ~mission_rewards~.
+0x00000140 Dostarczysz nam obiekt ~mission_item~. Nie musisz wiedzieć, dlaczego masz wykonać to zadanie.
+0x0000002D Niech ~player_title~ ludu ~player_creature_name~ przyjmie nasze podziękowania...~p~Ta roślina, jeśli będzie starannie pielęgnowana, może się okazać korzystna tak dla naszej gospodarki, jak i dla ekologii! Z radością przekazujemy ci ~mission_rewards~ nagrody.
+0x00000041 Być może ciebie również ogarnęła ekscytacja w związku z istnieniem legendarnego gatunku o nazwie ~mission_item~? To strasznie podniecające, prawda? ~p~Niezależnie od tego spodziewamy się, że wykonasz swoje zadanie w rozsądnym czasie, ruszaj więc czym prędzej na planetę ~mission_target_planet~ w układzie ~mission_target_star~ i zdobądź okaz, który mogliby zbadać nasi najlepiej wykształceni i uczeni botanicy.
+0x00000032 ~player_title~ ludu ~player_creature_name~? Witamy, witamy.~p~Perspektywa zysku napełnia wszystkie istoty rozumne poczuciem prawdziwego szczęścia! Proszę, oto Twoje ~mission_rewards~, zapraszamy też na wycieczkę po centrum handlowym.
+0x0000003F O! Coś ci się poplątało? ~p~To całkowicie zrozumiałe — ta misja jest bardzo skomplikowana i wymaga pokonania sprytnego przedstawiciela egzotycznej flory. ~p~Oto przypomnienie: ~br~Udaj się do układu ~mission_target_star~ i odszukaj planetę ~mission_target_planet~. Na niej znajdziesz roślinę o nazwie ~mission_item~. Przywieź nam jeden okaz. ~p~Hm, jak się to wszystko powie na głos, to zadanie przestaje się jednak wydawać tak bardzo skomplikowane.
+0x000000D3 Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x00000084 Zwykła roślinka tak cię przeraża?! Ha! Co za głupota!
+0x0000004A Nie udało ci się dotrzeć do układu ~mission_target_star~ i odnaleźć tam gatunku ~mission_item~. Szczegóły uciekły ci z pamięci i dziennika misji?
+0x00000002 Uważaj, ~mission_source_empire~ ma dla ciebie misję niezwykłej wagi. Musimy uzyskać twoją pomoc w zdobyciu pewnej rośliny. ~p~Od wielu tysiącleci cierpimy na przeróżne dolegliwości, od waporów i sporiozy po zespół obcego akcentu i marznięcie stóp. ~p~Ostatnio jednak dowiedzieliśmy się o roślinie o nazwie ~mission_item~, rosnącej na planecie ~mission_target_planet~ w układzie ~mission_target_star~. Podobno to zadziwiające ziele może uleczyć wszystkie nasze choroby, a my chcemy zyskać monopol na jej sprzedaż!
+0x0000006F Och, to wspaniale! Po prostu wspaniale! ~br~Wybralibyśmy się tam sami, ale w trakcie podróży zawsze coś rozproszy nasza uwagę. Tak naprawdę ~mission_source_empire~ odkryło loty kosmiczne przypadkowo, w wyniku nieudanego eksperymentu gastronomicznego.~p~Nasze możliwości skupienia uwagi są ograniczone. Dlatego tak bardzo potrzebujemy Twojej pomocy.~p~Poza tym napięcie niezbyt dobrze na nas działa, a skoro na planecie ~mission_target_planet~ będzie tylko ~mission_time~ sektonów na wykonanie misji, dostalibyśmy palpitacji serca.~p~Ze wstrzymanym oddechem będziemy czekać na Twój powrót. Spodziewamy się nawet, że roślina z gatunku ~mission_item~ rozwiąże i ten problem. Wiesz jako cuchnie długo wstrzymywany oddech? Ohyda!~p~
+0x0000006C Doskonale. Nasza umowa została zatwierdzona. ~p~Masz jak najszybciej dostarczyć rzeczony obiekt o nazwie ~mission_item~. Czas pobytu na planecie ~mission_target_planet~ nie może przekroczyć ~mission_time~ sektonów. ~p~Wielka Rada dziękuje.~p~
+0x0000002E ~player_title~ ludu ~player_creature_name~?~p~~mission_item~ sprawia, iż rzesza wyznawców Spoda pławi się w zachwycie! Przyjmij w nagrodę ~mission_rewards~ i błogosławieństwo Spoda.
+0x00000068 Ten dzień zostanie zapamiętamy jako radosny wstęp do ponownego odnalezienia rośliny z gatunku ~mission_item~. Po powrocie nasza cywilizacja powita cię jak bohatera! ~p~Bez wahania i rozterek oferujemy ci z dumą ~mission_rewards~ jako finansową rekompensatę za wykonanie tego wielce chwalebnego i godnego przedsięwzięcia.~p~Pamiętaj jednak o upływającym czasie. Na planecie ~mission_target_planet~ będziesz mieć tylko ~mission_time~ sektonów na pomyślne zakończenie sprawy. ~p~Ze wszech miar życzymy ci powodzenia, dobra duszo.~p~
+0x0000014B Łaskawie przydzieliliśmy ci ~mission_time~ sektonów pobytu na planecie ~mission_target_planet~ na zlokalizowanie i zdobycie okazu.~p~Ruszaj natychmiast.~p~
+0x0000014A Witaj ponownie, kapitanie.~p~Wygląda na to, że nie udało ci się dostarczyć okazu z planety ~mission_target_planet~. Czyżby Twój statek doznał jakiejś awarii...?
+0x00000067 Jak widać, wystarcza ci zapału, by przyjąć to zadanie. Spodziewamy się też, że wykażesz się odpowiednią odwagą i pilnością, by zająć się nim szybko i skutecznie.~p~Szybkie dostarczenie rośliny z gatunku ~mission_item~ przysłuży się rozwojowi gospodarczemu naszej cywilizacji.~p~Masz na to tylko ~mission_time~ sektonów. Ruszaj, żołnierzu!
+0x00000043 Uzgodniliśmy, że dostarczysz nam egzemplarz obiektu ~mission_item~ z układu ~mission_target_star~. Nie umiesz wykonać tego zadania? Wszystkie potrzebne dane znajdują się w Twoim dzienniku misji.
+0x00000045 Nie otrzymaliśmy od ciebie okazu z gatunku ~mission_item~ do naszych ogrodów botanicznych. Wszystkie dane umieściliśmy w twoim dzienniku misji. Czy możemy się spodziewać szybkiej dostawy?
+0x00000004 Posiadamy znaczne udziały w przemyśle farmaceutycznym, a pewna zadziwiająca nowa roślina — ~mission_item~ — zagraża naszym interesom. ~p~Ten zadziwiający przedstawiciel flory rośnie wyłącznie na planecie ~mission_target_planet~ w układzie ~mission_target_star~. ~mission_item~ ma podobno niezrównane właściwości regenerujące! ~p~Prosimy cię o dostarczenie nam próbki tej rośliny — chcemy się upewnić, że te pogłoski są prawdziwe, zanim zlikwidujemy całą planetę!
+0x00000145 ~player_creature_name~? Roślina dotarła w odpowiednim stanie. Jak to bywa w zwyczaju u istot organicznych, przekazujemy nagrodę w wysokości ~mission_rewards~.
+0x00000042 STAN MISJI: Nieukończona. ~p~WYRAZ DEZAPROBATY: Dlaczego to tyle trwa? Działasz powoli, nawet jak na taki słabo zoptymalizowany worek wodnistej substancji. ~p~PRZYPOMNIENIE CELU: Sprowadzić obiekt ~mission_item~ z planety ~mission_target_planet~ w układzie ~mission_target_star~.
+0x00000030 ~player_title~ ludu ~player_creature_name~? Zdrowie naszych obywateli już wkrótce się poprawi! Twój uczynek był wielce wielkoduszny i ta wielkoduszność zostanie wynagrodzona ~mission_rewards~.
+0x0000001C Odkryliśmy, że ~mission_item~ świetnie się nadaje do leczenia ran. Czy możesz dostarczyć nam jedną sztukę do naszego medycznego ogrodu botanicznego?
+0x00000146 Witaj ponownie, kapitanie.~p~Roślina o nazwie ~mission_item~ dotarła do nas w dobrym stanie! Doskonała robota! Oto ~mission_rewards~, które wynagrodzą Twój trud.
+0x00000147 Nie udało ci się dostarczyć nam przedstawiciela gatunku ~mission_item~, tak jak żądaliśmy. Wszystkie parametry zostały umieszczone w twoim dzienniku misji.
+0x00000033 ~player_title~ ludu ~player_creature_name~? ~p~Przyjmujemy ten okaz gatunku ~mission_item~ z radością i pełnym przekonaniem, że zwiększy on nasze zasoby zgrabnych argumentów metafizycznych! Twoja nagroda w wysokości ~mission_rewards~ jest naprawdę dobrze zasłużona!
+0x0000000A Wkrótce w całym Świętym Imperium Spoda odbędzie się uroczystość ku czci Świętego Serca Spoda. Do udekorowania ołtarzy Spoda przydałaby się nam odpowiednia ilość obiektu o nazwie ~mission_item~. Dostarczysz nam kilka egzemplarzy?
+0x00000047 Hmm. Spróbuję wyrazić to krótko i zwięźle: gdzie jest obiekt ~mission_item~, który mieliśmy od ciebie otrzymać? Nie masz szczegółowych informacji o nim w swoim dzienniku misji?
+0x00000046 Przy okazji ostatniego spotkania zdołaliśmy cię namówić do udania się do układu ~mission_target_star~ w poszukiwaniu obiektu ~mission_item~. Czy pamięć Twojego dziennika misji jest wadliwa, czy z innego powodu wracasz z pustymi ładowniami?
+0x00000007 Nasi ekologowie podejrzewają, że organizm żywy o nazwie ~mission_item~ mógłby znaleźć niszę w naszym ekosystemie, lecz najpierw musimy go starannie zbadać. Czy możesz dostarczyć nam próbkę do Wielkiej Palmiarni?
+0x00000058 ~player_title~ ludu ~player_creature_name~? Nie udało ci się dostarczyć zwykłej rośliny w wymaganym czasie? Będziemy o tym pamiętać.
+0x00000044 Masz spore spóźnienie. Gdzie jest obiekt ~mission_item~, który mieliśmy od ciebie otrzymać, zgodnie z informacjami w twoim dzienniku misji? Czy dostarczysz nam przedmiot umowy, czy też wolisz odczuć na własnej skórze Gniew Spoda?
+0x0000005C ~player_title~ ludu ~player_creature_name~? Co takiego?~p~Nie udało ci się znaleźć tej rośliny? Przecież to warzywo chyba nie uciekało przed tobą, prawda? Może kup sobie w centrum handlowym jakieś okulary, aby widzieć, co dzieje się dookoła.
+0x0000002B Starsi Bogowie niech będą pochwaleni! Udało ci się wrócić zwycięsko, a przy tym w pokorze, której tak brakuje twoim towarzyszom i im podobnym. To równie odświeżające, jak świeża woda z Sucharynowej Rzeki. Doprawdy jesteś idealnym przykładem nowoczesnego podróżnika. ~p~Pozwól, że wynagrodzimy Cię za Twoje wysiłki sumą ~mission_rewards~, w ramach podziękowań za usługę fachowo wyświadczoną.
+0x00000019 Wkrótce odbędzie się Uroczystość Nadzmysłowej Jaźni i wszyscy musimy przystroić się obiektami o nazwie ~mission_item~. Niestety trochę nam ich brakuje — czy możesz nam pomóc?
+0x000000A4 Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x0000005E ~player_creature_name~?~p~Nie udało ci się zdobyć zwykłej rośliny? Czy to prawdziwa nieudolność, czy kpisz sobie z nas? Niezależnie od tego, strzeż się.
+0x00000059 ~player_title~ ludu ~player_creature_name~? Nie udało ci się dostarczyć zwierzęcia z gatunku ~mission_item~ w uzgodnionym czasie. Będę musiał powiadomić Wielką Radę o Twojej porażce.
+0x000000B1 Chi chi! Potrzebujesz kasy, prawda! Ha!~p~Możemy cię wysłać tu i tam. Szybko latasz? Mamy pewne botaniczne zlecenie.
+0x00000057 ~player_title~ ludu ~player_creature_name~?...~p~Chwileczkę, gdzie okaz z gatunku ~mission_item~? Nie prosiliśmy cię przypadkiem o jego dostarczenie?... Aaa, nie udało ci się?... To do kitu.
+0x00000092 To całkowicie zrozumiałe, kapitanie.~br~Przepraszamy, że zawracaliśmy ci mózg takimi sprawami.~p~
+0x0000005D ~player_title~ ludu ~player_creature_name~? Witaj ponownie.~p~Rozumiemy, że nie udało ci się wykonać zadania. ~p~Musisz pamiętać, że wszystko, co warto zrobić, wymaga pełnego skupienia się na celu.
+0x00000048 Co się stało z obiektem ~mission_item~ z systemu ~mission_target_star~? Poważnie się zapożyczyliśmy, by wybudować przetwórnię, i pragnęlibyśmy szybkiego napływu zysków. Wszystkie szczegóły naszej umowy powinny się znajdować w Twoim dzienniku misji.
+0x00000095 Ooo... No dobrze... Niech będzie. ~br~Jeśli nie masz do tego serca... Ne chcielibyśmy narażać cię na kontakt z nieskażoną przyrodą. ~p~
+0x00000098 Zwykła roślinka tak cię przeraża?! Ha! Co za głupota!
+0x00000028 O, tak! Świetna robota, amigo! Masz dobre oko do zieleniny! To znakomity egzemplarz gatunku ~mission_item~. Cesarz będzie wielce zachwycony! ~p~Pod twoją nieobecność udało mi się przeprowadzić pewne rozpoznanie co do innych prezentów urodzinowych dla cesarza — mój bije pozostałe o wiele długości. Dzięki temu moja kariera z pewnością dozna nagłego przyspieszenia! ~p~Oto ~mission_rewards~ w nagrodę. Wielkie dzięki, bohaterze.
+0x000000BE Nie udało ci się zdobyć na czas rośliny z gatunku ~mission_item~. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, by przekazać złe wieści.
+0x00000018 Odkryliśmy ostatnio, że gatunek ~mission_item~ ma zastosowania lecznicze. Choć zapewne zniżenie się do kłopotów mieszkańców mało istotnych planet musi być trudne dla istoty tak kosmicznej, jak Ty, czy moglibyśmy cię prosić o dostarczenie w zamian za nagrodę jednego okazu takiej rośliny, aby nasi klienci byli zdrowsi i szczęśliwsi?
+0x00000034 ~player_creature_name~? Dobra robota. Okazujesz się przydatnym pracownikiem. Przyjmij proszę te ~mission_rewards~.
+0x0000002A Dobra robota! Od chwili naszego poznania wierzyliśmy, że znaleźliśmy w tobie prawdziwego przyjaciela wolnego rynku. W końcu gdyby wszyscy mogliby się tanio leczyć, ekonomiczne podstawy świata załamałyby się i ~race~ legło by w gruzach. A do tego nie możemy dopuścić! ~p~A teraz inkasuj ~mission_rewards~ w nagrodę i znikaj. Pamiętaj, by nie puścić pary z otworu gębowego na temat gatunku ~mission_item~ — nie chcielibyśmy uznać cię za wroga postępu. To się zawsze źle kończy.
+0x0000009A Widzisz, ~mission_source_empire~ krytykuje Twoje niezdecydowanie. To oczywiste, że brak ci odpowiedniej siły przewodniej. Szkoda.
+0x000000BC Masz obiekt ~mission_item~. ~p~Teraz wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, aby odebrać nagrodę.
+0x0000000F Wielka Rada niczego nie pragnie bardziej, jak zdrowia i dostatku naszych obywateli. Ostatnio odkryliśmy, iż obiekt o nazwie ~mission_item~, występujący na jednej z naszych planet, ma lecznicze właściwości. Czy możesz dostarczyć nam jeden okaz, abyśmy mogli poprawić stan zdrowia mieszkańców tego świata?
+0x00000017 Niedawna moda ozdabiania krajobrazu okazami z gatunku ~mission_item~ doprowadziła do wyczerpania naszych zapasów. Choć z wahaniem kłopotamy waszą wspaniałość, być może uda nam się namówić cię do dostarczenia kilku egzemplarzy w zamian za nagrodę?
+0x0000005B Hi, hi! Ho, ho! Ale z ciebie ślimak, ślimak, żółw.~p~To roślina. Tkwi w ziemi. Chyba nie będziesz nam wmawiać, że uciekła, co?~p~Cha, cha, cha!
+0x00000003 Prosimy cię o zdobycie próbki pewnej rośliny z planety ~mission_target_planet~ w układzie ~mission_target_star~. ~p~~mission_item~ posiada zadziwiające właściwości lecznicze, o których plotki krążą już od tysiącleci, choć zakładaliśmy, że to tylko legendy i przesądy — bajeczki popularne wśród międzygwiezdnej cyganerii i próżniaków. ~p~Jeśli uda nam się zbadać tę roślinę i zawarte w niej aktywne związki, przyniesie to ogromną korzyść wszystkim istotom!
+

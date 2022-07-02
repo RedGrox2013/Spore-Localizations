@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA Spórasztikus
+0x045882FB Sprózai
+
+#Default Creation name
+
+0x04D93065 Névtelen objektum
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC A módosító most minden elemre vonatkozik.
+0x0450C9DD A módosító most a hasonló elemekre vonatkozik.
+0x0450C9DE A pipetta most a színt és mintát is felveszi.
+0x0450C9DF A pipetta most csak a színt veszi fel.
+0x0450C9E0 A pipetta most csak a mintát veszi fel.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x061349C1 „~newmodelname~” megosztása nem sikerült.
+0x047E7E84 „~newmodelname~” sikeresen megosztásra került!
+0x047E7E85 „~newmodelname~” már meg van osztva!
+0x047E7E83 Biztosan meg szeretnéd osztani ezt: „~newmodelname~” a Spore.com-on? ~br~Ezen a néven osztasz meg: ~username~
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Biztosan ki akarsz lépni a Spore Lénylaborból?
+
+#paint mode paint buddy
+
+0x05BD6E0D Törölj ki
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD Ez a lény érvénytelen.
+0x053740AE Játszhatsz ezzel a modellel, de nem lesz megosztva a következő okból: [NOT IN USE]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x04592638 <Kattints ide a belépéshez>
+0x045700B6 Biztosan meg szeretnéd osztani ezt: „~modelname~” a Spore.com-on? ~br~Ezen a néven osztasz meg: ~username~
+0x0563D473 „~modelname~” nem került megosztásra.
+0x045921AD „~modelname~” sikeresen megosztásra került!
+
+#paint mode color chicklets
+
+0x05BF125F Nagyobb színválasztékhoz tartsd nyomva az egérgombot
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------
+0x0535B1B0 Saját alkotások [NOT IN USE]
+0x0535B1B1 Javaslatok [NOT IN USE]
+0x0535B1AE Összes [NOT IN USE]
+0x0535B1B2 Mások alkotásai [NOT IN USE]
+0x0535B1AF SPORE játék [NOT IN USE]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA015 SLL színező próbaverzió
+0xB4CEA016 SLL színező regisztráció
+0xB4CEA017 SLL színező 1. partner
+0xB4CEA019 SLL színező teljes
+0xB4CEA018 SLL színező 2. partner
+0xB4CEA013 SLL Elemek 2. partner
+0xB4CEA014 SLL Elemek teljes
+0xB4CEA012 SLL Elemek 1. partner
+0xB4CEA011 SLL Elemek regisztráció
+0xB4CEA010 SLL Elemek próbaverzió
+0x9F3415A4 Spóralap
+
+### this text goes in CSA###
+
+0x00000001 Másolat
+0x00000002 Eladás
+0x00000005 Épületszám
+0x00000007 Eladás
+0x00000003 Testrész stílusok
+0x00000008 Aszimmetria létrehozása
+0x00000101 Túl költséges
+0x00000102 Túl sok alkatrész
+0x00000109 Városonként csak 1 városháza építhető
+0x0000010A Nem fér el több lövegtorony
+0x0000010B Zárolva
+0x00000103 Nem fér el több épület
+0x00000107 Szerezd meg ezt az eszközt más törzsektől
+0x00000104 Ez a jármű típus elérte a limitet.
+0x00000202 (PLACEHOLDER) Alkotásod máris túl sok elemet használ. Távolíts el néhányat, hogy több legyen a hely!
+0x00000207 (PLACEHOLDER) Barátkozz össze egy ilyen eszközzel rendelkező törzset, vagy igázd le őket, hogy az eszközt megszerezhesd.
+0x00000209 (PLACEHOLDER) A városháza a kulcs minden más épület fejlesztéséhez a városokban. Építs más épületeket, hogy növeld a várost!
+0x00000203 (PLACEHOLDER) Nincs több hely több épület számára. Távolíts el egy épületet, hogy helyet szabadíts fel!
+0x00000106 A gyarmatok saját járműveket vásárolnak.
+0x00000201 (NOT IN USE) Ez a tétel túl drága, most nem tudod megvenni.
+0x0000020A (NOT IN USE) Nincs több hely lövegtorony számára.
+0x00000204 (NOT IN USE) Ebből a típusból már rendelkezel a maximális számú járművel.
+0x00000205 (NOT IN USE) Minden eszközből csak egyre van szüksége a törzsnek.
+0x00000206 (NOT IN USE) A járművek automatikusan megépülnek számodra.
+0x00000208 (NOT IN USE) Ezen a bolygón több épület támogatásához magasabb terraformáló pontszámra van szükség.
+0x0000010C Összesített járműkorlát elérve
+0x0000020C (NOT IN USE) Minden járműtípusból megvetted már a legmagasabb mennyiséget.
+0x0000020D (NINCS HASZNÁLATBAN)
+0x00000105 Már rendelkezel ezzel az eszközzel
+0x0000010D Űrhajó létrehozása, módosítása és kiválasztása.
+0x00000108 Túl alacsony a terraszint!
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Teremtő
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Ez a testrész akkor lesz elérhető, ha megveszed a Spore játékot.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D284 El szeretnéd távolítani az összes példányt az elmentett állásaidból?
+0x0450D285 Biztos véglegesen el akarod távolítani a játékból?
+0x0450D286 Biztos véglegesen el akarod távolítani a játékból? A játék mentésre és újraindításra kerül az eltávolítás előtt.
+0x063AB852 Ez az objektum egy avatár az egyik játékodban. Az eltávolítása előtt a játékot törölni kell.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Ez az alkotás olyan Spore elemeket tartalmaz, amik nincsenek telepítve.
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C ~newmodelname~ elmentve. ~newmodelname~ a Spóropédia „Saját lények” részében tekinthető meg.
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000008 Elmented a változtatásokat „~newmodelname~” néven folytatás előtt?
+0x10000018 Betöltés előtt mented „~newmodelname~” változásait?
+0x10000028 Új alkotás létrehozása előtt mented „~newmodelname~” változásait?
+0x10000038 Kilépés előtt mented „~newmodelname~” változásait?
+0x1000003A Kilépés előtt „~newmodelname~” új alkotásként kerüljön mentésre, vagy cserélje le ezt: „~oldmodelname~”?
+0x1000001A Betöltés előtt „~newmodelname~” új alkotásként kerüljön mentésre, vagy cserélje le ezt: „~oldmodelname~”?
+0x1000000A Folytatás előtt „~newmodelname~” új alkotásként kerüljön mentésre, vagy cserélje le ezt: „~oldmodelname~”?
+0x1000000B „~newmodelname~” új alkotásként kerüljön mentésre, vagy cserélje le ezt: „~oldmodelname~”?
+0x1000000D Ha most kilépsz, a változtatásaid véglegesen elvesznek. Biztosan kilépsz?
+0x10000040 Ha megkezded a lény felszerelését, már nem tudod magát a lényt alakítani. Biztosan folytatod? [NOT IN USE]
+0x1000002A Új létrehozása előtt „~newmodelname~” új alkotásként kerüljön mentésre, vagy lecseréled ezt: „~oldmodelname~”?
+0x10000019 Jelenlegi alkotásodat nem mentheted el a következő okokból:~br~~br~~generic0~.~br~~br~Folytatod a betöltést, és elveted a jelenleg szerkesztett alkotás változtatásait?
+0x10000029 Jelenlegi alkotásodat nem mentheted el a következő okokból:~br~~br~~generic0~.~br~~br~Biztosan létre akarsz hozni egy új alkotást, és elvetni a jelenlegi változtatásokat?
+0x10000039 Jelenlegi alkotásodat nem mentheted el a következő okokból:~br~~br~~generic0~.~br~~br~Biztosan ki akarsz lépni és elvetni a jelenlegi alkotásodat?
+0x1000000C A Labor jelenleg „~newmodelname~” elmentésén dolgozik. Ha most kilépsz, „~newmodelname~” véglegesen elveszik. Biztosan ki akarsz lépni?
+0x10000009 Jelenlegi alkotásodat nem mentheted el a következő okokból:~br~~br~~generic0~~br~~br~Folytatod a betöltést, és elveted a jelenleg szerkesztett alkotás változtatásait?
+

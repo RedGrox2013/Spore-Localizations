@@ -1,0 +1,19 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000000E A strange ship seemed to investigate planet ~mission_target_planet~ but refused to communicate.~p~Could this be the Grox?!
+0x00000009 Close Transmission
+0x0000000C Potentially a Grox vessel?
+0x0000000B A strange object is detected approaching planet ~mission_target_planet~.
+0x0000000D A strange ship is detected near planet ~mission_target_planet~ and refuses to communicate.~p~Could this be the Grox?!
+0x00000091 A strange object was detected approaching planet ~mission_target_planet~.
+0x00000090 Could this be the Grox?
+0x00000012 The mysterious ship has left planet ~mission_target_planet~.
+0x00000013 Alert! Strange object detected on approach to planet ~mission_target_planet~!
+0x00000011 The mysterious ship has left planet ~mission_target_planet~.
+0x00000015 Captain. I hate to trouble you, but we are detecting something very mysterious on our radar and need your assistance.~p~This unknown object is headed for civilization on planet ~mission_target_planet~ and has ignored all attempts of communication.~p~They seem to be using some kind of signal jamming technology that we've never seen before. We can't get any data on it.~p~...Captain, we fear this could be a Grox probe.~p~We request you come quickly and intercept it.~p~~mission_target_planet~ out!
+0x00000010 A strange ship has arrived at planet ~mission_target_planet~ and refuses to communicate.
+

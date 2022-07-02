@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Félicitations ! Monsieur Enigme est impressionné par votre cerveau. Il devra trouver plus dur pour vous.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Chaque carte de couleur ouvre la porte correspondante mais une seule mène à la clef.
+
+# Adventure name
+
+0x00000002 Les Portes magiques de Mr Enigme
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Clef Mystérieuse
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Ma tente mystérieuse rendrait-elle fou ? Entrez donc et testez-vous.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Monsieur Enigme
+
+# Act 3 description
+
+0x00000025 Vous avez trouvé la clef ! A présent utilisez le téléporteur magique pour la donner à Monsieur Enigme.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Monsieur Enigme tel est mon nom et mes tours ne manquent pas de sel.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Je vous salue chaleureusement ! Bienvenue à mon spectacle itinérant.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Allez, on avance. Je vous dis bonne chance !
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Malin celui qui trouvera ma clef. Ceux qui ne suivent pas vont déchanter.
+
+# Act 1 name
+
+0x00000020 A la rencontre de Monsieur Enigme
+
+# 'Adventure lost' message
+
+0x00000012 N'abandonnez pas. Avez-vous essayé avec vos deux mains ?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Nous nous reverrons, c'est certain.
+
+# Act 3 name
+
+0x00000024 Trouvé !
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Vous avez une tête bien faite !
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 Ne m'en veuillez pas si je suis cabotin.
+
+# Adventure description
+
+0x00000003 Monsieur Enigme veut tester votre esprit. Pouvez-vous retrouver sa Clef Mystérieuse ?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 énigme, M. Enigme, portes, clefs
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Ma clef ! Ma clef ! Je dois l'admettre...
+
+# Act 4 name
+
+0x00000102 Victoire suprême !
+
+# Act 1 description
+
+0x00000021 Monsieur Enigme a plus d'un tour dans son sac. Que cache sa Mystérieuse Tente aujourd'hui ?
+
+# Act 4 description
+
+0x00000103 Monsieur Enigme est très impressionné !
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 Si jamais vous n'en voyez pas la fin...
+
+# 'Adventure start' message
+
+0x00000010 Monsieur Enigme parcourt la galaxie, fascinant petits et grands. Quel tour réserve-t-il à ces terres arides ?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 C'est sans doute qu'il vous manque une main.
+
+# Act 2 name
+
+0x00000100 La Clef Mystérieuse
+

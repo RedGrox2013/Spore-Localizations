@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Dient het doelwit een slag toe ten koste van een hoeveelheid energie.
+0x00000013 Energieslag
+
+# Part: Harpolizer
+
+0x00001047 Verbeterd gezang waarmee je onderlinge relaties kunt verbeteren ten koste van een kleine hoeveelheid energie.
+0x00001046 Inspirerend liedje
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001042 Stealthveld
+0x00001043 Zorgt ervoor dat je wezen praktisch onzichtbaar is maar kost energie gedurende het gebruik.
+
+### Complexity Meter ##
+
+0x07426209 Te complex
+0x0742620A Verwijder extra dingen of verminder het aantal unieke modellen.
+0x05F110B4 Als deze meter vol is, kun je geen objecten meer toevoegen.
+0x05F110B3 Complexiteitsmeter
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Een verbeterde charme waarmee je onderlinge relaties kunt verbeteren ten koste van een kleine hoeveelheid energie.
+0x00000101 Aurabeamer
+
+# Part: Hop Gogs
+
+0x00001053 Een verbeterde dans waarmee je onderlinge relaties kunt verbeteren ten koste van een kleine hoeveelheid energie.
+0x00001052 Verbluffende dans
+
+# Part: Icy Band
+
+0x00001029 Doet een doelwit korte tijd bevriezen.
+0x00001028 Vriesstraal
+
+# Part: Jump Jet
+
+0x00001044 Jumpjet
+0x00001045 Een heel hoge sprong ten koste van een middelgrote hoeveelheid energie.
+
+# Part: Plasma Pulser
+
+0x00001006 Stootwerper
+0x00001007 Vuurt een geconcentreerde energiestoot af op het doelwit ten koste van een hoeveelheid energie.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Krachtpantser
+0x00001015 Doet alle toegedane schade teniet, ten koste van een grote hoeveelheid energie.
+
+# Part: Hypnomelder
+
+0x00001024 Hersenmenger
+0x00001025 Maakt vijanden korte tijd vriendelijk.
+
+# Part: Fettipopper
+
+0x00001059 Een verbeterde pose waarmee je onderlinge relaties kunt verbeteren ten koste van een kleine hoeveelheid energie.
+0x00001058 Confettipose
+
+# Part: Imperial Robe
+
+0x00001036 Stralende pose
+0x00001037 Een levendige pose die de onderlinge relaties helpt verbeteren.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Reduceert schade enigszins zonder dat dit ten koste gaat van je energie.
+0x00001012 Gevechtspantser
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Vuurt een raket af die het gebied rond het doelwit beschadigt ten koste van een hoeveelheid energie.
+0x00000001 Raketaanval
+
+# Part: Regal Ring
+
+0x00001034 Koninklijke charme
+0x00001035 Een fantastische charme die de onderlinge relaties helpt verbeteren.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Hiermee roep je een zwerm vervelende insecten op die je vijand kwellen.
+0x00001022 Zwermverzamelaar
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energieopslag
+0x00001065 Verhoogt de totale energiecapaciteit.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Gezondheidsregeneratie
+0x00001019 Doet de gezondheidsregeneratie toenemen.
+0x00002012 ~icon_amount~ gezondheid/seconde
+
+# Part: Ducal Cape
+
+0x00001033 Prachtig gezang dat de onderlinge relaties helpt verbeteren.
+0x00001032 Harmonieuze zang
+
+# Part: Regen-Deflector
+
+0x00001017 Zet een klein percentage schade direct om in energie.
+0x00001016 Energie-absorptie
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Verhoogt de snelheid korte tijd ten koste van een kleine hoeveelheid energie.
+0x00001038 Sprintexplosie
+
+# Part: Glider Pack
+
+0x00001041 Hiermee blijf je langer in de lucht ten koste van een kleine hoeveelheid energie.
+0x00001040 Zweefkracht
+
+# Part: Lightning Striker (RENAME)
+
+0x00001001 Verdooft het doelwit en brengt grote schade toe ten koste van een hoeveelheid energie.
+0x00001000 Bliksemflits
+
+# Part: Toxic Crystal
+
+0x00001026 Gifkling
+0x00001027 Geeft een gif af dat over een korte periode een kleine hoeveelheid schade toebrengt.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Gezondheidsboost
+0x00001021 Verbetert de totale gezondheid.
+
+# Part: Danger Reductor
+
+0x00000020 Vormt een beschermende cirkel die toegebrachte schade reduceert en het energie-rendement verbetert.
+0x00000019 Schildgenerator
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Een elegante dans die de onderlinge relaties helpt verbeteren.
+0x00001030 Gracieuze wals
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Verhoogt de snelheid waarmee energie wordt geregenereerd.
+0x00000010 Energie-regeneratie
+0x00000012 ~icon_amount~ energie/sec
+0x00000021 Dekking
+0x00000022 Soms is verdediging de beste verdediging.
+

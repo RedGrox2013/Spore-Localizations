@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7A8 Sansende
+0x03EBF7A9 Planteæder
+0x03EBF7AA Kødæder
+0x03EBF7AB Altædende
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 Allierede
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF07F Se nærmere på vores dejlige varer.
+0x043AF080 Vi kunne godt bruge lidt gult her.
+0x043AF03A Rødt krydderi
+0x043AF038 Se nærmere på vores skønne varer.
+0x043AF039 Wow, vi har virkelig lyst til rødt krydderi.
+0x043AF084 Grønt krydderi
+0x043AF085 Vores høst af pink var fantastisk i år. Du bør ikke gå glip af dette tilbud!
+0x043AF083 Vores leder vil gerne vide, om du har noget grønt ...
+0x043AF081 Gult krydderi
+0x043AF082 Vi har scannet din last - kan du se noget, du har lyst til?
+0x043AEF67 Har du violet?
+0x043AEF68 Violet krydderi
+0x043AEF66 Vi har tilbud på violet lige nu.
+0x043AF086 Pink gør os stærke. Pink gør os glade. En skam, at vi ikke har noget.
+0x043AF42C Blåt krydderi
+0x043AF087 Pink krydderi
+0x043AF42A Vi tænkte, om du havde blåt krydderi tilovers?
+0x043AF42B Se nærmere på vores skønne varer. Jeg er sikker på, at vi kan blive enige om noget.
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF504 asteroidebælte
+0x043AF505 og
+0x043AF4FA her
+0x043AF4FB stjernen ved navn ~star_name~
+0x043AF4FF den proto-planetære stjerne ved navn ~star_name~
+0x043AF500 galaksens midte
+0x043AF501 gaskæmpe
+0x043AF4FC ormehullet ved navn ~star_name~
+0x043AF4FD den store stjerne ved navn ~star_name~
+0x043AF4FE den røde stjerne ved navn ~star_name~
+
+#random string for spg
+
+0x068B22CD Kan ikke bruges i dette system.
+
+#######################################
+# Filters
+
+0x031791AF Mit imperium
+0x031791B2 Imperier
+0x031791B3 Missioner
+0x031791B4 Rejsespor
+0x0563D2AA Besøgt
+0x0563D2AB Venner og fjender
+
+#######################################
+# Plant types
+
+0x03EBF7AC Lille plante
+0x03EBF7AD Mellemstor plante
+0x03EBF7AE Stor plante
+
+#######################################
+# Tech Levels
+
+0x03EAC03E Rummet
+0x03EAC03B Stamme
+0x03EAC03C By
+0x03EAC03D Civilisation
+0x03EAC03A Vild
+0x03EAC039 Gold
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x0539AA97 Planteæderplads
+0x0539AA96 Stor planteplads
+0x0539AAE8 Udfyld pladser for at låse op
+0x0539AA98 Kødæder/Altædende plads
+0x0539AA95 Mellemstor planteplads
+0x0539AA94 Lille planteplads
+0x0473CB22 Kødædere
+0x0473CB26 Tæt atmosfære
+0x0473CB2A Ingen atmosfære
+0x0473CB1A Planter
+0x0473CB1F Planteædere
+0x0473CB2E Lav temperatur
+0x0473CB32 Høj temperatur
+0x061DFE83 Fyld ud forrige række for at låse op
+0x03E81C65 Sjældne genstande
+
+#player titles
+
+0x05AC5B2E Admiral
+0x05AC5B73 Den Uovervindelige
+0x05AC5B01 Kaptajn
+0x05AC5B64 Den Storslåede
+0x05AC5B58 Den Fejrede
+0x05AC5B5F Den Berømte
+0x05AC5B20 Kommandør
+0x05AC5B1B Orlogskaptajn
+0x05AC5B68 Den Legendariske
+0x05AC5B6F Den Almægtige
+0x05AC5B78 Den Omnipotente
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF3 Udforsker
+0x05879DF4 Arsenal
+0x05879DF8 Diplomati
+0x05879DF7 Koloniserer
+0x05879DFA Speciel
+0x05879DF9 Tilbeder
+0x05879DF5 Terraformer
+0x05879DF6 Skaber
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 Vil du ødelægge denne last for evigt?
+0x03E81C55 Udkast last
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 Scepter
+0x04000006 Tavle
+0x04000000 Gyldent idol
+0x04000001 Kiste
+0x04000005 Lama
+0x04000010 Betaling ved aflevering
+0x04000009 Trofæ
+0x04000004 Gral
+0x04000008 Snekugle
+0x04000003 Dværg
+0x04000002 Krone
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6A Terraforming
+0x03E81C6B Saml hologram op
+0x03E81C6C Hologramspejder
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A Afstand: ~travel_distance~(pc)
+
+0x065672CB Kan købes. Find et imperium, der sælger det.
+0x0657C8D4 Du skal forlade planeten for at gemme.
+0x0657CC21 ~badge_points~ emblempoint
+0x065B76EF ~p~Låser op for:
+0x0580E601 Dit eget imperium
+
+#######################################
+# Misc Rollovers
+
+0x0654CB0A Handelsrute-udvikling
+0x0654CB16 ~planet_name~ har ikke overgivet sig
+0x0654CB13 ~planet_name~ overgav sig
+0x0654CB0F Erobring-udvikling
+0x06749C10 Sikkerhedssonde
+0x0678CDDF Rumpirat
+
+#tool given
+
+0x06538847 Indsamlet: ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+#######################################
+# Progress bar rollover
+
+0x0435ECE0 Emblemer: ~badge_count~
+0x0436D447 Emblempoint: ~badge_points~
+0x0435ECEB Missioner: ~mission_count~
+0x0435ECE5 Kolonier: ~colony_count~
+0x0435ECE8 Grupper: Stamme: ~tribe_worshipper_count~, Civilisation: ~civ_worshipper_count~, Rummet: ~ally_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x06748F94 Indtaget
+0x03F5A128 Komet
+0x063C3D96 Ubesat
+
+#######################################
+# Comm/Trade fail text
+
+0x06790598 Ikke tilgængelig for handel.
+0x0679ED24 Ikke tilstrækkelige midler.
+0x0679F573 Kan ikke reparere under krig.
+0x06790599 Skab et bedre forhold for at handle.
+0x0679F574 Kan ikke oplade under krig.
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9958 ~commodity_tool_req~ eller ~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~ og ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~ og ~commodity_tool_and_req~ eller ~commodity_tool_or_req~
+0x065B8F3D ~commodity_badge_req~- og ~commodity_badge_and_req~-emblemerne
+0x065B8F44 ~commodity_badge_req~ - og ~commodity_badge_and_req~ or ~commodity_badge_or_req~-emblemet
+0x065B9969 ~commodity_badge_reqs~ og ~commodity_tool_reqs~
+0x065BD251 ~commodity_badge_req~-emblemet
+0x065B8F36 ~commodity_badge_req~- eller ~commodity_badge_or_req~-emblemet
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (gratis)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F Tilpas rumskib
+0x043DB6B9 Sælg koloni (~cost~)
+0x043DB6B5 Reparer bygning (~cost~)
+0x043DB6B7 Reparer rumskib (~cost~)
+0x043DB6B8 Køb bygninger
+0x04C82968 Udstyr borgere
+0x043DB6B2 Reparer kanontårn (~cost~)
+0x043DB6B3 Riv ned
+0x043DB6B4 Sælg bygning (~cost~)
+0x043DB6B1 Sælg kanontårn (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x04729A65 Ikke scannet
+0x03EAFDD3 Fra ~item_planet_name~
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 Ikke interesseret.
+0x0679EAC6 Dit lastrum er fyldt op.
+
+#######################################
+# Tool Fail Text
+
+0x0653E5A0 Kan ikke bruges på hjemverdenen.
+0x0653E59E Skal bruges på vilde planeter.
+0x0653E598 Ikke plads i flåden til flere rumskibe.
+0x0653E599 Har allerede en Mini-klon.
+0x0653E597 Skal bruges på et fremmed rumvæsens koloni.
+0x0653E59D Kan ikke bruges på et naturreservat.
+0x0653E59A Systemet skal have en handelsrute.
+0x0653E59B Skal være på planeten med det højeste teknologiniveau i systemet.
+0x0653E596 Skal bruges på en imperieplanet.
+0x0653E594 Løb tør for ammunition.
+0x0653E595 Genoplader.
+0x0653E593 Skal være på en planet.
+0x0671CE05 Et dyr skal være tilstede på denne planet.
+0x0671FB24 Du kan ikke bruge monolitten på denne planet!
+0x066F7A20 Du er for højt oppe.
+0x066F7A21 Stjernesystemet har allerede en sansende art.
+0x066F7A22 Kan ikke placere flere kolonier med den nuværende T-score.
+0x066F7A1D Energi er i top.
+0x066F7A1E Kan ikke bruges over en by.
+0x066F7A1F Kan ikke bruges over vand.
+0x066F7A1A Skal bruges på en af dine kolonier.
+0x066F7A1B Kan kun have en af disse pr. planet.
+0x066F7A1C Helbred er i top.
+0x0653E59C Kan ikke bruges på imperiesystemer.
+0x0653E59F Højere TerraScore nødvendig.
+
+# used to name the Galactic Core.
+
+0x0591BD91 Galaksens midte
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF529 Mission
+0x043AF523 T3
+0x043AF507 0
+0x043AF526 I gang
+0x043AF527 Gennemført
+0x043AF52B Emblem
+0x043AF528 Mislykket
+0x043AF52A Advarsel
+0x043AF50C 5.
+0x043AF510 9.
+0x043AF50F 8.
+0x043AF50D 6.
+0x043AF50E 7.
+0x043AF508 1.
+0x043AF509 2.
+0x043AF50B 4.
+0x043AF50A 3.
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EED0 Koloniplads
+0x0678EECF Forbedr TerraScore for at låse op
+
+#######################################
+# Roll overs
+
+0x04359B05 Terraforming
+0x04359B0F Minikort
+0x048662B4 Stjernekort-filtre
+0x045FFE85 Indstillinger
+0x045FFE89 Hjælp
+0x045FFE8E Pause/Fjern pause
+0x061ECCF0 Rumskibsfærdigheder
+0x03E81C5F Våben
+0x03E81C5E Last
+0x03E81C60 Primære værktøjer
+0x03E81C62 Tilpas rumskib
+0x03E81C61 Slå Sporepedia til/fra
+0x03E81C5C Terraforming-værktøjer
+0x03E81C5B Rumskibsindstillinger
+0x03E81C5D Kommunikation
+
+#######################################
+# colony object names
+
+0x4A1E2E7B Glædesbooster
+0xB4150FEB Krydderilager
+0x44B420E4 Loyalitetsbooster
+0x405DC1DF Dyrereservat
+0xE4EC3F34 Forsvarssatellit
+0x3AAB4C0E Ambassade
+0xB7D22F27 Biostabilisator
+0xF55D419A Biobeskytter
+
+#######################################
+# Our Solar System
+
+0x03F5A0BA Uranus
+0x03F5A0B2 Venus
+0x03F5A0B8 Saturn
+0x03F5A0B5 Mars
+0x03F5A0B6 Jupiter
+0x03F5A0B9 Titan
+0x03F5A0B7 Ganymedes
+0x03F5A0B1 Merkur
+0x03F5A0B0 Solen
+0x03F5A0B4 Månen
+0x03F5A0B3 Jorden
+0x03F5A0BE Kometen Shoemaker-Levy 2
+0x03F5A0C0 Kometen Kohoutek
+0x03F5A0BC Halleys Comet
+0x03F5A0BB Neptun
+0x03F5A0C2 Kometen Borrelly
+0x03F5A0BD Kometen Hale-Bopp
+

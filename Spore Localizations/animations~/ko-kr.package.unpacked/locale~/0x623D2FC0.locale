@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F 기쁨
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD 공정
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 명예
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 헌신
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 균형
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 검소
+
+# Zealot
+
+0x07CEA303 수도사
+0x07CEA302 수행자
+0x07CEA305 성직자
+0x07CEA304 사제
+0x07CEA301 기도자
+0x07CEA300 신자
+0x07CEA306 수도원장
+0x07CEA308 예언가
+0x07CEA307 주교
+0x07CEA309 성자
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 자애
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA 배짱
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E 미인
+
+# Diplomat
+
+0x07CEA406 외교 사절
+0x07CEA405 카운셀러
+0x07CEA409 외교관
+0x07CEA407 장관
+0x07CEA408 대표
+0x07CEA402 제2 비서
+0x07CEA401 수행원
+0x07CEA404 행정관
+0x07CEA403 제1 비서
+0x07CEA400 조수
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 모집
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 변덕
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB 사려
+
+# Shaman
+
+0x07CEA709 영혼을 인도하는 사람
+0x07CEA700 모으는 사람
+0x07CEA706 불붙이는 사람
+0x07CEA705 지팡이 만드는 사람
+0x07CEA708 꿈을 꾸는 사람
+0x07CEA707 앞을 내다보는 사람
+0x07CEA702 사냥하는 사람
+0x07CEA701 거두는 사람
+0x07CEA704 옷 짜는 사람
+0x07CEA703 분장하는 사람
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 보편
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C ~ep1_captain_species_name~ 제국 종족
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F 지혜
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 고결
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 근면
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 동정
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 영혼
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A 관대
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 유머
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B 속임수
+
+# Trader
+
+0x07CEA608 CEO
+0x07CEA605 매니저
+0x07CEA606 부회장
+0x07CEA603 회계사
+0x07CEA604 장사꾼
+0x07CEA609 거물
+0x07CEA607 회장
+0x07CEA602 밀수꾼
+0x07CEA600 관리인
+0x07CEA601 급사
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE 침묵
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 강함
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D 이론
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 연주
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B 지식
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A 고집
+
+# Wanderer
+
+0x07CEA908 스타 러너
+0x07CEA909 우주 모험가
+0x07CEA905 탐험가
+0x07CEA904 개척자
+0x07CEA906 항해자
+0x07CEA907 행성 모험가
+0x07CEA903 정찰병
+0x07CEA900 유랑자
+0x07CEA902 유목민
+0x07CEA901 여행자
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 잔인함
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 온정
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 풍요
+
+# Warrior 	
+
+0x07CEA803 상사
+0x07CEA804 소령
+0x07CEA806 장교
+0x07CEA805 중위
+0x07CEA800 악당
+0x07CEA802 용병
+0x07CEA801 전사
+0x07CEA807 지휘관
+0x07CEA809 군주
+0x07CEA808 장군
+
+# Scientist
+
+0x07CEA508 이론가
+0x07CEA509 천재
+0x07CEA506 박사
+0x07CEA507 학자
+0x07CEA505 교수
+0x07CEA500 인턴
+0x07CEA503 엔지니어
+0x07CEA504 발명가
+0x07CEA501 기술자
+0x07CEA502 연구자
+
+# Bard
+
+0x07CEA106 아이콘
+0x07CEA105 유행 리더
+0x07CEA108 스타
+0x07CEA107 유명인
+0x07CEA102 튜너
+0x07CEA101 로디
+0x07CEA104 음악가
+0x07CEA103 연주자
+0x07CEA109 대스타
+0x07CEA100 그루피
+
+# Ecologist
+
+0x07CEA205 사육자
+0x07CEA204 농사꾼
+0x07CEA207 실험가
+0x07CEA206 교배자
+0x07CEA201 정원사
+0x07CEA200 제초꾼
+0x07CEA203 파수꾼
+0x07CEA202 식물학자
+0x07CEA209 스승
+0x07CEA208 철학자
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 안심
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 용기
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 신뢰
+
+# Knight
+
+0x07CEAA02 지주
+0x07CEAA01 제자
+0x07CEAA04 무장병
+0x07CEAA03 모험가
+0x07CEAA05 경비병
+0x07CEAA06 기사
+0x07CEAA09 지배자
+0x07CEAA08 귀족
+0x07CEAA00 방랑자
+0x07CEAA07 성기사
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

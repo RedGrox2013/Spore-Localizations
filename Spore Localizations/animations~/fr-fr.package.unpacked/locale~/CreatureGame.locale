@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E Se reproduire
+0x0509FC4F Appelez pour savoir où se trouve votre moitié puis cliquez dessus pour accéder à l'Atelier des créatures !
+0x0524D329 Trouvez votre moitié !
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 Cliquez sur <hinticon> pour apprendre à charger
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0514F98E Migrez !
+0x0546ABA4 Formez une tribu !
+0x0524D32C Migrez et formez un nouveau nid.
+0x0546AB9A Evoluer
+0x0514F993 Votre espèce a changé de nid. Criez et suivez les traces pour retrouver les vôtres !
+0x0546AB9E Améliorez votre espèce en cliquant sur le bouton Historique pour former une tribu et commencer une vie civilisée.
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 Meute
+
+# Find_NPC Goal Card
+
+0x0509FB93 Trouvez un individu d'une autre espèce et cliquez dessus !
+0x0509FB92 Créatures
+0x0524D328 Rencontrez une autre espèce.
+
+# crg-lowhealth.prop
+
+0x91A0449F Vous êtes blessé ! Rentrez au nid et soignez vous.
+
+# Combat text messages
+
+0x739A4E05 Vous êtes trop près
+0xD39A5768 Cette capacité n'est pas prête
+0x3538B712 Compétence disponible uniquement lors d'un numéro
+0xF538B6FD Compétence disponible au combat uniquement
+0x06778BAC Vous avez déjà impressionné cette créature
+
+# Combat Card - Mini Boss
+
+0x064D4053 Chassez des ~target_species_crg~
+0x064D4054 Chasser
+0x064D4056 Cette créature particulière est plus grande et plus puissante que la plupart des autres espèces.
+0x067394F7 Cette créature unique est bien plus grande et plus puissante que la plupart des autres.
+0x064D4055 Chassez ce groupe de ~target_species_crg~ et obtenez un joli bonus ADN.
+
+# Eating_Herbivore Goal Card
+
+0x0524D325 Vous êtes herbivore. Mangez des fruits.
+0x0509F9DB Manger
+0x0509F9DC Pour survivre, les herbivores mangent des fruits. Il y a des fruits dans les arbres et les fourrés (cliquer sur le fruit pour le manger).
+
+# crg-verbcharge.prop
+
+0x6859AEDE Cette capacité n'est pas prête
+
+# crg-spitclose.prop
+
+0x30A611E9 Vous êtes trop près
+
+# Social Card - Mini Boss
+
+0x064D4045 Impressionner
+0x064D4044 Impressionnez des ~target_species_crg~
+0x064D4047 Cette créature particulière est plus grande et plus puissante que la plupart des autres espèces.
+0x064D4046 Impressionnez cet individu ~target_species_crg~ pour en faire un puissant allié.
+0x064D4048 Cette créature particulière est plus grande et plus puissante que la plupart des autres espèces.
+
+# Find Unlocks Card
+
+0x54D958AC Débloquez de nouveaux éléments en trouvant des squelettes, en chassant des créatures Alpha ou en vous alliant avec.
+0x54D958AB Ramasser
+0x54D958AD Trouvez de nouveaux éléments pour évoluer.
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 Nid actuel
+0x0658F2D1 Nouveau nid
+0x0658F2D3 Espèce inconnue
+0x0658F2D2 Ancien nid
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 Ramassez
+0xF4DAF5CB Débloquer des éléments de cellule
+0xF4DAF5CA Chassez des cellules ou cassez des bouts de météorite pour débloquer de nouveaux éléments.
+
+# Build Artifact
+
+0x064D4064 Vous avez découvert des objets qui nimbent votre espèce d'une aura mystique. Retrouvez-les tous et faites en des icônes !
+0x064D4063 Vous avez découvert des objets qui nimbent votre espèce d'une aura mystique. Retrouvez-les tous et faites en des icônes !
+0x064D4060 Assemblez l'Artefact !
+0x064D4062 Retrouvez toutes les pièces de l'Artefact mystérieux.
+0x064D4061 Assemblez l'Artefact !
+
+# Claim Nest
+
+0xD538B78F Voulez-vous adopter ce nid comme nid principal ? Si vous mourez, c'est ici que vous renaîssez.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 Cliquez sur <hinticon> pour apprendre à charmer
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC Cliquez sur <hinticon> pour apprendre à cracher
+
+# Combat - Extinct
+
+0x064D4059 L'espèce ~target_species_crg~ a disparu !
+0x064D4058 Chasser
+0x064D405A L'espèce ~target_species_crg~ a disparu !
+0x064D405B L'espèce ~target_species_crg~ a disparu !
+0x064D4057 Chassez des ~target_species_crg~
+
+# Eating_Carnivore Goal Card
+
+0x0524D324 Vous êtes carnivore. Chassez et mangez des carcasses.
+0x0509F9DA Les carnivores mangent de la viande pour survivre. Chassez ou trouver une carcasse et cliquez dessus pour la manger.
+0x0509F9D9 Manger
+
+# Add_Posse Goal Card
+
+0x0509FC96 Membres de meute
+0x0524D32A Ajoutez un membre à la meute.
+0x0509FC97 Ajoutez à votre meute un individu de votre espèce ou d'une espèce alliée. Pour cela, impressionnez-le.
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 Cliquez sur <hinticon> pour apprendre à frapper
+
+# First time socializing
+
+0xF4211909 Imitez l'autre créature pour l'impressionner
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB Cliquez sur <hinticon> pour apprendre à chanter
+
+# Find Unlocks Card - First Part
+
+0x06035A53 Trouvez un nouvel élément pour évoluer.
+0x06035A52 Débloquez de nouveaux éléments en trouvant des squelettes, en chassant des créatures Alpha ou en vous alliant avec.
+0x06035A51 Ramasser élément
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 Cliquez sur <hinticon> pour apprendre à danser
+
+# Social Card - Hostile Species
+
+0x064D403A Impressionnez des ~target_species_crg~
+0x064D403C Impossible d'impressionner les ~target_species_crg~ !
+0x064D403B Impressionner
+0x064D403D Des espèces vous sont hostiles par nature, et certains actes vous fâcheront définitivement avec elles. Prudence !
+0x064D403E Des espèces vous sont hostiles par nature, et certains actes vous fâcheront définitivement avec elles. Prudence !
+
+# Hints
+
+0x142CD4F2 N'oubliez pas que les carnivores ne peuvent manger que de la viande et les herbivores des végétaux !
+0x057736C3 Cliquez sur <hinticon> pour créer une tribu
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 Impressionner
+0x064D4035 Impressionnez des ~target_species_crg~
+0x064D4037 Impressionnez ~mission_remaining_crg~ ~target_species_crg~ pour vous allier.
+0x064D4038 Une fois allié avec cette espèce, vous pourrez vous soigner dans son nid.
+0x064D4039 Une fois allié avec cette espèce, vous pourrez vous soigner dans son nid.
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 Cliquez sur une créature pour commencer à sympathiser avec elle
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 Impressionnez des ~target_species_crg~
+0x064D4031 Impressionner
+0x064D4034 Une fois alliés avec cette espèce, vous pourrez vous soigner dans leur nid et les ajouter à votre meute.
+0x064D4032 Impressionnez ~mission_remaining_crg~ ~target_species_crg~ pour faire une alliance.
+0x064D4033 Une fois alliés avec cette espèce, vous pourrez vous soigner dans leur nid et les ajouter à votre meute.
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 Cliquez sur <hinticon> pour apprendre à mordre
+
+# Reward text for all cards
+
+0x050A34CA Récompense : ~reward_evo_crg~ points ADN
+
+# Save Baby
+
+0x064D405F Un ~target_species_crg~ a piégé un bébé de votre espèce !
+0x064D405E Mettez le bébé à l'abri dans votre nid.
+0x064D405D Sauvez Bébé !
+0x064D405C Sauvez Bébé !
+0x06739532 Un ~target_species_crg~ a piégé un bébé appartenant à votre espèce !
+
+# Combat Card
+
+0x064D404E Chassez des ~target_species_crg~
+0x064D4050 Chassez ~mission_remaining_crg~ ~target_species_crg~
+0x064D404F Chasser
+0x064D4052 Chassez les ~target_species_crg~ pour les dominer, et faites-les disparaître.
+0x064D4051 Chassez cette espèce et faites-la disparaître.
+
+# crg-notarget.prop
+
+0x79E8F4C5 Vous n'avez pas de cible
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE Les omnivores ont un régime varié, à base de carcasses et de fruits. Cliquez sur ces aliments pour les manger.
+0x0524D326 Vous êtes omnivore. Mangez des fruits ou de la viande.
+0x0509F9DD Manger
+
+# Species creator
+
+0xB3DAED77 Auteur : ~creator~
+0x73DB4258 Par la SporeTeam
+
+# crg-useabilityposture.prop
+
+0x8693A0FC Cliquez sur <hinticon> pour apprendre à poser
+
+# con
+
+0x94ACB6F7 Rogue ~local_creature_name~
+0xB32FE522 Bébé ~local_creature_name~
+0x0595B72B ~local_creature_name~ Ogre
+0x0564E650 ~local_creature_name~ domestique
+0xF32FE51B ~local_creature_name~ Alpha
+
+# crg-locatemate.prop
+
+0x200AFD34 Cliquez sur <hinticon> pour repérer votre moitié
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D Vous pouvez vous soigner dans leur nid !
+0x064D404C Vous pouvez vous soigner dans leur nid !
+0x064D404B Les ~target_species_crg~ sont vos alliés !
+0x064D404A Impressionner
+0x064D4049 Impressionnez des ~target_species_crg~
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4042 Vous pouvez vous soigner dans leur nid et les ajouter à votre meute !
+0x064D4041 Les ~target_species_crg~ sont vos alliés !
+0x064D4043 Vous pouvez vous soigner dans leur nid et les ajouter à votre meute !
+0x064D4040 Impressionner
+0x064D403F Impressionnez des ~target_species_crg~
+

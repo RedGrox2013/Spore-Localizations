@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Complimenti! Mr Enigma apprezza il tuo magnifico intelletto. Non vede l'ora di proporti una nuova sfida.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Ogni tessera apre la porta del colore corrispondente. Solo una porta conduce alla Chiave misteriosa.
+
+# Adventure name
+
+0x00000002 I cancelli magici di Mr Enigma
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Chiave misteriosa
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Ecco la mia Tenda misteriosa, in tutta la sua magnificenza. Entra e dimostra la tua intelligenza.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Mr Enigma
+
+# Act 3 description
+
+0x00000025 Hai trovato la chiave! Ora usa il teletrasporto magico per portarla a Mr Enigma.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Io sono Mr Enigma. Con gli enigmi sono assai brillante!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Salve e benvenuto al mio spettacolo itinerante!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Non abbatterti. E che tu abbia la fortuna ad assisterti!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Se sei sveglio, la mia Chiave troverai. Se invece non lo sei... beh, aspetta e vedrai!
+
+# Act 1 name
+
+0x00000020 Raggiungi Mr Enigma
+
+# 'Adventure lost' message
+
+0x00000012 Non arrenderti. Hai provato a usare entrambe le mani?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Ci rivedremo presto, non temere!
+
+# Act 3 name
+
+0x00000024 Trovata!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Gran Maestro dell'Acume Mentale!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (È un titolo bello da avere.)
+
+# Adventure description
+
+0x00000003 Mr Enigma ti ha proposto una sfida di intelligenza. Riuscirai a trovare la sua Chiave misteriosa?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 enigma, Mr Enigma, cancelli, chiavi
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 La mia Chiave! La mia Chiave! Ti voglio nominare...
+
+# Act 4 name
+
+0x00000102 Davvero superlativo!
+
+# Act 1 description
+
+0x00000021 Mr Enigma è sempre imprevedibile. Chissà cosa nasconde dentro la sua Tenda misteriosa, questa volta.
+
+# Act 4 description
+
+0x00000103 Mr Enigma è davvero colpito!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 Questo enigma non è molto complicato...
+
+# 'Adventure start' message
+
+0x00000010 Mr Enigma viaggia in tutta la galassia per stupire grandi e piccini. Quale sfida avrà mai proposto su questo arido pianeta?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 Usa entrambe le mani. Ci hai già provato?
+
+# Act 2 name
+
+0x00000100 La Chiave misteriosa
+

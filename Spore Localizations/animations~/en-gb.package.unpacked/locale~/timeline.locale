@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492924 Lost City
+0x35492925 ~timelineMyCivName~ has lost a city.
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ has finished as a military civ.
+0x060B4242 Earned Trait Military
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ evolved but lost the ~timelineAbilityName~ ability.
+0x550A15C2 Lost ~timelineAbilityName~
+
+# TRG_MeatGathered
+
+0x060B4237 ~timelineSummedCount~ Meat Gathered
+0x94F807CA ~timelineSummedCount~ Meat Gathered.
+0x05FA01B9 ~timelineSummedCount~ Meat Gathered.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A5 ~timelineAbsoluteYears~ years
+0x555450A6 +~timelineDeltaYears~ years
+
+#### Time Line Title ####
+
+0x04486555 Genesis of Life
+0x04486557 Evolution of Life on Land
+0x04486559 Dawn of Civilization
+0x0448655B Global Conquest
+0x0448655D The Space Age
+0x04486556 Get Large Enough to Reach Land
+0x04486558 Develop Intelligence
+0x0448655A Build Your Tribe
+0x0448655C Conquer the World
+0x0448655E Explore the Universe
+0x0000000A Hunt, Fish, Or Gather To Earn Currency
+0x00000009 Conquer Or Impress 5 Rival Tribes
+0x00000008 Tribal Stage
+0x00000007 Mate To Evolve
+0x0000000D Purchase or Construct Vehicles From City Hall
+0x0000000B Purchase Tools To Increase Efficency
+0x0000000C Civilization Stage
+0x00000010 Space Stage
+0x0000000F Use Vehicles To Conquer, Convert, Or Buyout Rival Cities
+0x0000000E Mine Spice Geysers to Earn Currency
+0x00000002 Defeat Foes To Unlock Parts
+0x00000004 Creature Stage
+0x00000000 Cell Stage
+0x00000001 Eat To Earn DNA & Grow
+0x00000006 Earn DNA & Unlock Parts
+0x00000012 Complete Missions To Earn Currency
+0x00000013 Colonize & Terraform Planets
+0x00000005 Battle, Impress, Or Scavenge
+0x00000011 Explore the Heavens To Meet Friend & Foe
+0x00000003 Add Parts In The Creator & Evolve
+
+# CLG_EatMeat
+
+0x352DBDBA ~timelineMySpeciesName~ ate a piece of meat.
+0x352DBDB9 ~timelineEventCount~ Meat Eaten
+0x352DBDBB ~timelineMySpeciesName~ ate ~timelineEventCount~ meat bits.
+0x75580858 Your cell ate a piece of meat.
+0x75580859 Your cell ate ~timelineEventCount~ meat bits.
+
+# TRG_KilledEpic
+
+0x060B422F Killed Epic
+0x05FA01B1 ~timelineMyTribeName~ killed Epic ~timelineTargetOTDBName~.
+
+# SPG_ColonyOnPlanet
+
+0x060B424D Colony On Planet
+0x05FA01CB ~timelineMyEmpireName~ have started to colonize ~timelinePlanetName~.
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ have allied with the ~timelineTargetOTDBName~.
+0x060B4221 Allied
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ have puchased from ~timelineTargetEmpireName~.
+0x06300C33 Star Purchase
+
+# CLG_Death
+
+0x060B4214 Death
+0x05FA0196 ~timelineMySpeciesName~ died.
+0x14F7E775 ~timelineMySpeciesName~ died ~timelineEventCount~ times.
+0x75580854 Your cell died.
+0x75580855 Your cell died ~timelineEventCount~ times.
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Economic Capture
+0x06031AAB ~timelineMyCivName~ has captured a city from ~timelineTargetCivName~ using economic means.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planet Destroyed
+0xB54938AD ~timelineMyEmpireName~ destroyed planet ~timelinePlanetName~.
+
+# SPG_EndedWar
+
+0x35493814 Ended War
+0x35493815 ~timelineMyEmpireName~ ended war with ~timelineTargetEmpireName~.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Earned Trait Meat
+0x05FA0198 ~timelineMySpeciesName~ has evolved into an Carnivorous Creature. They can only eat meat in the creature stage.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Religious Sea
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E3 ~timelineMyCivName~ has designed a new vehicle ~timelineTargetOTDBName~.
+0xF54928E2 ~timelineTargetOTDBName~
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA844 Reticulating Spines
+0x064AA842 Calculating Animation Variance
+0x064AA841 Recombinating Evolution Vectors
+0x064AA83C Randomizing Data Archetypes
+0x064AA838 Evolving Recombination Vectors
+0x064AA839 Distributing Metaphyta
+0x064AA843 Mapping Food Web
+0x064AA83B Differentiating Cellular Library
+0x064AA840 Initializing Neural Subsystems
+0x064AA83D Excreting Gastrodermical System
+0x064AA83E Wrapping Epidermal Layers
+0x064AA83A Disinfecting Germ Cells
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Military Land
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Earned Trait Social
+0x05FA01B3 ~timelineMyTribeName~ Has Evolved to Become a Religious City.
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~ killed ~timelineEventCount~ tribe members.
+0xB5303DE5 Killed Tribe Member
+0xB5303DE6 ~timelineMyTribeName~ killed a member of ~timelineTargetTribeName~.
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ have formed a city!
+0x060B4238 Enter Civilization
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 War Ended
+0x9552AA74 ~timelineMyCivName~ is no longer at war with ~timelineTargetCivName~.
+
+# TRG_EggGathered
+
+0x555BD5C1 ~timelineSummedCount~ Eggs Gathered.
+0x555BD5C0 ~timelineSummedCount~ Eggs Gathered
+0x555BD5C2 ~timelineSummedCount~ Eggs Gathered.
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC2 Built ~timelineEventCount~ military sea vehicles.
+0x35523EC0 Vehicle Built
+0x35523EC1 Built military sea vehicle.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Vehicle Built
+0xB5523D45 Built ~timelineEventCount~ economic air vehicles.
+0xB5523D44 Built economic air vehicle.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ has designed a new vehicle ~timelineTargetOTDBName~.
+0x060B423A Created Vehicle
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ has designed a new building ~timelineTargetOTDBName~.
+0x060B4239 Created Building
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ has finished as a religious civ.
+0x060B4241 Earned Trait Religious
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Earned Trait Social
+0x05FA01A5 Species ~timelineMySpeciesName~ Has Evolved to Become a Social Race.
+
+# CVG_AccessorizedCreature
+
+0x060B423B New Outfit
+0x05FA01BD ~timelineMyCivName~ have adopted a new wardrobe.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ have reached the stars.
+0x060B424B Enter Space
+
+# CRG_BefriendedSomething
+
+0x060B4227 Befriended Something
+0x05FA01A9 ~timelineMySpeciesName~ befriended a ~timelineTargetOTDBName~.
+0x54F7EDA3 ~timelineMySpeciesName~ befriended ~timelineEventCount~ creatures.
+
+# CRG_Migrated
+
+0x060B421F New Nest
+0x05FA01A1 ~timelineMySpeciesName~ claimed a new nest.
+
+# CRG_Death
+
+0x060B4225 Death
+0x05FA01A7 ~timelineMySpeciesName~ died.
+0x14F7EF6F ~timelineMySpeciesName~ died ~timelineEventCount~ times.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ discovered the ~timelinePartName~ part.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Earned Trait Attack
+0x05FA01B2 ~timelineMyTribeName~ Has Evolved to Become a Military City.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ has designed a new building ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Economic Land
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Vehicle Lost
+0x05FA01C7 Lost a sea vehicle.
+0xD4F81D00 Lost ~timelineEventCount~ sea vehicles.
+
+# SPG_PlanetBuster
+
+0x060B4251 Planet Destroyed
+0x05FA01CF ~timelineMyEmpireName~ has destroyed ~timelinePlanetName~.
+
+# SPG_AccessorizedCreature
+
+0xD5147CA7 ~timelineMyEmpireName~ have adopted a new wardrobe.
+0xD5147CA6 New Outfit
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ has invented ~timelineAbilityName~.
+
+# TRG_BefriendedTribe
+
+0x060B422D Allied With Tribe
+0x05FA01AF ~timelineMyTribeName~ has allied with ~timelineTargetTribeName~.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Economic Air
+
+# SPG_ColonyPlaced
+
+0x060B425F Colony Placed
+0x05FA01D3 ~timelineMyEmpireName~ has colonized ~timelinePlanetName~.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ is at war with ~timelineTargetCivName~.
+0x35492926 War Started
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ has become a Bard in Space!
+0x060B4255 Earned Trait Bard
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D41 Built military air vehicle.
+0xB5523D40 Vehicle Built
+0xB5523D42 Built ~timelineEventCount~ military air vehicles.
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AD Terraformed ~timelinePlanetName~.
+0x0627E7AC Added T Level To Planet
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Earned Trait Mix
+0x05FA01B4 ~timelineMyTribeName~ Has Evolved to Become an Economic City.
+
+# CRG_PackMemberAdded
+
+0x060B421D Pack Member Added
+0x05FA019F ~timelineTargetOTDBName~ added to your pack.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ has become a Scientist in Space!
+0x060B4259 Earned Trait Scientist
+
+# SPG_CGQuasar
+
+0x060B4254 CQ Quasar
+0x05FA01D2 ~timelineMyEmpireName~ has attained enlightenment.
+
+# SPG_EditedVehicle
+
+0x35493813 ~timelineMyEmpireName~ has designed a new vehicle ~timelineTargetOTDBName~.
+0x35493812 ~timelineTargetOTDBName~
+
+# SPG_MadeAlly
+
+0x060B424E Made Ally
+0x05FA01CC ~timelineMyEmpireName~ have allied with ~timelineTargetEmpireName~.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Built economic land vehicle.
+0x15523CA5 Built ~timelineEventCount~ economic land vehicles.
+0x15523CA3 Vehicle Built
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Earned Trait Mix
+0x05FA01A6 Species ~timelineMySpeciesName~ Has Evolved to Become a Fast Race.
+
+# CVG_CapturedCityReligious
+
+0x060B423E Religious Capture
+0x06031AAC ~timelineMyCivName~ has captured a city from ~timelineTargetCivName~ using religious means.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Earned Trait Attack
+0x05FA01A4 Species ~timelineMySpeciesName~ Has Evolved to Become a Strong Race.
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~ has used ~timelineSuperPowerName~.
+0x060B4244 Used Super Power
+
+# CVG_EpicKilled
+
+0x3552A304 Killed Epic
+0x3552A305 ~timelineMyCivName~ killed Epic ~timelineTargetOTDBName~.
+
+# CRG_KilledSomething
+
+0xF4F7EE4B ~timelineMySpeciesName~ killed ~timelineEventCount~ creatures.
+0x060B4226 Killed Something
+0x05FA01A8 ~timelineMySpeciesName~ killed a ~timelineTargetOTDBName~.
+
+# CVG_SpiceNodeCaptured
+
+0x05FA01C1 ~timelineMyCivName~ has captured a Spice Geyser.
+0x15137CD5 ~timelineMyCivName~ has captured ~timelineEventCount~ Spice Geysers.
+0x060B4243 Spice Node Captured
+
+# CVG_LostCityByMilitary
+
+0x35492921 ~timelineMyCivName~ has lost a city.
+0x35492920 Lost City
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ killed off the ~timelineTargetOTDBName~.
+0x060B4220 Extincted
+
+# CRG_PackMemberDied
+
+0x060B421E Pack Member Died
+0x05FA01A0 ~timelineMySpeciesName~ lost a pack member.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ has become a Shaman in Space!
+0x060B425A Earned Trait Shaman
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Vehicle Built
+0x05FA01C3 Built land vehicle.
+0xB4F817E5 Built ~timelineEventCount~ land vehicles.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Vehicle Lost
+0x54F81C70 Lost ~timelineEventCount~ land vehicles.
+0x05FA01C6 Lost a land vehicle.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA852 Initializing Doppler Effects Manager
+0x064AA850 Scaling Impostor Mipmaps
+0x064AA853 Seeding Technological Factors
+0x064AA854 Equalizing Urban Dynamics
+0x064AA856 Stretching Loopbox Particles
+0x064AA857 Memetic Transitioning Initiated
+0x064AA900 Pollinating Viral Data
+0x064AA855 Composing Ambient Melodies
+0x064AA851 Populating Continental Subsystems
+0x064AA84F Surveying Hydrocarbon Resources
+0x064AA84E Stabilizing Geostatic Borders
+
+# CVG_SpiceNodeLost
+
+0xD54932C0 Spice Node Lost
+0xD54932C1 ~timelineMyCivName~ has lost a Spice Geyser.
+0xD54932C2 ~timelineMyCivName~ has lost ~timelineEventCount~ Spice Geysers.
+
+# CRG_EvolveInEditor
+
+0x060B421B Generation ~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~ evolved.
+
+# CVG_AirVehicleLost
+
+0x060B424A Vehicle Lost
+0x05FA01C8 Lost an air vehicle.
+0xF4F81D2C Lost ~timelineEventCount~ air vehicles.
+
+# SPG_CapturedStare
+
+0x060B4250 Capture Star
+0x05FA01CE ~timelineMyEmpireName~ have captured from ~timelineTargetEmpireName~.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Religious Land
+
+# SPG_PlayerUFoDestroyed
+
+0x060B4263 Player Spaceship Destroyed
+0x05FA01D7 ~timelineTargetOTDBName~ lost.
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ has become a Knight in Space!
+0x060B4258 Earned Trait Knight
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ evolved and gained the ~timelineAbilityName~ ability.
+0x550A15C0 Gained ~timelineAbilityName~
+
+# SPG_EncounteredEmpire
+
+0x060B4264 Encountered Empire
+0x05FA01D8 Discovered the ~timelineTargetEmpireName~.
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~ gave a gift to ~timelineTargetTribeName~.
+0xB5303DE4 ~timelineMyTribeName~ gave ~timelineEventCount~ gifts.
+0xB5303DE2 Gift Given
+
+# CVG_TradeRouteStarted
+
+0x3549292A Trade Route Formed
+0x3549292B Started a trade route with ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x060B424C Edited Spaceship
+0x05FA01CA ~timelineMyEmpireName~ have designed a new spaceship.
+
+# CLG_DiscoverPart
+
+0x060B4211 Discover Part
+0x05FA0193 ~timelineMySpeciesName~ discovered ~timelinePartName~ part.
+0x75580853 Discovered ~timelinePartName~ part.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ has become a Warrior in Space!
+0x060B425D Earned Trait Warrior
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Vehicle Built
+0x05FA01C4 Built sea vehicle.
+0x94F819B5 Built ~timelineEventCount~ sea vehicles.
+
+# CVG_WarEndedByWinning
+
+0x35492928 War Ended
+0x35492929 ~timelineMyCivName~ defeated ~timelineTargetCivName~.
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ has become a Wanderer in Space!
+0x060B425C Earned Trait Wanderer
+
+# TRG_UnlockedTool
+
+0xD537EA56 Unlocked ~timelineAbilityName~.
+0xD537EA55 Unlocked ~timelineAbilityName~
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ has become an Ecologist in Space!
+0x060B4257 Earned Trait Ecologist
+
+# TRG_DomesticatedSpecies
+
+0x060B422E New Pet ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ has domesticated a pet ~timelineTargetOTDBName~.
+
+# SPG_UFODestroyed
+
+0x060B4260 Spaceship Destroyed
+0x356A2D21 ~timelineEventCount~ Spaceships Destroyed.
+0x05FA01D4 ~timelineTargetEmpireName~ Spaceship Destroyed.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Economic Sea
+
+# TRG_TribeMemberDied
+
+0x060B4234 Tribe Member Died
+0xD4F7FE0D ~timelineMyTribeName~ lost ~timelineEventCount~ tribe members.
+0x05FA01B6 ~timelineMyTribeName~ lost a tribe member.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Military Air
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA0 Vehicle Built
+0x15523CA1 Built military land vehicle.
+0x15523CA2 Built ~timelineEventCount~ military land vehicles.
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ has become a Trader in Space!
+0x060B425B Earned Trait Trader
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 First Grox Encounter
+0x05FA01D0 ~timelineMyEmpireName~ have encountered the Grox.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA6 Vehicle Built
+0x15523CA8 Built ~timelineEventCount~ religious land vehicles.
+0x15523CA7 Built religious land vehicle.
+
+# TRG_ConqueredTribe
+
+0x060B422C Conquered Tribe
+0x05FA01AE ~timelineMyTribeName~ has conquered ~timelineTargetTribeName~.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA902 Conserving Mass
+0x064AA90A Resetting Galactic Torque
+0x064AA908 Accelerating Singularities
+0x064AA904 Adjusting Gravitational Constant
+0x064AA90C Processing Imperial Influence Map
+0x064AA907 Generating Galactic Polyphony
+0x064AA906 Spinning Proto-planetary Systems
+0x064AA90B Entropic Recalibration
+0x064AA909 Quasar Redshift Balancing
+0x064AA903 Expanding Local Space
+0x064AA901 Mediating Higgs Field
+0x064AA905 Charging Emissive Nebulae
+
+# TRG_AccessorizedCreature
+
+0x060B422A New Outfit
+0x05FA01AC ~timelineMyTribeName~ have adopted a new wardrobe.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ evolved.
+0x060B4212 Generation ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x060B421C Brain Upgrade
+0x05FA019E ~timelineMySpeciesName~ now has a bigger brain!
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ has become a Diplomat in Space!
+0x060B4256 Earned Trait Diplomat
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 Earned ~timelineSummedCount~ sporebucks through trade routes.
+0x7552A858 Earned ~timelineSummedCount~ sporebucks through trade routes.
+0x7552A857 Trade Route Earned Money
+
+# CLG_KilledSomething
+
+0xF4F7C380 ~timelineMySpeciesName~ killed ~timelineEventCount~ cells.
+0x060B4219 Killed Something
+0x05FA019B ~timelineMySpeciesName~ killed a ~timelineTargetOTDBName~.
+0x7558085B Your cell killed ~timelineEventCount~ cells.
+0x7558085A Your cell killed a ~timelineTargetOTDBName~.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Earned Trait Mix
+0x05FA0199 ~timelineMySpeciesName~ has evolved into an Omnivorous Creature. They can eat fruit or meat in the creature stage.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84C Phase Shifting Paradigms
+0x064AA846 Developing cultural Abstractions
+0x064AA847 Scrubbing Animations
+0x064AA845 Filtering Social Constraints
+0x064AA84A Smoothing Face Normals
+0x064AA84B Preparing Ethnographic Sampling
+0x064AA849 Factoring Epistemological Framework
+0x064AA848 Structuring Linguistic Systems
+0x064AA84D Distributing Cognitive Abilities
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~ has become a Zealot in Space!
+0x060B425E Earned Trait Zealot
+
+# TRG_SeaweedGathered
+
+0x555BD5C3 ~timelineSummedCount~ Seaweed Gathered
+0x555BD5C5 ~timelineSummedCount~ Seaweed Gathered.
+0x555BD5C4 ~timelineSummedCount~ Seaweed Gathered.
+
+# SPG_SpiceTraded
+
+0x55564EC3 ~timelineSummedCount~ spice traded.
+0x05FA01D5 ~timelineSummedCount~ spice traded.
+0x060B4261 Spice Traded
+
+# SPG_MasterBadge
+
+0x060B4253 Master Badge Earned
+0x05FA01D1 ~timelineMyEmpireName~ have earned a master badge.
+
+# CLG_GameStart
+
+0x060B4210 Generation ~timelineGenerationCount~
+0x05FA0192 Emerged from the meteor.
+
+# CVG_EpicCharmed
+
+0x3552A306 Charmed Epic
+0x3552A307 ~timelineMyCivName~ charmed Epic ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Military Capture
+0x06031AAA ~timelineMyCivName~ has captured a city from ~timelineTargetCivName~ using military means.
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 Built ~timelineEventCount~ economic sea vehicles.
+0x35523EC4 Built economic sea vehicle.
+0x35523EC3 Vehicle Built
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ has arrived on land to begin the journey toward sentience.
+0x060B421A Generation ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 ~timelineEventCount~ Plants Eaten
+0x352DBDB7 ~timelineMySpeciesName~ ate a plant.
+0x352DBDB8 ~timelineMySpeciesName~ ate ~timelineEventCount~ plant buds.
+0x75580856 Your cell ate a plant.
+0x75580857 Your cell ate ~timelineEventCount~ plant buds.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ has formed a tribe.
+0x060B4229 Enter Tribe
+
+# SPG_StartedWar
+
+0x060B424F Started War
+0x05FA01CD ~timelineMyEmpireName~ are now at war with ~timelineTargetEmpireName~.
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Military Sea
+
+# TRG_TribeMemberBorn
+
+0x060B4233 Tribe Member Born
+0xD4F81307 ~timelineEventCount~ babies were born into ~timelineMyTribeName~.
+0x05FA01B5 A new baby was born into ~timelineMyTribeName~.
+
+# SPG_RareFound
+
+0x060B4262 Rare Found
+0x05FA01D6 Found Rare: ~timelineRareName~
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Vehicle Built
+0x34F81C5A Built ~timelineEventCount~ air vehicles.
+0x05FA01C5 Built air vehicle.
+
+# TRG_FruitGathered
+
+0x060B4235 ~timelineSummedCount~ Fruit Gathered
+0x05FA01B7 ~timelineSummedCount~ Fruit Gathered.
+0x94F804D9 ~timelineSummedCount~ Fruit Gathered.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ has finished as an economic civ.
+0x060B4240 Earned Trait Economic
+
+# TRG_FishGathered
+
+0x060B4236 ~timelineSummedCount~ Fish Gathered
+0x05FA01B8 ~timelineSummedCount~ Fish Gathered.
+0x54F8079A ~timelineSummedCount~ Fish Gathered.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 Built ~timelineEventCount~ religious sea vehicles.
+0x35523EC7 Built religious sea vehicle.
+0x35523EC6 Vehicle Built
+
+# CVG_TradeCompleted
+
+0x3549292C Trade Happened
+0x3549292D ~timelineMyCivName~ traded ~timelineSummedCount~ Sporebucks.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D46 Vehicle Built
+0xB5523D48 Built ~timelineEventCount~ religious air vehicles.
+0xB5523D47 Built religious air vehicle.
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Religious Air
+
+# CVG_GiftGiven
+
+0xD54932C4 ~timelineMyCivName~ paid ~timelineSummedCount~ Sporebucks.
+0xD54932C5 ~timelineMyCivName~ paid ~timelineSummedCount~ Sporebucks.
+0xD54932C3 Money Paid
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Earned Trait Plant
+0x05FA0197 ~timelineMySpeciesName~ has evolved into an Herbivorous Creature. They can only eat fruit in the creature stage.
+

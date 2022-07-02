@@ -1,0 +1,230 @@
+﻿#Choose Your Asset Panel#
+
+0x05B08762 Editar
+0x05B08763 Crear nuevo
+0x05B08764 Cargar
+
+#Asset Selection Panel
+
+0x05B08721 Elige tu célula
+0x05B08722 Escoge o crea tu criatura
+0x05B08725 Elige los recursos de tu espacio
+0x05B08724 Elige tu material urbano
+0x05B08723 Elige o crea a tu cacique tribal
+
+#Difficulty Panel
+
+0x06148F66 Elige tu nivel de dificultad
+
+#Game Level Rollover Descirptions
+
+0x05B08708 Empieza por el principio mismo. Alimenta a tu criatura desde sus humildes orígenes acuáticos hasta su evolución a una especie inteligente en el viaje épico de Spore.
+0x05B08712 Sal de tu planeta natal en misiones y explora la galaxia en tu viaje por el cosmos.
+0x05B08711 Pasa de ciudad a nación global imponiéndote a la oposición de tu propia raza. Si lo consigues, encontrarás la llave del cosmos.
+0x05B08710 Compite con otras tribus para convertir tu tribu de tres en una ciudad floreciente en tu camino hacia la civilización.
+0x05B08709 Evoluciona hasta que tu criatura sea la primera especie inteligente del planeta.
+0x0668D398 ***Descripción alternativa de partida de célula***
+0x0668D39A ***Descripción alternativa de partida de tribu***
+0x0668D399 ***Descripción alternativa de partida de criatura***
+0x0668D39B ***Descripción alternativa de partida de civilización***
+0x0668D39C ***Descripción alternativa de partida del espacio***
+
+#Play Panel
+
+0x05B08733 Jugar
+
+#Game Level Rollover Headers
+
+0x05B08707 Elegir un estadio
+0x05B08704 Estadio tribal
+0x05B08705 Estadio de civilización
+0x05B08703 Estadio de criatura
+0x05B08702 Estadio de célula
+0x05B08706 Estadio del espacio
+
+#GUI Tooltips
+
+0x05F08712 Adelante
+0x05F08713 Atrás
+
+# CellDiet
+
+0x067732A7 Los omnívoros comen plantas y carne.
+0x067732A6 Los carnívoros comen carne
+0x067732A5 Los herbívoros comen plantas
+
+#Game delete tooltips
+
+0x0677381D ¡Haz clic en una estrella para empezar a jugar a Spore!
+0x06775BB7 Omnívora
+0x06775BB6 Carnívora
+0x06775BB5 Herbívora
+0x06775BB4 Elige tu dieta
+0x067735D5 No se pueden borrar las partidas del espacio.
+0x067735D4 Borrar
+0x0677381E Elige una estrella
+0x06709BEE Compartir
+0x06773A14 Nombra tu planeta
+
+#Theme Panel
+
+0x05B58BC8 Bloquear/desbloquear
+0x05B58BD8 Desbloquear
+0x05B08715 Sin tema
+0x05B08716 Al azar
+0x05B08717 Otros...
+0x05B08719 Recursos de muestra
+0x05B08720 Al azar
+0x05B08761 Sin tema
+0x05B08718 Tema
+0x05B08714 Elegir un tema
+
+#Running Summary List Panel
+
+0x05B08734 Célula
+0x05B08735 Criatura
+0x05B08736 Tribu
+0x05B08737 Civilización
+0x05B08738 Espacio
+0x05B08740 Planeta: ~generic0~
+0x05B08741 Tema: ~generic0~
+0x05B08742 Identidad de ciudad: ~generic0~
+0x05B08743 Identidad de colonia: ~generic0~
+0x05B08744 Criatura: ~generic0~
+0x05B08739 Estadio ~generic0~
+
+# Flow
+
+0x067B5BA8 Equipar
+0x067B5BA1 Iniciar creador seleccionado
+
+#Create Spore Stuff panel descriptions
+
+0x05C08793 Creador de naves espaciales
+0x05B08781 Crear edificios
+0x05B08782 Crear un ayuntamiento
+0x05B08780 Crear vehículos aéreos
+0x05B08778 Crear vehículos terrestres
+0x05B08779 Crear vehículos marítimos
+0x05B08787 Crear célula
+0x05B08785 Crear un edificio de ocio
+0x05B08783 Crear una casa
+0x05C08792 Selecciona un creador y haz tus creaciones.
+0x05C08776 Crear naves espaciales
+0x05C08777 Crear vehículos
+0x05B08791 Crear y cambiar la apariencia a criaturas del espacio
+0x05B08784 Crea una fábrica
+0x05B08789 Crear y cambiar la apariencia de criaturas de la tribu
+0x05B08790 Crear y cambiar la apariencia a criaturas de la civilización
+0x06527838 Creador de criaturas inicial
+0x06527837 Crear criaturas evolucionadas desde el estadio de criatura
+0x05B08788 Crear criaturas evolucionadas desde el estadio tribal
+0x05B08786 Crea Criaturas
+
+# GGE Strings
+#GGE Nav
+
+0x0637D481 Crear un personaje [NO SE USA]
+0x0637D480 Jugar
+0x0637D482 Crear
+
+#Planet Name Panel
+
+0x05B08713 Nombra tu planeta
+
+#Identity Panel
+
+0x05B08728 Selecciona tu estilo de juego
+0x05B08730 Militar
+0x05B08731 Económico
+0x05B08732 Religioso
+0x05B08727 Elige la especialidad de tu imperio.
+0x05B08726 Elige la especialidad de tu civilización.
+
+#Create and Play panels[NOT IN USE]
+
+0x05C08806 Creador del estadio de célula[NO SE USA]
+0x05C08808 Creador y proveedor del estadio de tribu[NO SE USA]
+0x05C08807 Creador del estadio de criatura[NO SE USA]
+0x05C08810 Creador y proveedor del estadio del espacio[NO SE USA]
+0x05C08809 Creador y proveedor del estadio de civilización[NO SE USA]
+0x05B08798 Crear y cambiar la apariencia a una criatura del espacio y jugar en el estadio del espacio
+0x05B08795 Crear una criatura y jugar en el estadio de criatura[NOT IN USE]
+0x05B08799 Crea y juega[NO SE USA]
+0x05B08793 Crear una célula y jugar en el estadio de célula[NOT IN USE]
+0x05B08792 Crear un personaje y jugar un estadio [NOT IN USE]
+
+#Greyed Stage x5
+
+0x065F8FEC ***
+0x065F8FDB Juega el estadio de civilización para desbloquear el estadio del espacio.
+0x065F8FBC Juega el estadio de célula para desbloquear el estadio de criatura.
+0x065F8FC5 Juega el estadio de criatura para desbloquear el estadio tribal.
+0x065F8FD0 Juega el estadio tribal para desbloquear el estadio de civilización.
+
+#New Game Rollover
+
+0x05B08767 Nueva partida
+
+# Delete game dialog
+
+0x00000001 Borrar partida
+0x00000002 ¿Borrar ~generic0~? 
+0x00000005 Partida borrada
+0x00000006 ~generic0~ borrada.
+
+# TribeDiet
+
+0x067732AD Los omnívoros comen plantas y carne.
+0x067732AC Los carnívoros comen carne
+0x067732AB Los herbívoros comen plantas
+
+# CreatureDiet
+
+0x067732AA Los omnívoros comen plantas y carne.
+0x067732A8 Los herbívoros comen plantas
+0x067732A9 Los carnívoros comen carne
+
+#difficulty setting
+
+0x05B08772 Fácil
+0x05B08775 Dificultad: ~generic0~
+0x05B08773 Normal
+0x05B08774 Difícil
+0x061B56FA Elige una dificultad de juego:
+
+#Title Screen Strings
+
+0x05B08776 Las interacciones online no están clasificadas por la ESRB.
+0x05B08777 © 2008 Electronic Arts Inc. Todos los derechos reservados.
+
+#Choose Your Assets strings
+
+0x05AF2A13 Elige tu criatura
+0x05AF2A16 Elige los recursos de tu espacio
+0x05AF2A15 Elige tu material urbano
+0x05AF2A14 Elige a tu cacique tribal
+
+###Editor Flow###
+#Choose Creators#
+
+0x05B08765 Elegir un creador
+0x05B08766 Ayuntamiento
+0x05B08769 Fábrica
+0x05B08770 Ocio
+0x05B08768 Casa
+0x05B08771 Iniciar creador seleccionado
+
+# New comment notification from GGE
+
+0xB55BD823 ¡Hay nuevos comentarios sobre tus creaciones!
+0xB55BD824 Organizar comentarios
+
+# Saved game name already exists dialog
+
+0x00000003 Nombre de planeta cogido
+0x00000004 Perdón, ~generic0~ ya está en uso.
+0x060A10C4 Falta una partida guardada o está en mal estado.
+0x060A10C5 No se puede encontrar el archivo de partida guardada ~generic0~.
+0x060A10C3 Falta un archivo o está corrupto.
+

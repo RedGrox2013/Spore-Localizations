@@ -1,0 +1,63 @@
+﻿0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x494AA82F O programa de configuração foi interrompido antes que o ~string~ fosse removido.~br~~br~Para concluir a desinstalação desse programa em outro momento, utilize o programa de desinstalação novamente.~UNINSTALL_INCOMP~
+0x4782CCA0 Opção~IDS__DialogId_10105_ControlId_608~
+0x303D349E Arquivo: ~string~~br~Erro: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Escolha os recursos que gostaria de instalar e remova os que não deseja. Clique em Avançar para continuar.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 É necessário estar conectado a uma conta de administrador para realizar a instalação.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Atalho da Área de Trabalho~DESKTOP_SHORTCUT~
+0x7E8BB5FD A Instalação foi concluída~INSTALLATION_COMPLETE~
+0x4DE32707 Por favor, interrompa o ~string~ antes de prosseguir.~GAME_RUNNING_STRING~
+0x05082CC9 Concluído~IDPROP_SETUPTYPE_COMPLETE~
+0x4782CC92 Opção6~IDS__DialogId_10105_ControlId_606~
+0x4782CC91 Opção7~IDS__DialogId_10105_ControlId_607~
+0x7D4A4E2F Personalizada~CUSTOM~
+0x051414BE @10550,10551;1;0;;0,128,128 ~IDS__DialogId_10105_ControlId_1200~
+0x1F726BCA Jogar~PLAY_SPORE~
+0x6CD070E6 Algumas informações necessárias para a desinstalação não podem ser encontradas. Talvez tenha ocorrido um erro durante a instalação inicial. Alguns arquivos e pastas talvez precisem ser removidos manualmente.~MISSING_UNINSTALL~
+0x4782CC93 Opção5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Opção2~IDS__DialogId_10105_ControlId_602~
+0x4782CC9F Opção9~IDS__DialogId_10105_ControlId_609~
+0x4782CC97 Opção1~IDS__DialogId_10105_ControlId_601~
+0x4782CC95 Opção3~IDS__DialogId_10105_ControlId_603~
+0x4782CC94 Opção4~IDS__DialogId_10105_ControlId_604~
+0x64A17D06 Ocorreu um erro. O programa de configuração não pode ser concluído e será encerrado.~GENERAL_ERROR~
+0x7CF6B4E8 Personalizada~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Não é possível realizar a instalação em ~string~~br~Por favor, escolha um diretório diferente.~DANGEROUS_DIRECTORY_ERROR~
+0x0537CFA1 Desinstalar ~string~~UNINSTALL~
+0x02699E57 Tipo de Instalação~SETUP_TYPE_TITLE~
+0x16741C9F Iniciar o ~string~ após a instalação~LAUNCH_SPORE~
+0x0AA43B92 Recomendado~RECOMMENDED~
+0x38A8F152 Bem-vindo ao ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 Leia-me~README~
+0x15538FF6 Tipo de Instalação~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Escolha o tipo de instalação que melhor atende às suas necessidades.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Personalizado~IDPROP_SETUPTYPE_CUSTOM~
+0x74C9257A Concluído~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Estamos prontos para iniciar a instalação!~READY_TO_INSTALL~
+0x59450AC4 Tipo de instalação~br~Escolha o tipo de instalação desejada~SETUP_TYPE_MESSAGE~
+0x7E9C7EC7 &Avançar >~IDS__DialogId_10105_ControlId_1~
+0x2A8D9AF3 Ajuda EA~EA_HELP~
+0x7E9C7ECF Cancelar~IDS__DialogId_10105_ControlId_9~
+0x40D6F8BD Ver o arquivo Leiame.txt após a instalação~VIEW_README~
+0x7B152168 Clique em Instalar para iniciar o processo de instalação~br~~br~Se desejar rever ou alterar alguma de suas configurações de instalação, clique no botão Voltar ou clique em Cancelar para sair do programa de instalação.~BEGIN_INSTALLATION~
+0x3017EF99 Deseja excluir todos os dados de usuário gerados pelo ~string~?~REMOVE_USERDATA~
+0x01FCAF57 Minhas criações Spore~SAVE_FOLDER~
+0x06220BA5 Clique em “Avançar" para instalar o ~string~ no computador!~WELCOME_SPORE_MESSAGE~
+0x4E1203F5 Deseja instalar a versão mais recente do Gerenciador de Downloads da EA? Caso não instale a versão mais recente do Gerenciador de Downloads EA, patches de atualização e outros recursos não poderão ser copiados para o seu computador.~EADM_INSTALL~
+0x2BF6EA98 A unidade de disco selecionada não tem espaço livre suficiente. Exclua alguns arquivos da unidade selecionada para liberar mais espaço ou escolha outra unidade para a instalação.~NO_SPACE_MSG~
+0x0D849C4A Clique em Concluir para sair e começar~CLICK_FINISH~
+0x03BCF887 Desmarque a opção abaixo se não deseja colocar~br~um atalho do jogo na área de trabalho.~SELECT_OPTIONS~
+0x46A61B9B ~string~ não foi encontrada.~MISSING_FILES~
+0x689470D4 Recurso~ID_STRING1~
+0x27D33671 O caminho até o arquivo é muito longo. Por favor, escolha um caminho mais curto.~DIR_TOO_LONG~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x16FBAEAF Agora, você já pode jogar o ~string~~READY_TO_PLAY~
+0x4950A450 Criador de Criaturas do Spore™ - Edição de Avaliação~SCC_TRIAL_NAME~
+0x23FD0D11 Criador de Criaturas do Spore™~SCC_NAME~
+0x151DEC2F O Spore™ não funcionará corretamente sem o DirectX.~DIRECTX_WARNING~
+0x15CC67E6 O ~string~ será instalado em~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x144073D1 O ~string~ será instalado no diretório de sua escolha.~CUSTOM_SPORE_SETUP~
+0x159098E0 &Voltar~IDS__DialogId_10105_ControlId_12~
+0x353F37C7 Precisamos desinstalar sua cópia independente do ~string~. Clique em Sim para iniciar a desinstalação: O SPORE™ inclui todos os recursos do Criador de Criaturas e você poderá ficar com todas as criaturas que já criou.~SPORE_REMOVE_CSA_WARNING~
+

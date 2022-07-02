@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 Onnistuit! Raportoi tähtijärjestelmässä ~mission_source_star~.
+0x000000B2 Palaa takaisin planeetalle ~mission_source_planet~.
+0x000000B1 Palauta harmonia planeetalle ~mission_target_planet~.
+0x00000093 Suuntaa järjestelmään ~mission_source_star~.
+0x00000097 Meneillään
+0x00000098 Suoritettu
+0x00000095 Harmonia on palautettu planeetalle ~mission_target_planet~. Palaa takaisin tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~.
+0x00000094 Palauta harmonia tähden ~mission_target_star~ järjestelmään. Planeetan ~mission_target_planet~ kyläläiset tarvitsevat apuasi.
+0x00000071 Yksikään kapteeni ei pysty kävelemään kaikilla galaksin poluilla. Olkoon valitsemasi polku menestyksekäs.
+0x00000081 Kaikkien sisäinen harmonia ei salli talsimista todellisuuden rajan molemmin puolin. Onnea valitsemallesi puolelle.
+0x00000064 Siirry alas ja juttele kaupunginjohtajalle. Hän ei tiedä mitään harmonisesta energiasta, mutta kuuntele häntä tarkasti, niin saatat jopa ymmärtää totuuden.
+0x00000092 Palauta harmonia tähden ~mission_target_star~ järjestelmään. Totuus paljastuu, jos seuraat oikeaa polkua.
+0x00000041 ~ep1_captain_full_name~, teit sen! Seurasit oikeaa polkua ja palautit harmonian. ~p~Suuressa suunnitelmassa on varmasti sijansa sinullekin. Pistä siis toimeksi ja levitä harmoniaa kaikkialle galaksiin! ~p~Ai niin, ennen kuin unohdan, tässä palkkioksi ~mission_rewards~. Käytä ne viisaasti.
+0x0000004E Kuulehan, matkalainen. En halua järkyttää aurasi tasapainoa, mutta kyläläiset tarvitsevat apuasi. ~p~Kaikki tarvittavat tiedot ovat kyllä tehtävälokissasi.
+0x00000000 ~ep1_captain_full_name~, vastaanotimme hätäsignaalin läheiseltä siirtokunnalta. Vaikuttaa siltä, että jonkinlaiset hirviöt hyökkäävät joka ilta paikalliseen kylään.~p~Uskomme häiriön syyn olevan planeetan harmoninen epätasapaino, mutta emme voi paikantaa sen lähdettä kiertoradalta käsin. ~p~ Voimakeinoista ei ole apua tässä tapauksessa. Sinusta säteilee kuitenkin sellaista sisäistä rauhaa, että voisit hyvinkin onnistua tehtävässä.~p~ Hyväksytkö tehtävän?
+

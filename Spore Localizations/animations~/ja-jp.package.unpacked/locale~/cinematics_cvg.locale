@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000905 宗教都市を買収しました。この都市の特性を残した場合、宗教系ビークルで他の都市を転向できます。~br~市民の満足度が低い都市を標的にすれば転向しやすいでしょう。~br~都市の特性を選択してください。
+0x00000901 経済的な都市を、軍事的な手段で占領しました。経済的な都市は、交易ルートを築くことにより関係性を管理し、~br~いずれ他の都市を購入することが可能になります。都市の特性を選択してください。
+0x00000900 宗教都市を、軍事的な手段で占領しました。この都市の特性を残した場合、宗教系ビークルで~br~他の都市を転向できます。市民の満足度が低い都市を標的にすれば転向しやすいでしょう。~br~都市の特性を選択してください。
+0x00000904 軍事都市を買収しました。この都市の特性を残した場合、軍事系ビークルを作成して、~br~他の都市を征服することができます。都市の特性を選択してください。
+0x00000903 経済的な都市を、宗教的な手段で転向させました。経済的な都市は、交易ルートを築くことにより~br~関係性を管理し、いずれ他の都市を購入することが可能になります。都市の特性を選択してください。
+0x00000902 軍事都市を、あなたの宗教に転向させました。この都市の特性を残した場合、軍事系ビークルを作成して~br~他の都市を征服することができます。都市の特性を選択してください。
+
+# capture - not first, change
+
+0x00000304 宗教系
+0x00000301 宗教系
+0x00000302 経済系
+0x00000906 あなたは宗教都市を、軍事的な手段で占領しました。~br~この都市の特性を選択してください。
+0x00000300 軍事系
+0x00000907 あなたは経済都市を、軍事的な手段で占領しました。~br~この都市の特性を選択してください。
+0x00000305 経済系
+0x00000303 軍事系
+0x00000908 あなたは軍事都市を、宗教的な手段で転向させました。~br~この都市の特性を選択してください。
+0x00000909 あなたは経済都市を、宗教的な手段で転向させました。~br~この都市の特性を選択してください。
+0x00000911 あなたは宗教都市を買収しました。~br~この都市の特性を選択してください。
+0x00000910 あなたは軍事都市を買収しました。~br~この都市の特性を選択してください。
+
+# Upgrades
+
+0x00000601 あなたの工業化学のスタッフは、水車と自動コンベアーを身につけました！~br~海を征服するための船を作る準備ができました！
+0x00000605 驚きのニュースです！　私たちはついに、重力を克服しました！　宇宙旅行が現実のものになりました。~br~お知恵をお借りできれば、新しい宇宙船の設計が完成します。
+0x00000603 成功です！　強風さえ、私たちの技術に服従します！　エアロファンネルとボルテックスチューブによって、~br~惑星の地表から何マイルも上空での浮遊と、らせん降下が可能な飛行ビークルを作ることができます！
+
+##############################
+#########
+# Tutorial cinematics
+
+0x00000108 あなたの唯一の都市が占領されてしまいました。
+0x00000710 あなたの都市が攻撃されています。砲塔を設置または建物を追加し、満足度を増加して都市を守ってください。
+0x0653ADAD 文明ステージが始まります。
+0x00000213 このような「スパイス間欠泉」を探して、ビークルを選択し、クリックして送り込んで確保してください。~br~スパイスは非常に大切な必需品です。~br~スパイスを掘り起こせば、あなたの国の財源を豊かにする助けとなるでしょう。
+0x0000010A あなたの集落は、この大陸を支配下に置きました。~br~村1つのシンプルな生活から、他よりも進んだ文明的な都市の生活に進化する準備ができました！
+0x0000010D 技術と輸送の時代が到来しました！　あなたの都市はこの惑星最初の都市でしたが、~br~あなたの種族はもう単一の言語を喋っていません…すぐ他の都市が、同じ種族の~br~別派により建てられるでしょう。進むためには、まず統一が必要です。
+0x00000403 おめでとうございます！　あなたは1つ目のスパイス間欠泉を確保しました。~br~スパイス掘削装置の設置によって、あなたの国に着実な収入をもたらし続けます。
+0x00000400 別の集落が、大陸に都市を作りました！~br~彼らがまだ弱いうちに征服をしてもいいですし、同盟を結んでもいいでしょう。
+
+# Not In use
+
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet!  Click on your city hall to launch a spaceship and explore space!
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet. ~br~ Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city!
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet. ~br~Your first task is to send it to claim a spice node.
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests!
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent! ~br~You may want to conquer them while they are still weak or choose to make them an ally.
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances!
+
+# capture - keep
+
+0x00000803 あなたは軍事都市を、軍事的な手段で占領しました。~br~この都市は、軍事都市のまま残ります。
+0x00000804 あなたは宗教都市を、自国の宗教に転向させました。~br~この都市は、宗教都市としてあり続けます。
+0x00000805 この経済的な都市を、経済的な手段で購入しました。~br~都市は、経済的な都市としてあり続けます。
+
+# Deleted
+
+0x0000011F DELETED
+0x00000100 DELETED
+0x00000101 DELETED
+0x00000112 DELETED
+0x00000114 DELETED
+0x00000113 DELETED
+0x00000600 DELETED
+0x00000500 DELETED
+
+# superweapons
+
+0x00000702 あなたの世界的合併が、世界を征服しました。
+0x00000700 あなたの大陸間弾道ミサイルが、世界を征服しました。
+0x00000701 あなたの救世主が、世界を征服しました。
+

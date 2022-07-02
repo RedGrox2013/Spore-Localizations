@@ -1,0 +1,188 @@
+﻿# capture GIF
+
+0x058B90F2 Den animerte avataren din er lagret i ~br~~gif_name~~mac_save_append~.
+
+# move one done
+
+0x0458342D Bildet ditt er arkivert her: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# email message
+
+0x056BCE10 Sjekk denne helt utrolige skapningen jeg har laget i Spore!
+0x056BCDCA Sjekk videoen jeg har laget i Spore!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+# email
+
+0x04585F1F E-postadressen din er ikke gyldig.
+0x04585F49 Mottakerens e-postadresse er ikke gyldig.
+0x045AD62F E-postadressen din
+0x045AD634 Mottakerens e-postadresse
+0x0583897C Klikk for å sende et postkort med e-post
+0x05B5B8C4 Fortell en venn om videoen din
+0x04588BEF Meldingen din er sendt.
+0x045AD5B9 Send et postkort med e-post
+
+# too many photos
+
+0x047FF0E4 Du har for mange bilder. Arkiver noen av dem.
+
+# move all done
+
+0x04583295 Bildene dine er arkivert her: ~play_photo_back~.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animasjon
+
+# YouTube
+
+0x0549366C Nei
+0x0549366D Last opp
+0x05600488 Du må være logget inn i Spore for å kunne bruke denne funksjonen. Vil du logge inn?
+0x0563C623 Du må registrere deg i Spore for å bruke denne funksjonen. Vil du registrere deg?
+0x05498DCB Videoen din er lastet opp. Vil du fortelle det til vennen din?
+0x05B5AC4C Betingelser for bruk av YouTube
+0x05496510 Kunne ikke logge inn på YouTube.~br~~br~Bruk et gyldig brukernavn og passord for å registrere deg på YouTube før du fortsetter med opplastingen.
+0x056D0627 Opplasting fullført! Send videolinken til en venn!
+0x056691B0 Sjekker registreringen hos YouTube...
+0x05496B24 Logger inn på YouTube...
+0x055AA305 Laster opp video til YouTube...
+0x054C1E63 Filmen din er lagret som ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Det inntraff en feil under opplasting til YouTube.~br~~br~Sjekk tilkoblingen til Internett, eller prøv igjen senere.
+0x05498260 Det inntraff en feil under innlogging på YouTube.~br~~br~Sjekk tilkoblingen til Internett, eller prøv igjen senere.
+0x05B5FD1E Vil du laste opp filmen nå?
+0x05D2C767 Opplastingen ble avbrutt
+0x05D54AF7 Den tilknyttede nettsiden er på engelsk. Hvis du vil se en side på ditt eget språk, velger du landet du kommer fra på sidevalgskjermen.
+0x05E501EB Last opp til <youtubeicon>
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Innlogging mislyktes
+0x05CBDEDA Opplasting mislyktes
+
+# tool tips
+
+0x04598E97 Send e-post
+0x046286E7 Spinn
+0x046286F4 Sitt
+0x046286F8 Brøl
+0x04628717 Slå
+0x04628719 Ta-taa!
+0x04628722 Søting
+0x04628724 Sumo
+0x04628726 Hei
+0x04628729 Fleks
+0x04628733 Hei, baby
+0x04628745 Hippeti-hopp
+0x0462874E Rave-punch
+0x04628798 Glad
+0x0462879C Trist
+0x046287A0 Redd
+0x046287A1 Sint
+0x046287A2 Latter
+0x046287A4 Billedviser
+0x046287A5 Ta bilder
+0x046287D8 Bakgrunner
+0x046287DA Babyer
+0x046287ED Lagre
+0x0462932D Hjelp
+0x0473F903 Administrer bilder
+0x0474E80D Slett bilde
+0x046287A6 Spill inn film
+0x0474E80E Arikiver bilde
+0x046287A3 Forelsket
+0x04628749 Trå og gå
+0x04628737 Side-til-side
+0x0462873F Glødende kull
+0x04628739 På stedet gå
+0x04628713 Kall
+0x046286F2 Salto
+0x046287D6 Handlinger
+
+# Are you sure: Yes
+
+0x04583FFB Ja
+
+# delete all done
+
+0x0458334E Bildene dine er slettet.
+
+# photobackuppath
+
+0x06305594 Mine dokumenter
+0x06305593 Mine Spore-skapninger/bilder/backup
+
+#continue
+
+0x0549656C Fortsett
+
+# delete one done
+
+0x04583433 Bildet ditt er slettet.
+
+# Maya export
+
+0x05B04EF5 Maya-eksportfilene dine er lagret som ~br~~maya_export_path~~maya_export_name~*.
+
+# move all
+
+0x04583A4E Arkiver alt
+
+# photo actions
+
+0x045C2025 Hva vil du gjøre med bildene?
+0x045C206E Er du sikker på at du vil slette dette bildet?
+0x045C208A Er du sikker på at du vil slette alle bildene?
+0x045C2094 Er du sikker på at du vil arkivere dette bildet?
+0x045C2098 Er du sikker på at du vil arkivere alle bildene?
+0x04613ED0 Hvis du avbryter nå, vil du avbryte alle ventende billedlagringer. Vil du avbryte likevel?
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# your message
+
+0x045AD63A Meldingen din
+
+# delete all
+
+0x04583A36 Slett alt
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# cancel
+
+0x04583AFB Avbryt
+
+# Are you sure: No
+
+0x0458400E Nei
+
+#drag and drop fail message
+
+0x05889A21 Forhåndsvisning
+0x05889A4C Du kan ikke dra og slippe i prøvekjøringen. Bytt til Bygg eller Mal.
+
+#ok
+
+0x045C2917 OK

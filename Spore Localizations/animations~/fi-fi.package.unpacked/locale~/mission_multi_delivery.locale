@@ -1,0 +1,237 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.# Any change you would do in this file will be overwritten by the script.# If you need to modify any of the text, please modify the file with the same name under#   Data\GameplayConfig\SpaceGame\SpaceConversations\.# That file has the same name but different (.cnv) extension.
+
+0x00000093 TILA: Kesken.~p~MUISTUTUS: Nouda ~mission_multi_delivery_item~ planeetoilta: ~mission_multi_delivery_item_planet_list~. Vie toimitus planeetalle ~mission_multi_delivery_buyer_planet~.~p~HUOM: Katso lisätietoja tehtävälokista.
+
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000B4 ...
+0x000000AD ...
+0x000000E9 Neuloja heinäsuovassa! Minä lopetan.
+0x000000EA Tilanne ei näytä hyvältä. Minä lopetan.
+0x000000E8 Piti kysyä vielä yksi juttu.
+0x000000E4 Kai tässä pitäisi sitten palata takaisin...
+0x000000E5 Eiköhän siinä ollut kaikki? Taidan tästä lähteä.
+0x000000E3 Jaa. Ei tässä kai muuta.
+0x000000E6 Kiitos,  Sain hoidettua työni täällä.
+0x000000EF Palaa planeetalle ~mission_source_planet~.
+0x000000F6 Nyt tiedän mikä meni pieleen. Kiitti.
+0x00000063 Jaa. Hei vaan.
+0x000000A7 Mitä? Ai, okei. Ymmärrän.
+0x0000009E Joo. Jos sopii, niin kysyisin vielä jotakin muuta...
+0x0000009D okei. Olisi vielä yksi kysymys...
+0x00000097 Olemme hyvin pettyneitä. ~mission_multi_delivery_item~ voidaan yhä paikantaa planeetoille ~mission_multi_delivery_item_planet_list~. Emmekä itse asiassa ole lainkaan yllättyneitä, jos et ole ymmärtänyt tarkistaa tehtävän parametreja tehtävälokistasi.
+0x00000038 Ai, hoituu kyllä.
+0x00000088 Voinko esittää kysymyksen?
+0x00000089 Vielä yksi juttu, ennen kuin lähden...
+0x000000AB Joo, kiitos. Mene nyt. Tehtävä vähän unohtui.
+0x00000061 Voisinko kysyä jotakin?
+0x0000005E Hetkinen. Vielä yksi juttu.
+0x000000AC Voisitteko muistuttaa, mikä tehtäväni olikaan?
+0x0000005F Piti vain kysyä vielä yksi juttu...
+0x00000087 Vielä yksi juttu...
+0x000000A9 Mitä? Kuka? Missä? Mitä nyt tapahtuu?
+0x00000086 Yksi juttu vaan...
+0x000000AA Öh? Saisinko uusinnan?
+0x000000F7 Toimitus on vastaanotettu.
+0x00000076 Vielä yksi juttu...
+0x000000B5 ~mission_source_empire~ pyysi, että toisin teille tämän lähetyksen, jossa on muutama ~mission_multi_delivery_item~.
+0x00000069 ~player_creature_name~ lupasi meille. ~player_creature_name~ hyväksyi tehtävän. Vain heikot ja mitättömät otukset syövät sanansa. ~player_creature_name~ on matoakin alhaisempi.
+0x00000073 Haluaisin kysyä vielä jotakin.
+0x00000047 Sepä hienoa! En tahdo viivyttää lähtöäsi, mutta muuten laulaisin sinulle rohkaisevan kupletin!
+0x00000042 ~player_title~ ~player_creature_name~. Uskomme, että mukanasi on kaipaamamme ~mission_multi_delivery_item~. Vahvistathan, että niitä on vaaditusti ~mission_multi_delivery_buyer_num_needed_items~?~p~Odotan vahvistusta.
+0x00000015 Jonkun pitäisi etsiä muutama ~mission_multi_delivery_item~. Kiinnostaisiko keikka? Planeetan ~mission_multi_delivery_buyer_planet~ yhteyshenkilöni nimittäin ilmoitti, että ~mission_multi_delivery_item~ on siellä tosi kovassa kurssissa. Niitä pitäisi siis rahdata sinne ensi tilassa. Maksamme kyllä ruhtinaallisesti, mutta ei homman pitäisi olla mitenkään paha. Kuulostaa pikemminkin rennolta ja hauskalta.
+0x00000077 Nyt pitää lähteä. Näkemiin!
+0x00000068 Annatko periksi? Me kun luotimme sinuun. Tuo on törkeää. Lopettaa tuosta vaan, vaikka toiset niin uskovat ja luottavat. Todella ikävä temppu. Koeta olla pettämättä luottamustamme jatkossa.
+0x00000029 Niin, ~mission_multi_delivery_item~... Älä anna niiden aiheuttaa stressiä, sillä mepä kirjoitimme sinulle luettelon planeetoista, joilla kannattaa käydä: ~mission_multi_delivery_item_planet_list~.~p~Jos tuot kaiken planeetalle ~mission_multi_delivery_buyer_planet~, saat palkkioksi ~mission_rewards~ Spore-taaleria.
+0x000000B6 ~mission_source_empire~ lähetti minut. Minulla olisi teille pieni toimitus.
+0x00000075 Vielä yksi juttu...
+0x00000005 Planeetalla ~mission_multi_delivery_buyer_planet~ sanotaan, että kosmoksesta ei löydy mitään hienompaa kuin ~mission_multi_delivery_item~. Liekö se totta? No, eipä sillä niin väliä, jos he ovat valmiita maksamaan!~p~~mission_multi_delivery_item~... Olen varma, että niitä on omassa tähtijärjestelmässämme. Voisitko kerätä niitä vaaditun määrän ja viedä ne planeetalle ~mission_multi_delivery_buyer_planet~?
+0x00000017 Kun maineesi kasvaa samoihin mittoihin kuin meillä, onni potkii joskus vähän eri tavalla kuin aiemmin. Kuulimme juuri, että ~mission_multi_delivery_item~ on kovassa kysynnässä planeetalla ~mission_multi_delivery_buyer_planet~. Sinun kaltaisesi fiksu ~player_creature_name~ haluaisi varmaan tietää, miten harvinaisia ne oikein ovat. Ja kappas vaan, täällä meilläpäin ne eivät ole lainkaan harvinaisia.~p~Homma ei siis ole kovin vaikea, meillä vaan on kädet täynnä töitä jo nyt. Voisitko sinä siis hoitaa tämän keikan meidän puolestamme? Lentele ympäriinsä, kerää muutama ~mission_multi_delivery_item~, vie ne planeetalle ~mission_multi_delivery_buyer_planet~ ja suuntaa lopuksi tänne hakemaan palkkiosi.
+0x00000046 Hienoa. ~player_title~ ~player_creature_name~, toimintasi vahvistaa käsitystä, joka meillä oli sinusta jo ennestään.
+0x00000014 Oli aika, jolloin mikään ei ollut niin muodikasta kuin ~mission_multi_delivery_item~. Sitten muoti muuttui, ja ne kätkettiin kauas kaikkien näkyvistä: oli suorastaan noloa omistaa niin kulunutta tavaraa. Mutta nyt ne ovat taas muodissa, ja planeetan ~mission_multi_delivery_buyer_planet~ asukkaat kaipaavatkin niitä todella epätoivoisesti. Todella surullista. Kokonainen planeetta täynnä muodin orjia! Toisaalta, mikäpä minä olen heitä tuomitsemaan?~p~Luuletko, että muutama ~mission_multi_delivery_item~ löytyisi sen verran helposti, että voisit toimittaa niitä lastin planeetalle ~mission_multi_delivery_buyer_planet~?
+0x00000074 Minulla olisi vielä pari kysymystä.
+0x00000067 Tämä on törkeä sopimusrike! Mikäli olisimme vähäisempi laji, haastaisimme sinut oikeuteen ja veisimme jokaisen Spore-taalerisi aina kolmanteen polveen saakka.~p~On sinun onnesi, että olemme lempeää ja anteeksiantavaista lajia... jolla on tarjota sinulle poikkeuksellisen hyviä tarjouksia.~p~Joko olet tutustunut uuteen galaktiseen tuotevalikoimaamme?
+0x00000007 Kuule, ~player_creature_name~. Luonto on kaikkialla ympärillämme. Se on osa kaikkea, ja kaikki on osa sitä. Jopa eloton ~mission_multi_delivery_item~ on osa luontoa. Elottomuudestaan huolimatta se on veljemme olevaisuuden tasolla. Kuuntele, miten se ystävineen pyytää minulta apua. Ei, en ole hullu. Kuulen sen ihan oikeasti. Se sanoo kaipaavansa kotiplaneetalleen, joka on ~mission_multi_delivery_buyer_planet~.~p~Voisitko etsiä ne kaikki ja viedä ne takaisin kotiplaneetalleen?
+0x0000006E Pian koko liittoumassa ihmetellään sitä, kuinka epäluotettava oletkaan.
+0x0000006D Olet pettänyt sanasi. Vaikka lupasit Paten nimeen, että autat meitä. Hengelliset tuomioistuimemme kokoontuvat pohtimaan petoksen vaikutusta sielullesi.
+0x00000010 Lajimme täydelliset DNA-tiedot on selvitetty jo aikaa sitten, ja tietojen säilytyspaikaksi valittiin ~mission_multi_delivery_item~. Niitä tarvittiin tietysti useita, vaan kun niitä oltiin kuljettamassa planeetalle ~mission_multi_delivery_buyer_planet~, kaapparit hyökkäsivät saattueen kimppuun ja ryöstivät koko rahdin.~p~Antropologi-komisariomme kuulustelivat erästä vangittua kaapparia, ja tämä paljasti lopulta, mihin ~mission_multi_delivery_item~ vietiin. Voitko etsiä ja palauttaa ne meille?
+0x00000071 Kiitos, matkalainen.~p~~mission_multi_delivery_item~ on meille tärkeä ja odotamme innokkaasti, että saamme koko toimituksen. Muistathan, että niitä puuttuu vielä ~mission_multi_delivery_buyer_num_needed_items~.~p~Kerää kaikki ja palaa sitten takaisin.
+0x00000070 Siistiä!~p~Me ollaan ihan niinku valmiita ottaan sun toimitus vastaan, mutta näyttäs siltä, että tästä puuttuu vielä ~mission_multi_delivery_buyer_num_needed_items~.~p~Tsekkaa noi sun luvut vielä. Me venaillaan kyllä täällä.
+0x000000F0 Etsi ~mission_multi_delivery_item~ seuraavilta planeetoilta: ~br~~mission_multi_delivery_item_planet_list~.
+0x000000F1 Jokainen ~mission_multi_delivery_item~ on nyt meillä. Palaa tähtijärjestelmään ~mission_source_star~, niin saat palkkiosi.
+0x0000006F Onnistuuko lajisi koskaan missään? Pakotat meidät kyseenalaistamaan sen maineen, jonka ~player_creature_name~ on teoillaan ansainnut.
+0x00000044 Toteutukoon Paten tahto! Voit aloittaa heti!
+0x0000006C ~player_title~ ~player_creature_name~. Jaa, päätit sitten palauttaa vain osan sovitusta määrästä. Mielenkiintoista. Ehkäpä voit selventää tätä logiikkaa hieman myöhemmin.~p~Sillä aikaa me odotamme, että loput toimitetaan perille – niitä pitäisi olla tulossa vielä ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000043 Teet universumista niin paljon paremman paikan. Kiitos.
+0x00000026 Nyt ei oikein sovi.
+0x000000F3 Tehtävä suoritettu. Jokainen ~mission_multi_delivery_item~ on nyt meillä. Palaa tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, niin saat palkkiosi.
+0x0000006A Mutta, mutta, mutta...~p~Hyvä on.
+0x00000072 Suuressa suunnitelmassa on varmasti paikka sinullekin. Meillä alemmilla olennoilla ei tosin ole aavistustakaan siitä, millainen mutakolo sinun kaltaisellesi luuserille sopisi.
+0x00000022 Kuinka muka voin etsiä kokonaista tähtijärjestelmää?
+0x000000EC Ihan miten vaan. Etsin muita hommia.
+0x00000032 Palaan vielä! Näkemiin.
+0x000000EB Äh. Unohda koko juttu. On tässä jo kiireitä.
+0x00000045 Liittovaltion suurneuvosto kiittää sinua. Kiirehdi!
+0x00000021 Eikös tämä ole vähän kuin neulan etsimistä heinäsuovasta?
+0x0000016A Hiljattain ~mission_multi_delivery_item~ on ollut kaapparien salakuljetuksen kohde. Viime aikoina niitä on kaiken kukkuraksi kuljetettu runsaasti meidän tähtijärjestelmämme kautta! Olemme nyt paikantaneet useita välipisteitä, joiden kautta kukin ~mission_multi_delivery_item~ on kuljetettu eteenpäin.~p~Tilanteen selvittämiseen kaipaamme nyt sinun apuasi. Etsi salakuljetetut tavarat ja palauta ne oikealle omistajalleen planeetalle ~mission_multi_delivery_buyer_planet~.
+0x0000003C Valitettavasti en voi auttaa asiassa.
+0x00000052 Eikö sovi? ~player_creature_name~ onkin heikompi kuin uskoimme. Ehkä me seuraavalla kerralla emme tarjoa lainkaan palkkiota. Turhaan me surkimuksille maksamme.
+0x00000177 Galaksi on pieni paikka! Vai mitä, kapteeni. Melkoinen sattuma, että juuri sinua pyydettiin tuomaan meille ~mission_multi_delivery_item~. Muista, että niitä tarvitaan ~mission_multi_delivery_buyer_num_needed_items~.~p~No, Spore-taalereille on aina käyttöä. Näemme uudelleen, kun olet paikantanut esineet.
+0x000000BE ~player_creature_name~ tuo kohteen. Kohde on ~mission_multi_delivery_item~. Määrä on ~mission_multi_delivery_buyer_num_needed_items~. Onko selvä?
+0x0000003D Palaan vielä! Näkemiin.
+0x0000003B Etsi joku toinen tätä tehtävää varten.
+0x00000166 ALOITUS.~p~Vedätetään verkkomahaa. Odota hetki.~p~TILA: Valmis suoritettavaksi.~p~KUVAUS: Etsi jokunen ~mission_multi_delivery_item~ ja palauta ne planeetalle ~mission_multi_delivery_buyer_planet~.
+0x000000BC LÄHETYS: ~mission_multi_delivery_item~, ~mission_multi_delivery_buyer_num_needed_items~ kpl.~p~TOIMITUSAIKA: Eilen.~p~TOIMITETTU: KYLLÄ/EI
+0x00000055 TILA: Urakoitsija kieltäytyi tehtävästä. SYY: ~player_creature_name~ on heikkoa lajia.
+0x00000054 Mutta, mutta, mutta...~p~Hyvä on.
+0x000000BD Kuule, kaveri. Kuulimme, että mukanasi olisi ~mission_multi_delivery_item~ jos toinenkin. Kyllä niitä ainakin ~mission_multi_delivery_buyer_num_needed_items~ piti olla. Aika hienoa, että ehdit etsiskellä niitä. Joko sinulla on ne?
+0x00000006 TYYPPI: Moninkertainen nouto ja toimitus.~p~TIEDOT: Etsi ~mission_multi_delivery_item~ ja toista vaaditussa määrin. Toimita tavara planeetalle ~mission_multi_delivery_buyer_planet~~p~LÄHTÖPISTE: ~mission_multi_delivery_item~ on saatavilla tästä tähtijärjestelmässä.
+0x0000004F Sepä ikävää. Olisimme todella halunneet tehdä yhteistyötä kanssasi. Ehkä joskus toiste.
+0x0000016E Hienoa! Olemme varmoja siitä, että teet hyvää työtä!
+0x00000050 Tietysti, tietysti. Aavistinkin, että on turha tuoda näin vähäpätöistä asiaa kaltaisesi suuruuden eteen. Voisitko ehkä lohduttaa minua kuluttamalla rahojasi putiikissani?
+0x0000000A Tarun mukaan ensimmäinen ~mission_multi_delivery_item~ luotiin Paten pyhien raajojen liikkeillä. Ne kaikki menetettiin Pateuksen ensimmäisen sodan melskeissä.~p~Sittemmin olemme kuitenkin Paten johdatuksella saaneet uutta tietoa ja tiedämme nyt, missä jokunen ~mission_multi_delivery_item~ sijaitsee. Voisitko tuoda ne meille, jotta planeetan ~mission_multi_delivery_buyer_planet~ kansa saa taas kumartaa syvään niiden edessä?
+0x0000016D LAUSUNTO: Rekisteröity. Aloita välittömästi.
+0x00000012 Rationalismin satavuotiskauden lopulla tapahtui onnettomuus, jonka vuoksi moni ~mission_multi_delivery_item~ katosi lähitähdistön planeetoille. Suurin osa on vuosien varrella saatu palautettua, mutta muutama on yhä kateissa. Tunnettuja kappaleita säilytetään museossa planeetalla ~mission_multi_delivery_buyer_planet~. Voisitko noutaa puuttuvat esineet ja viedä ne muiden yhteyteen? Viimeisimpien havaintojen mukaan ne sijaitsevat tässä tähtijärjestelmässä.
+0x00000020 Mistä minun pitäisi aloittaa etsiminen?
+0x00000049 Kiitos avustasi.
+0x00000037 Sehän sopii. Parasta kun aloitetaan heti.
+0x00000036 Kuulostaa hauskalta hommalta.
+0x00000035 Ok. Kyllähän tämä minulle sopii.
+0x00000013 Kiitos ja näkemiin.
+0x00000060 Minulla olisi vielä yksi kysymys...
+0x00000001 Aloitamme neuvottelut planeetan ~mission_multi_delivery_buyer_planet~ asukkaiden kanssa. Haluaisimme osoittaa heille ystävyyttämme lahjalla. ~p~Etsi muutama ~mission_multi_delivery_item~ ja vie ne planeetalle ~mission_multi_delivery_buyer_planet~.
+0x00000065 Toivon ymmärrystä.
+0x00000064 Olen pahoillani, etten voi auttaa. Näkemiin.
+0x00000034 Haluaisin kysyä vielä jotakin.
+0x00000048 Hienoa! Tiesinhän minä, että olisit oikea ~player_creature_name~ työhön.
+0x000000C5 Minulla olisi pieni toimitus.
+0x00000011 Olemme onnistuneet tulkitsemaan erään ikivanhan asiakirjan, joka on peräisin maailmankaikkeudesta kadonneelta muukalaislajilta. Siinä kerrotaan, kuinka ~mission_multi_delivery_item~ hajotettiin eri maailmoihin. Jos saisimme analysoitua ne, oppisimme varmasti paljon sekä muinaisesta lajista että siitä, mikä on totuus näiden salaisuuksien takana. Paras laboratoriomme on planeetalla ~mission_multi_delivery_buyer_planet~.~p~Voisitko ehkä noutaa tutkimuskohteet ja kuljettaa ne planeetalle ~mission_multi_delivery_buyer_planet~?
+0x00000028 Jokunen ~mission_multi_delivery_item~ on nähty seuraavilla planeetoilla:~mission_multi_delivery_item_planet_list~.~p~Kerää ne kaikki ja vie ne planeetalle ~mission_multi_delivery_buyer_planet~, niin me pidämme oman osamme sopimuksesta ja sinä saat ~mission_rewards~ Spore-taalerin palkkion.
+0x00000059 Mielenkiintoinen valinta, ~player_title~ ~player_creature_name~. Ehkä tiedät jotain, mitä me emme tiedä, mutta en kyllä oikein jaksa uskoa.
+0x0000004B Niin, kyllä vain. Muistan nähneeni jotakin tähän liittyvää viimeisimmässä jakelukeskuksen raportissa. Siinä taidettiin sanoa, että joku on lähetetty tuomaan tänne muutama ~mission_multi_delivery_item~. Sinulla ei näyttäisi olevan niitä ainuttakaan. En haluaisi syytellä tai mitään, mutta ei tämä meidän syytämme ole.
+0x000000BB Tervetuloa, kapteeni!~p~Kuulimme, että tulisit ~mission_multi_delivery_item~ mukanasi. Niitä piti kai olla peräti ~mission_multi_delivery_buyer_num_needed_items~, onko sinulla kaikki?
+0x0000005A Kuka sinä sanoitkaan olevasi? Vai että ~player_creature_name~? Hetki, melkein muistan... ~mission_source_empire~ lähetti sinut, eikö niin? Sinun piti tuoda meille ~mission_multi_delivery_item~, ja me vähän toivoimme, että niitä olisi ~mission_multi_delivery_buyer_num_needed_items~. Näinhän se oli. Miksi siis olet täällä tyhjin käsin?~p~Tämä on nyt perin omituista. Kyllähän sinulla pitäisi olla toivomamme.
+0x0000003A Tämä ei kyllä kiinnosta minua.
+0x00000056 On kirjoitettu, että ~player_title~ ~player_creature_name~ suorittaa pyytämämme tehtävän, ja ~mission_multi_delivery_item~ siirretään haltuumme – niitä olkoon lukumäärältään ~mission_multi_delivery_buyer_num_needed_items~.~p~Näin on kirjoitettu sopimukseemme, näin tapahtukoon.
+0x0000004C Toivon ymmärrystä.
+0x00000058 Hyvä on. Älä anna meidän pidättää sinua tärkeämmistä tehtävistäsi.
+0x0000004A Hyvä. ~race~ on tyytyväinen apuusi.
+0x0000001E Haluaisin kysyä vielä jotakin.
+0x0000005D Jaahas. Huomaan, että yrität palauttaa vaillinaisen tuotteen.~p~Tämä ei nyt ole tavanomainen käytäntö, ja se saattaa sekoittaa laskutusosastomme pahemman kerran. Toisaalta ~mission_multi_delivery_item~ on niin kiinnostava tapaus, että tämäkin vähä auttaa ensi alkuun.~p~Pidän näitä tässä sivussa odottamassa, että palaat loppujen kanssa. Niitähän puuttuu vielä ~mission_multi_delivery_buyer_num_needed_items~.
+0x0000001F Miten oikein löydän nämä esineet?
+0x0000005B Hupsis, tulen pian takaisin!
+0x00000039 Tämä ei taida olla ihan minulle sopiva homma.
+0x0000002B Haku päällä, joka säällä. Huiman hauskaa hommaa! ~mission_multi_delivery_item~ on nähty ainakin seuraavissa kohteissa: ~mission_multi_delivery_item_planet_list~.~p~Etsi ja toimita ne kaikki planeetalle ~mission_multi_delivery_buyer_planet~, niin saat palkkiosi. Ajattelin antaa palkkioksi perinteisesti rahaa. Kai se sopii. ~mission_rewards~ Spore-taaleria on varmasti kohtuullinen summa.
+0x0000002D Palaan vielä! Näkemiin.
+0x0000001A ~mission_multi_delivery_item~ on välttämätön pyhän Hurpatin vuosittaiseen predikoimisjuhlaan. Seremonia pidetään planeetalla ~mission_multi_delivery_buyer_planet~. Voisitko varmistaa, että muutama ~mission_multi_delivery_item~ löytää varmasti tiensä predikoimislautakunnan käsiin?
+0x000000D5 TOIMITUSVIRHE. SYY: ~player_creature_name~ ja tämän ammattitaidottomuus.~p~SUOSITUS: Palaa mukanasi ~mission_multi_delivery_item~, sovittu määrä on ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000092 Älä viitsi! Tiedät varmasti itsekin, että työ on pahasti kesken! Ole nyt tarkkana, niin kerrataan asiat.~p~Kerää ~mission_multi_delivery_item~ seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~.~p~Kun kaikki on kerätty, raportoi planeetalle ~mission_multi_delivery_buyer_planet~. Vasta kaiken tämän suoritettuasi voit palata tänne. Saat palkkiosi, kun kaikki vaadittu on toimitettu tilaajalle.
+0x0000001B Kuulin, että muinainen valtakunta, jota kutsutaan edelläkävijöiksi, jätti jälkeensä jotain, mitä kutsutaan edelläkävijöiden lahjaksi takana tuleville. Olen aika varma, että edelläkävijöiden lahjassa on muutama ~mission_multi_delivery_item~, ja niitä on meidän tähtijärjestelmässämme. Voitko etsiä nämä esineet ja viedä ne paikalleen jääneille, jotka asuvat yhä planeetalla ~mission_multi_delivery_buyer_planet~?
+0x00000024 En oikeastaan haluaisi tehdä tätä.
+0x0000002F Tietojemme mukaan kannattaa suunnata seuraaville planeetoille, jos kohteena on ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Hanki kaikki kohteet ja kuljeta ne planeetalle ~mission_multi_delivery_buyer_planet~. Palaa sitten nykyiseen sijaintiisi noutamaan ~mission_rewards~ Spore-taalerin palkkiosi.
+0x000000D6 ~mission_multi_delivery_item~, sovittu määrä ~mission_multi_delivery_buyer_num_needed_items~. ~player_creature_name~ epäonnistui. Kappalemäärä puutteellinen, ~mission_multi_delivery_item~ tai pari puuttuu. Sovittu määrä ~mission_multi_delivery_buyer_num_needed_items~. Palaa kaikki ~mission_multi_delivery_buyer_num_needed_items~ mukanasi tai jätä tulematta.
+0x00000030 ~player_title~ ~player_creature_name~. Tiedetään, että seuraavilta planeetoilta voi löytyä ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Kun olet kerännyt ne kaikki, kuljeta ne planeetalle ~mission_multi_delivery_buyer_planet~. Tehtävä on hoidettu, kun vielä palaat luokseni kuittaamaan ja noutamaan ~mission_rewards~ Spore-taalerin palkkiosi.
+0x00000002 Haistatko sinäkin jotain outoa? Olen varma, että haistat, sillä aistisi ovat varmasti vähintään yhtä tarkkoja kuin minunkin. Ilmassa taitaa haista raha! Kyllä, olen varma siitä, ja planeetta ~mission_multi_delivery_buyer_planet~ liittyy varmasti tähän ihanaan tuoksuun.~p~Planeetalla ~mission_multi_delivery_buyer_planet~ on katsos kysyntää harvinaisuuksille. Erityisesti ~mission_multi_delivery_item~ on siellä kovassa huudossa. Arvaapa, mitä meillä on tähtijärjestelmässämme? Aivan.~p~Tehdäänpä diili. Anna minun hoitaa paperityöt ja käy itse noutamassa muutama ~mission_multi_delivery_item~.
+0x000000D4 Etkö ymmärtänyt sopimustekstiä? Kuule, mehän sovimme, että meille toimitetaan sovitusti kohdetta ~mission_multi_delivery_item~. Sovittu kappalemäärä oli ~mission_multi_delivery_buyer_num_needed_items~. Ei enempää, ei vähempää. Jos sinulla on ~mission_multi_delivery_item~, niin hyvä. Jos niitä on vähemmän kuin ~mission_multi_delivery_buyer_num_needed_items~, sinun on parasta palata hakemaan loppuja.
+0x00000095 Tässä ei ole vielä kaikki. ~mission_multi_delivery_item~ tai pari näyttää puuttuvan! Vaadin, että tuot loputkin! Eivätkö tiedot muka ole saatavilla tehtävälokistasi?~p~Muista etsiä seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~. Tuo sitten koko lasti planeetalle ~mission_multi_delivery_buyer_planet~. Ehkäpä nyt jatkat pyhää tehtävääsi.
+0x0000002E ~mission_multi_delivery_item~ on havaittu seuraavilla planeetoilla: ~mission_multi_delivery_item_planet_list~.~p~Vie ne kaikki planeetalle ~mission_multi_delivery_buyer_planet~ ja palaa luoksemme hakemaan palkkiosi. Mikäli Pate suo sinun onnistua, saat palkkioksesi ~mission_rewards~ Spore-taaleria.
+0x00000023 Valitettavasti en ehdi nyt toimia juoksupoikasena.
+0x000000A2 Vielä yksi juttu...
+0x00000019 Olemme löytäneet ikivanhoja kääröjä, joiden mukaan ~mission_multi_delivery_item~ kätkettiin, koska se kopioineen sisälsi vastauksen kaikkiin maailmankaikkeuden salaisuuksiin! Tuntematon laji kätki esineet jo ennen ajan alkua, mutta olemme nyt saaneet selville, missä ne ovat. Voitko tuoda ne tutkittavaksi planeetalle ~mission_multi_delivery_buyer_planet~?
+0x000000A1 Vielä yksi juttu...
+0x0000008D ~mission_multi_delivery_item~! Sait niitä kaikki ~mission_multi_delivery_buyer_num_needed_items~. Vie ne nyt planeetalle ~mission_multi_delivery_buyer_planet~.
+0x000000A5 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x00000031 Haluaisin kysyä vielä jotakin.
+0x000000D9 Haluaisin kysyä vielä jotakin.
+0x0000008C Haluaisin kysyä vielä jotakin.
+0x000000D7 On käsittämätöntä, että luvataan ~mission_multi_delivery_item~ – ja vielä niinkin monta kappaletta kuin ~mission_multi_delivery_buyer_num_needed_items~ – ja sitten tullaan paikalle vähäisemmän määrän kanssa. Kerrassaan käsittämätöntä toimintaa!~p~Palaa vasta, kun ~mission_multi_delivery_item~ on sinulla. Kuitenkin vasta sitten, kun niitä on koossa kaikki ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000090 Unohditko, että mitä sinun piti tehdä? Ehkä se vain katosi mielestäsi? Ei se mitään, sattuuhan sitä. Ensi kerralla kannattaisi kuitenkin ensin tarkistaa asiat tehtävälokistasi.~p~Hae ~mission_multi_delivery_item~ planeetoilta ~mission_multi_delivery_item_planet_list~ ja vie toimitus planeetalle ~mission_multi_delivery_buyer_planet~.
+0x00000091 ~player_creature_name~ ei ole suorittanut tehtäväänsä! Etsi ~mission_multi_delivery_item~ seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~.~p~Mene sitten planeetalle ~mission_multi_delivery_buyer_planet~. Vasta sen jälkeen voit tulla hakemaan minulta palkkiosi.
+0x00000082 Palaan vielä!
+0x00000003 Oletko nähnyt planeettaa nimeltä ~mission_multi_delivery_buyer_planet~? Paikkaa ympäröi todella kaunis ja inspiroiva aura. Se hellytti meitä niin, että haluaisimme antaa planeetan väelle pienen lahjan. Ajattelimme, että ~mission_multi_delivery_item~ olisi sopiva.~p~Matkassa on tosin pieni mutka. Meillä ei nimittäin ole ensimmäistäkään sellaista. Voisitko sinä etsiä niitä meille?
+0x000000CC ~mission_multi_delivery_item~, sovittu määrä ~mission_multi_delivery_buyer_num_needed_items~. ~player_creature_name~ epäonnistui. Kappalemäärä puutteellinen, ~mission_multi_delivery_item~ tai pari puuttuu. Sovittu määrä ~mission_multi_delivery_buyer_num_needed_items~. Palaa kaikki ~mission_multi_delivery_buyer_num_needed_items~ mukanasi tai jätä tulematta.
+0x00000025 Tämä ei kyllä ole ihan minun juttuni.
+0x00000084 Kiitos avustasi, ~player_title~ ~player_creature_name~.~p~Opettajiemme mukaan me kaikki synnymme uudelleen salaisiksi suurmestareiksi. Ehkäpä sinustakin kerran tulee sellainen. Niin pitkään kuin asutat tätä olevaisuuden tasoa, iloitset varmasti näistä ~mission_rewards~ Spore-taalerista.
+0x0000008F Mitä nyt? Pitääkö sinua taas kerran muistuttaa sopimusehdoista? Sinun piti hakea ~mission_multi_delivery_item~ seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~.~p~Kun kaikki on kerätty, suuntaa planeetalle ~mission_multi_delivery_buyer_planet~ ja luovuta toimitus. Kun kaikki tämä on suoritettu, osuutesi tehtävästä on suoritettu. Tästä on maininta tehtävälokissasi.
+0x000000A3 Anteeksi vaan, että häiritsin. Morjens!
+0x0000002A ~player_creature_name~ voi lakata murehtimasta, sillä ainakin seuraavilla planeetoilla pitäisi olla ~mission_multi_delivery_item~: ~mission_multi_delivery_item_planet_list~.~p~Vie kaikki kappaleet planeetalle ~mission_multi_delivery_buyer_planet~ ja palaa tänne hakemaan ~mission_rewards~ Spore-taalerin palkkiosi.
+0x0000000C Kauan sitten lajimme historian alkuhämärissä ~mission_multi_delivery_item~ oli pyhä esine. Meidän tulee varmistaa, että esineet toteuttavat yhä Paten sanaa.~p~Etsi tähtijärjestelmästämme muutama ~mission_multi_delivery_item~ ja vie ne planeetalle ~mission_multi_delivery_buyer_planet~ tarkempia tutkimuksia varten.
+0x000000CB TOIMITUSVIRHE. SYY: ~player_creature_name~ ja tämän ammattitaidottomuus.~p~SUOSITUS: Palaa mukanasi ~mission_multi_delivery_item~, sovittu määrä on ~mission_multi_delivery_buyer_num_needed_items~.
+0x000000A4 Ehkä joskus toiste. Morjens!
+0x0000009A Onko jokainen ~mission_multi_delivery_item~ jo hallussasi? Me luotimme siihen, että saat noudettua niitä vaaditussa määrin! Sait meiltä jopa listan planeetoista: ~mission_multi_delivery_item_planet_list~. Vie valmis toimitus planeetalle ~mission_multi_delivery_buyer_planet~ heti, kun kaikki on kerätty. Palaa vasta sitten tänne luokseni.~p~Kaikki tämä lukee kyllä tehtävälokissasi.
+0x00000078 Kiitos tästä mahdollisuudesta. Lähdenkin tästä matkaan.
+0x000000A6 Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0x0000000B Tulevaan jumalaan uskovat harhaoppiset ovat luoneet jotakin, jota he kutsuvat nimellä ~mission_multi_delivery_item~. Lienee jokin pakanoiden salajuoni. Niitä on kätketty tämän tähtijärjestelmän muille planeetoille. Kiitos Paten, olemme havainneet niiden olemassaolon. Etsi nämä esineet ja tuo ne planeetalle ~mission_multi_delivery_buyer_planet~, jotta voimme tuhota ne kaikki.
+0x000000CA Ymmärsit kai sopimustekstin? Katsos nyt. Me sovimme, että meille toimitetaan muutama ~mission_multi_delivery_item~. Sovittu kappalemäärä oli ~mission_multi_delivery_buyer_num_needed_items~. Ei enempää, ei vähempää. Jos sinulla on ~mission_multi_delivery_item~, niin hyvä. Jos niitä on vähemmän kuin ~mission_multi_delivery_buyer_num_needed_items~, sinun on parasta palata hakemaan loppuja.
+0x0000009F Haluaisin kysyä vielä jotakin.
+0x00000079 Palaan kohtapuolin. Nähdään taas.
+0x000000CF Haluaisin kysyä vielä jotakin.
+0x0000007A Aika käydä hommiin. Nähdään sitten, kun palaan.
+0x00000096 Meille kerrottiin, että sinulta saattaa vielä puuttua muutama ~mission_multi_delivery_item~. Toimita ne kaikki vauhdilla planeetalle ~mission_multi_delivery_buyer_planet~. Tarvitsemasi tieto löytyy varmasti tehtävälokistasi.~p~Mikäli satuit unohtamaan asian, niin kohde on kerättävissä seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~. Palaa tänne, kun toimitus on tehty.
+0x000000A0 Minulla olisi vielä pari kysymystä.
+0x0000005C Sinun täytyy seurata omaa tietäsi.~p~Onnea matkaan, ystäväni.
+0x0000006B TILA: Tehtävä epäonnistui. SYY: Urakoitsija ~player_creature_name~ keskeytti tehtävän.~p~LAUSUNTO: Olisihan se pitänyt arvata, ettei sinuun voi luottaa.
+0x000000EE Etsi ~mission_multi_delivery_item~ ja vie se planeetalle ~mission_multi_delivery_buyer_planet~. Esineitä tarvitaan tarkalleen ottaen ~mission_multi_delivery_buyer_num_needed_items~ ~^p^mission_multi_delivery_buyer_num_needed_items^kappale^kappaletta~.
+0x000000DD Erinomaista! Jokainen luvattu ~mission_multi_delivery_item~ on toimitettu perille asti. ~mission_source_empire~ odottaa sinun noutavan maksusi.
+0x00000057 ~player_title~ ~player_creature_name~ ei selvästikään ole sopiva kulkemaan Paten polkuja. Voit lähteä.
+0x000000DE Katsotaanpa. Kyllä, kyllä vain. Vallan komea ~mission_multi_delivery_item~ tuossa, ja niitä näyttää olevan juuri sovittu määrä. Mahtavaa! Hyvää työtä.~p~En uskonutkaan, että kokenut matkaaja, kuten ~player_creature_name~, törmäisi mihinkään ongelmiin, mutta pakko oli tarkistaa. Ihan näin meidän kesken, monien lajien krooninen laskutaidottomuus on aina jaksanut hämmentää minua.~p~~mission_source_empire~ odottaa. Palaa planeetalle noutamaan maksuasi.
+0x000000CD Kuka sinä sanoitkaan olevasi? Vai että ~player_creature_name~? ~player_creature_name~. Ei. Meillä ei ole sopimusta sinun nimelläsi. Muistaisimme sinut kyllä. Kenelläkään muulla ei ole tuollaista avaruusalusta! Haha!~p~No niin. ~mission_source_empire~ täältä kyllä löytyisi. Teetkö sattumalta töitä heille? ~p~No, miksi et sitten sanonut niin? Vai sanoitko sittenkin? En enää muista. No, ei sen väliä.~p~Jos työnantajasi on ~mission_source_empire~, kerättävänä on ~mission_multi_delivery_item~ ja sovittu määrä on ~mission_multi_delivery_buyer_num_needed_items~.~p~Jos asiassa on epäselvyyksiä, juttele työnantajasi kanssa. He ovat mukavaa porukkaa... paitsi torstaisin.
+0x00000085 Rauhaa ja terveyttä, ~player_title~ ~player_creature_name~.~p~~mission_multi_delivery_item~ on vastaanotettu. Kiitos sinulle.~p~~mission_source_empire~ odottaa sinua takaisin tähden ~mission_source_star~ järjestelmään. Siellä saat palkkion vaivoistasi. Voit tietysti hengailla katselemassa maisemiakin, jos rahoilla ei ole kiire. Hengailu on ihan siistiä.
+0x000000F2 Hae ~mission_multi_delivery_item~ seuraavilta planeetoilta: ~p~~mission_multi_delivery_item_planet_list~.~p~Toimita jokainen löytämäsi ~mission_multi_delivery_item~ planeetalle ~mission_multi_delivery_buyer_planet~.
+0x000000CE Odotamme, että saavut pian mukanasi ~mission_multi_delivery_item~ poikineen. Niitä pitää olla sovittu määrä, ~mission_multi_delivery_buyer_num_needed_items~.~p~Jokunen muinaisjäänne siis puuttuu vielä, eli palaathan myöhemmin niiden kanssa.~p~Palaamme asiaan sitten.
+0x00000053 ~player_title~ ~player_creature_name~. Huomaan, että katsoit tarpeelliseksi vahvistaa palautusosoitteen ennen itse materiaalin vahvistamista. Mielenkiintoista. Ehkäpä voit selventää tätä logiikkaa hieman myöhemmin.~p~Sillä aikaa me odotamme, että jokainen ~mission_multi_delivery_item~ toimitetaan perille – niitä pitäisi siis olla ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000165 TEHTÄVÄ: Kerää muutama ~mission_multi_delivery_item~ ja toimita ne planeetalle ~mission_multi_delivery_buyer_planet~.~p~TAUSTA: Tarpeetonta tietoa. Tieto ei ole välttämätön tehtävän suorittamiselle.~p~Lisätiedot myöhemmin.
+0x00000066 Täysin ymmärrettävää, kapteeni.~p~Pahoittelut, että vaivasimme tällaisella asialla.
+0x00000062 Ai, hoidetaan homma.
+0x000000AE Minulla on muutama ~mission_multi_delivery_item~. ~mission_source_empire~ lähetti ne teille.
+0x000000E2 Tervehdys, ~player_title~ ~player_creature_name~.~p~Mukanasi on näköjään ~mission_multi_delivery_item~ jos toinenkin. Kyllä, niitä on sovittu määrä, ja paperitkin näyttävät olevan kunnossa. Kiitos.~p~Palaa seuraavaksi noutamaan palkkiotasi. ~mission_source_empire~ odottaa sinua tähtijärjestelmässä ~mission_source_star~.
+0x0000003E Tervetuloa, ~player_title~ ~player_creature_name~.~p~ Meille kerrottiin, että hallussasi olisi planeetallemme tarkoitettu ~mission_multi_delivery_item~ – tai oikeastaan niitä piti olla peräti ~mission_multi_delivery_buyer_num_needed_items~. Pitääkö se paikkansa?
+0x0000009C Ai, yksi juttu vaan...
+0x0000000D Vuosia sitten ~mission_multi_delivery_item~ kaikkine kopioineen luotiin juhlistamaan liittoutuman vuosijuhlia. Kaapparit kuitenkin ryöstivät niistä muutaman. Suurneuvosto on hiljattain saanut tietää, että eräs kadonnut muinaisjäänne on toisella planeetalla, ja luultavasti muilla planeetoilla on niitä myös.~p~Voisitko noutaa nämä kaikki ja tuoda ne luoksemme planeetalle ~mission_multi_delivery_buyer_planet~? Pidä kiirettä, sillä vuosijuhlat pidetään aivan pian.
+0x000000E0 ~player_creature_name~ palasi ~mission_multi_delivery_item~ mukanaan. Hienoa! ~mission_source_empire~ on valmis hoitamaan maksusi.
+0x0000001D Läheisillä planeetoilla on kuulemma ~mission_multi_delivery_item~ jos toinenkin. Kerran jätimme niitä merkiksi häviämistämme taisteluista. Siksi ne nyt hävettävätkin meitä suuresti. Ne paljastavat meidän häpeälliset tappiomme ja ovat vain haitaksi! Etsi muinaisjäänteet ja vie ne pois. Joku sanoi, että planeetalla ~mission_multi_delivery_buyer_planet~ voisi olla niille käyttöä. Vie ne siis heidän riesakseen.
+0x00000018 Hei, onko ~mission_multi_delivery_item~ mieleesi? Pidätkö siitä vai vihaatko sitä? Kai sentään tiedät mistä puhun? No, ei sillä oikeastaan ole väliä. Sinun tarvitsee vain kerätä ne läheisiltä planeetoilta.~p~Me voitimme juuri tarjouskilpailun, ja meidän pitää viedä esineet poikineen planeetalle ~mission_multi_delivery_buyer_planet~. Nyt tarvitsemme jonkun, joka voi etsiä ne. Ajattelimme, että joku ~player_creature_name~ sopisi hommaan hyvin.
+0x00000040 Tervetuloa, ~player_title~ ~player_creature_name~.~p~ Meille kerrottiin, että hallussasi olisi planeetallemme tarkoitettu ~mission_multi_delivery_item~ – tai oikeastaan niitä piti olla peräti ~mission_multi_delivery_buyer_num_needed_items~. Pitääkö se paikkansa?
+0x0000008E Hei, et tehnyt työtä loppuun saakka! Kiinnitä huomiota tehtävälokiin.~p~Tehtävänäsi on etsiä ~mission_multi_delivery_item~ kultakin seuraavista planeetoista: ~p~~mission_multi_delivery_item_planet_list~.~p~Kun sinulla on ne kaikki, vie lasti planeetalle ~mission_multi_delivery_buyer_planet~. Palaa tänne vasta sitten.
+0x000000BF Taivas auetkoon ja jumalten viha iskekööt salamoita yllemme!~p~Katsos vaan, ei näemmä tarvitsekaan. Onpa hyvä, että palasit ~mission_multi_delivery_item~ mukanasi. Kai niitä on ~mission_multi_delivery_buyer_num_needed_items~ kappaletta, kuten lupasit? Ja palasithan ne mukanasi?
+0x00000008 Planeetan ~mission_multi_delivery_buyer_planet~ asukkaat ovat menneet ihan sekaisin, kun muutama ~mission_multi_delivery_item~ on kuulemma hukassa. Tässä tähtijärjestelmässähän niitä on kasapäin. Ehkä voisit ratkaista tilanteen.~p~Etsi ~mission_multi_delivery_item~... tai oikeastaan mahdollisimman monta sellaista. Vie ne sitten planeetalle ~mission_multi_delivery_buyer_planet~, niin porukka saattaisi rauhoittua.
+0x0000008B Ihastuttavaa! ~race~ päätti suuressa viisaudessaan luottaa siihen, että ~player_title~ ~player_creature_name~ pitää lupauksensa meille. Jälleen kerran me olimme oikeassa.~p~Toimituksesi on vastaanotettu. ~mission_source_empire~ odottaa sinun nyt palaavan tähden ~mission_source_star~ järjestelmään hakemaan palkkiotasi.
+0x000000D3 Kiitokset, kapteeni.~p~Huomaan, että toimitus on epätäydellinen. ~mission_multi_delivery_item~ on kyllä oikein, mutta niitäpä piti olla ~mission_multi_delivery_buyer_num_needed_items~ ~^p^mission_multi_delivery_buyer_num_needed_items^kappale^kappaletta~.~p~Kerää loput ja palaa asiaan sitten.
+0x000000F5 Ooh, okei. Nyt kässäsin.
+0x0000007E Ah ja voih, kuinka rohkenet kiusata meitä? ~race~ ei tyydy vähempään kuin on sovittu: sinun on tuotava jokainen ~mission_multi_delivery_item~, jonka lupasitkin.~p~Jos emme olisi uskollisia uskonopin seuraajia, epäilisimme kykyäsi pitää lupauksiasi. Nyt tyydymme uskomaan, että palaat pian loppujen kanssa.
+0x00000009 Yhteyshenkilöni planeetalla ~mission_multi_delivery_buyer_planet~ kertoi, että ~mission_multi_delivery_item~ kertoo vastauksia luonnon ja universumin saloihin. Tähtijärjestelmässämme on kyllä muutama tällainen muinaisjäänne, mutta emme me ole saaneet selvitettyä mitään salaisuuksia. Kaipa se vaatii syvempää tietämystä. Melko syvällistä touhua.~p~Etsi muutama ~mission_multi_delivery_item~ ja vie ne planeetalle ~mission_multi_delivery_buyer_planet~. Selvitelkööt itse salaisuutensa.
+0x00000169 Automatisoidut luotaimemme ovat tutkineet tämän tähtijärjestelmän, ja yllätykseksemme ~mission_multi_delivery_item~ havaittiin monta kertaa. Emme tiedä mitä tämä tarkoittaa, mutta planeetalla ~mission_multi_delivery_buyer_planet~ työskentelee joukko tutkijoita, jotka varmasti osaavat auttaa meitä. Toimita heille jokainen näistä harvinaisuuksista, jonka vain löydät.
+0x00000004 Planeetan ~mission_multi_delivery_buyer_planet~ väki kaipaa kipeästi erikoisempaa kauppatavaraa. Erityisesti ~mission_multi_delivery_item~ on hinnoissaan, vaikka meidän tähtijärjestelmässämme ~mission_multi_delivery_item~ on varsin yleinen. Jonkun pitäisi kerätä tavara ja viedä se perille. ~player_creature_name~ voisi hyvin hoitaa homman, eikö vain?
+0x0000001C Kauan sitten muutama ~mission_multi_delivery_item~ jätettiin toisille planeetoille, mutta nyt kaapparit ovat matkalla varastamaan niitä. Olet juuri oikea ~player_creature_name~ keräämään esineet. Nouda siis jokainen muinaisjäänne ja vie ne planeetalle ~mission_multi_delivery_buyer_planet~ turvaan kaappareilta. ~player_creature_name~ saa tästä hyvästä kunnon palkkion.
+0x0000000F Olemme löytäneet viitteitä muinaisesta sivilisaatiosta, jonka kropot ilmeisesti tuhosivat täysin. Kirjoituksissa mainitaan ~mission_multi_delivery_item~. Niitä on ilmeisesti useita, ja ne kaikki sisältävät tärkeää tietoa kropoista.~p~Liittovaltion suojelulain pykälän 52 kappaleen 7 mukaan kaikki kropoja koskeva tieto pitää säilöä suojeltuihin erityistiloihin. Etsi nämä esineet ja vie ne turvaan planeetalle ~mission_multi_delivery_buyer_planet~.
+0x00000016 Planeetalla ~mission_multi_delivery_buyer_planet~ on kuulemma joku todellinen keräilijä, ja ~mission_multi_delivery_item~ on hänen heikkoutensa. Kun joku on noin tosissaan, hommassa liikkuvat myös todella isot rahat.~p~Tiedän varmaksi, että juuri tässä tähtijärjestelmässä on muutama sellainen muinaisjäänne. Eikös siis tehdä diili? Ihan normaali hakukeikka: etsi nämä kohteet ja toimita ne keräilijälle planeetalla ~mission_multi_delivery_buyer_planet~. Sitten palaat hakemaan rahasi minulta.
+0x00000168 Onnistuimme tulkitsemaan erään muinaisen tekstin, joka kertoo läheisten planeettojen aarteista. Tekstissä mainitaan myös ~mission_multi_delivery_item~. Ehkäpä ne ratkaisevat universumin salaisuudet! Tuo meille jokainen löytämäsi muinaisjäänne, jotta voimme tutkia niitä tarkemmin.
+0x00000041 Tervetuloa, ~player_title~ ~player_creature_name~.~p~ Meille kerrottiin, että hallussasi olisi planeetallemme tarkoitettu ~mission_multi_delivery_item~ – siis itse asiassa peräti ~mission_multi_delivery_buyer_num_needed_items~.~p~Olemme valmiina vastaanottamaan lastin.
+0x00000051 Ah. Selvä on. Ei kai siinä mitään.~p~Jos et ole mukana koko sydämelläsi, emme toki halua sinun tekevän moista vain rahan vuoksi. Otamme itse yhteyttä lajeihin.
+0x0000000E Löysimme hiljattain ikivanhoja kirjoituksia, jotka eräs kauan sitten kadonnut laji on luonut. Niissä kerrotaan, että lähiplaneetoilla olisi jokunen ~mission_multi_delivery_item~. Liittomme lakien mukaan nämä muinaisjäännökset pitää kerätä talteen, luokitella ja sijoittaa asianmukaisiin säilytystiloihin planeetalla ~mission_multi_delivery_buyer_planet~. Voisitko tuoda ne meille?
+0x000000ED Okei. Nyt tajusin.
+0x0000003F Tervetuloa, ~player_title~ ~player_creature_name~.~p~Luotauksemme osoittaa, että aluksessasi on muutama ~mission_multi_delivery_item~. Onko tämä analyysi oikein?
+0x0000008A Kerrassaan upeaa, ~player_title~ ~player_creature_name~!~p~Toimituksesi on vastaanotettu. Palaa nyt tähtijärjestelmään ~mission_source_star~. ~mission_source_empire~ odottaa siellä asiaankuuluvin materiaalisin kiitoksin.
+0x00000167 OHJE:~p~OSA 1) Paikanna ~mission_multi_delivery_item~.~p~OSA 2) Sijoita ~mission_multi_delivery_item~ planeetalle ~mission_multi_delivery_buyer_planet~.
+0x00000080 Tervetuloa, ~player_title~ ~player_creature_name~. Suurneuvostolle on ilmoitettu onnistuneesta toimituksesta, ja neuvosto käski välittämään sinulle kiitoksensa.~p~Täten myönnän sinulle toisen luokan suosiomerkin sekä sovitun palkkiosi, ~mission_rewards~.
+0x0000007C Hyvin tehty työ on hyvästä! Tänä iltana laulamme sinun kunniaksesi. Se tulee olemaan iloinen ja riemukas laulu, joka juhlistaa kaikkea apua, jonka olemme sinulta saaneet!~p~Tässä sinulle lupaamamme palkkio: ~mission_rewards~.
+0x0000007F Hauska tavata, ~player_title~ ~player_creature_name~! Sana kertoi onnistumisestasi. Olimme oikeassa uskoessamme sinuun, mutta ainahan me olemme oikeassa.~p~Ota tästä ansaittu palkkiosi: ~mission_rewards~. Ota toki mukaasi muutama pyhä kirjoitus, kun lähdet täältä.
+0x0000007D TILA: Suoritettu.~p~LAUSUNTO: Erinomainen suoritus. Olisivatpa kaikki biologiset elämänmuodot yhtä pystyviä.~p~PALKKIO: ~mission_rewards~.
+0x000000E7 ~p~Planeetta %s tähtijärjestelmässä %s
+0x0000004D Hyvää työtä, kapteeni! Tiesin, että voimme luottaa sinuun.~p~Tässä palkkiosi: ~mission_rewards~. Pidä hauskaa!
+0x000000E1 Iloa ja hurmiota! Vastaanotettu toimitus tuo laulun sydämeen ja kevään askeleisiin. ~mission_source_empire~ odottaa sinua takaisin ansaitsemasi palkkion kera.
+0x000000DF TILA: Toimitus suoritettu.~p~OHJE: ~mission_source_empire~ odottaa sinua palkkion kera.
+0x00000081 Tervetuloa takaisin, ~player_title~ ~player_creature_name~. Tarkkaavaisuutesi ilahduttaa meitä. ~mission_multi_delivery_item~ on palautettu meille sovitusti, ja niitä on juuri oikea määrä.~p~Ole hyvä ja ota tästä palkkiosi, ~mission_rewards~.
+0x0000007B Hyvä! ~player_creature_name~ tekee hyvää työtä. Tässä ~mission_rewards~, kuten sovittu.
+0x00000027 Onneksi tiedämme suunnilleen, mistä ~mission_multi_delivery_item~ ystävineen voi löytyä: ~mission_multi_delivery_item_planet_list~.~p~Jos voit viedä nämä esineet planeetalle ~mission_multi_delivery_buyer_planet~, saat palatessasi muhkean ~mission_rewards~ palkkion.
+0x00000033 Uskomusten mukaan ~mission_multi_delivery_item~ saattaa löytyä seuraavilta planeetoilta: ~mission_multi_delivery_item_planet_list~. Etsi ne ja kuljeta planeetalle ~mission_multi_delivery_buyer_planet~. Palaa lopuksi noutamaan minulta ~mission_rewards~ palkkiosi.
+0x0000004E Tervetuloa, ~player_title~ ~player_creature_name~. Jälleen uusi menestys. En ole lainkaan yllättynyt.~p~Tässä sinulle ~mission_rewards~, kuten sovittiin.~p~Yleensä vältän ilmaisemasta tunteita työasioissa, mutta on ollut todellinen nautinto tehdä työtä alansa asiantuntijan kanssa.
+0x000000C9 Hyvänen aika, joko tuli valmista? Hienoa! Oli mukavaa tehdä töitä kanssasi. Olit jotenkin niin samalla aallonpituudella universumin kanssa.~p~Tässä sinulle ~mission_rewards~. Käytä rahat viisaasti.
+0x0000002C KOHDE: ~mission_multi_delivery_item~.~p~ALUE: ~mission_multi_delivery_item_planet_list~.~p~TOIMITUSOSOITE: ~mission_multi_delivery_buyer_planet~.~p~PALKKIO: ~mission_rewards~ noudettavissa aloitusplaneetalta.~p~HYVÄKSY/KIELTÄYDY?
+0x00000083 ~player_title~ ~player_creature_name~. Toimituksesi on vastaanotettu. ~mission_source_empire~ odottaa sinua tähden ~mission_source_star~ järjestelmässä, jossa tulet saamaan palkkiosi.
+

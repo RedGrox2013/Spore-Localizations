@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000075 ...
+0x00000046 Du har lyckats skanna arten.
+0x00000045 Du har lyckats besöka ~mission_explore_num_cities_to_visit~ städer.
+0x0000001C I så fall verkar det som om vi har vår nya Kapten här. Är du redo att ta dig an fler spännande uppdrag?
+0x0000007B Ta inte in djur som ska utrotas.
+0x00000076 Jag är ledsen. Vad var uppdraget nu igen?
+0x00000077 Utrota endast självlysande varelser, tack.
+0x00000078 Uppdrag misslyckat. För många oönskade utrotningar.
+0x00000036 Du har lyckats skannat arten.
+0x00000071 Ja.
+0x0000001D Flyg101_hämtadjur avbryt
+0x0000001E Flyg101_utrotadjur avbryt
+0x0000001A Flyg101_utrotadjur nekad
+0x0000004D Jag är snart tillbaka.
+0x00000017 I så fall verkar det som om vi har vår nya Kapten här. Är du redo att ta dig an fler spännande uppdrag?
+0x00000018 Flyg101_hämtadjur nekad
+0x00000019 Perfekt! Våra forskare ser fram emot att få analysera informationen.
+0x00000015 Har du fortfarande inte utrotat alla smittade varelser? ~p~Kolla att lasern är utrustad och håll ner vänster musknapp på de smittade varelserna. De är snabba så du måste flytta runt din laser tills du träffar dem.
+0x0000003D Ah, nu förstår jag. Tack.
+0x00000088 Du har lyckat besöka ~mission_explore_num_cities_to_visit~ städer.
+0x00000051 Flyg101_skanning nekad
+0x0000000F Bra jobbat kadett. Flyger du sådär blir du kapten på nolltid.
+0x00000052 Du får inte ta med dig den där ombord. Aldrig i livet!
+0x00000005 Jag vet redan hur jag styr mitt skepp. Klart man har koll!
+0x00000022 Uppfattat.
+0x0000004F Du släppte ~mission_item~ långt från någon av städerna. Hämta och placera innanför stadsmurarna.
+0x00000024 Ok. Nu förstår jag. Tack.
+0x0000000D Ok. Jag är med.
+0x00000065 Flyg101_skan avbryt
+0x00000013 Är det något problem, kadett?  ~p~Du måste flyga genom sju valfria stadssfärer. Använd piltangenterna eller tryck ner höger musknapp för att flyga ditt rymdskepp. Använd det mellersta mushjulet för att höja eller sänka din höjdriktning.~p~Du kan också navigera runt klotet genom att vänsterklicka på minikartan.
+0x00000047 Du har lyckats hämta ~mission_item~.
+0x00000021 Vad vill du att jag gör härnäst?
+0x00000061 Ja. Vad händer nu?
+0x00000025 Låter bra. Jag är redo.
+0x00000027 Kidnappa ett ~mission_item~-djur.
+0x00000041 Varelsen i fråga lämnar efter sig ett konstigt självlysande spår.~p~Ditt skepp har utrustats med ett radarverktyg som kan slås av och på i fliken för Huvudverktyg. Den kommer visa uppdragsmål och intressanta föremål på en planets yta. Radarn piper fortare ju närmare du kommer ditt mål.~p~Välj skanningsverktyget från fliken Huvudverktyg.
+0x00000026 Skanna de saknade arterna.
+0x00000037 Du har lyckats utrota insjuknade djur av typen ~mission_target_animal_species~.
+0x0000003A Sporedins register över en lokal varelse har försvunnit. Använd skanningsverktyget för att samla information om den.~p~Skanningsverktyget finns i avdelningen för huvudverktyg.~p~Varelsen i fråga har ett lysande spår. För att hitta den lyssna på radarsignalerna.~p~Det kan vara enklare att leta från högre eller lägre höjd. Använd tangenterna +/- eller mushjulet för att ändra höjd.
+0x00000002 Använd höger musknapp för att flyga och +/- för att ändra höjd.
+0x00000010 Särdeles fint jobbat kadett. Du har försett oss med ett excellent provexemplar att undersöka. Undersök två gånger, för bort en gång, som jag brukar säga.
+0x00000033 Du har skannat de nya arterna.
+0x00000007 Om du känner att du är tuff nog så fortsätt för all del. ~p~Vi har utrustat ditt rymdskepp med alla prylar som behövs för att börja utforska rymden.~p~Är du redo att lämna planeten?
+0x00000030 Använd skanningsverktyget för att registrera informationen i Sporepedin.
+0x00000031 Använd minilasern i vapengruppen.
+0x0000008D Du har lyckats samla ~mission_item~-djur.
+0x00000008 Inte än, jag har ångrat mig. Låt oss besöka städer.
+0x00000023 Du måste fortfarande lämna provexemplaren i en av dina städer.~p~Välj det du vill lämna genom att vänsterklicka på föremålet i ditt lastutrymme. Då utrustas din transportstråle så att du kan placera föremålen på marken. Flyg till en av dina städer och lämna provexemplaret. Håll vänster musknapp nere tills varelsen är i säkert förvar i en av dina städer.~p~Släpper du för snabbt kommer du tappa föremålet och förstöra det.
+0x0000004A Skanningen lyckades. Öppna din kommunikationspanel.
+0x00000042 Du har lyckats hämta ~mission_item~. Öppna din kommunikationspanel.
+0x00000043 Du har lyckats gallra bort insjuknade ~mission_target_animal_species~-djur. Öppna din kommunikationspanel.
+0x0000002B Öppna din kommunikationspanel.
+0x00000040 Du har skannat den nya arten. Öppna din kommunikationspanel.
+0x0000004E Du har lyckats kidnappa ~mission_item~. Öppna din kommunikationspanel.
+0x00000012 Klicka på ~mission_item~ i lastutrymmet, därefter klicka och håll innanför valfri stad.
+0x0000000E Lämna ~mission_item~- innanför stadsmurarna.
+0x0000002E Öppna din kommunikationspanel.
+0x0000008E Succé! Öppna dina kommunikationspanel.
+0x0000008F ~mission_item~ mottaget för undersökning. Öppna din kommunikationspanel.
+0x0000002C Öppna din kommunikationspanel.
+0x0000002D Öppna din kommunikationspanel.
+0x0000000A Bra jobbat!~p~Varje stad på planeten ~race_homeworld~ har skjutit upp varsin enorm sfär för att fira ditt första rymdskepp! Det är sant! Kolla själv!~p~Ta en tur med ditt skepp runt planeten och ~mission_explore_num_cities_to_visit~ av dina städer. Flyg igenom sfärerna för att förstöra dem!~p~Du får vidare instruktioner när du är klar. ~p~Lycka till och och försök låt bli att repa lacken.
+0x00000086 Flyg genom sfären över ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^stad^städer~ för att krossa den.
+0x0000003F Du har besökt ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^stad^städer~. Öppna din kommunikationspanel.
+0x00000011 Strålande jobb! Du hade vad som krävdes. Du har förtjänat din hemvärlds respekt och förtroende. Vi vill att du blir pilot för detta rymdskepp och leder vår ras framåt med galaktisk utforskning och ära. ~p~Du har förtjänat utmärkelsen och titeln Kapten.~p~Våra forskare har utvecklat en interplanetär drift till ditt skepp, men du måste installera den först, kapten.
+0x00000004 Nu när du är ett proffs på att flyga tycker vi att du är redo att börja använda några av de sofistiskerade verktyg vi har uppfunnit till ditt rymdskepp.~p~Vi har utvecklat möjligheten att SKANNA de växter och djur du upptäcker under dina resor.~p~Verkar som om detta verktyg kommer i rättan tid! Sporepedins register över en av våra egna djur fördärvades nyligen samtidigt som djuret började uppvisa underliga symtom.~p~Vi vill att du skannar djuren så att vi kan samla mer information om denna art.
+0x00000048 Du har lyckats utrota  insjuknade ~mission_target_animal_species~-djur.
+0x00000001 Det har visat sig att provexemplaren du samlade är sjuka och bär på ett virus som kan spridas väldigt fort. Hela vårt ekosystem är i fara.~p~Självfallet vill vi hantera detta på ett smidigt sätt. Ditt rymdskepp utrustas med en mycket användbar minilaser. Använd den för att avlägsna de infekterade varelserna, men undvik de friska.
+0x00000034 Du har lyckats utrota insjuknade ~mission_target_animal_species~-djur.
+0x0000004B Du har lyckats utrota insjuknade ~mission_target_animal_species~-djur. Öppna din kommunikationspanel.
+0x00000009 Ja, jag vet vad jag gör. Förbered mitt rymdskepp för rymdfärd.
+0x0000000C Hämta minilasern i din vapenpanel och sikta på de smittade varelserna.~p~Var försiktig när du siktar med lasern. Den kan förstöra byggnader, fordon och andra rymdskepp. ~p~Seså, skynda nu innan smittan sprids vidare!
+0x00000029 Tycker du att det är svårt att skanna ett provexemplar? ~p~Välj skanningsverktyget och vänsterklicka på en av de lysande gula varelserna.~p~Om det är svårt att hitta varelsen kan du öka din höjd med det mushjulet så du får fågelperspektiv. Leta efter de gula pilarna.~p~När du hittat dem kan du flyga in lågt.
+0x00000089 Du har lyckats hämta ~mission_item~-djur.
+0x0000008C Du har besökt ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^stad^städer~.
+0x00000020 Det verkar som om du har insamlat rätt provexemplar. Släpp det inuti en av våra städer. ~p~Välj den last du vill släppa i lastutrymmespanelen och släpp den i en stad.~p~Försäkra dig om att stråla ner den säkert till ytan, annars kommer du bli tvungen att samla ett nytt provexemplar och städa upp efter dig.
+0x00000003 Gratulerar kadett! Stiligt åk!~p~Vi håller fortfarande på att installera ny utrustning på ditt skepp men det är redo för rymdfärd inom kort.~p~Har du flugit ett rymdskepp tidigare? Inte?~p~Hmm ... men ingenting går väl upp emot en testflygning när hela folket ~player_creature_name~ på planeten ~race_homeworld~ ser på!~p~Vad säger du? Är du redo att tilldelas kaptenens utmärkelse?~p~
+0x00000039 Besök ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^stad^städer~ till och flyg igenom den svävande orben för att spräcka den.~p~ Använd piltangenterna för att styra ditt rymdskepp. Du kan också hålla nere höger musknapp för att flyga.~p~För att ändra din höjd använd antingen +/- tangenterna eller mushjulet.~p~Leta efter glänsande orber ovanför städerna och flyg genom orberna.
+0x0000003C För att förhindra att infektionen sprids, ta bort ~mission_num_kills_needed~ ~mission_target_animal_species~- ~^p^mission_num_kills_needed^djur^djur~ från din hemvärld.~p~Använd minilasern som du hittar bland vapnen.
+0x00000006 Det var som tusan! Informationen du samlade genom att skanna var ganska värdefull.~p~Det står nu klart att vi måste forska vidare på denna art. ~p~Ditt skepp är utrustat med en bortförningsstråle som du finner i din lastutrymmespanel. Använd den för att samla provexemplar och lämna dessa till oss.
+0x00000079 Ytterligare ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^oönskad utroting^oönskade utrotningar~ och uppdraget misslyckas.
+0x0000000B Använd bortförningsstrålen som finns i lastutrymmespanelen för att omhänderta denna varelse för vidare forskning.~p~Var noga med att du använder verktyget tillräckligt länge så att varelsen kommer i säkert förvar i lastutrymmet.~p~Om strålen avbryts för tidigt kan det leda till mindre trevliga omständigheter för offret ... eh, jag menar provexemplaret.
+0x00000028 Ta bort ~mission_num_kills_needed~ sjuka ~^p^mission_num_kills_needed^djur^djur~ till.
+0x00000014 Vi behöver verkligen det där provexemplaret levererat till oss för vidare studier.~p~Välj din bortförningsstråle och vänsterklicka på varelsen du vill kidnappa. Du måste hålla nere vänster musknapp tills varelsen är i säkert förvar i ditt lastutrymme.~p~Ditt målkort uppdateras när du säkrat lasten.~p~När du lyckats få in en av de små rackarna i ditt lastutrymme, flyg till valfri stad och lämna den innanför stadsmurarna. Tappa inte provexemplaret, det blir så jobbigt då.~p~Vi skickar en handläggare som säkrar varelsen när den har levererats.
+0x00000050 ~mission_num_eradicated_creatures~ avklarade. ~mission_num_kills_needed~ ~mission_target_animal_species~-~^p^mission_num_kills_needed^varelse^varelser~ kvar.
+0x0000008B Bortförningsstrålen finns i dtt lastutrymme.
+0x0000003B Kidnappa ett provexemplar och lämna det i en stad för studering.~p~Välj bortförningsstrålen, vänsterklicka och sikta på varelsen du vill kidnappa. Bortförningsstråle finns i lastutrymmet i verktygsgruppen. Stråla tills varelsen är i säkert förvar i ditt lastutrymme.~p~När du har lyckats få ett provexemplar, flyg till valfri stad och lämna det försiktigt innanför stadsmurarna. För att göra detta, välj det föremål från lastutrymmet som du vill lämna. Vänsterklicka på platsen där du önskar lämna föremålet och håll stilla. Det är alltså viktigt att du håller inne knappen tills varelsen är på marken.
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B2 Palaa planeetalle ~mission_source_planet~.
+0x00000098 Suoritettu
+0x00000099 Onnistuit! Raportoi tähtijärjestelmässä ~mission_source_star~.
+0x00000093 Suuntaa järjestelmään ~mission_source_star~.
+0x00000097 Meneillään
+0x00000095 Suvut ovat sovussa. Palaa raportoimaan tähden ~mission_source_star~ järjestelmässä olevalle planeetalle ~mission_source_planet~.
+0x00000064 Erinomaista. Lähteemme kertovat, että tilanne planeetalla on jännittynyt. Ratkaise ongelma sanan säilällä – älä tartu aseisiin!
+0x000000B1 Estä sota planeetalla ~mission_target_planet~.
+0x00000094 Tähden ~mission_target_star~ järjestelmässä olevalla planeetalla ~mission_target_planet~ on syttymäisillään tuhoisa sota. Sen estäminen edellyttää hienovaraisia rauhanneuvotteluja.
+0x00000000 Onpa hienoa nähdä sinut, ~ep1_captain_full_name~. Suurneuvosto on huolissaan siitä, että valtakuntien välinen jännite planeetalla ~mission_target_planet~ on kärjistymässä avoimeksi sodaksi.~p~Kiistan selvittämisessä tarvitaan diplomaattista rauhanneuvottelijaa, ja pyydämmekin sinua kiiruhtamaan planeetalle mahdollisimman pian.
+0x00000081 Suurneuvosto tietää, että ongelmien ratkaisu sanojen ja nokkeluuden avulla on paljon vaativampaa kuin hätäily ja voimankäyttö.~p~Ehkä sinunkin lajisi ajan myötä ymmärtää tämän.
+0x00000041 Erinomaista työtä! Saimme juuri tietää, että hääpäiväkin on jo päätetty. Toivottavasti suvut eivät ala riidellä kakunkuorrutuksen värisävystä. ~p~Sinä teit kuitenkin työsi hyvin, ja haluammekin antaa sinulle palkkioksi ~mission_rewards~.
+0x00000071 Tämäpä vasta onnetonta. ~p~Luotimme kovasti siihen, että saisit tilanteen laukaistua diplomatian keinoin.
+0x00000092 Kohtaa herttua ja sotapäällikkö tähden ~mission_target_star~ järjestelmässä.
+0x0000004E Tehtävälokistasi näet tarinan sodasta ja rakkaudesta. ~p~Jospa menisit paikalle ja kertoisit osapuolille diplomatiasta?
+

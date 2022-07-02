@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Denne færdighed lammer underholdningsbygninger og kanontårne, hvilket gør borgerne utilfredse.
+0x0001003F Sort sky
+
+# CLG_Plant
+
+0x00000042 Planteæder
+0x00000043 Planteædende celler indtager en diæt bestående af plantestof.
+
+# CRG_CLG_Plant
+
+0x00010022 Sirenesang
+0x00010023 Brug denne færdighed til at tryllebinde alle væsener i nærheden midlertidigt. Dermed kan du lettere socialisere med dem.
+
+# SPG_CRG_Mix
+
+0x0001004E Denne færdighed gør det hurtigere at rejse i rummet.
+0x0001004D Fartdjævel
+
+# CVG_CRG_Attack
+
+0x00010037 Kæmpebombe
+0x00010038 Denne færdighed beskadiger alle bygninger og fartøjer i dens radius.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatisk oprør
+0x0001006C Omvender alle byer
+
+# SPG_Wanderer_Tool
+
+0x00010067 Slet mig[NOT IN USE]
+0x00010068 Gør arterne på planeten tilfældige. NOT IN USE
+
+# CVG_Religious
+
+0x00000056 Religiøse civilisationer besidder magten til, via ord og ideer, at omvende andre nationer til deres måde at tænke på.
+0x00000055 Religiøs
+
+# SPG_TRG_Social
+
+0x00010052 Denne færdighed forbedrer dig forhold med andre rumvæsener.
+0x00010051 Venlig hilsen
+
+# TRG_Mix
+
+0x0000004F Flittig
+0x00000050 Flittige stammer griber øjeblikket, angriber eller former alliancer alt efter, hvad der er nødvendigt. De er gode allierede, men pas på.
+
+# CVG_CRG_Mix
+
+0x0001003C Denne færdighed får fjendens fartøjer i bombens radius til at angribe hinanden.
+0x0001003B Bestikkelsesbombe
+
+# CVG_TRG_Mix
+
+0x00010042 Denne færdighed gør det hurtigere at opkøbe en by.
+0x00010041 Reklamekrig
+
+# SPG_CRG_Social
+
+0x0001004C Denne færdighed gør alle kolinister i dine byer glade og formindsker sandsynligheden for oprør.
+0x0001004B Vindende væsen
+
+# SPG_CVG_Military
+
+0x00010056 Denne færdighed formindsker sandsynligheden for angreb fra rumpirater.
+0x00010055 Forsvind rumpirater
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Kødæder
+0x00000041 Kødædende celler indtager en diæt bestående af kød.
+
+# TRG_CLG_Mix
+
+0x00010029 Flyvefisk
+0x0001002A Denne færdighed giver høvdingen mulighed for at fremmane en søslange, der skræmmer fisk fra havet.
+
+# SPG_TRG_Attack
+
+0x00010050 Denne færdighed giver dig rabat på alle køb af kampværktøjer.
+0x0001004F Våbenhandler
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Tilgængelig i Væsensfasen
+0x067775FA Tilgængelig i i Rumalderfasen
+0x067775E7 Tilgængelig i Civilisationsfasen
+0x067775D9 Tilgængelig i Stammefasen
+
+# SPG_Trader
+
+0x00000062 Handelsrejsende lever for fortjeneste. De har kun sværget troskab overfor den almægtige Sporebuck.
+0x00000061 Handelsrejsende
+
+# SPG_Bard
+
+0x00000057 Barde
+0x00000058 Skjalde er verdensrummets sociale, udadvendte underholdere. Hele galaksen er deres personlige legeplads.
+
+# SPG_Warrior_Tool
+
+0x00010065 Plyndringstogt
+0x00010066 Åbner en mystisk portal, rumpirater rejser gennem. Kaos spreder sig på planeten.
+
+# SPG_Diplomat
+
+0x0000005D Diplomat
+0x0000005E Diplomater er forhandlere og problemløsere. Kun via åben kommunikation mellem arterne kan der skabes fred i galaksen.
+
+# CVG_Economic
+
+0x00000054 Økonomiske civilisationer bruger kontanter og handelsruter til at få indflydelse i andre nationer. De skaber alliancer, men det er som regel til deres fordel.
+0x00000053 Økonomisk
+
+# CLG2_Discoverer
+
+0x00000102 Opdager
+0x00000103 Opdagerbeskrivelse
+
+# SPG_Knight_Tool
+
+0x00010069 Fremman Mini-klon
+0x0001006A Fremmaner en miniatureklon af dit rumskib, der kan hjælpe dig på dine rejser.
+
+# CLG2_Killer
+
+0x00000100 Dræber
+0x00000101 Dræberbeskrivelse
+
+# SPG_Warrior
+
+0x00000065 Kriger
+0x00000066 Krigere tager, hvad de vil have og spørger aldrig om lov. Galaksen er en præmie, som den stærkeste vinder.
+
+# SPG_Wanderer
+
+0x00000067 Eventyrrejsende
+0x00000068 Eventyrrejsende vil gerne prøve lidt af hvert. Galaksen er kæmpemæssig, og de vil gerne opleve det hele.
+
+# CVG_CRG_Social
+
+0x0001003A Denne færdighed forbedrer dit forhold med den nation, du bruger den mod.
+0x00010039 Diplomato
+
+# CRG_Attack
+
+0x00000047 Rovdyr bruger hele deres liv på at søge efter bytte. De vil hellere udrydde en hel art end "danse" eller "charmere".
+0x00000046 Rovdyr
+
+# TRG_CRG_Mix
+
+0x00010030 Denne færdighed giver høvdingen mulighed for at fortrylle dyr i nærheden, der hjælper med at socialisere eller kæmpe.
+0x0001002F Dyretæmmer
+
+# CVG_CLG_Meat
+
+0x00010032 Denne færdighed gør dine fartøjer usårlige i et kort tidsrum.
+0x00010031 Usårlighed
+
+# TRG_CLG_Meat
+
+0x00020025 Fælder
+0x00020026 Denne færdighed giver høvdingen mulighed for at lægge fælder for at fange vilde dyr.
+
+# SPG_CLG_Meat
+
+0x00010043 Pondus
+0x00010044 Denne færdighed forøger styrken på alle våben.
+
+# SPG_CLG_Mix
+
+0x00010047 Købslåer
+0x00010048 Denne færdighed giver dig rabat på alt standardudstyr.
+
+# SPG_TRG_Mix
+
+0x00010053 Kolonikrejler
+0x00010054 Denne færdighed giver dig rabat på alle køb af koloniseringsværktøjer.
+
+# Zero
+
+0x06941DC3 År
+0x06941DC2 Tusind
+0x06941DC0 Milliarder
+0x06941DC1 Millioner
+
+# SPG_CVG_Religious
+
+0x0002005A Denne færdighed formindsker risikoen for naturkatastrofer i alle dine kolonier.
+0x00020059 Grønne fingre
+
+# CLG_Mix
+
+0x00000045 Altædende celler spiser enhver type tilgængelig mad.
+0x00000044 Altædende
+
+# SPG_Bard_Tool
+
+0x00010058 Brug denne færdighed til at berolige rumvæsener, hvilket midlertidigt forbedrer jeres indbyrdes forhold.
+0x00010057 Beroligende sang
+
+# CRG_Social
+
+0x00000147 Social
+0x00000048 Sociale væsener leder altid efter venner og allierede. Højdepunktet på deres dag er at møde en ny art.
+
+# CRG_Mix
+
+0x00000049 Tilpasningsvenlig
+0x0000004A Tilpasningsvenlige dyr har mange venner og mange fjender. De foretager valg baseret på den aktuelle situation.
+
+# SPG_CLG_Plant
+
+0x00010045 Social styrke
+0x00010046 Denne færdighed giver dig forhandlingsrabat på alle sociale værktøjer.
+
+# CRG_CLG_Meat
+
+0x00010020 Voldsomt brøl
+0x00010021 Brug denne færdighed for at få alle væsener i nærheden til at flygte.
+
+# CVG_CLG_Plant
+
+0x00010034 Denne færdighed reparerer alle dine fartøjer og bygninger.
+0x00010033 Healing-aura
+
+# SPG_Shaman
+
+0x00000063 Medicinmand
+0x00000064 Medicinmænd forstår, at alt liv er forbundet. Hele galaksen lever i os alle.
+
+# SPG_Ecologist
+
+0x0000005A Økologer lever for at beskytte naturen. Arter, som forsøger at udnytte og korrumpere galaksen må udryddes.
+0x00000059 Økolog
+
+# CVG_TRG_Attack
+
+0x0001003D Dingenotbombe
+0x0001003E Denne færdighed skader bygninger og fartøjer og kan hjælpe med at erobre byer.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safaritomrum
+0x0001005A Fylder dit lastrum op med alle arter fra en planet.
+
+# SPG_Zealot
+
+0x0000005B Fanatiker
+0x0000005C Fanatikere er overbeviste om, at deres tro er den eneste sandhed, som betyder noget. De, som ikke er enige, er ikke værdige til at leve i galaksen.
+
+# SPG_Trader_Tool
+
+0x00010061 Pengetilførsel
+0x00010062 Gør det muligt at opkøbe handelssystemer med det samme.
+
+# SPG_CRG_Attack
+
+0x00010049 Prima eksemplar
+0x0001004A Denne færdighed forbedrer dit rumskibs holdbarhed.
+
+# CRG_CLG_Mix
+
+0x00010024 Kald flokken sammen
+0x00010025 Brug denne færdighed til at fremmane et par hjælpere, der assisterer dig i kamp eller når du socialiserer.
+
+# TRG_Attack
+
+0x0000004C Aggressive stammer prøver at ødelægge konkurrencen. De angriber skruppelløst og hugger alle ressourcerne til sig selv.
+0x0000004B Aggressiv
+
+# SPG_Knight
+
+0x00000069 Ridder
+0x0000006A Riddere er ædle krigere, som kæmper for retfærdighed, ikke for personlig vinding. Der vil først blive fred i galaksen, når det onde er besejret.
+
+# SPG_Scientist
+
+0x00000060 Videnskabsfolk er logiske og beregnende. Galaksen eksisterer for at blive studeret og forstået.
+0x0000005F Videnskabsmand
+
+# SPG_Shaman_Tool
+
+0x00010063 Returbillet
+0x00010064 Sender dig tilbage til dit eget solsystem med det samme.
+
+# SPG_Zealot_Tool
+
+0x0001005B Fanatisk messen
+0x0001005C Omvender andre imperier til dit.
+
+# SPG_CVG_Economic
+
+0x00020058 Denne færdighed forøger krydderiproduktionen i alle dine byer.
+0x00020057 Krydderilærd
+
+# CVG_TRG_MixWin
+
+0x0001006D Reklamekampagne
+0x0001006E Opkøber alle byer
+
+# Singular
+
+0x55496322 Million
+0x55496324 År
+0x55496321 Milliard
+0x55496323 Tusind
+
+# TRG_CLG_Plant
+
+0x00010027 Forfriskende storm
+0x00010028 Denne færdighed giver høvdingen mulighed for at fremmane en storm, der får frugt til at vokse og falde ned fra træerne.
+
+# CVG_TRG_AttackWin
+
+0x0001006F ICBM
+0x00010070 Ødelægger alle byer
+
+# CVG_Military
+
+0x00000052 Militære civilisationer trives med våben og magt. De vil gribe enhver chance for at udslette andre nationer.
+0x00000051 Militær
+
+# TRG_CRG_Social
+
+0x0001002D Fyrværkeri
+0x0001002E Denne færdighed giver høvdingen mulighed for at affyre fyrværkeri, der forbedrer forholdet med naboerne.
+
+# TRG_Social
+
+0x0000004D Venlig
+0x0000004E Venlige stammer forstår vigtigheden af teamwork. De laver alliancer for at dele ressourcer og blomstre sammen med andre stammer.
+
+# Plural
+
+0x069417A0 Tusind
+0x069417A1 År
+0x0694179E Milliarder
+0x0694179F Millioner
+
+# CVG_CLG_Mix
+
+0x00010036 Denne færdighed lammer fartøjer, kanontårne og bygninger midlertidigt.
+0x00010035 Statisk bombe
+
+# TRG_CRG_Attack
+
+0x0001002B Ildbomber
+0x0001002C Denne evne giver høvdingen mulighed for at kaste ildbomber, der skader modstandere og bygninger i nærheden.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Lammer alle rumskibe og kanontårne på planeten.
+0x0001005D Statisk klang
+
+# SPG_Scientist_Tool
+
+0x00010060 Sender kolonister og bygninger tilbage til stenalderen.
+0x0001005F Tyngdekraftsbølge
+
+# Timeline GUIDS
+
+0x55496320 Historie
+

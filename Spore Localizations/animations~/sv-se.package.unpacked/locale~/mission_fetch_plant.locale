@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A1 Innan jag går, har jag några andra frågor.
+0x000000A5 Kanske en annan gång. Hej då.
+0x000000AC Jag glömde vad jag höll på med. Vad är mitt uppdrag?
+0x000000AB Jag uppfattade inte mitt uppdrag. Vad är det nu igen?
+0x000000B8 Planeten ~mission_target_planet~ finns i stjärnsystemet ~mission_target_star~.
+0x000000A7 Jag ser att du behöver tänka en stund. Farväl.
+0x000000B5 Hämta växten ~mission_item~ från planeten ~mission_target_planet~.
+0x000000B6 Klart! Återvänd till stjärnsystemet ~mission_source_star~.
+0x000000B7 Uppdraget misslyckades. Återvänd till stjärnsystemet ~mission_source_star~.
+0x000000A4 Ursäkta att vi störde dig. Hej då.
+0x000000A6 Jag kan se att du är upptagen. Vi talas vid senare.
+0x00000039 Det bästa med mitt jobb är kosingen! Adjö.
+0x0000009D Jag ber om din förståelse.
+0x000000AD Kan du påminna mig om mitt uppdrag?
+0x0000006C Utmärkt. Vårt kontrakt är godkänt. ~p~Du ska leverera sagda exemplar av växten ~mission_item~ så snart som möjligt. Din tid på planeten ~mission_target_planet~ får inte överstiga ~mission_time~ sektoner. ~p~Stora Rådet tackar dig.~p~
+0x0000006B Spodes ljus sprids! Välsignade äro de som tilldelas ~mission_time~ sektoner på planeten ~mission_target_planet~ för att identifiera och återföra exemplaret.~p~Avres omedelbart. ~p~
+0x00000040 Det här är oacceptabelt! Du borde vara halvvägs till stjärnsystemet ~mission_target_star~ vid det här laget! ~p~Tick tack... varje sekund du slösar bort här skulle användas bättre på planeten ~mission_target_planet~ till att samla in ett exemplar av växten ~mission_item~.
+0x00000003 Vi vill att du ska hämta en viss växtart åt oss på planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~. ~p~Växten ~mission_item~ och dess enastående medicinska egenskaper har det viskats om i årtusenden, men det antogs vara myter och vidskepelse: en populär saga bland galaxens bohemer och lösdrivare.  ~p~Det är av högsta vikt att vi analyserar den här växten och dess verksamma ämnen, för allmänhetens bästa!
+0x000000DA stjärnan heter ~mission_target_star~
+0x00000071 Vi krälar i stoftet inför din strålglans!~p~Vi kunde föstås bara ge dig ~mission_time~ sektoner på planeten ~mission_target_planet~ för att hinna före våra konkurrenters lansering av ört-hårprodukter.~p~Hämta  ~mission_item~ åt oss, så kommer du att belönas rikligen!
+0x000000D9 stjärnan ligger ~mission_clue_range_min~ till ~mission_clue_range_max~ parseker från ~mission_clue_landmark1~.
+0x0000006E Ytterst utmärkt! Tänk på timman. Din tid på planeten ~mission_target_planet~ får inte överstiga ~mission_time~ sektoner.~p~Farväl!
+0x0000000E Våra botaniker har nyligen börjat intressera sig för de unika egenskaperna hos ~mission_item~. Våra egna exemplar gick förlorade på grund av ett byråkratiskt missförstånd. Skulle du vara intressera av att ersätta dem?
+0x00000041 Kanske har du också blivit alldeles till dig över den legendariska växten ~mission_item~s existens? Spännande, eller hur?~p~Vi förväntar oss hur som helst att du utför ditt uppdrag, så sätt kurs mot planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~ med detsamma, och hämta ett exemplar som våra lärda botaniker kan studera.
+0x00000036 Innan jag går, har jag några andra frågor.
+0x0000000C ~mission_item~ har befunnits vara en Sanktionerad Symbol för Spodes Heliga Ljus. Vi står nu inför en brist. Kan du hjälpa oss?
+0x00000067 Helt klart har du den övertygelse som krävs för uppdraget. Vi förväntar oss att du även har modet och envisheten att genomföra det snabbt och effektivt.~p~Det ekonomiska framåtskridandets maskineri gynnas av att du hämtar växten ~mission_item~ effektivt.~p~Du har bara ~mission_time~ sektoner kvar. Längre steg oftare, soldat!
+0x00000064 Underbart! Vi hade på känn att du skulle ta det här uppdraget. Det verkade vara i din smak. ~p~Naturligtvis kommer vi att betala dig för dina insatser, med en summa på ~mission_rewards~.~p~Du kommer att ha ~mission_time~ sektoner på dig på planeten ~mission_target_planet~ för att fullgöra uppgiften.~p~Ha så kul!~p~
+0x0000007B Jag är snart tillbaka!
+0x0000007C Jag måste vidare. Farväl.
+0x000000D2 Jag ber att få lösas från detta uppdrag.
+0x00000078 Jag antar att vi ses snart.
+0x0000007A Jag kan inte motstå så här lättförtjänta pengar!
+0x00000079 Snart tillbaka, okej? Tack! Ajö!
+0x0000001C Vi har upptäckt att ~mission_item~ kan läka sår. Skulle du kunna hämta en till vår medicinska örtagård?
+0x000000D0 Jag måste avsäga mig den här uppgiften.
+0x0000003D Du verkar ha problem med korttidsminnet. Som tur är sägs växten ~mission_item~ vara bra för tankefunktionerna. ~p~Så här då: Res till stjärnsystemet ~mission_target_star~ och hämta ett exemplar av växten ~mission_item~ från ~mission_target_planet~.
+0x0000007D Jag ber om din förståelse.
+0x000000D1 Den här uppgiften passar inte längre in i mitt schema.
+0x000000D6 Jag ber om din förståelse.
+0x0000001E Vi misstänker att växten ~mission_item~ utsöndrar ett naturligt gift som kan användas av våra specialister på biologisk krigföring. Kan du hämta ett exemplar?
+0x000000D5 Jag kan se att du är upptagen. Vi talas vid senare.
+0x00000072 Tack! ~p~Du har tilldelats ~mission_time~ sektoner på planeten ~mission_target_planet~ för att identifiera och hämta exemplaret.~p~Du samlar på dig god karma!~p~
+0x000000D8 stjärnan befinner sig ungefär ~mission_clue_distance~ parseker från ~mission_clue_landmark1~.
+0x00000073 Arbeta snabbt. Du kommer att ha ~mission_time~ sektoner på dig att identifiera och hämta exemplaret.~p~Var god avres genast.
+0x00000075 Innan jag går, har jag några andra frågor.
+0x000000D3 Ursäkta att vi störde dig. Hej då.
+0x0000001D En fientlig biologisk attack har utrotat ~mission_item~ på vår planet. Skulle du kunna hämta oss ett nytt exemplar?
+0x00000143 Alla ~mission_item~ i vårt Exobiologimuseum dog av okänd anledning. Kan du ersätta dem?
+0x00000144 En växtsot har utplånat ~mission_item~ på vår planet. Kan du hämta oss ett prov?
+0x00000147 Du har inte återvänt med ~mission_item~ som vi befallde. Alla parametrar finns i din Uppdragslogg.
+0x00000148 Vi väntar fortfarande på ~mission_item~! Du borde kunna hitta detaljerna i Uppdragsloggen.
+0x00000142 Man har upptäckt att växten ~mission_item~ har nyttiga medicinska egenskaper. Kan du skaffa oss ett prov, så att vi kan odla den?
+0x0000004C Innan jag går, har jag några andra frågor.
+0x0000004D Kan jag fråga om nåt annat?
+0x00000140 Du ska hämta ~mission_item~. Det är inte nödvändigt för dig att veta varför.
+0x00000141 Våra studier av organiska systems svagheter kräver ~mission_item~. Du ska hämta detta.
+0x00000044 Du är sen. Var är den ~mission_item~ som du lovade hämta, som din Uppdragslogg bär vittnesbörd om? Kommer du att ge oss vad du lovade, eller måste du utstå Spodes Vrede?
+0x00000042 UPPDRAGSSTATUS: Ofullständig. ~p~UTTALANDE AV MISSNÖJE: Vad är det som tar sån tid? Det här är långsamt, till och med för en vandrande säck av dåligt optimerade vätskor som du. ~p~UPPDRAGSREPETITION: Hämta prov av ~mission_item~ från planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~.
+0x00000005 Växten ~mission_item~ är höljd i mysterier och legender och dold i tedens dimmor. Den ansågs länge vara en myt, men nu har vi bevisatt att den finns och dessutom tagit reda på var! ~p~Du måste fort och diskret ta dig till planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~ och hämta ett prov. ~p~När du återvänder ska vi brygga ett underbart te!
+0x00000045 Du har inte hämtat en ~mission_item~ till våra botaniska trädgårdar. Våra specifikationer finns i din Uppdragslogg. Kommer du att hämta den inom den närmaste framtiden?
+0x0000014B Vi har generöst gett dig ~mission_time~ sektoner på planeten ~mission_target_planet~ för att identifiera och hämta exemplaret.~p~Börja omedelbart.~p~
+0x0000014C Tack, kapten!~p~Arbeta snabbt. När du anländer kommer du att ha ~mission_time~ sektoner på dig att identifiera och ta med dig exemplaret.~p~Vi ska se fram emot din återkomst!
+0x00000004 Vi har stora andelar i ett flertal stora läkemedelsföretag och en häpnadsväckande ny växt, ~mission_item~, hotar vår affärsmodell. ~p~Denna enastående växt växer endast på planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~. Väaxtens helande egenskaper sägs sakna motstycke i hela universum! ~p~Vi skulle vilja att du hämtar ett prov åt oss - vi vill försäkra oss om att det är sant innan vi utplånar planeten!
+0x00000056 Okej, jag tror jag förstår mitt uppdrag nu.
+0x00000055 Åh. Hämta växten åt dig. Fel av mig.
+0x0000000A Firandet av Spodes Heliga Hjärta äger snart rum i hela Spodes Heliga Imperium. Vi behöver ett tillräckligt förråd av ~mission_item~ för att smycka Spodes altaren. Kan du hämta det åt oss?
+0x0000000B Våra teologer utökar ständigt vår kunskap om Spodes skapelse. Vi har ännu inte kategoriserat ~mission_item~ som ren eller oren. Kan du hämta ett exemplar åt oss?
+0x0000005F Det är mitt nöje att tjäna dig. Adjö.
+0x0000005B Hi hi! Ho ho! Du är trög som en snigel.~p~Det är en växt. Den sitter fast i marken. Du tänker väl inte säga att den sprang ifrån dig?~p~Ha ha ha!
+0x00000051 Jag tröttnar på det här uppdraget. Tack, men jag slutar.
+0x00000050 Det här är en riktigt lömsk, hal växt. Jag ger upp.
+0x0000004F Det här uppdraget är alldeles för komplicerat för mig. Jag hoppar av.
+0x0000002C UPPDRAGSSTATUS: Lyckad överföring av växten ~mission_item~ till ~race~. ~p~UTTALANDE AV BERÖM: Bra gjort. Du är en prydnad för alla långsamt tänkande biologiska köttsäcksvarelser. Dessutom är din kroppslukt inte så vidrig som inledande bedömningar indikerade. ~p~BETALNING: ~mission_rewards~. ~p~SOCIAL TREVLIGHET: Tack, kolklump.
+0x00000053 Aha. Nu förstår jag.
+0x00000052 Bah! Jag ger upp.
+0x00000054 Jag förstår. Okej, jag far.
+0x0000003C Inga problem. Det var så lite. Hej då.
+0x000000CA Visst. Låter kul.
+0x000000BC Du har ~mission_item~.~p~Återvänd till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ för att få din belöning.
+0x00000089 Jag ber om din förståelse.
+0x000000C6 Öppnar arkiv. Begäran godkänd.
+0x0000008B Innan jag går, har jag några andra frågor.
+0x000000BE Du misslyckades med att hämta växten ~mission_item~ i tid. Res tillbaka till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ för att berätta de dåliga nyheterna för dem.
+0x00000010 De läkande egenskaperna hos växten ~mission_item~ har nyligen upptäckts av våra forskare. Detta skulle kunna vara ovärderligt för de av våra medborgare som lider av Glarthrbs palsi. Kan du förse oss med ett parti?
+0x00000015 Festivalen för Förfinad Ironi står för dörren och jag skulle vilja bära en ny dräkt komponerad för att subtilt kommentera vår tids moral och dårskap. En kvist från växten ~mission_item~ är nödvändig till hatten. Skulle du möjligen kunna hämta en kvist av ~mission_item~ i tysthet, diskret, så att ingen får reda på vad jag planerar?
+0x000000BA Tiden har tagit slut. Återvänd till planeten ~mission_source_planet~ för att berätta de dåliga nyheterna för dem.
+0x000000C8 Det här låter lätt. Jag är med.
+0x00000097 Visst, visst. Jag visste att det var hopplöst att komma med nåt så trivialt till nån så upphöjd som du. Kanske kan du trösta mig genom att spendera pengar i min boutique?
+0x000000C7 Föra bort en växt? Ja, det klarar jag.
+0x00000098 Skrämmer en rotad växt dig så?! Ha ha, vilken dårskap!
+0x00000099 Tänk dig för två gånger innan du förspiller vår tid.
+0x000000C9 Ja, okej. Jag gör det.
+0x00000091 Jag ser att du behöver tänka en stund. Farväl.
+0x00000085 Tänk dig för två gånger innan du förspiller vår tid.
+0x00000084 Skrämmer en rotad växt dig så?! Ha ha, vilken dårskap!
+0x00000087 Trots hos en art som din leder inte till respekt, utan förintelse.
+0x0000009B Trots hos en art som din leder inte till respekt, utan förintelse.
+0x0000001B En siare har sett i en dröm att ~mission_item~ kan rädda universum från regression under nästa Cykel! Kan du hämta lite åt oss?
+0x000000B9 Du har ett exemplar av växten ~mission_item~. Återvänd till planeten ~mission_source_planet~ och ta emot din belöning.
+0x0000008E Ursäkta att vi störde dig. Hej då.
+0x0000003B Kontanter! Ikväll ska jag äta biff! Klart slut.
+0x000000CE Jag är ledsen. Jag kan inte göra det här just nu.
+0x00000016 Vi har upptäckt ett nytt och lönande användningsområde för ~mission_item~! Vi skulle vara villiga att dela vår vinst med ers majestät om du kan hämta en sådan växt åt oss från dess hemplanet.
+0x000000CC Jag måste tacka nej. Jag vill inte ha växtskräp i mitt lastrum.
+0x00000018 Det är måhända svårt för ett väsen så kosmiskt som du att bry sig om futtiga planetära angelägenheter, men vi har upptäckt att ~mission_item~ kan användas medicinskt. Skulle vi kunna be dig, mot en belöning, att hämta en sådan växt åt oss  och öka våra kunders lycka och hälsa?
+0x0000008F Kanske en annan gång. Hej då.
+0x000000CB Jag måste stå över. Jag tror att jag är allergisk mot ~mission_item~-pollen.
+0x000000C2 Uppdraget utfört. ~mission_item~ finns ombord.
+0x00000090 Jag kan se att du är upptagen. Vi talas vid senare.
+0x00000019 Transcendens-ceremonin ska strax gå av stapeln och vi måste alla smycka oss med ~mission_item~. Vi har lite brist på det… skulle du kunna hjälpa oss?
+0x00000008 Undersökningar av ~mission_item~ visar att växten kan ha naturlig motståndskraft mot den tretåiga skogsgetingen som har blivit ett sådant hot mot våra grödor. Kan du hämta ett prov åt oss?
+0x00000047 Hmm. Med enstaviga ord: Var är artefakten ~mission_item~ du sa att du skulle ta hit? Finns inte all info i din Uppdragslogg?
+0x0000007E Klart förståeligt, Kapten.~p~Ledsen att behöva tynga dig med sådana frågor.~p~
+0x00000001 Tjena, rymdsnubben. Du skulle verkligen göra oss en tjänst om du drog iväg till stjärnsystemet ~mission_target_star~ och hämtade ett skott av örten ~mission_item~ från planeten ~mission_target_planet~. Vi skulle liksom verkligen vara dina vänner om du gjorde det. Det är säkert. ~p~Kejsaren firar sin födelsedag snart, och den gamle stofilen tjatar jämt om att hans trädgård saknar en ~mission_item~. Om jag hade en sån växt, skulle alla andra presenter se ut som Grox-gödsel! Det skulle vara så mäktigt!
+0x0000003E Åh nej! Det här är en mardröm! Kejsarens födelsedagsfirande står för dörren. ~p~Fort! Du måste sticka till planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~ och hämta växten ~mission_item~. ~p~Alla måste få veta att min kärlek och lojalitet till kejsaren saknar motstycke i hela galaxen!
+0x0000005C Vafalls, ~player_title~ ~player_creature_name~?~p~Du hittade inte växten? Grönsaken sprang väl inte ifrån dig, eller? Du borde kanske gå och skaffa glasögon så att du ser vart du går.
+0x0000005D Var hälsad igen, vän.~p~Vi förstår att du har misslyckats. ~p~~player_title~ av ~player_creature_name~ måste komma ihåg att allt som är värt att göra kräver koncentration, min vän.
+0x0000005E Ynkliga ~player_creature_name~.~p~Du misslyckades med att hämta en simpel växt? Är det äkta inkompetens, eller hånar du oss på nåt sätt? Hur det än är, ta dig i akt.
+0x00000058 ~player_title~ av ~player_creature_name~, har du misslyckats med att hämta en enkel växt inom tidsfristen? Det ska vi inte glömma.
+0x0000005A Var hälsad, ~player_title~ ~player_creature_name~.~p~Analys av ditt skepp indikerar att ditt uppdrag misslyckades. Vår civilisations största forskare står häpna inför din oförmåga att återvända med en simpel växt.
+0x00000012 Vi misstänker att den unika DNA-koden från växten ~mission_item~ kan vara användbar för att lösa flera biologiska mysterier. Skulle du vilja förse oss med ett exemplar så att vi kan renframställa dess egenskaper?
+0x0000003F Å? Har du blivit förvirrad över nåt? ~p~Det är högst förståeligt - detta är ett mycket komplicerat uppdrag som innefattar transport av exotisk och slug växtlighet. ~p~En snabbgenomgång: ~p~Res till stjärnsystemet ~mission_target_star~ och lokalisera planeten  ~mission_target_planet~. Där finner du växten ~mission_item~. Hämta ett prov åt oss. ~p~Hmm, nu när jag säger det högt låter det ju inte så komplicerat.
+0x0000006D ~player_title~ ~player_creature_name~. Vi tackar dig för ditt entusiastiska samarbete.~p~Planera din upptäktsfärd klokt. Din tid på planeten ~mission_target_planet~ får inte överstiga ~mission_time~ sektoner.~p~Arbeta väl.~p~
+0x00000020 Jag är intresserad.
+0x00000149 ~player_creature_name~. Din brist på fullföljande har noterats. Du har begränsad nytta.
+0x00000024 Låt mig återkomma till dig om det.
+0x00000022 Jag är tillgänglig.
+0x00000026 Jag är ute efter något annat.
+0x00000048 Vad hände med växten ~mission_item~ från systemet ~mission_target_star~? Vi har tagit stora lån för beredningsfabriken och vill att vinsten ska börja flöda bums. Alla avtalets detaljer borde finnas i din Uppdragslogg.
+0x00000083 Visst, visst. Jag visste att det var hopplöst att komma med nåt så trivialt till nån så upphöjd som du. Kanske kan du trösta oss genom att spendera pengar i min boutique?
+0x00000009 Torkade stjälkar av ~mission_item~ har visat sig vara en miljövänlig energikälla, men vårt forskarlags enda exemplar har förkommit. Kan du hämta ett exemplar åt oss?
+0x00000006 UPPDRAGSÖVERSIKT: Hämta växtprov.~p~UPPDRAGETS STJÄRNSYSTEM: ~mission_target_star~.~p~UPPDRAGETS PLANETÄRKROPP: ~mission_target_planet~.~p~MÅLFLORA: ~mission_item~.~p~RESONEMANG/ÖVRIGT: Genetiskt brus måste dämpas.~p~KOMPENSATION: ~mission_rewards~.
+0x000000B1 Hi ho! Behöver du pengar?! Ha!~p~Vi kan skicka dig av och an. Är du snabb? Vi har ett snabbt ärende av botaniskt slag.
+0x00000061 Ja, vi stötte på problem ...
+0x00000063 Låt oss fokusera på framtiden ...
+0x000000C3 Uppdraget misslyckades. Tidsfristen har löpt ut.
+0x00000062 Det här var inte mitt bästa arbete ...
+0x000000A2 Dessutom ...
+0x00000021 Jag skulle vilja höra mer ...
+0x00000060 Ursäkta. Kan vi diskutera nåt annat ...
+0x0000008A Jag skulle vilja fråga dig nåt annat ...
+0x0000008C Dessutom ...
+0x00000082 Intressant val, ~player_title~ ~player_creature_name~. Kanske har du nån information som vi saknar, även om det verkar osannolikt.
+0x000000D4 Tills vi talas vid igen. Hej då.
+0x0000004B Jag skulle vilja fråga dig nåt annat ...
+0x0000009C Du vågar ignorera Groxernas krav!? Oförskämda dåre!
+0x00000088 Du vågar ignorera Groxernas krav!? Oförskämda dåre!
+0x0000000F Stora rådet vill inget hellre än våra medborgares hälsa och välbefinnande. De farmacevtiska egenskaperna hos växten ~mission_item~ har nyligen upptäckts på en annan av våra planeter. Kan du hämta ett exemplar åt oss för att förbättra folkhälsan på den här planeten?
+0x000000A0 Jag skulle vilja fråga dig nåt annat ...
+0x00000037 Dessutom ...
+0x00000035 Jag skulle vilja fråga dig nåt annat ...
+0x000000C0 Dessutom ...
+0x000000BF Innan jag går, har jag några andra frågor ...
+0x00000076 Dessutom ...
+0x00000092 Helt förståeligt, Kapten.~p~Ursäkta att vi besvärar dig med sådant.~p~
+0x00000074 Jag skulle vilja fråga dig nåt annat ...
+0x00000096 Intressant val, ~player_title~ ~player_creature_name~. Kanske har du nån information som vi saknar, även om det verkar osannolikt.
+0x00000094 Du måste följa din egen väg.~p~Lev väl, min vän.
+0x00000032 Välkommen, välkommen  ~player_title~ ~player_creature_name~.~p~Utsikterna av framtida vinster skänker sannerligen lycka till alla tänkande varelser! Må du ha glädje av dina ~mission_rewards~ och en rundtur i emporiet.
+0x0000002E ~player_title~ ~player_creature_name~.~p~Spodes trogna fröjdas i ~mission_item~s närhet! Mottag dina ~mission_rewards~ och Spodes välsignelse.
+0x00000030 ~player_title~ ~player_creature_name~. Våra medborgares hälsa kommer snart att förbättras! Du har handlat klokt, och klokeligen erbjuder vi dig ~mission_rewards~.
+0x0000002B Prisa de gamla gudarna! Du har återvänt, storsint och segerrik, med en ödmjukhet man sällan ser hos dina likar. Det är lika uppriskande som smältvatten från SaccaRhin-floden. Du är verkligen själva förebilden för en modern långresenär. ~p~Låt oss kompensera dig för dina mödor med en belöning på ~mission_rewards~, som ett tack för utmärkta tjänster.
+0x00000013 Gäspfestivalen stundar, och vi behöver stor tillgång på ~mission_item~ för att göra solfjädrar av dess grenar. Kan du förse oss med lite?
+0x000000A8 ...
+0x0000013F Det är nödvändigt att du hämtar en växt från planeten ~mission_target_planet~. Du ska gå med på det.
+0x00000059 ~player_title~ ~player_creature_name~, du har inte hämtat växten ~mission_item~ inom den stipulerade tidsfristen. Jag blir tvungen att upplysa Stora rådet om ditt misslyckande.
+0x0000002A Bra gjort! Vi märkte redan vid vårt första möte att du var en sann vän av en fri marknad. När allt kommer omkring: om alla kunde hålla sig friska billigt, skulle de ekonomiska maskinerier som driver ~race~-civilisationen haverera, och det kan vi inte tolerera! ~p~Ta din betalning på ~mission_rewards~ och försvinn. Kom ihåg att hålla tyst om vad du vet om ~mission_item~ - vi vill helst inte stämpla dig som en bakåtsträvare. Sånt blir alltid ledsamt.
+0x0000002F Välkommen, ~player_title~ ~player_creature_name~. ~p~Tack för dina insatser! Stora rådet förärar dig ett Lovordscertifikat av tredje graden, samt en belöning på ~mission_rewards~.
+0x00000081 Ooo ... okej ... Ja, det är i sin ordning. ~p~Om du inte är engagerad ... vill vi ju inte att du ska interagera med den orörda naturen. ~p~
+0x00000077 En sak till ...
+0x0000007F Uppfattat, ~player_title~ ~player_creature_name~. Vi uppskattar dina etikettsregler.~p~Faktiskt kommer det att bespara oss en del pappersarbete. Godkännandeprocessen för underkontrakt gällande interplanetär vegetetationstransport kräver endast 362 olika blanketter undertecknade och stämplade i tre vidimerade kopior. ~p~Detta är givetvis långt färre än vad som anges i Standardproceduren ... Du skulle se blanketterna som krävs för fermenterade kryddor.
+0x000000CD Jag säger ogärna nej ... men nej.
+0x00000065 Ja, kapten. Det finns en liten sak vi behöver hjälp med om du har tid.~p~Vi kommer givetvis att belöna dig för dina insatser.
+0x000000AF Jaa ... Jag tror vi har nåt Är du ett med naturen? ... Står du i samklang med växtlivet?
+0x00000080 Du måste följa din egen väg.~p~Lev väl, min vän.
+0x00000069 Tja, jag måste förstås få det godkänt, men jag vet att det finns ett växthämtaruppdrag som ska läggas ut på nån frilansare ...
+0x0000001F Berätta mer ...
+0x00000093 Uppfattat, ~player_title~ ~player_creature_name~. Vi uppskattar dina etikettsregler.~p~Faktiskt kommer det att bespara oss en del pappersarbete. Godkännandeprocessen för underkontrakt gällande interplanetär vegetetationstransport kräver endast 362 olika blanketter undertecknade och stämplade i tre vidimerade kopior. ~p~Detta är givetvis långt färre än vad som anges i Standardproceduren ... Du skulle se blanketterna som krävs för fermenterade kryddor.
+0x0000002D Hej, ~player_title~ ~player_creature_name~ ...Tack.~p~Om den odlas försiktigt kan den här växten visa sig gynnsam ... både för vår ekonomi och ekologi! Vi ger dig gladeligen ~mission_rewards~.
+0x00000145 ~player_creature_name~. Växten ankom i lämpligt skick. Som brukligt är bland organsika arter överför vi ~mission_rewards~.
+0x0000000D De botaniska trädgårdarna uppgraderas enligt order från Stora rådet. För att komplettera vår samling och säkerställa att våra vetenskapsmän har största möjliga antal växter att studera, ber vi dig att resa till systemet ~mission_target_star~ och hämta ~mission_item~.
+0x0000004E En sak till ...
+0x000000C4 Det finns en växt vi söker ...
+0x00000146 Välkommen tillbaka, kapten.~p~Växten ~mission_item~ har anlänt i gott skick!  Utmärkt arbete! Här får du ~mission_rewards~ för dina insatser.
+0x0000001A En av våra gurus har upptäckt att ~mission_item~ kan användas för inre rening. Växten har visat sig så användbar att vi har fått slut på den ... skulle du kunna hämta mer?
+0x00000025 Det var inget. Jag ville fråga nåt annat ...
+0x000000CF Jag skulle hellre göra nåt annat.
+0x00000027 Om det är nåt som ~race~ har förstått sen vi gav oss ut i rymden, är det att vi alltid kan lita på att ~player_creature_name~ klarar av jobbet med glans. ~p~Snart har vi lärt oss hemligheterna med ~mission_item~ och du kommer att lindra lidandet för miljoner sjuka. ~p~Vänligen mottag ~mission_rewards~ för ert trofasta engagemang för vårt folk.
+0x00000038 En sak till ...
+0x00000066 Var snäll och hämta växten ~mission_item~ snabbt, så att vi kan dra nytta av den snabbare! ~p~Faktum är ... nämnde vi att du bara kommer att ha ~mission_time~ sektoner på dig på planeten ~mission_target_planet~ för att identifiera och infånga exemplaret? ~p~Inte? Du vet att vi alltid vill vara öppna om sånt här.~p~Lycklig resa!~p~
+0x00000057 Hej, ~player_title~ ~player_creature_name~...~p~Vänta ... var är växten ~mission_item~? Bad vi dig inte hämta en? ... Åh, du har misslyckats? ... nedrans.
+0x0000004A Du hade gått med på att besöka stjärnsystemet ~mission_target_star~ och söka efter ~mission_item~. Har det fallit både dig och Uppdragsloggen ur minnet?
+0x000000BB Hämta växten ~mission_item~ från planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~. Det är känt att ~group:star_clue~. ~p~Väl på planeten ~mission_target_planet~ kommer du att ha ~mission_time~ sektoner på dig att identifiera och bortföra det önskade exemplaret.~p~
+0x000000AA Öh ... Vad var det jag skulle göra nu igen?
+0x00000068 Denna dag skall gå till hävderna som ett glädjefullt preludium till återupptäckandet av växten ~mission_item~. Du kommer att hälsas som en hjälte när du återvänder!~p~Utan att tveka erbjuder vi dig stolt ~mission_rewards~ som finansiell kompensation för det lyckade genomförandet av detta allvarliga och heliga uppdrag vilket du nu har tilldelats.~p~Men var uppmärksam på tidens gång. Du har blott ~mission_time~ sektoner på planeten ~mission_target_planet~ för att fullborda denna uppgift. ~p~Lycka till, du vänliga själ. Trevlig resa.~p~
+0x00000033 Kära ~player_title~ ~player_creature_name~. ~p~Vi tar gladeligen emot denna ~mission_item~, helt övertygade om att den kommer att öka vårt förråd av metafysiska coolhetspoäng! Din belöning om ~mission_rewards~ är välförtjänt!
+0x0000006A Tack för att vi får göra anspråk på din tid.~p~På tal om tid ... Du kommer att ha ~mission_time~ sektoner på din på planeten ~mission_target_planet~ för att hämta exemplaret. ~p~Vi kommer inte att glömma din hjälp.
+0x00000031 Hi hi! Du kom i grevens tid, ~player_title~ ~player_creature_name~! Alla talar om ~mission_item~! var god ta emot dina ~mission_rewards~!
+0x0000014A Välkommen tillbaka, kapten.~p~Det verkar som om du inte lyckades hämta föremålet från planeten ~mission_target_planet~. Kanske drabbades ditt skepp av någon sorts driftstörning ... ?
+0x000000B4 Ja. Vi söker en växt ...
+0x00000046 Vid vårt senaste möte uttryckte du din vilja att resa till ~mission_target_star~ och söka efter ~mission_item~. Är minnet i din Uppdragslogg defekt, eller finns det någon annan anledning till att du har återvänt med tomma lastrum?
+0x00000034 ~player_creature_name~. Bra gjort. Du har visat dig anställbar. Vänligen ta emot dessa ~mission_rewards~.
+0x00000023 Hoppsan! Jag kom just på ... jag är upptagen.
+0x000000A3 En sak till ...
+0x0000003A Glad att kunna hjälpa till. Farväl.
+0x00000043 Lovade du inte att hämta ~mission_item~ från systemet ~mission_target_star~?  Kan du fullgöra detta uppdrag?  Alla relevanta data finns lagrade i din Uppdragslogg.
+0x0000008D En sak till ...
+0x00000095 Ooo ... okej ... Ja, det är i sin ordning. ~p~Om du inte är engagerad ... vill vi ju inte att du ska interagera med den orörda naturen. ~p~
+0x00000070 Den förväntade vinsten får oss att göra krumsprång! ~mission_item~ kommer att öppna nya marknader för oss! ~p~En sak till ... du kommer bara att ha ~mission_time~ sektoner på dig på planeten ~mission_target_planet~ för att identifiera och hämta exemplaret. Det blir väl inget problem?~p~Tack och lycklig resa.~p~
+0x00000017 Det har just blivit modernt att använda ~mission_item~ i landskapsarkitektur. Vår tillgång är för liten. Fast vi tvekar ... att besvära ett väsen som ers mäktighet, kan vi fresta er att hämta lite ~mission_item~ mot en belöning?
+0x000000B2 Förvisso. Det finns en växt vi eftersöker ...
+0x00000028 O ja! Bra jobbat! Och du har blick för grönska, dessutom! Det där är ett utmärkt exemplar av ~mission_item~. Kejsaren kommer att bli mycket nöjd! ~p~När du var borta snokade jag runt lite för att få reda på vilka andra födelsedagspresenter kejsaren kommer att få, och det här är den bästa på långa vägar. Det här kommer verkligen att sätta sprutt på min karriär! ~p~Vi erbjuder dig en betalning på ~mission_rewards~. Tusen tack, tuffing.
+0x00000049 Vi hade trott att du skulle komma med ~mission_item~, men det verkar inte så. Råkade du av misstag radera din Uppdragslogg?
+0x000000A9 Jag behöver en liten repetition av mitt uppdrag ...
+0x00000007 Våra ekologer misstänker att ~mission_item~ kan hitta en lämplig nisch i vårt ekosystem, men den måste först undersökas noggrant. Kan du förse vårt forskarlag med ett prov?
+0x000000C1 En sak till ...
+0x000000B3 Ja, ~player_title~ ~player_creature_name~. Vi behöver ett exemplar av en växt ...
+0x0000009A ~mission_source_empire~ ifrågasätter ditt vankelmod. Det står klart att du saknar en stark drivande kraft. Så olyckligt.
+0x000000AE Javisst, Uppdragsloggen! Jag ska titta i den!
+0x00000002 Vi har ett uppdrag av högsta vikt för ~mission_source_empire~. Du måste hämta en viss växt åt oss. ~p~I enoner har vi lidit av ett flertal olika åkommor, från sporiasis till utländsk brytningssyndrom och skyttegravsfot. ~p~Doch ahr vi nyligen hört om växten ~mission_item~ som finns på planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~ system. Denna häpnadsväckande flora sägs ha läkande egenskaper för alla dessa åkommor, och vi räknar med att få monopol på den!
+0x00000086 ~mission_source_empire~ ifrågasätter ditt vankelmod. Det står klart att du saknar en stark drivande kraft. Så olyckligt.
+0x0000006F Å, det här är underbart! Helt underbart! ~p~Vi skulle kunna resa själva, men vi blir alltid distraherade när vi reser. Faktiskt upptäckte ~mission_source_empire~ rymdfart av en händelse under ett misslyckat matlagningsexperiment.~p~Vår koncentrationsförmåga är begränsad. Därför behöver vi din hjälp.~p~För övrigt klarar vi inte stress så bra, och med bara ~mission_time~ sektoner tillåtna på planeten ~mission_target_planet~ skulle vi få hjärtklappning.~p~Vi inväntar andlöst din återkomst. Vi förväntar oss till och med att ~mission_item~-plantan kommer ta hand om det här problemet också. Har du någonsin luktat på andlös andedräkt? Det är äckligt!~p~
+0x00000029 Vi är så överväldigade av glädje och tacksamhet…att…att…vi måste sätta oss ner en stund. Marknaden reagerar. ~p~Du har gjort arten ~mission_source_empire~ en stor tjänst! Den nya produktlinjen du har gjort möjlig kommer att göra dig rik. Ta emot ~mission_rewards~ som en förstadagsbonus!
+0x00000011 En växtsjukdom har utplånat ~mission_item~ från vår planet. Skulle du vara villig att hämta några okontaminerade exemplar från ~mission_target_planet~?
+0x000000B0 Nu ska vi se.~p~Ja, ja~p~Här har vi nåt. Vi är i skriande behov av en växt ...
+0x00000014 Vi är trötta på vår utsikt här. Vi ska påbörja en fas med att ändra landskapet på hela planeten! Vi tänker plantera ~mission_item~ här och var, bara för att ge intressanta kontraster, men vi verkar ha fått slut på lagret. Kan du leverera lite till oss?
+

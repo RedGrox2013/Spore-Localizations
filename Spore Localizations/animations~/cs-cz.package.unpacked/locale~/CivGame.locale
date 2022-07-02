@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Obsadit město
+0x04D19085 Konvertovat město
+0x04D1912C Nabídnout obchodní cestu
+0x04D19177 Obchodovat s městem
+0x0563CE33 Obsadit město (Příliš daleko)
+0x0563CE86 Konvertovat město (Příliš daleko)
+0x0563CEC2 Navrhnout obchodní cestu (Příliš daleko)
+0x05F4FC30 Otevřít obchodní cestu
+0x06776CA9 Konvertovat město (Automatické zaměření na zábavní budovy za účelem zhoršení spokojenosti)
+0x04D19086 Konvertovat město (příliš velká spokojenost - nejprve se zaměřte na zábavní budovy)
+
+# Tutorial Buy Sea Unit
+
+0x058C7644 Vytvořte a kupte si vodní vozidlo.
+0x058C7643 Klikněte na tlačítko Městský architekt a kupte své první vodní vozidlo.
+0x058C7642 Koupit
+
+#######################################
+# NPC city hall
+
+0x052ECBE1 Koupit město (vyžaduje více obchodování)
+0x052ECBE2 Koupit město (vyžaduje obchodní cestu)
+0x04D194FE Dát dárek
+0x04D1956A Koupit město
+0x04D29B0C Kontakt
+
+# Tutorial Claim Node
+
+0x058B486C Zaberte gejzír koření.
+0x058B486B Gejzír koření zaberete tak, že označíte vozidlo a na gejzír kliknete pravým tlačítkem myši.
+0x058B486A Zabrat
+
+############################################################ pie menus
+
+0x06A56B8F Podplácení pracovníků
+
+# Tutorial Religious Capture
+
+0x058C968E Konvertujte nepřátelské město.
+0x058C968D Vytvořte náboženská vozidla, klikněte na nepřátelské město a zvolte Konvertovat město. Náboženská vozidla mohou také útočit na jednotlivé budovy uvnitř města a dočasně je vyřadit z provozu, takže nebudou moci brzdit váš útok.
+0x058C968C Obsazení
+
+#######################################
+# wall
+
+0x04D195B2 Opravit
+
+#######################################
+# city hall
+
+0x058B51F4 Napalm bomba $~currency_number~
+0x058B5210 Léčení vírou $~currency_number~
+0x058B5211 Černý déšť $~currency_number~
+0x058B5212 Podplácení a manipulace $~currency_number~
+0x058B5213 Propaganda $~currency_number~
+0x058B5214 Globální sjednocení $~currency_number~
+0x05763FE4 Taktická nukleární střela $~currency_number~
+0x056B8A99 Revoluční povstání $~currency_number~
+0x04E41707 Globální útok raketami ICBM $~currency_number~
+0x04D2B633 Výbava města
+0x04D191CF Nákup budov
+0x04D192DC Nákup vozidel
+0x04D19342 Přechod do vesmíru
+
+# Tutorial Economic Capture
+
+0x058C96A4 Odkupte nepřátelské město.
+0x058C96A3 Vytvořte obchodní vozidla, klikněte na nepřátelské město a zvolte Navrhnout obchodní cestu. Jakmile provedete dostatečné množství obchodů, město se vám samo nabídne k odkoupení.
+0x058C96A2 Obsazení
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Propustit
+0x04D960BB Opravdu chcete propustit zvolená vozidla?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Postavte si svoji kosmickou loď
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Vojenský
+0x04D175CB Náboženský
+0x04D175CC Ekonomický
+0x04D175CD Sklízeč
+
+# Tutorial Happy City
+
+0x058C75FF Navrhněte spokojené město.
+0x058C75FE Klikněte na tlačítko Městský architekt přidejte a propojte domy se zábavními budovami.
+0x058C75FD Navrhni
+
+#######################################
+# building menu
+
+0x04E50472 Prodat budovu za $~currency_number~
+0x04D1A21D Zdemolovat
+
+# Tutorial Military Capture
+
+0x058C9724 Obsaďte nepřátelské město.
+0x058C9723 Vytvořte vojenská vozidla, klikněte na cizí město a zvolte Zabrat město. Větší útočná síla znamená větší šanci na úspěch.
+0x058C9722 Obsazení
+
+#######################################
+# vehicle limit
+
+0x04D1A4A7 Dosaženo maximálního počtu vozidel
+0x04D1A4AE Dosáhli jste maximálního možného počtu vozidel tohoto typu. Další vozidla budete moci vyrábět, když zaberete další města odpovídajícího typu.~br~Tip: Označená vozidla můžete stisknutím klávesy Del vyřadit z provozu.
+
+# Tutorial Profitable City
+
+0x058B71B6 Navrhni prosperující město
+0x058B71B5 Na radnici klikněte na tlačítko Městský architekt a přidejte propojené domy a továrny. Vaše město potom bude výdělečné.
+0x058B71B4 Navrhni
+
+# Tutorial Capture All
+
+0x0590C22A Obsaďte všechna města.
+0x0590C229 Vyhrajete, když se vám podaří zabrat všechna města planety!
+0x0590C228 Obsazení
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Kupte si své první vozidlo.
+0x05C18512 Kliknutím na tlačítko Městský architekt si koupíte své první vozidlo.
+0x05C18502 Koupit
+
+# Tutorial Buy Land Unit
+
+0x058C7628 Kupte další pozemní vozidlo.
+0x058C7626 Koupit
+0x058C7627 Kliknutím na tlačítko Městskýarchitekt koupíte další pozemní vozidlo.
+
+# Tutorial Buy Air Unit
+
+0x058C765C Klikněte na tlačítko Městský architekt a vytvořte své první letecké vozidlo.
+0x058C765D Vytvořte a kupte si letecké vozidlo.
+0x058C765B Koupit
+
+#######################################
+# player lost
+
+0x04D1A8A8 Vaše poslední město padlo soupeři!
+

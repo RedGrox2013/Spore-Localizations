@@ -1,0 +1,1206 @@
+﻿# Character name (Character: "traffic_sign", model: "Traffic Sign_@building_editorModel!0x0772ec6d.bld")
+# Comments: Mark routes on Peninsula
+
+0x8C0D8860 Señal de tráfico
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 2, Variation 2
+# Character comments: finding the player
+
+0x8170A8C1 ¡Ven, rápido, corre! ¡El científico está muerto!
+
+# Act 1 description
+# Act comments: Start by entering under the Banner into the Prototype test town and meet the Scientist. The Town is running perfectly, a haven of peace powered by crystals… The player will continue to enjoy Test Town until he finds…A BOMB!
+
+0x00000021 Explora la maravilla científica de Ensayópolis.
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 4, Variation 1
+# Character comments: Standing by Reactor #1
+
+0xDCFDA9C0 ¡Maldición, debe habérseme caído la llave del reactor!
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 1, Variation 4
+# Character comments: All lined up nice in pretty rows. Each row is backed by a computer console…
+
+0xB0AB3843 Cuesta creer la armonía que hay aquí. ¡Qué gente tan feliz!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 3, Variation 1
+# Character comments: Ideally, she would swap out with the Crystal Speedster - but how to do it without the player seeing it?
+# Comments: (if running)
+
+0xDCFDA940 ¡Voy a volar los reactores! ¡Y no puedes detenerme!
+
+# Character chatter (Character: "colony_reactor"): Act 5, Variation 1
+
+0xC0D8CA40 Reactor de cristales.
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 5, Variation 4
+
+0x5AD53A43 Reactor de cristales + Llave de reactor X 3 = ¡Éxito!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 3, Variation 4
+# Character comments: Ideally, she would swap out with the Crystal Speedster - but how to do it without the player seeing it?
+# Comments: (if running)
+
+0xDCFDA943 ¡CONSERVAREMOS lo que queramos conservar!
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 3, Variation 1
+# Character comments: The Colony Dome is at the end of the peninsula. Behind it, 3 crystal Reactors stand in a rough fanned 'tail'…
+
+0x5AD53940 ¡La cúpula de la colonia!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 1, Variation 4
+# Character comments: From Zealot. Obsessed with killing. But that was then
+
+0x67B6E843 ¡No he pensado en MATAR en meses!
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 2, Variation 5
+# Character comments: personality transplant
+
+0x0028A8C4 ¿Quién de vosotros necesita una paliza, makkoys?
+
+# Character chatter (Character: "colony_reactor"): Act 5, Variation 2
+
+0xC0D8CA41 Reactor de cristales + llave del reactor = ¡reactor estabilizado!
+
+# Character name (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl")
+# Comments: Vehicle - old tech, like a truck carrying crates. On tank tracks.
+
+0x15166860 Vehículo de transporte de cajas de cristales
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 4, Variation 5
+# Character comments: Standing by Reactor #1
+
+0xDCFDA9C4 En cuanto el enemigo no esté mirando, ¡me largo!
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 2, Variation 1
+
+0x3B2198C0 ¡Este panel! Está bien...
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 5, Variation 3
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF5A42 Bólido de cristales + Yo = ¡Una pasada!
+
+# Character chatter (Character: "colony_reactor"): Act 5, Variation 3
+
+0xC0D8CA42 ¿Dónde está la conservacionista? ¿Se ha vuelto a largar de la ciudad?
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 3, Variation 5
+# Character comments: Giant building Billboards used to define the Freeway area…
+
+0x1653E944 Mañana, mañana...
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 2, Variation 2
+
+0x3B2198C1 Aquí no hay ninguna bomba...
+
+# Character name (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt")
+# Comments: Same as in Zealot mission. Dome Folk
+
+0x0028A860 Klak
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 2, Variation 1
+# Character comments: personality transplant
+
+0x0028A8C0 ¡Los KLAK! Esta vez dicho tragando saliva...
+
+# Character name (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld")
+# Comments: A big holographic banner promoting the Test Town (Congratulations!)
+
+0x7492D860 Cartel promocional
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 2, Variation 2
+# Character comments: Ah, now this is the Criggens I remember!
+
+0xDDB428C1 La energía de la ciudad ha sido saboteada, ¡los makkoys están como locos!
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 3, Variation 4
+# Character comments: Giant building Billboards used to define the Freeway area…
+
+0x1653E943 Siempre hay un mañana...
+
+# Character chatter (Character: "energy_bomb", model: "ep1_gmp_bomb"): Act 2, Variation 1
+# Comments: Collect bombs…
+
+0x6BE248C0 ¡Una bomba de energía!
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 2, Variation 3
+
+0x3B2198C2 No me debería preocupar de los paneles...
+
+# Character talk dialog (Character: "energy_stick", model: "ep1_hh_staff3"): Act 5, Variation 5
+# Character comments: A crystick - a weapon developed by the enemy…
+
+0x7DD54A24 Seguiremos desarrollando nuestra fuente de energía de cristales para el bien de la galaxia... y detendremos a esos "conservacionistas", quienquiera que sean...
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 1, Variation 3
+# Character comments: A Scientist stands near the entrance to Test Town
+
+0xFE9B6822 La ciudad está totalmente alimentada por los tres reactores de cristales de la base de la península. Todo, desde el edificio más grande hasta el electrodoméstico de cocina más pequeño. ¡Asombroso!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 2, Variation 3
+# Character comments: Dressed in Scientist gear.
+
+0xDCFDA8C2 ¡Nunca me detendrás!
+
+# Character chatter (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 2, Variation 2
+# Character comments: Replace FIVE (or TBD) panels around town with these broken panels…
+
+0xBA1538C1 ¡Esto es peligroso, los niveles señalan un pico!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 1, Variation 5
+# Character comments: From Zealot. Obsessed with killing. But that was then
+
+0x67B6E844 Si ALGUNA VEZ te he amenazado con matarte, lo siento. ¡Soy un fanático reformado!
+
+# Character chatter (Character: "energy_bomb", model: "ep1_gmp_bomb"): Act 2, Variation 4
+
+0x6BE248C3 Las bombas están cerca de las consolas que están remachando.
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 1, Variation 5
+# Character comments: All lined up nice in pretty rows. Each row is backed by a computer console…
+
+0xB0AB3844 ¡Cada hilera tiene su propia central informática de pruebas!
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 5, Variation 1
+
+0x5AD53A40 La cúpula de la colonia.
+
+# Character chatter (Character: "traffic_sign", model: "Traffic Sign_@building_editorModel!0x0772ec6d.bld"): Act 3, Variation 2
+# Character comments: Are ARROWS placed along the route - they actually show the player where to go…
+
+0x8C0D8941 Está bloqueando mi ruta...
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 1, Variation 5
+# Character comments: Walking about working…
+
+0x8170A844 Es un gran trabajo. Nunca hay NADA que reparar.
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 2, Variation 5
+# Character comments: Dressed in Scientist gear.
+
+0xDCFDA8C4 ¿Encontré todas las bombas?
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 5, Variation 2
+
+0x5AD53A41 ¡Haré que esta colonia vuelva a ser segura!
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 3, Variation 5
+# Comments: (if No conservationist inside - otherwise, use Conservationist dialogue)
+
+0x79FF5944 ¡Sigue a ese coche!
+
+# Character chatter (Character: "reactor_key", model: "key"): Act 5, Variation 1
+# Character comments: Grunts give these - player probably needs one more
+
+0x356C5A40 Una llave de reactor
+
+# Act 4 name
+# Act comments: Beyond the Colony dome lie THREE Crystal Reactors. In between - lots of billboard buildings and crates. The Conservationist is at one reactor and you can’t get past her…
+
+0x00000026 ¡Estabilizarse o morir!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 2, Variation 4
+# Character comments: finding the player
+
+0x8170A8C3 ¡Y yo que creía que este lugar era perfecto!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 2, Variation 1
+# Character comments: Dressed in Scientist gear.
+
+0xDCFDA8C0 ¡La conservacionista!
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 5, Variation 3
+
+0x5AD53A42 Al estabilizar los reactores se protege la cúpula.
+
+# Character chatter (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 2, Variation 1
+# Character comments: Replace FIVE (or TBD) panels around town with these broken panels…
+
+0xBA1538C0 ¡Un panel roto!
+
+# Character name (Character: "reactor_key", model: "key")
+# Comments: Used to shut down the Reactors
+
+0x356C5860 Llave
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 2, Variation 4
+
+0x1A0668C3 ¡Los científicos son insectos que hay que aplastar!
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 1, Variation 2
+# Character comments: From Zealot. Remember the Klak HATE the Criggens!
+
+0x0028A841 He oído que son guerreros feroces...
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 1, Variation 5
+# Character comments: From Zealot. They used to hate the Klak!
+
+0xDDB42844 Tendría que poner la energía de cristales en mi lista de cosas buenas ligeramente mejores que los klak, ¡pero por muy poco!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 2, Variation 3
+# Character comments: finding the player
+
+0x8170A8C2 ¡Las consolas están averiadas!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 4, Variation 1
+# Character comments: Slow, blocked by Crystal Crates
+
+0x151669C0 Esos elevadores son peligrosos.
+
+# Character name (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt")
+# Comments: Same as in Zealot mission. Dome Folk
+
+0xDDB42860 Criggen
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 1, Variation 3
+# Character comments: From Zealot. They used to hate the Klak!
+
+0xDDB42842 Disculpas, voy a compartir una comida con mis amigos klak...
+
+# Character name (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld")
+# Comments: The centerpiece of the Test Town
+
+0x57C09860 Lugar de lanzamiento
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 1, Variation 2
+# Character comments: From Zealot. They used to hate the Klak!
+
+0xDDB42841 ¡Esta ciudad necesita más klak!
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 2, Variation 3
+# Character comments: Ah, now this is the Criggens I remember!
+
+0xDDB428C2 ¡Malditos klak! ¡Pagaréis vuestros insultos!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 5, Variation 1
+# Character comments: finding the player
+
+0x8170AA40 Estos técnicos son unos tipos persistentes.
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 2, Variation 3
+
+0x57C098C2 Parece que las consolas averiadas afectan a los edificios, los vehículos, los ciudadanos...
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 4, Variation 2
+# Character comments: More billboard buildings around the Colony Dome
+
+0x1653E9C1 Mañana fue ayer. Solo existe el hoy...
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 4, Variation 1
+# Character comments: finding the player
+
+0x8170A9C0 ¡Técnicos heroicos!
+
+# 'Adventure won' message
+# Comments: This mission could be on an overall Timer?
+
+0x00000011 Ensayópolis se ha salvado, y todo volverá a la normalidad. La búsqueda de la tecnología de futuro actual prosigue, y un FCNC (es decir, un futuro de cristal no contaminante) está en tus manos. ¡Que el éxito continúe!... Supongo que es un poco decepcionante que ELLA se haya vuelto a escapar... pero, bueno, siempre habrá otra oportunidad.
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 2, Variation 2
+
+0x1A0668C1 Hemos mirado los bandos y hemos escogido.
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 1, Variation 2
+# Character comments: A Scientist stands near the entrance to Test Town
+
+0xFE9B6821 ¡Mira a tu alrededor! ¡Verás los resultados de tu increíble descubrimiento! Me llamo Kay'l Udal, soy científico jefe y te guiaré hacia las maravillas que nos esperan...
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 2, Variation 2
+
+0x57C098C1 Hay una clase de energía diferente en el aire...
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 5, Variation 3
+# Character comments: finding the player
+
+0x8170AA42 Tenemos las llaves de los reactores, si las necesitas.
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 2, Variation 2
+# Character comments: personality transplant
+
+0x0028A8C1 Han vuelto... Debe de ser por las consolas averiadas...
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 2, Variation 3
+
+0x1A0668C2 Toma partido, hermana mía. ¡Lucharemos!
+
+# Act 5 name
+# Act comments: The player goes to confront the conservationist, but she has gone, leaving only her weapon behind…
+
+0x00000028 ¿La última batalla de la conservacionista...?
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 2, Variation 1
+
+0x57C098C0 La plaza de la ciudad...
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 3, Variation 3
+# Character comments: Giant building Billboards used to define the Freeway area…
+
+0x1653E942 Mañana será otro día...
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 5, Variation 2
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF5A41 ¿Crees que alguien se dará cuenta si teletransporto éste?
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 5, Variation 1
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF5A40 Adorable y reluciente bólido...
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 2, Variation 1
+
+0x1A0668C0 Las masaari parecen enfadas. ¡Hermosas, pero enfadadas!
+
+# Act 3 description
+# Act comments: The player must get from Test Town to The Colony Dome  via the peninsula. The peninsula is a dangerous freeway-like area and some of the vehicles are actually after the player…
+
+0x00000025 Persigue a la conservacionista por la península hasta llegar a la cúpula de la colonia.
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 3, Variation 1
+# Comments: (if No conservationist inside - otherwise, use Conservationist dialogue)
+
+0x79FF5940 El bólido va directo a la colonia...
+
+# Character chatter (Character: "energy_bomb", model: "ep1_gmp_bomb"): Act 2, Variation 5
+
+0x6BE248C4 ¡Bomba de energía!
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 2, Variation 3
+# Character comments: Lying dead by the entrance…
+
+0xFE9B68A2 ¡Y su llave del reactor de energía!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 4, Variation 2
+# Character comments: finding the player
+
+0x8170A9C1 ¡Hemos venido lo más rápido que hemos podido!
+
+# Character chatter (Character: "crystal_crate", model: "crate"): Act 4, Variation 1
+# Character comments: These are all around the route between the Colony Dome and the Colony Reactors - slight maze. Use them to keep away from the lifters…
+
+0xA28A59C0 Cráteres llenos de cristales
+
+# Character chatter (Character: "energy_bomb", model: "ep1_gmp_bomb"): Act 2, Variation 2
+
+0x6BE248C1 ¡Tengo que cogerla y desactivarla!
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 1, Variation 4
+# Character comments: A Scientist stands near the entrance to Test Town
+
+0xFE9B6823 Nuestro prototipo de vehículo, el bólido de cristales, está listo y realizando recorridos de prueba por toda la península... Nuestros ciudadanos de prueba están en su lugar... Y... bueno, no es muy científico, pero...
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 3, Variation 5
+# Character comments: Ideally, she would swap out with the Crystal Speedster - but how to do it without the player seeing it?
+# Comments: (if running)
+
+0xDCFDA944 ¡ARRIBA LOS CONSERVACIONISTAS!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 3, Variation 4
+# Character comments: Slow but dangerous
+
+0x15166943 Tengo que huir, son más lentos que yo...
+
+# Character chatter (Character: "reactor_key", model: "key"): Act 4, Variation 3
+# Character comments: Grunts give these, but there is also one on the ground
+
+0x356C59C2 ¡Con esto puedo estabilizar un reactor!
+
+# Character chatter (Character: "energy_bomb", model: "ep1_gmp_bomb"): Act 2, Variation 3
+
+0x6BE248C2 ¡Soy científico! ¡Sé cómo desactivar esta bomba!
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 2, Variation 5
+
+0x1A0668C4 ¡Al ataque, hermanas, al ataque!
+
+# Character chatter (Character: "road_block", model: "Road Block_@building_editorModel!0x077583b0.bld"): Act 3, Variation 2
+# Character comments: These block routes on the peninsula freeway…
+
+0x4D6F1941 Tendré que rodearlo.
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 2, Variation 5
+# Character comments: Ah, now this is the Criggens I remember!
+
+0xDDB428C4 ¡Vamos, lacayos de Spode, venga!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 3, Variation 2
+# Character comments: Slow but dangerous
+
+0x15166941 ¿Por qué me está siguiendo?
+
+# Character chatter (Character: "traffic_sign", model: "Traffic Sign_@building_editorModel!0x0772ec6d.bld"): Act 3, Variation 3
+# Character comments: Are ARROWS placed along the route - they actually show the player where to go…
+
+0x8C0D8942 ¿Debería seguir las flechas?
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 1, Variation 3
+# Character comments: All lined up nice in pretty rows. Each row is backed by a computer console…
+
+0xB0AB3842 ¡Perfecto!
+
+# Character name (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl")
+# Comments: Vehicle. Racier model, faster. Prototype - uses CCT (Clean Crystal Technology) Float a little
+
+0x79FF5860 Bólido
+
+# Adventure name
+
+0x00000002 Una ciudad llamada "Ensayópolis"
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 1, Variation 5
+# Character comments: From Zealot. Remember the Klak HATE the Criggens!
+
+0x0028A844 ¿Por qué me siento tan bien...?
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 4, Variation 3
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF59C2 Los coches están muy bien, pero lo que necesitamos son cohetes propulsados con cristales.
+
+# Character name (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt")
+# Comments: Lower class creature in same 'overalls' who do the heavy work.
+
+0x8170A860 Técnicos de la ciudad
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 3, Variation 3
+# Character comments: Ideally, she would swap out with the Crystal Speedster - but how to do it without the player seeing it?
+# Comments: (if running)
+
+0xDCFDA942 ¡Poned los reactores A TOPE!
+
+# Character name (Character: "energy_bomb", model: "ep1_gmp_bomb")
+# Comments: These bombs are used to sabotage the Test Town
+
+0x6BE24860 Bomba de energía
+
+# Character talk dialog (Character: "energy_stick", model: "ep1_hh_staff3"): Act 5, Variation 3
+# Character comments: A crystick - a weapon developed by the enemy…
+
+0x7DD54A22 Déjame ver. La etiqueta pone que es una "crisporra" de Malos S.A.
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 5, Variation 5
+# Character comments: finding the player
+
+0x8170AA44 ¡Todo vuelve al cristal, limpio y perfecto!
+
+# Act 4 description
+# Act comments: Beyond the Colony dome lie THREE Crystal Reactors. In between - lots of billboard buildings and crates. The Conservationist is at one reactor and you can’t get past her…
+
+0x00000027 Debes estabilizar los reactores de cristales, pero no te metas con la conservacionista: es peligrosa.
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 4, Variation 5
+# Character comments: finding the player
+
+0x8170A9C4 ¡Coge las llaves y apaga los reactores!
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 2, Variation 1
+# Character comments: Lying dead by the entrance…
+
+0xFE9B68A0 ¡Científico Udal! ¡El científico de la ciudad está muerto!
+
+# Character name (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld")
+# Comments: Panels on the other sides of the Test Houses, used to control the test environment - like walls behind the houses
+
+0x3B219860 Panel informático
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 4, Variation 4
+# Character comments: Standing by Reactor #1
+
+0xDCFDA9C3 Haz lo que quieras con los otros reactores: ¡a éste no te acercarás!
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 1, Variation 3
+# Character comments: From Zealot. Cold and Amazonian, or so we think…
+
+0x1A066842 Las masaari nunca tomamos partido. ¡Amamos a todos por igual!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 1, Variation 3
+# Character comments: From Zealot. Obsessed with killing. But that was then
+
+0x67B6E842 Esta ciudad hace que no quiera matar. ¡Ahora amo a todo el mundo!
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 1, Variation 1
+# Character comments: All lined up nice in pretty rows. Each row is backed by a computer console…
+
+0xB0AB3840 Hilera tras hilera de casas perfectamente limpias...
+
+# Character chatter (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 2, Variation 3
+# Character comments: Replace FIVE (or TBD) panels around town with these broken panels…
+
+0xBA1538C2 ¡Este panel podría explotar en cualquier momento! ¡Tengo que encontrar las bombas de energía!
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 4, Variation 4
+# Character comments: More billboard buildings around the Colony Dome
+
+0x1653E9C3 El mañana SERÁ más brillante... ¡yo me ocuparé de ello!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 5, Variation 4
+# Character comments: finding the player
+
+0x8170AA43 ¿Que haré con esta llave de recambio de los reactores?
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 1, Variation 5
+
+0x3B219844 ¡ÉSTE es un lugar de adoración para los científicos como yo!
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 4, Variation 2
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF59C1 Debo admitirlo, es un vehículo muy bonito.
+
+# Character talk dialog (Character: "energy_stick", model: "ep1_hh_staff3"): Act 5, Variation 1
+# Character comments: A crystick - a weapon developed by the enemy…
+
+0x7DD54A20 ¿Qué es esto? ¿Y dónde está la conservacionista?
+
+# Act 3 name
+# Act comments: The player must get from Test Town to The Colony Dome  via the peninsula. The peninsula is a dangerous freeway-like area and some of the vehicles are actually after the player…
+
+0x00000024 ¿Cómo cruzó la carretera la científica?
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 1, Variation 4
+
+0x3B219843 El panel monitoriza hasta el último detalle de Ensayópolis...
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 4, Variation 2
+# Character comments: Slow, blocked by Crystal Crates
+
+0x151669C1 Tengo que quitarme de su camino.
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 2, Variation 1
+# Character comments: finding the player
+
+0x8170A8C0 ¡Los técnicos se están asustando!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 5, Variation 2
+# Character comments: finding the player
+
+0x8170AA41 Eh, ¿te quedarás y serás el nuevo científico de la ciudad?
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 4, Variation 3
+# Character comments: finding the player
+
+0x8170A9C2 ¡Aquí! ¡Tenemos las llaves de los reactores!
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 1, Variation 3
+
+0x3B219842 ¡Perfectamente alimentados por cristales rojos no contaminantes!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 3, Variation 2
+# Character comments: Ideally, she would swap out with the Crystal Speedster - but how to do it without the player seeing it?
+# Comments: (if running)
+
+0xDCFDA941 ¡Ja, ja, ja, ja, ja, ja, ja, JA! ¡Ja, ja, ja! ¡Ja! ¡Ja, ja!
+
+# Character talk dialog (Character: "energy_stick", model: "ep1_hh_staff3"): Act 5, Variation 2
+# Character comments: A crystick - a weapon developed by the enemy…
+
+0x7DD54A21 Se ha largado... pero se ha dejado esto. Parece un arma...
+
+# Character name (Character: "colony_reactor")
+# Comments: These are the reactors by the Colony Dome (3)
+
+0xC0D8C860 Reactor de la colonia
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 2, Variation 4
+# Character comments: personality transplant
+
+0x0028A8C3 ¡Mata! ¡MATA!
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 2, Variation 4
+
+0x79FF58C3 ¡Tengo que llegar a la península!
+
+# Character chatter (Character: "crystal_crate", model: "crate"): Act 4, Variation 2
+# Character comments: These are all around the route between the Colony Dome and the Colony Reactors - slight maze. Use them to keep away from the lifters…
+
+0xA28A59C1 Los elevadores no pueden avanzar a través de estos obstáculos...
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 1, Variation 2
+
+0x3B219841 Esos paneles mantienen a Ensayópolis en marcha...
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 2, Variation 5
+
+0xB0AB38C4 Debo mantenerme lejos de los ciudadanos...
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 2, Variation 4
+# Character comments: Ah, now this is the Criggens I remember!
+
+0xDDB428C3 ¡Maldito klak!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 3, Variation 3
+# Character comments: Slow but dangerous
+
+0x15166942 ¡Los elevadores son peligrosos!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 4, Variation 3
+# Character comments: Slow, blocked by Crystal Crates
+
+0x151669C2 Mantén la calma, ¡ponte a cubierto!
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 2, Variation 3
+# Character comments: personality transplant
+
+0x0028A8C2 ¡Acaba con los makkoys!
+
+# Character chatter (Character: "computer_panel", model: "Rocket Panel_@building_editorModel!0x0772ec6b.bld"): Act 1, Variation 1
+
+0x3B219840 Paneles de ordenador. Uno por cada hilera.
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 4, Variation 1
+
+0x5AD539C0 La cúpula de la colonia.
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 2, Variation 4
+
+0xB0AB38C3 ¡Sabotaje!
+
+# Character chatter (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 2, Variation 5
+# Character comments: Replace FIVE (or TBD) panels around town with these broken panels…
+
+0xBA1538C4 ¡Inutilizados! Si encuentro las bombas, podría dispersarlos...
+
+# Character name (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt")
+# Comments: Techie creatures in charge of the launch. Wear branded overalls or similar. Working together for ‘Clean Space’…
+
+0xFE9B6860 Científico de la ciudad
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 2, Variation 2
+
+0x79FF58C1 Si fuera un saboteador, eso es lo que usaría para recorrer la península...
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 1, Variation 5
+# Character comments: A Scientist stands near the entrance to Test Town
+
+0xFE9B6824 PASA ALGO con la energía que irradian los cristales: mira las razas que hemos elegido como sujetos de prueba. ¡Todos belicosos y viviendo en perfecta armonía! ¡Adelante, echa un vistazo! ¡Disfruta!
+
+# Act 2 name
+# Act comments: There are Bombs to be deactivated! The Player must save Test Town before it blows. Everyone starts acting strange!
+
+0x00000022 Sabotaje en Ensayópolis
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 2, Variation 3
+
+0x79FF58C2 ¡Un posible vehículo de huida para un saboteador!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 1, Variation 1
+# Character comments: Walking about working…
+
+0x8170A840 Técnicos de la ciudad
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 1, Variation 4
+# Character comments: From Zealot. Cold and Amazonian, or so we think…
+
+0x1A066843 Necesito un hombre...
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 4, Variation 3
+
+0x5AD539C2 ¿Dónde está la conservacionista?
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 1, Variation 2
+
+0x7492D841 No es el nombre más atractivo, pero supongo que es mejor que PROTOTIPO DE PRUEBA 47B...
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 1, Variation 2
+# Character comments: Walking about working…
+
+0x8170A841 Hola. Bienvenido a Ensayópolis. Que lo disfrutes.
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 3, Variation 3
+# Character comments: The Colony Dome is at the end of the peninsula. Behind it, 3 crystal Reactors stand in a rough fanned 'tail'…
+
+0x5AD53942 ¡La conservacionista se ha dirigido aquí!
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 2, Variation 3
+
+0x927E68C2 ¡La energía de los cristales está contaminada!
+
+# Character chatter (Character: "traffic_sign", model: "Traffic Sign_@building_editorModel!0x0772ec6d.bld"): Act 3, Variation 1
+# Character comments: Are ARROWS placed along the route - they actually show the player where to go…
+
+0x8C0D8940 Una señal de tráfico...
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 3, Variation 3
+# Comments: (if No conservationist inside - otherwise, use Conservationist dialogue)
+
+0x79FF5942 Su energía de cristales lo atrae de vuelta a la fuente...
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 3, Variation 1
+
+0x927E6940 ¡Estos coches son peligrosos!
+
+# 'Adventure lost' message
+
+0x00000012 Has fracasado. Y no es la primera vez, ¿verdad? No, ya me lo imaginaba. Científico, mejor que vayas convirtiendo algunas de esas hipótesis tan vagas y poco consistentes en conclusiones... y del tipo "final feliz", ¿estamos?
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 4, Variation 2
+
+0x5AD539C1 Los reactores de los cristales están detrás de la cúpula.
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 1, Variation 3
+
+0x7492D842 ¡Bienvenido al FUTURO! ¡Ensayópolis es la primera comunidad alimentada en un 100% con reactores de cristales!
+
+# Character name (Character: "road_block", model: "Road Block_@building_editorModel!0x077583b0.bld")
+# Comments: Some kind of divider for the road along the peninsula
+
+0x4D6F1860 Bloqueo
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 3, Variation 1
+# Character comments: Giant building Billboards used to define the Freeway area…
+
+0x1653E940 Una valla publicitaria holográfica gigante...
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 2, Variation 1
+
+0xB0AB38C0 La atmósfera entera ha cambiado...
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 2, Variation 1
+
+0x79FF58C0 Un bólido: es lo más rápido que se ve por aquí...
+
+# Character name (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt")
+# Comments: Superior alien being, her hair looks a bit like tendrils. Different outfit, wearing a Scientist outfit (same as the Town Scientist)
+
+0xDCFDA860 Doctora Loctopus
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 4, Variation 1
+# Character comments: More billboard buildings around the Colony Dome
+
+0x1653E9C0 Más vallas publicitarias...
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 3, Variation 2
+
+0x927E6941 ¡Fallo! ¡Falta realizar prueba en carretera!
+
+# Character talk dialog (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 1, Variation 1
+
+0xBA153820 ¡Este panel está roto! Esto no puede ser...
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 1, Variation 1
+# Character comments: From Zealot. They used to hate the Klak!
+
+0xDDB42840 Un makkoy, ¿no ODIAN a los klak?
+
+# Character chatter (Character: "reactor_key", model: "key"): Act 4, Variation 1
+# Character comments: Grunts give these, but there is also one on the ground
+
+0x356C59C0 ¡La llave de un reactor!
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 3, Variation 3
+
+0x927E6942 ¡Los coches de cristales se lanzan a la autopista!
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 1, Variation 1
+
+0x7492D840 ¡BIENVENIDO A ENSAYÓPOLIS!
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 2, Variation 5
+# Character comments: Lying dead by the entrance…
+
+0xFE9B68A4 Primero tienen que llegar HASTA los reactores de la península. No soy ningún héroe de acción, ¡pero no permitiré que eso ocurra! ¡Hay que seguir el rastro del asesino!
+
+# Character name (Character: "energy_stick", model: "ep1_hh_staff3")
+# Comments: A branded energy weapon with a single red crystal on top. Used to break things. Pick Up
+
+0x7DD54860 Crisporra
+
+# Act 2 description
+# Act comments: There are Bombs to be deactivated! The Player must save Test Town before it blows. Everyone starts acting strange!
+
+0x00000023 Alguien ha puesto las bombas. ¡Encuéntralas y desactívalas todas!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 1, Variation 2
+# Character comments: From Zealot. Obsessed with killing. But that was then
+
+0x67B6E841 Fanáticos del "eDqV". ¡Xenófobos sedientos de sangre!
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 2, Variation 2
+
+0xB0AB38C1 La energía ha alcanzado un pico, ¡todo se ha descontrolado!
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 1, Variation 4
+
+0x79FF5843 No contaminantes, no dejan carbono, ¡una energía perfecta de cristales!
+
+# Character talk dialog (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 1, Variation 3
+
+0xBA153822 Qué extraño. Parece que haya sido inutilizado por algún tipo de dispositivo... ¡Una bomba de energía!
+
+# Character talk dialog (Character: "energy_stick", model: "ep1_hh_staff3"): Act 5, Variation 4
+# Character comments: A crystick - a weapon developed by the enemy…
+
+0x7DD54A23 Parece que el enemigo está destinando sus recursos de cristal a armamento. No podemos dejar que desarrollen esto. ¿Quién sabe los horrores inimaginables que podría traer...?
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 1, Variation 1
+
+0x57C09840 A esto lo llaman la plaza de la ciudad...
+
+# Adventure description
+
+0x00000003 Inspecciona el prototipo de ciudad, la primera comunidad COMPLETAMENTE alimentada por reactores de cristales...
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 1, Variation 3
+# Character comments: Walking about working…
+
+0x8170A842 Mira, una pelusilla. Te la sacaré, distinguido científico.
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 1, Variation 3
+# Character comments: From Zealot. Remember the Klak HATE the Criggens!
+
+0x0028A842 ¡Qué hermoso día hace en Ensayópolis!
+
+# Character talk dialog (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 1, Variation 2
+
+0xBA153821 ¡Es peligroso! Los niveles de energía están disparados. Suerte que es un solo panel, porque solo con éste bastaría para causar una buena explosión...
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 1, Variation 2
+
+0x57C09841 ¡Qué bonito! No me extraña que haya armonía aquí.
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 3, Variation 4
+# Character comments: The Colony Dome is at the end of the peninsula. Behind it, 3 crystal Reactors stand in a rough fanned 'tail'…
+
+0x5AD53943 ¡Tengo que salvar esos reactores!
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 1, Variation 4
+
+0x7492D843 ¡ENSAYÓPOLIS, el futuro hoy!
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 1, Variation 4
+# Character comments: From Zealot. They used to hate the Klak!
+
+0xDDB42843 Siento calidez, rojez y... ¡FELICIDAD!
+
+# Character talk dialog (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 1, Variation 5
+
+0xBA153824 Tengo que encontrar la bomba. ¡Espero que solo haya una!
+
+# Character chatter (Character: "town_square", model: "Launch Site A_@building_editorModel!0x0772ec6f.bld"): Act 1, Variation 3
+
+0x57C09842 Es increíble pensar que todo esto está alimentado por los cristales rojos.
+
+# Character chatter (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 2, Variation 4
+# Character comments: Replace FIVE (or TBD) panels around town with these broken panels…
+
+0xBA1538C3 Están inutilizados por bombas de energía. ¡Tengo que encontrarlas!
+
+# Character name (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld")
+# Comments: huge billboard promoting 'A Town for Tommorrow!' and showing a picture of the town with a speedster in front
+
+0x1653E860 Valla publicitaria
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 1, Variation 1
+
+0x79FF5840 ¡Un bólido de cristales! ¡Qué bonito!
+
+# Character talk dialog (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld"): Act 1, Variation 4
+
+0xBA153823 ¡Maldición! Los niveles están aumentando. ¡La bomba de energía debe de estar aquí, en alguna parte!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 3, Variation 5
+# Character comments: Slow but dangerous
+
+0x15166944 ¡Me están persiguiendo mis propios cristales!
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 3, Variation 2
+# Character comments: Giant building Billboards used to define the Freeway area…
+
+0x1653E941 "La ciudad del mañana"... ¡Ja!
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 4, Variation 1
+# Character comments: The Speedster is parked at the Reactor #1
+
+0x79FF59C0 El bólido de cristales.
+
+# Character chatter (Character: "colony_reactor"): Act 4, Variation 1
+
+0xC0D8C9C0 Un reactor de cristales...
+
+# Character chatter (Character: "reactor_key", model: "key"): Act 4, Variation 2
+# Character comments: Grunts give these, but there is also one on the ground
+
+0x356C59C1 ¿Se le habrá caído esto a la conservacionista?
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 4, Variation 4
+# Character comments: finding the player
+
+0x8170A9C3 Hemos encontrado un juego de llaves de repuesto.
+
+# Character name (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld")
+# Comments: Houses forming the Test Town
+
+0xB0AB3860 Casas de pruebas
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 2, Variation 1
+
+0x927E68C0 ¡Los coches de cristales están fallando!
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 5, Variation 3
+
+0x15166A42 Estabilizar reactores = Normalidad de los elevadores + Ninguna muerte súbita...
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 1, Variation 3
+
+0x79FF5842 ¡Quiero uno de ésos!
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 1, Variation 2
+# Character comments: From Zealot. Cold and Amazonian, or so we think…
+
+0x1A066841 Hola, ¿qué tal? Me llamo Manana y me gustas mucho...
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 5, Variation 2
+
+0x15166A41 ¡Buf!
+
+# Character name (Character: "crystal_crate", model: "crate")
+# Comments: Like an energy pod - a small crate-sized glass container with crystals inside
+
+0xA28A5860 Grupo de cristales
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 1, Variation 2
+
+0x79FF5841 Son lo último, los están probando mientras hablamos...
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 3, Variation 1
+# Character comments: Slow but dangerous
+
+0x15166940 Un elevador de cristales, ¡se ha vuelto loco!
+
+# Character chatter (Character: "colony_reactor"): Act 4, Variation 3
+
+0xC0D8C9C2 ¿La conservacionista tiene una llave, o la dejó caer?
+
+# Character chatter (Character: "billboard", model: "Billboard_@building_editorModel!0x077583b2.bld"): Act 4, Variation 3
+# Character comments: More billboard buildings around the Colony Dome
+
+0x1653E9C2 "Hoy" es el "mañana" de "ayer".
+
+# Character chatter (Character: "crystal_lifter", model: "Crystal Lifter_@vehicle_editorModel!0x0770b703.vcl"): Act 5, Variation 1
+
+0x15166A40 El elevador se ha detenido.
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 2, Variation 2
+# Character comments: Dressed in Scientist gear.
+
+0xDCFDA8C1 ¡ELLA es la saboteadora!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 2, Variation 5
+
+0x67B6E8C4 ¡MATA! Mata, mata, mata, matanza, ¡MATA!
+
+# Character chatter (Character: "colony_reactor"): Act 4, Variation 2
+
+0xC0D8C9C1 Necesito una llave del reactor para estabilizarlos...
+
+# Act 5 description
+# Act comments: The player goes to confront the conservationist, but she has gone, leaving only her weapon behind…
+
+0x00000029 Frustra los planes de la conservacionista completando los reactores de cristales.
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 2, Variation 2
+
+0x927E68C1 ¡Mejor será no cruzarse en su camino!
+
+# Act 1 name
+# Act comments: Start by entering under the Banner into the Prototype test town and meet the Scientist. The Town is running perfectly, a haven of peace powered by crystals… The player will continue to enjoy Test Town until he finds…A BOMB!
+
+0x00000020 ¡Bienvenido a ENSAYÓPOLIS!
+
+# Character name (Character: "computer_panel_broken", model: "Rocket Panel Broken_@building_editorModel!0x078feae6.bld")
+# Comments: Sabotaged versions of the above…
+
+0xBA153860 Panel informático
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 2, Variation 4
+
+0x67B6E8C3 Mata... Mata... ¡Mata!
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 2, Variation 4
+
+0x7492D8C3 ¡ENSAYÓPOLIS, CIENCIA PARA TODOS!
+
+# Character chatter (Character: "colony_reactor"): Act 4, Variation 5
+
+0xC0D8C9C4 Tengo que estabilizar TODOS los reactores de cristales.
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 1, Variation 1
+# Character comments: From Zealot. Remember the Klak HATE the Criggens!
+
+0x0028A840 ¡Los KLAK!
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 1, Variation 4
+
+0x927E6843 Un coche para el futuro...
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 1, Variation 1
+# Character comments: From Zealot. Obsessed with killing. But that was then
+
+0x67B6E840 No me lo puedo creer: ¡un FANÁTICO!
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 3, Variation 2
+# Comments: (if No conservationist inside - otherwise, use Conservationist dialogue)
+
+0x79FF5941 Este bólido parece conocer el camino...
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 2, Variation 3
+
+0x67B6E8C2 ¡Mata!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 2, Variation 4
+# Character comments: Dressed in Scientist gear.
+
+0xDCFDA8C3 ¿Dónde aparqué ese bólido?
+
+# Character chatter (Character: "colony_reactor"): Act 4, Variation 4
+
+0xC0D8C9C3 Los reactores de la colonia están fallando. Hay que estabilizarlos.
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 2, Variation 1
+
+0x7492D8C0 ¡BIENVENIDO A ENSAYÓPOLIS!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 1, Variation 4
+# Character comments: Walking about working…
+
+0x8170A843 ¡ME ENCANTA mi trabajo!
+
+# Character chatter (Character: "road_block", model: "Road Block_@building_editorModel!0x077583b0.bld"): Act 3, Variation 1
+# Character comments: These block routes on the peninsula freeway…
+
+0x4D6F1940 ¡Un bloqueo en la carretera!
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 4, Variation 2
+# Character comments: Standing by Reactor #1
+
+0xDCFDA9C1 ¡Creo que tendré que usar mi nueva arma crisporra!
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 2, Variation 2
+
+0x67B6E8C1 ¿Mata?
+
+# 'Adventure start' message
+
+0x00000010 ¡La fusión de cristales ha sido un éxito importante! Acércate al planeta e inspecciona el prototipo de ciudad, la primera comunidad COMPLETAMENTE alimentada por reactores de cristales...
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 2, Variation 4
+# Character comments: Lying dead by the entrance…
+
+0xFE9B68A3 ¡Con esa llave, alguien podría cargar la energía de los reactores y volar este lugar por completo!
+
+# Character name (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt")
+# Comments: Same as in Zealot mission. Dome Folk
+
+0x67B6E860 Fanático
+
+# Character chatter (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld"): Act 3, Variation 2
+# Character comments: The Colony Dome is at the end of the peninsula. Behind it, 3 crystal Reactors stand in a rough fanned 'tail'…
+
+0x5AD53941 Tengo que ir hasta la cúpula y luego podré buscar los reactores...
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 1, Variation 2
+
+0x927E6841 Éste no es que sea un bólido, pero corre bastante...
+
+# Character chatter (Character: "tgwwc_fanatic", model: "Heretic Fanatic_@creature_editorModel!0x074dfb58.crt"): Act 2, Variation 1
+
+0x67B6E8C0 Ah, ¡ÉSTE sí que es un fanático!
+
+# Character name (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt")
+# Comments: Same as in Zealot mission. Dome Folk
+
+0x1A066860 Las masaari
+
+# Character chatter (Character: "dome_criggen", model: "Makkoy Farmer_@creature_editorModel!0x074cad82.crt"): Act 2, Variation 1
+# Character comments: Ah, now this is the Criggens I remember!
+
+0xDDB428C0 Sí, estaba en lo cierto: ¡los makkoys ODIAN a los klak!
+
+# Character chatter (Character: "town_grunt", model: "Town Technician_@creature_editorModel!0x0770b7bb.crt"): Act 2, Variation 5
+# Character comments: finding the player
+
+0x8170A8C4 ¡He visto una BOMBA!
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 2, Variation 3
+
+0x7492D8C2 ¡BIENVENIDO! ¡DISFRUTE!
+
+# Character name (Character: "colony_dome", model: "Colony Dome_@building_editorModel!0x07704c38.bld")
+# Comments: Habitat
+
+0x5AD53860 Cúpula de la colonia
+
+# Character chatter (Character: "road_block", model: "Road Block_@building_editorModel!0x077583b0.bld"): Act 3, Variation 3
+# Character comments: These block routes on the peninsula freeway…
+
+0x4D6F1942 El cristal se rompe...
+
+# Character chatter (Character: "conservationist", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 4, Variation 3
+# Character comments: Standing by Reactor #1
+
+0xDCFDA9C2 ¡Atrás! ¡Tengo un arma peligrosa!
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 1, Variation 1
+# Character comments: From Zealot. Cold and Amazonian, or so we think…
+
+0x1A066840 Masaari: una raza bella, aunque fría, de guerreras azmononias...
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 1, Variation 3
+
+0x927E6842 ¡Los coches funcionan de forma limpia con la pura energía de los cristales!
+
+# Character name (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl")
+# Comments: Vehicle Prototype - uses CCT (Clean Crystal Technology) Float a little
+
+0x927E6860 Coche alimentado por cristales
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 1, Variation 2
+# Character comments: All lined up nice in pretty rows. Each row is backed by a computer console…
+
+0xB0AB3841 ¡Alimentadas por energía perfectamente limpia!
+
+# Character chatter (Character: "launch_banner", model: "Launch Banner_@building_editorModel!0x07762b1a.bld"): Act 2, Variation 2
+
+0x7492D8C1 ¡ESPEREMOS QUE DISFRUTE DE SU ESTANCIA!
+
+# Character chatter (Character: "masaari_female", model: "Masaari_@creature_editorModel!0x0754a4c5.crt"): Act 1, Variation 5
+# Character comments: From Zealot. Cold and Amazonian, or so we think…
+
+0x1A066844 Puede que ese fanático sea más pequeñito que yo, pero me sigue gustando.
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 2, Variation 2
+# Character comments: Lying dead by the entrance…
+
+0xFE9B68A1 ¿Qué le ha pasado? Alguien ha robado su pase, su equipo...
+
+# Character talk dialog (Character: "town_scientist", model: "Town Scientist_@creature_editorModel!0x0770b84f.crt"): Act 1, Variation 1
+# Character comments: A Scientist stands near the entrance to Test Town
+
+0xFE9B6820 Bienvenido a Ensayópolis, bienvenido al... ¡FUTURO! ¡Creo que es a ti a quien debemos darle las gracias por descubrir el origen de los cristales!
+
+# Character chatter (Character: "dome_klak", model: "Klak Plowbeast_@creature_editorModel!0x074df561.crt"): Act 1, Variation 4
+# Character comments: From Zealot. Remember the Klak HATE the Criggens!
+
+0x0028A843 Siempre es un placer ver a mis extraños amigos makkoys.
+
+# Character chatter (Character: "crystal_speedster", model: "Crystal-powered Speedster_@vehicle_editorModel!0x0770b702.vcl"): Act 3, Variation 4
+# Comments: (if No conservationist inside - otherwise, use Conservationist dialogue)
+
+0x79FF5943 El bólido es un billete de ida al reactor...
+
+# Character chatter (Character: "test_houses", model: "Colony Pods_@building_editorModel!0x0772ec70.bld"): Act 2, Variation 3
+
+0xB0AB38C2 ¡Ciudadanos luchando contra ciudadanos!
+
+# Character chatter (Character: "crystal_car", model: "Crystal-powered Car_@vehicle_editorModel!0x0770b6ff.vcl"): Act 1, Variation 1
+
+0x927E6840 Coches de cristales, ¿cuál probamos ahora?
+

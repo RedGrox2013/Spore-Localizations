@@ -1,0 +1,37 @@
+keys blackHoleNames
+	0x39DE2A45
+end
+keys buildingNames
+	0x65E81724
+end
+keys cityNames
+	0xFEB4859F
+	0xCF605943
+end
+bool createRandomNames true
+keys creatureNames
+	0x467F88A8
+	0xBB17F374
+end
+keys excludedSubstrings
+	0xC6AC849E
+end
+keys excludedWords
+	0x48E353F0
+end
+keys planetNames
+	0x35E6C1A9
+	0xCF605943
+	0x467F88A8
+end
+keys starNames
+	0x86DDF5AB
+	0x467F88A8
+	0x4F3DCACA
+end
+keys tribeNames
+	0x8FF95E99
+end
+keys vehicleNames
+	0x7A12B9CA
+end

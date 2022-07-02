@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000097 Meneillään
+0x00000098 Suoritettu
+0x000000B2 Palaa raportoimaan planeetalle ~mission_source_planet~.
+0x00000093 Suuntaa järjestelmään ~mission_source_star~.
+0x00000099 Onnistuit! Raportoi tähtijärjestelmässä ~mission_source_star~.
+0x000000B1 Nouda Maltan laama planeetalta ~mission_target_planet~.
+0x00000041 Mahtavaa! Viimeinkin Maltan laama on minun. Tämä näyttää upealta kokoelmani muiden kultaesineiden joukossa. Hmm. Vai pitäisikö tämä sittenkin sijoittaa laamakokoelmaan kultakokoelman sijaan?~p~No, kiitos kuitenkin, ~ep1_captain_full_name~. Riskeerasit totisesti henkesi näiden Spore-taalereiden eteen. Toivottavasti nämä ~mission_rewards~ auttavat sinua. Otan sinuun varmasti yhteyttä seuraavankin kerran, kun kaipaan jotakuta viemään kallisarvoisia muinaisjäänteitä.
+0x00000094 Nouda Maltan laama tähden ~mission_target_star~ järjestelmässä olevalta planeetalta ~mission_target_planet~. Varo vartijaa.
+0x00000081 Myönnettäköön, että kallisarvoisen aarteen metsästäminen vaarallisesta viidakosta ei sovi ihan kaikille.~p~Ei se sovi minullekaan. Siksi juuri maksankin siitä muille.
+0x00000095 Maltan laama on noudettu. Palaa takaisin tähtijärjestelmään ~mission_source_star~ ja ilmoittaudu planeetalla ~mission_source_planet~.
+0x0000004E Eikö Maltan laama meinaa löytyä? Tarkastapas aluksi tehtävälokistasi kohteen tarkat koordinaatit.
+0x00000071 Mistä tarkalleen ottaen et pidä: kullasta vai laamoista?
+0x00000064 Maltan laama on kuulemma näkyvästi esillä. Sinun pitää vain etsiä tie läpi verenhimoisia petoja kuhisevan labyrintin.~p~No, eihän se tietenkään helppoa ole. Jos homma olisi helppo, tekisin sen itse.
+0x00000000 Hei, ~ep1_captain_full_name~. Pidätkö aarteista, muinaisjäänteistä, harvinaisista patsaista ja jalokivistä? Tyhmä kysymys. Totta kai sinä pidät niistä.~p~Kuulehan siis. Minulla on suunnitelma. Jos kerron sinulle legendaarisen Maltan laaman sijainnin, voisit noutaa patsaan minulle.~p~Saat hommasta noutopalkkiota ~mission_rewards~.~p~Miltäs moinen kuulostaa?
+0x00000092 Nouda Maltan laama tähden ~mission_target_star~ järjestelmästä. Varo vartijaa.
+

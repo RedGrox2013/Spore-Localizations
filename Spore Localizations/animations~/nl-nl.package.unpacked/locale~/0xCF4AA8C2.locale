@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Misschien is een nieuwe opdracht een goed idee.
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 Ik ben altijd in voor een avontuur!
+0xFADED01B Ik doe mee. Ik ben gek op avonturen.
+0xFADED01A Dat klinkt als een interessant avontuur. Ik doe mee.
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 Ik waardeer het aanbod, maar ik moet het toch afslaan.
+0xFADED01C Ik moet weigeren, maar ik kan je niet vertellen waarom.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Ik hoop dat je het begrijpt.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Ik zie dat je nog wat tijd nodig hebt. Vaarwel.
+0xFADED009 Een andere keer misschien. Dag.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Geen probleem. Tot later.
+0xFADED016 Geen probleem. Dag.
+0xFADED015 Graag gedaan. Dag.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Ik wil graag van deze opdracht gehaald worden.
+0xFADED021 Deze opdracht past niet meer in mijn schema.
+0xFADED020 Ik moet deze opdracht weigeren.
+0xFADED022 Ik zou liever iets anders doen.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Voor ik ga, wil ik je nog iets vragen.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Doe ik! Hou je taai!
+0xFADED005 Begrepen. Later.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Begrepen, controlecentrum.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Ik wil je graag nog iets vragen…
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A We spreken elkaar wel weer. Tabee.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Nog één ding…
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Ja, natuurlijk! Het missielogboek. Daar zal ik eens in kijken!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Ik heb nu geen interesse. Later misschien.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Kun je mijn missie herhalen?
+0xFADED028 Ik ben mijn missie helemaal kwijt. Wat houdt die ook alweer in?
+0xFADED027 Uhh… Wat moet ik ook alweer doen?
+0xFADED024 Ik ben vergeten wat ik aan het doen was. Wat is mijn missie?
+0xFADED01F Ik moet weer even bijgepraat worden over de missie…
+
+# mission_incomplete -> do exit
+
+0xFADED010 Ik snap het. Ik ben gauw weer terug.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B Ik zie dat je het druk hebt. Ik spreek je later.
+0xFADED008 Sorry dat ik je gestoord heb. Dag.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Ik doe het niet, om verschillende redenen.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Dit voelt gewoon niet goed. Nee.
+0xFADED00D Ik werk niet voor 'De Man'! Geen denken aan!
+0xFADED012 Nee. Het voelt gewoon… oneerlijk.
+0xFADED014 Nooit! Het moge duidelijk zijn dat ik geweld verafschuw.
+
+# dynamic_response_to_source
+
+0xFADED023 …
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Begrepen. Dag.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 En ook nog…
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Voor ik ga, wil ik je nog iets vragen…
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 De ~race~ zet vraagtekens bij je aarzeling. Je hebt duidelijk geen sterke kracht die je op je pad begeleidt. Zeer betreurenswaardig
+0xFADED02D Natuurlijk, natuurlijk. Het was ook hopeloos om een dergelijke onbelangrijke zaak te bespreken met iemand die zo glorieus is als jij. Misschien kun je me troosten door geld uit te geven in mijn boetiek?
+0xFADED02E Het lijkt erop dat je er zelf achter moet komen hoe je een legendarische ruimtekapitein wordt… met vallen en opstaan.~p~Veel succes daarmee.
+0xFADED02F Opgeven kennen we niet bij de ~race~. ~player_creature_name~ is geen ~race~.
+0xFADED034 Begrepen, ~player_title~ ~player_creature_name~. We waarderen je fatsoen.~p~Het zal ons wat papierwerk schelen. Het goedkeuringsproces voor het subcontract voor interplanetair wezentransport vereist slechts driehonderdtweeënzestig formulieren, getekend en gestempeld in drievoud. ~p~Natuurlijk is dit zwaar onder de richtlijnen van de standaard handelingsprocedure... Je zou de vereiste formulieren voor het transport van gefermenteerde specerijen eens moeten zien.
+0xFADED033 PRIMA… Doe maar VERVELEND. Je kwetst ons daar toch niet mee.~p~Oké… wel een beetje.
+0xFADED031 Je breekt je belofte met de Grox! Brutale vlegel!
+0xFADED032 Je moet je eigen weg volgen.~p~Het ga je goed, mijn vriend.
+0xFADED02C Ooo... Oké... Ja, dat is goed. ~p~Als je er niet van houdt, willen we je niet dwingen om met andere levensvormen te communiceren… ~p~
+0xFADED02B Interessante keuze, ~player_title~ ~player_creature_name~. Misschien heb jij informatie die wij niet hebben, al lijkt dat niet waarschijnlijk.
+

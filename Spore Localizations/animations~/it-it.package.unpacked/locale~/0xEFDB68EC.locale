@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Queste creature stanno ferme.
+0x079817BE Queste creature seguono il membro del cast indicato.
+0x079817BA Queste creature si muovono avanti e indietro tra due punti.
+0x079817B5 Queste creature si muovono casualmente intorno alla posizione iniziale.
+0x079EDF5A Questi veicoli stanno fermi.
+0x079EDF5B Questi veicoli si muovono casualmente intorno alla posizione iniziale.
+0x079EDF5C Questi veicoli si muovono avanti e indietro tra due punti.
+0x079EDF5D Questi veicoli seguono il membro del cast indicato.
+
+# Planet Paint
+
+0xB6AFCFC1 Fiori
+0xB6AFCFC2 Stile nubi
+0xB6AFCFC0 Copertura suolo
+
+#Goals:
+
+0x07981798 Fai in modo che questi ~ep1_current_cast~ non vengano distrutti.
+0x0798178C Impedisci a questi ~ep1_current_cast~ di entrare in contatto con un altro membro del cast.
+0x07981789 Porta questi ~ep1_current_cast~ a un altro membro del cast.
+0x07981785 Raccogli questi ~ep1_current_cast~.
+0x07981782 Dai questi ~ep1_current_cast~ a un altro membro del cast.
+0x07981764 Raggiungi questi ~ep1_current_cast~.
+0x0798176F Distruggi questi ~ep1_current_cast~.
+0x0798177B Parla con questi ~ep1_current_cast~.
+0x07981773 Socializza con questi ~ep1_current_cast~.
+0x07981777 Alleati con questi ~ep1_current_cast~ per inserirli nel tuo equipaggio.
+0x0798177E Ottieni questi ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF73 Ragnatela
+0x56AFCF74 Polline
+0x56AFCF75 Spugna
+0x56AFCF72 Alieno
+0x56AFCF70 Predefinito
+0x56AFCF71 Riccio
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 creature
+0x07981E93 oggetti
+0x07981E92 edifici
+0x07981E91 veicoli
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Clicca su una creatura, un edificio o un veicolo per rimuoverli in modo permanente dalla partita.~br~Per rimuovere l'avventura in modo permanente, esci dall'avventura e apri la Sporepedia (tasto B). A questo punto trova l'avventura da rimuovere, selezionala e clicca sul pulsante Bandisci creazione visualizzato in basso a destra. In questo modo cancellerai l'avventura, ma non le creazioni al suo interno (dovrai rimuoverle individualmente).~br~Un rapporto relativo alla creazione verrà inviato all'assistenza tecnica di Spore.
+
+#Awareness:  
+
+0x07981DE3 Determina il raggio visivo di queste creature.
+0x079EDF5E Determina il raggio visivo di questi veicoli.
+
+#Stances:
+
+0x0798179D Queste creature attaccano le unità nemiche in vista.
+0x079817A1 Queste creature avvertono prima di attaccare.
+0x079817AD Queste creature fuggono quando sono attaccate.
+0x079817A9 Queste creature si limitano a difendersi quando sono attaccate.
+0x079817A5 Queste creature non si distraggono mai dal comportamento assegnato.
+0x079EDF55 Questi veicoli attaccano le unità nemiche in vista.
+0x079EDF57 Questi veicoli non si distraggono mai dal comportamento assegnato.
+0x079EDF56 Questi veicoli avvertono prima di attaccare.
+0x079EDF58 Questi veicoli si limitano a difendersi quando sono attaccati.
+0x079EDF59 Questi veicoli fuggono quando sono attaccati.
+
+#Pickup:
+
+0x079817C2 Queste creature raccolgono qualsiasi strumento.
+0x079817C5 Queste creature raccolgono lo strumento indicato.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7D Shitaake
+0x56AFCE7B Rocce normali
+0x56AFCE7A Rocce gelate
+0x56AFCE7C Rocce laviche
+0x56AFCE72 Conglomerato
+0x56AFCE73 Corallo
+0x56AFCE75 Granito
+0x56AFCE78 Arenaria
+0x56AFCE74 Cristallo
+0x56AFCE77 Punte
+0x56AFCE76 Organica
+0x56AFCE79 Svizzera
+0x56AFCE71 Argillosa
+0x56AFCE60 Nessuna
+
+# posse ui
+
+0x0760B242 Equipaggio
+
+#mission ending description#
+
+0x0760B241 Fine
+
+0x0760B0F8 Descrizione e musica atto ~ep1_current_act~
+0x075E4C79 Imposta tipo obiettivo
+0x0760B0F9 Introduzione:
+0x0760B0FB Testo sconfitta:
+0x0760B0FA Testo vittoria:
+0x075E4C78 Trascina obiettivo su un membro del cast
+
+#Teams:
+
+0x07981E72 Questi edifici verranno attaccati dai membri del cast di squadre nemiche.
+0x07981E71 Queste creature non attaccano mai altri membri del cast della propria squadra.
+0x079EDF5F Questi veicoli non attaccano mai altri membri del cast della propria squadra.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Atto ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Questa avventura contiene un atto privo di obiettivi. Il giocatore non potrà vincere l'avventura se l'atto non contiene obiettivi o non è l'ultimo atto dell'avventura. Vuoi salvare lo stesso?
+
+#Give:
+
+0x079817CE Queste creature danno uno strumento al membro del cast indicato.
+0x079817C9 Queste creature danno uno strumento a qualsiasi membro del cast.
+

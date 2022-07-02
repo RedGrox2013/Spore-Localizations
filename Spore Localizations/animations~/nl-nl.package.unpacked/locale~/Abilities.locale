@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Bestormen
+0x0000001E Een aanval die één doelwit van een afstand onderschept en dit bij aanraking verdooft.
+
+# Colony_Building.prop
+
+0x0000004F Productie
+0x00000050 Met een hogere productie verdient de kolonie meer geld.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D532 Baan je een weg naar militaire heerschappij.
+0x0630D531 Militair luchtvoertuig
+
+# Colony_CivicObject.prop
+
+0x00000052 Stadsobjecten zijn enkel decoratief.
+0x00000051 Stadsobjecten
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Kolonielucht
+0x0630D572 Verken de kolonie via de lucht!
+
+#socialize
+
+0x00001001 Omgang
+0x00002001 Voeg onderdelen voor zingen, dansen, poseren of charmeren toe, zodat je met andere wezens kunt omgaan.
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Koloniezee
+0x0630D574 Verken de kolonie over zee!
+
+# City_Income.prop
+
+0x00000037 Inkomen
+0x00000038 Fabrieken verhogen het inkomen als ze naast huizen staan, maar verminderen het geluk, vooral als ze in de buurt van entertainmentgebouwen staan.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Dansen
+0x33A78A34 Dans om vrienden te worden met andere wezens die de voorkeur geven aan deze sociale stijl.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000102 Geneesstokken
+0x00000103 Rust stamleden uit met een sjamanenstaf zodat zij hun broeders op het slagveld kunnen genezen.
+0x0666A342 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~ punten
+
+# CL_Proboscis.prop
+
+0x0000004B Omnivoor
+0x0000004C Je cel slurpt vloeistoffen uit planten en levende wezens.
+0x06493565 Omnivoor - Je eet groene planten of levende cellen.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Kolonieland
+0x0630D576 Verken de kolonie via land!
+
+# Charm5.prop
+
+0x0000008B Charmeren
+0x0000008C Wezens met veel detail-onderdelen kunnen gecharmeerd worden door middel van deze sociale vaardigheid.
+
+# Spit2.prop
+
+0x000000C2 Spugen
+0x000000C3 Een snelle aanval waarbij projectielen naar één doelwit worden gespuugd.
+
+# Herbivore1-5.prop
+
+0x0473A24E Herbivoor
+0x0473A24F Je wezen eet vruchten.
+
+# City_Cultural.prop
+
+0x0000002C Religieuze voertuigen kunnen ongelukkige steden bekeren tot jouw beschaving.
+0x0000002B Bekeer anderen
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~%
+
+# Charge5.prop
+
+0x00000021 Bestormen
+0x00000022 Een aanval die één doelwit van een afstand onderschept en dit bij aanraking verdooft.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Spugen
+0x000000BF Een snelle aanval waarbij projectielen naar één doelwit worden gespuugd.
+
+##### Tribal Accessories #####
+
+0x055D4830 Strijd
+0x055D4836 Verzamelen
+0x055D4838 Vissen
+0x055D4834 Gezondheid
+0x055D4832 Sociaal
+0x055D4835 Gezondheidsaccessoires vergroten het aantal klappen dat elk stamlid in een gevecht aankan.
+0x055D4837 Met verzamelaccessoires gaat het verzamelen van voedsel sneller.
+0x055D4833 Sociale accessoires verhogen de kans om andere stammen te imponeren tijdens sociale interacties.
+0x055D4831 Gevechtsaccessoires vergroten de schade die elk stamlid in een gevecht kan toebrengen.
+0x055D4839 Visaccessoires verbeteren je vaardigheden op visgebied.
+0x055D4EB3 Voeg accessoires toe om je verzamelvaardigheden te verbeteren.
+0x055D4E62 Verzamelen
+
+### Complexity Meter ##
+
+0x05F110B3 Complexiteitsmeter
+0x05F110B4 Als deze meter vol is, kun je geen onderdelen meer toevoegen.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Slaan
+0x000000D5 Een verwoestende aanval die meerdere doelwitten van een korte afstand kan beschadigen.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Automatische aanval
+0x049A3CDB Standaard automatische bijtaanval
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD Niveau ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 Zingen
+0x00000121 Zing om vrienden te worden met wezens die graag geluid maken.
+
+#health
+
+0x00001004 Gezondheid
+0x00001008 Gezondheid
+0x00002008 Gezondheid laat zien hoeveel schade je cel kan verdragen. Elke cel heeft drie gezondheidseenheden.
+0x00002004 Elke toename in hersenniveau zal bijdragen aan je gezondheid, of je kunt gepantserde onderdelen kopen om je te helpen overleven in de strijd.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Snelheid
+0x04CEA2D3 Verhoogt de snelheid van je voertuig.
+
+# Colony_House.prop
+
+0x066657CA Productie
+0x066657CB Huizen vergroten de specerijenproductie als ze verbonden zijn met fabrieken.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Kracht
+0x04CEA2D5 Grotere kracht betekent grotere efficiëntie.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 Aanvallen
+0x00002000 Voeg onderdelen voor bijten, slaan, bestormen of spugen toe, zodat je andere wezens kunt aanvallen.
+0x00001007 Aanvallen
+0x00002007 Voeg stekels, vergif en elektrisch geladen onderdelen toe om andere cellen te kunnen aanvallen.
+
+# Posture3.prop
+
+0x000000A7 Poseren
+0x000000A8 Poseren is populair bij andere wezens met klauwen.
+
+# Dance2.prop
+
+0x00000057 Dansen
+0x00000058 Dans om vrienden te worden met andere wezens die de voorkeur geven aan deze sociale stijl.
+
+# Bite2.prop
+
+0x00000005 Bijten
+0x00000006 Een snelle aanval die één doelwit van dichtbij kan beschadigen.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Charmeren
+0x0000008A Wezens met veel detail-onderdelen kunnen gecharmeerd worden door middel van deze sociale vaardigheid.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526762 Omnivoor
+0x06526772 Je cel jaagt op andere cellen, eet stukken rood vlees en slurpt het vocht uit planten en levende cellen.
+
+# Charge2.prop
+
+0x0000001B Bestormen
+0x0000001C Een aanval die één doelwit van een afstand onderschept en dit bij aanraking verdooft.
+
+# Bite1.prop
+
+0x00000001 Bijten
+0x00000002 Een snelle aanval die één doelwit van dichtbij kan beschadigen.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Fabriek
+0x06496725 Vergroot het inkomen, maar vermindert het geluk.
+
+# CL_Cilia.prop
+
+0x0000003F Snelle draai
+0x00000040 Je cel kan zich snel omdraaien.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Productie
+0x066657CD Hou je burgers gelukkig door entertainmentgebouwen naast huizen te plaatsen.
+
+# Colony_Factory.prop
+
+0x066657CE Productie
+0x066657CF Fabrieken vergroten de specerijenproductie als ze naast huizen worden geplaatst, maar zorgen ook voor minder geluk, vooral als ze naast entertainmentgebouwen worden geplaatst.
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Stammenaccessoires
+0x04D02BF8 Geef je stamleden outfits om hun vaardigheden te verbeteren!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D534 Bevaar de weg naar militaire dominantie.
+0x0630D533 Militair zeevoertuig
+
+#movement
+
+0x00001003 Snelheid
+0x00001006 Bewegingen
+0x00002003 Voeg snellere voeten toe om je snelheid te verhogen!
+0x00002006 Voeg zweepstaarten, trilharen of een straalaandrijving toe. Elk extra bewegingsonderdeel bevordert de snelheid van de cel.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Scannen
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526761 Omnivoor
+0x06526771 Je cel eet groene planten en slurpt het vocht uit planten en levende cellen.
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ aan kracht
+
+# Spit5.prop
+
+0x000000C8 Spugen
+0x000000C9 Een snelle aanval waarbij projectielen naar één doelwit worden gespuugd.
+
+# Posture5.prop
+
+0x000000AB Poseren
+0x000000AC Poseren is populair bij andere wezens met klauwen.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Entertainment
+0x06496727 Vergroot het geluk waardoor het beschermt tegen religieuze aanvallen.
+
+# Dance5.prop
+
+0x0000005D Dansen
+0x0000005E Dans om vrienden te worden met andere wezens die de voorkeur geven aan deze sociale stijl.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Sprinten
+0xF386C342 Door te sprinten kun je rap snelheid maken. Met extra sprint-onderdelen kun je de duur verlengen.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Snelheid
+0x0473A251 Voeg betere voeten toe om harder te rennen.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D546 Handel je naar de top via land!
+0x0630D545 Economisch landvoertuig
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C Een hogere gezondheid bevordert de overlevingskansen bij een aanval.
+0x04CB5B6D Gezondheid
+
+# CL_Shock.prop
+
+0x0000004D Elektrocuteren
+0x0000004E Je cel geeft een schok aan cellen die in de buurt komen en verkrijgt immuniteit uit de schichten van andere cellen.
+
+# CL_Poke.prop
+
+0x00000049 Aanvallen en breken
+0x0000004A Bestorm cellen om ze aan te vallen. Sommige voorwerpen gaan kapot als je er tegenaan stoot.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Explosieve versnelling
+0x00000046 Je cel versnelt rap.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F Grijpers
+0x000000A0 Pak voorwerpen op en gebruik ze.
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D556 Bekeer de menigten vanaf de grond.
+0x0630D555 Religieus landvoertuig
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Economische kracht
+0x06318043 Economische kracht vergroot de winstgevendheid van handelsroutes.
+
+# CL_Speed.prop
+
+0x0563FF82 Snelheid
+0x0563FF83 Snelheid
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE Niveau ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Vissperen
+0x000000F1 Rust stamleden uit met vissperen voor een zo groot mogelijke visvangst.
+0x0666A340 Bevriend of versla andere stammen voor nieuw gereedschap.
+
+# Bite5.prop
+
+0x0000000B Bijten
+0x0000000C Een snelle aanval die één doelwit van dichtbij kan beschadigen.
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~ punten
+
+# Tribe_Hunt3.prop
+
+0x0000010A Werpsperen
+0x0000010B Met werpsperen kunnen je stamleden vanaf een afstand aanvallen.
+0x0666A346 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+# Spit3.prop
+
+0x000000C4 Spugen
+0x000000C5 Een snelle aanval waarbij projectielen naar één doelwit worden gespuugd.
+
+# Posture2.prop
+
+0x000000A5 Poseren
+0x000000A6 Poseren is populair bij andere wezens met klauwen.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D554 Bekeer de menigten vanaf de zeeën!
+0x0630D553 Religieus zeevoertuig
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~ punten
+
+# City_Population.prop
+
+0x0000003B Bevolking
+0x0000003C Huizen verhogen het inkomen als ze verbonden zijn met fabrieken. Elk huis verhoogt je voertuigencapaciteit met één.
+
+#diet
+
+0x00002005 Voeg een filtermond, kaken of een slurf toe om verschillende typen voedsel te kunnen eten.
+0x00001005 Dieet
+0x00001002 Dieet
+0x00002002 Je dieet als cel bepaalt je dieet als wezen.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Blokkeren
+0x00000016 Gebruik blokkeren tijdens een aanval om schade te voorkomen.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BB Creëer een outfit voor je burgers.
+0x05B1E9BC Creëer een outfit voor je burgers.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Bestormen
+0x00000018 Een aanval die één doelwit van een afstand onderschept en dit bij aanraking verdooft.
+
+# Charm3.prop
+
+0x00000087 Charmeren
+0x00000088 Wezens met veel detail-onderdelen kunnen gecharmeerd worden door middel van deze sociale vaardigheid.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Springen
+0x00000098 Door te springen kun je op lastig te bereiken plekken komen. Met een hoger vaardigheidsniveau kun je hoger springen. Druk in de proefritmodus op de spatiebalk voor een voorproefje.
+
+# Strike2.prop
+
+0x000000D8 Slaan
+0x000000D9 Een verwoestende aanval die meerdere doelwitten van een korte afstand kan beschadigen.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Religieuze kracht
+0x06318041 Religieuze kracht vergroot je vaardigheid tot het beïnvloeden van ongelovigen.
+
+# Dance4.prop
+
+0x0000005B Dansen
+0x0000005C Dans om vrienden te worden met andere wezens die de voorkeur geven aan deze sociale stijl.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Huis
+0x06496723 Vergroot de stadsbevolking en voertuigencapaciteit.
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Zweefvlucht
+0x00000096 Met vleugels kan je wezen vliegen. Met een hoger niveau kun je verder vliegen.
+
+# Tribe_Gather3.prop
+
+0x000000FC Stokken verzamelen
+0x000000FD Rust stamleden uit met verzamelstokken voor een zo groot mogelijke fruitoogst.
+0x0666A341 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+# City_Happiness.prop
+
+0x00000033 Geluk
+0x00000034 Hou je burgers blij door entertainmentgebouwen naast huizen te plaatsen.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Gezondheid
+0x04CEA2D1 Als je de gezondheid van je voertuig verbetert, zal het langer overleven in een gevecht.
+
+# Bite3.prop
+
+0x00000007 Bijten
+0x00000008 Een snelle aanval die één doelwit van dichtbij kan beschadigen.
+
+# CL_Poison.prop
+
+0x00000047 Gifspugen
+0x00000048 Je cel spuugt gifwolken en verkrijgt immuniteit uit de gifuitstoot van andere cellen.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D536 Berijd de weg naar militaire dominantie.
+0x0630D535 Militair landvoertuig
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 Je cel eet groene planten, jaagt op andere cellen en eet stukken rood vlees.
+0x06526760 Omnivoor
+
+# Starvivore.prop
+
+0x04D19389 Mondloos
+0x04D1938A Een wezen zonder mond is gedoemd tot de hongerdood. Voeg een mond toe!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Poseren
+0x000000A2 Poseren is populair bij andere wezens met klauwen.
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~ punten
+
+# Vocalize2.prop
+
+0x0000011E Zingen
+0x0000011F Zing om vrienden te worden met wezens die graag geluid maken.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 Sluipen
+0x000000D3 Besluip nietsvermoedende wezens of ontwijk aanvallers. Als je een wezen van achteren besluipt, voegt dat een bonus toe aan je aanval.
+
+# Charge4.prop
+
+0x0000001F Bestormen
+0x00000020 Een aanval die één doelwit van een afstand onderschept en dit bij aanraking verdooft.
+
+# Strike3.prop
+
+0x000000DA Slaan
+0x000000DB Een verwoestende aanval die meerdere doelwitten van een korte afstand kan beschadigen.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 Hoge snelheid
+0x00000042 Je cel beweegt zich sneller voort.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Militaire kracht
+0x06318045 Militaire kracht vergroot de gevechtsvaardigheid.
+
+# City_Military.prop
+
+0x00000039 Militaire voertuigen
+0x0000003A Militaire voertuigen kunnen andere steden aanvallen en vernietigen.
+
+# Strike5.prop
+
+0x000000DF Een verwoestende aanval die meerdere doelwitten van een korte afstand kan beschadigen.
+0x000000DE Slaan
+
+# Tribe_Hunt.prop
+
+0x00000104 Aanval
+0x00000105 Voor voedsel jaag je op andere dieren of val je andere stammen aan.
+0x0666A343 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+# City_Economic.prop
+
+0x00000030 Economische voertuigen kunnen handeldrijven met andere steden om deze op te kopen.
+0x0000002F Zet handelsroutes op met andere steden.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Zicht
+0x0500E7DE Je wezen heeft ogen nodig om goed te kunnen zien.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 Omnivoor
+0x06526773 Je cel eet groene planten, jaagt op andere cellen, eet stukken rood vlees en slurpt het vocht uit planten en levende cellen.
+
+# CL_Herbivore.prop
+
+0x00000043 Herbivoor
+0x00000044 Je cel eet groene planten.
+0x06494A72 Herbivoor - Je eet groene planten.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Carnivoor
+0x0473A24D Je wezen eet andere wezens.
+
+# Omnivore.prop
+
+0x04D18880 Omnivoor
+0x04D18881 Je wezen eet zowel vruchten als andere wezens.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A Zingen
+0x0000011B Zing om vrienden te worden met wezens die graag geluid maken.
+
+# HitPoints.prop
+
+0x062CFA7E Een hogere gezondheid vergroot de overlevingskansen bij aanvallen van andere wezens.
+0x062CFA7D Gezondheid
+
+#Generic
+
+0x04D3040D Vaardigheden
+0x04D3040E De onderdelen die je toevoegt, geven je vaardigheden. Evolueer!
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D542 Handel je naar de top via de lucht!
+0x0630D541 Economisch luchtvoertuig
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 Ruimteschip
+0x0630D566 Het enige dat nog tussen jou en het vacuüm van de ruimte staat, is 2 meter pure stijl.
+
+# Colony_UFO.prop
+
+0x00000053 Ruimteschip
+0x00000054 Verkennen! Bouwen! Ontvoeren! Vernietigen! Dat zijn de vaardigheden van je ruimteschip.
+0x06779205 Deze kolonie heeft geen zeehaven.
+
+# Strike4.prop
+
+0x000000DC Slaan
+0x000000DD Een verwoestende aanval die meerdere doelwitten van een korte afstand kan beschadigen.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D552 Bekeer de menigten vanuit de lucht!
+0x0630D551 Religieus luchtvoertuig
+
+# City_Food.prop
+
+0x00000031 GEWIST
+0x00000032 GEWIST
+
+# Dance3.prop
+
+0x00000059 Dansen
+0x0000005A Dans om vrienden te worden met andere wezens die de voorkeur geven aan deze sociale stijl.
+
+# Vocalize4.prop
+
+0x00000122 Zingen
+0x00000123 Zing om vrienden te worden met wezens die graag geluid maken.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~ punten
+
+# Tribe_Hunt1.prop
+
+0x00000106 Brandende fakkels
+0x00000107 Met brandende fakkels kun je snel gereedschapsschuren en hutten verwoesten, maar ze zijn minder effectief tegen andere stamleden.
+0x0666A344 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+# CL_GameSpeed.prop
+
+0x0649A10C Snelheid
+0x0649A10D Voeg zweepstaarten, trilharen en jetonderdelen toe om je sneller te kunnen voortbewegen. Elk extra bewegingsonderdeel voegt iets toe aan de snelheid van je cel.
+
+# City_CivicObject.prop
+
+0x533DD075 Decoratie
+0x533DD076 Ga de stad in! Alleen om rond te kijken.
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D544 Sjacher je een weg naar de top over zee!
+0x0630D543 Economisch zeevoertuig
+
+# Vocalize5.prop
+
+0x00000124 Zingen
+0x00000125 Zing om vrienden te worden met wezens die graag geluid maken.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Maracas
+0x00000111 Imponeer naburige stammen met deze maracas!
+0x0666A349 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Geef outfits aan de bewoners van je kolonie!
+
+# CL_Carnivore.prop
+
+0x0000003D Carnivoor
+0x0000003E Je cel jaagt op andere cellen en eet stukken rood vlees.
+0x06494A73 Carnivoor - Je jaagt op andere cellen en eet stukken rood vlees.
+
+# Spit4.prop
+
+0x000000C6 Spugen
+0x000000C7 Een snelle aanval waarbij projectielen naar één doelwit worden gespuugd.
+
+# City_Defense.prop
+
+0x0000002D Verdedig de stad!
+0x0000002E Verdediging versterken.
+
+# Posture4.prop
+
+0x000000A9 Poseren
+0x000000AA Poseren is populair bij andere wezens met klauwen.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoos
+0x0000010F Imponeer naburige stammen met deze didgeridoos!
+0x0666A348 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Houten hoorns
+0x0000010D Imponeer naburige stammen met deze hoorns!
+0x0666A347 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Charmeren
+0x00000082 Wezens met veel detail-onderdelen kunnen gecharmeerd worden door middel van deze sociale vaardigheid.
+
+# City_Harvester.prop
+
+0x00000035 GEWIST
+0x00000036 GEWIST
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Stadhuis
+0x06496721 Nieuwe stad gevonden.
+
+# Bite4.prop
+
+0x00000009 Bijten
+0x0000000A Een snelle aanval die één doelwit van dichtbij kan beschadigen.
+
+# Charm2.prop
+
+0x00000085 Charmeren
+0x00000086 Wezens met veel detail-onderdelen kunnen gecharmeerd worden door middel van deze sociale vaardigheid.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Stenen bijlen
+0x00000109 Stenen bijlen zijn genadeloos effectief tegen wilde wezens en stamleden, maar zijn minder effectief tegen hutten en gereedschapsschuren.
+0x0666A345 Sluit een bondgenootschap met een andere stam of versla deze om toegang te krijgen tot hun gereedschappen.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x0000007F Lokroep
+0x00000080 Laat je lokroep horen om je partner en je nest te vinden, maar pas op dat je niet de aandacht trekt van roofdieren.
+

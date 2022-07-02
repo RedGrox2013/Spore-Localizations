@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020004 Attack
+0x01020006 Umgås
+0x01020007 Utforska
+0x01020003 Ingen genre
+0x01020005 Försvara
+0x0102000A Samla in
+0x01020009 Handling
+0x01020008 Uppdrag
+0x0102000D Palett
+0x0102000C Planeter
+0x0102000B Pussel
+
+#######################################
+# Filter Names
+
+0x01020001 Äventyr
+0x01020002 Spelbara äventyr
+0x07200107 Kapten
+0x07200108 Mina kaptener
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ spel
+
+### Difficulty Descriptions
+
+0x07D86C49 Svårighetsgrad: ~ep1_adventure_difficulty~
+0x07D86C6A Mycket lätt
+0x07D86C87 Medelsvår
+0x07D86C7C Lätt
+0x07D86CA8 Mycket svår
+0x07D86C9F Svår
+
+# Unpublish
+
+0x07D9CFD7 Vill du sluta dela den här skapelsen? Den kommer att tas bort från servern.
+0x07D9CFB6 Sluta dela
+
+#######################################
+# Misc
+
+0x02000002 Valt ~num_selected_items~ föremål
+0x02000001 Det valda föremålet redigeras för tillfället. Du kan inte ta bort det nu.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Föremål
+
+# Audio filters
+
+0x0102100C Oneshot
+0x01021007 Folkmassa
+0x01021006 Ljud
+0x01021008 Omgivning
+0x0102100A Musik
+0x01021009 Mekaniskt
+0x0102100B Obs
+
+### Ratings
+
+0xC7647889 Klassificering
+
+# Download adventure
+
+0x02200002 Vill du öppna det här äventyret?
+0x02200001 Hämta äventyr
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ poäng
+
+#######################################
+# Category Names
+
+0x00000001 Äventyrsföremål
+
+# Fixed object filters
+
+0x01021004 Klippor
+0x01021003 Spelföremål
+0x01021002 Handhållna föremål
+0x01021005 Statiska prydnader
+0x01021001 Fasta föremål
+
+# Effects filters
+
+0x01022003 Natureffekter
+0x01022002 Ljuseffekter
+0x01022006 Oneshot-effekter
+0x01022005 Lustiga effekter
+0x01022004 SciFi-effekter
+0x01022001 Effekter
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Välj en planet
+0x07B24B83 Du behöver vara inloggad för att visa resultatlistor och betyg för det här äventyret
+0x079EDCD5 Skapa eller välj en kapten
+0x072925B0 Välj ett äventyr
+0x072000E3 Skapa eller välj en kapten
+0x072925BB Välj en eller flera effekter
+0x072925BA Välj ett eller flera rymdskepp
+0x072925B9 Välj ett eller flera fordon
+0x07B67C69 Välj ett eller flera spelföremål
+0x072925BD Välj ett föremål
+0x072925BC Välj ett eller flera ljudföremål
+0x072925B8 Välj en eller flera byggnader
+0x072925B4 Välj ett ljudföremål
+0x072925B3 Välj ett eller flera föremål
+0x072925B2 Skapa eller välj medlem i rollistan
+0x072925B7 Välj en eller flera varelser
+0x072925B6 Välj rollista för äventyret
+0x072925B5 Välj flora
+

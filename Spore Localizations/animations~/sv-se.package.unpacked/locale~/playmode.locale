@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Dina Maya Export-filer har sparats till~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Nej
+0x0549366D Ladda upp
+0x05496B24 Loggar in på YouTube...
+0x055AA305 Laddar upp din film på YouTube...
+0x05600488 Du måste vara inloggad på Spore för att använda den här funktionen. Vill du logga in?
+0x0563C623 Du måste registrera dig hos Spore för att använda den här funktionen. Vill du registrera dig?
+0x056D0627 Uppladdningen lyckades! Skicka filmens URL till en kompis!
+0x054C1E63 Din film har sparats som: ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Ett fel uppstod vid uppladdning till YouTube.~br~~br~Var god kontrollera din internetanslutning eller försök senare.
+0x05498260 Ett fel uppstod vid inloggning på YouTube.~br~~br~Var god kontrollera din internetanslutning eller försök senare.
+0x05B5FD1E Vill du ladda upp nu?
+0x05D2C767 Din uppladdning har avbrutits.
+0x05E501EB <youtubeicon>Ladda upp
+0x05D54AF7 Denna webbplats är på engelska. För att se sidan på ditt språk, välj ditt hemland i sajtväljaren.
+0x05B5AC4C YouTube:s tjänstavtal
+0x05498DCB Din film är uppladdad. Vill du meddela en kompis om filmen?
+0x05496510 Det gick inte att logga in på YouTube.~br~~br~Använd ett giltigt användarnamn och lösenord eller registrera dig på YouTube innan du fortsätter uppladdningen.
+0x056691B0 Kontrollerar YouTube-registrering ...
+
+# email
+
+0x04585F1F Din e-postadress är felaktig.
+0x04585F49 Mottagarens e-postadress är felaktig.
+0x045AD62F Din e-postadress
+0x05B5B8C4 Berätta för en vän om din video
+0x0583897C Klicka för att skicka kortet med e-post
+0x04588BEF Ditt vykort har skickats.
+0x045AD5B9 Skicka ett e-postvykort
+0x045AD634 Mottagarens e-postadress
+
+# capture GIF
+
+0x058B90F2 Din animerade avatar har sparats till~br~~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x04598E97 Skicka e-post
+0x046286E7 Snurra
+0x046286F4 Sitt
+0x046286F8 Ryt
+0x04628713 Ropa
+0x04628717 Slå
+0x04628719 Simsalabim!
+0x04628722 Sötnos
+0x04628724 Sumo
+0x04628726 Tjena
+0x04628729 Flexa
+0x04628733 Tjena snygging
+0x04628739 Gå o ställ
+0x0462873F Hetfot
+0x04628745 Hoppetiskutt
+0x04628749 Stampen
+0x0462874E Festsmäll
+0x04628798 Lycklig
+0x0462879C Ledsen
+0x046287A0 Rädd
+0x046287A1 Arg
+0x046287A2 Skratt
+0x046287A4 Bildvisare
+0x046287A6 Spela in film
+0x046287D8 Bakgrunder
+0x046287ED Spara
+0x0462932D Hjälp
+0x0474E80D Radera bild
+0x0474E80E Arkivera bild
+0x0473F903 Hantera bilder
+0x046287A3 Förälskad
+0x04628737 Fingret
+0x046287A5 Ta bild
+0x046287D6 Handlingar
+0x046287DA Ungar
+0x046286F2 Gör en volt
+
+# move all
+
+0x04583A4E Arkivera alla
+
+#continue
+
+0x0549656C Fortsätt
+
+# delete one done
+
+0x04583433 Din bild har tagits bort.
+
+# delete all done
+
+0x0458334E Dina bilder har tagits bort.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D Din bild har arkiverats i: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Dina bilder har arkiverats i: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Ja
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animation
+
+# photobackuppath
+
+0x06305594 Mina dokument
+0x06305593 Mina Sporeskapelser/Bilder/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Inloggningen misslyckades
+0x05CBDEDA Uppladdningen misslyckades
+
+# your message
+
+0x045AD63A Ditt meddelande
+
+#drag and drop fail message
+
+0x05889A21 Provkör
+0x05889A4C Du kan inte dra och släppa i Provkör. Växla till Bygg- eller Målarläge.
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Du har för många bilder. Arkivera några av dem.
+
+# photo actions
+
+0x045C2025 Vad vill du göra med bilderna?
+0x045C206E Är du säker på att du vill radera den här bilden?
+0x045C208A Är du säker på att du vill radera alla bilder?
+0x045C2094 Är du säker på att du vill arkivera den här bilden?
+0x045C2098 Är du säker på att du vill arkivera alla bilder?
+0x04613ED0 Alla bilder som väntar på att sparas kommer att förloras om du avslutar nu. Vill du fortfarande avsluta?
+
+# delete all
+
+0x04583A36 Radera alla
+
+# cancel
+
+0x04583AFB Avbryt
+
+# Are you sure: No
+
+0x0458400E Nej
+
+# email message
+
+0x056BCE10 Kolla in min grymma varelse som jag har skapat i Spore!
+0x056BCDCA Kolla in min video som jag skapat i Spore!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 Ok

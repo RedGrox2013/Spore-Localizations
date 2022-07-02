@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Kezeld a célokat és a történetet az Felvonáspanelen
+0x079A7CE1 Felvonás leírása
+0x079A7B8E Gépeld be ide a felvonás leírását! A játékosok a felvonások megkezdésekor fogják látni.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Légkör
+0x07639100 Határozd meg a légkör sűrűségét. A sűrű felhőzet villámlást produkál. Ritka légkörben meteoresők fordulnak elő!
+
+# EP1-TerraThemes
+
+0x0771EF15 Válassz címzenét a bolygódnak!
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Célok hozzáadása
+0x07BB8BDE Minden felvonás maximum három célt tartalmazhat. Törölj egy célt úgy, hogy a mellette lévő szemetesre kattintasz, majd indítsd el ismét az útmutatót a listától kezdve.
+
+# EP1-WinLoseText
+
+0x0771E83A Írd be a győzelem és a vereség szövegét a kalandodhoz!
+0x07763B90 Győzelem/vereség szövege
+
+# EP1-ClickGoalButton
+
+0x0762251C Célok panel
+0x0762251D Határozz meg célokat a kapitány számára! Minden felvonás maximum három célt tartalmazhat, és bármilyen sorrendben teljesíthetőek.~p~A felvonásoknak azért kell célokat tartalmazniuk, hogy a játékosok nyerhessenek vagy veszíthessenek a kalandodban.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Állítsd be célnak a következőket: „Beszélj vele” vagy „Vizsgáld meg” . A karaktereknek, járműveknek és objektumoknak felvonásonként egy „Beszélj vele”  vagy „Vizsgáld meg”  céljuk lehet.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Állítsd az ellenség személyiségét agresszívre.
+0x07621DD7 Viselkedésmódok
+0x0797266C Próbáld ki a változtatásaidat a Teszt üzemmódban!
+0x077AD33C Állítsd az ellenség észlelését maximumra, így láthatja a kapitányt.
+0x0779D3EF Személyiségek
+0x0779B5E8 Mozgasd a kurzort a Stáb panel fölé, hogy megjelenjen a Viselkedési panel gombja.
+0x0779B5E7 Viselkedési panel
+0x077AC9A2 Helyezd el ezt a jelzőt a stábtagon, hogy kövessen.
+0x077AC9A1 Követésjelző
+0x077AC9D4 Fogd a követésjelzőt, és helyezd a kapitányodra a világodon.
+0x077AD164 Ez meghatározza, milyen messze terjed a stábtag érzékelése, és hogy tud reagálni más objektumokra.
+0x077AD163 Észlelési sugár
+0x0779DB81 Válaszd ki a Mozgás gombot, majd nyomd meg a Követés gombot.
+0x0775CE3E Csapattag hozzáadása
+0x0779D3F0 Állítsd be a stábtag személyiségét a megfelelő gomb megnyomásával. A személyiségek a békéstől az agresszívig változhatnak.
+0x0779DB5F Ezzel a gombbal állíthatod be a stábtagok mozgási lehetőségeit. A mozgás típusai a következőek: vándorló, őrjárat, követő és mozdulatlan.
+0x0779DB5E Mozgás
+0x0779C5B4 Kattints a Viselkedésmód panel gombjára bal egérgombbal!
+0x078D7B6F Miután elhelyezted kapitányodat, kattints az egér jobb gombjával a Hőspanelre, hogy ismét a kapitányra irányítsd a kamerát!
+0x0775CE3F Ha még nem tetted meg, adj egy lényt stábodhoz a palettáról. Húzd le a lényt a palettáról, majd helyezd el világodban!
+0x07621DD8 Hozz létre egy ellenfelet a kapitányodnak a Viselkedésmód panel használatával! Itt tudod beállítani a személyiséget, a mozgást, az éberséget és a csapatokat.
+0x07B4EC8D Ha a világba akarod másolni a stáblista egy tagját, tartsd lenyomva az ALT gombot, majd a bal egérgomb lenyomása mellett húzd a kívánt helyre a másolatot.
+0x07C74109 Az elvégzett változtatások minden felvonásra vonatkoznak. Kattints ballal a Globális mód gombra a kikapcsoláshoz, ha azt szeretnéd, hogy a jövőbeli változtatások csak erre a stábtagra legyenek érvényesek.
+0x07D23C43 Jó! Ennek a lénynek agresszív személyiséget adtál.
+0x07C743A7 Általános viselkedésmódok
+0x07C742C5 Kattints ballal az Alkalmazás-Globális gombra, hogy a stábtagra vonatkozó erre a felvonásra érvényes beállítások az összes felvonásban is felhasználásra kerüljenek.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Növényzet paletta
+0x076390FE Válaszd ki a Növényzet palettát, hogy megváltoztasd a bolygódon a növényzetet. Növényzet csak élő földön él meg, ha a hőmérséklet is megfelelő. A növények méretkategóriája lehet nagy, közepes, és kicsi.
+
+# EP1-TerraMood
+
+0x0771F108 Leállíthatod az időt, vagy folyhat normálisan is.
+0x0771EFA4 Forgasd az időzítőtárcsát kedved szerint.
+0x0771F133 Mozgasd a légkör csúszkáját, hogy beállítsd a felhők sűrűségét. Alacsony sűrűségű légkör meteorzáporokat okoz. Magas sűrűségű villámlást és viharokat.
+0x0796DD5B Hangulatpaletta
+0x0796DE16 Kattints a Hangulatpalettára, hogy beállítsd a pontos időt, a hőmérsékletet, a légkört és a bolygó vízszintjét!
+0x079732F0 Légkör
+0x079732D9 Pontos idő
+0x07A0112B Zárási idő
+0x07957E9C A bolygó hőmérséklete
+0x07957EAD Mozgasd a csúszkát, hogy beállítsd a bolygód hőmérsékletét!
+
+# Complexity Meter
+
+0x07957630 Az összetettségmérő megmutatja, milyen mértékben lehet még változtatni a bolygón.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Kattints bal egérgombbal a Szabad kamera gombra, hogy ki- és bekapcsold a szabad kamera módot
+0x079709BB Szabad kamera
+
+### Checklist UI ###
+
+0x07735BDC Ellenőrzési lista ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 A kalandokban járművek is lehetnek
+0x07621438 A járművek stábtagok. Akárcsak a lényeknek, nekik is van személyiségük és viselkedésük, amelyet te alakítasz ki.
+
+### Tutorial Checklist
+
+0x079C1550 Építs egy falut
+0x079C1527 Alkoss világot
+0x079C1570 Személyiség hozzáadása
+0x079C1523 Mentés
+0x079C1531 Alapvető vezérlés
+0x079C152C Üdvözlet
+0x0797355A Kameravezérlés
+0x07970BD9 Felvonáspanel
+0x079712E5 Több objektumhoz kapcsolódó célok
+0x07733143 Cél kiválasztása  a kapitány számára
+0x07733140 Kapitány elhelyezése
+0x079692E4 Hangok hozzáadása
+0x07733141 Karakterek kiválasztása
+0x07733144 Viselkedés beállítása
+0x0796B1E0 Jármű viselkedésének beállítása
+0x07C7ABAA Bemutatkozás
+0x079C1586 Hozz létre egy játékot
+0x079C1565 Helyezz el egy épületet
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kapitányi felszerelés
+0x079E7D0F Az Energiamérő megmutatja, mennyi energiát használnak el egyes képességek, és mennyit tároltak el és töltöttek fel az akkumulátorok és generátorok. ~p~Ha kifogysz az energiából, nem leszel képes használni a képességeidet. ~p~Húzd meg az energiakart bármelyik kelléken, amelyiknek van ilyenje, hogy felemeld a képességszintjét és az energiafogyasztását.
+0x079E7D0E Energiamérő
+0x07A8F04B Üdvözlünk a Kapitány kelléktárban! ~p~A Villámjáték mód és az Űrfázis kalandjainak végigjátszásával új kellékek válnak elérhetővé kapitányaid számára. ~p~Ezek megjelennek a Kapitányi felszerelés fülön.
+
+# EP1- ShowActUI
+
+0x07635ED1 Felvonáspanel
+0x07972881 Minden felvonáshoz beállíthatod itt a zenét.
+0x07972865 Felvonászene
+0x07635ED2 A Felvonáspanel az, ahol elnevezheted és leírhatod a kalandodban szereplő felvonásokat.~p~A kalandok legfeljebb nyolc felvonást tartalmazhatnak.~p~Itt állíthatod be a felvonások zenéjét is a kalandhoz.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Végy egy pálcikát a tárgyak választékából
+0x0771EAE0 Adj a kapitánynak egy újabb tennivalót
+0x0771EB72 Válaszd ki a II. felvonás célját, és húzd rá a botra!
+0x0771EB1C Helyezd el a pálcikát a földön a kapitány közelében
+0x0771EAC0 Kattints ide bal egérgombbal a második felvonás hozzáadásához! A jelenlegi felvonásnak tartalmaznia kell legalább egy célt, hogy új felvonást adhass hozzá.
+0x0771EC65 Állítsd a cél típusát adásra
+0x0771ECB5 Írd be a célkártya szövegét, amely megmagyarázza a játékosnak az adott célt
+0x0771EC85 Helyezd a második adásjelzőt egy lényre a világban
+0x0771ED0B Ballal a mentés gombra kattintva bármikor elmentheted a munkádat
+0x078DB94B Kattints bal egérgombbal a Rögzített objektum palettára!
+0x078DB6DF Rögzített objektumok
+0x078DB94A Rögzített objektumok
+0x078DB6E0 Kattints bal egérgombbal, és első lépésként helyezd el valamelyik rögzített objektumot a világban!
+0x07763A67 Újabb felvonás hozzáadása
+0x07B4E966 Kalandok mentése
+
+# Checklist
+
+0x07A3CFA7 A beállítások menüben újra bekapcsolhatod a gyakorlópályákat
+0x07912CD1 Ellenőrzési lista
+0x07912D11 Kattints ballal a lista elemeire, hogy megtanuld a kalandok létrehozásának fortélyait!~p~Újabb útmutatók válnak elérhetővé, ahogy lefelé haladsz a listán.~p~Nyisd meg, majd kattints ballal valamelyik hozzáférhető elemre!
+
+# EP1-ShowMinimap
+
+0x0771E3F9 A minitérkép hasznos kalandod irányításában. A kapitány pozíciója, céljai és kiindulási helyzete mind megjelennek a minitérképen.
+0x0775F221 Minitérkép
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Üdv a Kalandlaborban!
+0x0761D564 Alkoss kalandokat, hogy világszerte kihívhasd a Spore játékosait! Szánj rá időt, hogy alaposan megismerd a számodra elérhető eszközöket.~p~Tervezd meg világodat, népesítsd be a legkülönfélébb lényekkel, érj el célokat, és mesélj egy jó történetet a Spore játékosainak!
+
+# Hint
+
+0x0771DE1F Itt adhatod meg a stábtagok mondanivalóját, ami megjelenik a kalandban.
+0x078D93DA Beszélj hozzá szöveg
+0x0771D3CF Kattints ballal a névre és a leírás mezejére, hogy címet adhass kalandodnak!
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Válaszd ki kapitányodat!
+0x07D087E0 Hozz létre egy teljesen új kapitányt a semmiből vagy válaszd ki bármely általad létrehozott lényt az „Összes” szűrőre kattintva. ~p~Kapitányod tapasztalatot (kalandpontokat) szerez majd minden esetben, amikor sikeresen végrehajt egy kalandot. ~p~A tapasztalt kapitányok új felszerelési tárgyakhoz juthatnak.~p~Válassz egy kapitányt és kezdd meg utazásodat!
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minitérkép
+0x079E8124 A minitérkép hasznos kalandod irányításában. ~p~A kapitányod pozíciója, céljai és kiindulási helyzete mind megjelennek a minitérképen.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Most pedig teszteld újra a kalandodat!
+0x07763C47 Vissza Teszt üzemmódba
+
+# EP1-Audio
+
+0x0796A67A Ha még nem tetted meg, válassz egy hangobjektumot a Spóropédiából, majd helyezd el a világodban! Ha föléviszed az egeret, hallhatod a hangját.
+0x0796A679 Hangobjektumok
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Rögzített objektumok választéka
+0x0762143E A rögzített objektumokat díszítésre használhatod, vagy másik játékosok navigálásának segítésére. Azokat az eszközöket és objektumokat is itt találod, amelyek felvehetőek, mozgathatóak, ajándékként adhatóak, illetve megrongálva hevernek a játékban.
+
+# EP1-PaintModeIntro
+
+0x076756BA Terepformálás mód
+0x076756BB A Terepformálás mód témák és eszközök használatával nyújt lehetőséget kalandbolygód színesítésére.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Változtasd a hallótávolságot azáltal, hogy a kurzort az objektum fölé viszed, lenyomva tartod a Shift gombot, és görgeted a középső görgőt az egéren.
+0x0771F1F1 Helyezd a választott hangot a világodba.
+0x0795826C Változtasd meg a dőlésszöget azáltal, hogy kiválasztod az objektumot és elcsúsztatod a gyűrűt!
+0x07972C1C Változtasd meg a méretet azáltal, hogy kiválasztod az objektumot, és mozgatod a szabályozókart!
+
+# Add a building
+
+0x079AC52F Épületek hozzáadása
+0x07C7361C Munka épületekkel
+0x07C73644 Tartsd lenyomva a Tab gombot és az egeret az épület felett, hogy megjelenjenek a fogantyúk, amelyekkel forgathatod azt és beállíthatod q dőlésszögét. A másoláshoz nyomd le az Alt gombot és húzd arrébb az egérrel.~p~Elképzelhető, hogy az egymáshoz túl közel lévő épületek között a járművek és a lények nem tudnak áthaladni.
+0x07BB5926 Épületek elhelyezése
+0x079AC7EF Ha még nem tetted volna meg, válassz egy épületet a Spóropédiából, és helyezd el a világodban!
+0x079AC545 A falu létrehozásának megkezdéséhez válaszd ki az Épületpalettát
+
+# EP1-DragCreature
+
+0x075E4E54 Kattints bal gombbal a lényre, és húzd át a világba, a kapitány közelébe!
+
+# EP1-DragHero
+
+0x07577C95 Kattints bal gombbal a Hőspanelen, és húzd át a kapitányt a világba!
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Használd a csúszkákat az élő és holt talaj színeinek megváltoztatására. Nem biztos, hogy mindig észreveszed majd a különbségeket.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Felgyorsíthatod a világodat, ha ezekre a gombokra kattintasz bal egérgombbal.
+0x0771E735 Kattints ballal az Építés mód gombra a szerkesztés folytatásához!
+0x0771E683 Amit leírsz a célokról, megjelenik a célkártyán
+0x07763BB6 Sebesség gombok
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Tartsd lenyomva a jobb egérgombot és mozgasd az egeret a bolygó felett, hogy körülnézz.
+
+# EP1-Teams
+
+0x0771F3ED Adj lényt az A csapathoz, ha a kapitány oldalára szeretnéd állítani!
+0x0771F410 A B csapat a kapitány ellen harcol
+0x0771F426 Ha nem választasz csapatot, a lény semleges lesz
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Bolygószínező
+0x076390FC A terep színezése a talajszint módosításával történhet, a Talajszint-színező segítségével. Az aktuális színek illeszkednek bolygód témájához.
+0x07BBAF6C A szirtek, partok, atmoszféra és víz színének beállításához kattints ballal az ikonjára, majd válaszd ki a színt a Színválasztékból.
+0x07BBAF80 Próbáld meg a bolygón megváltoztatni a színeket, hogy elérd a kívánt színhatást.
+0x07BBAF62 Szirtek, partok, atmoszféra, víz
+0x07D2278E Csúsztass fel egy emelkedésjelzőt addig a pontig, amit színezni akarsz
+0x07973230 Színezés a talajszint módosításával
+0x079731E7 Válaszd ki a Bolygószínező palettát
+0x07DB8058 Új színréteget a Talajszintemelő sávra kattintva hozhatsz létre.
+0x07D2274B Válaszd ki a jelző színét a színválasztóból! Bármikor törölheted, csak le kell húznod a palettáról.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Kalandbeli küldetéskártyák
+0x07634DAD A küldetéskártyák tudatják a játékossal, mi az aktuális cél.
+
+# EP1-CamZoom
+
+0x07563B2B Használd az egér görgős gombját közelítéshez és távolításhoz.
+
+# EP1-FirstAdventure
+
+0x07D087E1 Üdvözlünk első kalandodban!
+0x07D087E2 Kapitányod tapasztalatot szerez, amikor sikeresen végrehajtod ezt a kalandot. ~p~Kapitányod haladását a Spóropédiában követheted nyomon. ~p~Ha kapitányod egy bolygón tartózkodik, úgy irányíthatod, mint lényedet a lényfázisban. ~p~Lássuk, mi újság…
+
+##Terrain Mode items
+
+0x0762143F Elérhető csapattagok
+0x07621440 Minden, a Spóropédiából a kalandodhoz hozzáadott stábtag itt jelenik meg.
+0x0791911C Növényzet
+0x07919119 Terraformálás
+0x0791911B Időjárás
+0x0791911A Témaválasztás
+0x079C153A Terepszínek
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Légy óvatos, és tartsd az energiaszintedet mindig elég magasan, különben nem fogod tudni használni némely képességedet. ~p~Lásd el a kapitányodat akkumulátorokkal és generátorokkal, hogy megnöveld az energiádat.
+0x079E7E25 Energia
+
+# EP1-ClickButtonAgain
+
+0x07763AD7 Vissza Építés módba
+0x07763AD8 Kattints ismét az Építés mód gombra bal egérgombbal
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Kattints jobb gombbal az ellenségre a Stáb panelen, hogy ráirányítsd a kamerát!
+0x075E5364 Ha át kívánod méretezni, görgesd az egérgörgőt az érintett szereplő fölött a Shift lenyomva tartása mellett!
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Teszt üzemmód
+0x075F5A4F Kattints ballal a Teszt üzemmód gombra, hogy kipróbáld a kalandodat alkotás közben!
+
+# New Join with Sword
+
+0x07A81511 Két objektum cél
+0x078E92E3 Válaszd ki az „Egyesítés” céltípust
+0x07A81521 Fogj meg egy céljelzőt és helyezd az elsőre a közelíteni kívánt objektumok közül!
+0x07A81620 Helyezd a második jelzőt egyesítési cél esetén arra az objektumra vagy lényre, amelyet közelíteni akarsz az elsőhöz.
+0x07A814D8 Az egyesítésre és a blokkolásra vonatkozó célokhoz teljesítéséhez két objektum szükséges, amelyek közül legalább az egyiknek hordozhatónak vagy mozgásra képesnek kell lennie. Az egyesítésnél ezeket egymáshoz közel kell hoznia a kapitánynak, a blokkoláshoz pedig meg kell akadályoznia, hogy közel kerüljenek egymáshoz.
+0x07BA7CC2 Kétobjektumos cél (2. rész)
+0x07BA7DAE Keresd meg vagy helyezd a el a célhoz tartozó második objektumot és a befejezéshez húzd rá a második céljelzőt.
+
+# EP1-NameAdventure
+
+0x0771D3CE Kaland neve
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Ez a Stáb panel
+0x076214A1 Minden, amit a kalandodhoz hozzáadtál, itt jelenik meg.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Szereplő lények választéka
+0x075E079E Kattints bal gombbal, hogy kiválaszd a szereplő lények listáját!
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 A Fejlődéscsík mutatja, hány cél került teljesítésre, és mennyi van még hátra. ~p~Ha a csík betelt, a kaland sikeresen befejeződött.
+0x079E8180 Fejlődéscsík
+
+# EP1-Vehicles
+
+0x0796C959 Válaszd ki a jármű viselkedésgombját!
+0x0796B4AC Járműválaszték
+0x0796B4AD Kattints a Járműválasztékra, hogy kalandodhoz járműveket adhass!
+0x0796C41F Mozgasd a kurzort az új stábtag fölé, hogy előtűnjön a viselkedésgombja!
+0x0796C41E Járművek viselkedése
+0x0796B623 Jármű hozzáadása
+0x0771F308 A jármű viselkedésének beállítása
+0x0771F399 Az őrjáratjelző segítségével jelöld ki a jármű őrjárati útvonalának második  pontját.
+0x0771F293 Adj egy járművet a Spóropédiából a stábhoz, majd a palettáról lehúzva helyezd el a világban!
+0x0796CC7D Kattints ballal a Mozgás gombra, majd válaszd ki az őrjáratozást.
+0x07D23877 A „Menj ide” parancs hasonló, de akkor a karakter csak a következő jelzőig megy el.
+0x07D6257A Az ALT gomb lenyomása mellett húzd arrébb a jelzőt, ha az első után újabb pontot akarsz kijelölni. A jármű ezen pontok között fog őrjáratozni oda és vissza.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Audiopanel
+0x079694A7 Válaszd ezt a palettát, hogy kalandodhoz zenét és hangokat adhass!
+
+# EP1-PlayModeGoalCard
+
+0x079E804A A küldetéskártya mondja meg, mi az aktuális cél. ~p~Teljesítsd az összes célt, hogy elkezdhesd a következő akciót.
+0x079E8049 Küldetéskártya
+
+# EP1-SelectHero
+
+0x07578A4F A kapitány elhelyezése
+0x07578A50 A kapitány a kaland csillaga. Ez lesz a játékos karaktere.
+
+# EP1-TestModeIntro
+
+0x07632EEC Üdv a Teszt üzemmódban
+0x07632EED A Teszt üzemmód lehetőséget nyújt a hibakeresésre, és hogy lejátszd a kalandodat, miközben még építed azt.~p~Térj vissza Építés módba, ha találsz valamit, amit megváltoztatnál a kalandodban.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A50 Építési mód
+0x075F5A51 Kattints bal gombbal az Építési mód gombra, hogy visszatérj a szerkesztéshez!
+
+# EP1-Flora
+
+0x0771F197 Válassz új növényzetet, amelyet majd elhelyezel a bolygódon. Növényzet csak élő talajon él meg, ha a hőmérséklet is kedvező.
+
+# EP1-DragGoal
+
+0x075F39B9 Helyezz el egy céljelzőt egy stábtagon a világban, hogy célokat állapíts meg a kapitány számára!
+0x07971E8D Céljelzőket használhatsz, hogy kijelöld a kapitányod által végrehajtandó célokat. Célok lehetnek: Beszélj vele, Ajándékozd meg, Pusztítsd el, Barátkozz össze vele.
+0x07971D33 Cél kijelölése
+
+##End
+
+0x0762407B Helyezz el hangokat a kalandodban azáltal, hogy a világodra húzod őket. Mozgasd a karokat, hogy beállítsd, milyen messze hallatsszanak a hangok, és állítsd be a lejátszás feltételeit!
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Válaszd ki a Témapalettát
+0x076390FA A témák teljesen új, színes stílust adhatnak a bolygódnak.
+0x079207E3 Témaválaszték
+0x07920810 Témák
+
+#Test Mode Goal Cards
+
+0x07A80599 A Teszt üzemmód lehetővé teszi, hogy átugorj célokat, ha a cél melletti jelzőre kattintasz.
+0x07A805ED Célok kihagyása
+0x07A805F9 Felvonások kihagyása
+0x07A805FE Váltogathatsz a felvonások közt, ha bal gombbal a nyilakra kattintasz a célkártya tetején.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Használd a bélyegzőn látható fogantyúkat, hogy megváltoztasd a méretét, erősségét és irányát!
+
+# EP1-SelectCreature
+
+0x075E2C84 Lény hozzáadása
+0x075E2C85 Kattints bal gombbal, és helyezz el egy lényt a kalandodban!~p~Lépj be a Spóropédiába, hogy kiválassz egy lényt, ha egy sincs jelen.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Üdv Terraformálás módban!
+0x0791F5B7 Terepválaszték
+0x07959720 Használd a bélyegzőket, hogy a földet dimbes-dombossá és egyenetlenné tedd!
+0x07958D39 Válassz egy tetszőleges terepbélyegzőt, majd húzd rá a bolygóra!
+0x0791F5B8 Hegyek
+0x07639102 Itt alkalmazol változtatásokat a földön, választasz növényzetet, és állítod be a bolygó háttérzenéjét.
+0x07B3A935 A talajbélyegekhez válaszd ki a Talajpalettát.
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Használd a párzási viselkedésformát, hogy a lények regenerálódjanak és szaporodjanak.
+0x07A032FB Párzás
+0x07A03396 A Gyakoriság almenüben beállíthatod, milyen gyakran történjen meg. Beállíthatod azt is, hogy egyszerre hány történhet meg a világban.
+0x07A034A1 A játékmenet objektumokat tesztelni kell. Használd gyakran a Teszt üzemmódot.
+0x07A033EF A játékmenet objektumok segítségével teheted a kalandot még nehezebbé és szórakoztatóbbá.~p~Válassz ki egyet a Spóropédiából, és helyezd el a világban!
+0x07A033E5 Játékmenet objektumok
+0x07A02DE0 Válassz egy kéziszerszámot a Spóropédiából, és helyezd el a világodon.
+0x07A02DD5 Kéziszerszám
+0x07A02E13 A kéziszerszámok felszedhetőek, hordozhatóak, és a lényeknek adhatóak.
+0x07A03149 Felvonás időzítő
+0x07A02FFC Kaland borítója
+0x07A03553 Készíts borítófotót Teszt üzemmódban  bal gombbal a kamera gombra kattintva!~p~A kép megjelenik majd az Elnevezés és Leírás panelen.
+0x07A03155 Hogy időlimitet állíts be a kalandod számára, kattints  bal gombbal a Felvonásidőzítő gombra! Ezután állítsd be azt az időt, amely a játékosok rendelkezésére áll, hogy elérjék a célokat a felvonásban!
+0x07A0304F Hogy borítót készíthess a kalandod számára a Spóropédiába, amit a játékosaid megnézhetnek, állítsd a kamerát oda, ahová szeretnéd.~p~Azután nyisd meg az Elnevezés és leírás panelt, és kattints bal gombbal a kamera gombra.~p~Kiválaszthatod azt, amelyik a leghűbben ábrázolja a kalandodat.
+
+# EP1-CamRotate
+
+0x07563B2A A kamera döntéséhez és forgatásához kattints az egér középső gombjára és mozgasd az egeret! A kézikönyvben megtalálod a használható gombok listáját.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Épületek
+0x0762143A Az Épületlaborban létrehozott épületeid nagyszerű ráadást jelentenek a kalandokban. Az épületek tartozhatnak a csapatokhoz, és üzeneteket adhatnak át a játékosnak. Fejlett fegyverekkel meg is rongálhatóak. Agresszívebb nemjátékos karakterek meg is támadhatnak semleges épületeket, vagy olyanokat, amelyek más csapathoz tartoznak.
+

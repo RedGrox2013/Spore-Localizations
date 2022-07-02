@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000017 Risco de colapso do ecossistema no planeta ~mission_target_planet~. Elimine os animais marcados. Rápido!
+0x00000002 Encerrar Transmissão
+0x00000007 Não há mais um colapso da biosfera no planeta ~mission_target_planet~.
+0x00000008 ~mission_num_eradicated_creatures~ de ~mission_num_creatures~ ~mission_target_animal_species~ animais foram eliminados.
+0x00000010 Colapso do ecossistema no planeta ~mission_target_planet~. Os animais ~mission_target_animal_species~ estão extintos.
+0x00000018 Adicione plantas e animais ao planeta ~mission_target_planet~ para impedir o colapso do ecossistema.
+0x0000000B Desastre! Muitos animais saudáveis foram mortos.
+0x0000000F A espécie animal ~mission_target_animal_species~ foi extinta.
+0x00000009 O colapso do ecossistema foi detido.
+0x0000000A Elimine apenas os animais marcados.
+0x00000015 Elimine os animais marcados. E rápido!
+0x00000014 Houve um colapso no ecossistema do planeta ~mission_target_planet~.
+0x00000004 Salve o planeta ~mission_target_planet~ do ecodesastre!
+0x00000011 Desmatamento! Uma espécie de planta foi extinta.
+0x0000000D Animais de rebanhos infectados não são permitidos a bordo do ~ufo_name~.
+0x0000000E Esse animal está doente. Você não pode trazê-lo a bordo!
+0x00000013 O ecossistema do planeta ~mission_target_planet~ entrou em colapso.
+0x00000005 O ecossistema retornou ao seu estado de equilíbrio.
+0x00000012 Colapso do ecossistema no planeta ~mission_target_planet~: Uma espécie de planta foi extinta.
+0x00000090 Elimine as criaturas ~mission_target_animal_species~ infectadas no rebanho.
+0x00000091 O planeta ~mission_target_planet~ foi salvo!
+0x00000021 Atenção, ~player_creature_name~!~p~ Você irá imediatamente ao planeta ~mission_target_planet~ para erradicar os ~mission_target_animal_species~ fracos.~p~Isso é tudo.
+0x00000019 Colapso da biosfera no planeta ~mission_target_planet~: Adicione plantas e animais ao ecossistema para evitar o fracasso no Nível-T!
+0x0000001A ~player_title~ dos ~player_creature_name~! Queremos que você nos ajude, e com urgência.Os fiéis do Spode no planeta ~mission_target_planet~ estão em risco! Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Você deve separar imediatamente os animais infectados do resto do bando, ou o vírus vai se espalhar, e toda a espécie será perdida... iniciando o juízo final daquele planeta.~p~Por favor, seja rápido!
+0x0000001F Meu caro ~player_title~ dos ~player_creature_name~.~p~Conforme ensina o caminho da harmonia, o ciclo da vida tem um ritmo próprio. Infelizmente, essa melodia está desafinando no planeta ~mission_target_planet~!~p~Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Você deve acabar imediatamente com a dor deles. Se continuarem sofrendo, a infecção vai se espalhar e nós perderemos toda a espécie... e isso pode ser só o começo de um colapso completo da biosfera.~p~Faça uma viagem rápida e segura.
+0x00000020 Atenção, ~player_creature_name~! O planeta ~mission_target_planet~ demonstra uma fraqueza que o ~race~ não pode tolerar. Elimine imediatamente os fracos ~mission_target_animal_species~.~p~~race~, câmbio final.
+0x00000006 O ecossistema no planeta ~mission_target_planet~ está em risco! Um vírus está se espalhando entre os rebanhos de ~mission_target_animal_species~ selvagens. Identifique os animais infectados pelo rastro brilhante. ~p~ Separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.
+0x00000001 Mensagem urgente para o Capitão!~p~Nosso ecossistema no planeta ~mission_target_planet~ está sob risco! Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Precisamos de que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.~p~Rápido!~p~~mission_target_planet~, Câmbio!
+0x0000000C Aviso! Se você eliminar mais ~mission_num_healthy_creatures_left~ ~mission_target_animal_species~ saudáveis, eles serão extintos!
+0x0000001B O procedimento de envio do sinal de perigo foi iniciado pelo Grande Conselho. Buscando a assistência do ~player_title~ dos ~player_creature_name~.~p~Nosso ecossistema no planeta ~mission_target_planet~ está sob risco! Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Queremos que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.~p~Você decerto pode imaginar o caos causado por essa situação, em desafio direto à nossa Filosofia da Ordem. Por isso, requisitamos sua intervenção, nos termos do nosso Contrato de Aliança, documento 48, parágrafo LXVIII.~p~Aguardamos sua chegada imediatamente.
+0x0000001C ~player_title~ dos ~player_creature_name~.~p~Um estudo de campo recente sobre a nossa vida selvagem mostrou dados alarmantes. O ecossistema no planeta ~mission_target_planet~ está em risco. Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Queremos que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o início de um colapso na biosfera.~p~Rápido! Inicie o plano de vôo mais eficiente, assim que puder.
+0x00000003 Caro ~player_title~ dos ~player_creature_name~!~p~Apesar de preferirmos deixar que o ciclo da vida siga seu curso natural, um evento trágico exige intervenção. Nosso ecossistema no planeta ~mission_target_planet~ está sob risco! Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Queremos que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.~p~Rápido!
+0x0000001E Oh, ~player_title~ dos ~player_creature_name~! Socorro!~p~Nosso ecossistema no planeta ~mission_target_planet~ está sob risco! Um vírus está se espalhando entre os nossos rebanhos de ~mission_target_animal_species~ selvagens.~p~Queremos que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.~p~Rápido!
+0x0000001D Oh, não! Nada consegue estragar um dia bonito a não ser uma catástrofe ecológica iminente.~p~~player_title~ dos ~player_creature_name~, você tem de vir e consertar as coisas. Nossos rebanhos de ~mission_target_animal_species~ selvagens estão doentes, embora os animais domesticados estejam saudáveis.~p~Queremos que você separe imediatamente os animais infectados do bando, ou o vírus vai se espalhar e eliminar a espécie inteira... e isso pode ser apenas o começo de um colapso completo da biosfera.~p~Rápido! Venha rápido!
+

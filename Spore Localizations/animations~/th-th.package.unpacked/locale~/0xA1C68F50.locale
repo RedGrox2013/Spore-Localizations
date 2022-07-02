@@ -1,0 +1,200 @@
+﻿# Edit Sporecast Title
+
+0x061B3E6B แก้ไข Sporecast
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 รางวัล
+
+# Banning content dialogs
+
+0x045196AD การแบนเนื้อหาล้มเหลว
+0x045196B0 คุณไม่สามารถแบน "~generic0~" ได้เนื่องจากเนื้อหาดังกล่าวเป็นของ Maxis และเป็นส่วนหนึ่งของตัวเกม
+0x04519652 เนื้อหาส่วนนี้ติดตั้งอยู่ในเครื่อง  คุณต้องการลบ "~generic0~" หรือไม่?~br~~br~เกมจะทำการบันทึกและออกไปยังหน้ากาแล็กซี่หลัก ซึ่งคุณสามารถโหลดเกมอีกครั้งได้จากที่นั่น
+0x04519364 แบนเนื้อหา
+0x04519651 คุณต้องการลบ "~generic0~" ออกจากเกมหรือไม่?~br~~br~เกมจะทำการบันทึกและออกไปยังหน้ากาแล็กซี่หลัก ซึ่งคุณสามารถโหลดเกมอีกครั้งได้จากที่นั่น
+0x045196B2 คุณไม่สามารถแบนสิ่งมีชีวิตของคุณเองได้  "~generic0~" จะไม่ถูกแบน
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE เลิกติดตามผลงาน
+
+# Subscribing failed
+
+0x05A5DFA6 สมัคร Sporecast ไม่สำเร็จ
+
+# Create Sporecast Success
+
+0x059497EE สร้าง Sporecast สำเร็จแล้ว
+
+#Build your city Hall dialog box
+
+0x04A5B8EB สร้างใหม่
+0x04A5B9EB โหลด
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB คุณต้องการลบ "~generic0~" จากรายชื่อบัดดี้หรือไม่?
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF คุณต้องการยกเลิกการเป็นสมาชิกของ Sporecast นี้หรือไม่?
+
+# XHTML error dialog message
+
+0x0618AEDB ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ SPORE ได้
+
+# Edit Sporecast Success
+
+0x061B3E6C อัพเดท Sporecast เรียบร้อยแล้ว!
+
+# Already downloaded title
+
+0x066F2FEE ดาวน์โหลดเรียบร้อย
+
+# Delete Sporecast Failure
+
+0x061B3E70 ไม่สามารถลบ Sporecast ของคุณได้
+
+# login failed dialog title
+
+0x055C0E8E ล็อกอินล้มเหลว
+
+#####################################
+# GGE
+
+0x051E63B8 เลือกโปรแกรมกำเนิด
+
+# Subscribe to sporecast message 
+
+0x0618AEDD คุณต้องการสมัครเป็นสมาชิกของ Sporecast นี้หรือไม่?
+
+# Cannot open asset message 
+
+0xF4A30B07 คุณต้องติดตั้งชิ้นส่วนหรือลวดลายเพิ่มเติมเพื่อเปิดชิ้นงานนี้
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 ปิดการเล่นผ่านเครือข่าย
+
+# Subscribe to sporecast title
+
+0x0618AEDC สมัครสมาชิก
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B54 [[[[[NOT IN USE]]]]]~generic0~. The creation cannot be played in game and cannot be shared. Are you sure you want to save?
+0x05399B53 ~generic0~ ผลงานนี้จะไม่สามารถเล่นในเกมและไม่สามารถเผยแพร่ได้ คุณแน่ใจว่าต้องการบันทึกหรือไม่?
+0x05399B51 ~generic0~ คุณแน่ใจว่าต้องการบันทึกหรือไม่?
+0x05399B52 [[[[[NOT IN USE]]]]]~generic0~. The creation cannot be shared. Are you sure you want to save?
+
+# Cannot open asset title
+
+0xF4A30B06 ไม่สามารถเปิดผลงานนี้ได้
+
+# Delete Sporecast title
+
+0x948F6008 ลบ Sporecast
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD4 ยกเลิก
+0x045BEDD3 ไม่บันทึก
+0x045BEDD2 แทนที่
+0x045BEDD1 บันทึก
+0x045BEDD8 ออก
+0x045BEDD9 ออก
+0x045BEDDA ออก-ไม่บันทึก
+0x045BEDDB ยกเลิก-ไม่บันทึก
+0x045BEDD6 บันทึกใหม่
+0x045BEDD5 แบ่งปัน
+0x045BEDD7 บันทึก-แบ่งปัน
+
+# Delete Sporecast message 
+
+0x948F6009 คุณแน่ใจว่าต้องการลบ Sporecast นี้หรือไม่?
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast button option
+
+0x948F600A ลบ
+
+# Tribe game
+
+0x0518AED8 [[[[[NOT IN USE]]]]]
+0x0518AED9 [[[[[NOT IN USE]]]]]
+0x0518AEDA [[[[[NOT IN USE]]]]]
+
+# Create Sporecast Failure
+
+0x059497F4 พบปัญหาในการสร้าง Sporecast
+
+# Edit Sporecast Failure
+
+0x061B3E6D ไม่สามารถอัพเดท Sporecast ได้
+
+#####################################
+# Settings
+
+0x064013CC คุณจะต้องเปลี่ยนค่าทั้งหมดเพื่อปรับการตั้งค่าบัดดี้  เกมอาจจะหยุดลงชั่วคราว  คุณสามารถจะแก้ไขเมื่อคุณเริ่มเกมครั้งหน้าได้ หรือต้องการจะแก้ไขเดี๋ยวนี้?
+0x057E63B7 คุณต้องเปิด SPORE ใหม่อีกครั้ง เพื่อให้การการตั้งค่าความละเอียดแสดงผล
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA เกิดข้อผิดพลาด
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF สร้าง Sporecast
+
+# Already downloaded message
+
+0x066F2FEF คุณมีโมเดลนั้นอยู่ในเครื่องคอมพิวเตอร์ของคุณอยู่แล้ว ดูในแถบ "ทุกหัวข้อ" เพื่อค้นหา
+
+# Add buddy confirmation title
+
+0x0615DB9D เพิ่มบัดดี้
+
+# Add buddy confirmation message 
+
+0x0615DBA2 คุณต้องการเพิ่ม "~generic0~" เป็นบัดดี้หรือไม่?
+
+# Add buddy failed
+
+0x0615DBB1 ไม่สามารถเพิ่มบัดดี้ได้
+
+# Delete message box
+
+0x04A5B7EB ลบ
+
+# Unsubscribing failed
+
+0x05A5DFA5 ไม่สามารถยกเลิก Sporecast นี้ได้
+
+# Save dialog
+
+0x04D96A84 บันทึก ~generic0~ แล้ว
+0x04D96A86 คุณต้องการบันทึกเกมหรือไม่?
+0x04D96A88 SPORE พบบันทึกเกมชำรุด - กำลังพยายามกู้คืนเป็นเวอร์ชันก่อนหน้า
+0x04D96A87 การบันทึกล้มเหลว - กำลังออกจาก SPORE  บันทึกเกมของคุณจะถูกกู้คืนเมื่อเปิดเกมอีกครั้ง
+0x04D96A85 คุณแน่ใจหรือเปล่า? สิ่งที่ยังไม่ได้บันทึกจะสูญหายนะ!
+
+# Remove buddy failed
+
+0x0615DBB5 ไม่สามารถลบบัดดี้ได้
+
+# Remove buddy confirmation title
+
+0x0615DBA8 ลบบัดดี้
+

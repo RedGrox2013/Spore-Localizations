@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 此冒險使用的下列創造物以被伺服器刪除。你想要重新發表它們，好讓其他玩家也能進行此冒險嗎？~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 此冒險使用的下列創造物尚未發表。你想要發表它們，好讓其他玩家也能進行此冒險嗎？~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A 在這個冒險中的一些創造物被禁止了。~p~你的分數將不會被認可。
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B 在這個冒險中的一些創造物被刪除了。~p~你想重新下載它們嗎？
+
+# Editing adventures offline
+
+0x07AA5B66 取代
+0x07AA5B67 取消
+0x07AA5B64 在此冒險下載創造物之前，你必須先行登入。如果你編輯此冒險，那些創造物將會被取代。
+0x07AA5B65 登入
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E 這個冒險裡有被禁止的創造物，還有一些創造物包含了你沒有的組件。~p~一些創造物將會被取代。
+
+# Editing adventures with banned assets
+
+0x0750187C 在這個冒險中的一些創造物被禁止了。~p~一些創造物將會被取代。
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 在這個冒險中的一些創造物被禁止了。~p~你的分數將不會被認可。
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 你必須登入去下載用於此冒險的創造物。
+0x00000004 創造物下載失敗
+0x00000003 取消
+0x00000008 發表中…
+0x00000001 創造物下載程序進度
+0x00000006 發表創造物失敗。
+0x00000007 發表進度
+0x00000002 下載冒險創造物
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 創造物下載失敗。你想繼續嗎？~p~部分內容將會被取代，而你的分數將不會被認可。
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D 在這個冒險中的一些創造物包含了你沒有的組件。~p~一些創造物將被取代。
+

@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Capturar Cidade
+0x04D19085 Converter Cidade
+0x04D1912C Propor Rota Comercial
+0x04D19177 Fazer Comércio com a Cidade
+0x0563CE33 Capturar Cidade (Fora de Alcance)
+0x0563CE86 Converter Cidade (Fora de Alcance)
+0x0563CEC2 Propor Rota Comercial (Fora de Alcance)
+0x05F4FC30 Iniciar Rota Comercial
+0x06776CA9 Converter Cidade (Alvo Automático de Entretenimento para Reduzir Felicidade)
+0x04D19086 Converter Cidade (Demasiada Felicidade – Seleccionar Entretenimento Primeiro)
+
+# Tutorial Buy Sea Unit
+
+0x058C7644 Construir e comprar um Veículo Marítimo.
+0x058C7643 Faça clique no botão Planeador da Cidade para criar e comprar o seu primeiro veículo marítimo.
+0x058C7642 Adquirir
+
+#######################################
+# NPC city hall
+
+0x052ECBE1 Comprar Cidade (Necessita de Mais Comércio)
+0x052ECBE2 Comprar Cidade (Necessita de Rota Comercial)
+0x04D194FE Dar Presente
+0x04D1956A Comprar Cidade
+0x04D29B0C Contactar
+
+# Tutorial Claim Node
+
+0x058B486C Reclamar um Géiser de Especiarias.
+0x058B486B Seleccione um veículo e, em seguida, clique com o botão direito sobre um géiser de especiarias para reclamá-lo.
+0x058B486A Reclamar
+
+############################################################ pie menus
+
+0x06A56B8F Subornar Trabalhadores
+
+# Tutorial Religious Capture
+
+0x058C968E Converter uma Cidade Adversária.
+0x058C968C Captura
+0x058C968D Construa veículos religiosos, clique sobre uma cidade inimiga e seleccione 'Converter Cidade'. Os veículos religiosos também podem afectar edifícios específicos na cidade alvo e bloqueá-los para ficarem inutilizáveis na contenção do seu assalto.
+
+#######################################
+# wall
+
+0x04D195B2 Reparar
+
+#######################################
+# city hall
+
+0x058B51F4 Bomba Napalm $~currency_number~
+0x058B5210 Cura pela Fé $~currency_number~
+0x058B5211 Chuva Negra $~currency_number~
+0x058B5212 Subornos e Confusões $~currency_number~
+0x058B5214 Fusão Global $~currency_number~
+0x05763FE4 Ataque Nuclear Táctico $~currency_number~
+0x04D2B633 Alfaiate da Cidade
+0x04D191CF Comprar Edifícios
+0x04D192DC Comprar Veículos
+0x04D19342 Transição para o Espaço
+0x04E41707 Ataque Míssil Intercontinental $~currency_number~
+0x058B5213 Guerra Publicitária $~currency_number~
+0x056B8A99 Ascensão Messiânica $~currency_number~
+
+# Tutorial Economic Capture
+
+0x058C96A4 Comprar uma Cidade Adversária.
+0x058C96A2 Captura
+0x058C96A3 Construa veículos económicos, clique sobre uma cidade inimiga e seleccione 'Propor Rota Comercial'. Depois de realizar bastante comércio a cidade fica disponível para compra.
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Dispersar
+0x04D960BB Quer vender os veículos seleccionados?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Construa a sua Nave Espacial
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Militar
+0x04D175CB Religioso
+0x04D175CC Economista
+0x04D175CD Recolector
+
+# Tutorial Happy City
+
+0x058C75FF Desenhar uma Cidade Feliz.
+0x058C75FE Clique no botão Planeador da Cidade para criar edifícios de Entretenimento ligados a casas.
+0x058C75FD Desenhar
+
+#######################################
+# building menu
+
+0x04E50472 Vender Edifício por $~currency_number~
+0x04D1A21D Demolir
+
+# Tutorial Military Capture
+
+0x058C9724 Capturar uma Cidade Adversária.
+0x058C9723 Construa veículos militares, faça clique numa cidade inimiga, e seleccione 'Capturar Cidade'. Quanto maior a força militar, maiores são as probabilidades de sucesso.
+0x058C9722 Captura
+
+#######################################
+# vehicle limit
+
+0x04D1A4A7 Limite de Frota Atingido
+0x04D1A4AE Chegou ao limite da frota para este tipo de veículos. Para aumentar este limite, conquiste mais cidades do mesmo tipo.~br~Dica: Pode dispensar veículos premindo a tecla DELETE enquanto tem os veículos seleccionados.
+
+# Tutorial Profitable City
+
+0x058B71B6 Desenhar uma Cidade Rentável.
+0x058B71B5 Faça clique no botão Planeador, na sua Câmara Municipal, para adicionar casas e fábricas interligadas e tornar a sua cidade rentável.
+0x058B71B4 Desenhar
+
+# Tutorial Capture All
+
+0x0590C229 Capturar todas as cidades do planeta para vencer!
+0x0590C22A Capturar Todas as Cidades.
+0x0590C228 Capturar
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Comprar o seu Primeiro Veículo.
+0x05C18512 Faça clique no botão Planeador da Cidade para comprar o seu primeiro veículo.
+0x05C18502 Adquirir
+
+# Tutorial Buy Land Unit
+
+0x058C7627 Clique no botão Planeador da Cidade para comprar outro veículo terrestre.
+0x058C7628 Comprar outro Veículo Terrestre.
+0x058C7626 Adquirir
+
+# Tutorial Buy Air Unit
+
+0x058C765C Faça clique no botão Planeador da Cidade para criar o seu primeiro veículo aéreo.
+0x058C765D Construir e comprar um Veículo Aéreo.
+0x058C765B Adquirir
+
+#######################################
+# player lost
+
+0x04D1A8A8 Perdeu a sua última cidade para um adversário!
+

@@ -1,0 +1,21 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000000 ~ep1_captain_full_name~, we just received word of a biological catastrophe! An unidentified alien craft has crash landed near one of our remote Ecological Research Stations. ~p~We have lost all communication with the station. ~p~We're worried that the alien craft might have been carrying some kind of contagion. ~p~Will you check it out for us?
+0x00000041 It's as we feared. The entire station was lost to the contagion except for this one little girl. Hopefully her immune system holds the clues that will help us prevent this type of catastrophe in the future.~p~ It's not much, but we would like to offer you ~mission_rewards~ Sporebucks for your help in this matter.
+0x0000004E The planetary coordinates have been uploaded to your mission log. Hurry before the contagion spreads.
+0x00000064 I knew we could count on you. Find out what happened at the Research Station and report back here immediately. ~p~Hurry ~ep1_captain_full_name~, before the contagion spreads.
+0x00000071 To be honest, we wouldn't want to beam down to a dangerous planet to investigate a lethal alien contagion either.~p~Your race is smarter than it looks.
+0x00000081 You're sure you don't want to expose yourself to a potentially deadly alien contagion?~p~Our list of guinea pigs is growing shorter... 
+0x000000B1 Investigate the crashed ship on planet ~mission_target_planet~.
+0x000000B2 Report back to planet ~mission_source_planet~.
+0x00000092 Investigate in the ~mission_target_star~ star system. Try to contact the Research Station.
+0x00000093 Heading: ~mission_source_star~ system.
+0x00000094 Investigate in the ~mission_target_star~ star system. Try to contact the Research Station on planet ~mission_target_planet~.
+0x00000095 The investigation on ~mission_target_planet~ has been completed. Report back to planet ~mission_source_planet~ in system ~mission_source_star~.
+0x00000097 In Progress
+0x00000098 Completed
+0x00000099 Success! Report to the ~mission_source_star~ star system.

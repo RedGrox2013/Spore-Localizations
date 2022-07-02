@@ -1,0 +1,19 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000091 Planeettaa ~mission_target_planet~ lähestyy omituinen esine.
+0x0000000E Omituinen alus kävi tutkimassa planeettaa ~mission_target_planet~ ja kieltäytyi vastaamasta kutsuihin.~p~Olisikohan se ollut kropojen alus?
+0x00000013 Huomio! Erikoinen kohde lähestyy planeettaa ~mission_target_planet~.
+0x00000009 Lopeta lähetys
+0x00000012 Salaperäinen alus on poistunut planeetalta ~mission_target_planet~.
+0x0000000B Planeettaa ~mission_target_planet~ lähestyy omituinen esine.
+0x00000090 Tällaisiako kropot ovat?
+0x00000010 Planeetalle ~mission_target_planet~ ilmaantui outo alus, joka ei vastaa viesteihimme.
+0x0000000D Havaitsimme oudon aluksen lähellä planeettaa ~mission_target_planet~. Aluksesta ei vastata kutsuihimme.~p~Voisiko se olla kropojen alus?
+0x0000000C Ehkä se on kropojen alus?
+0x00000011 Salaperäinen alus on poistunut planeetalta ~mission_target_planet~.
+0x00000015 Kapteeni, hei. En haluaisi häiritä sinua, mutta havaitsimme tutkassamme jotain todella erikoista ja kaipaamme apuasi tilanteen selvittämiseksi.~p~Tutkassa havaittu tuntematon alus on matkalla planeetalle ~mission_target_planet~, ja se ei ole vastannut kutsuihimme.~p~Näyttää siltä, että alus käyttää teknologiaa, jota emme ole aiemmin kohdanneet. Luotauskaan ei paljastanut aluksesta mitään tietoja.~p~Kapteeni, pelkäämme, että alus on kropojen luotain.~p~Pyydämme, että tulet pian apuun ja keskeytät luotaimen matkan.~p~~mission_target_planet~ kuittaa.
+

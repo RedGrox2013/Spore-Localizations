@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 Framgång! Avlägg rapport i stjärnsystemet ~mission_source_star~.
+0x000000B2 Avlägg rapport på planeten ~mission_source_planet~.
+0x000000B1 Återställ harmonin på planeten ~mission_target_planet~.
+0x00000093 Kurs: ~mission_source_star~-systemet.
+0x00000097 Pågående
+0x00000098 Avklarat
+0x00000095 Harmonin har återställts på ~mission_target_planet~. Res till planeten ~mission_source_planet~ i systemet ~mission_source_star~.
+0x00000092 Återställ harmonin i stjärnsystemet ~mission_target_star~. Sanningen avslöjas om du stannar på den rätta vägen.
+0x00000041 ~ep1_captain_full_name~, du gjorde det! Du har följt vägen och återställt harmonin. ~p~Hans Endahet har en plats för dig i sin Stora Plan, så ge dig ut och sprid den goda harmoniska stämningen! ~p~Som hjälp på din andliga resa kan vi erbjuda ~mission_rewards~ Sporebucks. Använd dem vist.
+0x00000081 Alla har inte den inre balans som krävs för att navigera mellan de båda sidorna av verkligheten. Vi önskar dig lycka till med den sida du väljer.
+0x00000064 Stråla ned dig och tala med borgmästaren. Han är inte mottaglig för harmonisk energi, men om du lyssnar noga kan du få höra en större sanning.
+0x0000004E Ursäkta mig, vänlige resenär. Jag vill inte skapa obalans i din aura, men byborna behöver din hjälp. ~p~All nödvändig information finns i din uppdragslogg.
+0x00000000 ~ep1_captain_full_name~, vi har uppfångat en nödsignal från en närliggande koloni. Deras lilla by blir anfallen varje natt av fruktansvärda varelser.~p~Vi misstänker att orsaken till dessa störningar är en harmonisk obalans, men vi kan inte lokalisera källan från vår omloppsbana. ~p~ Våld och styrka kommer inte att hjälpa i det här fallet. Men vi anar att du besitter en inre harmoni som kan vara riktigt användbar för det här uppdraget.~p~ Är detta något för dig?
+0x00000094 Återställ harmonin i stjärnsystemet ~mission_target_star~. Invånarna på ~mission_target_planet~ behöver din hjälp.
+0x00000071 Det finns ingen kapten som kan välja alla vägar galaxen kan erbjuda. Må du välsignas på den väg som du väljer.
+

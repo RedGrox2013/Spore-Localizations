@@ -1,0 +1,17 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 กัปตัน! เราต้องการความช่วยเหลือโดยด่วน!~p~จักรวรรดิ ~mission_attacker_empire~ ส่งกองยานมาโจมตีพวกเราแล้ว!!!  รีบไปยังดาวเคราะห์ ~mission_target_planet~ ในระบบดาว ~mission_target_star~ ด้วยเถอะ มิฉะนั้นเราต้องเสียหายอย่างหนักแน่ๆ
+0x00000007 จักรวรรดิ ~mission_attacker_empire~ กำลังโจมตีอาณานิคมของคุณบนดาวเคราะห์ ~mission_target_planet~ ในระบบดาว ~mission_target_star~
+0x00000006 กองยานศัตรูถอนทัพออกจากระบบดาว ~mission_target_star~ หมดแล้ว
+0x00000004 จักรวรรดิ ~mission_attacker_empire~ กำลังโจมตีดาว ~mission_target_planet~!!
+0x00000008 จักรวรรดิ ~mission_attacker_empire~ ถอนกำลังออกจากดาวเคราะห์ ~mission_target_planet~ ในระบบดาว ~mission_target_star~ แล้ว
+0x00000003 จักรวรรดิ ~mission_attacker_empire~ ถอนทัพออกจากดาว ~mission_target_planet~ แล้ว!!
+0x00000005 ศัตรูส่งกองยานมาโจมตีคุณที่ระบบดาว ~mission_target_star~
+0x0000000B ประจำสถานีรบ!  จักรวรรดิ ~mission_attacker_empire~ กำลังโจมตีดาว ~mission_target_planet~!!
+0x0000000C กองทัพของจักรวรรดิ ~mission_attacker_empire~ ถูกขับไล่ออกไปแล้ว
+0x00000002 เลิกการติดต่อ
+

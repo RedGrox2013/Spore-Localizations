@@ -1,0 +1,246 @@
+﻿0x00000061 ~guide: -h1~ Na dobry początek
+0x00000071 ~guide: -h3~ Prosto z galaktyki
+0x00000091 ~guide: -h3~ W fazie stwora
+0x00000A91 ~guide: -h1~ Karty celów
+0x000008F1 ~guide: -h3~ Zwiększanie populacji
+0x00000A11 ~guide: -h3~ Wyposażanie w narzędzia
+0x00000C41 ~guide: -h3~ Aby dokonać podboju:
+0x000009E1 ~guide: -h3~ Rozmieszczenie
+0x00000C21 ~guide: -h2~ Inne plemiona to Twoi główni rywale na świecie.
+0x00000C31 ~guide: -h2~ Aby posunąć grę naprzód, musisz podbić pięć sąsiednich plemion albo sprzymierzyć się z nimi. Wybierz zatem swoją strategię w oparciu o liczebność i narzędzia Twoich przeciwników, a także położenie ich wiosek.
+0x00000A41 ~guide: -bullet~ Kliknij prawym przyciskiem myszy narzędziownię zawierającą narzędzie, którego chcesz użyć.
+0x00000971 ~guide: -h4~ Istnieją trzy kategorie narzędzi:
+0x000009D1 ~guide: -h2~ Każde narzędzie kosztuje określoną ilość pożywienia i daje członkom Twojego plemienia używającym go pewną określoną umiejętność.
+0x000009C1 ~guide: -h3~ Koszty
+0x00000D41 ~guide: -h1~ Zakończenie fazy plemienia
+0x00000A71 ~guide: -h2~ Etap rozwoju ewolucyjnego fazy stwora minął. Oznacza to, że nie możesz już zmieniać zewnętrznego wyglądu swojego stwora, dodając lub przesuwając elementy jego ciała. Możesz jednak kupować wyposażenie dla członków swojego plemienia w planiście plemiennym.
+0x00000A81 ~guide: -h2~ Każdy dodatek wyposażenia zapewnia inne korzyści członkom Twojego plemienia. Wybieraj zatem dodatki pasujące do obranej strategii.
+0x000008A1 ~guide: -h2~ Aby udomowić dzikiego stwora:
+0x000008C1 ~guide: -bullet~ Kliknij prawym przyciskiem myszy dzikiego stwora, którego chcesz udomowić.
+0x00000CC1 ~guide: -h3~ Aby zawrzeć sojusz:
+0x00000C11 ~guide: -h1~ Interakcja z innymi plemionami
+0x00000881 ~guide: -h3~ Udomowianie
+0x00000BD1 ~guide: -h2~ Napady dokonywane przez dzikie stwory albo inne plemiona sygnalizowane są dźwiękiem rogu łowieckiego. Jeśli Twoje plemię znajduje się daleko od domostwa, najwyższa pora wracać do wioski!
+0x00000B61 ~guide: -bullet~ Po przesunięciu kursora myszy nad chatę sąsiedniego plemienia poznasz liczebność tego plemienia oraz jego stosunek do Twojego szczepu.
+0x00000B81 ~guide: -bullet~ Dwukrotne kliknięcie minimapy spowoduje szybkie przeniesienie kamery we wskazane miejsce.
+0x00000B71 ~guide: -bullet~ Kliknięcie minimapy spowoduje przeniesie kamery we wskazane miejsce.
+0x00000B01 ~guide: -h2~ Minimapa pokazuje miejsca ważnych wydarzeń na kontynencie:
+0x00000B91 ~guide: -h1~ Stosunki z sąsiednimi plemionami
+0x00000AF1 ~guide: -h1~ Minimapa
+0x00000BA1 ~guide: -h2~ W fazie plemienia stosunki z innymi plemionami i dzikimi stworami są bardzo ważne.
+0x00000B31 ~guide: -image-left 0x05556b31!minimap-fish.png ~ Łowiska
+0x00000B11 ~guide: -image-left 0x05556b31!minimap-fruit.png ~ Sady owocowe
+0x00000AB1 ~guide: -h3~ Karty minicelów
+0x00000621 ~guide: -h2~ Portrety członków plemienia na liście plemiennej informują, co każdy z nich w danej chwili robi. Jeśli dany stwór posiada narzędzie, jego portret zostanie zastąpiony symbolem tego narzędzia. Dzięki temu możesz obserwować swoich zbieraczy i łowców oraz stan zdrowia i głodu poszczególnych stworów. Ułatwia to też wybieranie członków plemienia najlepiej pasujących do konkretnego zadania.
+0x000005D1 ~guide: -bullet~ Przytrzymaj wciśnięty klawisz Ctrl i klikaj lewym przyciskiem myszy poszczególnych członków plemienia, których chcesz dodać do grupy.
+0x000005E1 ~guide: -bullet~ Przytrzymaj wciśnięty klawisz Ctrl i klikaj odpowiednie portrety na liście plemiennej.
+0x00000671 ~guide: -bullet~ Aby wysłać wybranych członków plemienia w określone miejsce, kliknij prawym przyciskiem myszy punkt na ziemi, do którego mają się udać.
+0x00000681 ~guide: -h2~ Członkowie Twojego plemienia będą wykonywać nakazaną czynność do chwili, gdy surowiec się wyczerpie, czynność stanie się niemożliwa lub coś im przeszkodzi.
+0x00000691 ~guide: -h3~ Nastawienie bojowe i towarzyskie
+0x00000661 ~guide: -bullet~ Po wybraniu członka lub członków plemienia kliknij prawym przyciskiem myszy dowolny interaktywny obiekt, aby nakazać plemieniu podjęcie określonego działania. Na przykład kliknięcie drzewa owocowego spowoduje zbieranie owoców, a kliknięcie łowiska — łowienie ryb.
+0x00000651 ~guide: -bullet~ Obiekty, z którymi można wchodzić w interakcje, zostaną podświetlone po wskazaniu ich kursorem. Również sam kursor może ulec zmianie, informując w ten sposób, że ze wskazywanym obiektem można wejść w interakcję.
+0x00000531 ~guide: -h4~ Kamera pościgowa
+0x00000541 ~guide: -bullet~ Naciśnięcie spacji spowoduje, że kamera będzie śledzić członków plemienia.
+0x00000551 ~guide: -bullet~ Kolejne naciśnięcia spacji będą przełączać kamerę na następnych członków plemienia. Naciskaj spację, aż znajdziesz odpowiedniego stwora lub grupę.
+0x00000521 ~guide: -bullet~ Zbliżanie i oddalanie obrazu umożliwiają również klawisze „+” i „–”.
+0x00000501 ~guide: -h4~ Zbliżanie/oddalanie obrazu
+0x00000511 ~guide: -bullet~ Kółko myszy umożliwia zbliżanie i oddalanie obrazu.
+0x000005B1 ~guide: -h2~ Aby wybrać kilku członków plemienia jednocześnie, skorzystaj z jednej z następujących metod:
+0x000005C1 ~guide: -bullet~ Przytrzymaj wciśnięty lewy przycisk myszy i narysuj prostokąt wokół grupy członków plemienia, których chcesz wybrać.
+0x00000591 ~guide: -h2~ Wybrany członek plemienia zostanie oznaczony żółtym pierścieniem wyboru i będzie wykonywać Twoje polecenia.
+0x00000561 ~guide: -h1~ Sterowanie członkami plemienia
+0x000006A1 ~guide: -h2~ Działania podejmowane przez członków Twojego plemienia zależą od ich nastawienia.
+0x000007D1 ~guide: -h2~ Wszystkie rodzaje plemion — roślino-, mięso- i wszystkożercy — mogą udomawiać dzikie zwierzęta i wykorzystywać ich jaja jako żywność.
+0x000007E1 ~guide: -h3~ Zbieractwo
+0x000007F1 ~guide: -h2~ Sady lub poletka wodorostów przy ławicach umożliwiają zdobywanie żywności stworom roślinożernym.
+0x000007C1 ~guide: -h2~ Dieta Twojego plemienia zależy od typu otworu gębowego. Jeśli Twoje stwory są roślinożercami, muszą zbierać owoce lub wodorosty. Jeśli są mięsożercami, muszą polować lub łowić ryby. Jeśli są wszystkożercami, mogą robić jedno i drugie, ale będą potrzebować nieco więcej jedzenia.
+0x00000791 ~guide: -h1~ Żywność
+0x000007A1 ~guide: -h2~ Żywność jest walutą w fazie plemienia.
+0x00000841 ~guide: -h2~ W fazie plemienia dzikie stwory mogą stanowić zagrożenie dla Twojego szczepu lub źródło pożywienia.
+0x00000851 ~guide: -bullet~ Aby zaatakować dzikie zwierzę, wybierz jednego lub kilku członków plemienia, włącz nastawienie bojowe i kliknij wybrane zwierzę.
+0x00000861 ~guide: -bullet~ Członkowie Twojego plemienia zaatakują cel i jeśli zwyciężą, zaniosą zdobyte mięso do plemiennego zapasu żywności.
+0x00000831 ~guide: -h3~ Polowania
+0x00000821 ~guide: -h2~ Członkowie Twojego plemienia będą zbierać owoce lub wodorosty i przynosić je do plemiennego zapasu żywności, aż źródło owoców lub wodorostów zostanie wyczerpane.
+0x000006F1 ~guide: -h3~ Interakcje z dzikimi zwierzętami
+0x00000701 ~guide: -h2~ Aby wchodzić w interakcje z dzikimi zwierzętami:
+0x00000711 ~guide: -bullet~ Wybierz jednego lub więcej członków swojego plemienia.
+0x000006E1 ~guide: -h2~ Najlepszym podejściem jest ustalanie nastawienia przed wskazaniem członka sąsiedniego plemienia lub dzikiego stwora.
+0x00000761 ~guide: -h3~ Interakcje z innymi plemionami
+0x00000781 ~guide: -h2~ Patrz sekcja „Stosunki z innymi plemionami”.
+0x00000721 ~guide: -bullet~ Wybierz odpowiednie nastawienie: bojowe lub towarzyskie.
+0x00000731 ~guide: -bullet~ Kliknij prawym przyciskiem myszy dzikie zwierzę, z którym chcesz wejść w interakcję.
+0x00000741 ~guide: -bullet~ Wybrani członkowie plemienia zaatakują lub spróbują udomowić wskazane dzikiego stwora, zależnie od wybranego wcześniej nastawienia.
+0x000002C1 ~guide: -h2~ Członkowie plemienia mogą tracić zdrowie podczas walki. Aby przywrócić rannym dobrą kondycję, skieruj ich do swojej wioski, gdzie będą mogli odpocząć i zregenerować siły.
+0x000002D1 ~guide: -h2~ Na ekranie planisty plemiennego możesz zakupić narzędzia, dzięki którym członkowie Twojego plemienia będą szybciej zdrowieć.
+0x000002E1 ~guide: -h3~ Zagłada plemienia
+0x000000D1 ~guide: -h2~ Teraz możesz wybierać całe grupy, które będą wykonywać Twoje polecenia. Liczebność Twojego plemienia wzrasta, gdy osiągasz lepszą pozycję w świecie, podbijając inne plemiona lub zawierając sojusze.
+0x00000291 ~guide: -h2~ Jeśli członkowie plemienia nie zostaną nakarmieni, zaczną tracić zdrowie, aż w końcu umrą.
+0x000002B1 ~guide: -h3~ Zdrowie
+0x00000331 ~guide: -h3~ Ognisty dół
+0x00000351 ~guide: -h3~ Zapas żywności plemienia
+0x00000321 ~guide: -h2~ Chata plemienna znajduje się w centrum Twojej wioski i jest pomalowana odpowiednim kolorem identyfikacyjnym. Gdy Twoje plemię staje się potężniejsze, podbijając inne plemiona lub zawierając sojusze, Twoja chata i wioska będą rosnąć.
+0x00000301 ~guide: -h1~ Wioska plemienna
+0x00000311 ~guide: -h3~ Chata plemienna
+0x00000041 ~guide: -h2~ Dzięki narzędziom uzyskujesz dostęp do morskich bogactw. Twoje plemię może teraz pozyskiwać żywność z mórz: wodorosty dla roślinożerców lub ryby dla mięso- i wszystkożerców.
+0x00000201 ~guide: -h2~ Każdy portret przedstawia:
+0x00000211 ~guide: -bullet~ Narzędzie, w które dany stwór jest aktualnie wyposażony
+0x000001F1 ~guide: -h2~ Portrety wszystkich członków plemienia są wyświetlone wzdłuż prawej krawędzi ekranu.
+0x000001D1 ~guide: -h2~ Wódz (stwór z kosturem) jest silniejszy od innych członków Twojego plemienia. Nie potrzebuje innych narzędzi, ponieważ kostur działa jak dowolne narzędzie znajdujące się w posiadaniu Twojego plemienia.
+0x000001E1 ~guide: -h4~ Członkowie plemienia
+0x00000271 ~guide: -h2~ W miarę skracania się tego paska członkowie plemienia zaczynają odczuwać coraz większy głód i w końcu trzeba będzie ich nakarmić.
+0x00000251 ~guide: -h3~ Głód
+0x00000221 ~guide: -bullet~ Stan zdrowia członka plemienia
+0x00000231 ~guide: -bullet~ Poziom głodu członka plemienia
+0x00000241 ~guide: -h2~ Jeśli dany członek plemienia został uaktywniony w świecie gry, jego portret będzie otoczony żółtym konturem.
+0x000000C1 ~guide: -h2~ Po pewnym czasie Twoje plemię zacznie kontaktować się z innymi szczepami rozwijającymi się na danym kontynencie.
+0x00000471 ~guide: -bullet~ Lub przytrzymaj wciśnięty środkowy przycisk myszy i przesuwaj mysz w lewo lub w prawo.
+0x00000481 ~guide: -bullet~ Klawisze &lt; i &gt; również obracają kamerę.
+0x00000451 ~guide: -h4~ Obracanie kamery
+0x00000421 ~guide: -h2~ Po każdym sojuszu lub zwycięstwie militarnym Twoje plemię upamiętni swoje osiągnięcie, dodając nowy element do słupa totemicznego w Twojej wiosce.
+0x00000431 ~guide: -h1~ Sterowanie
+0x00000441 ~guide: -h3~ Kamera
+0x000004D1 ~guide: -bullet~ Naprowadź kursor myszy na skraj ekranu, aby przesunąć kamerę w tym kierunku (wymaga to włączenia funkcji „Przewijanie ekranu” w ustawieniach gry i nagrywania).
+0x000004F1 ~guide: -bullet~ Do przesuwania kamery służą również klawisze W, A, S i D oraz klawisze strzałek.
+0x000004C1 ~guide: -h4~ Przesuwanie kamery
+0x00000491 ~guide: -h4~ Nachylanie kamery
+0x000004B1 ~guide: -bullet~ Lub przytrzymaj wciśnięty środkowy przycisk myszy i przesuwaj mysz w górę lub w dół.
+0x000003B1 ~guide: -h3~ Narzędziownie
+0x00000391 ~guide: -h2~ Plemienny słup totemiczny jest odzwierciedleniem potęgi i osiągnięć Twojego plemienia.
+0x00000361 ~guide: -h2~ W miarę gromadzenia żywności — mięsa, owoców, wodorostów — członkowie Twojego plemienia będą układać ją na stosie (który stanowi zapas żywności plemienia) obok Twojego totemu.
+0x00000371 ~guide: -h2~ Dzikie zwierzęta uwielbiają napadać na stosy żywności. Jeśli pozostawisz bez opieki duże zapasy żywności w swojej wiosce, dzikie zwierzęta na pewno spróbują swojego szczęścia. O napadzie poinformuje dziennik wydarzeń i dźwięku rogu myśliwskiego.
+0x00000381 ~guide: -h3~ Słup totemiczny
+0x000003F1 ~guide: -h1~ Obserwowanie postępów
+0x00000401 ~guide: -h2~ O Twoich postępach w fazie plemienia informuje pasek postępu u dołu ekranu.
+0x00000411 ~guide: -h2~ Każdy segment paska oznacza jedno zniszczone lub sojusznicze plemię. Aby ukończyć fazę plemienia, musisz zniszczyć wszystkie pięć sąsiednich plemion (lub zawrzeć z nimi sojusze).
+0x00000871 ~guide: -h2~ Zakupienie broni na ekranie planisty plemiennego może zapewnić Twoim stworom przewagę podczas walki z dzikimi stworami.
+0x000000B1 ~guide: -h2~ Najbardziej podstawową rzeczą, jakiej potrzebuje Twoje plemię, jest żywność. Aby przetrwało, musisz zbierać lub polować w celu zdobycia pożywienia.
+0x00000171 ~guide: -h3~ Umiejętności następcze
+0x00000141 ~guide: -h1~ Twoje plemię
+0x000001B1 ~guide: -h4~ Wódz
+0x00000031 ~guide: -h2~ Z właśnie wykształconą inteligencją przychodzi opanowanie ognia, narzędzi i wyposażenia. Mają one podstawowe znaczenie dla sukcesu Twojego plemienia. W fazie plemienia Twoją „walutą” jest żywność.
+0x00000161 ~guide: -h2~ Tożsamość Twojego plemienia jest określana na podstawie koloru podstawowej powłoki Twojego stwora. Barwy konkurencyjnych plemion widnieją na ich skórze, budynkach, narzędziach i na minimapie. Kolory takie odróżniają członków plemion od dzikich stworów, które wciąż mogą przebywać na planecie.
+0x00000111 ~guide: -h2~ Twoim celem w fazie plemienia jest podbijanie konkurencyjnych plemion lub zawieranie sojuszy, aby stworzyć populację wystarczającą do wzniesienia miasta i stworzenia cywilizacji.
+0x000000E1 ~guide: -h2~ Wioska Twojego plemienia jest jego bazą wypadową. To w niej Twoje stwory odpoczywają, regenerują siły, rozmnażają się i gromadzą żywność. Zbudowały tu nawet zagrodę dla udomowionych stworów.
+0x000000F1 ~guide: -h2~ Gdy będziesz dysponować nadwyżką żywności, będzie można ją wykorzystać do kupowania narzędzi lub wyposażenia dla członków Twojego plemienia, aby mogli sprostać wymogom nowego trybu życia.
+0x000001A1 ~guide: -h3~ Plemię
+0x00000101 ~guide: -h1~ Twój cel
+0x00000131 ~guide: -h2~ Pozycja Twojego plemienia wzrasta po przyłączeniu (przez podbój lub sojusz) pierwszego, trzeciego i piątego szczepu. Oznacza to wzrost liczebności i postęp techniczny umożliwiający ostatecznie wybudowanie ratusza i przejście do fazy cywilizacji.
+0x00000151 ~guide: -h3~ Kolor identyfikacyjny plemienia
+0x000001C1 ~guide: -h2~ Na początku fazy plemienia Twój stwór z fazy stwora zostanie mianowany wodzem wioski!
+0x00000891 ~guide: -h2~ Udomowione stwory zostaną włączone do Twojego plemienia jako zwierzęta gospodarcze. Od tej pory możesz jeść ich jaja. Jaja udomowionych stworów mogą jeść zarówno mięsożercy, roślinożercy jak i wszystkożercy.
+0x00000A82 ~guide: -h2~ Więcej informacji na temat stylisty plemiennego znajdziesz w sekcji poświęconej planiście plemiennemu.
+0x00000A42 ~guide: -bullet~ Członkowie Twojego plemienia w krótkim czasie ustawią się w kolejkę i wezmą narzędzia z narzędziowni.
+0x00000902 ~guide: -bullet~ Kliknij swoją chatę, aby zobaczyć przycisk małego stwora.
+0x000008B2 ~guide: -bullet~ Włącz nastawienie towarzyskie członków swojego plemienia, klikając przycisk „Nastawienie towarzyskie” na dole ekranu.
+0x00000922 ~guide: -bullet~ Aby otworzyć planistę plemiennego, przesuń kursor myszy nad chatę plemienia i kliknij przycisk „Planista plemienny”.
+0x00000905 ~guide: -bullet~ Małe stwory nie słuchają poleceń. Musisz poczekać aż dorosną i staną się produktywnymi członkami plemienia. To trochę potrwa.
+0x00000904 ~guide: -bullet~ Kliknij przycisk małego stwora, a z wnętrza chaty wioskowej w tajemniczy sposób wytoczy się jajo (nikt nie wie, co się dzieje w środku). Z jaja wykluje się małe, które dołączy do plemienia.
+0x00000907 ~guide: -h2~ W miarę zdobywania prestiżu przez Twoje plemię (poprzez zawieranie sojuszy lub pokonywanie sąsiednich plemion w walce) populacja Twojego plemienia może rosnąć.
+0x00000906 ~guide: -bullet~ Gdy małe urosną, ich portret dołączy do pozostałych członków plemienia na liście plemiennej.
+0x000000A3 ~guide: -h2~ Teraz kontrolujesz plemię złożone z trzech stworów. Możesz nimi dowodzić pojedynczo lub wszystkimi jednocześnie. Możesz także swobodnie poruszać kamerą, aby po przydzieleniu członkom plemienia zadań śledzić poczynania pojedynczych osobników lub całej grupy,
+0x000000A2 ~guide: -h3~ Teraz dowodzisz plemieniem
+0x000003E2 ~guide: -h1~ Historia i konsekwencje wyborów
+0x00000D32 ~guide: -bullet~ Spróbuj spełnić ich potrzeby instrumentalne, aby rozwinąć stosunki we właściwym kierunku.
+0x00000D33 ~guide: -bullet~ Po zakończeniu piosenki słuchacze ocenią Twój występ. Jeśli ocena będzie wystarczająco wysoka, jesteś na dobrej drodze do sojuszu.
+0x00000D03 ~guide: -bullet~ Kliknij przycisk nastawienia towarzyskiego.
+0x00000642 ~guide: -h3~ Interakcja z obiektami
+0x00000D92 ~guide: -h2~ Sukces Twojego plemienia przypieczętuje ostatecznie rozbudowanie wioski do Twojego pierwszego miasta. Przejdziesz do fabryki budynków, aby zaprojektować lub wybrać ratusz, oraz do fabryki pojazdów, aby skonstruować pierwszy środek lokomocji dla Twojej nowonarodzonej cywilizacji.
+0x000003E3 ~guide: -h2~ W miarę czynienia postępów w fazie plemienia zapisywana jest historia jego działań. Aby przypomnieć sobie podejmowane działania oraz osiągnięcia Twojego plemienia, wciśnij przycisk „Historia” znajdujący się na końcu paska postępu.
+0x00000BC2 ~guide: -h2~ Obfite zapasy pożywienia to dla dzikich zwierząt pokusa nie do odparcia. Będą usiłowały podkraść się do Twoich zapasów żywności, zabrać, ile zdołają, i cichcem wymknąć się z łupem.
+0x00000B82 ~guide: -bullet~ Przesuń kursor myszy nad dowolną z chat widocznych tuż na prawo od minimapy, aby sprawdzić historię stosunków swojego plemienia z danym szczepem.
+0x00000C03 ~guide: -bullet~ Upewnij się, że masz nadmiar pożywienia.
+0x00000C02 ~guide: -h2~ Aby wręczyć podarunek innemu plemieniu:
+0x00000C63 ~guide: -bullet~ Możesz wyposażać różnych członków plemienia w różną broń i wysyłać ich do bitwy jako grupę. To zwiększa ich skuteczność, ponieważ każde narzędzie ma swoje specyficzne właściwości.
+0x00000C62 ~guide: -bullet~ Gdy wyposażysz swoje plemię w narzędzia, zwiększysz siłę jego ataku.
+0x00000C64 ~guide: -bullet~ Może się okazać, że podczas szturmu na wioskę rywala nieodzowne będzie atakowanie również członków plemienia wroga, aby nie udaremnili Twojego ataku.
+0x00000B52 ~guide: -h3~ Obsługa minimapy
+0x00000D21 ~guide: -bullet~ Członkowie Twojego plemienia wyruszą do członka sąsiedniego plemienia albo innej wioski i ustawią się gotowi do pokazu.
+0x00000D31 ~guide: -bullet~ Gdy Twoje plemię gra na instrumentach, drugie plemię będzie myślało o muzyce, której chcą posłuchać.
+0x00000D61 ~guide: -h3~ Twoja historia
+0x00000D71 ~guide: -h2~ Przed wybudowaniem miasta zobaczysz przegląd historii swojego gatunku. Zapisane są tam wszystkie Twoje działania i wybory ewolucyjne od rozpoczęcia życia jako komórka. Ewolucja to podróż, w której najwcześniejsze wybory i działania wywierają wpływ na przyszłość Twojego gatunku.
+0x00000CF1 ~guide: -h4~ Występy dla sojuszu
+0x00000D11 ~guide: -bullet~ Po wybraniu tego nastawienia kliknij członka sąsiedniego plemienia albo jego chatę, aby rozpocząć interakcję społeczną.
+0x00000D81 ~guide: -h2~ Twój gatunek zyska cechę w zależności od obranej ścieżki rozwoju ewolucyjnego. Ta cecha odzwierciedla wybory i działania, które Twój gatunek podjął od rozpoczęcia życia jako komórka. Ta cecha decyduje także o unikalnych umiejętnościach, których Twój gatunek może używać na swoją korzyść w fazie cywilizacji i później!
+0x00000C51 ~guide: -h2~ Aby podbić inne plemię, musisz zrównać jego wioskę z ziemią, czyli doszczętnie zniszczyć jego chatę.
+0x00000BE1 ~guide: -h3~ Poprawianie stosunków przez wręczanie podarunków
+0x00000C01 ~guide: -h2~ Jeśli chcesz poprawić swoje stosunki z innymi plemionami, możesz im wręczać podarunki z żywnością. Następnie możesz zabawiać członków innego plemiona, aby nakłonić ich do zawarcia przymierza.
+0x00000D91 ~guide: -h3~ Od wioski do miasta
+0x00000C61 ~guide: -bullet~ Atakuj wrogie narzędziownie i chaty. W tym celu wybierz grupę członków plemienia, zmień ich nastawienie na wojownicze i kliknij prawym przyciskiem myszy narzędzia lub chatę wrogiego plemienia.
+0x00000911 ~guide: -h1~ Planista plemienny
+0x00000941 ~guide: -h3~ Kupowanie narzędzi
+0x00000931 ~guide: -bullet~ Wybierz pożądaną opcję z zakładek widocznych w lewym górnym rogu ekranu.
+0x00000951 ~guide: -h2~ Rozwijaj swoje umiejętności, kupując narzędzia dla swojego plemienia. Zbierz nadmiar pożywienia i użyj go do zakupu narzędzi w planiście plemiennym.
+0x000008B1 ~guide: -bullet~ Wybierz członków plemienia, którym chcesz rozkazywać, klikając ich lewym przyciskiem myszy.
+0x00000A31 ~guide: -bullet~ Aby wyposażyć członków plemienia w narzędzia, wyjdź z planisty plemiennego i wybierz członków plemienia, których chcesz wyposażyć.
+0x00000A61 ~guide: -h2~ Aby otworzyć stylistę plemiennego, przesuń kursor myszy nad swoją chatę, a następnie kliknij przycisk „Stylista plemienny”.
+0x00000A51 ~guide: -h3~ Wyposaż swoje plemię
+0x00000A21 ~guide: -h2~ Po zakupieniu narzędzi dla swojego plemienia i wyjściu z planisty plemiennego, możesz wyposażyć w nie tylu jego członków, ilu zechcesz.
+0x000009B1 ~guide: -h2~ Konsekwencje Twoich wyborów podczas ewolucji życia komórki decydują, jakimi narzędziami będzie dysponować Twoje plemię na początku fazy. Inne narzędzia pozostaną niedostępne, dopóki nie sprzymierzysz się z plemieniem dysponującym tym narzędziem, albo go nie pokonasz. Zdobyte narzędzia będzie można kupować u planisty plemiennego.
+0x00000981 ~guide: -bullet~ Jedzenie i leczenie — te narzędzia pomogą członkom Twojego plemienia wydajniej zdobywać żywność lub leczyć się.
+0x000009A1 ~guide: -bullet~ Broń — uzbrojenie przydaje się zarówno podczas polowania, jak i w trakcie walk z innymi plemionami. Odpowiednia kombinacja broni sprawi, że Twoje plemię stanie się jeszcze groźniejsze.
+0x00000991 ~guide: -bullet~ Instrumenty — te instrumenty są bardzo ważne podczas prób zaimponowania innym plemionom i nakłonienia ich do zawarcia przymierza. Odpowiednia kombinacja instrumentów może przynieść jeszcze większe korzyści.
+0x00000181 ~guide: -h2~ Decyzje podejmowane w fazach komórki i stwora decydują o tym, jakie unikalne umiejętności będą mieć członkowie Twojego plemienia.
+0x000006B1 ~guide: -h2~ Aby zmienić nastawienie, kliknij odpowiedni przycisk nastawienia pośrodku dolnej krawędzi ekranu.
+0x000006D1 ~guide: -h2~ Nastawienie towarzyskie sprawi, że członkowie plemienia będą podejmować działania towarzyskie lub przyjazne w odniesieniu do innych plemion i dzikich stworów.
+0x000006C1 ~guide: -h2~ Nastawienie wojownicze spowoduje, że członkowie plemienia będą podejmować działania agresywne, gdy nakażesz im oddziaływać na członków innego plemienia, ich narzędziownie lub dzikie stwory.
+0x000007B1 ~guide: -h2~ Gromadzenie zapasów żywności chroni Twoje plemię przed głodem. Za żywność można także kupować narzędzia na ekranie planisty plemiennego.
+0x000005A1 ~guide: -h4~ Wybieranie grup
+0x000004E1 ~guide: -bullet~ Lub przytrzymaj wciśnięty prawy przycisk myszy, a następnie poruszaj myszą.
+0x00000751 ~guide: -h2~ Jeśli udomawiasz dzikie zwierzę, członkowie Twojego plemienia będą mu przynosić jedzenie. Będzie to uszczuplać Twój stos żywności, więc zadbaj o odpowiedni zapas!
+0x00000641 ~guide: -h2~ Po wybraniu członka lub członków plemienia możesz wydawać im komendy za pomocą prawego przycisku myszki.
+0x00000631 ~guide: -h1~ Wydawanie rozkazów
+0x00000081 ~guide: -h2~ W swojej galaktyce wybierz planetę, na której będziesz grać. Następnie stwórz lub wybierz swojego początkowego stwora plemiennego. Bardzo ważnym elementem stwora jest typ otworu gębowego: roślinożercy, mięsożercy lub wszystkożercy. Wybrany typ wpływa na dietę Twojego plemienia, co z znacznym stopniu wpływa na jego zachowanie na planecie. Który typ otworu gębowego wybierzesz?
+0x00000611 ~guide: -h4~ Używanie listy plemiennej
+0x000000A1 ~guide: -h2~ Kończąc fazę stwora, Twój zdobywca intelektu opanował ogień i zbudował małą wioskę plemienną dla trzech stworów. Decyzje podejmowane w kolejnych fazach rozwoju Twojego gatunku wpłynęły na kilka istotnych cech Twojego plemienia: dietę, narzędzia, których będzie mogło na początku używać Twoje plemię oraz unikalne umiejętności.
+0x00000281 ~guide: -h2~ Gdy są głodni, myślą tylko o jedzeniu, więc nakarm ich szybko!
+0x00000261 ~guide: -h2~ Główną troską członków plemienia jest zaspokajanie głodu. Poziom głodu jest ukazany w postaci pomarańczowego paska na portretach na liście plemiennej.
+0x00000021 ~guide: -h2~ Twój gatunek rozwinął inteligencję i utworzył małe plemię! Na kontynencie znajdują się też inne gatunki, które zaczynają formować plemiona. Wkrótce zaczną z Tobą rywalizować. Musisz wchłonąć te plemiona, aby Twój gatunek stworzył pierwsze cywilizowane społeczeństwo na planecie.
+0x000005F1 ~guide: -h4~ Dezaktywowanie członków plemienia
+0x00000341 ~guide: -h2~ Plemienny ognisty dół świadczy o tym, że Twoje plemię okiełznało ogień. Ognisty dół również staje się większy w miarę wzrostu potęgi Twojego plemienia. Gdy Twoje stwory nie są zajęte, wybierz kilku członków plemienia i kliknij ogień, aby rozpocząć taniec plemienny, który poprawi nastrój w wiosce.
+0x00000581 ~guide: -h2~ Aby wybrać członka swojego plemienia, kliknij lewym przyciskiem jego samego lub jego portret na liście plemiennej po prawej stronie ekranu.
+0x00000801 ~guide: -bullet~ Aby rozpocząć zbieranie owoców, wybierz jednego lub kilku członków plemienia i kliknij prawym przyciskiem myszy sad.
+0x00000811 ~guide: -bullet~ Aby rozpocząć zbieranie wodorostów, wybierz jednego lub kilku członków plemienia i kliknij prawym przyciskiem myszy miejsce w pobliżu brzegu, przy ławicy.
+0x000001D2 ~guide: -h2~ Jeśli Twój wódz zginie w bitwie, w tajemniczy sposób odrodzi się z powrotem w Twojej wiosce.
+0x00000BB1 ~guide: -h3~ Kiepskie stosunki
+0x00000575 ~guide: -h4~ Wybieranie postaci
+0x00000601 ~guide: -bullet~ Przytrzymaj wciśnięty klawisz Ctrl i kliknij lewym przyciskiem myszy wybranego członka plemienia w świecie gry.
+0x00000191 ~guide: -bullet~ Umiejętności następcze widnieją nad przyciskami nastawienia (bojowego i towarzyskiego).
+0x00000121 ~guide: -h2~ W tym celu musisz zawrzeć przymierze z innym plemieniem, wręczając jego członkom podarunki lub organizując występy dla nich. Możesz też zetrzeć wszystkie pozostałe plemiona z powierzchni planety, niszcząc ich narzędzia i chaty.
+0x00000571 ~guide: -h3~ Wybieranie członków plemienia
+0x00000903 ~guide: -bullet~ Każdy mały stwór kosztuje plemię 10 jednostek żywności.
+0x000003C1 ~guide: -h2~ W fazie plemienia dostępne są różne narzędziownie. Każda z nich kosztuje określoną ilość żywności. Każde narzędzie daje Twojemu plemieniu nowe możliwości. Ułatwia to walkę o pozycję dominującego plemienia na planecie i osiągnięcie fazy cywilizacji.
+0x000003A1 ~guide: -h2~ Każde zwycięstwo i zniszczenie innego plemienia lub zawarcie sojuszu z innym szczepem spowoduje dodanie nowego elementu totemu do Twojego słupa totemicznego. Po zebraniu pięciu takich elementów Twoje plemię uzyska wystarczający prestiż, aby zmienić wioskę w miasto!
+0x00000BB5 ~guide: -h2~ Atakowanie i napadanie innych plemion pogorszy ich nastawienie względem Twojego szczepu. Często atakowane plemię może podjąć wrogie działania wobec Ciebie.
+0x00000AC1 ~guide: -h2~ Karty minicelów pojawiają się w lewym górnym rogu ekranu gry. Reprezentują one Twoje aktualne postępy na drodze do realizacji danego celu.
+0x00000011 ~guide: -image-left-h1 0x02e9a2ca!butn-trg-norm.png~ Witaj w fazie plemienia
+0x00000CD1 ~guide: -bullet~ Jeśli Twoje stosunki są poniżej neutralnych, przed użyciem umiejętności towarzyskich konieczne może być poprawienie stosunków z drugim plemieniem. Zacznij od wręczania jego członkom podarunków w postaci pożywienia, aby zdobyć ich sympatię, i rozwijaj stosunki we właściwym kierunku. Następnie spróbuj nakłonić do zawarcia sojuszu poprzez zabawianie ich. Całkowite przekonanie innego plemienia do idei przymierza może wymagać długich starań.
+0x00000D00 ~guide: -bullet~ Wyposaż członka plemienia lub ich grupę w instrumenty muzyczne, jeśli je posiadasz. W przeciwnym razie Twoje stwory będą używać naturalnych umiejętności towarzyskich.
+0x00000D02 ~guide: -bullet~ W grupie tej musi się znaleźć wódz.
+0x00000D01 ~guide: -bullet~ Wybierz pojedynczego osobnika albo grupę osobników, którzy będą pełnić rolę wysłanników plemienia.
+0x00000625 ~guide: -bullet~ Kliknij prawym przyciskiem myszy portret jednego z członków plemienia, by wyśrodkować kamerę na wskazanym stworze.
+0x000002A1 ~guide: -bullet~ Uaktywnij głodnego członka plemienia i kliknij plemienny zapas żywności w pobliżu totemu. Głodny stwór zacznie jeść.
+0x000003E1 ~guide: -h2~ Dzikie zwierzęta można udomowić. Udomowione zwierzęta zamieszkają za chatą plemienną. Będą składać jaja, które Twoje plemię może zbierać i dodawać do zapasów żywności.
+0x000003D1 ~guide: -h3~ Udomowione zwierzęta
+0x000003E5 ~guide: -h2~ Styl życia Twojego plemienia — przemyślni myśliwi czy zbieracze, przyjaźni czy wojowniczy sąsiedzi — zadecyduje, jaką cechę uzyska powstająca cywilizacja. Cecha ta zostanie udostępniona, gdy Twoje plemię awansuje na poziom w pełni cywilizowanej społeczności. Wraz z innymi cechami, uzyskanymi przez Twoje plemię na wcześniejszych etapach rozwoju, określi, jakie unikatowe umiejętności będzie mieć Twoja cywilizacja w przyszłości.
+0x000008E1 ~guide: -h2~ Gdy będziesz karmić je wystarczająco długo, udomowisz je, po czym członkowie Twojego stada zagonią stwory do Twojej chaty!
+0x00000901 ~guide: -h2~ Zaczynasz jako plemię złożone z trzech osób, ale masz możliwość dochowania się małych stworów. Przygotowując się do tego, musisz zebrać odpowiednie zapasy pożywienia.
+0x000008D1 ~guide: -bullet~ Członek Twojego plemienia da mu trochę jedzenia. Upewnij się, że masz wystarczające zapasy pożywienia! Im większy będzie dziki stwór, tym więcej jedzenia pochłonie ta akcja.
+0x000004A1 ~guide: -bullet~ Przytrzymaj jednocześnie wciśnięte lewy i prawy przycisk myszy i przesuwaj mysz w górę lub w dół. Na komputerach Mac, przytrzymaj klawisz Command, Option i lewy przycisk myszy.
+0x00000461 ~guide: -bullet~ Przytrzymaj jednocześnie wciśnięte lewy i prawy przycisk myszy i przesuwaj mysz w lewo lub w prawo. Na komputerach Mac, przytrzymaj klawisz Command, Option i lewy przycisk myszy.
+0x00000B41 ~guide: -image-left 0x05556b31!minimap-nest.png~ Sąsiednie plemiona reprezentowane chatami w ich kolorach identyfikujących. Twoja chata będzie większa niż chaty należące do innych szczepów.
+0x00000BF1 ~guide: -h2~ Plemiona, które chcą utrzymywać dobre stosunki z Twoim plemieniem, często będą ofiarowywały ci żywność.
+0x00000BC1 ~guide: -h2~ Plemiona, które nie lubią Twojego szczepu, zaczną cię napadać, starając się kraść Twoje jedzenie lub atakować członków Twojego plemienia i ich narzędzia. Dbaj o utrzymywanie dobrych stosunków z wielkimi plemionami, albo atakuj je z wyprzedzeniem. Inaczej ryzykujesz, że zdobędą nad Tobą przewagę. Jeśli chata Twojego plemienia zostanie zniszczona, oznaczać to będzie koniec całego szczepu.
+0x00000A62 ~guide: -bullet~ Kliknij zakładkę „Stylista plemienny”, a następnie przesuń kursor myszy nad portret członka Twojego plemienia i kliknij, aby wyposażyć.
+0x00000921 ~guide: -h2~ Planista plemienny daje ci dostęp do narzędzi oraz do stylisty plemiennego.
+0x00000AC7 ~guide: -bullet~ Kliknij przycisk „Moja kolekcja”, by przejrzeć dziennik misji, zebrane narzędzia i zebrane wyposażenie.
+0x00000AC5 ~guide: -h1~ Moja kolekcja
+0x00000AA1 ~guide: -h2~ W każdej fazie gry pojawiają się cele lub misje, których wypełnienie pomoże ci w pomyślnym ukończeniu danej fazy.
+0x00000A01 ~guide: -h2~ Aby kupić narzędzie, kliknij je i przeciągnij do wioski na jeden ze świecących pierścieni rozmieszczenia.
+0x00000B21 ~guide: -image-left 0x05556b31!minimap-creature-nest.png ~ Gniazda stworów
+0x00000B51 ~guide: -bullet~ Poszczególni członkowie plemienia wędrujący po kontynencie, oznaczeni są kolorami według przynależności do plemion.
+0x00000125 ~guide: -h3~ Podbicie plemienia lub sprzymierzenie się z nim daje ci dostęp do jego narzędzi i wyposażenia. Nowe elementy znajdziesz w planiście plemiennym.
+0x00000D51 ~guide: -h2~ Gdy wypełnisz pasek postępu, podbijając pięć sąsiednich plemion albo sprzymierzając się z nimi, możesz w dowolnym momencie zdecydować się na przejście do fazy cywilizacji. Kliknij przycisk ewolucji, aby to zrobić.
+0x00000051 ~guide: -h2~ Wciąż otacza cię nieujarzmiony świat. Czają się w nim dzikie zwierzęta, ale możesz się z nimi zaprzyjaźniać i ostatecznie udomowić, lub polować na nie w celu zdobycia żywności.
+0x00000C04 ~guide: -bullet~ Wybierz członków plemienia, a następnie kliknij prawym przyciskiem myszy chatę lub zapas żywności sąsiedniego plemienia.
+0x000002F1 ~guide: -h2~ Jeśli Twoja chata zostanie zburzona przez konkurencyjne plemię, musisz zacząć grę w fazie plemienia od nowa. Jeśli masz zapisany stan gry, rozpoczniesz w miejscu ostatniego zapisu. Jeśli jednak gra nie była zapisywana, rozpoczniesz z wioską liczącą trzech członków plemienia.
+

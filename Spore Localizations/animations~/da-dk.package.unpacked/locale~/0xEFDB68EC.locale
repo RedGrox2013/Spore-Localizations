@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Disse væsener holder positionen.
+0x079817BE Disse væsener følger et andet rollemedlem.
+0x079817BA Disse væsener bevæger sig frem og tilbage mellem to punkter.
+0x079817B5 Disse væsener bevæger sig rundt tilfældigt ved deres startsted.
+0x079EDF5A Disse fartøjer holder positionen.
+0x079EDF5B Disse fartøjer bevæger sig rundt tilfældigt ved deres startsted.
+0x079EDF5C Disse fartøjer bevæger sig frem og tilbage mellem to punkter.
+0x079EDF5D Disse fartøjer følger et andet rollemedlem.
+
+# Planet Paint
+
+0xB6AFCFC0 Dækning
+0xB6AFCFC1 Blomster
+0xB6AFCFC2 Skytype
+
+#Goals:
+
+0x07981798 Forhindr disse: ~ep1_current_cast~ - i at blive ødelagt.
+0x0798178C Forhindr disse: ~ep1_current_cast~ - i at få kontakt med et andet rollemedlem.
+0x0798177E Hold disse: ~ep1_current_cast~.
+0x07981785 Indsaml disse: ~ep1_current_cast~.
+0x07981782 Giv disse: ~ep1_current_cast~ - til et andet rollemedlem.
+0x07981764 Ryk nærmere disse ~ep1_current_cast~.
+0x0798176F Ødelæg: ~ep1_current_cast~.
+0x07981773 Socialisér med: ~ep1_current_cast~.
+0x07981777 Bliv allieret med ~ep1_current_cast~, så dit slæng udvides.
+0x0798177B Tal med følgende: ~ep1_current_cast~.
+0x07981789 Bring ~ep1_current_cast~ - til et andet rollemedlem.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF73 Net
+0x56AFCF75 Svamp
+0x56AFCF72 Rumvæsen
+0x56AFCF70 Standard
+0x56AFCF71 Krølli
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 væsener
+0x07981E93 genstande
+0x07981E92 bygninger
+0x07981E91 fartøjer
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klik på et væsen, en bygning eller et fartøj for at fjerne det fra dit spil permanent.~br~Du fjerner et eventyr permanent ved at afslutte eventyret og åbne Sporepedia (tryk på "B"-tasten).  I Sporepedia kan du finde det eventyr, du gerne vil fjerne. Vælg det og klik på Bandlys kreation-knappen nederst til højre.  Dermed bliver eventyret fjernet, uden at kreationerne i det bliver slettet. Dem skal du fjerne individuelt.~br~En rapport om denne kreation bliver sendt til Spores Kundesupport.
+
+#Awareness:  
+
+0x07981DE3 Afgører, hvor langt disse væsener kan se.
+0x079EDF5E Afgører, hvor langt disse fartøjer kan se.
+
+#Stances:
+
+0x0798179D Disse væsener angriber fjenden ved kontakt.
+0x079817A1 Disse væsener advarer, før de angriber.
+0x079817AD Disse væsener flygter, hvis de bliver angrebet.
+0x079817A9 Disse væsener forsvarer sig kun, når de bliver angrebet.
+0x079817A5 Disse væsener bliver aldrig distraheret fra deres tildelte opgave.
+0x079EDF55 Disse fartøjer angriber fjenden ved kontakt.
+0x079EDF57 Disse fartøjer bliver aldrig distraheret fra deres tildelte opgave.
+0x079EDF56 Disse fartøjer  advarer, før de angriber.
+0x079EDF58 Disse fartøjer forsvarer sig kun, når de bliver angrebet.
+0x079EDF59 Disse fartøjer flygter, hvis de bliver angrebet.
+
+#Pickup:
+
+0x079817C2 Disse væsener samler alle værktøjer op.
+0x079817C5 Disse væsener samler det angivne værktøj op.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7D Shitaake
+0x56AFCE7B Almindelige klipper
+0x56AFCE7A Isklipper
+0x56AFCE7C Lavaklipper
+0x56AFCE72 Konglomerat
+0x56AFCE73 Koral
+0x56AFCE60 Ingen
+0x56AFCE79 Schweizisk
+0x56AFCE75 Granit
+0x56AFCE76 Organisk
+0x56AFCE78 Sandsten
+0x56AFCE74 Krystal
+0x56AFCE77 Pigge
+0x56AFCE71 Lermation
+
+# posse ui
+
+0x0760B242 Mandskab
+
+#mission ending description#
+
+0x0760B241 Færdig
+
+0x0760B0F8 Akt ~ep1_current_act~ Beskrivelse og musik
+0x075E4C79 Angiv måltype
+0x075E4C78 Træk mål til rollemedlem
+0x0760B0F9 Indledning:
+0x0760B0FB Nederlagstekst:
+0x0760B0FA Sejrstekst:
+
+#Teams:
+
+0x07981E72 Disse bygninger bliver angrebet af rollemedlemmer på fjendens hold.
+0x07981E71 Disse væsener angriber aldrig andre rollemedlemmer på deres eget hold.
+0x079EDF5F Disse fartøjer angriber aldrig andre medlemmer på deres eget hold.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Akt ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Dette eventyr har en akt uden mål. Spilleren kan ikke vinde eventyret uden at akten har et mål eller det er den sidste akt i eventyret. Vil du gemme det alligevel?
+
+#Give:
+
+0x079817CE Disse væsener giver et værktøj til et angivet rollemedlem.
+0x079817C9 Disse væsener giver et værktøj til et vilkårligt rollemedlem.
+

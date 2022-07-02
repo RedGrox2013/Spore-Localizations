@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Il me faudrait peut-être une autre mission.
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 Moi ? Toujours prêt pour une Aventure !
+0xFADED01B Comptez sur moi, j'adore les Aventures.
+0xFADED01A Ca m'a l'air intéressant comme Aventure. OK !
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 Merci pour la proposition, mais je dois refuser.
+0xFADED01C Je refuse, mais je ne peux pas vous dire pourquoi.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Essayez de comprendre.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Vous avez visiblement besoin d'un moment. Au revoir.
+0xFADED009 Une autre fois, peut-être. Au revoir.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Quand vous voulez. A plus tard.
+0xFADED016 Aucun problème. Au revoir.
+0xFADED015 Vous aider est un plaisir. A plus...
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Je me désengage de cette tâche.
+0xFADED021 Je n'ai pas le temps pour cette tâche.
+0xFADED020 Je dois décliner cette offre.
+0xFADED022 Je devrais faire autre chose.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Avant d'y aller, j'ai d'autres questions.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C C'est OK ! Un peu de calme !
+0xFADED005 Pigé. A plus.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Bien reçu.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 J'aurais autre chose à vous demander...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A A la prochaine fois.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Une dernière chose...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Mais bien sûr ! Le Journal de mission. Je vais voir ça !
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Ca ne m'intéresse pas. Plus tard peut-être.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Pouvez-vous me rappeler ma mission ?
+0xFADED028 J'ai oublié quelques détails. Vous pouvez répéter ?
+0xFADED027 Hum, que suis-je supposé faire ?
+0xFADED01F J'aurais besoin qu'on me rafraichisse la mémoire.
+0xFADED024 J'ai un trou de mémoire. Que dois-je faire ?
+
+# mission_incomplete -> do exit
+
+0xFADED010 Je vois. Je reviens bientôt.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B Je vois que vous êtes occupé. A plus tard.
+0xFADED008 Désolé de vous avoir dérangé. Au revoir.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Je n'en ferai rien, et pour plusieurs raisons.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Cela ne m'inspire pas. Non.
+0xFADED00D Je ne mange pas de ce pain-là ! Pas question !
+0xFADED012 Non. Je trouve tout ceci... pas très Spore-tif.
+0xFADED014 Jamais ! Je déteste la violence.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Compris. Au revoir.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 J'oubliais...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Avant d'y aller, j'ai d'autres questions.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 L'espèce ~race~ s'interroge. Vous laissez une grande force guider vos pas. Malheureusement pour nous.
+0xFADED02D Bien sûr. Je me disais bien que votre grandeur n'aurait que faire de choses aussi insignifiantes. Voudrez-vous tout de même dépenser un peu d'argent dans ma boutique ?
+0xFADED02E On dirait que vous souhaitez devenir un Capitaine légendaire à votre façon. Ce ne sera pas facile.~p~Et bien bonne chance quand même.
+0xFADED02F Abandonner n'est pas quelque chose que l'espèce ~race~ comprend. ~player_creature_name~ n'est pas ~race~.
+0xFADED033 BIEN... Faites comme ça. Ca ne nous blesse PAS DU TOUT.~p~Bon, peut-être un peu.
+0xFADED032 Vous devez suivre votre voie.~p~Allez en paix mon ami.
+0xFADED031 Vous osez revenir sur votre parole ! Pauvre insolent !
+0xFADED02B Choix intéressant ~player_title~ ~player_creature_name~. Vous disposez peut-être d'informations que nous ignorons, même si cela nous paraît peu probable.
+0xFADED02C Oh, je vois. Oui, c'est ça. ~p~Si vous n'y tenez pas, nous ne voulons pas vous forcer à interragir avec une autre forme de vie. ~p~
+0xFADED034 Entendu ~player_title~ ~player_creature_name~. Nous apprécions votre bienséance.~p~Cela nous épargnera pas mal de paperasse. La procédure d'approbation sous-contractuelle pour le transport de créature interplanétaire nécessite 362 pages paraphées et signées en trois exemplaires chacune.~p~Et encore, cela est bien en dessous des normes en vigueur d'après les règles des procédures opératoires de la galaxie. Et vous devriez voir les prérequis pour le transport d'épices fermentées.
+

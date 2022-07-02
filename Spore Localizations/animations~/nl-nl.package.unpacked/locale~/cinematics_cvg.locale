@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000903 Je hebt deze economische stad met religieuze middelen bekeerd. Economische steden kunnen handelsroutes opzetten waardoor je je relaties kunt beheren en uiteindelijk andere steden kunt kopen. Kies de specialiteit van de stad.
+0x00000904 Je hebt deze militaire stad uitgekocht. Als je deze specialiteit behoudt, kun je militaire voertuigen bouwen om andere steden te veroveren. Kies de specialiteit van de stad.
+0x00000902 Je hebt deze militaire stad met religieuze middelen bekeerd. Als je deze specialiteit behoudt, kun je militaire voertuigen bouwen om andere steden te veroveren. Kies de specialiteit van de stad.
+0x00000901 Je hebt deze economische stad met militaire middelen veroverd. Economische steden kunnen handelsroutes opzetten waardoor je je relaties kunt beheren en uiteindelijk andere steden kunt kopen. Kies de specialiteit van de stad.
+0x00000905 Je hebt deze religieuze stad uitgekocht. Als je deze specialiteit behoudt, moet je steden met een laag geluksniveau aanvallen om hun burgers te bekeren. Kies de specialiteit van de stad.
+0x00000900 Je hebt deze religieuze stad met militaire middelen veroverd. Als je deze specialiteit behoudt, moet je steden met een laag geluksniveau aanvallen om hun burgers te bekeren. Kies de specialiteit van de stad.
+
+# capture - not first, change
+
+0x00000300 Militair
+0x00000301 Religieus
+0x00000305 Economisch
+0x00000302 Economisch
+0x00000303 Militair
+0x00000304 Religieus
+0x00000908 Je hebt deze militaire stad met religieuze middelen bekeerd. Kies de specialiteit van de stad.
+0x00000907 Je hebt deze economische stad met militaire middelen veroverd. Kies de specialiteit van de stad.
+0x00000906 Je hebt deze religieuze stad met militaire middelen veroverd. Kies de specialiteit van de stad.
+0x00000911 Je hebt deze religieuze stad uitgekocht. Kies de specialiteit van de stad.
+0x00000910 Je hebt deze militaire stad uitgekocht. Kies de specialiteit van de stad.
+0x00000909 Je hebt deze economische stad met religieuze middelen bekeerd. Kies de specialiteit van de stad.
+
+# Upgrades
+
+0x00000601 Je hardwerkende wetenschappelijke personeel heeft het waterrad en de mechanische transportband uitgevonden. We kunnen nu voertuigen bouwen om de zeeën te veroveren!
+0x00000603 Gelukt! Zelfs de machtige wind gehoorzaamt nu aan onze technologie! De luchtschoorsteen en de vortexbuis maken het je mogelijk om voertuigen te bouwen die kilometers boven het oppervlak van onze planeet zweven en draaien.
+0x00000605 Verbazend nieuws! Eindelijk hebben we de zwaartekracht overwonnen. Reizen in de ruimte is nu realiteit. Het enige dat nog nodig is, is jouw aandeel in het ontwerp voor het nieuwe voertuig.
+
+##############################
+#########
+# Tutorial cinematics
+
+0x00000213 Ga op zoek naar een specerijengeiser in de buurt zoals deze, en klik erop om daar je voertuig heen te sturen om deze op te eisen. Specerijen zijn een kostbaar goed geworden, door ze te winnen, help je de schatkist van je natie te vullen.
+0x00000108 Je enige stad is veroverd.
+0x00000710 Je stad wordt aangevallen. Verdedig je stad door geschutkoepels op te stellen, gebouwen toe te voegen en het geluk te vergroten.
+0x0000010A Jouw stam domineert dit continent nu, klaar om voor de anderen over te gaan van het eenvoudige dorpsleven naar een beschaafd leven in de stad!
+0x00000403 Gefeliciteerd! Je hebt je eerste specerijengeiser opgeëist.~br~Deze specerijenboortoren zal een constante stroom inkomsten opleveren voor jouw natie.
+0x0000010D Het tijdperk van technologie en transport is aangebroken!~br~Jouw stad is de eerste op de planeet, maar is verdeeld geraakt... Andere steden zullen snel opkomen, gebouwd door facties binnen je eigen soort. Je moet de eenheid terugbrengen om verder te komen.
+0x00000400 Een andere stam van jouw soort heeft een stad op je continent gebouwd! Je kunt ze het beste verslaan nu ze nog zwak zijn, of probeer een bondgenoot van ze te maken.
+0x0653ADAD Je staat op het punt over te gaan naar beschaving.
+
+# Not In use
+
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet. ~br~Your first task is to send it to claim a spice node.
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown. New vehicle types are available for purchase.
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent. ~br~You may want to conquer them while they are still weak or choose to make them an ally.
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown. New vehicle types are available for purchase.
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city.
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet. Click on your city hall to launch a spaceship and explore space.
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests.
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances.
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet.~br~Continued conquest will lead to new vehicle types and eventually to the space age.
+
+# capture - keep
+
+0x00000803 Je hebt deze militaire stad met militaire middelen veroverd.~br~Het blijft een militaire stad.
+0x00000804 Je hebt deze religieuze stad tot jouw religie bekeerd.~br~Het blijft een religieuze stad.
+0x00000805 Je hebt deze economische stad met economische middelen aangekocht.~br~Het blijft een economische stad.
+
+# Deleted
+
+0x0000011F DELETED
+0x00000100 DELETED
+0x00000101 DELETED
+0x00000112 DELETED
+0x00000114 DELETED
+0x00000113 DELETED
+0x00000600 DELETED
+0x00000500 DELETED
+
+# superweapons
+
+0x00000700 Jouw intercontinentale ballistische raket heeft de wereld veroverd.
+0x00000701 Jouw messias heeft de wereld veroverd.
+0x00000702 Jouw wereldwijde fusie heeft de wereld veroverd.
+

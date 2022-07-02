@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492924 Ville perdue
+0x35492925 ~timelineMyCivName~ a perdu une ville.
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ est devenue une civi militaire.
+0x060B4242 Caractère hérité : militaire
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ a évolué mais a perdu la capacité ~timelineAbilityName~.
+0x550A15C2 Compétence perdue : ~timelineAbilityName~
+
+# TRG_MeatGathered
+
+0x05FA01B9 ~timelineSummedCount~ bouts de viande trouvés.
+0x060B4237 ~timelineSummedCount~ bouts de viande trouvés.
+0x94F807CA ~timelineSummedCount~ bouts de viande trouvés.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ ans
+0x555450A5 ~timelineAbsoluteYears~ ans
+
+#### Time Line Title ####
+
+0x0448655A Bâtir une tribu
+0x0448655B Conquête globale
+0x0448655E Exploration de l'Univers
+0x0448655D L'Ere spatiale
+0x0448655C Conquête du monde
+0x04486557 Evolution de la vie sur la terre ferme
+0x04486556 Grossir pour gagner la terre ferme
+0x04486555 Genèse de la vie
+0x04486558 Développement de l'intelligence
+0x04486559 Aube de la civilisation
+0x00000010 Phase Espace
+0x00000001 Mangez pour gagner de l'ADN et grossir
+0x00000011 Croisez des amis et des ennemis dans les Cieux
+0x0000000F Utilisez des véhicules pour conquérir, convertir ou racehter des villes rivales
+0x0000000E Exploitez des mines d'épices pour gagner de l'argent
+0x00000005 Combattez, impressionnez, fouillez
+0x00000006 Gagnez de l'ADN et débloquez des éléments
+0x00000003 Ajoutez des éléments dans l'Atelier et Evoluez
+0x00000013 Colonisez et terraformez des planètes
+0x00000007 Reproduisez-vous pour évoluer
+0x00000002 Battez vos ennemis pour débloquer des éléments
+0x00000012 Accomplissez des missions pour gagner de l'argent
+0x00000000 Phase Cellule
+0x00000004 Phase Créature
+0x0000000D Achetez ou construisez des véhicules à partir de la Mairie
+0x0000000B Acheter des outils pour gagner en efficacité
+0x0000000C Phase Civilisation
+0x00000008 Phase Tribu
+0x00000009 Prenez ou impressionnez 5 tribus rivales
+0x0000000A Chassez, pêchez et cueillez pour gagner de l'argent
+
+# CLG_EatMeat
+
+0x352DBDBB ~timelineMySpeciesName~ a mangé ~timelineEventCount~ bouts de viande.
+0x352DBDBA ~timelineMySpeciesName~ a mangé un bout de viande.
+0x352DBDB9 ~timelineEventCount~ bouts de viande mangés
+0x75580858 Votre cellule a mangé un bout de viande.
+0x75580859 Votre cellule a mangé ~timelineEventCount~ bouts de viande.
+
+# TRG_KilledEpic
+
+0x060B422F A tué un Ogre
+0x05FA01B1 ~timelineMyTribeName~ a tué l'Ogre ~timelineTargetOTDBName~.
+
+# SPG_ColonyOnPlanet
+
+0x05FA01CB ~timelineMyEmpireName~ commence à coloniser ~timelinePlanetName~.
+0x060B424D Colonie sur planète
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 Les ~timelineMySpeciesName~ se sont alliés avec les ~timelineTargetOTDBName~.
+0x060B4221 Alliance
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ a racheté quelque chose à ~timelineTargetEmpireName~.
+0x06300C33 Achat d'une étoile
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~ est mort ~timelineEventCount~ fois.
+0x060B4214 Mort
+0x05FA0196 ~timelineMySpeciesName~ est mort.
+0x75580854 Votre cellule est morte.
+0x75580855 Votre cellule est morte ~timelineEventCount~ fois.
+
+# CVG_CapturedCityEconomic
+
+0x06031AAB ~timelineMyCivName~ a pris une ville à ~timelineTargetCivName~ par des moyens économiques.
+0x060B423D Prise économique
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planète détruite
+0xB54938AD ~timelineMyEmpireName~ a détruit la planète ~timelinePlanetName~.
+
+# SPG_EndedWar
+
+0x35493814 Guerre terminée
+0x35493815 ~timelineMyEmpireName~ n'est plus en guerre contre ~timelineTargetEmpireName~.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Caractère hérité : carnivore
+0x05FA0198 ~timelineMySpeciesName~ est désormais une créature carnivore. En phase Créature, elle ne mangera que de la viande.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Maritime religieux
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ a conçu un nouveau véhicule ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA83A Désinfection des germes cellulaires
+0x064AA83B Différentiation de l'inventaire cellulaire
+0x064AA83C Mélange des modèles de données
+0x064AA838 Mise à jour des vecteurs de remodelage
+0x064AA839 Répartition de la Métaphyte
+0x064AA83D Excrétion du système gastrodermique
+0x064AA842 Calcul des variances d'animation
+0x064AA843 Traçage de la chaîne alimentaire
+0x064AA844 Réticulation des colonnes
+0x064AA83E Application des couches épidermiques
+0x064AA840 Initialisation des sous-systèmes nerveux
+0x064AA841 Redistribution des vecteurs évolutifs
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Terrestre militaire
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Caractère hérité : amical
+0x05FA01B3 La tribu ~timelineMyTribeName~ est devenue une ville religieuse.
+
+# TRG_KilledTribemember
+
+0xB5303DE7 La tribu ~timelineMyTribeName~ a tué ~timelineEventCount~ villageois.
+0xB5303DE6 La tribu ~timelineMyTribeName~ a tué un membre de la tribu ~timelineTargetTribeName~.
+0xB5303DE5 Villageois tué
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ a fondé une ville !
+0x060B4238 Commencer Civilisation
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Fin de la Guerre
+0x9552AA74 ~timelineMyCivName~ n'est plus en guerre contre ~timelineTargetCivName~.
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~ oeufs récoltés.
+0x555BD5C1 ~timelineSummedCount~ oeufs récoltés.
+0x555BD5C0 ~timelineSummedCount~ oeufs récoltés
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Véhicule construit
+0x35523EC1 Véhicule militaire maritime construit.
+0x35523EC2 ~timelineEventCount~ véhicules militaires maritimes construits.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Véhicule construit
+0xB5523D44 Véhicule économique aérien construit.
+0xB5523D45 ~timelineEventCount~ véhicules économiques aériens construits.
+
+# CVG_EditedVehicle
+
+0x05FA01BC La tribu ~timelineMyCivName~ a conçu ~timelineTargetOTDBName~, un nouveau véhicule.
+0x060B423A Véhicule créé
+
+# CVG_EditedBuilding
+
+0x05FA01BB La tribu ~timelineMyCivName~ a conçu ~timelineTargetOTDBName~, un nouveau bâtiment.
+0x060B4239 Bâtiment créé
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ est devenue une civi religieuse.
+0x060B4241 Caractère hérité : religieux
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Caractère hérité : amical
+0x05FA01A5 L'espèce ~timelineMySpeciesName~ a évolué : c'est une espèce amicale.
+
+# CVG_AccessorizedCreature
+
+0x05FA01BD ~timelineMyCivName~ a adopté une nouvelle tenue.
+0x060B423B Nouvelle tenue
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ a gagné les étoiles.
+0x060B424B Commencer Espace
+
+# CRG_BefriendedSomething
+
+0x54F7EDA3 ~timelineMySpeciesName~ a sympathisé avec ~timelineEventCount~ créatures.
+0x060B4227 Vient de sympathiser
+0x05FA01A9 ~timelineMySpeciesName~ a sympathisé avec un ~timelineTargetOTDBName~.
+
+# CRG_Migrated
+
+0x060B421F Nouveau nid
+0x05FA01A1 ~timelineMySpeciesName~ a pris un nouveau nid.
+
+# CRG_Death
+
+0x14F7EF6F ~timelineMySpeciesName~ est mort ~timelineEventCount~ fois.
+0x060B4225 Mort
+0x05FA01A7 ~timelineMySpeciesName~ est mort.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ a découvert l'élément ~timelinePartName~.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Caractère hérité : hostile
+0x05FA01B2 La tribu ~timelineMyTribeName~ est devenue une ville militaire.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ a conçu un nouveau bâtiment ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Terrestre économique
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Véhicule perdu
+0xD4F81D00 ~timelineEventCount~ véhicule maritimes perdus.
+0x05FA01C7 Véhicule maritime perdu.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ a détruit ~timelinePlanetName~.
+0x060B4251 Planète détruite
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Nouvelle tenue
+0xD5147CA7 ~timelineMyEmpireName~ a adopté une nouvelle tenue.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ a inventé ~timelineAbilityName~.
+
+# TRG_BefriendedTribe
+
+0x05FA01AF ~timelineMyTribeName~ s'est alliée avec ~timelineTargetTribeName~.
+0x060B422D Alliance
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Aérien économique
+
+# SPG_ColonyPlaced
+
+0x060B425F Colonie placée
+0x05FA01D3 ~timelineMyEmpireName~ a colonisé ~timelinePlanetName~.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ est en guerre contre ~timelineTargetCivName~.
+0x35492926 Guerre démarrée
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ est devenu un Ménestrel de l'Espace !
+0x060B4255 Compétence héritée : Ménestrel
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 ~timelineEventCount~ véhicules militaires aériens construits.
+0xB5523D41 Véhicule militaire aérien construit.
+0xB5523D40 Véhicule construit
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC A amélioré l'indice-T de la planète
+0x0627E7AD A terraformé ~timelinePlanetName~.
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Caractère hérité : modéré
+0x05FA01B4 La tribu ~timelineMyTribeName~ est devenue une ville économique.
+
+# CRG_PackMemberAdded
+
+0x060B421D Membre de meute ajouté
+0x05FA019F ~timelineTargetOTDBName~ ajouté à votre meute.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ est devenu un Scientifique de l'Espace !
+0x060B4259 Compétence héritée : Scientifique
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~ a conçu un nouveau véhicule ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x05FA01CC ~timelineMyEmpireName~ s'est allié avec ~timelineTargetEmpireName~.
+0x060B424E A trouvé un allié
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Véhicule terrestre économique construit
+0x15523CA3 Véhicule construit
+0x15523CA5 ~timelineEventCount~ véhicules terrestres économiques construits.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Caractère hérité : modéré
+0x05FA01A6 L'espèce ~timelineMySpeciesName~ a évolué : c'est une espèce véloce.
+
+# CVG_CapturedCityReligious
+
+0x06031AAC ~timelineMyCivName~ a pris une ville à ~timelineTargetCivName~ par des moyens religieux.
+0x060B423E Prise religieuse
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Caractère hérité : hostile
+0x05FA01A4 L'espèce ~timelineMySpeciesName~ a évolué : c'est une espèce forte.
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~ a utilisé ~timelineSuperPowerName~.
+0x060B4244 Arme massive utilisée
+
+# CVG_EpicKilled
+
+0x3552A304 Ogre tué
+0x3552A305 ~timelineMyCivName~ a tué l'Ogre ~timelineTargetOTDBName~.
+
+# CRG_KilledSomething
+
+0x060B4226 A tué quelque chose
+0x05FA01A8 ~timelineMySpeciesName~ a tué un ~timelineTargetOTDBName~.
+0xF4F7EE4B ~timelineMySpeciesName~ a tué ~timelineEventCount~ créatures.
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~ a capturé ~timelineEventCount~ des mines d'épices.
+0x060B4243 Mine d'épice capturée
+0x05FA01C1 ~timelineMyCivName~ a pris une mine d'Epices.
+
+# CVG_LostCityByMilitary
+
+0x35492920 Ville perdue
+0x35492921 ~timelineMyCivName~ a perdu une ville.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ a éliminé les ~timelineTargetOTDBName~.
+0x060B4220 Eteinte
+
+# CRG_PackMemberDied
+
+0x060B421E Membre de meute décédé
+0x05FA01A0 ~timelineMySpeciesName~ a perdu un membre de meute.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ est devenu un Chaman de l'Espace !
+0x060B425A Compétence héritée : Chaman
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Véhicule construit
+0x05FA01C3 Véhicule terrestre construit.
+0xB4F817E5 ~timelineEventCount~ véhicules terrestres construits.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Véhicule perdu
+0x54F81C70 ~timelineEventCount~ véhicules terrestres perdus.
+0x05FA01C6 Véhicule terrestre perdu.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA84F Analyse des ressources d'hydrocarbures
+0x064AA850 Surfaçage des textures fantaisistes
+0x064AA851 Population des sous-systèmes continentaux
+0x064AA84E Stabilisation des frontières géostatiques
+0x064AA852 Initialisation du gestionnaire d'effet Doppler
+0x064AA856 Extension des boucles de particules
+0x064AA857 Début de transition mimétique
+0x064AA900 Pollinisation des données virales
+0x064AA853 Envoi des techno-facteurs
+0x064AA854 Lissage des dynamiques urbaines
+0x064AA855 Composition des mélodies d'ambiance
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~ a atteint l'Âge de Lumière.
+0x060B4254 Quasar CQ
+
+# CRG_EvolveInEditor
+
+0x060B421B Génération ~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~ a évolué.
+
+# CVG_AirVehicleLost
+
+0x060B424A Véhicule perdu
+0xF4F81D2C ~timelineEventCount~ véhicules aériens perdus.
+0x05FA01C8 Véhicule aérien perdu.
+
+# SPG_CapturedStare
+
+0x060B4250 A pris une étoile
+0x05FA01CE ~timelineMyEmpireName~ a en partie conquis ~timelineTargetEmpireName~.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Terrestre religieux
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~ perdu.
+0x060B4263 Soucoupe du joueur détruite
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ est devenu un Chevalier de l'Espace !
+0x060B4258 Compétence héritée : Chevalier
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ a évolué et a gagné la capacité ~timelineAbilityName~.
+0x550A15C0 Compétence gagnée : ~timelineAbilityName~
+
+# SPG_EncounteredEmpire
+
+0x060B4264 Empire découvert
+0x05FA01D8 Découverte de ~timelineTargetEmpireName~.
+
+# TRG_GiftGiven
+
+0xB5303DE3 La tribu ~timelineMyTribeName~ a fait un cadeau à la tribu ~timelineTargetTribeName~.
+0xB5303DE4 La tribu ~timelineMyTribeName~ a fait des cadeaux à la tribu ~timelineEventCount~.
+0xB5303DE2 Cadeau donné
+
+# CVG_TradeRouteStarted
+
+0x3549292A Axe commercial établi
+0x3549292B Axe commercial ouvert avec ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~ a construit une nouvelle soucoupe.
+0x060B424C A modifié une soucoupe
+
+# CLG_DiscoverPart
+
+0x060B4211 Découvrir élément
+0x05FA0193 ~timelineMySpeciesName~ a découvert l'élément ~timelinePartName~.
+0x75580853 Elément ~timelinePartName~ découvert.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ est devenu un Guerrier de l'Espace !
+0x060B425D Compétence héritée : Guerrier
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Véhicule construit
+0x94F819B5 ~timelineEventCount~ véhicules maritimes construits.
+0x05FA01C4 Véhicule maritime construit.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ a vaincu ~timelineTargetCivName~.
+0x35492928 Guerre terminée
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ est devenu un Vagabond de l'Espace !
+0x060B425C Compétence héritée : Vagabond
+
+# TRG_UnlockedTool
+
+0xD537EA55 Déblocage de ~timelineAbilityName~
+0xD537EA56 Déblocage de ~timelineAbilityName~.
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ est devenu un Ecologiste de l'Espace !
+0x060B4257 Compétence héritée : Ecologiste
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Nouvel animal : ~timelineTargetOTDBName~
+0x05FA01B0 La ~timelineMyTribeName~ a domestiqué un animal ~timelineTargetOTDBName~.
+
+# SPG_UFODestroyed
+
+0x060B4260 Soucoupe détruite
+0x356A2D21 ~timelineEventCount~ soucoupes détruites.
+0x05FA01D4 Soucoupe de ~timelineTargetEmpireName~ détruite.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Maritime économique
+
+# TRG_TribeMemberDied
+
+0xD4F7FE0D La tribu ~timelineMyTribeName~ a perdu ~timelineEventCount~ villageois.
+0x060B4234 Mort d'un villageois
+0x05FA01B6 ~timelineMyTribeName~ a perdu un villageois.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Aérien militaire
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 ~timelineEventCount~ véhicules terrestres militaires construits.
+0x15523CA1 Véhicule terrestre militaire construit
+0x15523CA0 Véhicule construit
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ est devenu un Négociant de l'Espace !
+0x060B425B Compétence héritée : Négociant
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 Rencontre du premier Grox
+0x05FA01D0 ~timelineMyEmpireName~ a rencontré les Grox.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 ~timelineEventCount~ véhicules terrestres religieux construits.
+0x15523CA7 Véhicule terrestre religieux construit
+0x15523CA6 Véhicule construit
+
+# TRG_ConqueredTribe
+
+0x060B422C A conquis une tribu
+0x05FA01AE ~timelineMyTribeName~ a conquis ~timelineTargetTribeName~.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Recalibration entropique
+0x064AA90C Visualisation de l'influence impériale
+0x064AA908 Accentuation des singularités
+0x064AA909 Equilibrage de quasar
+0x064AA90A Réglage du convertisseur galactique
+0x064AA901 Modification du Champ de Higgs
+0x064AA905 Chargement des nébuleuses rayonnantes
+0x064AA907 Génération de polyphonie galactique
+0x064AA902 Conversion des masses
+0x064AA903 Extension de l'espace local
+0x064AA904 Réglage de la constante gravitationnelle
+0x064AA906 Rotation des systèmes protoplanétaires
+
+# TRG_AccessorizedCreature
+
+0x060B422A Nouvelle tenue
+0x05FA01AC ~timelineMyTribeName~ a adopté une nouvelle tenue.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ a évolué.
+0x060B4212 Génération ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x060B421C Amélioration cérébrale
+0x05FA019E ~timelineMySpeciesName~ a un cerveau plus gros !
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ est devenu un Diplomate de l'Espace !
+0x060B4256 Compétence héritée : Diplomate
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 Les axes commerciaux ont rapporté ~timelineSummedCount~ Sporeflouz.
+0x7552A857 L'Axe commercial rapporte de l'argent
+0x7552A858 Les axes commerciaux ont rapporté ~timelineSummedCount~ Sporeflouz.
+
+# CLG_KilledSomething
+
+0x060B4219 A tué un organisme
+0x05FA019B ~timelineMySpeciesName~ a tué un ~timelineTargetOTDBName~.
+0xF4F7C380 ~timelineMySpeciesName~ a tué ~timelineEventCount~ cellules.
+0x7558085A Votre cellule a tué un(e) ~timelineTargetOTDBName~.
+0x7558085B Votre cellule a tué ~timelineEventCount~ cellules.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Caractère hérité : omnivore
+0x05FA0199 ~timelineMySpeciesName~ est désormais une créature omnivore. En phase Créature, elle mangera des fruits et de la viande.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA848 Structuration des systèmes linguistiques
+0x064AA849 Réécriture des séquences épistémologiques
+0x064AA84A Lissage des morphotypes
+0x064AA845 Analyse des contraintes sociales
+0x064AA846 Développement des abstractions culturelles
+0x064AA847 Révision des animations
+0x064AA84C Phasage des paradigmes de transfert
+0x064AA84D Répartition des compétences cognitives
+0x064AA84B Préparation de l'échantillonnage ethnographique
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x060B425E Compétence héritée : Fanatique
+0x06031C15 ~timelineMyEmpireName~ est devenu un Fanatique de l'Espace !
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 ~timelineSummedCount~ algues récoltées.
+0x555BD5C3 ~timelineSummedCount~ algues récoltées
+0x555BD5C4 ~timelineSummedCount~ algues récoltées.
+
+# SPG_SpiceTraded
+
+0x060B4261 Epice échangée
+0x55564EC3 ~timelineSummedCount~ d'Epice échangée.
+0x05FA01D5 Epice échangée : ~timelineSummedCount~
+
+# SPG_MasterBadge
+
+0x060B4253 Grand Badge gagné
+0x05FA01D1 ~timelineMyEmpireName~ a gagné un Grand Badge.
+
+# CLG_GameStart
+
+0x060B4210 Génération ~timelineGenerationCount~
+0x05FA0192 Sorti de la météorite.
+
+# CVG_EpicCharmed
+
+0x3552A306 Ogre charmé
+0x3552A307 ~timelineMyCivName~ a séduit l'Ogre ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x06031AAA ~timelineMyCivName~ a pris une ville à ~timelineTargetCivName~ par des moyens militaires.
+0x060B423C Prise militaire
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ a perdu ~timelineEventCount~ gisements d'Epice.
+0xD54932C1 ~timelineMyCivName~ a perdu un gisement d'Epice
+0xD54932C0 Gisement d'Epice perdu
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 ~timelineEventCount~ véhicules économiques maritimes construits.
+0x35523EC3 Véhicule construit
+0x35523EC4 Véhicule économique maritime construit.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ a gagné la terre ferme et prend le chemin de l'intelligence.
+0x060B421A Génération ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 ~timelineEventCount~ plantes mangées
+0x352DBDB8 ~timelineMySpeciesName~ a mangé ~timelineEventCount~ bouts de plante.
+0x352DBDB7 ~timelineMySpeciesName~ a mangé une plante.
+0x75580856 Votre cellule a mangé une plante.
+0x75580857 Votre cellule a mangé ~timelineEventCount~ plantes.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ a formé une tribu.
+0x060B4229 Commencer Tribu
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~ est entré en guerre avec ~timelineTargetEmpireName~.
+0x060B424F Entre en guerre
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Maritime militaire
+
+# TRG_TribeMemberBorn
+
+0xD4F81307 ~timelineEventCount~ bébés sont nés dans la tribu ~timelineMyTribeName~.
+0x060B4233 Naissance d'un villageois
+0x05FA01B5 ~timelineMyTribeName~ accueille un nouveau bébé.
+
+# SPG_RareFound
+
+0x05FA01D6 Objet rare trouvé : ~timelineRareName~
+0x060B4262 Raretés trouvées
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Véhicule construit
+0x34F81C5A ~timelineEventCount~ véhicules aériens construits.
+0x05FA01C5 Véhicule aérien construit.
+
+# TRG_FruitGathered
+
+0x05FA01B7 ~timelineSummedCount~ fruits cueillis.
+0x060B4235 ~timelineSummedCount~ fruits cueillis.
+0x94F804D9 ~timelineSummedCount~ fruits cueillis.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ est devenue une civi économique.
+0x060B4240 Caractère hérité : économique
+
+# TRG_FishGathered
+
+0x54F8079A ~timelineSummedCount~ poissons pêchés.
+0x05FA01B8 ~timelineSummedCount~ poissons pêchés.
+0x060B4236 ~timelineSummedCount~ poissons pêchés.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 ~timelineEventCount~ véhicules religieux maritimes construits.
+0x35523EC6 Véhicule construit
+0x35523EC7 Véhicule religieux maritime construit.
+
+# CVG_TradeCompleted
+
+0x3549292C Transaction conclue
+0x3549292D ~timelineMyCivName~ a négocié pour ~timelineSummedCount~ Sporeflouz.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Véhicule religieux aérien construit.
+0xB5523D48 ~timelineEventCount~ véhicules religieux aériens construits.
+0xB5523D46 Véhicule construit
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Aérien religieux
+
+# CVG_GiftGiven
+
+0xD54932C3 Argent versé
+0xD54932C4 ~timelineMyCivName~ a payé ~timelineSummedCount~ Sporeflouz.
+0xD54932C5 ~timelineMyCivName~ a payé ~timelineSummedCount~ Sporeflouz.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Caractère hérité : herbivore
+0x05FA0197 ~timelineMySpeciesName~ est désormais une créature herbivore. En phase Créature, elle ne mangera que des fruits.
+

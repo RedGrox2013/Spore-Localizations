@@ -1,0 +1,39 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000084 ...
+0x0000000B W tej chwili nie interesuje mnie to. Może kiedy indziej.
+0x00000005 Czy możemy pomówić o czymś innym...
+0x00000008 Chcę zapytać o coś innego...
+0x00000003 Chcę zapytać o coś innego...
+0x00000009 Uciekam.
+0x00000006 Możesz mi przypomnieć, na czym polega mój trening?
+0x00000007 Rozumiem. Mów dalej.
+0x00000017 Trening w zakresie Filozofii Siły dobiegł końca! Wracaj do układu ~mission_source_star~!
+0x00000022 Czuję gotowość do poświęceń. Nauczajcie mnie.
+0x0000006B Chciałbym porozmawiać o czymś innym...
+0x0000007E Wybaczcie, ale muszę iść.
+0x0000004E Wiem, że zapłaciłem za trening, ale muszę z niego zrezygnować.
+0x0000004A Rozumiem. Jeszcze jedno...
+0x00000071 Żegnam.
+0x00000013 Podbijając planety, poznasz tajniki Filozofii Siły.
+0x00000029 Rozmyślam się. Muszę jeszcze poćwiczyć na masę i rzeźbę. Mam karnecik akurat i... Może za jakiś czas.
+0x00000053 Żegnam.
+0x00000034 Cała przyjemność po mojej stronie. Chcę zapytać o coś innego...
+0x00000012 Trening ukończony!
+0x0000003A Ruszam wypróbować moją nową umiejętność pirackiego zewu! Ale się przeciwnik zdziwi!
+0x00000014 Wróć do układu gwiezdnego ~mission_source_star~, żeby odebrać nagrodę!
+0x0000005F Żegnaj, do zobaczenia.
+0x00000033 ~player_creature_name~! Wygląda na to, że jesteście rasą godną zaufania! Udowodniliście swoją siłę. Wasz trening dobiegł końca. Chodźcie na kurhan, nauczymy was mocy pirackiego zewu.
+0x00000011 Liczba planet do podbicia: ~mission_num_actions_left_to_perform~.
+0x0000000F W porządku, ~player_creature_name~. Powróćcie, kiedy będziecie w stanie okazać należyte poświęcenie.
+0x00000001 A więc ~player_creature_name~ chcieliby poznać Filozofię Siły? ~player_creature_name~ pragną poznać drogę wielkich wojowników? Filozofia Siły to przyjaźń na polu walki, to moc pirackiego zewu, który przywoła towarzyszy, by pomogli w ciężkich chwilach. Siła tkwi w przyjaźni! ~p~~player_creature_name~ powinni zdawać sobie sprawę, że szkolenie nie jest łatwe. Aby podążać drogą Siły, potrzeba wielu wyrzeczeń. Uczeń musi pracować nad swoją kondycją, uczeń musi całkowicie oddać się sprawie.
+0x00000002 Filozofia Siły nie jest łatwa. ~player_creature_name~ muszą wykazać się poświęceniem. Poświęcenie to droga do potęgi. ~p~ Musicie zapłacić ~mission_accept_cost~ sporylionów, a także oduczyć się poprzedniej supermocy. Tylko wówczas my, ~race~, nauczymy was Filozofii Siły.
+0x00000010 Dumna rasa z ~race~ traci tylko czas na szkolenie takich mięczaków.
+0x00000004 ~player_creature_name~ muszą podbić jeszcze więcej planet. Co najmniej ~mission_num_actions_left_to_perform~! Tylko wtedy szlachetni z ~race~ będą mogli uznać waszą siłę za wystarczającą, aby uznać was godnymi.
+0x0000000E Niech rozpocznie się trening. Aby gatunek ~player_creature_name~ poznał wartość Filozofii Siły musi nauczyć się odwagi. Pokaż na co cię stać. Pokaż na ile jesteś w stanie się odważyć. Podbij kilka planet, powiedzmy ~mission_num_actions_left_to_perform~, a nauczymy cię pirackiego zewu!
+0x00000016 Aby ukończyć szkolenie w zakresie Filozofii Siły, konieczne jest wykazanie, że jest się jej wartym. Widzę, że wciąż nie udało ci się podbić ~mission_num_actions_left_to_perform~ ~^p^mission_num_actions_left_to_perform^planety^planet~. Wróć do nas, gdy podbijesz wszystkie.
+

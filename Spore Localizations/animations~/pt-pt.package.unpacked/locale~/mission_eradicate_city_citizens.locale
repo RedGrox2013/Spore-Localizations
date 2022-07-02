@@ -1,0 +1,302 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000E8 ...
+0x00000006 Sim, sim... Acho que tem razão. Talvez o mal deva ser corrigido.~p~Muito bem! encarregamo-lo de ELIMINAR os impostores, mas não os cidadãos comuns. Não, não. Esses devem ser deixados em paz.~p~
+0x00000007 Os princípios fundamentais da civilização galáctica implicam que todas as espécies obedeçam às leis determinadas por um grupo de cidadãos. Infelizmente, uma minoria de um dos nossos mundos federados escolheu não respeitar esta norma de comportamento. Aceitaria uma missão para restaurar a paz neste mundo?
+0x00000008 Uma praga vinda do espaço está a substituir os nossos cidadãos no planeta ~mission_target_planet~ por réplicas alienígenas criadas em vagens! Estas criaturas estão a atacar os nossos cidadãos! Ajuda-nos a erradicar esta ameaça?
+0x00000002 Esta missão requer habilidade. Negaremos qualquer envolvimento, portanto, o melhor é não ser apanhado.~p~Se for visto a erradicar indivíduos doentes, isso irá provocar o pânico. Se toda uma cidade entrar em pânico, poderá esperar rataliações militares por parte dos meios de defesa da cidade.
+0x0000000F Missionários alienígenas estranhos, que adoram algo denominado Spode, chegaram ao planeta ~mission_target_planet~. Agora, os convertidos estão a tentar matar os seguidores do Deus Que Vai Chegar. Somos tolerantes em relação a tudo, menos à intolerância, pelo que achamos que é talvez boa ideia mandar estes arruaceiros para a outra vida. Pode ajudar-nos?
+0x0000000D Detestamos ter de admitir isto... mas uma partida idiota correu mal.~p~Para causar confusão, criámos clones dos habitantes do planeta ~mission_target_planet~ e colocámo-los nas cidades.~p~Imaginem! Ir a andar na rua e ver a mesma pessoa uma e outra vez! É hilariante!
+0x0000000E Amotinados de outro mundo estão a ameaçar saquear a nossa missão comercial pacífica. Como somos um povo pacífico, as nossas respostas possíveis estão limitadas. Serão oferecidas muitas recompensas a quem consiga salvar a nossa espécie ameaçada. A hipótese de uma recompensa alicia-o?
+0x00000004 Tenho de me despachar. Adeus.
+0x0000000B Uma experiência bioquímica de controlo social, destinada a aumentar a racionalidade e a cooperação entre a nossa espécie, correu terrivelmente mal no planeta ~mission_target_planet~. Os sujeitos da experiência estão a atacar os seus concidadãos! Pode ajudar-nos a resolver a situação?
+0x00000009 Piratas de genes ilegais espalharam uma praga de zombies no planeta ~mission_target_planet~!~p~Esta epidemia faz com que as pessoas se ataquem umas às outras, espalhando assim a infecção.~p~Infelizmente, os zombies têm de ser transformados em adubo orgânico saudável, antes que a epidemia varra todo o mundo!~p~Pode ajudar-nos nesta missão?
+0x0000000A Um cientista patife chamado Garb está em acção no planeta ~mission_target_planet~! Criou um implante cerebral que apaga a memória de uma pessoa e a enche de vontade de obedecer apenas a Grox. Há o risco de subverter toda a população! Pode ajudar-nos?
+0x000000D7 Dei bronca. Upsss.
+0x00000073 Gostaria de perguntar outra coisa...
+0x0000002E Lamento, mas não. Tenho muito que fazer neste momento.
+0x0000003C Missionários que andam a espalhar a Palavra de Spode lançaram um ataque ao planeta ~mission_target_planet~. Gostaria de fazer um pouco de tiro ao alvo?
+0x000000D6 Lamento. Eu saio sem dar nas vistas.
+0x0000009D Não pude deixar de reparar que ainda há uma grande concorrência para aquele cargo no planeta ~mission_target_planet~. Por que não parte para o sistema ~mission_target_star~ e se livra daqueles vilões malcheirosos?
+0x0000007E Além disso...
+0x00000115 Possibilidade de infecção. Incineração...
+0x00000065 Viaje até ao sistema ~mission_target_star~ e mate os inimigos de Spode no espaço de ~mission_time~ sectons. A nossa causa não admite atrasos! Que Spode o abençoe!
+0x0000008B Antes de ir, queria fazer outras perguntas.
+0x00000029 E se toda a gente entrar em pânico?
+0x00000061 Excelente! Vá até ao sistema ~mission_target_star~. Aí, terá ~mission_time~ sectons para salvar o planeta!
+0x000000C2 Desiste? Eles nem estavam a ripostar!
+0x00000091 Já percebi que precisa de estar sozinho. Adeus.
+0x00000111 Todos os cidadãos identificados foram eliminados.
+0x0000012B Missão Cumprida! Regresse ao planeta ~mission_source_planet~ para a sua recompensa.
+0x00000074 Antes de ir, queria fazer outras perguntas...
+0x000000BE Compreendemos... não consegue evitar o seu comportamento irracional, por mais que tente.
+0x00000011 Acho que posso ajudar.
+0x0000005A A praga de cidadãos alterados foi vencida, com a sua ajuda, e podemos iniciar a tarefa de restabilização do ecossistema do planeta ~mission_target_planet~. É com agrado que lhe damos ~mission_rewards~ Sporoas.
+0x00000117 O tempo da missão expirou.
+0x00000049 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.
+0x0000002A O que acontece se houver altercações?
+0x0000009A Obrigado. É um prazer negociar consigo.
+0x000000C3 Não se importa com as mortes? A sua fraqueza fica registada.
+0x0000006C Está bem. Eu volto.
+0x0000002C Lamento ter de recusar.
+0x00000014 Queremos um relatório completo.
+0x0000008F Fica para a próxima. Adeus.
+0x000000E9 Preferia fazer outra coisa.
+0x000000AD Ei, tem um instante?
+0x00000066 Spode enviou-o mesmo em nossa ajuda! Vá imediatamente ao sistema ~mission_target_star~ e queime os malvados com o Fogo Sagrado de Spode! Tem ~mission_time~ sectons para o fazer.
+0x0000007B Os nossos primos irão morrer e as suas lojas serão saqueadas. A nossa tristeza é profunda. O bazar está fechado para inventário.
+0x000000DE A energia demoníaca do inimigo foi demasiado poderosa para si. Guerreiros de Spode Purificados irão vencer onde você fracassou.
+0x00000122 Sim, houve alguns problemas...
+0x000000CE Os seus disparos indiscriminados provocaram danos nos nossos cidadãos e nos bens deles. queríamos que restaurasse a ordem, não que destruísse o nosso mundo!
+0x00000116 Forma de vida infectada. Incineração...
+0x000000DA Mais uma coisa...
+0x000000B2 Certo. Estou a ver. Volto em breve.
+0x000000A9 Os insurgentes ainda vivem! A sua missão no planeta ~mission_target_planet~ está incompleta. O seu Registo de Missão deverá ter toda a informação necessária. Quando vai matá-los?
+0x000000EA Tenho de recusar esta tarefa.
+0x00000107 Não conseguiu erradicar os cidadãos doentes a tempo. Volte ao sistema estelar ~mission_source_star~ para lhes dar as más notícias.
+0x00000104 Este planeta encontra-se no sistema estelar ~mission_target_star~.
+0x0000011D Mais uma vez, peço a vossa compreensão.
+0x00000120 Desculpe. Podemos falar sobre outro assunto...
+0x000000E6 Mais uma coisa...
+0x0000009B Só estou a fazer o meu trabalho.
+0x00000084 Peço a vossa compreensão.
+0x00000050 Os arruaceiros usam todos maquilhagem brilhante, pelo que não será difícil encontrá-los.~p~Devem ser todos mandados para a próxima vida, mas por favor, não danifique edifícios nem plantas e não faça mal a pessoas inocentes. Já estão suficientemente traumatizadas.
+0x00000052 Estou pronto.
+0x00000062 A sua ajuda para dominar esta praga é muito bem-vinda! Agora, vá depressa ao planeta ~mission_target_planet~ e salve os nossos cidadãos em ~mission_time~ sectons.
+0x0000003B No planeta ~mission_target_planet~, os seguidores do Culto de Massacres Loucos estão a fazer jus ao nome! Pode ajudar-nos?
+0x00000102 Não conseguiu salvar vidas no planeta ~mission_target_planet~. Os maus ganharam.
+0x000000C9 Bem-vindo, bem-vindo! Venha!! Posso anotar o seu pedido? ~p~Oh. É VOCÊ.~p~Olhe para mim! Veja ao que estou reduzido! Agora, tenho de usar isto no trabalho!~p~Estragou-me a vida toda, amigo. Estragou-a bem estragada.
+0x000000AE Eu ia fazer *isso*!?! Não!
+0x00000080 Peço imensa desculpa pelo incómodo. Adeus.
+0x000000AF Ah, pois. Em que é que eu estava a pensar? Não.
+0x00000077 Vamos lidar nós mesmos com este problema. Reze para que não se alastre à sua civilização.
+0x00000081 Fica para a próxima. Adeus.
+0x0000003A Clientes insatisfeitos estão a atacar as nossas lojas no planeta ~mission_target_planet~! Os da nossa espécie estão em perigo! Se lhe oferecermos uma recompensa, ajuda-nos?
+0x00000034 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Consegue cumprir esta tarefa?
+0x00000040 Para onde vou eu?
+0x00000015 Parece cruel, mas é necessário.
+0x00000024 Sabemos um segredo! Não, não poderíamos contar.~p~Está bem! Ganhou. Sabemos de um certo planeta que foi invadido por uma força maléfica que, em breve, irá destruir todos os cidadãos do planeta.~p~Não é engraçado!? Não??
+0x00000020 Os cidadãos de um determinado mundo votaram para se juntar à nossa federação. Infelizmente, uma minoria optou por responder com violência. Aceita a tarefa de reabilitar estes criminosos, para que a vontade da maioria seja cumprida e esta nova e promissora espécie possa juntar-se à nossa federação pacífica?
+0x00000112 Limite as mortes apenas aos indivíduos assinalados, por favor.
+0x000000E2 Não conseguiu reprimir a insurreição a tempo. Iremos nós próprios cortar o mal pela raiz.
+0x000000DF Lamento, mas o tempo acabou! Não nos salvou a tempo. Não leva recompensa!
+0x000000D9 Lamento. Adeus.
+0x00000079 Os que não conseguem seguir os Desígnios de Spode estão condenados. Pense nisto, enquanto sai dos nossos mundos.
+0x00000041 Não. Não vou fazer isto.
+0x000000A1 Antes de ir, queria fazer outras perguntas.
+0x000000A7 A nossa espécie continua em risco no planeta ~mission_target_planet~. O seu acordo para esta missão está gravado no seu Registo de Missão. Ainda está disposto a salvá-los?
+0x000000F2 Revolucionários estão a amotinar-se em ~mission_target_planet~! Precisamos que salve as vítimas!
+0x00000078 Se a tarefa não lhe agrada, não podemos obrigá-lo. Adeus.
+0x00000060 Obrigado por aceitar esta tarefa desagradável, mas necessária. A minoria subversiva do planeta ~mission_target_planet~ tem de ser eliminada, para que os cidadãos cumpridores da Lei possam viver em paz e prosperidade. Tem apenas ~mission_time~ sectons para completar a sua missão.
+0x000000B5 Ah, sim. Espectacular!
+0x0000003E Muito bem. Para onde vou?
+0x00000063 Vá ao sistema ~mission_target_star~. Tem ~mission_time~ sectons para destruir os cidadãos alterados e salvar os restantes!
+0x00000082 Já percebi que está ocupado. Depois falamos.
+0x0000005E As nossas humildes palavras são totalmente desadequadas para descrever a nossa felicidade e gratidão. Por favor, aceite as suas ~mission_rewards~ Sporecoroas e, com elas, visite o nosso bazar.
+0x0000004B O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.
+0x000000E7 Oh, estas notícias são de facto muito perturbadoras! Esperávamos tanto ter encontrado alguém com hipertrofia dos órgãos olfactivos e que apreciasse tanto ambientes organizados e aromáticos como nós. Que pena.
+0x00000118 Peço a vossa compreensão.
+0x00000018 Esta missão não me agrada.
+0x0000012C Missão fracassada. Regresse ao planeta ~mission_source_planet~.
+0x0000008C Além disso...
+0x00000022 Os elementos do Culto Anti-Razão, um grupo de artistas decididos a restabelecer o caos entre a nossa civilização, infectaram-se com um vírus que os transforma em monstros enfurecidos e assassinos! Pode ajudar-nos a derrotá-los?
+0x00000075 Além disso...
+0x0000006B Vá imediatamente ao sistema ~mission_target_star~. Mate apenas alvos legítimos. Não ataque estruturas e, em nenhuma circunstância, magoe os nossos cidadãos que não se tenham revoltado. Temos apenas ~mission_time~ sectons para mostrar o que vale.
+0x000000D2 Qual foi a ideia de fazer explodir tudo o que apanhava à frente? Só deveria matar as coisas brilhantes!
+0x00000113 Missão fracassada, demasiado fogo 'amigo'.
+0x000000AB Tenho mais outra pergunta...
+0x00000026 Alguns dos nossos no planeta ~mission_target_planet~ comeram um fungo local em busca do conhecimento e agora, estão transformados em zombies acéfalos, com um desejo insaciável de sangue! A sua experiência com laser seria muito útil para nós.
+0x000000B0 Não vou fazer isso. Parece uma malvadez.
+0x000000B1 Imploro que me afastem desta tarefa.
+0x00000083 Já percebi que precisa de estar sozinho. Adeus.
+0x000000AC Deixe-me perguntar outra coisa...
+0x00000038 Os que espalham a Palavra de Spode estão a ser atacados por nativos ingratos no planeta ~mission_target_planet~. Ajuda-nos a destruir estes devotos violentos do Deus Que Vai Chegar?
+0x0000004D Os seres cruéis brilham com uma energia demoníaca. Destrua-os a todos, mas poupe os Devotos de Spode!~p~Aja com rapidez, antes que o inimigo fique em vantagem!
+0x000000F8 Não impede que as crianças inocentes do planeta ~mission_target_planet~ sejam massacradas? Confiávamos tanto em si!
+0x0000003D Onde fica esta civilização?
+0x00000035 A chegada de radicais religiosos que pregam os 'Desígnios de Spode' provocou inquietação entre os civis de um dos nossos mundos. Embora o Grande Conselho garanta a liberdade de culto, não tolera a desordem. Pode ajudar-nos a restabelecer a ordem no planeta ~mission_target_planet~?
+0x0000007A Mas estamos tão ansiosos por ver a forma estilosa com que faz explodir as coisas!
+0x00000076 Mais uma coisa...
+0x0000011A O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.
+0x00000013 Estamos dispostos a ajudar.
+0x00000106 Demasiado fogo 'amigo', regresse ao sistema estelar ~mission_source_star~.
+0x000000C4 Esqueci-me do que estava a fazer. Qual é a minha missão?
+0x00000056 Não. Não consigo encaixar isto na minha agenda.
+0x00000042 Prefiro missões com menos... homicídios.
+0x00000096 Deixe-me perguntar outra coisa...
+0x00000043 Não vou fazer isto. Não vou.
+0x000000C7 Antes de ir, queria fazer outras perguntas...
+0x00000095 Tenho mais outra pergunta...
+0x000000A2 A ameaça de anarquia ainda está presente no planeta ~mission_target_planet~. Vai completar a sua tarefa de levar a paz ao planeta ~mission_target_planet~? Os parâmetros da missão foram colocados no seu Registo de Missão.
+0x00000045 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Consegue cumprir esta tarefa?
+0x00000046 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Aceita esta missão?
+0x000000EB Esta tarefa já não se encaixa na minha agenda.
+0x0000008E Peço imensa desculpa pelo incómodo. Adeus.
+0x000000F5 Parta imediatamente para o sistema ~mission_target_star~. Quando chegar, tem ~mission_time~ sectons. Destrua todas as formas de vida assinaladas. Não faça mal aos nossos futuros escravos nem às respectivas casas.
+0x000000C0 Desiste?~p~Tem de ir ao painel de controlo e premir o botão 'persistência'!
+0x00000124 Vamos concentrar-nos no futuro...
+0x00000054 Aceito a sua missão.
+0x0000011B Com o devido respeito, tenho de recusar.
+0x000000D3 a sua violência insensata provocou danos inimagináveis entre a nossa espécie! A nossa fúria não tem limites!
+0x00000099 Foi muito divertido!
+0x000000D5 Achou que não íamos reparar que andava a provocar uma enorme destruição no nosso mundo? ~p~Foi isto foi uma tentativa inábil de declarar guerra?
+0x0000011C Com o devido respeito, tenho de recusar.
+0x0000010C Não conseguiu erradicar os cidadãos doentes a tempo. Regresse ao planeta ~mission_source_planet~ no sistema estelar ~mission_source_star~ para lhes dar as más notícias.
+0x00000100 Matou civis e danificou bens no planeta ~mission_target_planet~! Tem de começar a controlar as suas armas, Comandante!
+0x000000FC O caos continua a reinar no planeta ~mission_target_planet~!  Não ia ajudá-los?~p~Tem toda a informação necessária no seu Registo de Missão.
+0x00000036 Se não tiver uma ferramenta para Apagar Mentes, deveria pensar em comprar uma. Vai servir para acalmar qualquer cidadão que fique agitado.~p~Para esta tarefa lamentável, mas fundamental, pagaremos a bela quantia de ~mission_rewards~ Sporecoroas!
+0x0000010E Até à próxima. Adeus.
+0x00000126 Agora, tenho de ir.
+0x0000007F Mais uma coisa...
+0x0000003F Onde se encontram.
+0x000000BD Foi comprado pelo inimigo? Adeus.
+0x00000068 Ah ha! Que engraçado!~p~E, ainda mais excitante, vai ter apenas ~mission_time~ sectons no planeta ~mission_target_planet~ para completar a eliminação.~p~Oh, quem me dera também poder ir brincar! Adeus!
+0x00000101 Fracassou numa simples missão no planeta ~mission_target_planet~. A sua falta de capacidade ficou registada.
+0x00000093 Obrigado pela sua acção rápida e eficaz no planeta ~mission_target_planet~. Observámos as suas tácticas e consideramo-las satisfatórias. Por favor, aceite estas ~mission_rewards~ Sporecoroas.
+0x00000109 Todos os cidadãos identificados foram eliminados. Regresse ao planeta ~mission_source_planet~ no sistema estelar ~mission_source_star~ para receber a recompensa.
+0x000000DC Soubemos que a situação era difícil de mais para si, por isso, implementámos o plano B.~p~Obrigado pelo seu esforço. Melhor sorte para o futuro.
+0x00000108 Elimine os cidadãos infectados no planeta ~mission_target_planet~ no sistema estelar ~mission_target_star~.
+0x0000010D Peço imensa desculpa pelo incómodo. Adeus.
+0x000000FE Vai desistir? Mas isso vai provocar o caos!
+0x000000F4 Os que causam problemas transportam lanternas brilhantes e parecem brilhar. Terão de ser eliminados. Mas não magoe civis nem danifique bens.
+0x00000027 Um ataque biológico inimigo contra o planeta ~mission_target_planet~ infectou vários dos nossos cidadãos, tornando-os perigosos. Como é de outra espécie e não pode ser infectado, pedimos-lhe que lide com esta situação.
+0x00000055 Não. Nem pensar.
+0x000000B4 Exacto. Muito bem. Cá vou eu.
+0x0000009F Uhh... Diga-me lá outra vez, o que é que tenho de fazer?
+0x000000FD Abandone esta missão e poderá abandonar a esperança para o seu povo.
+0x00000097 Ei, tem um instante?
+0x0000006A Muito obrigado! Por favor, vá direito ao planeta ~mission_target_planet~ e resolva rapidamente a situação, antes que se esgote o tempo de ~mission_time~ sectons que possui.
+0x000000E4 Antes de ir, queria fazer outras perguntas.
+0x000000A6 A nossa memória nem sempre é a mais exacta da galáxia, mas íamos jurar que tinha concordado em ir ao planeta ~mission_target_planet~ e salvar o nosso povo de... enfim... dos fulanos que querem matá-los! Se a sua memória for tão má como a nossa, talvez seja melhor consultar o seu Registo de Missão.
+0x000000E1 Não nos ajudou a tempo. Teremos de fazer nós próprios a limpeza.
+0x000000A4 Os nossos cidadãos no planeta ~mission_target_planet~ continuam a correr o risco de ser atacados por civis infectados.~p~O seu Registo de Missão contém todos os parâmetros necessários.~p~Pode intervir em nosso nome?
+0x00000044 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Consegue cumprir esta tarefa?
+0x0000006E Até breve.
+0x00000057 Não. Não aprovo isto.
+0x0000007D Se não ataca os que não podem ripostar, o que fará quando enfrentar um exército armado?
+0x00000012 Posso ajudar.
+0x00000019 Talvez noutra altura.
+0x00000028 E se houver pânico?
+0x00000090 Já percebi que está ocupado. Depois falamos.
+0x00000105 Todos os cidadãos assinalados foram eliminados. Regresse ao sistema estelar ~mission_source_star~.
+0x000000F1 Uma espécie no planeta ~mission_target_planet~ decidiu desafiar Grox. Irá pôr fim a este comportamento.
+0x000000A5 Os que seguem os Desígnios de Spode continuam a ser perseguidos no planeta ~mission_target_planet~. Toda a informação necessária está disponível no seu Registo de Missão. Vai salvá-los, como prometeu?
+0x00000125 Peço a vossa compreensão.
+0x00000017 É doentio. Não vou ajudar.
+0x0000005F Os cidadãos da federação participam activamente em todas as actividades permitidas por decisão da maioria. Os elementos anarcas do planeta ~mission_target_planet~ foram declarados não-cidadãos pela Grande Assembleia. Viaje até ao sistema estelar ~mission_target_star~; quando lá chegar, tem de purgar todos os não-cidadãos da nossa civilização no espaço de ~mission_time~ sectons.
+0x00000048 O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Esta tarefa é para si, sim?
+0x00000089 Peço a vossa compreensão.
+0x00000025 Uma salutar competição interestelar deu origem ao colapso de várias indústrias no planeta ~mission_target_planet~. Os trabalhadores despedidos estão agora a revoltar-se e ameaçam destabilizar a ordem social! Poderá este ser desprezível incomodar vossa excelência para pedir ajuda, em troca de uma recompensa?
+0x00000094 Posso perguntar mais uma coisa?
+0x00000058 Em nome da Grande Assembleia, obrigado. Por favor, tente manter uma negação credível durante a execução da sua tarefa. Tem apenas ~mission_time~ sectons no planeta ~mission_target_planet~ para exterminar não-civis.
+0x0000002D Não, obrigado. Esta missão perturba-me.
+0x000000D8 As minhas mais sinceras desculpas. Adeus.
+0x0000006D Regresso depois disto feito.
+0x00000067 Que o sistema ~mission_target_star~ seja purificado do Mal! Que Spode o acompanhe! Tem ~mission_time~ sectons no planeta ~mission_target_planet~ para incinerar os cidadãos alterados.
+0x00000053 Aceito esta tarefa.
+0x0000008A Gostaria de perguntar outra coisa...
+0x0000001F Não vemos necessidade de lhe dizer como usar um aparelho simples como o aparelho de Apagar Mentes.
+0x000000FB Apesar dos parâmetros da missão que carregámos no seu Registo de Missão, não matou os que estavam assinalados para serem exterminados no planeta ~mission_target_planet~.~p~Irá fazê-lo imediatamente.
+0x0000007C Não nos ajuda? Nesse caso, teremos de chamar os Monges Zxxon Sensatos!
+0x000000D0 Não seguiu as instruções.~p~Porém, a sua falta de consciência pode ser útil no futuro. O massacre indiscriminado que realizou espalhou a confusão nas nossas cidades! Piorou a situação, não a melhorou! Adeus!
+0x00000085 Preciso de verificar novamente a missão...
+0x00000037 Um dos nossos cientistas tentou tomar o controlo do planeta ~mission_target_planet~! Espalhou uma praga que está a transformar membros da comunidade num exército terrível! Pode ajudar-nos a derrotar esta ameaça?
+0x000000F3 Os que devem ser mortos foram marcados com uma substância brilhante. Mate apenas estes indivíduos.
+0x0000010B Esta missão acabou. Tem demasiado fogo 'amigo'.~p~Regresse imediatamente a ~mission_source_planet~, no sistema estelar ~mission_source_star~.
+0x000000F6 Depressa, antes que a situação piore. No planeta ~mission_target_planet~, tem apenas ~mission_time~ sectons para nos ajudar.
+0x000000CD Além disso...
+0x00000119 Elimine estes seres de entre a população, para bem de todos. Eles adoptaram uma indumentária característica, típica de culto, que brilha em qualquer circunstância. Com isso, deve ser fácil distingui-los.
+0x000000AA Posso perguntar mais uma coisa?
+0x000000FA Salvou vidas no planeta ~mission_target_planet~! Comandante, mereceu realmente as suas ~mission_rewards~ Sporecoroas.
+0x00000110 ~mission_num_eradicated_creatures~ de ~mission_num_creatures~ cidadãos identificados eliminados.
+0x00000098 Não vamos voltar a falar disto.
+0x00000103 Missão fracassada. Regresse ao planeta ~mission_source_planet~.
+0x000000EC Imploro que me afastem desta tarefa.
+0x000000E3 Gostaria de perguntar outra coisa...
+0x000000E5 Posso perguntar outra coisa?
+0x00000047 Va-ve-voe até ao planeta ~mission_target_planet~, no sistema estelar ~mission_target_star~.~p~O brilho e só o brilho deve procurar. Os outros não deve importunar!
+0x0000002B Como acalmo as pessoas?
+0x00000051 Os alvos transportam lanternas e brilham intensamente. Quando vir uma coisa a brilhar, mata-a. Mate-os todos.
+0x00000121 Elimine os cidadãos infectados no planeta ~mission_target_planet~.
+0x00000023 Os missionários do planeta ~mission_target_planet~ foram atacados por vis seguidores do Deus Que Vai Chegar. Ajuda-nos a salvá-los?
+0x000000EE O planeta ~mission_target_planet~ está a ser atacado por terroristas!  Precisamos da sua ajuda para restabelecer a ordem!
+0x000000BB Esqueci-me qual é a missão. Qual é?
+0x000000E0 Deu-nos esperanças, para depois nos desiludir. Talvez aceite diminuir a nossa infelicidade gastando sem limites na loja?
+0x0000004A O seu objectivo é o planeta ~mission_target_planet~, no sistema ~mission_target_star~.
+0x000000ED Irá ter lugar uma demonstração das suas capacidades militares no planeta ~mission_target_planet~. Prepare-se para partir imediatamente.
+0x000000B3 Entendido. Está bem. Eu já volto.
+0x0000008D Mais uma coisa...
+0x00000123 Esta não foi a minha melhor tarefa...
+0x0000011F Gostaria de perguntar outra coisa...
+0x000000BF Os Seguidores de Spode não toleram os que não cumprem a palavra dada. Que o seu nome seja colocado entre os infiéis.~p~Adeus.
+0x0000010F Já percebi que está ocupado. Depois falamos.
+0x0000005C A nossa causa sagrada venceu. Os Inimigos de Spode já não existem. Dê graças a Spode e aceite as suas ~mission_rewards~ Sporecoroas.~p~Temos também um grupo de missionários a postos, caso deseje falar com eles.
+0x0000011E Compreendemos a sua relutância em recorrer à violência. Vamos enviar os nossos próprios pacificadores ao planeta ~mission_target_planet~.
+0x000000DB Agradecemos o esforço que fez por nós, mesmo lamentando o resultado. Como compensação, o Grande Conselho oferece-lhe um Certificado de Louvor, de Terceira...uh... Quarta Classe.
+0x000000C5 Pode relembrar-me qual é a minha missão?
+0x000000C1 Não conseguiu evitar a tragédia entre a nossa espécie? Que o seu nome fique entre os clientes com contas por ajustar.  Adeus.
+0x000000A8 O que faz aqui? Prometeu que iria ao planeta ~mission_target_planet~ e salvaria o nosso povo dos ataques! Veja o seu Registo de Missão, se não se lembrar!
+0x0000001A Voltamos a sublinhar que deve fazer o seu trabalho com a máxima discrição.~p~Se necessário, temos informação de que o pânico pode ser controlado com o aparelho para Apagar Mentes. É melhor certificar-se de que a sua nave está equipada com um destes aparelhos.~p~
+0x0000001C Seria lógico fazer o seu trabalho com a máxima discrição.~p~Se necessário, os nossos estudos mostram que o pânico pode ser controlado com o aparelho para Apagar Mentes. Se a sua nave não estiver equipada com um, deveria pensar em obtê-lo.~p~
+0x00000092 ~player_title~ ~player_creature_name~. Vamos cantar a Canção de Graças em sua honra. Por favor, aceite estas ~mission_rewards~ Sporecoroas e divirta-se com a actuação!
+0x00000039 Não fomos nós... ou fomos? Bem, não me recordo... Mas a questão é a seguinte:~p~Foram largados robôs que fazem jogos de palavras, disfarçados de nativos no planeta ~mission_target_planet~, tudo em nome da diversão... mas esquecemo-nos de os programar e agora, temos de os retirar de lá, antes que eles tomem conta do planeta!
+0x000000A0 O cheiro continua agarrado a tudo durante anos-luz! É uma afronta aos seres civilizados!~p~Por favor, pedimos-lhe. Vá ao planeta ~mission_target_planet~, em órbita no sistema estelar ~mission_target_star~, e erradique todos os cidadãos com problemas de higiene.~p~Deverá reconhecê-los pelas nuvens de mau cheiro que emanam!
+0x00000003 Temos sido incomodados nesta galáxia desde há milénios por um grupo secreto de rufias do planeta ~mission_target_planet~. Com grande perigo para o meu povo, conseguimos obter a tecnologia que pode tornar estes monstros vulneráveis...~p~Queremos que encontre todos os rufias e os transforme em cinzas!~p~Normalmente, não somos assim tão vingativos, mas alguma vez teve de suportar uma Onda de Evento Horizontal? É terrível!
+0x0000009E Esqueceu-se da sua missão? De certeza que, em parte, a culpa é nossa. Por favor, queira desculpar-nos.~p~Vá ao planeta ~mission_target_planet~, que orbita no sistema estelar ~mission_target_star~, e elimine todos os rufias nas cidades. Poderá identificá-los através das nuvens de... horror que emanam.
+0x00000001 Um novo e estranho micróbio alienígena está a atacar de forma agressiva espécies inteligentes e está actualmente a espalhar-se pelas cidades no planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~Gostávamos que houvesse outra forma, mas parece que a nossa única hipótese de conter esta praga é purgar os doentes da restante população.~p~Precisamos que elimine todos os cidadãos infectados, sem provocar perdas inaceitáveis entre a população saudável.
+0x00000030 O Raio de Apagar Mentes funciona na perfeição. Estou sempre a usá-lo... nos outros.~p~Dá-me mesmo aquele empurrão de que preciso para seguir em frente, se é que me entende.~p~Esta tarefa implica um ENORME aumento, por isso, se me fizer isto, dou-lhe ~mission_rewards~ Sporecoroas.
+0x0000002F Estudos revelaram que a melhor abordagem é usar o Raio de Apagar Mentes da sua Nave, se tiver um. É simples, eficaz e, teoricamente, hilariante.~p~Por favor, seja minucioso em todos os aspectos. Não podemos dar-nos ao luxo de um pânico generalizado e muito menos de ver o pânico alastrar!~p~Se for bem sucedido, dar-lhe-emos ~mission_rewards~ Sporecoroas.
+0x00000031 Mais ou menos uma vez por mês, entramos em stress (problemas existenciais, sabe), e nada melhor para fazer desaparecer as preocupações do que um Raio de Apagar Mentes na cabeça. Devia experimentar, se tiver, claro!~p~Livre-nos desta ameaça, e dar-lhe-emos ~mission_rewards~ Sporecoroas.
+0x0000000C Devotos traiçoeiros do Deus Que Será estão a atacar os seguidores de Spode no planeta ~mission_target_planet~. Os nossos militares estão a apoiar o trabalho de missionários noutro lado e não podem dar uma resposta imediata. Pode ajudar-nos a derrotar estes inimigos malvados e determinados de Spode?
+0x00000033 Cidadãos em pânico é sempre complicado, mas nada tema. Uma solução existe diante de nós! Simplesmente aplique uma dose generosa do seu Raio de Apagar Mentes aos plebeus. Tem?~p~Aqui, temos um velho ditado: 'Longe da vista e do nariz, longe do coração'. Hoo hah. Hoo hah. Que graça. Deliciosamente irreverente!~p~Pelos seus esforços, será remunerado com ~mission_rewards~ Sporecoroas.
+0x000000D1 ~player_title~ ~player_creature_name~. A energia demoníaca do inimigo foi demasiado poderosa para si. Guerreiros de Spode Purificados irão vencer onde você fracassou.
+0x0000005D Vamos mesmo comemorar agora a sua espectacularidade marcial! Aceite as suas ~mission_rewards~ Sporecoroas e encha o copo com uma bebida fantástica!
+0x000000EF É necessário seleccionar a vida inteligente no planeta ~mission_target_planet~. Escolhemos ~player_creature_name~ para a missão.
+0x000000F9 ~player_creature_name~. A sua missão no planeta ~mission_target_planet~ foi bem sucedida. Em troca, oferecemos ~mission_rewards~ Sporecoroas.
+0x00000059 ~player_title~ ~player_creature_name~. Agradecemos-lhe, em nome da Grande Assembleia. Estamos preparados para lhe atribuir um Certificado de Louvor, Segunda Classe, e ~mission_rewards~ Sporecoroas.~p~Também pedimos que  não discuta este assunto com ninguém. Obrigado.
+0x000000F7 ~player_creature_name~ não está a mostrar-se útil para os Grox. Tenha cuidado, para não ser também marcado para ser exterminado.
+0x0000005B ~player_title~ ~player_creature_name~. Aliviou a situação no planeta ~mission_target_planet~. Aceite estas ~mission_rewards~ Sporecoroas, e tente esquecer este incidente assim que possível.
+0x000000B7 Está. A. Gozar. Comigo!?!~p~Não pode simplesmente desistir! Não é assim que se progride no universo! Como hei-de eu conseguir aquele emprego na Sede da Empresa agora? Um trabalho duro e honesto? Não me parece!~p~Sabe que mais? Não vou tolerar esta insubordinação - está despedido!
+0x0000001D Seria sensato fazer o seu trabalho com a máxima discrição.~p~Se necessário, os nossos estudos mostram que o pânico pode ser controlado com o aparelho para Apagar Mentes. Esperamos que tenha este equipamento.~p~
+0x000000DD Talvez o elemento mais infeliz da situação no planeta ~mission_target_planet~ tenha sido o facto de termos confiado em ~player_creature_name~ para a resolver. Adeus.
+0x000000B6 ~player_creature_name~, ~player_creature_name~, ~player_creature_name~...~p~Desiludiu-nos a todos e fez-nos correr um risco enorme de exposição a este vírus.~p~Os tablóides andam doidos com isto!
+0x000000B9 Não é assim tão fácil, pá. Claro que pode desistir, mas deve saber o seguinte: o seu nome vai ser acrescentado ao fundo da...~p~LISTA!!!~p~Voltaremos a ver-nos... deixe-me só consultar a agenda... em cerca de três biliões de anos.~p~TEMA A LISTA! TEMA-A DURANTE ERAS E ERAS!
+0x000000D4 ~player_title~ ~player_creature_name~. Levou a cabo um massacre no planeta ~mission_target_planet~! Se fosse a si, tentaria sair da frente do Comboio do Karma!
+0x000000BA Que crueldade! Que frieza! Aumentar as nossas esperanças em navios carregados de mentiras e, depois, atirá-las contra as margens rochosas do nosso desespero!~p~Há realmente algo aqui que cheira mal - VOCÊ!
+0x000000B8 Desiste!?! Oh não! Oh não! Oh não! Oh não! Oh não! Oh não! Oh não! Oh não!...~p~...~p~Peço desculpa. Entrei um pouco em pânico e tive de aplicar uma dose pequena do Raio de Apagar Mentes para me acalmar.~p~Beeem... quem é você, mesmo?
+0x000000BC Fui informado de que não conseguiu evitar que a nossa federação entrasse na anarquia. Não podemos deixar de nos perguntar se ~player_creature_name~ não terá instigado a violência. Adeus.
+0x00000064 Vá imediatamente ao sistema ~mission_target_star~. Mate aqueles cujo desequilíbrio químico os faz emitir uma radiação fria. Não faça mal a cidadãos inocentes nem danifique estruturas, e complete as suas tarefas em menos de ~mission_time~ sectons.
+0x00000070 Pensei que tivesse a constituição de ferro necessária para uma tarefa sinistra como esta. Lamento saber que não está à altura disto. Acho que, agora, é impossível parar a doença.~p~Se não nos ajuda directamente, pelo menos faça a sua parte e compre fita gomada e bandeiras em miniatura.
+0x000000A3 Os cidadãos alterados continuam a multiplicar-se no planeta ~mission_target_planet~. Não vai ajudar-nos a eliminá-los? Tem todos os pormenores no seu Registo de Missão.
+0x00000088 Não acredito que, finalmente, acabou. De certeza que desapareceram todos?~p~Espectacular!~p~Aqui tem as suas ~mission_rewards~ Sporoas, como prometido.~p~Devia ficar aqui. Acho que vai haver uma celebração em todo o planeta, e se gostar tanto como eu de balões em forma de animais e de barras nutricionais pobres em sódio, em gorduras, em hidratos de carbono e sem açúcar, vai adorar!
+0x00000071 Então, amigo. Não seja assim. Que indiferença é essa? Não estamos a pedir-lhe que mate alguém.~p~Ai, espere. Acho que estamos. Huh. Quem diria?~p~Muito bem. Bem, guarde isso só para si. A empresa gosta de ver os funcionários a tomar a iniciativa, mas acho que não iria entender uma coisa assim.
+0x00000087 Por-rei-ra-ço! ~player_title~ ~player_creature_name~. Acabei de falar com a empresa ao telefone. O emprego é meu! Começo na próxima semana!~p~Nem sei como agradecer-lhe, amigo. Nunca duvidei de si, nem por um instante.~p~Sabe, a Empresa está sempre à procura de fura-vidas jovens, com flexibilidade ética, como você, e eu ainda receberia um bónus por levar gente nova...~p~Bem, mas aqui tem ~mission_rewards~ Sporecoroas, como prometido.
+0x00000010 Um grupo militarista renegado, que acredita na Guerra Contra Todos, desencadeou uma insurreição no planeta ~mission_target_planet~. Podemos reprimi-los facilmente, mas a humilhação destes seguidores de culto será muito maior se a sua insurreição for reprimida por outra espécie. Pode ajudar-nos?
+0x000000C8 Bela pontaria, amigo! Ei, obrigado por tornar uma situação delicada muito, muito pior.~p~Não vai acreditar na trabalheira que vai fazer-me ter com papelada.~p~Vá-se embora.
+0x000000FF ~player_creature_name~. O seu ataque ao planeta ~mission_target_planet~ foi indiscriminado. Recebeu instruções para destruir apenas os que estavam marcados para serem exterminados. Não seguiu as instruções.~p~. Porém, a sua falta de consciência pode vir a revelar-se útil no futuro.
+0x00000072 Oh, não! Acho que acabaremos por encontrar alguém disposto a estender um apêndice amigo para a realização desta tarefa justa, mas...~p~é que...~p~Interceptámos manifestos de carga de grandes quantidades de papel higiénico e ovos. Daí, não se pode esperar nada de bom!
+0x0000001B Não somos uma raça orgulhosa, mas a nossa cobardia é lendária. Se for apanhado, vamos fingir que não o conhecemos, pelo que é importante não alarmar ninguém.~p~Se provocar demasiado pânico, vai ser atacado pela cidade.~p~E, para que sejamos bem claros, *não* pode contar connosco.
+0x0000004E Respire fundo, corajoso Comandante! Os nossos narizes foram libertados! Não sente o cheiro das muitas fragrâncias do meu povo? A cozinha requintada! A nossa flora local! As emissões gasosas constantes dos nossos vacúolos de metano! Magnífico! Maravilhoso!~p~Merece cada uma das ~mission_rewards~ Sporoas que lhe prometemos como recompensa.
+0x000000CA Oh não! Que horror! Desta vez, mexeu mesmo num ninho de vespas!~p~Vamos negar qualquer participação nossa! Vamos negar tudo!~p~Aliás, quem é você? Não o conhecemos! Nunca o vimos antes! Somos capazes de jurar!
+0x0000004C ~player_creature_name~. O nosso terrível plano está a ser posto em prática, sistema estelar a sistema estelar. Dentro de alguns biliões de anos, toda a galáxia vai saber que quem se mete connosco, está a pedir sarilhos!~p~Aqui tem as ~mission_rewards~ Sporoas, como prometido.~p~Melhor ainda, o seu nome não vai para...~p~A LISTA!!!
+0x0000006F O quê? Recusa? Ora esta, devíamos...~p~Maldição! Pronto, acabou-se! Não gostamos de si! Sabe o que isso significa? Acabou de entrar para...~p~A LISTA!!!~p~Pronto, o seu nome foi acrescentado à lista. Pode esperar colher grandes tempestades dentro de alguns biliões de anos ou... quem sabe amanhã! Bem feito!
+0x000000CB Não que, em princípio, tenhamos qualquer problema consigo, mas quando mata demasiados inocentes, temos de desistir, porque isso acaba por nos provocar grandes dores de cabeça.~p~Detestamos dores de cabeça. Sabe o que acabou de fazer? Sabe? Hã?~p~Acabou de fazer com que o seu nome fosse acrescentado à...~p~À LISTA!!!
+0x000000CC Ó, destino cruel! ~player_title~ ~player_creature_name~. A missão foi uma tremenda catástrofe! Agora, não só continuamos a ter de lidar com este cheiro opressivo, como o planeta ~mission_target_planet~ está também ofendido com a nossa sujidade!~p~Estamos à beira da desgraça, do precipício do vazio!
+0x0000004F ESTADO DA MISSÃO: Completada.~p~PAGAMENTO: ~mission_rewards~ Sporecoroas.~p~NOTAS: Espectacular!
+0x00000069 Uma frágil haste de esperança procura a luz! Por favor, vá imediatamente até ao sistema ~mission_target_star~ e salve os nossos primos! Os revoltosos são incendiários que transportam tochas, pelo que devem ser fáceis de localizar.~p~Tenha o cuidado de matar apenas os maus, e não os da nossa espécie. E faça-o rapidamente; no planeta ~mission_target_planet~, tem apenas ~mission_time~ sectons !
+0x0000009C Muito bem, vamos recapitular:~p~Vá ao sistema estelar ~mission_target_star~ e, depois, dirija-se ao planeta ~mission_target_planet~.~p~Elimine todos os cidadãos doentes, sem matar demasiadas pessoas saudáveis pelo meio. Use o seu raio de apagar mentes, se tiver um, para apagar o seu rasto.~p~Esta conversa nunca aconteceu.
+0x0000001E O alvo não deve ser atingido à frente dos fracos de espírito, mas, caso não possa ser evitado, podem ser controlados com um aparelho de Apagar Mentes. Arranje um que funcione.
+0x000000C6 Ah, claro que sim! O Registo da Missão. Eu vou ver!
+0x000000CF Quantas mortes! ~p~Talvez tenha feito o seu melhor, mas... que infelicidade, tantas vidas inocentes perdidas! ~p~Isto exige um momento de silêncio.
+0x000000F0 Missionários que pregam os 'Desígnios de Spode' iniciaram uma revolução violenta no planeta ~mission_target_planet~! Pode ajudar?
+0x00000032 Ha! Esta parte é a melhor!~p~Para acalmar os cidadãos petulantes, use o seu Raio para Apagar Mentes. Isso fá-los sempre calar a boca!~p~Sem memória, não há parvoíces! É assim ou não é? Ha Ha! Espero que tenha um.~p~A recompensa é boa - ~mission_rewards~ Sporoas.
+0x00000086 Esta tarefa era feia. Sempre soube que era o ~player_creature_name~ certo para ela.~p~Espere. Expliquei-me mal. Não estou a dizer que seja feio. Estou só...~p~Oiça. Vamos esquecer isto tudo.~p~Aqui tem ~mission_rewards~ Sporecoroas, como prometido.
+0x00000114 Mate mais ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^cidadão inocente^cidadões inocentes~ e irá provocar um 'incidente'.
+0x00000005 Blagh! Que pivete! Fica no ar durante eternidades! Conspurca e incomoda o nosso olfacto sensível!~p~São os cidadãos do planeta ~mission_target_planet~, sabe. Pondo o tacto e o decoro de lado por uns instantes, alguns deles empestam, literalmente os céus!~p~Já fizemos uma petição para que alterassem os hábitos de higiene, mas não serviu de nada. Chega, dizemos nós! Está na hora de aqueles ineptos mal-cheirosos levarem uma bela limpeza! Com lasers!
+0x00000021 Os cidadãos alterados brilham no escuro, pelo que deve ser fácil encontrá-los. Salve o mundo destruindo-os... e por favor, não magoe cidadãos amigáveis nem danifique estruturas.~p~O tempo é fundamental nesta missão, por isso, comece já, e trabalhe depressa!
+0x00000016 Nem pensar! Não vou ajudá-lo a fazer isso!
+

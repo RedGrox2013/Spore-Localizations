@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Proteggi il sacerdote sul pianeta ~mission_target_planet~.
+0x00000092 Proteggi il sacerdote nel sistema ~mission_target_star~. Scortalo durante il suo viaggio.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000098 Completata
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x00000097 In corso
+0x0000004E Il sacerdote ti attende sul pianeta ~mission_target_planet~. Consulta il registro missione per conoscere la sua posizione.~p~Fai presto! Come farai ad aiutarlo, se viene sbranato prima del tuo arrivo?
+0x00000000 Benvenuto, ~ep1_captain_full_name~, compagno seguace della vera Filosofia della Fede! Sei un compagno seguace, no?~p~Su ~mission_target_planet~ c'è un sacerdote che ha bisogno di protezione.~p~Sta cercando di raggiungere il tempio di Spode, e una scorta gli farebbe sicuramente comodo. Ti interessa?
+0x00000041 Perché l'Artiglio nero è così aggressivo? Dovrebbero apprezzare il tempio che abbiamo costruito anche per loro.~p~Perché non gettano le armi a terra per aprirsi agli insegnamenti di Spode?~p~Ti offriamo ~mission_rewards~ Sporecrediti come ricompensa per i tuoi servizi. Che Spode ti accompagni durante i tuoi viaggi.
+0x00000081 Hai mai provato a chiedere aiuto a Spode? La strada è sempre in discesa, per coloro che credono.
+0x00000071 Invocheremo la protezione divina di Spode, affinché vegli sul sacerdote mentre cerchiamo un'altra guardia del corpo.
+0x00000094 Proteggi il sacerdote nel sistema ~mission_target_star~. Scortalo durante il suo viaggio. Ti aspetta sul pianeta ~mission_target_planet~.
+0x00000064 Lode a Spode! Il sacerdote attende il tuo arrivo vicino alla spiaggia.~p~Che il tuo viaggio sia rapido e tranquillo.
+0x00000095 Il sacerdote su ~mission_target_planet~ ha raggiunto il tempio. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+

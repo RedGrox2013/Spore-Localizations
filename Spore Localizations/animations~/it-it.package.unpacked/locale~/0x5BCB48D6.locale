@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x00000098 Completata
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x00000097 In corso
+0x00000081 Continueremo a combattere i Grox senza di te. Questo settore non deve cadere in mano loro!
+0x00000094 I Grox sono stati individuati nel sistema ~mission_target_star~. Non lasciare che infestino il pianeta ~mission_target_planet~.
+0x00000092 I Grox sono stati individuati nel sistema ~mission_target_star~. Non lasciare che infestino l'intero settore!
+0x00000041 Ben fatto, ~ep1_captain_full_name~! Hai l'istinto di un vero Guerriero, questo è poco ma sicuro.~p~I Grox non vinceranno mai, finché tu ti opporrai a loro.~p~Accetta questi ~mission_rewards~ Sporecrediti. Dovrebbero bastare per risarcire il costo delle tue munizioni.
+0x000000B1 Combatti un esercito di infestatori sul pianeta ~mission_target_planet~.
+0x0000004E Forza, soldato! Le coordinate planetarie sono già state trasmesse al tuo registro missione!
+0x00000000 Allarme rosso! Una nave drone dei Grox è stata avvistata sul pianeta ~mission_target_planet~! Pare stiano cercando di conquistare il pianeta. Dobbiamo schierare dei soldati in superficie, e alla svelta!~p~Ci pensi tu, ~ep1_captain_full_name~?
+0x00000095 Hai vinto la battaglia su ~mission_target_planet~. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+0x00000071 Si può sapere da che parte stai? Se i Grox riescono a infestare ~mission_target_planet~, anche il resto del settore finirà presto nelle loro mani.
+0x00000064 Quando una Nave infestatrice dei Grox atterra su un pianeta, bisogna eliminarla il prima possibile. Se riesce a piantare le radici, solo un Demolitore di pianeti è in grado di rimuoverla.~p~Ciò eliminerebbe anche il pianeta, purtroppo...
+

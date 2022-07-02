@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 确定
+0x06162C22 制作新Spore电台
+0x06162C24 新
+0x34F8116D 这一特征将解锁：
+0x06162C1E 添加到Spore电台
+0x74BF153E 在游戏中找到它来将其添加到Spore百科中！
+0x06162C1F 选择Spore电台
+0x74BF153F 您可能遭遇到……
+
+# ProfileView.layout
+
+0x062EE735 档案页
+
+# vehicle stats (specific)
+
+0x058B5C25 宗教能力
+0x058B5C26 经济能力
+0x058B5C24 军事能力
+
+# AssetViewLarge.layout
+
+0x058B60F2 描述： 
+0x058B60F4 资产名称 
+0x058B60F5 资产创造者
+0x058B60F3 标签：
+0x058B60F7 下一页
+0x058B60F8 上一页
+0x058B60F6 由
+0xD4AF63E8 请稍等……
+
+# creature stats
+
+0x058B5C21 攻击
+0x058B5C22 社交
+0x058B5C1F 肉食动物
+0x058B5C20 草食动物
+0x058B5C1E 杂食动物
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175E9 星期一
+0x05B175EA 星期二
+0x05B175EB 星期三
+0x05B175EC 星期四
+0x05B175ED 星期五
+0x05B175EE 星期六
+0x05B175F2 ~hours~小时前
+0x05B175F1 ~minutes~分钟前
+0x05B175F0 ~seconds~秒前
+0x05B175E8 星期日
+0x05B175EF 上周~day_of_week~
+0x05B175F6 <Missing>
+
+# vehicle stats
+
+0x058B5C1D 速度
+0x058B5C1C 攻击力
+0x058B5C1B 生命
+
+# AssetBrowser.layout
+
+0x05B1A59C 查找
+0x05B1A59D Spore百科
+0x05B1A59E 欢迎~username~
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 排序 
+0x058B5C12 名称 
+0x058B5C14 类别 
+0x058B5C16 线上内容只有在登录后才可用 
+0x058B5C17 线上内容只有在登录后才可用 
+0x058B5C19 退回 
+0x058B5C13 创建者
+0x058B5C15 已分享
+0x058B5C1A 关系
+0x058B5C11 创造的时间
+0x058B5C27 下载时间
+0x058B5C18 创造个性化的
+0x058B5C28 古灵精怪
+

@@ -1,0 +1,386 @@
+﻿# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000011 你辦到了！
+
+# Act 1 name
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000020 簡報
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 5
+
+0x10000035 我們行動！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000012 我們收到了搜救船的信號。它正進入軌道，應該很快就會抵達。
+
+# Character name (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt")
+# Comments: Enemy workers on the Mothership.
+
+0x07B3CBF0 布拉克斯索德科技機器人
+
+# Act 1 description
+# Comments: Act comments: The player begins looking at the crashed dropship. His commander stands nearby.
+
+0x00000021 你的戰鬥部隊受困在這個星球上，不過，你的指揮官有個計畫…
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 2
+
+0x10000042 設法摧毀它，否則一切都完了。
+
+# Act 4 name
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000026 逃脫
+
+# Character name (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld")
+# Comments: Friendly soldiers spawn from here.
+
+0x07B27E69 墜毀的空降艇
+
+# Character talk dialog (Character: "mothership", model: "Mothership Blimp_@building_editorModel!0x07b27e59.bld"): Act 1, Variation 1
+
+0x10000041 布拉克斯索德裝甲兵就是從這艘船艦傳送下來的。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 4
+
+0x30000024 離反應爐遠一點！
+
+# Character name (Character: "brax_soldier", model: "Soldier_@creature_editorModel!0x07b3cbea.crt")
+# Comments: Standard enemy soldier. Relatively weak. Respawns.
+
+0x07B3CBEA 布拉克斯索德部隊
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000015 動作快點！你一定得摧毀那艘母艦！
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 5
+
+0x30000025 我就知道，我們不該將所有的裝甲兵都傳送下去。
+
+# 'Adventure won' message
+
+0x00000011 恭喜！本區已肅清，戰局將轉為對我軍有利了。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000014 我們會盡全力死守這裡。
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 1
+
+0x30000011 布拉克斯索德母艦的心臟。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 2
+
+0x10000022 只要布拉克斯索德母艦還在頭上，沒有人會前來營救。
+
+# Act 4 description
+# Comments: Act comments: Get off the ship before time runs out!
+
+0x00000027 母艦即將爆炸！設法逃出！
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 1
+
+0x30000021 入侵者！入侵者！
+
+# Character talk dialog (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld"): Act 3, Variation 2
+
+0x30000012 摧毀它，母艦也就完了。
+
+# Act 2 name
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000022 滲透
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 2
+
+0x30000022 救命！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000013 你一定得進入要塞，設法登上那艘船艦！
+
+# Character talk dialog (Character: "dropship", model: "Mothership Landing Pod_@building_editorModel!0x07b27e69.bld"): Act 1, Variation 1
+
+0x10000021 這是空降艇「葛拉維歐」的最後一次著陸。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 3, Variation 3
+
+0x30000023 在這邊！
+
+# Character name (Character: "brax_jet", model: "Mothership Jet_@vehicle_editorModel!0x07b27e59.vcl")
+# Comments: Alien Boat arriving at the Docks - it carries the Artifact. Called La Gaviota
+
+0x07B27E59 布拉克斯索德偵察機
+
+# Character name (Character: "brax_sniper", model: "Biggulon Soldier_@creature_editorModel!0x07ba637d.crt")
+# Comments: Stationary enemy that protects the top of the wall.
+
+0x07BA637D 布拉克斯索德狙擊手
+
+# Act 3 description
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000025 你已登上母艦！找到反應爐將之摧毀，在艦上引發連環爆炸。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 5
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000015 快點走吧！
+
+# Character name (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt")
+# Comments: Guards the force field. Weak toady.
+
+0x07B4E801 布拉克斯索德衛兵
+
+# Character name (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt")
+# Comments: Your commander. Looks tougher, does more damage and has more hit points then the common soldiers.
+
+0x07B2BCA6 亞佛倫指揮官
+
+# Adventure name
+
+0x00000002 擊沈母艦
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 5, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x50000013 讓我們離開這充滿泥巴的星球吧！
+
+# Character name (Character: "reactor", model: "Mothership Reactor_@building_editorModel!0x07c8a001.bld")
+# Comments: Inside the Mothership. Blow this up and get out fast!
+
+0x07C8A001 主反應爐核心
+
+# Character name (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt")
+# Comments: The common soldier. Long range pulse rifle, medium health. Respawns from dropship.
+
+0x07B27E57 亞佛倫士兵
+
+# Act 5 description
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000029 母艦已經摧毀！
+
+# Character name (Character: "mothership_exit", model: "Crate2_@building_editorModel!0x074e43ff.bld")
+# Comments: A placeholder object that marks where the player exits from the Mothership's teleporter.
+
+0x074E43FF 母艦出口
+
+# Character name (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld")
+# Comments: Used by the Brax Techs
+
+0x0744BD4E 控制面板
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 3
+
+0x40000023 出口在哪？
+
+# Act 2 description
+# Comments: Act comments: Work your way across the battlefield, bust into the fortress and find the key to the teleporter.
+
+0x00000023 潛入要塞，設法傳送到布拉克斯索德母艦上。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 2
+
+0x40000022 大家快逃命！
+
+# Character name (Character: "hero", model: "Dave Two_@creature_editorModel!0x07b4e7a0.crt")
+# Comments: The hero, doesn't talk.
+
+0x07B4E7A0 士兵Z-15
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 1
+
+0x40000021 快跑！
+
+# Character name (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld")
+# Comments: Houses a teleporter used to get onto the Mothership
+
+0x07BA61BC 母艦傳送門
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 2
+# Comments: Character comments: Stationary
+
+0x20000022 沒人能過我這一關！
+
+# Act 3 name
+# Comments: Act comments: Find the reactor and blow it up.
+
+0x00000024 破壞
+
+# 'Adventure lost' message
+
+0x00000012 別放棄。你的小隊全指望你帶他們渡過難關。
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 5
+
+0x40000025 我們死定了！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 5
+
+0x30000035 反應爐完好度達99%
+
+# Character chatter (Character: "brax_tech", model: "Soldier_@creature_editorModel!0x07b3cbf0.crt"): Act 4, Variation 4
+
+0x40000024 就要爆炸了！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 4
+
+0x30000034 步兵運輸載具功能正常
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 3
+
+0x30000033 與布拉克斯諾爾失去聯繫
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 2
+
+0x30000032 藍色戰鬥狀態
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 3, Variation 1
+
+0x30000031 所有系統運轉正常
+
+# Adventure description
+
+0x00000003 摧毀漂浮於激烈戰場上的敵方母艦。
+
+# Character name (Character: "brax_walker", model: "Mothership Walker_@vehicle_editorModel!0x07b687fa.vcl")
+# Comments: Epic-sized Crane machine. Like a transformer. They all carry a crate.
+
+0x07B687FA 死神機甲
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000011 只要布拉克斯索德母艦還在上頭，我們就哪都去不了。
+
+# Character name (Character: "brax_turret", model: "Mothership Drone_@vehicle_editorModel!0x07ba61ba.vcl")
+# Comments: Very small air vehicle. Floating orb that shoots lasers (like the one on the Millenium Falcon that Luke uses for lightsaber practice)
+
+0x07BA61BA 空飄雷射機器人
+
+# Character name (Character: "main_gate", model: "SC_ResearchGate_door_@building_editorModel!0x078feae8.bld")
+# Comments: Destructible part of the front wall
+
+0x078FEAE8 大門
+
+# Character name (Character: "alph_tank", model: "Mothership Tank 2_@vehicle_editorModel!0x07b27e56.vcl")
+# Comments: Tough and slow. High damage.
+
+0x07B27E56 亞佛倫坦克
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 1
+
+0x40000031 警告！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 4
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000014 潛入地平線上的要塞，瞧瞧你能否找到登上母艦的方法。
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 4
+# Comments: Character comments: Stationary
+
+0x20000024 只要我活著，母艦就安全無虞。
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 2
+
+0x40000032 反應爐警報！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 3
+
+0x40000033 艦身即將破裂！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 4
+
+0x40000034 撤退！
+
+# Character talk dialog (Character: "tech_panel", model: "Vid-Screen_@building_editorModel!0x0744bd4e.bld"): Act 4, Variation 5
+
+0x40000035 危險！危險！
+
+# Character name (Character: "comm_tower", model: "Mothership City Hall_@building_editorModel!0x07b27e5c.bld")
+# Comments: A mobile communications device with a large antenna
+
+0x07B27E5C 通訊塔
+
+# Act 5 name
+# Comments: Act comments: Success! Head back to your Comander and report in.
+
+0x00000028 勝利！
+
+# 'Adventure start' message
+
+0x00000010 你的空降艇已墜毀，而你的小隊被敵人團團包圍，出路只有一條...
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 1
+# Comments: Character comments: Stationary
+
+0x20000021 你絕對拿不到我主子的鑰匙卡！
+
+# Character chatter (Character: "brax_guard", model: "Toadie_@creature_editorModel!0x07b4e801.crt"): Act 2, Variation 3
+# Comments: Character comments: Stationary
+
+0x20000023 我必須捍衛傳送門！
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 1
+
+0x10000031 幹掉布拉克斯混球！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 1
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000011 我們困住了！我方空降艇墜毀，布拉克斯索德人將我們團團圍住。
+
+# Character name (Character: "brax_leader", model: "Biggulon_@creature_editorModel!0x07b3cb5d.crt")
+# Comments: Enemy boss. Big, strong, melee fighter.
+
+0x07B3CB5D 布拉克斯諾爾
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 2
+
+0x10000032 到處都是敵人！
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x10000012 我們無法支撐很久。那艘該死的布拉克斯索德母艦，傳送下來的部隊數量，遠超過我們的殺敵人數。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 1, Variation 3
+# Comments: Character comments: Stands stationary next to the ship.
+# I've radioed for help, but no one is going to rescue us if that Braxoid Mothership stays overhead.
+
+0x10000013 我已請求協助，然而，只要敵方母艦還在我們頭上，艦隊便無法提供支援。
+
+# Character talk dialog (Character: "bunker", model: "Mothership Warehouse_@building_editorModel!0x07ba61bc.bld"): Act 2, Variation 1
+
+0x20000031 只能從這裡登上母艦。
+
+# Character talk dialog (Character: "alph_commander", model: "dave_@creature_editorModel!0x07b2bca6.crt"): Act 2, Variation 2
+# Comments: Character comments: Stands stationary next to the ship.
+
+0x20000012 沒有人會冒著被擊落的風險前來營救我們。
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 3
+
+0x10000033 我急需援助！
+
+# Character chatter (Character: "alph_soldier", model: "dave_@creature_editorModel!0x07b27e57.crt"): Act 1, Variation 4
+
+0x10000034 前進！前進！
+

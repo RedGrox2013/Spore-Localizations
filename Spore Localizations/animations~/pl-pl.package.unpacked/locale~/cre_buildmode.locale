@@ -1,0 +1,69 @@
+﻿0x000002F1 ~guide: -h3~ Wskaźnik złożoności
+0x00000291 ~guide: -h2~ Aby uzyskać dostęp do większej liczby uchwytów elementu stwora, przytrzymaj wciśnięty klawisz tabulacji (Tab) przy wybieraniu elementu. Zobaczysz dodatkowe uchwyty elementu, które umożliwią lepszą kontrolę nad jego umiejscowieniem.
+0x00000231 ~guide: -h1~ Kończyny
+0x00000061 ~guide: -h3~ Wybieranie i dodawanie elementów
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Modyfikacja kończyn
+0x000000F1 ~guide: -bullet~ Pierścień obrotu: obraca elementy
+0x00000181 ~guide: -bullet~ Użyj kółka myszy lub klawiszy ze strzałką w górę/w dół, aby zwiększyć lub zmniejszyć rozmiar korpusu przy wybranym kręgu.
+0x00000281 ~guide: -h1~ Dostęp do zaawansowanych uchwytów elementów
+0x000000D1 ~guide: -bullet~ Strzałka regulacji: zmienia wysokość, szerokość, długość lub zakrzywienie elementu. Przeciągnij ją, a zobaczysz, co się stanie.
+0x000002E1 ~guide: -h1~ Złożoność i budżet
+0x00000081 ~guide: -h3~ Usuwanie elementów
+0x000000E1 ~guide: -bullet~ Kulka pozycji: umożliwia zmianę pozycji elementów lub — w przypadku rogów itp. — zmianę ustawienia.
+0x00000171 ~guide: -bullet~ Podświetlaj poszczególne kręgi, wskazując je kursorem myszy.
+0x00000221 ~guide: -h2~ Aby wyginać kręgosłup, klikaj i przeciągaj poszczególne kręgi. Najlepsza metoda to przechodzenie od kręgu do kręgu i wprowadzanie małych zmian.
+0x000001F1 ~guide: -h2~ Wskaż myszą korpus stwora, aby wywołać jego kręgosłup. Kliknij korpus, a na obu końcach kręgosłupa pojawią się strzałki. Kliknij jedną z nich i przeciągnij na zewnątrz, aby dodać kręgi, lub do wewnątrz, aby usunąć kręgi.
+0x00000261 ~guide: -h3~ Dodawanie chwytaków lub stóp
+0x00000071 ~guide: -h2~ Aby wybrać dany element, kliknij go na palecie elementów, a następnie przeciągnij z palety na stwora i ustaw w odpowiednim miejscu.
+0x00000051 ~guide: -h2~ Na początku fazy stwora będziesz mieć do dyspozycji zestaw elementów zależny od tego, co robiła Twoja komórka. Każdy nowy zebrany element zostanie odblokowany w fabryce stworów i będzie można go wykorzystać podczas rozwijania stwora.
+0x00000161 ~guide: -bullet~ Wskaż kursorem myszy korpus stwora, aby wywołać jego kręgosłup.
+0x000000C1 ~guide: -h3~ Sterowanie elementami
+0x00000201 ~guide: -h2~ UWAGA: Jeśli skrócisz kręgosłup (a co za tym idzie — ciało) Twojego stwora po umieszczeniu elementów, może się zdarzyć, że niektóre elementy zostaną podświetlone na czerwono. Będzie to oznaczać, że nie można tak mocno skrócić kręgosłupa, ponieważ elementy te są zamocowane do sekcji, która zostałaby usunięta.
+0x00000121 ~guide: -h1~ Kopiowanie elementów
+0x00000131 ~guide: -h2~ Aby skopiować element znajdujący się już w stworze, kliknij go, przytrzymując naciśnięty klawisz ALT, i przeciągnij kopię w inne miejsce stwora. Za takie kopie płaci się punktami DNA.
+0x00000151 ~guide: -h3~ Korpus
+0x000000B1 ~guide: -h2~ Kliknij dowolny element stwora, aby wywołać uchwyty umożliwiające manipulowanie tylko tym elementem.
+0x000000A1 ~guide: -h3~ Modyfikacja elementów z uchwytami
+0x00000041 ~guide: -h3~ Odblokowanie elementów
+0x00000191 ~guide: -bullet~ Kliknij dany krąg lewym przyciskiem myszy i przytrzymaj przycisk naciśnięty, aby wygiąć kręgosłup w tym miejscu.
+0x000001E1 ~guide: -h1~ Wydłużanie kręgosłupa
+0x000002C1 ~guide: -h3~ Zaawansowana kontrola nad kończynami
+0x00000211 ~guide: -h3~ Wyginanie śmiało ciała
+0x00000271 ~guide: -h2~ Koniec kończyny to jedyny punkt stwora, w którym można umieścić stopę lub chwytak. Każda kończyna ma domyślną stopę lub chwytak, ale możesz je bez problemu zastępować innymi odmianami.
+0x00000251 ~guide: -h2~ W przypadku kończyny, stawy mają postać kul, które można przesuwać zwiększać lub zmniejszać. Obrócenie istoty przodem do gracza może ułatwić modyfikowanie kończyn. Przesuwaj kończyny do przodu lub do tyłu, gdy stwór jest obrócony bokiem do Ciebie. Przesuwanie kończyn w górę lub w dół lepiej przeprowadzać, gdy stwór jest obrócony przodem lub tyłem. Czasami trzeba będzie nieco unieść korpus stwora, aby zrobić miejsce dla kończyn. W tym celu kliknij korpus lewym przyciskiem myszy i przeciągnij go w odpowiednie miejsce.
+0x000002D2 ~guide: -bullet~ Przytrzymaj wciśnięty klawisz CTRL i przeciągnij nową kończynę, aby połączyć ją z pozostałymi stawami innej kończyny.
+0x000000F5 ~guide: -bullet~ użyj kółka myszy lub klawiszy ze strzałką w górę/w dół, aby zmienić rozmiar elementu.
+0x000000F4 ~guide: -bullet~ wybierz element, klikając go.
+0x000000F2 ~guide: -h3~ Zmiana rozmiarów elementów
+0x000000F3 ~guide: -h4~ Aby zmienić rozmiar elementu dodanego do stwora,
+0x00000092 ~guide: -h1~ Modyfikowanie elementów
+0x00000431 ~guide: -h2~ Pokazuje stan zdrowia Twojego stwora. Im wyższa wartość, tym więcej ran może odnieść Twój stwór w bitwie, zanim umrze.
+0x00000361 ~guide: -h1~ Umiejętności stwora
+0x00000381 ~guide: -h3~ Podsumowanie umiejętności stwora
+0x00000331 ~guide: -h3~ Budżet DNA
+0x00000141 ~guide: -h1~ Kształtowanie korpusu
+0x00000421 ~guide: -h4~ Zdrowie
+0x000003E1 ~guide: -h4~ Towarzyskość
+0x000003D1 ~guide: -h2~ Pokazuje umiejętności ofensywne Twojego stwora oraz ich poziom.
+0x00000411 ~guide: -h2~ Pokazuje poziom szybkości Twojego stwora.
+0x000003B1 ~guide: -h2~ Wyświetla umiejętności, takie jak nawoływanie, skradanie się, skakanie lub szybowanie, oraz ich poziom.
+0x000003A1 ~guide: -h3~ Umiejętności
+0x00000031 ~guide: -h2~ Paleta elementów stwora znajduje się po lewej stronie ekranu po otwarciu fabryki stworów. Jest kilka kategorii elementów: otwory gębowe, narządy zmysłów, kończyny itd. Wybierz zakładkę kategorii, aby obejrzeć wszystkie elementy należące do tej grupy.
+0x00000351 ~guide: -h2~ Gdy wydasz wszystkie punkty, dodawanie kolejnych elementów nie będzie możliwe.
+0x000002D1 ~guide: -bullet~ Przytrzymaj wciśnięty klawisz Ctrl i kliknij między dwoma stawami kończyny, aby usunąć segment (nie można usunąć segmentu ramienia ani biodra).
+0x00000401 ~guide: -h4~ Szybkość
+0x00000441 ~guide: -h4~ Dieta
+0x00000021 ~guide: -h3~ Paleta elementów
+0x00000371 ~guide: -h2~ Każdy element, który dodasz do swojego stwora, zwiększy jego umiejętności. Po najechaniu kursorem nad wybrany element zobaczysz okno z informacjami o tym, co ten element daje Twojemu stworowi.
+0x000003C1 ~guide: -h4~ Walka
+0x000003F1 ~guide: -h2~ Pokazuje umiejętności towarzyskie Twojego stwora oraz ich poziom.
+0x00000391 ~guide: -h2~ Wszystkie umiejętności Twojego stwora widoczne są w prawym górnym rogu ekranu w oknie podsumowania umiejętności. Kliknij dowolny przycisk umiejętności, aby zobaczyć animację swojego stwora.
+0x00000341 ~guide: -h2~ Za każdy element dodany do stwora musisz płacić punktami DNA.
+0x00000321 ~guide: -h2~ Jeśli Twój stwór stanie się nadmiernie złożony, nie będzie można dodawać do niego żadnych nowych elementów.
+0x00000311 ~guide: -h2~ Wskaźnik złożoności określa stopień skomplikowania anatomii Twojego stwora.
+0x00000451 ~guide: -h2~ Przebieg historii ewolucji Twojej komórki zależy od tego, czy przetrwa ona jako mięsożerca, wszystkożerca, czy roślinożerca. Dostępne w fabryce stworów typy otworów gębowych będą zależały od wybranej diety.
+0x00000461 ~guide: -h2~ Uwaga: jeśli fabryka stworów została wywołana opcją „Twórz”, możesz wybrać rodzaj otworu gębowego oraz typ diety Twojego stwora.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Tryb budowy
+0x00000091 ~guide: -h2~ Możesz nie tylko dodawać, ale też usuwać elementy stwora. Kliknij LPM element, który chcesz usunąć, przytrzymaj naciśnięty przycisk myszy i przeciągnij element poza komórkę. Możesz też po kliknięciu elementu nacisnąć klawisz Backspace. Cena usuwanego elementu liczona w punktach DNA zostanie ci zwrócona.
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~
+

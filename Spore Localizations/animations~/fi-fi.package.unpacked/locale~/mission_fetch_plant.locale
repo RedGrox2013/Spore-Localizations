@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000B7 Tehtävä epäonnistui. Palaa tähtijärjestelmään ~mission_source_star~.
+0x000000A9 Tarvitsisin muistutuksen tehtävästäni.
+0x000000B8 Planeetta ~mission_target_planet~ sijaitsee tähtijärjestelmässä ~mission_target_star~.
+0x000000AA Öh. Mitäs minun nyt pitikään tehdä?
+0x000000B2 Hyvältä näyttää. Tuolla on etsimämme kasvi.
+0x000000B4 Niin. Haluamme erään kasvin.
+0x000000AC Unohdin, mitä olin tekemässä. Mitä minun pitikään tehdä?
+0x000000AD Voisitteko muistuttaa, mikä tehtäväni olikaan?
+0x000000A2 Vielä yksi juttu...
+0x000000AF Hei, olisiko tässä jotain. Viihdytkö luonnossa? Oletko koskaan halunnut kukkakauppiaaksi?
+0x000000AB Aivoissani on aukko tämän tehtävän kohdalla. Mitenkäs se tehtävä nyt menikään?
+0x000000AE Ai niinpä tietysti. Tehtävälokistahan sen voi tarkistaa.
+0x000000B5 Tuo kasvi nimeltä ~mission_item~ planeetalta ~mission_target_planet~.
+0x000000B6 Valmis! Palaa tähtijärjestelmään ~mission_source_star~.
+0x000000CB Ei kyllä onnistu. Olen allerginen siitepölylle, jota ~mission_item~ erittää.
+0x000000CA Totta kai. Kuulostaa hauskalta.
+0x000000C9 Joo, mikä ettei. Hoituu.
+0x000000CE Sori vaan. Tämä ei nyt onnistu.
+0x000000CC En oikeastaan voi suostua. En halua kasvinjämiä lastiruumaani.
+0x000000C8 Kuulostaa melko helpolta. Sopii.
+0x000000A6 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x000000C4 Tuolla on etsimämme kasvi.
+0x000000C3 Tehtävä epäonnistui. Aika on kulunut loppuun.
+0x000000C7 Jaa, että kasvi pitäisi siepata. Onnistuuhan tuo.
+0x000000C6 Käsitellään tietueita. Pyyntö hyväksytty.
+0x000000A4 Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000A5 Ehkä joskus toiste. Nähdään taas.
+0x000000DA tähden nimi on ~mission_target_star~
+0x000000D5 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x000000D1 Tämä tehtävä ei sovi enää aikatauluihini.
+0x000000CF Tekisin mieluummin jotakin ihan muuta.
+0x000000D4 Nähdään joskus toiste. Nähdään taas.
+0x000000D3 Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000D2 Pyydän vapautusta tästä tehtävästä.
+0x0000014B Olemme varanneet sinulle ruhtinaalliset ~mission_time~ sektonia käytettäväksi planeetalla ~mission_target_planet~. Tässä määräajassa sinun tulee tunnistaa ja noutaa tarvittava näyte.~p~Aloita tehtävä heti.~p~
+0x00000147 Haluamamme ~mission_item~ ei ole mukanasi. Kaikki tehtävään liittyvät parametrit on varmasti siirretty tehtävälokiisi.
+0x00000148 Meiltä puuttuu edelleen ~mission_item~! Kaikki tiedot ovat kyllä tehtävälokissa.
+0x0000014C Kiitokset, kapteeni!~p~Älä sitten hidastele. Saavuttuasi planeetalle sinun tulee tunnistaa ja noutaa näyte ~mission_time~ sektonissa.~p~Odotamme paluutasi innolla!
+0x000000A7 Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0x000000BA Aika on loppunut. Palaa planeetalle ~mission_source_planet~ ja kerro huonot uutiset.
+0x000000B9 Hallussasi on kasvinäyte kasvista ~mission_item~. Palaa planeetalle ~mission_source_planet~ ja nouda palkkiosi.
+0x000000BC ~mission_item~ on hallussasi.~p~Palaa nyt tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, niin saat palkkiosi.
+0x000000A3 Vielä yksi juttu...
+0x000000BF Minulla olisi vielä pari kysymystä.
+0x000000BE Et saanut ajoissa kasvia ~mission_item~. Palaa järjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, ja kerro sen asukkaille huonot uutiset.
+0x000000C2 Tehtävä suoritettu. ~mission_item~ on ruumassa.
+0x000000C1 Vielä yksi juttu...
+0x000000C0 Vielä yksi juttu...
+0x0000013F Meidän on välttämättä saatava kasvi planeetalta ~mission_target_planet~. Sinä tuot sen meille.
+0x00000143 Jostain syystä kasvitieteellisen puutarhamme ainoa ~mission_item~ kuihtui ilman näkyvää syytä. Voisitko tuoda meille pari uutta?
+0x00000144 Kuivuus on pyyhkäissyt maailmamme halki, ja ~mission_item~ on hävinnyt täysin. Voisitko tuoda meille uuden sellaisen?
+0x00000141 Tutkimme orgaanisten järjestelmien heikkouksia, ja tutkimuksiimme tarvitaan ~mission_item~. Sinun tehtäväsi on tuoda se meille.
+0x00000142 Tutkimusten mukaan ~mission_item~ saattaa olla hyödyllinen lääkeaine. Voitko tuoda meille näytteen, jotta voimme viljellä sitä?
+0x00000084 Onko ruukussa kasvava kasvi muka niin pelottava? Hoh hoh. Typerää!
+0x00000099 Harkitse tarkkaan, ennen kuin tuhlaat aikaamme.
+0x00000018 Kaltaisesi kosmisen otuksen on varmasti turhauttavaa vaivata päätään vähäisempien planeettojen huolilla, mutta uusimpien tutkimusten mukaan ~mission_item~ olisi hyödyksi lääketieteessä. Voisitko mitenkään tuoda meille tällaisen kasvin, jotta voisimme lisätä asiakkaittemme iloa ja terveyttä? Palkitsemme sinut toki näkemästäsi vaivasta.
+0x00000017 Maisemoinnin uusin hittituote on ~mission_item~, ja varastomme hupenevat huolestuttavaa vauhtia. Emme tahtoisi häiritä kaltaistasi suurotusta, mutta jos pyydämme oikein kauniisti, mahtuisiko lastiruumaasi mitenkään ~mission_item~ tai pari? Emme toki vaadi sinua näkemään tällaista vaivaa ilman palkkiota.
+0x00000016 Olemme keksineet aivan uuden tavan, jolla ~mission_item~ voi olla hyödyksi tieteelle! Voimme jakaa voittomme kanssanne, jos vain tuotte meille tällaisen kasvin sen kotimaailmasta.
+0x00000015 Hillityn ironian juhlapäivä on jo aivan nurkan takana. Haluaisin pukeutua uuteen asukokonaisuuteen, jolla voin vaivihkaa kommentoida aikamme omituisuuksia. Hattua varten tarvitaan kuitenkin ~mission_item~, tai itse asiassa sen oksa. Voisitko tuoda minulle piskuisen oksan, ihan vaivihkaa ja huomaamatta, jotta ~mission_item~ voisi täydentää asuni ja yllättää kaikki?
+0x00000006 TAVOITE: Hae kasvinäyte. ~p~TÄHTIJÄRJESTELMÄ: ~mission_target_star~. ~p~PLANEETTA: ~mission_target_planet~. ~p~KOHDE: Kasvi ~mission_item~. ~p~PERUSTELU: Geneettinen kohina on vaimennettava. ~p~PALKKIO: ~mission_rewards~.
+0x00000085 Harkitse tarkkaan, ennen kuin tuhlaat aikaamme.
+0x0000001A Eräs suurista guruistamme on todennut, että ~mission_item~ helpottaa sisäistä puhdistautumista. Kasvit osoittautuivatkin niin hyödyllisiksi, että ne loppuivat planeetaltamme. Voisitko mitenkään tuoda niitä meille lisää?
+0x00000088 Kuinka uskallat jättää kropojen vaatimukset huomiotta? Sinä tottelematon hölmö!
+0x0000008A Haluaisin kysyä vielä jotakin.
+0x0000001B Selvännäkijämme sai unessaan viestin, että ~mission_item~ voi pelastaa universumin suurelta taantumalta seuraavan universuminkierron aikana! Voitko tuoda meille niitä?
+0x00000089 Yrittäkää ymmärtää.
+0x00000098 Onko ruukussa kasvava kasvi muka niin pelottava? Hoh hoh. Typerää!
+0x00000007 Kasvitieteilijämme arvelevat, että ~mission_item~ saattaisi sopeutua ekosysteemiimme, mutta kasvia on ensin tutkittava huolellisesti. Voisitko hankkia näytteen tieteelliseen kasvipuistoomme?
+0x00000035 Haluaisin kysyä vielä jotakin.
+0x0000009D Yrittäkää ymmärtää.
+0x00000012 Alustavien tutkimusten mukaan ~mission_item~ voi tarjota vastauksen biologian suuriin kysymyksiin, kunhan vain saamme hankittua sen DNA:ta. Voisitko tuoda meille näytteen, jotta voimme tutkia kasvia huolella?
+0x00000008 Tutkimustemme perusteella ~mission_item~ saattaa olla immuuni kolmikyntiselle kaarna-ampiaiselle, joka uhkaa ruokavarastojamme. Voisitko tuoda meille näytteen?
+0x00000053 Ah, aivan. Nyt ymmärsin.
+0x00000054 Ahaa. Ymmärrän. Häivynkin tästä.
+0x00000052 Pah! Ja pyh! Mulle riitti.
+0x0000009C Kuinka uskallat jättää kropojen vaatimukset huomiotta? Sinä tottelematon hölmö!
+0x00000056 Okei, nyt tajusin, mitä pitää tehdä.
+0x00000055 Oh. Mun piti tuoda teille kasvi. Sori. Mun moka.
+0x00000042 TILA: Kesken. ~p~LAUSUNTO: Mistä tämä viivyttely johtuu? Tehtävä etenee hitaasti, jopa kaltaistesi huonosti optimoitujen nestesäkkien standardeilla. ~p~TIIVISTELMÄ: Hae näyte kasvista ~mission_item~ järjestelmän ~mission_target_star~ planeetalta ~mission_target_planet~.
+0x0000004A Lupasit käydä tähtijärjestelmässä ~mission_target_star~, missä ~mission_item~ kasvaa. Onko lupauksesi pyyhkiytynyt omasta muististasi ja tehtävälokistasi?
+0x00000049 Luulimme, että ~mission_item~ olisi mukanasi, mutta taisimme olla väärässä. Et kai ole vahingossa tyhjentänyt tehtävälokia?
+0x00000004 Olemme sijoittaneet huomattavia summia lääketeollisuuteen. Äskettäin löytynyt uusi kasvi, ~mission_item~, uhkaa nyt koko liiketoimintamalliamme. ~p~Tämän ainutkertaisen kasvin ainoa kotiplaneetta on järjestelmässä ~mission_target_star~ sijaitseva ~mission_target_planet~. Huhujen mukaan ~mission_item~ tuottaa yhdisteitä, joiden parannusteholle ei vedä vertoja mikään aine koko maailmankaikkeudessa! ~p~Haluamme sinun hankkivan meille näytteen tästä kasvista. Täytyyhän meidän varmistaa, että huhut pitävät paikkansa, ennen kuin räjäytämme planeetan!
+0x00000091 Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0x0000004C Minulla olisi vielä muuta kysyttävää.
+0x00000021 Tahtoisin hieman lisätietoja.
+0x0000004B Haluaisin kysyä vielä jotakin.
+0x00000044 Olet myöhässä. Missä on ~mission_item~, jonka lupasit tuoda meille, kuten tehtävälokiisi on kirjattu? Tuotko meille sen, mitä lupasit, vai haluatko kokea Paten raivon?
+0x00000046 Kun viimeksi kohtaisimme, olit kovasti suostuvainen matkustamaan järjestelmään ~mission_target_star~, jossa ~mission_item~ kasvaa. Ovatko tehtävälokisi muistipaikat vioittuneet, vai onko sinulla jokin muu syy, minkä vuoksi palaat luoksemme tyhjin käsin?
+0x00000045 Kasvitieteellisestä puutarhastamme puuttuu edelleen ~mission_item~. Antamamme tiedot ovat tehtävälokissasi. Aiotko ehkä tuoda kasvin joskus lähiaikoina?
+0x00000048 Missä ihmeessä tähtijärjestelmän ~mission_target_star~ ~mission_item~ on? Olemme ottaneet paljon lainaa käsittelylaitoksen rakennusta varten, ja lainojen korot kasvavat sellaista vauhtia, että tarvitsemme tuloja mahdollisimman pian. Kaikki sopimuksemme tiedot ovat tehtävälokissasi.
+0x00000025 Äh, antaa olla. Haluaisin kysyä yhdestä toisesta asiasta.
+0x00000047 Hmm. Haluaisin esittää kaksi kysymystä: Missä on lupaamasi ~mission_item~? Eivätkö kaikki tiedot olekaan tehtävälokissasi?
+0x00000043 Eikös sinun pitänyt tuoda meille ~mission_item~ planeetalta ~mission_target_star~? Saatko tehtävän suoritettua vai et? Kaikki tarvittavat tiedot näkyvät kyllä tehtävälokissa.
+0x0000001F Kerro toki lisää.
+0x0000008C Vielä yksi juttu...
+0x00000051 Kyllästyin tähän tehtävään. Kiitti, mulle riitti.
+0x0000008D Vielä yksi juttu...
+0x0000001C Olemme todenneet, että ~mission_item~ parantaa haavoja. Voisitko tuoda sellaisen lääketieteelliseen puutarhaamme?
+0x0000008B Minulla olisi vielä muuta kysyttävää.
+0x0000001D Vihollistemme biologinen isku sai aikaan sen, että ~mission_item~ katosi maailmastamme täysin. Voisitko tuoda meille näitä kasveja?
+0x0000008E Anteeksi vaan, että häiritsin. Nähdään taas.
+0x0000004E Vielä yksi juttu...
+0x0000004D Voisinko kysyä muutakin?
+0x00000005 ~mission_item~ on mystinen kasvi, josta kerrotaan lukemattomia tarinoita ja jonka sanotaan parantavan vaivan kuin vaivan. Sitä pidettiin kauan pelkkänä myyttinä, mutta nyt olemme saaneet todisteita kasvin olemassaolosta, ja tiedämme jopa missä sitä kasvaa! ~p~Suuntaa nopeasti ja huomiota herättämättä järjestelmän ~mission_target_star~ planeetalle ~mission_target_planet~. Palaa sitten luoksemme näytteen kanssa. ~p~Näytteidesi avulla teemme vielä täydellistä yrttiteetä!
+0x0000008F Ehkä joskus toiste. Nähdään taas.
+0x00000050 Kasvi on minulle liian viekas ja ovela. Minä luovutan.
+0x00000090 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x0000004F Tämä tehtävä on aivan liian vaativa. Minä lopetan.
+0x0000006B Paten valo ulottuu entistä laajemmalle! Siunattuja ovat he, jotka saavat olla ~mission_time~ sektonia planeetalla ~mission_target_planet~ voidakseen tunnistaa ja noutaa näytteen.~p~Lähde heti ja ole kunniakas. ~p~
+0x00000072 Kiitos. ~p~Sinulle on suotu ~mission_time~ sektonia, joiden aikana sinun tulee tunnistaa ja noutaa näyte planeetalta ~mission_target_planet~.~p~Tästä saat paljon hyvää karmaa.~p~
+0x0000007B Tulen pian takaisin!
+0x0000003D Kärsit näköjään ajoittaisista muistinmenetyksistä. Onneksi ~mission_item~ parantaa huhujen mukaan aivotoimintaa kaikin tavoin. ~p~Tässä tiivistelmä: mene järjestelmän ~mission_target_star~ planeetalle ~mission_target_planet~ ja tuo meille näyte kasvista ~mission_item~.
+0x00000063 Keskitytään vain tulevaan...
+0x0000007A En voi vastustaa helppoa rahaa.
+0x0000006A Kiitos, että olet valmis uhraamaan aikaasi tähän tehtäväämme.~p~Ajasta puheen ollen. Kun olet päässyt planeetalle ~mission_target_planet~, sinulla on vain ~mission_time~ sektonia aikaa noutaa näyte. ~p~Emme unohda apuasi.
+0x00000040 Emme hyväksy tällaista viivyttelyä! Sinun pitäisi olla jo matkalla järjestelmään ~mission_target_star~! ~p~Tik, tak, tik, tak. Kello tikittää ja jokainen haaskattu sekunti maksa meille rahaa. Sinun pitäisi olla jo planeetalla ~mission_target_planet~ ja etsiä näyte kasvista ~mission_item~.
+0x0000000A Pian kaikki Paten pyhyyden tunnistaneet kansat kautta galaksin aloittavat Paten pyhän pyhyyden juhlan. Kaikki Paten alttarit pitäisi saada koristeltua, ja siihen tarvitaan ~mission_item~ jos toinenkin. Voisitko tuoda niitä meille?
+0x000000A1 Minulla olisi vielä muuta kysyttävää.
+0x0000000E Kasvitieteilijämme saivat hiljattain selville, että ~mission_item~ on ominaisuuksiltaan aivan ainutlaatuinen. Omat näytteemme kuitenkin katosivat pienen byrokraattisen sekaannuksen myötä. Voisitko mitenkään hankkia meille uusia näytteitä?
+0x0000007D Yrittäkää ymmärtää.
+0x00000037 Vielä yksi juttu...
+0x0000007C Täytyy jatkaa matkaa. Näkemiin.
+0x0000000C ~mission_item~ on äskettäin julistettu Paten ikipuhtaan valon pyhäksi symboliksi. Varastomme ovat nyt tyhjenneet huolestuttavaa vauhtia. Voisitko auttaa meitä?
+0x00000038 Vielä yksi juttu...
+0x0000006C Hienoa. Sopimus on hyväksytty. ~p~Sinun tulee toimittaa aiemmin mainittu ~mission_item~ mahdollisimman pian. Planeetalla ~mission_target_planet~ viettämäsi aika ei saa ylittää ~mission_time~ sektonia. ~p~Suurneuvosto lähettää kiitoksensa.~p~
+0x00000062 Tämä ei mennyt ihan niin kuin piti...
+0x00000067 Päättäväisyytesi riittää selvästi tämän tehtävän hyväksymiseen. Toivottavasti sinulla on myös sisua hoitaa tehtävä nopeasti ja tehokkaasti.~p~Taloudellisen kehityksen moottorit hyrräävät tyytyväisinä, jos ~mission_item~ tulee haltuumme nopeasti.~p~Aikaa on jäljellä enää ~mission_time~ sektonia. Liikettä siis.
+0x00000077 Vielä yksi juttu...
+0x00000074 Haluaisin kysyä vielä jotakin.
+0x0000000D Kasvitieteellistä puutarhaa uudistetaan suurneuvoston käskystä. Jotta saisimme kokoelmamme täydennettyä ja tiedemiehillemme mahdollisimman paljon kasveja tutkittavaksi, toivomme sinun matkustavan järjestelmään ~mission_target_star~ ja tuovan sieltä kasvin nimeltä ~mission_item~.
+0x00000076 Vielä yksi juttu...
+0x0000003A Oli mukava auttaa. Näkemiin.
+0x00000075 Minulla olisi vielä muuta kysyttävää.
+0x00000064 Hienoa! Arvelimmekin, että hyväksyisit tämän tehtävän. Se vaikutti jotenkin juuri sinulle sopivalta. ~p~Korvaamme tietenkin näkemäsi vaivan antamalla palkkioksi ~mission_rewards~.~p~Sinun tulee suorittaa tehtävä planeetalla ~mission_target_planet~ ~mission_time~ sektonissa.~p~Onnea matkaan!~p~
+0x00000069 Pitäisi tietysti ensin saada suunnitelma hyväksyttyä. Mutta olen kuullut eräästä kasvihausta, joka aiotaan ulkoistaa.
+0x0000003B Rahaa! Tänään käyn ulkona syömässä.
+0x00000073 Toimi nopeasti. Sinulla on ~mission_time~ sektonia aikaa tunnistaa ja noutaa yksilö.~p~Lähde matkaan välittömästi.
+0x00000078 Näemme varmasti pian.
+0x00000070 Emme pysy nahoissamme, kun odottelemme voittoja. ~mission_item~ avaa meille uusia markkinoita! ~p~Yksi pikkujuttu vain. Sinun täytyy löytää näyte ~mission_time~ sektonissa, kun olet päässyt planeetalle ~mission_target_planet~. Mutta eihän se varmaan ole mikään ongelma?~p~Kiitokset, ja riemukasta lentomatkaa.~p~
+0x000000A0 Haluaisin kysyä vielä jotakin.
+0x00000010 Tiedemiehemme ovat äskettäin saaneet selville, että ~mission_item~ saattaa tuottaa arvokasta lääkeainetta. Siitä voisi olla suurta hyötyä klarppihalvauksesta kärsiville kansalaisillemme. Voisitko tuoda meille näitä kasveja?
+0x00000061 Niin, kaikki ei sujunut ihan suunnitelmien mukaan.
+0x00000071 Matelemme ja nöyristelemme uljautesi edessä.~p~Kaikkivaltiaan kalenterimme mukaan sinulla on kuitenkin vain ~mission_time~ sektonia aikaa hoitaa tehtäväsi planeetalla ~mission_target_planet~, jotta saamme oman tuotteemme valmiiksi ennen kilpailijoiden yrttipohjaista karvanhoitotuotetta.~p~Tuo meille ~mission_item~, niin palkitsemme sinut.
+0x00000060 Olen pahoillani. Voisimmeko keskustella jostakin muusta.
+0x00000036 Minulla olisi vielä muuta kysyttävää.
+0x00000041 Oletko sinäkin riemusta sekaisin, kun legendaarinen ~mission_item~ onkin olemassa? Mekään emme malta pysyä nahoissamme. ~p~Siitä huolimatta toivomme sinun suorittavan tehtäväsi huolella, joten suuntaahan jo tähtijärjestelmän ~mission_target_star~ planeetalle ~mission_target_planet~ ja tuo meille näyte tästä ihmeellisestä kasvista, jotta moninaisia tutkintoja suorittaneet kasvitieteilijämme pääsevät sen kimppuun.
+0x0000000F Suurneuvosto haluaa ennen kaikkea taata kansalaisten terveyden ja hyvinvoinnin. Kuulimme hiljattain, että ~mission_item~ sisältää huomattavia määriä tehokkaita lääkeaineita. Voitko tuoda meille näytteen, jotta saamme parannettua planeetan terveydenhuoltoa?
+0x0000006E Mitä mainiointa. Älä kuitenkaan unohda ajan kulkua. Planeetalla ~mission_target_planet~ viettämäsi aika ei saa ylittää ~mission_time~ sektonia. ~p~Onnea matkaan!
+0x00000039 Työssäni kaikkein parasta on kyllä raha. Näkemiin.
+0x0000005F On kunnia saada palvella teitä. Näkemiin
+0x00000019 Seremonia tuonpuoleisen olemuksen kunniaksi järjestetään pian, ja ylimaallisten juhlien pääkoristeena on perinteisesti ~mission_item~. Emme vain löydä niitä enää mistään. Voisitko auttaa?
+0x00000081 Okei. Selvähän se. ~p~Jos et ole mukana koko sydämelläsi, emme toki halua sinun turmelevan puhdasta luontoa.~p~
+0x00000082 Mielenkiintoinen valinta, ~player_title~ ~player_creature_name~. Ehkä tiedät jotain, mitä me emme tiedä, mutta en kyllä oikein jaksa uskoa.
+0x0000007E Täysin ymmärrettävää, kapteeni.~p~Pahoittelut, että vaivasimme tällaisella asialla.~p~
+0x000000D0 Haluaisin kieltäytyä tästä tehtävästä.
+0x0000014A Tervetuloa takaisin, kapteeni.~p~Et ilmeisesti saanut noudettua planeetalla ~mission_target_planet~ kasvavaa kasvia, jonka pyysimme sinut tuomaan. Ei kai aluksesi vain ole vaurioitunut?
+0x0000000B Uskontotieteilijämme tutkivat hartaasti Paten luomia otuksia, ja tietämyksemme lisääntyy jatkuvasti. Emme kuitenkaan vielä tiedä, voidaanko ~mission_item~ luokitella puhtaaksi vai epäpuhtaaksi. Voisitko tuoda meille uuden sellaisen?
+0x00000001 Hei, avaruushemmo. Olisi kuule mahtavaa, jos viitsisit käydä kääntymässä tähtijärjestelmässä ~mission_target_star~. Voisit vaikka poiketa planeetalla ~mission_target_planet~ ja tuoda sieltä pikkuisen verson, me kun tarvitaan ~mission_item~. Olisit kuule tosifrendi, jos vain jeesaisit tässä. Frendithän pitää aina yhtä, vai mitä? ~p~Ihan kohta on kato keisarin synttärit, ja se vanha jäärä on jankannut jo pitkään, että ~mission_item~ sopis palatsin puutarhaan. Jos vaan saisin jostain sen kasvin, kaikki muut lahjat jäis sen varjoon! Se olis ihan himmeetä!
+0x00000014 Täkäläiset maisemat alkavat ennen pitkää tympiä, joten päätimme järjestää oopperajuhlat ja maisemoida koko planeetan uudelleen! Suunnitelmissa oli istuttaa sopiviin paikkoihin muutama ~mission_item~, jotka muistuttavat meitä värikkäästä historiastamme, mutta niitäpä ei löydykään mistään. Voitko tuoda meille niitä?
+0x0000007F Ymmärrämme, ~player_title~ ~player_creature_name~. Arvostamme tahdikkuuttanne.~p~No, ainakin vältymme suurelta määrältä paperityötä. Planeettojenvälisen yksityisen kasvillisuuskuljetuksen hyväksymiseen tarvitaan vain kolmesataakuusikymmentäkaksi erillistä lomaketta, jotka on allekirjoitettu ja leimattu kolmesti. ~p~Lomakkeiden määrä on siis huomattavasti pienempi kuin galaksin standardien toimintakäytäntöjen mukaisesti toimittaessa. Tietäisittepä vain, mitä kaikkea tarvitaan hapatetun rohdon kuljetukseen.
+0x00000023 Hups, kävipä nolosti. Tulipa mieleen, että minun pitää kiirehtiä pesemään hiukseni.
+0x00000093 Ymmärrämme, ~player_title~ ~player_creature_name~. Arvostamme tahdikkuuttanne.~p~No, ainakin vältymme suurelta määrältä paperityötä. Planeettojenvälisen yksityisen kasvillisuuskuljetuksen hyväksymiseen tarvitaan vain kolmesataakuusikymmentäkaksi erillistä lomaketta, jotka on allekirjoitettu ja leimattu kolmesti. ~p~Lomakkeiden määrä on siis huomattavasti pienempi kuin galaksin standardien toimintakäytäntöjen mukaisesti toimittaessa. Tietäisittepä vain, mitä kaikkea tarvitaan hapatetun rohdon kuljetukseen.
+0x00000003 Tarvitsemme apuasi: tuothan meille näytteen eräästä kasvista, joka kasvaa järjestelmän ~mission_target_star~ planeetalla ~mission_target_planet~?~p~Kasvin nimi on ~mission_item~, ja sen lääketieteellistä ominaisuuksista on huhuttu jo vuosituhansien ajan. Aiemmin luulimme huhujen olevan vain taikauskoista höpinää, mutta huhu ei tunnu laantuvan, joten asia on parasta tarkistaa.~p~On siis tärkeää, että pääsemme analysoimaan tätä kasvia ja sen aktiivisia yhdistelmiä. Ehkä voimme parantaa kaikkien elämänlaatua.
+0x00000092 Täysin ymmärrettävää, kapteeni.~p~Pahoittelut, että vaivasimme tällaisella asialla.~p~
+0x000000CD On aina ikävää kieltäytyä, mutta nyt ei auta muukaan.
+0x00000095 Okei. Selvähän se. ~p~Jos et ole mukana koko sydämelläsi, emme toki halua sinun turmelevan puhdasta luontoa.~p~
+0x0000003E Voi ei! Mikä painajainen. Keisarin syntymäpäiväjuhlia vietetään aivan pian. ~p~Äkkiä nyt. Lähde täyttä höyryä järjestelmän ~mission_target_star~ planeetalle ~mission_target_planet~ ja tuo sieltä tullessasi ~mission_item~. ~p~Kaikkien täytyy huomata, että rakkauteni ja uskollisuuteni keisaria kohtaan ovat ylivertaisia koko galaksissa!
+0x00000065 Tervehdys, kapteeni. Tarvitsemme hieman apua, jos teillä suinkin on aikaa.~p~Saatte toki korvauksen näkemästänne vaivasta.
+0x0000003C Eipä mittään. Ole hyvä vaan. Morjens!
+0x00000066 Tuo meille ~mission_item~ nopeasti, jotta pääsemme pian nauttimaan kaikista siihen liittyvistä eduista. ~p~Kai mainitsimme, että käytettävissäsi on vain ~mission_time~ sektonia planeetalla ~mission_target_planet~, ja siinä ajassa sinun on tunnistettava ja noudettava tarvitsemamme näyte? ~p~Etkö? Oho, jäikö se sanomatta? Mutta tiedäthän, että haluamme aina olla rehellisiä kaupanteossa.~p~Antoisaa matkaa.~p~
+0x0000001E Huhujen mukaan ~mission_item~ saattaa erittää myrkkyä, jota biologisen sodankäynnin asiantuntijamme voisivat luovasti hyödyntää. Voitko tuoda meille niitä?
+0x0000005C Mitä ihmettä, ~player_title~ ~player_creature_name~?~p~Etkö löytänyt kasvia? Se ei varmastikaan juoksennellut ympäriinsä ja kipittänyt piiloon sinut nähdessään. Suosittelemme käyntiä kauppakeskuksessamme. Sieltä voit ostaa silmälasit, jotta sinun ei enää tarvitse törmäillä sokeana paikasta toiseen.
+0x0000005B Hahahahaa! Miten voit olla noin hidas.~p~Sinunhan piti hakea vain yksi kasvi. Kasvit ovat kiinni maassa. Et kai väitä, että se pääsi karkaamaan? Meinasitko kasvattaa sen itse, vai?~p~Hahahaa!
+0x0000005D Tervehdys taas, ystävä.~p~Kuulimme sinun epäonnistuneen tehtävässäsi. ~p~~player_title~ ~player_creature_name~, muista tämä: kaikki tekemisen arvoiset asiat vaativat hieman keskittymistä.
+0x0000005E Surkea ~player_creature_name~.~p~Et siis onnistunut hankkimaan edes yhtä kasvia! Oletko todella näin saamaton, vai yritätkö pilkata meitä? Tätä emme unohda.
+0x00000058 ~player_title~ ~player_creature_name~, mitä tämä merkitsee? Ette tuoneet meille haluamaamme kasvia määräajassa! Tämä loukkaa meitä syvästi.
+0x00000057 Tervehdys, ~player_title~ ~player_creature_name~.~p~Hei, hetkonen. Missäs pyytämämme ~mission_item~ on? Emmekös me pyytäneet sinua tuomaan sellaisen? Ai, etkö onnistunutkaan? Voi pahus.
+0x000000D6 Toivon ymmärrystä.
+0x0000005A Tervehdys, ~player_title~ ~player_creature_name~.~p~Olemme analysoineet aluksesi ja todenneet, että epäonnistuit tehtävässäsi. Sivilisaatiomme tiedemiehet ovat hämmästyneitä siitä, että et löytänyt kaipaamaamme kasvia.
+0x00000059 ~player_title~ ~player_creature_name~, lupasit palata luoksemme ~mission_item~ mukanasi. Määräaika on kuitenkin kulunut jo loppuun, ja olet rikkonut sopimuksemme. Minun on kerrottava tästä suurneuvostolle.
+0x0000009B Jos tuollainen surkea laji rohkenee nousta vastarintaan, se ei ansaitse kunnioitusta, vaan kuoleman. Valmistaudu tuhoon.
+0x000000B3 Kyllä vain, ~player_title~ ~player_creature_name~. Me tarvitsemme näytettä eräästä kasvista.
+0x00000013 Haukottelujuhlat lähestyvät, ja meidän pitäisi valmistaa juhlaviuhkoja. Niiden materiaaliksi sopii kaikkein parhaiten ~mission_item~. Voitko tuoda meille niitä?
+0x00000027 ~race~ on oppinut monia asioita tutkiessaan galaksia. Kaikkein vahvimmin voimme luottaa siihen, että ~player_creature_name~ hoitaa työnsä aina hyvin. ~p~Pian saamme selvitettyä tämän kasvin salaisuuden, ja sinun ansiostasi miljoonat kärsivät otukset pääsevät eroon kaikista niistä sairauksista, jotka ~mission_item~ parantaa. ~p~Olet osoittanut arvostavasi kansaamme, ja haluamme palkita sinut. Ota tästä palkkiosi ~mission_rewards~.
+0x00000087 Jos tuollainen surkea laji rohkenee nousta vastarintaan, se ei ansaitse kunnioitusta, vaan kuoleman. Valmistaudu tuhoon.
+0x00000097 Tietysti, tietysti. Aavistinkin, että on turha tuoda näin vähäpätöistä asiaa kaltaisesi suuruuden eteen. Voisitko ehkä lohduttaa minua kuluttamalla rahojasi putiikissani?
+0x00000096 Mielenkiintoinen valinta, ~player_title~ ~player_creature_name~. Ehkä tiedät jotain, mitä me emme tiedä, mutta en kyllä oikein jaksa uskoa.
+0x0000003F Mitä nyt? Onko jokin sekoittanut pääsi? ~p~Se on täysin luonnollista! Onhan tämä varsin monimutkainen tehtävä, joka vaatii voimien mittelyä eksoottisen ja ovelan kasvillisuuden kanssa. ~p~Tässä kertausta: ~p~Suuntaa järjestelmään ~mission_target_star~ ja etsi planeetta ~mission_target_planet~. Siellä kasvaa kasvi nimeltä ~mission_item~. Tuo meille siitä näyte. ~p~Kappas, ei tuo kyllä kovin monimutkaiselta kuulostanut. Ehkä vika on sittenkin sinussa.
+0x00000009 ~mission_item~ käy ympäristöystävällisestä energialähteestä, kun sen lehdet kuivataan ja sitten poltetaan. Ainoa näytteemme on ikävä kyllä hukkunut jonnekin. Voisitko tuoda meille uuden sellaisen?
+0x0000006D ~player_title~ ~player_creature_name~. Kiitämme sinua yhteistyöstäsi.~p~Suunnittelethan tutkimusretkesi huolella. Planeetalla ~mission_target_planet~ viettämäsi aika ei saa ylittää ~mission_time~ sektonia.~p~Onnea matkaan.~p~
+0x00000020 Kuulostaa mielenkiintoiselta.
+0x00000149 ~player_creature_name~. Olemme panneet merkille kyvyttömyytesi suorittaa tehtävät loppuun asti. Sinusta ei ole meille juurikaan hyötyä.
+0x00000024 Jospa palaan asiaan paremmalla ajalla.
+0x00000022 Olen kyllä käytettävissä.
+0x00000083 Tietysti, tietysti. Aavistinkin, että on turha tuoda näin vähäpätöistä asiaa kaltaisesi suuruuden eteen. Voisitko ehkä lohduttaa meitä kuluttamalla rahojasi putiikissamme?
+0x0000002B Muinaiset jumalat olkoon ylistettyjä! Olet palannut menestyksen kruunaamana, ja silti sinusta säteilee sellaista nöyryyttä, joka seuralaisiltasi puuttuu. Se on virkistävää, yhtä virkistävää kuin Taureinin lähteestä pullotettu vesi. Olet todellakin nykyaikaisten kaukomatkailijoiden esikuva. ~p~Sallithan meidän korvata näkemäsi vaivan? Haluamme antaa sinulle ~mission_rewards~ Spore-taaleria ja lämpimät kiitokset asiantuntevasta palvelusta.
+0x00000026 Etsiskelin kyllä vähän toisenlaista puuhaa.
+0x00000028 Jes! Siis mahtavaa! Täytyy kyllä kiittää makuasi viherkasvien suhteen: onpa mahtava ~mission_item~. Keisari arvostaa tätä varmasti! ~p~Kun olit muualla, selvittelin hiljalleen, mitä muut aikovat antaa keisarille lahjaksi. Tämä kasvi peittoaa ne kaikki, ja urani nousee varmasti aivan uusiin korkeuksiin! ~p~Tässä siis palkkioksi ~mission_rewards~ Spore-taaleria. Suuret kiitokset.
+0x000000B1 Hahaa! Sinähän tarvitset rahaa. Hahaa.~p~Voimme lähettää sinut vaikka minne. Oletko nopea? Tarjolla olisi pikainen tehtävä liittyen kasveihin.
+0x000000B0 Katsotaanpas.~p~Kyllä, aivan.~p~Täällä on jotakin. Me tarvitsemme kovasti erästä kasvia.
+0x00000029 Riemu ja kiitollisuus valtaavat mielemme niin täysin, että... että... meidän täytyy istahtaa hetkeksi. Markkinat reagoivat.~p~Olet tehnyt suuren palveluksen koko lajillemme! ~mission_source_empire~ hyötyy tästä uudesta tuotemallista, ja sinä rikastut varmasti. Tässä on ensimmäisen päivän bonuksesi, ~mission_rewards~!
+0x0000002A Mahtavaa! Tiesimme heti sinut nähdessämme, että olet vapaiden markkinoiden ystävä. ~race~ ei voi huolehtia kansalaistensa terveydestä halvalla. Jos näin olisi, talouden pyörät hyytyisivät ja koko yhteiskuntamme romahtaisi! ~p~Tässä palkintosi, ~mission_rewards~ Spore-taaleria, alahan painua. Muistakin sitten olla lavertelematta siitä, kuinka hyödyllinen ~mission_item~ voi olla; emme näet halua leimata sinua edistyksen vastustajaksi. Vaitonaisuus on vain omaksi parhaaksesi.
+0x00000080 Sinun täytyy seurata omaa tietäsi.~p~Onnea matkaan, ystäväni.
+0x0000002C TILA: ~race~ on saanut kohteen ~mission_item~. ~p~LAUSUNTO: Hienoa. Kaikkien hidasälyisten, biologisten, liharuhoisten yksiköiden pitäisi ottaa sinusta mallia. Et myöskään haise aivan niin pahalta kuin mitä alustavat arviot antoivat ymmärtää. ~p~PALKKIO: ~mission_rewards~. ~p~VÄKINÄINEN KOHTELIAISUUS: Kiitos, hiilipohjainen elämänmuoto.
+0x00000094 Sinun täytyy seurata omaa tietäsi.~p~Onnea matkaan, ystäväni.
+0x000000BB Hanki kasvi nimeltään ~mission_item~. Kasvin kotiplaneetta on ~mission_target_planet~, joka sijaitsee tähtijärjestelmässä ~mission_target_star~. Tietojen mukaan ~group:star_clue~.~p~Kun olet planeetalla ~mission_target_planet~, sinun tulee tunnistaa ja kaapata yksilö nopeasti: käytettävissäsi on vain ~mission_time~ sektonia.~p~
+0x0000009A ~mission_source_empire~ alkaa väsyä päättämättömyyteesi. Et selvästikään tiedä, mitä haluat elämälläsi tehdä. Se on kovin ikävää.
+0x00000002 ~mission_source_empire~ pitää seuraavaa tehtävää erittäin suuressa arvossa. Teidän pitäisi noutaa meille eräs kasvi. ~p~Olemme jo vuosisatojen ajan kärsineet kauhistuttavista vaivoista, niin typpivaivoista ja sporiaasista kuin vieraiden aksenttien syndroomasta ja liikasilmistäkin. ~p~Kuulimme juuri uutisista, että järjestelmässä ~mission_target_star~ on planeetta nimeltä ~mission_target_planet~, jossa kasvaa kasvi nimeltä ~mission_item~. Uutisten mukaan kasvilla voi hoitaa kaikkia mainitsemiamme vaivoja, ja me aiomme vallata markkinat!
+0x00000086 ~mission_source_empire~ alkaa väsyä päättämättömyyteesi. Et selvästikään tiedä, mitä haluat elämälläsi tehdä. Se on kovin ikävää.
+0x00000011 ~mission_item~ on kadonnut maailmastamme täysin äskettäisen kuivuuden vuoksi. Voisitko tuoda meille puhtaita näytteitä planeetalta ~mission_target_planet~?
+0x000000D9 tähti on ~mission_clue_range_min~ - ~mission_clue_range_max~ parsekin etäisyydellä kohteesta ~mission_clue_landmark1~
+0x000000D8 tähti on noin ~mission_clue_distance~ parsekin päässä kohteesta ~mission_clue_landmark1~
+0x00000079 Tule sitten pian takaisin. Kiitti ja moikka!
+0x00000031 Hahaa! Saavuit juuri oikeaan aikaan, ~player_title~ ~player_creature_name~! ~mission_item~ on illan kuumin puheenaihe! Olet ansainnut palkkiosi, ~mission_rewards~!
+0x0000002F Tervetuloa, ~player_title~ ~player_creature_name~. ~p~Kiitos näkemästänne vaivasta! Suurneuvosto myöntää sinulle kolmannen luokan suosiomerkin sekä ~mission_rewards~.
+0x00000140 Toimita meille ~mission_item~. Mitään muuta sinun ei tarvitsekaan tehtävästä tietää.
+0x0000002D Hei, ~player_title~ ~player_creature_name~. Kiitos.~p~Jos tätä kasvia hoivataan huolella, siitä on vielä hyötyä... tuota sekä planeettamme taloudelle että luonnolle! Tässä siis palkkioksi ~mission_rewards~.
+0x00000032 Tervetuloa, oi ~player_title~ ~player_creature_name~.~p~Lupaus suurista voitoista tuo iloa ja autuutta kaikille älykkäille otuksille! Palkinnoksi haluamme antaa sinulle ~mission_rewards~ sekä kierroksen komeassa kauppakeskuksessamme.
+0x0000006F Oi miten hienoa. Aivan mahtavaa. ~p~Hoitaisimme tämän itse, mutta meillä on aina keskittymisvaikeuksia, kun olemme reissussa. ~mission_source_empire~ sattui keksimään avaruusalukset, kun eräs ruoanlaittokokeilu epäonnistui pahasti.~p~Emme oikein osaa hoitaa asioita kerralla ja juuri sen vuoksi tarvitsemme apuasi niin kipeästi.~p~Toisaalta emme myöskään pärjää tiukkojen aikataulujen kanssa, ja kun kaikki pitää saada hoidettua planeetalla ~mission_target_planet~ ~mission_time~ sektonissa, meille kävisi köpelösti.~p~Odotamme paluutasi henkeämme pidätellen. Toivomme hartaasti, että ~mission_item~ auttaisi tähänkin ongelmaan: olemme kovin kyllästyneitä siihen, että henkemme karkailee! Se vaikeuttaa ruoanlaittoa kovasti.~p~
+0x0000002E ~player_title~ ~player_creature_name~.~p~Paten uskolliset palvelijat riemuitsevat nähdessään, että mukanasi on ~mission_item~! Olet ansainnut ~mission_rewards~ ja Paten siunauksen.
+0x00000068 Tämä päivä tullaan muistamaan riemukkaana esisoittona kasvin ~mission_item~ uudelleenlöytämiselle. Saat sankarin vastaanoton, kun palaat luoksemme. ~p~Hiukkaakaan epäröimättä tarjoamme sinulle ~mission_rewards~ palkkioksi siitä, että suoritat tämän tärkeän ja vakavan tehtävän, johon olet lupautunut.~p~Muista kuitenkin seurata ajan kulumista. Kun olet päässyt planeetalle ~mission_target_planet~, sinun täytyy suorittaa tehtäväsi ~mission_time~ sektonissa. ~p~Onnea matkaan, auttajamme. Kulkekoon aluksesi nopeasti.~p~
+0x00000145 ~player_creature_name~. Kasvi on saapunut riittävän hyvässä kunnossa. Kuten orgaanisten lajien keskuudessa on tapana, siirrämme tilillesi ~mission_rewards~.
+0x00000030 ~player_title~ ~player_creature_name~. Kansalaistemme terveydentila paranee pian! Olet toiminut viisaasti ja arvokkaasti, joten viisaina otuksina haluamme tarjota sinulle arvosi mukaiset ~mission_rewards~.
+0x00000146 Tervetuloa takaisin, kapteeni.~p~Kasvi nimeltään ~mission_item~ on saatu perille varsin hyväkuntoisena! Loistava suoritus! Tässä vaivanpalkaksi ~mission_rewards~.
+0x00000033 Arvoisa ~player_title~ ~player_creature_name~. ~p~Otamme ilolla vastaan tuomisesi ja luotamme siihen, että ~mission_item~ täyttää metafyysisen upeutemme varastot. Olet todella ansainnut palkkiosi. Tässä palkkioksi ~mission_rewards~.
+0x00000034 ~player_creature_name~. Hienoa. Olet osoittanut, että sinut kannattaa palkata. Tässä palkkioksi ~mission_rewards~.
+

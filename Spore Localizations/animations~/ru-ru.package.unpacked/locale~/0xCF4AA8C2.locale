@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Как насчет другого задания?
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 Приключения - это моя страсть!
+0xFADED01B Обожаю приключения! Я с вами.
+0xFADED01A Звучит интересно. Берусь!
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 Спасибо за предложение, но я, пожалуй, откажусь.
+0xFADED01C Я, пожалуй, откажусь, но я не буду говорить, почему.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Прошу меня правильно понять.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Вижу, вы заняты. До свидания.
+0xFADED009 Ясно. Может, в другой раз на вас поработаю. До скорого.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Всегда пожалуйста. До встречи.
+0xFADED016 Никаких проблем. Прощайте.
+0xFADED015 Все для вас. Счастливо оставаться!
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Прошу освободить меня от этого задания.
+0xFADED021 Выполнение этого задания противоречит моим планам.
+0xFADED020 Мне придется отказаться.
+0xFADED022 Я лучше еще чем-нибудь займусь.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Прежде чем я уйду, еще пара вопросов.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Идет! Это я запросто!
+0xFADED005 Ясно. Тогда увидимся.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Так точно. Конец связи.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Хотелось бы еще уточнить...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A До связи.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Еще вопрос...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Ах, да-да-да! Архив заданий. Точно!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Нет, сейчас не возьмусь. Может, попозже.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Напомнишь мне детали задания?
+0xFADED028 Что-то я торможу. Можно еще разок?
+0xFADED027 Э-э... Можно еще разок: что мне там надо сделать?
+0xFADED024 Ой, что-то из головы все вылетело. Так что мне делать?
+0xFADED01F Напомните мне детали задания...
+
+# mission_incomplete -> do exit
+
+0xFADED010 Ясно. Я скоро.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B Похоже, я не вовремя. Поговорим позже.
+0xFADED008 Прошу прощения за беспокойство. Всего хорошего.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 У меня есть причины этого не делать.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Это все неправильно. Нет.
+0xFADED00D Я работаю только на себя! Так что нет, спасибо!
+0xFADED012 Нет. Мне все это не нравится.
+0xFADED014 Ни за что! Я ненавижу жестокость.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Все понятно. Пока.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 И еще...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 У меня есть еще пара вопросов.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 Мы, ~race~, не понимаем твоего решения. Видимо, тебе не хватает силы воли. А жаль.
+0xFADED02D Конечно-конечно! С самого начала было ясно, что не стоит беспокоить такое славное существо такими пустяками. Может, хотя бы зайдешь в мой магазин?
+0xFADED02E Похоже, тебе придется самостоятельно пробивать себе дорогу... И поверь, она будет нелегкой.~p~Что ж, удачи.
+0xFADED02F Нашему народу, ~race~, этого не понять. Впрочем, ты, ~player_creature_name~, и не ~race~.
+0xFADED034 Все ясно, ~player_title~ ~player_creature_name~. Мы ценим твою вежливость.~p~По крайней мере, волокиты меньше будет. Процедура получения разрешения на межпланетную транспортировку существ предполагает оформление всего 362 документов с подписями, печатями и в тройном экземпляре каждый.~p~Это, конечно, если обойти некоторые формальности, предусмотренные официальным законодательством... Это еще что. Попробуй как-нибудь ради интереса получить разрешение на транспортировку пряности.
+0xFADED033 Что ж... Будь по-твоему. Мы не особо расстроимся.~p~Ну... Если только чуть-чуть.
+0xFADED032 Иди своей дорогой.~p~И пусть она будет легкой.
+0xFADED031 Как ты смеешь брать назад слово, данное гроксам! Ничтожество!
+0xFADED02B Странное решение, ~player_title~ ~player_creature_name~. Может, ты знаешь что-то такое, чего мы не знаем. Хотя вряд ли.
+0xFADED02C Э-э-э... Ладно... Да, хорошо. ~p~Раз у тебя к этому душа не лежит, займись чем-нибудь еще...~p~
+

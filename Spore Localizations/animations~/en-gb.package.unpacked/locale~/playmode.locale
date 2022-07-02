@@ -1,0 +1,189 @@
+﻿# capture GIF
+
+0x058B90F2 Your Animated Avatar has been saved to~br~~gif_name~~mac_save_append~.
+
+# move one done
+
+0x0458342D Your picture has been archived to: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# email message
+
+0x056BCDCA Check out my video created in Spore!~br~~video_url~
+0x056BCE10 Check out my awesome creature created in Spore!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+# email
+
+0x04585F1F Your email address is invalid.
+0x04585F49 Recipient's email address is invalid.
+0x045AD62F Your Email
+0x045AD634 Recipient's Email
+0x0583897C Click to Email a Postcard
+0x05B5B8C4 Tell a Friend About Your Video
+0x04588BEF Your postcard has been sent.
+0x045AD5B9 Email a Postcard
+
+# too many photos
+
+0x047FF0E4 You have too many photos.  Please archive some photos.
+
+# move all done
+
+0x04583295 Your pictures have been archived to: ~play_photo_back~.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animation
+
+# YouTube
+
+0x05B5AC4C YouTube Terms of Service
+0x0549366C No
+0x0549366D Upload
+0x05496B24 Logging in to YouTube...
+0x055AA305 Uploading video to YouTube...
+0x05600488 You must be logged in to Spore to use this feature. Do you wish to login?
+0x0563C623 You must register with Spore to use this feature. Do you wish to register?
+0x056691B0 Checking for YouTube Registration...
+0x056D0627 Upload successful!  Send video URL to a friend!
+0x05496510 Failed to log in to YouTube.~br~~br~Please use a valid username and password or register with YouTube before continuing upload.
+0x05498DCB Your video has been uploaded.  Would you like to tell your friend?
+0x054C1E63 Your movie has been saved to ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 There was an error uploading to YouTube.~br~~br~Please check your internet connection or try again later.
+0x05498260 There was an error logging in to YouTube.~br~~br~Please check your internet connection or try again later.
+0x05B5FD1E Do you want to upload now?
+0x05D2C767 Your upload has been cancelled.
+0x05D54AF7 The associated website is in English.  To view your language select your country of origin in the site selector.
+0x05E501EB <youtubeicon>Upload
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Login Failed
+0x05CBDEDA Upload Failed
+
+# tool tips
+
+0x04598E97 Send Email
+0x046286E7 Spin
+0x046286F4 Sit
+0x046286F8 Roar
+0x04628713 Call
+0x04628717 Punch
+0x04628719 Ta-dah!
+0x04628722 Cutie
+0x04628724 Sumo
+0x04628726 Hey
+0x04628729 Flex
+0x04628733 Hey Baby
+0x04628737 The Point
+0x04628739 Walk N Place
+0x0462873F Hot Foot
+0x04628745 Hippity Hop
+0x04628749 The Stomp
+0x0462874E Raver Punch
+0x04628798 Happy
+0x0462879C Sad
+0x046287A0 Scared
+0x046287A1 Angry
+0x046287A2 Laugh
+0x046287A3 Swoon
+0x046287A4 Picture Viewer
+0x046287A5 Take Pictures
+0x046287A6 Record Movie
+0x046287DA Babies
+0x046287ED Save
+0x0462932D Help
+0x0473F903 Manage Pictures
+0x0474E80D Delete Picture
+0x0474E80E Archive Picture
+0x046286F2 Flip
+0x046287D6 Actions
+0x046287D8 Backgrounds
+
+# Are you sure: Yes
+
+0x04583FFB Yes
+
+# delete all done
+
+0x0458334E Your pictures have been deleted.
+
+# photobackuppath
+
+0x06305594 My Documents
+0x06305593 My Spore Creations/Pictures/Backup
+
+#continue
+
+0x0549656C Continue
+
+# delete one done
+
+0x04583433 Your picture has been deleted.
+
+# Maya export
+
+0x05B04EF5 Your Maya Export files have been saved to~br~~maya_export_path~~maya_export_name~*.
+
+# move all
+
+0x04583A4E Archive All
+
+# photo actions
+
+0x045C2025 What would you like to do to the pictures?
+0x045C206E Are you sure you want to delete this picture?
+0x045C208A Are you sure you want to delete all pictures?
+0x045C2094 Are you sure you want to archive this picture?
+0x045C2098 Are you sure you want to archive all pictures?
+0x04613ED0 Exiting now will cancel all pending picture saves. Do you still wish to exit?
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# your message
+
+0x045AD63A Your Message
+
+# delete all
+
+0x04583A36 Delete All
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# cancel
+
+0x04583AFB Cancel
+
+# Are you sure: No
+
+0x0458400E No
+
+#drag and drop fail message
+
+0x05889A21 Test Drive
+0x05889A4C You can't drag and drop in Test Drive.  Please switch to Build or Paint.
+
+
+#ok
+
+0x045C2917 Ok

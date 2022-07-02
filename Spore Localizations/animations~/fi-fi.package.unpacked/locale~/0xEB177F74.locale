@@ -1,0 +1,203 @@
+﻿0x00000B21 ~guide: -h2~ Kun valtaat kaupunkeja, sovita ne omiin tarpeisiisi sopiviksi.
+0x000004C1 ~guide: -h2~ Peru yksittäisen kulkuneuvon valinta pitämällä CTRL-näppäin alhaalla ja napsauttamalla kulkuneuvoa tai sen kalustoluettelossa olevaa kuvaa hiiren vasemmalla painikkeella.
+0x00000431 ~guide: -h1~ Kulkuneuvojen ohjaaminen
+0x000009B1 ~guide: -h2~ Voit kohentaa kaupunkien välistä suhdetta ehdottamalla kauppareittien perustamista, antamalla toiselle kaupungille lahjoja viestintäruudun kautta sekä auttamalla apua pyytävää kaupunkia sodassa.
+0x000009F1 ~guide: -bullet~ Sota: Mikäli ajaudut sotaan toisen kansakunnan kanssa, sen joukot hyökkäävät kaupunkiisi. Lisäksi se sulkee kauppareittinsä ja vaatii sinulta hyvityslahjaa.
+0x00000211 ~guide: -bullet~ Tyytyväisyys: Punainen naama ilmaisee kansalaisten tyytymättömyyttä, vihreä taas tyytyväisyyttä. Pidät kansalaiset tyytyväisinä varmistamalla, että heillä on riittävästi asuin- ja viihderakennuksia. Vihreät viivat osoittavat hyvää kaupunkisuunnittelua. Se pitää kaupunkilaiset tyytyväisinä.
+0x000009E1 ~guide: -h3~ Suhteet
+0x00000911 ~guide: -bullet~ Jos haluat vallata naapurikaupungin, valitse ensin armeijan kulkuneuvo ja sitten kohteeksi viholliskaupunki napsauttamalla haluamaasi kaupungintaloa hiiren vasemmalla painikkeella.
+0x00000851 ~guide: -bullet~ Avaa viestiyhteys napsauttamalla kohdekaupungin kaupungintaloa hiiren vasemmalla painikkeella.
+0x00000D01 ~guide: -h1~ Sivilisaatiopelin suorittaminen
+0x00000741 ~guide: -h1~ Rohdon kerääminen
+0x000003C1 ~guide: -bullet~ Myös W-, A-, S- ja D-näppäimet ja nuolinäppäimet liikuttavat kuvaa.
+0x00000041 ~guide: -h1~ Aloittaminen
+0x00000B41 ~guide: -h3~ Kalustoa koskevat rajoitukset
+0x00000291 ~guide: -bullet~ Kun asetat tehtaan asuinrakennusten viereen, kaupungin tulot kasvavat, mutta asukkaiden tyytymättömyys kasvaa. Kukaan ei halua työskennellä kellon ympäri!
+0x00000B31 ~guide: -h1~ Kalustoa koskevat rajoitukset ja myyminen
+0x00000B11 ~guide: -h2~ Katso kaupunkieditorista lisätietoja kulkuneuvojen ostamisesta.
+0x00000B71 ~guide: -h2~ Haluat ehkä vaihtaa kulkuneuvosi toisenlaisilla ominaisuuksilla varustettuun kulkuneuvoon. Myy takaisin jokin aiemmin luoduista kulkuneuvoistasi napsauttamalla ensin kulkuneuvoa ja painamalla sitten DEL-näppäintä. Voit myös valita kulkuneuvon kalustoluettelostasi ja napsauttaa sitten kulkuneuvon kuvan vasemmassa yläreunassa olevaa ristiä. Kulkuneuvon myydessäsi saat takaisin puolet sen alkuperäisestä myyntihinnasta.
+0x00000671 ~guide: -h2~ Pikkukartta on tärkein tiedonlähteesi planeetan tapahtumista. Napsauta hiiren oikeaa painiketta pikkukartalla, niin siirryt valitulle alueelle. Vie kohdistin kuvakkeiden päälle, niin saat lisätietoja.
+0x00000B81 ~guide: -h1~ Kaluston päivittäminen
+0x000000E1 ~guide: -h2~ Valloita koko planeetta, niin saat käyttöösi uutta teknologiaa ja pääset ennen pitkää myös tutkimaan avaruutta.
+0x00000071 ~guide: -h3~ Heimopelistä
+0x00000621 ~guide: -h3~ Välitavoitteiden kortit
+0x00000A31 ~guide: -bullet~ Liittolainen: Kun toinen kansakunta on liittoutunut kanssasi, voit luottaa sen tukeen. Liittolaiset eivät hyökkää kimppuusi, ja heidän kanssaan voit perustaa kauppareittejä. Liittolaiset saattavat pyytää sinulta apua sodan syttyessä.
+0x00000731 ~guide: -bullet~ Kauppasuhteiden luominen muiden kaupunkien kanssa. Kauppasopimuksia ehdotetaan viestintäruudulla, joten kannattaa vastata viesteihin edes silloin tällöin. Jos hyväksyt sopimuksen, luodaan oman kaupunkisi ja kohdekaupungin välille kauppareitti.
+0x00000A21 ~guide: -bullet~ Ystävällinen: Ystävällisten kansakuntien edustajat eivät hyökkää kaupunkiesi tai kulkuneuvojesi kimppuun. Voit myös avata kauppareittejä kansakunnan kaupunkeihin.
+0x000008C1 ~guide: -h2~ Kun haluat ostaa kaupungin, sinun on tarjottava ostokohteesta sopivaa hintaa. Jos tarjouksesi on liian alhainen, loukkaat myyjää ja tämä katkaisee kauppareittisi. Jos tarjouksesi sen sijaan on sopiva, kaupungista tulee osa kansakuntaasi
+0x000009A1 ~guide: -h3~ Näin parannat suhdetta naapurikaupunkiin
+0x00000A11 ~guide: -bullet~ Neutraali: Kun kansakuntien välinen suhde on neutraali, kansakunnan edustajat eivät hyökkää kimppuusi, mutta eivät myöskään käy kauppaa kanssasi.
+0x00000561 ~guide: -bullet~ Komenna yksittäiset kulkuneuvot tai ryhmät kaupungin kimppuun napsauttamalla kaupungin kaupungintaloa ja antamalla joukoille haluamasi komento.
+0x00000A01 ~guide: -bullet~ Vihamielinen: Mikäli suhteesi johonkin toiseen kansakuntaan on vihamielinen, olette jo sodan partaalla. Tällaisen kansakunnan edustajat saattavat hyökätä kulkuneuvojesi tai kaupunkiesi kimppuun. Kannattaa siis keskittyä suhteen kohentamiseen. Kun suhde on näin huonolla tolalla, et voi perustaa kauppareittejä.
+0x00000441 ~guide: -h3~ Kulkuneuvon valitseminen
+0x00000151 ~guide: -h2~ Kullakin kaupungilla on oma tunnusvärinsä, joka näkyy sen seinillä, rakennuksissa, kulkuneuvoissa ja sen otusten yllä. Tunnusväri määräytyy otusten ulkoasun värin mukaan.
+0x00000581 ~guide: -h2~ Kalustoluettelon valmiuspainikkeen avulla voit määrittää minkä tahansa kulkuneuvon valmiudeksi joko puolustuksen tai aggressiivisuuden.
+0x000002B1 ~guide: -h1~ Kansakunnan kasvattaminen
+0x00000051 ~guide: -h3~ Suoraan galaksista
+0x000004D1 ~guide: -h3~ Kalustoluettelo
+0x000000C1 ~guide: -h1~ Oma tavoite
+0x000003F1 ~guide: -bullet~ Tai lähennä ja loitonna kuvaa PLUS- ja MIINUS-näppäimillä
+0x000002E1 ~guide: -h1~ Edistyksen seuraaminen
+0x000002D1 ~guide: -h2~ Kulkuneuvojesi avulla voit valloittaa, käännyttää tai ostaa muita kaupunkeja, ja näin laajentaa kansakuntaasi.
+0x000001C1 ~guide: -h3~ Kaupungin tiedot
+0x00000551 ~guide: -bullet~ Napsauta kohdetta hiiren oikealla painikkeella, niin kulkuneuvo ottaa sen kohteekseen. Kohteita ovat rohtoesiintymät, rakennukset, tykit, villieläimet ja jopa jätit.
+0x00000461 ~guide: -h3~ Ryhmän valitseminen
+0x00000751 ~guide: -h3~ Rohtoesiintymien valtaaminen
+0x00000281 ~guide: -bullet~ Asuinrakennusten viereen rakennettavat viihderakennukset lisäävät asukkaiden tyytyväisyyttä. Mikäli asukkaat ovat tyytymättömiä, kaupunki tuottaa vähemmän tuloja ja siellä saattaa puhjeta mellakoita. Tyytymättömät asukkaat ovat myös alttiimpia uskonnolliselle käännytykselle.
+0x000001A1 ~guide: -h3~ Valtion rajat
+0x000007F1 ~guide: -h2~ Uskonnon kulkuneuvot voivat hyökätä toisten kulkuneuvojen ja rohdon poraustornien kimppuun. Kulkuneuvo on hieman armeijan kulkuneuvoja heikompi, mutta se voi tuhota vihollisyksikköjä uskonnon keinoin.
+0x00000401 ~guide: -h4~ Otuksen seuraaminen
+0x00000351 ~guide: -bullet~ Kun painat PILKKU- tai PISTE-näppäintä, kuvakulma kääntyy.
+0x00000891 ~guide: -h2~ Valitse ympyrävalikosta kauppareitin ehdottaminen. Kun kulkuneuvosi ehtivät kaupungin luokse, esiin tulee viestintäruutu, jossa kerrotaan, onnistuiko kauppareitin luominen vai ei.
+0x000007A1 ~guide: -h2~ Uskonnollisella taktiikalla voit käännyttää kaupunkeja kansakuntasi jäseniksi. Tyytymättömät asukkaat ovat helppoa saalista uskonnolliselle käännytykselle.
+0x000001E1 ~guide: -h4~ Kaupungin tietopaneeli
+0x000008A1 ~guide: -h2~ Mikäli kauppareitti oli tuottoisa, kulkuneuvosi tekevät kauppamatkoja kaupunkien välillä. Jokainen matka tuottaa voittoa molemmille kansakunnille. Lisäksi se kohentaa maidenvälisiä suhteita ja edistää tavoitettasi vallata kaupunki.
+0x00000411 ~guide: -bullet~ Paina VÄLILYÖNTIÄ, niin kuvakulma seuraa kulkuneuvoa.
+0x00000721 ~guide: -bullet~ Rakenna kaupunkiisi tehtaita. Kaupungit asukkaat tekevät töitä tehokkaimmin, kun tehtaat on sijoitettu asuinrakennusten viereen.
+0x00000901 ~guide: -h2~ Kulkuneuvojesi tykkien, ohjusten ja laserien avulla voit tuhota naapurikaupunkeja ja niiden kulkuneuvoja.
+0x00000471 ~guide: -h2~ Voit valita useita kulkuneuvoja monella eri tavalla:
+0x00000841 ~guide: -h2~ Viestintäruudun avulla voit antaa kaupungeille lahjoja ja siten parannella kaupunkien välistä suhdetta.
+0x00000CC1 ~guide: -h1~ Vaateta kansasi
+0x00000761 ~guide: -h2~ Jos haluat vallata rohtoesiintymän, valitse kulkuneuvo ja napsauta lähellä olevaa rohtoesiintymää hiiren oikealla painikkeella. Kulkuneuvosi matkaa rohtoesiintymän luokse ja rakentaa sinne poraustornin. Poraustornin yläpuolella näytetään esiintymän tuotto Spore-taalereina minuutissa.
+0x000003D1 ~guide: -h4~ Lähennä ja loitonna kuvaa
+0x00000831 ~guide: -h2~ Naapurikaupungit eivät käy kauppaa kanssasi ennen kuin suhteenne on riittävän hyvä.
+0x00000421 ~guide: -bullet~ Paina VÄLILYÖNTIÄ, niin kuvakulma siirtyy kulkuneuvosta toiseen. Jatka painamista, kunnes kuva seuraa haluamaasi kulkuneuvoa tai ryhmää.
+0x00000591 ~guide: -bullet~ Puolustus - Tämä on oivallinen valmius tilanteisiin, joissa haluat kulkuneuvosi vartioivan tiettyä aluetta. Kulkuneuvo pysyy valitsemassasi pisteessä ja vastaa vihamielisten kaupunkien ja kansakuntien uhkiin.
+0x00000631 ~guide: -h2~ Välitavoitteiden kortit näkyvät peliruudun vasemmassa yläkulmassa. Niistä näet, miten edistyt tavoitteen täyttämisessä. Napsauta välitavoitteen korttia, niin esiin tulee koko tehtävähistoria.
+0x000007C1 ~guide: -bullet~ Valitse esiin tulevasta valikosta käännytys.
+0x00000271 ~guide: -bullet~ Kun lisäät asuinrakennuksia, myös väestösi kasvaa. Yhdistä asuinrakennukset viihderakennuksiin ja tehtaisiin, niin ne kasvattavat kaupungin asukkaiden tyytyväisyyttä ja kaupungin tuotantoa.
+0x00000241 ~guide: -h1~ Kaupungin rakentaminen
+0x000002C1 ~guide: -h2~ Rakenna ensin pääkaupunkisi. Kerää rohtoa ja sijoita tehtaisiin, niin saat rahaa, joilla voit rakentaa rakennuksia ja kulkuneuvoja.
+0x00000171 ~guide: -h3~ Kansakunnan vahvuus
+0x000006F1 ~guide: -h1~ Sivilisaation rahoittaminen
+0x000004B1 ~guide: -h3~ Kulkuneuvovalinnan peruminen
+0x00000201 ~guide: -bullet~ Asukasluku: Kaupunkisi asukkaiden määrä. Mitä enemmän kansakunnassasi on asukkaita, sitä enemmän käytössäsi voi olla myös kalustoa.
+0x00000301 ~guide: -h2~ Palkin jokainen osio kuvaa kaupunkia, jonka olet vallannut jollakin kolmesta taktiikasta. Kun kansakuntasi kasvaa, voit kehittää teknologiaa, jonka avulla pääset matkaamaan myös merellä ja ilmassa. Uuden teknologian avulla voit päihittää voimakkaammatkin viholliset.
+0x00000CF1 ~guide: -h2~ Tarkista kaupunkieditorin musiikkivalikko. Sieltä voit muokata itsellesi oman tunnusmusiikin. Käännytä, osta tai valloita kaupunki, niin se ottaa tunnusmusiikkisi käyttöön. Musiikkieditori tarjoaa kattavan valikoiman rytmejä, taustoja ja muokattavia melodioita. Voit tehdä kansasi kulttuurista ainutlaatuisen suunnittelemalla oman musiikkisi.
+0x00000481 ~guide: -bullet~ Pidä hiiren vasen painike painettuna ja rajaa haluamasi joukko kohdistinta vetämällä.
+0x000003E1 ~guide: -bullet~ Lähennä tai loitonna kuvaa pyörittämällä hiiren rullaa.
+0x00000CE1 ~guide: -h1~ Tunnusmusiikki
+0x000002A1 ~guide: -bullet~ Tykit puolustavat kaupunkiasi valtausyrityksiltä. Tykit alkavat automaattisesti ampua lähestyviä vihollisia. Voit antaa puolustuskomennon myös kulkuneuvoille.
+0x000004A1 ~guide: -bullet~ Pidä CTRL-näppäin alhaalla ja napsauta kalustoluettelossa useaa kulkuneuvoa.
+0x00000491 ~guide: -bullet~ Pidä CTRL-näppäin painettuna ja napsauta hiiren vasemmalla painikkeella niitä kulkuneuvoja, jotka haluat lisätä ryhmään.
+0x00000CD1 ~guide: -h2~ Kaupunkieditorin asustamosta voit antaa kaupungin asukkaille uutta päällepantavaa.
+0x00000B61 ~guide: -h3~ Palauttaminen
+0x00000BE1 ~guide: -h2~ Kansalaistesi teknologia ja erikoisvahvuus ovat pitkällisen evoluution seurausta. Kansakuntasi kehittyessä kansalaiset kehittävät superaseita, jotka ovat ainutlaatuinen seuraus lajin evoluutiohistoriasta. Käytä näitä superaseita, jos kilpailevat kansakunnat käyvät liian aggressiivisiksi.
+0x00000651 ~guide: -h2~ Tehtävähistoriasta näet yksityiskohtaisia tietoja tavoitteistasi ja suoritettavana olevista tehtävistä. Voit myös selata aiemmin saavutettuja tavoitteita ja suoritettuja tehtäviä.
+0x00000821 ~guide: -h2~ Hyvien naapurisuhteiden ylläpito on avain taloudelliseen menestykseen.
+0x00000131 ~guide: -h1~ Oma kansakunta
+0x00000381 ~guide: -bullet~ Voit myös pitää hiiren keskimmäisen painikkeen painettuna ja liikuttaa hiirtä ylös tai alas.
+0x00000221 ~guide: -bullet~ Tulot: Kaupungin tuloista näet, kuinka monta Spore-taaleria kaupungin tehtaat tuottavat minuutissa.
+0x00000BA1 ~guide: -h2~ Joukkoihisi mahtuu aina kaupunkikohtaisen enimmäismäärän verran kunkin kaupungin erityisvahvuutta edustavia kulkuneuvoja.
+0x000005D1 ~guide: -h1~ Tapahtumahistoria
+0x00000871 ~guide: -h3~ Kauppareitin perustaminen
+0x00000AF1 ~guide: -h2~ Voit hankkia kulkuneuvoja kaupunkieditorista käsin. Muista, että kulkuneuvollasi on erilaisia ominaisuuksia kunnon, nopeuden ja voiman suhteen. Valitse siis viisaasti.
+0x00000321 ~guide: -h4~ Käännä kuvakulmaa
+0x000007D1 ~guide: -h2~ Näin kaikki valitut yksiköt lähetetään pommittamaan kaupunkia musiikilla ja uskonnollisilla hymneillä. Käännytys alkaa tästä. Käännytyksen aikana kohdekaupungin yläpuolella oleva käännytyspalkki täyttyy kansakuntasi tunnusvärillä. Siitä näet, miten käännytys edistyy.
+0x00000971 ~guide: -h1~ Suhteet
+0x00000611 ~guide: -h2~ Kussakin pelin vaiheessa on omat tavoitteensa ja tehtävänsä, joiden toteuttaminen edesauttaa pelissä edistymistä.
+0x00000711 ~guide: -bullet~ Rohdon kerääminen rohtoesiintymistä. Ensimmäiseksi sinun täytyy vallata rohtoesiintymä. Tee se viemällä kulkuneuvo lähimmän rohtoesiintymän luokse. Paikalle pystytetään nopeasti poraustorni ja rohdon kerääminen aloitetaan. Poraustornin yläpuolella ilmoitetaan sen keräysnopeus. Ole varovainen, sillä toiset kaupungit yrittävät varmasti kaapata rohtoesiintymän itselleen. Varaudu siis puolustamaan esiintymiäsi. Voit myös etsiä lisää vallattavia rohtoesiintymiä, sillä esiintymät kuivuvat aikanaan.
+0x00000521 ~guide: -h1~ Komentojen antaminen
+0x000007B1 ~guide: -bullet~ Jos haluat käännyttää kaupungin, valitse uskonnon kulkuneuvo ja napsauta kohdekaupungin kaupungintaloa hiiren oikealla painikkeella.
+0x00000881 ~guide: -h2~ Jos haluat ehdottaa kauppareittiä, valitse talouskulkuneuvo ja napsauta hiiren vasemmalla painikkeella sen kaupungin kaupungintaloa, jonka kanssa haluat käydä kauppaa.
+0x00000951 ~guide: -bullet~ Voit ottaa maaliksesi yksittäisen tykin tai rakennuksen valitsemalla ensin kulkuneuvosi ja napsauttamalla sitten kohdetta hiiren vasemmalla painikkeella.
+0x000005C1 ~guide: -h2~ Voit korjata vahingoittuneet kulkuneuvot ohjaamalla ne kansakuntasi minkä tahansa kaupungin pääporttien ulkopuolelle.
+0x00000961 ~guide: -h2~ Kun hyökkäys kaupunkiin alkaa, näet kohdekaupungin kaupungintalon yllä valloitusmittarin. Kun tuhoat rakennuksia, mittarin palkki täyttyy vähitellen omalla tunnusvärilläsi. Palkki täyttyy kokonaan, kun kaupungintalo tuhotaan. Tällöin kaupunki alistuu valtasi alle. Kaupunkilaiset ovat kuitenkin tyytymättömiä, ja kaupunki on korjausten tarpeessa.
+0x000005B1 ~guide: -h1~ Kulkuneuvojen korjaaminen
+0x00000601 ~guide: -h1~ Tavoitekortit
+0x00000361 ~guide: -h4~ Kallista kuvakulmaa
+0x00000341 ~guide: -bullet~ Voit myös pitää hiiren keskimmäisen painikkeen painettuna ja liikuttaa hiirtä vasemmalle tai oikealle.
+0x00000811 ~guide: -h2~ Rauhanomaisella taloustaktiikalla voit luoda kauppareittejä naapurikaupunkeihin. Tuottoisalla kauppapolitiikalla ostat kaupungit ennen pitkää puolellesi.
+0x000008F1 ~guide: -h2~ Sotilastaktiikka on hyvin suoraviivainen: tuhoa viholliset sotilaallisella voimallasi.
+0x00000781 ~guide: -h2~ Rohto on kullanarvoista kamaa. Sinun on parasta suojella rohtoesiintymiäsi, tai muut kansakunnat vievät ne sinulta. Ohjaa kulkuneuvo suojeltavan rohtoesiintymän luokse ja komenna se puolustusvalmiuteen.
+0x000005E1 ~guide: -h2~ Tapahtumista ilmoitetaan tapahtumahistorian kautta. Se sijaitsee ruudun vasemmassa reunassa pikkukartan yläpuolella. Tapahtumailmoitukset pitävät sinut ajan tasalla siitä, mitä tapahtuu planeetan muilla alueilla. Jos joukkosi esimerkiksi valtaavat kaupunkia samalla kun tarkkailet pääkaupunkiasi, näkyy tapahtumahistoriassa ilmoitus valtauksen onnistumisesta.
+0x00000771 ~guide: -h3~ Rohtoesiintymien puolustaminen
+0x00000701 ~guide: -h3~ Voit rahoittaa kaupunkisi toimintaa kolmella tavalla:
+0x00000231 ~guide: -bullet~ Kaupungin puolustus: Mitä enemmän kilpiä, sitä parempi on kaupungin puolustus. Tykit ovat kaupungin puolustuksen perusta.
+0x00000931 ~guide: -h2~ Kulkuneuvosi matkaavat kohdekaupunkiin ja hyökkäävät sen kimppuun aseillaan. Kaupungin puolustusarvot näkyvät aina kaupungintalon kohdalla. Korkeat puolustusarvot tarkoittavat suurta määrää puolustustykkejä.
+0x000005F1 ~guide: -h2~ Napsauta jotakin tapahtumahistorian tapahtumaa hiiren vasemmalla painikkeella, niin siirryt tapahtumapaikalle.
+0x000000D1 ~guide: -h2~ Sivilisaatiopelissä tavoitteenasi on valloittaa, käännyttää tai ostaa haltuusi planeetan jokainen kaupunki. Kasvata kansaasi ja puolusta kaupunkiasi, niin menestyt.
+0x00000531 ~guide: -h2~ Kun olet valinnut kulkuneuvon tai ryhmän, voit antaa sille komentoja.
+0x00000941 ~guide: -h2~ Kulkuneuvosi valitsee automaattisesti maalikseen suurimman uhkatekijän: yleensä ensin tykit ja toiset kulkuneuvot.
+0x000000F1 ~guide: -h3~ Ensiaskeleet:
+0x00000541 ~guide: -bullet~ Lähetä valitut joukot valitsemaasi paikkaan napsauttamalla hiiren oikealla painikkeella maata määränpäässä.
+0x00000B91 ~guide: -h2~ Valtaa uusia kaupunkeja, niin saat käyttöösi vesikulkuneuvoihin ja ilma-aluksiin vaadittavan teknologian ja voit kasvattaa kalustosi määrää.
+0x00000661 ~guide: -h1~ Pikkukartta
+0x00000571 ~guide: -h3~ Kulkuneuvojen valmiudet
+0x00000AB1 ~guide: -h2~ Käytettävissäsi on lukuisia eri toimintoja, kuten lahjojen antaminen, kauppareittien ehdottaminen, ostotarjousten tekeminen sekä ystävällisten ja epäystävällisten viestien lähettäminen.
+0x00000AE1 ~guide: -h1~ Kaluston rakentaminen
+0x00000991 ~guide: -h2~ Näet kaupunkien välisen suhteen, kun viet hiiren kohdistimen kohdekaupungin kaupungintalon ylle. Kaupungin tiedot tulevat esiin.
+0x00000AC1 ~guide: -bullet~ Valitse mieleisesi toiminto viestintäruudulta.
+0x00000141 ~guide: -h3~ Oma tunnusväri
+0x00000A81 ~guide: -bullet~ Avaa viestiruutu napsauttamalla kaupungin viestintäpainiketta.
+0x00000501 ~guide: -h2~ Napsauta hiiren oikealla painikkeella kulkuneuvon kalustoluettelossa olevaa kuvaa, niin kuvakulma kohdistuu valittuun kulkuneuvoon.
+0x000001D1 ~guide: -h2~ Siirrä kohdistin kaupungintalon ylle, niin esiin tulee lisätietoja kaupungista
+0x000005A1 ~guide: -bullet~ Aggressiivinen - Tässä valmiusasennossa joukkosi hyökkäävät aktiivisesti viholliskaupunkien ja -kansakuntien kimppuun.
+0x00000B01 ~guide: -bullet~ Napsauta kaupungintaloa, niin pääset valitun kaupungin kaupunkieditoriin.
+0x00000AD1 ~guide: -h2~ Avoimet viestikanavat auttavat parantamaan suhteita, ja diplomatiakin tulee varmasti tarpeeseen. Jos kuitenkin haluat lietsoa sotaa, voit aina loukata toista osapuolta.
+0x00000AA1 ~guide: -bullet~ Napsauta toisen kaupungin kaupungintaloa ja valitse viestintäruudusta viestintä.
+0x00000A41 ~guide: -h1~ Naapurikaupunkien kanssa viestiminen
+0x00000311 ~guide: -h3~ Kuvakulma
+0x00000981 ~guide: -h3~ Kaupungin tiedot
+0x000003A1 ~guide: -bullet~ Vie kohdistin ruudun reunalle, niin kuva liikkuu valitsemaasi suuntaan (varmista, että ruudunvieritys on kytketty päälle peli- ja tallennusasetuksista).
+0x00000921 ~guide: -bullet~ Valitse esiin tulleesta valikosta hyökkääminen.
+0x00000641 ~guide: -h3~ Tehtävähistoria
+0x00000391 ~guide: -h4~ Liikuta kuvakulmaa
+0x00000963 ~guide: -h2~ Kun valtaat kaupungin, voit pakottaa sen omaksumaan oman kansakuntasi kulttuurisen luonteen tai antaa sen säilyttää omansa. Valintasi saattaa vaikuttaa käytettävissä oleviin taktiikoihin.
+0x00000962 ~guide: -h3~ Vaihda tai säilytä erikoisvahvuus
+0x00000252 ~guide: -bullet~ Avaa kaupunkieditori, niin voit ostaa rakennuksia, kulkuneuvoja ja puolustustykkejä sekä asuja kaupunkilaisillesi. Voit jopa luoda kansallesi oman tunnusmusiikin. Tämä on kasvavalle kaupungille erittäin tärkeää.
+0x00000CB2 ~guide: -bullet~ Napsauta maata hiiren vasemmalla painikkeella, niin ase laukaistaan valitsemaasi kohteeseen.
+0x00000D81 ~guide: -h2~ Lajisi ansaitsee piirteitä evoluutiopolkunsa perusteella. Piirre määräytyy kaikkien soluvaiheen jälkeen tekemiesi valintojen ja toimien mukaan. Lajisi evoluution aikana määritetty piirre ratkaisee sen, millainen lajisi on liittyessään universumin avaruusmatkalaisten joukkoon. Kulttuurisi voi kuulua vaikkapa aggressiivisille sotureille tai uutterille kauppiaille. Lajisi evoluution huippu on siis saavutettu. Tämä ei kuitenkaan tarkoita sitä, etteikö lajisi voisi tähtiä tutkiessaan muuttua ja kehittyä. Koskaanhan ei tiedä, mitä tähdistä löytyy. Maailmankaikkeus on suuri paikka...
+0x00000D61 ~guide: -h3~ Historia
+0x00000D71 ~guide: -h2~ Ennen kuin pääset rakentamaan avaruusalustasi, voit tutkia lajisi historiaa. Näet kaikki lajisi toimet ja evoluutiopäätökset aina solutasolta asti. Evoluutio on pitkävaikutteinen prosessi, jossa jo ensimmäiset päätökset vaikuttavat kaikkeen tulevaan.
+0x000002D2 ~guide: -h1~ Historia ja perimä
+0x000002D3 ~guide: -h2~ Kun etenet sivilisaatiopelissä, kansakuntasi historiaa seurataan tarkasti. Napsauta edistyspalkin päässä olevaa historiapainiketta, niin näet aiemmat toimesi ja saavutuksesi sekä niiden vaikutukset kulttuurisi kehitykseen.
+0x00000782 ~guide: -h1~ Kaupunkien valtaaminen
+0x00000261 ~guide: -bullet~ Voit avata kaupunkieditorin napsauttamalla kaupungintalon yläpuolella näkyvää painiketta. Voit lukea lisää kaupunkieditorista ohjeiden sitä käsittelevästä kappaleesta.
+0x000004F1 ~guide: -h2~ Kulkuneuvon kuva näyttää kulkuneuvon sen hetkisen kunnon sekä tiedon siitä, onko kulkuneuvo käytössä vai joutilas. Jos kulkuneuvo on käytössä, kuvan oikeassa yläreunassa näkyy toimintokuvake.
+0x00000801 ~guide: -h3~ Taloustaktiikat
+0x000009D1 ~guide: -h2~ Jos haluat heikentää kaupunkien välistä suhdetta, hyökkää niiden kimppuun armeijan kulkuneuvoilla tai koeta käännyttää ne uskonnon kulkuneuvoilla. Myös kauppareiteistä kieltäytyminen tai niitä koskevien tarjousten jättäminen huomiotta, kaupungeista esitetyt alihintaiset ostotarjoukset, avunpyyntöjen ohittaminen ja maksuissa epäonnistuminen ovat omiaan heikentämään suhteita.
+0x00000A61 ~guide: -h2~ Kun planeetan muut kaupungit kasvavat ja kehittyvät kansakunniksi, ne ottavat sinuun yhteyttä. Tällöin pikkukartan vieressä oleva viestintäpainike valaistaan. Viestintätiedoissa näkyy viestivän kansakunnan väri, sen erikoisvahvuus ja kansakuntien välinen suhde.
+0x00000A51 ~guide: -h3~ Viestintäpaneeli
+0x000008E1 ~guide: -h3~ Sotilastaktiikat
+0x000003B1 ~guide: -bullet~ Voit myös pitää hiiren oikean painikkeen painettuna ja liikuttaa hiirtä.
+0x00000031 ~guide: -h2~ Kasvata vaikutusvaltaasi laajentamalla kansakuntaasi yhdestä kaupungista planeetanlaajuiseksi mahdiksi. Valtaa kaupungit armeijan, uskonnon tai talouden keinoin. Kansakuntasi kasvaessa kansalaisesi kehittävät uusia teknologioita, jotka auttavat sinua tehtävässäsi.
+0x00000101 ~guide: -bullet~ Valtaa rohtoesiintymät kulkuneuvojesi avulla. Rohto on arvokas raaka-aine, josta saat kaupungin kehittämiseen tarvittavia tuloja.
+0x00000091 ~guide: -h2~ Aloitat pelin yhden kaupungin kansakuntana. Oman lajisi jäsenet kuitenkin perustavat muita kansakuntia eri puolille planeettaa. Kaupungit kuvastavat asukkaidensa luonnetta ja vahvuuksia. Kaupungin vahvuus voi olla armeija, uskonto tai talous. Kunkin kansakunta kehittää omaa vahvuuttaan vastaavia kulkuneuvoja ja teknologiaa.
+0x000001B1 ~guide: -h2~ Kullakin kansakunnalla on omat rajansa, jotka näkyvät niin planeetan pinnalla kuin pikkukartallakin. Valtaa kaupungit ja laajenna kansakuntasi rajoja. Muista kuitenkin, että muut kaupungit tarkkailevat sitä, mitä teet heidän rajojensa sisällä. He kyllä puolustavat omia alueitaan.
+0x00000111 ~guide: -bullet~ Kehitä kaupunkiasi ostamalla ja sijoittamalla rakennuksia. Kunkin rakennuksen sijainti suhteessa toisiin rakennuksiin vaikuttaa kaupunkilaisten tyytyväisyyteen ja tuottavuuteen.
+0x00000061 ~guide: -h2~ Valitse galaksista haluamasi planeetta ja luo tai valitse otuksesi, kaupungintalosi ja aloituskulkuneuvosi. Sinun tulee tehdä tärkeä valinta kansakuntasi vahvuuden suhteen: onko kansakuntasi sotilasmahti, uskonnollinen yhteiskunta vai talousmahti. Tämä määrittää valtakuntasi tulevaisuutta. Valitse huolellisesti.
+0x00000121 ~guide: -bullet~ Etsi raaka-aineita lähiympäristöstäsi. Heimot, jotka eivät ole vielä valmiita siirtymään heimoyhteiskunnasta kaupungiksi, saattavat hylätä kylänsä ja jättää jälkeensä kallisarvoista teknologiaa. Tutki muita kaupunkeja, niin voit päättää sopivasta taktiikasta.
+0x00000181 ~guide: -h2~ Pääkaupunkisi kulttuuri, teknologia ja tyyli on luonteeltaan joko militaristinen, uskonnollinen tai kaupallinen. Suuntaus perustuu heimopelissä, otuspelissä ja jopa solupelissä tekemiisi valintoihin.
+0x00000451 ~guide: -h2~ Valitse kulkuneuvo napsauttamalla hiiren vasemmalla painikkeella sitä tai sen kuvaketta ruudun oikeassa reunassa olevassa kalustoluettelossa.
+0x00000191 ~guide: -h2~ Kun otat kaupungin haltuusi, voit antaa sen säilyttää oman kulttuurinsa tai pakottaa sen sopeutumaan pääkaupunkisi erikoisvahvuuteen. Kun kansakuntaasi kuuluu kaupunkeja, joilla on erilaisia vahvuuksia, käytössäsi on enemmän vaihtoehtoja. Jos taas keskityt yhteen vahvuuteen, siitä tulee tehokkaampi.
+0x00000791 ~guide: -h3~ Uskonnon taktiikat
+0x00000CB1 ~guide: -h2~ Kaikki käytettävissä olevat superaseet näkyvät edistyspalkin yläpuolella ruudun keskiosassa. Valtakuntasi kehittämät superaseet tulevat näkyviin, kun ne ovat valmiita käyttöön. Näiden käyttö maksaa sinulle tietyn määrän Spore-taalereita.
+0x00000081 ~guide: -h2~ Heimopelin jälkeen keskeisessä asemassa on kaupungintalo, joka aiemmin häämötti vain kyläläisten unelmissa. Lajin kulttuurinen identiteetti määräytyy aiempien pelien aikana tekemiesi päätösten mukaan. Pelihistoriasi mukaan osa perimätaidoista on heti käytettävissä ja osan joudut hankkimaan erikseen valtakuntasi laajentuessa.
+0x00000251 ~guide: -h2~ Sijoita varoja kaupunkiisi, niin pääset kokoamaan kalustoa, jolla voit vallata viholliskaupungit. Pääkaupunkisi kulkuneuvoilla voit hyökätä toisiin kaupunkeihin tai liittoutua näiden kanssa. Näin voit laajentaa valtakuntaasi.
+0x00000BD1 ~guide: -h1~ Perimätaidot
+0x00000021 ~guide: -h2~ Tervetuloa sivilisaatiopeliin! Otuksesi laji on paitsi herännyt tietoiseksi olemassaolon peruskysymyksistä, myös kasvanut kokoa: pieni kylä on laajentunut jo nopeasti kehittyväksi kaupungiksi. Uusia haasteita tuovatkin lajisi muiden ryhmittymien kaupungit.
+0x000000A1 ~guide: -h2~ Ohjaat itse kansakuntasi kulkuneuvoja. Kulkuneuvojen avulla voit käydä muiden kaupunkien kimppuun. Saat tuloja kaupunkisi tehtaista ja rohtoesiintymistä. Osta varoilla kulkuneuvoja ja kokoa itsellesi valtava kalusto. Toteuta taktiikkaasi antamalla kulkuneuvoillesi komentoja. Laajenna yhdestä kaupungista kokonaiseksi kansakunnaksi, niin saat käyttöösi vesikulkuneuvoja ja ilma-aluksia.
+0x000001F1 ~guide: -bullet~ Ylärivi: Kaupungin vahvuuskuvake, nimi ja tunnusväri sekä suhteen laatu – jos kyseessä ei ole oma kaupunkisi.
+0x00000A91 ~guide: -h3~ Kaupungintalon viestintäyhteydet
+0x000000B1 ~guide: -h2~ Kaupunkia pitää ylläpitää ja kohentaa, jotta kansakuntasi pysyy hyvässä kunnossa. Lisää ja luo kaupunkiisi rakennuksia, niin kaupunkisi tulot kasvavat ja kaupungista tulee voimakkaampi. Voit rakentaa ja laajentaa kansakuntaasi mielesi mukaan – ja saat voimakkaita ja ainutlaatuisia superaseita sen mukaan, miten kansakuntasi kehittyy.
+0x00000A71 ~guide: -bullet~ Vie kohdistin viestintäpainikkeen ylle, niin näet lisätietoa osapuolten suhteesta. Luetellut yksityiskohdat näyttävät tapahtumat, jotka ovat vaikuttaneet kansakuntien väliseen suhteeseen.
+0x000002F1 ~guide: -h2~Sivilisaatiopelin aikana voit seurata edistymistäsi ruudun alareunassa olevan edistyspalkin avulla.
+0x000006A1 ~guide: -bullet~ Kulkuneuvot – Kulkuneuvokuvake edustaa kartalla näkyviä yksittäisiä kulkuneuvoja ja ne omistavaa kansakuntaa.
+0x00000691 ~guide: -image-left 0x05556b31!minimap-resource.png~ Rohtoesiintymät – Jokaisella planeetan rohtoesiintymällä on oma kuvakkeensa. Kuvakkeen väri ilmoittaa mille kansakunnalle esiintymä kuuluu.
+0x000006B1 ~guide: -bullet~ Valtion rajat – Saat kansakunnan rajat näkyville, kun viet kohdistimen pikkukartalla kaupunkikuvakkeen ylle.
+0x00000681 ~guide: -image-left 0x05556b31!minimap-myCity.png~ Kaupungit – Jokaisella kartan kaupungilla on oma kuvakkeensa. Kuvakkeen väri ilmoittaa mihin kansakuntaan kaupunki kuuluu.
+0x00000011 ~guide: -image-left-h1 0x02e9a2ca!btn-civ-norm.png~ Tervetuloa sivilisaatiopeliin!
+0x000008B1 ~guide: -h2~ Lisää kulkuneuvoja kaupankäyntiin, niin kauppareitin tuottavuus lisääntyy kaikilta osin. Kun napsautat kaupungin yläpuolella olevaa ostopalkkia, näet miten kaukana olet tavoitteestasi eli kaupungin ostamisesta. Kun ostopalkki on täynnä, kohdekaupunki lähettää sinulle viestin, jossa ilmoitetaan kaupungin olevan kaupan. Voit ostaa kaupungin heti tai jättää ostopäätöksen myöhempään ajankohtaan.
+0x00000B51 ~guide: -h2~ Kunkin kaupungin kalustoon mahtuu vain tietty määrä kulkuneuvoja. Enimmäismäärät kasvavat, kun valtaat lisää kaupunkeja ja avaat käyttöösi uutta tekniikkaa, jonka avulla voit kohota ilmojen herraksi. Voit myös yhdistellä kulkuneuvotyyppejä. Mikäli valtaat kaupungin, jonka vahvuus on jokin muu kuin omasi, kullakin vahvuudella on omat enimmäismääränsä. Kutakin kulkuneuvotyyppiä koskevat enimmäismäärät näkyvät kaupunkieditorin oikeassa yläreunassa. Rajoitukset ovat siis näkyvissä aina, kun ostat kulkuneuvoja.
+0x00000371 ~guide: -bullet~ Pidä hiiren vasen ja oikea painike painettuina ja liikuta hiirtä ylös ja alas. MAC-järjestelmissä pidä alhaalla KOMENTO- ja OPTIO -näppäimiä sekä hiiren vasenta painiketta.
+0x00000331 ~guide: -bullet~ Pidä hiiren vasen ja oikea painike painettuina ja liikuta hiirtä vasemmalle tai oikealle. MAC-järjestelmissä pidä alhaalla KOMENTO- ja OPTIO -näppäimiä sekä hiiren vasenta painiketta.
+0x000006E1 ~guide: -image-left 0x05556b31!menu_comm.png~ Viestintä – Kun viestiruutu on avoinna ja viestit toisen kaupungin kanssa, näet pikkukartalta puhekumppanisi.
+0x000006D1 ~guide: -image-left 0x05556b31!icon-sporebuck.png~ Spore-taaleri – Kaupungin ylle tulee näkyviin Spore-taalerin kuvake, kun talouden kulkuneuvo käy kauppaa kaupungin kanssa ja tienaat rahaa taloudellisilla toimillasi.
+0x000006C1 ~guide: -image-left 0x05556b31!minimap-dot-attack.png~ Taistelu – Nämä kuvakkeet näkyvät hyökkäyksen kohteena olevien tai taisteluun osallistuvien kaupunkien, rohtoesiintymien ja kulkuneuvojen yllä. Tämä pätee sekä armeijan hyökkäyksiin että uskonnollisiin hyökkäyksiin.
+0x00000D11 ~guide: -h2~ Kun kaikki planeetan kaupungit ovat kansakuntasi hallinnassa, saat käyttöösi teknologiaa, jonka avulla voit matkata tutkimaan kosmosta. Napsauta edistyspalkin päässä olevaa kehityspainiketta, niin voit ottaa seuraavaan kehitysvaiheeseen vaadittavan askeleen – askeleen avaruuteen.
+0x000009C1 ~guide: -h3~ Näin heikennät suhdetta naapurikaupunkeihin
+0x000007E1 ~guide: -h2~ Mikäli kaupungin asukkaat ovat tyytyväisiä, edistys on hidasta. Kaupungin asukkaat nimittäin ärtyvät vähitellen siitä, että vieraat tyrkyttävät heille omaa uskoaan. He saattavat vahingoittaa kulkuneuvojasi heittämällä niitä polttopulloilla. Ajan myötä heistä tulee vihamielisiä ja he alkavat hyökätä kulkuneuvojesi kimppuun tykeillään ja puolustusvalmiudessa olevilla kulkuneuvoillaan. Voit vastata iskuihin valitsemalla kohteeksi yksittäisiä tykkejä ja viihderakennuksia. Näin saat ne väliaikaisesti pois pelistä. Kun saat käännytyspalkin täytettyä, kaupunkilaiset uskovat sanomaasi ja kaupungista tulee osa kansakuntaasi.
+0x00000161 ~guide: -h2~ Kun valloitat, käännytät tai ostat muita kaupunkeja, ne ottavat käyttöön sinun tunnusvärisi ja liittyvät osaksi kansakuntaasi. Näiden kansakuntien kaupungeista asukkaineen tulee sinun alamaisiasi.
+0x000004E1 ~guide: -h2~ Ruudun oikeassa reunassa on kalustoluettelo. Kun ostat kulkuneuvon, sen kuva lisätään kalustoluetteloon.
+

@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Twoje pliki eksportowe formatu Maya zostały zapisane w~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Nie
+0x0549366D Wyślij
+0x05496B24 Logowanie do YouTube...
+0x055AA305 Wysyłanie filmu do YouTube...
+0x056691B0 Sprawdzanie rejestracji w YouTube...
+0x056D0627 Wysyłka zakończona! Prześlij znajomym łącze do swego filmu!
+0x05498DCB Twój film został wysłany. Czy chcesz powiadomić swojego znajomego?
+0x05B5AC4C Warunki korzystania z usług YouTube
+0x054C1E63 Twój film został zapisany w pliku ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Podczas wysyłania filmu na YouTube wystąpił błąd. ~br~~br~Sprawdź połączenie z Internetem i spróbuj ponownie.
+0x05498260 Podczas logowania na YouTube wystąpił błąd. ~br~~br~Sprawdź połączenie z Internetem i spróbuj ponownie.
+0x05B5FD1E Czy chcesz to wysłać teraz?
+0x05D2C767 Wysyłanie danych anulowane.
+0x05D54AF7 Powiązana strona internetowa jest w języku angielskim. Aby obejrzeć stronę w swoim języku, wybierz swój kraj z listy.
+0x05E501EB <youtubeicon>Wyślij
+0x0563C623 Ta funkcja wymaga zarejestrowania się w SPORE. Czy chcesz się zarejestrować?
+0x05600488 Ta funkcja wymaga zalogowania się w SPORE. Czy chcesz się zalogować?
+0x05496510 Logowanie do YouTube nieudane.~br~~br~Użyj prawidłowej nazwy użytkownika i hasła lub zarejestruj się w YouTube przed kontynuowaniem wysyłania filmu.
+
+# email
+
+0x045AD62F Twój adres e-mail
+0x0583897C Kliknij, by wysłać elektroniczną pocztówkę
+0x05B5B8C4 Powiadom znajomego o swoim filmie
+0x04585F1F Twój adres e-mail jest nieprawidłowy.
+0x04585F49 Adres e-mail odbiorcy jest nieprawidłowy.
+0x045AD634 Adres e-mail odbiorcy
+0x04588BEF Twoja pocztówka została wysłana.
+0x045AD5B9 Wyślij pocztówkę
+
+# capture GIF
+
+0x058B90F2 Animowany awatar został zapisany w pliku~br~~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x046286E7 Obrót
+0x046286F4 Siad
+0x046286F8 Ryk
+0x04628713 Zew
+0x04628717 Cios
+0x04628719 Ta-da!
+0x04628722 Miluś
+0x04628724 Sumo
+0x04628726 Hej
+0x04628729 Siłacz
+0x04628733 Hej, skarbie
+0x04628739 Chód w miejscu
+0x04628745 Hop-siup
+0x04628749 Tuptuś
+0x04628798 Szczęście
+0x0462879C Smuteczek
+0x046287A0 Przestrach
+0x046287A1 Gniew
+0x046287A2 Śmiech
+0x046287A3 Omdlenie
+0x046287A4 Przeglądarka zdjęć
+0x046287A5 Fotografowanie
+0x046287A6 Filmowanie
+0x046287D8 Tła
+0x046287DA Młode
+0x046287ED Zapisz
+0x0462932D Pomoc
+0x0474E80D Usuń zdjęcie
+0x0474E80E Archiwizuj zdjęcie
+0x04598E97 Wyślij e-mail
+0x0462873F Prawy do lewego
+0x0462874E Joł joł
+0x0473F903 Zarządzaj zdjęciami
+0x04628737 W miejscu
+0x046286F2 Skok
+0x046287D6 Działania
+
+# move all
+
+0x04583A4E Archiwizuj wszystko
+
+#continue
+
+0x0549656C Kontynuuj
+
+# delete one done
+
+0x04583433 Twoje zdjęcie zostało usunięte.
+
+# delete all done
+
+0x0458334E Twoje zdjęcia zostały usunięte.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_dayofmonth~-~movie_month~-~movie_year~_~movie_time~
+
+# move one done
+
+0x0458342D Twoje zdjęcie zostały zachowane tutaj: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_dayofmonth~-~gif_month~-~gif_year~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Twoje zdjęcia zostały zachowane tutaj: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Tak
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animacja
+
+# photobackuppath
+
+0x06305594 Moje dokumenty
+0x06305593 Moje dzieła SPORE\Zdjęcia\Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Logowanie nieudane
+0x05CBDEDA Błąd wysyłania danych
+
+# your message
+
+0x045AD63A Twoja wiadomość
+
+#drag and drop fail message
+
+0x05889A21 Próba generalna
+0x05889A4C Nie można przeciągać i upuszczać elementów w trybie próby generalnej. Włącz tryb budowy lub malowania.
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Masz za dużo zdjęć. Zarchiwizuj najpierw część z nich.
+
+# photo actions
+
+0x045C2025 Co chcesz zrobić z obrazami?
+0x045C206E Czy na pewno chcesz usunąć ten obraz?
+0x045C208A Czy na pewno chcesz usunąć wszystkie obrazy?
+0x045C2094 Czy na pewno chcesz zarchiwizować ten obraz?
+0x045C2098 Czy na pewno chcesz zarchiwizować wszystkie obrazy?
+0x04613ED0 Wyjście spowoduje anulowanie zapisywania reszty obrazów. Czy na pewno chcesz wyjść?
+
+# delete all
+
+0x04583A36 Usuń wszystko
+
+# cancel
+
+0x04583AFB Anuluj
+
+# Are you sure: No
+
+0x0458400E Nie
+
+# email message
+
+0x056BCE10 Zobacz mojego niesamowitego stwora z gry SPORE!
+0x056BCDCA Zobacz mój film stworzony w grze SPORE!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 Ok

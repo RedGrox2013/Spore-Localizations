@@ -1,0 +1,238 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.# Any change you would do in this file will be overwritten by the script.# If you need to modify any of the text, please modify the file with the same name under#   Data\GameplayConfig\SpaceGame\SpaceConversations\.# That file has the same name but different (.cnv) extension.
+
+0x00000093 UPPDRAGSSTATUS: Ej slutfört~p~PÅMINNELSE: Hämta ~mission_multi_delivery_item~ artefakter från: ~mission_multi_delivery_item_planet_list~. Leverera till planeten ~mission_multi_delivery_buyer_planet~.~p~OBS! Mer information finns i din personliga uppdragslogg.
+
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000E5 Jaha, jag antar att jag är klar här. Nu drar jag.
+0x000000E3 Jaha, jag antar att jag är klar här.
+0x000000E6 Tack. Mitt jobb här är klart.
+0x000000EF Återvänd till planeten ~mission_source_planet~.
+0x00000088 Får jag ställa en fråga?
+0x000000AB Ja. Jag glömde mitt uppdrag.
+0x00000061 Får jag fråga dig en sak?
+0x0000005E Vänta. En sak till.
+0x000000AC Kan ni påminna mig om mitt uppdrag?
+0x000000A9 Va? Vem? Var? Vad är det som händer?
+0x000000AA Va? Kan ni friska upp mitt minne?
+0x000000E9 Som att leta nålar i en höstack! Jag säger upp mig!
+0x000000EA Jag gillar inte oddsen. Jag slutar.
+0x000000F6 Jag förstår vad jag gjorde fel. Tack.
+0x000000F7 Leveransen har lämnats.
+0x00000069 ~player_creature_name~ gav ett löfte! ~player_creature_name~ accepterade uppdraget! Endast de svagaste, mest ryggradslösa maskarna går emot sitt ord. Idag är ~player_creature_name~ mask.
+0x00000047 Så underbart! Jag skulle gärna sjunga en sång för dig om det inte skulle försena din start.
+0x00000077 Jag måste sticka. Adjö!
+0x00000046 Utmärkt. Din hjälp stärker vår hypotes om uppförandet hos ~player_title~ ~player_creature_name~.
+0x00000067 Du har brutit kontraktet. Om vi var en lägre stående ras hade vi kanske stämt dig på alla dina Sporebucks!~p~Tur för dig att vi är en så vänlig och förstående ras… med väldigt bra priser.~p~Har du sett vår shop med galaktiska varor?
+0x0000006E Din brist på pålitlighet kommer noteras i hela vår federation.
+0x0000006D Du har brutit ditt löfte att hjälpa oss, som du avlade inför Spode. Våra ecklesiastiska domstolar ska beakta konsekvenserna det här får på din själ.
+0x00000070 Wow, coolt.~p~Vi är hellyckliga för din leverans… men… det verkar som om du fortfarande måste lokalisera ~mission_multi_delivery_buyer_num_needed_items~ till, ellerhur?~p~Ok, coolt. Vi stannar här… och är coola.
+0x0000006F Klarar din art ens av framgång? Du får oss att tvivla på våra egna teorier om ~player_creature_name~.
+0x00000044 Låt Spodes vilja ske! Du kan börja genast!
+0x0000006C ~player_title~ ~player_creature_name~. Ah, du har bestämt dig för att det mest effektiva är att göra en delleverans. Intressant. Du kanske kan förklara för oss lite senare hur du tänker.~p~Så länge väntar vi på leveransen av ytterligare ~mission_multi_delivery_buyer_num_needed_items~ stycken.
+0x00000043 Du är värsta universum-förbättraren ju! Tack.
+0x00000026 Det passar inte så bra just nu.
+0x00000072 Hans Endahet måste ha en plats för dig i sin Stora Plan. Vi lägre stående varelser har ingen aning om vad det skulle kunna vara för plats som han har i åtanke för en misslyckad stackare som du.
+0x00000022 Hur gör jag för att söka igenom ett helt stjärnsystem?
+0x000000EC Jag är färdig med det här.
+0x00000032 Jag återvänder senare. Adjö.
+0x000000EB Ehhh. Glöm det, jag är nog upptagen, trots allt.
+0x0000006B UPPDRAGET MISSLYCKADES. ANLEDNING: Avbrutet av ~player_creature_name~.~p~MEDDELANDE OM EXTREMT MISSNÖJE
+0x00000045 Stora federationsrådet tackar dig. Vänligen skynda dig.
+0x00000021 Är inte det här som att söka efter nålar i en höstack!
+0x0000003C Nej, jag kan inte hjälpa dig med detta.
+0x00000052 Inte? ~player_creature_name~ är svagare än väntat. Nästa gång bör vi kanske inte erbjuda en belöning. Vi betalar inte veklingar.
+0x0000003D Jag återvänder senare. Adjö.
+0x0000003B Du borde nog hitta någon annan för detta jobb.
+0x00000055 UPPDRAG AVBÖJT. ANLEDNING: ~player_creature_name~ är en underlägsen ras.
+0x0000004F Det var tråkigt. Vi hade gärna jobbat med dig. Kanske en annan gång.
+0x0000016E Toppen! Vi vet att du kommer att göra ett bra jobb!
+0x00000050 Självklart, självklart. Jag anade att det var hopplöst att komma med ett så trivialt ärende till en så ärorik person som du. Du kanske kan trösta mig genom att spendera pengar i butiken?
+0x0000016D UPPFATTAT. BÖRJA OMEDELBART.
+0x00000020 Var exakt bör jag börja leta?
+0x00000049 Vi tackar dig för din hjälp!
+0x00000037 Uppfattat. Kom igen nu kör vi.
+0x00000036 Låter kul. Jag gör det.
+0x00000035 Visst. Jag kan hjälpa er med detta.
+0x00000013 Tack. Adjö.
+0x00000060 Jag har en fråga till.
+0x00000065 Jag ber om din förståelse.
+0x00000064 Ledsen att jag inte kunde hjälpa till. Hej då.
+0x00000063 Nåväl, adjö.
+0x00000048 Underbart! Jag visste att du var rätt ~player_creature_name~ för jobbet.
+0x000000C5 Ja jag har med mig leveransen.
+0x00000059 Intressant val ~player_title~ ~player_creature_name~. Du kanske har information som vi saknar, även om det verkar otroligt.
+0x0000003A Jag är inte intresserad av att göra detta.
+0x0000004C Jag ber om din förståelse.
+0x00000058 Då så. Låt oss inte uppehålla dig från dina många långt viktigare uppgifter.
+0x0000004A Bra. Vi i ~race~-släktet är tacksamma för din hjälp.
+0x0000001F Hur ska jag hitta dessa föremål?
+0x0000005B Hoppsan. Jag kommer strax tillbaka!
+0x00000039 Det här uppdraget är inget för mig.
+0x0000002D Jag återvänder senare. Adjö.
+0x000000E1 Vilken glädje! Alla leveranser som kommer fram är en sång i hjärtat och en fjäder i hatten. Åk tillbaka till ~mission_source_empire~ för din välförtjänta belöning.
+0x00000024 Jag skulle föredra att inte göra detta.
+0x00000023 Ledsen, men jag är inte er bud-varelse idag.
+0x000000A5 Jag ser att du är upptagen. Vi hörs senare.
+0x0000008B Fantastiskt bra. Vi, det mäktiga och rättvisa ~race~-släktet insåg med vår obegränsade vishet att vi skulle Tro på ~player_title~ ~player_creature_name~ ännu en gång... och det visade sig att vi hade rätt. ~p~Din leverans är utförd. Återvänd till ~mission_source_empire~ i ~mission_source_star~-stjärnsystemet för din betalning.
+0x0000008A Fantastiskt bra, ~player_title~ ~player_creature_name~.~p~Din leverans är avklarad. Återvänd till ~mission_source_empire~ i ~mission_source_star~-stjärnsystemet så att de kan få uttrycka sin tacksamhet.
+0x00000082 Jag kommer att återvända!
+0x000000DF LEVERANS AVKLARAD.~p~REKOMMENDATION: Återvänd till ~mission_source_empire~ för att få kompensation.
+0x00000025 Det här är inte riktigt min grej.
+0x000000A3 Ledsen att jag besvärade dig. Hejdå.
+0x000000A4 Kanske en annan gång. Hej så länge.
+0x000000E7 ~p~Planeten %s i stjärnsystemet %s
+0x00000078 Tack för möjligheten. Jag beger mig nu.
+0x000000A6 Jag ser att du behöver en stund. Adjö.
+0x00000079 Jag återvänder inom kort. Hej så länge.
+0x0000007A Det är dags att börja. Vi ses när jag kommer tillbaka.
+0x0000009F Jag skulle vilja fråga dig något annat ...
+0x000000D9 Jag skulle vilja fråga om en annan sak ...
+0x000000A1 Och ...
+0x000000A0 Innan jag går har jag andra frågor ...
+0x00000073 Jag skulle vilja fråga dig något annat ...
+0x00000075 Och ...
+0x00000074 Innan jag går har jag andra frågor ...
+0x00000083 ~player_title~ ~player_creature_name~. Din leverans är avklarad. Återvänd till ~mission_source_empire~ i ~mission_source_star~-stjärnsystemet för din betalning.
+0x0000008C Jag skulle vilja fråga dig något annat ...
+0x00000030 ~player_title~ ~player_creature_name~. Artefakterna av sorten ~mission_multi_delivery_item~ sägs finnas på dessa planeter: ~mission_multi_delivery_item_planet_list~.~p~När du samlat in dem alla ska du transportera dem till planeten ~mission_multi_delivery_buyer_planet~. Återvänd sedan till oss för dina belöning på ~mission_rewards~.
+0x00000084 Vänliga farare. Tack för din hjälp, ~player_title~ ~player_creature_name~.~p~Våra lärare säger att vi alla kommer att bli Hemliga Mästare i framtida inkarnationer. En dag kanske du också blir en. Men medan du fortfarande nöjer dig med materiella saker så betalar vi gärna ut din ersättning på ~mission_rewards~.
+0x0000007B Bra! ~player_creature_name~ gör ett bra jobb. Här är ~mission_rewards~ som lovat.
+0x0000002B Ah, det är en jakt, vad kul! Du kan hitta artefakter av sorten ~mission_multi_delivery_item~ på följande platser: ~mission_multi_delivery_item_planet_list~.~p~Hitta dem, bind ihop dem och ta med dem till ~mission_multi_delivery_buyer_planet~ och tjäna en hacka. Hur mycket? Vad sägs om ~mission_rewards~!
+0x0000005C Du måste följa din egen väg.~p~Ha det bra min vän.
+0x0000007D UPPDRAGSSTATUS: Slutfört~p~UPPMUNTRANDE MEDDELANDE: Exemplariskt arbete. Andra biologiska varelser borde vara lika dugliga.~p~KOMPENSATIONSLEVERANS: ~mission_rewards~.
+0x00000057 Spodes vägar äro tydligen inget för ~player_title~ ~player_creature_name~. Lämna oss.
+0x0000006A Men… men… men… men… men… men… men… men…~p~Okej.
+0x00000062 Okej. Jag sticker.
+0x00000054 Men… men… men… men… men… men… men… men…~p~Okej.
+0x000000F5 Ohhh. Okej. Det är lugnt.
+0x00000038 Okej. Nu kör vi igång!
+0x000000A7 Va? Okej. Jag förstår. Uppfattat.
+0x000000ED Okej. Jag fattar nu.
+0x000000B4 ...
+0x000000B6 ~mission_source_empire~-imperiet har skickat mig… jag skulle ta med mig något till dig har jag för mig ...
+0x00000034 Jag skulle vilja fråga dig om en annan sak ...
+0x00000087 En sista sak ...
+0x0000005F Det var bara en sak till jag ville fråga om ...
+0x000000E4 Jag antar att det är dags att åka tillbaka då ...
+0x000000A2 En sak till ...
+0x00000080 Välkommen ~player_title~ ~player_creature_name~. Stora rådet har informerats om din lyckade leverans och tackar dig.~p~Jag har bemyndigats att ge dig ett Lovordscertifikat av andra klass, liksom ~mission_rewards~.
+0x0000009C OK. Bara en sak till ...
+0x000000AD ...
+0x000000E8 Jag har bara en fråga till ...
+0x00000086 Bara en sak till ...
+0x00000076 En sak till ...
+0x00000089 Innan jag ger mig av ...
+0x0000001E Jag skulle vilja fråga dig om en annan sak ...
+0x0000009D Jag förstår. Men jag har en fråga till ...
+0x00000031 Jag skulle vilja fråga dig om en annan sak ...
+0x0000009E Okej. Låt mig fråga en annan sak ...
+0x0000004D Bra jobbat, kapten! Jag visste att vi kunde lita på dig.~p~Här är din belöning, som lovat: ~mission_rewards~. Ha det så skoj!
+0x000000A8 ...
+0x0000007C Åh, bra jobbat! Vi sjunger en sång för dig ikväll ... en glädjesång fylld med lovord och tacksamhet för allt du har hjälpt oss med!~p~Här får du vad vi lovade: ~mission_rewards~.
+0x00000068 Ger du upp? Men vi räknade ju med dig! Det var inte snällt. Att ge upp när folk räknar med dig är ... verkligen oschyst. Försök låta bli att göra folk besvikna i framtiden.
+0x000000CF Jag skulle vilja fråga om en annan sak ,,,
+0x000000F1 Du levererade alla ~mission_multi_delivery_item~-artefakter. Återvänd till systemet ~mission_source_star~ där du får din belöning.
+0x00000029 Du behöver inte oroa dig för artefakterna av sorten ~mission_multi_delivery_item~-artefakter ... vi har antecknat var de finns: ~mission_multi_delivery_item_planet_list~.~p~Om du tar med dig allt till planeten ~mission_multi_delivery_buyer_planet~, belönas du med ~mission_rewards~.
+0x00000003 Har du sett planeten ~mission_multi_delivery_buyer_planet~? Stället har verkligen en underbar aura ... otroligt läckert. Det fick oss att vilja skicka en liten present till befolkningen där. Vi tänker oss att några ~mission_multi_delivery_item~-artefakter skulle kunna vara nåt.~p~Fast det finns ett litet problem – vi har inga ~mission_multi_delivery_item~-artefakter. Du måste leta reda på några.
+0x0000007E Du vågar alltså trotsa det mäktiga ~race~-släktet genom att leverera ett mindre antal ~mission_multi_delivery_item~-artefakter än vi kommit överens om.~p~Om vi inte vore så hängivna anhängare av Trons filosofi , skulle vi kanske ifrågasätta din kapacitet att leverera det fulla antalet. Men vår sanna Tro säger oss att du kommer att återvända med alla.
+0x0000005A Vem sa du att du var? ~player_creature_name~? Hmm ... vänta, nu kommer jag ihåg. ~mission_source_empire~ skickade dig va? Du skulle ju ta med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter ... men här är du... utan dem.~p~Det är lite konstigt, eller hur? Man kan ju tycka att du borde tagit med dem...
+0x000000B5 ~mission_source_empire~ bad mig ta med några ~mission_multi_delivery_item~-artefakter till dig.
+0x0000007F Välkommen ~player_title~ ~player_creature_name~. Nu är din framgångsaga skriven. Vi gjorde rätt som vågade Tro på dig ... Eftersom vi alltid gör rätt.~p~Dina ~mission_rewards~ är välförtjänta. Varsågod att ta med dig en helig text när du går.
+0x000000D7 Att tala om ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter och sedan komma med färre ... Så oansvarigt uppförande!~p~Kom tillbaka när du har alla ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000056 Det står skrivet att du ~player_title~ ~player_creature_name~ kommer att överlämna ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter till oss.~p~Så står det skrivet här i kontraktet ... och så skall det också bli.
+0x00000071 Tack ska du ha, vänliga farare.~p~Vi ser fram emot ankomsten av de kvarstående ~mission_multi_delivery_buyer_num_needed_items~  ~mission_multi_delivery_item~-artefakter.~p~Samla dem och återvänd hit till oss.
+0x000000F0 Leta efter ~mission_multi_delivery_item~-artefakter på:~br~~mission_multi_delivery_item_planet_list~
+0x00000095 Du har inte hämtat alla ~mission_multi_delivery_item~-artefakter! De finns fortfarande någonstans där ute! Var informationen i din Uppdragslogg inte tillräcklig? ~p~Kom ihåg att undersöka dessa planeter: ~mission_multi_delivery_item_planet_list~. Ta sedan med artefakterna till ~mission_multi_delivery_buyer_planet~. Nu kanske du kan fortsätta med din heliga uppgift.
+0x0000000B Anhängare av den falska guden har skapat ~mission_multi_delivery_item~-artefakter och gömt dessa på andra planeter i här i stjärnsystemet. Tack vare Spode har vi upptäckt dem. Kan du leta efter dessa artefakter och ta dem till ~mission_multi_delivery_buyer_planet~ så att de kan förstöras?
+0x000000EE Hitta och leverera ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ~^p^mission_multi_delivery_buyer_num_needed_items^artefakt^artefakter~ till ~mission_multi_delivery_buyer_planet~.
+0x0000002E ~mission_multi_delivery_item~-artefakter finns här: ~mission_multi_delivery_item_planet_list~~p~För dem till planeten ~mission_multi_delivery_buyer_planet~, och när du återvänder kommer vi i Spodes namn att belöna dig med en gåva bestående av ~mission_rewards~.
+0x00000005 Befolkningen på planeten ~mission_multi_delivery_buyer_planet~ menar att en ~mission_multi_delivery_item~ är det bästa som finns. Är det sant? Kanske, kanske inte. Så länge de vill ha dem så bryr jag mig inte!~p~Jag är säker på att det finns ~mission_multi_delivery_item~-artefakter i vårt stjärnsystem. Kan du samla ihop dem och ta med dem till planeten ~mission_multi_delivery_buyer_planet~?
+0x000000DE Då ska vi se här... Ja ja du har lämnat alla ~mission_multi_delivery_item~-artefakter. Bra jobbat! Utmärkt jobb!~p~Jag hade inte väntat mig att en fin ~player_creature_name~ som du skulle ha några problem, men jag måste ju kolla. Oss emellan skulle du bli förvånad över hur många raser som inte lärt sig räkna ordentligt.~p~Återvänd till ~mission_source_empire~ för din betalning.
+0x0000002F Vi har fått tillförlitlig information som säger att ~mission_multi_delivery_item~-artefakter finns på följande platser: ~mission_multi_delivery_item_planet_list~.~p~Samla alla dessa föremål för leverans till planeten ~mission_multi_delivery_buyer_planet~ och återvänd sedan till vår aktuella position för en kompensation på ~mission_rewards~.
+0x000000DD Utmärkt! Du har levererat alla föremål av sorten ~mission_multi_delivery_item~-artefakter. Återvänd till ~mission_source_empire~ för din betalning.
+0x0000000C För länge sedan, tidigt i vår arts historia, behandlades ~mission_multi_delivery_item~-artefakter som heliga föremål. Vi måste ta reda på om denna sedvänja är i enlighet med Spodes ord.~p~ ~mission_multi_delivery_item~-artefakter bör samlas ihop i vårt eget stjärnsystem och tas till ~mission_multi_delivery_buyer_planet~ för vidare forskning.
+0x00000097 Vi är besvikna på att inte alla ~mission_multi_delivery_item~-artefakter har hämtats från ~mission_multi_delivery_item_planet_list~. Om du misslyckades att hitta parametrarna i din Uppdragslogg är vi inte förvånade.
+0x00000010 Ett fullständigt register över vår arts DNA kodades inom en serie ~mission_multi_delivery_item~-artefakter och placerades i ett leverans till planeten ~mission_multi_delivery_buyer_planet~. Olyckligtvis plundrades sändelsen av pirater och innehållet försvann.~p~En infångad priat har, efter förhör av våra xeno-antropologer, avslöjat att ~mission_multi_delivery_item~-artefakter fortfarande finns i detta stjärnsystem. Kan du hitta dem och slutföra leveransen?
+0x0000009A Har du inte hittat alla ~mission_multi_delivery_item~-artefakter åt oss än? Vi hade räknat med att du skulle hämta dem! Vi gav dig till och med en lista över planeter att söka igenom: ~mission_multi_delivery_item_planet_list~. Ta med artefakterna till ~mission_multi_delivery_buyer_planet~ när du samlat ihop dem alla, och återvänd hit först när det är gjort.~p~Allt detta bör finnas i din uppdragslog.
+0x00000016 Någon på planeten ~mission_multi_delivery_buyer_planet~ är en seriös samlare av ~mission_multi_delivery_item~-artefakter. Och när någon är seriös finns det alltid seriösa summor Sporebucks att tjäna!~p~Jag vet att vi har några ~mission_multi_delivery_item~-artefakter i detta stjärnsystem. Vad säger du om att göra en överenskommelse? Det blir en vanligt leta-och-leverera-variant: du åker och letar reda på dessa artefakter, du tar med dem tillbaka till ~mission_multi_delivery_buyer_planet~, du kommer tillbaka hit för betalning.
+0x000000E0 ~player_creature_name~ kommer med ~mission_multi_delivery_item~-artefakter. Mycket bra. Återvänd till ~mission_source_empire~ för att få betalt.
+0x00000006 UPPDRAGSTYP: Hämtning och leverans~p~UPPDRAGSBESKRIVNING: Skaffa ~mission_multi_delivery_item~-artefakter och leverera till ~mission_multi_delivery_buyer_planet~~p~STARTPLATS: ~mission_multi_delivery_item~-artefakter hittas i detta stjärnsystem.
+0x0000004B Jaha. Jag minns något om detta från förra pappershögen från huvuddistributionen. Vi väntade oss någon med ~mission_multi_delivery_item~-artefakter. Du har inga. Inte för att skuldbelägga någon, men det är ju inte riktigt vårt problem, eller hur?
+0x0000000A Spodes egna heliga bihang skapade en serie av ~mission_multi_delivery_item~-artefakter. Dessa gick förlorade i det tumultartade Spodifikationskriget.~p~Genom Spodes heliga ledning har vi upptäckt var några ~mission_multi_delivery_item~-artefakter finns. Kan du hitta dem och ta med dem till planeten ~mission_multi_delivery_buyer_planet~, så att invånarna kan buga inför den?
+0x00000002 Känner du att det är något i luften? Det är klart du gör. För jag gör det och vi vet båda två att du är minst lika smart som jag! Här finns pengar att tjäna, det är jag övertygad om! Och jag slår vad med Sporebucks mot rymddamm att det har med planeten ~mission_multi_delivery_buyer_planet~ att göra.~p~På planeten ~mission_multi_delivery_buyer_planet~ finns det en stor efterfrågan på sällsynta artefakter förstår du. Speciellt några ~mission_multi_delivery_item~-artefakter. Och gissa vad vi råkar ha i det här stjärnsystemet?~p~Vi gör så här: jag tar hand om pappersarbetet och du sticker ut och samlar några ~mission_multi_delivery_item~-artefakter.
+0x00000008 Invånarna på planeten ~mission_multi_delivery_buyer_planet~ håller på att bli galna. De letar efter ~mission_multi_delivery_item~-artefakter, men kan inte hitta några. Det finns jättemånga i det här stjärnsystemet ... du borde helt klart hjläpa till.~p~Åk och leta reda på ett gäng ~mission_multi_delivery_item~-artefakter och ta dem till planeten ~mission_multi_delivery_buyer_planet~. Det borde lugna ner dem.
+0x00000081 Välkommen tillbaka ~player_title~ ~player_creature_name~. Din klarsynthet i ärendet att återföra våra ~mission_multi_delivery_item~-artefakter blev en glad överraskning.~p~Ta nu dina ~mission_rewards~.
+0x00000041 Välkommen ~player_title~ ~player_creature_name~.~p~ Vi hörde att du skulle ta med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter till vår planet.~p~Vi är redo att ta emot dig och din last.
+0x0000000D En serie ~mission_multi_delivery_item~-artefakter har skapats för att hedra minnet av vår federations årsdag. Några av dessa föremål stals under piratanfall. Storrådet har nyligen fått information om att ~mission_multi_delivery_item~-artefakter finns spridda över andra fjärran planeter.~p~Snälla, hämta dessa föremål och för dem till ~mission_multi_delivery_buyer_planet~ i tid för Federationens festival.
+0x00000017 När man har ett rykte som vi har, och jisses vilket rykte vi har, så händer det att rikedomar bara trillar ner famnen. En liten rymdfågel viskade precis i våra öron att det finns stor efterfrågan på ~mission_multi_delivery_item~-artefakter på planeten ~mission_multi_delivery_buyer_planet~. Och har en smart ~player_creature_name~ som du koll på hur sällsynta de är? Just det! De är inte sällsynta alls här hos oss!~p~Vi har redan händerna fulla med andra leveranser så du kan väl hjälpa oss med den här? Flyg runt och samla ~mission_multi_delivery_item~-artefakter, ta med dem till planeten ~mission_multi_delivery_buyer_planet~ och kom sedan tillbaka hit för att hämta din del av vinsten.
+0x000000F3 Uppdraget slutfört. Du levererade alla ~mission_multi_delivery_item~-artefakter. Återvänd till planeten ~mission_source_planet~ i stjärnsystemet ~mission_source_star~ där du får din belöning.
+0x00000027 Som tur är vet vi redan ungefär var ~mission_multi_delivery_item~-artefakter finns: ~mission_multi_delivery_item_planet_list~.~p~Om du kan ta med dessa föremål till ~mission_multi_delivery_buyer_planet~, får du ~mission_rewards~ när du kommer tillbaka.
+0x000000F2 Hämta ~mission_multi_delivery_item~-artefakter från:~p~~mission_multi_delivery_item_planet_list~.~p~Leverera ~mission_multi_delivery_item~-artefakter till planeten ~mission_multi_delivery_buyer_planet~.
+0x00000096 Vi har fått information om att du fortfarande måste hämta alla ~mission_multi_delivery_item~-artefakter och leverera dem till ~mission_multi_delivery_buyer_planet~. Informationen du behöver för att fortsätta letandet bör finnas i din Uppdragslogg.~p~Om du skulle ha glömt det så är det alltså på dessa planeter kan du hitta artefakterna:~mission_multi_delivery_item_planet_list~. Återvänd hit när leveransen är klar.
+0x000000E2 Hälsningar och hyllningar, ~player_title~, ~player_creature_name~.~p~Ja, du har hämtat alla ~mission_multi_delivery_item~-artefakter och papprena ser ut att vara som de ska. Tack.~p~Du borde återvända till ~mission_source_empire~ i ~mission_source_star~-systemet för att få betalt.
+0x00000033 Artefakterna av sorten ~mission_multi_delivery_item~-artefakter tros vara på dessa platser: ~mission_multi_delivery_item_planet_list~. Hitta dem, ta med dem till ~mission_multi_delivery_buyer_planet~ och återvänd hit för att få dina ~mission_rewards~.
+0x000000BC FÖRVÄNTAD LEVERANS: ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.~p~FÖRVÄNTAD ANKOMSTTID: Igår.~p~LEVERANSEN HAR ANKOMMIT? JA/NEJ
+0x00000051 Ah, ok. Ja det är ok.~p~Om du inte känner för det så vill vi så klart inte att du ska beblanda dig med andra livsformer.
+0x0000001C För länge sedan lämnade vi ~mission_multi_delivery_item~-artefakter på andra planeter. Nu åker pirater runt och stjäl dem. ~player_creature_name~ kommer samla dessa saker och ta dem till planeten ~mission_multi_delivery_buyer_planet~, där de är säkra. Vi kommer betala ~player_creature_name~ för detta.
+0x000000CD Vem sa du att du är? ~player_creature_name~? ~player_creature_name~? ... Nej vi har inget kontrakt med dig. Vi skulle ha kommit ihåg ett så löjligt rymdskepp! Ho ho!~p~Vi har däremot ett avtal med ~mission_source_empire~ ... jobbar du för dem ... ? ~p~Varför sa du inte det! Eller sa du det? Jag minns inte. Det spelar ingen roll.~p~Om du jobbar för ~mission_source_empire~ borde du samla ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter för leverans till oss~p~ ... Om inte ... borde du prata med dem ... de är snälla ... speciellt på torsdagar.
+0x000000BD Hallå där kompis. Vi hörde att du har med en hel skeppslast ~mission_multi_delivery_item~-artefakter. Åtminstone ~mission_multi_delivery_buyer_num_needed_items~ stycken. Grymt mannen. Har du dem med dig?
+0x0000000E En uråldrig text, skapad av en försvunnen ras, har nyligen upptäckts. Den hänvisar till ett flertal ~mission_multi_delivery_item~-artefakter som finns på planeter i närheten. Enligt vår federations lagar måste dessa historiska föremål samlas och katalogiseras och läggas i förvar på planeten ~mission_multi_delivery_buyer_planet~. Kan du tänka dig att göra detta?
+0x000000CE Vi förväntar oss att du ankommer med ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.~p~Kommer du samla ihop alla artefakter och återvända?~p~Vi kommer ta hand om dig.
+0x0000004E Välkommen, välkommen ~player_title~ ~player_creature_name~! Ännu ett väl genomfört jobb! Inte så förvånande med tanke på vem jag har att göra med.~p~Här är ~mission_rewards~ enligt vårt kontrakt.~p~Det är inte ofta jag njuter av att göra affärer, men det är alltid en fröjd att samarbeta med någon som är så talangfull som du.
+0x00000092 Så, så. Du måste inse att du inte är klar! Lyssna noga!~p~Samla in ~mission_multi_delivery_item~-artefakter som finns här:~br~~mission_multi_delivery_item_planet_list~.~p~När du samlat artefakterna, rapportera till planeten ~mission_multi_delivery_buyer_planet~. Sedan avslutningsvis återvänder du hit. Först när du levererat artefakterna får du kompensation för din resa.
+0x00000042 ~player_title~ ~player_creature_name~, vi besitter en stark Tro till dig och hoppas att du har tagit med ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter till oss!~p~Säg, är det så?
+0x00000019 Vi har upptäckt uråldriga rullar som informerar oss om att universums hemligheter är nedskrivna på ~mission_multi_delivery_item~-artefakterna! Dessa föremål gömdes undan Före tiden, av en försvunnen ras, men vi har en aning om var de finns. Kan du hitta dem och ta med dem till planeten ~mission_multi_delivery_buyer_planet~ för undersökning?
+0x000000BB Välkommen kapten!~p~Vi har hört att du har med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Har du dem?
+0x0000003E Välkommen ~player_title~ ~player_creature_name~.~p~ Vi fick veta att du skulle ha med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter till vår planet. Stämmer det?
+0x00000004 Befolkningen på planeten ~mission_multi_delivery_buyer_planet~ vill ha speciell saker. De betalar för ~mission_multi_delivery_item~-artefakter. Det finns ~mission_multi_delivery_item~-artefakter i detta stjärnsystem. Någon måste leta reda på dem och leverera dem. ~player_creature_name~ kan göra detta.
+0x000000C9 Oj... Är det redan klart? Underbart! Det har varit underbart att jobba med någon som är så bra i fas med universum.~p~Här är ~mission_rewards~ - spendera dem klokt.
+0x00000028 ~mission_multi_delivery_item~-artefakter kan hittas på dessa platser:~mission_multi_delivery_item_planet_list~.~p~Om du samlar ihop alla och levererar dem till planeten ~mission_multi_delivery_buyer_planet~, ser vi till att du får ~mission_rewards~, enligt vår överenskommelse.
+0x00000066 Det är förståeligt, kapten.~p~Beklagar att jag besvärade dig.
+0x00000169 Våra automatiska datasonder har upptäckt ett förvånansvärt antal ~mission_multi_delivery_item~-artefakter i det här stjärnsystemet. Vi vet inte vad det här betyder, men det finns specialister på planeten ~mission_multi_delivery_buyer_planet~ som kan berätta för oss. Kan du hitta dessa artefakter och leverera dem åt oss?
+0x000000CA Du kan läsa ett kontrakt väl? Vi kom överens om en leverans på ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Varken mer eller mindre. Om du inte har ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter så måste du komma tillbaka med alla.
+0x00000168 Vi har dechiffrerat en uråldrig text som berättar om ~mission_multi_delivery_item~-artefakter på närliggande planeter. De kan innehålla ledtrådar om universums ursrpung! Hitta dessa artefakter så att vi kan skicka tillbaka dem för fortsatta studier.
+0x00000167 INKOMMANDE UPPGIFT I TVÅ DELAR~p~UPPGIFT (1): Hitta ~mission_multi_delivery_item~-artefakter~p~UPPGIFT (2): Lämna ~mission_multi_delivery_item~-artefakter på planeten ~mission_multi_delivery_buyer_planet~
+0x000000AE Jag har en leverans av ~mission_multi_delivery_item~-artefakter till dig från ~mission_source_empire~.
+0x00000166 PÅBÖRJAR~p~RETICULATING SPLINES, VAR GOD VÄNTA~p~UPPDRAG SLUTFÖRT~p~BESKRIVNING: Hitta ~mission_multi_delivery_item~-artefakter och ta med dem till ~mission_multi_delivery_buyer_planet~
+0x000000BF Himlen öppnas och skåda, ödets pil, buren på vingar av ...~p~Äh, jag kan inte fortsätta så. Inte när du har med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter! Du har väl med dig dem?
+0x00000001 Vi inleder förhandlingar med invånarna på planeten ~mission_multi_delivery_buyer_planet~. Som ett tecken på vår välvilja vill vi att du levererar några saker för att göra partnerskapet mer attraktivt för dem.~p~Hitta några ~mission_multi_delivery_item~-artefakter och leverera dem till planeten ~mission_multi_delivery_buyer_planet~.
+0x0000000F Vi har upptäckt spår av en uråldrig civilisation som verkar ha utraderats av Grox. En serie ~mission_multi_delivery_item~-artefakter nämns och kan innehålla information om Grox.~p~Som underavdelning 52, paragraf 7 i vår federationslag klart fastslår, måste all information om Grox förvaras på en högriskfacilitet. Hitta och samla dessa föremål och ta dem till faciliteten på planeten ~mission_multi_delivery_buyer_planet~.
+0x00000165 UPPDRAG: Samla ~mission_multi_delivery_item~-artefakter och leverera det till planeten ~mission_multi_delivery_buyer_planet~~p~RATIONALE: Oväsentligt. Den här kunskapen krävs inte för att klara uppdraget.~p~FLER DETALJER INOM KORT
+0x0000002C SÖKORD: ~mission_multi_delivery_item~-artefakter~p~SÖKOMRÅDE: ~mission_multi_delivery_item_planet_list~~p~LEVERANSMÅL: ~mission_multi_delivery_buyer_planet~~p~KOMPENSATION: ~mission_rewards~ vid återkomst~p~ACCEPTERA/AVBÖJA?
+0x0000001B Jag har hört att De som gått före har placerat De föremål som gick före på världar som ännu inte är borta. Jag är ganska säker på att dessa föremål egentligen är ~mission_multi_delivery_item~-artefakter som finns i vårt stjärnsystem. Kan du hitta dem och föra dem till de lärare som fortfarande hänger kvar på planeten ~mission_multi_delivery_buyer_planet~?
+0x00000007 Naturen, ~player_creature_name~, den finns överallt. Den finns inuti oss. Allt är en del av naturen. Till och med ~mission_multi_delivery_item~-artefakter. De är fortfarande en del av oss och jag kan höra att de pratar med oss. Nej, jag är inte galen, jag kan verkligen höra dem. De vill att vi hittar dem och tar dem till ~mission_multi_delivery_buyer_planet~.~p~Kan du ge dem skjuts?
+0x000000CC ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. ~player_creature_name~ hade inte med sig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Kom tillbaka med ~mission_multi_delivery_buyer_num_needed_items~ om du vill komma tillbaka över huvud taget.
+0x00000053 ~player_title~ ~player_creature_name~. Det verkar som om du har bestämt dig för att det mest effektiva sättet är att bekräfta ditt leveransställe innan du identifierar sakerna du ska leverera. Intressant. Du kan kanske förklara hur du tänker lite senare.~p~I väntan på det så ser vi fram emot leveransen av ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.
+0x0000008D Du har hittat alla ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Leverera dem till planeten ~mission_multi_delivery_buyer_planet~.
+0x0000002A ~player_creature_name~ kan hitta ~mission_multi_delivery_item~-artefakter på planeterna:~mission_multi_delivery_item_planet_list~.~p~Ta med alla artefakter till ~mission_multi_delivery_buyer_planet~, återvänd för ersättning på ~mission_rewards~.
+0x000000BE ~player_creature_name~ hämta ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter, ja?
+0x000000CB MISSLYCKAD LEVERANS. ANLEDNING: Inkompetents hos ~player_creature_name~.~p~REKOMMENDATION: Kom tillbaka med ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.
+0x0000016A Pirater har smugglat exotiska ~mission_multi_delivery_item~-artefakter från andra världar och de tar med sig dem genom vårt stjärnsystem! Vi har upptäckt platsen för flera ställen där piraterna tillfälligt lagrar ~mission_multi_delivery_item~-artefakter.~p~Vi vill att du hittar smuggelgodset och återför dem till sina rättmätiga ägare på planeten ~mission_multi_delivery_buyer_planet~.
+0x00000009 Någon från planeten ~mission_multi_delivery_buyer_planet~ berättade att ~mission_multi_delivery_item~-artefakter innehåller ledtrådar till stora hemligheter om naturen och universum. Det finns några i vårt stjärnsystem ... men vi har inte hittat dem. Det verkar röra sig om jättespännande hemligheter. Tunga grejer.~p~Hitta några ~mission_multi_delivery_item~-artefakter och ta med dem till planeten ~mission_multi_delivery_buyer_planet~ så kanske de kan lista ut vad det hela handlar om.
+0x00000011 Vi har lyckats dechiffrera ett dokument från en försvunnen utomjordisk art, som berättar att ~mission_multi_delivery_item~-artefakter finns utspridda på olika världar. Analyser av dessa föremål skulle inte bara berätta om denna uråldriga art, utan kanske även kasta ljus på nutida mysterier. De bästa faciliteterna för analyserna finns på planeten ~mission_multi_delivery_buyer_planet~.~p~Skulle du vilja samla ihop dessa föremål och ta med dem till planeten ~mission_multi_delivery_buyer_planet~?
+0x00000014 En gång i tiden var ~mission_multi_delivery_item~-artefakter det senaste skriket här i vår civilisation. Sedan blev de otrendiga och folk som hade dem gömde undan dem för att slippa skämmas. Nu är de heta igen och invånarna på planeten ~mission_multi_delivery_buyer_planet~ är desperata efter dem. Det är sorgligt, ingen originalitet alls ... modeslavar är vad de är! Men vem är jag att döma?~p~Tror du att du skulle kunna hitta några ~mission_multi_delivery_item~-artefakter och leverera dem till planeten ~mission_multi_delivery_buyer_planet~?
+0x0000001A Vi behöver ~mission_multi_delivery_item~-artefakter till den årliga Levandegörandeceremonin. Den kommer äga rum på ~mission_multi_delivery_buyer_planet~. Kan du hjälpa oss att hitta några ~mission_multi_delivery_item~-artefakter och leverera dem till ceremonins levandegörandeakademi?
+0x00000091 ~player_creature_name~ har inte slutfört sitt uppdrag! Åk till dessa planeter och hitta ~mission_multi_delivery_item~-artefakter: ~mission_multi_delivery_item_planet_list~.~p~Åk sedan till planeten ~mission_multi_delivery_buyer_planet~. Återvänd först efter leverans för att hämta dina Sporebucks.
+0x00000018 Hörru, vad tycker du om ~mission_multi_delivery_item~-artefakter? Gillar du dem? Hatar du dem? Vet du ens vad de är? Det spelar ingen roll, allt du behöver göra är att samla dem från närliggande planeter.~p~Vi fick precis i uppdrag att leverera ett gäng av dem till planeten ~mission_multi_delivery_buyer_planet~. Vi behöver hjälp att leta efter dem och du ser ut att vara rätt ~player_creature_name~ för jobbet!
+0x0000003F Välkommen ~player_title~ ~player_creature_name~.~p~Vår skanning av ditt skepp visar att du har med dig ett antal ~mission_multi_delivery_item~-artefakter. Är vår analys korrekt?
+0x0000008F Vad nu då? Måste du bli påmind om vad som står i kontraktet igen? Du ska samla ~mission_multi_delivery_item~-artefakter från följande planeter: ~mission_multi_delivery_item_planet_list~.~p~När du har dem, åk till planet ~mission_multi_delivery_buyer_planet~ och leverera artefakterna. När du har gjort allt detta har du fullföljt din del av kontraktet. Allt detta står i din uppdragslogg.
+0x000000D6 ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. ~player_creature_name~ hade inte med sig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Kom tillbaka med ~mission_multi_delivery_buyer_num_needed_items~, annars behöver du inte komma tillbaka alls.
+0x00000040 Välkommen, välkommen ~player_title~ ~player_creature_name~.~p~ Vi hörde att du skulle ha med dig ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter till vår planet. Stämmer det?
+0x00000090 Har du glömt vad du ska göra? Det är ok, det kan ju hända den bästa. Nästa gång det händer kan du kolla din Uppdragslogg först innan du frågar.~p~Samla alla ~mission_multi_delivery_item~-artefakter från ~mission_multi_delivery_item_planet_list~ och leverera dem till planeten ~mission_multi_delivery_buyer_planet~.
+0x00000015 Vad sägs om en vild jakt på ~mission_multi_delivery_item~-artefakter? Befolkningen på ~mission_multi_delivery_buyer_planet~ skulle bli överlyckliga om de fick lägga vantarna på några ~mission_multi_delivery_item~-artefakter. Vi betalar dig för besväret, men det borde inte vara något besvär. Jag tycker det låter roligt!
+0x000000D5 MISSLYCKAD LEVERANS. ANLEDNING: Inkompetens hos ~player_creature_name~.~p~REKOMMENDATION: Kom tillbaka med ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.
+0x00000085 Kom i frid, ~player_title~ ~player_creature_name~.~p~ ~mission_multi_delivery_item~-artefakter har mottagits. Vi tackar dig.~p~Återvänd till ~mission_source_empire~ i ~mission_source_star~-stjärnsystemet för betalning  ... eller om du hellre känner för att stanna här och flyta lite. Det är trevligt att flyta.
+0x0000001D Några planeter i närheten har ~mission_multi_delivery_item~-artefakter. Vi lämnade dem där en gång i tiden för att markera platser där vi förlorat slag. Nu skämmer de ut oss och vi har lärt oss av vår skam. Vi behöver dem inte längre. Hitta dem och ta bort dem. Vi har hört att planeten ~mission_multi_delivery_buyer_planet~ vill ha dem. Ta dem dit.
+0x0000005D Jag ser att du gör en delleverans.~p~Det är inte så vi brukar jobba här och det kommer att förvirra mottagningsavdelningen ... men vi är angelägna att ta emot de ~mission_multi_delivery_item~-artefakter du har med dig.~p~Jag behåller de här ... återvänd med de resterande ~mission_multi_delivery_buyer_num_needed_items~.
+0x00000177 Galaxen är liten, eller hur Kapten? Vilket sammanträffande att DU ombads hämta ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter.~p~Jag antar att Sporebucks är Sporebucks. Vi ses igen när det är dags att hitta föremålen.
+0x0000008E Hörru, du slutförde inte jobbet! Kolla din uppdragslogg.~p~Hitta artefakterna av sorten ~mission_multi_delivery_item~-artefakter på de här planeterna:~br~~mission_multi_delivery_item_planet_list~~p~När du har dem alla för du dem tillbaka till planeten ~mission_multi_delivery_buyer_planet~. Återvänd hit när du gjort allt detta.
+0x00000012 En olycka i samband med hundraårsfirandet av Förnuftets styre resulterade i att många ~mission_multi_delivery_item~-artefakter spreds till närliggande planeter. De flesta har sedan dess återfunnits och finns nu bevarade på vårt museum på planeten ~mission_multi_delivery_buyer_planet~. Kan du leta reda på resten? De finns i detta stjärnsystem.
+0x000000D3 Tack Kapten!~p~Jag ser att du fortfarande har ~mission_multi_delivery_buyer_num_needed_items~ 
+~mission_multi_delivery_item~ ~^p^mission_multi_delivery_buyer_num_needed_items^artefakt^artefakter~ att leverera.~p~Vi kommer vara här när du är redo.
+0x000000D4 Du kan väl läsa ett kontrakt? Vi kom specifikt överens om att du skulle leverera ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter. Varken mer eller mindre. Om du inte har ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~-artefakter så är det bäst att du kommer tillbaka med dem.
+

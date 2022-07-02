@@ -1,0 +1,40 @@
+﻿0x00000041 ~guide: -h3~ Catégories de blocs
+0x00000081 ~guide: -h2~ Pour sélectionner un bloc de votre bâtiment, cliquez dessus jusqu'à ce qu'il devienne bleu.
+0x00000161 ~guide: -bullet~ Anneau rotation : change l'orientation des blocs.
+0x00000101 ~guide: -h1~ Modifier les blocs
+0x00000111 ~guide: -h3~ Modifier des blocs à l'aide des poignées
+0x00000131 ~guide: -bullet~ Pour sélectionner le bloc à modifier, cliquez dessus jusqu'à ce qu'il passe au bleu.
+0x00000121 ~guide: -h2~ Ajoutez un bloc à votre bâtiment, puis modifiez-le à l'aide des poignées de modification.
+0x000001A1 ~guide: -h3~ Le Budget blocs
+0x000001C1 ~guide: -h2~ Chaque bloc posé entame votre budget blocs. Une fois ce budget épuisé, vous ne pouvez plus ajouter de blocs.
+0x000001D1 ~guide: -h3~ La Jauge de complexité
+0x00000191 ~guide: -h1~ Complexité et budget
+0x000000F1 ~guide: -h2~ Le diamètre de vos bâtiments est limité, tout comme sa hauteur. Si en ajoutant un bloc, vous dépassez ces limites, ce bloc ne s'installera pas mais conservera sa couleur rouge. Et comme le bloc ne s'installe pas, l'opération ne vous coûtera rien.
+0x000000A1 ~guide: -bullet~ Deux blocs placés sur l'estrade se croisent automatiquement s'ils sont suffisamment proches l'un de l'autre.
+0x000000B1 ~guide: -bullet~ Si vous placez deux blocs l'un sur l'autre, ils s'empilent automatiquement.
+0x00000021 ~guide: -h1~ La palette des blocs
+0x00000071 ~guide: -h2~ Pour sélectionner un bloc, cliquez dessus dans la palette des blocs puis faites-le glisser de la palette vers l'estrade ou vers votre bâtiment.
+0x000000E1 ~guide: -h3~ Diamètre et hauteur des bâtiments
+0x000000D1 ~guide: -h2~ Bien qu'un bloc puisse être placé n'importe où sur un bâtiment, les fenêtres, les portes et autres détails possèdent des points d'alignement. Vous verrez que les blocs ont tendance à s'aligner automatiquement en les disposant sur votre bâtiment.
+0x00000061 ~guide: -h3~ Choisir et ajouter des blocs
+0x000000C1 ~guide: -h3~ L'Alignement
+0x00000141 ~guide: -h4~ Les poignées de bloc :
+0x00000201 ~guide: -h1~ Fonctions de Conception avancées
+0x00000271 ~guide: -bullet~ Pour déplacer un bloc à gauche ou à droite sans réglage automatique de la hauteur, sélectionnez un bloc en maintenant la touche Maj enfoncée puis, sans la relâcher, choisissez le nouvel emplacement du bloc à la souris.
+0x00000251 ~guide: -h3~ L'orientation
+0x000001B1 ~guide: -h2~ Votre budget blocs figure en bas à gauche dans  l'Atelier des bâtiments.
+0x00000241 ~guide: -bullet~ Pour copier un élément déjà présent sur votre bâtiment, cliquez en maintenant la touche ALT enfoncée sur cet élément, puis choisissez un autre emplacement sur le bâtiment.
+0x000001E1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000000F2 ~guide: -h3~ Enlever des blocs
+0x000000F3 ~guide: -h2~ Pour enlever un bloc, sélectionnez le bloc et appuyer sur la touche Suppr, ou alors cliquez sur le bloc et enlevez-le du bâtiment ou de l'estrade avec la souris.
+0x000001F1 ~guide: -h2~ La barre de complexité indique la complexité de votre bâtiment. Si votre bâtiment devient trop complexe, vous ne pouvez plus ajouter de blocs.
+0x00000211 ~guide: -h3~ Poignées de modification avancées
+0x00000261 ~guide: -bullet~ Pour monter/descendre un bloc (mais oui, ils flottent !), sélectionnez-le en maintenant la touche CTRL et, sans la relâcher, choisissez le nouvel emplacement de votre bloc à la souris.
+0x00000231 ~guide: -h3~ Copier des éléments
+0x00000031 ~guide: -h2~ En mode Conception, la Palette des blocs s'ouvre sur la gauche de l'écran de l'Atelier des bâtiments.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Mode Conception
+0x00000051 ~guide: -h2~ Les catégories de blocs sont regoupées le long de la palette des blocs : corps, toits, raccords, portes, fenêtres, fonctions et détails. Pour sélectionner la bonne catégorie, repérez le bon onglet dans la rangée Catégorie des blocs.
+0x00000221 ~guide: -bullet~ Maintenez la touche Tab enfoncée et sélectionnez un bloc de votre bâtiment. Des poignées de modification supplémentaires vous permettent de placer chaque élément de façon optimale.
+0x00000151 ~guide: -bullet~ Flèches d'ajustement : modifie la taille, largeur, longueur ou forme d'un bloc. Essayez pour voir !
+0x00000091 ~guide: -h3~ Empiler ou croiser des toits et des corps
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 A investigação do ~mission_target_planet~ foi concluída. Regresse ao planeta ~mission_source_planet~ no sistema ~mission_source_star~.
+0x00000099 Sucesso! Regresse ao sistema estelar ~mission_source_star~.
+0x000000B2 Regresse ao planeta ~mission_source_planet~.
+0x00000093 Destino: sistema ~mission_source_star~.
+0x00000097 Em Progresso
+0x00000000 ~ep1_captain_full_name~, acabámos de tomar conhecimento de uma catástrofe biológica! Uma nave alienígena não identificada aterrou de emergência perto de um dos nossos Postos de Pesquisa Ecológica distantes. ~p~Perdemos todas as comunicações com o posto. ~p~Preocupa-nos que a nave alienígena possa ser portadora de algum tipo de contágio. ~p~Pode lá ir verificar?
+0x0000004E As coordenadas planetárias foram enviadas para o seu registo de missão. Despache-se antes que o contágio se espalhe.
+0x00000081 Tem a certeza de que não se quer expor a um contágio alienígena potencialmente mortal?~p~A nossa lista de cobaias está a ficar cada vez mais pequena...
+0x00000092 Investigue o sistema estelar ~mission_target_star~. Tente contactar o Posto de Pesquisa.
+0x00000064 Sabia que podíamos contar consigo. Descubra o que aconteceu no Posto de Pesquisa e regresse aqui imediatamente. ~p~Despache-se ~ep1_captain_full_name~, antes que o contágio se espalhe.
+0x00000094 Investigue o sistema estelar ~mission_target_star~. Tente contactar o Posto de Pesquisa do planeta ~mission_target_planet~.
+0x000000B1 Investigue a nave despenhada no planeta ~mission_target_planet~.
+0x00000071 Sinceramente, nós também não gostaríamos de nos teletransportar para um planeta perigoso para investigar um contágio alienígena letal.~p~A sua raça é mais esperta do que parece.
+0x00000041 É como temíamos. Todo o posto ficou contaminado, com excepção desta rapariguinha. Esperemos que o sistema imunitário dela tenha as pistas que nos ajudarão a evitar este tipo de catástrofe, no futuro.~p~ Não é muito, mas gostaríamos de lhe oferecer ~mission_rewards~ Sporecoroas pela sua ajuda nesta questão.
+0x00000098 Concluído
+

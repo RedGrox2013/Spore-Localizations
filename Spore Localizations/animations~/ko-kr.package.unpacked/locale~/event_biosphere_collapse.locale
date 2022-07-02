@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000015 목표 동물을 제거하십시오. 서두르십시오!
+0x0000000F ~mission_target_animal_species~ 동물이 멸종되었습니다.
+0x00000002 통신 종료
+0x0000000C 경보! ~mission_num_healthy_creatures_left~ 이상의 ~mission_target_animal_species~들을 죽이면, 생태계가 무너질 것입니다!
+0x00000091 ~mission_target_planet~은 이제 안전합니다!
+0x00000010 ~mission_target_planet~의 생태계가 붕괴하였습니다. ~mission_target_animal_species~은(는) 멸종 했습니다.
+0x00000014 ~mission_target_planet~의 생태계가 붕괴하였습니다.
+0x00000019 ~mission_target_planet~의 생태계가 붕괴하였습니다: 개발 점수를 높이려면, 생태계에 동, 식물을 추가하십시오.
+0x00000005 생태계는 본래의 상태로 돌아왔습니다.
+0x00000020 여길 보십시오, ~player_creature_name~!~p~~mission_target_planet~에, ~race~ 을 위협할 수 있는 바이러스가 발생했습니다.  ~mission_target_animal_species~을(를) 즉시 제거하십시오.~p~~race~, 통신 종료합니다.
+0x00000011 식물이 멸종되었습니다.
+0x00000006 ~mission_target_planet~의 생태계는 큰 위험에 처했습니다! 바이러스가 ~mission_target_animal_species~ 무리에 퍼지고 있습니다.~p~즉시 무리에서 감염된 것들을 사살하지 않으면, 바이러스가 전부 퍼져서 모두 잃게 될 것입니다.
+0x0000000B 이런! 건강한 동물들이 너무 많이 살해당했습니다!
+0x00000007 ~mission_target_planet~의 생태계 붕괴가 멈췄습니다.
+0x00000018 생태계 붕괴를 막기 위해, ~mission_target_planet~에 동, 식물을 추가하십시오.
+0x00000001 급한 전갈입니다!~p~~mission_target_planet~의 생태계에 큰 위험에 닥쳤습니다. 바이러스가 야생 ~mission_target_animal_species~무리에 퍼졌습니다.~p~감염된 것들을 빨리 사살해야 합니다.~p~서두르십시오!~p~~mission_target_planet~입니다.
+0x00000021 ~player_creature_name~!~p~~mission_target_planet~으로 가서, ~mission_target_animal_species~들을 박멸하십시오.~p~이상!
+0x00000090 감염된 ~mission_target_animal_species~(을)를 제거하십시오.
+0x0000001B 대위원회로부터 다급한 연락이 들어왔습니다. ~player_title~ ~player_creature_name~.~p~우리 ~mission_target_planet~의 생태계가 위험합니다. 바이러스가 ~mission_target_animal_species~무리에게 퍼지고 있습니다.~p~즉시 무리에서 감염된 것을 제거하지 않으면 바이러스가 전부 퍼져, 모두 잃게 될 것입니다.~p~이것이 가져올 여파는 상상할 수 없을 것입니다. 저는 당신이 이 문제를 해결해 줄 것이라 믿습니다.~p~도와주십시오!
+0x00000013 ~mission_target_planet~의 생태계가 붕괴하였습니다.
+0x0000000D 감염된 동물은 ~ufo_name~에 태울 수 없습니다.
+0x00000012 ~mission_target_planet~의 생태계가 파괴되었습니다: 식물이 멸종되었습니다.
+0x0000001A ~player_title~ ~player_creature_name~! 당신의 도움이 필요합니다.~p~~mission_target_planet~에서 바이러스가 ~mission_target_animal_species~ 무리에 퍼지고 있습니다.~p~즉시 사살하지 않으면, 바이러스가 전부 퍼져, 모두 잃게 될 것입니다.~p~즉시 처리해주십시오!
+0x00000004 재앙으로부터 ~mission_target_planet~을 지키십시오!
+0x00000009 생태계 붕괴를 막았습니다.
+0x0000000A 목표 동물만 제거하십시오!
+0x0000001C ~player_title~ ~player_creature_name~.~p~최근 ~mission_target_planet~의 생태계가 커다란 위험에 처해있습니다. 바이러스가 ~mission_target_animal_species~무리에게 퍼지고 있습니다.~p~즉시 무리에서 감염된 것을 사살하지 않으면, 바이러스가 퍼져 생태계의 붕괴를 가져올 것입니다.~p~당신의 지원을 바랍니다. 서둘러 주십시오!
+0x00000003 친절한 ~player_title~ ~player_creature_name~!~p~큰일 났습니다. 지금 ~mission_target_planet~의 생태계에 커다란 위험이 닥쳤습니다! 바이러스가 야생 ~mission_target_animal_species~무리에 퍼지고 있습니다.~p~감염된 것들을 즉시 사살해야 합니다. 아니면 바이러스가 퍼져서, 생태계가 붕괴될지도 모릅니다.~p~서둘러 주세요.
+0x0000000E 병든 동물은 우주선에 태울 수 없습니다!
+0x0000001E 오, ~player_title~ ~player_creature_name~! 도와주십시오.~p~우리의 ~mission_target_planet~생태계가 큰 위험에 처했습니다.~p~즉시 ~mission_target_animal_species~무리에서 감염된 것을 사살하지 않으면, 바이러스가 퍼져, 전체 종을 잃게 될 것입니다.~p~서둘러 주십시오!
+0x0000001F 친절한 ~player_title~ ~player_creature_name~.~p~생명의 순환에는 리듬이 있습니다. 하지만 ~mission_target_planet~의 멜로디는 잘못되었습니다!~p~바이러스가 ~mission_target_animal_species~무리에게 퍼지고 있습니다.~p~즉시 무리에서 감염된 것을 골라 사살하지 않으면, 바이러스가 퍼져 모두 잃고 말 것입니다.~p~어서 부탁드립니다!
+0x00000008 ~mission_num_eradicated_creatures~ 의 ~mission_num_creatures~ ~mission_target_animal_species~ 동물이 제거되었습니다.
+0x0000001D 이럴 수가! ~p~~player_title~ ~player_creature_name~, 빨리 와서 도와주십시오. 멍청한 야생 ~mission_target_animal_species~무리가 멸종당하게 생겼습니다.~p~즉시 무리에서 감염된 것을 골라내어 사살하지 않으면, 바이러스가 전부 퍼져, 전체 종을 잃게 될 것입니다.~p~서둘러주십시오!
+0x00000017 생태계 붕괴의 조심이 ~mission_target_planet~에 갑자기 나타났습니다. 목표 동물을 제거하십시오. 서두르십시오.
+

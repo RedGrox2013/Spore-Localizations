@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000904 你已經買下這座軍事城市。如果你保持這種城市屬性，你可以建造軍事載具來征服其他的城市。替城市選擇一種屬性。
+0x00000903 你已經用宗教感化一座經濟城市。經濟城市可以建立起貿易路線來管理你跟其他城市間的關係，最終甚至是買下其他的城市。替城市選擇一種屬性。
+0x00000902 你已經用宗教感化一座軍事城市。如果你保持這種城市屬性，你可以建造軍事載具來征服其他的城市。替城市選擇一種屬性。
+0x00000901 你已經用軍事手段佔領這座經濟城市。經濟城市可以建立起貿易路線來管理你跟其他城市間的關係，最終甚至是買下其他的城市。替城市選擇一種屬性。
+0x00000905 你已經買下這座宗教城市。如果你保持該城市的原本屬性，那你就能對低快樂度城市的市民進行感化。~br~替城市選擇一種屬性。
+0x00000900 你已經用軍事手段佔領了這座宗教城市。如果你保持該城市的原本屬性，那你就能對低快樂度城市的市民進行感化。~br~替城市選擇一種屬性。
+
+# capture - not first, change
+
+0x00000300 軍事
+0x00000304 宗教
+0x00000305 經濟
+0x00000301 宗教
+0x00000303 軍事
+0x00000302 經濟
+0x00000909 你已經用宗教方式感化這座經濟城市。~br~替城市選擇一種屬性。
+0x00000911 你已經買下這座宗教城市。~br~替城市選擇一種屬性。
+0x00000908 你已經用宗教方式感化這座軍事城市。~br~替城市選擇一種屬性。
+0x00000906 你已經用軍事手段佔領這座宗教城市。~br~替城市選擇一種屬性。
+0x00000907 你已經用軍事手段佔領這座經濟城市。~br~替城市選擇一種屬性。
+0x00000910 你已經買下這座軍事城市。~br~替城市選擇一種屬性。
+
+# Upgrades
+
+0x00000601 你的工業科學家掌握了水上渦輪和機械輸送的技術！我們現在可以建造船隻征服海洋！
+0x00000605 令人震驚的消息！我們總算找到克服重力束縛的方法！太空旅行現在已可以實現了。現在只需要花點心力設計一艘新的太空船。
+0x00000603 大成功！就連強大的風都必須臣服於我們技術的腳下！航空用渦輪引擎將可讓我們建造能夠於空中飛行的載具。
+
+##############################
+#########
+# Tutorial cinematics
+
+0x00000108 你唯一的城市被佔領了。
+0x0000010A 你的部落現在統治這個大陸，準備從簡單的村落生活進展到文明生活吧！
+0x00000403 恭喜！你已經取得你的第一個香料噴泉。~br~噴泉的開採塔將會帶給你國家穩定的收入。
+0x0000010D 啟蒙時代，進步和交通運輸陸續成型！~br~你的城市將是這個星球上第一個出現的...其他城市將會由你部落的其他派系逐漸建造。你必須邁向統一之路
+0x00000710 你的城市正遭受攻擊。放置砲塔，建造建築物和增加快樂值來防禦你的城市。
+0x0653ADAD 該是進入文明階段的時候了！
+0x00000213 看看周遭的香料噴泉，點選它來派出你的車輛去採集。香料變成一種有價值的商品，挖掘香料礦有助於你的國庫成長。
+0x00000400 你種族裡的另外一支部落在大陸上建立起一座城市！你可能會想要在他們還很弱小時征服他們，或者選擇讓他們成為你的盟友。
+
+# Not In use
+
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet. ~br~ Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city!
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet. ~br~Your first task is to send it to claim a spice node.
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances!
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests!
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent! ~br~You may want to conquer them while they are still weak or choose to make them an ally.
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet!Click on your city hall to launch a spaceship and explore space!
+
+# capture - keep
+
+0x00000803 你已經用軍事手段佔領這座軍事城市。~br~它將繼續保持為一座軍事城市。
+0x00000805 你已經用經濟方式，購入這座經濟城市。~br~它將繼續保持為一座經濟城市。
+0x00000804 你已經感化這座宗教城市到你的教派裡。~br~它將繼續保持為一座宗教城市。
+
+# Deleted
+
+0x0000011F 刪除
+0x00000114 刪除
+0x00000112 刪除
+0x00000113 刪除
+0x00000600 刪除
+0x00000100 刪除
+0x00000101 刪除
+0x00000500 刪除
+
+# superweapons
+
+0x00000702 你的"全球合併"已經征服世界。
+0x00000701 你的"救世主"已經征服世界。
+0x00000700 你的"洲際彈道飛彈攻擊"已經征服世界。
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000098 Dokončeno
+0x000000B2 Podejte hlášení na planetě ~mission_source_planet~.
+0x00000093 Cíl: Soustava hvězdy~mission_source_star~.
+0x00000071 Abych pravdu řekl, nechceme přistát na nebezpečné planetě a ani zkoumat smrtelnou mimozemskou nákazu.~p~Vaše rasa je chytřejší než vypadá.
+0x00000000 ~ep1_captain_full_name~ Zrovna jsme dostali hlášení o biologické katastrofě! Neidentifikovaná mimozemská loď nouzově přistála blízko jedné naší vzdálené Ekologicko-výzkumné stanice. ~p~Ztratili jsme se stanicí veškerou komunikaci. ~p~Máme obavy, že s sebou mimozemská loď možná přivezla nějaký druh nákazy. ~p~Prověříte to pro nás?
+0x00000041 Přesně toho jsme se obávali. Celá stanice podlehla nákaze kromě jedné malinké holčičky. Doufejme, že v jejím imunitním systému najdeme nějaké látky, které by nám v budoucnu pomohly podobným katastrofám zabránit.~p~Není to moc, ale rádi bychom vám za pomoc v téhle záležitosti nabídli ~mission_rewards~ Sporáčů.
+0x00000064 Věděl jsem, že s vámi můžeme počítat. Zjistěte, co se stalo ve výzkumné stanici, a ohlaste se hned zpátky.~p~Pospěšte~ep1_captain_full_name~, než se nákaza rozšíří.
+0x0000004E Souřadnice planet byly zaneseny do záznamu misí. Pospěšte, než se nákaza rozšíří.
+0x00000081 Určitě se nechcete vystavit potencionálně smrtelné mimozemské nákaze.~p~Seznam pokusných králíků se nám ztenčuje…
+0x00000095 Vyšetřování na ~mission_target_planet~ bylo dokončeno. Podejte o tom zprávu na planetě ~mission_source_planet~ v systému ~mission_source_star~.
+0x000000B1 Prozkoumejte ztroskotanou loď na planetě ~mission_target_planet~.
+0x00000099 Úspěch! Podejte o tom zprávu v soustavě hvězdy ~mission_source_star~.
+0x00000097 Probíhá
+0x00000094 Veďte vyšetřování ve hvězdné soustavě ~mission_target_star~. Zkuste kontaktovat výzkumnou stanici na planetě~mission_target_planet~.
+0x00000092 Pátrejte ve hvězdné soustavě ~mission_target_star~. Zkuste kontaktovat výzkumnou stanici.
+

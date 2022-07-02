@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~ ha rifiutato di stabilire una rotta commerciale con te.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~ ha accettato di stabilire una rotta commerciale con te.
+
+#######################################
+# event logs
+
+0x00000004 Hai conquistato la città chiamata ~target_city_name~.
+0x00000005 Hai convertito la città chiamata ~target_city_name~.
+0x00000018 Ora è possibile acquistare la città ~target_city_name~.
+0x00000019 Il tuo tentativo di acquistare ~target_city_name~ è fallito.
+0x0000001A Hai acquistato ~target_city_name~!
+0x0000000F ~target_city_name~ è stata convertita!
+0x0000000E ~target_city_name~ è stata conquistata!
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x00000034 ~target_city_name~ sta celebrando l'incremento degli introiti!
+0x00000024 ~target_city_name~ è stata fondata!
+0x00000030 Hai saccheggiato %d Sporecrediti dalla tribù!
+0x00000036 La tribù è ostile e attacca il tuo veicolo!
+0x0000001C Una rotta commerciale è stata stabilita a ~target_city_name~.
+0x00000032 Hai rivendicato un geyser di spezia.
+0x00000033 Hai conquistato un estrattore di spezia.
+0x0000002F Uno dei tuoi estrattori di spezia è sotto attacco!
+0x00000021 La tua città, ~target_city_name~, è sotto attacco!
+0x00000023 Clicca sul geyser di spezia per ordinare al tuo veicolo di iniziare l'estrazione.
+0x00000031 Hai ottenuto un veicolo gratis dalla tribù!
+0x00000026 ~source_civ_name~ è stata distrutta.
+0x0000002C Ora sei alleato con ~source_civ_name~.
+0x0000002B Non sei più alleato con ~source_civ_name~.
+0x00000027 ~source_civ_name~ ha conquistato ~target_city_name~!
+0x00000035 Clicca su una città per attivare.
+0x00000028 Ora sei in guerra con ~source_civ_name~.
+0x0000002A Non sei più in guerra con ~source_civ_name~.
+0x00000029 Ora sei in guerra con ~source_civ_name~.
+

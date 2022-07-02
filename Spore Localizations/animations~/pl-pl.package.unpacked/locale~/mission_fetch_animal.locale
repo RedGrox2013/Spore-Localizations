@@ -1,0 +1,195 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.# Any change you would do in this file will be overwritten by the script.# If you need to modify any of the text, please modify the file with the same name under#   Data\GameplayConfig\SpaceGame\SpaceConversations\.# That file has the same name but different (.cnv) extension.
+
+0x00000072 Dobrze, ~race~ uznaje, że ~player_creature_name~ będzie mieć ~mission_time~ sektonów na planecie ~mission_target_planet~, aby zdobyć okaz z gatunku ~mission_item~. Ruszaj.
+
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A7 ...
+0x00000079 Wkrótce wrócę. Do zobaczenia.
+0x000000A5 Widzę, że pracujesz. Porozmawiamy później.
+0x00000013 Niedawno odkryto, że stwór o nazwie ~mission_item~ ma nietypowe cechy ułatwiające mu przetrwanie w dziczy. Jedyne egzemplarze, które posiadaliśmy, zostały poddane sekcji lub mumifikacji. Czy możesz dostarczyć nam żywy okaz?
+0x00000021 Poradzę sobie bez trudu.
+0x000000A2 Jeszcze jedno...
+0x00000043 Oczyść swój umysł, a informacje dotyczące stwora o nazwie ~mission_item~ powinny same się pojawić. ~p~Możesz też oczywiście zerknąć do swojego dziennika misji.~p~
+0x00000040 Tak, kapitanie. Twoim zadaniem jest dostarczenie stwora z gatunku ~mission_item~. Czy ta informacja nie została prawidłowo zapisana w dzienniku misji?
+0x000000A6 Widzę, że potrzebujesz trochę czasu. Na razie.
+0x00000005 Błagam o wyrozumiałość.
+0x00000076 Jeszcze jedno...
+0x00000078 Dzięki za propozycję. Do zobaczenia.
+0x000000A4 Może innym razem. Do zobaczenia.
+0x00000077 Muszę już ruszać. Na razie!
+0x00000020 To wydaje się wykonalne. Zgadzam się!
+0x0000002B Niestety, jedyny stwór z gatunku ~mission_item~ w naszym zoo właśnie zdechł. Czy możesz dostarczyć nam nowy okaz?
+0x000000BB Misja wykonana. ~mission_item~ znajduje się na pokładzie.
+0x0000002C Stwór z gatunku ~mission_item~ znakomicie nadaje się do zwalczania szkodników. Myślimy o wprowadzeniu go do naszego środowiska, ale najpierw musimy go dokładnie zbadać. Czy możesz dostarczyć nam jeden okaz?
+0x00000012 Jedyny przedstawiciel gatunku ~mission_item~, jaki znajdował się w zoo federacji, właśnie zdechł. Ponieważ Wielka Rada życzy sobie, aby w zoo znajdował się jeden egzemplarz każdego gatunku żyjącego na obszarze federacji, chcielibyśmy jak najszybciej zdobyć nowy. Czy możesz dostarczyć nam jeden okaz?
+0x00000025 Niestety, muszę odmówić tej prośbie.
+0x00000001 Potrzebujemy stwora o nazwie ~mission_item~ i nie musisz wiedzieć, do czego. Można go znaleźć na planecie ~mission_target_planet~ w układzie ~mission_target_star~.
+0x00000026 Z żalem, ale odmawiam.
+0x00000022 Spełnię to życzenie.
+0x00000018 Skóry stworów z gatunku ~mission_item~ stały się na planecie ~mission_source_planet~ oznaką wysokiej pozycji społecznej! Jeśli przywieziesz mi jeden egzemplarz tego zwierzęcia, będę się wyróżniać wśród ziomków i być może otrzymam wiele ważnych zleceń! Czy zechcesz poświęcić nieco czasu na dostarczenie mi takiego stwora?
+0x00000024 Tak właściwie nie bardzo mogę się tym obecnie zająć.
+0x00000023 O nie! Czegoś TAKIEGO za nic nie wezmę do ładowni!
+0x000000BD ~mission_clue_landmark1~ znajduje się w przybliżeniu ~mission_clue_distance~ parseków od gwiazdy, której szukasz.
+0x0000002A Zastanawiamy się nad wprowadzeniem stwora z gatunku ~mission_item~ do środowiska naturalnego planety ~mission_source_planet~. Czy możesz dostarczyć nam jeden okaz do zbadania?
+0x000000BC Czas przeznaczony na zadanie minął.
+0x000000BF gwiazda ta nazywa się ~mission_target_star~
+0x00000027 Stwór z gatunku ~mission_item~ nie zdołał przeżyć naszych wstępnych badań. Dostarcz nam następny okaz.
+0x000000BE gwiazda ta znajduje się ~mission_clue_range_min~–~mission_clue_range_max~ parseków od punktu charakterystycznego ~mission_clue_landmark1~.
+0x00000028 Metody eksterminacji życia organicznego są testowane na żywych okazach. Dostarczysz nam taki okaz — stwora z gatunku ~mission_item~.
+0x00000004 Muszę już iść. Żegnaj.
+0x000000AC Przedstawcie swoją prośbę jeszcze raz. Mam niedokładne notatki.
+0x0000003C To bardzo hojnie z waszej strony.
+0x0000003A To żaden kłopot. Na razie.
+0x000000AE Dostarcz zwierzę o nazwie ~mission_item~ z planety ~mission_target_planet~.
+0x0000003B Proszę bardzo. Do następnego spotkania.
+0x00000074 Zanim się pożegnamy, mam inne pytania...
+0x000000A9 Musze przypomnieć sobie cele misji.
+0x000000A8 Ach, oczywiście! Dziennik misji. Zaraz go sprawdzę!
+0x000000AA Szczegóły misji jakoś umknęły mi z pamięci.
+0x000000AB Muszę jeszcze raz przejrzeć szczegóły mojej misji.
+0x00000075 Ponadto...
+0x0000003D Ach, oczywiście! Dziennik misji. Zerknę do niego!
+0x00000036 Zanim się pożegnamy, mam inne pytania...
+0x00000035 Chcę zapytać o coś innego...
+0x00000003 Dostarcz nam stwora o nazwie ~mission_item~. A teraz odejdź.
+0x000000AF Sukces! Wróć do układu ~mission_source_star~.
+0x00000038 Jeszcze jedno...
+0x00000039 Pomagam z przyjemnością. Do zobaczenia.
+0x00000037 Ponadto...
+0x000000B1 Masz się udać do układu ~mission_target_star~.
+0x00000073 Chcę zapytać o coś innego...
+0x000000B0 Nie udało się. Wróć do układu ~mission_source_star~.
+0x00000088 Zanim zaczniesz marnować nasz czas, zastanów się dwa razy.
+0x00000093 Porozmawiamy przy następnej okazji. Do zobaczenia.
+0x00000009 Sifu Slm mówi, że każde kichnięcie stwora z gatunku ~mission_item~ przynosi szczęście! A trochę szczęścia nikomu nie zaszkodzi, więc przydałoby mi się jedno z tych zwierząt. Możesz mi je dostarczyć?
+0x00000051 Niestety nie mam już czasu na to zadanie.
+0x00000094 Widzę, że pracujesz. Porozmawiamy później.
+0x0000000B Gruczoły stwora z gatunku ~mission_item~ mogą wytwarzać związek chemiczny zwalczający niebezpiecznego pasożyta zbóż, lecz potwierdzenie tej hipotezy wymaga dalszych badań. Czy możesz dostarczyć nam to zwierzę?
+0x00000015 Projekt „Wiwisekcja” ma zapewnić nam pełne poznanie wszystkich zwierząt żyjących w naszej galaktyce. Lecz posiadany przez nas stwór z gatunku ~mission_item~ zdechł, zanim zdołaliśmy go odpowiednio wykorzystać. Czy możesz dostarczyć nam nowy okaz?
+0x0000000A Stwór z gatunku ~mission_item~ może okazać się użyteczny przy stabilizacji ekosystemu planety ~mission_source_planet~. Czy możesz dostarczyć nam jeden egzemplarz do badań?
+0x00000063 Skupmy się na przyszłości...
+0x00000089 Chcę zapytać o coś innego...
+0x0000007C Jeszcze jedno...
+0x0000004E Jeszcze jedno...
+0x0000004D Ponadto...
+0x00000010 Wielka Rada trudzi się nad stworzeniem pełnego spisu gatunków z planet należących do federacji. Stwór o nazwie ~mission_item~ był do tej pory pomijany. Czy możesz dostarczyć jeden okaz do naszego Instytutu?
+0x00000095 Błagam o wyrozumiałość.
+0x0000004F Rezygnuję.
+0x00000057 Zasuwaj. Na znalezienie tego zwierzęcia na planecie ~mission_target_planet~ masz ~mission_time~ sektonów.
+0x0000008F Jeszcze porozmawiamy. Na razie.
+0x0000008E Może innym razem. Do zobaczenia.
+0x00000090 Błagam o wyrozumiałość.
+0x00000056 Mam duże spóźnienie. Już mnie nie ma!
+0x0000000D Spod nakazał nam zbadać wszystkie żywe organizmy i określić, czy są czyste, czy nieczyste. Nie osądziliśmy jeszcze gatunku ~mission_item~ z planety ~mission_target_planet~. Czy możesz dostarczyć nam jeden okaz?
+0x0000001C Nasze dzieci uwielbiają oglądać walki stworów z gatunku ~mission_item~. Podobno w stanie dzikim istnieje bardziej agresywny podgatunek. Czy możesz dostarczyć nam jeden okaz?
+0x0000007F Nie mam już czasu na to zadanie.
+0x0000008C Jeszcze jedno...
+0x00000064 Błagam o wyrozumiałość.
+0x00000066 W przypadku takiego gatunku, jak twój, opór zaowocuje nie szacunkiem, a zagładą.
+0x00000080 Błagam o zwolnienie z tego obowiązku.
+0x0000000C Stwór z gatunku ~mission_item~ może być pomocny w zwalczaniu szkodników. Czy możesz dostarczyć nam jeden okaz?
+0x0000007D Bardziej odpowiadałoby mi inne zadanie.
+0x0000001D Stwór z gatunku ~mission_item~ ma niezwykle czuły węch i może się nadawać do tropienia nieprzyjacielskich niedobitków po zwycięskiej bitwie. Czy możesz dostarczyć nam jeden okaz do badań?
+0x00000055 Wkrótce wrócę... tym razem naprawdę. Do zobaczenia.
+0x0000008B Ponadto...
+0x00000054 Jeszcze raz dzięki. Do zobaczenia.
+0x00000053 Teraz już rozumiem. Na razie!
+0x0000008A Zanim się pożegnamy, mam inne pytania...
+0x0000009D Cóż za głupota! A wystarczyło iść za okruszkami!
+0x000000A0 Zanim się pożegnamy, mam inne pytania...
+0x00000061 Tak, były pewne komplikacje...
+0x0000004B Chcę zapytać o coś innego...
+0x000000A1 Ponadto...
+0x0000009C Oczywiście, oczywiście. Wiedzieliśmy, że kłopotanie tak wspaniałej istoty tak trywialną sprawą nie ma sensu. A może wynagrodzisz mi to, robiąc zakupy w naszym sklepie wolnocłowym?
+0x00000060 Przykro mi. Możemy porozmawiać o czymś innym?...
+0x0000001F Przyjmuję tę propozycję.
+0x0000009F Chcę zapytać o coś innego...
+0x0000007A Już się do tego zabieram. Na razie.
+0x00000014 Stwór z gatunku ~mission_item~ może okazać się przydatny w walce ze szkodnikami. Czy możesz dostarczyć nam próbkę do dokładniejszych badań?
+0x0000001B Zmumifikowane zwierzęta są ostatnim krzykiem mody, a ja chcę, by moje było egzotyczne! Czy możesz przywieźć mi stwora z gatunku ~mission_item~, żyjącego na planecie o nazwie ~mission_target_planet~?
+0x0000006A Zanim się pożegnamy, mam inne pytania...
+0x00000086 Oczywiście, oczywiście. Wiedzieliśmy, że kłopotanie tak wspaniałej istoty tak trywialną sprawą nie ma sensu. A może wynagrodzisz mi to, robiąc zakupy w naszym sklepie wolnocłowym?
+0x0000004C Zanim się pożegnamy, mam inne pytania...
+0x00000062 To nie było moje najlepsze osiągnięcie...
+0x0000000E Stare pisma mówią, że Spod miał zwierzę-towarzysza. Nie mamy pewności, co to było za zwierzę, ale niektórzy z nas sądzą, że mógł to być przedstawiciela gatunku ~mission_item~. Czy możesz dostarczyć nam jeden egzemplarz, abyśmy mogli go zbadać?
+0x0000007B Ponadto...
+0x0000000F Poszukujemy specjalnej nagrody dla młodzieży, która najlepiej wykuje na pamięć Słowo Spoda. Stwór z gatunku ~mission_item~ wydaje się pupilem stosownym do wieku uczestników Konkursu Recytatorskiego. Czy możesz dostarczyć nam jeden okaz przed jego rozpoczęciem?
+0x00000007 Belfer mówi nam, że powinniśmy znaleźć żywy dom dla naszych duchowych przewodników, a takim idealnym domem jest stwór o nazwie ~mission_item~ z planety ~mission_target_planet~. Czy możesz dostarczyć nam jeden egzemplarz?
+0x00000097 Musisz iść własną drogą.~p~Powodzenia.
+0x00000048 Oczywiście, oczywiście. Przypuszczaliśmy, że już waszej mości tu nie ma... Ale nieważne, nieważne.~p~Czy wasza wspaniałość nie obiecała mi dostarczenia zwierzęcia o nazwie ~mission_item~? Proszę sprawdzić dziennik misji, powinien zawierać szczegóły umowy.
+0x0000003E Dzięki, kapitanie! ~mission_item~ przybywa w dobrym stanie. Oto Twoje ~mission_rewards~.
+0x00000017 Planeta ~mission_source_planet~ desperacko potrzebuje stworów z gatunku ~mission_item~! Jeśli zdołasz dostarczyć mi jeden okaz, umieszczę go w inkubatorze klonującym i zbiję na nim majątek! Oczywiście Twoje wysiłki zostaną hojnie wynagrodzone.
+0x00000065 Dzięki, kapitanie! Doceniamy Twój trud! ~p~Po dotarciu na planetę ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na znalezienie i zdobycie stwora o nazwie ~mission_item~.
+0x00000042 Kapitanie, Twoje niepowodzenie jest naprawdę zaskakujące! Byliśmy całkowicie nastawieni na otrzymanie okazu z gatunku ~mission_item~... Nigdy nie przypuszczaliśmy, że nie zdołasz go dostarczyć.~p~Zapewne wystąpiły jakieś nieoczekiwane komplikacje?
+0x00000011 Stwór o nazwie ~mission_item~ jest uważany za nosiciela niebezpiecznej choroby, która może zagrozić naszemu gatunkowi. Skoro Twój gatunek jest odporny na zakażenie, może dostarczysz nam jedno z tych zwierząt do badań laboratoryjnych?
+0x00000006 Ośmielasz się ignorować żądania Groksów!? Bezczelny głupcze!
+0x0000007E Muszę odmówić wykonania tego zadania.
+0x0000009B ~player_title~ ludu ~player_creature_name~? To ciekawy wybór. Być może dysponujesz jakimiś informacjami, których nie posiadamy, choć to mało prawdopodobne.
+0x00000068 Zastanawiamy się, kto jest bardziej inteligentny: ~player_creature_name~ czy ~mission_item~.
+0x00000047 ~player_title~ ludu ~player_creature_name~? Twoim zadaniem było dostarczenie egzemplarza gatunku ~mission_item~ na potrzeby naszych badań naukowych. Z pewnością masz odpowiednie notatki w dzienniku misji.
+0x00000085 ~player_title~ ludu ~player_creature_name~? To ciekawy wybór. Być może dysponujesz jakimiś informacjami, których nie posiadamy, choć to mało prawdopodobne.
+0x00000050 Muszę odmówić wykonania tego zadania.
+0x00000087 Co za głupota! Wystarczyło tylko podążać za okruszkami!
+0x00000046 Wszystkie zapytania należy zgłaszać do Centralnego Biura Zapytań, zwłaszcza gdy chodzi o przewóz stworów. ~p~Oczywiście zgodnie ze standardową procedurą galaktyczną potrzebne informacje zostały zapisane w Twoim dzienniku misji.
+0x00000029 Ośmielasz się ignorować słowa Groksów!? Bezczelny głupcze!
+0x00000002 ~player_creature_name~.~p~To stwór, o którego prosiliśmy.~p~Gatunek ~player_creature_name~ otrzymał zapłatę.~p~Przerywamy kontakt.
+0x00000008 Pragnę żyć w jedności z przyrodą, a stwór o nazwie ~mission_item~ to naprawdę uroczy kawałek przyrody, który chcę mieć na własność! Obiecuję, że jeśli mi go dostarczysz, będę go karmić i poić, i bawić się z nim, i dbać o wszystkie jego potrzeby, i tulić i... I nazwę go George! Przepraszam, zagalopowałem się... Czy polecisz na planetę ~mission_target_planet~ i przywieziesz mi jednego? Proooooszę...
+0x000000B4 Porwij stwora znanego jako ~mission_item~ z planety ~mission_target_planet~ w układzie ~mission_target_star~.~p~Wiadomo, że ~group:star_clue~. ~p~Po dotarciu na planetę ~mission_target_planet~ będziesz mieć ~mission_time~ na zidentyfikowanie i zdobycie wymaganego okazu.~p~
+0x0000001A Ha! Tak! ~p~Dawno, dawno temu nasz świat dostał bzika na punkcie stwora z gatunku ~mission_item~. Każdy po prostu MUSIAŁ mieć takie zwierzątko.~br~Lecz ten szał ustał równie szybko, jak się zaczął, i wszystkie okazy zebrano i wysłano na planetę o nazwie ~mission_target_planet~, by nie raziły naszego poczucia dobrego smaku.~p~Teraz podobno mają znów wejść w modę, a ja po prostu muszę mieć pierwszego.~p~
+0x00000081 Musisz iść własną drogą.~p~Powodzenia.
+0x00000019 Juhuuu! Mam zadanie dla ciebie!~p~Ostatnio gwiazda szołbiznesu ENERGY***STAR***BAT pokazuje się ze zwierzakiem z gatunku ~mission_item~ i ja też chcę takiego! Czy możesz go dla mnie zdobyć?
+0x00000071 Ojej! Chyba pomaluję się na purpurowo! ~p~Szybko, rybko! Na planecie ~mission_target_planet~ możesz spędzić tylko ~mission_time~, poszukując naszego stworka.
+0x00000044 Och tak... Pamiętanie różnych rzeczy jest na pewno męczące. Wiem. Dlaczego musimy żyć pod dyktatem szczegółów?... Niech prowadzi nas matka natura... Takie jest nasze zdanie.~p~Co mówisz?... Nie słuchaliśmy dokładnie...~p~Może masz jakiś dziennik misji czy coś w tym stylu?...
+0x00000041 ~player_creature_name~. Nie udało wam się dostarczyć egzemplarza gatunku ~mission_item~ w wyznaczonym czasie. Twoja niekompetencja zostanie odnotowana.
+0x0000001E Jedną z naszych kar za pewne zbrodnie jest rzucenie winnego na pożarcie drapieżnemu zwierzęciu, a czasem całemu stadu. Zawsze poszukujemy nowych zwierząt tego typu, a stwór z gatunku ~mission_item~ może być całkiem dla nas odpowiedni. Czy możesz dostarczyć nam jeden okaz do oceny?
+0x0000005F ~player_creature_name~ wraca bez poszukiwanego zwierzęcia? Nie ma okazu z gatunku ~mission_item~? Choć jest ono bez znaczenia, utrata honoru już nie jest.
+0x0000009E Jasne, że ~race~ nie znają słowa „rezygnacja”. ~player_creature_name~ to nie to, co ~race~.
+0x0000002F ~player_title~ ludu ~player_creature_name~ dobrze służy ~race~. Oto zasłużona nagroda: ~mission_rewards~.
+0x00000052 Błagam o zwolnienie mnie od tego obowiązku.
+0x0000009A ~player_title~ ludu ~player_creature_name~? Doceniamy Twoje dobre obyczaje.~p~Zaoszczędzą nam sporo papierkowej roboty. Zatwierdzenie subkontraktu na międzyplanetarny przewóz roślinności wymaga wypełnienia jedynie trzystu sześćdziesięciu dwóch różnych formularzy w trzech kopiach i zdobycia stosownych pieczęci na każdym z nich. ~p~Oczywiście to dużo poniżej wytycznych Standardowej Procedury Działania... Nie znasz formularzy niezbędnych w przypadku przewozu przypraw sfermentowanych.
+0x00000084 ~player_title~ ludu ~player_creature_name~? Doceniamy Twoje dobre obyczaje.~p~Zaoszczędzą nam sporo papierkowej roboty. Zatwierdzenie subkontraktu na międzyplanetarny przewóz roślinności wymaga wypełnienia jedynie trzystu sześćdziesięciu dwóch różnych formularzy w trzech kopiach i zdobycia stosownych pieczęci na każdym z nich. ~p~Oczywiście to dużo poniżej wytycznych Standardowej Procedury Działania... Nie znasz formularzy niezbędnych w przypadku przewozu przypraw sfermentowanych.
+0x00000070 Dziękujemy, dziękujemy! Już mi prawie ślinka cieknie na samą myśl! ~p~Chyba wspomnieliśmy o pewnym drobnym ostatnim szczególe... Gdy dotrzesz na planetę ~mission_target_planet~, będziesz mieć całe mnóstwo ~mission_time~ sektonów na zdobycie towaru. Jesteśmy przekonani, że nie będzie to żaden kłopot dla tak zdolnego pilota, jak ~player_title~ ludu ~player_creature_name~. ~p~Tak, tak! W drogę!
+0x0000006F ~player_title~ ludu ~player_creature_name~? Wniesiesz nieoceniony wkład w postęp naukowy, który przyniesie korzyść całej galaktyce.~p~Aby okaz do badań nie poniósł szkody, musisz zlokalizować i zdobyć tego stwora w ciągu ~mission_time~ sektonów po dotarciu na planetę ~mission_target_planet~. ~br~Powodzenia.
+0x00000045 ~player_title~ ludu ~player_creature_name~ obiecał ~race~, że dostarczy okaz z gatunku ~mission_item~.~p~Czy jesteś niesamowicie niesłowną istotą, czy też Twój dziennik misji jest zawodny?
+0x00000092 Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x00000031 ~player_title~ ludu ~player_creature_name~? Dziękujemy za pomoc w gromadzeniu użytecznych danych. Oto twoja nagroda: ~mission_rewards~.
+0x000000A3 Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x0000006C Doskonale... To naprawdę wspaniała wieść... Naprawdę. ~p~Może już ruszaj... No wiesz... Podziwiaj widoki... Oczywiście... Po dotarciu na planetę ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na zdobycie ślicznego okazu obiektu ~mission_item~... Zatem... Dobrej zabawy!
+0x0000003F Pomimo rozkazów umieszczonych w twoim dzienniku misji nie udało ci się dostarczyć nam zwierzęcia z gatunku ~mission_item~. Natychmiast wykonaj swoje zadanie.
+0x0000005D ~player_title~ ludu ~player_creature_name~? Doszły nas wieści, że nie udało ci się wykonać misji! ~p~Szpiegujemy cię? Nie, nic podobnego. Po prostu pilnujemy naszej inwestycji.
+0x000000B3 Nie udało ci się zdobyć na czas zwierzęcia z gatunku ~mission_item~. Cywilizacja z planety ~mission_source_planet~ nie będzie zadowolona.
+0x0000005C ~player_title~ ludu ~player_creature_name~? Nie udało ci się zdobyć wymaganego okazu na czas. ~br~Systematyczne zbadanie planety powinno zaowocować pożądanym wynikiem. Inne postępowanie jest mało wydajne. ~p~Szacujemy rezultat Twojej misji na 70%.
+0x0000005B ~player_title~ ludu ~player_creature_name~? Nie udało ci się dostarczyć zwierzęcia z gatunku ~mission_item~ w uzgodnionym czasie. Będę musiał powiadomić Wielką Radę o Twojej porażce.
+0x00000058 ~player_title~ ludu ~player_creature_name~? Witaj ponownie.~p~Rozumiemy, że nie udało ci się wykonać zadania. ~p~Musisz pamiętać, że wszystko, co warto zrobić, wymaga pełnego skupienia się na celu.
+0x00000069 To całkowicie zrozumiałe, kapitanie.~p~Przepraszamy, że zawracaliśmy ci mózg takimi sprawami.
+0x0000006B To bardzo wielkoduszne. ~p~Lecz pamiętaj, że Twój statek może zakłócić integralność delikatnego obiektu ~mission_item~. Działaj szybko. Na planecie ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów na wykonanie misji.~p~Życzymy pomyślnego lotu.
+0x000000B7 Nie udało ci się zdobyć na czas zwierzęcia z gatunku ~mission_item~. Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, by przekazać złe wieści.
+0x00000067 To całkowicie zrozumiałe, kapitanie.~p~Przepraszamy, że zawracaliśmy ci mózg takimi sprawami.
+0x0000004A Niestety, ~race~ nie otrzymali od ciebie tego, o co prosili: zwierzęcia z gatunku ~mission_item~, mimo, że ~race~ umieściło wszystkie niezbędne wskazówki w twoim dzienniku misji.
+0x000000B5 Masz obiekt ~mission_item~. Teraz wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~, aby odebrać nagrodę.
+0x00000098 Ooo... No dobrze... Niech będzie. ~p~Jeśli nie masz do tego serca... Nie chcielibyśmy narażać cię na kontakt z inną formą życia.
+0x0000005E Ha, ha! Twój statek jest tak powolny, że nie potrafisz znaleźć na czas jednego małego stwora? ~p~Następnym razem ~race~ zaproponuje ci wyścig, co?
+0x00000091 Śmiesz wracać do Groksów z pustymi rękami?!~p~Nie będziemy się zniżać do powtarzania w kółko tego samego. Informacje, gdzie szukać obiektu ~mission_item~, znajdują się w twoim dzienniku misji... Chyba że nie wiesz nawet, jak go używać.
+0x000000B2 Masz obiekt ~mission_item~. Planeta o nazwie ~mission_source_planet~ ma twoją nagrodę.
+0x00000083 Niestety ~race~ krytykuje Twoje niezdecydowanie. To oczywiste, że brak ci odpowiedniej siły przewodniej. Szkoda.
+0x00000034 ~player_creature_name~ dostarcza zwierzę.~p~Stwory z ~race~ zadowoleni. Władze ~race~ przekazują ~mission_rewards~ nagrody.
+0x00000082 Ooo... No dobrze... Niech będzie. ~p~Jeśli nie masz do tego serca... Nie chcielibyśmy narażać cię na kontakt z inną formą życia.
+0x0000002D ~player_title~ gatunku ~player_creature_name~? Wieści o twoich sukcesach cię poprzedzają. ~p~Przekazujemy ci ~mission_rewards~ za wykonanie misji i życzymy pomyślności.
+0x00000099 Tak, ~race~ krytykuje Twoje niezdecydowanie. To oczywiste, że brak ci odpowiedniej siły przewodniej. Szkoda.
+0x00000032 ~player_title~ ludu ~player_creature_name~? Wyśmienicie, wyśmienicie! Uzgodniliśmy zapłatę w wysokości ~mission_rewards~ — oto ona, tylko nie mów nikomu, skąd masz te pieniądze!
+0x0000005A ~player_title~ ludu ~player_creature_name~? Nie udało ci się dostarczyć zwierzęcia z gatunku ~mission_item~ w wymaganym czasie? Zapamiętamy to sobie.
+0x00000059 ~player_title~ ludu ~player_creature_name~?...~p~Chwileczkę, gdzie okaz z gatunku ~mission_item~? Nie prosiliśmy cię przypadkiem o jego dostarczenie?... Aaaa, nie udało ci się?... Do kitu.
+0x00000049 Tak, ~race~ czekają niecierpliwie na zwierzę z gatunku ~mission_item~! Udało ci się zabłądzić? Wszyscy wiedzą, że ~group:star_clue~!~p~Przeczytaj swój dziennik misji, a może znajdziesz drogę!
+0x0000006D Idź w imię Spoda! Całe ~race~ będzie oczekiwać na Twój powrót. ~p~Po dotarciu na planetę ~mission_target_planet~ będziesz mieć ~mission_time~ sektonów, by zdobyć zwierzę z gatunku ~mission_item~.
+0x0000008D Przepraszamy, że zawracaliśmy ci głowę. Do zobaczenia.
+0x0000006E W imieniu Wielkiej Rady składamy najszczersze podziękowania.~p~Standardowe procedury galaktyczne dają ci pełne ~mission_time~ sektonów pobytu na planecie ~mission_target_planet~ na odnalezienie i zabranie stwora z gatunku ~mission_item~. ~br~~player_title~ ludu ~player_creature_name~? Życzymy powodzenia!
+0x00000016 Z niechęcią niepokoję tak potężną istotę, lecz musimy cię z żalem powiadomić, że ostatni w naszym zoo stwór z gatunku ~mission_item~ ostatnio zdechł! Podarowanie zoo nowego egzemplarza być może zapewniłoby mi nowe zlecenie! Być może przez wzgląd na okoliczności zechcesz dostarczyć mi jedno z tych zwierząt?
+0x00000033 Suuuper! Dziękuję! Nazwę go Ogryzek! ~p~Oto Twoje ~mission_rewards~!
+0x0000002E ~player_title~ ludu ~player_creature_name~!~p~~mission_item~ to cudowne stworzenie... Tak, rozumiemy się, naturalne. ~p~Bardzo chętnie obdarowalibyśmy cię w nagrodę czymś więcej niż ~mission_rewards~... Może chcesz się przytulić?
+0x00000030 ~player_title~ ludu ~player_creature_name~? W imieniu Wielkiej Rady przekazują ci ~mission_rewards~ nagrody oraz pisemną pochwałę trzeciej klasy (zostanie dosłana pocztą).
+

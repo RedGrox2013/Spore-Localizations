@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Törzsfőnök
+0x067213A6 A törzsedet törzsfőnököd vezeti. A törzs a főnök nélkül is csatába indulhat, de a más törzsekkel folytatott barátkozáshoz elengedhetetlen a jelenléte.~p~Szintén a törzsfőnök hívja elő a törzs járulékos képességeit. A járulékos képességek használatához először válaszd ki a törzsfőt, majd kattints a használni kívánt képességre.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 A kereskedelmi panel segítségével vehetsz és eladhatsz eszközöket, fűszert és ritkaságokat. A rakteredben lévő eladható dolgok a kereskedelmi panel alján jelennek meg.~p~Kattints a tárgyakra a kereskedelmi panelben, ha el akarod adni őket, vagy venni akarsz belőlük.
+0x0670C6DB Kereskedelmi panel
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Törzset alakítottál!
+0x06281000 Most már hatalmas, háromfős törzset irányíthatsz! ~p~Választhatsz egyéneket és csoportokat is, hogy tegyék, amit akarsz. ~p~Növeld a törzsi élelemtartalékot, hogy vehess eszközöket, etethesd éhező hordádat, és növelhesd a törzset. ~p~Ha kapcsolatba lépsz más törzsekkel, nőni fog a fejlődéscsíkod. Nézzük csak... ~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Járulékos képesség
+0x06721404 A Sejtfázis befejezésével egy különös képességet nyertél. Kattints erre a gombra a használatához!
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Kistérkép
+0x06550367 A sajátodnak nyilvánított fűszergejzír most már a te színedet viseli.~p~Kattints a városházára a kistérképen, hogy visszatérj oda, és elkezdd kiépíteni a fővárosodat!
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Haladás
+0x06271001 Ez a csík mutatja a fejlődésedet.~p~Úgy töltheted fel, ha kapcsolatot építesz ki más fajokkal, vagy kiirtod őket. ~p~Lépjünk tovább az első célodra... ~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Ez itt a fejlődéscsíkod.~p~Az evéssel DNS pontokat nyerhetsz. Ezeket a pontokat új elemekre költheted, hogy a sejtedet fejleszd.~p~Ahogy haladsz, nagyobb is leszel, és a világod kitárul!~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Bár a fejlődésed napjai lejártak, a divatot sosem érdemes alábecsülni! Adj új külsőt a fajodnak, a felszerelések és a kiegészítők biztos feldobják!
+0x063976F0 [NOT IN USE]
+0x0668AF4D Szépítő
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Alacsony energiaszint
+0x06627B5D Energia hajtja a hajódat és az eszközeidet, így utazhatsz körbe a galaxisban.~p~Az energia ingyenes az anyabolygódon, míg a szövetségeseid és a gyarmataid fizetséget várnak érte. A kommunikációs panel segítségével töltheted fel energiatartalékaidat.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Üdvözlünk a civilizációban!
+0x0625E9BE Most már te irányítod a járműveket és néped várostervezését, mely első városukkal kezdődik.~p~Kapcsolatba kell lépned más nemzetekkel, hogy idővel megszerezd a hatalmat az egész bolygó fölött.~p~Nézzük csak meg a fejlődéscsíkodat...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06638D3E Gyűjteményem
+0x06290007 A Gyűjteményem gombbal elérhető a küldetésnapló, a medálgyűjtemény, az eszközgyűjtemény és a ritkasággyűjtemény.
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Az utolsó kolóniát is megadásra bírtad ebben a rendszerben. Nyomd le az Elfoglalás gombot a képernyő tetején, ha el akarod foglalni ezt a csillagrendszert.~p~Ha nem akarod birtokba venni a rendszert, nyugodtan támadd tovább a kolóniákat, és semmisítsd meg az ellenségedet.
+0x06627A27 Rendszer elfoglalása
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA3 Törzsi taktikáddal megalapoztad legelső kulturális jellemződet. Ez a tulajdonság meghatározza nemzeted specialitását és technológiai kutatásaik irányvonalát. Néped növekedésével párhuzamosan polgáraid egyedi eszközöket fejlesztenek majd ki, amelyek segítik civilizációdat a világuralomhoz vezető úton. Használd őket bölcsen!
+0x1535ABA2 Történelem
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Minitérkép
+0x06721419 A minitérkép segít navigálni a világban. Megmutatja a fészked és az élelem helyét, valamint a vándorlási útvonaladat.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Eszközök
+0x065E5ECE Az eszközöket medálok megszerzésével oldhatod fel. Ha feloldottál egy eszközt, megveheted az anyabolygódon.~p~Egyes eszközök készlete véges, és ha kifogy, feltöltésre szorul. Más eszközök korlátlanul felhasználhatóak, és újratöltésük energiába kerül.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06280004 Tudnod kell...
+0x06281004 A gyerekek hamar a törzs termelékeny tagjaivá nőnek. ~p~Addig azonban itt követheted őket figyelemmel.
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06280010 Szép munka!
+0x06281010 Most, hogy már tisztában vagy az alapokkal, kezdd azzal a játékot, hogy keresel némi élelmet!
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Gratulálunk!
+0x06281006 A törzsed uralkodik mindenek felett!~p~Ha készen állsz a civilizálódásra, kattints a Fejlődés gombra!
+
+# Callout_SPG_ProgressBar.prop
+
+0x06290001 Ez a csík követi, hogy milyen fejlődést értél el medálokban, és hogy milyen közel vagy a galaxis közepéhez. ~p~A polgártársaid a bolygó felszínén alig várják, hogy beszélhessenek veled. Tanuljuk meg, hogyan kommunikálj! ~p~
+0x06638D71 Fejlődéscsík
+
+#######################################
+# City Planner
+
+0x06397840 Ezek a fülek segítenek eligazodni a várostervezőben. Vegyél járműveket, épületeket vagy polgári tárgyakat, Alkoss himnuszt, vagy szereld fel a lakosaidat!
+0x0665E829 Várostervező
+0x06280005 Várostervező
+0x0639783F Ezek a fülek segítenek eligazodni a várostervezőben. Vegyél járműveket, épületeket vagy polgári tárgyakat, alkoss himnuszt, vagy szereld fel a lakosaidat!
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Célok
+0x06550888 Itt jelennek meg országod célkitűzései.~p~Első feladatod, hogy megszerezz egy fűszergejzírt, és megkezdd a bányászatot.~p~Az elfoglalt fűszergejzírek növelik nemzeted termelését.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Miért gyalogolnál, ha vezethetsz? ~p~a bal egérgomb segítségével válaszd ki a járműveket, vagy kattints rá és négyszöget húzva jelöld ki a flottád. A jobb egérgomb a célhoz küldi őket. ~p~
+0x0626F434 Választás NOT IN USE
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Tudnod kell...
+0x00000005 Ez a Fejlődés gomb. Kattints ide, hogy a Lényfázisba lépj!~p~Útközben még egy utolsó evolúciós megállót is be kell iktatnod, hogy felkészítsd a sejted a szárazföldi létre!
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Gratulálunk!
+0x062EFB85 Uralod az egész világot!~p~Ha felkészültél rá, hogy az anyabolygón túli kihívásokkal is szembenézz, kattints a Tovább gombra!
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Felderítés
+0x06627BE0 A hologram felderítőd megjelent a bolygó felszínén. Nyugodtan nézz körbe.~p~A felderítő visszahívásához nyomd meg a „Hologram felszedése” gombot az avatár ablakban.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x0668ACDF Sejtlabor
+0x063971E5 [NOT IN USE]
+0x06397215 Bármelyik laborban megváltoztathatod a módot, ha a fenti mód gombokra kattintasz.~p~Mielőtt visszatérsz az őslevesbe, dobd fel lényedet egy kis színezéssel!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3BF Tudnod kell…NOT IN USE
+0x0626F3C4 Ez a kistérkép, a teljes bolygó képe. Láthatod a városokat, a fűszergejzíreket, és a járműveket. Ez az ügyes kis navigációs eszköz biztosítja, hogy sose tévedj el! NOT IN USE
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Katasztrófa!
+0x06628758 ~planet_name~ bolygó világa (~star_name~ rendszerben) katasztrófát él át!~p~Az események jegyzéke tudatja veled, hogy mikor történik katasztrófa a birodalmadban vagy a szövetségeseid bolygóin.~p~Ezeket a galaktikus nézetben piros jelölés mutatja, és általában bejövő adások is kísérik.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06280002 Tudnod kell...
+0x06281002 A törzs tagjainak állapotát – egészség, éhség, épp mit csinálnak – itt nézheted meg. ~p~Kattints az arcképükre, hogy kiválaszd őket.
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Élelemháló monitor
+0x0662811B Ez a gomb vált a kistérkép és az élelemháló monitor között. ~p~A bal oldali érték mutatja a bolygó atmoszféráját és hőmérséklet-szintjét, vagyis a Terraszintjét.~p~Használd a terraformáló eszközeidet, hogy az atmoszféra és hőmérséklet szinteket a kör közepe felé mozdítsd el, így növelve a bolygó T-szintjét.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Csillagtérképek
+0x0664AACD Használd a csillagtérkép-szűrőket, segítenek navigálni a galaxisban.~p~A „saját birodalom” szűrő megmutatja azokat a csillagokat, amikre az adott pillanatban kiterjed a birodalmad.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D9 Gratulálunk, növelted a bolygó T-szintjét! Most dobj le mindegyik fajta növényből egyet, kicsit, közepeset és nagyot, hogy stabilizáld az atmoszférát és a hőmérsékletet.~p~Ha ezt nem teszed meg gyorsan, a bolygó T-szintje csökkenni fog.
+0x066281D3 T-szint stabilizálása
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Kommunikációs panel
+0x062EFB67 Minden olyan nép megjelenik a kommunikációs panelen, amely egyetlen városnál többet birtokol.~p~Vidd a kurzort egy-egy nemzet ikonja fölé, és láthatod kapcsolatotok státuszát, megtekintheted jelenlegi hozzáállásuk okait, vagy kapcsolatba léphetsz velük kommunikációs készüléked segítségével.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 A falkád tagjai segítenek a támadásban és a barátkozásban is. ~p~Figyeld meg, hogy egynek van helyed. ~p~Barátkozz egy szövetségessel, és csatlakozni fog hozzád.
+0x06270004 Szervezz falkát
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Sérülést szenvedtél, és szükséges a javítás.~p~A javítás ingyenes az anyabolygódon, míg a szövetségeseid és a gyarmataid fizetséget várnak érte. A hajót a kommunikációs panel segítségével javíthatod meg.
+0x06627DBE Javítás szükséges
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06638D98 Fegyverek panel
+0x06290006 A Fegyverek panel alatt találod a védelem és pusztítás összes eszközét. ~p~A minilézert kattintással tudod felvenni.
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E CélokNOT IN USE
+0x0626F429 A globális uralomhoz vezető úton segítségre lehet szükséged. Ezek a tippek sokat segíthetnek! NOT IN USE
+
+# Callout_SPG_ActiveTool.prop
+
+0x06638C6B Aktív eszköz
+0x06290008 Itt látható a pillanatnyilag birtokolt eszköz. Az eszköz használatának befejezéséhez nyomd le az ESC gombot!
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Első városod megalapításához kattints ide!~p~A laborokba kerülsz, ahol megtervezheted a városházádat, és a járművedet.
+0x06280007 Továbblépés a Civilizációba
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Állatok elhelyezése
+0x06628274 Stabilizáltad az atmoszférát és a hőmérsékletet! Láthatod, hogy az általad elhelyezett növények bekerültek a táplálékhálóba A bolygó készen áll az állati élet megjelenésére.~p~A táplálékháló kiegészítéséhez helyezz el növényevő és húsevő állatokat (ebben a sorrendben) a bolygón.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06270000 Üdvözlet a szárazföldön!
+0x06271000 Most már lény vagy, körbevesznek a fészektársaid.~p~Fejlődj, hogy találkozhass a bolygón élő, többi fajjal, és DNS pontokat szerezz! ~p~Ha DNS pontot szerzel, megmozdul a fejlődéscsíkod. Nézd csak meg jobban...~p~
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 A kereskedelmi útvonalak végül felkínálják azt a lehetőséget, hogy megvegyél egy csillagrendszert. Menj el a kereskedőpartner csillagára, és nyomd meg a képernyő tetején a Rendszer megvásárlása gombot. Ez megnyitja a kommunikációs panelt, és megengedi, hogy megvedd a rendszert.
+0x06627F31 Rendszer megvásárlása
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359776 Ez az idővonal a sejtkorodban hozott döntéseid és tetteid áttekintése.~p~Megalapoztad egyéni jellemzőidet, amelyek egyedi képességeket tesznek majd elérhetővé a jövő generációi számára.~p~Melyik utat választod?
+0xD5359775 Történelem
+
+# Tribe Planner
+
+0x0668B06F Törzstervező
+0x06397802 Kattints a sisak ikonra, hogy megnyisd a Törzstag panelt.~p~Vidd az egeret a törzs tagja fölé, és kattints a „Felszerelés szerkesztése” gombra, hogy a Törzsszépítőbe juss!
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Üdvözlünk az űrben!
+0x06291000 Üdvözlünk a létezés csúcsán, a végső határon, a leges-leges-legvadabb vadnyugaton: az űrben! ~p~Te irányítod az űrhajót: vezeds fajtádat a galaktikus birodalom ösvényére.~p~Lássuk, hogyan érheted el a nagyságot...
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x06397261 Újabb móddal játszhatsz... Ez a járáspróba! Próbáld ki a lényedet, mielőtt visszatérsz a bolygóra.
+
+# Callout_SPG_CargoBin.prop
+
+0x06638CAC Rakomány panel
+0x06290005 Ez itt a rakományod. Válaszd ki az „Elrablás” funkciót, kattints, és fogj meg egy állatot vagy növényt, hogy a rakományodhoz add!~p~Úgy dobhatsz le valamit, hogy kiválasztod a rakományban, aztán kattintasz, és a bolygó felszínére viszed.
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Küldetésnapló
+0x065E5F30 Ha ezt a szöveget látod, bugold sebesen! :)
+
+######################################## Creature Editor
+
+0x0668B8D1 Lénylabor
+
+# cell opening
+
+0x00000001 Üdv az őslevesben!
+0x00000002 Gratulálunk!
+0x00000000 A Spore folyamán minden döntésed hatással lesz a jövőre. ~p~Sejtként az a feladatod, hogy egyél, növekedj és fejlődj. A növekedést az alsó fejlődéscsík mutatja.
+0x00000003 Ha a szószban úszásról van szó, te vagy az ősleves királya!~p~Ha kész vagy rá, hogy kinyújtsd a lábad a nagyvilágban, kattints a Fejődés gombra!
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Történelem
+0x1535ABA5 Evolúciós történeted során hozott döntéseid alakították ki fajod identitását az űrkorszak beköszöntére. Egyedi jellemzőid nem csupán járulékos képességeidben mutatkoznak meg, de egy új eszközt is köszönhetsz nekik űrhajód arzenáljában.
+
+# Callout_TRG_UICameraControls.prop
+
+0x0665EE03 Közelítés/távolítás és forgatás
+0x06281009 Ezekkel tudsz közelíteni/távolítani. ~p~Az egérgörgőddel is közelíthetsz/távolíthatsz és fordulhatsz is. Próbáljuk csak meg...
+
+# Callout_TRG_FirstGoals.prop
+
+0x06280003 Célok
+0x06281003 Ezek a célok végigkalauzolnak a törzsi léten.~p~Az első feladat, hogy öltöztesd fel a törzsed a Törzsszépítőben! Kattints a kunyhóra...
+
+# Callout_SPG_FirstGoals.prop
+
+0x06290003 A küldetéseidet itt követheted (legfeljebb hármat egyszerre) és itt frissülnek.~p~A küldetések jegyzékét az „L” gombbal érheted el.
+0x06638CED Célok
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Állapotjelzők
+
+# CalloutSample.prop
+
+0x06158262 Címke szöveg
+0x0615824E Címke cím
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Csillagtérképek
+0x0677176A A „Szövetségesek és ellenségek” szűrő megmutatja, hogy az űr egyes területeit barátaid vagy ellenségeid birtokolják.~p~A „Birodalom” szűrő megjeleníti, mely csillagokat ural idegen birodalom.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06638D0B Fő eszközök panel
+0x06290004 Az eszközök típus szerint szét vannak válogatva. A letapogató a fő eszközök között van.
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Terraformálás befejezése
+0x066282BD Befejezted az ökoszisztéma felállítását! Ha telepítettél kolóniát a bolygóra, most már adhatsz hozzá épületeket, ha a városházára kattintasz. ~p~Több kolónia elhelyezéséhez javítsd a T-szintet és tedd teljessé a táplálékláncot.~p~Ha követni akarsz egy állatot a radaron, kattints a pontjára a táplálékláncban!
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB33 Járulékos képességek
+0x062EFB38 Ezek a nemzeted egyedi szuperképességei.~p~Polgáraid a birodalmad növekedésével párhuzamosan fejlesztik ki ezeket a technológiákat.
+
+# Callout_CRG_Stance.prop
+
+0x06270003 Viselkedésmód
+0x06271003 A viselkedésmód állítja be, hogy egy másik lényt megtámadsz, vagy barátságos vagy vele. ~p~Mielőtt kapcsolatba lépsz vele, kattints a zöld gombra, ha barátkozni akarsz, és a pirosra, ha inkább megvacsoráznád. Aztán használd a képesség gombokat.
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Ritkaságok
+0x065E5F4E Ha ezt a szöveget látod, bugold sebesen! :)
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Haladás
+0x0626F40D Ez itt a fejlődéscsíkod.~p~Minden meghódított, megtérített vagy megvásárolt város segít a bolygó feletti uralom felé vezető úton.~p~Országod egyetlen specialitással indul, de más városok meghódításával többet is hozzáadhatsz ehhez.~p~
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 A törzsfőnök
+0x0678787A A törzsedet törzsfőnököd vezeti. A törzs a főnök nélkül is csatába indulhat, de a más törzsekkel folytatott barátkozáshoz elengedhetetlen a jelenléte.
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Csillagtérképek
+0x06771767 Használd a „Küldetés” szűrőt, hogy elvezessen az aktuális küldetés céljául kijelölt csillaghoz. ~p~Az „Útvonal” és a „Meglátogatott” szűrők akkor hasznosak, ha látni akarod, merre jártál már.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Flottalista
+0x0626F457 Itt, a flottalistádban kattinthatsz a járművekre, hogy kiválaszd őket, vagy megnézd, mit csinálnak.~p~Ha duplán kattintasz egy jármű ikonra, az összes azonos típusú járművet kiválasztod.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Törzs alapításához kattints ide!~p~Még egy utolsó utad van a laborba, hogy végleg beállíthasd a kinézetedet! Ez az utolsó esélyed, hogy karokat vegyél fel, nagyon hasznos az eszközök hordására.
+0x06270005 Továbblépés a Törzsi fázisba
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCED A kamerát akárhová elviheted a világon. Segít, hogy benézz a városokba, vagy ellenőrizd a járműveket, amelyeknek utasítást adtál.~p~Álljunk is meg, hadd tanuld meg az alapvető kamerairányítást, és azt, hogy hogyan válassz ki egy járművet...~p~
+0x0671FCE9 Kamera oktató
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Célok
+0x06271002 Itt találod a célkitűzéseidet.~p~Amint ez a cél mutatja, az élelem létfontosságú a túléléshez.~p~Tanuld meg, hogy mit is kell keresned, ha ételt akarsz találni!
+
+# Callout_SPG_CommButton.prop
+
+0x06638CCE Kommunikációs panel
+0x06290002 Ez a rövid távú videokommunikátor a kapcsolatod a lenti világ lakóival.~p~A bolygó körüli pályán lenned, hogy megnyithasd a vonalat.~p~A villódzó fény azt jelenti, hogy bejövő hívásod van.~p~
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06281001 Ez itt a fejlődéscsíkod.~p~Törzsed fejlődéséhez köss szövetségeket vagy hódíts meg más törzseket!
+0x06280001 Haladás
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Kattints ide és indítsd el a saját űrkutatási programodat!~p~A laborba kerülsz, ahol megtervezheted a hajódat az első útra.~p~A birodalmad bármelyik városában vagy gyarmatán változtathatsz rajta a későbbiekben.
+0x062EFB73 Továbblépés az űrbe
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Párzási hívás
+0x067213F5 Kattints az alább található Párzási hívás gombra, hogy megtaláld a párodat, és beléphess a Lénylaborba. Itt változtathatsz a külsődön és adhatod magadhoz a világban lelt elemeket.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Kamera oktató
+0x06281008 Most szabadon mozgathatod a kamerát a világban. Így könnyebben utánanézhetsz olyan törzsbelieknek vagy csoportoknak, akiknek parancsokat adtál.~p~Állítsuk meg a játékot egy pillanatra, és sajátítsuk el az alapvető kamerairányítást...
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Medálok
+0x065E5D6C Az űrbéli kalandjaiddal és tetteiddel szerezhetsz medálokat.~p~Ahogy újabb medálokat szerzel, nő a rangod is, és új címeket és új képességeket kapsz.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Egyes eszközök, így például a minilézer használata energiába kerül.~p~Az energiádat és az életerődet a kommunikációs képernyőn keresztül töltheted fel. Ez a szolgáltatás anyagbolygódon ingyenes.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Történelem
+0x1535ABA1 A Lényfázis minden cselekedetének következménye volt; új, egyedi képességek várnak rád a Törzsi fázisban.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Gratulálunk!
+0x06271006 Sikeresen elérted a tápláléklánc csúcsát!~p~Ha készen állsz rá, hogy kipróbáld a törzsi életet, kattints a Fejlődés gombra!
+

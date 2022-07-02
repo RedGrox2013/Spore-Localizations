@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000001 Nation (~id_color_name~)
+0x00000000 By (~id_color_name~)
+0x00000003 Bybo (~id_color_name~)
+0x00000009 Underhållning
+0x0000000C ~species_name~ koloni
+0x00000006 ~id_color_name~ stadshus
+0x00000002 ~species_name~-imperiet
+0x00000004 ~id_color_name~ medborgare
+0x00000010 ~species_name~ medborgare
+0x00000007 Hus
+0x00000008 Fabrik
+0x00000011 ~species_name~ kolonist
+0x00000005 ~id_color_name~ ~species_name~ kolonist
+0x0000000B ~species_name~-stad
+0x0000000A Försvarstorn
+0x0000000F ~species_name~-bybo
+0x0000000E ~species_name~-by
+0x0000000D ~species_name~-nation
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCF3 Brun
+0x053DBCF2 Neutral
+0x053DBCF1 Spelare
+0x053DBCFD Blodröd
+0x053DBCFC Skog
+0x053DBCFA Röd
+0x053DBCFB Blå
+0x053DBCFE Lila
+0x053DBCF9 Gul
+0x053DBCF5 Cyan
+0x053DBCF6 Grön
+0x053DBCF4 Rosa
+0x053DBCF8 Orange
+0x053DBCF7 Lavendel
+

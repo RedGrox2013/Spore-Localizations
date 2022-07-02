@@ -1,0 +1,42 @@
+﻿# Conquer
+
+0x00000304 ~tribe_name~ została pokonana przez Twoje plemię!~br~Twój totem jest gotowy! Możesz przejść do fazy cywilizacji.
+0x00000303 ~tribe_name~ została pokonana przez Twoje plemię! Narzędzia i wyposażenie zdobyte na pokonanych przeciwnikach są dostępne na ekranie planisty plemiennego. Twój totem jest już prawie ukończony!
+0x00000300 ~tribe_name~ została pokonana przez Twój szczep! Dla upamiętnienia tej wielkiej chwili Twoje stwory wyrzeźbiły nowy fragment totemu! Narzędzia zdobyte na pokonanym wrogu zostały dodane do Twojego planisty plemiennego.
+0x00000301 ~tribe_name~ została pokonana! Dla upamiętnienia tej wielkiej chwili Twoje stwory wyrzeźbiły drugi fragment totemu! Twoim łupem padły nowe narzędzia i wyposażenie, które znajdziesz w swoim planiście plemiennym.
+0x00000302 ~tribe_name~ została pokonana przez Twoje plemię! Do totemu dodano trzeci fragment. Narzędzia i wyposażenie zdobyte na pokonanych przeciwnikach są dostępne na ekranie planisty plemiennego.
+
+# Not in Use
+
+0x0000010D [[[[[NOT IN USE]]]]] Musisz je podbić lub się z nimi sprzymierzyć, aby osiągnąć fazę cywilizacji.
+0x0000010B [[[[[NOT IN USE]]]]] Twoje plemię opanowało cały kontynent! Kliknij swoją chatę, by wybudować miasto!
+
+# Befriend
+
+0x00000400 ~tribe_name~ jest twoim nowym sojusznikiem! Dla upamiętnienia tej wielkiej chwili Twoje stwory wyrzeźbiły wraz z sojusznikami fragment totemu! Podarowano ci również nowe narzędzia i wyposażenie, które znajdziesz w swoim planiście plemiennym.
+0x00000401 ~tribe_name~ jest twoim nowym sojusznikiem! Dodano nowy fragment totemu! Narzędzia i wyposażenie sojusznika należy teraz także do ciebie. Znajdziesz je w planiście plemienia.
+0x00000402 ~tribe_name~ zostala twoim sprzymierzeńcem! Ich fragment totemu informuje o zawartym przymierzu, a ich narzędzia i wyposażenie są dostępne dla Twojego plemienia. Znajdziesz je na ekranie planisty plemiennego.
+0x00000404 ~tribe_name~ została twoim sprzymierzeńcem!~br~Twój totem jest gotowy! Możesz przejść do fazy cywilizacji.
+0x00000403 ~tribe_name~ została twoim sprzymierzeńcem! Twój totem jest prawie ukończony! Ich narzędzia i wyposażenie są odtąd dostępne dla Twojego plemienia. Znajdziesz je na ekranie planisty plemiennego.
+
+#######################################
+#######################################
+# Tutorial cinematics
+
+0x00000110 Urodziło się nowe młode!
+0x00000199 Gratulacje! Za chwilę przejdziesz do fazy plemienia.
+0x0000010C Na Twojej planecie powstało konkurencyjne plemię stworów z gatunku ~tribe_creature_species~!
+0x00000109 Prestiż Twojego plemienia wzrasta! ~br~Od tej pory maksymalna liczba członków plemienia wynosi ~max_population~.
+0x0000010F Niestety liczebność Twojej populacja spadła poniżej niezbędnego minimum!~br~Czy ta tragiczna historia się powtórzy? Wróć na początek fazy plemienia, aby się dowiedzieć!
+0x0000010A Twoje plemię poszerza swoje wpływy! ~br~Chata została ponownie ulepszona, maksymalna liczba członków plemienia wynosi od tej pory ~max_population~.
+0x00000201 Mając już dach nad głową i władzę nad ogniem, wkraczasz w erę narzędzi i bębnów! Lecz uważaj! Wkrótce na całej planecie powstaną inne plemiona. Zachowaj czujność!
+0x0000010E Cóż za nieszczęście! Twoja chata plemienna została zniszczona! A może przyda ci się powrót na początek fazy?
+
+# Deleted
+
+0x00000001 USUNIĘTE
+0x00000002 USUNIĘTE
+0x00000003 USUNIĘTE
+0x00000200 USUNIĘTE
+0x00000108 USUNIĘTE
+

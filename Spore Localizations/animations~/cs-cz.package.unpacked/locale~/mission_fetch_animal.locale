@@ -1,0 +1,195 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.# Any change you would do in this file will be overwritten by the script.# If you need to modify any of the text, please modify the file with the same name under#   Data\GameplayConfig\SpaceGame\SpaceConversations\.# That file has the same name but different (.cnv) extension.
+
+0x00000072 Dobře. ~race~ rozumí. ~player_creature_name~ bude mít na planetě ~mission_target_planet~ ~mission_time~ sektonů na získání příšerky ~mission_item~. Vyražte.
+
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A7 ...
+0x00000079 Zanedlouho budu zpět. Nashle.
+0x000000A5 Vidím, ža máte hodně práce. Promluvíme si později.
+0x000000A3 Velmi mne mrzí, že jsme vás obtěžovali. Nashle.
+0x00000013 Příšerka ~mission_item~ má, jak se nedávno zjistilo, neobvyklé vlastnosti, které jí umožňují přežít v divočině. Naše jediné exempláře byly rozpitvány nebo vakuově vysušeny. Můžete nám obstarat živý exemplář?
+0x00000021 To zvládneme s přehledem.
+0x000000A2 Ještě něco…
+0x00000043 Vyčistěte svou mysl a podrobnosti o příšerce zvané ~mission_item~ se vám odkryjí. ~p~A samozřejmě také zvládnete otevřít Záznam misí.~p~
+0x00000040 Ano, kapitáne. Měli jste přivézt příšerku ~mission_item~. Nebyla tato informace snad nahrána do vašeho Záznamu misí?
+0x000000A6 Vidím, že potřebujete trochu času. Zatím.
+0x00000005 Prosím o pochopení.
+0x00000076 Ještě něco…
+0x00000078 Děkujeme za tu příležitost. Nashle.
+0x000000A4 Možná někdy jindy. Nashle.
+0x00000006 Jak se opovažujete ignorovat přání Hrubešů! Nestoudní blázni!
+0x00000077 Už bych měl jít. Sbohem!
+0x000000B7 Nepodařilo se vám přivézt zvíře ~mission_item~ včas. Vraťte se na planetu ~mission_source_planet~ systému ~mission_source_star~ a předejte tam špatnou zprávu.
+0x0000002B Běda! Příšerka ~mission_item~ v Zoo právě chcípla. Můžete nám sehnat náhradu?
+0x000000BB Mise dokončena. ~mission_item~ na palubě.
+0x0000002C Příšerka ~mission_item~ je vynikající lovec škůdců. Chceme ji začlenit do svého biomu, ale nejprve ji potřebujeme prozkoumat. Můžete nám obstarat jeden exemplář?
+0x000000B3 Nepodařilo se vám přivézt zvíře ~mission_item~ včas. Na planetě ~mission_source_planet~ nebudou zrovna šťastní.
+0x000000B5 Máte ~mission_item~. Nyní se vraťte na planetu ~mission_source_planet~ systému ~mission_source_star~, kde obdržíte svoji odměnu.
+0x00000012 Poslední ~mission_item~ ve Federální Zoo je po smrti. Velká rada si přeje, aby v zoo byl zastoupen každý druh na území federace. ~mission_item~ by tedy měla být ihned nahrazena. Můžete nám jednu přinést?
+0x00000025 Běda, musíme vaše požadavky odmítnout.
+0x00000001 Požadujeme příšerku ~mission_item~. Nemusíte vědět na co.  Nachází se na planetě ~mission_target_planet~ v sluneční soustavě ~mission_target_star~.
+0x00000026 Lituji, ale musíme odmítnout.
+0x00000018 ~mission_item~, přesněji řečeno kožešina této příšerky, se stává tady na planetě ~mission_source_planet~ znakem vyššího postavení. Pokud mi jednu přinesete, mohl bych se pozvednout nad ostatní a získat řadu zajímavých zakázek! Mohu vás zdržovat s tím, že byste mi jednu přinesli?
+0x00000024 Právě jsme si uvědomili, kolik máme práce.
+0x00000023 Ale ne! TO do našeho nákladového prostoru nikdy nesmí!
+0x000000BD hvězda se nachází přibližně ~mission_clue_distance~ parseků od ~mission_clue_landmark1~.
+0x0000002A Chceme zde, na planetě ~mission_source_planet~, vypustit do divoké přírody příšerku jménem ~mission_item~. Opatříte nám jednu na výzkum?
+0x000000BC Vypršel čas určený pro misi.
+0x00000027 Příšerka ~mission_item~ bohužel nepřežila naše prvotní testy. Obstaráte nám další.
+0x000000BE hvězda je od ~mission_clue_landmark1~ vzdálena od ~mission_clue_range_min~ do ~mission_clue_range_max~ parseků.
+0x00000004 Musím jít dál. Sbohem.
+0x000000AC Zopakujte své požadavky. Nemám v tom jasno.
+0x0000003C Jste nanejvýš velkorysí.
+0x0000003A Žádné problémy jakéhokoliv druhu. Ať se daří.
+0x000000AE Přivezte zvíře ~mission_item~ z planety ~mission_target_planet~.
+0x0000003B Kdykoliv. Zatím nashle.
+0x000000A9 Potřeboval bych si ještě jednou projít informace o misi.
+0x000000A8 Ano, jistě! Záznam misí. Podívám se do něj!
+0x000000AA Unikly mi podrobnosti ohledně naší mise.
+0x000000AB Rádi bychom ještě jednou viděli podrobnosti ohledně naší mise.
+0x00000075 A také…
+0x0000003D Ano, jistě! Záznam misí. Podívám se do něj!
+0x00000035 Rád bych vás požádal o něco jiného…
+0x000000B2 Máte ~mission_item~. Vaše odměna se nachází na planetě ~mission_source_planet~.
+0x000000AF Úspěch! Vraťte se do systému ~mission_source_star~.
+0x00000038 Ještě něco…
+0x00000039 Rádi jsme pomohli. Nashle.
+0x00000037 A také…
+0x000000B1 Vaším cílem je hvězdný systém ~mission_target_star~.
+0x00000073 Rád bych vás požádal o něco jiného…
+0x000000B0 Nesplněno. Vraťte se na ~mission_source_star~.
+0x00000088 Dvakrát měřte, než začnete plýtvat naším časem.
+0x00000093 Na slyšenou.
+0x00000051 Tento úkol se mi již nevejde do mého programu.
+0x00000081 Musíte jít svou vlastní cestou.~p~Ať se vám daří, přátelé.
+0x00000094 Vidím, ža máte hodně práce. Promluvíme si později.
+0x00000092 Velmi mne mrzí, že jsme vás obtěžovali. Nashle.
+0x00000015 Účelem projektu Vivisekce je zajistit nám kompletní záznamy o všech zvířatech v galaxii. Exemplář příšerky ~mission_item~ však zemřel, než jsme ho stihli pořádně použít. Můžete nám obstarat nový?
+0x0000000A Příšerka ~mission_item~ by mohla stabilizovat ekosystém na planetě ~mission_source_planet~. Můžete nám sehnat studijní vzorek?
+0x00000063 Zaměřme se na budoucnost…
+0x00000089 Rád bych vás požádal o něco jiného…
+0x0000001E Mezi naše tresty za jistý typ zločinů patří kupříkladu sežrání hladovým zvířetem, někdy i celou smečkou. Vždy proto hledáme nové druhy a ~mission_item~ se nám dokonale hodí. Můžete nám přinést jedince na ohodnocení?
+0x00000097 Musíte jít svou vlastní cestou.~p~Ať se vám daří, přátelé.
+0x0000007C Ještě něco…
+0x0000004E Ještě něco…
+0x0000004D A také…
+0x00000010 Velká rada má zájem sestavit úplný seznam druhů v rámci federace. Příšerka ~mission_item~ byla však doposud přehlížena. Můžete jednu dopravit na Institut?
+0x00000095 Prosíme o pochopení.
+0x0000005E Cha cha! To je vaše loď tak pomalá, že nedokáže včas nalézt jednu malou příšerku? ~p~ Myslím, že Vás my ~race~ příště raději vyzveme k závodu, co vy na to?
+0x0000004F Vzdávám to.
+0x00000057 Vyražte. Na nalezení zvířete na planetě ~mission_target_planet~ máte ~mission_time~ sektonů.
+0x0000008F Na slyšenou.
+0x0000008E Možná někdy jindy. Nashle.
+0x00000065 Díky, kapitáne! Vaší snahy si ceníme! ~p~Jakmile se ocitnete na planetě ~mission_target_planet~, budete mít na nalezení a zajištění příšerky zvané ~mission_item~ ~mission_time~ sektonů.
+0x00000090 Prosíme o pochopení.
+0x00000056 Ten úkol už je řádně opožděn. Jdu od toho!
+0x0000000D Spod nám přikázal prozkoumat veškeré živé bytosti, abychom zjistili, zda jsou čisté nebo nečisté. Příšerka ~mission_item~ z planety ~mission_target_planet~ je však stále neprozkoumána. Obstarali byste nám jednu?
+0x0000007F Tento úkol se mi již nevejde do mého programu.
+0x0000008D Velmi mne mrzí, že jsme vás obtěžovali. Nashle.
+0x0000008C Ještě něco…
+0x00000064 Prosíme o pochopení.
+0x00000052 Zprosťte mě, prosím, tohoto úkolu.
+0x00000080 Zprosťte mě, prosím, tohoto úkolu.
+0x0000000C Příšerka ~mission_item~ se dá použít pro likvidaci škůdců. Můžete nám jednu přinést?
+0x0000007D Raději bych se věnoval něčemu jinému.
+0x0000001D Příšerka ~mission_item~ má neobvykle silný čich a dala by se použít na lov uprchlíků, kteří přežili souboj. Přinesete nám ji k prostudování?
+0x0000008B A také…
+0x00000054 Ještě jednou díky. Zatím.
+0x00000053 Už to chápu. Ať se daří!
+0x0000009D Taková hloupost! Stačilo jen postupně shazovat náklad!
+0x0000004A Vy nepřinesli, co ~race~ požadovali; zvíře ~mission_item~. ~race~ zadali potřebné instrukce do Záznamu misí.
+0x00000061 Ano, nastaly jisté komplikace…
+0x0000004B Rád bych vás požádal o něco jiného…
+0x000000A1 A také…
+0x0000009C Jistě, jistě. Věděl jsem, že bylo beznadějné, snažit se předat tak bezvýznamnou záležitost někomu tak velkolepému. Snad byste nás mohl alespoň utěšit utracením trochy peněz v butiku?
+0x00000060 Je mi líto. Mohli bychom probrat něco jiného…
+0x0000001F Přijímám vaši nabídku.
+0x0000009F Rád bych vás požádal o něco jiného…
+0x0000007A Úkol je potřeba začít řešit ihned. Nashle.
+0x00000014 Příšerka ~mission_item~ se může ukázat jako užitečný bojovník proti škůdcům. Můžete nám obstarat jeden exemplář pro potřeby studia?
+0x00000016 Nerad vyrušuji někoho takto mocného, jako vy, avšak s politováním vám musím oznámit, že ~mission_item~ v naší zoo nedávno uhynul! Kdybych zoo věnoval jeden exemplář, jistě bych si zlepšil vyhlídky na novou smlouvu! Možná byste mi za malý obnos mohl jedno to zvíře donést?
+0x0000006A Než půjdu, mám ještě pár otázek…
+0x00000086 Jistě, jistě. Věděl jsem, že bylo beznadějné, snažit se předat tak bezvýznamnou záležitost někomu tak velkolepému. Snad byste nás mohl alespoň utěšit utracením trochy peněz v butiku?
+0x00000062 Už jsme odvedli lepší práci...
+0x0000007B A také…
+0x00000036 Než půjdu, mám ještě pár otázek…
+0x0000004C Než půjdu, mám ještě pár otázek…
+0x00000074 Než půjdu, mám ještě pár otázek…
+0x000000A0 Než půjdu, mám ještě pár otázek…
+0x0000008A Než půjdu, mám ještě pár otázek…
+0x00000083 Rasa ~race~ nechápe vaši nerozhodnost. Zcela zjevně postrádáte nějakou pevnou sílu, která by udávala váš směr. Jak politováníhodné.
+0x00000099 Rasa ~race~ nechápe vaši nerozhodnost. Zcela zjevně postrádáte nějakou pevnou sílu, která by udávala váš směr. Jak politováníhodné.
+0x0000006D Vyražte ve jménu Spoda! Rasa ~race~ očekává váš návrat. ~p~ Jakmile se ocitnete na planetě ~mission_target_planet~, budete mít na přinesení zvířete ~mission_item~ ~mission_time~ sektonů.
+0x00000020 To zní proveditelně. Beru to!
+0x0000007E Potřebuji tento úkol odmítnout.
+0x0000005D ~player_title~ ~player_creature_name~! Doslechli jsme se, že se vám nepodařilo splnit naši misi! ~p~Špehovali? Špehovali? Nikoliv, pouze jsme ochraňovali naše investice.
+0x0000009B Zajímavá volba ~player_title~ ~player_creature_name~. Možná máte k dispozici více informací, i když se to zdá nepravděpodobné.
+0x00000047 ~player_title~ ~player_creature_name~. Vaším úkolem bylo, dovézt pro náš výzkum exemplář ~mission_item~. Jsme si jisti, že poznámky ve vašem Záznamu misí jsou dostačující.
+0x00000085 Zajímavá volba ~player_title~ ~player_creature_name~. Možná máte k dispozici více informací, i když se to zdá nepravděpodobné.
+0x0000005C ~player_title~ ~player_creature_name~ - vzorek se vám nepodařilo včas získat? ~p~Systematický průzkum planety by vám býval napomohl ke kýženému výsledu. Cokoliv jiného je neefektivní. ~br~ Na 70 procent jsme s tímto výsledkem počítali.
+0x0000009E Odejít - to je něco, co ~race~ nechápou. ~player_creature_name~ nejsou ~race~.
+0x00000050 Potřebuji tento úkol odmítnout.
+0x00000087 Taková hloupost! Stačilo jen následovat bobky!
+0x000000BF hvězda se jmenuje ~mission_target_star~.
+0x00000042 Kapitáne, vaše selhání nás vskutku překvapilo! Byly jsme na převzetí ~mission_item~ zcela připraveni a nikdy nás ani ve snu nenapadlo, že byste příšerku nedoručili.~p~Zcela jistě nastaly nějaké neočekávané komplikace.
+0x00000009 Sifu Slm říká, že když ~mission_item~ kýchne, přináší to štěstí! Štěstí by se mi hodilo, takže bych rád jeden exemplář toho zvířete. Můžete mi ho přinést?
+0x000000B4 Z planety ~mission_target_planet~, nacházející se v hvězdném systému ~mission_target_star~, uneste zvíře známé pod názvem ~mission_item~. ~p~ Je známo, že ~group:star_clue~. ~p~Jakmile se na planetu ~mission_target_planet~ dostanete, budete mít na identifikaci a unesení požadovaného exempláře ~mission_time~ sektonů.
+0x0000003F Navzdory příkazům, nahraným do vašeho Záznamu misí, jste nám nepřivezli ~mission_item~. Misi okamžitě dokončete.
+0x0000003E Díky, kapitáne! Zvíře ~mission_item~ dorazilo v dobré kondici. Zde je vašich ~mission_rewards~ Sporáčů.
+0x00000044 Á jo…jasně - skutečně to jen přitěžuje, stále se muset koncentrovat a pamatovat si věci. Á vím, proč musíme být otroky detailů…Ať nás vede příroda…to je naše heslo.~p~…O čem že jsme to mluvili…nedávali jsme pozor...~p~…možná máte Záznam misí nebo tak něco...
+0x00000069 Naprosto srozumitelné, kapitáne.~p~Omlouvám se, že vás zdržuji takovými záležitostmi.
+0x00000067 Naprosto srozumitelné, kapitáne.~p~Omlouvám se, že vás zdržuji takovými záležitostmi.
+0x00000028 Testujeme na pokusných subjektech způsoby likvidace organického života. Takovýto subjekt nám opatříte: bude to ~mission_item~.
+0x0000005F ~player_creature_name~ se vrátil bez zvířete? Žádný ~mission_item~? Záležitost to je celkem nepodstatná, ztráta cti ovšem už tak nepodstatná není.
+0x00000032 ~player_title~ ~player_creature_name~ skvěle, skvěle! Máme zde odsouhlasenou částku ~mission_rewards~ Sporáčů. Rozhodně nikde neříkejte, jak jste k nim přišli!
+0x00000030 ~player_title~ ~player_creature_name~ byl jménem Velké rady odměněn těmito ~mission_rewards~ Sporáči a Záslužným certifikátem třetí třídy (bude doručen poštou).
+0x00000058 Opět vás zdravíme, přátelé.~p~Chápeme, že jste selhali. ~p~~player_title~ ~player_creature_name~ si musí zapamatovat, že vše, co stojí za to dělat, vyžaduje jasnou mysl.
+0x00000049 Ano, ~race~ netrpělivě čekají na naše zvíře - ~mission_item~! Zabloudili jste snad? Každý ví, že ~group:star_clue~!~p~ Podívejte se do svého Záznamu misí a možná zase chytíte správný směr!
+0x00000046 Všechny dotazy by měly být směřovány na Dotazovací oddělení - obzvláště potom ty, které se týkají přepravy příšerek. ~p~A jak galaktické předpisy nařizují, byly potřebné informace také nahrány do vašeho Záznamu misí.
+0x0000001B Vakuově vysušená zvířata se stávají módní nutností a já chci mít nějaké pořádně exotické! ~mission_item~ žije na planetě ~mission_target_planet~, můžete mi tu příšerku přinést?
+0x0000000E Prastaré svitky říkají, že Spod měl zvířecího společníka. Nejsme si jisti jeho identitou, avšak někteří se domnívají, že by mohlo jít o příšerku, jménem ~mission_item~.  Můžete nám ji přinést, abychom ji prozkoumali?
+0x00000031 ~player_title~ ~player_creature_name~ pro nás získal důležitá data, za což děkujeme. Zde je vašich ~mission_rewards~ Sporáčů.
+0x0000006C Výborně…to je vskutku skvělá zpráva…opravdu.~p~Dejte si na čas…však…víte co… Kochejte se krajinou…samozřejmě…jakmile budete na planetě ~mission_target_planet~, budete mít ~mission_time~ sektonů na to, abyste letecky přepravili drahého ~mission_item~ ... Takže...bavte se!
+0x0000002F ~player_title~ ~player_creature_name~ slouží rase ~race~ dobře. Vašich ~mission_rewards~ je zasloužených.
+0x00000066 Vzdor takového druhu, jako jste vy, nepřináší respekt, ale zkázu.
+0x00000045 ~player_title~ ~player_creature_name~ - slíbili jste, že rase ~race~ dodáte příšerku zvanou ~mission_item~.~p~Nedá se vám věřit, nebo je snad váš Záznam misí nespolehlivý?
+0x0000005B ~player_title~ ~player_creature_name~ - nedovezli jste ve vymezeném čase dle dohody zvíře ~mission_item~. Jsem o vašem pochybení nucen informovat Velkou radu.
+0x0000001C Naše děti rády pozorují, jak ~mission_item~ bojuje v arénách. V divočině prý žijí ještě agresivnější druhy. Přinesete nám je?
+0x00000068 Kdo asi bude inteligentnější, ~player_creature_name~ nebo zvíře ~mission_item~.
+0x0000006B Velkorysé duše. ~p~Pamatujte, že vaše loď může mírumilovné ~mission_item~ rušit. Pracujte rychle. Na splnění svého úkolu na planetě ~mission_target_planet~ budete mít ~mission_time~ sektonů.~p~Zůstávejte v klidu a dobře doleťte.
+0x0000000F Potřebujeme zvláštní cenu pro mladíka, který se zpaměti nejlépe naučil Spodova Slova. ~mission_item~ je příšerkou vhodnou k jeho věku. Stihnete nám jednu přinést ještě před začátkem Recitační soutěže?
+0x00000017 Po příšerce nazývané ~mission_item~ vznikla na planetě ~mission_source_planet~ náhle obrovská poptávka! Když mi jednu donesete, dám ji do klonovací nádrže a vydělám jmění! Přirozeně se vám za vaši námahu štědře odměním.
+0x00000098 Á…dobře… Ano, to je v pořádku. ~p~Než to nedělat srdcem…nechtěli bychom po vás, abyste museli mít co dočinění s jinou formou života.
+0x00000003 Požadujeme, abyste nám přinesli příšerku ~mission_item~.  Okamžitě vyrážíte!
+0x00000091 Vy se opovažujete vrátit k Hrubešům bez toho, co od vás bylo vyžadováno!?~p~Nehodláme se opakovat. Kde nalézt ~mission_item~, se dočtete ve svém Záznamu misí… Ten jste snad používat nezapomněli.
+0x00000041 ~player_creature_name~. Nepodařilo se vám přivézt ~mission_item~ ve stanoveném čase. Zapamatujeme si, jak jste neefektivní.
+0x00000034 ~player_creature_name~ přinese naše zvíře.~p~~race~ spokojeni. ~race~ vám dá ~mission_rewards~ Sporáčů.
+0x00000082 Á…dobře… Ano, to je v pořádku. ~p~Než to nedělat srdcem…nechtěli bychom po vás, abyste museli mít co dočinění s jinou formou života.
+0x00000007 Učitel Kližka nám vyjevil, že je třeba nalézt živoucí domov pro naše duchovní vůdce a že tímto ideálním domovem je příšerka ~mission_item~ z planety ~mission_target_planet~. Můžete mi jednu přinést?
+0x0000002D ~player_title~ ~player_creature_name~ má skvělé úspěchy. ~p~Proto od nás obdrží Sporáče v hodnotě ~mission_rewards~ a přání štěstí.
+0x00000008 Přeji si žít v souladu s přírodou a ta příšerka - ~mission_item~ - je fakt roztomilá, rozkošná část přírody, kterou chci mít jen pro sebe! Když mi jí přinesete, slibuji, že ji budu krmit, dávat jí pít, venčit jí, zkrátka starat se o ní ve všem. Zaleťte na planetu ~mission_target_planet~ a přineste mi jednu, prosííííím!
+0x0000005A ~player_title~ ~player_creature_name~ - nebyli jste nám ve vymezeném čase schopni dodat zvíře ~mission_item~? To vám nezapomeneme.
+0x00000070 Díky, díky! Doslova slintáme blahem! ~p~Určitě jsme zmiňovali jeden maličkatý detail… Po příletu na planetu ~mission_target_planet~ budete mít na zajištění našeho nákladu velkorysých ~mission_time~ sektonů. Pro tak zkušeného pilota, jako je ~player_title~ ~player_creature_name~, to jistě nebude problém. ~p~Ano, ano! Vyražte, vyražte!
+0x00000059 Je tam ~player_title~  ~player_creature_name~? ~p~Počkejte…kde je ~mission_item~? Neměli jste nám snad jeden exemplář dovézt?... Á, ono se to nepovedlo? Flákači…
+0x00000022 Uděláme, co navrhujete.
+0x00000071 Jo! Já svoji nabarvím na purpurovo! ~p~Honem, mažte! Hledání příšerky na planetě ~mission_target_planet~ vám nesmí zabrat více než ~mission_time~ sektonů.
+0x00000084 Rozumíme, ~player_title~ ~player_creature_name~. Ceníme si vaší slušnosti.~p~Vlastně nám to trochu ušetří papírování. Schválení dodatku ke smlouvě o meziplanetární přepravě příšerek vyžaduje pouze tři sta šedesát dva různých podepsaných a orazítkovaných formulářů, v trojím vyhotovení. ~p~Samozřejmě, je to pouze zlomek toho, co nařizují směrnice Standardního pracovního postupu... Měli byste vidět, kolik formulářů je potřeba na přepravu fermentovaného koření.
+0x0000006F ~player_title~ ~player_creature_name~ napomůže pokroku ve vědění, ze kterého bude mít užitek celá galaxie.~p~Ani příšerka nebyla kompromitována, musíte ji na planetě ~mission_target_planet~ identifikovat a zajistit během ~mission_time~ sektonů. ~p~Hodně štěstí.
+0x0000001A Ho ha! Ano! ~p~Dávno...dávno tomu, kdy žila příšerka jménem ~mission_item~ a byla velice zuřivá. Všichni ji hrozně chtěli. ~p~Jenže stejně rychle, jako do módy přišla, z ní zase vyšla. Proto byli všichni jedinci sesbíráni a vykázáni na planetu ~mission_target_planet~, kde nemohli urážet náš smysl pro trendy.~p~Nyní přichází její comeback a já prostě musím být první, kdo toho tvora bude mít.
+0x00000002 Á, ~player_creature_name~ je tu.~p~Toto je příšerka, kterou jsme požadovali.~p~~player_creature_name~ dostanou zaplaceno.~p~Naše interakce je u konce.
+0x0000009A Rozumíme, ~player_title~ ~player_creature_name~. Ceníme si vaší slušnosti.~p~Vlastně nám to trochu ušetří papírování. Schválení dodatku ke smlouvě o meziplanetární přepravě příšerek vyžaduje pouze tři sta šedesát dva různých podepsaných a orazítkovaných formulářů, v trojím vyhotovení. ~p~Samozřejmě, je to pouze zlomek toho, co nařizují směrnice Standardního pracovního postupu... Měli byste vidět, kolik formulářů je potřeba na přepravu fermentovaného koření.
+0x00000048 Jistě, jistě. Bývali bychom si mysleli, že jste již vyrazili…ale nevadí, nevadí.~p~Neslíbila nám snad Vaše velebnost, že nám přiveze zvíře zvané ~mission_item~? Podrobnosti smlouvy naleznete ve svém Záznamu misí.
+0x00000029 Vy se opovažujete vzít zpět slib daný Hrubešům!? Vy drzí blázni!
+0x00000055 Brzy se vrátím…tentokrát skutečně. Nashle.
+0x00000019 Jestli pro vás mám práci? Cha!~p~Nedávno jsem zahlédl známou módní ikonu ENERGI***STAR***NETOPÝRA s novým mazlíčkem. To zvíře se jmenuje ~mission_item~ a já ho nutně musím mít! Donesete mi ho?
+0x0000006E Jménem Velké rady Vám zcela upřímně děkujeme.~p~Galaktický standardní pracovní postup vám umožňuje na planetě ~mission_target_planet~ strávit plných ~mission_time~ sektonů, během kterých je zapotřebí zajistit příšerku označovanou jako ~mission_item~. ~p~Přejeme vám - ~player_title~ ~player_creature_name~ - hodně štěstí.
+0x0000000B Žlázy, které má příšerka ~mission_item~, mohou vytvářet chemikálii, která přirozeně reguluje nebezpečného parazita zemědělských plodin. Zcela nám to však potvrdí jen další studie. Můžete nám toto zvíře obstarat?
+0x00000033 Jůůůůů. Díky! Bude se jmenovat Dečka!~p~Dám vám ~mission_rewards~ Sporáčů!
+0x0000002E Ó ~player_title~ ~player_creature_name~!~p~Zázračný tvor ~mission_item~...tak veli...přirozený. ~p~Rádi bychom vám darovali více než jen ~mission_rewards~ Sporáčů…co třeba, velkou pusu?
+0x00000011 Věříme, že příšerka ~mission_item~, je nebezpečným zdrojem nemoci, která může infikovat náš druh. Potřebujeme toho tvora opatrně prozkoumat. Víme, že váš druh je proti veškerým projevům této infekce imunní. Nechtěli byste toho tvora dopravit do našich lékařských laboratoří?
+

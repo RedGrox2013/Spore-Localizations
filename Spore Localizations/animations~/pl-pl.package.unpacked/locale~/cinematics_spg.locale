@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x00000028 Skan musiał uruchomić systemy obronne kolonii. Te roboty nie wyglądają przyjaźnie... Chwileczkę... Odbieramy sygnał...
+0x0663A00A Napęd międzygwiezdny z wraku reaguje na sygnalizator umieszczony w pobliskim układzie słonecznym, który pasuje do współrzędnych znajdujących się w pamięci napędu. To pewnie planeta macierzysta tej cywilizacji. Być może wciąż potrzebują pomocy...
+0x06304FA8 Rakiety i napęd międzygwiezdny, hmmm. Ten napęd ma chyba zaprogramowane współrzędne, a uszkodzenia wraku sugerują, że odbyła się tu jakaś walka. Ten statek został zapewne wysłany po pomoc z jakiejś planety, ale jego załoga nie zdołała wykonać zadania.
+0x0000001A To rozbity statek kosmiczny! Do tego emituje dziwny sygnał radiowy. Podleć do niego i użyj skanera, by zbadać miejsce katastrofy.
+0x00000004 Coś się pojawia na pokładowym radarze...
+0x0000001C Za późno! Te ruiny są prawdopodobnie jedyną pozostałością po macierzystej kolonii kosmitów z wraku. Przeskanowanie ruin może dostarczyć informacji o tym, co tu zaszło.
+0x0000001B Kosmici! Ale żadnych oznak życia. Zdaje się, że przed śmiercią nakreślili szyfrem jakąś swoistą mapę. Chwileczkę! Wrak uaktywnił nasz promień ściągający! Za chwilę na pokładzie znajdą się jakieś przedmioty!
+0x0000001D Skanowanie niczego nie dało, ale najwyraźniej wywołało jakąś reakcję… Radar pokazuje pewną aktywność...
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B7833 ~br~~br~Jestem Steve. ~br~~br~~br~Za chwilę otrzymasz moc. ~br~~br~Tak, właśnie, TĘ moc. ~br~~br~Moc tworzenia i rozprzestrzeniania życia, inteligencji i wiedzy w całym kosmosie. ~br~~br~~br~~br~Używaj tej mocy rozważnie. ~br~Używaj jej, abyśmy pewnego dnia mogliśmy się połączyć...~br~~br~~br~...To znaczy... Chciałem powiedzieć...~br~To tylko taki skrót myślowy. ~br~~br~~br~Och... Jeszcze jedno. ~br~~br~Już sprzedaliśmy prawie wszystkie rezerwacje na wspaniałe wczasy w jednym z naszych większych układów słonecznych... W którym, należy nadmienić, znajduje się pewna unikatowa planeta. ~br~~br~~br~~br~Jeśli będziesz w pobliżu, z radością zapraszamy na darmowy poczęstunek i krótką prezentację. ~br~~br~~br~Szukaj trzeciego kamienia od gwiazdy Słońce.~br~
+0x067B778C ~br~~br~Witaj, przyjacielu!~br~~br~Udało ci się dotrzeć bardzo daleko i pokonać wiele przeszkód.~br~~br~W trakcie tej podróży zdarzyło ci się zetknąć z wieloma niezwykle zróżnicowanymi krewniakami. ~br~~br~~br~Bardzo niewielu z nich dotarło aż tak daleko.~br~~br~Twoje heroiczne wysiłki dowiodły, że zasługujesz ~br~~br~na przejście na wyższy poziom istnienia. ~br~~br~~br~Twój kosmos jest tylko jednym z wielu wszechświatów... ~br~~br~Istnieją niezliczone światy, niedostrzegalne, choć połączone. ~br~~br~~br~Twoje twórcze trudy nie pozostały niezauważone;~br~~br~w istocie wywarły one wpływ na te inne, nieznane ci światy.~br~~br~~br~I wzbogaciły je również.~br~~br~~br~A teraz Ty musisz dołączyć do nas...~br~~br~~br~Dołącz do nas! ~br~...Cha, cha, cha!~br~~br~~br~Tylko żartuję. To nic strasznego. ~br~Naprawdę. Nadchodzące czasy będą dobre. ~br~~br~A nawet wyśmienite. ~br~Niektórzy z was zastanawiają się pewnie... ~br~Co to właściwie za tajemniczy głos, który tyle wie i dysponuje taką potęgą? ~br~~br~~br~~br~~br~Cieszę się, że pytacie...~br~
+
+# Terraform
+
+0x05FA8A51 Gratulacje! Udało ci się przekształcić i skolonizować planetę, dzięki czemu Twoje imperium powiększyło się. Przyprawę wydobytą w kolonii można sprzedać innej cywilizacji.
+
+################
+
+0x0000000B Ekosystem tej planety jest zagrożony. Zabij chore zwierzęta, zanim zarażą resztę swojego gatunku i wywołają efekt domina, prowadzący do zapaści całej miejscowej piramidy pokarmowej.
+0x00000007 Wzór Drake’a jest słuszny... Oto żywa obca cywilizacja. Nie jesteśmy sami w kosmosie! Zdaje się, że obcy przysłali przedstawiciela. Porozmawiaj z nim — otwórz swój panel komunikacji.
+0x05B15258 Twoje urządzenie SETI wykryło dziwne sygnały radiowe pochodzące z tej gwiazdy. Leć tam i zbadaj sytuację!
+0x063BB6D6 Gratulacje, zdobywasz tytuł Komodora! Twoja Gwiezdna Flota może teraz składać się z jednego statku więcej.
+0x063ABD3D Gratulacje, zdobywasz odznakę i tytuł Kapitana!
+0x05B1CB68 Ta planeta daje nietypowe wyniki skanowania. Zbliż się i zbadaj sprawę!
+0x05F9E801 Po założeniu szlaku handlowego przyprawa będzie przesyłana automatycznie między imperiami. Takie partnerstwo jest pierwszym krokiem do zakupu danego układu.
+0x05FA70DA Czas na wojnę! Użyj swojego uzbrojenia i zniszcz wszystkie kolonie na tej planecie, aby zmusić przeciwnika do poddania się. Potem zdecyduj, czy chcesz zniszczyć ten świat, czy włączyć go do swojego imperium.
+0x05FA8A4D Planety na zielonych orbitach łatwiej przekształcać i kolonizować niż planety na czerwonych lub niebieskich orbitach.
+0x063BB6F6 Gratulacje, zdobywasz niepowtarzalny tytuł Istoty Najwyższej!
+0x063BB6DA Gratulacje, zdobywasz tytuł Admirała!
+0x063BB6E3 Gratulacje, awansujesz na stopień Słynnego!
+0x063BB6DF Gratulacje, zdobywasz tytuł Czcigodnego! Awans oznacza, że Twoja Gwiezdna Flota może być liczniejsza.
+0x063BB6F2 Gratulacje, awansujesz na stopień Wszechpotężnego!
+0x063BB6EE Gratulacje, zdobywasz tytuł Legendarnego!
+0x063BB6E8 Gratulacje, zdobywasz tytuł Wielkiego! Awans oznacza, że Twoja Gwiezdna Flota może być liczniejsza.
+0x0000002F Ten obszar jest kontrolowany przez cywilizację pochodzącą z tego układu. Twoja obecność na jej terytorium została uznana za akt agresji.
+0x064BD3E4 Na tej planecie nie wykryto żadnych obiektów.~br~Coś jest nie tak...
+0x00000014 Czyżby to była kolonia Groksów? Cała galaktyka dobrze zna ich bezduszność. Strzeż się!
+0x00000030 To jest terytorium wroga. Ta cywilizacja będzie ponawiać ataki tak długo, jak będziesz przebywać w tym obszarze. Musisz podjąć decyzję: uciekać, walczyć czy zawrzeć pokój. A zatem?
+0x063BB6FA Gratulacje! Osiągasz najwyższy stopień rozwoju. Zdobywasz tytuł Wszechmocnego! Dobra robota!
+0x063BB6D0 Gratulacje, otrzymujesz tytuł Komandora! Możesz stanąć na czele gwiezdnej floty.
+0x00000029 Odkrywasz dziką planetę, pełną zwierząt i roślin, dzięki którym można zaszczepić życie na innych ciałach niebieskich. Dzikie planety obfitują też w źródła przyprawy i mogą być kolonizowane.
+0x0000002B Odkrywasz jałową planetę. Na jałowych planetach można zakładać niewielkie kolonie. Można też ulepszać typy planet, tak, aby mogły stanowić kwitnące placówki imperium.
+0x05FA8A4E Kolonie można zakładać na planetach dowolnego typu, począwszy od jałowych księżyców, a skończywszy na żyznych oazach typu 3. Rozwijające się kolonie wydobywają przyprawę, którą można sprzedawać.
+0x060C72DC Udało ci się wydobyć przyprawę! Przyprawa jest cennym towarem. Zabieraj ją ze swych kolonii i planety macierzystej przy każdej wizycie.
+0x0000000F Twój statek kosmiczny, ~ufo_name~, odniósł zbyt duże uszkodzenia i został zniszczony.
+0x05FA8A4F Gratulacje! Udało ci się powiększyć swoje imperium. Wydajność działania kolonii i jej rozmiar są ograniczone typem planety. Inwestuj w terraformowanie, a potem dodawaj kolonie i budynki w celu uzyskania najlepszych rezultatów.
+0x0601FE99 Statek kosmiczny, ~ufo_name~, uległ zniszczeniu, więc Twoi sprzymierzeńcy wrócili do swoich macierzystych układów słonecznych, a Ty musisz się zaopatrzyć w nowy statek. Aby odtworzyć swoją flotę, odwiedź sprzymierzeńców i ponownie uzyskaj ich pomoc.
+0x00000001 Start! Udało ci się skonstruować statek nadający się do lotów kosmicznych!~br~Przestrzeń wzywa, kosmos czeka, cały wszechświat jest na wyciągnięcie ręki.~br~Rzecz jasna jeśli nauczysz się pilotować tego gruchota...
+0x00000020 Planeta ~planet_name~ została przez ciebie ogłoszona rezerwatem przyrody. Możesz zebrać maksymalnie ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ zwierząt i umieścić je w tym schronieniu.
+0x05FA2A28 Twoje działania zyskały ci sympatię tego imperium. Nawiąż łączność i użyj umiejętności dyplomatycznych, by zaproponować mu przymierze.
+0x05B1A752 To zasadzka! Piraci nadawali fałszywy sygnał, by zwabić cię w pułapkę. Przygotuj się do walki!
+0x05B1568D Kosmiczni piraci! ci faceci będą stanowić problem. Może wejdziesz w przestrzeń okołoplanetarną, by ich odeprzeć?
+0x05F776D6 W miarę zbliżania się do jądra galaktyki coraz trudniej wykreślać kurs między studniami grawitacyjnymi licznych skupisk gwiezdnych. Twój zasięg lotu został zmniejszony w celu osiągnięcia większej dokładności.
+0x00000010 Osiągnięcia w dziedzinie klonowania i awaryjnej teleportacji umysłu uchroniły cię przed śmiercią. Wracasz na swoją planetę macierzystą, gdzie Twoje imperium buduje ci nowy statek kosmiczny: ~ufo_name~.
+0x0000002C Twój statek kosmiczny, ~ufo_name~, odniósł zbyt duże uszkodzenia i został zniszczony.~br~Osiągnięcia w dziedzinie klonowania i awaryjnej teleportacji umysłu uchroniły cię przed śmiercią. Wracasz na planetę macierzystą, gdzie czeka nowy statek.
+0x064E8373 Zbudowaliśmy ci nowy statek. Postaraj się go tym razem nie zepsuć!
+0x0000002E Terytorium, na które wkraczasz, kontroluje ~race~. Twoje stosunki z tą cywilizacją są kiepskie, dlatego uznaje to ona z wrogie działanie i będzie cię atakować.
+
+# Uplift Game
+
+0x00000022 Udało ci się rozwinąć u jednego z miejscowych gatunków inteligencję pozwalającą na założenie plemienia!
+
+#System Capture
+
+0x06610F0E Gratulacje! Dzięki zastosowaniu środków dyplomatycznych do osiągnięcia trwałego porozumienia handlowego udało ci się wynegocjować dobre warunki i zakupić ten układ.
+0x06610F0B Gratulacje! Dzięki wojskowej potędze udało ci się pokonać wrogów i zdobyć ich układ słoneczny.
+0x06610F0C Gratulacje! Dzięki wojskowej potędze udało ci się pokonać wrogów i zdobyć ich układ słoneczny.
+0x06610F0D Gratulacje! Dzięki zastosowaniu środków dyplomatycznych do osiągnięcia trwałego porozumienia handlowego udało ci się wynegocjować dobre warunki i zakupić ten układ.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Zostajesz nagrodzony Kosturem życia.
+
+# Rares
+
+0x0000000C Pokładowy radar wykrył ciekawy obiekt na tej planecie!
+0x0643D130 Narzędzie kształtowania planety! Za jego pomocą możesz tworzyć znakomite planety.
+0x0000001E Radar pokładowy odebrał nietypowy typ sygnału, niepodobny do żadnego ze znanych.
+0x0000000D Galaktyka jest pełna rzadkich obiektów, posągów i skamieniałości. Jeden z tych unikatowych obiektów znajduje się właśnie tu! Porwij go i sprzedaj za grubą gotówkę — albo spróbuj zdobyć całą kolekcję, by zażądać jeszcze wyższej kwoty.
+

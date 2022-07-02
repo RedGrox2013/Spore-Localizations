@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x067710B2 ~star_name~の~planet_name~が集落ステージに進化しました！
+0x06771164 ~star_name~の~planet_name~が文明ステージに進化しました！
+0x06771171 ~star_name~の~planet_name~が宇宙ステージに進化しました！
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 アンロックされたバッジ
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 このツールを使うには、動物がいなければなりません！
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 艦隊に仲間の船を追加する権利を獲得しました。
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A このツールは、帝国の惑星でのみ使用可能です。
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD コロニーは、スパイスから遠すぎます。
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 このツールは、水上では使用できません。
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 スパイスを集めました。
+
+#standard....
+
+0x00000008 ~count~ of ~tribe_count~ ~^p^count^tribe^tribes~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000017 All tribes on ~planet_name~ worship you! [not in use]
+0x0000000B Your expedition has gone bankrupt. Better wait for a tow. [not in use]
+0x00000006 False Prophet! This tribe thinks you're religion is for wussies. [not in use]
+0x0000003C You've failed at getting this city to worship you. Try another. [not in use]
+0x0000003B Every city on this planet now worships you!  [not in use]
+0x00000039 ~count~ of ~city_count~ ~^p^count^city^cities~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x0000001F ~generic_name~ became extinct. You are placing things too close to each other. Try placing on the other side of the planet. [not in use]
+0x00000031 この惑星は、すでに獲得されています。
+0x00000044 グロックス感知メーターは、たった今「ちょっと怖い」に上がりました。
+0x00000023 敵の宇宙船が破壊されました！
+0x00000042 グロックス感知メーターは、たった今「そんなに怖くない。怖がった方がいい？」に上がりました。
+0x00000043 グロックス感知メーターは、たった今「そんなに怖くない。怖がった方がいい？」に下がりました。
+0x0000004A 毒性が強すぎて、貨物室には載せられません。
+0x0000002E 動物は、溶岩層では生き延びられません。地上に置いてください。
+0x00000046 グロックス感知メーターは、たった今「とんでもなく怖い」に上がりました。
+0x00000034 この道具を使うには、お金が足りません。
+0x0000001A あなたと~race~の同盟関係は解消されました。
+0x0000001B 生命維持が危険な状態です！
+0x00000022 ~generic_name~の種族は、飢餓が原因で絶滅しました。
+0x065BCDA0 注意：他の惑星から物を盗むと、その惑星にある帝国を怒らせることになります。
+0x00000016 あなたは自分の建物を破壊しています。
+0x00000037 彼らを撃ち続ければ、彼らはいずれ撃ち返してきます。
+0x00000048 グロックス感知メーターは、「とんでもなく怖い」を示しています。
+0x04BD78A0 あなたの仲間は、すでにあなたを助けています！
+0x05790C96 ~race~からの交信です！
+0x00000047 グロックス感知メーターは、「ちょっと怖い」を示しています。
+0x0000002C 草食動物は、この惑星では生き延びられません。植物を増やしてください。
+0x04F77C3E その種族は、すでにこの場所に存在しています。
+0x00000018 ~planet_name~にコロニーを設置しました！
+0x04BD7870 あなたを助けに来てくれる仲間は誰もいません！
+0x04BD78A5 この惑星に戦争はありません。仲間の助けは必要ありません。
+0x00000045 グロックス感知メーターは、たった今「ちょっと怖い」に下がりました。
+0x00000035 あなたの仲間の船の1つが破壊されました！
+0x00000028 植物は、水中では生き延びられません。地上に植えてください。
+0x04E3AB1A コロニーの中に置くことはできません。
+0x0000001D ~tool_name~を~count~見つけました！
+0x0000000E 調査は成功しました。全てのデータは、スポアペディアに記載されています。
+0x04E3AAFD 地表に設置してください。
+0x0000000C 安全なコロニーに移動して、宇宙船を修理してください。
+0x06159AE6 ~race~は、あなたとの同盟への興味を失っています。彼らを訪ねてください。
+0x0000001C 貨物室が一杯です。すき間を作らなくてはいけません。
+0x00000002 あなたに十分に助けられているのを見て、味方の船が1隻帰還しました。
+0x00000020 ~generic_name~の種族は、植物の不足が原因で絶滅しました。
+0x05483AB4 野生動物の聖地に、~creature_name~を追加しました。この保護区には~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~の動物が収容可能で、現在~animal_count~の動物がいます。
+0x00000026 教えを広めなさい。ただし、一度に惑星ひとつずつです。
+0x00000021 ~generic_name~は絶滅しました。
+0x06037BB6 水位が上昇したので、この惑星状の何かが絶滅しました。
+0x04E39F9A 惑星あたり1つしか持つことはできません！
+0x0000003E ~race~と~race2~は平和協定を結びました。
+0x061DBC92 標的は射程距離外です。
+0x05C2BC26 少なくとも植物と動物を一列揃えないと、惑星を向上することはできません！
+0x04F7B030 この肉食動物は、この惑星では生き延びられません。草食動物を追加してください。
+0x0591CCD5 あなたは珍しい銀河の形態を発見しました。
+0x0591CCD6 あなたは珍しい惑星を発見しました！
+0x00000040 ~race~と~race2~の同盟は破棄されました。
+0x04F615F5 保存するには、惑星を離れてください。
+0x0000002B その種族は水中では生き延びられません。地上に置いてください。
+0x00000032 建物を追加して、コロニーを発展させてください。
+0x0000003F ~race~と~race2~は同盟を結びました。
+0x0000002A 植物は、溶岩層では生き延びられません。地上に植えてください。
+0x00000029 この植物は、この生態系に適した大きさでありません。違う大きさの植物を試してください。
+0x0637C896 罠です！　宇宙海賊の奇襲です！
+0x00000003 同盟国が、艦隊に加えるために新しく船を派遣してきました。
+0x00000036 伝説のアーティファクトを発見しました。
+0x0580C3FA そのツールは、他の帝国の惑星でのみ使用可能です。
+0x06170F80 このツールは、撃つ標的がないと使えません。
+0x0000000F T-スコアを上昇させるまで、この惑星にコロニーを追加することはできません。
+0x04F7B80D これが~planet_name~上で生き延びるには、T-スコアを上げる必要があります。
+0x00000001 そのツールは、母星では使うことはできません。
+0x00000019 母星に戻ってください。次の任務が待っています。
+0x0000001E T-スコアが下降したので、この惑星状の何かが絶滅しました。
+0x0000000D ~planet_name~のT-スコアは、現在~terraform_level~です。
+0x0637C897 ツール入手：~tool_name~
+0x066F10B8 コロニーからの通信が入っています！
+0x066F10AB 母星からの通信が入っています！
+0x00000027 回収した相手を落としてしまうと、彼らは死んでしまいます。下ろす時は慎重に。
+0x06707FAA 生態系の隙間は埋まっています。他の種が入る余裕はありません。
+0x0541A219 惑星のT-スコアを安定させました。
+0x06527A66 ~race~はあなたとの交易ルートに興味を失っています。関係性を向上させてください！
+0x04ED0A12 あなたは42個の素晴らしいツールを手に入れ、珍しい銀河の形態を発見しました。
+0x04EA4FD8 惑星のT-スコアを1にして、グロックスを殺しました！
+0x06527A69 ~race~との交易ルートは、断絶されました。
+0x04D28917 新しいツールが使用可能です。
+0x057F4C52 このツールを使うには、エネルギーが足りません。
+0x00000005 ~planet_name~の信者は技術文明と化しました。[not in use]
+0x0000002F コロニーは水中では生き延びられません。地上に建設してください。
+0x00000010 ~rare_name~を発見しました。~rare_group~コレクションの~rare_count~個の内の１つです。
+0x00000049 関係性が悪くなったので、~race~はミッションをキャンセルしました。
+0x00000011 ~planet_name~は宇宙海賊に攻撃されています。
+0x0000003D ~race~は、~race2~に対して宣戦布告をしました。
+0x04EA4FD9 あなたのスキャンは、この惑星の住人を発見できませんでした。母星に戻って報告してください。
+0x00000004 ~race~から、宣戦布告を受けました。戦闘に備えてください。
+0x04E38CF9 そのツールは、コロニーを建設した惑星でのみ使用可能です。
+0x065BCDA7 注意：市民を回収すると、その惑星にある帝国を怒らせることになります。
+0x00000025 ~race~が~star_name~の支配権を獲得し、新しい惑星をコロニー化しました！
+0x00000041 ~race~は破壊されました。
+0x0567757C ~star_name~にいるあなたの交易相手は、あなたに好印象を持っています。おそらく~race~は外交上の要請を受け入れる準備はあるでしょう。
+0x05807D8E ~race~は、あなたとの戦争を停止しました。
+0x0000002D クリーチャーを落としてしまうと、彼らは死んでしまいます。回収または降ろす時は慎重に。
+0x00000024 ~race~は、~star_name~の支配権を失いました。
+0x0541A247 生態系の一部を完了しました。新しいコロニーが使用可能です。
+0x0000003A ここには定住できません。~star_name~は、すでに別の種族が住んでいます。
+0x0546A708 この野生種保護区には、もう動物を収容することはできません。
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 このツールは、帝国の惑星では使用できません。
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 コロニーは、スパイスの近くに建設しなくてはいけません。
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 野生種保護区ではこのツールは使用できません。
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 このツールは、野生の惑星でのみ使用可能です。
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 このツールは、都市の上では使用できません。
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x064C024E You must raise the T-Score on the planet to enter the Colony Planner. [not in use]
+0x0654C9DF この惑星は降伏しましたが、星系にはまだ他にも惑星があります。
+0x065BAC9F このツールは、壮大なクリーチャーには使えません。
+0x065BFFFA これ以上のスパイスを集める余地がありません。
+0x0654CA48 都市は降伏しました。
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F すでにミニUFOを持っています。
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 艦隊には、船を追加する空間がありません。
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC 高すぎるので、このツールは使えません。
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 このツールは、交易ルートを結んでいる星系でのみ使用可能です。
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA この惑星のT-スコアが低すぎるので、そのツールは使えません。
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 コロニーがスパイスに近すぎます。
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 このツールは使用できません。惑星は最高のレベルにあります。
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 ~vehicle_name~は、すでにスキャンされています。
+0x04374125 ~building_name~は、すでにスキャンされています。
+0x04374114 新しい建物、~building_name~がスキャンされ、スポアペディアに登録されました。
+0x04377191 新しいビークル、~vehicle_name~がスキャンされ、スポアペディアに登録されました。
+0x043AD9F2 ~ufo_name~は、すでにスキャンされています。
+0x043AD9E0 新しい宇宙船、~ufo_name~がスキャンされ、スポアペディアに登録されました。
+0x03FFE77B 新しい植物、~game_plant_name~がスキャンされ、スポアペディアに登録されました。
+0x03FFE7FB ~game_plant_name~は、すでにスキャンされています。
+0x03FFE7FF 新しい動物、~creature_name~がスキャンされ、スポアペディアに登録されました。
+0x03FFE803 ~creature_name~は、すでにスキャンされています。
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 この惑星では、モノリスを使うことはできません！
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 建物から近すぎるので、このツールを使うことはできません。
+

@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gratulacje! Pan Zagadka jest pod wrażeniem twej inteligencji i twego sprytu. Ma nadzieję zaskoczyć cię kiedyś w przyszłości nową zagadką.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Czas na rozwiązanie tej zagadki niech się nie dłuży...
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Jeśliś w rozterce, obu rąk swych użyj.
+
+# Act 2 description
+
+0x00000101 Każda karta otwiera drzwi w takim samym kolorze. Tylko jedne z nich prowadzą do tajemniczego klucza.
+
+# Adventure name
+
+0x00000002 Magiczne Wrota Pana Zagadki
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Tajemniczy klucz
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 W mym tajemniczym namiocie znajdziesz zagadki, które będą stanowić ogromne wyzwanie dla twojego rozumu... Wejdź do środka...
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Pan Zagadka
+
+# Act 3 description
+
+0x00000025 Udało Ci się znaleźć klucz! Teraz skorzystaj z magicznego teleportera i daj klucz panu Zagadce.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Zwę się Pan Zagadka. Mym celem w życiu jest raczenie gości zagadkami.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Pozdrowienia! Witaj, witaj! Zapraszam do zabawy.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Nie pogub się. Powodzenia!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Jeśli spryt ci dopisuje, zdobędziesz mój klucz. Jeśli nie... Cóż, nie uprzedzajmy faktów...
+
+# Act 1 name
+
+0x00000020 Spotkaj się z Panem Zagadką
+
+# 'Adventure lost' message
+
+0x00000012 Nie poddawaj się. Czy przyszło ci na myśl użyć obu rąk?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Spotkamy się kiedyś znowu, z pewnością!
+
+# Act 3 name
+
+0x00000024 Udało się!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Że inteligent z ciebie jest nie lada!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 Z pewnością się ze mną zgodzisz, mój gościu.
+
+# Adventure description
+
+0x00000003 Pan Zagadka wzywa cię do stawienia czoła próbie sprytu. Czy uda ci się zdobyć od niego tajemniczy klucz?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 zagadka, Pan Zagadka, bramy, klucze
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Mój klucz! Mój klucz! Zaiste powiadam...
+
+# Act 4 name
+
+0x00000102 Wyśmienita robota!
+
+# Act 1 description
+
+0x00000021 Nigdy nie wiadomo, co też Pan Zagadka ma w zanadrzu. Co dziś skrywa jego tajemniczy namiot?
+
+# Act 4 description
+
+0x00000103 Pan Zagadka jest pod wrażeniem!
+
+# 'Adventure start' message
+
+0x00000010 Pan Zagadka przemierza galaktykę przyprawiając tak młodych, jak i starych o skrajną konsternację. Jakież to przynosi wyzwania na tę jałową planetę?
+
+# Act 2 name
+
+0x00000100 Tajemniczy klucz
+

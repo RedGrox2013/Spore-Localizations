@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Essa habilidade desativa torres e estruturas de entretenimento, causando infelicidade.
+0x0001003F Nuvem Negra
+
+# CLG_Plant
+
+0x00000043 Células herbívoras consomem uma dieta baseada em matéria vegetal.
+0x00000042 Herbívoro
+
+# CRG_CLG_Plant
+
+0x00010022 Canto da Sereia
+0x00010023 Use esta habilidade para subjugar temporariamente todas as criaturas nas proximidades. Isto torna mais fácil a tarefa de socializar com elas.
+
+# SPG_CRG_Mix
+
+0x0001004E Essa habilidade acelera a viagem pelo espaço interestelar.
+0x0001004D Demônio Veloz
+
+# CVG_CRG_Attack
+
+0x00010037 Bomba Poderosa
+0x00010038 Essa habilidade danifica todas as estruturas e veículos em seu raio de efeito.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Revolta Fanática
+0x0001006C Converte todas as cidades
+
+# SPG_Wanderer_Tool
+
+0x00010067 Embaralhador de Espécies
+0x00010068 Torna aleatória a mistura de espécies num planeta.
+
+# CVG_Religious
+
+0x00000056 As civilizações religiosas empregam o poder das palavras e idéias para converter outras nações ao seu modo de pensar.
+0x00000055 Religioso
+
+# SPG_TRG_Social
+
+0x00010052 Essa habilidade melhora o seu relacionamento inicial com raças alienígenas.
+0x00010051 Saudações Graciosas
+
+# TRG_Mix
+
+0x0000004F Hábil
+0x00000050 As tribos hábeis aproveitam o momento, atacando ou formando alianças conforme necessário. Elas são boas aliadas, mas tome cuidado.
+
+# CVG_CRG_Mix
+
+0x0001003C Essa habilidade faz que os veículos inimigos no raio de ação ataquem uns aos outros.
+0x0001003B Bomba Suborno
+
+# CVG_TRG_Mix
+
+0x00010042 Essa habilidade acelera a compra de cidades.
+0x00010041 Ataque Publicitário
+
+# SPG_CRG_Social
+
+0x0001004C Essa habilidade torna todas as suas colônias felizes e reduz as chances de revolta.
+0x0001004B Desempenho Satisfatório
+
+# SPG_CVG_Military
+
+0x00010056 Essa habilidade funciona como repelente de piratas, reduzindo as chances de ataques.
+0x00010055 Piraticida
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000041 Células carnívoras consomem uma dieta baseada em carne.
+0x00000040 Carnívoro
+
+# TRG_CLG_Mix
+
+0x00010029 Peixe Voador
+0x0001002A Esta habilidade permite que o chefe da tribo invoque uma serpente para assustar os peixes do mar.
+
+# SPG_TRG_Attack
+
+0x00010050 Essa habilidade dá descontos em todas as ferramentas de combate.
+0x0001004F Negociante de Armas
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Disponível no Estágio de Criatura
+0x067775FA Disponível no Estágio Espacial
+0x067775E7 Disponível no Estágio de Civilização
+0x067775D9 Disponível no Estágio Tribal
+
+# SPG_Trader
+
+0x00000061 Comerciante
+0x00000062 Os comerciantes estão interessados nos lucros. A única aliança deles é com as poderosas Sporegranas.
+
+# SPG_Bard
+
+0x00000057 Bardo
+0x00000058 Os Bardos são os artistas extrovertidos e sociáveis do universo. A galáxia é o quintal deles.
+
+# SPG_Warrior_Tool
+
+0x00010065 Grupo de Ataque
+0x00010066 Abre um portal pirata místico, criando caos em um planeta.
+
+# SPG_Diplomat
+
+0x0000005D Diplomata
+0x0000005E Os diplomatas são negociadores e solucionadores de problemas. A paz só chegará à galáxia pela comunicação aberta entre as espécies.
+
+# CVG_Economic
+
+0x00000054 Civilizações econômicas usam dinheiro e rotas comerciais para influenciar outras nações. Elas farão alianças, quando for mais vantajoso.
+0x00000053 Econômico
+
+# CLG2_Discoverer
+
+0x00000102 Descobridor
+0x00000103 Descrição do Descobridor
+
+# SPG_Knight_Tool
+
+0x00010069 Invocar Mini-U
+0x0001006A Invoca um clone em miniatura da sua nave para ajudá-lo nas suas aventuras.
+
+# CLG2_Killer
+
+0x00000100 Matador
+0x00000101 Descrição do Matador
+
+# SPG_Warrior
+
+0x00000065 Guerreiro
+0x00000066 Os guerreiros pegam o que querem e nunca pedem permissão. A galáxia é um prêmio a ser conquistado pelo mais forte.
+
+# SPG_Wanderer
+
+0x00000067 Errante
+0x00000068 Os errantes querem experimentar um pouco de tudo. A galáxia é enorme e eles querem conhecê-la toda.
+
+# CVG_CRG_Social
+
+0x00010039 Dervixe Diplomático
+0x0001003A Essa habilidade melhora seu relacionamento com a nação selecionada por você.
+
+# CRG_Attack
+
+0x00000047 Criaturas predatórias passam a vida procurando presas. Eles são mais propensos a extinguir uma espécie inteira do que a "dançar" ou "encantar".
+0x00000046 Predador
+
+# TRG_CRG_Mix
+
+0x0001002F Mestre das Feras
+0x00010030 Essa habilidade permite que o chefe encante animais próximos, que ajudarão na luta ou socialização.
+
+# CVG_CLG_Meat
+
+0x00010032 Essa habilidade torna seus veículos invulneráveis a danos por um tempo limitado.
+0x00010031 Invulnerabilidade
+
+# TRG_CLG_Meat
+
+0x00020025 Armadilhas
+0x00020026 Esta habilidade permite que o chefe da tribo prepare armadilhas para capturar animais selvagens.
+
+# SPG_CLG_Meat
+
+0x00010043 Senhor da Força
+0x00010044 Essa habilidade aumenta a eficiência de todas as armas.
+
+# SPG_CLG_Mix
+
+0x00010047 Generalista Gentil
+0x00010048 Essa habilidade dá a você um desconto em todo o equipamento padrão.
+
+# SPG_TRG_Mix
+
+0x00010053 Febre Colonial
+0x00010054 Essa habilidade dá a você um desconto em todas as ferramentas de colonização.
+
+# Zero
+
+0x06941DC3 Anos
+0x06941DC0 Bilhões
+0x06941DC2 Milhares
+0x06941DC1 Milhões
+
+# SPG_CVG_Religious
+
+0x0002005A Essa habilidade diminui a taxa de desastres biológicos em todas as suas colônias.
+0x00020059 Guardião Verde
+
+# CLG_Mix
+
+0x00000045 Células onívoras comem qualquer tipo de comida disponível.
+0x00000044 Onívoro
+
+# SPG_Bard_Tool
+
+0x00010058 Use para produzir um efeito calmante em raças alienígenas, melhorando temporariamente o seu relacionamento.
+0x00010057 Canção Calmante
+
+# CRG_Social
+
+0x00000147 Social
+0x00000048 Criaturas sociais estão constantemente procurando novos amigos e aliados. Encontrar uma nova espécie é a hora principal do dia para elas.
+
+# CRG_Mix
+
+0x00000049 Adaptável
+0x0000004A Criaturas adaptáveis podem ter muitos amigos e inimigos. Eles fazem escolhas de acordo com a situação atual.
+
+# SPG_CLG_Plant
+
+0x00010045 Social Suave
+0x00010046 Essa habilidade dá a você um desconto imediato de negociação em todas as ferramentas sociais.
+
+# CRG_CLG_Meat
+
+0x00010020 Rugido Furioso
+0x00010021 Use esta habilidade para fazer que todas as criaturas à sua volta fujam de medo.
+
+# CVG_CLG_Plant
+
+0x00010033 Aura Curativa
+0x00010034 Essa habilidade conserta todos os seus veículos e estruturas.
+
+# SPG_Shaman
+
+0x00000063 Xamã
+0x00000064 Os xamãs entendem que todas as formas de vida compartilham um vínculo comum. Toda a galáxia existe em todos nós.
+
+# SPG_Ecologist
+
+0x0000005A Os ecologistas são protetores da natureza. As espécies que tentam explorar e corromper a galáxia devem ser exterminadas.
+0x00000059 Ecologista
+
+# CVG_TRG_Attack
+
+0x0001003D Bomba Engenhoca
+0x0001003E Essa habilidade causa danos a estruturas e veículos e pode ajudar a capturar cidades.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Aspirador Safári
+0x0001005A Enche seu compartimento de carga instantaneamente com todas as espécies de um planeta.
+
+# SPG_Zealot
+
+0x0000005B Fanático
+0x0000005C Os fanáticos têm certeza de que suas crenças são a única verdade que importa. Aqueles que não pensam da mesma maneira não merecem existir nesta galáxia.
+
+# SPG_Trader_Tool
+
+0x00010061 Injeção de Dinheiro
+0x00010062 Torna os sistemas com rotas comerciais imediatamente disponíveis para compra.
+
+# SPG_CRG_Attack
+
+0x00010049 Espécime Superior
+0x0001004A Essa habilidade aumenta a saúde total da sua nave.
+
+# CRG_CLG_Mix
+
+0x00010024 Invocar Bando
+0x00010025 Use esta habilidade para invocar um bando de criaturas para ajudá-lo a socializar ou lutar contra seus inimigos.
+
+# TRG_Attack
+
+0x0000004C As tribos agressivas tentam exterminar a concorrência. Eles atacam impiedosamente e guardam todos os recursos para si mesmos.
+0x0000004B Agressivo
+
+# SPG_Knight
+
+0x00000069 Cavaleiro
+0x0000006A Os cavaleiros são guerreiros nobres que lutam pelo que é certo e não pelo lucro pessoal. A paz só chegará à galáxia quando o mal for derrotado.
+
+# SPG_Scientist
+
+0x00000060 Os cientistas são lógicos e sistemáticos. A galáxia existe para ser estudada e compreendida.
+0x0000005F Cientista
+
+# SPG_Shaman_Tool
+
+0x00010063 Passagem de Volta
+0x00010064 Leva você de volta ao seu sistema de origem em um salto.
+
+# SPG_Zealot_Tool
+
+0x0001005B Furor Fanático
+0x0001005C Converte sistemas dos alienígenas para o seu império.
+
+# SPG_CVG_Economic
+
+0x00020058 Essa habilidade aumenta a produção de especiaria em todas as suas colônias.
+0x00020057 Gênio da Especiaria
+
+# CVG_TRG_MixWin
+
+0x0001006D Fusão Global
+0x0001006E Compra todas as cidades
+
+# Singular
+
+0x55496324 Anos
+0x55496322 Milhões
+0x55496321 Bilhões
+0x55496323 Milhares
+
+# TRG_CLG_Plant
+
+0x00010027 Tempestade Refrescante
+0x00010028 Esta habilidade permite que o chefe da tribo invoque uma tempestade, fazendo que as árvores sejam reabastecidas com frutas, que, então, cairão no chão.
+
+# CVG_TRG_AttackWin
+
+0x0001006F ICBM
+0x00010070 Destrói todas as cidades
+
+# CVG_Military
+
+0x00000052 As civilizações militares florescem com armas e poder. Elas usarão todos os recursos disponíveis para destruir outras nações.
+0x00000051 Militar
+
+# TRG_CRG_Social
+
+0x0001002D Fogos de Artifício
+0x0001002E Essa habilidade permite que o chefe acenda fogos de artifício que melhoram o relacionamento com os vizinhos.
+
+# TRG_Social
+
+0x0000004E Tribos amigáveis compreendem a importância do trabalho de equipe. Elas formam alianças para compartilhar recursos e prosperar com outras tribos.
+0x0000004D Amistoso
+
+# Plural
+
+0x069417A1 Anos
+0x0694179E Bilhões
+0x069417A0 Milhares
+0x0694179F Milhões
+
+# CVG_CLG_Mix
+
+0x00010036 Essa habilidade imobiliza temporariamente os veículos, torres e estruturas.
+0x00010035 Bomba Estática
+
+# TRG_CRG_Attack
+
+0x0001002B Bombas Incendiárias
+0x0001002C Essa habilidade permite que o chefe lance bombas incendiárias que causam danos aos oponentes e estruturas próximos.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Imobiliza todas as naves e torres inimigas do planeta.
+0x0001005D Prendedor Estático
+
+# SPG_Scientist_Tool
+
+0x00010060 Leva culturas e estruturas de volta à idade da pedra.
+0x0001005F Onda Gravitacional
+
+# Timeline GUIDS
+
+0x55496320 Histórico
+

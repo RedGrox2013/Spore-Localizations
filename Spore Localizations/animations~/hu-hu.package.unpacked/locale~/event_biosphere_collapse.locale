@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 Sürgős üzenet a kapitánynak! ~p~Ökoszisztémánk a messzi ~mission_target_planet~ bolygón veszélybe került! Vírus terjed ~mission_target_animal_species~-nyájaink között.~p~Azonnal el kell különítenünk a fertőzött egyedeket, különben a vírus az egész fajt kipusztítja...és ez talán csak a kezdete az egész bioszféra összeomlásának.~p~Siessünk!~p~Irány a messzi ~mission_target_planet~!
+0x00000002 Adás vége
+0x00000009 Az ökoszisztéma összeomlását sikerült megakadályozni.
+0x00000008 ~mission_num_eradicated_creatures~ a szükséges ~mission_num_creatures~ ~mission_target_animal_species~ lényből megsemmisítve.
+0x0000000B Katasztrófa! Túl sok egészséges állat veszett oda.
+0x00000005 Az ökoszisztéma visszatért kiegyensúlyozott állapotba.
+0x00000007 A bioszféra-összeomlás veszélye a távoli ~mission_target_planet~ bolygón elmúlt.
+0x0000000F A veszélyeztetett ~mission_target_animal_species~ állatfaj kihalt.
+0x00000017 Ökoszisztéma-összeomlás fenyeget a messzi ~mission_target_planet~ bolygón. Semmisítse meg a megcélzott állatokat! Gyorsan!
+0x0000000E Ez az állat beteg. Nem jöhet fel a fedélzetre!
+0x00000018 Telepítsen növényeket és állatokat a messzi ~mission_target_planet~ bolygóra, hogy megelőzze az ökoszisztéma összeomlását!
+0x00000090 Semmisítsd meg a vad ~mission_target_animal_species~ nyáj fertőzött példányait!
+0x00000011 Erdőirtás! Egy növényfaj kihalt.
+0x00000012 Ökoszisztéma-összeomlás a messzi ~mission_target_planet~ bolygón. Egy növényfaj kihalt.
+0x00000010 Ökoszisztéma-összeomlás a távoli ~mission_target_planet~ bolygón. A veszélyeztetett ~mission_target_animal_species~ faj kihalt.
+0x00000014 Ökoszisztéma-összeomlás következett be a messzi ~mission_target_planet~ bolygón.
+0x0000000D A fertőzőtt csordák állatai nem léphetnek a becses ~ufo_name~ fedélzetére.
+0x00000003 Kedves ~player_creature_name~ ~player_title~!~p~Jobban szeretjük ugyan hagyni, hogy az élet a saját útján haladjon, de a tragikus eseményekbe be kell avatkoznunk. Ökoszisztémánk a szeretett ~mission_target_planet~ bolygón veszélybe került! Vírus terjed ~mission_target_animal_species~-nyájaink között.~p~Azonnal el kell különítenünk a fertőzött egyedeket, különben a vírus az egész fajt kipusztítja...és ez talán csak a kezdete az egész bioszféra összeomlásának.~p~Siessünk!
+0x0000000C Figyelmeztetés! Ha még ~mission_num_healthy_creatures_left~ darab egészséges ~mission_target_animal_species~ állatot megölsz, a faj kihal!
+0x0000001B A Nagytanács a vészjelzés-eljárás indítását kezdeményezte. ~player_creature_name~ ~player_title~ segítségét kérjük.~p~A drága ~mission_target_planet~ bolygón ökoszisztémánk veszélybe került! Vírus terjed vad ~mission_target_animal_species~-nyájaink között.~p~Azonnal különítse el a fertőzött egyedeket, különben a vírus tovább terjed és az egész fajt elveszítjük... és lehet, hogy ez csak a kezdete az egész bioszféra összeomlásának.~p~Bizonyára el tudja képzelni, micsoda káoszhoz vezetne ez, ami gyökeres ellentétben áll a mi Rendről szóló filozófiánkkal. Szövetségi megállapodásunk 48. dokumentumának LXVIII. paragrafusa értelmében az ön beavatkozását kérjük.~p~Számítunk azonnali érkezésére.
+0x0000001F Kedves ~player_creature_name~ ~player_title~.~p~Ahogy a Harmónia útja tanítja, az élet ciklusának saját ritmusa van. Ez a dallam sajnos hangot tévesztett a távoli ~mission_target_planet~ bolygón!~p~Vírus terjed a vad ~mission_target_animal_species~-csordák között.~p~Azonnal meg kell szabadítanod őket a szenvedéstől. Ha tovább szenvednek, a vírus elterjed, és az egész fajt elveszítjük... és lehet, hogy ez csak a kezdete az egész bioszféra összeomlásának.~p~Jó utat, és várunk.
+0x0000001A ~player_creature_name~ ~player_title~! Sürgősen a segítségedre van szükségünk.~p~Spóriusz hívei a messzi ~mission_target_planet~ bolygón veszélybe kerültek! Vírus terjed vad ~mission_target_animal_species~-csordáink között!~p~Bizony mondom néked, különítsd el a fertőzött egyedeket azonnal, különben a vírus elterjed és az egész faj odavész... az pedig az egész bolygó vége leend.~p~Késedelem nélkül siess ide!
+0x0000001D A nyolclábú űrmacska rúgja meg! Hogy tönkretehet egy szép napot egy ökológiai katasztrófa!~p~ ~player_creature_name~ ~player_title~, muszáj idejönnöd és helyrehozni a dolgokat. Azok a buta vad ~mission_target_animal_species~-csordák elkaptak valami nyavalyát, bár a domesztikált egyedek még szépek és egészségesek.~p~Azonnal különítsd el a fertőzött egyedeket, különben a vírus elterjed és az egész fajt elveszítjük... és lehet, hogy ez csak a kezdete az egész bioszféra összeomlásának.~p~Siess, siess! Gyere gyorsan!
+0x00000021 Figyelem, ~player_creature_name~!~p~Azonnal jelentkezzen a távoli ~mission_target_planet~ bolygón és semmisítse meg a hitvány ~mission_target_animal_species~ fajt!~p~Vége.
+0x00000091 ~mission_target_planet~ bolygó megmenekült!
+0x0000001E Oh, ~player_creature_name~ ~player_title~! Segítsen!~p~~mission_target_planet~ bolygó ökoszisztémája veszélybe került! Vírus terjed a vad ~mission_target_animal_species~-csordák között.~p~Azonnal el kell különítenie a csordától a fertőzött egyedeket, különben a vírus elterjed, és az egész fajt elveszítjük... és lehet, hogy ez csak a kezdete az egész bioszféra összeomlásának.~p~Siessen, siessen!
+0x0000001C ~player_creature_name~ ~player_title~!~p~Egy vadvilágot megfigyelő kutatócsoportunk aggasztó hírekkel tért vissza. ~mission_target_planet~ bolygó ökoszisztémája veszélybe került. Vírus terjed a vad ~mission_target_animal_species~-csordák között.~p~Azonnal el kell különítenie a csordától a fertőzött egyedeket, különben a vírus elterjed, és az egész fajt elveszítjük... és lehet, hogy ez csak a kezdete az egész bioszféra összeomlásának.~p~Azonnali segítségre van szükségünk. Azonnal kezdje meg a leghatékonyabb repülési terv végrehajtását.
+0x00000013 ~mission_target_planet~ bolygó ökoszisztémája összeomlott.
+0x00000019 Bioszféra-összeomlás a messzi ~mission_target_planet~ bolygón: telepítsen növényeket és állatokat az ökoszisztémába, hogy megakadályozza a T-szint csökkenést!
+0x00000020 ~player_creature_name~ figyelem!~p~~mission_target_planet~ bolygó olyan gyengeséget mutat, melyet a nemes ~race~ népe nem tolerál. Semmisítse meg a gyenge ~mission_target_animal_species~ fajt azonnal!~p~~race~ vége.
+0x0000000A Csak a megjelölt állatokat semmisítsd meg!
+0x00000015 Semmisítse meg a megcélzott állatokat! Gyorsan!
+0x00000004 Mentse meg a távoli ~mission_target_planet~ bolygót az ökokatasztrófától!
+0x00000006 ~mission_target_planet~ bolygó ökoszisztémája veszélybe került! Vírus terjed a vad ~mission_target_animal_species~ nyájak között. A fertőzött egyedek izzó nyomot hagynak.~p~Azonnal különítse el a fertőzött egyedeket, különben a vírus az egész fajt kipusztítja...és ez talán csak a kezdete az egész bioszféra összeomlásának.
+

@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~は、あなたからの交易ルートの提案を拒否しました。
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~は、あなたとの交易ルートの提案を受け入れました。
+
+#######################################
+# event logs
+
+0x00000019 ~target_city_name~の購入に失敗しました。
+0x00000018 ~target_city_name~は購入可能になりました。
+0x0000000F ~target_city_name~は転向されました！
+0x00000005 ~target_city_name~と呼ばれる都市を転向させました。
+0x0000000E ~target_city_name~が占領されました！
+0x0000001A あなたは、~target_city_name~の購入に成功しました！
+0x00000004 ~target_city_name~と呼ばれる都市を占領しました。
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x0000002C あなたは~source_civ_name~と同盟関係にあります。
+0x00000026 ~source_civ_name~は、もうありません。
+0x0000002B あなたはもう~source_civ_name~と同盟関係ではありません。
+0x0000002A あなたはもう~source_civ_name~と交戦中ではありません。
+0x00000029 あなたは~source_civ_name~と交戦中です。
+0x00000021 あなたの都市、~target_city_name~が攻撃を受けています！
+0x00000023 ビークルをセットしてスパイス間欠泉をクリックし、採掘を始めしょう。
+0x00000028 あなたは~source_civ_name~と交戦中です。
+0x0000001C ~target_city_name~に交易ルートが確立されました。
+0x00000034 ~target_city_name~ の収入が増えたので、お祝いをしています！
+0x00000035 都市をクリックすると発射します。
+0x00000032 スパイス間欠泉を確保しました。
+0x0000002F スパイス掘削装置が攻撃を受けています！
+0x00000027 ~source_civ_name~は~target_city_name~を占領しました！
+0x00000031 集落からビークルを手に入れました！
+0x00000036 この集落は敵対的であなたのビークルに攻撃してきます！
+0x00000030 集落から%dスポアバックスを手に入れました！
+0x00000033 スパイス掘削装置を占領しました。
+0x00000024 ~target_city_name~が作られました！
+

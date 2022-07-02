@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000013 Energiacsapás
+0x00000014 Csapást mér a célpontra némi energia felhasználásával.
+
+# Part: Harpolizer
+
+0x00001047 Különleges dal, amely javítja a kapcsolatokat. Energiaigénye kicsi.
+0x00001046 Inspiráló dal
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Lényedet majdnem észlelhetetlenné teszi, de amíg aktív, energiát fogyaszt.
+0x00001042 Lopakodómező
+
+### Complexity Meter ##
+
+0x07426209 Túl bonyolult
+0x0742620A Távolíts el extra összetevőket, vagy csökkentsd az egyedi modellek számát.
+0x05F110B4 Ha ez a mérő a maximumon áll, nem adhatsz művedhez több összetevőt.
+0x05F110B3 Összetettségmérő
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Megnövelt bűverő, amely javítja a kapcsolatokat, energiaköltsége kicsi.
+0x00000101 Holobáj
+
+# Part: Hop Gogs
+
+0x00001053 Különleges tánc, amely javítja a kapcsolatokat. Energiaigénye kicsi.
+0x00001052 Lenyűgöző tánc
+
+# Part: Icy Band
+
+0x00001029 Rövid időre mozgásképtelenné fagyasztja az ellenfelet.
+0x00001028 Fagysugár
+
+# Part: Jump Jet
+
+0x00001044 Ugróhajtómű
+0x00001045 Nagyon magas ugrás, energiaigénye közepes.
+
+# Part: Plasma Pulser
+
+0x00001006 Pulzálósugár
+0x00001007 Koncentrált energiasugarat lő ki a célpontra némi energia felhasználásával.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Erőpáncél
+0x00001015 Minden sebzést elnyel, energiaköltsége nagy.
+
+# Part: Hypnomelder
+
+0x00001024 Elmekohó
+0x00001025 Ellenséges lényeket barátiakká tesz egy rövid időre.
+
+# Part: Fettipopper
+
+0x00001059 Különleges póz, amely javítja a kapcsolatokat. Energiaigénye kicsi.
+0x00001058 Konfettipóz
+
+# Part: Imperial Robe
+
+0x00001036 Sugárzó póz
+0x00001037 Lenyűgöző póz, amely javítja a kapcsolatokat..
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Enyhén csökkenti a sebzést, energiaigénye nincs.
+0x00001012 Csatapáncél
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Kilő egy rakétát, amely kárt okoz a célpontot körülvevő környezetben némi energia felhasználásával.
+0x00000001 Rakétatámadás
+
+# Part: Regal Ring
+
+0x00001034 Fenséges báj
+0x00001035 Báj, amely javítja a kapcsolatokat.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Zavaró rovarokból álló rajt idéz meg, amelyek kellemetlenségeket okoznak ellenségeidnek.
+0x00001022 Raj hívása
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energiatárolás
+0x00001065 Növeli a teljes energiakapacitást.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Egészség-regenerátor
+0x00001019 Javítja az életerő-regenerációt.
+0x00002012 ~icon_amount~ egészség/mp
+
+# Part: Ducal Cape
+
+0x00001033 Szép dal, amely javítja a kapcsolatokat.
+0x00001032 Harmonikus dal
+
+# Part: Regen-Deflector
+
+0x00001017 A sebzés kis százalékát energiává alakítja.
+0x00001016 Energiaelnyelés
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Rövid időre növeli a sebességet, energiaigénye kicsi.
+0x00001038 Sprintturbó
+
+# Part: Glider Pack
+
+0x00001041 Hosszabb lebegést tesz lehetővé, energiaigénye kicsi.
+0x00001040 Légpárnás
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Villámcsapás
+0x00001001 Megbénítja a célpontot és nagy kárt okoz némi energia felhasználásával.
+
+# Part: Toxic Crystal
+
+0x00001026 Méregpenge
+0x00001027 Mérgezést juttat ellenfeled testébe, amely kis sebzést okoz idővel.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Egészségnövelés
+0x00001021 Növeli a teljes egészséget.
+
+# Part: Danger Reductor
+
+0x00000020 Gömb alakú védőmezőt generál, amely csökkenti a károkat és segíti az energia hatékony felhasználását.
+0x00000019 Pajzsgenerátor
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Elegáns tánc, amely javítja a kapcsolatokat.
+0x00001030 Kecses keringő
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Növeli a visszanyert energia mennyiségét.
+0x00000010 Energia-regeneráció
+0x00000012 ~icon_amount~ energia/mp
+0x00000021 Védelmezés
+0x00000022 Néha a legjobb védekezés... a védekezés.
+

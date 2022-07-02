@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~拒绝了您的商路请求。
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~已经同意了您建立商路的提议。
+
+#######################################
+# event logs
+
+0x00000019 您收购~target_city_name~的尝试失败了。
+0x00000005 您已经使名为~target_city_name~的城市皈依。
+0x0000000E ~target_city_name~已经被占领！
+0x0000000F ~target_city_name~已经皈依了！
+0x0000001A 您成功的收购了~target_city_name~！
+0x00000018 ~target_city_name~现在可以购买。
+0x00000004 您占领了被称为~target_city_name~的城市。
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x00000031 部落给了你一个自由单位！
+0x00000029 您现在和~source_civ_name~开战了。
+0x00000026 ~source_civ_name~消失了。
+0x00000028 您现在和~source_civ_name~开战了。
+0x00000027 ~source_civ_name~占领了~target_city_name~！
+0x00000024 ~target_city_name~建成！
+0x00000035 点击城市后出发。
+0x0000002C 您现在和~source_civ_name~是同盟了。
+0x00000034 ~target_city_name~正在庆祝收入增加！
+0x00000033 您占领了一个香料井。
+0x00000021 您的城市~target_city_name~正在遭受攻击！
+0x0000002F 您的一个香料井正在遭受攻击！
+0x0000002B 您不再和~source_civ_name~是同盟关系了。
+0x0000002A 我们和~source_civ_name~不再处于战争状态。
+0x0000001C ~target_city_name~已经建立起一条商路。
+0x00000036 此部落是敌对的并且在攻击你的载具！
+0x00000032 您已经占领一个香料间歇泉。
+0x00000030 您从部落抢劫了%dSpore币！
+0x00000023 点击香料间歇泉让您的载具开始采集。
+

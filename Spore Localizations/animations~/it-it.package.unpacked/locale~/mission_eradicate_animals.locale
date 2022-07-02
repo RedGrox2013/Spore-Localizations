@@ -1,0 +1,269 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000CA ...
+0x000000EA Un'altra cosa...
+0x00000097 Forse un'altra volta. Ci vediamo.
+0x0000003E Urrà! Che gioia! Grazie per aver aiutato quei dolci esseri nel momento del bisogno.~p~Prima che tu arrivassi, abbiamo provato a inviare delle squadre di soldati scelti altamente addestrati perché eliminassero le creature malate, ma di fronte a quegli occhioni dolci...~p~Insomma, non ce l'abbiamo fatta! Ah, la tenerezza! La tenerezza!
+0x000000D8 Sul pianeta ~mission_target_planet~ si sta svolgendo un raduno degli animali inutili. Tu parteciperai.
+0x00000023 Sono a favore della pace. Non lo farò.
+0x000000A4 Prenderemo nota del tuo comportamento irresponsabile.
+0x0000005B Curiosamente, sembra che tu non abbia ancora raggiunto il pianeta ~mission_target_planet~ per annientare la specie ~mission_target_animal_species~. Mancavano forse dei dettagli nelle istruzioni? Il registro di missione è andato distrutto? O magari non hai organizzato i dati in maniera appropriata?
+0x0000006B OK. Ho capito. Tornerò presto.
+0x000000A7 Dovremo mettere da parte quei ~mission_rewards~ Sporecrediti per una specie più affidabile.
+0x0000000E Alcuni hacker genetici hanno alterato il DNA di una creatura del pianeta ~mission_target_planet~, trasformandolo in una minaccia sia per gli altri animali che per la nostra gente! Puoi aiutarci?
+0x0000007C Ti autorizziamo a raggiungere il pianeta ~mission_target_planet~ e annientare la specie ~mission_target_animal_species~. Tuttavia, una volta sul posto, avrai solo ~mission_time~ secton per svolgere il tuo compito. Non aprire il fuoco su edifici, abitanti o animali innocui.
+0x000000B1 Avrei un'altra cosa da chiedervi...
+0x000000FF Missione fallita. Troppe eliminazioni non richieste.
+0x000000BB Oops. Colpa mia. Addio.
+0x000000C8 Un'altra cosa...
+0x00000077 Quelle entità demoniache devono essere incenerite. Parti subito per il pianeta ~mission_target_planet~, vicino al sistema ~mission_target_star~. Una volta lì, avrai ~mission_time~ secton per far conoscere alla specie ~mission_target_animal_species~ l'ira di Spode. Risparmia tutti i figli di Spode, eccetto coloro in cui albergano le fiamme demoniache.
+0x00000021 Dove bisogna cercare?
+0x000000A5 Curioso. Arrivederci.
+0x00000092 Dovremo tenere una cerimonia curativa per riprenderci da questo rifiuto.
+0x0000004B Ho un'altra domanda...
+0x000000D5 Sei molto occupato? Parleremo in un altro momento.
+0x0000001F Posso avere qualche indicazione?
+0x00000099 Vedo che ora hai da fare. Ci vediamo.
+0x00000062 Potrei fare una domanda?
+0x00000025 Il mio ego... è combattuto. Non posso.
+0x0000000B Secondo le leggi di Spode, gli animali devono essere un aiuto per i seguaci. Tuttavia, alcune specie si sono rivoltate, infettando i giusti! Ci aiuterai nel distruggere tale minaccia innaturale?
+0x00000040 Grandi, gioiosi e scorcianti applausi ci attendono quest'anno all'esposizione planetaria organizzata dal ministero spaziale! Grazie alla tua gentilezza, siamo già certi di ricevere il premio per la migliore esposizione.~p~Ecco il tuo compenso, come promesso: ~mission_rewards~ Sporecrediti, meritati mille volte.
+0x00000057 Un'altra cosa...
+0x0000006A Ah, capisco. OK, ora ci sono.
+0x0000001E Voglio sapere di più...
+0x000000A2 Alla luce dell'ostinata inosservanza degli accordi da parte tua, il Gran Consiglio sarà costretto a rivedere la sua posizione nei confronti della tua specie.
+0x00000088 Aaah, accidenti, che peccato. Immagino che questo significhi che te ne andrai tanto, tanto, tanto, tanto, tanto lontano ora, vero? E anche in fretta, eh?~p~In ogni caso, nessuno potrà sottrarci i nostri momenti passati insieme.~p~E ora vai! Vai via, lontano e più veloce che puoi.~p~Addio.
+0x00000087 Oh, no! Quando ti abbiamo visto arrivare, abbiamo perso ogni speranza di salvare la specie ~mission_target_animal_species~ dal suo orribile destino.~p~Immagino che ora nulla possa più fermare la febbre oogie! La specie ~mission_target_animal_species~ è ormai spacciata!
+0x00000075 Raggiungi subito il pianeta ~mission_target_planet~, dove avrai solo ~mission_time~ secton per annientare gli esseri demoniaci della specie ~mission_target_animal_species~. Se non vuoi che l'ira divina si scateni su di te, non aprire il fuoco contro forme di vita indifese o coloro che seguono la Via di Spode.
+0x000000C9 Prima di andare, avrei altre domande.
+0x0000003A Assolutamente no. Non uccido gli animali!
+0x0000006F Vedo che ora hai da fare. Ci vediamo.
+0x000000FC Hai eliminato ~mission_num_eradicated_creatures~ esemplari della specie ~mission_target_animal_species~. Ne rimangono ~mission_num_diseased_creatures_left~ ~^p^mission_num_diseased_creatures_left^creatura^creature~ al completamento.
+0x000000DD Vai sul pianeta ~mission_target_planet~. ~group:star_clue~.~p~Uccidi ~mission_num_kills_needed~ esemplari della specie ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creatura^creature~. Questo è tutto quello che devi sapere.
+0x00000037 Sì, certo. Lo farò.
+0x00000084 Potete contare su di me.
+0x00000034 Sì, penso di potermene occupare.
+0x00000024 Questa missione non fa per me.
+0x000000EC Bentornato, Capitano. Vediamo che hai incontrato delle difficoltà nel corso della missione.~p~Siamo delusi del fatto che non sei riuscito a eliminare la specie ~mission_target_animal_species~ sufficientemente in fretta. Forse dovresti allenarti al tiro al bersaglio.
+0x00000098 Sei molto occupato? Parleremo in un altro momento.
+0x000000BC Vedo che ora hai da fare. Tornerò più tardi.
+0x00000008 Occorre porre fine a un'infezione. Hai il fegato per fare un lavoro del genere?
+0x00000094 Inoltre...
+0x0000006D Forse un'altra volta. Ci vediamo.
+0x00000000 Sì, abbiamo qualcosa. Il compenso previsto è ~mission_rewards~ Sporecrediti, ma purtroppo la missione comporta l'eutanasia animale.~p~Alcune società conservatrici hanno mostrato interesse per il pianeta ~mission_target_planet~ e stabilito che ulteriori varianti genetiche devono essere identificate e soppresse.~p~Al momento hanno individuato una specie nel pieno di una mutazione evolutiva e vorrebbero che tu ne eliminassi alcuni esemplari per arrestare il processo.
+0x0000001D Viviamo in un cosmo pieno di incredibile violenza, che va dal Big Bang e dalle fonti di raggi gamma agli organismi unicellulari che fagocitano la loro preda. Una specie animale del pianeta ~mission_target_planet~ ha manifestato un'audacia e un'aggressività al confine con la follia. Forse rappresentano una minaccia per la nostra sicurezza.
+0x00000059 La via di Spode è la via della Verità. Hai detto il vero quando hai promesso di raggiungere il pianeta ~mission_target_planet~ per distruggere la specie ~mission_target_animal_species~? Prima di rispondere, tieni presente che Spode sa cosa contiene il tuo registro di missione.
+0x0000007A Se il pianeta ~mission_target_planet~ vedrà la salvezza, sarà solo grazie ai tuoi sforzi. Una volta raggiunto il pianeta ~mission_target_planet~, avrai solo ~mission_time~ secton per estirpare la specie ~mission_target_animal_species~. Ti ringraziamo per il tuo impegno nel ristabilire l'equilibrio ecologico.
+0x000000C6 Prima di andare, avrei altre domande.
+0x00000035 Sì, me ne posso occupare.
+0x00000039 Non lo farò. È sbagliato.
+0x00000095 Un'altra cosa...
+0x000000C5 Avrei un'altra cosa da chiedervi...
+0x0000004C Potrei fare una domanda?
+0x0000006E Sei molto occupato? Parleremo in un altro momento.
+0x00000102 Forma di vita infettata. Incenerimento in corso...
+0x0000004F Che rapidità! Grazie! Ci vediamo!
+0x00000028 Prima di andare, avrei altre domande.
+0x000000D2 Vi chiedo di annullare il mio incarico.
+0x00000086 Oooooh...~p~No, dai... non lasciarci così.~p~Pensavo fossi in gamba!~p~Bah, come vuoi!!!~p~Ma sappi una cosa. I GRANDISSIMI E MAESTOSI GROX ti sono addosso!!!
+0x00000079 Potresti essere la salvezza del pianeta ~mission_target_planet~! Vai subito laggiù e salva il suo bioma dal pericolo!
+0x0000003C Un lavoro eccellente, come sempre. Hai ottenuto stima e rispetto in tutte le colonie.~p~Se non erro, ti avevamo promesso un compenso di ~mission_rewards~ Sporecrediti, vero?~p~È sempre un piacere fare affari con un nome sinonimo di affidabilità.
+0x00000101 Possibilità di infezione. Incenerimento in corso...
+0x000000D4 Alla prossima volta, allora.
+0x00000078 Raggiungi subito il pianeta ~mission_target_planet~, vicino al sistema ~mission_target_star~, dove avrai ~mission_time~ secton per annientare gli esseri demoniaci della specie ~mission_target_animal_species~. Se non vuoi che l'ira divina si scateni su di te, non aprire il fuoco contro forme di vita indifese o coloro che seguono la Via di Spode.
+0x000000B3 Ah, certo! Il registro missione. Lo leggerò con attenzione!
+0x0000007B Grazie. Una volta raggiunto il pianeta ~mission_target_planet~, avrai ~mission_time~ secton per annientare la specie ~mission_target_animal_species~.
+0x0000000D È scoppiata un'epidemia tra gli animali del pianeta ~mission_target_planet~ che minaccia di sconvolgere l'intero ecosistema! Puoi aiutarci a evitare il disastro estirpando gli animali infetti?
+0x000000EF Accetta le mie umili scuse!
+0x0000005A Secondo i nostri dati, la specie ~mission_target_animal_species~ rappresenta ancora un pericolo per il pianeta ~mission_target_planet~. Puoi aiutarci a estirpare tale minaccia? Il tuo registro di missione dovrebbe avere tutti i dati rilevanti.
+0x000000D7 Dovresti visitare il pianeta ~mission_target_planet~ e uccidere animali molesti.
+0x000000A1 Prima di andare, avrei altre domande.
+0x00000058 Il Gran Consiglio vede con preoccupazione la tua mancata eliminazione della specie ~mission_target_animal_species~. Il tuo registro di missione dovrebbe avere tutti i parametri disponibili. La nostra gente è ancora in pericolo. Andrai sul pianeta ~mission_target_planet~ per eliminare la specie ~mission_target_animal_species~?
+0x000000E0 Ottimo lavoro, Capitano! Toh, guarda, ~mission_rewards~ Sporecrediti attendono il loro nuovo padrone!
+0x000000B2 Che calamità! Peggio di un disastro! Ci... ci mancano le parole. La tua sconsideratezza ci sta facendo annaspare nel regno della pura e libera emozione.~p~Abbiamo commesso un grave errore nel giudicarti. Questo compito richiedeva destrezza e precisione e pare che a te manchino entrambe le cose, zoticone che non sei altro!~p~La specie ~mission_target_animal_species~ è stata completamente destabilizzata e non c'è tempo per ripristinarne l'equilibrio. Abbiamo perso!
+0x00000085 Uhm, che strano... Ci avevano detto che di solito accetti missioni galattiche di ogni tipo.~p~Un vero peccato. La specie ~mission_target_animal_species~ rischia di evolversi in modo pericoloso se non la guideremo nella giusta direzione.~p~Non tutte le specie sono così fortunate da avere un buon mentore. Vorrà dire che per la specie ~mission_target_animal_species~ tireremo a sorte.
+0x00000050 Ehi, faccio solo il mio lavoro.
+0x000000C7 Inoltre...
+0x00000093 Un incarico così semplice, al di là della tua portata? Ne prenderemo nota.
+0x00000071 Avrei un'altra cosa da chiedervi...
+0x0000009E Perdonami se te lo dico, ma come puoi essere così insensibile?~p~La specie ~mission_target_animal_species~ sta per estinguersi e tu eri l'unico che avrebbe potuto salvarla! Ora è spacciata!~p~Oh, se solo avessimo il coraggio di dare il colpo di grazia ai malati noi stessi!
+0x000000BD Cosa, cosa? Ti vediamo tornare nella condizione opposta al successo! Noi ci aspettavamo la condizione opposta alla condizione opposta al successo!~p~Oh cielo, cielo! Un piano B... Ci serve un piano B!
+0x000000B8 Prima di andare, avrei altre domande...
+0x000000BA Ma il mio modo è più divertente! Addio.
+0x00000007 Il Gran Consiglio garantisce che i nostri cittadini vivranno liberi da ogni paura. Un contraente incaricato di perlustrare il pianeta ~mission_target_planet~ prima della colonizzazione trascurò che gli erbivori chiamati ~mission_target_animal_species~ stavano per diventare carnivori. Il Gran Consiglio apprezzerebbe il tuo aiuto nell'estirpare tale minaccia dal pianeta ~mission_target_planet~.
+0x00000029 Raggiungi il pianeta ~mission_target_planet~. ~group:star_clue~.~p~Elimina ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~. Diamo per assunto che non sarà un problema.
+0x0000008D È proprio vero che il cuore di un infedele è duro come la pietra. Addio.
+0x0000000A I seguaci del falso Dio che Verrà hanno diffuso un'epidemia tra gli animali del pianeta ~mission_target_planet~. Puoi aiutarci a estirpare la minaccia?
+0x00000066 Spiacente. Mi ritiro.
+0x000000F5 Hai ucciso troppi animali in salute. Torna nel sistema ~mission_source_star~ per dare la brutta notizia.
+0x000000A3 La lingua dei pagani è la lingua dei falsi. Addio.
+0x000000E4 Presto, Capitano! Bisogna concludere in fretta! Hai solo ~mission_time~ secton a disposizione per eliminare la specie ~mission_target_animal_species~ dalla faccia del pianeta ~mission_target_planet~.
+0x000000F3 il pianeta si trova nel sistema ~mission_target_star~.
+0x000000A6 La tua specie si sforza sempre di far divertire. Peccato che tu non ci riesca mai.
+0x000000AA Ehm... Cos'è che dovrei fare?
+0x000000CD Elimina ~mission_num_kills_needed~ esemplari della specie ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creatura^creature~ sul pianeta ~mission_target_planet~.
+0x000000F4 Torna sul pianeta ~mission_source_planet~ del sistema ~mission_source_star~ per ricevere la ricompensa.
+0x000000A8 Sei posseduto da uno spirito eccentrico e delirante.
+0x000000E8 Rinunci? Ma noi contavamo su di te!
+0x0000003B No, no. Mai. No. Mi spiace.
+0x0000001B Come le piante, che si allungano verso i raggi del sole, anche gli animali partecipano alla lotta costante per le risorse e il controllo del territorio. E mentre noi ci apprestiamo a dominare la galassia, una specie del pianeta ~mission_target_planet~ rischia di dominare tale mondo. Non è il caso di lasciare continuare una situazione così instabile, non credi?
+0x00000033 Estirpare questa specie è per noi un compito indegno, ma potrebbe essere adatto a esseri come te. Il pianeta ~mission_target_planet~ rischia di essere devastato dalla specie ~mission_target_animal_species~. Hanno code luminose, perciò trovarli ed eliminarli sarà facilissimo.~p~Uccidi ~mission_num_kills_needed~ di quei pericolosi animali. ~group:star_clue~.~p~Ti osserveremo, per assicurarci che tu compia la missione celermente secondo il programma.
+0x00000072 Il Gran Consiglio è lieto della tua scelta e ti invita a partire subito per il pianeta ~mission_target_planet~. Una volta sul posto, avrai ~mission_time~ secton per estirpare la specie ~mission_target_animal_species~. Assicurati di non ferire accidentalmente altri abitanti o forme di vita indifese.
+0x000000AB Ho dimenticato la mia missione. Di cosa si trattava?
+0x000000E3 C'è un tempo limite per il completamento della missione, quindi parti immediatamente. Hai a disposizione solo ~mission_time~ secton per eliminare la specie ~mission_target_animal_species~ dalla faccia del pianeta ~mission_target_planet~.
+0x0000008E Possiamo solo sperare che l'ecosistema del pianeta ~mission_target_planet~ sopravviva anche senza il tuo aiuto. Arrivederci.
+0x000000DA Animali infetti stanno attaccando il nostro insediamento sul pianeta ~mission_target_planet~! Ci serve il tuo aiuto!
+0x00000107 Vedo che ora hai da fare. Tornerò più tardi.
+0x0000005F Avevamo capito che avresti raggiunto il pianeta ~mission_target_planet~ per annientare la specie ~mission_target_animal_species~. I dati nel tuo registro di missione lo confermano.~p~Fluttui come un pezzo di legno in balia delle acque. La nostra pazienza non è infinita.
+0x000000AC Ho dimenticato cosa devo fare. Qual era la missione?
+0x00000076 Che l'epurazione abbia inizio! Hai ~mission_time~ secton per incenerire la specie ~mission_target_animal_species~ del pianeta ~mission_target_planet~. Risparmia però coloro che hanno fede in Spode e i loro beni.
+0x00000054 Oh, oh. Non vogliamo essere un disturbo, davvero.~p~È solo che ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~ hanno contratto la febbre oogie! Ora sono talmente aggressivi da emettere della luce! Non c'è tempo per distrarsi!~p~Per favore, vai subito nel sistema ~mission_target_star~ e raggiungi il pianeta ~mission_target_planet~.~p~Elimina tutti gli animali infetti. Non lasciarti dissuadere dai loro modi adorabili, com'è accaduto a noi!
+0x000000E6 Inoltre...
+0x00000020 Come ci arrivo?
+0x000000CC Un'altra cosa...
+0x0000004D Solo un'ultima cosa...
+0x0000008B Il Gran Consiglio non costringerà alcuna specie ad agire contro la propria volontà. I negoziati sono conclusi. Arrivederci.
+0x0000009D Vuoi rinunciare alla missione? Ma è...~p~Non puoi... Il pianeta deve essere pronto e lindo per i nostri padroni...~p~IL FREDDO E IMPLACABILE GROX LO VERRÀ A SAPERE!
+0x00000061 Ho un'altra domanda...
+0x000000B9 Ma far saltare in aria le cose è divertente! Addio.
+0x000000CB Inoltre...
+0x00000019 Pare che uno dei nostri circoli di canto spirituale sul pianeta ~mission_target_planet~ abbia evocato lo spirito sbagliato! Speravamo di poter comunicare con la nostra defunta zia Flrthrb e invece abbiamo richiamato un gruppo di entità che si sono impossessate di un gruppo di animali, seminando morte e devastazione! Potresti farli tornare nell'aldilà per noi?
+0x000000ED la stella si chiama ~mission_target_star~
+0x00000064 Ho deciso che non lo farò.
+0x00000041 Inoltre...
+0x000000F2 Hai fallito. Torna al pianeta ~mission_source_planet~.
+0x00000060 Vorrei fare un'altra domanda...
+0x0000008A Avrei un'altra cosa da chiedervi...
+0x00000082 Farò in un attimo.
+0x000000AF Oh, hai ucciso troppe creature innocenti?~p~Non ti avevamo detto che era vietato? Era un pianeta giardino, dopotutto.~p~Sì, beh... IL PETULANTE ED ESIGENTE GROX... non... non gradirà tutto ciò. Nient'affatto. Neanche un pochino.~p~Oh, accidenti, che casino!
+0x000000E5 Ti rifiuti di obbedire agli ordini?
+0x0000002D Raggiungi il pianeta ~mission_target_planet~. ~group:star_clue~.~p~Gli sfortunati animali della specie ~mission_target_animal_species~ hanno la coda luminosa. Grazie a questa caratteristica, dovresti poterli individuare ed eliminare facilmente.~p~Per evitare il disastro, occorre uccidere diversi esemplari della specie ~mission_target_animal_species~; almeno ~mission_num_kills_needed~. Il tessuto vitale del pianeta è ben bilanciato in ogni particolare, perciò evita di uccidere gli esemplari sani o ogni altra creatura.~p~Presto, prima che la situazione diventi incontrollabile.
+0x0000009B Ho bisogno di rivedere un attimo gli obiettivi...
+0x0000002B Prima di andare, avrei altre domande.
+0x00000065 Questo va contro la mia etica. Non lo farò!
+0x000000AD Puoi ricordarmi la mia missione?
+0x00000091 Oh cielo, oh cielo. Se penso alle ricompense che avrebbero potuto essere tue!
+0x000000AE Credo che, prima di imbarcarti per questo viaggio, ti sarebbe stato utile cercare sul vocabolario la parola 'conservazione'.~p~Se prendi a decimare l'intera popolazione della specie ~mission_target_animal_species~, è molto più difficile conservare alcunché. Ora sono sull'orlo dell'estinzione.~p~Bell'aiuto sei stato!
+0x000000F1 Hai fallito. Torna al pianeta ~mission_source_planet~.
+0x00000055 Non potevo credere ai miei occhi finché non ti ho sentito parlare! Ora, io non mi fido di nessuno dei miei nove sensi. Non posso credere che tu sia tornato prima di aver finito! Bah!~p~Ascolta bene: elimina ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~ sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~.~p~E soprattutto, ricordati la cosa più importante: parti subito!
+0x00000015 La disgrazia incombe su di noi! Abbiamo saputo che è scoppiata un'epidemia tra gli animali del pianeta ~mission_target_planet~ che li rende aggressivi e violenti. A te, essere splendente, chiediamo umilmente di eliminare quelle bestie, in cambio di un'adeguata ricompensa.
+0x00000009 Il nostro santuario sul pianeta ~mission_target_planet~, qui edificato come simbolo di zelo e misericordia, è ora minacciato da feroci esseri demoniaci. Libererai i nostri seguaci da tale minaccia?
+0x00000069 Esatto. Uccidi gli animali.
+0x00000080 Non hai il permesso di aprire il fuoco su edifici, gente o animali indifesi. Parti subito. Una volta raggiunto il pianeta ~mission_target_planet~, avrai solo ~mission_time~ secton per eliminare la specie ~mission_target_animal_species~.
+0x000000D6 Chiedo la vostra comprensione.
+0x000000D0 Devo rinunciare a questo incarico.
+0x00000070 Chiedo la vostra comprensione.
+0x00000044 Un profondo ringraziamento da parte nostra e, soprattutto, da parte dell'ecosistema del pianeta ~mission_target_planet~. Siamo lieti di offrirti ~mission_rewards~ Sporecrediti.
+0x000000D9 Ci darai una dimostrazione delle tue capacità militari sul pianeta ~mission_target_planet~.
+0x00000011 Il destino si fa gioco di noi! Abbiamo creato sul pianeta ~mission_target_planet~ alcuni animali geneticamente modificati per pure esigenze estetiche. Sono molto carini, ma ora ci stanno divorando! Puoi aiutarci a non essere più il loro pasto?
+0x00000108 Accetta le mie umili scuse!
+0x000000FB Non sei riuscito a eliminare tutti gli animali malati in tempo. Torna sul pianeta ~mission_source_planet~ del sistema ~mission_source_star~ per dare la brutta notizia.
+0x0000009F Missione interrotta? Oh, no. Ma è terribile.~p~Anche se, tutto sommato, penso che potremmo comunque definirla un successo se tu, beh, te ne andassi. Alla svelta.~p~Non verrai pagato, ovviamente. Chiaro, no? A questo punto, solo saperti lontano da noi sarebbe un bel risultato.
+0x000000D1 Questo incarico non è più tra le mie priorità.
+0x00000053 Ehi, ehi... senti: sai bene che ci piacciono gli esseri senzienti come te, vero? A livello professionale, si intende...~p~Beh, allora... vedi di uccidere ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~ sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~ e andrà tutto bene.~p~Non è per quello che *pensiamo* di te, è solo che I SAGGI E SEVERI GROX ESIGONO LA TUA SOGGEZIONE ALLA LORO ONNIPOTENZA !!!
+0x0000009C Vuoi rinunciare? Ma è inconcepibile.~p~Capisci bene che questi conservazionisti parleranno di te. Sui loro blog!
+0x000000DC Sul pianeta ~mission_target_planet~ un virus inerme si è mutato in una minaccia per la fauna. Ci aiuterai?
+0x000000C0 Wow... e così... bentornato.~p~Abbiamo sentito che non sei riuscito a completare la missione. Il che, confesso, ci dà sollievo. Forse non era destino.
+0x00000073 Raggiungi per favore il pianeta ~mission_target_planet~ e annienta la specie ~mission_target_animal_species~ entro ~mission_time~ secton. Ti ringraziamo per la salute e la protezione garantita alla nostra gente.
+0x0000001C Le brezze più vivaci possono spargere aromi floreali, ma anche effluvi di terribili mali. È scoppiata un'epidemia tra gli animali del pianeta ~mission_target_planet~, forse diffusa da quei vigliacchi dei nostri nemici. Gli animali colpiti si sono trasformati in predatori. Ti interessa fare un po' di tiro al bersaglio?
+0x000000B0 Oh, no! È una catastrofe!~p~Quei poveri, indifesi esemplari della specie ~mission_target_animal_species~! Così carini! Così adorabili! E ora, spacciati! Condannati all'estinzione! Non è tollerabile!~p~Hai ucciso troppi animali sani, destabilizzando l'intera popolazione! Cosa ti avevano fatto!?!
+0x00000051 Bene. Direi che è ora di andare...
+0x000000F0 si sono verificati degli imprevisti. Arrivederci.
+0x00000006 Perché gli abitanti del pianeta ~mission_target_planet~ siano sicuri, è necessario proteggerli dagli organismi predatori. Vuoi intraprendere la missione di sterminio della specie carnivora ~mission_target_animal_species~ di ~mission_target_planet~?
+0x000000FA Hai ucciso troppi animali in salute. Torna sul pianeta ~mission_source_planet~ del sistema ~mission_source_star~ per dare la brutta notizia.
+0x00000090 Ma hai un aspetto terribilmente formidabile con il blaster in mano! Oh, beh.
+0x000000CF Preferirei occuparmi d'altro.
+0x00000030 Inoltre...
+0x0000004E Sconvolgente. Buona giornata.
+0x0000008F Allora ce ne occuperemo noi stessi. Arrivederci.
+0x00000026 Avrei un'altra cosa da chiedervi...
+0x00000063 Solo un'ultima cosa...
+0x000000E2 La specie letale ~mission_target_animal_species~ non è stata eliminata dalla faccia del pianeta ~mission_target_planet~. Consulta il registro di missione per i dettagli e recatici subito!
+0x000000F6 Non sei riuscito a eliminare tutti gli animali malati in tempo. Torna nel sistema ~mission_source_star~ per dare la brutta notizia.
+0x00000031 Un'altra cosa...
+0x00000038 Questa missione è terribile. Mi tiro fuori.
+0x00000036 Uccidere degli animali indifesi? Contate pure su di me!
+0x00000083 Vado a uccidere un po' di animaletti!
+0x00000103 Tempo scaduto. Missione fallita.
+0x00000067 Ce l'ho fatta, ma è stata dura!
+0x0000009A Chiedo la vostra comprensione.
+0x00000004 La fortuna ti sorride oggi, mio caro essere giusto. Abbiamo per te un tale compito...!~p~Abbiamo incluso il pianeta ~mission_target_planet~ nell'esposizione planetaria organizzata dal ministero spaziale. Si tratta di un evento tra i più prestigiosi della categoria e abbiamo lavorato sodo per preparare il pianeta ~mission_target_planet~. Ora è tutto perfetto!~p~Per essere precisi, quasi perfetto: un piccolo gruppo di animali della specie ~mission_target_animal_species~ si rifiuta di obbedire. Per quanto triste, devono essere eliminati. L'esposizione è ormai alle porte.
+0x00000068 OK, ho capito. Ci vediamo.
+0x00000022 Oooh. Karma negativo? No, grazie.
+0x0000005E Stavamo cantando per accompagnare con vibrazioni positive il tuo viaggio verso il pianeta ~mission_target_planet~... e ora veniamo a sapere che sei ancora qui! Pensavamo che avessi intenzione di estirpare la specie ~mission_target_animal_species~ da questo piano esistenziale...~p~Non hai tutti i dati nel registro di missione?
+0x00000081 Tornerò presto.
+0x00000089 Gli sciagurati cieli hanno fatto piovere su di noi disgrazie a non finire! Siamo ormai alla cuspide dell'esibizione e ci sono ancora tante cose da fare!~p~Dobbiamo ancora mettere i nastri alle mese e lustrare i cappelli da montagna!~p~Probabilmente perderemo il premio di miglior esibizione per causa tua! Non lo dimenticheremo presto, canaglia!
+0x000000DB Una specie animale carnivora ci sta attaccando sul pianeta ~mission_target_planet~. Puoi aiutarci?
+0x0000004A Vorrei fare un'altra domanda...
+0x000000FE Stermina solo le creature luminose, per favore. Grazie.
+0x0000007D Vai sul pianeta ~mission_target_planet~ e distruggi gli esemplari luminosi della specie ~mission_target_animal_species~. Avrai a disposizione solo ~mission_time~ secton per salvare la nostra specie. Non sparare alle altre specie, alle nostre belle casette o a qualunque altra cosa che ci appartenga!~p~E fai presto, prima che la specie ~mission_target_animal_species~ faccia ancora più danni.
+0x00000048 Gentile ~player_title~ ~player_creature_name~. Siamo lieti del tuo ritorno.~p~Grazie per aver ripristinato l'equilibrio tra tutti i nostri deliziosi amici. Accetta questi ~mission_rewards~ Sporecrediti, benedetti dal nostro canto per ore!
+0x000000DF ~player_creature_name~, hai eseguito gli ordini. Dato che spesso ~mission_rewards~ Sporecrediti sono necessari per spingere le specie organiche a collaborare, ti offriamo tale cifra.
+0x000000B4 Oh oh! ~player_title~ ~player_creature_name~ è tornato... ma credo che quel titolo di ~player_title~ sia immeritato, dopotutto.~p~Hai sparato a tutto ciò che si muoveva? Sì, anche quello è un gioco divertente... ma non era ciò che ti avevamo chiesto.~p~Niente Sporecrediti per te!
+0x00000017 ~player_title~ ~player_creature_name~, un esperimento su alcuni erbivori del pianeta ~mission_target_planet~ si è rivelato un vero disastro, trasformando una specie prima mansueta in bestie feroci. Queste ora sono una minaccia sia per le altre creature che per la nostra gente. Puoi aiutarci con questo problemino?
+0x0000001A Cerchiamo di essere amici di tutti i nostri fratelli animali, ma alcune creature del pianeta ~mission_target_planet~ sono cadute vittima di vibrazioni ostili e ora stanno seminando distruzione ovunque. Puoi riportare l'armonia in tali vibrazioni ostili, preferibilmente tramite un laser?
+0x00000016 ~player_title~ ~player_creature_name~. Un male sconosciuto ha colpito gli animali del pianeta ~mission_target_planet~, trasformandoli in feroci predatori. Possiamo assumerti per estirparli?
+0x00000105 Il sistema ~mission_target_star~ si trova a circa ~mission_clue_distance~ parsec da ~mission_clue_landmark1~
+0x0000007E Il cuore del miserabile sottoscritto si riempie di diletto! Tuttavia, deve anche ricordare al potente ~player_creature_name~ di non colpire accidentalmente altri esseri senzienti o forme di vita indifesi. Inoltre, una volta giunto sul pianeta ~mission_target_planet~, avrai solo ~mission_time~ secton per estirpare la specie ~mission_target_animal_species~.
+0x00000049 ~player_creature_name~, pare che tu abbia le capacità per seguire istruzioni semplici. Questi ~mission_rewards~ Sporecrediti vogliono rappresentare un incentivo positivo.
+0x00000014 Mi duole alquanto dover arrecare disturbo con questa notizia, ma sono ahimè costretto a informarti che il pianeta ~mission_target_planet~ è oggetto dell'assalto di alcune bestie feroci, che minacciano la felicità della nostra gente. In cambio di un compenso, potresti occuparti di questa emergenza?
+0x00000056 Per favore, fai presto! L'esposizione planetaria organizzata dal ministero spaziale è ormai sempre più vicina!~p~Sfrutteremo al massimo la nostra precisione e capacità di sintesi per ricapitolare i tuoi obiettivi:~p~Elimina ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~ sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~.~p~Altrimenti verremo penalizzati e non riceveremo il premio per la migliore esposizione.
+0x0000005D Facciamo un bel gioco... Si chiama ''Scommettiamo che...". Scommettiamo che nel tuo registro di missione c'è il contratto da te sottoscritto per andare sul pianeta ~mission_target_planet~ e annientare la specie ~mission_target_animal_species~?
+0x00000018 Nonostante noi cerchiamo di essere tutt'uno con la natura, questa vuole essere tutt'uno con noi solo divorandoci. Almeno così accade sul pianeta ~mission_target_planet~, dove alcuni animali sono diventati aggressivi a causa di una mutazione. Non amiamo gli spargimenti di sangue, quindi... potresti occupartene tu?
+0x000000A9 Questo sarebbe il concetto di onore di ~player_creature_name~?
+0x000000C1 ~player_title~ ~player_creature_name~, la tua specie è incapace di seguire semplici istruzioni. Lo terremo a mente, dovessimo incontrarci di nuovo.
+0x000000BE Benvenuto, ~player_title~ ~player_creature_name~. Ti salutiamo nuovamente a nome del Gran Consiglio.~p~A proposito, detesto dovergli annunciare il tuo fallimento. Metterò il bello 'da rivedere'... Forse per quando avrà superato tutti i passi burocratici avrai avuto l'occasione di migliorare la tua reputazione.
+0x00000047 Salve, salve ~player_title~ ~player_creature_name~. Hai corretto ciò che non andava. Ben fatto, ben fatto. Ammira pure i tuoi ~mission_rewards~ Sporecrediti.
+0x000000C3 Gentile ~player_title~ ~player_creature_name~, sei tornato sano e salvo ma senza aver completato la missione.~p~Ti capiamo. È difficile guardare negli occhi un fratello peloso e sparargli a sangue freddo.
+0x0000002E Il tuo contratto prevede la "rimozione e ricomposizione allo stato di vapore acqueo" di un numero di esemplari della specie ~mission_target_animal_species~ pari a ~mission_num_kills_needed~.~p~Pianeta ~mission_target_planet~. ~group:star_clue~.~p~Gli animali bersaglio sono contrassegnati da code luminose. È possibile procedere all'eliminazione dall'alto in tutta sicurezza. Fai presto e compi la missione prima che il male si diffonda.~p~Ricorda: la clausola 45.6.2 specifica che altri animali e/o oggetti del pianeta ~mission_target_planet~ non devono essere feriti durante l'adempimento di questo contratto.
+0x00000074 ~player_creature_name~ ha dimostrato saggezza e generosità. Parti alla volta del pianeta ~mission_target_planet~ e annienta la minaccia della specie ~mission_target_animal_species~ entro ~mission_time~ secton. Evita di fare del male alla nostra gente e alle forme di vita inoffensive.
+0x000000BF ~player_creature_name~ è stato sconfitto da creature demoniache? Peccato fossero così numerose!
+0x0000000F ~player_title~ ~player_creature_name~, siamo spiacenti di informarti che uno dei nostri esperimenti non ha dato gli esiti sperati. A causa di una errata sottodivisione dei geni, anziché produrre un tranquillo animale addomesticato abbiamo generato sul pianeta ~mission_target_planet~ una specie carnivora alquanto feroce. Vuoi aiutarci nel porre rimedio a questo errore?
+0x00000010 Non c'è niente di più patetico di una cosa ormai passata di moda. Le creature luminose di colore giallo sul pianeta ~mission_target_planet~ non ci piacciono più: puoi aiutarci a sbarazzarcene?
+0x00000046 Splendido! La superficie del pianeta ~mission_target_planet~ è molto più interessante con tutti quei piccoli crateri! Eccoti i ~mission_rewards~ Sporecrediti!
+0x00000042 ~player_title~ ~player_creature_name~, ti diamo il benvenuto.~p~Il Gran Consiglio è lieto di premiarti con un Certificato di Merito, seconda classe e ~mission_rewards~ Sporecrediti.
+0x00000045 ~player_title~ ~player_creature_name~, hai purificato il pianeta ~mission_target_planet~. Accetta per favore questi ~mission_rewards~ Sporecrediti, nella speranza che tu possa dimenticare questo incidente il prima possibile.
+0x000000EB ~player_creature_name~ non ha eliminato la specie ~mission_target_animal_species~ entro i parametri temporali specificati. ~player_creature_name~ è inefficiente.
+0x000000A0 Oh, ma è inconcepibile! Non può essere vero!~p~I giudici saranno qui da un momento all'altro e il pianeta non è pronto e questo a causa tua!~p~Il pianeta ~mission_target_planet~ al massimo vincerà il premio "Poteva impegnarsi di più"!
+0x00000005 ~player_title~ ~player_creature_name~, i tuoi atti di irresponsabile violenza hanno seriamente danneggiato la catena alimentare del pianeta. Siamo alquanto insoddisfatti.
+0x00000106 Il sistema ~mission_target_star~ dista da ~mission_clue_range_min~ a ~mission_clue_range_max~ parsec da ~mission_clue_landmark1~.
+0x0000002F ~player_title~ ~player_creature_name~, elimina ~mission_num_kills_needed~ animali bersaglio. ~p~Devi compiere in fretta la missione, prima che le bestie selvagge sfuggano a ogni controllo. Parti immediatamente per il pianeta~mission_target_planet~! ~group:star_clue~.
+0x0000007F Grazie! Sul pianeta ~mission_target_planet~ avrai ~mission_time~ secton per annientare la specie ~mission_target_animal_species~. Non ferire nessuno dei nostri amici animali o della nostra gente e non distruggere le nostre costruzioni feng shui.~p~Corri, prima che la specie ~mission_target_animal_species~ si diffonda!
+0x000000B6 Irriverente ~player_title~ ~player_creature_name~.~p~La tua sconsiderata mano lesta ha distrutto quell'armonia per creare la quale avevamo lavorato tanto duramente! Perché non cresci e non prendi la mira con più attenzione la prossima volta?
+0x00000043 ~player_title~ ~player_creature_name~, hai dimostrato di essere degno della nostra fiducia. Accetta questi ~mission_rewards~ Sporecrediti e che Spode ti illumini.
+0x0000008C Il Gran Consiglio vede con grave preoccupazione il fallimento di ~player_creature_name~ nel rispettare l'accordo spontaneamente sottoscritto. Arrivederci.
+0x000000F7 Elimina ~mission_num_kills_needed~ esemplari della specie ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creatura^creature~ sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~.
+0x000000B7 ~player_creature_name~, chi padroneggia un'arma non la punta contro qualsiasi cosa, ma solo contro i bersagli.~p~È chiaro che tu non padroneggi un bel niente.
+0x00000012 Siamo andati a fare una gita sul pianeta ~mission_target_planet~ e abbiamo colorato un po' di animali. Come potevamo sapere che colorandoli in quel modo si sarebbero infuriati? Puoi aiutarci a trasformare quelle bestie feroci in gradevoli cumuli di cenere?
+0x0000003F Oh.~p~Di nuovo qui. Hai fatto in fretta.~p~Non sarai mica uno di quei piccoli ficcanaso? O uno di quei tipi un po' capricciosi e così via...~p~Se ora ti paghiamo, toglierai le tende?~p~Ecco, ecco i tuoi ~mission_rewards~ Sporediti, come da accordi. E ora perché non ti levi dai piedi, tipo effetto insetticida?
+0x0000003D Ehi, fantastico! Non potrò mai ringraziarti abbastanza. Davvero molto gentile da parte tua tirarci fuori dai guai... Eccoti i tuoi ~mission_rewards~ Sporediti, come promesso.~p~Ci saremmo anche arrangiati da soli, ma pensavamo di intraprendere la carriera politica e non era il caso di farci sorprendere in atti del genere.~p~Anche se a favore dei POTENTI GROX!!! AVE A LORO!!!
+0x00000002 Oh, che fortuna che tu sia qui! Abbiamo una missione urgente da compiere ma non abbiamo il coraggio di farla noi. È così terribile!~p~Si tratta dell'adorabile specie ~mission_target_animal_species~! ~mission_num_kills_needed~ esemplari hanno contratto la tremenda febbre oogie! Se la malattia si diffonderà, l'intera specie sarà spacciata!~p~Gli animali infetti devono essere... *gulp*...eliminati.~p~Ti pagheremo! ~mission_rewards~ Sporediti. Può andar bene?
+0x0000002A Blark! Abbiamo individuato alcuni esemplari della specie ~mission_target_animal_species~ che devono essere soppressi. Dovrai eliminarne in tutto ~mission_num_kills_needed~. I bersagli sono stati contrassegnati da una sostanza che li rende... luminosi~p~Oh oooh! Dev'essere troppo bello essere luminosi! Dovremmo tenerlo presente per il prossimo ferragosto flortondiano! Ti piace l'agguantato alla flortondiana? Secondo me, bisogna sempre salarlo un po'... di solito.~p~Ehi, ma... sei ancora qui...? Non sai dove andare...?~p~~group:star_clue~. Il pianeta si chiama ~mission_target_planet~.~p~Riceverai come ricompensa ~mission_rewards~ Sporediti.
+0x00000003 Vuoi qualcosa da fare? OK, perché no? Abbiamo qualcosa per liberarci di te. Volevo dire... abbiamo un compito per te.~p~Perché non... ehm, non so... diciamo... perché non elimini ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~?~p~Sì, direi che avrai da fare per un po'. Vai avanti.~p~Ti pagheremo. Che ne dici di... ~mission_rewards~ Sporediti? Sono sufficienti per farti andare?
+0x000000E7 La disobbedienza a un ordine dei Grox equivale al suicidio.
+0x000000E9 ~player_creature_name~, hai mancato di fare ciò che i Grox ti avevano chiesto di fare. Ciò è stato notato.
+0x000000E1 Non hai eliminato la specie ~mission_target_animal_species~ dalla faccia del pianeta ~mission_target_planet~, nonostante avessimo inviato tutte le informazioni necessarie sul tuo registro missione.
+0x0000002C Occorre eliminare queste creature infernali chiamate ~mission_target_animal_species~ con il laser purificatore. Che le loro fiamme siano domate dalla tua rettitudine.~p~Perché il pianeta torni a essere puro, è necessario eliminarne ~mission_num_kills_needed~. Sappi anche questo: ~group:star_clue~.
+0x000000CE Tutte le varietà della specie ~mission_target_animal_species~ bersaglio sono state eliminate. Torna da noi per ricevere il pagamento.
+0x000000F8 Tutte le varietà della specie ~mission_target_animal_species~ sono state eliminate. Torna sul pianeta ~mission_source_planet~ del sistema ~mission_source_star~ per ricevere la ricompensa.
+0x000000FD Missione compiuta! Tutti gli esemplari della specie ~mission_target_animal_species~ sono stati eliminati.
+0x000000B5 Sei tornato, ~player_title~ ~player_creature_name~.~p~La Filosofia dell'Ordine indica specificamente di evitare il disordine. Purtroppo la tua violenza irresponsabile ha causato un irreparabile disordine nella galassia!~p~Il Gran Consiglio dovrà rivalutare i tuoi contratti come un rischio per la nostra Filosofia.
+0x000000DE Sul pianeta ~mission_target_planet~ troverai la specie ~mission_target_animal_species~. Questi animali lasciano impronte luminose, quindi non dovrebbe essere difficile trovarli. Uccidili tutti, senza però danneggiare gli edifici, gli altri animali o i nativi.~p~~group:star_clue~. Il pianeta ~mission_target_planet~ sarà nelle vicinanze.
+0x0000005C Il miserabile sottoscritto è estremamente dispiaciuto nel dover constatare che non hai ancora annientato la specie ~mission_target_animal_species~, come specificato dal contratto registrato nel registro missione. Raggiungerai il pianeta ~mission_target_planet~ per annientare la specie ~mission_target_animal_species~? Ti interessa ancora il nostro compenso?
+0x000000EE Fermati, ~player_creature_name~!~p~Il tuo sparare in maniera indiscriminata ha causato più danni di quelle creature demoniache! Eravamo stati indotti a credere che tu avessi uno spiccato senso del bene e del male, ma è chiaro che non è così!
+0x00000052 Uhm, hai dimenticato la tua missione? Sono sorpreso. Il tuo profilo mostra un'ottima valutazione.~p~Va bene, non importa. Risolviamo subito:~p~Elimina ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ mutanti della specie ~mission_target_animal_species~ sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~.~p~Puoi identificare le creature interessate dalle nubi di feromoni luminosi. Buona caccia.
+0x0000000C ~player_title~ ~player_creature_name~! A causa di un dato errato in un rapporto di perlustrazione planetaria, uno dei pianeti di ~mission_source_empire~ è stato popolato con una sottospecie non idonea. Si tratta di animali aggressivi non solo nei confronti di altre creature, ma anche della nostra gente.~p~Ti andrebbe di aiutarci a estirpare la specie ~mission_target_animal_species~ dal pianeta ~mission_target_planet~?
+0x00000100 Elimina ancora ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^creatura sana^creature sane~ e la missione fallirà.
+0x00000013 Questo essere miserabile vorrebbe evitare di dover attirare la tua attenzione, ma si tratta di un'emergenza. Un insediamento pacifico di ~mission_source_empire~ è stato attaccato da alcuni organismi predatori. Il miserabile sottoscritto spera che tu voglia accettare il compito di estirpare i carnivori della specie ~mission_target_animal_species~ dal pianeta ~mission_target_planet~. Il tuo eventuale successo sarà benedetto da una ricompensa!
+0x00000096 Desolato di avervi disturbato. Addio.
+0x000000D3 Desolato di avervi disturbato. Addio.
+0x0000006C Desolato di avervi disturbato. Addio.
+0x000000C2 Oh oh! ~player_title~ ~player_creature_name~ è tornato... ma credo che quel titolo di ~player_title~ sia immeritato, dopotutto.~p~Vediamo... sei stato sconfitto da un gruppo di stupide bestie inermi che brillano nel buio.~p~Eh eh! Davvero, hai una nave potentissima! Peccato sia rimasto un segreto! Ah!
+0x00000027 Bene, bene: vorremmo che tu uccidessi ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~ della specie ~mission_target_animal_species~. Una volta sul lato del pianeta, potrai identificarle grazie al loro bagliore.~p~Ecco quanto sappiamo: ~group:star_clue~. Il pianeta che cerchi porta il nome di ~mission_target_planet~.~p~Se svolgerai per noi questo compito, ti ricompenseremo con ~mission_rewards~ Sporediti.~p~Presto, presto!
+0x000000C4 ~race~ aveva detto a ~player_creature_name~ di recarsi in fretta sul pianeta ~mission_target_planet~, invece ~player_creature_name~ ha perso tempo. Si dubita dell'efficienza di ~player_creature_name~.
+0x00000032 Sul pianeta ~mission_target_planet~ si narra quanto segue... ~group:star_clue~. Ahimè, sappiamo che, per mantenere l'armonia, è necessario rimuovere dal branco della specie ~mission_target_animal_species~ alcuni esemplari; ~mission_num_kills_needed~, per la precisione.
+

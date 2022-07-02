@@ -1,0 +1,63 @@
+﻿0x4782CC92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782CC94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782CC95 Option3~IDS__DialogId_10105_ControlId_603~
+0x4782CC93 Option5~IDS__DialogId_10105_ControlId_605~
+0x051414BE @10550,10551;1;0;;0,128,128   ~IDS__DialogId_10105_ControlId_1200~
+0x4782CC96 Option2~IDS__DialogId_10105_ControlId_602~
+0x4782CC91 Option7~IDS__DialogId_10105_ControlId_607~
+0x4782CC97 Option1~IDS__DialogId_10105_ControlId_601~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x4782CC9F Option9~IDS__DialogId_10105_ControlId_609~
+0x4782CCA0 Option8~IDS__DialogId_10105_ControlId_608~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x3017EF99 ~string~で作成したすべてのユーザーデータを消去しますか？　~REMOVE_USERDATA~
+0x40D6F8BD インストール完了後、ReadMe.txtを開く~VIEW_README~
+0x0AA43B92 推奨~RECOMMENDED~
+0x02699E57 セットアップの種類~SETUP_TYPE_TITLE~
+0x44CA6AE6 インストールするには、管理者アカウントが必要です。~ADMINISTRATOR_ACCOUNT~
+0x6CD070E6 アンインストールに必要な情報の一部が見つかりません。初期セットアップ中にエラーが起きた可能性があります。手動でファイルやフォルダを削除する必要があるかもしれません。~MISSING_UNINSTALL~
+0x7E8BB5FD インストールが完了しました~INSTALLATION_COMPLETE~
+0x59450AC4 セットアップの種類~br~セットアップの種類を選択してください~SETUP_TYPE_MESSAGE~
+0x72AA3BC2 インストールしたい機能を選択してください。また、インストールしたくない機能は選択を解除してください。「進む」をクリックして進みます。~IDS__DialogId_10105_ControlId_901~
+0x15538FF7 セットアップの種類を選択してください。~IDS__DialogId_10105_ControlId_51~
+0x2A8D9AF3 EAヘルプ~EA_HELP~
+0x7426EAA1 デスクトップのショートカット~DESKTOP_SHORTCUT~
+0x64A17D06 エラーが発生しました。セットアップを完了できないので、終了します。~GENERAL_ERROR~
+0x303D349E ファイル：~string~~br~エラー： ~string~~COMP_ERROR_MSG~
+0x15538FF6 セットアップの種類~IDS__DialogId_10105_ControlId_50~
+0x4DE32707 続ける前に、~string~を終了してください。~GAME_RUNNING_STRING~
+0x144073D1 ~string~は、選択されたディレクトリにインストールされます。~CUSTOM_SPORE_SETUP~
+0x353F37C7 続けるには、~string~をアンインストールしてください。アンインストールをする場合は「はい」を選択してください。SPORE（TM）にはクリーチャークリエイターのすべての機能が含まれていますので、すでに作成したクリーチャーは継続して使用できます。~SPORE_REMOVE_CSA_WARNING~
+0x494AA82F ~string~のアンインストールウィザードが中断されました。~br~~br~アンインストール作業を完了するには、再度、アンインストールを実行してください。~UNINSTALL_INCOMP~
+0x03BCF887 次のオプションから選択してください：~SELECT_OPTIONS~
+0x166E669A ~string~にインストールできません。~br~別のディレクトリを選択してください。~DANGEROUS_DIRECTORY_ERROR~
+0x1498EC13 インストールの準備ができました！~READY_TO_INSTALL~
+0x7D4A4E2F カスタム~CUSTOM~
+0x2BF6EA98 ディスク容量が不足しています。選択したボリュームからファイルを消去するか、別の保存先を指定してください。~NO_SPACE_MSG~
+0x7B152168 インストールをクリックしてインストールを開始します~br~~br~インストール内容を確認、変更したい場合は、「戻る」をクリックしてください。また、「キャンセル」でインストールを中止します。~BEGIN_INSTALLATION~
+0x689470D4 機能~ID_STRING1~
+0x27D33671 ファイルパスが長すぎます。もっと短くしてください。~DIR_TOO_LONG~
+0x4E1203F5 EAの最新のダウンロードマネージャーをインストールしますか？　最新のダウンロードマネージャーがないと、各種パッチと一部のコンテンツが入手できません。~EADM_INSTALL~
+0x06220BA5 「次へ」をクリックして、~string~をインストールしてください！~WELCOME_SPORE_MESSAGE~
+0x7E9C7EC7 次へ(&N) >~IDS__DialogId_10105_ControlId_1~
+0x7E9C7ECF キャンセル~IDS__DialogId_10105_ControlId_9~
+0x159098E0 < 戻る(&B)~IDS__DialogId_10105_ControlId_12~
+0x16741C9F インストール後~string~を起動~LAUNCH_SPORE~
+0x01FCAF57 My Spore Creations~SAVE_FOLDER~
+0x38A8F152 ~string~へようこそ！~WELCOME_SPORE_TITLE~
+0x0537CFA1 ~string~をアンインストール~UNINSTALL~
+0x16FBAEAF ~string~をプレイする準備ができました ~READY_TO_PLAY~
+0x15CC67E6 ~string~は~br~~string~にインストールされます。~RECOMMENDED_SPORE_SETUP~
+0x05082CC9 を完了する~IDPROP_SETUPTYPE_COMPLETE~
+0x23FD0D11 Spore(TM) クリーチャークリエイター~SCC_NAME~
+0x151DEC2F Spore(TM) はDirectXがないと正常に作動しません。~DIRECTX_WARNING~
+0x39040F38 お読みください~README~
+0x74C9257A 完了する~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x7CF6B4E8 カスタム~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x537FD947 カスタマイズする~IDPROP_SETUPTYPE_CUSTOM~
+0x6A8319B9 SPOREのウェブサイト~SPORE_WEB~
+0x4950A450 Spore(TM) クリーチャークリエイター トライアル版~SCC_TRIAL_NAME~
+0x0D849C4A 完了をクリックして、開始しましょう~CLICK_FINISH~
+0x46A61B9B ~string~は見つかりませんでした。~MISSING_FILES~
+0x1F726BCA プレイする~PLAY_SPORE~
+

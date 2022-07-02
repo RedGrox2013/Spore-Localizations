@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB V panelu dějství spravujte úkoly a příběh
+0x079A7CE1 Popis dějství
+0x079A7B8E Sem napište úvodní text dějství. Tento text se hráčům zobrazí na začátku dějství.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosféra
+0x07639100 Nastavujte hustotu atmosféry. Z hustým mračen šlehají blesky. Tenká vrstva atmosféry zase způsobí meteorické roje!
+
+# EP1-TerraThemes
+
+0x0771EF15 Vyberte pro svoji planetu motiv.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Přidávání úkolů
+0x07BB8BDE Každé dějství podporuje nejvýše tři úkoly. Úkol smažete levým kliknutím na ikonku s košem vedle něj a znovu spusťte ze seznamu Tutorial
+
+# EP1-WinLoseText
+
+0x0771E83A Zadejte text pro oznámení výhry a prohry ve vašem dobrodružství.
+0x07763B90 Text výhry/prohry
+
+# EP1-ClickGoalButton
+
+0x0762251C Panel Úkoly
+0x0762251D Přiřaďte velitelovi úkoly. Každé dějství může obsahovat až tři úkoly, které mohou být dokončovány v libovolném pořadí.~p~Dějství musí mít úkoly, aby hráči mohli vaše dobrodružství vyhrát nebo prohrát.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Nastavte úkol na "Promluvit s" nebo "Prozkoumat". Postavy, vozidla a předměty mohou mít na jedno dějství jeden úkol Promluvit s nebo Prozkoumat.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Nastavte protivníkovu osobnost na útočnou.
+0x07621DD7 Chování
+0x0797266C Provedené změny vyzkoušejte ve Zkušebním režimu.
+0x077AD33C Nastavte všímavost protivníka na maximální dosah, aby viděl velitele.
+0x0779D3EF Osobnosti
+0x077AC9A2 Umístěte tento označovač na člena obsazení, který má následovat kapitána.
+0x077AC9A1 Označovač následování
+0x077AC9D4 Označovač následování přetáhněte na kapitána ve světě.
+0x077AD164 Toto určuje, na jakou vzdálenost si člen obsazení všímá a reaguje na ostatní objekty.
+0x077AD163 Okruh všímavosti
+0x0779DB81 Stiskněte tlačítko Pohybování a následně stiskněte tlačítko Následovat
+0x0775CE3E Přidat člena obsazení
+0x0779D3F0 Osobnost člena obsazení nastavíte stisknutím příslušného tlačítka. Osobnost můžete volit od mírumilovné až po agresivní.
+0x0779DB5F Tato tlačítka vám umožňují, nastavit možnosti pohybu člena obsazení. Druhy pohybu zahrnují - bloumání, hlídkování, následování a statický.
+0x0779DB5E Pohybování
+0x078D7B6F Jakmile jste vložili kapitána, klikněte na panel Hrdina pravým tlačítkem myši a znovu zamiřte kameru na kapitána ve světě.
+0x0775CE3F Pokud jste tak ještě neučinili, tak zde přidejte příšerku do vaší palety Obsazení. Přetáhněte příšerku z palety obsazení a do světa umístěte její novou kopii.
+0x07621DD8 Prostřednictvím panelu Chování nastavte velitelova protivníka. Zde nastavujete osobnost, pohybování, všímavost a týmy.
+0x07B4EC8D Kteréhokoliv člena obsazení na světě zkopírujete tím, že podržíte klávesu ALT a kliknete levým tlačítkem a přetáhnete kopii.
+0x07D23C43 Výborně. Příšerce jste dali agresivní povahu.
+0x07C743A7 Globální chování
+0x07C742C5 Klikněte na tlačítko Použít globálně a veškerá nastavení u tohoto člena obsazení v probíhajícím dějství se projeví ve všech dějstvích.
+0x07C74109 Změny, které provedete, se projeví ve všech dějstvích. Vypnout tyto změny můžete kliknutím na tlačíko Globální režim a příští změny u člena obsazení se projeví pouze v probíhajícím dějství.
+0x0779B5E7 Panel chování
+0x0779B5E8 Po přesunutí kurzoru nad paletu obsazení se zobrazí tlačítko panelu chování.
+0x0779C5B4 Klikněte na tlačítko panelu chování.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paleta rostlinstva
+0x076390FE Pokud chcete změnit rostlinstvo své planety, zvolte paletu Rostlinstvo. Rostlinstvo se nachází pouze na živém povrchu a jedině za příznivé teploty. Existují tři skupiny rostlin - velké, střední a malé.
+
+# EP1-TerraMood
+
+0x0771F108 Čas můžete uzamknout nebo ho nechat normálně plynout.
+0x0771EFA4 Podle uvážení měňte kruhovou stupnici s denní dobou.
+0x0771F133 Šoupátkem Atmosféra měníte hustotu mraků. Tenká atmosféra způsobuje meteorické roje. Tlustá atmosféra vytváří blesková mračna.
+0x0796DE16 Paleta nálad vám umožňuje nastavovat denní dobu, teplotu, atmosféru a úroveň vody na planetě.
+0x079732F0 Atmosféra
+0x079732D9 Denní doba
+0x07A0112B Zámek času
+0x07957E9C Teplota planety
+0x07957EAD Šoupátkem nastavte teplotu planety.
+0x0796DD5B Paleta nálad
+
+# Complexity Meter
+
+0x07957630 Ukazatel vývoje zobrazuje, jak moc lze planetu ještě měnit.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Klikáním na tlačítko Volná kamera vypínáte a zapínáte režim volné kamery.
+0x079709BB Volná kamera
+
+### Checklist UI ###
+
+0x07735BDC Kontrolní seznam  ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 V dobrodružstvích můžete používat vozidla
+0x07621438 Vozidla jsou součásti obsazení. Stejně jako příšerky, i vozidla disponují vámi nastavenou osobností a vámi zadanými vzorci chování.
+
+### Tutorial Checklist
+
+0x079C1550 Postavit vesnici
+0x079C1527 Vytvoření světa
+0x079C1570 Přidávání osobnosti
+0x079C1523 Uložení
+0x079C1531 Základní ovládání
+0x079C152C Vítejte
+0x0797355A Ovládání kamery
+0x079712E5 Vícečetné úkoly
+0x079692E4 Přidat zvuky
+0x0796B1E0 Nastavte chování vozidla
+0x07C7ABAA Úvod
+0x079C1586 Vytvořte hru
+0x079C1565 Vložte budovu
+0x07970BD9 Panel dějství
+0x07733143 Přiřadit veliteli úkol
+0x07733141 Zvolit obsazení
+0x07733140 Umístit velitele
+0x07733144 Přiřadit chování
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x079E7D0E Ukazatel energie
+0x079E7D0F Ukazatel energie sleduje, kolik energie některé dovednosti spotřebují a kolik energie akumulují a dobíjejí baterie a generátory. ~p~Pokud vám energie dojde, nebudete moci používat vaše schopnosti.  ~p~Když má na sobě nějaké zařízení prvek k ovládání energie, můžete pomocí tohoto ovládání navýšit jeho schopnosti a spotřebu energie.
+0x07A8F04B Vítejte u kapitánského krejčího. ~p~Dokončováním dobrodružství v Rychlé hře a ve Vesmírné fázi zpřístupňujete nové doplňky pro vašeho kapitána. ~p~Ty naleznete v záložce kapitánské doplňky.
+0x07A8F03A Kapitánský krejčí
+
+# EP1- ShowActUI
+
+0x07635ED1 Panel dějství
+0x07972881 Zde nastavíte hudbu pro všechna dějství.
+0x07972865 Hudba dějství
+0x07635ED2 V panelu Dějství pojmenováváte a popisujete jednotlivá dějství vašeho příběhu.~p~Dobrodružství mohou mít až osm dějství.~p~Můžete zde také nastavit hudbu dějství vašeho dobrodružství.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 V paletě objekty obsazení popadněte hůlku
+0x0771EAE0 Dejme veliteli nějakou další práci
+0x0771EB72 Na hůlku přetáhněte nový úkol pro druhé dějství
+0x0771EB1C Hůlku umístěte na zem poblíž velitele
+0x0771EAC0 Kliknutím levým tlačítkem myši sem přidáte druhé dějství. Než budete moci přidat další dějství, bude muset mít aktuální dějství nastavený úkol.
+0x0771EC65 Typ úkolu nastavte na Dát
+0x0771ECB5 Zadejte text, který se zobrazí na kartičce úkolu a který hráči zadaný úkol Dát osvětlí
+0x0771EC85 Nastavte druhý označovač dávání na příšerku ve světě
+0x0771ED0B Svoji práci můžete kdykoliv uložit kliknutím na tlačítko Uložit
+0x078DB6DF Nehybné objekty
+0x078DB94A Nehybné objekty
+0x078DB6E0 Začněte kliknutím a přetažením nějakého nehybného objektu do světa.
+0x07763A67 Přidat dějství
+0x07B4E966 Ukládání dobrodružství
+0x078DB94B Klikněte na paletu nehybných objektů.
+
+# Checklist
+
+0x07A3CFA7 Tutoriály můžete znovu povolit v menu Volby
+0x07912CD1 Kontrolní seznam
+0x07912D11 Levé kliknutí myši na položky kontrolního seznamu vás provede vytvářením dobrodružství.~p~Jak procházíte seznamem, otevírají se vám tutoriály.~p~Otevřete je a levým tlačítkem klikněte na dostupnou položku.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 Minimapa je užitečným pomocníkem pro navigaci po vašem dobrodružství. Na minimapě se zobrazuje velitelova pozice, úkoly i jeho výchozí bod.
+0x0775F221 Minimapa
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Vítejte ve Tvoření dobrodružství
+0x0761D564 Vytvářejte dobrodružství a vyzývejte jejich prostřednictvím hráče Spore ze všech koutů světa. Dejte si čas na obeznámení se s nástroji, které budete používat.~p~Navrhněte si vlastní svět, zaplňte ho příšerkami, vytvořte úkoly a vyprávějte hráčům hry Spore vámi vymyšlený příběh - ať si to pěkně užijí.
+
+# Hint
+
+0x0771DE1F Sem zadejte text, který chcete, aby v dobrodružství daný člen obsazení řekl.
+0x078D93DA Text Mluvení k
+0x0771D3CF Klikněte levým tlačítkem na jméno a řádek s popisem a zadejte název dobrodružství
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087E0 Vytvořte si od základu úplně nového kapitána nebo si vyberte vámi stvořenou příšerku kliknutím na filtr "Všechny". ~p~Kapitán získá zkušenosti (Body za dobrodružství) pokaždé, když dobrodružství dokončíte. ~p~Zkušení kapitáni získají přístup k novému vybavení a doplňkům.~p~Vyberte si kapitána a vydejte se na cestu.
+0x07D087DF Vyberte si kapitána
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minimapa
+0x079E8124 Minimapa je užitečným nástrojem pro navigaci po planetě. ~p~Vyčtete z ní velitelovu pozici, úkoly i výchozí bod.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Nyní své dobrodružství otestujte znovu
+0x07763C47 Znovu Zkušební režim
+
+# EP1-Audio
+
+0x0796A67A Pokud jste tak ještě neučinili, vyberte ve Sporepedii nějaký audio objekt a přetáhněte ho do světa. Když na něj najedete myší, přehraje se.
+0x0796A679 Audio objekty
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paleta nehybných objektů
+0x0762143E Nehybné objekty mohou být použity jako dekorace, které hráči pomohou lépe se ve světě orientovat. Také se zde zobrazují nástroje a předměty, které lze sebrat, přesunout, dát darem či porazit.
+
+# EP1-PaintModeIntro
+
+0x076756BA Režim povrchu
+0x076756BB Režim povrchu vám poskytuje sadu motivů a nástrojů pro vybarvování vaší dobrodružné planety.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Změňte dosah zvuku tak, že nad daný objekt přesunete kurzor, přidržíte Shift a točíte kolečkem myši.
+0x0771F1F1 Umístěte do světa zvolený zvuk.
+0x0795826C Naklonění měníte vybráním objektu a otáčením otočného kroužku.
+0x07972C1C Hlasitost změníte tak, že zvolený objekt označíte a posunete ovládací prvek hlasitosti.
+
+# Add a building
+
+0x079AC52F Přidat budovy
+0x07C7361C Práce s budovami
+0x07C73644 Podržte klávesu TAB a myší najeďte na budovu, čímž odhalíte rukojeti pro natočení a náklon. Pomocí klávesy Alt a tažením kopírujte.~p~Příšerky a vozidla nemusí mezi budovami projet, jsou-li budovy umístěny příliš blízko u sebe.
+0x07BB5926 Umístěte budovy
+0x079AC7EF Pokud jste to ještě neudělali, označte ve Sporepedii budovu a přetáhněte ji do světa.
+0x079AC545 Zvolte paletu Budovy, abyste začali tvořit vesnici.
+
+# EP1-DragCreature
+
+0x075E4E54 Klikněte na příšerku levým tlačítkem myši a přetáhněte ji do světa někam poblíž velitele
+
+# EP1-DragHero
+
+0x07577C95 Klikněte na panel Hrdina levým tlačítkem myši a přetáhněte kapitána do světa.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Pomocí šoupátek měňte barvy živého a mrtvého povrchu. Změna nemusí být vždy patrná.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Klikáním na tato tlačítka můžete svět urychlovat.
+0x0771E735 Pro pokračování v úpravě klikněte levým tlačítkem myši na Režim tvorby.
+0x0771E683 Co o úkolu napíšete se zobrazí na kartičce úkolu.
+0x07763BB6 Tlačítka rychlosti
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Přidržením pravého tlačítka myši a pohybem myši nad planetou se porozhlédnete
+
+# EP1-Teams
+
+0x0771F3ED Když příšerku nastavíte jako Tým A, bude přiřazena k velitelovu týmu
+0x0771F410 Tým B je vždy proti veliteli
+0x0771F426 Žádné nastavení týmu znamená, že příšerka bude neutrální
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Zabarvení planety
+0x076390FC Povrch se může vybarvovat podle výšky pomocí vybarvovače výšky povrchu. Současné barvy odpovídají námětu vaší planety.
+0x07BBAF6C Barvu vody, vzduchu, pláží a útesů nastavíte levým kliknutím na tuto ikonku a poté zvolte barvu z výběru barev.
+0x07BBAF62 Útesy, Pláže, Vzduch, Voda
+0x07D2278E Posuňte označovač výšky na vyvýšeninu, kterou chcete vybarvit.
+0x07973230 Barva podle výšky terénu
+0x079731E7 Zvolte paletu Barvy Planety
+0x07DB8058 Kliknutím na ukazatel zvýšení terénu vytvoříte barevnou vrstvu.
+0x07D2274B Zvolte si barvu pro označovač z palety barev. Později ji přetažením z palety můžete vymazat.
+0x07BBAF80 Abyste dosáhli požadovaného vzhledu, zkuste změnit barvy planety.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Kartičky misí dobrodružství
+0x07634DAD Kartičky misí informují hráče o aktuálním úkolu.
+
+# EP1-CamZoom
+
+0x07563B2B Pomocí kolečka myši se přibližujete a oddalujete
+
+# EP1-FirstAdventure
+
+0x07D087E1 Vítejte v prvním dobrodružství!
+0x07D087E2 Kapitán získá zkušenosti, jakmile úspěšně dokončíte tohle dobrodružství. ~p~Postup kapitána můžete sledovat ve Sporepedii. ~p~ Na planetě kapitána ovládáte stejně jako příšerky ve Fázi vývoje tvorů. ~p~Koukněte, co je nového…
+
+##Terrain Mode items
+
+0x0762143F Dostupné obsazení
+0x07621440 Zde se zobrazují všichni členové obsazení, kteří byli ze Sporepedie přidáni, aby byli použiti ve vašem dobrodružství.
+0x0791911C Rostlinstvo
+0x07919119 Terraformace
+0x0791911B Počasí
+0x0791911A Výběr motivu
+0x079C153A Barvy terénu
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Ujistěte se, že udržujete úroveň energie dostatečně vysoko, jinak nebudete moci některé své schopnosti používat vůbec. ~p~Svoji energii zvýšíte, když kapitána vybavíte bateriemi a generátory.
+0x079E7E25 Energie
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Opět klikněte na tlačítko Režimu tvorby
+0x07763AD7 Znovu Režim tvorby
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Po kliknutí pravým tlačítkem myši na protivníka v paletě Obsazení, se na něj zaměří kamera.
+0x075E5364 Velikost měníte tak, že na člena obsazení najedete myší, přidržíte klávesu Shift otáčíte kolečkem myši.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Zkušební režim
+0x075F5A4F Během vytváření můžete své dobrodružství otestovat kliknutím levým tlačítkem myši na tlačítko Zkušební režim.
+
+# New Join with Sword
+
+0x07A81511 Úkoly se dvěma objekty
+0x07A81521 Uchopte označovač úkolu a pusťte jej na první ze dvou předmětů, které chcete označit příkazem Spojit.
+0x07A81620 Druhý označovač úkolu Spojit umístěte na předmět nebo příšerku, která může s prvním předmětem přijít do kontaktu.
+0x07BA7CC2 Úkoly pro dva předměty (část 2)
+0x07BA7DAE Najděte nebo vložte druhý objekt pro tento úkol a přetáhněte na něj značkovač druhého úkolu, čímž dokončíte větu.
+0x07A814D8 Úkoly Spojit a Blokovat vyžadují, aby dva předměty byly hotové. Aspoň jeden z nich se musí nezávisle pohybovat. Úkol spojit žádá po kapitánovi, aby je spojil dohromady. Blokovat znamená, že je kapitán musí držet od sebe oddělené.
+0x078E92E3 Zvolte úkol Spojit.
+
+# EP1-NameAdventure
+
+0x0771D3CE Jméno dobrodružství
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Toto je panel Použité obsazení
+0x076214A1 Zde se zobrazuje vše, co bylo do dobrodružství přidáno.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paleta obsazení příšerek
+0x075E079E Kliknutím levým tlačítkem myši vyberete Paletu obsazení příšerek.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Ukazatel vývoje zaznamenává počet dokončených a nedokončených úkolů. ~p~Jakmile se ukazatel zaplní, bylo dobrodružství úspěšně dokončeno.
+0x079E8180 Ukazatel vývoje
+
+# EP1-Vehicles
+
+0x0796C959 Zvolte tlačítko Chování daného vozidla
+0x0796B4AC Paleta vozidel
+0x0796B4AD Pro přidání vozidel do vašeho dobrodružství zvolte Paletu vozidel.
+0x0796C41F Po přesunutí kurzoru na nového člena obsazení se zobrazí tlačítko Chování.
+0x0796C41E Chování vozidla
+0x0796B623 Přidejte vozidlo
+0x0771F308 Nastavte chování vozidla
+0x0771F399 Přetáhněte označovač hlídkování a nastavte tak druhý bod okružní trasy vozidla.
+0x0771F293 Přidejte do obsazení vozidlo ze Sporepedie. Přetáhnutím z palety ho umístěte do světa.
+0x0796CC7D Klikněte levým tlačítkem na tlačítko Pohyb. Potom zvolte tlačítko Stráž.
+0x07D23877 Příkaz Přejít na funguje podobně, akorát postava zůstane na poslední značce.
+0x07D6257A Stisknutím klávesy Alt a najetím na značku nastavte další bod za prvním. Vozidlo se pohybuje z jednoho konce hlídané trasy na druhý a zpátky.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Audio panel
+0x079694A7 Pomocí této palety přidáváte do svého dobrodružství zvuky a hudbu.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Kartičky misí vám prozrazují vaše aktuální úkoly. ~p~Když dokončíte všechny úkoly, postoupíte do dalšího dějství.
+0x079E8049 Kartička mise
+
+# EP1-SelectHero
+
+0x07578A4F Umístit kapitána
+0x07578A50 Kapitán je hvězdou tohoto dobrodružství. Bude to hráčova postava.
+
+# EP1-TestModeIntro
+
+0x07632EEC Vítejte ve Zkušebním režimu
+0x07632EED Zkušební režim vám umožňuje testovat a hrát dobrodružství, které zrovna vytváříte.~p~Jakmile objevíte něco, co byste v dobrodružství rádi změnili, vraťte se do Režimu tvorby.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Kliknutím levým tlačítkem myši na Režim tvorby se vrátíte k editaci.
+0x075F5A50 Režim tvorby
+
+# EP1-Flora
+
+0x0771F197 Vyberte nové rostlinstvo, které chcete umístit na planetu. Rostlinstvo se nachází na živém povrchu, když je příznivá teplota.
+
+# EP1-DragGoal
+
+0x075F39B9 Úkoly pro velitele nastavíte tak, že na někoho z obsazení umístíte ve světě značku úkolu.
+0x07971E8D Označovače úkolu se v dobrodružstvích používají pro nastavení úkolů pro velitele. Úkoly zahrnují Promluvit s, Obdarovat, Zničit a Spřátelit se.
+0x07971D33 Přiřadit úkol
+
+##End
+
+0x0762407B Zvuky do dobrodružství umisťujete jejich přetahováním do světa. Následnou úpravou ovládacích prvků nastavíte, kam až bude zvolený zvuk slyšet nebo také kdy se začne přehrávat.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Zvolte paletu motiv.
+0x076390FA Motivy dodávají vaší planetě zcela nový barevný styl.
+0x07920810 Motivy
+0x079207E3 Paleta motivů
+
+#Test Mode Goal Cards
+
+0x07A80599 Ve Zkušebním režimu můžete úkoly přeskakovat kliknutím na značku vedle daného úkolu.
+0x07A805FE Klikáním na šipky v horní části Kartičky úkolu můžete přeskakovat dějství
+0x07A805F9 Přeskakování dějství
+0x07A805ED Přeskakování úkolů
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Pomocí ovládacích prvků značky měníte její velikost, intenzitu a orientaci.
+
+# EP1-SelectCreature
+
+0x075E2C84 Přidat příšerku
+0x075E2C85 Klikněte levým tlačítkem myši a přetáhněte příšerku do svého dobrodružství.~p~Jestliže není žádná příšerka k dispozici, vyberte si nějakou ze Sporepedie.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Vítejte v Režimu terraformace.
+0x07959720 Pomocí těchto značek vytváříte hory a hrbolatý povrch.
+0x07958D39 Vyberte libovolnou značku terénu a přetáhněte ji na planetu.
+0x0791F5B8 Hory
+0x07639102 Zde měníte terén, vybíráte si rostlinstvo a nastavujete prostředí planety.
+0x07B3A935 Zvolte si paletu povrchu a dostanete se k vzorkům terénu.
+0x0791F5B7 Paleta terénu
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Pomocí vzorce chování Zrození umožňujete příšerkám regenerovat se a množit se.
+0x07A032FB Zrození
+0x07A03155 Pro nastavení časového limitu pro dějství, klikněte na tlačítko Časomíra dějství. Poté nastavte čas, který chcete hráčům na dokončení úkolů daného dějství vymezit.
+0x07A03396 Frekvence nastavuje, jak často ke zrození dochází. Limit nastavuje, kolik jednotlivců může ve světě najednou existovat.
+0x07A034A1 Herní objekty byste měli otestovat. Nezapomínejte často používat Zkušební režim.
+0x07A033EF Herní objekty mohou dobrodružství dodat více šťávy a učinit ho zábavnějším.~p~Vyberte si nějaký ve Sporepedii a umístěte ho do světa.
+0x07A033E5 Herní objekty
+0x07A02DE0 Ve Sporepedii vyberte nějaký ruční předmět a přetáhněte jej do světa.
+0x07A02DD5 Ruční předměty
+0x07A02E13 Ruční předměty lze sebrat, nosit a dávat příšerkám.
+0x07A03149 Časomíra dějství
+0x07A02FFC Obrázek dobrodružství
+0x07A03553 Kliknutím na tlačítko Fotoaparát ve Zkušebním režimu vyfotíte obrázek Dobrodružství.~p~Ten bude potom zobrazen v panelu Pojmenování a popis.
+0x07A0304F Jestli chceš vytvořit obrázek, který by tvé dobrodružství zastupoval ve Sporepedii, umísti na zvolené místo kameru.~p~Pak otevři panel Pojmenování a popis a klikni na tlačítko Fotoaparát.~p~Vyber si obrázek, který nejlépe vystihuje tvá dobrodružství.
+
+# EP1-CamRotate
+
+0x07563B2A Kliknutím na prostřední tlačítko myši a pohybem myši otáčíte a nakláníte kameru. Příručka poskytne seznam kláves, které můžete použít.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Budovy
+0x0762143A Vaše výtvory z Tvoření budov jsou skvělým doplňkem vytvářených dobrodružství. Budovy mohou být součástí týmu a mohou k hráči promlouvat. Také mohou být pokročilými zbraněmi poškozeny. Agresivní postavy, které hráč neovládá, mohou na budovy, které jsou neurální nebo patří jinému týmu, útočit.
+

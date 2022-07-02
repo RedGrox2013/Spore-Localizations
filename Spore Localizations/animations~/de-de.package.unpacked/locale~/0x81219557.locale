@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Versetzt dem Ziel einen Schlag. Dies bedarf etwas Energie.
+0x00000013 Energie-Schlag
+
+# Part: Harpolizer
+
+0x00001047 Ein verbessertes Lied, das bei geringem Energiebedarf die Beziehungen verbessert.
+0x00001046 Inspirierendes Lied
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Macht deine Kreatur nahezu vollständig unaufspürbar, verbraucht aber Energie, solange es aktiviert ist.
+0x00001042 Tarnfeld
+
+### Complexity Meter ##
+
+0x07426209 Zu komplex
+0x0742620A Entferne einige Instanzen oder reduziere die Anzahl einzigartiger Modelle.
+0x05F110B4 Ist diese Anzeige gefüllt, kannst du keine weiteren Objekte hinzufügen.
+0x05F110B3 Komplexitätsanzeige
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Ein verbessertes Bezaubern, das bei geringem Energiebedarf die Beziehungen verbessert.
+0x00000101 Holo-Bezaubern
+
+# Part: Hop Gogs
+
+0x00001053 Ein verbessertes Tanzen, das bei geringem Energiebedarf die Beziehungen verbessert.
+0x00001052 Atemberaubendes Tanzen
+
+# Part: Icy Band
+
+0x00001029 Lässt ein Ziel kurzzeitig festfrieren.
+0x00001028 Frostblaster
+
+# Part: Jump Jet
+
+0x00001044 Springjet
+0x00001045 Ein sehr hoher Sprung mit mittlerem Energiebedarf.
+
+# Part: Plasma Pulser
+
+0x00001006 Impulsblaster
+0x00001007 Feuert einen konzentrierten Energieimpuls ab. Dies kostet etwas Energie.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Energiebetriebene Rüstung
+0x00001015 Absorbiert bei hohem Energiebedarf den gesamten erlittenen Schaden.
+
+# Part: Hypnomelder
+
+0x00001024 Verstandverbund
+0x00001025 Macht feindselige Gegner vorübergehend freundlich.
+
+# Part: Fettipopper
+
+0x00001059 Ein verbessertes Posieren, das bei geringem Energiebedarf die Beziehungen verbessert.
+0x00001058 Konfetti-Pose
+
+# Part: Imperial Robe
+
+0x00001036 Strahlende Pose
+0x00001037 Eine dynamische Pose, die hilft, die Beziehungen zu verbessern.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Reduziert ohne Energiebedarf den erlittenen Schaden geringfügig.
+0x00001012 Kampfrüstung
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Feuert eine Rakete ab, die in dem Gebiet um das Ziel herum Schaden verursacht. Dies kostet etwas Energie.
+0x00000001 Raketen-Angriff
+
+# Part: Regal Ring
+
+0x00001034 Königliches Bezaubern
+0x00001035 Ein unwiderstehliches Bezaubern, das hilft, die Beziehungen zu verbessern.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Ruft einen Schwarm lästiger Insekten herbei, die deine Gegner piesacken.
+0x00001022 Schwarm herbeirufen
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energiespeicher
+0x00001065 Erhöht die gesamte Energiekapazität.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Gesundheitsregeneration
+0x00001019 Erhöht die Gesundheitsregeneration.
+0x00002012 ~icon_amount~ Gesundheit/Sekunde
+
+# Part: Ducal Cape
+
+0x00001033 Ein schönes Lied, das hilft, die Beziehungen zu verbessern.
+0x00001032 Harmonisches Lied
+
+# Part: Regen-Deflector
+
+0x00001017 Wandelt einen geringen Prozentsatz des erlittenen Schadens direkt in Energie um.
+0x00001016 Energie-Absorption
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Erhöht kurzzeitig bei geringem Energiebedarf das Tempo.
+0x00001038 Sprint-Turbo
+
+# Part: Glider Pack
+
+0x00001041 Hält dich bei geringem Energiebedarf länger in der Luft.
+0x00001040 Schweben
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Blitz-Schlag
+0x00001001 Betäubt das Ziel und fügt ihm großen Schaden zu. Dies kostet etwas Energie.
+
+# Part: Toxic Crystal
+
+0x00001026 Giftklinge
+0x00001027 Verabreicht ein Gift, das über einen bestimmten Zeitraum hinweg einen geringen Schaden zufügt.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Gesundheitsturbo
+0x00001021 Erhöht die Gesamtgesundheit.
+
+# Part: Danger Reductor
+
+0x00000020 Erschafft eine Schutzkugel, die den erlittenen Schaden senkt und die Energieeffizienz verbessert.
+0x00000019 Schildgenerator
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Ein eleganter Tanz, der hilft, die Beziehungen zu verbessern.
+0x00001030 Anmutiger Walzer
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Erhöht die Regenerationsrate von Energie.
+0x00000010 Energieregeneration
+0x00000012 ~icon_amount~ Energie/Sekunde
+0x00000021 Abschirmung
+0x00000022 Manchmal ist Verteidigung die beste Verteidigung.
+

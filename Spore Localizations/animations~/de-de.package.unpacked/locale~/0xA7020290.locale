@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Glückwunsch! Mr Puzzle ist beeindruckt von deinem wunderbaren Gehirn. Er ist schon neugierig darauf, was da wohl noch ist hinter deiner Stirn.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Dieses Rätsel ist eigentlich gar nicht so schwer ...
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Geht's nicht weiter, nimm beide Hände, bitte sehr.
+
+# Act 2 description
+
+0x00000101 Jede farbige Karte öffnet eine passende Tür. Nur eine Tür führt zum geheimnisvollen Schlüssel.
+
+# Adventure name
+
+0x00000002 Mr Puzzles magische Tore
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Geheimnisvoller Schlüssel
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mein geheimnisvolles Zelt ist das beste von allen. Tritt ein und teste dein Hirn, es wird dir gefallen!
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Mr Puzzle
+
+# Act 3 description
+
+0x00000025 Du hast den Schlüssel gefunden! Verwende den magischen Teleporter, um ihn Mr Puzzle zu übergeben.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Mr Puzzle heiße ich, verblüffen werd ich dich.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Ein großes Hallo und Grüße seien dir bestellt! Willkommen in meinem kleinen Wanderzelt!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Zieh's durch an einem Stück! Und dazu wünsch ich dir viel Glück!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Wenn du klug bist, findest du meinen Schlüssel im Nu. Wenn nicht ... warten wir's ab, ich seh einfach zu.
+
+# Act 1 name
+
+0x00000020 Lerne Mr Puzzle kennen
+
+# 'Adventure lost' message
+
+0x00000012 Nicht aufgeben! Hast du's mit beiden Händen versucht?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Wir sehen uns wieder, ganz sicher sogar!
+
+# Act 3 name
+
+0x00000024 Gefunden!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 So einen Schlaumann hab ich selten gesehen!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Du stimmst mir da doch zu, nicht wahr?)
+
+# Adventure description
+
+0x00000003 Mr Puzzle fordert dich zu einem Intelligenztest heraus. Kannst du den Geheimnisvollen Schlüssel wiederbeschaffen?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 Rätsel, Mr Puzzle, Tore, Schlüssel
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Mein Schlüssel! Mein Schlüssel! Ich muss gestehen ...
+
+# Act 4 name
+
+0x00000102 Epochale Leistung!
+
+# Act 1 description
+
+0x00000021 Man weiß nie, was Mr Puzzle vorhat. Was verbirgt sich wohl heute in seinem geheimnisvollen Zelt?
+
+# Act 4 description
+
+0x00000103 Mr Puzzle ist beeindruckt!
+
+# 'Adventure start' message
+
+0x00000010 Mr Puzzle durchstreift die Galaxie und verblüfft Jung und Alt gleichermaßen. Welche Herausforderung bringt er wohl auf diesen öden Planeten?
+
+# Act 2 name
+
+0x00000100 Der geheimnisvolle Schlüssel
+

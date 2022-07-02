@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gratulerer! Herr Puslemann er imponert over den topptrimmede hjernen din. Han gleder seg til å gi deg nye oppgaver.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Denne oppgaven kan kanskje virke vanskelig.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Hvis ikke du greier det, kan du prøve å bruke begge hender.
+
+# Act 2 description
+
+0x00000101 Hvert fargekort åpner en matchende dør. Det er bare en av dørene som fører til Mysterienøkkelen.
+
+# Adventure name
+
+0x00000002 Herr Puslemanns magiske porter
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Mysterienøkkel
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mysterieteltet mitt er helt konge. Det er bare å komme innom for å teste hvor smart du er.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Herr Puslemann
+
+# Act 3 description
+
+0x00000025 Du har funnet nøkkelen! Bruk den magiske teleportøren og gi nøkkelen til herr Puslemann.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Jeg kalles herr Puslemann. Jeg trimmer hjernen til gjestene mine.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Heisann og hallo! Velkommen til mitt omreisende hjernetrimbonanza.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Dette greier du! Lykke til!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Hvis du er smart, finner du nøkkelen min. Hvis ikke ... vi får bare vente og se.
+
+# Act 1 name
+
+0x00000020 Hils på herr Puslemann.
+
+# 'Adventure lost' message
+
+0x00000012 Ikke gi opp. Prøvde du å bruke begge hender?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Vi treffes igjen, det kan jeg garantere!
+
+# Act 3 name
+
+0x00000024 Fant det!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 At du er en skikkelig smarting!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Det er du sikkert enig i.)
+
+# Adventure description
+
+0x00000003 Herr Puslemann utfordrer deg til en intelligenstest. Greier du å få tak i Mysterienøkkelen?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 hjernetrim, herr Puslemann, porter, nøkler
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Nøkkelen min! Nøkkelen min! Jeg må innrømme ...
+
+# Act 4 name
+
+0x00000102 Supert jobba!
+
+# Act 1 description
+
+0x00000021 Det er aldri godt å vite hva herr Puslemann finner på. Hva er det som befinner seg i mysterieteltet i dag?
+
+# Act 4 description
+
+0x00000103 Herr Puslemann er ganske imponert!
+
+# 'Adventure start' message
+
+0x00000010 Herr Puslemann vandrer rundt i galaksen og trimmer de små grå til både gamle og unge. Hva slags utfordring har han tatt med seg til denne ugjestmilde planeten?
+
+# Act 2 name
+
+0x00000100 Mysterienøkkelen
+

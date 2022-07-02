@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA Спорийский
+0x045882FB Спорезиец
+
+#Default Creation name
+
+0x04D93065 Объект без названия
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DE Выбирается и цвет, и текстура.
+0x0450C9DF Выбирается только цвет.
+0x0450C9E0 Выбирается только текстура.
+0x0450C9DD Выбираются только похожие фрагменты.
+0x0450C9DC Выбираются все фрагменты.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x047E7E83 “~newmodelname~”: опубликовать творение на веб-сайте Spore.com?~br~Имя пользователя: ~username~
+0x061349C1 "~newmodelname~": ошибка публикации.
+0x047E7E84 “~newmodelname~”: творение опубликовано!
+0x047E7E85 “~newmodelname~”: творение опубликовано!
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Выйти из "Лаборатории существ SPORE"?
+
+#paint mode paint buddy
+
+0x05BD6E0D Delete me [NOT IN USE]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD Ошибка создания.
+0x053740AE You may play the game with this creation, but it will not be shared for the following reasons: [NOT IN USE]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x04592638 <Щелкните здесь, чтобы выполнить вход>
+0x0563D473 “~modelname~”: ошибка публикации.
+0x045921AD “~modelname~”: творение опубликовано!
+0x045700B6 “~modelname~”: опубликовать творение на веб-сайте Spore.com?~br~Имя пользователя: ~username~
+
+#paint mode color chicklets
+
+0x05BF125F Нажмите и удерживайте левую кнопку мыши, чтобы просмотреть другие цвета
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------
+0x0535B1B2 Other's Creations [NOT IN USE]
+0x0535B1B0 MyCreations [NOT IN USE]
+0x0535B1B1 Suggestions [NOT IN USE]
+0x0535B1AF SPORE game [NOT IN USE]
+0x0535B1AE All [NOT IN USE]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0x9F3415A4 Полная версия Spore
+0xB4CEA019 Окрас Spore:ЛС (завершено)
+0xB4CEA017 Окрас Spore:ЛС (партнер 1)
+0xB4CEA016 Окрас Spore:ЛС (регистрация)
+0xB4CEA018 Окрас Spore:ЛС (партнер 2)
+0xB4CEA015 Элементы Spore:ЛС (окрашивание)
+0xB4CEA010 Элементы Spore:ЛС (демо-версия)
+0xB4CEA011 Элементы Spore:ЛС (регистрация)
+0xB4CEA013 Элементы Spore:ЛС (партнер 2)
+0xB4CEA014 Элементы Spore:ЛС (завершено)
+0xB4CEA012 Элементы Spore:ЛС (партнер 1)
+
+### this text goes in CSA###
+
+0x00000002 Продать за
+0x00000007 Продать за
+0x00000001 Копировать за
+0x00000003 Частичная окраска
+0x00000101 Слишком дорого
+0x00000105 Данный инструмент уже используется
+0x0000020C (NOT IN USE) The maximum number of vehicles of all types has already been purchased.
+0x0000020D (NOT IN USE)
+0x00000109 В городе может быть только одна ратуша.
+0x0000010B Недоступно.
+0x00000104 Достигнут лимит техники данного типа.
+0x00000102 Оч. много фрагментов
+0x00000008 Make Asymmetric [NOT IN USE]
+0x00000005 Building Count [NOT IN USE]
+0x0000010C Достигнут лимит техники
+0x00000201 (NOT IN USE) This item is too expensive and cannot be puchased now.
+0x00000208 (NOT IN USE) This planet needs a higher terraforming score in order to support more buildings.
+0x00000207 (NOT IN USE) Befriend or Conquer a tribe that has this tool in order to gain access to it.
+0x00000206 (NOT IN USE) Vehicles are automatically built for you.
+0x00000209 (NOT IN USE) The city hall is the hub for all other buildings in each city.  Build other buildings to expand the city!
+0x0000020A (NOT IN USE) There are no more slots to place turrets in.
+0x00000202 (NOT IN USE) Your creation is using too many parts already. Remove some in order to free up space.
+0x00000205 (NOT IN USE) Only 1 of each tool is needed for your tribe.
+0x00000204 (NOT IN USE) The maximum number of vehicles of this type has already been purchased.
+0x00000203 (NOT IN USE) There are no more slots to place buildings in.  Remove a building to free up space.
+0x00000107 Получить этот инструмент можно у других племен.
+0x00000108 Слишком низкий терраиндекс.
+0x00000106 Жители колоний приобретают технику самостоятельно.
+0x0000010A Нет места для новых башен.
+0x00000103 Нет места для новых построек.
+0x0000010D Создание, изменение или выбор космического корабля из каталога.
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Редактор
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Чтобы получить доступ к этому фрагменту, приобретите игру Spore.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D286 Удалить объект из игры? Игра будет предварительно сохранена и перезапущена.
+0x0450D285 Удалить объект из игры?
+0x0450D284 Удалить все подобные объекты из всех сохраненных игр?
+0x063AB852 Это существо - главный персонаж в одной из ваших игр. Чтобы удалить его, сперва удалите эту игру.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Некоторые фрагменты данного творения не входят в ваш комплект установки SPORE.
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C ~newmodelname~. Творение сохранено в раздел Споропедии "Мои творения".
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000008 ~newmodelname~: сохранить изменения, прежде чем продолжить?
+0x10000018 ~newmodelname~: сохранить изменения перед загрузкой?
+0x10000039 Сохранение изменений невозможно. Причина:~br~~br~~generic0~~br~~br~Все несохраненные данные будут потеряны. Выйти?
+0x10000038 Сохранить изменения в файле "~newmodelname~" перед выходом?
+0x10000019 Сохранение изменений невозможно. Причина:~br~~br~~generic0~~br~~br~Все несохраненные данные будут потеряны. Продолжить загрузку?
+0x10000009 Сохранение изменений невозможно. Причина:~br~~br~~generic0~~br~~br~Продолжить загрузку и потерять все несохраненные изменения?
+0x1000000A "~newmodelname~": сохранить в новом файле или заменить файл "~oldmodelname~"?
+0x1000002A "~newmodelname~": сохранить в новом файле или заменить файл "~oldmodelname~"?
+0x1000003A "~newmodelname~": сохранить в новом файле или заменить файл "~oldmodelname~"?
+0x1000000D Все изменения будут потеряны. Выйти?
+0x1000001A "~newmodelname~": сохранить в новом файле или заменить файл "~oldmodelname~"?
+0x1000000B "~newmodelname~": сохранить в новом файле или заменить файл "~oldmodelname~"?
+0x10000029 Сохранение изменений невозможно. Причина:~br~~br~~generic0~~br~~br~Все несохраненные данные будут потеряны. Начать новое творение?
+0x10000028 "~newmodelname~": сохранить изменения перед началом нового творения?
+0x10000040 You won't be able to edit your creature once you start accessorizing.  Do you want to continue? [NOT IN USE]
+0x1000000C Идет сохранение объекта "~newmodelname~". Выход из программы приведет к потере объекта "~newmodelname~". Выйти?
+

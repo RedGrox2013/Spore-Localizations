@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Tato schopnost vyřadí z provozu zábavní budovy a věže, což způsobí nespokojenost.
+0x0001003F Černý mrak
+
+# CLG_Plant
+
+0x00000042 Býložravec
+0x00000043 Býložravé buňky jedí převážně rostlinnou stravu.
+
+# CRG_CLG_Plant
+
+0x00010022 Píseň Sirény
+0x00010023 Tato schopnost dočasně okouzlí všechny příšerky ve vaší blízkosti. Tak se s nimi budete moci daleko snadněji přátelit.
+
+# SPG_CRG_Mix
+
+0x0001004E Díky této schopnosti bude vaše mezihvězdné cestování ještě svižnější.
+0x0001004D Rychlostní démon
+
+# CVG_CRG_Attack
+
+0x00010037 Mocná bomba
+0x00010038 Tato schopnost poškodí všechny budovy a vozidla ve svém dosahu.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatické povstání
+0x0001006C Konvertuje všechna města
+
+# SPG_Wanderer_Tool
+
+0x00010068 Randomizes the species on a planet. NOT IN USE
+0x00010067 Třída nezaměstnaných
+
+# CVG_Religious
+
+0x00000056 Náboženské civilizace využívají sílu slov a idejí k tomu, aby konvertovali ostatní národy na svůj způsob myšlení.
+0x00000055 Náboženské
+
+# SPG_TRG_Social
+
+0x00010052 Tato schopnost podstatně zlepšuje počáteční vztahy s mimozemskými rasami.
+0x00010051 Vlídné uvítání
+
+# TRG_Mix
+
+0x0000004F Pracovité
+0x00000050 Pracovité kmeny se snaží vytěžit z okamžiku maximum. Útočí a uzavírají spojenectví podle potřeby. Jsou to skvělí spojenci, ale pozor na ně.
+
+# CVG_CRG_Mix
+
+0x0001003C Tato schopnost přiměje cizí vozidla v dosahu bomby, aby na sebe útočila.
+0x0001003B Expolze podplacení
+
+# CVG_TRG_Mix
+
+0x00010042 Tato schopnost umožňuje rychleji odkoupit město.
+0x00010041 Bombardování reklamou
+
+# SPG_CRG_Social
+
+0x0001004C Tato schopnost učiní všechny vaše kolonie spokojenými a sníží tak pravděpodobnost revolty.
+0x0001004B Příjemné představení
+
+# SPG_CVG_Military
+
+0x00010056 Tato schopnost funguje jako repelent proti pirátům - snižuje pravděpodobnost jejich nájezdu.
+0x00010055 Piráti pryč
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Masožravec
+0x00000041 Masožravé buňky konzumují výhradně maso.
+
+# TRG_CLG_Mix
+
+0x00010029 Létající ryby
+0x0001002A Tato schopnost umožní náčelníkovi povolat hada, který vyžene ryby z vody.
+
+# SPG_TRG_Attack
+
+0x00010050 Tato schopnost vám poskytne slevy při veškerém obchodování s bojovými nástroji.
+0x0001004F Obchodník se zbraněmi
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Dostupné ve Fázi vývoje tvorů
+0x067775FA Dostupné ve Vesmírné fázi
+0x067775E7 Dostupné ve Fázi civilizace
+0x067775D9 Dostupné v Kmenové fázi
+
+# SPG_Trader
+
+0x00000061 Obchodník
+0x00000062 Obchodníkům  jde o zisk. Jsou loajální pouze všemocnému Sporáči.
+
+# SPG_Bard
+
+0x00000057 Bard
+0x00000058 Bardi jsou společenští, přelétaví baviči vesmíru. Galaxie je jejich hřištěm.
+
+# SPG_Warrior_Tool
+
+0x00010065 Svolání útočníků
+0x00010066 Otevře záhadný pirátský portál, který na planetě vyvolá zmatek.
+
+# SPG_Diplomat
+
+0x0000005D Diplomat
+0x0000005E Diplomaté jsou vyjednavači a snaží se řešit problémy. Mír v galaxii zavládne jedině prostřednictvím otevřené komunikace mezi jednotlivými druhy.
+
+# CVG_Economic
+
+0x00000053 Obchodní
+0x00000054 Obchodní civilizace ovlivňují ostatní národy prostřednictvím peněz a obchodních cest. Vytvářejí spojenectví, ale výhodná spíše pro ně.
+
+# CLG2_Discoverer
+
+0x00000103 Popis objevitele
+0x00000102 Objevitel
+
+# SPG_Knight_Tool
+
+0x00010069 Povolání mini-já
+0x0001006A Povolá miniaturní klon vaší kosmické lodi, který vám bude během vašich dobrodružství pomáhat.
+
+# CLG2_Killer
+
+0x00000101 Popis zabijáka
+0x00000100 Zabiják
+
+# SPG_Warrior
+
+0x00000066 Bojovníci si berou to, co chtějí a na svolení se neptají. Galaxie je pro ně trofejí, kterou získá ten nejsilnější.
+0x00000065 Bojovník
+
+# SPG_Wanderer
+
+0x00000068 Poutníci chtějí získat trochu od všeho. Galaxie je obrovská a oni je chtějí vidět celou.
+0x00000067 Poutník
+
+# CVG_CRG_Social
+
+0x00010039 Diplomatický derviš
+0x0001003A Tato schopnost zlepší s vybraným národem vztahy.
+
+# CRG_Attack
+
+0x00000047 Predátoři celý svůj život hledají kořist. Raději by vyhladili celý druh, než by "tančili" nebo použili "šarm".
+0x00000046 Predátor
+
+# TRG_CRG_Mix
+
+0x0001002F Krotitel šelem
+0x00010030 Tato schopnost umožňuje náčelníkovi očarovat okolní zvířata, která vám potom budou pomáhat při navazování kontaktů nebo boji.
+
+# CVG_CLG_Meat
+
+0x00010032 Díky této schopnosti budou vaše vozidla určitý čas imunní vůči poškození.
+0x00010031 Nezranitelnost
+
+# TRG_CLG_Meat
+
+0x00020025 Pasti
+0x00020026 Tato schopnost umožní náčelníkovi klást pasti, do nichž se mohou chytit divoká zvířata.
+
+# SPG_CLG_Meat
+
+0x00010043 Mocipán
+0x00010044 Tato schopnost zvyšuje účinnost všech zbraní.
+
+# SPG_CLG_Mix
+
+0x00010047 Vlídné slovo
+0x00010048 Tato schopnost vám poskytne slevu na veškerou standardní výbavu.
+
+# SPG_TRG_Mix
+
+0x00010053 Kolonizační mánie
+0x00010054 Tato schopnost vám poskytne slevy při veškerém obchodování s kolonizačními nástroji.
+
+# Zero
+
+0x06941DC3 Roků
+0x06941DC2 Tisíc
+0x06941DC0 Miliard
+0x06941DC1 Milionů
+
+# SPG_CVG_Religious
+
+0x0002005A Tato schopnost snižuje množství biologických katastrof ve všech vašich koloniích.
+0x00020059 Lesák
+
+# CLG_Mix
+
+0x00000045 Všežravé buňky jedí jakékoli jídlo je k dispozici.
+0x00000044 Všežravec
+
+# SPG_Bard_Tool
+
+0x00010058 Má zklidňující účinek na mimozemské rasy - dočasně vylepší vaše vztahy.
+0x00010057 Zklidňující píseň
+
+# CRG_Social
+
+0x00000147 Společenské
+0x00000048 Společenské příšerky neustále hledají nové přátele a spojence. Setkání s novým druhem je pro ně skvělým zážitkem.
+
+# CRG_Mix
+
+0x00000049 Přizpůsobivé
+0x0000004A Přizpůsobivé příšerky mají mnoho přátel i mnoho nepřátel. Rozhodují se na základě situace.
+
+# SPG_CLG_Plant
+
+0x00010045 Džentlmen
+0x00010046 Tato schopnost vám okamžitě poskytne slevu při vyjednávání o společenských nástrojích.
+
+# CRG_CLG_Meat
+
+0x00010020 Zuřivý řev
+0x00010021 Po použití této schopnosti začnou všechny okolní příšerky zděšeně utíkat pryč.
+
+# CVG_CLG_Plant
+
+0x00010033 Léčivá aura
+0x00010034 Tato schopnost opraví veškeré vaše budovy a vozidla.
+
+# SPG_Shaman
+
+0x00000064 Šamani chápou, že veškeré formy života jsou spojené. Celá galaxie je uvnitř nás samotných.
+0x00000063 Šaman
+
+# SPG_Ecologist
+
+0x0000005A Ekologové chrání přírodu. Druhy, které se snaží vykořisťovat a avyužívat galaxii musí být zničeny.
+0x00000059 Ekolog
+
+# CVG_TRG_Attack
+
+0x0001003D Vynalézavá bomba
+0x0001003E Tato schopnost poškozuje budovy a vozidla a může pomoci zabírat města.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safari vakuum
+0x0001005A Okamžitě zaplní váš nákladový prostor všemi druhy z dané planety.
+
+# SPG_Zealot
+
+0x0000005C Fanatici si jsou jisti, že jejich víra je ta jediná pravá, na které záleží. Ti, kdo s nimi nesouhlasí, nejsou hodni života v naší galaxii.
+0x0000005B Fanatik
+
+# SPG_Trader_Tool
+
+0x00010061 Peněžní infuze
+0x00010062 Obchodující soustavy bude ihned možné odkoupit.
+
+# SPG_CRG_Attack
+
+0x00010049 Prvotřídní kousek
+0x0001004A Tato schopnost zvyšuje počet životů vaší lodi.
+
+# CRG_CLG_Mix
+
+0x00010024 Povolat stádo
+0x00010025 Tato schopnost vyvolá tlupu přisluhovačů, kteří vám budou pomáhat při navazování společenských kontaktů nebo v boji.
+
+# TRG_Attack
+
+0x0000004C Agresivní kmeny se snaží konkurenci zničit. Nemilosrdně útočí a hromadí všechny zdroje pro sebe.
+0x0000004B Agresivní
+
+# SPG_Knight
+
+0x0000006A Rytíři jsou vznešení válečníci, kteří bojují za pravdu a nikoli pro osobní užitek. Galaktický mír nastane pouze tehdy, až bude zlo vyhlazeno.
+0x00000069 Rytíř
+
+# SPG_Scientist
+
+0x00000060 Vědci jsou logičtí a vypočítaví.
+0x0000005F Vědec
+
+# SPG_Shaman_Tool
+
+0x00010063 Zpáteční lístek
+0x00010064 V mžiku se vrátíte do své domovské soustavy.
+
+# SPG_Zealot_Tool
+
+0x0001005B Fanatické šílenství
+0x0001005C Konvertuje mimozemské soustavy k vašemu impériu.
+
+# SPG_CVG_Economic
+
+0x00020058 Tato schopnost zvýší produkci koření všech vašich kolonií.
+0x00020057 Kořeňolog
+
+# CVG_TRG_MixWin
+
+0x0001006D Globální fúze
+0x0001006E Odkoupí všechna města
+
+# Singular
+
+0x55496321 Miliarda
+0x55496323 Tisíc
+0x55496322 Milion
+0x55496324 Rok
+
+# TRG_CLG_Plant
+
+0x00010027 Osvěžující bouře
+0x00010028 Tato schopnost umožní náčelníkovi povolat bouři, která obnoví ovoce na stromech a shodí je na zem.
+
+# CVG_TRG_AttackWin
+
+0x0001006F ICBM
+0x00010070 Zničí všechna města
+
+# CVG_Military
+
+0x00000051 Vojenské
+0x00000052 Vojenské civilizace vzkvétají díky zbraním a síle. Všechny dostupné zdroje věnují na zničení ostatních civilizací.
+
+# TRG_CRG_Social
+
+0x0001002D Ohňostroj
+0x0001002E Tato schopnost umožňuje náčelníkovi vypálit ohňostroj, který zlepší vztahy se sousedy.
+
+# TRG_Social
+
+0x0000004E Přátelské kmeny chápou důležitost týmové práce. Vytváří spojenectví, jejichž prostřednictvím sdílejí zdroje a prosperují ruku v ruce s ostatními kmeny.
+0x0000004D Přátelské
+
+# Plural
+
+0x0694179E Miliardy
+0x069417A0 Tisíc(e)
+0x0694179F Miliony
+0x069417A1 Roky(ů)
+
+# CVG_CLG_Mix
+
+0x00010036 Tato schopnost dočasně vyřadí z provozu vozidla, věže i budovy.
+0x00010035 Statická bomba
+
+# TRG_CRG_Attack
+
+0x0001002B Ohnivé bomby
+0x0001002C Tato schopnost umožňuje náčelníkovi házet bomby, které poškozují okolní nepřátele a stavby.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Odstaví všechny nepřátelské lodě a věže na planetě.
+0x0001005D Nehybná přilnavost
+
+# SPG_Scientist_Tool
+
+0x00010060 Přesune kulturu a budovy zpět do doby kamenné.
+0x0001005F Vlna gravitace
+
+# Timeline GUIDS
+
+0x55496320 Historie
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 Undersøgen på planeten ~mission_target_planet~ er færdig. Meld tilbage til planeten ~mission_source_planet~ i stjernesystemet ~mission_source_star~.
+0x00000099 Det lykkedes! Rapporter til stjernesystemet ~mission_source_star~.
+0x00000098 Gennemført
+0x00000093 På vej til: ~mission_source_star~ system.
+0x00000097 Aktiv
+0x0000004E Planetkoordinaterne er uploadet til din Missionslogbog. Skynd dig før smitten spreder sig.
+0x00000081 Er du sikker på, at du ikke har lyst til at udsætte dig for en livsfarlig smitte fra en anden planet?~p~Vores liste med forsøgsdyr bliver mindre og mindre ...
+0x00000092 Undersøg stjernesystemet ~mission_target_star~. Prøv at komme i kontakt med researchstationen.
+0x00000064 Jeg vidste, at jeg kunne regne med dig. Find ud af, hvad der skete på researchstationen og meld tilbage hertil med det samme. ~p~Skynd dig, ~ep1_captain_full_name~, før smitten spreder sig.
+0x00000094 Undersøg stjernesystemet ~mission_target_star~. Prøv at komme i kontakt med researchstationen på planeten ~mission_target_planet~.
+0x000000B1 Efterforsk det nedstyrtede rumskib på planeten ~mission_target_planet~.
+0x00000071 For at være helt ærlig, så havde vi heller ikke lyst til at beame ned til en farlig planet for at undersøge en livsfarlig smitte.~p~Din race er klogere end den ser ud.
+0x00000041 Det er, som vi frygtede. Hele stationen gik tabt under smitten, undtagen denne lille pige. Forhåbentlig har hendes immunforsvar svaret på, hvordan vi undgår en lignende katastrofe i fremtiden.~p~ Det er ikke meget, men vi vil gerne give dig ~mission_rewards~ Sporebucks for din hjælp i denne sag.
+0x000000B2 Rapporter tilbage til planeten ~mission_source_planet~.
+0x00000000 ~ep1_captain_full_name~, vi har lige modtaget nyt om en biologisk katastrofe! En UFO er nedstyrtet tæt ved en af vores afsides økologiresearch-stationer. ~p~Al kommunikation til stationen er afbrudt. ~p~Vi er urolige for, at UFO'en medbragte en eller anden form for smittekilde. ~p~Vil du undersøge sagen nærmere for os?
+

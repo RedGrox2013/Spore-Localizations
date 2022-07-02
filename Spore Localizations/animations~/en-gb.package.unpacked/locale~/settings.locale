@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Good Enough 
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Tutorials
+0x058B62B1 Game Hints
+0x058B62B2 Edge Scroll
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Defaults
+0x0474E6B5 Graphic Settings
+0x0474E6B6 Low
+0x0474E6C2 Medium
+0x0474E6C6 High
+0x0474E6CC Shadows
+0x0474E6D0 Texture Detail
+0x0474E6D6 Graphics Effects
+0x0474E6DE Player Model Quality
+0x0474E6E4 Planet Quality
+0x0474E6E5 Lighting Quality
+0x0474E6E9 Screen Size
+0x0474E6ED Graphic Cache Size (MB)
+0x0474E6F0 Profiles
+0x058A2A2B Changing the screen size will require a restart and may affect your performance.
+0x058B6240 Full Screen Mode
+0x058B624C Windowed Mode
+0xBBFC7687 Depth of Field
+0x0674D28F Screen Bloom
+0x066A4BC8 Anti-Aliasing
+0x0695A585 Command-Return will toggle between windowed and fullscreen modes.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A29A7 Move Cell
+0x090A50A3 Click and drag the left mouse button
+0x090A50A1 Use the W, A, S, D keys
+0x090A30B5 Rectangle Select Vehicles
+0x090A50A2 Click the left mouse button
+0x090A30B4 Rectangle Select Tribe Members
+0x090A50AA Click and drag the left mouse button or use the W, A, S, D keys
+0x090A50A8 Click and drag the right mouse button or use the W, A, S, D keys
+0x090A50A7 Click and drag both mouse buttons
+0x090A50A9 Creature Follows Cursor
+0x090A50A6 Scroll the mouse wheel
+0x090A50A5 Click and drag the right mouse button
+0x090A50A4 Click the right mouse button
+0x080B23B6 Move Spaceship
+0x080B23B7 Pitch and Rotate Camera
+0x080B23B8 Change Spaceship Altitude
+0x080B23B3 Select Target
+0x080B23B2 Civilization
+0x080B23B4 Activate Tool
+0x088B63B5 Hover over the icons below to see how they work
+0x088B63B6 Creature
+0x088B63B7 Click here to map rotate to the right mouse button
+0x088B63B4 Click here to automatically follow the cursor
+0x088B63B3 Cell
+0x090A28A6 Select a Tribe Member
+0x090A23A4 Zoom
+0x090A24A7 Move Camera
+0x090A26A9 Pitch and Rotate Camera
+0x088B63B9 Tribe
+0x090A21A6 Give Directions
+0x090A23A3 Move Creature
+0x080B23B9 Space
+0x090A28A7 Select a Vehicle
+0x090A50AB Hold Command, Option and Left Mouse Button
+0x090A50AC Hold middle mouse button
+
+#### profile - user selects ####
+
+0x0474E6FC User Selection
+
+#### profile - performance ####
+
+0x0474E6F1 Performance
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A1 Status:
+0x0565289D Logout 
+0x0565289E Login
+0x0565289F Register
+0x056528A0 Server Connection
+0x056528A4 Unregistered
+0x056528A5 Create an account to connect to Spore.
+0x056528A6 Offline
+0x056528A7 Connect to Spore.
+0x056528A8 ~generic0~ Connected
+0x056528A9 Disconnect from Spore or change users.
+0x058B63D4 Aesthetic Matching
+0x056528A3 Prompt on startup
+0x056528A2 Online Options
+0x0626E392 Copy deleted to archive folder
+0x0626E391 Days after which to delete
+0x058B63D3 Buddy Content Only
+0x05E39554 Updating content database...
+0x0626E390 Delete Old Downloads
+0x067A21D7 Download Cache Size (MB)
+0x067A21D8 Only download content from subscriptions newer than this many days:
+0x067A21D9 Days.
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Audio Settings
+0x0473EF2C Graphic Settings
+0x0473EF2D Game Settings
+0x0473EF2E Capture Settings
+0x0473EF2F Online Settings
+0x0473EF30 Credits
+0x0473EF31 Save your settings
+0x0473EF32 Close Options without saving
+0x0473EF33 Settings
+0x0473EF34 Control Settings
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 Automatically log me into YouTube
+0x0589E518 Movie Size
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x0589E51C Picture Size
+0x0589E51D Small
+0x0589E51E Medium
+0x0589E51F Large
+0x058B6381 Game & Capture Settings
+0x058B63A0 Capture Movie Without Audio
+0x0631825F If you accepted the default locations during installation, you can find your photos and movies in ~generic0~(assettype)
+0x05D1185C Game & Help Options
+
+#### profile - image quality ####
+
+0x0474E6F5 Picture Quality
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D8A1 Player must be in the Spore Galaxy Screen to change Speaker Configuration
+0x0431D892 Master
+0x0431D893 Voices
+0x0431D894 SFX
+0x0431D896 Mute All
+0x0431D897 Mix
+0x0431D898 Speaker Configuration
+0x0431D899 2 speakers (stereo)
+0x0431D89A 4 speakers (quad)
+0x0431D89B 5.1 speakers (surround)
+0x0431D895 Music
+0x0431D89C Sound Quality
+0x0431D89D Volume of all sounds
+0x0431D89E Volume of game music
+0x0431D89F Volume of creature voices
+0x0431D8A0 Volume of sound effects
+
+## Mac version
+
+0x06318D68 If you accepted the default locations during installation, you can find your movies and videos in My Spore Creations/(asset type) in the Documents folder in your home directory.
+

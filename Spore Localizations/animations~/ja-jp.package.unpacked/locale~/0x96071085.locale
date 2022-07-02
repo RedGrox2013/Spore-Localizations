@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 このアドベンチャーで使用されている、下記のコンテンツはサーバーから削除されました。他のプレイヤーもアドベンチャーをプレイできるよう、再度公開しますか？~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 このアドベンチャーで使用されている、下記のコンテンツは公開されていません。他のプレイヤーがプレイできるように、コンテンツを公開しますか？~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A アドベンチャー内のコンテンツの一部が使用禁止になったか、削除されました。~p~スコアは記録されません。
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B アドベンチャー内のコンテンツの一部が使用禁止になったか、削除されました。~p~もう一度ダウンロードしますか？
+
+# Editing adventures offline
+
+0x07AA5B66 置き換え
+0x07AA5B67 キャンセル
+0x07AA5B64 このアドベンチャーでコンテンツをダウンロードするには、まずログインしてください。このアドベンチャーを編集するなら、それらのコンテンツは置き換えられます。
+0x07AA5B65 ログイン
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E このアドベンチャーには、使用禁止にされたコンテンツと、所持していないコンテンツが含まれています。~p~コンテンツの一部は置き換えられます。
+
+# Editing adventures with banned assets
+
+0x0750187C アドベンチャー内のコンテンツの一部が使用禁止になりました。~p~コンテンツの一部は置き換えられます。
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 このアドベンチャーで使用禁止になったコンテンツがあります。~p~記録は共有されません。
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 コンテンツのダウンロード進行状況
+0x00000004 コンテンツのダウンロード失敗
+0x00000005 このアドベンチャーで使用されているコンテンツをダウンロードするには、ログインする必要があります。
+0x00000002 アドベンチャーコンテンツのダウンロード中
+0x00000003 キャンセル
+0x00000008 公開中…
+0x00000007 公開の進行状況
+0x00000006 コンテンツの公開に失敗しました。
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 コンテンツのダウンロードに失敗しました。このまま続行しますか？~p~アイテムの一部が差し替えられ、スコアは記録されません。
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D アドベンチャー内のコンテンツの一部に、所持していないものがあります。~p~コンテンツの一部は置き換えられます。
+

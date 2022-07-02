@@ -1,0 +1,40 @@
+﻿0x00000041 ~guide: -h3~ Bauklotz-Kategorien
+0x00000081 ~guide: -h2~ Klicke auf einen an deinem Gebäude angebrachten Bauklotz, bis dieser blau markiert wird, um ihn auszuwählen.
+0x00000101 ~guide: -h1~ Bearbeitung von Bauklötzen
+0x00000111 ~guide: -h3~ Bearbeitung von Bauklötzen mit Griffen
+0x00000131 ~guide: -bullet~ Klicke auf den Bauklotz, den du bearbeiten möchtest. Der ausgewählte Bauklotz wird nun blau markiert.
+0x00000121 ~guide: -h2~ Hast du dein Gebäude um einen Bauklotz erweitert, kannst du diesen mit den Bearbeitungsgriffen bearbeiten.
+0x000001A1 ~guide: -h3~ Das Bauklotz-Budget
+0x000001C1 ~guide: -h2~ Jeder verbaute Bauklotz kostet dich einige DNA-Punkte. Hast du alle Punkte verbraucht, kannst du keine weiteren Bauklötze hinzufügen.
+0x000001D1 ~guide: -h3~ Komplexitätsanzeige
+0x00000051 ~guide: -h2~ Am oberen Rand der Bauklotz-Palette werden die verfügbaren Bauklotz-Kategorien angezeigt. Du hast die Wahl zwischen verschiedenen Dächern, Strukturkörpern, Konnektoren, Fenstern, Türen, Funktionen und Details. Klicke auf ein Register, um die entsprechende Bauklotz-Kategorie auszuwählen.
+0x00000191 ~guide: -h1~ Komplexität und Budget
+0x000000A1 ~guide: -bullet~ Platzierst du zwei Bauklötze auf dem Podest, überkreuzen sich diese automatisch, wenn ihr Abstand nicht zu groß ist.
+0x000000B1 ~guide: -bullet~ Platzierst du Bauklötze übereinander, werden sie automatisch gestapelt.
+0x00000091 ~guide: -h3~ Stapeln oder Überkreuzen von Dächern und Körpern
+0x00000021 ~guide: -h1~ Die Bauklotz-Palette
+0x00000071 ~guide: -h2~ Klicke in der Bauklotz-Palette auf den gewünschten Bauklotz und ziehe diesen von der Palette auf das Podest oder dein Gebäude.
+0x000000E1 ~guide: -h3~ Gebäudedurchmesser und -höhe
+0x000000D1 ~guide: -h2~ Bauklötze kannst du an beliebigen Punkten auf deinem Gebäude platzieren. Türen, Fenster und Details haben allerdings bestimmte Fixierpunkte, die dir bei der Ausrichtung und Platzierung helfen. Bewegst du diese Bauklötze auf dein Gebäude, rasten sie an der korrekten Position ein.
+0x00000061 ~guide: -h3~ Auswahl und Hinzufügen von Bauklötzen
+0x000000C1 ~guide: -h3~ Fixierpunkte
+0x000000F1 ~guide: -h2~ Der maximale Durchmesser und die maximale Höhe deiner Gebäude sind begrenzt.  Überschreitest du die jeweilige Grenze, wird der entsprechende Bauklotz rot markiert und haftet nicht.  Bauklötze, die nicht platziert werden können, verursachen keine Kosten.
+0x00000141 ~guide: -h4~ Die Bauklotz-Griffe:
+0x00000151 ~guide: -bullet~ Anpassungspfeile:  Ändern die Höhe, Breite, Länge oder Krümmung eines Bauklotzes.  Ziehe einfach an dem Pfeil, um zu sehen, was passiert.
+0x00000201 ~guide: -h1~ Erweiterte Baufunktionen
+0x00000161 ~guide: -bullet~ Rotationsring:  Dreht die Bauklötze.
+0x00000251 ~guide: -h3~ Richtungsplatzierung
+0x000001B1 ~guide: -h2~ Dein Bauklotz-Budget wird in der linken unteren Ecke des Gebäude-Designers angezeigt.
+0x000001E1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000221 ~guide: -bullet~ Wähle einen Bauklotz deines Gebäudes mit gedrückter Tab-Taste aus. Dadurch werden zusätzliche Teile-Griffe angezeigt, mit denen du die Platzierung der einzelnen Teile besser steuern kannst.
+0x000000F2 ~guide: -h3~ Entfernung von Bauklötzen
+0x00000031 ~guide: -h2~ Im Baumodus erscheint auf der linken Seite des Gebäude-Designers die Bauklotz-Palette.
+0x000001F1 ~guide: -h2~ Die Komplexitätsanzeige misst die strukturelle Komplexität deines Gebäudes. Wird dein Gebäude zu komplex, kannst du keine weiteren Teile hinzufügen.
+0x00000211 ~guide: -h3~ Erweiterte Teile-Griffe
+0x00000231 ~guide: -h3~ Kopieren von Teilen
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Baumodus
+0x000000F3 ~guide: -h2~ Möchtest du einen Bauklotz entfernen, wähle ihn aus und drücke Entf oder die "Backspace-Taste" oder ziehe ihn einfach vom Gebäude oder Podest.
+0x00000271 ~guide: -bullet~ Möchtest du einen Bauklotz nach links oder rechts verschieben, ohne automatisch die Höhe anzupassen, halte bei der Auswahl des Bauklotzes "Shift" gedrückt und ändere mit der Maus seine Position.
+0x00000261 ~guide: -bullet~ Möchtest du einen Bauklotz nach oben oder unten verschieben (ja, um die Schwerkraft musst du dir keine Sorgen machen), halte bei der Auswahl des Bauklotzes "Strg" gedrückt und ändere mit der Maus seine Position.
+0x00000241 ~guide: -bullet~ Möchtest du ein Teil kopieren, das dein Gebäude bereits hat, halte "ALT" gedrückt, klicke auf das Teil und bewege die Kopie an eine andere Position.
+

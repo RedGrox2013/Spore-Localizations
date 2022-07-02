@@ -1,0 +1,68 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 Captain, get out your spandex suit. We're sending you on a space journey.~p~We suspect we're not alone in this galaxy. We've picked up strange radio signals from planet ~mission_ufo_wreck_target_planet~ in orbit around our home star. We want you to investigate.
+0x00000018 I accept.
+0x00000024 Mission accomplished! We knew we weren't alone in the galaxy. Traces of an extinct civilization, hostile security drones, and The Grox.~p~It's obvious that we must continue our exploration of the galaxy and potentially prepare for hostilities.~p~In order to do so we'll need to set up colonies as bases of operation.~p~Our scientists are already reverse engineering the interstellar drive to replicate its technology. We've also developed a SETI device for your ship. It will pick up signals of other sentient life in the galaxy, indicated by radio signals over stars that you target.~p~We need you at the helm of our space program, Captain.
+0x0000002C I'm in.
+0x0000002D You still haven't visited planet ~mission_ufo_wreck_target_planet~? You need to leave our planet and travel there immediately!
+0x0000002F Understood. Bye
+0x00000002 You found an Alien crash site?~p~You must go back and scan the wreck site on planet ~mission_ufo_wreck_target_planet~. There may be survivors or alien technology or powerful secrets.
+0x00000004 Understood. Bye
+0x00000005 You still haven't visited planet ~mission_ruins_target_planet~?~p~You need to leave the solar system and travel to the ~mission_target_star~ system. There are questions that need to be answered.
+0x00000007 Understood. Bye
+0x00000008 You must go back and explore the ruins on planet ~mission_ruins_target_planet~.~p~This is a major scientific discovery that needs further research. We need to find clues as to why this sentient species went extinct.~p~Is our fate destined to be the same?
+0x0000000A Understood. Bye
+0x00000039 We commend you Captain. Mission Control out.
+0x0000003A Bye.
+0x00000070 I guess you are ready to leave our solar system. We will upgrade the spaceship to travel to other stars.
+0x00000074 I'm off to outer space.
+0x0000005B ...
+0x0000005C I forgot what I was doing...
+0x0000005D What is my assignment, again?
+0x0000005E I'm on a caper, but what is it again?
+0x0000005F Can you remind me of my mission?
+0x0000000B ...
+0x0000000C I forgot what I was doing...
+0x0000000D What am I supposed to do again?
+0x0000000E I'm on a caper, but what is it again?
+0x0000000F Can you remind me of my mission?
+0x00000010 ...
+0x00000011 I forgot what I was doing...
+0x00000012 What am I supposed to do again?
+0x00000013 I'm on a caper, but what is it again?
+0x00000014 Can you remind me of my mission?
+0x00000015 ...
+0x00000016 I forgot what I was doing...
+0x00000017 What am I supposed to do again?
+0x00000019 I'm on a caper, but what is it again?
+0x0000001A Can you remind me of my mission?
+0x0000001B Warning! Grox intruders detected.~p~All Grox intruders will be terminated.
+0x0000001C Grox?
+0x0000001D Initializing self defense code Grox999.~p~All Grox intruders will be terminated.
+0x0000001E We are not Grox!
+0x0000001F Warning! All Grox intruders will be terminated 
+0x00000020 For the last time... We are not Grox!
+0x00000061 Fly to planet ~mission_ufo_wreck_target_planet~.
+0x00000021 Scan spaceship wreck.
+0x00000003 Leave this Solar System.
+0x00000022 Fly to planet ~mission_ruins_target_planet~.
+0x00000023 Scan the ruins.
+0x00000025 Mission accomplished!
+0x00000063 Travel to planet ~mission_ufo_wreck_target_planet~ and investigate the surface.
+0x00000026 Follow your Radar to the crash site.
+0x00000006 Scroll mouse wheel to leave planet and solar system.
+0x00000027 Destination is in star system ~mission_target_star~.
+0x00000028 Use the Scan Tool to investigate the rubbled city.
+0x00000064 Return to your Homeworld to complete your mission.
+0x00000029 Fly to planet ~mission_ufo_wreck_target_planet~ in the ~mission_source_star~ system. Investigate the surface.
+0x0000002A Scan the wreckage using your Scan Tool. You'll need to get close to the crash site in order to use your Scan Tool. It has a limited range.
+0x00000009 Scroll the mouse wheel to leave the planet. Continue to scroll once in the solar system to enter interstellar space.
+0x0000002B Fly to planet ~mission_ruins_target_planet~ in star system ~mission_target_star~.
+0x00000030 Scan the ruins using your Scan Tool. You'll need to get close to the ruined city in order to use your Scan Tool, it has a limited range.
+0x00000031 Mission Accomplished!!! Travel home to report your findings.
+0x00000062 You have completed your mission. Report back to your Homeworld.

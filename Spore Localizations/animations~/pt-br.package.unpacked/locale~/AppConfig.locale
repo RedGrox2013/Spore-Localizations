@@ -1,0 +1,15 @@
+﻿# These strings correspond with the error ids found in SPCommonOptionIDs.h
+
+0x000007D0 O Script de Configuração Falhou.
+0x000003E9 Não foi possível iniciar o renderizador.~br~Verifique se o seu monitor está configurado para 32 bits de cores.
+0x000003F2 Um driver de vídeo antigo foi detectado.~br~~br~Para garantir um visual e jogabilidade corretos,~br~é recomendada a instalação de um driver de vídeo mais recente.
+0x000003E8 Já há outra instância do jogo sendo executada.
+0x000003F4 Um driver de vídeo antigo foi detectado.~br~~br~Para garantir um visual e uma jogabilidade corretos com várias GPUs,~br~a instalação de um driver de vídeo mais recente é necessária,~br~ou o modo de GPUs múltiplas deve ser desativado.~br~O jogo não será executado.~br~Veja o arquivo LEIA-ME para mais informações.
+0x000003ED O Antialising Controlado por Aplicativos deve ser configurado~br~ a partir do painel de controle da placa de vídeo.~br~~br~O jogo não pode ser executado.~br~Veja o arquivo LEIA-ME para mais informações.
+0x000007D1 Desculpe, mas a sua placa de vídeo está abaixo da especificação mínima.~br~O jogo não será executado.~br~veja o arquivo LEIA-ME para mais informações.
+0x000007D2 Desculpe, mas a sua placa de vídeo está abaixo da especificação mínima.~br~O jogo tentará ser executado, mas pode falhar ou apresentar um desempenho ruim.~br~Veja o arquivo LEIA-ME para mais informações.
+0x000003EA Não foi possível criar o dispositivo gráfico.~br~Direct X não está disponível.
+0x000003EC O jogo não encontrou arquivos de dados necessários para ser executado.~br~Pode ser necessário reinstalar.
+0x000003F3 Um driver de vídeo antigo foi detectado.~br~~br~Para garantir um visual e jogabilidade corretos,~br~é recomendada a instalação de um driver de vídeo mais recente.
+0x000007D3 O jogo pode ser executado fora do espaço de endereçamento com algumas configurações~br~e placas de vídeo, causando problemas de instabilidade.~br~~br~É recomendado que você instale o Service Pack mais recente para o Windows Vista~br~e procure drivers de vídeo atualizados.~br~~br~Para mais informações, veja o artigo da Base de Conhecimento da Microsoft~br~~br~ http://support.microsoft.com/default.aspx/kb/940105~br~~br~
+

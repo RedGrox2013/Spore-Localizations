@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E 接別的工作才是對的選擇。
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 我要接冒險任務啦！
+0xFADED01B 算我一個，我愛冒險。
+0xFADED01A 聽起來像是個有趣的冒險！我加入。
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 我很感謝你願意提供豐厚的報酬，但我還是必須婉拒。
+0xFADED01C 我必須拒絕，而且我也不打算告訴你原因啦。
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E 我懇求你的諒解。
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A 我想你還要點時間，先閃了。
+0xFADED009 也許下次。再見。
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 不客氣，再見了。
+0xFADED016 一點也不麻煩。再見。
+0xFADED015 感激協助。再見。
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 我懇求能卸下此任務的重擔。
+0xFADED022 我還有別的事情要做。
+0xFADED021 我的行程表無法配合這項任務。
+0xFADED020 我必須拒絕接受這項任務。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 在我離開前，我還有其他的問題。
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C 會去做啦！放心！
+0xFADED005 瞭解，再見。
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 知道了，任務控制中心。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 我想問你一些其他的事情...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A 先這樣，我們下次再談吧！
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 還有一件事...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 啊，當然！任務日誌，我會看看的！
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D 我現在不感興趣，以後再說。
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED028 我忘記了我的任務，可以提醒我一下嗎？
+0xFADED027 呃...能否再說一次，我該怎麼做？
+0xFADED024 我忘記我在做什麼了。我的任務是什麼？
+0xFADED01F 在這任務上，我需要一點提示...
+0xFADED025 你能否提醒我一下我的任務是什麼？
+
+# mission_incomplete -> do exit
+
+0xFADED010 瞭解，稍後回來。
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B 我看你很忙，等會聊。
+0xFADED008 實在很抱歉打攪了你。再見啦！
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 基於某些理由，我不想這麼做。
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00D 我不想幫"這號人物"！絕不！
+0xFADED012 不，整件事情感覺…不太對。
+0xFADED014 絕不！聽清楚了！我痛恨暴力。
+0xFADED00F 感覺不對勁，還是不了。
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 我知了，再見。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 另外...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 在我離開前，我還有其他的問題...
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED02C 喔...好...是的，沒關係。~p~如果你的心不在這上面，我們不會強迫你與其他生命體互動的...~p~
+0xFADED032 你得走自己的路。~p~一路順風，我的朋友。
+0xFADED033 很好…就這樣吧。這無損我們的感情。~p~好吧…我承認，確實有點影響。
+0xFADED02E 看來，你會自己設法成為充滿傳奇的太空艦長…雖然會很辛苦。~p~祝你好運了。
+0xFADED02D 當然，當然。我知道不大可能讓你這樣偉大的生物去做如此微不足道的事情。或許你可以在精品店花點錢安慰我一下？
+0xFADED030 ~race~對你的優柔寡斷感到質疑。很明顯的，你缺乏一股指引你方向的強大力量。多麼不幸。
+0xFADED02F ~race~不懂什麼叫退出。~player_creature_name~不是~race~。
+0xFADED031 你膽敢不履行對Grox許下的承諾！無禮的蠢貨！
+0xFADED02B 有意思的決定，~player_title~-~player_creature_name~。或許你擁有我們沒有的情報，儘管似乎不太可能。
+0xFADED034 了解，~player_title~-~player_creature_name~。我們欣賞你的禮貌。~p~這實際上替我們省下了大量的文書工作。星際植物輸送轉包契約的批准程序只需完成一式三份的三百六十二種不同文件的簽核。~p~當然，這已經遠低於標準作業程序的準則...你應該瞧瞧運輸發酵香料所需要的文件。
+

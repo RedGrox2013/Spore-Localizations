@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Flight101_EradicateAnimals Reject
+0x0000001E Flight101_EradicateAnimals Abort
+0x00000018 Flight101_FetchAnimal Reject
+0x0000001D Flight101_FetchAnimal Abort
+0x00000051 Flight101_Scan Reject
+0x00000075 ...
+0x00000065 Flight101_Scan Abort
+0x00000046 Hai effettuato la scansione della specie.
+0x00000045 Hai visitato ~mission_explore_num_cities_to_visit~ città.
+0x00000043 Hai eliminato gli esemplari infetti di ~mission_target_animal_species~. Attiva il dispositivo di comunicazione.
+0x0000001C In tal caso, pare che ci troviamo davanti al nostro nuovo capitano. Possono interessare nuove missioni ancora più esaltanti?
+0x0000007B Non prelevare gli animali da eliminare.
+0x00000076 Scusa, qual era la missione?
+0x00000077 Estirpa solo le creature lampeggianti. Grazie.
+0x00000078 Missione fallita. Troppe eliminazioni indesiderate.
+0x0000004B Hai eliminato gli esemplari infetti di ~mission_target_animal_species~. Attiva il dispositivo di comunicazione.
+0x00000036 Hai effettuato la scansione della specie.
+0x0000004A Scansione effettuata. Attiva il dispositivo di comunicazione.
+0x00000071 Sì.
+0x00000029 Hai qualche difficoltà nell'esaminare un esemplare? ~p~Dopo aver selezionato lo strumento Scanner, clicca con il pulsante sinistro su una delle creature lampeggianti in giallo.~p~Se non riesci a individuare la creatura giusta, prova a prendere quota utilizzando la rotellina del mouse: dall'alto ti sarà più facile individuare le frecce gialle.~p~E una volta scelto il bersaglio, potrai scendere di nuovo.
+0x00000050 Creature della specie ~mission_target_animal_species~ abbattute: ~mission_num_eradicated_creatures~. Creature rimanenti: ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^creatura^creature~.
+0x00000001 Il campione che hai prelevato era malato, affetto da un virus altamente contagioso in grado di mettere in pericolo l'intero ecosistema.~p~Naturalmente, vogliamo gestire la cosa con compassione. Abbiamo munito la tua astronave di mini laser estremamente maneggevoli, dotati della precisione necessaria per eliminare le creature infette senza arrecare danni ad altri esseri viventi.
+0x0000002C Avvia le comunicazioni.
+0x0000004D Tornerò presto.
+0x0000008F Esemplare di ~mission_item~ da esaminare ricevuto. Attiva il dispositivo di comunicazione.
+0x0000002D Avvia le comunicazioni.
+0x00000010 Un lavoro davvero notevole, cadetto. Ci hai fornito un esemplare eccellente per i nostri esami. Sonda due volte e preleva una, come dico sempre.
+0x00000017 In tal caso, pare che ci troviamo davanti al nostro nuovo capitano. Possono interessare nuove missioni ancora più esaltanti?
+0x00000089 Hai recuperato la creatura ~mission_item~.
+0x0000002B Avvia le comunicazioni.
+0x00000019 Eccellente! I nostri scienziati non vedono l'ora di analizzare i dati.
+0x00000015 Non hai ancora eliminato tutte le creature infette?~p~Assicurati di attivare il raggio laser e posiziona il puntatore del mouse sulle creature infette tenendo premuto il pulsante sinistro del mouse. Le creature si muovono rapidamente, perciò dovrai seguirle finché non le avrai colpite.
+0x0000003D Bene, ora capisco. Grazie.
+0x00000088 Hai visitato ~mission_explore_num_cities_to_visit~ città.
+0x0000000F Ottimo lavoro, cadetto. Volando così, la promozione a capitano non tarderà ad arrivare.
+0x0000003F Hai visitato ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^città^città~. Attiva il dispositivo di comunicazione.
+0x00000048 Hai eliminato gli esemplari infetti di ~mission_target_animal_species~.
+0x00000042 Hai prelevato con successo il seguente obiettivo: ~mission_item~. Attiva il dispositivo di comunicazione.
+0x00000052 Quella roba non salirà a bordo. Non se ne parla!
+0x00000005 So già come pilotare la mia astronave. Visto tutto, fatto tutto...
+0x00000022 Capito.
+0x0000004F L'esemplare di ~mission_item~ è stato deposto in un luogo troppo lontano dalla città. Prelevalo di nuovo e calalo entro le mura della città.
+0x00000024 Bene, ora capisco. Grazie.
+0x0000000D OK, sarà fatto.
+0x0000004E Hai prelevato il seguente obiettivo: ~mission_item~. Attiva il dispositivo di comunicazione.
+0x00000026 Esamina la nuova specie.
+0x00000047 Hai prelevato con successo il seguente obiettivo: ~mission_item~.
+0x0000002E Avvia le comunicazioni.
+0x00000021 E adesso cosa devo fare?
+0x00000061 Bene. E poi?
+0x00000027 Cattura un esemplare di ~mission_item~.
+0x00000037 Hai rimosso gli esemplari infetti di ~mission_target_animal_species~.
+0x00000004 Ora che sei un asso del volo, possiamo dotarti di alcuni sofisticati strumenti progettati per la tua astronave.~p~Abbiamo elaborato uno strumento per effettuare scansioni delle piante e degli animali che troverai nel corso dei tuoi viaggi.~p~E pare che l'abbiamo fatto giusto in tempo! Abbiamo recentemente perso i dati relativi a uno dei nostri animali all'interno della Sporepedia, proprio quando l'esemplare cominciava a manifestare alcuni strani sintomi.~p~Dovresti esaminare l'animale in modo da poter raccogliere maggiori informazioni sulla specie.
+0x0000003A I dati relativi a una creatura della Sporepedia sono scomparsi. Usa lo strumento Scanner per raccogliere informazioni in merito.~p~Lo strumento Scanner si trova nel pannello Strumenti principali.~p~La creatura in questione è caratterizzata da una scia luminosa. Per individuarla, ascolta il segnale del radar.~p~Potrebbe essere più semplice individuarla da un'altitudine differente. Usa i tasti +/- o la rotellina del mouse per cambiare altitudine.
+0x00000011 Un lavoro lodevole! Sei davvero in gamba. Hai ottenuto la stima e la fiducia del tuo pianeta natale. Vogliamo che tu piloti questa astronave per guidare la nostra razza verso la gloria e nuove esplorazioni galattiche.~p~Ti consegniamo la medaglia di capitano.~p~I nostri scienziati hanno creato un pilota automatico interplanetario, ma sarà necessario prima installarlo, capitano.
+0x00000034 Hai eliminato gli esemplari infetti di ~mission_target_animal_species~.
+0x00000002 Usa il pulsante destro del mouse per volare e i tasti +/- per cambiare altitudine.
+0x00000025 Suona bene. Sono pronto.
+0x00000033 Hai effettuato la scansione della nuova specie.
+0x00000007 Se pensi di avere le carte in regola, allora procedi pure.~p~Abbiamo munito la tua astronave di tutta l'attrezzatura necessaria per avviare il programma di esplorazione spaziale.~p~Te la senti di lasciare il pianeta?
+0x00000030 Usa lo strumento Scanner per inserire le informazioni della creatura selezionata nella Sporepedia.
+0x0000008E Perfetto! Attiva le comunicazioni.
+0x00000003 Congratulazioni, cadetto! Gran bel veicolo!~p~Stiamo ancora aggiungendo nuova strumentazione alla tua astronave, ma dovrebbe essere pronta a momenti! ~p~Hai mai pilotato un'astronave prima? No?~p~Uhm... beh... un volo di prova davanti agli occhi di ogni ~player_creature_name~ del pianeta ~race_homeworld~ non potrebbe essere un'occasione migliore.~p~Cosa ne dici? Miri già alla medaglia Capitano?~p~
+0x0000000C Seleziona il mini laser nel pannello delle armi e mira alle creature infette.~p~Fai attenzione a dove punti il laser: l'arma può distruggere edifici, veicoli e altre navi spaziali.~p~Ora vai, prima che il virus si diffonda ancora di più!
+0x00000086 Passa attraverso la sfera di ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^città^città~.
+0x00000009 Sì, so cosa sto facendo. Preparate la mia astronave per la partenza.
+0x0000008D Hai recuperato la creatura ~mission_item~.
+0x00000008 Non ancora, ho cambiato idea. Visitiamo delle città.
+0x0000008C Hai visitato ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^città^città~.
+0x00000023 Devi ancora scaricare l'esemplare in una delle nostre città.~p~Accedi alla stiva e seleziona l'oggetto da scaricare cliccandoci sopra con il pulsante sinistro. Il raggio trasportatore verrà così attivato, consentendoti di scaricarlo fino a terra. Ora vola sopra una delle nostre città e procedi. Tieni premuto il pulsante sinistro finché la creatura non è arrivata integra all'interno di una delle nostre città.~p~Se lascerai il pulsante troppo presto, l'esemplare subirà gravi danni.
+0x0000003C Per prevenire il dilagare dell'infezione, rimuovi ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^animale^animali~ della specie ~mission_target_animal_species~ dal pianeta natale.~p~Usa il mini laser reperibile tra le armi.
+0x00000079 Ancora ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^eliminazione non richiesta^eliminazioni non richieste~ e la missione fallirà.
+0x00000013 C'è qualche problema, cadetto? ~p~Devi volare attraverso ognuna delle 7 sfere sospese sopra le varie città. Usa i tasti freccia o tieni premuto il pulsante destro del mouse per pilotare l'astronave. Usa il la rotellina del mouse per salire o scendere di quota.~p~Ricorda che puoi anche volare in vari punti del pianeta cliccando con il pulsante sinistro sulla minimappa.
+0x00000040 Hai esaminato la nuova specie. Attiva il dispositivo di comunicazione.
+0x00000028 Elimina ancora ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^animale infetto^animali infetti~.
+0x00000006 Accidenti! Le informazioni che hai ottenuto tramite la scansione sono di grande aiuto.~p~Ora è chiaro che dobbiamo esaminare più attentamente questa specie. ~p~Abbiamo munito la tua astronave di un raggio traente; lo troverai sul pannello Stiva. Servitene per prelevare un esemplare e portacelo qui.
+0x00000041 La creatura in questione genera una strana scia luminosa.~p~La tua nave è stata equipaggiata con un radar che è possibile accendere e spegnere dal pannello Strumenti principali. Una volta raggiunta la superficie del pianeta, punterà agli obiettivi della missione e agli oggetti di interesse. Il segnale acustico del dispositivo si velocizza quando ti avvicini al bersaglio.~p~Successivamente seleziona lo strumento Scanner dal pannello Strumenti principali.
+0x00000020 Hai prelevato l'esemplare indicato. Ora dovresti consegnarlo in una delle nostre città.~p~Seleziona il carico da scaricare tramite il pannello Stiva e procedi nell'operazione.~p~Assicurati di farlo scendere integro sulla superficie, altrimenti dovrai procurarci un altro esemplare, oltre che pulire tutto.
+0x0000000B Usa il raggio traente, situato nel pannello Stiva, per prelevare la creatura da esaminare.~p~Assicurati di utilizzare il raggio abbastanza a lungo da consentire l'effettivo carico della creatura nella stiva.~p~Disattivando il raggio troppo presto, infatti, potresti mettere la vittima... ehm, l'esemplare, in una situazione poco desiderabile.
+0x0000000A Questo è lo spirito giusto!~p~Ogni città del pianeta ~race_homeworld~ ha lanciato una sfera gigante per celebrare il tuo primo viaggio spaziale! Davvero... non potrai non vederle!~p~Sali sulla tua astronave e fai un giro intorno al pianeta per passare sopra a ~mission_explore_num_cities_to_visit~ delle nostre città. Passa sulle sfere per romperle!~p~Non appena avrai finito, ti daremo altre istruzioni. ~p~Buona fortuna. E vedi di non rimediare neanche un graffio.
+0x00000014 Ci serve assolutamente quell'esemplare per studiarlo.~p~Dopo aver selezionato il raggio traente, clicca con il pulsante sinistro sulla creatura da prelevare e tienilo premuto finché non sarà entrata completamente nella stiva.~p~La carta missione verrà aggiornata non appena il prelievo sarà compiuto.~p~Una volta fatto, raggiungi una città qualsiasi e scarica la creatura all'interno delle mura. Assicurati di non farla cadere, sarebbe un guaio.~p~Invieremo sul posto un addetto per imprigionare la creatura una volta consegnata.
+0x00000031 Usa il mini laser nel pannello Armi.
+0x0000008B Il raggio traente si trova nel pannello Stiva.
+0x0000000E Scarica la creatura ~mission_item~ dentro le mura della città.
+0x0000003B Cattura un esemplare e scaricalo dentro una città per esaminarlo.~p~Con il raggio traente selezionato, clicca senza rilasciare il pulsante sinistro sulla creatura desiderata. Il raggio traente si trova nel pannello Stiva degli Strumenti. Usa il raggio finché la creatura non sarà al sicuro dentro la stiva.~p~Una volta fatto, raggiungi una città e scarica la creatura gentilmente all'interno delle mura. Per far ciò, seleziona l'oggetto desiderato dal pannello Stiva, quindi clicca senza rilasciare con il pulsante sinistro nel punto di scarico. Tieni premuto il pulsante finché la creatura non avrà toccato il terreno.
+0x00000039 Visita ancora ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^città^città~ e passa attraverso le sfere in orbita per farle esplodere. Per pilotare l'astronave, usa i tasti freccia o tieni premuto il pulsante destro del mouse.~p~Usa i tasti + e - o la rotellina del mouse per salire o scendere di quota.~p~Vai alla ricerca delle sfere luccicanti sopra le città e volaci attraverso.
+0x00000012 Clicca sull'oggetto ~mission_item~ nel pannello Stiva, quindi clicca senza rilasciare dentro una città qualsiasi.
+

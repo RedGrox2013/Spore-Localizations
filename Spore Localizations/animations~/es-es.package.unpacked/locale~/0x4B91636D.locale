@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Infíltrate en el centro de investigación del planeta ~mission_target_planet~.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000097 En progreso
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000098 Completada
+0x00000000 Saludos, ~ep1_captain_full_name~. Acabamos de recibir noticias terribles. Tenemos motivos para creer que los científicos c'servoides están construyendo un arma gigante en el planeta ~mission_target_planet~.~p~Necesitamos que alguien descienda hasta allí para echar un vistazo de cerca a su tecnología. ¿Te interesa?
+0x00000071 ¿Cambiarías de idea si te dijésemos que, según nuestros cálculos, tienes un 92,3% de probabilidades de éxito?
+0x0000004E Todo lo que necesitas saber está en tu historial de misiones.~p~Recuerda que estás ahí para reunir datos científicos. Intenta no volar nada.
+0x00000081 No te pedimos que te lances de cabeza empuñando armas de pulso. Solo queremos una pequeña muestra de la tecnología de la TX-5000.~p~Si te mantienes donde no te puedan ver, las posibilidades de que te vaporicen son muy pequeñas.
+0x00000094 Infíltrate en las instalaciones de investigación del planeta ~mission_target_planet~, en el sistema estelar ~mission_target_star~. Mantente oculto y evita un enfrentamiento directo.
+0x00000095 El programa de armas TX-5000 se ha detenido. Vuelve al planeta ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x00000041 Lástima que la TX-5000 explotase. Si tenemos suerte con el análisis de los restos, podremos dar con la fuente de energía mediante técnicas de ingeniería inversa.~p~Por supuesto, NOSOTROS nunca usaríamos la tecnología como arma. Solo nos interesa su... esto... su potencial para crear energía limpia y renovable.~p~En cualquier caso, gracias por la ayuda. No cabe duda de que te has ganado estas ~mission_rewards~ esporetas.
+0x00000092 Infíltrate en las instalaciones de investigación del sistema estelar ~mission_target_star~. Mantente oculto y evita un enfrentamiento directo.
+0x00000064 Nuestro espía, Bantuii, ya está dentro de la base. Cuélate evitando a los guardias y encuéntralo. El te dará nuevas instrucciones.~p~¡Ésta no es una misión de combate, ~ep1_captain_full_name~! La ocultación y la paciencia son la clave.~p~¡Buena suerte!
+

@@ -1,0 +1,237 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.# Any change you would do in this file will be overwritten by the script.# If you need to modify any of the text, please modify the file with the same name under#   Data\GameplayConfig\SpaceGame\SpaceConversations\.# That file has the same name but different (.cnv) extension.
+
+0x00000093 KÜLDETÉS STÁTUSZ: Befejezetlen;~p~EMLÉKEZTETŐ: A ~mission_multi_delivery_item~ ereklyék visszaszerzése az alábbi bolygókról: ~mission_multi_delivery_item_planet_list~. Leszállítás a ~mission_multi_delivery_buyer_planet~ bolygóra.~p~MEGJEGYZÉS: Részletek a küldetésnaplóban.
+
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000086 Csak még egy dolog…
+0x00000089 Mielőtt elindulok…
+0x00000088 Kérdezhetek valamit?
+0x00000087 Még egy dolog…
+0x00000044 Teljesüljön Spóriusz akarata! Azonnal induljon!
+0x00000035 Aha, azt hiszem, tudok segíteni.
+0x00000038 Oké, vágjunk bele!
+0x00000036 Jól hangzik, benne vagyok.
+0x0000005E Várjon, még valami.
+0x0000005F Még valamit meg kell kérdeznem…
+0x000000E4 Azt hiszem, akkor vissza kellene mennem…
+0x000000E5 Úgy tűnik, itt végeztem. Megyek is.
+0x000000E3 Nos, azt hiszem, itt végeztem.
+0x00000062 Oké, már indulok is.
+0x00000063 Nos, viszlát.
+0x00000061 Kérdezhetek valamit?
+0x000000E6 Kösz, ezzel végeztem is.
+0x000000A7 Tessék? Oké. Értem. Vettem.
+0x000000AA Huh? Kaphatok egy frissítőt?
+0x000000B4 …
+0x000000A8 ……
+0x0000009C Oké, csak mégy egy dolog…
+0x000000AD …
+0x0000001F Hogyan fogom megtalálni ezeket a tárgyakat?
+0x000000A9 Mi? Ki? Hol? Mi folyik itt?
+0x0000009D Értem. De van egy másik kérdésem.
+0x000000AB Aha. Elfeledkeztem a küldetésemről.
+0x000000AC Felidézné nekem a küldetésemet?
+0x0000009E Rendben. Hadd kérdezzek valami mást…
+0x000000E9 Tű a szénakazalban! Végeztem!
+0x000000EA Nem tetszenek ezek az esélyek. Végeztem.
+0x000000E8 Csak még egy kérdésem lenne...
+0x000000F5 Ó. Oké, rendben vagyok.
+0x000000ED Oké, értem.
+0x000000F6 Látom már, hol hibáztam. Kösz.
+0x000000F7 A kézbesítés sikeres.
+0x00000076 Még valami…
+0x00000047 Fantasztikus! Elénekelnék önnek egy dalt, ha azzal nem késleltetném az indulását!
+0x00000042 ~player_creature_name~ ~player_title~, reménykedünk benne, hogy elhozta nekünk a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~tárgyat!~p~Így van?
+0x00000077 Indulnom kellene. Viszlát.
+0x00000068 Feladja? De mi számítottunk önre! Ez becstelenség… feladni, amikor az emberek számítanak önre… ez nem helyes! A jövőben próbáljon kisebb csalódást okozni az embereknek.
+0x00000075 Ezenkívül…
+0x00000017 Amikor olyan hírnévre tesz szert, mint mi, márpedig nekünk elég nagy a hírnevünk, akkor a szerencse néha csak úgy az ölébe hullik. Most hallottuk az űrpletykát, hogy a ~mission_multi_delivery_buyer_planet~ bolygón ~mission_multi_delivery_item~ tárgyakat keresnek. És egy olyan ravasz ~player_creature_name~, mint maga biztosan tudja, mennyire ritkák ezek a holmik. Pontosan! Errefelé egyáltalán nem ritkák!~p~Tele van a kezünk elkötelezettségekkel, nem akarja elintézni nekünk ezt az ügyet? Röpködjön egy kicsit, gyűjtse be a ~mission_multi_delivery_item~ tárgyakat, aztán vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra, és végül térjen ide vissza a fizetségéért.
+0x00000046 Kitűnő! Közreműködése megerősíti hipotézisünket ~player_creature_name~ ~player_title~! tekintetében.
+0x00000014 A ~mission_multi_delivery_item~ tárgyakért egykor szinte megőrültek a civilizációnkban! Aztán kiestek a kegyeinkből, és a birtokosok szégyenükben elrejtették őket valahol messze. Ám most újra divatba jöttek, és a ~mission_multi_delivery_buyer_planet~ bolygó lakosai mindent megtennének a birtoklásukért! Szomorú dolog ez, semmi eredetiség... a divat rabszolgái! De ki vagyok én, hogy ítélkezzek felettük?~p~Mit gondol, tudna keríteni néhány ~mission_multi_delivery_item~ tárgyat, és elvinni őket a ~mission_multi_delivery_buyer_planet~ bolygóra?
+0x00000074 Mielőtt elindulok, lenne néhány kérdésem…
+0x00000067 Ez a szerződés durva megsértése! Ha alacsonyabbrendű faj volnánk, talán beperelnénk minden egyes spóradollárért, amit magára költöttünk!~p~Szerencséje, hogy ilyan kedves, megértő népség vagyunk… és nagyon jók az áraink is.~p~Körülnézett már a galaktikus áruk boltjában?
+0x0000006E Megbízhatatlanságáról hamarosan szövetségünk minden pontján értesülni fognak.
+0x0000006D Megszegte az ígéretét, melyet Spóriusz szeme láttára és füle hallatára tett nekünk. Egyházi bíróságunk megfontolja, milyen következményekkel jár ez a lelkére nézve.
+0x00000041 Isten hozta, ~player_creature_name~ ~player_title~.~p~Azt hallottuk, ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat hozott a bolygónkra.~p~Készen állunk fogadni önt és a szállítmányát.
+0x00000070 Hű, remek!~p~Boldogan fogadjuk a szállítmányt… de… úgy tűnik, még meg kell találnia ~mission_multi_delivery_buyer_num_needed_items~ darabot, igaz?~p~Oké, helyes. Mi itt leszünk… várunk.
+0x000000F1 Elhozta az összes ~mission_multi_delivery_item~ tárgyat. Térjen vissza a ~mission_source_star~ rendszerbe a jutalmáért.
+0x0000006F Az ön faja képes egyáltalán a sikerre? Önnek köszönhetően kételkedni kezdünk a ~player_creature_name~ fajról felállított elméleteinkben.
+0x00000043 Jobb hellyé tette a világegyetemet… köszönjük.
+0x00000026 Most nem alkalmas.
+0x000000F3 Küldetés teljesítve. Elhozta az összes ~mission_multi_delivery_item~ tárgyat. Térjen vissza a ~mission_source_star~ rendszer ~mission_source_planet~ bolygójára a jutalmáért.
+0x00000072 A Páratlan bizonyára az ön számára is meghatározott egy helyet a Nagy Tervben. Nekünk, alsóbbrendű lényeknek azonban fogalmunk sem lehet róla, miféle szerepet szánt egy magafajta született kudarcnak.
+0x00000022 Hogyan kutassak át egy teljes csillagrendszert?
+0x000000EC Tökmindegy. Ebből elegem volt.
+0x00000032 Később visszatérek. Minden jót.
+0x000000EB Ehhh. Felejtsük el, úgyis sok a dolgom.
+0x0000006B KÜLDETÉS SIKERTELEN. OK: ~player_creature_name~ félbeszakította a küldetést.~p~HATÁRTALAN CSALÓDOTTSÁG KIFEJEZÉSE
+0x00000045 Az államszövetség Nagytanácsa köszönetét fejezi ki önnek. Kérem, siessen.
+0x00000021 Nem olyan ez, mintha tűt keresnék a szénakazalban?
+0x0000003C Nem, ebben nem segíthetek.
+0x0000003D Később visszatérek. Minden jót.
+0x0000003B Valaki mást kellene keresnie erre a munkára.
+0x00000055 KÜLDETÉS ELUTASÍTVA. INDOKLÁS: ~player_creature_name~ alsóbbrendű faj.
+0x000000BD Üdv, cimbora. Úgy hallottuk, hozott nekünk egy egész szállítmány ~mission_multi_delivery_item~ tárgyat. Legalább ~mission_multi_delivery_buyer_num_needed_items~ darabot. Ez nagyszerű, ember! Itt vannak magánál?
+0x00000006 KÜLDETÉSTÍPUS: A ~mission_multi_delivery_item~ tárgyak megszerzése és leszállítása a ~mission_multi_delivery_buyer_planet~ bolygóra.~p~KEZDŐ LOKÁCIÓ: A ~mission_multi_delivery_item~ tárgyak megtalálhatók ebben a csillagrendszerben
+0x000000BF A mennyek megnyílnak, és ím, a sors nyílvesszeje, a…khm…~p~Eh, mindegy, nem megy ez most nekem. Hiszen hozott ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat! Elhozta őket, igaz?
+0x0000004F Sajnálatos. Szerettünk volna együtt dolgozni önnel ezen az ügyön. Talán majd máskor.
+0x0000016E Nagyszerű! Tudtuk, hogy kiváló munkát fog végezni!
+0x00000040 Isten hozta, ~player_creature_name~ ~player_title~.~p~Azt hallottuk, ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat hozott a bolygónkra. Így van?
+0x00000050 Persze, persze. Tudtam, hogy reménytelen ilyan apró-cseprő üggyel zavarni egy magafajta hírességet. Esetleg megnyugtatna azzal, hogy elkölt némi pénzt a butikjainkban?
+0x0000016D NYUGTÁZVA. AZONNAL VÉGREHAJTANI.
+0x00000012 A Méltányosság Uralmának századik esztendejében egy baleset következtében több ~mission_multi_delivery_item~ tárgy szóródott szét a közeli világokon. Néhány kivételével mindegyiket sikerült begyűjteni és elhelyezni múzeumunkban a ~mission_multi_delivery_buyer_planet~ bolygón. Elvégezné a begyűjtést? A maradék darabok mind ebben a csillagrendszerben találhatóak.
+0x00000020 Pontosan hol kezdjem a keresést?
+0x00000049 Köszönjük a közreműködését!
+0x00000037 Rendben, vágjunk bele.
+0x00000013 Köszönöm, minden jót.
+0x00000060 Van még egy kérdésem.
+0x00000065 Könyörgöm a megértéséért.
+0x00000064 Sajnálom, hogy nem segíthettem. Viszlát.
+0x00000034 Szeretnék kérdezni valami mást…
+0x00000048 Csodálatos! Tudtam, hogy maga a megfelelő ~player_creature_name~ a feladatra!
+0x000000C5 Igen, elhoztam a szállítmányt.
+0x00000011 Dekódoltuk egy eltűnt idegen faj dokumentumait, melyek arról tájékoztatnak minket, hogy ~mission_multi_delivery_item~ tárgyak találhatók szétszórva különféle világokon. Ezeknek a tárgyaknak az elemzése nem csak az ősi fajról árulna el nekünk sok mindent, de fényt deríthetne a jelen rejtélyeire is. Az elemzéshez a legjobb létesítmények a ~mission_multi_delivery_buyer_planet~ bolygón találhatóak.~p~Hajlandó lenne megszerezni ezeket a tárgyakat, és elvinni őket a ~mission_multi_delivery_buyer_planet~ bolygóra?
+0x00000059 Érdekes választás, ~player_creature_name~ ~player_title~. Talán rendelkezik olyan információval, amivel mi nem, bár ez nem tűnik valószínűnek.
+0x0000004B Ó, igen. Valami rémlik ezzel kapcsolatban a fő elosztóközpontnak küldött legutóbbi papírmunka adagból. Vártunk valakit egy szállítmány a ~mission_multi_delivery_item~ tárggyal. Magánál viszont egy sincs. Nem akarok ujjal mutogatni, de a probléma mintha nem a mi oldalunkon lenne.
+0x000000BB Isten hozta, kapitány!~p~Hallottuk, hogy hozott magával ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat. Itt vannak önnél?
+0x0000003A Nem igazán érdekel.
+0x0000004C Könyörgöm a megértéséért.
+0x00000058 Rendben. Kérem, ne hagyja, hogy elvonjuk a figyelmét sokkal fontosabb feladatairól.
+0x0000001E Szeretnék kérdezni valami mást…
+0x0000005B Hoppá. Majd visszajövök!
+0x00000039 Ez a feladat nem nekem való.
+0x0000005C Követnie kell saját útját.~p~Minden jót, barátom.
+0x0000002D Később visszatérek. Minden jót.
+0x00000024 Ezt inkább nem szeretném...
+0x00000002 Érez valamit a levegőben? Természetesen érez, mivel én is érzek, és mindketten tudjuk, hogy ön legalább olyan dörzsölt, mint én. Profitot szimatolok! És akárhány spóradollárt felteszek egy marék csillagpor ellenében, hogy ennek köze van a ~mission_multi_delivery_buyer_planet~ bolygóhoz.~p~Az a helyzet, hogy a ~mission_multi_delivery_buyer_planet~ bolygón nagy szükség van ritka tárgyakra. Egészen pontosan ~mission_multi_delivery_item~ tárgyakra. És maga szerint mit találtunk nemrég ebben a csillagrendszerben?~p~Kössünk üzletet. Én elintézem a papírmunkát, maga bedig odamegy és begyűjt néhány ~mission_multi_delivery_item~ tárgyat.
+0x00000023 Sajnálom, de nem vagyok a küldönce.
+0x000000E2 Köszönet és hódolat, ~player_creature_name~ ~player_title~.~p~Igen, elhozta az összes ~mission_multi_delivery_item~ tárgyat, és a papírmunka is rendben lévőnek tűnik. Köszönjük.~p~Térjen vissza a ~mission_source_star~ csillagrendszer ~mission_source_empire~ bolygójára a fizetségéért.
+0x000000A2 Még valami…
+0x00000019 Találtunk egy ősi tekercset, amely arról tájékoztat minket, hogy a ~mission_multi_delivery_item~ tárgyakban megtalálhatjuk a világegyetem titkait! Ezeket a tárgyakat még az időszámítás előtt rejtette el egy azóta kihalt faj, mi azonban nagy valószínűséggel ismerjük a rejtekhelyet. Hajlandó lenne megkeresni és elhozni őket a ~mission_multi_delivery_buyer_planet~ bolygóra tanulmányozásra?
+0x000000A1 Ezenkívül…
+0x000000A5 Látom, elfoglalt. Talán majd később.
+0x00000031 Szeretnék kérdezni valami mást…
+0x0000008A Nagyszerű munka, ~player_creature_name~ ~player_title~.~p~Teljesítette a szállítási feladatot. Térjen vissza a ~mission_source_star~ csillagrendszer ~mission_source_empire~ birodalmába, hogy kifejezhessék önnek hálájukat.
+0x000000D7 Először ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyról beszél, azután kevesebbel jelenik meg… el tűrhetetlen viselkedés!~p~Jöjjön vissza, ha megszerezte a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat!
+0x00000083 ~player_creature_name~ ~player_title~! Teljesítette a szállítási feladatot. Térjen vissza a ~mission_source_star~ csillagrendszer ~mission_source_empire~ birodalmába a fizetségéért.
+0x00000082 Visszatérek!
+0x00000025 Ez nem igazán tetszik nekem.
+0x000000A4 Talán majd máskor. Viszlát.
+0x0000009A Még nem találta meg az összes ~mission_multi_delivery_item~ tárgyat? Számítottunk rá, hogy megszerzi őket! Még az átkutatandó bolygók listáját is odaadtuk: ~mission_multi_delivery_item_planet_list~. Miután összegyűjtötte, vigye a tárgyakat a ~mission_multi_delivery_buyer_planet~ bolygóra, és csak azután térjen ide vissza.~p~De mindennek benne kellene lennie a küldetésnaplójában.
+0x000000A6 Látom, szüksége van egy kis időre. Minden jót.
+0x000000CA Képes elolvasni egy szerződést, igaz? Nézze, mi megegyeztünk ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgy leszállításában. Nem több, nem kevesebb. Ha nincs magánál ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~, legjobb lesz, ha megy és elhozza őket.
+0x00000079 Rövidesen visszatérek. Egyelőre viszlát.
+0x000000CF Szeretnék kérdezni valami mást…
+0x0000007A Ideje indulni. Találkozunk, ha visszatérek.
+0x00000096 Tájékoztattak minket, hogy még nem szerezte meg az összes ~mission_multi_delivery_item~ tárgyat, és nem vitte el őket a ~mission_multi_delivery_buyer_planet~ bolygóra. A szükséges információkat elméletileg megtalálja a küldetésnaplójában.~p~Ha elfelejtette volna, a tárgyak a következő bolygókon találhatók: ~mission_multi_delivery_item_planet_list~. Csak akkor térjen vissza, ha végzett a szállítással.
+0x000000A0 Mielőtt elindulok, lenne néhány kérdésem…
+0x000000CB LESZÁLLÍTÁS SIKERTELEN. OK: ~player_creature_name~ alkalmatlansága.~p~ JAVASLAT: Jöjjön vissza ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárggyal.
+0x000000BE ~player_creature_name~ hozott ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat, igaz?
+0x000000D5 LESZÁLLÍTÁS SIKERTELEN. OK: ~player_creature_name~ alkalmatlansága.~p~ JAVASLAT: Jöjjön vissza ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárggyal.
+0x00000069 ~player_creature_name~ ígéretet tett! ~player_creature_name~ elvállalta a feladatot! Csak a leggyengébb, leggerinctelenebb férgek vonják vissza a szavukat! A ~player_creature_name~ faj a mai naptól féregnek minősül!
+0x0000006C ~player_creature_name~ ~player_title~. Látom, úgy döntött, hogy a részleges leszállítás előnyösebb önnek. Érdekes. Talán később elmagyarázhatná ezt a logikát.~p~Közben mi megvárjuk a többi, összesen ~mission_multi_delivery_buyer_num_needed_items~ leszállítását.
+0x0000007E Van képe ingerelni a hatalmas ~race~ népét kevesebb ~mission_multi_delivery_item~ tárggyal, mint amennyi elő volt írva?~p~Ha nem lennénk a Hit Filozófiájának elkötelezett követői, megkérdőjeleznénk azon képességét, hogy le tudja szállítani nekünk az összes tárgyat. Ám hitünkben tudjuk, hogy visszatér hozzánk az összessel.
+0x0000008B Hibátlan munka. Mi, a hatalmas és igazságos ~race~ népe végtelen bölcsességünkben láttuk, hogy ~player_creature_name~ ~player_title~ méltó a bizalmunkra, és ismét… igazunk lett.~p~Leszállította az árut. Térjen vissza a ~mission_source_star~ csillagrendszer ~mission_source_empire~ birodalmába a fizetségéért.
+0x0000004A Helyes. ~race~ népe hályás a közreműködéséért.
+0x000000EE Keress és szállíts le ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ~^p^mission_multi_delivery_buyer_num_needed_items^tárgyat^tárgyat~ a ~mission_multi_delivery_buyer_planet~ bolygóra!
+0x0000005D Úgy látom, részleges leszállítást hajtott végre.~p~Ez nem a standard műveleti procedúra, és valószínűleg összezavarja vele a Kinnlevőségi Részleget… de alig várjuk, hogy megkapjuk a ~mission_multi_delivery_item~ ereklyéket.~p~Ezt az egyet itt tartom… térjen vissza gyorsan a maradék ~mission_multi_delivery_buyer_num_needed_items~ darabbal.
+0x00000095 Nem került meg az összes ~mission_multi_delivery_item~ ereklye! Még mindig ott vannak valahol kint! Az információ nem áll rendelkezésre a küldetésnaplójában?~p~Ne feledje el átkutatni ezeket a bolygókat: ~mission_multi_delivery_item_planet_list~. Azután vigye ela tárgyakat a ~mission_multi_delivery_buyer_planet~ bolygóra. Talán most már képes lesz folytatni szent küldetését.
+0x0000006A De… de… de… de… de… de… de… de…~p~Rendben.
+0x000000F2 Gyűjtse be a ~mission_multi_delivery_item~ ereklyéket a következő bolygókról:~p~~mission_multi_delivery_item_planet_list~.~p~Vigye el a ~mission_multi_delivery_item~ ereklyéket a ~mission_multi_delivery_buyer_planet~ bolygóra!
+0x00000001 Tárgyalásokba bocsátkoztunk a ~mission_multi_delivery_buyer_planet~ bolygó lakóival. Jószándékunk jeléül szeretnénk, ha elvinne nekik néhány dolgot, amelyek sokkal vonzóbbá tehetik ezt a partneri viszonyt.~p~Szerezzen néhány ~mission_multi_delivery_item~ ereklyét és vigye el nekik a ~mission_multi_delivery_buyer_planet~ bolygóra.
+0x0000008F És most? Újra emlékeztetnem kell a szerződés feltételeire? Be kell gyűjtenie a ~mission_multi_delivery_item~ ereklyéket a következő bolygókról: ~mission_multi_delivery_item_planet_list~.~p~Ha végzett, vigye a ~mission_multi_delivery_buyer_planet~ bolygóra, és ott adja át őket. Amint azzal is megvan, teljesítette a szerződésben foglaltakat. Mindez benne van a küldetésnaplójában.
+0x00000003 Látta már a ~mission_multi_delivery_buyer_planet~ bolygót? Az egész helynek olyan csodálatos aurája van… egyszerűen lenyűgöző. Arra inspirál minket, hogy küldjünk valamit az ottaniaknak, tudja? Arra gondoltunk, hogy néhány ~mission_multi_delivery_item~ relikvia jó ötlet volna.~p~Ó, még valami. Éppen egyetlen sincs nálunk. Önnek kell kerítenie néhányat.
+0x00000005 A ~mission_multi_delivery_buyer_planet~ bolygó lakói azt mondják, nincs jobb, mint egy ~mission_multi_delivery_item~. Ez igaz? Talán igen, talán nem, de nem is érdekel, amíg ezt akarják!~p~Biztos vagyok benne, hogy van néhány ~mission_multi_delivery_item~ relikvia a naprendszerünkben. Begyűjtené őket, és elvinné a ~mission_multi_delivery_buyer_planet~ bolygóra?
+0x00000066 Tökéletesen érthető, kapitány.~p~Elnézést, hogy ilyen ügyekkel zavartam.
+0x0000001A A ~mission_multi_delivery_item~ tárgyakra nagy szükség lenne az Éves Aktualizációs Ceremóniához. Erre a ~mission_multi_delivery_buyer_planet~ bolygón fog sor kerülni. Segítene megtalálni ezeket a tárgyakat, és leszállítani őket az Aktualizációs Tanítóknak?
+0x0000001D Néhány közeli bolygóm megtalálhatók a ~mission_multi_delivery_item~ tárgyak. Egykor mi hagytuk ott ezeket, hogy jelöljék elvesztett csatáink helyét. A szégyenünkre emlékeztetnek minket. De tanultunk a szégyenünkből, és mostanra haszontalanná váltak! Találja meg az ereklyéket, és vigye el őket, a ~mission_multi_delivery_buyer_planet~ bolygónak szüksége van rájuk. Vigye oda az összeset.
+0x00000097 Csalódottan tapasztaltuk, hogy a ~mission_multi_delivery_item~ ereklyéket nem szerezte vissza a ~mission_multi_delivery_item_planet_list~ bolygókról. Nem lennénk meglepve, ha meg sem találta volna a paramétereket a küldetésnaplójában.
+0x00000166 INICIALIZÁLÁS~p~BARÁZDÁK KÉPZÉSE, KÉREM VÁRJON~p~FELADAT KÉSZ~p~LEÍRÁS: Találja meg a ~mission_multi_delivery_item~ ereklyéket és vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra.
+0x00000054 De… de… de… de… de… de… de… de…~p~Rendben.
+0x0000008E Hé, nem végezte el a munkát! Nézze meg a küldetésnaplóját.~p~Találja meg a ~mission_multi_delivery_item~ ereklyéket a következő bolygókon:~p~~mission_multi_delivery_item_planet_list~!~p~Ha az összes megvan, vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra, majd térjen vissza ide, ha teljesítette a megbízást.
+0x0000000C Hosszi idővel ezelőtt, fajunk távoli múltjában létrehozták a ~mission_multi_delivery_item~ ereklyéket, mint szent ereklyéket. Rá kell jönnünk, hogy ez továbbra is összeegyeztethető-e Spóriusz szavával!~p~A ~mission_multi_delivery_item~ ereklyéket a csillagrendszerünkből kell megszerezni, és elvinni a ~mission_multi_delivery_buyer_planet~ bolygóra további tanulmányozásra.
+0x00000008 A ~mission_multi_delivery_buyer_planet~ bolygó lakói eléggé kiborultak. ~mission_multi_delivery_item~ tárgyakat keresnek, de egyet sem találnak. Ebben a csillagrendszerben azonban rengeteg van… esetleg segíthetne a problémánkban.~p~Menjen, keressen néhány ~mission_multi_delivery_item~ tárgyat, és vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra, hogy mindenki megnyugodjon.
+0x000000D3 Köszönjük, kapitány!~p~Látom, még le kell szállítania ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ~^p^mission_multi_delivery_buyer_num_needed_items^ereklyét^ereklyét~.~p~Ha végzett, mi itt leszünk.
+0x000000D4 Képes elolvasni egy szerződést, igaz? Nézze, mi megegyeztünk ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgy leszállításában. Nem több, nem kevesebb. Ha nincs magánál ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklye, legjobb lesz, ha megy és elhozza őket.
+0x00000071 Köszönjök, kedves utazó.~p~Számítunk a többi ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ relikvia megérkezésére is.~p~Gyűjtse össze őket, és térjen vissza a jutalmáért.
+0x0000000B A hamis Eljövendő Isten hívei létrehozták a ~mission_multi_delivery_item~ ereklyéket, és elrejtették őket a csillagrendszer világain! Spóriusznak köszönhetően sikerült megtalálnunk őket. Megkeresi és elviszi őket a ~mission_multi_delivery_buyer_planet~ bolygóra, elpusztíthassák őket?
+0x00000009 Valaki a ~mission_multi_delivery_buyer_planet~ bolygóról azt mondta, a ~mission_multi_delivery_item~ relikviák bizonyítékokat tartalmaznak a természet és az univerzum nagy titkairól. A csillagrendszerünkben van néhány... de egyelőre még nem jöttünk rá semmire. Ez a titok nagyon mély lehet. Komoly dolog, tudja.~p~Találjon néhány ~mission_multi_delivery_item~ tárgyat, és vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra. Ott talán sikerül kihámozniuk a jelentést.
+0x00000169 Automata adatgyűjtőink meglepő számú ~mission_multi_delivery_item~ tárgyat érzékelt ebben a csillagrendszerben. Nem tudjuk, mit jelent ez, de a ~mission_multi_delivery_buyer_planet~ bolygón vannak specialisták, akik talán megmondhatják nekünk. Megkeresné ezeket az ereklyéket, és elvinné őket nekik?
+0x00000015 Benne van egy kis ~mission_multi_delivery_item~-vadászatban? A ~mission_multi_delivery_buyer_planet~ bolygó lakosai nagyon szeretnék rátenni a kezüket néhány ~mission_multi_delivery_item~ ereklyére. Megfizetjük a vesződségét, de nem hinnénk, hogy bármi zűr lehetne. Nekem inkább csak egy jó mókának tűnik.
+0x0000000F Egy ősi civilizáció nyomaira bukkantunk, melyet a jelek szerint a groxok irtottak ki. Utalásokat találtunk néhány ~mission_multi_delivery_item~ ereklyére, melyek információkat tartalmazhatnak a groxokról.~p~Ahogy azt államszövetségi tirvényünk 7. paragrafusának 52. cikkelye világosan kimondja, a groxokról szóló minden információt egy maximális biztonságú létesítményben kell őrizni. Találja meg és gyűjtse be ezeket a tárgyakat, és vigye őket a ~mission_multi_delivery_buyer_planet~ bolygón lévő létesítménybe.
+0x00000016 Valaki a ~mission_multi_delivery_buyer_planet~ bolygón gyűjti a ~mission_multi_delivery_item~ ereklyéket. És ha valaki komoly gyűjtő, akkor mindig komoly spóradollárról is van szó!~p~Biztosan tudom, hogy van néhány belőlük ebben a csillagrendszerben. Miért nem kötünk üzletet? Egy szabvány keresés-és-leszállítás feladat: odamegy, megkeresi a szajrét, elviszi a ~mission_multi_delivery_buyer_planet~ bolygóra, azután visszatér ide a fizetségéért.
+0x00000168 Dekódoltunk egy ősi szöveget, amely ~mission_multi_delivery_item~ tárgyakról tesz említést a közeli világokon. Ezek információkat tartalmazhatnak az Univerzum eredetéről! Kérem gyűjtse össze a ~mission_multi_delivery_item~ ereklyéket, hogy elküldhessük őket további tanulmányozásra.
+0x0000000A Spóriusz szent nyúlványai több ~mission_multi_delivery_item~ tárgyat hoztak létre, ám ezek elvesztek a zűrzavaros Spodifikációs Háborúban.~p~Spóriusz szent útmutatásával nyomára bukkantunk pár ~mission_multi_delivery_item~ tárgynak a közelben. Hajlandó lenne megkeresni és elhozni őket a ~mission_multi_delivery_buyer_planet~ bolygóra, hogy a lakosok leborulhassanak előttük?
+0x0000000E Nemrég felfedeztük egy rég eltűnt faj ősi írását. Néhány ~mission_multi_delivery_item~ tárgyra utal, melyeket egy közeli bolygón tárolnak. Szövetségünk törvényei szerint ezeket a történelmi emlékeket be kell gyűjteni, katalogizálni, majd megfelelő tárolóhelyre helyezni a ~mission_multi_delivery_buyer_planet~ bolygón. Megtenné ezt nekünk?
+0x0000016A A kalózok egzotikus ~mission_multi_delivery_item~ ereklyéket csempésznek be más világokról, és a mi csillagrendszerünkön viszik keresztül az árut! Felfedeztük a kalózok néhány lerakási pontját, ahol időlegesen tárolják a ~mission_multi_delivery_item~ ereklyéket.~p~Szeretnénk, ha megtalálná a csempészárut, és visszavinné jogos tulajdonosuknak a ~mission_multi_delivery_buyer_planet~ bolygóra.
+0x00000177 Bizony, kicsi a galaxis, kapitány. Micsoda véletlen egybeesés, hogy pont ÖNT kérték fel a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklye leszállítására.~p~A spóradollár az mégiscsak spóradollár. Majd találkozunk, ha megtalálta a tárgyakat.
+0x00000092 Ó, ugyan már! Biztosan ön is tudja, hogy még nem végzett! Figyeljen ide!~p~Gyűjtse össze a ~mission_multi_delivery_item~ ereklyéket a következő helyekről~mission_multi_delivery_item_planet_list~.~p~Ha az összes megvan, tegyen jelentést a ~mission_multi_delivery_buyer_planet~ bolygón. Végül térjen vissza ide. Csak ezután kapja meg az elvégzett munkáért járó kompenzációt.
+0x00000010 Fajaink DNS-ének teljes kódját néhány ~mission_multi_delivery_item~ tárgyban tároltuk el, és ezeket egy szállítmánnyal a ~mission_multi_delivery_buyer_planet~ bolygóra küldtük. Sajnos a hajó kalóztámadás áldozatául esett, és az árunak nyoma veszett.~p~Miután xenoantropológusaink kihallgatták, az egyik elfogott kalóz elárulta, hogy a ~mission_multi_delivery_item~ ereklyék még a csillagrendszerben vannak. Képes megtalálni őket, és lebonyolítani a szállítást?
+0x00000167 BEJÖVŐ KÉRÉS KÉT RÉSZBEN~p~KÉRÉS (1): Találja meg a ~mission_multi_delivery_item~tárgyakat~p~KÉRÉS (2): Szállítsa a ~mission_multi_delivery_item~ ereklyéket a ~mission_multi_delivery_buyer_planet~ bolygóra.
+0x000000BC VÁRT SZÁLLÍTMÁNY: ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklye.~p~BECSÜLT ÉRKEZÉSI IDŐ: Tegnap.~p~SZÁLLÍTMÁNY MEGÉRKEZETT? IGEN/NEM
+0x000000C9 Jó ég, máris kész vagy? Csodálatos! Jó volt együtt dolgozni valaki… Olyasvalakivel, aki összhangban van az univerzummal.~p~Itt van ~mission_rewards~; költsd el bölcsen, oké?
+0x00000081 Isten hozta újra itt, ~player_creature_name~ ~player_title~. Az ön éleslátása a ~mission_multi_delivery_item~ tárgyak visszaszerzésében örömteli meglepetést okozott. ~p~Mindenképpen megérdemli a ~mission_rewards~ fizetséget.
+0x0000007B Jó! Szép munka, ~player_creature_name~. Tessék, a megígért ~mission_rewards~.
+0x00000033 A ~mission_multi_delivery_item~ tárgyak állítólag a következő helyeken vannak: ~mission_multi_delivery_item_planet_list~. Találja meg és vigye el őket a ~mission_multi_delivery_buyer_planet~ bolygóra, azután térjen vissza ide a ~mission_rewards~ fizetségért.
+0x00000027 Szerencsére nagyjából tisztában vagyunk a ~mission_multi_delivery_item~ tárgyak helyével: ~mission_multi_delivery_item_planet_list~.~p~Ha el tudja vinni ezeket a tárgyakat a ~mission_multi_delivery_buyer_planet~ bolygóra, ~mission_rewards~ fizetséget kap, miután visszatér.
+0x0000007F Isten hozta, ~player_creature_name~ ~player_title~. Sikerének híre már elért hozzánk. Igazunk volt, amikor önbe helyeztük a hitünket… hiszen mindig igazunk van.~p~Megérdemelte a ~mission_rewards~ jutalmat.
+0x0000002A A ~player_creature_name~ képes megtalálni a ~mission_multi_delivery_item~ tárgyakat a következő bolygókon:~mission_multi_delivery_item_planet_list~.~p~Vigye el az összeset a ~mission_multi_delivery_buyer_planet~ bolygóra, és térjen vissza a ~mission_rewards~ jutalmáért.
+0x00000080 Isten hozta, ~player_creature_name~ ~player_title~. A Nagytanács értesült sikeréről, és köszönetet mond. ~p~Engedélyezték, hogy átadjak önnek egy másodosztályú dicséret tanúsítványt, valamint ~mission_rewards~ fizetséget.
+0x00000029 Nem szükséges idegeskednie a ~mission_multi_delivery_item~ tárgyak miatt… leírtuk az összes megtalálási helyet: ~mission_multi_delivery_item_planet_list~.~p~Ha elviszi az összeset a ~mission_multi_delivery_buyer_planet~ bolygóra, ~mission_rewards~ fizetséget kap jutalomképpen.
+0x0000002E A ~mission_multi_delivery_item~ tárgyak a ~mission_multi_delivery_item_planet_list~ bolygókon találhatók.~p~Vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra, és amikor visszatér, Spóriusz nevében megjutalmazzuk önt ~mission_rewards~ összeggel.
+0x00000078 Köszönöm a lehetőséget. Most már indulok.
+0x0000004E Üdvözlöm, üdvözlöm, ~player_creature_name~ ~player_title~! Újabb sikeres munka! Nem meglepő, nem meglepő, tekintve, hogy kire bíztam a feladatot.~p~Tessék a ~mission_rewards~, ahogy a szerződésben meghatároztuk.~p~Nem lelem gyakran örömöm az üzletben, de mindig szép élmény egy olyan tehetséggel együtt dolgozni, mint ön.
+0x0000002C KERESÉS TÁRGYA:~mission_multi_delivery_item~s~p~KUTATÁSI TERÜLET: ~mission_multi_delivery_item_planet_list~~p~LESZÁLLÍTÁSI CÉL:~mission_multi_delivery_buyer_planet~~p~KOMPENZÁCIÓ: ~mission_rewards~ visszatéréskor~p~ELFOGADJA/VISSZAUTASÍTJA?
+0x00000052 Neeem? ~player_creature_name~ gyengébb, mint sejtettük. Legközelebb talán jutalmat sem ajánlunk fel. Nem játszunk puhányokkal.
+0x0000007C Ó, a jól végzett munka az jól végzett munka. Ma éjjel eléneklünk önnek egy dalt… egy vidám, örömteli dalt, hálaképpen a segítségéért.~p~Fogja, itt a ~mission_rewards~, amit megígértünk.
+0x0000007D KÜLDETÉS STÁTUSZ: Befejezett~p~BÁTORÍTÁS KIFEJEZÉSE: Kiváló munka. Bárcsak más biológiai létformák lennének ilyen rátermettek.~p~KOMPENZÁCIÓ KÉZBESÍTÉSE: ~mission_rewards~
+0x00000057 Spórusz útja szemlátomást nem ~player_creature_name~ ~player_title~ terepe. Elmehet.
+0x00000085 Üdvözlet és béke önnel, ~player_creature_name~ ~player_title~.~p~Átvettük a ~mission_multi_delivery_item~ ereklyéket. Köszönet önnek.~p~Térjen vissza a ~mission_source_star~ csillagrendszer ~mission_source_empire~ birodalmába a fizetségéért… vagy maradjon és lebegjen egy ideig. A lebegés jó.
+0x0000008D Megtaláltad mind a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ leletet. Most vidd el őket a ~mission_multi_delivery_buyer_planet~ bolygóra!
+0x00000053 ~player_creature_name~ ~player_title~! Látom, hatékonyabbnak véli, ha ellenőrzi a leszállítási helyet, mielőtt azonosítaná a leszállítás tárgyát. Érdekes. Talán később elmagyarázhatná ezt a logikát.~p~Közben mi megvárjuk a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ lelet leszállítását.
+0x00000056 Írva vagyon, hogy maga, ~player_creature_name~ ~player_title~ leszállít nekünk pontosan ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklyét.~p~Tehát le van írva, itt a szerződésben… és így is lesz.
+0x000000CC ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklye. ~player_creature_name~ nem hozott ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklyét. Térjen vissza ~mission_multi_delivery_buyer_num_needed_items~ darabbal, vagy sehogy.
+0x00000091 ~player_creature_name~ nem végezte el a feladatot! Látogassa végig ezeket a bolygókat, és találja meg a ~mission_multi_delivery_item~ ereklyéket: ~mission_multi_delivery_item_planet_list~.~p~Azután menjen a ~mission_multi_delivery_buyer_planet~ bolygóra. Csak ezután térjen vissza a fizetségéért.
+0x0000003E Üdvözlöm, ~player_creature_name~ ~player_title~.~p~Úgy hallottuk, maga ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ leletet hozott a bolygónkra. Igaz ez?
+0x00000018 Hé, mi a véleménye a ~mission_multi_delivery_item~ tárgyakról? Szereti őket? Gyűlöli? Nem is tudja, mik azok? Nem számít, mindössze annyit kell tennie, hogy begyűjti őket néhány közeli bolygóról.~p~Éppen most írtunk alá egy szerződést arról, hogy leszállítunk egy adagot belőlük a ~mission_multi_delivery_buyer_planet~ bolygóra. Szükségünk van valakire, aki megkeresi őket, és maga szemlátomást pont az a fajta ~player_creature_name~, aki alkalmas a feladatra!
+0x00000007 A természet, ~player_creature_name~. Körülvesz minket. Benne van mindenben, és minden a természet részét képezi. Még az olyan élettelen dolgok is, mint a ~mission_multi_delivery_item~ ereklyék. Ők még mindig testvéreink a természetben, és hallom, ahogy beszélnek hozzánk. Nem, nem vagyok őrült, valóban hallom őket. Azt akarják, hogy találjuk meg, és vigyük el őket ~mission_multi_delivery_buyer_planet~ bolygóra.~p~Elvállalná a szállítást?
+0x00000004 A ~mission_multi_delivery_buyer_planet~ bolygó lakói szeretnének pár különleges holmit. Például fizetnének pár ~mission_multi_delivery_item~ ereklyéért. Ebben a csillagrendszerben fellelhető néhány ilyen ~mission_multi_delivery_item~ lelet. Valakinek meg kell találnia és le kell szállítania őket. A ~player_creature_name~ faj képes a feladatra.
+0x0000001C Hosszú idővel ezelőtt más bolygókon hagytunk néhány ~mission_multi_delivery_item~ ereklyét. A kalózok most ellopták őket. ~player_creature_name~, az a feladata, hogy megtalálja ezeket a tárgyakat, és elvigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra, biztonságba a kalózoktól. ~player_creature_name~, fáradozásaiért megfizetjük.
+0x000000D6 ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklye! ~player_creature_name~ nem hozott ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklyét! Térjen vissza ~mission_multi_delivery_buyer_num_needed_items~ darabbal, vagy sehogy.
+0x0000003F Üdvözlöm, ~player_creature_name~ ~player_title~.~p~Hajója műszeres vizsgálata kimutatta, hogy önnél ~mission_multi_delivery_item~ tárgyak találhatók. Helyes az analízis?
+0x0000000D Számos ~mission_multi_delivery_item~ tárgyat hoztak létre, hogy megemlékezzünk szövetségünk fennállásának évfordulójáról. Néhány ilyen tárgyat kalózok raboltak el. Nemrégiben a Nagytanács tudomására jutott, hogy az elveszett ~mission_multi_delivery_item~ tárgyak távoli bolygókon találhatók. ~p~Kérjük, szerezze vissza őket és vigye el a ~mission_multi_delivery_buyer_planet~ bolygóra a Szövetség Fesztivál kezdetére.
+0x00000090 Elfelejtette, mi a dolga? Talán... kihagy a memóriája? Oké, a legjobbakkal is megtörténik. Legközelebb először nézzen bele a küldetésnaplójába. ~p~Szedje össze az összes ~mission_multi_delivery_item~ tárgyat a ~mission_multi_delivery_item_planet_list~ bolygókról, és vigye őket a ~mission_multi_delivery_buyer_planet~ bolygóra.
+0x000000D9 Kérdeznék még valamit…
+0x0000005A Mit is mondott, ki maga? ~player_creature_name~? Hmm… várjon csak… valami dereng… a ~mission_source_empire~ küldte magát, ugye? Magának kellett elhoznia a ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ ereklyét… de most itt áll... a szállítmány nélkül.~p~Elég furcsa, nem gondolja? Magánál kellene lenniük...
+0x000000B5 A ~mission_source_empire~ megkért, hogy hozzak el önnek néhány ~mission_multi_delivery_item~ tárgyat.
+0x000000DE Lássuk csak… igen, igen, elhozta az összes ~mission_multi_delivery_item~ tárgyat. Szép munka! Nagyszerű munka! Valójában nem is számítottam rá, hogy egy olyan kiváló ~player_creature_name~, mint ön, problémákba fog ütközni, de le kell ellenőriznem, ugye megérti? Köztünk legyen szólva, meglepődne, hány faj nem képes a helyes számolásra.~p~Térjen vissza a ~mission_source_empire~ bolygóra a fizetségéért.
+0x0000004D Kiváló munka, kapitány! Tudtum, hogy számíthatunk önre!~p~Tessék a fizetsége, ~mission_rewards~, ahogy megígértük. Élvezze ki!
+0x0000002F Legfrissebb információink szerint a ~mission_multi_delivery_item~ tárgyak a ~mission_multi_delivery_item_planet_list~ bolygókon találhatók.~p~Szerezze meg őket, és vigye a ~mission_multi_delivery_buyer_planet~ bolygóra, majd térjen vissza hozzánk a ~mission_rewards~ jutalomért.
+0x00000073 Kérdeznék még valamit…
+0x000000DD Kiváló! Ön megszerezte az összes ~mission_multi_delivery_item~ tárgyat. Térjen vissza a ~mission_source_empire~ rendszerébe a fizetségéért.
+0x000000E1 Öröm és extázis! Minden sikeres kézbesítés dal a szívben és könnyedség a léptekben! Térjen vissza a ~mission_source_empire~ bolygójára jól megérdemelt fizetségéért.
+0x000000E0 ~player_creature_name~ elhozta a ~mission_multi_delivery_item~ ereklyéket. Nagyon jó. Térjen vissza a ~mission_source_empire~ területére a fizetségéért.
+0x000000DF LESZÁLLÍTÁS TELJESÍTVE.~p~JAVASLAT: Térjen vissza a ~mission_source_empire~ területére a kompenzációért.
+0x00000030 ~player_creature_name~ ~player_title~! A ~mission_multi_delivery_item~ tárgyak a ~mission_multi_delivery_item_planet_list~ bolygókon találhatók. ~p~Ha begyűjötte őket, vigye a ~mission_multi_delivery_buyer_planet~ bolygóra, majd térjen vissza a ~mission_rewards~ jutalomért.
+0x000000A3 Bocsánat a zavarásért. Viszlát.
+0x0000009F Kérdeznék még valamit…
+0x00000051 Ó... oké... igen, persze, oké.~p~Ha nem csinálja szívből... akkor nem is szeretnénk, ha kapcsolatba kerülne egy másik létformával.
+0x000000CD Mit is mondott, ki maga? ~player_creature_name~? ~player_creature_name~?... Nem, nekünk nincs önnel szerződésünk. Biztosan emlékeznénk egy ilyen nevetséges űrhajóra, mint a magáé! Haha!~p~Nos, van egy megállapodásunk a ~mission_source_empire~ képviselőivel… maga nekik dolgozik...?~p~Remek! Miért nem ezzel kezdte? Vagy ezzel kezdte? Már nem emlékszem. Mindegy, nem számít.~p~Ha a ~mission_source_empire~ ügynöke, be kell gyűjtenie ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat, és leszállítania nekünk.~p~...ha nem teszi... esetleg beszéljen velük... nagyon kedves népség... kivéve csütörtökön.
+0x00000028 A ~mission_multi_delivery_item~ tárgyak a következő helyeken találhatók:~mission_multi_delivery_item_planet_list~.~p~Gyűjtse be mindet, majd szállítsa a ~mission_multi_delivery_buyer_planet~ bolygóra, mi pedig gondoskodunk róla, hogy a szerződés értelmében megkapja a ~mission_rewards~ fizetséget.
+0x000000AE Van egy szállítmány ~mission_multi_delivery_item~ tárgyam önnek a ~mission_source_empire~ területéről.
+0x0000008C Kérdeznék még valamit…
+0x0000001B A következőt hallotam: „Azok, Akik Előre Mentek, elhelyezték a Tárgyakat, Melyek Előre Indultak a Világokon, Melyek Még Nem Mentek El.” Biztos vagyok benne, hogy a csillagrendszerünkben megtalálható ~mission_multi_delivery_item~ tárgyakról van szó. Képes megtalálni ezeket a tárgyakat, és elvinni őket a Tanítóknak, Akik Még Mindig Itt Lebzselnek a ~mission_multi_delivery_buyer_planet~ bolygóra?
+0x00000084 Kedves utazó. Köszönjük a közreműködését, ~player_creature_name~ ~player_title~.~p~Tanítóink azt mondják, hogy eljövendő inkarnációinkban mindannyian titkos mesterek leszünk. Talán egy nap önre is ez vár. Ám amíg az anyagi dolgokhoz kötődik, örömmel ajánlunk fel önnek ~mission_rewards~ jutalmat.
+0x0000002B Ó, egy kis keresgélés, hulladékgyűjtés, micsoda móka! A ~mission_multi_delivery_item~ ereklyéket a következő helyeken találja meg: ~mission_multi_delivery_item_planet_list~.~p~Találja meg, gyűjtse be, vigye el őket a ~mission_multi_delivery_buyer_planet~ bolygóra, és vegye fel a jutalmát. Hogy mi a jutolom? ~mission_rewards~!
+0x000000B6 A ~mission_source_empire~ küldött… hogy hozzak el valamit önöknek, azt hiszem…
+0x000000E7 ~p~%s bolygó – %s csillagrendszerben
+0x000000CE Arra számítottunk, hogy hoz nekünk ~mission_multi_delivery_buyer_num_needed_items~ ~mission_multi_delivery_item~ tárgyat. Hajlandó begyűjteni a ~mission_multi_delivery_item~ ereklyéket, és azokkal visszatérni? ~p~Hallgatjuk.
+0x00000165 MEGBÍZATÁS: Gyűjtsön ~mission_multi_delivery_item~ ereklyéket a csillagrendszerből, és szállítsa őket a ~mission_multi_delivery_buyer_planet~ bolygóra.~p~MAGYARÁZAT: Irreleváns. Erre az információra nincs szükség a megbízatás teljesítéséhez.~p~RÉSZLETEK KÉSŐBB
+0x000000F0 Keressen ~mission_multi_delivery_item~ ereklyéket a következő bolygókon: ~mission_multi_delivery_item_planet_list~
+0x000000EF Térjen vissza a ~mission_source_planet~ bolygóra!
+

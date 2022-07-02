@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000905 Udało ci się wykupić to miasto religijne. Jeśli zachowasz jego specjalność, obieraj za cel miasta o niskim zadowoleniu mieszkańców, by je nawracać. ~br~Wybierz specjalność miasta.
+0x00000901 Udało ci się zdobyć to miasto gospodarcze środkami militarnymi. Miasta gospodarcze mogą zakładać szlaki handlowe, by kształtować Twoje stosunki dyplomatyczne, a nawet wykupywać inne miasta. ~br~Wybierz specjalność miasta.
+0x00000900 Udało ci się zdobyć to miasto religijne środkami militarnymi. Jeśli zachowasz jego specjalność, obieraj za cel miasta o niskim zadowoleniu mieszkańców, by je nawracać. ~br~Wybierz specjalność miasta.
+0x00000904 Udało ci się wykupić to miasto wojskowe. Jeśli zachowasz jego specjalność, uzyskasz dostęp do pojazdów wojskowych, które służą do podbijania innych miast siłą. ~br~Wybierz specjalność miasta.
+0x00000903 Udało ci się nawrócić to miasto gospodarcze na swoją religię. Miasta gospodarcze mogą zakładać szlaki handlowe, by kształtować Twoje stosunki dyplomatyczne, a nawet wykupywać inne miasta. ~br~Wybierz specjalność miasta.
+0x00000902 Udało ci się nawrócić to miasto wojskowe na swoją religię. Jeśli zachowasz jego specjalność, uzyskasz dostęp do pojazdów wojskowych, które służą do podbijania innych miast siłą. ~br~Wybierz specjalność miasta.
+
+# capture - not first, change
+
+0x00000300 Wojskowy
+0x00000301 Religijny
+0x00000305 Gospodarczy
+0x00000302 Gospodarczy
+0x00000303 Wojskowy
+0x00000304 Religijny
+0x00000908 Udało ci się nawrócić to miasto wojskowe na swoją religię. ~br~Wybierz specjalność miasta.
+0x00000907 Udało ci się zdobyć to miasto gospodarcze środkami militarnymi. ~br~Wybierz specjalność miasta.
+0x00000906 Udało ci się zdobyć to miasto religijne środkami militarnymi. ~br~Wybierz specjalność miasta.
+0x00000911 Udało ci się wykupić to miasto religijne. ~br~Wybierz specjalność miasta.
+0x00000910 Udało ci się wykupić to miasto wojskowe. ~br~Wybierz specjalność miasta.
+0x00000909 Udało ci się nawrócić to miasto gospodarcze na swoją religię. ~br~Wybierz specjalność miasta.
+
+# Upgrades
+
+0x00000601 Twoi przemyślni naukowcy skonstruowali koło wodne i przenośnik mechaniczny! Teraz możemy budować jednostki pływające, aby podbijać morza!
+0x00000603 Sukces! Nawet potężny wiatr jest teraz posłuszny naszej technologii! Lejek aerodynamiczny i rurka wirowa umożliwią budowę pojazdów, które będą wznosić się wiele mil ponad powierzchnię naszej planety!
+0x00000605 Zadziwiające wieści! W końcu udało się nam pokonać grawitację! Podróże kosmiczne stały się rzeczywistością. Musisz tylko zaprojektować statek kosmiczny.
+
+##############################
+#########
+# Tutorial cinematics
+
+0x0000010A Twoje plemię opanowało cały kontynent i jest gotowe do przejścia od prostego wiejskiego życia do cywilizacji jako pierwsze na planecie!
+0x00000108 Twoje jedyne miasto został zdobyte.
+0x00000710 Twoje miasto jest atakowane. Broń go, rozmieszczając wieżyczki obronne, dodając budynki i zwiększając zadowolenie mieszkańców.
+0x0000010D Nadeszła era oświecenia, postępu i transportu! Twoja metropolia jest pierwszym miastem na planecie, lecz Twój gatunek nie przemawia już jednym głosem... Wkrótce pojawią się inne miasta, utworzone przez inne jego odłamy. Aby awansować do następnej ery, musisz je wszystkie zjednoczyć.
+0x00000400 Inne plemię Twojego gatunku wybudowało miasto na tym kontynencie! Być może warto je podbić, dopóki jest jeszcze słabe, lub zawrzeć z nim przymierze.
+0x0653ADAD Czas rozpocząć fazę cywilizacji.
+0x00000213 Poszukaj w pobliżu gejzerów przyprawy podobnych do tego, potem kliknij jeden z nich, by wysłać do niego swój pojazd. Przyprawa stała się cennym towarem i jej wydobycie służy napełnianiu skarbca Twojego narodu.
+0x00000403 Gratulacje! ~br~Udało ci się zająć pierwszy gejzer przyprawy.
+
+# Not In use
+
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000212 [[[[[NOT IN USE]]]]] To pierwszy pojazd Twojej floty. ~br~Pierwsze zadanie polega na wysłaniu go w celu zajęcia źródła przyprawy.
+0x00000103 [[[[[NOT IN USE]]]]] Twoje miasto powiększyło się! Możesz kupować nowe typy pojazdów!
+0x00000102 [[[[[NOT IN USE]]]]] Twoim celem jest podbicie, nawrócenie lub wykupienie wszystkich miast na planecie. ~br~Nieustanny rozwój zapewni dostęp do nowych typów jednostek, a ostatecznie przejście do fazy kosmosu.
+0x00000401 [[[[[NOT IN USE]]]]] Wybierz specjalność tego miasta:
+0x00000402 [[[[[NOT IN USE]]]]] Inne plemię wybudowało miasto na Twoim kontynencie! ~br~Być może warto je podbić, dopóki jest jeszcze słabe, lub zawrzeć z nim przymierze.
+0x00000104 [[[[[NOT IN USE]]]]] Twoje miasto powiększyło się! Możesz kupować nowe typy pojazdów!
+0x00000606 [[[[[NOT IN USE]]]]] Gdy tylko uznasz za stosowne, zaprojektuj statek kosmiczny godny naszego gatunku i wyślij go poza planetę, by zbadać wszechświat.
+0x00000604 [[[[[NOT IN USE]]]]] Jeszcze lepsze jest to, że ta technologie umożliwiła nam wykonanie kolejnego kroku na drodze do gwiazd. Musimy jednak podbić kilka następnych miast (lub zawrzeć z nimi przymierze). Nie ustawaj w wysiłkach!
+0x00000501 [[[[[NOT IN USE]]]]] Twoja cywilizacja specjalizuje się w wojskowości. Skoro Twój naród składa się z 40 obywateli, możesz zbudować swój pierwszy pojazd wojskowy.
+0x00000503 [[[[[NOT IN USE]]]]] Twoja cywilizacja specjalizuje się w gospodarce. Skoro Twój naród składa się z 40 obywateli, możesz zbudować swój pierwszy pojazd gospodarczy. Zakładaj szlaki handlowe, rozwijaj stosunki z innymi miastami i wykupuj je.
+0x00000502 [[[[[NOT IN USE]]]]] Twoja cywilizacja specjalizuje się w religii. Skoro Twój naród składa się z 40 obywateli, możesz zbudować swój pierwszy pojazd religijny. Wysyłaj swoją flotę do niezadowolonych miast, by je nawracać.
+0x00000602 [[[[[NOT IN USE]]]]] Ponadto uważamy, że pewne zastosowania tej technologii mogą ostatecznie umożliwić naszemu narodowi podbój kosmosu. Kontynuuj podboje!
+0x00000120 [[[[[NOT IN USE]]]]] Udało ci się zdobyć miasto!
+0x0000011E [[[[[NOT IN USE]]]]] Skoro to miasto należy teraz do ciebie, możesz zmienić jego nazwę.
+0x00000109 [[[[[NOT IN USE]]]]] Gratulacje! Udało ci się podbić całą swoją planetę! Kliknij swój ratusz, by wystrzelić statek kosmiczny i przystąpić do badania kosmosu!
+
+# capture - keep
+
+0x00000804 Udało ci się nawrócić to miasto religijne na własną religię. ~br~Pozostanie ono miastem religijnym.
+0x00000803 Udało ci się zdobyć to miasto wojskowe środkami militarnymi. ~br~Pozostanie ono miastem wojskowym.
+0x00000805 Udało ci się zakupić to miasto gospodarcze środkami ekonomicznymi. ~br~Pozostanie ono miastem gospodarczym.
+
+# Deleted
+
+0x00000100 USUNIĘTO
+0x00000101 USUNIĘTO
+0x00000113 USUNIĘTO
+0x00000112 USUNIĘTO
+0x00000114 USUNIĘTO
+0x0000011F USUNIĘTO
+0x00000600 USUNIĘTO
+0x00000500 USUNIĘTO
+
+# superweapons
+
+0x00000702 Twoja spółka globalna zapewnia ci niepodzielne władanie nad całym światem.
+0x00000701 Twój mesjasz zapewnia ci niepodzielne władanie nad całym światem.
+0x00000700 Twój atak balistyczny zapewnia ci niepodzielne władanie nad całym światem.
+

@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Denne egenskapen stenger av underholdningsbygninger og kanontårn og forårsaker lavt lykkenivå.
+0x0001003F Svart sky
+
+# CLG_Plant
+
+0x00000042 Planteeter
+0x00000043 Planteeterceller spiser plantestoff.
+
+# CRG_CLG_Plant
+
+0x00010022 Sirenesang
+0x00010023 Bruk denne egenskapen til å trollbinde alle skapningene i området. Dette gjør det lettere for deg å sosialisere med dem.
+
+# SPG_CRG_Mix
+
+0x0001004E Denne egenskapen gjør at du reiser fortere mellom stjernene.
+0x0001004D Fartsmonster
+
+# CVG_CRG_Attack
+
+0x00010038 Denne egenskapen ødelegger alle bygninger og fremkomstmidler innen en bestemt radius.
+0x00010037 Kjempebombe
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatisk opprør
+0x0001006C Konverterer alle byer
+
+# SPG_Wanderer_Tool
+
+0x00010067 Artblander NOT IN USE
+0x00010068 Lager tilfeldige arter på en planet. NOT IN USE
+
+# CVG_Religious
+
+0x00000055 Religiøs
+0x00000056 Religiøse sivilisasjoner bruker kraften i ord og ideer for å konvertere andre nasjoner til sin egen tankemåte.
+
+# SPG_TRG_Social
+
+0x00010052 Denne egenskapen gir deg bedre forhold til nye fremmede arter.
+0x00010051 Høflig hilsen
+
+# TRG_Mix
+
+0x00000050 Arbeidsomme stammer lever i øyeblikket, de angriper eller inngår allianser når dette er nødvendig. De kan være fine å ha som allierte, men det gjelder å følge med litt.
+0x0000004F Arbeidsom
+
+# CVG_CRG_Mix
+
+0x0001003B Bestikkelsesbombe
+0x0001003C Denne egenskapen får fiendens fremkomstmidler til å angripe hverandre.
+
+# CVG_TRG_Mix
+
+0x00010042 Denne egenskapen gjør det mulig å kjøpe opp byer fortere.
+0x00010041 Reklamebombardement
+
+# SPG_CRG_Social
+
+0x0001004C Denne egenskapen gjør alle koloniene dine lykkelige og reduserer sjansen for opprør.
+0x0001004B Vellykket opptreden
+
+# SPG_CVG_Military
+
+0x00010056 Denne egenskapen fungerer som "piratspray" og reduserer sannsynligheten for plyndringstokter.
+0x00010055 Piratfjerner
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Kjøtteter
+0x00000041 Kjøtteterceller spiser bare kjøtt.
+
+# TRG_CLG_Mix
+
+0x00010029 Flygefisk
+0x0001002A Denne egenskapen gjør at høvdingen din kan påkalle en slange som skremmer fisk opp av havet.
+
+# SPG_TRG_Attack
+
+0x00010050 Denne egenskapen gir deg rabatt på alle kampverktøy.
+0x0001004F Våpenselger
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Tilgjengelig i skapningsfasen
+0x067775FA Tilgjengelig i romfasen
+0x067775E7 Tilgjengelig i sivilisasjonsfasen
+0x067775D9 Tilgjengelig i stammefasen
+
+# SPG_Trader
+
+0x00000061 Handelsmann
+0x00000062 Handelsmenn tenker bare på profitt. Det eneste de tror på er Sporespenn.
+
+# SPG_Bard
+
+0x00000057 Skald
+0x00000058 Skalder er universets sosiale, utadvendte underholdere. De ser på galaksen som en stor lekeplass.
+
+# SPG_Warrior_Tool
+
+0x00010065 Påkall skurkepakk
+0x00010066 Åpner en mystisk piratportal som lager kaos på en planet.
+
+# SPG_Diplomat
+
+0x0000005D Diplomat
+0x0000005E Diplomater er forhandlere og problemløsere. Det blir ikke fred i galaksen før man får åpen kommunikasjon mellom artene.
+
+# CVG_Economic
+
+0x00000053 Økonomisk
+0x00000054 Økonomiske sivilisasjoner bruker penger og handelsruter til å påvirke andre nasjoner. De inngår allianser, men det er som regel dem selv som får mest ut at disse.
+
+# CLG2_Discoverer
+
+0x00000103 Beskrivelse av oppdager
+0x00000102 Oppdager
+
+# SPG_Knight_Tool
+
+0x00010069 Påkall Mini-UFO
+0x0001006A Påkaller en miniatyrversjon av romskipet ditt som hjelper deg på reisen.
+
+# CLG2_Killer
+
+0x00000100 Morder
+0x00000101 Beskrivelse av morder
+
+# SPG_Warrior
+
+0x00000066 Krigere tar det de vil ha og ber aldri om tillatelse. Galaksen er premien som tildeles den sterkeste.
+0x00000065 Kriger
+
+# SPG_Wanderer
+
+0x00000068 Vandrere har lyst til å få med seg litt av hvert. Galaksen er svær og de har lyst til å oppleve alt de kan.
+0x00000067 Vandrer
+
+# CVG_CRG_Social
+
+0x00010039 Sjarmoffensiv
+0x0001003A Denne egenskapen forbedrer forholdet til en nasjon du sikter deg inn på.
+
+# CRG_Attack
+
+0x00000046 Rovdyr
+0x00000047 Rovdyr bruker livet på jakt etter bytte. De utrydder heller en hel art enn å danse eller prøve å sjarmere.
+
+# TRG_CRG_Mix
+
+0x0001002F Monstermester
+0x00010030 Denne egenskapen gjør at dyr i nærheten hjelper deg med å sosialisere eller slåss.
+
+# CVG_CLG_Meat
+
+0x00010032 Denne egenskapen gjør fremkomstmidlene dine usårbare en begrenset periode.
+0x00010031 Usårbarhet
+
+# TRG_CLG_Meat
+
+0x00020025 Feller
+0x00020026 Denne egenskapen gjør at høvdingen kan sette ut feller og fange ville dyr.
+
+# SPG_CLG_Meat
+
+0x00010043 Maktmaker
+0x00010044 Denne egenskapen forbeder effektiviteten til alle våpen.
+
+# SPG_CLG_Mix
+
+0x00010047 God generalist
+0x00010048 Denne egenskapen gir deg rabatt på alle typer standardutstyr.
+
+# SPG_TRG_Mix
+
+0x00010053 Kolonikjempe
+0x00010054 Denne egenskapen gir deg rabatt på alle koloniverktøy.
+
+# Zero
+
+0x06941DC3 År
+0x06941DC2 Tusen
+0x06941DC0 Milliarder
+0x06941DC1 Millioner
+
+# SPG_CVG_Religious
+
+0x0002005A Denne egenskapen reduserer sjansen for biokatastrofer i alle koloniene dine.
+0x00020059 Greenkeeper
+
+# CLG_Mix
+
+0x00000045 Alteterceller spiser alle typer mat som er tilgjengelig.
+0x00000044 Alteter
+
+# SPG_Bard_Tool
+
+0x00010058 Bruk denne egenskapen til å få fremmede arter til å roe seg ned og få et bedre forhold til deg.
+0x00010057 Beroligende sang
+
+# CRG_Social
+
+0x00000147 Sosial
+0x00000048 Sosiale skapninger leter hele tiden etter nye venner og allierte. Å treffe en ny art er det beste de vet.
+
+# CRG_Mix
+
+0x00000049 Tilpasningsdyktig
+0x0000004A Tilpasningsdyktige skapninger har mange venner og mange fiender. De gjør valg basert på situasjonen for øyeblikket.
+
+# SPG_CLG_Plant
+
+0x00010045 Sosial schwung
+0x00010046 Denne egenskapen gir deg en rabatt på alle sosiale verktøy.
+
+# CRG_CLG_Meat
+
+0x00010020 Rasende brøl
+0x00010021 Bruk denne egenskapen til å få alle skapningene i nærheten til å løpe i skrekk.
+
+# CVG_CLG_Plant
+
+0x00010033 Helbredelsesaura
+0x00010034 Denne egenskapen reparerer alle fremkomstmidler og bygninger.
+
+# SPG_Shaman
+
+0x00000063 Sjaman
+0x00000064 Sjamaner forstår at alle livsformer har noe til felles. Hele galaksen eksisterer på en måte i oss alle.
+
+# SPG_Ecologist
+
+0x0000005A Økologer beskytter naturen. Arter som forsøker å utnytte og ødelegge galaksen må tilintetgjøres.
+0x00000059 Økolog
+
+# CVG_TRG_Attack
+
+0x0001003D Dingsebombe
+0x0001003E Forårsaker skade på bygninger og fremkomstmidler, og er god å ha når man skal erobre byer.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safarisuger
+0x0001005A Fyller lasterommet med alle artene som finnes på en planet.
+
+# SPG_Zealot
+
+0x0000005C Fanatikere er skråsikre på at deres trosretning er det eneste som betyr noe. Skapninger som ikke mener det samme har ingen rett til å eksistere i galaksen.
+0x0000005B Fanatiker
+
+# SPG_Trader_Tool
+
+0x00010061 Pengeinnsprøytning
+0x00010062 Gjør et solsystem du har handelsrute med øyeblikkelig tilgjengelig for kjøp.
+
+# SPG_CRG_Attack
+
+0x00010049 Tipp topp
+0x0001004A Denne egenskapen øker den maksimale helsen til romskipet ditt.
+
+# CRG_CLG_Mix
+
+0x00010024 Påkall flokk
+0x00010025 Bruk denne egenskapen til å påkalle en gruppe skapninger som kan hjelpe deg med å sosialisere eller slåss.
+
+# TRG_Attack
+
+0x0000004B Aggressiv
+0x0000004C Aggressive stammer prøver å utrydde konkurransen. De angriper nådeløst og tar alle ressursene selv.
+
+# SPG_Knight
+
+0x00000069 Ridder
+0x0000006A Riddere er noble krigere som kjemper for det som er rett, ikke for personlig vinning. Det blir fred i galaksen først når all ondskap er eliminert.
+
+# SPG_Scientist
+
+0x00000060 Forskere er logiske og kalkulerende. Galaksen eksisterer for å bli forsket på og forstått.
+0x0000005F Forsker
+
+# SPG_Shaman_Tool
+
+0x00010063 Returbillett
+0x00010064 Sender deg umiddelbart tilbake til hjemmekloden.
+
+# SPG_Zealot_Tool
+
+0x0001005B Fanatisk vanvidd
+0x0001005C Konverterer fremmede systemer til ditt imperium.
+
+# SPG_CVG_Economic
+
+0x00020058 Denne egenskapen øker krydderproduksjonen i alle koloniene dine.
+0x00020057 Krydderkjenner
+
+# CVG_TRG_MixWin
+
+0x0001006D Global sammenslåing
+0x0001006E Kjøper alle byer
+
+# Singular
+
+0x55496322 Million
+0x55496324 År
+0x55496321 Milliard
+0x55496323 Tusen
+
+# TRG_CLG_Plant
+
+0x00010027 Forfriskende storm
+0x00010028 Denne egenskapen gjør at høvdingen kan påkalle en storm som gjør at det faller ned frukt fra trærne og ny frukt vokser frem.
+
+# CVG_TRG_AttackWin
+
+0x0001006F Interkontinentale ballistiske missiler
+0x00010070 Ødelegger alle byer
+
+# CVG_Military
+
+0x00000051 Militær
+0x00000052 Militære sivilisasjoner stoler i all hovedsak på våpen og makt. De bruker alle ressursene de har tilgjengelig til å knuse andre nasjoner.
+
+# TRG_CRG_Social
+
+0x0001002D Fyrverkeri
+0x0001002E Denne egenskapen gjør at høvdingen kan fyre av fyrverkeri som forbedrer forholdet til naboene.
+
+# TRG_Social
+
+0x0000004D Vennlig
+0x0000004E Vennligsinnede stammer forstår hvor viktig det er med lagarbeid. De inngår allianser for å dele ressurser og samarbeide med andre stammer.
+
+# Plural
+
+0x069417A0 Tusen
+0x069417A1 År
+0x0694179E Milliarder
+0x0694179F Millioner
+
+# CVG_CLG_Mix
+
+0x00010036 Denne egenskapen setter fremkomstmidler, kanontårn og bygninger ut av spill.
+0x00010035 Elektromagnetisk bombe
+
+# TRG_CRG_Attack
+
+0x0001002B Brannbomber
+0x0001002C Denne egenskapen gjør at høvdingen kan kaste brannbomber som skader fiender og bygninger i nærheten.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Slår ut alle fiendtlige skip og kanontårn på planeten.
+0x0001005D Elektromagnetisk bombe
+
+# SPG_Scientist_Tool
+
+0x00010060 Sender kulturer og bygninger tilbake til steinalderen.
+0x0001005F Gravitasjonsbølge
+
+# Timeline GUIDS
+
+0x55496320 Historie
+

@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C Ezek a járművek két pont között haladnak oda-vissza.
+0x079EDF5D Ezek a járművek egy megszabott szereplőt követnek.
+0x079EDF5B Ezek a járművek véletlenszerűen mozognak kiindulási helyük körül.
+0x079EDF5A Ezek a járművek egy helyben maradnak.
+0x079817B5 Ezek a lények véletlenszerűen mozognak kiindulási helyük körül.
+0x079817B1 Ezek a lények egy helyben maradnak, ha támadás éri őket.
+0x079817BA Ezek a lények két pont között haladnak oda-vissza.
+0x079817BE Ezek a lények egy megszabott szereplőt követnek.
+
+# Planet Paint
+
+0xB6AFCFC0 Talajburkolat
+0xB6AFCFC1 Virágok
+0xB6AFCFC2 Felhőstílus
+
+#Goals:
+
+0x07981782 Add ezeket: ~ep1_current_cast~ egy másik szereplőnek.
+0x0798178C Akadályozd meg, hogy a ~ep1_current_cast~ érintkezésbe kerüljön egy másik szereplővel.
+0x0798177B Beszélj ezekkel: ~ep1_current_cast~.
+0x07981764 Kerülj közelebb a következőkhöz ~ep1_current_cast~.
+0x07981798 Akadályozd meg a sok ~ep1_current_cast~ megsemmisítését.
+0x0798176F Semmisítsd meg ezeket: ~ep1_current_cast~.
+0x07981785 Gyűjtsd össze ezeket: ~ep1_current_cast~.
+0x07981789 Vidd el ezeket: ~ep1_current_cast~ egy másik szereplőnek.
+0x07981773 Barátkozz össze ezekkel: ~ep1_current_cast~.
+0x07981777 Szövetkezz e ~ep1_current_cast~ példányokkal, hogy csatlakozzanak a csapatodhoz.
+0x0798177E Fogd a következőket: ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF73 Háló
+0x56AFCF75 Szivacs
+0x56AFCF72 Idegen
+0x56AFCF70 Alap
+0x56AFCF71 Göndör
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 épületek
+0x07981E91 járművek
+0x07981E90 lények
+0x07981E93 tárgyak
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Ha véglegesen el akarsz távolítani a játékból egy lényt, járművet vagy épületet, kattints rá.~br~Ha egy kalandot akarsz véglegesen eltávolítani a játékból, lépj ki a kalandból, nyisd meg a Spóropédiát (B gomb) és keresd meg a kalandot, majd kattints a jobb alsó sarokban az Alkotás tiltása gombra. Ez eltávolítja ugyan a kalandot, de a benne szereplő alkotásokat nem. Ezekkel egyenként kell foglalkoznod. ~br~Az alkotásról jelentést kap a Spore vevőszolgálati csapata.
+
+#Awareness:  
+
+0x07981DE3 Meghatározza a lény látótávolságát.
+0x079EDF5E Meghatározza a járművek látótávolságát.
+
+#Stances:
+
+0x0798179D Ezek a lények megtámadják a látótávolságban lévő ellenséges egységeket.
+0x079EDF58 Ezek a járművek csak védekeznek, ha támadás éri őket.
+0x079EDF59 Ezek a járművek elmenekülnek, ha támadás éri őket.
+0x079EDF55 Ezek a járművek megtámadják a látótávolságban lévő ellenséges egységeket.
+0x079EDF56 Ezek a járművek figyelmeztetnek támadás előtt.
+0x079EDF57 Ezek a járművek mindig a kijelölt módon viselkednek.
+0x079817A1 Ezek a lények figyelmeztetnek támadás előtt.
+0x079817A5 Ezek a lények mindig a kijelölt módon viselkednek.
+0x079817AD Ezek a lények elmenekülnek, ha támadás éri őket.
+0x079817A9 Ezek a lények csak védekeznek, ha támadás éri őket.
+
+#Pickup:
+
+0x079817C5 Ezek a lények előre csak megszabott eszközt vehetnek fel.
+0x079817C2 Ezek a lények bármilyen eszközt felvehetnek.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7D Shitaake
+0x56AFCE7B Rendes sziklák
+0x56AFCE7A Jégsziklák
+0x56AFCE7C Lávasziklák
+0x56AFCE60 Nincs
+0x56AFCE79 Svájci
+0x56AFCE75 Gránit
+0x56AFCE76 Organikus
+0x56AFCE78 Homokkő
+0x56AFCE74 Kristály
+0x56AFCE77 Tüskék
+0x56AFCE73 Korál
+0x56AFCE72 Törmelékkőzet
+0x56AFCE71 Agyagos
+
+# posse ui
+
+0x0760B242 Stáb
+
+#mission ending description#
+
+0x0760B241 Uszony
+
+0x0760B0FA Győztes szöveg:
+0x0760B0FB Vesztes szöveg:
+0x0760B0F9 Bemutatás:
+0x075E4C78 Cél áthelyezése a legénység tagjához
+0x075E4C79 Céltípus beállítása
+0x0760B0F8 ~ep1_current_act~ jelenet leírása és zenéje
+
+#Teams:
+
+0x07981E72 Ezeket az épületeket megtámadják az ellenséges csapatok szereplői.
+0x07981E71 Ezek a lények soha nem támadnak meg a csapatukba tartozó szereplőt.
+0x079EDF5F Ezek a járművek soha nem támadnak meg a csapatukba tartozó szereplőt.
+
+#introduction of the mission#
+
+0x0760B240 Bevezető
+
+# Deep Edit
+
+0x96A94D76 ~ep1_current_act~ felvonás
+
+# Validations
+
+0x07AB8AEE A kalandban cél nélküli felvonások szerepelnek. A játékos csak akkor lesz képes megnyerni a kalandot, ha a felvonásnak célja van, vagy ha az a kaland utolsó felvonása. Mented ennek ellenére is?
+
+#Give:
+
+0x079817CE Ezek a lények eszközt adnak egy megszabott szereplőnek.
+0x079817C9 Ezek a lények eszközt adnak bármelyik szereplőnek.
+

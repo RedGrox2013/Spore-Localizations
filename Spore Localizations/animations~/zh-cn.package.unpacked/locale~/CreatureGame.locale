@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4F 呼叫来定位你的同伴，然后点击它们来进入编辑器！
+0x0524D329 呼叫你的同伴！
+0x0509FC4E 配偶
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 点击<hinticon>了解冲锋
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546ABA4 成立一个部落！
+0x0514F98E 迁徙
+0x0524D32C 迁徙至新的巢穴。
+0x0514F993 您的物种已经移动到另一巢穴。使用召唤跟随踪迹找到他们！
+0x0546AB9A 进化
+0x0546AB9E 点击前进按钮进化您得生物，形成部落开始文明生活。
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 兽群
+
+# Find_NPC Goal Card
+
+0x0509FB93 找到其它种族的成员并点击它们！
+0x0524D328 遇见另一个物种。
+0x0509FB92 生物
+
+# crg-lowhealth.prop
+
+0x91A0449F 你受到伤害了！回到你的巢穴去治疗
+
+# Combat text messages
+
+0x739A4E05 你太靠近了
+0x3538B712 你只能在表演时使用此能力
+0xF538B6FD 你必须在战斗中使用此能力
+0x06778BAC 您已经取悦了此生物
+0xD39A5768 这一能力尚未准备好
+
+# Combat Card - Mini Boss
+
+0x064D4053 捕杀~target_species_crg~
+0x064D4054 捕杀
+0x064D4056 这种生物的体格和力量要比绝大多数物种大。
+0x067394F7 这是比其他物种更大更强力的独特物种。
+0x064D4055 捕杀~target_species_crg~来获得大量的DNA奖励。
+
+# Eating_Herbivore Goal Card
+
+0x0524D325 你是一只草食动物。 吃水果。
+0x0509F9DB 吃
+0x0509F9DC 食草动物必须吃水果才能生存。在树上找到水果并点击进食。
+
+# crg-verbcharge.prop
+
+0x6859AEDE 这一能力尚未就绪
+
+# crg-spitclose.prop
+
+0x30A611E9 太近了
+
+# Social Card - Mini Boss
+
+0x064D4045 影响
+0x064D4044 令~target_species_crg~倾慕你
+0x064D4047 这种生物的体格和力量要比绝大多数物种大。
+0x064D4046 影响这个~target_species_crg~来获得一个强大的盟友。
+0x064D4048 这种生物的体格和力量要比绝大多数物种大。
+
+# Find Unlocks Card
+
+0x54D958AB 收集
+0x54D958AC 猎食原始生物或者与他们交朋友，以解锁新部件或在他们的遗骸中寻找新部件。
+0x54D958AD 寻找新部件进行进化。
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 主巢穴
+0x0658F2D1 新的巢穴
+0x0658F2D3 不明物种
+0x0658F2D2 老的巢穴
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 收集
+0xF4DAF5CB 解锁细胞部件
+0xF4DAF5CA 猎取细胞或者打开陨石碎片解锁新部分。
+
+# Build Artifact
+
+0x064D4064 你已经发现那个向你的物种发出奇怪而又神秘的气味的物体。把它们收集齐来修建一个圣像！
+0x064D4063 你已经发现那个向你的物种发出奇怪而又神秘的气味的物体。把它们收集齐来修建一个圣像！
+0x064D4061 建造工艺品！
+0x064D4062 收集神秘工艺品的所有碎片。
+0x064D4060 建造工艺品！
+
+# Claim Nest
+
+0xD538B78F 您要将这个巢穴设为家吗？当您死时，您将会在此重生。
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 点击<hinticon>了解魅惑
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC 点击<hinticon>学习喷吐
+
+# Combat - Extinct
+
+0x064D4059 ~target_species_crg~已经灭绝！
+0x064D4058 捕杀
+0x064D405A ~target_species_crg~已经灭绝！
+0x064D405B ~target_species_crg~已经灭绝！
+0x064D4057 捕杀~target_species_crg~
+
+# Eating_Carnivore Goal Card
+
+0x0524D324 你是一只肉食动物。 吃肉。
+0x0509F9DA 食肉动物必须吃肉才能生存。进行狩猎或找到尸体，通过点击进食。
+0x0509F9D9 吃
+
+# Add_Posse Goal Card
+
+0x0524D32A 增加一个兽群成员。
+0x0509FC96 兽群成员
+0x0509FC97 通过取悦生物将您物种的一名成员或是一个同盟成员加入兽群。
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 点击<hinticon> 了解猛击
+
+# First time socializing
+
+0xF4211909 模仿其它生物来打动它们
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB 点击<hinticon>了解歌唱
+
+# Find Unlocks Card - First Part
+
+0x06035A53 找到新部件进行进化
+0x06035A51 收集一个部件
+0x06035A52 狩猎生物或和他们交朋友以解锁新的部件，或者在他们的尸骨中寻找部件。
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 点击<hinticon>了解舞蹈
+
+# Social Card - Hostile Species
+
+0x064D403E 有些种族非常排外，您的行动可能招致他们永远为敌。小心！
+0x064D403A 令~target_species_crg~倾慕你
+0x064D403C 你无法影响~target_species_crg~！
+0x064D403B 影响
+0x064D403D 有些物种天生就有敌意，有时你的行动将导致它们永远成为你的敌人。要注意！
+
+# Hints
+
+0x142CD4F2 请记住食肉动物只吃肉，食草动物只吃水果！
+0x057736C3 点击<hinticon>建立一个部落
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4039 当您和此物种同盟后，您就可以在他们的巢穴治疗。
+0x064D4038 当您和此物种同盟后，您就可以在他们的巢穴治疗。
+0x064D4036 影响
+0x064D4035 令~target_species_crg~倾慕你
+0x064D4037 取悦~mission_remaining_crg~~target_species_crg~以达成同盟。
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 点击一个生物来开始和其交往
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 影响~target_species_crg~
+0x064D4031 影响
+0x064D4033 当您和这个物种结盟后，您可以在他们的巢穴进行治疗，并最终将它们加入您的兽群。
+0x064D4034 当您和这个物种结盟后，您可以在他们的巢穴进行治疗，并最终将它们加入您的兽群。
+0x064D4032 取悦~mission_remaining_crg~~target_species_crg~进行结盟
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 点击<hinticon>获得更多提示。
+
+# Reward text for all cards
+
+0x050A34CA 回报：~reward_evo_crg~ DNA
+
+# Save Baby
+
+0x064D405F ~target_species_crg~捕获了一个你的物种的婴儿！
+0x064D405E 将婴儿带到你的巢穴来保护它。
+0x064D405D 解救婴儿！
+0x064D405C 解救婴儿！
+0x06739532 ~target_species_crg~从您的部落中抢走了一个小孩！
+
+# Combat Card
+
+0x064D4052 追捕~target_species_crg~逐渐控制他们，最终将他们全部消灭。
+0x064D4051 追捕这个物种直到全部灭绝。
+0x064D404E 捕杀~target_species_crg~
+0x064D4050 猎杀~mission_remaining_crg~~target_species_crg~
+0x064D404F 捕杀
+
+# crg-notarget.prop
+
+0x79E8F4C5 你没有选定目标
+
+# Eating_Omnivore Goal Card
+
+0x0524D326 你是一只杂食动物。 吃水果或肉。
+0x0509F9DE 杂食动物什么都吃。 找到一个尸体或者水果，然后点击它来吃。
+0x0509F9DD 吃
+
+# Species creator
+
+0xB3DAED77 由~creator~创造
+0x73DB4258 Spore开发组
+
+# crg-useabilityposture.prop
+
+0x8693A0FC 点击<hinticon>了解姿势
+
+# con
+
+0x0564E650 宠物~local_creature_name~
+0xF32FE51B 阿尔法~local_creature_name~
+0xB32FE522 婴儿~local_creature_name~
+0x94ACB6F7 不诚实的~local_creature_name~
+0x0595B72B 史诗生物~local_creature_name~
+
+# crg-locatemate.prop
+
+0x200AFD34 点击<hinticon>找出您的配偶
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D 你可以在他们的巢穴恢复生命！
+0x064D404C 你可以在他们的巢穴恢复生命！
+0x064D404B ~target_species_crg~是你的同盟！
+0x064D404A 影响
+0x064D4049 令~target_species_crg~倾慕你
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4042 你可以在他们的巢穴恢复生命，还可以将他们加入你的兽群。
+0x064D4041 ~target_species_crg~是你的同盟！
+0x064D4043 你可以在他们的巢穴恢复生命，还可以将他们加入你的兽群。
+0x064D4040 影响
+0x064D403F 令~target_species_crg~倾慕你
+

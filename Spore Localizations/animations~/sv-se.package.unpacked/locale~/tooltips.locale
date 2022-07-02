@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE82 Aggressiv
+0xF67C278E Allmänna förmågor
+0x0568AE90 Ekonomiska verktyg
+0xF47C278E Social attityd
+0xF57C276F Social attityd
+0xF57C279A Stridsattityd
+0x0568AE91 Mutor och förvirring
+0x0568AE70 Militära vapen
+0x0568AE71 Napalmbomba
+0x0568AE72 Taktiskt kärnvapen
+0x0568AE73 Global kärnvapenattack
+0x0568AE80 Religiösa förmågor
+0x0568AE81 Helande tro
+0x0568AE83 Messiasupphöjelse
+0x0568AE92 Annonskampanj
+0x0568AE93 Global annonskampanj
+0x0568AE82 Regn av odjur
+0xF57C278E Stridsattityd
+0x0567AE7B Defensiv
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+
+### Global UI specific ###
+
+0x04CAC3D8 Sporebucks
+0x04CAC3D6 Zooma in
+0x04CAC3D7 Zooma ut
+0xF27C278D Rör dig mot land. Ät för att växa.
+0xF57C278D DNA-poäng
+0xF77C278D Öka folkmängden genom parning och rekrytering för att VINNA!
+0xF87C278D Insamlad mat
+0x04CAC3C1 Besegra eller alliera dig med andra stammar för att utvecklas
+0x04CAC3C2 Besegra eller alliera dig med andra stammar för att utvecklas
+0x04CAC3C3 Besegra eller alliera dig med andra stammar för att utvecklas
+0xF47C279C Pågående uppdrag
+0x062E9EC2 Kräver 2 städer
+0x062E9ECA Kräver 6 städer
+0x062EABDE Kräver 1 stad
+0x04CAC3D5 Rotera
+0x04CAC3D4 Rotera
+0x04CAC3C4 Kontrollera 2 städer för att uppfinna sjöfordon
+0xF47C278D Håll kontroll över 10 städer för att uppfinna rymdfart
+0x0643EDBE Du har uppfunnit rymdresor
+0x0643EDB7 Du har uppfunnit luftfordon
+0xF47C279D Avklarade uppdrag
+0xF47C279B Upplåsta delar
+0xF67C278D Skaffa DNA-poäng för att utvecklas
+0x04BC1A80 DNA-poäng. Skaffa DNA-poäng från mat och spendera poängen på delar.
+0x064A7064 Köp landfordon (1 000 $)
+0x064A7057 Köp luftfordon (3 000 $)
+0x065FC365 Stamplaneraren
+0x065767B7 --Kräver 2 städer
+0x06565205 Koloniplaneraren
+0x0657690D --Skapa ett luftfordon i stadsplaneraren
+0x0657690B --Skapa ett landfordon i stadsplaneraren
+0x064A7050 Stadsplanerare
+0x062E9EC6 Kräver 4 städer
+0x04CAC3C5 Håll kontroll över 4 städer för att uppfinna luftfordon
+0x065767BB - Kräver 4 städer
+0x065767B3 - Måste vara en kuststad
+0x065CD6F2 - Nådde total fordonsgräns
+0x06562784 - Kräver fler hus
+0x062DACAD Slutför Stamfasen för att låsa upp dessa förmågor.
+0x062DAC92 Slutför Cellfasen för att låsa upp dessa förmågor.
+0x062DACA9 Slutför Varelsefasen för att låsa upp dessa förmågor.
+0x065FC367 --Inte tillräckligt mycket mat
+0x065FC366 Lägg till bebis (~tribe_food_required_for_baby~ mat)
+0x065FC368 --Kräver större hydda
+0x065FC369 --Stammen är full
+0x062E98FB Konsekvensförmågor
+0x06453852 Gå vidare till Rymd
+0x0645384B Gå vidare till Stam
+0x06453842 Gå vidare till Varelse
+0x0645384F Gå vidare till Civilisation
+0x0671FB71 --Inte tillräckligt med Sporebucks
+0x065F79F0 Inkomst: +~civ_income~ $/min
+0xF47C279A Uppdragslogg
+0xF17C278D Tidslinje
+0x0657690C --Skapa ett sjöfordon i stadsplaneraren
+0x064A705D Köp sjöfordon (1 500 $)
+0x0643ED9B Du har uppfunnit sjöfordon
+
+#### CSA Spore Guide ###
+
+0x04F65BBC Komma igång
+0x04F65BBE Provkör
+0x063C34EB Ladda ny skapelse
+0x04F65BBD Byggläge
+0x04F65BBF Målarläge
+0x04F65BBB Välkommen till Spore
+
+### Consequence Timeline ###
+
+0x06131BB0 Tidslinjevy
+0x06131BB1 Konsekvensvy
+0x06131BB2 Evolutionsklocka
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Köp
+0xF17C273B Redigera
+0xF47C273B Nästa sida
+0xF57C273B Förra sidan
+0xF67C273B Skapa från grunden
+0xF77C273B Sortera efter
+0xF87C273B Sälj
+0xF27C273B Dela
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Varelsehjälp
+0xF81C283C Stamhjälp
+0xF81C284C Civilistaionshjälp
+0xF81C286C Rymdhjälp
+0xF81C287C Huvudhjälp
+0x05B5517E Cellhjälp
+0xF81C285C Skaparhjälp
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Markera alla
+0xF87C278E Välj en kompis
+0x0614906C Klicka för att lägga till en unge
+0x05D298AC Tala med en allierad för att få ett rymdskepp
+0xF97C278E Umgås med en allierad för att få med dem i din flock
+
+#### Global UI Space ####
+
+0xF57C270A Terraformeringsverktyg
+0x93CF382F Spåra planet
+
+#### Planners -- Global ### (not CSA)
+
+0xF57C278F Befolkning
+0xF58C278F Lycka
+0xF59C278F Försvar
+0xF60C278F Ekonomi
+0xF71C278F Uttråkningsnivå
+0xF72C278F Trötthetsnivå
+0x06381A1A Ditt imperiums namn
+0x06381A1B Planetens inkomst per minut
+0x06381A13 Nationens inkomst per minut
+0x06381A19 Din nations namn
+0x06381A17 Byggnadsöversikt
+0x06381A16 Fordonsöversikt
+0x06381A18 Din stams namn
+0x0653C13D Nästa koloni
+0x0653C13C Föregående stad
+0x0653C13E Föregående koloni
+0x0653C13B Nästa stad
+0x04BAFA05 Tak för militära fordon
+0x04BAFA06 Tak för religiösa fordon
+0x04BAFA07 Tak för ekonomiska fordon
+0xF70C278F Redigera utstyrsel
+0xF27C278E Tak för skördemaskiner
+0x0626EA62 Ägda militära städer
+0x0626EA63 Ägda religiösa städer
+0x0626EA64 Ägda ekonomiska städer
+0x05342949 Förbättra Terra-poängen för att låsa upp fler byggnader
+0x0F1C278E Tak för byggnader och försvarstorn
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Spela in animerad avatar
+0x05B04FE7 Maya-export
+
+## cell ##
+
+0x03000000 Kalla på partner
+0x03000003 Utveckla ben och gå upp på land!
+0x03000002 Kalla på en partner för att komma till Cellskaparen!
+0x03000001 Kalla på en partner för att komma till Cellskaparen!
+
+## Lock Icon##
+
+0x0679F344 Kan ej redigera
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Spara
+0xF81C228B Avsluta spelet
+0xF81C238B Gå till huvudmenyn
+0xF81C248B Förbjud innehåll
+0xF81C25AB Gör om
+0xF81C25CB Ångra
+0xF81C26CB Godkänn
+0xF81C277B Alternativ
+0xF81C27CB Radera
+0xF81C28CB Stäng
+0xF81C292C Skicka in
+0xF81C303C Ladda om
+0xF81C304C Avbryt
+0xF81C305C Utvecklas och gå upp på land!
+0xF81C306C Tillbaka
+0xF81C307C Info
+0xF81C310C Avbryt-Spara inte
+0xF81C309C Skicka
+0xF81C308C Avbryt prenumeration
+0x0615FFA4 Ekipera
+0x0615FFA5 Spela spelet
+0xF81C311C Förbjud skapelse
+0xF81C312C Visa detaljer
+0xF81C313C Rensa sökningen
+0xF81C314C Lägg till kompis
+0x0615FFB0 Hunger
+0xF81C258B Inställningar
+0x0615FFA8 Dölj
+0x0615FFA7 Visa
+0x0615FFA9 Hälsa
+0x0615DD1C Du måste spara innan du delar
+0x0615DD1B Redan delad
+0x0612F6B6 Dela
+0xF81C28CC Spara och avsluta
+0x0655200D Spela
+0xF81C278B Pausa
+0xF81C281C Dölj
+0x0615FFA6 Mina samlingar
+0xF81C276B Sporeguiden
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Antal kolonier på den här planeten
+0xF72C27AA Befolkning
+0xF72C27BB Lycka
+0xF72C27CC Inkomst
+0xF72C27DD Försvar
+0x06381A14 Planetens Terra-poäng
+
+### Options Panel###
+
+0xF57C573C Kikare
+0xF57C674D Förbjud
+0xF57C775E Inställningar
+0xF57C777E Avsluta Spore
+0xF57C776E Fortsätt spela
+0xF57C778E Fortsätt redigering
+0x0678C049 Avsluta skaparen innan du avslutar Spore
+0x0678C04B Bannlysningsläge inte tillgängligt i Cellfasen
+0x0678C04A Kikarläge inte tillgängligt i Cellfasen
+
+#### Part Unlock ### (not CSA)
+
+0x05837B77 Upplåsta delar tillgängliga
+0x05837B76 Upplåsta delar
+
+#### CSA ### 
+
+0x04E404F9 Alternativ
+0x04E404FA Hjälp
+0x04E404FB Alternativ
+0x04E404FE Spara varelse
+0x04E404FF Inställningar
+0x04E404FD Ny skapelse
+0x04E404FC Sporepedin
+0x04E404F8 Spore-nytt
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08851 Välj ett slumpmässigt namn
+0x05B08862 Välj en slumpmässig tillgång
+0x05B08863 Lås tillgång
+0x05B08754 Välj Cell
+0x05B08755 Välj Varelse
+0x05B08756 Välj Stamvarelse
+0x05B08757 Välj Civilisationsvarelse
+0x05B08758 Välj Rymdvarelse
+0x05B08759 Välj Stadshus
+0x05B08760 Välj Rymdskepp
+
+### Editor Camera instructions ###
+
+0x05013A33 Zooma in
+0x05013A34 Zooma ut
+0x05013A32 Rotera
+0x05013A31 Rotera
+
+#### Editors -- Global ###
+
+0xF37C273B Budget
+0xF37C275B Byggläge
+0xF37C277B Provkör
+0xF37C278C Ge mig ett namn
+0x05AF4A02 Fler kategorier
+0x05AF4A03 Fler kategorier
+0xF37C274B Komplexitetsmätare
+0x05AF4A05 Måla som "~newmodelname~"
+0x05AF4A06 Ny standardfärg
+0x064D2883 Budget
+0x064D2882 Budget
+0x064D2885 Budget
+0x064D2884 Budget
+0xF37C276B Målarläge
+0xF37C278D Dölj
+0x05AF4A04 Måla som ...
+
+#### GGE #####
+
+0xF36C273B Spore.com
+0x0577BFC5 Generera namn
+0xF82C275B Spela spelet
+0xF54C273B Skapare
+0xF63C273B Cellskaparen
+0xF81C271B Byggnadsskaparen
+0xF81C275B Rymdskeppsskaparen
+0xF72C273B Creature Creator
+0x063AEAA9 Stor vy
+0xF27C223B Spore-katalog
+0xF45C273B Inloggning och registrering
+0xF18C213B Sporepedin
+0xF81C2A3B Utrustare
+0x0609BC40 Rymdutrustare
+0x0609BC3D Civilisationsutrustare
+0x0609BC24 Stamutrustare
+0xF81C274B Fordonsskapare
+0xF81C273B Fordonsskapare
+0xF81C272B Fordonsskapare
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/timme
+
+##GGE General##
+
+0x05B08745 Information
+0x05B08744 Avbryt
+0x05B08746 Framåt
+0x05B08749 Exempeltillgångar
+0x05B08750 Identitetsfärg
+0x05B08751 Upplåst
+0x05B08752 Låst
+0x05B08747 Tillbaka
+0x05B08748 Tema för Spore-sändning
+0x05B08753 Slumpa
+

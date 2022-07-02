@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000098 完了
+0x00000097 進行中
+0x00000099 成功です！　~mission_source_star~へ報告しましょう。
+0x00000093 ~mission_source_star~へ向かいましょう。
+0x00000095 ~mission_target_planet~の調査は完了しました。~mission_source_star~にある、~mission_source_planet~へ報告に戻りましょう。
+0x000000B2 ~mission_source_planet~へ報告に戻りましょう。
+0x00000094 ~mission_target_star~を調査しましょう。~mission_target_planet~にある調査ステーションに連絡を取ってください。
+0x00000092 ~mission_target_star~を調査しましょう。調査ステーションに連絡を取ってください。
+0x000000B1 ~mission_target_planet~で、墜落した宇宙船を調査しましょう。
+0x00000000 ~ep1_captain_full_name~、生物学的大災害の連絡が届いたよ！　未確認の異星人の宇宙船が、遠隔環境調査ステーションの近くに墜落したんだ。~p~ステーションとの連絡は全て途絶えてしまった。~p~墜落した宇宙船から何らかの伝染病が持ち込まれたんじゃないか、ボクたちはそれを心配してる。~p~調査をお願いできるかな？
+0x00000071 正直に言うと、致死性の異星の伝染病があるような惑星に降下して調査するのは、ボクたちも気が進まなかったんだ。~p~君の種族は見かけより賢いんだね。
+0x00000064 引き受けてくれると思った。調査ステーションに何が起こったのかを突き止めて、至急報告に戻ってきて。~p~感染が広がらないうちに急いで、~ep1_captain_full_name~。
+0x0000004E 惑星の座標がミッションログにアップロードされてるよ。感染が広がる前に、急いで向かって。
+0x00000081 致死性かも知れない異星の伝染病に身をさらしたくないんだね？~p~実験台のリストがどんどん短くなっていく…
+0x00000041 恐れていたとおりだ。ステーションはこの少女を残して全滅したようだね。彼女の免疫系を手がかりにして、この手の災害が防げると良いんだけど。~p~あまり多くはないけど、この件のお礼に~mission_rewards~スポアバックスを受け取ってよ。
+

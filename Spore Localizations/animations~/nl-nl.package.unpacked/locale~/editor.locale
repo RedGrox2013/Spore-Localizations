@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882FB Sporezian
+0x045882EA Sporetastisch
+
+#Default Creation name
+
+0x04D93065 Naamloos object
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DE Pipet selecteert nu zowel kleur als textuur.
+0x0450C9DF Pipet selecteert nu alleen de kleur.
+0x0450C9E0 Pipet selecteert nu alleen de textuur.
+0x0450C9DC De control-toets selecteert nu alle blokken.
+0x0450C9DD De control-toets selecteert nu gelijksoortige blokken.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x061349C1 Delen van ~newmodelname~' niet gelukt.
+0x047E7E83 Weet je zeker dat je '~newmodelname~' wilt delen op Spore.com?~br~Je deelt onder de naam: ~username~
+0x047E7E85 ~newmodelname~' wordt al gedeeld!
+0x047E7E84 Delen van '~newmodelname~' is geslaagd!
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Weet je zeker dat je de Spore Creature Creator wilt verlaten?
+
+#paint mode paint buddy
+
+0x05BD6E0D Delete me [NOT IN USE]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD Deze creatie is niet geldig.
+0x053740AE Je kunt het spel met deze creatie spelen, maar deze wordt niet gedeeld en wel om de volgende redenen: [NOT IN USE]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x04592638 <Klik hier om in te loggen>
+0x045700B6 Weet je zeker dat je '~modelname~' wilt delen op Spore.com?~br~Je deelt onder de naam: ~username~
+0x0563D473 ~modelname~' kon niet gedeeld worden.
+0x045921AD Delen van '~modelname~' is geslaagd!
+
+#paint mode color chicklets
+
+0x05BF125F Houd de knop ingedrukt voor meer kleurkeuzes
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1B0 MyCreations [NOT IN USE]
+0x0535B1B1 Suggestions [NOT IN USE]
+0x0535B1AE All [NOT IN USE]
+0x0535B1B2 Other's Creations [NOT IN USE]
+0x0535B1AD -----------
+0x0535B1AF SPORE spel [NOT IN USE]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA015 SCC kleurendemo
+0xB4CEA016 SCC kleurenregistratie
+0xB4CEA017 SCC kleuren partner 1
+0xB4CEA010 SCC onderdelendemo
+0xB4CEA014 SCC onderdelen compleet
+0xB4CEA011 SCC onderdelenregistratie
+0xB4CEA013 SCC onderdelen partner 2
+0xB4CEA012 SCC onderdelen partner 1
+0x9F3415A4 Core Spore
+0xB4CEA019 SCC kleuren compleet
+0xB4CEA018 SCC kleuren partner 2
+
+### this text goes in CSA###
+
+0x00000001 Kopiëren voor
+0x00000002 Verkopen voor
+0x00000007 Verkopen voor
+0x00000003 Deelstijlen
+0x00000101 Te duur
+0x00000102 Te veel onderdelen
+0x00000105 Dit gereedschap heb je al
+0x0000020C (NOT IN USE) The maximum number of vehicles of all types has already been purchased.
+0x0000020D (NOT IN USE)
+0x00000008 Asymmetrisch maken [NOT IN USE]
+0x00000005 Gebouwenteller [NOT IN USE]
+0x00000109 Slechts 1 stadhuis per stad
+0x0000010A Geen ruimte meer voor geschutkoepels
+0x00000103 Er is geen ruimte meer voor gebouwen
+0x00000107 Bemachtig dit gereedschap van een andere stam
+0x00000104 De voertuiglimiet voor dit type is bereikt
+0x0000010B Vergrendeld
+0x0000010C Totale voertuigenlimiet bereikt
+0x00000206 (NOT IN USE) Voertuigen worden automatisch voor je gebouwd.
+0x00000205 (NOT IN USE) Only 1 of each tool is needed for your tribe.
+0x00000202 (NOT IN USE) Your creation is using too many parts already. Remove some in order to free up space.
+0x00000106 Kolonies kopen hun eigen voertuigen
+0x00000203 (NOT IN USE) There are no more slots to place buildings in.  Remove a building to free up space.
+0x0000020A (NOT IN USE) There are no more slots to place turrets in.
+0x00000204 (NOT IN USE) The maximum number of vehicles of this type has already been purchased.
+0x00000208 (NOT IN USE) This planet needs a higher terraforming score in order to support more buildings.
+0x00000209 (NOT IN USE) The city hall is the hub for all other buildings in each city.  Build other buildings to expand the city!
+0x00000207 (NOT IN USE) Befriend or Conquer a tribe that has this tool in order to gain access to it.
+0x00000201 (NOT IN USE) This item is too expensive and cannot be puchased now.
+0x0000010D Creëer, verander of selecteer een ruimteschip.
+0x00000108 Terrascore te laag
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Schepper
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Dit onderdeel is beschikbaar als je Spore koopt.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D284 Wil je dit compleet uit al je opgeslagen spellen verwijderen?
+0x0450D285 Weet je zeker dat je dit voorgoed uit je spel wilt verwijderen?
+0x0450D286 Weet je zeker dat je dit voorgoed uit je spel wilt verwijderen? Je spel zal opgeslagen en opnieuw gestart worden voor het voorwerp verwijderd wordt.
+0x063AB852 Dit voorwerp is een avatar in een van je spellen. Je moet dat spel wissen voor je dit voorwerp verwijdert.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Deze creatie gebruikt Spore-onderdelen die niet geïnstalleerd zijn.
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C ~newmodelname~ opgeslagen. Bekijk ~newmodelname~ in de 'Mijn creaties'-sectie van de Sporepedia.
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000009 Je huidige creatie kan niet worden opgeslagen en wel om de volgende reden:~br~~br~~generic0~~br~~br~Als je verdergaat, gaan de veranderingen verloren die je zojuist aan je creatie hebt aangebracht. Wil je verdergaan?
+0x10000019 Je huidige creatie kan niet worden opgeslagen en wel om de volgende reden:~br~~br~~generic0~~br~~br~Als je verdergaat met laden, gaan de veranderingen verloren die je zojuist aan je creatie hebt aangebracht. Wil je verdergaan?
+0x10000029 Je huidige creatie kan niet worden opgeslagen en wel om de volgende reden:~br~~br~~generic0~~br~~br~Als je een nieuwe creatie maakt, gaan de veranderingen verloren die je zojuist hebt aangebracht. Weet je zeker dat je dit wilt?
+0x10000039 Je huidige creatie kan niet worden opgeslagen en wel om de volgende reden:~br~~br~~generic0~~br~~br~Als je afsluit, gaat je huidige creatie verloren. Weet je zeker dat je dit wilt?
+0x10000028 Veranderingen aan “~newmodelname~” opslaan voor je een nieuwe creatie maakt?
+0x10000038 Veranderingen aan '~newmodelname~' opslaan voor je afsluit?
+0x10000018 Veranderingen aan '~newmodelname~' opslaan voor je gaat laden?
+0x10000008 Wil je de veranderingen aan '~newmodelname~' opslaan voor je verdergaat?
+0x1000000A ~newmodelname~' opslaan als nieuwe creatie of '~oldmodelname~' vervangen voor je verdergaat?
+0x1000000B ~newmodelname~' opslaan als nieuwe creatie of '~oldmodelname~' vervangen?
+0x1000002A ~newmodelname~' opslaan als nieuwe creatie of '~oldmodelname~' vervangen voor je een nieuwe creatie gaat maken?
+0x1000001A ~newmodelname~' opslaan als nieuwe creatie of '~oldmodelname~' vervangen voor je gaat laden?
+0x1000003A ~newmodelname~' opslaan als nieuwe creatie of '~oldmodelname~' vervangen voor je afsluit?
+0x1000000D Als je nu afsluit, zullen de veranderingen aan je creatie verloren gaan. Weet je zeker dat je wilt afsluiten?
+0x10000040 You won't be able to edit your creature once you start accessorizing.  Do you want to continue? [NOT IN USE]
+0x1000000C De schepper is bezig met het opslaan van '~newmodelname~'. Als je nu stopt, raak je  '~newmodelname~' voorgoed kwijt. Weet je zeker dat je wilt stoppen?
+

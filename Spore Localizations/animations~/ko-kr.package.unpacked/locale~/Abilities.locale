@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D 돌격 
+0x0000001E 원거리에서 단일 대상을 가로채서 연락을 마비시키는 공격.
+
+# Colony_Building.prop
+
+0x0000004F 생산력
+0x00000050 생산력을 높이면 식민지가 더 많은 돈을 모을 수 있습니다.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 군사적 비행 유닛
+0x0630D532 전투 및 비행
+
+# Colony_CivicObject.prop
+
+0x00000051 도시 목표
+0x00000052 순전히 장식용입니다.
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D572 굉장히 아슬아슬 했습니다! 몇 년만 더 사관학교에서 고생하면 동맹군에 가담해서 이 위험으로부터 벗어날 수 있을 겁니다.
+0x0630D571 식민지 비행 유닛
+
+#socialize
+
+0x00001001 사교 
+0x00002001 다른 크리처들과 교제하기 위한 노래하기, 춤추기, 자세, 매력 기관을 추가하십시오.  
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D574 항해는 우주 비행과 흡사합니다. 둘 다 "배"를 사용하니까요.
+0x0630D573 식민지 해양 유닛
+
+# City_Income.prop
+
+0x00000037 수입
+0x00000038 공장은 주택 주변에 설치하면 수입이 증가하지만 행복도가 줄어듭니다. 특히 오락 건물 근처에 있을 때는 행복도가 현저히 줄어듭니다.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 춤추기 
+0x33A78A34 춤을 좋아하는 다른 생물들과 친구가 될 수 있습니다.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000103 크리처에게 주술사 지팡이를 장비하면 필드에 있는 동료들을 치료할 수 있습니다.
+0x00000102 근대 약품
+0x0666A342 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~ 유닛 건강
+
+# CL_Proboscis.prop
+
+0x0000004B 잡식 크리처
+0x0000004C 당신의 세포는 식물과 다른 세포로부터 체액을 빨아먹습니다.
+0x06493565 잡식성 - 녹색 식물이나 다른 세포를 먹습니다.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 식민지 지상 유닛
+0x0630D576 우주?! 그건 샌님들이나 가는 곳이지. 진짜 사나이라면 발 아래 단단한 땅을 밟고 싶은 법이라고. 게다가 무중력이란 건 멀미가 나게 만들거든.
+
+# Charm5.prop
+
+0x0000008B 매력
+0x0000008C 세부 기관이 많을수록 매력이 높아집니다.
+
+# Spit2.prop
+
+0x000000C2 발사 
+0x000000C3 하나의 대상에게 사출물을 발사하는 빠른 공격
+
+# Herbivore1-5.prop
+
+0x0473A24F 이 크리처는 과일을 먹습니다.
+0x0473A24E 초식성
+
+# City_Cultural.prop
+
+0x0000002C 종교적 수송 수단은 행복하지 않은 도시를 당신의 문명에 귀화시킬 수 있습니다.
+0x0000002B 타 도시 귀화시키기
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~%
+
+# Charge5.prop
+
+0x00000021 돌격 
+0x00000022 원거리에서 단일 대상을 가로채서 연락을 마비시키는 공격.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE 발사 
+0x000000BF 하나의 대상에게 사출물을 발사하는 빠른 공격
+
+##### Tribal Accessories #####
+
+0x055D4833 이 장신구는 사교 행위 시 상대 부족을 감동시킬 확률을 증가시킵니다.
+0x055D4837 이 장신구는 음식 수확을 도와줍니다.
+0x055D4832 사교
+0x055D4830 전투
+0x055D4836 수확
+0x055D4835 이 장신구는 부족민의 건강도를 증가시킵니다.
+0x055D4838 낚시
+0x055D4839 이 장신구는 낚시 능력을 향상시켜 줍니다.
+0x055D4EB3 장신구를 착용해 전투, 사교, 수렵, 어업 기술을 향상시키거나, 방어구를 착용해 방어력을 향상시키십시오.
+0x055D4E62 부족 장신구
+0x055D4834 건강
+0x055D4831 이 장신구는 전투 시 상대에게 입히는 피해를 증가시킵니다.
+
+### Complexity Meter ##
+
+0x05F110B3 복잡도
+0x05F110B4 복잡성 미터가 다 차게 되면 기관을 더 추가할 수 없습니다.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 타격 
+0x000000D5 근거리에서 여러 대상에게 피해를 주는 압도적인 공격.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 자동 공격 
+0x049A3CDB 자동 물기 공격 
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD 레벨 ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 노래하기 
+0x00000121 노래를 좋아하는 생물들과 친구가 될 수 있습니다.
+
+#health
+
+0x00001004 건강 
+0x00001008 건강
+0x00002004 지능을 업그레이드할 때마다 건강을 높이거나 생존율을 높이기 위한 기관을 구입할 수 있습니다.  
+0x00002008 건강은 세포가 견딜 수 있는 피해의 정도를 나타냅니다. 각 세포마다 세 가지 건강 단위가 있습니다.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 속도
+0x04CEA2D3 수송 수단의 속도를 증가시키면 보다 빨리 움직입니다.
+
+# Colony_House.prop
+
+0x066657CA 생산성
+0x066657CB 식민지 주택
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 힘
+0x04CEA2D5 수송 수단의 힘을 증가시키면 공격력이 향상됩니다.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 공격 
+0x00002000 다른 생물들을 공격하기 위한 물기, 타격, 돌격, 발사 기관을 추가하십시오. 
+0x00001007 공격 
+0x00002007 다른 세포를 공격하려면 가시, 독, 전기 기관을 추가하십시오.
+
+# Posture3.prop
+
+0x000000A7 자세  
+0x000000A8 자세는 손과 발이 있는 크리처들에게 인기가 있습니다.
+
+# Dance2.prop
+
+0x00000057 춤추기 
+0x00000058 춤을 좋아하는 다른 생물들과 친구가 될 수 있습니다.
+
+# Bite2.prop
+
+0x00000005 물기 
+0x00000006 근거리에 있는 하나의 대상에 대한 빠른 공격.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 매력
+0x0000008A 세부 기관이 많을수록 매력이 높아집니다.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526762 잡식성
+0x06526772 당신의 세포는 식물과 다른 세포의 체액을 빨아먹습니다.
+
+# Charge2.prop
+
+0x0000001B 돌격 
+0x0000001C 원거리에서 단일 대상을 가로채서 연락을 마비시키는 공격.
+
+# Bite1.prop
+
+0x00000001 물기 
+0x00000002 근거리에 있는 하나의 대상에 대한 빠른 공격.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496725 공장 설명
+0x06496724 공장
+
+# CL_Cilia.prop
+
+0x0000003F 빠른 방향 전환
+0x00000040 당신의 세포는 빨리 방향을 전환합니다.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CD 식민지 오락거리
+0x066657CC 생산성
+
+# Colony_Factory.prop
+
+0x066657CF 식민지 공장
+0x066657CE 생산성
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 부족 장신구
+0x04D02BF8 부족민에게 장신구를 착용시키면 능력이 향상됩니다!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D534 유인, 조준, 발사
+0x0630D533 군사적 해양 유닛
+
+#movement
+
+0x00001003 속도 
+0x00001006 이동 
+0x00002003 빨리 움직이기 위해 발을 추가하거나, 기존의 발을 업그레이드하십시오!
+0x00002006 빨리 움직이려면 섬모, 편모, 분사 기관을 추가하십시오. 이동 기관을 늘릴 때마다 세포의 이동속도가 빨라집니다.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 탐색
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526761 잡식성
+0x06526771 당신의 세포는 식물과 다른 세포의 체액을 빨아먹습니다.
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ 힘
+
+# Spit5.prop
+
+0x000000C8 발사 
+0x000000C9 하나의 대상에게 사출물을 발사하는 빠른 공격
+
+# Posture5.prop
+
+0x000000AB 자세  
+0x000000AC 자세는 손과 발이 있는 크리처들에게 인기가 있습니다.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496727 오락 건물 설명
+0x06496726 오락 건물
+
+# Dance5.prop
+
+0x0000005D 춤추기 
+0x0000005E 춤을 좋아하는 다른 생물들과 친구가 될 수 있습니다.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 질주 
+0xF386C342 이동 속도를 높입니다. 질주 기관을 늘릴수록 질주하는 시간이 늘어납니다.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A251 보다 빨리 움직이게 합니다!
+0x0473A250 속도 
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D546 근래에 스파이스 가격이 오르고 있기 때문에, 이것을 하이브리드 유닛으로 만들고 싶다는 생각도 들 겁니다.
+0x0630D545 경제적 지상 유닛
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C 건강이 증가하면 공격으로부터 생존할 확률이 높아집니다. 
+0x04CB5B6D 건강 
+
+# CL_Shock.prop
+
+0x0000004D 전기 
+0x0000004E 당신의 세포는 근처의 세포를 감전시킵니다.
+
+# CL_Poke.prop
+
+0x00000049 뿔 
+0x0000004A 다른 세포에게 돌진하여 공격합니다. 일부 대상은 찔리면 부서집니다.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 순간 속도
+0x00000046 당신의 세포는 순간 가속을 합니다.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x000000A0 과일이나 돌멩이와 같은 물체를 들 수 있습니다. 손 기관을 늘릴수록 다수의 물체를 들고 다닐 수 있습니다. 대상을 향해 물체를 던져보십시오.
+0x0000009F 손
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D556 당신의 땅은 그 근본부터 우리의 땅입니다.
+0x0630D555 종교적 지상 유닛
+
+# Vehicle_EconomicPower.prop
+
+0x06318043 수치를 올리면 유닛의 경제적 힘이 향상됩니다.
+0x06318042 경제적 힘
+
+# CL_Speed.prop
+
+0x0563FF82 속도 
+0x0563FF83 속도 
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE 레벨 ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 작살
+0x000000F1 작살은 근처의 낚시 구멍에서 보다 효율적으로 음식을 채집할 수 있게 해줍니다.
+0x0666A340 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# Bite5.prop
+
+0x0000000B 물기 
+0x0000000C 근거리에 있는 하나의 대상에 대한 빠른 공격.
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~ 종교적 힘
+
+# Tribe_Hunt3.prop
+
+0x0000010A 투창
+0x0000010B 창은 부족민들이 원거리에서도 공격할 수 있게 해줍니다.
+0x0666A346 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# Spit3.prop
+
+0x000000C4 발사 
+0x000000C5 하나의 대상에게 사출물을 발사하는 빠른 공격
+
+# Posture2.prop
+
+0x000000A5 자세  
+0x000000A6 자세는 손과 발이 있는 크리처들에게 인기가 있습니다.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D554 이 배를 "숭배"라고 합니다.
+0x0630D553 종교적 해양 유닛
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~ 경제적 힘
+
+# City_Population.prop
+
+0x0000003B 개체수
+0x0000003C 주택을 공장과 연결하면 수입이 증가합니다. 또한 주택 1채마다 최대 유닛 수가 1씩 증가합니다.
+
+#diet
+
+0x00001002 음식
+0x00001005 음식
+0x00002005 다양한 종류의 음식을 먹기 위해 입, 턱, 주둥이 기관을 추가하십시오.
+0x00002002 세포 단계의 식성으로 크리처의 식성이 결정됩니다.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 막기 
+0x00000016 전투 중에, 데미지를 피하려면 막기를 사용하십시오.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BB 시민의 외관을 꾸미십시오.
+0x05B1E9BC 시민의 외관을 꾸미십시오.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 돌격 
+0x00000018 원거리에서 단일 대상에게 돌진하여 기절시키는 공격
+
+# Charm3.prop
+
+0x00000087 매력
+0x00000088 세부 기관이 많을수록 매력이 높아집니다.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 점프 
+0x00000098 점프는 닿기 어려운 지역에 갈 수 있게 해줍니다. 레벨이 올라가면 점프할 수 있는 높이도 높아집니다. 
+
+# Strike2.prop
+
+0x000000D8 타격 
+0x000000D9 근거리에서 여러 대상에게 피해를 주는 압도적인 공격.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 종교적 힘
+0x06318041 수치를 올리면 유닛의 종교적 힘이 향상됩니다.
+
+# Dance4.prop
+
+0x0000005B 춤추기 
+0x0000005C 춤을 좋아하는 다른 생물들과 친구가 될 수 있습니다.
+
+### House ###
+# Building_House.prop
+
+0x06496722 주택
+0x06496723 주택 설명
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 활공 
+0x00000096 날개는 당신의 크리처가 날 수 있게 해 줍니다. 레벨이 높을수록 더 멀리 갈 수 있습니다.
+
+# Tribe_Gather3.prop
+
+0x000000FC 장대
+0x000000FD 이 도구는 대부분의 과일을 채집할 수 있게 해주며 아무리 큰 나무에서도 수확할 수 있습니다.
+0x0666A341 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# City_Happiness.prop
+
+0x00000033 행복
+0x00000034 주택 근처에 오락 건물을 지어서 시민들의 행복을 유지하십시오.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D1 수송 수단의 건강도를 증가시키면 전투 시 오래 생존할 수 있습니다.
+0x04CEA2D0 방어
+
+# Bite3.prop
+
+0x00000007 물기 
+0x00000008 근거리에 있는 하나의 대상에 대한 빠른 공격.
+
+# CL_Poison.prop
+
+0x00000047 독 
+0x00000048 당신의 세포는 독 안개를 내뿜습니다.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D536 구식 탱크만한 것도 없죠. 그거 탱크 맞죠?
+0x0630D535 군사적 지상 유닛
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526760 잡식성
+0x06526770 당신의 세포는 식물과 다른 세포의 체액을 빨아먹습니다.
+
+# Starvivore.prop
+
+0x04D19389 입 없음 
+0x04D1938A 이렇게 잔인할 수가! 입이 없는 크리처는 굶어 죽을 수 밖에 없습니다. 입 기관을 추가하십시오. 
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 자세  
+0x000000A2 자세는 손과 발이 있는 크리처들에게 인기가 있습니다.
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~ 군사적 힘
+
+# Vocalize2.prop
+
+0x0000011E 노래하기 
+0x0000011F 노래를 좋아하는 생물들과 친구가 될 수 있습니다.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D3 다른 생물이 눈치채지 못하게 몰래 다가가거나 공격자를 피해 갑니다. 몰래 이동 중에 배후에서 공격하면 공격에 보너스가 주어집니다.
+0x000000D2 몰래 이동
+
+# Charge4.prop
+
+0x0000001F 돌격 
+0x00000020 원거리에 있는 하나의 대상에 대한 보통 공격. 대상은 충돌 후 5초간 마비됨.
+
+# Strike3.prop
+
+0x000000DA 타격 
+0x000000DB 근거리에서 여러 대상에게 피해를 주는 압도적인 공격.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 빠른 속도
+0x00000042 당신의 세포는 움직임이 빠릅니다.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318045 수치를 올리면 유닛의 군사적 힘이 향상됩니다.
+0x06318044 군사적 힘
+
+# City_Military.prop
+
+0x00000039 군사적 수송 수단
+0x0000003A 군사적 수송 수단은 타 도시를 공격하고 파괴할 수 있습니다.
+
+# Strike5.prop
+
+0x000000DE 타격 
+0x000000DF 근거리에서 여러 대상에게 피해를 주는 압도적인 공격.
+
+# Tribe_Hunt.prop
+
+0x00000104 공격
+0x00000105 다른 동물을 사냥해 음식을 얻거나, 다른 부족을 공격합니다.
+0x0666A343 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# City_Economic.prop
+
+0x0000002F 타 도시와 무역협상하기
+0x00000030 경제적 수송 수단은 다른 도시와 상거래를 할 수 있습니다.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD 시각
+0x0500E7DE 눈이 없으면, 크리처는 실제로 아무 것도 볼 수 없습니다!
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 잡식성
+0x06526773 당신의 세포는 식물과 다른 세포의 체액을 빨아먹습니다.
+
+# CL_Herbivore.prop
+
+0x00000043 초식성
+0x06494A72 초식성 - 식물을 먹습니다.
+0x00000044 당신의 세포는 식물을 먹습니다.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24D 이 크리처는 다른 생물들을 먹습니다.
+0x0473A24C 육식성
+
+# Omnivore.prop
+
+0x04D18880 잡식 크리처
+0x04D18881 이 크리처는 과일과 다른 생물을 모두 먹습니다.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A 노래하기 
+0x0000011B 노래를 좋아하는 생물들과 친구가 될 수 있습니다.
+
+# HitPoints.prop
+
+0x062CFA7E 건강을 늘리면 크리처의 공격에 대한 생존률이 높아집니다.
+0x062CFA7D 건강
+
+#Generic
+
+0x04D3040D 능력 
+0x04D3040E 기관을 추가하면 능력이 생깁니다.
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D542 하늘에서 떨어지는 돈
+0x0630D541 경제적 비행 유닛
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 우주선
+0x0630D566 광활한 우주에서 당신이 의지해야 하는 친구입니다.
+
+# Colony_UFO.prop
+
+0x00000053 우주선
+0x00000054 탐험! 건설! 납치! 파괴! 이것이 우주선의 능력입니다.
+0x06779205 이 식민지는 항구도시가 없습니다.
+
+# Strike4.prop
+
+0x000000DC 타격 
+0x000000DD 근거리에서 여러 대상에게 피해를 주는 압도적인 공격.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D552 세포 단계일 때부터 천국을 보호하고 있었습니다.
+0x0630D551 종교적 비행 유닛
+
+# City_Food.prop
+
+0x00000031 삭제됨
+0x00000032 삭제됨
+
+# Dance3.prop
+
+0x00000059 춤추기 
+0x0000005A 춤을 좋아하는 다른 생물들과 친구가 될 수 있습니다.
+
+# Vocalize4.prop
+
+0x00000122 노래하기 
+0x00000123 노래를 좋아하는 생물들과 친구가 될 수 있습니다.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~ 유닛 속도
+
+# Tribe_Hunt1.prop
+
+0x00000106 가시달린 곤봉
+0x00000107 가시달린 곤봉은 도구와 오두막을 부수는 데 유용하지만 크리처에게는 효과가 적습니다.
+0x0666A344 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# CL_GameSpeed.prop
+
+0x0649A10D 편모, 섬모, 분사 기관을 추가하면 빨리 이동합니다. 이동 기관을 추가할 때마다 세포의 속도가 증가합니다.
+0x0649A10C 속도
+
+# City_CivicObject.prop
+
+0x533DD075 도시 목표
+0x533DD076 순전히 장식용입니다.
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D544 "인상적인 대규모 경제 전략"이라고 하면 36미터 짜리 황금배만한 것도 없습니다.
+0x0630D543 경제적 해양 유닛
+
+# Vocalize5.prop
+
+0x00000124 노래하기 
+0x00000125 노래를 좋아하는 생물들과 친구가 될 수 있습니다.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 마라카스
+0x00000111 마라카스로 다른 부족민들을 감동시키십시오!
+0x0666A349 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 식민지 주민들에게 장신구를 착용시키십시오.
+
+# CL_Carnivore.prop
+
+0x0000003D 육식성
+0x06494A73 육식성 - 다른 세포를 사냥하여 고기를 먹습니다.
+0x0000003E 당신의 세포는 공격적이며 고기를 먹습니다.
+
+# Spit4.prop
+
+0x000000C6 발사 
+0x000000C7 하나의 대상에게 사출물을 발사하는 빠른 공격
+
+# City_Defense.prop
+
+0x0000002E 도시의 방어력을 높이십시오.
+0x0000002D 도시를 방어하기!
+
+# Posture4.prop
+
+0x000000A9 자세  
+0x000000AA 자세는 손과 발이 있는 크리처들에게 인기가 있습니다.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E 관악기
+0x0000010F 목재 관악기로 다른 부족민들을 감동시키십시오!
+0x0666A348 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C 뿔피리
+0x0000010D 뿔피리로 다른 부족민들을 감동시키십시오!
+0x0666A347 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 매력
+0x00000082 세부 기관이 많을수록 매력이 높아집니다.
+
+# City_Harvester.prop
+
+0x00000036 삭제됨
+0x00000035 삭제됨
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496721 시청 설명
+0x06496720 시청
+
+# Bite4.prop
+
+0x00000009 물기 
+0x0000000A 근거리에 있는 하나의 대상에 대한 빠른 공격.
+
+# Charm2.prop
+
+0x00000085 매력
+0x00000086 세부 기관이 많을수록 매력이 높아집니다.
+
+# Tribe_Hunt2.prop
+
+0x00000108 돌 도끼
+0x00000109 도끼는 야생 크리처와 부족들에게는 큰 효과를 발휘하지만 오두막과 도구에는 거의 쓸모가 없습니다.
+0x0666A345 다른 부족들의 도구에 접근할 수 있도록 정복하거나 동맹을 맺으십시오.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 동료를 부르거나 보금자리를 알아내기 위한 호출. 하지만 근처의 포식자에게 들킬 염려가 있습니다. 
+0x0000007F 부르기
+

@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x0102000B Puzzle
+0x01020006 Relacionarse
+0x01020007 Explorar
+0x01020003 Sin género
+0x01020004 Atacar
+0x01020005 Defender
+0x0102000A Obtener
+0x01020009 Historia
+0x01020008 Misión
+0x0102000D Plantilla
+0x0102000C Planetas
+
+#######################################
+# Filter Names
+
+0x01020001 Aventuras
+0x01020002 Aventuras jugables
+0x07200107 Capitán
+0x07200108 Mis capitanes
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ partidas
+
+### Difficulty Descriptions
+
+0x07D86C49 Dificultad: ~ep1_adventure_difficulty~
+0x07D86C6A Muy fácil
+0x07D86C87 Moderada
+0x07D86C7C Fácil
+0x07D86CA8 Muy difícil
+0x07D86C9F Difícil
+
+# Unpublish
+
+0x07D9CFD7 ¿Quieres dejar de compartir esta creación? Se eliminará del servidor.
+0x07D9CFB6 Dejar de compartir
+
+#######################################
+# Misc
+
+0x02000002 Selección de ~num_selected_items~ elemento(s)
+0x02000001 El elemento seleccionado está siendo editado actualmente. Ahora no puedes eliminarlo.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Objetos
+
+# Audio filters
+
+0x01021007 Multitud
+0x01021006 Sonido
+0x01021008 Entorno
+0x0102100A Música
+0x01021009 Mecánico
+0x0102100C Activación única
+0x0102100B Nota
+
+### Ratings
+
+0xC7647889 Calificación
+
+# Download adventure
+
+0x02200002 ¿Quieres abrir esta aventura?
+0x02200001 Descargar aventura
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ puntos
+
+#######################################
+# Category Names
+
+0x00000001 Objetos de aventura
+
+# Fixed object filters
+
+0x01021004 Rocas
+0x01021003 Objetos del juego
+0x01021002 Objetos de mano
+0x01021005 Adornos estáticos
+0x01021001 Objetos fijos
+
+# Effects filters
+
+0x01022003 Efectos de naturaleza
+0x01022002 Efectos de luz
+0x01022006 Efectos de activación única
+0x01022005 Efectos caprichosos
+0x01022004 Efectos de ciencia ficción
+0x01022001 Efectos
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Elige un planeta
+0x079EDCD5 Crea o elige a tu capitán
+0x072925B0 Elige una aventura
+0x072000E3 Crea o elige un capitán
+0x072925BB Elige uno o más efectos
+0x072925BA Elige una o más naves espaciales
+0x072925B9 Elige uno o más vehículos
+0x072925BD Elige un objeto
+0x072925BC Elige uno o más objetos de sonido
+0x072925B8 Elige uno o más edificios
+0x072925B4 Elige un objeto de audio
+0x072925B3 Elige uno o más objetos
+0x072925B2 Crea o elige un miembro del reparto
+0x072925B7 Elige una o más criaturas
+0x072925B6 Elige el reparto de tu aventura
+0x072925B5 Elige flora
+0x07B67C69 Elige uno o más objetos del juego
+0x07B24B83 Tienes que haber iniciado sesión para ver las clasificaciones y calificaciones de esta aventura.
+

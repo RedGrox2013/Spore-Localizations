@@ -1,0 +1,208 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000006B ...
+0x00000106 Vi har upptäckt en annan civilisation i systemet ~mission_target_star~. Vi vill att du tar kontakt.
+0x0000006D Stjärnan ligger ~mission_clue_range_min~ till ~mission_clue_range_max~ parsek från ~mission_clue_landmark1~.
+0x000000B4 Uppdraget slutfört. ~mission_item~ är ombord.
+0x0000005E Är du inte intresserad av den spirituella förmågan hos dina medvarelser? Det verkar kortsynt.
+0x0000010F Din fullständiga inkompetens har noterats.
+0x0000007A Svor du inte på att hämta oss en medborgare från systemet ~mission_target_star~? Är inte den eden nedtecknad i din uppdragslogg? Håller du ditt heliga löfte?
+0x00000045 Du har misslyckats med att slutföra ett enkelt uppdrag på en planet med underutvecklad teknik. Visst tror vi att du gjorde ditt bästa, men vi kommer att överväga dina begränsningar när det gäller andra uppdrag.
+0x000000AF Ja, såklart! Uppdragsloggen. Jag ska kolla där!
+0x000000B2 ~mission_item~ finns ombord. Återvänd till planeten ~mission_source_planet~ i systemet ~mission_source_star~ för ära och berömmelse.
+0x00000013 Vi har fått veta om en ny civilisation i systemet ~mission_target_star~ och skulle behöva utvärdera om de utgör en hotbild. Kan du hjälpa oss?
+0x0000007D Jag gör hellre något annat.
+0x0000001C Det går inte, jag är upptagen.
+0x00000011 Radiosignaler från systemet ~mission_target_star~ tyder på att det finns intelligent liv där. Vi är mycket spända av förväntan inför möjligheten att öka lyckan i en hel värld genom att sälja saker till dem.~p~Kan du hjälpa oss i våra ansträngningar? Belöningar utlovas.
+0x0000004B Det är något annat jag vill fråga om ...
+0x000000A0 Vi kommer höras av igen. Farväl.
+0x000000A3 Hemskt ledsen över att ha stört dig. Vi ses.
+0x000000A8 Ja, såklart! Uppdragsloggen. Jag ska kolla där!
+0x00000097 Tack för chansen. Vi ses.
+0x000000A4 Kanske nån annan gång. Vi ses.
+0x000000A2 Ditt irrationella beteende tyder på att du omedelbart bör avgifta dig.
+0x00000093 Vi kommer höras av igen. Farväl.
+0x00000092 Hemskt ledsen över att ha stört dig. Vi ses.
+0x0000005A Det är inte alla som klarar att upplyfta våra medkännande. Adjö.
+0x00000096 Jag måste ge mig av. Farväl!
+0x00000057 Då tar vi hand om det själva. Adjö.
+0x000000AC Upprepa ditt önskemål. Mina anteckningar är oklara.
+0x00000095 Jag ber om din förståelse.
+0x0000009E Hemskt ledsen över att ha stört dig. Vi ses.
+0x00000059 Vi har ingen rätt att tvinga dig att åta dig uppdrag. Gå i fred.
+0x00000094 Jag ser att du är upptagen. Vi pratar sen.
+0x000000AA Detaljerna kring mitt uppdrag tycks ha undflytt mig.
+0x00000103 Vi måste undersöka en organisk livsform i systemet ~mission_target_star~. Du ska hjälpa oss.
+0x0000009F Kanske nån annan gång. Vi ses.
+0x00000078 stjärnans namn är ~mission_target_star~
+0x00000044 De otrogna måste ha blivit besatta av demoner för att kunna driva bort dig! Vår militär kommer att bestraffa dem vid lämpligt tillfälle. Under tiden kan du gå i fred.
+0x00000099 Uppgiften ligger framför oss. Farväl.
+0x0000005B Vill du inte leka med de söta utomjordingarna? Ja ja. Kanske en annan gång.
+0x00000098 Jag kommer snart tillbaka. Vi ses.
+0x0000000A En ny civilisation har upptäckts i systemet ~mission_target_star~. Vi skulle vilja undersöka deras egenskaper. Vill du hjälpa oss?
+0x000000A9 Jag måste ta en titt till på mitt uppdrag.
+0x0000005C Nåja. Vi får väl behålla belöningen för oss själva.
+0x000000A1 Jag ber om din förståelse.
+0x000000AE Jag ber om din förståelse.
+0x0000004A Du misslyckades med att hämta utomjordingen åt oss. Hur ska vi kunna introducera den till andecirklar och mässande sånger nu?
+0x00000115 Om din art söker döden kan vi kanske hjälpa till.
+0x00000019 Hur hittar jag den?
+0x00000069 Du kanske skulle må bättre av ett lavemang.
+0x000000B5 Uppdraget misslyckat. Tiden har gått ut.
+0x00000066 Vad är det för fel? Var utomjordingarna fula eller något liknande?
+0x00000068 Betyder inte begreppet ära någonting för dig?
+0x00000048 Kära nån. Drevs du verkligen bort av ett sådant primitivt folk? Du är knappast så magnifik som vi trodde dig vara.~p~Du kanske vill smycka dig med praktfulla varor från vår marknadsplats och på så sätt övertyga andra att du är värd lite respekt.
+0x00000087 Du vandrar sannerligen Spodes väg. Väl på planeten ~mission_target_planet~ har du ~mission_time~ på dig att återvända.
+0x000000A6 Jag ser att du behöver ett ögonblick för dig själv. Jag återkommer.
+0x0000001A Jag är inte intresserad just nu. Kanske senare.
+0x00000067 Det är mycket snack och lite verkstad när det gäller dig. Vi får väl göra jobbet själva.
+0x000000A5 Jag ser att du är upptagen. Vi pratar sen.
+0x00000112 Tack, kapten! Avres omedelbart till planeten ~mission_target_planet~ och återvänd inom ~mission_time~ sektoner.
+0x000000A7 Spode ser in i era hjärtan och ser att ni är hjärtlösa och förrädiska. Farväl.
+0x00000080 Jag ber om att få bli ursäktad från det här uppdraget.
+0x000000AB Jag skulle vilja titta igenom detaljerna kring mitt uppdrag.
+0x00000085 Jag måste gå vidare. Farväl.
+0x00000114 Vill du inte kidnappa någon? Det är väl inte så mycket att bråka om.
+0x0000007F Det här uppdraget passar inte längre in i mitt schema.
+0x00000116 Ger du upp? Du måste arbeta på ett konsekvent beteende kapten!
+0x00000047 Det är tråkigt att behöva nämna det, men du har misslyckats med att tillhandahålla så mycket som ett enda exemplar av en primitiv art som varken kunde skada eller hindra dig.~p~Vad i hela fridens namn tänkte du på?
+0x00000003 Våra fjärrsensorer har identifierat tecken på en industribaserad ekonomi på planeten ~mission_target_planet~. Vi behöver veta om dessa nykomlingar behöver hjälp med hanteringen av planetens ekologi. Vill du hjälpa oss?
+0x00000108 Vi tror att en civilisation har uppstått i systemet ~mission_target_star~. Vi skulle vilja undersöka saken.
+0x00000006 Spodes underverk är många. Vi har nyligen upptäckt en ny art nära systemet ~mission_target_star~. Kan du hjälpa oss att undersöka om de är redo för Spodes läror?
+0x00000014 Vi har upptäckt en ny civilisation nära stjärnsystemet ~mission_target_star~. Vi skulle vilja använda den världen som bas för vår försvarsmakt, men är osäkra på infödingarnas reaktioner. Kan du hjälpa oss att undersöka egenskaperna hos den här nya arten?
+0x00000028 ~player_title~ ~player_creature_name~. Se - den stilige och orädde astrohjälten har återvänt med ~mission_item~! Ser han inte osedvanligt bra ut? Har du tränat? Du ser särskilt smärt ut. Hur som helst erbjuder vi en betalning om ~mission_rewards~ för ditt exemplariska arbete.
+0x00000012 En ny intelligent art har hittats i stjärnsystemet ~mission_target_star~. Vi ska inom kort restrukturera hela branscher som ska stilla den stigande efterfrågan vi emotser. Under tiden behöver vi dock ta fram mer information om kunderna. Kan du hjälpa oss mot generös kompensation?
+0x00000107 Sändningar från planeten ~mission_target_planet~ visar på en avancerad art. Kapten, vi vill att du eskorterar deras nya ambassadör.
+0x00000022 En civilisation har uppstått i systemet ~mission_target_star~. Vi ber dig hämta en av dess invånare så att vi kan översvämma deras värld med konsumentprodukter som har utformats särskilt för dem.
+0x00000040 Det verkar möjligt. Jag säger ja!
+0x00000020 Det kan finnas en intelligent civilisation i systemet ~mission_target_star~. Vi ber dig hämta en av dessa varelser så att vi kan undersöka dem och avgöra om de är kandidater för ytterligare utveckling.
+0x0000006C Alltså, jag kom precis på hur upptagen jag är.
+0x0000003F Jag antar ditt förslag.
+0x00000064 Jag ber om din förståelse.
+0x00000016 Stjärnsystemet ~mission_target_star~ verkar ha utvecklat en civilisation. Vi skulle vilja undersöka en av de infödda så att vi kan hjälpa världen på dess resa mot andlig enighet. Kan du hjälpa oss?
+0x00000024 Res till planeten ~mission_target_planet~ vid stjärnsystemet ~mission_target_star~. Stråla upp en av infödingarna och för hit exemplaret utan att skada det.
+0x00000007 Storförsamlingen lägger stor vikt vid information om nya intelligenta arter. Vi har fått veta att en ny civilisation har uppstått i systemet ~mission_target_star~, och vi vill ta kontakt direkt med dess invånare för att se om de är lämpliga att ansluta till vår federation. Kan du tänka dig att hjälpa oss?
+0x00000053 Nu förstår jag. Adjö!
+0x0000007E Jag måste avsäga mig den här uppgiften.
+0x00000023 En av världarna som rör sig kring systemet ~mission_target_star~ är hem för en intelligent art. Hämta en av dessa varelser åt oss för utvärdering.~p~Använd inte våld. Ännu.
+0x0000003B Varsågod. Vi ses.
+0x00000004 Spode har visat oss ännu ett av sina underverk. En ny art har upptäckts i ljuset av systemet ~mission_target_star~. Vi vill veta om de känner till Spodes läror. Kan du hjälpa oss?
+0x00000054 Tack igen. Hej så länge.
+0x00000042 Jag gör som du befaller.
+0x00000109 Det finns organiskt liv i systemet ~mission_target_star~. De har byggt städer. Åk dit och hämta ett artexemplar åt oss.
+0x00000001 Det verkar bo en intelligent art i stjärnsystemet ~mission_target_star~. Vi skulle vilja analysera dem för att se om de kan bli våra allierade eller om de utgör ett hot mot galaxens naturliga jämvikt. Vill du hjälpa oss?
+0x0000010A Intelligent liv har påträffats i systemet ~mission_target_star~. Vi vill att du reser dit, strålar upp ett artexemplar och sedan återvänder hit.
+0x00000017 Vi har väntat länge på näste Store lärare. En av våra siare tror att han kan komma från en civilisation som nyligen identifierades på planeten ~mission_target_planet~. Kan du hämta en av urinvånarna så att vi kan fråga om de känner till några andliga spörsmål?
+0x00000009 Vi har nyligen snappat upp en Grox-utsändning där det uttrycktes intresse för civilisationen som utvecklas nära systemet ~mission_target_star~. Vi skulle vilja få veta så mycket som möjligt om den nya arten. Skulle du kunna övertygas att undersöka saken åt oss?
+0x00000056 Uppdraget har dragit ut på tiden. Jag sticker!
+0x00000043 ~player_title~ ~player_creature_name~. Blev du verkligen skrämd av sådan skorstensteknik? Du är svagare än vad vi trodde.
+0x00000065 ~player_creature_name~ är verkligen konstiga. Adjö.
+0x00000110 Kunde du inte hitta planeten ~mission_target_planet~? Kunde du inte hitta en av infödingarna? Vad är problemet?
+0x00000026 Tyvärr måste jag avböja.
+0x00000111 Åk genast till planeten ~mission_target_planet~. När du har kommit fram förväntar vi oss att du återvänder inom ~mission_time~ sektoner.
+0x0000003C Det var väldigt generöst av dig.
+0x00000052 Jag ber att få bli befriad från detta uppdrag.
+0x00000104 Du ska hjälpa oss att undersöka planeten ~mission_target_planet~. Förbered dig för avfärd.
+0x0000000F Vi gillar nyheter och inget är så nytt som en helt ny civilisation. Det verkar finnas en nära systemet ~mission_target_star~. Kan du tänka dig att åka dit och hämta en ny vän åt oss?
+0x0000005F Åh nej! Glöm att jag ställer det DÄR i mitt lastutrymme!
+0x00000018 Vi har upptäckt en ny civilisation på planeten ~mission_target_planet~. Vi vet ännu inte om de är våldsamma, så vi undrar om du kan ta kontakt åt oss.
+0x0000001E En spaningssond har upptäckt intelligent liv vid systemet ~mission_target_star~. För en av dessa varelser till oss så att vi kan se om de har sett Spodes ljus.
+0x0000000D Vi har upptäckt en annan civilisation i systemet ~mission_target_star~. Vi skulle verkligen vilja leka med dem, men först måste vi ta reda på hur de roar sig. Du kanske kan hjälpa oss?
+0x00000010 Vi har nyligen fått kunskap om en ny intelligent art som enligt ryktet finns i systemet ~mission_target_star~. Vi skulle vilja komma åt ett artexemplar så att vi kan utforma nya produkter till deras förnöjelse. Skulle Ers storhet kunna tänka sig att hjälpa oss? En belöning passande Er storhet kommer att presenteras.
+0x00000025 Dessvärre måste jag tacka nej till denna förfrågan.
+0x00000021 Vi gillar nyheter och inget är så nytt som en helt ny civilisation. Det verkar finnas en nära stjärnsystemet ~mission_target_star~. Kan du tänka dig att åka dit och hämta en ny vän åt oss?
+0x00000002 Den galaktiska livsvävens främsta yttring är framkomsten av en miljöinriktad intelligent livsform. En sådan kan ha uppstått på planeten ~mission_target_planet~. Kan du hjälpa oss att skaffa information om den nya arten?
+0x00000039 Kul att vara till hjälp. Hej så länge.
+0x0000001F Res till stjärnsystemet ~mission_target_star~. Om du hittar intelligent liv vill vi att du kidnappar en invånare och för hit individen så att vi kan undersöka den ytterligare.
+0x00000077 Du har inte klarat av att hämta en individ i tid. Åk tillbaka till planeten ~mission_source_planet~ i systemet ~mission_source_star~ och berätta de dåliga nyheterna för dem.
+0x0000000E Vi är mycket roade av vanskapta utomjordiska arter som snubblar runt på ett allmänt hopplöst sätt. Inte för att vi pratar om dig, det gäller en ny civilisation nära systemet ~mission_target_star~. Kan du ta med en till oss så att vi kan roa oss genom att titta på den?
+0x0000001D En ny civilisation har uppstått i stjärnsystemet ~mission_target_star~. Vi skulle vilja att du för en av dess invånare till oss så att vi kan undersöka möjligheten att våra folk kan leva tillsammans i harmoni.
+0x00000049 ~player_title~ ~player_creature_name~. Du har misslyckats med detta enkla uppdrag. Vi kommer att omvärdera din tillförlitlighet ... och dina möjligheter att överleva. Adjö.
+0x0000000B En av våra automatiska sonder har kommit tillbaka från systemet ~mission_target_star~. Mycket av informationen har förstörts av gammastrålning, men det verkar som om det kan finnas en annan civilisation här. Kan du hjälpa oss att undersöka egenskaperna hos eventuellt intelligent liv?
+0x0000000C Våra radiomottagare har identifierat en rad utsändningar från systemet ~mission_target_star~. Dessa visar på intelligent liv. Kan du hjälpa oss undersöka den nya artens egenskaper?
+0x0000005D Vi får väl utvärdera den nya arten själva då lite senare. Under tiden kommer vi att utvärdera ~player_creature_name~.
+0x0000006F Återvänd till stjärnsystemet ~mission_source_star~.
+0x00000041 Jag kan hantera det, helt klart.
+0x0000003A Ingen fara. Adjö.
+0x00000070 Uppdraget misslyckades. Återvänd till planeten ~mission_source_planet~.
+0x0000001B Oj, tyvärr. Jag har ett annat uppdrag.
+0x00000050 Jag måste tacka nej till denna uppgift.
+0x0000006E Kidnappa en civiliserad individ från planeten ~mission_target_planet~.
+0x0000004F Jag ger upp.
+0x00000015 En art har sänt radiomeddelanden från stjärnsystemet ~mission_target_star~. De är uppenbarligen omedvetna om att detta gör dem utsatta. Kan du hjälpa oss att undersöka saken?
+0x00000105 Det är viktigt att upprätta en hotmatris för arten i systemet ~mission_target_star~. Du ska hjälpa oss med detta.
+0x00000071 Den här planeten kan hittas i systemet ~mission_target_star~.
+0x00000046 ~player_title~ ~player_creature_name~. Om vi har misslyckats med att förklara uppdragets parametrar på ett tillräckligt okomplicerat sätt, ligger skulden helt klart hos oss. Adjö.
+0x00000051 Denna uppgift passar inte längre in i mitt schema.
+0x00000060 Jag är ledsen. Kan vi prata om något annat ...
+0x00000074 Innan jag går har jag andra frågor ...
+0x00000073 Jag skulle vilja fråga dig något annat ...
+0x00000083 Vad hände egentligen med främligen från systemet ~mission_target_star~? Står det inte nåt i din Uppdragslogg om att du skulle hämta en sån åt oss?
+0x0000006A Innan jag går har jag andra frågor ...
+0x00000063 Låt oss blicka framåt ...
+0x00000084 Var är medborgaren från systemet ~mission_target_star~? Våra fabriker är redo! Hittade du inte dit? Titta i din Uppdragslogg om du är osäker på vad din uppgift är.
+0x00000082 Var är varelsen från stjärnsystemet ~mission_target_star~ som du lovade oss? Din Uppdragslogg bör innehålla all nödvändig information. Kommer du avsluta ditt uppdrag, eller har du blivit irrationell?
+0x00000061 Ja, det uppstod komplikationer ...
+0x00000062 Jag har gjort bättre ifrån mig ...
+0x0000008F Jag har andra frågor innan jag går ...
+0x0000003E Var är infödingen från systemet ~mission_target_star~? Du kommer väl inte att göra så att vi blir tvungna att utvärdera dess andliga kapacitet från det mediala planet, eller hur? Läs din Uppdragslogg om du är osäker på detaljerna.
+0x0000007B Och ...
+0x00000008 När Stora rådet grundades valde man klokt nog att skapa en detektormatris för sökning efter intelligent liv i stjärnsystem. Nu har sådana tecken identifierats nära systemet ~mission_target_star~. Kan du undersöka detta åt oss?
+0x0000003D Var är varelsen från systemet ~mission_target_star~? Vi väntar otåligt på att påbörja förhören. All nödvändig information ska finnas i din Uppdragslogg.
+0x00000090 Dessutom ...
+0x00000079 Vi väntade oss att du skulle skaffa oss en medborgare från systemet ~mission_target_star~! Din egen Uppdragslogg bekräftar den överenskommelsen. Kommer du slutföra uppdraget för oss?
+0x0000009A Jag vill fråga om något annat ...
+0x0000009B Jag har andra frågor innan jag går ...
+0x0000008E Jag vill fråga om något annat ...
+0x000000B0 Du har misslyckats med att hämta en medborgare från planeten ~mission_target_planet~ i tid. Återvänd till systemet ~mission_source_star~ för att framföra den dåliga nyheten.
+0x00000037 Och ...
+0x00000036 Innan jag går har jag andra frågor ...
+0x00000005 Pris ske Spode! Han har visat en ny civilisation för oss! Vi behöver undersöka en infödd från stjärnsystemet ~mission_target_star~ för att kunna avgöra om arten är redo för Spodes läror. Kan du föra en av dessa varelser till oss?
+0x00000035 Jag skulle vilja fråga dig något annat ...
+0x0000010E Var är infödingen från systemet ~mission_target_star~? Alla uppdragsparametrar finns i Uppdragsloggen.
+0x0000010D Var är varelsen från systemet ~mission_target_star~? Vi har överfört all nödvändig information till din Uppdragslogg.
+0x0000004C Innan jag går har jag andra frågor ...
+0x0000004D Och ...
+0x00000081 Vi hoppades på att inleda en kontakt med en annan ras! Kommer du avsluta ditt uppdrag i systemet ~mission_target_star~? All relevant data bör finnas i din Uppdragslogg.
+0x00000058 Vi förväntade oss inte så mycket från ett hedning som dig. Adjö.
+0x00000075 Och ...
+0x00000055 Jag kommer snart tillbaka ... på riktigt denna gång. Hej så länge.
+0x00000113 Trotsar du order från Groxerna?
+0x000000B7 stjärnan är ungefär ~mission_clue_distance~ parsek från ~mission_clue_landmark1~.
+0x000000AD Stora rådet är gravt besviket. Adjö.
+0x0000009C Dessutom ...
+0x000000B1 För bort en medborgare från planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~.~p~Det är känt att ~group:star_clue~.~p~Väl på planeten ~mission_target_planet~, har du ~mission_time~ sektoner på dig att identifiera och kidnappa medborgaren.
+0x0000002E Oj! Du har exemplaret av ~mission_item~! Otroligt! Trots att mitt folk lider av lågt blodsocker och blödarsjuka har vi sålt vårt blod och andra kroppsvätskor för att kunna betala dig de ~mission_rewards~ vi är skyldiga.
+0x00000032 Vi tackar dig för den här inledande kontakten med en intelligent art. Vi är glada att kunna erbjuda dig ~mission_rewards~ och vår tacksamhet.
+0x0000008B Vi står förstummade över din ära. När du anlänt till planeten ~mission_target_planet~, var vänlig att ta med en av dessa varelser inom ~mission_time~ sektoner.
+0x0000008C Var vänlig att ge dig av mot planeten ~mission_target_planet~. När du anländer har du ~mission_time~ sektoner på dig att återvända.
+0x00000029 Stora rådet tackar dig för den här möjligheten att kontakta en ny civilisation. Du belönas med Lovordscertifikatet av andra klassen och ~mission_rewards~.
+0x00000089 Tack. Var vänlig att avresa mot planeten ~mission_target_planet~ omedelbart. Väl där, har du ~mission_time~ sektoner på dig att återvända.
+0x00000088 Tack. Var vänlig och försök upprätthålla en trovärdig möjlighet att förneka allting under uppdragets gång.~p~Väl på planeten ~mission_target_planet~ förväntar vi oss ett avslut inom ~mission_time~ sektoner.
+0x0000008A Strålande! Vi värmer upp en ny bur i utomjordingsdjurparken! Kom tillbaka inom ~mission_time~ sektoner, som börjar från det att du anlänt på planeten ~mission_target_planet~.
+0x00000031 ~player_creature_name~. ChkChkChk. Provexemplaret har anförskaffats. Överföringen av ~mission_item~ till ~race~ har slutförts. Betalning utförd - ~mission_rewards~. Affären slutförd. Slut.
+0x0000002F ~player_title~ ~player_creature_name~. Det där kunde ha gått snabbare! Åkte du vilse i ett alternativt universum eller något sådant? Hittade du ~mission_item~? Hallå, det finns små repor! Har färgen flagnat? Vad är det här för fläck? Ja, jag får väl anta att den inte är helt förstörd. Här är ~mission_rewards~.
+0x0000010C Det var effektivt utfört arbete, kapten! Vi kommer att lära oss mycket tack vare den här nya arten. Du är berättigad till ~mission_rewards~.
+0x0000010B ~player_creature_name~. Det var raskt marscherat. Ta ~mission_rewards~. Vi undersöker varelsen nu.
+0x00000086 Vi tackar dig! När du anlänt till planeten ~mission_target_planet~ har du ~mission_time~ sektoner på dig att återvända.
+0x0000002D Du har hanterat ärendet på ett bra sätt. Vi kommer att utvärdera den här varelsen och avgöra om dess art utgör ett hot mot den galaktiska ordningen. Ta dessa ~mission_rewards~.
+0x0000008D Mycket bra. Vi förbereder våra bästa auraläsare och medium på att inleda en första närkontakt! Men, vi kan bara lyckas om du återvänder inom ~mission_time~ sektoner. Galaxen börjar sin tideräkning när du anländer till planeten ~mission_target_planet~.
+0x0000002A Varelsen från ~mission_target_planet~ verkar vara lämplig för höjning. Vi kan endast bli säkra på saken om vi utför en vivisektion, men under tiden vill vi ge dig ~mission_rewards~ och vår tacksamhet.
+0x00000072 Planeten ~mission_source_planet~ finns i stjärnsystemet ~mission_source_star~.
+0x00000076 En sak till ...
+0x0000007C En sak till ...
+0x00000038 En sak till ...
+0x0000004E En sak till ...
+0x00000091 En sak till ...
+0x0000009D En sak till ...
+0x00000034 Vi kommer att dränka den här varelsen i spirituella överdrifter. Tack! Ta emot dina ~mission_rewards~ och dessutom karmabelöningen.
+0x00000033 ~player_title~ ~player_creature_name~. Det verkar som om den här varelsen är redo att ta del av Spodes läror. Gå i fred tillsammans med dessa ~mission_rewards~ och kunskapen om att du har hjälpt oss uppfylla vårt storslagna öde.
+0x00000027 Du har återvänt till ditt folk som segrare. Detta ~mission_item~ befäster ~race~ som aktör på den intergalaktiska fasen. Vi ger dig ~mission_rewards~ för dina ansträngningar.
+0x00000030 Åh, förnämlige och oförskräckte upptäcktsresande - du har fört ~mission_item~ till oss. Folket på ~planet_name~ har dragit sig tillbaka till sina salonger där de komponerar sonetter och sånger om dina hjältemodiga äventyr. Vår utbetalning av ~mission_rewards~ är inte tillräcklig. Du kanske vill besöka våran öppen scen-kväll nästa månad?
+0x0000002C Vi ska snart dränka systemet ~mission_target_star~ i lycka. Vi tackar dig med dessa ~mission_rewards~ och du är givetvis alltid välkommen till basaren.
+0x0000002B Den här nya arten kombinerar naiv lustig charm med en märklig fysionomi, på ett sätt som garanterat ger långa stunder av skoj! Ta emot ~mission_rewards~ och njut av vetskapen om att du har bidragit till vår förströelse.
+

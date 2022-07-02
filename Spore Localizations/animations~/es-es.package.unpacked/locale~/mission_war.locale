@@ -1,0 +1,254 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B4 ...
+0x00000011 El expansionista ~mission_target_empire~ ha lanzado una feroz incursión contra nosotros. ¡Si caemos, tú serás el siguiente! ¿Podemos contar con tu ayuda?
+0x00000066 Esto es demasiado horrible. Lo dejo.
+0x00000067 No puedo hacerlo. Buscaos a otro.
+0x00000093 Entendemos tus reservas. Tendremos que afrontar la amenaza solos.
+0x0000003A No puedo tolerar este nivel de violencia.
+0x00000189 Pero, pero... ¡Estamos en guerra! Dejarlo es desertar.
+0x0000007F Gracias por ayudarnos. Viaja hasta ~mission_target_planet~ y destruye o captura sus ciudades.
+0x0000007E Has demostrado el instinto de un buen ciudadano galáctico.~p~Aunque deploramos tener que usar la violencia contra una especie inteligente, en este caso los habitantes de ~mission_target_planet~ se han mostrado inmunes a la razón y no nos dejan alternativa. Dirígete a ~mission_target_planet~ y destruye o captura todas sus ciudades, por favor.
+0x0000018B ¡No puedes hacerlo! ¡Es una cuestión de supervivencia!
+0x000000BF El ~mission_source_empire~ espera tu regreso al planeta ~mission_source_planet~.
+0x00000188 Las probabilidades de desafiar a los grox con éxito son reducidas.
+0x00000065 Tengo problemas de conciencia. Lo dejo.
+0x0000000B Un pacífico grupo de exploración ha sido masacrado por una civilización alienígena. ¿Podrías ayudarnos a combatirla?
+0x0000018A Desafiar a los grox puede significar la extinción.
+0x00000049 Lo has hecho bastante bien, aunque nos damos cuenta de que también eres una víctima. Esperamos que estas ~mission_rewards~ esporetas contribuyan a aliviar cualquier estrés postraumático que hayas podido sufrir.
+0x00000024 Nunca. ¡No participaré en esta charada!
+0x00000022 ¿Dónde puedo encontrarlos?
+0x000000D3 Además...
+0x000000B1 Vas a tener que encontrar otro modo. ¡La guerra es un asco!
+0x00000064 Hablemos un poco más...
+0x00000092 Entendemos tu renuencia a recurrir a la violencia. Nuestra sugerencia es que la próxima vez no te pierdas en los detalles. Adiós.
+0x000000D4 Una cosa más...
+0x0000009D Además...
+0x00000063 Vamos a cambiar de tema.
+0x000000D5 Preferiría hacer otra cosa.
+0x000000D2 Antes de irme, tengo más preguntas...
+0x00000032 Nuestros viles enemigos se congregan en ~mission_target_planet~, planeta del sistema ~mission_target_star~. ¡Arrasa sus ciudades! ¡Que los supervivientes tengan que alimentarse con las cenizas de los muertos!
+0x00000187 ¡Dependemos de ti para llevar la guerra a una conclusión victoriosa!
+0x00000068 Renuncio. Lo siento.
+0x00000186 Actúa con rapidez y sin contemplaciones.
+0x000000A2 No puedo decir que tus actos estén alimentando tu leyenda, pero tampoco puedo culparte. El exterminio galáctico es un tema espinoso, repleto de enrevesados dilemas de naturaleza ética.
+0x00000071 El análisis de la batalla demuestra la fortaleza de las defensas del enemigo. El examen de los datos referentes a tu inesperado fracaso podría allanar el paso a triunfos futuros.
+0x0000003B No. De ningún modo. Ni ahora, ni nunca.
+0x00000075 Nuestros estrategas han aprendido mucho de este revés. Hay que ver el lado bueno de las cosas.
+0x000000A8 Informaré al Gran Consejo de que tu comportamiento ha dado un giro siniestro. Adiós.
+0x0000017B ¡Estamos en guerra con el ~mission_target_empire~! ¡Es el momento de atacar!
+0x000000C2 ¡Vuelve al planeta ~mission_source_planet~ del sistema ~mission_source_star~ a por la gloria!
+0x00000077 Perdón.
+0x00000078 ¡Gracias! Nos da pena enviarte en una misión como ésta, pero eres nuestra última opción. Sé fuerte.
+0x0000017C ¡Capitán, es el momento de caer sobre el enemigo! ¡Ataca ~mission_target_planet~!
+0x00000076 Vamos a cambiar de tema.
+0x00000178 Estamos en guerra con el ~mission_target_empire~. Queremos que los ataques en ~mission_target_planet~.
+0x00000179 Atacarás ~mission_target_planet~ de inmediato.
+0x0000017A Queremos evaluar tu capacidad bélica. Haznos una demostración.
+0x00000072 ¡Teníamos tanta fe en tu fama de invencibilidad...! Otra vez será...
+0x000000A3 ¡Oooh! ¡No doy crédito a mis oídos! Uno no empieza un programa de limpieza interplanetaria para dejarlo a mitad de camino. Eso no da buena imagen. La gente no lo entiende y luego vienen los problemas. ¿Comprendes?
+0x00000073 ¡Somos dos especies débiles y miserables! Deberíamos llorar a dúo por nuestra pequeñez.~p~Pero antes, puede que te interese visitar nuestra boutique.
+0x00000033 El mundo ~mission_target_planet~ del sistema ~mission_target_star~se asfixia bajo el peso del cemento y el cristal. Puede que sus habitantes fueran menos beligerantes si vivieran en un entorno natural, así que, por favor, destruye o captura todas sus ciudades.
+0x00000074 Sentimos que hayas fallado. Por desgracia, esta terrible guerra continuará.
+0x00000020 ¡Dime dónde puedo encontrar a esos canallas!
+0x0000009E El universo es un lugar frío y solitario a veces.
+0x000000C8 Has destruido o capturado ~mission_war_num_destroyed_cities~ ciudades, quedan ~mission_war_num_cities_left~.
+0x0000004B Gracias. Ahora, hablemos un poco más...
+0x000000C4 No has conseguido destruir o capturar todas las ciudades a tiempo. Vuelve al planeta ~mission_source_planet~, en el sistema ~mission_source_star~, para darles las malas noticias.
+0x00000025 Nanay. Encargaos vosotros. A mí no me apetece.
+0x0000000F ¡Es voluntad de Spode que sean reducidos a sus átomos constituyentes! ¿Quieres unirte a nuestra cruzada contra estos perversos seres?
+0x000000D0 Vuelve a formular tu petición. Mis notas son poco claras.
+0x0000006B Ahh, sí. Aniquilación global. Lo pillo.
+0x0000006A Ya me acuerdo. Lo del pum pum.
+0x00000069 Eso es. Metedlos en cintura.
+0x000000D1 ¡Ah, claro! El historial de misiones. Miraré allí.
+0x0000006C ¡Ajá! ¡Destruir o capturar! Eso es lo que se me había olvidado.
+0x00000009 A pesar de nuestros desvelos por vivir en paz con nuestros vecinos, una civilización que aborrece todas las formas de vida nos está atacando. ¿Podrías ayudarnos a defendernos?
+0x0000004A El enemigo ha sido consignado a las llamas. En señal de gratitud por tus acciones en una guerra que no era del todo culpa tuya, te ofrecemos estas ~mission_rewards~ espitas.
+0x000000CF Me gustaría revisar los detalles de la misión.
+0x0000003D Has cumplido esta importante misión sin vacilar. Te lo agradezco de corazón. Gracias por tu incansable diligencia. Aquí tienes ~mission_rewards~ esporetas por los inconvenientes que hayas podido sufrir durante su transcurso.
+0x0000007B Estás muy seguro de ti, ¿eh? ¿Eh? Bueno, ya veremos. Para perder el trabajo primero hay que tenerlo. ¡A por ellos!
+0x00000184 Tus tácticas fueron inadecuadas. Completaremos personalmente la destrucción del ~mission_target_empire~.
+0x000000C0 Vuelve al planeta ~mission_source_planet~ del sistema ~mission_source_star~ para darles las malas noticias.
+0x0000007C Encenderemos una vela cada noche que estés fuera. Rebosamos delectación ante tu segura travesía, tu justiciera victoria y tu pronto retorno. En serio, rebosamos literalmente. Es algo que nos pasa cuando estamos nerviosos. Así que apresúrate.
+0x00000183 ¡No has destruido las ciudades de ~mission_target_planet~! ¡Debes hacerlo lo antes posible! ¡La información necesaria tiene que estar en el historial de misiones!
+0x00000182 Nos han informado de que no has conseguido destruir las ciudades de ~mission_target_planet~, a pesar de que te hemos enviado toda la información pertinente al historial de misiones. ¿Tienes la intención de cumplir las órdenes?
+0x0000007A ¿Estás de acuerdo? La... la gratitud nos extasía. No sabemos cómo agradecértelo. ¡Somos indignos! Nos postramos ante ti. Creo que voy a romper a llorar.
+0x00000180 Hemos comprobado tu capacidad militar. Aquí tienes ~mission_rewards~ esporetas.
+0x00000181 ¡Enhorabuena por tu resonante victoria, capitán! Te erigiremos una estatua en cuanto lo permitan las restricciones presupuestarias, pero, entretanto, toma estas ~mission_rewards~ esporetas.
+0x0000004C El siguiente punto de la agenda...
+0x0000017D ¡Es hora de darle una lección al beligerante ~mission_target_empire~!
+0x0000017E ~mission_target_planet~ pertenece al ~mission_target_empire~ y orbita alrededor de ~mission_target_star~. Queremos que destruyas todas sus ciudades.
+0x0000017F ~mission_target_planet~ pertenece a ~mission_target_empire~ y orbita alrededor de ~mission_target_star~. ¡Contamos contigo para que destruyas sus ciudades!
+0x000000B2 Vaya con los oogies. Me abro.
+0x000000CB Te ruego que lo comprendas.
+0x0000006D No has conseguido destruirlas o capturarlas a tiempo. Qué pena.
+0x000000CD Necesito repasar mi misión.
+0x000000AB Los datos disponibles indican que no estarás mucho en esta galaxia.
+0x000000CE Se me han olvidado los detalles de la misión.
+0x0000003C No. No. Un millón de veces no.
+0x00000070 ¡Es una pena que te hayan derrotado los paganos! Pero no te preocupes, Spode se vengará a su debido tiempo.
+0x000000CC ¡Ah, claro! El historial de misiones. Miraré allí.
+0x0000006E El Gran Consejo está alarmado por la fortaleza del enemigo. Como compensación por los daños que has sufrido, me ha autorizado a concederte un Certificado de Elogios de segunda clase.
+0x0000006F Gracias por tus desvelos. Esta maldita guerra seguirá adelante.
+0x0000001B ¡Estamos decididos a negociar con una nueva especie que acabamos de descubrir, pero cada vez que abrimos la boca, ellos abren fuego!~p~¿Podrías enseñarle que esto de disparar puede tener efectos adversos cuando se está en el lado receptor?
+0x0000005C Nuestros escáneres indican que el enemigo aún resiste en ~mission_target_planet~. ¿Es que no has recibido los datos en tu historial de misiones? ¿No piensas destruir ni capturar sus ciudades?
+0x0000000D Nuestros esfuerzos por convertir un mundo a la Senda de Spode han topado con una resistencia inesperada. ¿Quieres ayudarnos?
+0x0000009B Me gustaría preguntar algo más...
+0x0000002F Nuestros arbitrarios y degenerados enemigos, adoradores del falso Dios que Vendrá, se encuentran en ~mission_target_planet~. Si los destruyes, Spode te recompensará.
+0x00000050 Me he divertido. Llamadme cuando queráis.
+0x00000082 Vuela como el viento hacia ~mission_target_planet~. Que el fuego purificador de Spode arrase sus ciudades. ¡Destruye! ¡Destruye! ¡Destruye! O captura, si lo prefieres.
+0x00000014 Si hay algo capaz de arruinar con toda seguridad una Fiesta de los Deleites Visuales, es un puñado de alienígenas belicosos armados con cañones láser y bombas! ¡Detestamos ser poco hospitalarios, pero es que se empeñan en arrasar nuestros mejores monumentos!~p~¿Podrías convencer a estos aguafiestas de que se vayan a su casa?
+0x00000052 Qué trabajo más fatigoso. Me vendría bien un descanso. ¡Adiós!
+0x00000007 Otra especie ha masacrado a una delegación diplomática nuestra y ha atacado nuestros planetas. Como uno de los principios de nuestra civilización es mantenernos libres de la violencia, hemos ordenado la movilización. Mientras ésta se completa, ¿podrías atacarlos?
+0x00000038 ¿El ~mission_target_empire~? Detesto a esos tíos. ¿Dónde se firma?
+0x000000E2 Me gustaría preguntar algo más...
+0x00000083 Dirígete de inmediato a ~mission_target_planet~ y destruye o captura sus ciudades. Solo un trabajo completo nos salvará a ambos de la presumible respuesta.
+0x00000043 La guerra por la civilización ha concluido con un resonante triunfo. El Gran Consejo se complace en entregarte el Certificado de Elogios de primera clase y un total de ~mission_rewards~ esporetas.
+0x000000AC No era el mejor momento para uno de tus chistecitos, la verdad.
+0x0000009A Lo que sea con tal de servirte.
+0x000000B9 Te ruego que lo comprendas.
+0x0000008B ¡Convertiré sus ciudades en cráteres humeantes!
+0x000000E1 Una cosa más...
+0x000000B8 De todos modos, los riesgos son excesivos.
+0x00000037 Siempre he querido darles su merecido a esos tíos. Lo haré.
+0x000000DF Antes de irme, tengo más preguntas...
+0x000000A0 ¡Las palabras también pueden hacer daño, ¿sabes? Mucho daño.
+0x000000E0 Además...
+0x00000021 ¿Cómo encuentro a esos miserables?
+0x0000005D No nos gusta tener que recordártelo, pero dijiste que irías a ~mission_target_planet~ a organizar una escabechina. ¡Consulta tu historial de misiones si crees que mentimos! ¿Cuándo crees que podemos esperar una satisfactoria a la par que fascinante erupción de violencia?
+0x000000AF Cuando se tiene un puñal en la espalda, la coordinación del golpe lo es todo y tú has fallado el tuyo.
+0x0000005E Boquiabiertos nos hemos quedado al comprobar que un ser de tu invencible fortaleza no ha conseguido destruir ni capturar las ciudades de ~mission_target_planet~. ¡Nuestro contrato está grabado en piedra en tu historial de misiones! ¿Vas a aplastar a nuestros enemigos tal como prometiste?
+0x0000004D Vamos a cambiar de tema.
+0x00000084 ¡Aplaudimos tu vigor y tu decisión! ¡Vuela cuanto antes a ~mission_target_planet~ y que la naturaleza florezca entre las ruinas de su civilización!
+0x00000095 Entendemos tus reservas. Esperemos que no estés el siguiente en la lista de objetivos del enemigo.
+0x00000019 ¡Estábamos explicándole las virtudes del equilibrado y la limpieza de las auras a una especie alienígena, cuando, de repente, empezaron a atacarnos!~p~Deploramos la violencia, pero creemos que es esencial restaurar el equilibrio kármico. ¿Qué me dices?
+0x000000E5 Una cosa más...
+0x00000098 En ese caso tendremos que atacar al enemigo en el plano astral. Apártate de en medio.
+0x0000005A Las ciudades de ~mission_target_planet~ siguen en pie. La agresión de nuestros enemigos continúa impune. Tu propio historial de misiones es testigo de que habías accedido a ayudarnos. ¿Quieres completar la misión?
+0x000000EA Debo rechazar la oferta.
+0x000000E4 Lo siento, pero quiero pedir otra cosa...
+0x000000E9 la estrella se llama ~mission_target_star~
+0x00000097 ¡Horror! Somos una especie débil y rastrera y ahora debemos luchar solos. Tu línea de crédito en el bazar queda suspendida. Adiós.
+0x00000023 Lo que propones es monstruoso. No pienso tomar parte en ello.
+0x00000057 El ~mission_target_planet~ sigue ocupado por el ~mission_target_empire~. Échalos de allí.
+0x00000015 Estábamos aquí, sin meternos con nadie, cuando de repente apareció una raza belicosa ¡y empezó a arrojarnos bombazos! ¿Podrías arrasar uno de sus mundos para que prueben una dosis de su propia medicina?
+0x00000051 Yo es que, sin un evento de destrucción global al día, no soy persona.
+0x000000AE ¡Y la gente dice que somos caprichosos!
+0x00000096 ¡Ya se ha cancelado una docena de macrofiestas! ¡Ayyy!
+0x000000AA Te prevengo: Spode castiga a los perjuros y a los traidores.
+0x000000BA Destruye o captura todas las ciudades del ~mission_target_empire~ en el planeta ~mission_target_planet~.
+0x0000001D El mejor modo de matar a una serpiente es golpearla en la cabeza. Hemos descubierto un planeta indefenso del ~mission_target_empire~, con el que estamos en guerra. ¡Tráenos su cabeza en una bandeja!
+0x000000E3 Antes de irme, tengo más preguntas.
+0x0000009F ¡Caray, tampoco es para ponerse así!
+0x000000A1 ¿Intentas hacerme sentir culpable? Pues no funciona.
+0x0000002D ~mission_target_planet~, planeta del sistema ~mission_target_star~, cuenta con toda clase de armamento ofensivo y defensivo, pero el Gran Consejo ha expresado su confianza en tu capacidad de neutralizar a las fuerzas enemigas.
+0x0000005B ¿Acaso no te comprometiste a aplastar a los enemigos de Spode en ~mission_target_planet~? ¡Pues sus ciudades siguen en pie! ¡Tu historial de misiones es testigo de tu compromiso! ¿Piensas actuar de acuerdo a lo prometido ante Spode?
+0x00000099 La naturaleza no entiende el concepto de neutralidad.
+0x00000046 Los invasores han sido aplastados y hemos recopilado muchísima información útil sobre sus capacidades... y las tuyas. Disfruta de tus ~mission_rewards~ esporetas con nuestra gratitud.
+0x0000005F ¡Los capullos no han terminado de florecer en ~mission_target_planet~! ¿Piensas cumplir la misión? Si tienes alguna duda, consulta tu historial de misiones.
+0x000000DA Hasta que volvamos a hablar. Adiós.
+0x000000B0 ¿Por qué no nos llevamos todos bien?
+0x000000B6 Gracias. Y ahora, discúlpame. Tengo que marcharme.
+0x00000013 Nos ataca una aburrida especie a la que no le interesa otra cosa que el terror y la violencia. ¡La monotonía de la situación está volviéndonos locos!~p~Un ser de tu vitalidad y destreza militar podría sernos de gran ayuda. ¿Qué me dices?
+0x000000A9 ¿Estás aliado con nuestros enemigos?
+0x000000D9 Siento mucho haberte molestado. Hasta luego.
+0x0000001A ¡Una especie alienígena ataca nuestros mundos! ¡No dejamos de enviarles buenas vibraciones, pero no sirve de nada!~p~¿Podrías hacerles una demostración de la ley de acción y reacción?
+0x0000001F ¿Cómo encuentro a esos rufianes?
+0x000000DC Te ruego que lo comprendas.
+0x0000002B ¡Hip, hip, hurra! Tus proezas sin parangón y tu acerada mirada serán objeto de alabanza por parte de nuestros mejores aficionados a la poesía. ¡Parte sin perder un instante hacia el planeta ~mission_target_planet~ del sistema ~mission_target_star~! ¡A cambio de tus valientes y heroicos esfuerzos, te recompensaremos con ~mission_rewards~ esporetas, aunque estoy convencido de que vivir para siempre en el recuerdo de las generaciones venideras será para ti una recompensa mil veces más jugosa.
+0x00000030 El enemigo se encuentra en ~mission_target_planet~, planeta del sistema ~mission_target_star~. Son intratables e incurablemente hostiles. Puedes ayudarnos destruyendo o capturando sus ciudades.
+0x000000DB Veo que estás ocupado. Hablaremos más tarde.
+0x00000036 ¡Claro! ¡Me gusta cómo suena! Lo haré.
+0x00000089 ¡Puedes llamarme basurero, porque estoy a punto de hacer limpieza!
+0x00000062 Antes de irme, tengo más preguntas...
+0x00000080 ¡Vuela a ~mission_target_planet~ de inmediato y destruye o captura todas sus ciudades! ¡Que lloren sus niños entre los escombros de sus torres antaño orgullosas!
+0x0000000A ¡Una cruel raza alienígena ha atacado nuestra civilización! Nuestras fuerzas están ocupadas protegiendo el frágil equilibrio planetario, así que, ¿podrías lanzar un contraataque contra uno de sus planetas?
+0x00000045 ¡Los enemigos de Spode son polvo que se llevan los vientos solares! Que disfrutes de tus ~mission_rewards~ esporetas y de la bendición de Spode. Y llévate una copia gratis de nuestras sagradas escrituras al salir.
+0x0000009C Antes de irme, tengo más preguntas...
+0x000000D8 Suplico que se me libere del cometido.
+0x00000028 Excelente. Ve al planeta ~mission_target_planet~ en el sistema ~mission_target_star~ y enséñales a esos bribones deslenguados que no pueden hablar así de mi mami! ¡O sea, de tu mami! *Suspira* Tú hazlo. Nosotros te pagaremos. ¿Qué te parecen ~mission_rewards~ espitas?
+0x00000048 Vamos a bailar sobre las cenizas de las ciudades enemigas destruidas..., pero no antes de darte tus ~mission_rewards~ espitas y nuestro permiso expreso para visitar nuestro emporio cuando quieras.
+0x0000004E Hablemos un poco más...
+0x000000B5 Con gran pesar, he de negarme.
+0x000000D7 Esta tarea ya no encaja bien en mi calendario.
+0x00000088 Ésta va a ser buena.
+0x00000061 Me gustaría preguntar algo más...
+0x000000BD No has conseguido destruir o capturar todas las ciudades a tiempo.
+0x00000026 Mátalos tú.
+0x0000004F He hecho limpieza, pero me siento sucio. Deliciosa ironía. Me tomaré un descanso.
+0x00000035 Vale. Me gustan los retos. Lo haré.
+0x0000008C No puedo decir que tus actos estén alimentando tu leyenda, pero tampoco puedo culparte. El exterminio galáctico es un tema espinoso, repleto de enrevesados dilemas de naturaleza ética.
+0x00000008 El Gran Consejo desea que todas las especies vivan en armonía. Sin embargo, otra raza ha atacado nuestros mundos. Mientras les hacemos frente en nuestro territorio natal, parece que uno de sus mundos ha quedado indefenso. ¿Podrías ayudarnos a atacarlo?
+0x000000DD Una cosa más...
+0x000000BC ¡Conseguido! Vuelve al sistema ~mission_source_star~.
+0x000000B7 Solo necesito más tiempo para hacer el trabajo.
+0x00000085 ¡Tu abyecto servidor se retuerce de gozo!~p~¡Viaja a ~mission_target_planet~ y destruye o captura todas sus ciudades, por favor! ¡Que no quede nada a tu paso!
+0x00000060 Las ciudades de ~mission_target_planet~ siguen en pie. ¿Por qué? Las órdenes están muy claras en tu historial de misiones.
+0x0000002E Sabemos que nuestros enemigos habitan en ~mission_target_planet~, planeta del sistema ~mission_target_star~. ¡Viaja hasta allí y devuélvelo a un estado de pastoril primitivismo!
+0x00000087 Márchate. Ya tienes tus órdenes.
+0x000000DE Me gustaría preguntar algo más...
+0x00000094 ¿No vas a actuar de conformidad con la voluntad de Spode? Los fieles tomarán nota. Adiós.
+0x00000039 Esto me da muy mala espina. Pero malísima.
+0x0000008A Podéis contar conmigo. ¡No saben lo que se les viene encima!
+0x0000001E Estamos librando una guerra victoriosa contra el ~mission_target_empire~ y, si nos ayudas a aplastarlo, aumentará la estima que ya te tenemos. ¿Te apetece?
+0x0000000E ¡Las fuerzas diabólicas han engañado a otra civilización para que declare la guerra a los mundos de Spode! ¿Quieres ayudarnos a aplastarlos?
+0x000000BE Este planeta se encuentra en el sistema ~mission_target_star~.
+0x000000B3 Con el tiempo, tu cólera remitirá.
+0x00000081 ¡En la Senda de Spode no hay misericordia para quienes se niegan a recibir su palabra! Ve a ~mission_target_planet~ y siembra la devastación en sus ciudades. ¡No dejes piedra sobre piedra!
+0x00000044 Gracias por ayudarnos a derrotar a nuestros enemigos. Acepta estas ~mission_rewards~ espitas, por favor. La tarea de reconstruir la ecosfera ya puede comenzar.
+0x00000042 ESTADO DE LA MISIÓN: Conseguido.~p~SUMARIO: El ~mission_target_empire~ ha sido expulsado de ~mission_target_planet~.~p~PAGO: ~mission_rewards~ esporetas.~p~NOTAS: Detectado error crítico. Imperio equivocado. No informar al supervisor.
+0x00000031 Nuestros expertos en estética han echado un vistazo al planeta de los belicistas, y aseguran que su arquitectura es un insulto a la vista. Si pudieras dirigirte a ~mission_target_planet~, en el sistema ~mission_target_star~, y destruir o capturar todas sus ciudades, tal vez podríamos levantar algo digno sobre las ruinas.~p~O tal vez no.
+0x00000027 ¡Sabíamos que podíamos contar contigo! ~mission_target_planet~ se encuentra en el sistema ~mission_target_star~.~p~¡Sabemos que debe de ser una terrible carga, por no hablar de las implicaciones éticas, claro! Sin embargo, si completas la misión con éxito, te daremos ~mission_rewards~ esporetas.
+0x00000059 ¡Los militaristas de ~mission_target_planet~ siguen siendo una amenaza para la civilización! ¿Puedes ayudarnos a vencerlos? Todos los datos relevantes tendrían que estar en tu historial de misiones.
+0x00000006 Uno de los derechos fundamentales de todo ciudadano es estar al amparo de la violencia y el miedo. Sin embargo, los habitantes de ~mission_target_planet~ han militarizado su ciudad y ahora constituyen una amenaza, no solo para nuestra civilización, sino para la paz de la galaxia.~p~¿Nos ayudarás a hacer frente a esta amenaza?
+0x0000000C ¡Otra especie desafía la Senda de Spode resistiéndose a nuestras generosas ofertas de conversión! ¡Esas viles criaturas nos desafían!~p~¡Es voluntad de Spode que sean reducidos a sus átomos constituyentes! ¿Quieres unirte a nuestra cruzada contra estos perversos seres?
+0x00000185 ¡Qué horrible derrota! ¿Y ahora cómo vamos a destruir al ~mission_target_empire~?
+0x00000005 MISIÓN SOLICITADA: Se requiere un acontecimiento de mengua planetaria en ~mission_target_planet~.~p~OBJETIVO DE LA MISIÓN: ~mission_target_empire~.~p~DETALLES DE LA MISIÓN: Destruir o capturar todas las áreas metropolitanas.~p~COMENTARIOS/OTROS: ¡Ellos saben lo que han hecho!~p~PREGUNTA: ¿Aceptas los parámetros de la misión?
+0x00000001 Escucha, solo te cuento esto porque te quiero, ¿vale? El ~mission_target_empire~ está hablando muy mal de ti. Han dicho cosas terribles, colega. Han mencionado a tu madre. Y no solo una vez.~p~No es que quiera decirte lo que tienes que hacer, pero si yo fuera tú, iría a ~mission_target_planet~, y destruiría o capturaría todas las ciudades que encontrara. ¡Es por el bien de la economía galáctica!
+0x00000090 Aunque somos nosotros los que sentiremos la poderosa embestida de las voraces hordas del ~mission_target_empire~. Ya vuelan por las ondas las canciones que ilustran tus incontestables fracasos. Yo en tu lugar me escondería por algún tiempo.
+0x00000091 ESTADO DE LA MISIÓN: El contratista la ha rechazado.~p~SENTIMIENTO: Desaire.~p~RESPUESTA: El contratista no recibirá este año la tarjeta de felicitación estival.~p~FIN DE LA TRANSMISIÓN.
+0x0000008D ¡No puedo creer que vayas a dejarlo estar! O sea, así es como empiezan esas cosas, ¿sabes? Primero hablan mal de tu mamá, pero tú pasas. Estás por encima de eso.~p~Pero luego empiezan a decir otras cosas y, antes de que te des cuenta, sus bocas están vomitando improperios sin límite. ¿Y entonces qué? Conste que te lo digo como amigo.
+0x0000008E ¿No? Oh, de todos modos, esperamos que nos disculpes si te hemos molestado. Teníamos que intentarlo.~p~Supongo que nos acostumbraremos. No sería la primera vez que nos meten en una taquilla. O en sitios peores.
+0x000000A7 ESTADO DE LA MISIÓN: Cancelada por el contratista.~p~SENTIMIENTO: Traición, desengaño...~p~¡IRRELEVANTE!~br~¡IRRELEVANTE!~p~FIN DE LA TRANSMISIÓN.
+0x00000000 Llevamos algún tiempo tratando de negociar en secreto con el ~mission_target_empire~, pero hasta el momento nuestros esfuerzos han sido infructuosos. Estos belicosos arribistas no nos han dejado elección. Por muy lamentable que sea, debemos enviarles un mensaje en el único idioma que entienden. Ve a ~mission_target_planet~, una pequeña colonia del ~mission_target_empire~, y destruye o captura todas las ciudades que encuentres.
+0x000000AD ¡No habrá recompensas! ¡Ni bazar! ¡Tu raza es mezquina y traicionera!
+0x000000A4 ¿Lo dejas?~p~*Gulp*~br~¡Oh, eso empeora muchísimo las cosas! Muchísimo, muchísimo.~p~¡Y no digo que sea culpa tuya! ¡No te ofendas!
+0x000000A5 ¡Bah! De todos modos no ibas a servirnos para nada... Solo se puede contar contigo para una cosa: ¡las decepciones!~p~¡No hay nada peor que un mercenario sin voluntad! ¡Fuera de nuestra vista!
+0x00000079 ¡Ah, sí, tío! ¡Ahí estás! ¡Eres un Tronkey-Kong! ¡Dales fuerte en las nubes de Oort! ¡No pueden hablar así de nuestras mamis!~p~Que se enteren.
+0x0000007D ESTADO DE LA MISIÓN: El contratista acepta; él mismo se encargará de la cobertura dental.
+0x00000041 ¡Eh! ¿Quién va?~p~¡Ah, pero si es nuestro gran héroe, en alas de la victoria, nada menos!~p~¡Chist! ¡Escucha! ¿Lo oyes? ¡Es el roce de un millón de plumas al consignar sobre el pergamino el relato en prosa de tus hazañas! A su lado, estas ~mission_rewards~ esporetas te parecerán una recompensa misérrima.
+0x000000D6 Debo declinar esta tarea.
+0x00000004 ¡Ay! ¿No tendrá a bien el azar, por ventura, enviarnos un salvador para que nos libre de nuestro funesto destino?~p~El ~mission_target_empire~ ha soltado toda clase de bestias feroces sobre nosotros. ¡Sus ataques son implacables! ¡Nuestro pueblo está al borde del precipicio!~br~Te suplicamos con la máxima humildad, parte para ~mission_target_planet~ y destruye o captura todas las metrópolis que encuentres. ¡Solo entonces seremos libres de su tiránica opresión!
+0x00000034 El universo engendra nuevas formas de vida solo para arrojarlas a las llamas. Únicamente el ~mission_source_empire~ es eterno.~p~El enemigo se encuentra en ~mission_target_planet~, planeta del sistema ~mission_target_star~. Arrójalo a las llamas, destruyendo o capturando sus ciudades.
+0x00000086 Nos complace que estemos en sintonía filosófica. Elevaremos cánticos en favor de tu éxito.
+0x0000003F Oh, vaya, no sabemos qué decir. Nos has ahorrado una terrible humillación y, además, has eliminado una gran amenaza. No sé cómo vamos a pagártelo.~p~Oh, espera, sí que lo sé. Lo que habíamos acordado: ~mission_rewards~ espitas.
+0x00000002 ¡Oh, estrellas! ¡Por favor! ¡Ayúdanos! ¡Te lo imploramos! ¡El ~mission_target_empire~ no nos deja tranquilos! Amenazan con meter el planeta en una taquilla gigantesca si no les damos el dinero del almuerzo.~p~Tenemos problemas de diabetes: ¡necesitamos almorzar! ¡Por favor! ¡Encárgate de esos matones! Destruye o captura todas las ciudades del planeta ~mission_target_planet~. Parece una medida drástica, pero es el único modo de que aprendan.
+0x00000017 ¡Contempla al más miserable e infeliz de los seres! ¡Una raza en extremo belicosa está atacando nuestros mundos, sin que podamos ponerle remedio!~p~¡Sin embargo, si tú, nuestro más noble y heroico aliado, aprovechara para atacar al enemigo en su propio territorio, te ofreceríamos una compensación equiparable a tu generosidad!
+0x00000003 El ~mission_target_empire~ se cree taaaaaan importante... ¡Todo el día presumiendo y pavoneándose, como si fuera el amo del universo! ¡Es intolerable, caray!~p~Ya va siendo hora de que alguien los ponga en su sitio, ¿no? A ver qué te parece esto... Ve a ~mission_target_planet~ y arrasa todas sus ciudades. ¡Dales su merecido a esos pomposos arribistas y te garantizamos que no lo lamentarás!
+0x00000018 ¡El ~mission_source_empire~ solo desea traer la felicidad a la galaxia, pero quienes se oponen a este noble fin no escatimarán esfuerzos para impedirlo! ¡Nos ataca otra raza!~p~Sabemos que ese miserable imperio sucumbiría ante tu magnificencia si te dignaras siquiera a dirigirles una mirada colérica. ¿Se te podría tentar con una recompensa?
+0x00000055 ¿Se te ha olvidado tu misión? ¿Es por algo que hemos hecho? ¡Perdónanos, te lo ruego! Recapitulemos:~p~Estamos sufriendo los crueles maltratos de los matones del ~mission_target_empire~. Habías accedido a ir a ~mission_target_planet~ y darles un aviso de expulsión permanente. ¡Destruye o captura todas las ciudades que encuentres!
+0x00000029 ¡Oh, gracias! ¡Gracias! ¡Gracias! Nos encargaremos nosotros, aunque no estamos muy bien dotados para la guerra. La hemofilia es un defecto endémico en nuestra raza y nuestra capacidad motriz... ejem, podría mejorarse.~p~Ve al planeta ~mission_target_planet~ del sistema ~mission_target_star~ y limpia sus ciudades de matones. Te pagaremos ~mission_rewards~ espitas.
+0x00000047 Contemplar la severa majestad de unas ruinas siempre comporta cierto placer... sobre todo cuando son ruinas ajenas. Toma ~mission_rewards~ esporetas. ¡A ver si la próxima vez podemos volar un planeta juntos!
+0x0000002A ¡Sí! ¡Así se habla! ¡A por ellos! ¡Liquídalos!~p~¿Sientes ese fuego en las tripas? ¿Te apetece una ensalada de mamporros? ¡Pues entonces deprisa! Vuela al planeta ~mission_target_planet~ del sistema ~mission_target_star~ y arrasa sus ciudades. Arrásalas a base de bien. No queremos oír la palabra supervivientes. Si lo haces, te daremos ~mission_rewards~ espitas.
+0x0000002C ESTADO DE LA PREGUNTA: Afirmativa; misión aceptada.~p~SISTEMA OBJETIVO: ~mission_target_star~.~p~PLANETA OBJETIVO: ~mission_target_planet~~p~RESUMEN DE LA MISIÓN: Destruir o capturar todas las áreas metropolitanas del planeta objetivo.~p~COMPENSACIÓN: ~mission_rewards~ esporetas.
+0x0000008F ¡Bah! De todos modos no ibas a servirnos para nada... Solo se puede contar contigo para una cosa: ¡las decepciones!~p~¡Por tu culpa comimos demasiado! ¡Fuera de nuestra vista!
+0x000000A6 Aunque somos nosotros los que sentiremos la poderosa embestida de las voraces hordas del ~mission_target_empire~, tú te retorcerás bajo la venenosa pluma de nuestros ofendidos poetas. Te maldeciremos con un trillón de sonetos. ¡Olvidabas que tenemos tu dirección de correo electrónico!
+0x00000040 ¡Ja! Estamos muy orgullosos de ti. ~mission_target_empire~ se ha llevado su merecido... ¡~mission_target_planet~ ya es nuestro gracias a ti! Ten, acepta esta pequeña recompensa: ~mission_rewards~ Espitas. No dirás que somos unos tacaños.
+0x0000003E ¡Eh, colega! ¿~mission_target_empire~ ha abandonado ya ~mission_target_planet~? ¿En serio? ¡Es súper alucinante! Lo que dijeron fue una grosería, fuera de quién fuese la madre, ¿verdad? Lo importante es que se ha hecho justicia. Y aquí está lo prometido: ~mission_rewards~ espitas.
+0x00000054 ¿Te has olvidado de la misión? Ya sé que es duro que una especie entera empiece a meterse con tu madre. Te enfadas tanto que te olvidas de las menudencias. No pasa nada.~p~Tienes que ir a ~mission_target_planet~ y librarte del ~mission_target_empire~. Recuerda lo que han dicho sobre tu mamá...
+0x00000058 ESTADO DE LA MISIÓN: ¡Incompleta!~p~OBJETIVO DE LA MISIÓN: ~mission_target_planet~~p~META DE LA MISIÓN: Eliminar la presencia del  ~mission_target_empire~ en el planeta.
+0x000000C1 Destruye o captura todas las ciudades del planeta ~mission_target_planet~ del sistema ~mission_target_star~.~p~Conforme a la petición del ~mission_source_empire~, el ~mission_target_empire~ debe ser reducido de tamaño. ~p~Sabemos que ~group:star_clue~.
+0x0000001C Los ~mission_target_empire~ nos ha declarado imprudentemente la guerra. Mientras entablamos batalla con sus flotas invasoras, ¿no te apetecería divertirte atacando sus indefensos mundos?
+0x00000012 Las fuerzas militares de ~mission_target_empire~ están ocupadas combatiendo con nuestra flota. ¡Esto brinda a nuestros amigos la oportunidad de aplastar uno de sus planetas! ¿Quieres ayudarnos a obtener esta victoria decisiva?
+0x000000E7 la estrella está aproximadamente a ~mission_clue_distance~ pársecs de ~mission_clue_landmark1~
+0x00000016 ¡En ~mission_source_empire~ somos pacifistas, pero eso no impide que nos ataquen! Te suplicamos que nos ayudes frente a nuestros violentos y tiránicos enemigos. Todo el que demuestre ser nuestro amigo puede contar con inmensos beneficios.
+0x000000E8 la estrella está a ~mission_clue_range_min~–~mission_clue_range_max~ pársecs de ~mission_clue_landmark1~
+0x00000010 ¡La ~mission_target_empire~ nos ha declarado la guerra y ha masacrado a un equipo de científicos! Este traicionero comportamiento nos ha cogido desprevenidos. ¿Podrías ayudarnos a defendernos de esta amenaza?
+0x00000056 ¡Eh! ¿Estás ahí? ¡Escucha, compañero! ¡La gente que trabaja para nosotros no sigue haciéndolo mucho tiempo si se olvida de hacer lo que tiene que hacer! ¡Demonios! Ha pasado tanto tiempo que hasta yo tengo los detalles un poco olvidados. Sé que quería que fueras al planeta ~mission_target_planet~ y te libraras del ~mission_target_empire~. Lo que no recuerdo es para qué... ¡Pero da igual, tú hazlo!
+0x00000053 Te has olvidado de la misión, ¿no? ¿Has estado tomando supresores de neuropsinas o algo? Son ideales para las especies belicosas, pero tienden a nublar la mente.~br~~p~El planeta ~mission_target_planet~ sigue ocupado por el ~mission_target_empire~. Libra a ~mission_target_planet~ de las fuerzas hostiles. ¡Por el imperio!
+

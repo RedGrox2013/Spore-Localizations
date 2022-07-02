@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E 짝짓기
+0x0524D329 동료 부르기
+0x0509FC4F 짝짓기 상대를 불러 보금자리의 위치를 알아낸 후, 배우자를 클릭해 편집기에 입장하십시오.
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 돌격을 배우려면 <hinticon> 을 클릭하세요.
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546AB9A 부족 형성하기
+0x0546ABA4 부족 형성하기
+0x0524D32C 새 보금자리로 이사하기
+0x0514F98E 이주하기
+0x0546AB9E 진화 버튼을 클릭하여 부족을 형성하고 문명화된 삶을 시작하십시오!
+0x0514F993 당신의 종족이 보금자리를 옮겼습니다. 부르기 능력을 사용해 그들을 찾아 쫓아가십시오!
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 무리
+
+# Find_NPC Goal Card
+
+0x0509FB93 다른 종의 구성원을 찾아 클릭하십시오!
+0x0524D328 다른 종 만나기
+0x0509FB92 크리처
+
+# crg-lowhealth.prop
+
+0x91A0449F 당신은 부상을 당했습니다! 보금자리로 돌아가 치료하십시오.
+
+# Combat text messages
+
+0xD39A5768 그 능력은 아직 준비되지 않았습니다.
+0x739A4E05 거리가 너무 가깝습니다.
+0x3538B712 그 능력은 공연 중에만 사용할 수 있습니다.
+0xF538B6FD 그 능력은 전투 중에만 사용할 수 있습니다.
+0x06778BAC 당신은 이미 그 크리처를 감동시켰습니다.
+
+# Combat Card - Mini Boss
+
+0x064D4053 ~target_species_crg~을(를) 사냥하십시오.
+0x064D4054 사냥하십시오.
+0x064D4056 이 독특한 크리처는 다른 종족보다 훨씬 크고 강력합니다.
+0x067394F7 이 독특한 창조물은 대부분의 다른 종들보다 훨씬 크고 강력합니다.
+0x064D4055 더 많은 DNA 보너스를 위해서 ~target_species_crg~을(를) 사냥하십시오.
+
+# Eating_Herbivore Goal Card
+
+0x0509F9DB 과일 먹기
+0x0509F9DC 당신의 크리처는 초식동물입니다. 먹어야 생존할 수 있습니다. 과일을 찾아 클릭하여 식사하십시오.
+0x0524D325 당신은 초식성입니다. 과일을 먹으십시오.
+
+# crg-verbcharge.prop
+
+0x6859AEDE 그 능력은 아직 준비되지 않았습니다.
+
+# crg-spitclose.prop
+
+0x30A611E9 거리가 너무 가깝습니다.
+
+# Social Card - Mini Boss
+
+0x064D4045 감동시키십시오.
+0x064D4044 ~target_species_crg~을(를) 감동시키십시오.
+0x064D4047 이 독특한 크리처는 다른 종족보다 훨씬 크고 강력합니다.
+0x064D4046 강력한 동맹을 얻기 위하여 ~target_species_crg~을(를) 감동시키십시오.
+0x064D4048 이 독특한 크리처는 다른 종족보다 훨씬 크고 강력합니다.
+
+# Find Unlocks Card
+
+0x54D958AB 수집하기
+0x54D958AD 진화를 위해 기관을 찾으세요.
+0x54D958AC 새로운 기관을 잠금 해제하거나 해골에서 부품을 찾으려면 알파 크리처를 사냥하거나 친구로 만듭니다.
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 고향 보금자리
+0x0658F2D1 새로운 보금자리
+0x0658F2D3 정체불명의 종족
+0x0658F2D2 낡은 보금자리
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 수집
+0xF4DAF5CB 세포 기관 잠금 해제
+0xF4DAF5CA 알파 세포를 사냥하거나 운석 조각을 부수면 새로운 기관이 잠금 해제됩니다.
+
+# Build Artifact
+
+0x064D4060 유물을 생성하십시오!
+0x064D4062 신비로운 유물들을 모두 수집하십시오.
+0x064D4061 유물을 생성하십시오!
+0x064D4063 당신의 부족에게 수상한 오라를 뿜어내는 물건을 발견했습니다! 우상을 만들기 위해 모두 수집하십시오!
+0x064D4064 당신의 부족에게 수상한 오라를 뿜어내는 물건을 발견했습니다! 우상을 만들기 위해 모두 수집하십시오!
+
+# Claim Nest
+
+0xD538B78F 이 보금자리를 당신의 것으로 만드시겠습니까? 만약 죽으면 이곳에서 다시 태어납니다.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 <hinticon>을 눌러서 매력 배우기
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC <hinticon>을 눌러서 발사 배우기
+
+# Combat - Extinct
+
+0x064D4059 ~target_species_crg~ 종족은 멸종되었습니다!
+0x064D4058 사냥하십시오.
+0x064D405A ~target_species_crg~ 종족은 멸종되었습니다!
+0x064D405B ~target_species_crg~ 종족은 멸종되었습니다!
+0x064D4057 ~target_species_crg~을(를) 사냥하십시오.
+
+# Eating_Carnivore Goal Card
+
+0x0509F9D9 고기 먹기
+0x0524D324 당신은 육식성입니다. 먹이를 사냥하십시오.
+0x0509F9DA 당신의 크리처는 육식성입니다. 고기를 먹어야 생존할 수 있습니다. 시체를 찾아 클릭하여 식사하십시오.
+
+# Add_Posse Goal Card
+
+0x0509FC96 무리
+0x0509FC97 당신과 동일한 종 또는 다른 우호적인 종의 구성원을 감동시켜 당신의 무리에 추가하십시오.
+0x0524D32A 무리 추가하기
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 타격 배우기
+
+# First time socializing
+
+0xF4211909 다른 크리처를 감동시키려면 그들의 행동을 흉내내십시오.
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB <hinticon>을 눌러서 노래하기 배우기
+
+# Find Unlocks Card - First Part
+
+0x06035A51 기관 수집하기
+0x06035A52 새로운 기관을 잠금 해제하거나 해골에서 부품을 찾으려면 알파 크리처를 사냥하거나 알파 크리처들과 친구가 되십시오!
+0x06035A53 진화를 위해 기관을 찾으세요.
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 <hinticon>을 눌러서 춤추기 배우기
+
+# Social Card - Hostile Species
+
+0x064D403A ~target_species_crg~을(를) 감동시키십시오.
+0x064D403C ~target_species_crg~을(를) 감동시킬 수 없습니다!
+0x064D403B 감동시키십시오.
+0x064D403E 일부 종족은 선천적으로 적대적이어서 당신에게 영원히 등을 돌렸습니다. 조심하세요!
+0x064D403D 일부 종족은 선천적으로 적대적이어서 당신에게 영원히 등을 돌렸습니다. 조심하세요!
+
+# Hints
+
+0x057736C3 부족을 형성하려면 <hinticon>을 클릭하십시오.
+0x142CD4F2 육식성은 고기만 먹을 수 있으며 초식성은 과일만 먹을 수 있습니다.
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 감동시키십시오.
+0x064D4035 ~target_species_crg~을(를) 감동시키십시오.
+0x064D4039 이 종족과 동맹을 맺으면 그들의 보금자리에서 치료할 수 있습니다.
+0x064D4038 이 종족과 동맹을 맺으면 그들의 보금자리에서 치료할 수 있습니다.
+0x064D4037 동맹을 맺으려면 ~mission_remaining_crg~마리의 ~target_species_crg~을(를) 감동시키십시오.
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 그들에게 사교 행위를 하려면 크리처를 클릭하십시오.
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 ~target_species_crg~을(를) 감동시키십시오.
+0x064D4031 감동시키십시오.
+0x064D4034 이 종족과 동맹을 맺으면 당신은 그들의 보금자리에서 치료를 할 수 있고, 그들을 무리에 추가도 할 수 있습니다.
+0x064D4032 동맹을 맺으려면 ~mission_remaining_crg~마리의 ~target_species_crg~을(를) 감동시키십시오.
+0x064D4033 이 종족과 동맹을 맺으면 당신은 그들의 보금자리에서 치료를 할 수 있고, 그들을 무리에 추가도 할 수 있습니다.
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 <hinticon>을 눌러서 물기 배우기
+
+# Reward text for all cards
+
+0x050A34CA 보상: ~reward_evo_crg~ DNA 점수를 얻습니다.
+
+# Save Baby
+
+0x064D405F ~target_species_crg~은(는) 당신 종족의 아기를 납치했습니다.
+0x064D405E 당신의 보금자리까지 아기를 안정하게 데려오십시오.
+0x064D405D 아기를 구하십시오!
+0x064D405C 아기를 구하십시오!
+0x06739532 ~target_species_crg~는 당신의 종으로부터 아기 하나를 함정에 빠뜨렸습니다!
+
+# Combat Card
+
+0x064D404E ~target_species_crg~을(를) 사냥하십시오.
+0x064D404F 사냥하십시오.
+0x064D4051 이 종족을 사냥하여 멸종시키십시오.
+0x064D4052 ~target_species_crg~을 사냥하여 지배하고 멸종시키십시오.
+0x064D4050 ~mission_remaining_crg~마리의 ~target_species_crg~을(를) 사냥하십시오.
+
+# crg-notarget.prop
+
+0x79E8F4C5 대상이 없습니다.
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DD 고기 또는 과일 먹기
+0x0524D326 당신은 잡식성입니다. 과일이나 고기를 먹으십시오.
+0x0509F9DE 잡식 크리처는 다양한 음식을 먹습니다. 시체나 과일을 찾아 클릭하여 식사하십시오.
+
+# Species creator
+
+0xB3DAED77 작성자: ~creator~
+0x73DB4258 작성자 SPORE™ 팀
+
+# crg-useabilityposture.prop
+
+0x8693A0FC <hinticon>을 눌러서 자세 배우기
+
+# con
+
+0xB32FE522 ~local_creature_name~ 새끼
+0xF32FE51B 알파 ~local_creature_name~
+0x0595B72B 에픽 ~local_creature_name~
+0x0564E650 애완동물 ~local_creature_name~
+0x94ACB6F7 방랑자 ~local_creature_name~
+
+# crg-locatemate.prop
+
+0x200AFD34 배우자를 찾으려면 <hinticon>을 클릭하십시오.
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D 그들의 보금자리에서 치료 할 수 있습니다!
+0x064D404C 그들의 보금자리에서 치료 할 수 있습니다!
+0x064D404B ~target_species_crg~들은 우리의 동맹입니다!
+0x064D404A 감동시키십시오.
+0x064D4049 ~target_species_crg~을(를) 감동시키십시오.
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4041 ~target_species_crg~들은 우리의 동맹입니다!
+0x064D4040 감동시키십시오.
+0x064D403F ~target_species_crg~을(를) 감동시키십시오.
+0x064D4042 당신은 그들의 보금자리에서 치료할 수 있으며, 무리에 추가 할 수도 있습니다!
+0x064D4043 당신은 그들의 보금자리에서 치료할 수 있으며, 무리에 추가 할 수도 있습니다!
+

@@ -1,0 +1,27 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000015 Urgent message for our Captain!~p~The Grox are attacking planet ~mission_target_planet~! Engage and defeat the enemy! Hurry!~p~~mission_target_planet~ out!
+0x00000001 Help, ~player_title~ ~player_creature_name~!~p~We're being attacked by the Grox! This unnatural machine race is trying to devastate planet ~mission_target_planet~! By the terms of our alliance, please help us!
+0x00000002 Alert, ~player_title~ ~player_creature_name~! We're being attacked by the Grox at the location of planet ~mission_target_planet~!! Help us if you can! 
+0x00000003 ~player_title~ ~player_creature_name~.~p~Godless machines are devastating our world at planet ~mission_target_planet~!!~p~By the power of Spode, we need your help!
+0x00000004 Formal greetings and salutations ~player_title~ ~player_creature_name~.~p~The Grox are attacking our world at planet ~mission_target_planet~! Per our diplomatic alliance agreements, we anticipate the arrival of no less than one ship to assist in this battle. Please come at once!~p~Transmission concluded.
+0x00000005 The Grox are attacking our world on planet ~mission_target_planet~! ~p~No profits exist in devastation! Help us!
+0x00000006 Eep eep eep! The Grox are attacking us!~p~Dear friend, ~player_title~ ~player_creature_name~, we sporifically promise we did nothing to them!~p~Come quick! Help, help, help!
+0x00000007 Dear friend, ~player_title~ ~player_creature_name~.~p~We are in need of your generous help. The Grox are at our door! We can't adjust their auras because - hey - they're machines!~p~Please make haste to our side at planet ~mission_target_planet~!
+0x00000008 ~player_creature_name~. Our world at planet ~mission_target_planet~ is being attacked by the Grox.~p~You, ~player_creature_name~, have vowed to help. You will keep this promise.
+0x00000009 Close Transmission
+0x0000000B The Grox are attacking planet ~mission_target_planet~!!
+0x00000091 The Grox are no longer attacking planet ~mission_target_planet~!
+0x00000090 Make your way to the ~mission_target_star~ star system to help defend against this evil foe.
+0x0000000C They have left the ~mission_target_star~ star system... for now!
+0x0000000D The Grox attacked planet ~mission_target_planet~!!
+0x0000000E The Grox have left planet ~mission_target_planet~.
+0x00000010 The Grox are attacking planet ~mission_target_planet~!!
+0x00000011 The Grox have left planet ~mission_target_planet~.
+0x00000012 Significant damage on planet ~mission_target_planet~. This battle against the Grox is lost.
+0x00000013 Incoming! Seriously hostile ships detected on approach to planet ~mission_target_planet~!

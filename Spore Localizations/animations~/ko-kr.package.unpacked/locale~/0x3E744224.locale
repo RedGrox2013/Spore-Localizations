@@ -1,0 +1,689 @@
+﻿# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 1
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C1 담장에 뚫린 곳이 있어
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 1
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA22 난 에프티예요. 어디 아파요? 난 괜찮은데.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 2
+
+0x36F508C1 콜록!.콜록!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73821 전송 중인 것 같진 않은데.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 1
+
+0x36F508C0 무슨 소리지?
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 2
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC821 안락해 보이는군.
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 2
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8821 이런 말 하긴 싫지만, 가장 나쁜 때 찾아온 것 같군요.
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 2
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C1 어디까지 이어진 거지?
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 1
+
+0x5B7F89C0 위지? 어디 있니?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 4
+# Comments: Character comments: Runs off
+
+0xC1251923 바로 외계로부터 온 것입니다. 분명히 저 우주선에서 왔겠죠. 제 생각엔 아마 그 개를 통해 기지까지 들어온 것 같습니다.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 2
+
+0x5B7F89C1 가까이 오지 마 블레어 난 널 안 믿어!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 3
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE823 최소한 외계인 중 한 명은 추락에서 살아남은 것 같군.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 3
+
+0x5B7F89C2 노리스는 죽었어, 인정하라고.
+
+# Character name (Character: "base_grave", model: "Research Base Grave_@building_editorModel!0x0769c9ff.bld")
+# Comments: A makeshift grave in the snow - pile of stones with a vaguely cross-like staff sticking out of it
+
+0x546BC860 무덤
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 5
+
+0x36F508C4 너무 졸려.
+
+# Character name (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt")
+# Comments: The Station's Veterinarian
+
+0x5B7F8860 클락
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 3
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89822 예전에는 쓸만했을걸.
+
+# 'Adventure won' message
+
+0x00000011 이미 기지 전체가 감염되었습니다. 하지만, 최소한 에프티만은 구해야 합니다! 에프티의 자연 면역력을 통해 치료법을 알아낼 수 있을지도 모르니까요.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 4
+
+0x36F508C3 콜록!
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 2
+# Comments: Character comments: behind the ship
+
+0x4F928822 피부가 그을렸고 울퉁불퉁해. 추락 때문에 그런 것 같진 않아.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 4
+
+0xDB1A5A52 제발 있어줘!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 3
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0822 접근 권한이 없으면 절대 알 수 없어.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 2
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73941 아무도 들어가려고 하지 않는군.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 4
+
+0x5B7F88C3 찾을 수 있다면 말이지.
+
+# Character name (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld")
+# Comments: Sat Tower with radio mast and dishes
+
+0xF6E73860 인공위성 기지
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 4, Variation 1
+# Comments: Character comments: More skin - on the ground again, made into a track…
+
+0xE03FE9C0 또 있어. 이것도 최근에 떨어진 거야. 눈에 덮여 있지 않으니까.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 5
+
+0x5B7F88C4 병동을 떠난 이후로 아무도 그를 보지 못했어. 지금쯤은 어딘가에서 얼어 죽었을 거야.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 2
+# Comments: Character comments: Runs off
+
+0xC1251921 노리스와 난 그저. 헉!. 노리스?! - 노리스는 지금 어딨지? 그 녀석도 잡았을 거로 생각했는데.
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 3
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A22 에프티 날 도왔어. 숨게 도와줬어. 나 에프티 다치게 안 해! 봐! 에프티 괜찮아! 괜찮아!!! 나 때문에 안 아파!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 2
+
+0x5B7F88C1 전부 망가졌어!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 1
+
+0xDB1A59C0 안돼. 기지를 떠나면 안 돼요! 제발!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x50000105 넌 내 꺼야!
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 3
+
+0x5B7F88C2 쿠퍼라면 이걸 고칠 수 있을거야.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 1
+# Comments: Character comments: Runs off
+
+0xC1251920 호. 난 블레어. 스테이션의 생물학자지.
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 1
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A820 추락으로 커다란 구덩이가 생겼어!
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 2
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A821 전원도 나갔고 크리쳐의 흔적도 없다. 하지만 탈출 장치가 작동했던 것 같군.
+
+# Act 2 description
+
+0x00000023 얼음물 계획 연구 기지를 발견했군요 그럼 이제 연구원을 찾을 차례입니다.
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x50000104 아아아!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 1
+
+0xDB1A5A49 가지마!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 3
+
+0xDB1A59C3 콜록!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 2
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE824 조사 결과: 녹색 덩굴로 뒤덮인 피부.
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 1
+
+0x3668DA40 죽어라!
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 2
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C6 목소리가 뭘 해야 하는지 말해줘.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 2, Variation 1
+
+0x5B7F88C0 빌어먹을 기계 같으니!
+
+# Character name (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: All shriveled up
+
+0xE3E11860 죽은 외계인
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x50000103 떠나지 마!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 2
+
+0xDB1A5A50 떠나지 마!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 4, Variation 2
+
+0xDB1A59C1 안전하지 않아요. 쿠퍼가 떠난 다음, 다시는 돌아오지 않았죠.
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 3, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC941 여기가 춥긴 하지만 -  모두 저 안에 있는 걸 무서워하잖아.
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x50000102 이쪽으로 와!
+
+# Character chatter (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt"): Act 5, Variation 3
+
+0xDB1A5A51 여기 있어!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 3
+
+0x3668DA42 가까이 오지 마!!!!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 5
+
+0xDB1A5A44 콜록!.콜록!
+
+# Character chatter (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x50000101 죽어!
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 1, Variation 1
+# Comments: Character comments: It is like footprints - a trail to the Base.
+
+0xE03FE820 피부 같은데, 조사해볼까?
+
+# Adventure name
+
+0x00000002 하늘에서 온 것
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 2
+
+0x3668DA41 난 내 개를 싫어했어!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 5
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A24 날 내버려 둬. 에프티를 데리고 넌 떠나
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 4
+
+0xDB1A5A43 노리스는 어딨지?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 4
+
+0x4AB34A43 죽여라!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 2
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A21 사람들 나 무섭게 했다. 사람들 아팠어. 정말 미안. 많이 아파.
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 5
+
+0x3668DA44 아아아아악!!!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 3
+
+0xDB1A5A42 도망쳐요!
+
+# Character name (Character: "infected", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Generic zombie
+
+0xE3E11861 감염자
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 2
+
+0xE03FE921 어디로 이어져 있는거지?
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 5
+
+0x4AB34A44 이리 와!
+
+# Character chatter (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt"): Act 5, Variation 4
+
+0x3668DA43 가만 안 놔둘 거야!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 2
+
+0xDB1A5A41 블레어와 클라크에게 무슨 일이 생긴 게 분명해!
+
+# Character chatter (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 5, Variation 1
+
+0xDB1A5A40 여기서 나갑시다!
+
+# Character name (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl")
+# Comments: Modeled after your favorite crashed alien spaceship - Alien or Independence Day?
+
+0xC701A860 추락한 외계 우주선
+
+# Character name (Character: "plague_clark", model: "Sick Claark_@creature_editorModel!0x07747ec7.crt")
+# Comments: Infected version of Claark
+
+0x3668D860 감염자
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 1
+
+0xC12519C0 난 여기서 기다리지요. 그 아래로는 안 갈 겁니다! 난 전사가 아니라 생물학자라고요.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 2
+
+0xC12519C1 과학자로서, 당신이 조사하게 하겠어요. 솔직히 말하면, 전 정말 무서워요.
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 4
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8824 혹은 죽었거나.
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 2, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73820 기지 통신 센터야.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 3
+
+0xC12519C2 무슨 일이 일어날지 무섭다고요. 아래에서 뭘 보게 될지도 무섭고요.에프티.
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 1
+
+0x4AB34A40 날 좀. 도와줘.
+
+# Act 4 description
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000027 흔적을 따라가 그것이 어디로 이어져 있는지 알아내십시오.
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 2
+
+0x4AB34A41 멈출 수가. 없어.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 4, Variation 4
+
+0xC12519C3 에프티가 아래에 있어요. 하지만 찾을 수 없군요.
+
+# Character chatter (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt"): Act 5, Variation 3
+
+0x4AB34A42 아아아아아아악!!!!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 4, Variation 2
+# Comments: Character comments: More Fence, with an opening. The trail leads here
+
+0x1A8A09C2 외계인 피부의 흔적이 여기까지 나있군.
+
+# Character talk dialog (Character: "dead_seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 1, Variation 1
+# Comments: Character comments: behind the ship
+
+0x4F928820 시체다!
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 3
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA24 날 집에 데려다 줄래요?
+
+# Character name (Character: "base_body", model: "Dead Researcher_@creature_editorModel!0x076b007d.crt")
+# Comments: This is what most of them become - horribly infected, disfigured…and dead
+
+0xC1605860 죽은 연구자
+
+# Character name (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt")
+# Comments: The Station's Geophysicist
+
+0x36F50860 노리스
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 3
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025842 뭘 찾는 거지?
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 3
+# Comments: Character comments: Runs off
+
+0xC1251922 젠장. 이건 단순한 통증이 아닙니다. 모든 방면에서 조사해 봤는데, 대답은 단 하나에요.
+
+# Character name (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt")
+# Comments: The Station's Meteorologist
+
+0xDB1A5860 벤 닝
+
+# Act 1 name
+
+0x00000020 추락 현장
+
+# Character talk dialog (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 4, Variation 2
+# Comments: Character comments: Totally unharmed. Immune. Hiding behind a hut. Little snowsuit
+
+0x0CAAAA23 그저 아빠를 되찾고 싶어요.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 4, Variation 1
+# Comments: Character comments: Wandering by graves
+
+0xDB1A59C5 목소리가 머릿속에서.
+
+# Character name (Character: "plague_blair", model: "Sick Blaair_@creature_editorModel!0x0769ef0d.crt")
+# Comments: Infected version of Blaair
+
+0x4AB34860 감염자
+
+# 'Adventure lost' message
+
+0x00000012 아직도 그곳에 있는 것 같군요. 쓸쓸히, 병들어 죽어가는 채로. 아무래도 뭔가에 아니면 누군가에게 먹혔나 보네요. 다시 기회를 얻고 싶지 않습니까?
+
+# Character talk dialog (Character: "crashed_alien_ship", model: "Abandonned Saucer_@building_editorModel!0x0744d708.vcl"): Act 1, Variation 3
+# Comments: Character comments: You see the ship first. The dead aliens are behind it
+
+0xC701A822 누군가 살아남은 게 분명해!
+
+# Character name (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld")
+# Comments: Base fence used to separate areas. High, wish it could be electrified!
+
+0x1A8A0860 담장
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 1
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89820 망가진 아브라함 스노 모빌이야.
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 1
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8820 환영해요. 앞뜰에 있는 난파선을 보고 오신 게 분명하군요.
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 2
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025841 뭔가 헷갈려 하는 것 같아
+
+# Character talk dialog (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt"): Act 3, Variation 1
+
+0xE03FE920 외계인의 피부가 또 있어. 이건 얼마 안 된 것 같은데.
+
+# Act 5 description
+
+0x00000029 에프티는 면역력이 있는 것 같습니다. 그녀를 이 행성에서 탈출시켜야 합니다. 서두르세요! 에프티를 탈출 지점까지 데려가세요.
+
+# Character talk dialog (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt"): Act 3, Variation 5
+# Comments: Character comments: Runs off
+
+0xC1251924 우리 모두 난처하게 됐어요. 그리고 이 질병이 기지 밖으로 새어나가게 해선 안 돼요.
+
+# Character talk dialog (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl"): Act 2, Variation 2
+# Comments: Character comments: Back of first area, below Comms Tower.
+
+0xB9C89821 스노 코스터'라고도 하지.
+
+# Character name (Character: "snow_mobile", model: "Snow Mobile_@vehicle_editorModel!0x0769ca02.vcl")
+# Comments: A high tech machine on treads
+
+0xB9C89860 스노 모빌
+
+# Character name (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt")
+# Comments: Little girl child like Newt in Aliens
+
+0x0CAAA860 에프티
+
+# Adventure description
+
+0x00000003 얼음 행성 비밀 연구소 근처에 외계 비행선이 추락하였습니다. 추락 사고를 조사하라는 명령이 내려왔습니다.
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 5
+
+0xDB1A5924 이제 그녀도 사라졌죠. 불쌍한 에프티.
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 생태학자, 호위, 좀비
+
+# Character name (Character: "alien_skin", model: "Alien Skin_@creature_editorModel!0x0769c000.crt")
+# Comments: Looks like a pile of seaweed (Kelp or Dulce)
+
+0xE03FE860 외계인의 피부
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 2
+
+0xC12518C1 이것보다 더 큰 문제가 생겼어!
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 4
+
+0xDB1A5923 또 있어요 더 안 좋은 소식인데 팔마가 들어갔을 때, 딸과 함께 있었어요.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 3
+
+0x5B7F8943 여기에 뭔가 있어.
+
+# Act 3 name
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000024 비난
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 3
+
+0xC12518C2 콜록.콜록!
+
+# Character talk dialog (Character: "base_sat", model: "Satellite Station_@building_editorModel!0x0769ca09.bld"): Act 3, Variation 1
+# Comments: Character comments: In the background, behind snowmobile
+
+0xF6E73940 통신 센터가 폐쇄된 것 같아.
+
+# Character name (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld")
+# Comments: A number of these, on stilts. Covered in snow
+
+0x282EC860 연구 기지
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 3
+
+0xDB1A5922 그 남자. 그 사람들. 어딘가 아프기 시작했나 싶더니 갑자기 미쳐 버렸죠.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 2
+# Comments: Character comments: Should run off
+
+0x36F50941 콜록!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 2
+
+0x5B7F8942 우리 개는 아무도 물지 않아! 얘야 이리 오렴!
+
+# Act 5 name
+
+0x00000028 밖에 있는 자는 누구?
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 3, Variation 1
+# Comments: Character comments: Should run off
+
+0x36F50940 소리가 들려.
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 2
+
+0xDB1A5921 모든 게 엉망이 됐어요. 대부분의 사람이 실종됐거나 아파요. 아님 죽었거나요. 지휘관도 어제 사라졌어요. 이제 제가 지휘를 해야 할 것 같아요.
+
+# Character name (Character: "plague_norris", model: "Sick N'orris_@creature_editorModel!0x0769ef13.crt")
+# Comments: infected version of N'orris
+
+0x0CAAA861 감염자
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 1
+
+0x5B7F8941 난 안으로 안 들어가! 절대로!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 1
+
+0xC12518C0 여기서 어서 나가자!
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 1
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A20 그르르르! 미.미.미안.
+
+# Character name (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt")
+# Comments: Look like small men draped in thick seaweed.
+
+0xE3E11862 감염된 외계인
+
+# Character talk dialog (Character: "base_bennings", model: "Ben Ning_@creature_editorModel!0x0769eff6.crt"): Act 2, Variation 1
+
+0xDB1A5920 내 이름은 닝. 벤 닝이오. 스테이션의 기상학자죠.
+
+# Character name (Character: "base_blair", model: "Blaair_@creature_editorModel!0x0769c038.crt")
+# Comments: The Station's Biologist
+
+0xC1251860 블레어
+
+# Character name (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt")
+# Comments: Wegians are four-legged dog-like creatures. Love Clark
+
+0x61025860 위지
+
+# Act 1 description
+
+0x00000021 생존자가 있는지 주변을 살피고 추락 원인을 밝혀내십시오.
+
+# Character talk dialog (Character: "base_dog", model: "Wegian_@creature_editorModel!0x07704878.crt"): Act 1, Variation 1
+# Comments: Character comments: A black dog runs between the crash site and the base
+
+0x61025840 누군가의 애완동물인 것 같군
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 4
+
+0xC12518C3 몸이 안 좋은 것 같아.
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 4
+
+0xDB1A5A48 여기 있기 싫어!
+
+# Character talk dialog (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 1, Variation 3
+# Comments: Character comments: Standing by the gate. The first researcher we meet.
+
+0x5B7F8822 선원 대부분이 많이 아퍼요.
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 1
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0820 연구소로 통하는 담장이야.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 2, Variation 5
+
+0xC12518C4 콜록!
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 3, Variation 4
+
+0x5B7F8944 노리스는 어디 있지? 다음은 노리스 차례야, 노리스가 다음이라고.
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 3
+
+0xDB1A5A47 아빠가 보고싶어.
+
+# 'Adventure start' message
+
+0x00000010 외계 비행선의 추락을 조사하십시오. 생존자가 있는지 알아보고 근처의 연구소가 무사한지 확인하십시오.
+
+# Character talk dialog (Character: "seaweed_alien", model: "TheSolHeiror_@creature_editorModel!0x07971eab.crt"): Act 4, Variation 4
+# Comments: Character comments: Live alien, but in pretty bad shape - blackened, hunched over…
+
+0xE3E11A23 얼마 안 가 모두들 아파할 거야. 어서! 도움을 청해!
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 2
+
+0xDB1A5A46 도와줘!
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 2
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0821 얼음물 계획  깊은 얼음 아래 숨겨져 있군
+
+# Character chatter (Character: "base_eftie", model: "Eftie_@creature_editorModel!0x07704a4a.crt"): Act 5, Variation 1
+
+0xDB1A5A45 대체 이건 뭐야?
+
+# Act 4 name
+# Comments: Act comments: The follows the trail of alien skin. A new area is open…
+
+0x00000026 조우
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 4
+
+0x5B7F89C3 닝을 주시해 - 이상한 힘이 닝을 이상하게 만들었으니까.
+
+# Character chatter (Character: "base_clark", model: "Claark_@creature_editorModel!0x07704834.crt"): Act 4, Variation 5
+
+0x5B7F89C4 우리 개는 어디 있지?!
+
+# Act 2 name
+
+0x00000022 이상한 기운
+
+# Act 3 description
+# Comments: Act comments: AS soon as the snowmobile is destroyed…
+
+0x00000025 기지를 조사하고 묘지 근처에서 단서를 찾으십시오.
+
+# Character talk dialog (Character: "base_fence", model: "Research Base Fence_@building_editorModel!0x0769c9fd.bld"): Act 1, Variation 4
+# Comments: Character comments: A rough trail of alien skin leads to the Base_Fence
+
+0x1A8A0823 다만. 외계인만 빼고.
+
+# Character talk dialog (Character: "base_hut", model: "Research Base_@building_editorModel!0x0769ca03.bld"): Act 2, Variation 1
+# Comments: Character comments: Outlying huts of the Base, just inside the fence.
+
+0x282EC820 표준형 터커-12 생명 보온 용기야.
+
+# Character chatter (Character: "base_norris", model: "N'orris_@creature_editorModel!0x0769ef07.crt"): Act 2, Variation 3
+
+0x36F508C2 누가 속삭이는 건가?
+

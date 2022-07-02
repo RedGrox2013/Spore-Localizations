@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000097 In corso
+0x00000098 Completata
+0x000000B2 Fai rapporto al pianeta ~mission_source_planet~.
+0x00000093 Destinazione: sistema ~mission_source_star~.
+0x00000099 Missione compiuta! Torna nel sistema ~mission_source_star~ a fare rapporto.
+0x000000B1 Recupera il Lama d'oro sul pianeta ~mission_target_planet~.
+0x00000041 Sì! Il Lama d'oro è finalmente mio! Diventerà il pezzo forte della mia collezione di oggetti dorati. Mmm... o forse è più adatto alla mia collezione di lama?~p~Grazie per aver rischiato la vita per ~mission_rewards~ Sporecrediti, ~ep1_captain_full_name~. Ora so a chi rivolgermi quando voglio acquisire un nuovo manufatto prezioso.
+0x00000094 Recupera il Lama d'oro sul pianeta ~mission_target_planet~ del sistema ~mission_target_star~. Fai attenzione al Guardiano!
+0x00000081 Esplorare giungle pericolose in cerca di tesori non fa per tutti.~p~Neanche per me, a dire il vero. Ecco perché pago la gente per farlo al posto mio!
+0x0000004E Non riesci a entrare in possesso del Lama d'oro? Il tuo registro missione contiene le sue esatte coordinate.
+0x00000071 Sei allergico ai lama, per caso? Oppure all'oro?
+0x00000064 Il Lama d'oro è un manufatto molto ambito. Dovrai superare un'infinità di creature diaboliche per raggiungerlo.~p~Ehi, se fosse un lavoro semplice, l'avrei fatto io stesso!
+0x00000000 Ti piacciono i tesori, ~ep1_captain_full_name~? I manufatti? Idoli rari e pietre preziose? Non ne dubito!~p~Beh, io ho un piano, quindi ascoltami bene. Ti dirò dove si trova il leggendario Lama d'oro, se tu accetterai di portarmelo.~p~In cambio riceverai ~mission_rewards~ Sporecrediti.~p~Che ne dici?
+0x00000092 Recupera il Lama d'oro nel sistema ~mission_target_star~. Fai attenzione al Guardiano!
+0x00000095 Il Lama d'oro è stato recuperato. Torna a fare rapporto sul pianeta ~mission_source_planet~ nel sistema ~mission_source_star~.
+

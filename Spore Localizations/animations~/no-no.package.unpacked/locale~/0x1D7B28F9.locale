@@ -1,0 +1,63 @@
+﻿0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x494AA82F Veiviseren ble avbrutt før avinstalleringen av ~string~ ble fullført.~br~~br~Hvis du vil avinstallere programmet senere, kan du prøve å kjøre avinstalleringsprogrammet på nytt.~UNINSTALL_INCOMP~
+0x45EF8DC8 Installeringsveiviser~IDS__DialogId_10105~
+0x4782CCA0 Alternativ8~IDS__DialogId_10105_ControlId_608~
+0x4E1203F5 Vil du installere den nyeste versjonen av EA Download Manager? Hvis ikke du installerer den nyeste versjonen av EA Download Manager, kan vi ikke levere oppdateringer og annet til maskinen din.~EADM_INSTALL~
+0x303D349E File: ~string~~br~Feil: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Velg det du vil installere og velg bort det du ikke vil installere. Klikk på Neste for å fortsette.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Du må ha en administratorkonto for å installere.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Snarvei på skrivebordet~DESKTOP_SHORTCUT~
+0x7E8BB5FD Installeringen er fullført~INSTALLATION_COMPLETE~
+0x4DE32707 Stopp ~string~ før du fortsetter.~GAME_RUNNING_STRING~
+0x2BF6EA98 Gjeldende stasjon har ikke nok ledig diskplass. Du kan fjerne filer fra valgt stasjon eller velge en annen med ledig plass.~NO_SPACE_MSG~
+0x05082CC9 Fullført~IDPROP_SETUPTYPE_COMPLETE~
+0x4782CC92 Alternativ6~IDS__DialogId_10105_ControlId_606~
+0x4782CC91 Alternativ7~IDS__DialogId_10105_ControlId_607~
+0x7D4A4E2F Tilpasset~CUSTOM~
+0x051414BE @10550,10551;1;0;;0 128 128 ~IDS__DialogId_10105_ControlId_1200~
+0x3017EF99 Vil du slette alle brukerdata som er generert av ~string~?~REMOVE_USERDATA~
+0x1F726BCA Spill ~PLAY_SPORE~
+0x6CD070E6 Noe av informasjonen som trengs for avinstallering ble ikke funnet. Det kan ha inntruffet en feil under den opprinnelige installeringen. Det kan hende noen filer og mapper må fjernes manuelt.~MISSING_UNINSTALL~
+0x4782CC93 Alternativ5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Alternativ2~IDS__DialogId_10105_ControlId_602~
+0x4782CC9F Alternativ9~IDS__DialogId_10105_ControlId_609~
+0x4782CC97 Alternativ1~IDS__DialogId_10105_ControlId_601~
+0x4782CC95 Alternativ3~IDS__DialogId_10105_ControlId_603~
+0x4782CC94 Alternativ4~IDS__DialogId_10105_ControlId_604~
+0x64A17D06 Det har inntruffet en feil. Installeringen kan ikke fullføres og vil nå avsluttes.~GENERAL_ERROR~
+0x7CF6B4E8 Tilpasset~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Kan ikke installere i ~string~.~br~Velg en annen katalog.~DANGEROUS_DIRECTORY_ERROR~
+0x15CC67E6 ~string~ blir installert her: ~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x0537CFA1 Avinstaller ~string~~UNINSTALL~
+0x16FBAEAF Nå er du klar til å spille ~string~~READY_TO_PLAY~
+0x02699E57 Oppsettstype~SETUP_TYPE_TITLE~
+0x16741C9F Kjør ~string~ etter installeringen~LAUNCH_SPORE~
+0x0AA43B92 Anbefalt~RECOMMENDED~
+0x0D849C4A Klikk på Fullfør for å avbryte og komme i gang~CLICK_FINISH~
+0x38A8F152 Velkommen til ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 LesMeg ~README~
+0x15538FF6 Oppsettstype~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Velg oppsettypen som passer ditt behov best.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Tilpasset~IDPROP_SETUPTYPE_CUSTOM~
+0x06220BA5 Klikk på "Neste" for å installere ~string~ på datamaskinen din!~WELCOME_SPORE_MESSAGE~
+0x74C9257A Fullført~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Vi er klare til å installere!~READY_TO_INSTALL~
+0x144073D1 ~string~ blir installert i mappen du velger.~CUSTOM_SPORE_SETUP~
+0x59450AC4 Oppsettype~br~Velg oppsettstype~SETUP_TYPE_MESSAGE~
+0x2A8D9AF3 EA-hjelp~EA_HELP~
+0x7E9C7ECF Avbryt~IDS__DialogId_10105_ControlId_9~
+0x03BCF887 Velg blant alternativene under.~SELECT_OPTIONS~
+0x40D6F8BD Les LesMeg.txt etter du har installert~VIEW_README~
+0x7B152168 Klikk på Installer for å begynne installeringen~br~~br~Hvis du vil se over eller endre noen av installasjonsinnstillingene, klikker du på Tilbake-knappen eller Avbryt.~BEGIN_INSTALLATION~
+0x01FCAF57 Mine Spore-skapninger~SAVE_FOLDER~
+0x27D33671 Filbanen er for lang. Velg en kortere filbane.~DIR_TOO_LONG~
+0x689470D4 Funksjon ~ID_STRING1~
+0x46A61B9B ~string~ ble ikke funnet.~MISSING_FILES~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x4950A450 Prøveversjon av Skapningsskaperen til Spore™~SCC_TRIAL_NAME~
+0x23FD0D11 Skapningsskaperen til Spore™~SCC_NAME~
+0x151DEC2F Spore™ fungerer ikke skikkelig uten DirectX.~DIRECTX_WARNING~
+0x7E9C7EC7 &Neste >~IDS__DialogId_10105_ControlId_1~
+0x159098E0 < &Tilbake~IDS__DialogId_10105_ControlId_12~
+0x353F37C7 Vi må avinstallere eksemplaret du har installert av ~string~. Klikk på Ja for å avinstallere. SPORE™ inkluderer alle funksjonene fra skapningsskaperen og du får beholde alle skapningene du allerede har laget.~SPORE_REMOVE_CSA_WARNING~
+

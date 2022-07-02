@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Společnost
+0x01020007 Prozkoumat
+0x01020003 Bez žánru
+0x01020004 Útok
+0x01020005 Obrana
+0x0102000A Sbírka
+0x01020009 Příběh
+0x01020008 Honba
+0x0102000D Šablony
+0x0102000C Planety
+0x0102000B Hádanka
+
+#######################################
+# Filter Names
+
+0x01020001 Dobrodružství
+0x01020002 Hratelná dobrodružství
+0x07200107 Kapitán
+0x07200108 Mí kapitáni
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ her
+
+### Difficulty Descriptions
+
+0x07D86C49 Obtížnost: ~ep1_adventure_difficulty~
+0x07D86C6A Velmi snadná
+0x07D86C87 Střední
+0x07D86C7C Snadná
+0x07D86CA8 Velmi těžká
+0x07D86C9F Těžká
+
+# Unpublish
+
+0x07D9CFD7 Chcete ukončit sdílení tohoto výtvoru? Odstraníme jej ze serveru.
+0x07D9CFB6 Přestat sdílet
+
+#######################################
+# Misc
+
+0x02000001 Vybranou položku někdo upravuje. Nyní ji nemůžete odstranit.
+0x02000002 Počet vybraných položek: ~num_selected_items~
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Předměty
+
+# Audio filters
+
+0x01021007 Dav
+0x01021006 Zvuk
+0x01021008 Příroda
+0x0102100A Hudba
+0x01021009 Stroje
+0x0102100C Jednorázový
+0x0102100B Tón
+
+### Ratings
+
+0xC7647889 Hodnocení
+
+# Download adventure
+
+0x02200002 Chcete toto dobrodružství otevřít?
+0x02200001 Stáhněte dobrodružství
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~bodů
+
+#######################################
+# Category Names
+
+0x00000001 Předměty v dobrodružství
+
+# Fixed object filters
+
+0x01021004 Kameny
+0x01021003 Objekty ve hře
+0x01021002 Přenosné objekty
+0x01021005 Statické ornamenty
+0x01021001 Pevné objekty
+
+# Effects filters
+
+0x01022003 Přírodní efekty
+0x01022006 Jednorázové efekty
+0x01022005 Výstřední efekty
+0x01022001 Efekty
+0x01022004 Sci-fi efekty
+0x01022002 Světelné efekty
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Zvolte planetu
+0x079EDCD5 Vytvořte nebo vyberte Kapitána
+0x072000E3 Vytvořte nebo vyberte Kapitána
+0x07B67C69 Vyberte jeden nebo více herních předmětů
+0x07B24B83 Abyste mohli prohlížet tabulku nejlepších hráčů a hodnocení tohoto dobrodružství, musíte být přihlášení.
+0x072925B6 Vyberte si obsazení pro dobrodružství.
+0x072925B2 Vytvořte si nebo vyber člena pro obsazení.
+0x072925B3 Vyberte si jeden nebo víc předmětů.
+0x072925B5 Vyberte si květenu.
+0x072925B4 Vyberte si zvukový předmět.
+0x072925BD Vyberte si předmět.
+0x072925BC Vyberte si jeden nebo víc zvukových předmětů.
+0x072925B8 Vyberte si jednu nebo víc budov
+0x072925B7 Vyberte si jednu nebo víc příšerek
+0x072925BB Vyberte si jeden nebo víc efektů.
+0x072925BA Vyberte si jednu nebo víc kosmických lodí
+0x072925B0 Vyberte si dobrodružství
+0x072925B9 Vyberte si jedno nebo víc vozidel
+

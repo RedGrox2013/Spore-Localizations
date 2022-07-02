@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x00000028 La scansione deve avere attivato le difese della colonia. Questi droni non sembrano avere intenzioni amichevoli... Aspetta... è stata rilevata una trasmissione in arrivo...
+0x0663A00A Il motore interstellare del relitto risponde ai segnali di un faro di un sistema vicino che corrisponde alle coordinate in memoria. Forse è il suo mondo d'origine e potrebbero ancora aver bisogno d'aiuto...
+0x0000001A È una navicella precipitata! Emette uno strano segnale radio. Raggiungila e utilizza lo strumento Scanner per analizzare la zona dell'impatto.
+0x0000001C Troppo tardi! Queste rovine devono essere ciò che rimane della colonia natale degli alieni del relitto. Una scansione delle rovine potrebbe rivelare qualche indizio su cosa sia successo qui.
+0x06304FA8 Missili e un motore interstellare, su cui risultano programmate delle coordinate stellari sconosciute. I danni osservati sui resti sono quelli di un combattimento. Pare che l'astronave sia stata inviata da qualche pianeta alla ricerca d'aiuto.
+0x0000001B Alieni! Ma nessun segno di vita. Sembra che abbiano disegnato un qualche tipo di strana mappa prima di morire. Aspetta! Il relitto ha attivato un raggio trasportatore! Stiamo caricando a bordo alcuni oggetti!
+0x0000001D La scansione non ha rilevato nulla, ma sembra abbia generato una risposta… I radar mostrano un qualche tipo di attività...
+0x00000004 Qualcosa è apparso sul radar della nave...
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B7833 ~br~~br~Io sono Steve.~br~~br~~br~Fra poco tu riceverai il potere.~br~~br~Sì, esatto, IL POTERE.~br~~br~Il potere di creare e diffondere la vita, l'intelligenza e la comprensione in tutto il cosmo.~br~~br~~br~~br~Usa questo potere saggiamente.~br~Usa questo potere in modo che un giorno potremo diventare tutti UNA COSA SOLA...~br~~br~~br~Cioè... voglio dire...~br~In senso metaforico.~br~~br~~br~Oh... un'ultima cosa.~br~~br~Siamo quasi al completo per l'ultima fase di un fantastico evento collettivo che si terrà sulle nostre stelle più grosse... e su un pianeta raro nella loro orbita.~br~~br~~br~~br~Se passi da quelle parti, saremmo lieti di averti a colazione per una breve presentazione.~br~~br~~br~Terza roccia a sinistra a partire dal Sole.~br~
+0x067B778C ~br~~br~Saluti, amico mio!~br~~br~A lungo hai viaggiato e molti sono gli ostacoli che hai superato.~br~~br~Durante l'avventura hai conosciuto molti dei tuoi fratelli diversi e lontani.~br~~br~Ma pochi sono i privilegiati che giungeranno fin qui.~br~~br~Le tue gesta eroiche ti rendono meritevole,~br~~br~degno di raggiungere il prossimo livello dell'esistenza.~br~~br~~br~L'universo che vedi non è che uno dei molti~br~~br~innumerevoli mondi, invisibili ma collegati.~br~~br~~br~I tuoi sforzi creativi non sono passati inosservati.~br~~br~Anzi si sono diffusi in questi altri, invisibili mondi~br~~br~~br~così come il tuo mondo è stato arricchito da essi.~br~~br~~br~È arrivato il momento di unirti a noi--~br~~br~~br~Unisciti a noi! Mwah ah ah ah!!!~br~~br~~br~Suvvia, scherzavo. Non è nulla di spaventoso.~br~Credimi. Il futuro non è niente male.~br~~br~Proprio per niente.~br~Alcuni di voi si staranno chiedendo: a chi appartiene questa voce misteriosa, sapiente e potente?~br~~br~~br~~br~~br~Ottima domanda...~br~
+
+# Terraform
+
+0x05FA8A51 Congratulazioni! Hai terraformato e colonizzato quello che ormai è il tuo impero. Puoi commerciare la spezia delle tue colonie con altre specie.
+
+################
+
+0x05B1568D Pirati spaziali! Creeranno senz'altro dei problemi, magari potresti decidere di andare a cacciarli dal pianeta.
+0x05B1A752 Un'imboscata! I pirati stavano inviando un falso segnale per attirarti. Preparati a combattere!
+0x05B15258 Il tuo dispositivo SETI ha rilevato strani segnali provenienti da questa stella. Vai in esplorazione!
+0x063BB6D6 Congratulazioni, hai ottenuto il titolo di Commodoro! La tua flotta alleata adesso può accogliere un'astronave in più.
+0x063ABD3D Congratulazioni, hai ottenuto la medaglia e il titolo di Capitano!
+0x05F9E801 Ora che hai stabilito una rotta commerciale, la spezia verrà automaticamente scambiata fra gli imperi. Questa relazione è il primo passo verso l'acquisto del sistema.
+0x05FA2A28 Con le tue azioni hai ottenuto il favore di questo impero. Inizia le comunicazioni e fai buon uso delle tue abilità diplomatiche per proporre un'alleanza.
+0x05F776D6 Avvicinandoti al centro della galassia, programmare il percorso attraverso i pozzi di gravità di nubi stellari è sempre più difficile. Il raggio di movimento è diminuito per garantire maggior precisione.
+0x05FA70DA È ora di iniziare la guerra! Usa le tue armi per distruggere tutte le colonie di questo pianeta, costringerle alla resa e poi decidere se annientarle o catturarle.
+0x0000000B L'ecosistema di questo pianeta è a rischio. Uccidi gli animali malati prima che infettino il resto delle specie, causando un effetto a catena che porterebbe al collasso della rete alimentare dell'intero pianeta.
+0x05FA8A4D I pianeti su orbite verdi sono più semplici da terraformare e da colonizzare di quelli su orbite blu o rosse.
+0x00000020 Hai destinato ~planet_name~ al ruolo di santuario della natura selvaggia. Puoi raccogliere fino a ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ animali e piazzarli su questo pianeta perché vivano al sicuro.
+0x00000010 Grazie agli avanzamenti tecnologici nel campo della clonazione e nei trasferimenti urgenti di coscienza, non sei morto. Sei stato invece riportato sul tuo pianeta d'origine, dove il tuo impero sta costruendo per te una nuova astronave, ~ufo_name~.
+0x063BB6F6 Congratulazioni, hai ottenuto il titolo esclusivo di Essere Supremo!
+0x063BB6DA Congratulazioni, hai ottenuto il titolo di Ammiraglio!
+0x063BB6E3 Congratulazioni, sei stato promosso al titolo di Rinomato!
+0x063BB6DF Congratulazioni, hai ottenuto il titolo di Famoso! Con questa promozione potrai guidare una flotta alleata più grande.
+0x063BB6F2 Congratulazioni, ti è stato conferito il titolo di Potentissimo!
+0x063BB6EE Congratulazioni, hai ottenuto il titolo di Leggendario!
+0x063BB6E8 Congratulazioni, hai ottenuto il titolo di Grande! Con questa promozione potrai guidare una flotta alleata più grande!
+0x0000002F Questo territorio è controllato dalla razza nativa di questa stella. Questi esseri considerano la tua presenza nel loro territorio come un atto di aggressione.
+0x064E8373 Ti abbiamo costruito una nuova astronave, non distruggerla stavolta!
+0x00000014 Potrebbe trattarsi di una colonia di Grox? Sono famosi per il loro sangue freddo in tutta la galassia. Fai attenzione!
+0x00000030 Questo è territorio nemico. Questa razza continuerà ad attaccarti finché rimarrai nel loro territorio. Devi decidere. Scappare, combattere o fare pace. Cosa sceglierai?
+0x063BB6FA Congratulazioni! Hai raggiunto il più alto livello di riconoscimento. Hai ottenuto il titolo di Onnipotente! Ottimo lavoro!
+0x0000002C La tua astronave, ~ufo_name~, è stata distrutta.~br~Grazie ai progressi nel campo della clonazione, non sei morto. Sei stato riportato sul tuo pianeta d'origine, con una nuova astronave pronta per te.
+0x064BD3E4 Nessun oggetto rilevato sul pianeta. C'è qualcosa che non va qui....
+0x063BB6D0 Congratulazioni, ti è stato conferito il titolo di Comandante!
+0x00000007 L'equazione di Drake era esatta... una razza aliena vivente! Non siamo soli! Sembra che abbiano inviato un emissario a incontrarti. Forse dovresti parlare con loro: apri il tuo pannello Comunicazioni.
+0x05FA8A4E Si possono fondare colonie su qualsiasi pianeta, dalle lune desolate alle fiorenti oasi di livello PuntiTerra 3. Le colonie fruttuose estraggono preziosa spezia che può essere venduta.
+0x05FA8A4F Congratulazioni! Il tuo impero è cresciuto.~br~La produttività di ogni colonia dipende dalle sue dimensioni. Queste sono limitate dal livello PuntiTerra del pianeta. Investi in terraformazione, poi aggiungi colonie ed edifici per trarne profitto.
+0x0000000F L'astronave ~ufo_name~ è stata danneggiata sino a essere distrutta.
+0x00000001 Decolla! Sei riuscito a sviluppare una nave in grado di affrontare lo spazio!~br~I cieli ti chiamano, il cosmo attende, l'universo è ora a portata di mano… A patto che tu impari a pilotare questa cosa...
+0x060C72DC Hai estratto della spezia! La spezia è un'importante risorsa. Prelevala dalle colonie e dal pianeta principale ogni volta che li visiti.
+0x0000002B Hai scoperto un pianeta brullo. I pianeti brulli possono sostenere colonie di dimensioni limitate. Alternativamente, puoi aumentare i PuntiTerra (punteggio T) e creare qui un fiorente porto spaziale per il tuo impero.
+0x0601FE99 Dopo la distruzione dell'astronave ~ufo_name~ i tuoi alleati sono tornati nei loro sistemi, dove puoi prelevare una nuova astronave. Per ricostruire la flotta, visita i tuoi alleati e richiedi nuovamente i loro servizi.
+0x00000029 Hai scoperto un pianeta selvaggio, hai a disposizione una gran quantità di creature e piante da utilizzare per portare la vita su altri pianeti.~p~I pianeti selvaggi inoltre hanno abbondanza di Spezia, e possono fornire supporto alle colonie.
+0x05B1CB68 È stata rilevata una sequenza anomala nella scansione di questo pianeta. Avvicinati ed esplora!
+0x0000002E Sei entrato nel territorio di ~race~. Le vostre relazioni sono poco buone, quindi considereranno questa come un'azione ostile e ti attaccheranno.
+
+# Uplift Game
+
+0x00000022 Il monolito farà evolvere questo pianeta... Torna più tardi per vedere cosa è successo!
+
+#System Capture
+
+0x06610F0E Congratulazioni! Con l'impiego della diplomazia sei riuscito a negoziare un buon accordo e hai acquistato il loro sistema.
+0x06610F0C Congratulazioni! Hai costretto i nemici alla resa con la forza militare e hai catturato il loro sistema.
+0x06610F0B Congratulazioni! Hai costretto i nemici alla resa con la forza militare e hai catturato il loro sistema.
+0x06610F0D Congratulazioni! Con l'impiego della diplomazia sei riuscito a negoziare un buon accordo e hai acquistato il loro sistema.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Hai ricevuto il Bastone della Vita.
+
+# Rares
+
+0x0000000C Il radar della nave ha individuato un oggetto interessante su questo pianeta!
+0x0643D130 Uno strumento di modellazione planetaria! Con questo puoi creare mondi speciali.
+0x0000000D La galassia è piena di oggetti rari, statue e fossili. Uno di questi pezzi da collezione unici è proprio qui! Impadronisciti dell'oggetto e rivendilo per una grande quantità di Sporecrediti, oppure prova a collezionare interi corredi per aspirare a guadagni ancora maggiori.
+0x0000001E Il radar della nave ha rilevato un segnale particolare, diverso da qualunque altro segnale mai rilevato prima.
+

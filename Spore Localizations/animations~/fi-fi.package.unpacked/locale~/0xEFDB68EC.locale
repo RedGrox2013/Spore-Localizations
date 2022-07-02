@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Nämä otukset pysyvät paikoillaan.
+0x079817B5 Nämä otukset liikkuvat satunnaisesti aloituskohdan ympäristössä.
+0x079817BA Nämä otukset liikkuvat edestakaisin kahden pisteen välillä.
+0x079817BE Nämä otukset seuraavat määrättyä hahmoa.
+0x079EDF5C Nämä kulkuneuvot liikkuvat edestakaisin kahden pisteen välillä.
+0x079EDF5D Nämä kulkuneuvot seuraavat määrättyä hahmoa.
+0x079EDF5A Nämä kulkuneuvot pysyvät paikoillaan.
+0x079EDF5B Nämä kulkuneuvot liikkuvat satunnaisesti aloituskohdan ympäristössä.
+
+# Planet Paint
+
+0xB6AFCFC0 Maastotyyppi
+0xB6AFCFC1 Kukat
+0xB6AFCFC2 Pilven tyyli
+
+#Goals:
+
+0x0798178C Varmista, että ~ep1_current_cast~ eristetään. Kosketus muihin hahmoihin on estettävä.
+0x07981798 Turvaa ~ep1_current_cast~ tuholta.
+0x07981773 Seurustelun kohteena ~ep1_current_cast~.
+0x0798176F Tuhoa ~ep1_current_cast~.
+0x07981764 Siirry lähelle kohdetta ~ep1_current_cast~.
+0x0798177B Puhekumppanina ~ep1_current_cast~.
+0x07981789 Vie ~ep1_current_cast~ toiselle hahmolle.
+0x07981782 Anna ~ep1_current_cast~ toiselle hahmolle.
+0x07981785 Kerää ~ep1_current_cast~.
+0x0798177E Pidä hallussasi ~ep1_current_cast~.
+0x07981777 Solmi liitto ja liitä ~ep1_current_cast~ miehistöösi.
+
+# Cloud Names
+
+0x56AFCF73 Verkkomainen
+0x56AFCF74 Itiöpilvi
+0x56AFCF75 Pallopilvi
+0x56AFCF72 Omituinen
+0x56AFCF70 Oletus
+0x56AFCF71 Hattara
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E91 kulkuneuvoa
+0x07981E93 esinettä
+0x07981E92 rakennusta
+0x07981E90 otusta
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Napsauta otusta, rakennusta tai kulkuneuvoa, niin voit poistaa sen lopullisesti pelistäsi.~br~Jos haluat poistaa seikkailun lopullisesti pelistäsi, poistu seikkailusta ja avaa Spore-keskus (paina B-näppäintä). Valitse poistettava seikkailu Spore-keskuksesta ja napsauta ruudun oikeassa alakulmassa olevaa estopainiketta. Toiminto poistaa seikkailun, mutta ei siihen kuuluvia luomuksia. Ne on poistettava yksitellen.~br~Ilmoitus poistetusta luomuksesta lähetetään SPORE™-pelin asiakaspalveluun.
+
+#Awareness:  
+
+0x079EDF5E Määrittää, kuinka kauas kulkuneuvot havainnoivat.
+0x07981DE3 Määrittää, kuinka kauas otukset näkevät.
+
+#Stances:
+
+0x079817A9 Nämä otukset tyytyvät puolustamaan itseään, jos niiden kimppuun hyökätään.
+0x079817AD Nämä otukset pakenevat, jos niiden kimppuun hyökätään.
+0x079817A1 Nämä otukset varoittavat ennen hyökkäystä.
+0x079817A5 Nämä otukset eivät harhaudu niille määritetystä toimintatavasta.
+0x0798179D Nämä otukset hyökkäävät vihollisyksiköiden kimppuun heti niitä nähdessään.
+0x079EDF58 Nämä kulkuneuvot tyytyvät puolustamaan itseään, jos niiden kimppuun hyökätään.
+0x079EDF57 Nämä kulkuneuvot eivät harhaudu niille määritetystä toimintatavasta.
+0x079EDF59 Nämä kulkuneuvot pakenevat, jos niiden kimppuun hyökätään.
+0x079EDF55 Nämä kulkuneuvot hyökkäävät vihollisyksiköiden kimppuun heti niitä nähdessään.
+0x079EDF56 Nämä kulkuneuvot varoittavat ennen hyökkäystä.
+
+#Pickup:
+
+0x079817C5 Nämä otukset nostavat määritetyn työkalun mukaansa.
+0x079817C2 Nämä otukset nostavat minkä tahansa työkalun mukaansa.
+
+# Grass Effect Names
+
+0x56AFCE7B Kivenlohkareita
+0x56AFCE7A Jäälohkareita
+0x56AFCE7C Laavalohkareita
+0x56AFCE7D Sieniä
+0x56AFCE71 Savinen
+0x56AFCE72 Konglomeraatti
+0x56AFCE73 Koralli
+0x56AFCE70 Kuiva ruoho
+0x56AFCE60 Ei mitään
+0x56AFCE79 Vehreä
+0x56AFCE75 Graniitti
+0x56AFCE76 Luonnontilainen
+0x56AFCE78 Hiekkakivi
+0x56AFCE74 Kristalli
+0x56AFCE77 Piikikäs
+
+# posse ui
+
+0x0760B242 Miehistö
+
+#mission ending description#
+
+0x0760B241 Lopetus
+
+0x0760B0F8 Näytöksen ~ep1_current_act~ kuvaus ja musiikki
+0x075E4C78 Vedä tavoite otuksen kohdalle
+0x075E4C79 Määritä tavoitelaji
+0x0760B0F9 Esittelyteksti:
+0x0760B0FA Onnistumisilmoitus:
+0x0760B0FB Häviöilmoitus:
+
+#Teams:
+
+0x079EDF5F Nämä kulkuneuvot eivät koskaan hyökkää ryhmänsä muiden hahmojen kimppuun.
+0x07981E71 Nämä otukset eivät koskaan hyökkää ryhmänsä muiden hahmojen kimppuun.
+0x07981E72 Vihollisryhmien hahmot hyökkäävät näiden rakennusten kimppuun.
+
+#introduction of the mission#
+
+0x0760B240 Esittely
+
+# Deep Edit
+
+0x96A94D76 Näytös ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Seikkailussa on näytös, jossa ei ole lainkaan tavoitteita. Jotta pelaajat voisivat suorittaa seikkailun, näytöksessä tulee olla tavoite. Poikkeuksen muodostaa seikkailun viimeinen näytös. Haluatko silti tallentaa?
+
+#Give:
+
+0x079817CE Nämä otukset antavat työkalun määritetylle hahmolle.
+0x079817C9 Nämä otukset antavat työkalun mille tahansa hahmolle.
+

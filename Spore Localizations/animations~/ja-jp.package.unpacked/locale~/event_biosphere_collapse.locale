@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000011 森林破壊により、植物系の種が絶滅してしまいました。
+0x00000090 感染している ~mission_target_animal_species~ を群れから排除してください。
+0x00000002 通信終了
+0x0000000B 大変です！　健康的な動物を犠牲にしすぎました。
+0x00000009 生態系の崩壊を阻止しました。
+0x00000004 ~mission_target_planet~の生態系の大惨事を阻止しましょう！
+0x00000007 ~mission_target_planet~の生物群系の危機は去りました。
+0x00000014 ~mission_target_planet~の生態系が崩壊しました。
+0x00000013 ~mission_target_planet~の生態系が崩壊しました。
+0x00000091 ~mission_target_planet~は救われました！
+0x00000019 ~mission_target_planet~の生物圏が崩壊：Tスコア減少のため、生態系に植物と動物を追加してください！
+0x00000018 ~mission_target_planet~に動物や植物を追加し、生態系の崩壊を防いでください。
+0x0000000A 対象となっている動物だけを排除してください。
+0x00000017 ~mission_target_planet~の生態系が崩壊間近です。対象の動物を素早く排除してください。急いで！
+0x00000015 対象となっている動物を排除してください。迅速に！
+0x00000020 ~player_creature_name~に告ぐ！~p~~mission_target_planet~に~race~が容認できない脆弱性が発見された。脆弱なる~mission_target_animal_species~を直ちに一掃せよ。~p~~race~、通信終了。
+0x00000021 ~player_creature_name~ ニ 告グ！~p~直チニ ~mission_target_planet~ ニ 向カイ、ヨワキ ~mission_target_animal_species~ ヲ 根絶 セヨ。~p~以上。
+0x0000000F ~mission_target_animal_species~は絶滅しました。
+0x00000006 ~mission_target_planet~上の生態系が大いなる危険にさらされています！　野生の~mission_target_animal_species~の群れの一部にウィルスが広まりつつあるのです。~p~感染した個体を直ちに群れから排除してください。そうしなければウィルスが広がってしまい、種そのものが絶滅しかねません。そうなってしまっては、生態系そのものが連鎖反応的に崩壊してしまう可能性もあります。
+0x00000012 ~mission_target_planet~で生態系が崩壊し、ある植物種が絶滅してしまいました。
+0x0000000E その動物は感染しています。船内に入れられません！
+0x00000005 生態系がバランスのとれた状態に戻りました。
+0x00000008 ~mission_target_animal_species~を~mission_num_creatures~匹中~mission_num_eradicated_creatures~匹排除しました。
+0x00000010 ~mission_target_planet~で生態系が崩壊し、~mission_target_animal_species~は絶滅してしまいました。
+0x0000000D 感染した群れの個体は~ufo_name~には乗せられません。
+0x0000001F 優しき~player_title~：~player_creature_name~よ。~p~調和の法が説くように、生命の輪には独自の調律がある。あいにく、~mission_target_planet~ではその音が外れてしまったようじゃ！~p~野生の~mission_target_animal_species~の群れの一部にウィルスが広まりつつある。~p~即刻苦しみから解き放ってやる必要がある。これ以上長く苦しませてしまえば感染がさらに広がり、種全体が絶滅しかねん。そしていずれ、生態系全体の崩壊へと繋がってしまうかもしれん。~p~速やかにこちらに向かってもらいたい。
+0x00000001 艦長に緊急連絡！~p~~mission_target_planet~上の生態系が大いなる危険にさらされてる！　野生の~mission_target_animal_species~の群れの一部にウィルスが広まりつつあるんだ。~p~感染した個体を直ちに群れから排除して。そうじゃないとウィルスが広がって、種そのものが絶滅しかねない。そうなったら、生態系そのものが連鎖反応的に崩壊しないとも限らない。~p~急いで！　こちら~mission_target_planet~、通信終わり！
+0x0000000C 警告！　~mission_num_healthy_creatures_left~匹以上の~mission_target_animal_species~を排除してしまうと、彼らは絶滅します！
+0x0000001A ~player_title~：~player_creature_name~！　早急に汝の助力が必要なのだ。~p~~mission_target_planet~上のスポードの信徒たちが大いなる危険にさらされておる！　野生の~mission_target_animal_species~の群れにウィルス感染が広まっているようだ。~p~感染した個体を直ちに群れから排除して貰いたい。さもなくばウィルスが広がり、種そのものが絶滅する。そしてそれは、惑星自体にとっても破滅の序曲となるだろう。~p~至急こちらへ来て貰いたい！
+0x0000001B 評議会の下命により、救難信号の送信を開始します。~player_title~：~player_creature_name~の助力を要請します。~p~~mission_target_planet~上の生態系が大いなる危機に瀕しています。野生の~mission_target_animal_species~の群れの一部にウィルスが広まりつつあるのです。~p~感染した個体を直ちに群れから排除してください。そうしなければウィルスが広がってしまい、種そのものが絶滅しかねません。そうなってしまっては、生態系そのものが連鎖反応的に崩壊しないとも限らないのです。~p~これにより生じている混乱の度合いはご想像にかたくないでしょう。私たちの信念である秩序に反することなのです。同盟締結書第48文書、第68項により、そちらによる介入行動を要請します。~p~迅速なご到着を期待しています。
+0x0000001C ~player_title~：~player_creature_name~。~p~私たちの星の野生動物に関する最近の実地調査で、恐るべき事実が判明しました。~mission_target_planet~の生態系が大いなる脅威にさらされているのです。野生の~mission_target_animal_species~の群れにウィルスが広まりつつあるのです。~p~感染した個体を直ちに群れから排除してください。さもなくばウィルスが広がってしまい、種そのものが絶滅しかねません。そうなってしまっては、生態系そのものが連鎖反応的に崩壊しないとも限らないのです。~p~即座に援助を要請します。最も効率的な飛行計画で移動を開始してください。
+0x00000003 優しき~player_title~：~player_creature_name~！~p~ボクたちは命のサイクルを本来のコースで続けようとしてるんだけど、悲惨なサイクルが介入を必要としてるんだよね。ボクたちの~mission_target_planet~の生態系が危険にさらされてるんだ！　野生の~mission_target_animal_species~の群れでウイルスが広まってる。~p~大至急、感染している動物を群れから排除してほしいんだよね。さもなければ、ウイルスがこのまま広がり続けて、種族全体に危険を及ぼすことに…　そしてそれが、生物すべての崩壊の始まりとなるかもしれない。~p~急いで！
+0x0000001E ~player_title~：~player_creature_name~！　助けてください！~p~~mission_target_planet~上の生態系が大いなる危険にさらされてます！　野生の~mission_target_animal_species~の群れの一部にウィルスが広まりつつあるのです。~p~感染した個体を直ちに群れから排除してください。さもないとウィルスが広がってしまい、種そのものが絶滅してしまうかもしれません。そうなったら生態系そのものが連鎖反応で崩壊するかもしれないのです。~p~急いでください！
+0x0000001D ぴっぴらぽ、ぴー！　目前に迫った生態系の一大大惨事ほど、素敵な一日を台無しにしてくれるものはないね！~p~~player_title~：~player_creature_name~、とにかくすぐ来て何とかしてくれないかい？　いかれた~mission_target_animal_species~の群れが勝手に大変なことになってるんだ。飼い慣らされているものはまだ愛くるしくて健康的なんだけど。~p~感染した個体をすぐに群れから排除しないと、ウィルスが広がって種そのものが絶滅しかねないのさ。そうなったら生態系そのものが連鎖反応的に崩壊してしまうかも。~p~急いで、急いで！　早く、早く！
+

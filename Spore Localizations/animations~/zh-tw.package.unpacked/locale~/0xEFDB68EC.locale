@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C 載具在兩點間來回移動。
+0x079EDF5D 載具將跟隨另一位指定的演員移動。
+0x079EDF5B 載具在他們的起始地點隨機移動。
+0x079EDF5A 載具站在原地不動。
+0x079817B5 生物在他們的起始地點隨機移動。
+0x079817B1 生物站在原地不動。
+0x079817BA 生物在兩點間來回移動。
+0x079817BE 生物將跟隨另一位指定的演員移動。
+
+# Planet Paint
+
+0xB6AFCFC2 雲朵樣式
+0xB6AFCFC1 花朵
+0xB6AFCFC0 地面披覆
+
+#Goals:
+
+0x0798177E 持有~ep1_current_cast~。
+0x07981782 把~ep1_current_cast~給予其他演員。
+0x0798178C 阻止~ep1_current_cast~去和其他演員接觸。
+0x0798177B 跟~ep1_current_cast~交談。
+0x07981764 移動到~ep1_current_cast~旁。
+0x07981798 阻止~ep1_current_cast~被摧毀。
+0x0798176F 摧毀~ep1_current_cast~。
+0x07981785 蒐集~ep1_current_cast~。
+0x07981789 帶~ep1_current_cast~給其他演員。
+0x07981773 和~ep1_current_cast~進行社交。
+0x07981777 與這些 ~ep1_current_cast~ 結盟，使之成為你的隊員。
+
+# Cloud Names
+
+0x56AFCF75 海綿
+0x56AFCF74 花粉
+0x56AFCF71 蜷曲
+0x56AFCF72 異質
+0x56AFCF73 網狀
+0x56AFCF70 預設
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 建築物
+0x07981E91 載具
+0x07981E90 生物
+0x07981E93 物件
+
+# new ban content string (todo: move?)
+
+0x07D8AABB 點擊一個生物、建築物或載具，將它永久從你的遊戲中移除。~br~要從你的遊戲中永久移除一項冒險，退出冒險並開啟Spore百科（按下「B」鍵）。在Spore百科中，找到你要移除的冒險，選擇之，然後點擊右下角的「禁止創造物」按鈕。此舉將移除冒險，但不會移除冒險中包含的創造物 - 你必須逐一移除那些創造物。~br~有關創造物的報告，會提交給「Spore客服」單位。
+
+#Awareness:  
+
+0x07981DE3 決定生物可視距離。
+0x079EDF5E 決定載具可視距離。
+
+#Stances:
+
+0x0798179D 生物攻擊視線內的敵人單位。
+0x079EDF59 載具遭受攻擊後逃跑。
+0x079EDF55 載具攻擊視線內的敵人單位。
+0x079EDF56 載具在攻擊前先行警告。
+0x079EDF57 載具不對其他的舉動而抓狂。
+0x079817A1 生物在攻擊前先行警告。
+0x079817A5 生物不對其他的舉動而抓狂。
+0x079817AD 生物遭受攻擊後逃跑。
+0x079817A9 生物僅對攻擊他們的目標守護。
+0x079EDF58 載具僅對攻擊他們的目標守護。
+
+#Pickup:
+
+0x079817C5 生物撿起指定的工具。
+0x079817C2 生物撿起碰到的工具。
+
+# Grass Effect Names
+
+0x56AFCE76 有機體
+0x56AFCE75 花崗石
+0x56AFCE74 水晶
+0x56AFCE77 尖刺
+0x56AFCE7A 冰岩
+0x56AFCE78 沙岩
+0x56AFCE73 珊瑚
+0x56AFCE7B 一般岩石
+0x56AFCE7C 熔岩
+0x56AFCE7D 菇類
+0x56AFCE60 無
+0x56AFCE72 礫岩
+0x56AFCE71 黏土
+0x56AFCE70 亞利桑納
+0x56AFCE79 坑洞
+
+# posse ui
+
+0x0760B242 隊員
+
+#mission ending description#
+
+0x0760B241 尾聲
+
+0x0760B0FA 成功文字
+0x0760B0FB 失敗文字
+0x0760B0F9 序幕：
+0x075E4C79 設定目標類型
+0x0760B0F8 劇幕~ep1_current_act~的描述和音樂
+0x075E4C78 拖曳目標到卡司成員上
+
+#Teams:
+
+0x07981E72 建築物攻擊敵對隊伍演員。
+0x07981E71 生物不去攻擊他們團隊內的演員。
+0x079EDF5F 載具不去攻擊他們團隊內的演員。
+
+#introduction of the mission#
+
+0x0760B240 序幕
+
+# Deep Edit
+
+0x96A94D76 第 ~ep1_current_act~ 幕
+
+# Validations
+
+0x07AB8AEE 這個冒險中有一個戲幕沒有目標。除非該戲幕有一個目標，或是為冒險中的最後一個戲幕，否則玩家將無法在冒險中獲勝。你仍要儲存嗎？
+
+#Give:
+
+0x079817CE 生物給予指定演員一個工具。
+0x079817C9 生物給予任何演員一個工具。
+

@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7A8 Bewust
+0x03EBF7A9 Herbivoor
+0x03EBF7AA Carnivoor
+0x03EBF7AB Omnivoor
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 Bondgenoten
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF07F Kijk maar eens wat voor kwaliteitsartikelen we hebben.
+0x043AF080 We willen graag wat gele hebben.
+0x043AF03A Rode specerijen
+0x043AF038 Kijk maar eens wat voor kwaliteitsartikelen we hebben.
+0x043AF039 Tjonge, we hebben echt zin in wat rode specerijen.
+0x043AF084 Groene specerijen
+0x043AF085 Onze roze oogst was dit jaar erg goed. Deze deal wil je niet aan je voorbij laten gaan!
+0x043AF083 Onze leider wilde weten of je ook groene hebt…
+0x043AF081 Gele specerijen
+0x043AF082 We hebben je vracht gescand. Zie je iets van je gading?
+0x043AEF67 Heb je paars?
+0x043AEF68 Paarse specerijen
+0x043AEF66 We hebben nu paars in de aanbieding.
+0x043AF086 Roze maakt ons sterk. Roze maakt ons blij. Jammer dat we die niet hebben.
+0x043AF42C Blauwe specerijen
+0x043AF087 Roze specerijen.
+0x043AF42A We vroegen ons af of je ook blauwe specerijen hebt.
+0x043AF42B Kijk maar eens wat voor kwaliteitsartikelen we hebben. We komen er vast wel uit.
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF504 asteroïdegordel
+0x043AF505 en
+0x043AF4FA hier
+0x043AF4FB de ster met de naam ~star_name~
+0x043AF4FF de protoplanetaire ster met de naam ~star_name~
+0x043AF500 de galactische kern
+0x043AF501 gasreus
+0x043AF4FC het wormgat met de naam ~star_name~
+0x043AF4FD de grote ster met de naam ~star_name~
+0x043AF4FE de rode ster met de naam ~star_name~
+
+#random string for spg
+
+0x068B22CD Niet bruikbaar in dit stelsel
+
+#######################################
+# Filters
+
+0x031791AF Mijn rijk
+0x031791B2 Rijken
+0x031791B3 Missies
+0x031791B4 Reisroute
+0x0563D2AA Bezocht
+0x0563D2AB Vrienden en vijanden
+
+#######################################
+# Plant types
+
+0x03EBF7AC Kleine plant
+0x03EBF7AD Middelgrote plant
+0x03EBF7AE Grote plant
+
+#######################################
+# Tech Levels
+
+0x03EAC03A Wild
+0x03EAC03E Ruimte
+0x03EAC03B Stam
+0x03EAC03C Stad
+0x03EAC03D Beschaving
+0x03EAC039 Dor
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x0539AA97 Ruimte voor herbivoor
+0x0539AA96 Ruimte voor grote plant
+0x0539AA98 Ruimte voor carnivoor/omnivoor
+0x0539AA95 Ruimte voor middelgrote plant
+0x0539AA94 Ruimte voor kleine plant
+0x0473CB22 Carnivoren
+0x0473CB26 Dichte atmosfeer
+0x0473CB2A Geen atmosfeer
+0x0473CB1A Planten
+0x0473CB1F Herbivoren
+0x0473CB2E Lage temperatuur
+0x0473CB32 Hoge temperatuur
+0x061DFE83 Vorige rij aanvullen om vrij te spelen
+0x03E81C65 ????????
+0x0539AAE8 Planten aanvullen om vrij te spelen
+
+#player titles
+
+0x05AC5B73 Het Hoogste Wezen
+0x05AC5B01 Kapitein
+0x05AC5B64 De Grote
+0x05AC5B2E Admiraal
+0x05AC5B58 De Gevierde
+0x05AC5B5F De Vermaarde
+0x05AC5B20 Commandeur
+0x05AC5B1B Bevelhebber
+0x05AC5B68 De Legendarische
+0x05AC5B6F De Oppermachtige
+0x05AC5B78 De Almachtige
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF3 Verkennen
+0x05879DF4 Wapentuig
+0x05879DF8 Diplomatie
+0x05879DF7 Koloniseren
+0x05879DFA Speciaal
+0x05879DF9 Verering
+0x05879DF5 Terravorming
+0x05879DF6 Creëren
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 Wil je deze vracht voorgoed vernietigen?
+0x03E81C55 Vracht dumpen
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 Scepter
+0x04000006 Bord
+0x04000000 Gouden afgodsbeeld
+0x04000001 Kist
+0x04000005 Lama
+0x04000010 Bezorgkosten
+0x04000009 Trofee
+0x04000004 Graal
+0x04000008 Sneeuwbol
+0x04000003 Kabouter
+0x04000002 Kroon
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6B Hologram ophalen
+0x03E81C6A Terravorming
+0x03E81C6C Hologramverkenner
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A Afstand: ~travel_distance~ (parsecs)
+
+0x065672CB Kan worden gekocht. Zoek een rijk dat dit verkoopt.
+0x0657C8D4 Je moet de planeet verlaten om op te slaan.
+0x0657CC21 ~badge_points~ badgepunten
+0x065B76EF ~p~Speelt het volgende vrij:
+0x0580E601 Je eigen rijk
+
+#######################################
+# Misc Rollovers
+
+0x0654CB0A Voortgang handelsroute
+0x0654CB16 ~planet_name~ heeft zich niet overgegeven
+0x0654CB13 ~planet_name~ heeft zich overgegeven
+0x0654CB0F Voortgang verovering
+0x06749C10 Beveiligingsdar
+0x0678CDDF Piraat
+
+#tool given
+
+0x06538847 Verzameld: ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+#######################################
+# Progress bar rollover
+
+0x0435ECE0 Badges: ~badge_count~
+0x0436D447 Badgepunten: ~badge_points~
+0x0435ECEB Missies: ~mission_count~
+0x0435ECE5 Kolonies: ~colony_count~
+0x0435ECE8 Kameraden: stam: ~tribe_worshipper_count~, beschaving: ~civ_worshipper_count~, ruimte: ~ally_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x063C3D96 Niet opgeëist
+0x06748F94 Opgeëist
+0x03F5A128 Komeet
+
+#######################################
+# Comm/Trade fail text
+
+0x06790598 Niet open voor handel.
+0x0679ED24 Te weinig kapitaal.
+0x0679F573 Kan niet repareren tijdens een oorlog.
+0x06790599 Relatie verbeteren om te handelen.
+0x0679F574 Kan niet opladen tijdens een oorlog.
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9958 ~commodity_tool_req~ of ~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~ en ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~ en ~commodity_tool_and_req~ of ~commodity_tool_or_req~
+0x065B8F3D de badges ~commodity_badge_req~ en ~commodity_badge_and_req~
+0x065B8F44 de badges ~commodity_badge_req~ en ~commodity_badge_and_req~ of ~commodity_badge_or_req~
+0x065B9969 ~commodity_badge_reqs~ en ~commodity_tool_reqs~
+0x065BD251 de badge ~commodity_badge_req~
+0x065B8F36 de badge ~commodity_badge_req~ of ~commodity_badge_or_req~
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (gratis)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F Ruimteschip bewerken
+0x043DB6B9 Kolonie verkopen (~cost~)
+0x043DB6B5 Gebouw repareren (~cost~)
+0x043DB6B7 Ruimteschip repareren (~cost~)
+0x043DB6B8 Gebouwen kopen
+0x04C82968 Burgers accessoires geven
+0x043DB6B2 Geschutkoepel repareren (~cost~)
+0x043DB6B3 Verwoesten
+0x043DB6B4 Gebouw verkopen (~cost~)
+0x043DB6B1 Geschutkoepel verkopen (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x04729A65 Niet gescand
+0x03EAFDD3 van ~item_planet_name~
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 Geen interesse.
+0x0679EAC6 Je vrachtruimte is vol.
+
+#######################################
+# Tool Fail Text
+
+0x0653E59F Hogere terrascore noodzakelijk.
+0x0653E59E Moet worden gebruikt op wilde planeten.
+0x0653E598 Je hebt geen plaats in je vloot voor nog een schip.
+0x0653E599 Je hebt al een mini-U.
+0x0653E59D Niet bruikbaar voor een wildreservaat.
+0x0653E59A Stelsel moet een handelsroute hebben.
+0x0653E59B Moet op de planeet zijn met het hoogste technologieniveau in het stelsel.
+0x0653E596 Moet worden gebruikt op een rijksplaneet.
+0x0653E594 Geen munitie meer.
+0x0653E593 Moet op planeet zijn.
+0x0671CE05 Er moet een dier aanwezig zijn op de planeet.
+0x0671FB24 Je kunt de monoliet niet op deze planeet gebruiken!
+0x066F7A20 Je zit te hoog.
+0x066F7A21 Sterrenstelsel heeft al een soort met een bewustzijn.
+0x066F7A22 Je kunt geen kolonies meer plaatsen met huidige T-score.
+0x066F7A1E Niet bruikbaar boven een stad.
+0x066F7A1F Niet bruikbaar boven water.
+0x066F7A1A Moet voor een van jouw kolonies worden gebruikt
+0x066F7A1B Je mag er hier per planeet maar één van hebben.
+0x066F7A1D Energie is maximaal.
+0x066F7A1C Gezondheid is maximaal.
+0x0653E59C Niet bruikbaar op zonnestelsels van rijken.
+0x0653E597 Moet worden gebruikt op een kolonie van een buitenaards ras.
+0x0653E595 Aan het opladen.
+0x0653E5A0 Niet bruikbaar op thuiswereld.
+
+# used to name the Galactic Core.
+
+0x0591BD91 Galactische kern
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF52B Badge
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF508 1ste
+0x043AF509 2e
+0x043AF50A 3e
+0x043AF507 0e
+0x043AF50E 7e
+0x043AF50F 8e
+0x043AF510 9e
+0x043AF50B 4e
+0x043AF50C 5e
+0x043AF50D 6e
+0x043AF526 Bezig
+0x043AF527 Voltooid
+0x043AF528 Mislukt
+0x043AF529 Missie
+0x043AF52A Alarm
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EED0 Ruimte voor kolonie
+0x0678EECF Verbeter de terravormingsscore om vrij te spelen
+
+#######################################
+# Roll overs
+
+0x045FFE89 Help
+0x04359B0F Minikaart
+0x04359B05 Terravorming
+0x048662B4 Sterrenkaartfilters
+0x045FFE85 Opties
+0x045FFE8E Pauzeren/Verder spelen
+0x061ECCF0 Ruimteschipvaardigheden
+0x03E81C5F Wapens
+0x03E81C5E Vracht
+0x03E81C60 Hoofdgereedschap
+0x03E81C62 Ruimteschip bewerken
+0x03E81C61 Sporepedia in- of uitschakelen
+0x03E81C5C Terravormingsgereedschap
+0x03E81C5B Ruimteschip-opties
+0x03E81C5D Begin een gesprek
+
+#######################################
+# colony object names
+
+0x4A1E2E7B Geluksbooster
+0xB4150FEB Specerijenopslagruimte
+0x44B420E4 Loyaliteitsbooster
+0xF55D419A Biobeschermer
+0x405DC1DF Wildreservaat
+0xE4EC3F34 Verdedigingssatelliet
+0x3AAB4C0E Ambassade
+0xB7D22F27 Biostabilisator
+
+#######################################
+# Our Solar System
+
+0x03F5A0BA Uranus
+0x03F5A0B2 Venus
+0x03F5A0B5 Mars
+0x03F5A0B6 Jupiter
+0x03F5A0B9 Titan
+0x03F5A0B8 Saturnus
+0x03F5A0B7 Ganymedes
+0x03F5A0B1 Mercurius
+0x03F5A0B0 Zon
+0x03F5A0B4 De maan
+0x03F5A0B3 Aarde
+0x03F5A0BE Komeet Shoemaker-Levy 2
+0x03F5A0C0 Komeet Kohoutek
+0x03F5A0BC Komeet Halley
+0x03F5A0BB Neptunus
+0x03F5A0C2 Komeet Borrelly
+0x03F5A0BD Komeet Hale-Bopp
+

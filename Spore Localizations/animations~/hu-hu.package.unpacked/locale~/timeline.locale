@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~ elvesztett egy várost.
+0x35492924 Elveszett város
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ katonai civilizációként végzett.
+0x060B4242 Katonai tulajdonság
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ fejlődött, de elvesztette ~timelineAbilityName~ képességet.
+0x550A15C2 ~timelineAbilityName~ képesség elveszítve.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ év
+0x555450A5 ~timelineAbsoluteYears~ év
+
+#### Time Line Title ####
+
+0x0448655A Törzsed kiépítése
+0x0448655B Globális hódítás
+0x0448655E Az univerzum felfedezése
+0x0448655D Az űrutazás kora
+0x0448655C Világuralom
+0x04486557 Szárazföldi élet evolúciója
+0x04486556 A szárazföld meghódítása
+0x04486555 Az élet keletkezése
+0x04486558 Intelligencia fejlesztése
+0x04486559 A civilizáció hajnala
+0x00000000 Sejtfázis
+0x00000009 Győzz le vagy nyűgözz le 5 rivális törzset!
+0x00000012 Teljesíts küldetéseket, hogy pénzt szerezz
+0x00000008 Törzsi fázis
+0x00000004 Lényfázis
+0x00000010 Űrfázis
+0x0000000C Civilizációs fázis
+0x00000006 Szerezz DNS-t és oldd fel az elemeket!
+0x00000001 Egyél, hogy DNS-t szerezz és növekedj!
+0x00000011 Derítsd fel az égboltot, és találkozz barátokkal és ellenfelekkel!
+0x00000002 Az elemek feloldásához győzd le az ellenfeleket!
+0x0000000F Használd a járműveidet, hogy elfoglalj, megtéríts, vagy kivásárolj rivális városokat!
+0x0000000A Halássz, vadássz vagy gyűjtögess, hogy pénzt keress!
+0x00000013 Kolonizálj és terraformálj bolygókat!
+0x00000007 Pározz, hogy fejlődj!
+0x0000000E Bányássz fűszert a gejzírből, hogy pénzt keress!
+0x0000000B Hatékonyságod növeléséhez vásárolj eszközöket!
+0x0000000D Vegyél vagy építs járművet a városházán!
+0x00000005 Harcolj, nyűgözz le, vagy fosztogass!
+0x00000003 Adj hozzá elemekeket a laborban és fejlődj!
+
+# CLG_EatMeat
+
+0x352DBDB9 ~timelineEventCount~ hús került elfogyasztásra
+0x352DBDBA ~timelineMySpeciesName~ megevett egy darab húst.
+0x352DBDBB ~timelineMySpeciesName~ megevett ~timelineEventCount~ darab húst.
+0x75580858 Sejted megevett egy húsdarabot.
+0x75580859 Sejted megevett ~timelineEventCount~ húscafatot.
+
+# TRG_KilledEpic
+
+0x060B422F Megölte a Gigászt
+0x05FA01B1 ~timelineMyTribeName~ megölte a legendást ~timelineTargetOTDBName~ Gigászt.
+
+# SPG_ColonyOnPlanet
+
+0x060B424D Kolónia a bolygón
+0x05FA01CB ~timelineMyEmpireName~ elkezdte kolonizálni a ~timelinePlanetName~ bolygót.
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ ~timelineTargetOTDBName~ szövetségese lett.
+0x060B4221 Szövetséges
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ vásárolt a ~timelineTargetEmpireName~ birodalomtól.
+0x06300C33 Csillag vásárlása
+
+# CLG_Death
+
+0x060B4214 Halál
+0x14F7E775 ~timelineMySpeciesName~ meghalt ~timelineEventCount~ alkalommal.
+0x05FA0196 ~timelineMySpeciesName~ meghalt.
+0x75580854 Sejted elpusztult.
+0x75580855 Sejted ~timelineEventCount~ alkalommal pusztult el.
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Gazdasági zsákmány
+0x06031AAB ~timelineMyCivName~ elfoglalta ~timelineTargetCivName~ egyik városát gazdasági módszerekkel.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Bolygó elpusztítva
+0xB54938AD ~timelineMyEmpireName~ elpusztította a ~timelinePlanetName~ bolygót.
+
+# SPG_EndedWar
+
+0x35493814 Háború befejezve
+0x35493815 ~timelineMyEmpireName~ befejezte a háborút ~timelineTargetEmpireName~ népével.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x05FA0198 ~timelineMySpeciesName~ húsevő lénnyé fejlődött. A Lényfázisban csak húst ehet.
+0x060B4216 Hús tulajdonság
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Vallási tengeri
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ új járművet tervezett ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA842 Animációs eltérés számítása
+0x064AA841 Evolúciós vektorok rekombinálása
+0x064AA83E Burkoló felhámrétegek
+0x064AA844 Hálós gerinc
+0x064AA838 Rekombinációs vektorok fejlesztése
+0x064AA83B Sejtkönyvtár differenciálása
+0x064AA839 Metaphyta szétosztása
+0x064AA83A Kórokozó sejtek fertőtlenítése
+0x064AA840 Idegi alrendszerek szövögetése
+0x064AA843 Élelmiszerháló feltérképezése
+0x064AA83C Adat archetípusok véletlenszerűsítése
+0x064AA83D Emésztőszervrendszer kiválasztása
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Katonai földi
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01B3 ~timelineMyTribeName~ vallásos várossá fejlődött.
+0x060B4231 Társas tulajdonság
+
+# TRG_KilledTribemember
+
+0xB5303DE5 Törzstagot megölt
+0xB5303DE7 ~timelineMyTribeName~ ~timelineEventCount~ törzstagot ölt meg.
+0xB5303DE6 ~timelineMyTribeName~ megölte a ~timelineTargetTribeName~ egy tagját.
+
+# CVG_GameStart
+
+0x060B4238 Belépés a civilizációba
+0x05FA01BA ~timelineMyCivName~ várossá alakult!
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 A háború véget ért.
+0x9552AA74 ~timelineMyCivName~ már nem áll háborúban ~timelineTargetCivName~ népével.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ háborúban áll ~timelineTargetCivName~ népével.
+0x35492926 Háború indult
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~ tojás összegyűjtve.
+0x555BD5C1 ~timelineSummedCount~ tojás összegyűjtve.
+0x555BD5C0 ~timelineSummedCount~ tojás összegyűjtve.
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Jármű megépítve
+0x35523EC1 Katonai tengeri jármű épült.
+0x35523EC2 ~timelineEventCount~ katonai tengeri jármű épült.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Jármű megépítve
+0xB5523D44 Gazdasági légijármű épült.
+0xB5523D45 ~timelineEventCount~ gazdasági légijármű épült.
+
+# CVG_EditedVehicle
+
+0x060B423A Jármű létrehozva
+0x05FA01BC ~timelineMyCivName~ tervezett egy ~timelineTargetOTDBName~ nevű járművet.
+
+# CVG_EditedBuilding
+
+0x060B4239 Épület létrehozva
+0x05FA01BB ~timelineMyCivName~ tervezett egy ~timelineTargetOTDBName~ nevű épületet.
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ vallásos civilizációként végzett.
+0x060B4241 Vallásos tulajdonság
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Társas tulajdonság
+0x05FA01A5 A ~timelineMySpeciesName~ társas fajjá fejlődött.
+
+# CVG_AccessorizedCreature
+
+0x060B423B Új felszerelés
+0x05FA01BD ~timelineMyCivName~ új ruhatárat választott magának.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ elérte a csillagokat.
+0x060B424B Kilépés az űrbe
+
+# CRG_BefriendedSomething
+
+0x060B4227 Megszelídített valamit
+0x54F7EDA3 ~timelineMySpeciesName~ összebarátkozott ~timelineEventCount~ lénnyel.
+0x05FA01A9 ~timelineMySpeciesName~ összebarátkozott egy ~timelineTargetOTDBName~ egyeddel.
+
+# CRG_Migrated
+
+0x060B421F Új fészek
+0x05FA01A1 ~timelineMySpeciesName~ új fészket szerzett.
+
+# CRG_Death
+
+0x060B4225 Halál
+0x14F7EF6F ~timelineMySpeciesName~ meghalt ~timelineEventCount~ alkalommal.
+0x05FA01A7 ~timelineMySpeciesName~ meghalt.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ felfedezte: ~timelinePartName~.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x05FA01B2 ~timelineMyTribeName~ katonai várossá fejlődött.
+0x060B4230 Támadás tulajdonság
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ új épületet tervezett: ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Gazdasági földi
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Jármű elveszítve
+0xD4F81D00 ~timelineEventCount~ tengeri jármű süllyedt el.
+0x05FA01C7 Megsemmisült egy tengeri jármű.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ elpusztította a ~timelinePlanetName~ bolygót.
+0x060B4251 Bolygó elpusztítva
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Új felszerelés
+0xD5147CA7 ~timelineMyEmpireName~ új ruhatárat választott magának.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ felfedezte: ~timelineAbilityName~.
+
+# TRG_BefriendedTribe
+
+0x060B422D Szövetséges törzs
+0x05FA01AF ~timelineMyTribeName~ szövetségre lépett ~timelineTargetTribeName~ népével.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Gazdasági légi
+
+# SPG_ColonyPlaced
+
+0x060B425F Kolónia elhelyezve
+0x05FA01D3 ~timelineMyEmpireName~ gyarmatosította a ~timelinePlanetName~ bolygót.
+
+# TRG_MeatGathered
+
+0x060B4237 ~timelineSummedCount~ hús begyűjtve.
+0x05FA01B9 ~timelineSummedCount~ hús begyűjtve.
+0x94F807CA Begyűjtöttél ~timelineSummedCount~ húst.
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ Bárd lett az űrben!
+0x060B4255 Bárd tulajdonság
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D40 Jármű megépítve
+0xB5523D42 ~timelineEventCount~ katonai légijármű épült.
+0xB5523D41 Katonai légijármű épült.
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC T szint hozzaadása a bolygóhoz
+0x0627E7AD ~timelinePlanetName~ terraformálva.
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Vegyes tulajdonság
+0x05FA01B4 ~timelineMyTribeName~ gazdasági várossá fejlődött.
+
+# CRG_PackMemberAdded
+
+0x060B421D Új falkatag hozzáadva
+0x05FA019F ~timelineTargetOTDBName~ csatlakozott a falkádhoz.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ Tudós lett az űrben!
+0x060B4259 Tudós tulajdonság
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~ új járművet tervezett: ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x060B424E Szövetséges megszerezve
+0x05FA01CC ~timelineMyEmpireName~ és ~timelineTargetEmpireName~ szövetségre lépett.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA3 Megépített járművek
+0x15523CA4 Gazdasági szárazföldi jármű épült.
+0x15523CA5 ~timelineEventCount~ gazdasági szárazföldi jármű épült.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 A ~timelineMySpeciesName~ gyors fajjá fejlődött.
+0x060B4224 Vegyes tulajdonság
+
+# CVG_CapturedCityReligious
+
+0x060B423E Vallási zsákmány
+0x06031AAC ~timelineMyCivName~ elfoglalta ~timelineTargetCivName~ egyik városát vallási módszerekkel.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Támadás tulajdonság
+0x05FA01A4 A ~timelineMySpeciesName~ erős fajjá fejlődött.
+
+# CVG_UsedSuperPower
+
+0x060B4244 Szuperhatalom használata
+0x05FA01C2 ~timelineMyCivName~ használta a ~timelineSuperPowerName~ képességet.
+
+# CVG_EpicKilled
+
+0x3552A304 Gigászt öltél!
+0x3552A305 ~timelineMyCivName~ megölte a legendás ~timelineTargetOTDBName~ Gigászt.
+
+# CRG_KilledSomething
+
+0x060B4226 Megölt valamit
+0xF4F7EE4B ~timelineMySpeciesName~ ~timelineEventCount~ lényt ölt meg
+0x05FA01A8 ~timelineMySpeciesName~ megölt egy ~timelineTargetOTDBName~ egyedet.
+
+# CVG_SpiceNodeCaptured
+
+0x060B4243 Fűszergejzír elfoglalva
+0x15137CD5 ~timelineMyCivName~ elfoglalt ~timelineEventCount~ fűszergejzírt.
+0x05FA01C1 ~timelineMyCivName~ elfoglalt egy fűszergejzírt.
+
+# CVG_LostCityByMilitary
+
+0x35492920 Elveszett város
+0x35492921 ~timelineMyCivName~ elvesztett egy várost.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ megölt egy ~timelineTargetOTDBName~ egyedet.
+0x060B4220 Kihalt
+
+# CRG_PackMemberDied
+
+0x060B421E Falkatag halála
+0x05FA01A0 ~timelineMySpeciesName~ elveszített egy falkatársat.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ Sámán lett az űrben!
+0x060B425A Sámán tulajdonság
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Jármű megépítve
+0xB4F817E5 ~timelineEventCount~ szárazföldi jármű épült.
+0x05FA01C3 Szárazföldi jármű épült.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Jármű elveszítve
+0x54F81C70 ~timelineEventCount~ szárazföldi jármű veszett oda.
+0x05FA01C6 Megsemmisült egy szárazföldi jármű.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA84F Szén-hidrogén készletek felmérése
+0x064AA850 Imposztor MIP-térkép méretezése
+0x064AA84E Geostatikus határok megszilárdítása
+0x064AA851 Kontinentális alrendszerek benépesítése
+0x064AA854 Városi dinamika kiegyenlítése
+0x064AA853 Technológiai tényezők beoltása
+0x064AA856 Loopbox részecskék nyújtása
+0x064AA857 Memetikus továbbjátszás kezdése
+0x064AA900 Vírusadat porzása
+0x064AA852 Doppler-hatáskezelő indítása
+0x064AA855 Nyugtató dallamok írása
+
+# SPG_CGQuasar
+
+0x060B4254 CQ kvazár
+0x05FA01D2 ~timelineMyEmpireName~ elérte a megvilágosodást.
+
+# CRG_EvolveInEditor
+
+0x060B421B ~timelineGenerationCount~. generáció
+0x05FA019D ~timelineMySpeciesName~ fejlődött.
+
+# CVG_AirVehicleLost
+
+0x060B424A Jármű elveszítve
+0xF4F81D2C ~timelineEventCount~ légi jármű veszett oda.
+0x05FA01C8 Megsemmisült egy légijármű.
+
+# SPG_CapturedStare
+
+0x060B4250 Csillag elfoglalása
+0x05FA01CE ~timelineMyEmpireName~ elfoglalta ~timelineTargetEmpireName~ egy részét.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Vallási földi
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~ elveszett.
+0x060B4263 Játékos űrhajója elpusztítva
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ Lovag lett az űrben!
+0x060B4258 Lovag tulajdonság
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ fejlődött, és megszerezte a ~timelineAbilityName~ képességet.
+0x550A15C0 ~timelineAbilityName~ megszerezve.
+
+# SPG_EncounteredEmpire
+
+0x060B4264 Ismert birodalom
+0x05FA01D8 ~timelineTargetEmpireName~ felfedezve.
+
+# TRG_GiftGiven
+
+0xB5303DE2 Ajándék átadva
+0xB5303DE4 ~timelineMyTribeName~ ~timelineEventCount~ ajándékot adott.
+0xB5303DE3 ~timelineMyTribeName~ ajándékot adott ~timelineTargetTribeName~ népének.
+
+# CVG_TradeRouteStarted
+
+0x3549292A Kereskedelmi út kész
+0x3549292B Kereskedelmi út létesítve a következővel: ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x060B424C Szerkesztett űrhajó
+0x05FA01CA ~timelineMyEmpireName~ új űrhajót tervezett.
+
+# CLG_DiscoverPart
+
+0x060B4211 Elem felfedezése
+0x05FA0193 ~timelineMySpeciesName~ felfedezte a ~timelinePartName~ elemet.
+0x75580853 ~timelinePartName~ rész felfedezve.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ Harcos lett az űrben!
+0x060B425D Harcos tulajdonság
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Jármű megépítve
+0x94F819B5 ~timelineEventCount~ tengeri jármű épült.
+0x05FA01C4 Tengeri jármű épült.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ legyőzte ~timelineTargetCivName~ népét.
+0x35492928 A háború véget ért
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ Vándor lett az űrben!
+0x060B425C Vándor tulajdonság
+
+# TRG_UnlockedTool
+
+0xD537EA55 Megszerezve: ~timelineAbilityName~
+0xD537EA56 Megszerezve: ~timelineAbilityName~
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ Ökológus lett az űrben!
+0x060B4257 Ökológus tulajdonság
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Új háziállat: ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ megszelídített egy ~timelineTargetOTDBName~ egyedet.
+
+# SPG_UFODestroyed
+
+0x060B4260 Űrhajó elpusztítva
+0x05FA01D4 ~timelineTargetEmpireName~ űrhajója elpusztítva.
+0x356A2D21 ~timelineEventCount~ megsemmisített űrhajó.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Gazdasági tengeri
+
+# TRG_TribeMemberDied
+
+0x060B4234 Törzstag halála
+0x05FA01B6 ~timelineMyTribeName~ elvesztette egy tagját.
+0xD4F7FE0D ~timelineMyTribeName~ ~timelineEventCount~ törzstagot veszített el.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Katonai légi
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA0 Jármű megépítve
+0x15523CA2 ~timelineEventCount~ katonai szárazföldi jármű épült.
+0x15523CA1 Katonai szárazföldi jármű épült.
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ Kereskedő lett az űrben!
+0x060B425B Kereskedő tulajdonság
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 Első találkozás groxokkal
+0x05FA01D0 ~timelineMyEmpireName~ találkozott a groxokkal.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA6 Megépített járművek
+0x15523CA8 ~timelineEventCount~ vallási szárazföldi jármű épült.
+0x15523CA7 Vallási szárazföldi jármű épült.
+
+# TRG_ConqueredTribe
+
+0x060B422C Meghódított törzs
+0x05FA01AE ~timelineMyTribeName~ meghódította ~timelineTargetTribeName~ népét.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Entrópiás újrakalibrálás
+0x064AA90C Birodalmi hatástérkép feldolgozása
+0x064AA905 Sugárzó csillagködök feltöltése
+0x064AA906 Elő-naprendszerek sodrása
+0x064AA904 Gravitációs állandó igazítása
+0x064AA903 Helyi fókusz szélesítése
+0x064AA909 Kvazár vörös eltolódás ellensúlyozása
+0x064AA90A A galaktikus erőkar újraállítása
+0x064AA908 Szingularitások gyorsítása
+0x064AA902 Tömegmegőrzés
+0x064AA901 Higgs-mező közvetítése
+0x064AA907 Galaktikus polifónia generálása
+
+# TRG_AccessorizedCreature
+
+0x060B422A Új felszerelés
+0x05FA01AC ~timelineMyTribeName~ új ruhatárat választott magának.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ fejlődött.
+0x060B4212 ~timelineGenerationCount~. generáció
+
+# CRG_Grow
+
+0x060B421C Agy szintlépés
+0x05FA019E ~timelineMySpeciesName~ agya most már nagyobb!
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ Diplomata lett az űrben!
+0x060B4256 Diplomata tulajdonság
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 ~timelineSummedCount~ spóradollárt szereztél kereskedelmi útvonalak segítségével.
+0x7552A857 Kereskedelmi útvonallal szerzett pénz
+0x7552A858 ~timelineSummedCount~ spóradollárt szereztél kereskedelmi útvonalak segítségével.
+
+# CLG_KilledSomething
+
+0x060B4219 Megölt valamit
+0x05FA019B ~timelineMySpeciesName~ elejtett egy ~timelineTargetOTDBName~ egyedet.
+0xF4F7C380 ~timelineMySpeciesName~ ~timelineEventCount~ sejtet ölt meg.
+0x7558085B Sejted megölt ~timelineEventCount~ sejtet.
+0x7558085A Sejted megölt egy ~timelineTargetOTDBName~ lényt
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA0199 ~timelineMySpeciesName~ mindenevő lénnyé fejlődött. A Lényfázisban gyümölcsöt vagy húst ehet.
+0x060B4217 Vegyes tulajdonság
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84B Etnografikus mintavétel előkészítése
+0x064AA849 Ismeretelméleti keret megszerkesztése
+0x064AA848 Nyelvi rendszerek megszerkesztése
+0x064AA84C Fázisváltási paradigmák
+0x064AA84D Kognitív képességek kiosztása
+0x064AA847 Animációk tisztítása
+0x064AA846 Kulturális elvontság kifejlődése
+0x064AA84A Arcnormák kisimítása
+0x064AA845 Társas kötöttségek szűrése
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~ Hitbuzgó lett az űrben!
+0x060B425E Fanatikus tulajdonság
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 ~timelineSummedCount~ hínár összegyűjtve.
+0x555BD5C4 ~timelineSummedCount~ hínár összegyűjtve.
+0x555BD5C3 ~timelineSummedCount~ hínár összegyűjtve.
+
+# SPG_SpiceTraded
+
+0x060B4261 Üzlet fűszerrel
+0x55564EC3 ~timelineSummedCount~ fűszer tranzakciója
+0x05FA01D5 ~timelineSummedCount~ fűszer tranzakciója.
+
+# SPG_MasterBadge
+
+0x060B4253 Mester medál elnyerése
+0x05FA01D1 ~timelineMyEmpireName~ mester medált szerzett.
+
+# CLG_GameStart
+
+0x05FA0192 Kibújt az aszteroidából
+0x060B4210 ~timelineGenerationCount~. generáció
+
+# CVG_EpicCharmed
+
+0x3552A306 Gigászt bűvöltél el!
+0x3552A307 ~timelineMyCivName~ elbűvölte a legendás ~timelineTargetOTDBName~ Gigászt.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Katonai zsákmány
+0x06031AAA ~timelineMyCivName~ elfoglalta ~timelineTargetCivName~ egyik városát katonai módszerekkel.
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ elvesztett ~timelineEventCount~ fűszergejzírt.
+0xD54932C0 A fűszergóc elveszett
+0xD54932C1 ~timelineMyCivName~ elvesztett egy fűszergejzírt.
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC3 Jármű megépítve
+0x35523EC4 Gazdasági tengeri jármű épült.
+0x35523EC5 ~timelineEventCount~ gazdasági tengeri járművet épült.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ megérkezett a szárazföldre, és megkezdi az értelem felé vezető utat.
+0x060B421A ~timelineGenerationCount~. generáció
+
+# CLG_EatPlant
+
+0x352DBDB7 ~timelineMySpeciesName~ megevett egy növényt.
+0x352DBDB6 ~timelineEventCount~ növény került elfogyasztásra
+0x75580856 Sejted megevett egy növényt.
+0x75580857 Sejted megevett ~timelineEventCount~ rügyet.
+0x352DBDB8 ~timelineMySpeciesName~ megevett ~timelineEventCount~ növényi hajtást.
+
+# TRG_GameStart
+
+0x060B4229 Belépés a törzsbe
+0x05FA01AB ~timelineMySpeciesName~ törzset alapított.
+
+# SPG_StartedWar
+
+0x060B424F Háború elkezdve
+0x05FA01CD ~timelineMyEmpireName~ nem áll háborúban a ~timelineTargetEmpireName~ birodalommal.
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Katonai tengeri
+
+# TRG_TribeMemberBorn
+
+0x060B4233 Törzstag születése
+0xD4F81307 ~timelineEventCount~ gyermek született ~timelineMyTribeName~ népébe.
+0x05FA01B5 Új gyermek született a ~timelineMyTribeName~ népébe.
+
+# SPG_RareFound
+
+0x05FA01D6 Ritka lelet: ~timelineRareName~
+0x060B4262 Ritkaság meglelése
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Jármű megépítve
+0x34F81C5A ~timelineEventCount~ légi jármű épült.
+0x05FA01C5 Légijármű épült.
+
+# TRG_FruitGathered
+
+0x060B4235 ~timelineSummedCount~ gyümölcs begyűjtve.
+0x05FA01B7 ~timelineSummedCount~ gyümölcs begyűjtve.
+0x94F804D9 Begyűjtöttél ~timelineSummedCount~ gyümölcsöt.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ gazdasági civilizációként végzett.
+0x060B4240 Gazdasági tulajdonság
+
+# TRG_FishGathered
+
+0x060B4236 ~timelineSummedCount~ hal begyűjtve.
+0x05FA01B8 ~timelineSummedCount~ hal begyűjtve.
+0x54F8079A ~timelineSummedCount~ hal begyűjtve.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC6 Jármű megépítve
+0x35523EC7 Vallási tengeri jármű épült.
+0x35523EC8 ~timelineEventCount~ vallási tengeri jármű épült.
+
+# CVG_TradeCompleted
+
+0x3549292C Az üzlet létrejött
+0x3549292D ~timelineMyCivName~ üzletet kötött ~timelineSummedCount~ spóradollár értékben.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D46 Jármű megépítve
+0xB5523D47 Vallási légijármű épült.
+0xB5523D48 ~timelineEventCount~ vallási légijármű épült.
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Vallási légi
+
+# CVG_GiftGiven
+
+0xD54932C3 Pénz kifizetve
+0xD54932C4 ~timelineMyCivName~ fizetett ~timelineSummedCount~ spóradollárt.
+0xD54932C5 ~timelineMyCivName~ fizetett ~timelineSummedCount~ spóradollárt.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x05FA0197 ~timelineMySpeciesName~ növényevő lénnyé fejlődött. A Lényfázisban csak gyümölcsöt ehet.
+0x060B4215 Növény tulajdonság
+

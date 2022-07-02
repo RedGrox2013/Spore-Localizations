@@ -1,0 +1,222 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000AE ...
+0x00000003 Gnębią nas strasznie w skali planetarnej. Zaczynamy się obawiać o przetrwanie naszego gatunku.~p~Prosimy o poprawienie typu planety ~mission_target_planet~ w systemie ~mission_target_star~ do poziomu ~mission_terraform_target_score~, który umożliwi nam zamieszkanie na niej.~p~W końcu im więcej planet zasiedlimy, tym mniejsze ryzyko wyginięcia z powodu incydentu PGP — Przypadku Gnębienia Planetarnego.
+0x0000001D Interesuje nas nieinwazyjne terraformowanie. Czy możesz nam urządzić mały pokaz?
+0x0000009F Nie dokończysz tej misji? Wielka Rada zostanie o tym powiadomiona. Żegnaj.
+0x00000007 Chcielibyśmy zobaczyć próbkę twoich umiejętności terraformowania. Będzie to część naszej próby zrozumienia wzajemnych zależności wszystkich żywych istot. Czy możesz się udać do układu ~mission_target_star~ i wykazać się swoją wiedzą o ekometrii?
+0x00000092 Ponadto...
+0x00000067 Ba! Rezygnuję!
+0x00000029 Czekaj, czekaj, jeszcze jedno...
+0x00000013 Chcemy stworzyć nową planetę rozrywkową! Potrzeba na niej ciepłych bryz, malowniczych krajobrazów, różnorodnej roślinności (z której jeszcze dałoby się zrobić świetne napoje) i jakichś ciekawych zwierząt. Czy stworzysz to dla nas?
+0x00000069 Dobrze. Teraz rozumiem. Dzięki.
+0x0000001E Planeta ~mission_target_planet~ nadaje się do terraformowania. Chcielibyśmy dowiedzieć się, czy leży to w granicach twoich możliwości.
+0x00000066 To jest trudne. Rezygnuję.
+0x0000002A Czy mogę zapytać o coś jeszcze?
+0x000000E2 Błagam o wyrozumiałość.
+0x000000D4 Nie? Nie rozumiemy!
+0x0000002D Planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~.
+0x000000B4 Pragniemy badać rozprzestrzenianie się organicznego życia, abyśmy mogli temu zapobiec w razie konieczności. Pomożesz nam.
+0x0000002C Ponadto...
+0x000000D5 Rozkazy Groksów muszą być wykonywane.
+0x00000052 Cóż, to chyba załatwia sprawę...
+0x00000068 Nie. Wycofuję się. Przepraszam.
+0x00000091 Mam do omówienia jeszcze jedną sprawę.
+0x0000009D Marnujesz nasz czas.
+0x00000089 Dobrze więc. Nasze własne ekipy przygotują tę planetę do zasiedlenia. Żegnaj.
+0x00000072 Ponadto...
+0x000000BC Ach, oczywiście! Dziennik misji. Zerknę tam!
+0x000000C7 Gwiazda ta znajduje się ~mission_clue_range_min~–~mission_clue_range_max~ parseków od punktu charakterystycznego ~mission_clue_landmark1~
+0x000000B5 Popraw typ planety ~mission_target_planet~ do poziomu ~mission_terraform_target_score~.
+0x00000087 Skoro tego nie zrobisz, to nie. Do widzenia.
+0x000000AB Muszę zapoznać się ponownie z opisem misji.
+0x000000DF Bardzo przepraszam, że przeszkadzam. Do zobaczenia.
+0x000000BD Ach, oczywiście! Dziennik misji. Zerknę tam!
+0x000000DB Wolę zająć się czymś innym.
+0x00000051 Tak, tak. Jeszcze się zobaczymy.
+0x0000006C Aaach. W porządku. To ma sens. Bywajcie.
+0x0000008E Weźmiemy tę nieudolność pod uwagę, prosząc o następne przysługi. Do widzenia.
+0x000000DE Błagam o zwolnienie mnie z tego zadania.
+0x0000006F Czy mogę zapytać o coś jeszcze?
+0x00000014 Znaleźliśmy wyeksploatowana planetę, którą chcielibyśmy odnowić! Czy zaprezentujesz nam swoje zdolności dekoratorskie?
+0x0000006E Chcę tylko spytać o jeszcze jedną rzecz...
+0x0000005D A co z twoim zobowiązaniem, by przekształcić planetę ~mission_target_planet~, co powinno być już do tej pory dawno zrobione? Zrób to, bo nie przepadamy za nieskutecznymi zleceniobiorcami! Szczegóły naszej umowy znajdziesz w swoim dzienniku misji.
+0x000000DD Niestety nie mam już czasu na to zadanie.
+0x00000025 Zbyt trudne. Nie, dzięki.
+0x0000003B Terraformowanie jest przeciw naturze!
+0x00000070 Mam do omówienia jeszcze jedną sprawę.
+0x0000006D Błagam o wyrozumiałość.
+0x00000030 Planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~, a następnie wróć tutaj.
+0x0000001F Czy mogę liczyć na więcej informacji?
+0x000000D8 Zanim wyruszę, mam jeszcze inne pytania...
+0x000000C6 Gwiazda ta znajduje się w odległości ~mission_clue_distance~ parseków od punktu orientacyjnego o nazwie ~mission_clue_landmark1~
+0x00000009 Naszym zadaniem jest rozsianie życia po całej galaktyce. Możesz pomóc nam w tym, terraformując planetę ~mission_target_planet~. Czy dasz się namówić na to zadanie?
+0x00000038 Pewnie. Zrobię to. Możecie na mnie liczyć.
+0x00000088 Nie jest dane pospolitym niewiernym pomnażać dzieło Spoda. Żegnaj.
+0x00000028 Spełnię to życzenie.
+0x000000AC Powtórzcie swoje życzenie. Moje notatki są niejasne.
+0x00000018 Nasz filozof Gundrab wyszczególnił Trzy Dobra: naiwny klient, pełny portfel i nowa planeta pełna surowców naturalnych, które można wydobywać! Wydobycie byłoby łatwiejsze, gdyby planeta została uprzednio terraformowana... Może podejmiesz się dla nas tego zadania?
+0x00000050 Terraformowanie to zawsze satysfakcjonująca praca. Bywajcie.
+0x0000006A Aha! Rozumiem. Bywajcie.
+0x00000021 Czy mogę prosić o jakieś wskazówki?
+0x0000000E Nasze badania planety ~mission_target_planet~ potwierdziły jej przydatność do terraformowania. Wielka Rada chciałaby zasiedlić tę planetę najprędzej, jak to możliwe. Czy możesz nam pomóc, terraformując planetę ~mission_target_planet~?
+0x00000093 Ta misja po prostu mi nie pasuje... Do widzenia.
+0x000000DA Jeszcze jedno...
+0x000000A9 Muszę zapoznać się ponownie z wymaganiami misji.
+0x000000E0 Do następnego spotkania. Do zobaczenia.
+0x000000E1 Widzę, że masz mnóstwo zajęć. Porozmawiamy później.
+0x000000D9 Ponadto...
+0x0000006B Rozumiem. Wkrótce powrócę.
+0x00000020 Przydałoby się trochę więcej wskazówek, jak tam trafić.
+0x000000B6 Dobra robota! Wróć na planetę ~mission_source_planet~.
+0x0000004D Czy mogę zapytać o coś jeszcze?
+0x00000060 Nie jesteś w stanie przekształcić planety ~mission_target_planet~? Są jakieś problemy z twoim dziennikiem misji?
+0x0000007F Zaraz wszystko naprawię!
+0x000000D0 Nadal oczekujemy na pomyślne przekształcenie planety ~mission_target_planet~. Specyfikacje znajdziesz w swoim dzienniku misji!
+0x00000063 Chcę zapytać o coś innego.
+0x000000AA Szczegóły mojego zadania jakoś mi umknęły.
+0x000000A6 Może innym razem. Do zobaczenia.
+0x00000062 Jeszcze tylko jedno...
+0x0000004E Jeszcze jedna sprawa zanim wyruszę...
+0x0000000F Planeta ~mission_target_planet~ została uznana przez Wielką Radę za odpowiednią do terraformowania. Czy pomożesz nam w naszej misji zasiedlania wszechświata?
+0x0000004F No cóż. To mi się podobało. Do zobaczyska!
+0x000000BA Wróć na planetę ~mission_source_planet~ w układzie ~mission_source_star~ po nagrodę.
+0x00000080 Możecie na mnie liczyć.
+0x000000A8 Widzę, że potrzebujesz trochę czasu. Żegnaj.
+0x000000B1 Chcemy sprawić, aby jałowe planety rozkwitły. Czy możesz nam pomóc?
+0x00000036 Ech. Nie mam nic lepszego do roboty.
+0x000000AF Planeta ~mission_target_planet~ byłaby idealnym miejscem na osiedlenie się, gdyby tylko miała odpowiednią biosferę. Czy możesz ją dla nas stworzyć?
+0x0000007D Wrócę w mgnieniu oka.
+0x00000061 Jeszcze jedna sprawa i już mnie nie ma...
+0x00000037 Może być całkiem zabawnie. Wchodzę w to.
+0x0000007E Jedna planeta — doprowadzić do porządku. Już się robi!
+0x0000003C Z żalem muszę odmówić.
+0x0000008D Och, cóż, sądzę, że nie mogę nic poradzić na to, że nie jesteś jednością z naturą, tak jak my.
+0x000000B2 Planeta ~mission_target_planet~ potrzebuje biosfery. Ty ją stworzysz.
+0x00000039 Każda planeta jest doskonała taka, jaką jest.
+0x000000CD Planeta ~mission_target_planet~ znajduje się w układzie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~, a następnie wróć tutaj.
+0x0000004C Chcę jeszcze o coś zapytać...
+0x000000B0 Planeta ~mission_target_planet~ musi zostać poddana terraformowaniu. Czy możesz to zrobić?
+0x000000CC Planeta ~mission_target_planet~ znajduje się w układzie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~, a następnie wróć tutaj.
+0x00000023 Uch. Terraformowanie to ciężka praca. Nie, dzięki.
+0x00000031 Niewypowiedzianie nudna planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw jej typ do ~mission_terraform_target_score~, a wtedy wydamy wielkie przyjęcie na twą cześć!
+0x0000001A Nasi prorocy przekazali nam, że duch jałowej planety ~mission_target_planet~ pragnie populacji, którą mógłby się opiekować i która by zadbała o niego. Być może zechciałbyś przygotować tę planetę tak, byśmy mogli osiedlić na niej nowych mieszkańców?
+0x0000008F Czekaj, czekaj, jeszcze jedno...
+0x0000005F Myśleliśmy, że lecisz przekształcić planetę ~mission_target_planet~? Jest jakiś problem? Czy w twoim dzienniku misji nie ma wszystkich szczegółów?
+0x00000095 Tak, przepraszam. Do zobaczenia.
+0x00000096 Bez urazy. Żegnaj.
+0x000000A7 Widzę, że masz mnóstwo zajęć. Porozmawiamy później.
+0x00000015 W sumie system ~mission_target_star~ jest w porządku... Tyle tylko, że to strasznie nudne skupisko planet! Chcielibyśmy trochę go przemodelować zgodnie z najnowszą modą! Czy zajmiesz się tym dla nas?
+0x0000001B Planeta ~mission_target_planet~ jest jak białe płótno czekające na pierwsze muśnięcie pędzla! Czy zechcesz być malarzem?
+0x00000022 Jak najlepiej się tam dostać?
+0x00000026 Och. To naprawdę nie jest moja specjalność.
+0x0000004B Pozwólcie, że zapytam o coś jeszcze...
+0x0000008C Będziemy musieli polegać tylko na naszych własnych skromnych możliwościach. Może dasz się skusić na wizytę na naszym targowisku?
+0x0000000C Spod chce, byśmy zanieśli jego Światło we wszystkie mroczne zakamarki wszechświata! Niestety nie jesteśmy w stanie tego zrobić, jeśli nie mamy czym oddychać... Czy możesz poprawić dla nas typ planety ~mission_target_planet~, tak abyśmy mogli ponieść stamtąd Światło Spoda dalej w galaktykę?
+0x00000094 Po prostu tego nie czuję, kapujecie? Do zobaczenia.
+0x0000002B Mam do omówienia jeszcze jedną sprawę.
+0x0000008A Odważny to gatunek, który tak szczerze przyznaje się do swojej nieudolności. Do widzenia.
+0x000000BF Sukces! Wróć do systemu ~mission_source_star~ po swoją nagrodę.
+0x000000A5 Bardzo przepraszam, że przeszkadzam. Do zobaczenia.
+0x0000007A Stworzysz dla nas prawdziwy raj nieruchomości na sprzedaż! Natychmiast skieruj się na planetę ~mission_target_planet~!
+0x00000033 Planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw jej typ do ~mission_terraform_target_score~, a potem daj nam znać, abyśmy mogli wysłać osadników, którzy żyć będą szczęśliwie na tym nowym świecie.
+0x00000065 Nie powiedzieliście, że to będzie trudne! Wycofuję się!
+0x000000BE Typ planety ~mission_target_planet~ uległ poprawie. Umieść rośliny, aby ją ustabilizować.
+0x000000C8 Gwiazda nazywa się ~mission_target_star~
+0x00000076 Błagam o wyrozumiałość.
+0x000000A3 Poddajesz się, co? No cóż, wszechświat oferuje wiele dróg wyboru.
+0x000000AD Z żalem muszę odmówić.
+0x00000027 Kontynuuj, proszę. Słucham uważnie.
+0x00000024 Chyba poszukam łatwiejszego zarobku.
+0x000000A4 Czasami, widząc własną nieudolność, mądrzej jest po prostu się poddać.
+0x00000064 Czy mogę zadać pytanie?
+0x0000003A Terraformowanie jest niezgodne z naturą!
+0x0000007C Bardzo dobrze. Liczy się skuteczność.
+0x00000090 Czy mogę zapytać o coś jeszcze?
+0x0000001C Jeśli planeta ~mission_target_planet~ zostałaby terraformowana, idealnie nadawałaby się na wysuniętą bazę wojskową. Czy podejmiesz się tej pracy?
+0x0000005A Wspaniałe dzieło Spoda jeszcze nie ujrzało światła systemu ~mission_target_star~? Czy dotrzymasz swojej obietnicy, która została zapisana w twym dzienniku misji, i przekształcisz ten świat?
+0x000000D6 Nie chcemy nikogo krytykować, ale Twój umysł wydaje się być dziś strasznie rozkojarzony.
+0x000000D7 Czy chcesz, aby po Twojej śmierci został przeprowadzony jakiś rytuał?
+0x00000016 Cała galaktyka podziwia Twoje wiedzę i potęgę. Czy dasz się namówić tym niegodnym istotom na zaprezentowanie swych możliwości terraformacyjnych w systemie ~mission_target_star~. Czy zgodzisz się na pokaz w zamian za wspaniałą nagrodę?
+0x0000005B Cel Twojego terraformowania nie spełnia parametrów misji. Czy zamierzasz kontynuować swoją misję w systemie ~mission_target_star~? Niezbędne informacje znajdują się w twoim dzienniku misji.
+0x000000B3 Pragniemy poznać Twoje umiejętności terraformowania. Planeta ~mission_target_planet~ jest gotowa do demonstracji.
+0x0000009E Spod wie o Twej zdradzie i Spod nie przebaczy!
+0x000000A1 Zadanie przekroczyło Twoje możliwości? Nie jesteśmy zaskoczeni.
+0x000000DC Muszę odmówić realizacji z tego zadania.
+0x00000012 Planeta ~mission_target_planet~ nadaje się do terraformowania. To poważne zadanie... Zastanawiamy się, czy ~player_creature_name~ podołają temu zadaniu?
+0x0000009B Och, Cesarzowa i Jej miniklumpy są bardzo rozgniewani twoją decyzją. ~p~(Hej, ludziska! Ja nie mam zamiaru powiadamiać Jej o niefortunnej decyzji naszego ostatniego zleceniobiorcy). ~p~Ty nicponiu, Cesarzowa wszczynała wojny z bardziej błahych powodów! ~p~A Jej miniklumpy z pewnością porwą twe ciało na strzępy, gdy dowiedzą się, że muszą żyć w ciasnocie swojego księżyca-zagrody. ~p~Precz, podły agencie!
+0x00000097 Odmówić zlecenia w chwili, gdy jest oferowane, to jedno. Ale teraz? Toż to praktycznie sabotaż! ~p~Straciliśmy cenny czas, czekając w nadziei, że nam pomożesz. ~p~Teraz widzę, że byliśmy głupcami, zatrudniając cię. Podobnie jak wtedy, gdy zignorowaliśmy zniknięcie Wielkiej Góry Biszkoptowej!
+0x00000099 Och, ty mały, paskudny...! ~p~Ojoj! Co ja powiedziałem!? Co ja uczyniłem!? ~p~Proszę, wybacz moją bezczelność! Poddałem się emocjom, ale rozsądek już mi powrócił. Obiecuję. ~p~Tylko proszę, nie krzywdź nas! Nie zniesiemy myśli o PGP dokonanym przez tę samą osobę, którą zatrudniliśmy do ochrony przed taką zbrodnią.
+0x0000008B Szkoda. Liczyliśmy, że te złożone zadania nie przekroczą twoich umiejętności.
+0x0000009C STAN MISJI: W zawieszeniu; przerwana przez zleceniobiorcę. ~p~WYRAŻENIE NAJWYŻSZEJ FRUSTRACJI: AAAAAAAAAAAAAAAAAAAAAAA! Co teraz zrobimy!? ~p~UZASADNIENIE/INNE: Nie wiem, co zrobimy, ale ty wiesz, że to twoja wina!
+0x00000071 Och, Cesarzowa ucieszy się z tych wieści! ~p~Czy wiesz, że Jej Zagroda dla Zwierząt pochodzi z czasów, zanim klumpy uzyskały samoświadomość i oddzieliły się od stworów, które potem stały się miniaturowymi klumpami, tak wysoko cenionymi przez naszą Cesarzową? Czyż to nie jest fascynujące? ~p~W każdym razie: ~group:star_clue~. ~p~Ruszaj, ruszaj już i do ponownego spotkania.
+0x000000B7 Planeta znajduje się w systemie gwiezdnym ~mission_target_star~. Oto informacje, jakimi dysponujemy: ~p~~group:star_clue~.
+0x00000081 C-co!? Jak możesz tak porzucać swój własny gatunek!? ~p~Gdybyśmy tylko zareagowali wcześniej — może podczas formowania się lodowców? Nie, to wciąż byłoby za późno... ~p~Może podczas wycięcia ostatnich lasów? Nie, nie. Nadal za późno. ~p~Może kiedy zniszczyliśmy do cna warstwę ozonową? ~p~Och, aż głowa od tego boli. W każdym razie teraz nie ma sensu szukać winnych.
+0x00000077 Dane wskazują, co następuje: ~group:star_clue~. ~p~Będziemy oczekiwali na demonstrację twoich możliwości.
+0x00000010 Chcielibyśmy się dowiedzieć jak najwięcej o otaczającym nas wszechświecie, co oczywiście oznacza również wiedzę o naszych sąsiadach i ich technologii. W systemie ~mission_target_star~ znaleziono obiecujący świat. Czy dasz się namówić na pokazanie nam swoich umiejętności? Oczywiście w zamian za pomoc oferujemy odpowiednie wynagrodzenie.
+0x00000083 Och, diabli nadali! ~p~Ojej. Proszę, wybacz mój wybuch. Zapewniam, że żadne z mych przekleństw nie jest skierowane pod twoim adresem. Proszę, nie krzywdź nas! ~p~Nie musisz pomagać nam i chronić nas przed tymi przypadkami gnębienia planetarnego, ale błagam, nie powiększaj naszego nieszczęścia i nie gnęb nas! Prosimy! Błagamy cię!
+0x00000085 Och, Cesarzowa poblednie z furii i gniewu, gdy usłyszy o tym straszliwym przejawie braku szacunku wobec Niej oraz Jej miniklumpów! Z całą pewnością będziemy ciągnęli losy, aby wybrać tego spośród nas, kto przekaże Jej te niefortunne wieści. ~p~Niefajnie!
+0x00000035 Taa, czemu nie. Zrobię to.
+0x00000084 Wrrrrr. ~p~Jeśli nie zamierzasz przyjmować dobrze płatnej roboty, przestań o nią wypytywać. Co jest z tobą nie tak? ~p~Ba! Jesteśmy bogaci i potężni! Nie zadzieraj z nami. Nie jesteśmy organizmami, którym warto podskakiwać, rozumiesz?
+0x00000019 Bardzo nas interesuje dusza gatunku ~player_creature_name~, a nie ma lepszego odzwierciedlenia duszy niż wytwory stworzenia, które zamieszkuje. Odnaleźliśmy jałowy świat w systemie ~mission_target_star~ i chcielibyśmy ujrzeć Twą duszę w dziele terraformowania. Czy ukażesz nam swoją ją?
+0x00000008 Planeta ~mission_target_planet~ została uznana za zdatną do terraformowania. Nasze własne urządzenia terraformujące są zajęte gdzie indziej, więc pomyśleliśmy, iż być może wykonasz dla nas to zadanie. Czy dopomożesz nam w rozwijaniu życia w galaktyce?
+0x0000009A Ho, ho! Myślisz, że możesz odejść? Ty mały gnojku... ~p~Nie możesz odejść! Nikt nie porzuca naszych zadań, szczególnie takiego zadania! ~p~Rozwalilibyśmy ciebie i Twój żałosny zabawkowy stateczek kosmiczny, gdyby nasz prywatny zleceniobiorca militarny, Mrocznypłyn, nie był właśnie zajęty tłumieniem powstania chłopskiego. ~p~Tym razem masz szczęście, śmieciu!
+0x00000079 Wiedz, że ~group:star_clue~. ~p~Zaczynaj od razu! I cokolwiek robisz, nie zapominaj o wodzie!
+0x000000D2 Wspaniale! ~p~I jeszcze jedno: ~group:star_clue~. ~p~Będziemy oczekiwali na odwiedziny w tym nowym ogrodzie galaktyki!
+0x00000042 STAN MISJI: Ukończona; typ planety ~mission_target_planet~ osiągnął poziom ~mission_terraform_target_score~.~p~ZAPŁATA: ~mission_rewards~.~p~UDZIELONA POCHWAŁA: Jak na istotę niższą, opartą na węglu, jesteś w porządku. Nieźle ci poszło!
+0x000000A0 Pomyśl może o implantach mózgowych. Pomogą ci skupić się na jednej sprawie.
+0x00000040 He, he, he, he, he, stary. Dobra robota. Oto Twoje ~mission_rewards~. Cała rzesza wpływowych i potężnych osób niezmiernie wiele ci zawdzięcza.~p~Kupcy tak bardzo chcą mieć ten świat — zobaczymy, jak im się spodoba, kiedy już go dostaną bez wszystkich udogodnień.~p~He, he, he, he, he, he...
+0x00000082 Och, ziom. Koleżko? Koooleżko! ~p~Ty nie krzywdzisz nas, koleżko. Krzywdzisz korporację LizusKorp i całą rodzinę LizusKorp — wszystkie nasze filie, oddziały, franszyzy oraz naszą sieć zmotywowanych podwykonawców, takich jak ty. ~p~Nie prosiliśmy cię tylko o wykonanie zadania. Nie. My zapraszaliśmy cię do naszej rodziny. Do rodziny LizusKorp.
+0x000000D3 Wiesz, że ~group:star_clue~? ~p~Możesz zaczynać.
+0x0000003F *Odetchnięcie*~p~Bardzo się cieszymy, że Twoje przybycie wypadło w takim fortunnym czasie! Zasługujesz na każdą najdrobniejszą monetę z twoich ~mission_rewards~, to pewne! Kiedy cię nie było, znów mieliśmy przypadek PGP.~p~Nic poważnego na szczęście się nie stało, ale nie można nie doceniać powagi ataków.~p~A mianowicie:~br~Spytaj mnie, gdzie jest moja bielizna. No dalej. Odpowiedź cię zaskoczy...
+0x00000034 Planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~, a następnie wróć tutaj.~p~Zatem ~group:star_clue~.
+0x00000032 Planeta ~mission_target_planet~ znajduje się w układzie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~.~p~Wiedz, że ~group:star_clue~.
+0x00000011 Znaleziono świat, który może być zdatny do zasiedlenia, kiedy tylko uda się stworzyć na nim stabilny ekosystem. Nasze urządzenia terraformujące są wykorzystywane na innych planetach. Czy dałoby radę namówić cię do poprawienia typu tej planety?
+0x0000000D Wielka Rada zadecydowała, że przygotowanie planety do zasiedlania przez naszą federację jest niezwykle istotne. W systemie ~mission_target_star~ odkryto niedawno obiecująco wyglądającą planetę. Czy uda nam się namówić cię na terraformowanie tego świata dla nas?
+0x00000049 Planeta ~mission_target_planet~ idealnie nadaje się do medytacji, śpiewów, irygacji i wszelkich innych ezoterycznych praktyk! Oto Twoje ~mission_rewards~. W każdej chwili możesz dla nas stworzyć kolejny nowy świat!
+0x00000059 Nie udało ci się wykonać swojego zadania na planecie ~mission_target_planet~. Twoje umiejętności terraformowania są zbyt małe? A może dane w twoim dzienniku misji uległy przypadkowo wymazaniu?
+0x00000048 W zamian za stworzenie tak cennego terenu z przyjemnością wynagradzamy cię ~mission_rewards~. Jeśli tylko będziesz mieć ochotę, zapraszamy cię do zwiedzenia naszego centrum handlowego.
+0x00000044 Planeta ~mission_target_planet~ pławi się w Chwale Spoda. Przyjmij proszę te ~mission_rewards~. Weź także ze sobą ten egzemplarz świętych pism.
+0x0000003D To najlepsza wiadomość, jaką usłyszeliśmy od czasów Groksów!~p~Natychmiast wyślemy naszych gorliwych pionierów na planetę ~mission_target_planet~! Będzie to dla nich trudna podróż, obfita jedynie w problemy podczas zasiedlania nowego świata.~p~Lecz będą pamiętać, że ich wspaniała ofiara pomoże tym, którzy pozostaną tu.~p~Oto dowód naszego uznania — ~mission_rewards~.
+0x000000D1 Nie udało ci się zakończyć pomyślnie zadania na planecie ~mission_target_planet~. Parametry znajdują się w twoim dzienniku misji. Natychmiast wznowisz swoją misję.
+0x00000098 Och, nie. Tak to tutaj nie działa w LizusKorp, koleżko. ~p~Nie można odejść z rodziny LizusKorp... ~br~Bo przecież z rodziny nie da się odejść, głuptasku! ~p~Ale jeśli chcesz opuścić naszą małą rodzinę — Rodzinę LizusKorp — proszę bardzo. ~p~Jeszcze wrócisz. Przekonasz się. LizusKorp cię kocha.
+0x00000045 Wielka Rada jest zachwycona twymi dokonaniami. Przyjmij proszę ten Dyplom Uznania Drugiej Klasy i ~mission_rewards~.
+0x00000086 STAN MISJI: W zawieszeniu; odrzucona przez zleceniobiorcę. ~p~WYRAŻENIE WIELKIEJ IRYTACJI: Niech potężna ultramegafauna Koprolitu-2 ulży sobie po studniowym pożeraniu tłustych burgeritosów prosto na ciebie i na tę twoją żałosną atrapę statku kosmicznego! ~p~UZASADNIENIE/INNE: Wiesz, co ci nie wyszło!
+0x000000CE Znakomita robota, kapitanie! Planeta ~mission_target_planet~ jest gotowa do zasiedlenia! Proszę, oto Twoje ~mission_rewards~.
+0x00000017 Nowy świat wzywa, gotowy na przyjęcie przyszłych konsumentów! Jednak konieczne są pewne zmiany, które dostosują środowisko do potrzeb przyszłych mieszkańców. Wprowadzenie takich zmian powinno być banalne, dla istoty o Twej potędze... Być może skusi cię wynagrodzenie?
+0x00000004 Najbogatsi i najpotężniejsi z nas zadecydowali, że mamy dość bandy biedaków i słabeuszy, którzy sami nie robią nic pożytecznego, tylko pasożytują na nas jak pijawki, więc wynosimy się stąd! Zobaczymy jak im się to spodoba!~p~Udaj się na planetę ~mission_target_planet~. Znajduje się ona w systemie ~mission_target_star~. Popraw typ planety do poziomu ~mission_terraform_target_score~ i przygotuj ją na nasze przybycie.~p~Zapłacimy ~mission_rewards~.
+0x0000003E Och, to rewelacyjna wiadomość, ziom! ~p~Nasze zbiorniki są już niemal przepełnione. Mamy całe mnóstwo konsumentów gotowych osiedlić się na planecie ~mission_target_planet~!~p~Będą wkrótce kupować produkty LizusKorp (tylko i wyłącznie). Nie ma takich potrzeb, naprzeciw którym nie wyszłyby produkty LizusKorp.~p~Co mi przypomina — masz tu swoje ~mission_rewards~, koleś. Świetna robota!
+0x0000007B Wiedz, że ~group:star_clue~. ~p~Proszę, weź ten niewidzialny amulet, który rozjaśni ci drogę!
+0x00000001 Na planecie zaczyna się robić trochę nudno.~p~Sukces naszego gatunku zależy od dostarczania nam bodźców do dalszego rozwoju. Kto by pomyślał, co? ~p~Oczekujemy od ciebie pomocy w rozwinięciu skrzydeł. Twoim zadaniem będzie terraformowanie planety ~mission_target_planet~ w systemie ~mission_target_star~.~p~Popraw typ planety ~mission_target_planet~ do poziomu ~mission_terraform_target_score~. ~p~Zadanie jest warte swojej ceny. Ponieważ jest to dla nas bardzo ważne, dajemy za nie ~mission_rewards~.
+0x000000A2 Łamiesz naszą umowę! Nasi prawnicy jeszcze się do ciebie odezwą!
+0x000000CF Planeta ~mission_target_planet~ otrzymała biosferę, tak jak żądaliśmy. Rozumiemy, że gatunki biologiczne oczekują otrzymania ~mission_rewards~ za takie zadanie.
+0x000000B8 Nagroda oczekuje cię w systemie ~mission_source_star~.
+0x0000005C Pomimo kompletu danych w twym dzienniku misji zdaje się, że nadal nie udało ci się dokończyć przekształcania planety ~mission_target_planet~. Musisz podjąć binarną decyzję. Albo nam pomożesz, albo nie. Więc?
+0x0000000A Naszym zadaniem, wyznaczonym przez samego Spoda, jest zamienić jałowe miejsca we wszechświecie w urodzajne. W systemie ~mission_target_star~ znaleziono jałowy świat. Czy zainteresuje cię święta misja zasiedlenia go wspaniałymi stworzeniami Spoda?
+0x0000004A Dobrze wykonane zadanie. Zapamiętamy Twoje dokonania. Przyjmij ~mission_rewards~.
+0x00000073 Wiedz, że ~group:star_clue~. ~p~Oczekujemy twoich wspaniałych wyników. Jesteśmy przekonani, że stworzysz piękny świat!
+0x0000005E Aliści, nie udało ci się zademonstrować swojej potęgi terraformowania! Czy będziesz kontynuować swoją misję w systemie gwiezdnym ~mission_target_star~? A może informacje w twoim dzienniku misji uległy przypadkowo wymazaniu?
+0x00000046 Twoje umiejętności przyjemnie nas zaskoczyły. Planeta ~mission_target_planet~ została przeistoczona w raj odpowiedni do zasiedlania przez nasz gatunek. Proszę, oto Twoje ~mission_rewards~.
+0x00000047 Twoje dokonania na planecie ~mission_target_planet~ były popisowe! Wkrótce będzie ona najmodniejszym miejscem w galaktyce dla wszystkich ślicznych młodych istotek! Oto Twoje ~mission_rewards~... Ciao!
+0x00000006 PRZYDZIELONA MISJA: Zterraformuj planetę ~mission_target_planet~ do wymaganego poziomu.~p~DOCELOWY TYP PLANETY: ~mission_terraform_target_score~.~p~SYSTEM GWIEZDNY: System ~mission_target_star~.~p~UZASADNIENIE/INNE: Już ono tam dobrze wie!~p~ZAPŁATA: ~mission_rewards~.~p~ZAPYTANIE: Czy zadanie to wydaje się tobie interesujące?
+0x00000005 Czy wiesz, że nasza Cesarzowa ma największą kolekcję unikatowych, miniaturowych Klumpów w całym ramieniu galaktyki? To prawda! Czyż to nie imponujące?~p~Jest już ich zbyt wiele, by pomieściły się na księżycu, na którym je obecnie hodujemy, więc chcielibyśmy cię prosić o terraformowanie planety ~mission_target_planet~ w systemie ~mission_target_star~.~p~Klumpy Cesarzowej są niezwykle wyjątkowe, więc proszę, postaraj się poprawić typ planety do poziomu ~mission_terraform_target_score~.~p~Klumpy te są skarbem naszej Cesarzowej, więc zapłacimy ci za to ~mission_rewards~.
+0x0000000B Święci pielgrzymi gotowi są do zasiedlenia nowego świata! Planeta ta musi być gotowa na przyjęcie naszych gatunków... Czy moglibyśmy prosić cię o zapewnienie tam odpowiednich warunków do życia dla ludu Spoda?
+0x00000075 Jesteśmy zadowoleni, że będziemy pracowali wspólnie przy tej misji cywilizacyjnej. Udaj się natychmiast na planetę ~mission_target_planet~. Pamiętaj, że ~group:star_clue~.
+0x00000041 Cóż to za wspaniała wiadomość dla Cesarzowej! Zostanie to okazane Jej Wielmożności!~p~Proszę, tu jest Twoje ~mission_rewards~. Twoje usługi są warte po dziesięciokroć tej ceny!~br~Symbolicznie mówiąc oczywiście.~p~Och, jest tyle do zrobienia przy przygotowaniach do przenosin miniklumpów na planetę ~mission_target_planet~. Obawiam się, że muszę się już pożegnać.~p~Trzymaj się. Niech twe niebo zawsze będzie czyste!
+0x00000074 Wiedz, że ~group:star_clue~. ~p~Niech natychmiast rozpocznie się święte dzieło Spoda. Niechaj Spod rozjaśni twą drogę ku planecie ~mission_target_planet~.
+0x00000043 Udało ci się stworzyć uroczy ekosystem. Z radością przekazujemy ci ~mission_rewards~ nagrody.
+0x0000002E Planeta ~mission_target_planet~ znajduje się w systemie ~mission_target_star~. Popraw typ tej planety do ~mission_terraform_target_score~. I niech Spod cię pobłogosławi.
+0x00000002 Stary, prowadzimy świetny projekt. Sprawdź to: ~p~Projektujemy gatunki Konsumentów dla naszej korporacji-matki, LizusKorp.~p~Chcielibyśmy cię prosić o małą terraformację planety ~mission_target_planet~ w systemie ~mission_target_star~.~p~Jeśli uda ci się poprawić typ planety ~mission_target_planet~ do poziomu ~mission_terraform_target_score~, będziemy mogli osadzić tam nasze gatunki Konsumentów i zacząć generować zyski dla LizusKorp.~p~I wierz nam, robota ta jest warta tych ~mission_rewards~, które za nią dajemy.
+0x0000002F Życie na planecie ~mission_source_planet~ zostało przyniesione z planety ~mission_source_planet~. Niestety wszelkie dane dotyczące planety ~mission_target_planet~ zostały utracone podczas katastrofy. Żywimy jednak przekonanie, że znajduje się ona gdzieś w okolicy systemu ~mission_target_star~.~p~Znajdź, proszę, ten świat i przywieź nam na planetę ~mission_source_planet~ próbkę jej piramidy pokarmowej.
+0x00000054 Daj spokój, koleżko. Przyspiesz trochę! ~p~Nadal musisz przekształcić planetę ~mission_target_planet~. Oto parę wskazówek, gdzie jej mniej więcej szukać: ~p~~group:star_clue~.
+0x000000B9 Przekształcanie planety ~mission_target_planet~ w systemie gwiezdnym ~mission_target_star~. ~p~Oto informacje, jakimi dysponujemy: ~p~~group:star_clue~.~p~Użyj swoich narzędzi przekształcania, aby poprawić typ planety do poziomu ~mission_terraform_target_score~, a następnie umieść rośliny, aby ustabilizować środowisko.
+0x00000057 Śmiertelnie obrazisz Cesarzową i Jej miniklumpy, marnując czas podczas pracy w Jej służbie! ~p~Wyrusz na planetę ~mission_target_planet~ i przekształć ją tak, aby była gotowa na przybycie miniklumpów. Oto najkrótsza droga: ~p~~group:star_clue~.
+0x00000055 Prosimy, prosimy, prosimy, przekształć planetę ~mission_target_planet~. Myślimy, że to jest najkrótsza droga do niej: ~p~Aaa, ~group:star_clue~.
+0x00000056 Na co czekasz!? Wybierz się na planetę ~mission_target_planet~ i zterraformuj ją wreszcie! ~p~Nie umiemy zbyt dobrze wskazywać drogi, ale spróbujemy: ~p~~group:star_clue~.
+0x00000053 Musisz poprawić warunki życia naszej populacji, przekształcając planetę ~mission_target_planet~. Oto drobne wskazówki, jak się tam dostać: ~p~~group:star_clue~.
+0x00000058 STAN MISJI: W toku; zleceniobiorca prosi o pomoc. ~p~CEL MISJI: Przekształć planetę ~mission_target_planet~. ~p~DODATKOWE/INNE: ~group:star_clue~.
+

@@ -1,0 +1,63 @@
+﻿0x051414BE @10550,10551;1;0;;0,128,128   ~IDS__DialogId_10105_ControlId_1200~
+0x23FD0D11 โปรแกรมกำเนิด SPORE(tm)~SCC_NAME~
+0x4950A450 โปรแกรมกำเนิด SPORE(tm) ชุดทดลอง~SCC_TRIAL_NAME~
+0x7E9C7ECF ยกเลิก~IDS__DialogId_10105_ControlId_9~
+0x03BCF887 กรุณาตรวจสอบตัวเลือกด้านล่าง~SELECT_OPTIONS~
+0x689470D4 คุณสมบัติ~ID_STRING1~
+0x537FD947 ปรับแต่งเอง~IDPROP_SETUPTYPE_CUSTOM~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x39040F38 ไฟล์ Read Me~README~
+0x1F726BCA เล่น~PLAY_SPORE~
+0x7E9C7EC7 ถัดไป (&N) >~IDS__DialogId_10105_ControlId_1~
+0x02699E57 รูปแบบการติดตั้ง~SETUP_TYPE_TITLE~
+0x2BF6EA98 ไดร์ฟปัจจุบันที่เลือกมีพื้นที่ว่างไม่เพียงพอ คุณสามารถลบไฟล์ออกจากไดร์ฟดังกล่าวหรือเลือกไดร์ฟปลายทางใหม่~NO_SPACE_MSG~
+0x38A8F152 ยินดีต้อนรับสู่ ~string~~WELCOME_SPORE_TITLE~
+0x44CA6AE6 ต้องการแอคเคานท์ผู้ดูแลระบบในการติดตั้ง~ADMINISTRATOR_ACCOUNT~
+0x2A8D9AF3 ส่วนช่วยเหลือของอีเอ~EA_HELP~
+0x7426EAA1 ไอคอนลัดหน้าจอ~DESKTOP_SHORTCUT~
+0x15538FF6 รูปแบบการติดตั้ง~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 เลือกรูปแบบการติดตั้งที่คุณต้องการ~IDS__DialogId_10105_ControlId_51~
+0x303D349E ไฟล์: ~string~~br~ข้อผิดพลาด: ~string~~COMP_ERROR_MSG~
+0x0AA43B92 ตามคำแนะนำ~RECOMMENDED~
+0x7E8BB5FD การติดตั้งเสร็จสมบูรณ์~INSTALLATION_COMPLETE~
+0x74C9257A ติดตั้งแบบสมบูรณ์~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x7CF6B4E8 ติดตั้งแบบปรับแต่งเอง~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x6CD070E6 ไม่พบข้อมูลบางอย่างที่จำเป็นสำหรับถอนการติดตั้ง อาจมีความผิดพลาดเกิดขึ้นขณะทำการติดตั้งครั้งแรก  คุณอาจจำเป็นต้องลบไฟล์และแฟ้มข้อมูลบางส่วนออกด้วยตัวเอง~MISSING_UNINSTALL~
+0x05082CC9 แบบสมบูรณ์~IDPROP_SETUPTYPE_COMPLETE~
+0x15CC67E6 ~string~ จะถูกติดตั้งใน~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x159098E0 < ย้อนกลับ (&B)~IDS__DialogId_10105_ControlId_12~
+0x7B152168 คลิกปุ่ม "ติดตั้ง" เพื่อเริ่มการติดตั้ง~br~~br~หากคุณต้องการตรวจสอบหรือแก้ไขการตั้งค่าใดๆ ให้คลิกปุ่ม "ย้อนกลับ" หรือคลิกปุ่ม "ยกเลิก" เพื่อออก~BEGIN_INSTALLATION~
+0x72AA3BC2 เลือกคุณสมบัติที่คุณต้องการติดตั้ง และยกเลิกคุณสมบัติที่คุณไม่ต้องการ คลิกปุ่ม "ถัดไป" เพื่อดำเนินการต่อ~IDS__DialogId_10105_ControlId_901~
+0x494AA82F การทำงานถูกขัดขวางก่อนถอนการติดตั้ง ~string~ สำเร็จ~br~~br~กรุณาเลือกถอนการติดตั้งอีกครั้งเพื่อดำเนินการจนเสร็จสมบูรณ์~UNINSTALL_INCOMP~
+0x27D33671 ตำแหน่งไฟล์ที่คุณเลือกยาวเกินไป กรุณาเลือกตำแหน่งไฟล์ที่สั้นกว่านี้~DIR_TOO_LONG~
+0x151DEC2F SPORE(tm) อาจทำงานได้ไม่ถูกต้องหากไม่มี DirectX~DIRECTX_WARNING~
+0x16741C9F เปิด ~string~ เมื่อติดตั้งเสร็จ~LAUNCH_SPORE~
+0x40D6F8BD เปิดไฟล์ ReadMe.txt เมื่อติดตั้งเสร็จ~VIEW_README~
+0x166E669A ไม่สามารถติดตั้งใน ~string~ ได้~br~กรุณาเลือกไดเร็คทอรี่อื่น~DANGEROUS_DIRECTORY_ERROR~
+0x4782CC9F Option9~IDS__DialogId_10105_ControlId_609~
+0x4782CC92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782CC97 Option1~IDS__DialogId_10105_ControlId_601~
+0x4E1203F5 คุณต้องการติดตั้ง EA Download Manager เวอร์ชันล่าสุดหรือไม่? หากคุณไม่ได้ติดตั้ง EA Download Manager เวอร์ชันล่าสุด แพตช์และคุณสมบัติบางประการอาจไม่สามารถส่งมาที่เครื่องของคุณได้~EADM_INSTALL~
+0x4782CC93 Option5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Option2~IDS__DialogId_10105_ControlId_602~
+0x46A61B9B ไม่พบ ~string~ ~MISSING_FILES~
+0x01FCAF57 My Spore Creations~SAVE_FOLDER~
+0x4782CCA0 Option8~IDS__DialogId_10105_ControlId_608~
+0x4782CC91 Option7~IDS__DialogId_10105_ControlId_607~
+0x0537CFA1 ถอนการติดตั้ง ~string~~UNINSTALL~
+0x144073D1 ~string~ จะถูกติดตั้งในไดเร็คทอรี่ที่คุณเลือก~CUSTOM_SPORE_SETUP~
+0x3017EF99 คุณต้องการลบข้อมูลผู้ใช้ทั้งหมดที่ถูกสร้างโดย ~string~ หรือไม่~REMOVE_USERDATA~
+0x4DE32707 กรุณาหยุดการทำงานของ ~string~ ก่อนดำเนินการต่อไป~GAME_RUNNING_STRING~
+0x4782CC94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782CC95 Option3~IDS__DialogId_10105_ControlId_603~
+0x6A8319B9 เว็บไซต์ Spore.com~SPORE_WEB~
+0x64A17D06 เกิดความผิดพลาดขณะทำงาน  การติดตั้งไม่สามารถดำเนินการต่อไปได้และจำเป็นต้องหยุดลงเดี๋ยวนี้~GENERAL_ERROR~
+0x7D4A4E2F ปรับแต่งเอง~CUSTOM~
+0x16FBAEAF คุณพร้อมสำหรับการเล่น ~string~ แล้ว~READY_TO_PLAY~
+0x59450AC4 รูปแบบการติดตั้ง~br~เลือกรูปแบบที่ต้องการติดตั้งด้านล่าง~SETUP_TYPE_MESSAGE~
+0x1498EC13 เตรียมพร้อมสำหรับการติดตั้งแล้ว!~READY_TO_INSTALL~
+0x06220BA5 คลิกปุ่ม "ถัดไป" เพื่อติดตั้ง ~string~ ลงในเครื่องคอมพิวเตอร์ของคุณ~WELCOME_SPORE_MESSAGE~
+0x0D849C4A คลิกปุ่ม "สิ้นสุด" เพื่อออก~CLICK_FINISH~
+0x353F37C7 คุณจำเป็นต้องถอนการติดตั้ง ~string~ คลิก ใช่ เพื่อถอนการติดตั้ง SPORE(tm) ซึ่งจะรวมไปถึงคุณสมบัติอื่นๆจากโปรแกรมกำเนิด SPORE และคุณจะสามารถเก็บสิ่งมีชีวิตทั้งหมดที่คุณได้สร้างไว้ได้~SPORE_REMOVE_CSA_WARNING~
+

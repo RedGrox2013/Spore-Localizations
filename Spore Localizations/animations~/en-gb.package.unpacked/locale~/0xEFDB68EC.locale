@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5D These vehicles follow another assigned cast member.
+0x079EDF5C These vehicles move back and forth between two points.
+0x079EDF5B These vehicles move around randomly about their starting location.
+0x079EDF5A These vehicles stand in place.
+0x079817BE These creatures follow another assigned cast member.
+0x079817BA These creatures move back and forth between two points.
+0x079817B5 These creatures move around randomly about their starting location.
+0x079817B1 These creatures stand in place.
+
+# Planet Paint
+
+0xB6AFCFC2 Cloud Style
+0xB6AFCFC1 Flowers
+0xB6AFCFC0 Ground Cover
+
+#Goals:
+
+0x0798178C Prevent these ~ep1_current_cast~ from coming into contact with another cast member.
+0x07981789 Bring these ~ep1_current_cast~ to another cast member.
+0x07981782 Give these ~ep1_current_cast~ to another cast member.
+0x07981798 Prevent these ~ep1_current_cast~ from being destroyed.
+0x07981785 Collect these ~ep1_current_cast~.
+0x07981764 Move near these ~ep1_current_cast~.
+0x0798177B Talk with these ~ep1_current_cast~.
+0x0798177E Hold these ~ep1_current_cast~.
+0x0798176F Destroy these ~ep1_current_cast~.
+0x07981773 Socialize with these ~ep1_current_cast~.
+0x07981777 Ally these ~ep1_current_cast~ to join your crew.
+
+# Cloud Names
+
+0x56AFCF70 Default
+0x56AFCF74 Pollen
+0x56AFCF75 Sponge
+0x56AFCF73 Web
+0x56AFCF71 Curly
+0x56AFCF72 Alien
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E91 vehicles
+0x07981E92 buildings
+0x07981E93 objects
+0x07981E90 creatures
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Click on a creature, building or vehicle to remove it permanently from your game.~br~To remove the Adventure permanently from your game, quit the Adventure and open Sporepedia (press the "B" key).  In Sporepedia, find the Adventure you'd like to remove, select it and then click the Ban Creation button in the lower right hand corner.  This will remove the Adventure, but not the creations within it - you must remove those individually.~br~A report about the creation will be sent to the Spore Customer Service team.
+
+#Awareness:  
+
+0x07981DE3 Determines how far these creatures can see.
+0x079EDF5E Determines how far these vehicles can see.
+
+#Stances:
+
+0x079EDF55 These vehicles attack enemy units on sight.
+0x079EDF56 These vehicles warn before attacking.
+0x079EDF59 These vehicles flee if attacked.
+0x079EDF58 These vehicles only defend themselves if attacked.
+0x079EDF57 These vehicles are never distracted from assigned behavior.
+0x0798179D These creatures attack enemy units on sight.
+0x079817A5 These creatures are never distracted from assigned behavior.
+0x079817A1 These creatures warn before attacking.
+0x079817AD These creatures flee if attacked.
+0x079817A9 These creatures only defend themselves if attacked.
+
+#Pickup:
+
+0x079817C5 These creatures pick up the assigned tool.
+0x079817C2 These creatures pick up any tool.
+
+# Grass Effect Names
+
+0x56AFCE77 Spikes
+0x56AFCE78 Sandstone
+0x56AFCE79 Swiss
+0x56AFCE70 Arizona
+0x56AFCE71 Claymation
+0x56AFCE75 Granite
+0x56AFCE76 Organic
+0x56AFCE74 Crystal
+0x56AFCE72 Conglomerate
+0x56AFCE73 Coral
+0x56AFCE7C Lava Rocks
+0x56AFCE7D Shitaake
+0x56AFCE60 None
+0x56AFCE7A Ice Rocks
+0x56AFCE7B Regular Rocks
+
+# posse ui
+
+0x0760B242 Crew
+
+#mission ending description#
+
+0x0760B241 Fin
+
+0x0760B0FA Winning Text:
+0x0760B0FB Losing Text:
+0x0760B0F9 Introduction:
+0x0760B0F8 Act ~ep1_current_act~ Description & Music
+0x075E4C79 Set Goal Type
+0x075E4C78 Drag Goal to Cast Member
+
+#Teams:
+
+0x07981E72 These buildings will be attacked by cast members on enemy teams.
+0x07981E71 These creatures never attack other cast members on their team.
+0x079EDF5F These vehicles never attack other cast members on their team.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Act ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE This Adventure has an act with no goals. The Player will not be able to win the Adventure unless the Act has a goal or it is the last Act in the Adventure. Do you want to save it anyway?
+
+#Give:
+
+0x079817CE These creatures give a tool to assigned cast member.
+0x079817C9 These creatures give a tool to any cast member.
+

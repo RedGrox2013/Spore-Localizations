@@ -1,0 +1,14 @@
+﻿# For SporeAlert message box caption
+
+0x07D1E41A 警告
+
+# message for diaglog shown when assets are downloaded from a 
+# sporecast marked with the notify flag by the server.
+
+0x07C3B843 正在從 ~SyncName~ Spore網路播客下載 ~SyncNum~ 個免費新項目。
+
+# Scenario variations of the banning messages
+
+0x07D9DB8E 這是本地端內容。你確定要刪除「~generic0~」？~br~~br~請注意，你在本冒險中獲得的分數將不列入計算。
+0x07D9DB89 你確定要從遊戲中移除這個「~generic0~」？~br~~br~請注意，你在本冒險中獲得的分數將不列入計算。
+

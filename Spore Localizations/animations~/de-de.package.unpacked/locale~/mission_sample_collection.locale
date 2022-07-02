@@ -1,0 +1,255 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000BC ...
+0x00000041 Nein, aber danke für das Angebot!
+0x0000000A Durch eine vollautomatische Untersuchung erfuhr der Große Rat kürzlich von einer Welt, die möglicherweise besiedelbar ist. Um herauszufinden, ob das tatsächlich der Fall ist, müssen unsere Wissenschaftler am Institut für Einheitlichkeit die dortigen Tiere und Pflanzen eingehend untersuchen. Würdest du sie dabei unterstützen?
+0x000000A4 MISSIONSSTATUS: Von Auftragnehmer abgebrochen; Mission fehlgeschlagen. ~p~ÄUSSERUNG EXTREMER ABNEIGUNG: Die Zusammenstellung deiner Gesichtszüge ist missglückt, und deine Kleidung zeugt von der Fragwürdigkeit deines schwangerschaftsbedingten Herkunftsorts. ~p~BEGRÜNDUNG/ANDERE: Du weißt, was du getan hast! ~p~HINWEIS ZUM ABBRUCH DER VERBINDUNGEN: Wir sind fertig mit dir. Raus!
+0x0000009D Tja, ich muss noch wohin ...
+0x00000008 Spode sei gepriesen! Eine neue Welt wurde entdeckt, voll von Spodes Werken! Wirst du uns helfen, diese neue Schöpfung zu untersuchen?
+0x00000007 Spodes Wege sind vielgestaltig und mannigfach. Eine Welt wurde entdeckt, reich an Organismen und möglicherweise geeignet als Niederlassung, von der aus Spodes Licht in die ganze Galaxie projiziert werden kann. ~p~Würdest du uns bei diesem geheiligten Vorhaben behilflich sein?
+0x0000003D Okay, ich bin weg.
+0x00000012 Wir denken darüber nach, auf den Planeten ~mission_target_planet~ umzusiedeln, denn wir wollen statt endloser und langweiliger Partys und Feste lieber die unbändige Kraft des Forschergeistes und die Lebendigkeit eines fremdartigen Ökosystems. Aber können wir dort überhaupt leben? Ohne Untersuchung ist das nicht festzustellen. ~p~Würdest du kurz zum Planeten ~mission_target_planet~ fliegen und für uns eine Untersuchung durchführen?
+0x0000000C Eines unserer Forschungsschiffe wurde kürzlich von Piraten überfallen. Dabei gingen die Daten vom Planeten ~mission_target_planet~ verloren. Würdest du für uns eine neue Untersuchung durchführen?
+0x000000C1 Wir wollen auf dem Planeten ~mission_target_planet~ siedeln, möchten aber unangenehme Überraschungen ausschließen. Kannst du ihn untersuchen?
+0x0000005F Der Große Rat wartet immer noch auf die Untersuchung sämtlicher Pflanzen und Tiere vom Planeten ~mission_target_planet~. Wirst du deine Mission im Sternsystem ~mission_target_star~ abschließen? Alle Einzelheiten stehen in deinem Missionstagebuch.
+0x000000DE Wir warten immer noch auf die Proben vom Planeten ~mission_target_planet~. Alle Anforderungen stehen in deinem Missionstagebuch. Wann können wir mit der Lieferung rechnen?
+0x000000C2 Es ist notwendig, die Pflanzen und Tiere auf dem Planeten ~mission_target_planet~ zu untersuchen. Und du wirst das erledigen.
+0x00000077 All die kostbaren Mirakel des Kosmos werden sich Bissen für Bissen unseren Schlünden erschließen! Du wirst nach deiner Rückkehr eingehen in die Annalen der gastronomischen Geschichtsschreibung, gefeiert als kulinarischer Held und Bonvivant par excellence, bis dass das Zeitgefüge selbst entzweibricht. ~p~Schon der Gedanke an dieses Mahl lässt mir das Wasser im Munde zusammenlaufen. Nein, das stimmt nicht. Ich *sabbere* beim Gedanken an dieses Fest von planetarischen Ausmaßen. Ich habe jedes Gefühl von Haltung und Scham verloren!
+0x000000F0 Ah, natürlich! Das Missionstagebuch! Ich sehe sofort nach!
+0x000000E0 Danke! Mit etwas Glück ist dieser Planet ideal für ein Siedlungsprojekt!
+0x000000CE Du hast alle Proben. Kehre zum Planeten ~mission_source_planet~ im Sternsystem ~mission_source_star~ zurück und hol dir deine Belohnung ab!
+0x00000076 Ah, hey, danke, Mann! Du bist hässlich, aber auf unsere Art, und das gefällt uns. ~p~Du machst dich jetzt besser auf den Weg. Der Planet findet sich nicht von selbst. ~p~Also dann, mach dich vom Acker! Verzieh dich! Abgang!
+0x000000EF Ich möchte die Details meiner Mission noch einmal durchgehen.
+0x000000EE Die Einzelheiten meiner Mission sind mir entfallen.
+0x00000079 Lass die Mission weitergehen! Spode erleuchte deinen Weg!
+0x000000E4 Du denkst wohl, du hättest was Besseres zu tun, als Bäume hin- und herzuwuchten!
+0x000000F2 Also ...
+0x00000078 MISSIONSSTATUS: Vom Auftragnehmer angenommen; andauernd. ~p~ÄUSSERUNG ZUR PSYCHOLOGISCHEN ERMUNTERUNG: Danke. Großartig! ~p~STATUS DES AUFTRAGNEHMERS: Abreisend.
+0x000000F1 Bevor ich gehe, habe ich noch ein paar Fragen ...
+0x0000003F Nein, ich hab da noch andere Sachen laufen.
+0x000000ED Ich muss mir meine Mission noch mal durchsehen.
+0x000000E9 Ich sehe, dass du beschäftigt bist. Wir reden später.
+0x0000003B Bin gleich wieder da.
+0x0000006C Das ist zu verwirrend. Ich kündige.
+0x00000069 Eines noch, bevor ich gehe ...
+0x000000D1 Eines noch ...
+0x000000E8 Vielleicht ein andermal . Bis dann!
+0x00000009 Stark im Glauben, bereiten sich unsere Pilger darauf vor, als Pioniere zu einer neu entdeckten Welt vorzudringen. Doch es fehlt uns an Informationen darüber, welche Spezies uns dort erwarten. Wirst du uns dabei helfen, Spodes Arbeit in dieser neuen Welt zu untersuchen?
+0x000000E6 Du hast uns die Pflanzen und Tiere vom Planeten ~mission_target_planet~ nicht gebracht. Unsere Biologen stehen völlig umsonst hier rum.
+0x00000040 Weißt du was? Ich verzichte.
+0x00000068 Ich brauche noch eine andere Information ...
+0x000000EC Ah, natürlich! Das Missionstagebuch! Ich sehe sofort nach!
+0x000000EB Ich bitte um Verständnis.
+0x00000066 Wunderbar! Mögen positive Energien deinen Weg erleuchten!
+0x00000075 Großartig! Es zeichnet dich wirklich aus, dass du uns hilfst. Wusstest du das?~p~Wir würden ja selbst gehen, aber kaum sind wir an der Heliopause, fragt sich wieder irgendeiner, ob er zu Hause den Wasserhahn hat laufen lassen. Das führt natürlich zu Panik, und ehe man sich's versieht, ist das Schiff auf dem Rückweg. ~p~Bevor du jetzt gehst, solltest du dich vergewissern, dass das Bügeleisen aus ist ... und alles andere auch, okay?
+0x000000E5 Wir werden deine Auslöschung so schmerzfrei wie möglich gestalten.
+0x00000067 Kann ich eine kurze Frage stellen?
+0x000000EA Ich sehe, du brauchst einen Moment Zeit. Leb wohl!
+0x0000003A Man sieht sich!
+0x000000D0 Du hast die Proben nicht schnell genug gesammelt. Kehre zum Planeten ~mission_source_planet~ im Sternsystem ~mission_source_star~ zurück und überbringe die schlechte Nachricht!
+0x0000007E Großartig! Wir erwarten deine Rückkehr mit einem Frachtraum voller Dinge mit Blättern oder Fell!
+0x000000E1 Begib dich sofort auf die Untersuchungsmission!
+0x0000000F Jemand in der Archivabteilung hat anscheinend die Untersuchung des Planeten ~mission_target_planet~ unter der falschen 26-stelligen Nummer abgelegt, und jetzt finden wir die Daten nicht mehr. Das ist sehr ärgerlich, weil wir gehofft hatten, dort eine Siedlung errichten zu können. Würdest du für uns eine neue Kurzanalyse durchführen?
+0x000000FA Ich sehe, dass du beschäftigt bist. Wir reden später.
+0x000000F9 Bis zum nächsten Mal! Bis dann!
+0x000000A0 Verarschst du mich, Kumpel? Du willst mich verladen, oder? ~p~Nicht? OH NEIN! OH NEIN! DAS IST JA FURCHTBAR!!! DER HIMMEL STÜRZT EIN! DER HIMMEL - ~p~Entschuldigung, hab die Beherrschung verloren. Es ist nur, wenn der Kaiser wütend ist, wird er immer so ... stechfreudig. ~p~Okay. Denk nach! Denk nach! Ich finde eine Lösung. Ich schaffe das. ~p~Nein. Ich schaffe es nicht. Ich bin verloren!
+0x000000FB Ich bitte um Verständnis.
+0x000000D2 Es tut uns leid, dich belästigt zu haben. Bis dann!
+0x000000E2 Nun komm schon! Das macht bestimmt Spaß!
+0x000000C3 Eine Liste sämtlicher Pflanzen und Tiere auf dem Planeten ~mission_target_planet~ muss erstellt werden. Du hast ohnehin nichts Besseres zu tun.
+0x0000006B Das ist hart. Ich kündige.
+0x0000006D Ich finde den Planeten nicht. Ich bin am Ende.
+0x000000C4 Für unsere Studien zur Umweltzerstörung benötigen wir mehr Proben. Und du wirst sie besorgen.
+0x0000007D Wir erwarten mit Spannung die Ergebnisse dieses Tests deiner Intelligenz.
+0x00000072 Stimmt! Das ergibt Sinn. Bin schon weg.
+0x000000F4 Ich würde lieber etwas anderes machen.
+0x000000F3 Eines noch ...
+0x0000006A Ich muss dich etwas fragen.
+0x00000063 Wo sind die Lebensformen vom Planeten ~mission_target_planet~? Wir wollen ihre metaphysischen Wunder begreifen.
+0x0000003C Auf mich kann man zählen.
+0x000000C7 Sammle Proben der Pflanzen und Tiere vom Planeten ~mission_target_planet~!
+0x000000F8 Es tut uns leid, dich belästigt zu haben. Bis dann!
+0x000000E3 Wir raten dir, gut nachzudenken, bevor du uns noch einmal zurückweist.
+0x0000000E Bei einem Piratenangriff wurde das Schiff zerstört, das gerade auf dem Rückweg von der Untersuchung des Planeten ~mission_target_planet~ war. Die ersten Daten deuten darauf hin, dass diese Welt ein höchst interessantes Biom beherbergt. Würdest du in unserem Namen die Untersuchung abschließen?
+0x000000F7 Ich kann diese Aufgabe nicht übernehmen. Bitte verzeih mir!
+0x000000F6 Diese Aufgabe passt nicht mehr in meinen Terminplan.
+0x0000007C Ausgezeichnet! Wir werden sofort Siedler aus einem Vorrat von Freiwilligen auswählen.
+0x00000095 Jedes Handeln löst Konsequenzen aus. Wusstest du das nicht?
+0x00000070 Genau diese Info wollte ich. Danke.
+0x0000001D Wir wollen auf dem Planeten ~mission_target_planet~ siedeln, aber zuerst muss er untersucht werden. Würdest du uns dabei unterstützen?
+0x0000008C Oh, das ist eine fürchterliche Enttäuschung! Wir hatten uns so nach diesem subtilen und sich ergänzenden Zusammenspiel von Geschmäcken und Konsistenzen gesehnt, wie sie nur auf diesem einen Planeten vorkommen. ~p~Zweifelsohne werden wir irgendwann einen anderen abenteuerlustigen Feinschmecker finden, der uns bei unseren epikureischen Bestrebungen unterstützt. Wir werden uns bis dahin in stetiger Vorfreude auf diese neue Geschmackssensation üben. Hungernd erstreben wir jedwede neuartige Genussvariante für unsere Mundhöhle.
+0x0000001E Unsere Flotte ist gerade mit bei Manövern zur Einschüchterung unserer Nachbarn beschäftigt. Allerdings müsste der Planet ~mission_target_planet~ dringend untersucht werden. Bist du interessiert?
+0x0000008A Oh. Das ist eine herbe Enttäuschung. Wir haben kaum Besucher (die nicht alles mutwillig zerstören), deshalb wird es wohl eine Weile dauern, bis wir jemanden finden, der uns hilft. ~p~Wir würden es ja selbst machen, aber das geht leider nicht ... wir dürfen nicht schwer heben. Die medizinische Fachliteratur ist voll mit Artikeln über unsere Probleme mit der unteren Rückenpartie.
+0x000000B5 Du kamst. Du sahst. Du machtest ... irgendwas, da sind wir ganz sicher.
+0x00000096 Die Pflanzen und Tiere müssen dich mit einem mächtigen spirituellen Schild blind gemacht haben. Aber vielleicht warst du ja ohnehin nicht der Hellste.
+0x0000001C Das Ökosystem des Planeten ~mission_target_planet~ hat anscheinend einige außerordentliche Eigenschaften. Könntest du eine Untersuchung durchführen und uns Bericht erstatten?
+0x00000050 Kann ich eine kurze Frage stellen?
+0x0000008E Wesen ohne Erleuchtung wie du sind einfach zu beschränkt, um Spodes Herrlichkeit zu würdigen. Leb wohl!
+0x000000D7 Der Stern ist ~mission_clue_range_min~ bis ~mission_clue_range_max~ Parsec von ~mission_clue_landmark1~ entfernt.
+0x000000B2 Waren Pflanzen und Tiere zu viel für dich? Ohne Spodes Licht wirst du wohl nie deinen Weg finden.
+0x00000051 Ich brauche noch eine andere Information ...
+0x0000001F Als wir diese Welt besiedelt haben, wurden sämtliche langweiligen oder hässlichen Pflanzen und Tiere einfach beseitigt. Offenbar sind wir zu weit gegangen ... jetzt droht das gesamte Ökosystem zusammenzubrechen! Kannst du uns helfen?
+0x0000008D MISSIONSSTATUS: Vom Auftragnehmer abgelehnt; offen verfügbarer Auftrag. ~p~MISSFALLENSÄUSSERUNG: Du bist total zum Kotzen. ~p~BEGRÜNDUNG/ANDERE: Du weißt, was du getan hast! ~p~ÄUSSERUNG ANLÄSSLICH DER SPONTANEN ABREISE: Egal.
+0x00000018 Aus dem Einen werden Viele, und aus den Vielen werden Viel Mehr, und doch bleiben alle der Eine, außer denen, die in ihrem Einer-Sein nicht standhaft sind. Unter den Viel Mehr gibt es einen neu entdeckten Planeten, ~mission_target_planet~. Wir wissen nicht, ob er Teil des Einen oder des Nicht-Einer-Sein ist, und müssen das untersuchen. Willst du das übernehmen?
+0x000000B8 Der Planet ~mission_target_planet~ verfügt über eine entwicklungsfähige Biosphäre. Verschaffst du uns einen genaueren Überblick?
+0x00000098 Ich brauche noch eine andere Information ...
+0x00000017 Wir haben eine völlig neue Welt entdeckt, noch unberührt in ihrer Pracht! Wir müssen herausfinden, ob sie ein passendes Refugium für Auren- und Kartenleser, Kristallkugelschauer, Medien oder Telefondesinfizierer sein könnte - oder sogar für alle davon. Hilfst du uns bei der Untersuchung?
+0x000000B6 Dämliche Pflanzen und Tiere haben dich scheitern lassen? Schau mal auf unseren Basar, vielleicht verkauft dir dort jemand ein bisschen Hirn.
+0x0000001A Unsere Aufklärungsteams klären gerade alle irgendwo irgendjemanden auf und können keine vorschriftsmäßige Untersuchung des Planeten ~mission_target_planet~ durchführen. Möchtest du das stattdessen übernehmen?
+0x000000A8 Du hast die Untersuchungsmission abgebrochen? Aber wir hatten sie doch extra für dich idiotensicher gemacht!
+0x00000019 Auf dem Planeten ~mission_target_planet~ wurde kürzlich ein vollständiges Ökosystem entdeckt. Diese neuen Spezies sind vielleicht eine wertvolle Ergänzung für unser Lagerhaus der Naturwunder. Wir möchten diese Welt untersuchen, um herauszufinden, ob irgendeine der Spezies gefährlich ist, und ob es sinnvoll wäre, sie unserem Lebensnetz hinzuzufügen. ~p~Würdest du diese Untersuchung für uns durchführen?
+0x00000097 Kann ich eine kurze Frage stellen?
+0x00000088 Das ist eine große Enttäuschung und wird mit Sicherheit in deiner Akte vermerkt. ~p~Eigentlich bin ich nur überrascht. Ich habe deine Akte gelesen, von wegen 'furchtloser Abenteurer' und so, aber das bist du ja wohl nicht. ~p~Ich finde schon jemand anderen.
+0x000000AF Ich habe viel zu tun. Du verstehst.
+0x00000025 Wie finde ich das?
+0x00000028 Das passt gerade gar nicht. Vielleicht später.
+0x00000004 Jetzt sieh dir mal diesen traurigen Misthaufen an, den wir Heimat nennen! Wir haben ihn satt! Von vorne bis hinten! Alles daran! Das komplette Ökosystem! ~p~Wir waren gegenüber unseren Pflanzen und Tiere viel zu lange nachsichtig. Aber jetzt müssen sie weg! ~p~Finde den Planeten ~mission_target_planet~ und sammle ein Exemplar von jeder Pflanzen- und Tierspezies dort! Die tauschen wir dann gegen diese armselige Müllhalde von DNA aus, die im Moment noch Platz auf diesem Felsbrocken verschwendet. So eine Veränderung ist ja vielleicht ganz amüsant.
+0x000000B0 Ich bin dermaßen fertig mit dieser Mission!
+0x00000024 Ist dieser Ort weit entfernt?
+0x00000026 Das scheint mir übertrieben. Nein, danke!
+0x00000027 Äh! Ich kann gerade nicht. Hab was am Laufen.
+0x000000AD Wir haben kürzlich entdeckt, dass der Planet ~mission_target_planet~ voller Leben ist. Um herauszufinden, ob wir dort siedeln können, brauchen wir Proben der dortigen Lebensformen. Willst du das übernehmen?
+0x000000AC Formuliere deine Anfrage neu! Meine Notizen sind unklar.
+0x000000AE Nichts für ungut, Kleiner!
+0x0000000B Der Große Rat hat beschlossen, dass der Planet ~mission_target_planet~ sofort untersucht werden soll, aber alle unsere Forschungsschiffe sind woanders im Einsatz. Hilfst du uns?
+0x00000003 Es ist schon wieder passiert! Diese Witzbolde! Einige jugendliche Straftäter aus einem Nachbarsystem haben in unserem Biom ein Chaos angerichtet. Die Pflanzen und Tiere wurden wiederholt beschmiert, mit Klopapier umwickelt und geärgert. Sie haben an ihnen rumgespielt und sie angepinkelt. Jetzt sehen sie langsam ziemlich runtergekommen aus. Darum werden wir den Laden mit ein paar neuen Spezies wieder auf Vordermann bringen.~p~Finde den Planeten ~mission_target_planet~ und bring uns Proben seiner Bewohner! Von jedem eine.
+0x00000020 Der Planet ~mission_target_planet~ braucht dringend eine Frischzellenkur. Hilfst du uns, ihn neu zu bepflanzen und zu gestalten?
+0x00000071 Ah, okay. Ich glaub, ich hab's kapiert.
+0x000000DB Der Stern heißt ~mission_target_star~.
+0x0000008F Na gut. Dann besorgen wir die Proben eben irgendwie anders. Leb wohl!
+0x00000094 Dann führen wir die Untersuchung eben selbst durch. Leb wohl!
+0x000000B1 Seien wir ehrlich! Es hat einfach nicht funktioniert.
+0x00000023 Wie finde ich diesen Planeten?
+0x00000091 Du willst dir diese neue Welt nicht mal ansehen? Hast du etwa auch noch Allergien?
+0x00000021 Ups! Als wir nach der letzten Party aufgewacht sind, mussten wir feststellen, dass wir versehentlich die letzten Exemplare einiger wohlschmeckender Spezies geschlachtet und aufgegessen hatten. Wärst du daran interessiert, uns beim Wiederauffüllen der Bestände zu helfen?
+0x00000093 Du hast Glück, dass wir so tolerant sind.
+0x00000022 Ist es schwierig, diesen Planeten zu finden?
+0x00000029 Tut mir leid, bin gerade schwer beschäftigt.
+0x00000053 Ich muss dich etwas fragen.
+0x00000083 Würdest du es dir anders überlegen, wenn du etwas erschießen dürftest?
+0x0000009C Vielleicht ein andermal. Man sieht sich!
+0x0000006F Okay, danke. Hab's kapiert.
+0x00000099 Nur eines noch, bevor ich gehe!
+0x00000033 Nimm Kurs auf den Planeten ~mission_target_planet~! Er umkreist ~mission_target_star~. Sammle jeweils eine Probe aller Pflanzen und Tiere und komm dann hierher zurück!
+0x00000013 Eine unserer Handelsmissionen kam kürzlich an einer Welt vorbei, die vielleicht für die Besiedlung geeignet ist. Unglücklicherweise musste sie rasch weiter, um einige Konsumgüter zu liefern, und konnte deshalb den Planeten nicht näher untersuchen. ~p~Für ein Wesen von deiner Pracht wäre es doch ein Leichtes, Planeten und Tiere zu untersuchen. Dürfen wir dich mit einer angemessenen Belohnung in Versuchung führen?
+0x00000016 Wir haben eine neue Welt im ~mission_target_star~-Sternsystem entdeckt. Einer unserer besten Hellseher hat geträumt, dass uns eine der Lebensformen auf diesem Planeten dabei helfen könnte, Ektoplasma herzustellen. Hilfst du uns bei unseren Nachforschungen?
+0x0000009A Ich muss dich etwas fragen.
+0x00000015 Wir haben eine neue Welt entdeckt, die möglicherweise für die Ausbeutung durch unsere Industriekartelle geeignet ist. Zunächst brauchen wir jedoch eine Aufstellung der natürlichen Rohstoffe, damit wir wissen, welche Industriezweige in Frage kommen. Würdest du vielleicht eine derartige Untersuchung durchführen, sofern dir die Belohnung angemessen erscheint?
+0x00000055 Freut mich, dass ich helfen konnte. Leb wohl!
+0x00000054 Hat Spaß gemacht. Pass auf dich auf!
+0x00000082 Von nicht-aktualisierten Wesen wie dir können wir wohl kaum Interesse an diesen wichtigen Angelegenheiten erwarten.
+0x00000056 Schön, dass ich helfen konnte. Geben ist seliger denn nehmen.
+0x00000057 Ich helfe gerne aus. Man sieht sich!
+0x0000009B Tut mir leid, dass ich nicht helfen konnte.
+0x00000052 Eines noch, bevor ich gehe ...
+0x00000014 Der Planet ~mission_target_planet~ eignet sich möglicherweise für die Errichtung einer Handelsstation! Aber bevor wir ihn besiedeln, muss zunächst eine Untersuchung durchgeführt werden. Für ein Wesen deiner Herrlichkeit ist das sicher eine triviale Angelegenheit ... die wir natürlich angemessen vergüten.
+0x000000C0 Also ...
+0x00000006 ERSTES ZIEL: Finde den Planeten ~mission_target_planet~! ~p~ZWEITES ZIEL: Sammle Proben der gesamten Flora und Fauna! Danach Rückkehr! ~p~BEGRÜNDUNG/ANDERE: Sie wissen, was sie taten! ~p~BEZAHLUNG: ~mission_rewards~ Spore-Dollars.
+0x00000049 Der Große Rat gratuliert dir zu einer erfolgreichen Mission. Ich bin ermächtigt, dir ein Belobigungszertifikat zweiter Klasse und ~mission_rewards~ Spore-Dollars zu überreichen.
+0x00000048 Spodes Ruhm leuchtet in jeder dieser Proben! Bitte nimm deine ~mission_rewards~ Spore-Dollars und rede auf dem Weg nach draußen mit unserem missionarischen Bruder!
+0x000000C5 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Bring uns jeweils eine Probe aller Pflanzen und Tiere!
+0x00000002 Ich bedaure, aber ich muss ablehnen.
+0x00000058 Na los! Komm zu dir! Du musst dich konzentrieren, wenn du den Planeten ~mission_target_planet~ finden willst: ~p~~group:star_clue~, dann zahlen wir dir ~mission_rewards~ Spore-Dollars, wenn du uns Proben sämtlicher Lebensformen für unser Arkologie-Projekt bringst.
+0x0000009E Ich muss doch sehr bitten. Das kann ich nicht machen!
+0x00000059 Eines noch ...
+0x000000BB Also ...
+0x0000004E Danke für deine Hilfe! Die Daten legen nahe, dass der Planet ~mission_target_planet~ über ausgezeichnete Rohstofflager verfügt und ideale Flächen für Baracken und Bohranlagen bietet. ~p~Viel Spaß mit deinen ~mission_rewards~ Spore-Dollars!
+0x00000045 Oh, sieh dir das an! Diese Pflanzen. Auch nicht besser als der letzte Schwung! Und die Tiere. Ich will gar nicht davon anfangen! ~p~Na ja ... Aber was soll man machen? Vertrag ist Vertrag. Hier sind die versprochenen ~mission_rewards~ Spore-Dollars. ~p~Wir werden jetzt das planetare Biom komplett austauschen, du kannst dich also verziehen. Man sieht sich!
+0x0000003E Ich möchte dich etwas anderes fragen ...
+0x000000D3 Probensammlung vollständig. Kehre zum ~mission_source_star~-Sternsystem zurück!
+0x0000004B Spodes Ruhm leuchtet in jeder dieser Proben! Bitte nimm deine ~mission_rewards~ Spore-Dollars und rede auf dem Weg nach draußen mit unserem missionarischen Bruder!
+0x0000002F WICHTIGE INFORMATION: ~group:star_clue~ ~p~WIEDERHOLE BEZAHLUNGSINFORMATION: ~mission_rewards~ Spore-Dollars. ~p~FRAGE: Werden Auftragsklauseln akzeptiert?
+0x00000030 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~-System. Sammle eine Probe aller Werke Spodes, Pflanze wie Tier, und komm dann zurück!
+0x0000004C Dein Licht lässt die Sterne wahrlich erblassen. Viel Spaß mit deinen ~mission_rewards~ Spore-Dollars! Außerdem bekommst du eine Sonderführung durch unseren Basar, mit Sonderangeboten, die nur wenige Stunden gültig sind.
+0x000000BF Bevor ich gehe, habe ich noch weitere Fragen ...
+0x0000002B Ich bedaure, aber ich muss ablehnen.
+0x0000000D Eine unserer Sonden hat eine neue Welt entdeckt, die möglicherweise besiedelbar ist: den Planeten ~mission_target_planet~. Allerdings muss zunächst eine genaue Untersuchung durchgeführt werden. ~p~Würdest du uns in dieser Sache behilflich sein?
+0x0000004F Du kommst gerade rechtzeitig! Stell die Pflanzen und Tiere da drüben unter der Laube ab, und dann fahr deine ~mission_rewards~ Spodos hier raus!
+0x000000BD Eines noch ...
+0x000000BE Ich möchte dich etwas anderes fragen ...
+0x000000C6 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Bring uns jeweils eine Probe aller Pflanzen und Tiere!
+0x00000046 Ah, unser Astro-Gastronom bringt die Zutaten für das heutige Abendessen! Gut gemacht! ~p~Hier sind ~mission_rewards~ Spodos, weil du uns diese kulinarische Gaumenfreude besorgt hast. Bitte nimm es, begleitet von unserem Dank. ~p~Unglücklicherweise habe ich schlechte Nachrichten. Da wir so wenig dieser köstlichen Speise haben, können nur echte Mitglieder der ~race~ an dem Festmahl aus der Jagdbeute vom Planeten ~mission_target_planet~ mitspeisen. Wir entschuldigen uns vielmals für dieses Missverständnis.
+0x000000D4 Mission fehlgeschlagen. Zeit abgelaufen.
+0x0000004D Unser Wissen über die Natur des Planeten ~mission_target_planet~ wird dadurch gewaltig anwachsen, ebenso wie die Wahrscheinlichkeit, auf dieser neuen Welt in Harmonie mit der Natur zu leben. Wir freuen uns, dir ~mission_rewards~ Spodos überreichen zu können, und danken dir für die einwandfreie Arbeit.
+0x0000006E Ich muss doch sehr bitten. Das kann ich nicht machen!
+0x00000042 Gute Arbeit! Hier sind ~mission_rewards~ Spore-Dollars für deine harte Arbeit und deinen Einsatz. ~p~Die von dir gelieferten Exemplare sind alle in einwandfreiem Gesundheitszustand und wurden erfolgreich in ihr neues Habitat in der Arkologie gesetzt. Sie hüpfen alle ganz glücklich herum. ~p~Na ja, die Pflanzen weniger. Die sitzen eigentlich nur so da, aber ich bin sicher, die haben auch jede Menge Spaß.
+0x000000CB Du hast alle Proben. Kehre zum Planeten ~mission_source_planet~ zurück, um deine Belohnung abzuholen!
+0x00000043 Also ...
+0x000000CA Der Planet liegt im ~mission_target_star~-Sternsystem. Identifiziere mit Hilfe des Futternetzes die dortigen Lebensformen!
+0x00000074 Bevor ich gehe, habe ich noch weitere Fragen ...
+0x00000010 Wir haben einen vielversprechenden neuen Planeten entdeckt. Der Planet ~mission_target_planet~ ist randvoll mit interessanten neuen Organismen, die wir vielleicht zur Dekoration oder als Haustiere benutzen können. Wärst du so nett, für uns dort eine Untersuchung durchzuführen?
+0x0000002A Wir, äh, haben wegen eines klerikalen Fehlers die präzisen Koordinaten verloren. Das ist alles, was wir wissen: ~br~~group:star_clue~. Für diesen Auftrag bekommst du ~mission_rewards~ Spore-Dollars.
+0x000000DC Großartig! Wir beginnen sofort mit der Analyse der Proben. Schon mal viel Spaß mit deinen ~mission_rewards~ Spore-Dollars!
+0x00000038 Jede dieser Proben trieft förmlich vor außerweltlicher Energie! Viel Spaß mit den ~mission_rewards~ Spore-Dollars!
+0x00000085 Danke für das Angebot! Bis dann!
+0x00000084 Ich sollte jetzt gehen. Leb wohl!
+0x00000034 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Sobald du jeweils eine Probe aller Pflanzen und Tiere gesammelt hast, hol dir hier deine Belohnung ab!
+0x00000035 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Sammle eine Probe von jeder Lebensform und kehre dann zurück!
+0x00000037 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Beame ein Exemplar von jeder Pflanze und jedem Tier nach oben und komm dann zurück!
+0x000000DD Die Proben sind in zufriedenstellendem Zustand eingetroffen. Dafür bekommst du eine Belohnung: ~mission_rewards~ Spore-Dollars.
+0x00000036 Der Planet ~mission_target_planet~ ist im Orbit des ~mission_target_star~. Bitte reise dorthin und sammle jeweils eine Probe sämtlicher Pflanzen und Tiere ein. Danach bring die ganze Sammlung zur Auswertung hierher!
+0x00000039 Die Pflanzen auf dem Planeten ~mission_source_planet~ hier stammen ursprünglich vom Planeten ~mission_target_planet~. Dummerweise haben wir auf der Rückreise, äh, ein wenig zu viel gefeiert und dabei vergessen, wo der Planet ~mission_target_planet~ überhaupt liegt. Wir sind aber ziemlich sicher, dass es in der Nähe von ~group:star_clue~ ist. ~p~Sobald du den Planeten ~mission_target_planet~ gefunden hast, beame einfach ein Exemplar jeder Lebensform nach oben und bring alles hierher zu uns auf den Planeten ~mission_source_planet~!
+0x00000089 Ich möchte dich etwas anderes fragen ...
+0x0000005B Verplemperst du hier unsere Zeit oder was? Wenn du die benötigten Spezies vom Planeten ~mission_target_planet~ nicht ranschaffst, machen wir dich alle. ~p~Ohren auf! Wir wissen Folgendes: ~br~~group:star_clue~. ~p~Mach's richtig, und du kriegst ~mission_rewards~ Spore-Dollars!
+0x00000086 Ich bin bald wieder da. Bis dann!
+0x00000031 Der Planet ~mission_target_planet~ ist in der Umlaufbahn um ~mission_target_star~. Bitte sammle Proben allen Pflanzen und Tiere und komm dann hierher zurück!
+0x000000BA Bevor ich gehe, habe ich noch weitere Fragen ...
+0x00000087 Die Aufgabe ist klar. Leb wohl!
+0x0000001B Der Planet ~mission_target_planet~ ist schon lange für eine vollständige Untersuchung vorgesehen, aber unser Ökologenkorps ist vollauf damit beschäftigt, bereits bewohnte Welten in Gartenanlagen zu verwandeln. Kannst du die Untersuchung für uns durchführen?
+0x00000011 Der Planet ~mission_target_planet~ ist voller Leben, aber ist es interessant oder langweilig? Bring uns einige Proben, damit wir das entscheiden können!
+0x000000AB Amüsiert dich so ein Verhalten etwa? Uns nicht! Wiedersehen!
+0x000000A5 Die Galaktische Apokalypse ist nah. Wir prophezeien, dass du sie nicht überleben wirst. Wiedersehen!
+0x000000D9 ENTFERNUNG: Ungefähr ~mission_clue_distance~ Parsec bis zu ~mission_clue_landmark1~
+0x000000A6 Du weigerst dich, unsere Abmachung zu erfüllen? Das werde ich dem Großen Rat berichten. Wiedersehen!
+0x000000A7 Wir werden dafür sorgen, dass die Unfähigkeit deiner Spezies in der ganzen Galaxie zur Legende wird. Wiedersehen!
+0x00000092 Offenbar sind ~player_creature_name~ viel zu mächtig, um sich mit Naturgeschichte zu beschäftigen. Willst du vielleicht mal unser Handelszentrum besuchen?
+0x00000090 Entschuldigung, wir haben vergessen, dass das Interesse deiner Spezies an der Natur begrenzt ist. Wiedersehen!
+0x000000AA Ihr seid ein dummes Volk. Wiedersehen!
+0x000000A1 Oh, na ja ... äh ... ja, das ist schon okay. Wirklich! Das macht keine Umstände. Wir schaffen das schon. Also ... ja, wird schon werden. Alles in Ordnung! ~p~Weißt du ... schon gut. ~p~Du hast sicher dein Bestes gegeben ... Äh, danke. Vermute ich. Ja.
+0x000000D6 Der Stern ist ungefähr ~mission_clue_distance~ Parsec von ~mission_clue_landmark1~ entfernt.
+0x00000080 Vielen Dank! Bitte erledige die Mission so schnell wie möglich!
+0x0000007B Vielen Dank! Unsere Xenobiologen werden ihre Seziermesser schleifen und auf deine Rückkehr warten.
+0x000000B9 Du kamst. Du sahst. Du machtest ... . . irgendwas, da sind wir ganz sicher.
+0x0000005C Unser Wanderfeinschmecker kehrt unverrichteter Dinge zurück? Brauchst du Hilfe? ~p~Ich sage dir alles, was wir wissen: ~group:star_clue~. ~p~Dort sammelst du jeweils ein Exemplar von jeder Pflanze und jedem Tier und kommst damit hierher zurück, und wir bereiten dann eine gar köstliche Planetenbouillabaisse zu.
+0x000000DA ENTFERNUNG: Ungefähr ~mission_clue_range_min~ bis ~mission_clue_range_max~ Parsec bis zu ~mission_clue_landmark1~
+0x000000F5 Ich muss den Auftrag ablehnen.
+0x000000B7 Dein Scheitern ist unverständlich. Wiedersehen!
+0x0000002E Wir haben nur einzelne Informationsfragmente: ~group:star_clue~. ~p~Als Vergütung bekommst du ~mission_rewards~ Spodos.
+0x0000004A ~player_title~ ~player_creature_name~! Vielen Dank! Eine erste Analyse der Proben lässt den Schluss zu, dass der Planet zur Besiedelung geeignet ist. Wenn dich diese ~mission_rewards~ Spore-Dollars glücklich machen, dann nimm sie doch!
+0x0000002D Ja, müssen wir dir denn alles abnehmen? Wir wissen Folgendes: ~group:star_clue~. ~p~Mach es! Dafür gibt's ~mission_rewards~ Spore-Dollars.
+0x0000002C Die präzisen Koordinaten wurden beim letzten Akt von Vandalismus beschädigt, wir wissen nur noch das: ~group:star_clue~ Wir geben dir dafür ~mission_rewards~ Spore-Dollars.
+0x0000005A Bitte finde den Planeten ~mission_target_planet~, damit wir die dringend benötigten Ersatzspezies erhalten! ~p~Wir wissen nur Folgendes: ~group:star_clue~. ~p~Für Proben aller dortigen Lebensformen bekommst du ~mission_rewards~ Spore-Dollars.
+0x000000CD Der Planet ~mission_target_planet~ liegt im Sternsystem ~mission_target_star~.~p~Sammle Proben aller Lebensformen auf diesem Planeten! ~p~Mit deinem Entführungsstrahl kannst du jede Probe einzeln in deinem Frachtraum verstauen. Das Futternetz sagt dir, welche Pflanzen und Tiere auf dem Planeten ~mission_target_planet~ leben.~p~Denk dran: ~group:star_clue~
+0x000000B3 ~player_title~ ~player_creature_name~! Waren die Bedingungen der Mission nicht klar genug formuliert? Schon gut. Wir schicken ein Forschungsschiff. Es wird Erfolg haben, wo du versagt hast.
+0x000000B4 ~player_title~ ~player_creature_name~! Wir würden dir ja einen Einführungskurs geben, wie man Pflanzen und Tiere vom Planeten ~mission_target_planet~ holt, aber uns fehlt die Zeit. Leb wohl!
+0x000000E7 ~player_creature_name~! Du hast es nicht geschafft, uns Pflanzen und Tiere vom Planeten ~mission_target_planet~ zu bringen. Deine Unfähigkeit wird in zukünftige Berechnungen mit einfließen.
+0x00000061 Sollen wir die Landschaftsgärtner bestellen oder die Flammenwerfer? Das wissen wir erst, wenn die Proben vom Sternsystem ~mission_target_planet~ vorliegen. Bei Gedächtnisproblemen solltest du dein Missionstagebuch wegen der Details zurate ziehen.
+0x0000005E Die ruhmreichen Schöpfungen von Spode wurden nicht vom Planeten ~mission_target_planet~ zurückgebracht? Du hast deine Zusage gegeben, das steht in deinem Missionstagebuch. Wirst du deine Mission zu Ende bringen?
+0x00000060 Wir sind keine Experten für die Gedächtnisstrukturen deiner Spezies, aber dein Verhalten legt nahe, dass du vielleicht vergessen hast, Proben im Sternsystem ~mission_target_planet~ zu sammeln. Steht das noch in deinem Missionstagebuch, oder hast du es versehentlich gelöscht?
+0x00000044 Vielen Dank für deine Hilfe! Hier hast du ~mission_rewards~ Spore-Dollars, wie vereinbart. ~p~Oh, wow! Diese Neuerwerbungen geben dem Planeten gleich so was Komplettes. Rein optisch geht's jetzt klar nach oben.~p~Und nur zur Information, wir haben den Eltern dieser Vandalen einen bösen Brief geschrieben. ~p~Anonym, versteht sich.
+0x000000C9 Zeit abgelaufen. Kehre zum Planeten ~mission_source_planet~ zurück!
+0x000000DF Obwohl wir die Missionsparameter in dein Missionstagebuch hochgeladen haben, hast du bisher keine Proben im Sternsystem ~mission_target_planet~ gesammelt.
+0x00000064 Wir brauchen eine vollständige Probe des Lebensnetzes vom Planeten ~mission_target_planet~. Alle notwendigen Daten stehen in deinem Missionstagebuch. Wirst du deine Mission im Sternsystem ~mission_target_star~ abschließen?
+0x00000062 Wo sind die Pflanzen und die Tiere? Eine Beschreibung unserer Wünsche steht in deinem Missionstagebuch. Wirst du deine Mission auf dem Planeten ~mission_target_planet~ abschließen?
+0x00000065 Wir warten immer noch auf die Proben vom Planeten ~mission_target_planet~. Gibt es ein Problem? Hast du mal in deinem Missionstagebuch nachgesehen?
+0x0000007A Der Große Rat dankt dir. Reise bitte sofort zum Planeten ~mission_target_planet~!
+0x0000007F Wir können kaum den Drang unterdrücken, mit unseren Spekulationen auf dem Immobilienmarkt zu beginnen. Reise bitte zum Planeten ~mission_target_planet~ und komm mit so viel Flora und Fauna zurück, dass sich die Wände des Frachtraums biegen!
+0x000000C8 Kehre zum Planeten ~mission_source_planet~ zurück!
+0x00000073 Ausgezeichnet! Wir wussten, dass wir auf dich zählen können. Du hast den Interessen des Reichs der ~mission_source_empire~ immer treu gedient. ~p~Möge der Kosmos dich rasch und sicher zum Planeten ~mission_target_planet~ tragen! ~p~Unsere Arkologie-Projekte erfüllen eine wichtige Funktion von galaktischer Bedeutung: Es wäre eine Schande, ein komplettes planetares Biom zu verlieren, da ist es doch besser, man hat eine Kopie davon im Schrank.
+0x00000081 Danke für diesen Beitrag zu unserem Wissen über den Planeten ~mission_target_planet~.
+0x00000032 Der Planet ~mission_target_planet~ ist in der Umlaufbahn um ~mission_target_star~. Bitte sammle Proben allen Pflanzen und Tiere und komm dann hierher zurück!
+0x000000A9 ~player_creature_name~! Das Beste, was sich über dein Scheitern sagen lässt, ist, dass so etwas noch nie da war. Leb wohl!
+0x0000005D MISSIONSSTATUS: Andauernd. Auftragnehmer verlangt Unterstützung. Missionsüberblick initiiert. ~p~MISSIONSPARAMETER: Jeweils eine Probe sämtlicher Lebensformen vom Planeten ~mission_target_planet~ zurückbringen. ~p~~group:star_clue~ ~p~BEZAHLUNG: ~mission_rewards~ Spore-Dollars.~p~Verzögerungen werden nicht geduldet.
+0x000000A3 Ich gestehe, wir sind normalerweise nicht für exzessive Verbitterung bekannt, sondern im Gegenteil hoch angesehen wegen unserer sensiblen Seele und unserem gelassenen Gebaren. ~p~Dennoch halte ich es für meine Pflicht, dich davon in Kenntnis zu setzen, dass das ~race~ vor Zorn kochen und brodeln wird, wenn sie diese schwermütige Nachricht vernehmen. ~p~Direkt nach deiner Abreise begannen wir mit den Vorbereitungen zu einem Festmahl, so groß war unser Enthusiasmus angesichts dieser neuen kulinarischen Gaumenfreude. Nun war all die Mühe umsonst!
+0x00000047 MISSIONSSTATUS: Erfolgreich abgeschlossen. ~p~GEÄUSSERTES LOB: Sehr gute Arbeit! ~p~GELEISTETE BEZAHLUNG: ~mission_rewards~ Spore-Dollars. ~p~ÄUSSERUNG ANLÄSSLICH DER ABREISE: Das ~race~ wird erwägen, dir die Fortführung deiner Existenz zu genehmigen.
+0x000000A2 Du hast heute einen schweren Fehler begangen. Das ~race~ ist als Spezies berühmt dafür, nachtragend zu sein. Wir haben ganze Reiche aus Gründen ausgelöscht, an die wir uns nicht mehr erinnern! ~p~Wir werden eine Prüfungskommission ins Leben rufen. Mit einem Komitee und einem Untersuchungsausschuss. Mit eidesstattlichen Erklärungen und Zwangsvorladungen. Wir finden schon heraus, was wir mit dir anstellen. Jawohl! ~p~Und dann sagen wir's dir auch. Bis bald, Alter!
+0x00000001 Das ~race~ hat mit einem ökologischen Großprojekt begonnen, und wir brauchen deine Hilfe. ~p~Wir bauen große Arkologien für einige vielversprechende planetare Ökosysteme, um uns vor unvorhergesehenen Ereignissen zu schützen, die zum Aussterben von Spezies führen. Zum Beispiel Asteroideneinschläge, Sonneneruptionen, du weißt schon. ~p~Finde den Planeten ~mission_target_planet~ und sammle jeweils eine Probe jeder dort vorkommenden Lebensform!
+0x00000005 Das ~race~ sind unvergleichliche Feinschmecker. Wir sind berühmt für unseren feinen Gaumen und unsere Kochkunst. Und jetzt haben wir vom Heiligen Gral der Haute Cuisine erfahren - Planetenbouillabaisse! ~p~ Der Planet ~mission_target_planet~ beherbergt die perfekte Mischung von Fauna und Flora. Es ist, als habe sich dort alles auf ein gemeinsames Ziel hin entwickelt: globale Schmackhaftigkeit. ~p~Du musst diesen Planeten finden und uns Proben all seiner Lebensformen bringen - jeweils eine. Wir werden daraus das köstlichste Mahl von allen zaubern.
+0x0000009F ~player_creature_name~! Eine Schande! ~p~Wir haben offen gestanden viel mehr von dir erwartet. Du hast das ~race~ in der Vergangenheit immer treu gedient. Was für eine Enttäuschung! ~p~Du düst wohl einfach nur so durchs All, ohne Ziel und ohne Verpflichtungen. ~p~Moment, das hört sich ja richtig klasse an! Du Glücklicher!
+0x0000008B Oh, ich sollte dir ... Niemand lässt das ~race~ im Stich! Dafür wirst du bezahlen, und zwar ganz schrecklich! Wir werden - URG!!! ~p~Wir werden - HUNNG! ~p~Wir - NIAAGH! ~p~Wir nehmen jetzt rasch unsere Herztropfen! Mit dir befassen wir uns später. Lass uns einfach allein!
+0x000000CC Das ~mission_source_empire~ erwartet deine Rückkehr auf den Planeten ~mission_source_planet~.
+

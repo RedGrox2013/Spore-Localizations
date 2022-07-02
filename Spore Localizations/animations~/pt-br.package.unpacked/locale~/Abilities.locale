@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Investir
+0x0000001E Um ataque que, caso seja bem-sucedido, intercepta um único alvo a distância e o deixa atordoado.
+
+# Colony_Building.prop
+
+0x0000004F Produção
+0x00000050 Aumentar a produção fará que a colônia ganhe mais dinheiro.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 Militar Aéreo
+0x0630D532 Voe ao sabor do vento, em direção à dominação militar.
+
+# Colony_CivicObject.prop
+
+0x00000051 Objetos Cívicos
+0x00000052 Objetos Cívicos são objetos puramente decorativos.
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Colonial Aéreo
+0x0630D572 Explore a Colônia pelo ar!
+
+#socialize
+
+0x00001001 Socializar
+0x00002001 Adicione as partes Cantar, Gesticular, Dançar e Posar para se socializar com outras criaturas.
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Colonial Aquático
+0x0630D574 Explore a Colônia por mar!
+
+# City_Income.prop
+
+0x00000037 Receita
+0x00000038 As fábricas aumentam a receita produzida quando são construídas perto de casas, mas também diminuem os níveis de felicidade da cidade, especialmente se forem colocadas ao lado de uma estrutura de Entretenimento.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Dançar
+0x33A78A34 Dance para fazer amizade com outras criaturas que apreciam esse estilo social.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000103 Equipe os membros da tribo com um Bastão de Xamã para curar os feridos no campo de batalha.
+0x00000102 Bastões de Cura
+0x0666A342 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 Saúde do veículo ~icon_amount~
+
+# CL_Proboscis.prop
+
+0x0000004B Onívoro
+0x0000004C Sua célula se alimenta sugando líquidos de plantas e de outras células.
+0x06493565 Onívoro – Você pode se alimentar de plantas e de outras Células.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Colonial Terrestre
+0x0630D576 Explore a Colônia por terra!
+
+# Charm5.prop
+
+0x0000008B Encantar
+0x0000008C Criaturas que possuem muitas partes detalhadas podem ser Encantadas com esta interação social.
+
+# Spit2.prop
+
+0x000000C2 Cuspir
+0x000000C3 Um ataque rápido capaz de cuspir projéteis contra um único alvo.
+
+# Herbivore1-5.prop
+
+0x0473A24E Herbívoro
+0x0473A24F Sua criatura se alimenta de frutas.
+
+# City_Cultural.prop
+
+0x0000002B Converter outros
+0x0000002C Veículos religiosos podem converter cidades infelizes para a sua civilização.
+
+# Spit4.prop
+
+0x000000C6 Cuspir
+0x000000C7 Um ataque rápido capaz de cuspir projéteis contra um único alvo.
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~ %
+
+# Charge5.prop
+
+0x00000021 Investir
+0x00000022 Um ataque que, caso seja bem-sucedido, intercepta um único alvo a distância e o deixa atordoado.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Cuspir
+0x000000BF Um ataque rápido capaz de cuspir projéteis contra um único alvo.
+
+##### Tribal Accessories #####
+
+0x055D4832 Social
+0x055D4830 Combate
+0x055D4836 Coleta
+0x055D4838 Pescaria
+0x055D4834 Saúde
+0x055D4835 Acessórios de saúde aumentam a quantidade de golpes que cada membro da tribo pode sofrer em batalha
+0x055D4837 Acessórios de coleta fazem que eles coletem comida mais rápido.
+0x055D4833 Acessórios sociais aumentam as chances de impressionar outras tribos durante as interações sociais.
+0x055D4831 Acessórios de combate aumentam o dano que cada membro da tribo causa em combate.
+0x055D4839 Os acessórios de pesca ajudam a aumentar o nível de sua habilidade de pesca.
+0x055D4EB3 Adicione acessórios para melhorar suas habilidades de coleta.
+0x055D4E62 Coleta
+
+### Complexity Meter ##
+
+0x05F110B3 Medidor de Complexidade
+0x05F110B4 Se este medidor estiver cheio, você não poderá adicionar mais partes.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Ataque Automático
+0x049A3CDB Seu ataque de mordida automático padrão.
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD Nível ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 Cantar
+0x00000121 Cante para fazer amizade com outras criaturas capazes de emitir sons.
+
+#health
+
+0x00001004 Saúde
+0x00001008 Saúde
+0x00002008 Seu medidor de saúde mostra quanto dano sua célula é capaz de absorver. Cada célula possui três unidades de saúde.
+0x00002004 Cada atualização de nível cerebral aumenta a sua saúde total, ou você pode comprar novas partes para aumentar as suas chances de sobreviver aos ataques de outras criaturas.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Velocidade
+0x04CEA2D3 Aumenta a Velocidade do seu veículo.
+
+# Colony_House.prop
+
+0x066657CA Produção
+0x066657CB As Casas aumentam a produção de especiaria quando são ligadas às Fábricas.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Energia
+0x04CEA2D5 Mais energia significa mais eficiência.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 Atacar
+0x00002000 Adicione as partes Morder, Golpear, Investir e Cuspir para atacar outras criaturas.
+0x00001007 Atacar
+0x00002007 Adicione as partes Espinhos, Veneno e Eletricidade para atacar outras células.
+
+# Posture3.prop
+
+0x000000A7 Posar
+0x000000A8 Posar é uma ação muito popular entre as criaturas dotadas de apanhadores.
+
+# Dance2.prop
+
+0x00000057 Dançar
+0x00000058 Dance para fazer amizade com outras criaturas que apreciam esse estilo social.
+
+# Bite2.prop
+
+0x00000005 Morder
+0x00000006 Um ataque rápido capaz de atingir um único alvo à curta distância.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Encantar
+0x0000008A Criaturas que possuem muitas partes detalhadas podem ser Encantadas com esta interação social.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526772 Sua célula caça outras células e se alimenta de pedaços de carne ou suga os líquidos de plantas e de células vivas.
+0x06526762 Onívoro
+
+# Charge2.prop
+
+0x0000001B Investir
+0x0000001C Um ataque que, caso seja bem-sucedido, intercepta um único alvo a distância e o deixa atordoado.
+
+# Bite1.prop
+
+0x00000001 Morder
+0x00000002 Um ataque rápido capaz de atingir um único alvo à curta distância.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Fábrica
+0x06496725 Aumenta a receita da cidade, mas reduz a felicidade dos habitantes.
+
+# CL_Cilia.prop
+
+0x0000003F Giros Rápidos
+0x00000040 Sua célula é capaz de se virar mais rapidamente.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Produção
+0x066657CD Mantenha seus cidadãos felizes construindo estruturas de Entretenimento ao lado das Casas.
+
+# Colony_Factory.prop
+
+0x066657CE Produção
+0x066657CF As Fábricas aumentam a produção de especiaria quando são construídas ao lado de Casas, mas também diminuem os níveis de felicidade da cidade, especialmente se forem colocadas ao lado de uma estrutura de Entretenimento.
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Acessórios Tribais
+0x04D02BF8 Forneça trajes aos membros de sua tribo para aumentar suas habilidades!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 Militar Aquático
+0x0630D534 Navegue de vento em popa em direção à dominação militar.
+
+#movement
+
+0x00001003 Velocidade
+0x00001006 Movimento
+0x00002003 Adicione patas mais rápidas para aumentar sua velocidade!
+0x00002006 Adicione as partes Cílios, Flagelos e Jatos para se movimentar mais rapidamente. Cada parte de movimento adicional contribuirá para aumentar a velocidade da célula.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Analisar
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526771 Sua célula se alimenta de plantas, sugando os líquidos também de células vivas.
+0x06526761 Onívoro
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ energia
+
+# Spit5.prop
+
+0x000000C8 Cuspir
+0x000000C9 Um ataque rápido capaz de cuspir projéteis contra um único alvo.
+
+# Posture5.prop
+
+0x000000AB Posar
+0x000000AC Posar é uma ação muito popular entre as criaturas dotadas de apanhadores.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Entretenimento
+0x06496727 Aumenta a felicidade dos habitantes, protegendo a cidade contra ataques religiosos.
+
+# Dance5.prop
+
+0x0000005D Dançar
+0x0000005E Dance para fazer amizade com outras criaturas que apreciam esse estilo social.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Correr
+0xF386C342 Correr permite que sua criatura se mova mais rápido por um curto período de tempo. Partes de corrida adicionais aumentam a duração da ação.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Velocidade
+0x0473A251 Adicione patas melhores para correr mais rápido.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 Econômico Terrestre
+0x0630D546 Abra caminho até o topo por terra!
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C Os aumentos no total de Saúde melhoram as suas chances de sobrevivência contra ataques de outras criaturas.
+0x04CB5B6D Saúde
+
+# CL_Shock.prop
+
+0x0000004D Eletrocutar
+0x0000004E Sua célula vai eletrocutar as células próximas e ganhará imunidade contra choques de outras células.
+
+# CL_Poke.prop
+
+0x00000049 Atacar e Quebrar
+0x0000004A Ataque outras células avançando contra elas. Alguns objetos podem ser quebrados, caso você invista contra eles.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Aceleração Explosiva
+0x00000046 Sua célula ganha velocidade mais rapidamente.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F Apanhadores
+0x000000A0 Apanhe e use os objetos disponíveis no mundo do jogo. 
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 Religioso Terrestre
+0x0630D556 Converta as massas a partir do solo!
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Energia Econômica
+0x06318043 O poder econômico aumenta a lucratividade das rotas comerciais.
+
+# CL_Speed.prop
+
+0x0563FF82 Velocidade
+0x0563FF83 Velocidade
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE Nível ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Arpões de Pesca
+0x000000F1 Equipe os membros da tribo com Arpões de Pesca para aumentar a produtividade da pescaria.
+0x0666A340 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# Bite5.prop
+
+0x0000000B Morder
+0x0000000C Um ataque rápido capaz de atingir um único alvo à curta distância.
+
+#Unit for religious verb tray rollover
+
+0x06492352 Energia religiosa ~icon_amount~
+
+# Tribe_Hunt3.prop
+
+0x0000010A Lanças
+0x0000010B As Lanças permitem aos membros de sua tribo atacar alvos à distância.
+0x0666A346 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# Spit3.prop
+
+0x000000C4 Cuspir
+0x000000C5 Um ataque rápido capaz de cuspir projéteis contra um único alvo.
+
+# Posture2.prop
+
+0x000000A5 Posar
+0x000000A6 Posar é uma ação muito popular entre as criaturas dotadas de apanhadores.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 Religioso Aquático
+0x0630D554 Converta as massas a partir das águas!
+
+#Unit for economic verb tray rollover
+
+0x06492353 Energia econômica ~icon_amount~
+
+# City_Population.prop
+
+0x0000003B População
+0x0000003C As Casas geram mais receita quando são ligadas às Fabricas. Cada Casa também aumenta, em uma unidade, seu Limite de Veículos.
+
+#diet
+
+0x00001002 Dieta
+0x00001005 Dieta
+0x00002005 Adicione as partes Filtros Bucais, Mandíbulas e Probóscide para ser capaz de devorar diferentes tipos de alimento.
+0x00002002 A sua dieta de célula determina qual será a sua dieta adotada quando se tornar uma criatura.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Bloquear
+0x00000016 Durante o combate, use o bloqueio para evitar danos.
+
+# City_Defense.prop
+
+0x0000002D Defenda a cidade!
+0x0000002E Aumenta as defesas.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BB Crie um traje para os seus cidadãos.
+0x05B1E9BC Crie um traje para os seus cidadãos.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Investir
+0x00000018 Um ataque que, caso seja bem-sucedido intercepta um único alvo a distância e o deixa atordoado.
+
+# Charm3.prop
+
+0x00000087 Encantar
+0x00000088 Criaturas que possuem muitas partes detalhadas podem ser Encantadas com esta interação social.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Saltar
+0x00000098 Saltar permite que sua criatura chegue a áreas de difícil acesso. Quanto maior o nível da criatura, maior a altura alcançada em seus saltos. Pressione a Barra de Espaço no Modo Teste para ver esta ação.
+
+# Strike2.prop
+
+0x000000D8 Golpear
+0x000000D9 Um ataque devastador capaz de atingir vários alvos a curta distância.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Energia Religiosa
+0x06318041 O poder religioso aumenta a sua habilidade de converter os descrentes.
+
+# Dance4.prop
+
+0x0000005B Dançar
+0x0000005C Dance para fazer amizade com outras criaturas que apreciam esse estilo social.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Casa
+0x06496723 Aumenta a população da cidade e o limite de veículos.
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Planar
+0x00000096 As asas permitem que a sua criatura voe. Quanto maior o nível das asas, maior a distância que sua criatura será capaz de alcançar.
+
+# Tribe_Gather3.prop
+
+0x000000FD Equipe os membros da tribo com Bastões de Coleta para aumentar a produtividade da colheita de frutas.
+0x000000FC Bastões de Coleta
+0x0666A341 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# City_Happiness.prop
+
+0x00000033 Felicidade
+0x00000034 Mantenha seus cidadãos felizes construindo estruturas de Entretenimento além de casas.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Saúde
+0x04CEA2D1 Aumentar a Saúde de seu veículo fará que ele resista por mais tempo durante um combate.
+
+# Bite3.prop
+
+0x00000007 Morder
+0x00000008 Um ataque rápido capaz de atingir um único alvo à curta distância.
+
+# CL_Poison.prop
+
+0x00000047 Cuspir Veneno
+0x00000048 Sua célula cuspirá nuvens de veneno e ganhará imunidade às emissões venenosas de outras células.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 Militar Terrestre
+0x0630D536 Abra caminho em qualquer terreno em direção à dominação militar.
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 Sua célula se alimenta de plantas ou caça e se alimenta de pedaços de carne.
+0x06526760 Onívoro
+
+# Starvivore.prop
+
+0x04D19389 Sem Boca
+0x04D1938A Uma criatura sem boca está fadada a morrer de fome. Por favor, adicione uma boca!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Posar
+0x000000A2 Posar é uma ação muito popular entre as criaturas dotadas de apanhadores.
+
+#Unit for military verb tray rollover
+
+0x06492351 Energia militar ~icon_amount~
+
+# Vocalize2.prop
+
+0x0000011E Cantar
+0x0000011F Cante para fazer amizade com outras criaturas capazes de emitir sons.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D3 Sua criatura é capaz de se aproximar furtivamente de outras criaturas ou de escapar de agressores. Atacar uma criatura de surpresa, depois de se esgueirar até ela sem que sua presença seja percebida, proporciona um bônus de ataque.
+0x000000D2 Espreitar
+
+# Charge4.prop
+
+0x0000001F Investir
+0x00000020 Um ataque que, caso seja bem-sucedido, intercepta um único alvo a distância e o deixa atordoado.
+
+# Strike3.prop
+
+0x000000DA Golpear
+0x000000DB Um ataque devastador capaz de atingir vários alvos a curta distância.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 Alta Velocidade
+0x00000042 Sua célula se move mais rapidamente.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Energia Militar
+0x06318045 A Energia Militar aumenta a capacidade de combate.
+
+# City_Military.prop
+
+0x00000039 Veículos Militares
+0x0000003A Veículos militares podem atacar e destruir outras cidades.
+
+# Strike5.prop
+
+0x000000DE Golpear
+0x000000DF Um ataque devastador capaz de atingir vários alvos a curta distância.
+
+# Tribe_Hunt.prop
+
+0x00000104 Atacar
+0x00000105 Para obter alimento, cace outros animais ou ataque outras tribos.
+0x0666A343 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# City_Economic.prop
+
+0x0000002F Cria rotas comerciais com outras cidades
+0x00000030 Veículos econômicos podem negociar com outras cidades para comprá-las.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Visão
+0x0500E7DE Sua criatura precisa de olhos para enxergar o mundo com clareza.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526773 Sua célula se alimenta de plantas, caça outras células e se alimenta de pedaços de carne ou suga os líquidos de plantas e de células vivas.
+0x06526763 Onívoro
+
+# CL_Herbivore.prop
+
+0x00000043 Herbívoro
+0x00000044 Sua célula se alimenta de brotos verdes.
+0x06494A72 Herbívoro - Você pode se alimentar de plantas.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Carnívoro
+0x0473A24D Sua criatura se alimenta de outras criaturas.
+
+# Omnivore.prop
+
+0x04D18880 Onívoro
+0x04D18881 Sua criatura se alimenta de frutas e de outras criaturas.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A Cantar
+0x0000011B Cante para fazer amizade com outras criaturas capazes de emitir sons musicais.
+
+# HitPoints.prop
+
+0x062CFA7E Os aumentos no total de Saúde melhoram as suas chances de sobrevivência contra ataques de outras criaturas.
+0x062CFA7D Saúde
+
+#Generic
+
+0x04D3040D Habilidades
+0x04D3040E As partes que você adiciona proporcionam novas habilidades. Evolua!
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 Econômico Aéreo
+0x0630D542 Abra caminho até o topo pelo ar!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D566 A única coisa entre você e o gélido vácuo do espaço são 2 metros de puro estilo.
+0x0630D565 Nave
+
+# Colony_UFO.prop
+
+0x00000054 Exploração! Construção! Abdução! Destruição! Essas são as habilidades de sua Nave.
+0x00000053 Nave
+0x06779205 Essa colônia não tem um porto marítimo.
+
+# Strike4.prop
+
+0x000000DC Golpear
+0x000000DD Um ataque devastador capaz de atingir vários alvos a curta distância.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 Religioso Aéreo
+0x0630D552 Converta as massas a partir dos céus!
+
+# City_Food.prop
+
+0x00000031 EXCLUÍDO
+0x00000032 EXCLUÍDO
+
+# Dance3.prop
+
+0x00000059 Dançar
+0x0000005A Dance para fazer amizade com outras criaturas que apreciam esse estilo social.
+
+# Vocalize4.prop
+
+0x00000122 Cantar
+0x00000123 Cante para fazer amizade com outras criaturas capazes de emitir sons.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 Velocidade do veículo ~icon_amount~
+
+# Tribe_Hunt1.prop
+
+0x00000107 Tochas destroem ferramentas e cabanas mais rapidamente, mas são menos eficazes contra criaturas.
+0x00000106 Tochas
+0x0666A344 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# CL_GameSpeed.prop
+
+0x0649A10D Adicione as partes Cílios, Flagelos e Jatos para se movimentar mais rapidamente. Cada parte de movimento adicional contribuirá para aumentar a velocidade da célula.
+0x0649A10C Velocidade
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 Econômico Aquático
+0x0630D544 Abra caminho até o topo por mar!
+
+# Vocalize5.prop
+
+0x00000124 Cantar
+0x00000125 Cante para fazer amizade com outras criaturas capazes de emitir sons.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Maracás
+0x00000111 Impressione as tribos vizinhas com esses maracás!
+0x0666A349 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Forneça trajes aos habitantes de sua colônia!
+
+# CL_Carnivore.prop
+
+0x0000003D Carnívoro
+0x0000003E Sua célula caça outras células,  alimentando-se de pedaços de carne.
+0x06494A73 Carnívoro – Você caça outras células e se alimenta de pedaços de carne.
+
+# City_CivicObject.prop
+
+0x533DD075 Decorações
+0x533DD076 Vá para a cidade! Só pela aparência.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Golpear
+0x000000D5 Um ataque devastador capaz de atingir vários alvos a curta distância.
+
+# Posture4.prop
+
+0x000000A9 Posar
+0x000000AA Posar é uma ação muito popular entre as criaturas dotadas de apanhadores.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoos
+0x0000010F Impressione as tribos vizinhas com esses didgeridoos!
+0x0666A348 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Cornetas
+0x0000010D Impressione as tribos vizinhas com esses chifres!
+0x0666A347 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Encantar
+0x00000082 Criaturas que possuem muitas partes detalhadas podem ser Encantadas com esta interação social.
+
+# City_Harvester.prop
+
+0x00000036 EXCLUÍDO
+0x00000035 EXCLUÍDO
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Prefeitura
+0x06496721 Funde uma nova cidade.
+
+# Bite4.prop
+
+0x00000009 Morder
+0x0000000A Um ataque rápido capaz de atingir um único alvo à curta distância.
+
+# Charm2.prop
+
+0x00000085 Encantar
+0x00000086 Criaturas que possuem muitas partes detalhadas podem ser Encantadas com esta interação social.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Machados
+0x00000109 Os Machados de Pedra são brutalmente eficientes contra criaturas selvagens e membros de outras tribos, mas não são tão eficientes contra cabanas e ferramentas.
+0x0666A345 Alie-se ou conquiste outras tribos para acessar suas ferramentas.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 Use esse chamado para localizar o companheiro de sua criatura e o seu ninho, mas tenha cuidado para não revelar sua posição aos predadores nas proximidades.
+0x0000007F Acasalamento
+

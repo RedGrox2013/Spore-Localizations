@@ -1,0 +1,43 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000022 太悲慘了！你的表現不如人意。~race~不太高興。
+0x00000021 和平降臨！外星突襲者不再攻擊你位於<~mission_target_planet~>的盟友。
+0x00000020 攻擊！外星船艦襲擊你位在<~mission_target_planet~>的盟友！
+0x00000017 動作快點！目標就在<~mission_target_planet~>！
+0x00000023 敵人來襲！在<~mission_target_planet~>附近偵測到帶有敵意的幽浮！
+0x00000091 幽浮不再攻擊你盟友的<~mission_target_planet~>！！
+0x0000001B 帶有敵意的幽浮攻擊了你的盟友。保衛<~mission_target_planet~>！！
+0x0000001A ~player_creature_name~注意！~p~你必須馬上去<~mission_target_planet~>回報，證實你的同盟跟偉大Grox結盟。~p~就是這樣了。
+0x00000019 通話完畢
+0x00000018 致~player_creature_name~！~p~愚蠢的外星種族攻擊了我們的<~mission_target_planet~>。我們得儘速摧毀他們的母星。~p~~player_creature_name~，立刻前往<~mission_target_planet~>料理這些垃圾。
+0x00000016 外星種族愚蠢地襲擊了<~mission_target_planet~>。~p~相信過不了多久，他們死定了！立刻將你的船隻派往<~mission_target_planet~>展現你的同盟之誼。
+0x00000090 不明外星艦隊入侵了<~mission_target_star~>星系的同盟~race~。
+0x0000001D 不明外星艦隊入侵了<~mission_target_star~>星系的<~mission_target_planet~>的同盟~race~。火速保衛他們！
+0x0000001E 不明外星艦隊不再騷擾<~mission_target_star~>星系的<~mission_target_planet~>的同盟~race~。
+0x0000001C 不明外星艦隊不再騷擾<~mission_target_star~>星系的同盟~race~。
+0x0000000A ~player_title~-~Player_creature_name~。~p~不明的敵人正在攻擊<~mission_target_planet~>！根據我們的同盟條款，我們請求你前來援助！
+0x00000015 親愛的朋友，~player_title~-~Player_creature_name~。~p~誤入歧途的外星種族攻擊了<~mission_target_planet~>！我們送了一則充滿愛和和平的訊息給他們，但似乎毫無效果！我們很遺憾必須訴諸更直接的溝通手段。~p~請盡快趕來，帶著武器，協助我們進行"溝通"。
+0x00000002 仁善的~player_title~-~Player_creature_name~。<~mission_target_planet~>遭到惡毒的突襲者攻擊！我們的防禦網岌岌可危！你能協助我們嗎？
+0x00000007 ~player_title~-~Player_creature_name~。我們希望你能接到這則訊息。~p~攻擊者為<~mission_target_planet~>的和平帶來威脅！根據我們的同盟條款，大議會要求你驅逐那些侵略者。
+0x00000003 老天！~player_title~-~Player_creature_name~，快點做些什麼！不知名的敵人正在攻擊我們的<~mission_target_planet~>。他們似乎打算將我方子民趕盡殺絕，意圖滅絕星球上的生命網絡！~p~拜託幫幫忙！
+0x00000009 啟動急難信號發射程序。尋求~player_title~-~Player_creature_name~的協助。~p~<~mission_target_planet~>正遭受不明敵人的野蠻攻擊！這些野蠻的海盜在攻擊之前，沒有事先宣戰，並完全無視核可的戰區程序。我們已黔驢技窮，根據我們的同盟協議，文件32，第十四節，我們需要你的介入。~p~我們預期你會立即趕到。
+0x00000014 仁善的~player_title~-~Player_creature_name~。~p~<~mission_target_planet~>遭受精神未進化的生物攻擊！雖然我們不喜歡藉助武力，但是他們讓我們別無選擇。盡快趕來我們這裡，我們將團結一致。
+0x0000000F 你在嗎，~player_title~-~Player_creature_name~？請說話，請說話！我們聽不見你！！~p~哈哈！有沒有騙到你？！錄音訊息很有趣對吧！嘿嘿！~p~喔！我們差點忘記告訴你發送這則訊息的原因。我們真蠢。~p~我們不知道那些傢伙是怎麼搞的，突然對<~mission_target_planet~>發動攻擊！我們急需你的協助，否則他們會將我們撕成碎片！就是這樣！
+0x00000013 仁善的~player_title~-~Player_creature_name~。~p~儘管我們以就坐和歌唱儀式歡迎他們，一群外星人仍舊攻擊了我們！我們希望你能火速趕來我們所在位置。
+0x0000000E 喔，不妙，~player_title~-~Player_creature_name~！~p~我們在<~mission_target_planet~>舉辦了懶散慶典，卻有一群陌生人前來攻擊我們！我們對逃跑和哭喊已經感到厭煩！請將我們從煩躁中拯救出來！
+0x00000005 我們相信這則訊息會送到你的手中，~player_title~-~Player_creature_name~！你必須盡快找到我們的位置。~p~<~mission_target_planet~>遭到否定「Spode之道」的敵人攻擊。盡快趕來協助我們抵禦這些邪惡的傢伙！
+0x00000010 喔，~player_title~-~Player_creature_name~！救命，救命！~p~我們<~mission_target_planet~>上愛好和平的族人遭受襲擊！我們相信你，我們強大的盟友，能毫無困難地趕走他們。前來協助我們，你將可獲得豐厚報酬！
+0x00000008 致~race~盟友~player_title~-~Player_creature_name~的訊息。~p~我們聯邦的和平受到不明敵人的威脅！你可立刻前往<~mission_target_planet~>協助我們抵禦他們嗎？
+0x00000004 最友善的~player_title~-~Player_creature_name~！我們需要你的緊急介入。~p~那些打著「Spode之光」名號的傢伙，正在攻擊<~mission_target_planet~>！以Spode之名，以及看在我們同盟的份上，我請求你擊潰那些低賤的異教徒！
+0x00000011 救命！救命！喔，~player_title~-~Player_creature_name~！現在只有你的力量和決斷力能夠救我們了！~p~我們在<~mission_target_planet~>上的族人遭受不明種族攻擊！如果你能趕跑他們，我們會給你豐厚的報酬！
+0x00000006 ~player_title~-~Player_creature_name~！我們希望你能夠盡快協助我們。~p~<~mission_target_planet~>上的Spode信眾被受惡魔驅使的入侵者所迫害！加入我們，協助我們抵抗這些邪惡的傢伙！
+0x00000012 喔，親愛的，喔，親愛的！我們實在不想麻煩你，~player_title~-~Player_creature_name~，但<~mission_target_planet~>上發生了一連串狂亂的悲劇！我們的世界遭到兇惡的侵略者攻擊！~p~拜託，拜託，救救我們！如果你能趕跑他們，我們的金庫將為你敞開！
+0x0000000C ~player_title~-~Player_creature_name~。~p~兇殘的敵人開始對<~mission_target_planet~>進行轟炸。請盡快趕來我們的所在位置。
+0x0000000D 老天！一群惡徒正在攻擊我們的<~mission_target_planet~>，~player_title~-~Player_creature_name~！！~p~我們保證決沒有送臭植物或爆炸雪景球去激怒他們。快點來，快點來！
+0x0000000B ~player_title~-~Player_creature_name~。~p~<~mission_target_planet~>遭受不明敵人的攻擊！我們請求你立即支援！
+0x00000001 仁善的~player_title~-~Player_creature_name~！~p~大規模破壞武器對準我們在<~mission_target_planet~>上的子民！~p~看在我們同盟的份上，我們請求你去撤除這些攻擊武器，以免<~mission_target_planet~>上的自然規律破壞殆盡！
+

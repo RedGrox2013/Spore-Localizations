@@ -1,0 +1,269 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000000 We do have something, actually. It pays ~mission_rewards~ Sporebucks, but unfortunately it involves animal euthanasia.~p~Certain conservatory societies have taken an interest in planet ~mission_target_planet~. They have decided that all further genetic variance should be monitored and suppressed.~p~They have identified a species on the cusp of an evolutionary deviation, and need you to cull certain individuals from the herd to prevent this.
+0x00000002 Oh, we're so lucky you came along! We have an urgent task, but we don't have the heart to carry it out ourselves. It's too awful!~p~It's the adorable ~mission_target_animal_species~ species! ~mission_num_kills_needed~ of them have come down with the dreaded Oogie Fever! If it spreads, it'll wipe them all out!~p~The infected animals must be... *gulp*... eradicated.~p~We'll pay you! ~mission_rewards~ Spucks. Sound good?
+0x00000003 You want something to do? Why, sure. We got something that'll get rid of you. I mean, we have a task.~p~Why don't you... oh, I don't know... let's say... kill ~mission_num_kills_needed~ specific ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~.~p~Yeah, that sounds like it could take you a while. Do that.~p~We'll pay you. How's... ~mission_rewards~ Spucks sound? Will that be enough to get you to leave?
+0x00000004 Fortune smiles upon you today, my fair entity. We have just such a task!~p~We have entered planet ~mission_target_planet~ in the Spaceminster Planetary Show-off Exhibition. It's the most prestigious event of its kind, and we've worked so hard preparing planet ~mission_target_planet~. Everything is just perfect!~p~Almost perfect, to be more precise. A small passel of ~mission_target_animal_species~ refuse to behave properly. The show is nearly upon us. Sadly, they must be eradicated.
+0x00000006 In order that the inhabitants of planet ~mission_target_planet~ be secure, they must be made safe from predatory life-forms. Would you be willing to undertake a mission to eradicate the carnivorous ~mission_target_animal_species~ from planet ~mission_target_planet~?
+0x00000007  The Grand Council guarantees that our citizens shall live free from fear. A sub-contractor surveying planet ~mission_target_planet~ prior to settlement failed to notice that the herbivores known as ~mission_target_animal_species~ were about to enter a carnivorous cycle. The Grand Council would be pleased if you were to aid in eradicating planet ~mission_target_planet~ of this menace.
+0x00000009 Our sanctuary on planet ~mission_target_planet~, heretofore a model of zeal and piety, is now threatened by fiery, demonic beings. Will you deliver the faithful from this menace?
+0x0000000A Followers of the false God that Will Come have spread a plague among the animals of planet ~mission_target_planet~. Can you help us eradicate this menace?
+0x0000000B According to the laws of Spode, animals should be a help to the faithful. Yet a species of animal has risen up to plague the righteous! Will you aid us in destroying this unnatural menace?
+0x0000000C ~player_title~ ~player_creature_name~. A misplaced digit in a planetary survey has resulted in one of our planets in the ~mission_source_empire~ being seeded with the wrong sub-species. This aggressive animal is not only attacking other animals, but has become a threat to our citizens.~p~Would you be interested in helping us eradicating ~mission_target_animal_species~ from planet ~mission_target_planet~?
+0x0000000D A plague has spread among the animals of planet ~mission_target_planet~. This threatens to unhinge the planet's entire ecology! Can you help us avert disaster by eradicating the infected animals!
+0x0000000E Illegal gene-hackers have altered the DNA of one of the animals on planet ~mission_target_planet~, and it has now become a menace to other animals and even to our citizens! Can you help us?
+0x0000000F ~player_title~ ~player_creature_name~. We regret to report that one of our experiments has not fulfilled its expectations. Instead of a placid, domesticated animal, a malprogrammed gene-splicer has inadvertently produced a ferocious, carnivorous species on planet ~mission_target_planet~. Will you be interested in helping us to rectify this error?
+0x00000010 There is nothing more pathetic than a fashion gone out of date. We are no longer amused by our mutant glow beasts on planet ~mission_target_planet~. Will you dispose of them for us?
+0x00000011 The joke is certainly on us! For aesthetic reasons, we created genetically altered animals on planet ~mission_target_planet~. They're very pretty, but now they're eating us! Can you keep us from becoming lunch?
+0x00000012 We went on a joyride and glow-splotched some of the animals on planet ~mission_target_planet~. How were we to know that glow-splotching infuriates this species? Can you aid us by turning the rampaging animals into aesthetically-satisfying cones of ash?
+0x00000013 This miserable being is reluctant to bring himself to your attention, but an emergency compels him. A peaceful settlement of ~mission_source_empire~ has been attacked by predatory life-forms. This wretched one hopes you will be willing to undertake a mission to eradicate the carnivorous ~mission_target_animal_species~ from planet ~mission_target_planet~. A successful mission will be blessed with rewards!
+0x00000014 I am doleful at having to disturb your excellence with this news, but I am reluctantly compelled to inform you that planet ~mission_target_planet~ has been attacked by ravenous beasts, endangering the happiness of our people. In return for rewards, would you be willing to deal with this emergency?
+0x00000015 Woe is us! Word has reached our ears that a plague has spread among the animals of planet ~mission_target_planet~, turning them aggressive and violent. Humbly we request that your splendor, in return for adequate rewards, destroy these beasts.
+0x00000016 ~player_title~ ~player_creature_name~. An unknown plague has begun to affect animals on planet ~mission_target_planet~, turning them into dangerous predators. May we employ you to eradicate them?
+0x00000017 ~player_title~ ~player_creature_name~. An experiment in herbivory has gone disastrously wrong on planet ~mission_target_planet~, resulting in a formerly harmless species going mad and attacking other animals and even pack members. Can you help us with our little problem?
+0x00000018 While we try to be at one with Nature, sometimes Nature's method of being at one with us involves having us for dinner. Such is the case on ~mission_target_planet~, where a mutation has turned one of the animals belligerent. We shrink from bloodshed, so will you take the necessary action?
+0x00000019 One of our Chanting Circles on planet ~mission_target_planet~ seems to have called up the wrong spirit! We were hoping for a chat with our late Auntie Flrthrb, but instead we got a host of bodiless entities that possessed a group of animals, all of which are now running amok! Can you discorporate these beings for us? 
+0x0000001A We try to be friends with all our animal brethren, but on ~mission_target_planet~ some of the animals have picked up a hostile vibration and are now wreaking havoc. Can you de-tune these creatures? Preferably with a laser? 
+0x0000001B As trees strive to reach the sun, so animals too are part of a constant struggle for resources and mastery. One animal on planet ~mission_target_planet~ now threatens to dominate the world as we dominate the galaxy. Such an unstable situation should not be permitted to continue. Do you agree?
+0x0000001C The playful winds may carry the scent of flowers, or the stench of plague. An epidemic, perhaps spread by a cowardly enemy, has infected animals on planet ~mission_target_planet~. The infected are enraged and turned into predators. Would target practice interest you?
+0x0000001D We live in a cosmos filled with incredible violence, from the Big Bang and gamma ray emitters to the single-celled animals that engulf their prey. One animal on planet ~mission_target_planet~ displays courage and aggression bordering on madness. Perhaps they are a threat to security.
+0x00000008 An infection needs eradication. Is your stomach strong enough to handle the job?
+0x000000D7 We require you to visit planet ~mission_target_planet~ and kill troublesome animals.
+0x000000D8 A cull of useless animals is taking place on planet ~mission_target_planet~. You will participate.
+0x000000D9 You will give us a demonstration of your military capabilities on planet ~mission_target_planet~.
+0x000000DA Plague-ridden animals are attacking our settlement on  planet ~mission_target_planet~! We need your help!
+0x000000DB A carnivorous animal species is attacking on planet ~mission_target_planet~. Can you aid us?
+0x000000DC A harmless virus on planet ~mission_target_planet~ has mutated into a threat to wildlife. Will you give us help?
+0x0000001E Tell me more...
+0x0000001F Can I get some directions?
+0x00000020 How do I get there?
+0x00000021 How can I find it?
+0x00000022 Oooh. Bad karma. No, thanks.
+0x00000023 I'm a pacifist. I'm not going to do this.
+0x00000024 I'm not the right match for this mission.
+0x00000025 I... uhhh... have a conflict. I can't.
+0x00000027 Cool cool. We need ya to kill ~mission_num_kills_needed~ tagged ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~. You'll be able to identify them by their glow once you're planet-side.~p~Some facts: ~group:star_clue~. The planet you're looking for is called planet ~mission_target_planet~.~p~We'll hook you up with ~mission_rewards~ Spucks if you do this for us.~p~Hurry hurry!
+0x00000029 Go to planet ~mission_target_planet~. ~group:star_clue~.~p~Kill ~mission_num_kills_needed~ tagged ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~. We assume this is not a problem.
+0x0000002A Blark! ~mission_num_kills_needed~ ~mission_target_animal_species~ have been identified for removal, and tagged with a substance to allow you to easily identify them - they'll glow...~p~Hoo heee! Wouldn't that be fun to glow! We do have to keep that in mind for the next Flortondian Reblix Day! Do you like Flortondian plorplie? I find it needs more salt... generally speaking.~p~Wait... Are you still here...? Don't you know where to go...?~p~~group:star_clue~. The planet name is ~mission_target_planet~.~p~You shall be paid ~mission_rewards~ Spucks as recompense.
+0x0000002C These creatures, this hellspawn called ~mission_target_animal_species~ must be cleansed by laser fire. Let their flames be quenched by your righteousness.~p~Creatures numbering ~mission_num_kills_needed~ must be cleansed if the planet is to be made pure again. Know ye this: ~group:star_clue~.
+0x0000002D Travel to planet ~mission_target_planet~. ~group:star_clue~.~p~The unfortunate animals, ~mission_target_animal_species~, have glowing tails. This feature should make them easy to track down and kill.~p~Kill at least ~mission_num_kills_needed~ of ~mission_target_animal_species~ in order to avert disaster. The planet's Life Web is balanced in all other particulars, so do not kill any uninfected animals, or harm any other things.~p~Hurry, before the problem gets completely out of control.
+0x0000002E Your contract calls for the 'restructuring and removal' of creatures numbering ~mission_num_kills_needed~ in the name of ~mission_target_animal_species~ to a vapor state.~p~Planet ~mission_target_planet~. ~group:star_clue~.~p~The targeted animals may be identified by their glowing tails. Eradication can be made from the air in perfect safety. Please hurry and accomplish the mission before trouble spreads.~p~Remember, the clause 45.6.2 specifies that no other animals or objects on planet ~mission_target_planet~ be injured during the execution of this contract..
+0x0000002F ~player_title~ ~player_creature_name~. Eliminate ~mission_num_kills_needed~ of the targeted animals. ~p~You must complete this mission quickly, before the rampaging animals get completely out of hand. Head to planet ~mission_target_planet~ immediately! ~group:star_clue~.
+0x00000032 This story unfolds on planet ~mission_target_planet~. ~group:star_clue~. Alas, it is known, in order to maintain harmony, ~mission_num_kills_needed~ need be removed from the lovely wild ~mission_target_animal_species~ herds.
+0x00000033 Eradicating this species is a task unworthy of us, but it may be suitable for a species such as you. Planet ~mission_target_planet~ is in danger of being overrun by ~mission_target_animal_species~. Their tails glow, so killing them should be ridiculously easy.~p~Kill ~mission_num_kills_needed~ of the dangerous animals. ~group:star_clue~.~p~We will be watching, to make certain you complete this mission quickly and on schedule.
+0x000000DD Go to planet ~mission_target_planet~. ~group:star_clue~.~p~Kill ~mission_num_kills_needed~ tagged ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~. That is all you need know.
+0x000000DE On planet ~mission_target_planet~ you will find ~mission_target_animal_species~. These animals have glowing trails, so it shouldn't be hard to find them. Kill them all, but don't harm buildings, animals, or natives.~p~~group:star_clue~. The planet ~mission_target_planet~ will be in the vicinity.
+0x00000034 Yeah, I think I can do this.
+0x00000035 I could get into this. Yeah.
+0x00000036 Killing defenseless animals. Count me in!
+0x00000037 Yeah, sure. I'll do it.
+0x00000038 This mission is terrible. I'm out.
+0x00000039 I won't do it. It's wrong.
+0x0000003A No way. I'm not killing animals!
+0x0000003B No. No. Never. No. Sorry.
+0x0000003C Excellent work, as always. You are held in high regard throughout the colonies.~p~I believe you were promised ~mission_rewards~ Sporebucks as payment, yes?~p~It's always a pleasure doing business with a name you can trust.
+0x0000003D Hey, wow. I can't thank you enough. That was so rad of you to get us out of that jam... Here's your ~mission_rewards~ Spucks, as promised.~p~We'd have done it ourselves, but we're thinking about a career in politics, so we can't be seen doing things like that.~p~Even if it is all in the service of THE MIGHTY GROX!!! HAIL THEM!!!
+0x0000003E Oh, hurray! Oh joy! Thank you for helping out those sweet things in their hour of need.~p~Before you came, we tried sending in elite squads of highly-trained soldiers to eliminate the sick ourselves, but when they looked into those great big eyes...~p~We just couldn't do it! The Cuteness! The Cuteness!
+0x0000003F Oh.~p~It's you again. That was quick.~p~Well, ain't you an industrious little busybody. Ain't you a little flitty-flighty so-and-so.~p~If we pay you now, will you leave again?~p~Here. Here's ~mission_rewards~ Spucks, like we said. Now why don't you make like an Aldrin and buzz off.
+0x00000040 Wondrous, joyous, rapturous applause awaits us at the Spaceminster Planetary Show-off Exhibition this year! You have virtually assured us of receiving Best in Show, you kind, kind soul.~p~Here is your bounty, as promised. ~mission_rewards~ Sporebucks, and worth every bit of it, a thousand-fold.
+0x00000042 Welcome ~player_title~ ~player_creature_name~.~p~The Grand Council is pleased with your conduct. You are to be awarded a Certificate of Commendation, Second Class, and ~mission_rewards~ Sporebucks.
+0x00000043 ~player_title~ ~player_creature_name~. Thou has proven worthy of our trust. Please take these ~mission_rewards~ Sporebucks, and may Spode enlighten you.
+0x00000044 We thank you and the ecosystem on planet ~mission_target_planet~ thanks you even more. We're pleased to offer you ~mission_rewards~ Sporebucks.
+0x00000045 ~player_title~ ~player_creature_name~. You have cleansed the planet ~mission_target_planet~. :Please take these ~mission_rewards~ Sporebucks, and endeavor to forget this incident as soon as possible.
+0x00000046 Splendid! The surface of ~mission_target_planet~ is much more interesting with all those little craters! Take these ~mission_rewards~ Sporebucks!
+0x00000047 Hello, hello ~player_title~ ~player_creature_name~. You have righted what was not right. Well done, well done. Please gaze upon your ~mission_rewards~ Sporebucks.
+0x00000048 Kind ~player_title~ ~player_creature_name~. We welcome your return.~p~Thank you for having restored the balance with all our cute little animal friends. Have these ~mission_rewards~ Sporebucks, over which we've chanted for hours!
+0x00000049 ~player_creature_name~. It appears that you are capable of following simple instructions. These ~mission_rewards~ Sporebucks are intended to provide positive reinforcement.
+0x000000DF ~player_creature_name~. You have fulfilled our commands. As ~mission_rewards~ Sporebucks are often required to motivate the cooperation of an organic species, we offer these to you.
+0x000000E0 Great work, Captain! And look we have ~mission_rewards~ Sporebucks just lying around! 
+0x0000004A Let me ask you one other thing...
+0x0000004B I have one other question...
+0x0000004C May I ask you something?
+0x0000004D Just one last thing...
+0x0000004E That was unsettling. Good day.
+0x0000004F What a rush! Thanks! See ya!
+0x00000050 Hey, just doing my job.
+0x00000051 Well. I guess I'll be on my way...
+0x00000052 Hmmm. You forgot your mission? That's surprising. Your profile has a very high rating.~p~Well, never mind. Let's get you sorted:~p~Cull ~mission_num_kills_needed~ mutant ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ on planet ~mission_target_planet~ in the ~mission_target_star~ system.~p~You'll be able to spot the affected creatures by their glowing pheromone clouds. Happy hunting.
+0x00000053 Hey, hey, friend. Listen, you know we like you as a sentient being, right? It's just professionally...~p~Well, look - just kill the ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ on planet ~mission_target_planet~ in the ~mission_target_star~ system, and it'll all be fine.~p~It's not about how *we* feel about you - it's just THE WISE AND EXACTING GROX DEMAND SERVITUDE TO THEIR OMNIPOTENCE!!!
+0x00000054 Oh. Oh. We really don't want to be a bother. Really.~p~It's just that ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ are sick with Oogie Fever! They're so virulent they glow! There's no time to be absent-minded!~p~Please, go to the ~mission_target_star~ system, and find planet ~mission_target_planet~.~p~Kill all the infected animals. Don't let their adorable ways deter you like it did us!
+0x00000055 I couldn't believe what I was seeing, until I heard you speak! Now I don't trust any of my 9 senses. I can't believe you came back before you finished! Bagh!~p~Listen closely: kill ~mission_num_kills_needed~ ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~, on planet ~mission_target_planet~, in the ~mission_target_star~ system.~p~But the most important thing for you to remember is... to leave!
+0x00000056 Please, be quick! The Spaceminster Planetary Show-off Exhibition grows ever nearer!~p~We shall summon all our skills of precision and concision, in re-capping to you your own endeavor:~p~Kill ~mission_num_kills_needed~ tagged ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~, on planet ~mission_target_planet~, in the ~mission_target_star~ system.~p~Otherwise, we'll be penalized and lose our chance at Best in Show.
+0x00000058 The Grand Council views with concern the fact that you have not completed the eradication of ~mission_target_animal_species~. All parameters of the mission should be available in your Mission Log. Our citizens remain in peril. Will you travel to planet ~mission_target_planet~ and destroy ~mission_target_animal_species~?
+0x00000059 The Way of Spode is the Way of Truth. Did you speak truth when you said that you would travel to planet ~mission_target_planet~ and destroy ~mission_target_animal_species~? Before you answer, bear in mind that Spode knows what's in your Mission Log.
+0x0000005A Our reports indicate that ~mission_target_animal_species~ is still endangering planet ~mission_target_planet~. Will you help us eradicate this menace? All relevant information should be in your Mission Log.
+0x0000005B Curiously, you seem not to have gone to planet ~mission_target_planet~ in order to destroy ~mission_target_animal_species~. Were our instructions incomplete, was your Mission Log destroyed, or have you not managed to properly organize the data?
+0x0000005C This unworthy one regrets extremely the necessity of pointing out that you have not destroyed ~mission_target_animal_species~, as specified in the contract recorded in your Mission Log. Will you travel to planet ~mission_target_planet~ and destroy ~mission_target_animal_species~? Are you still interested in our rewards?
+0x0000005D Let's play a little game called...I Know What's In Your Mission Log... I know that your Mission Log holds text of your agreement go to planet ~mission_target_planet~ and destroy ~mission_target_animal_species~!
+0x0000005E We were chanting to send friendly vibrations your way at planet ~mission_target_planet~, but now we find you're here instead! We thought you were going to remove ~mission_target_animal_species~ from this plane of existence?~p~Isn't all the information in your Mission Log?
+0x0000005F It was our understanding that you were to go to  planet ~mission_target_planet~ in order to destroy ~mission_target_animal_species~. Data from your Mission Log confirms this.~p~You waft like flotsam on the tide. Our patience is not unlimited.
+0x000000E1 You have not eliminated ~mission_target_animal_species~ from planet ~mission_target_planet~, despite our having downloaded all necessary information into your Mission Log.
+0x000000E2 The deadly ~mission_target_animal_species~ hasn't been eliminated from planet ~mission_target_planet~. Check your Mission Log for the details and go there at once!
+0x00000060 Let me ask you one other thing...
+0x00000061 I have one other question...
+0x00000062 May I ask you something?
+0x00000063 Just one last thing...
+0x00000064 I've decided I'm not going to do this.
+0x00000065 This is unethical. I won't do it!
+0x00000066 I quit. Sorry.
+0x00000067 I'm done with this! It was hard!
+0x00000068 Right. Got it. Bye.
+0x00000069 That's right. Kill the animals.
+0x0000006A Ahh, I see. I've got it now.
+0x0000006B Okay. I understand. I'll return shortly.
+0x00000072 The Grand Council is pleased. Please head to planet ~mission_target_planet~ immediately. Once there, you have ~mission_time~ sectons to eradicate the ~mission_target_animal_species~. Be certain not to accidentally harm any citizens or harmless life-forms.
+0x00000073 Please voyage to planet ~mission_target_planet~, where you have ~mission_time~ sectons to destroy ~mission_target_animal_species~. We thank you for ensuring the health and safety of our citizens.
+0x00000074 The ~player_creature_name~ have shown themselves wise and generous. Kindly voyage to planet ~mission_target_planet~, where you have ~mission_time~ sectons to destroy the menace of the ~mission_target_animal_species~. Do not harm any of our citizens, or non-threatening life-forms.
+0x00000075 Speed at once to planet ~mission_target_planet~, where you have a mere ~mission_time~ sectons to destroy the unholy monsters of ~mission_target_animal_species~. Fire not upon harmless life-forms or those who live in the Way of Spode, lest you be targeted by divine wrath.
+0x00000076 Let the smiting begin! You have ~mission_time~ sectons to burn the ~mission_target_animal_species~ of planet ~mission_target_planet~. But spare all of Spode's faithful and their property.
+0x00000077 These demonic entities must be reduced to cinders. Go at all speed to planet ~mission_target_planet~, near ~mission_target_star~ system. Once there, you have ~mission_time~ sectons to let ~mission_target_animal_species~ feel Spode's wrath. Spare all Spode's children but those who burn with demonic fire.
+0x00000078 Speed at once to planet ~mission_target_planet~, near ~mission_target_star~ system, where you have ~mission_time~ sectons to destroy the unholy monsters of ~mission_target_animal_species~. Fire not upon harmless life-forms or those who live in the Way of Spode, lest you be targeted by divine wrath
+0x00000079 You may prove the salvation of planet ~mission_target_planet~! Go there quickly and save its biome from this menace!
+0x0000007A If planet ~mission_target_planet~ is to be saved, then it will be through your efforts. You have only ~mission_time~ sectons on planet ~mission_target_planet~ to eradicate the ~mission_target_animal_species~. For your willingness to re-establish the ecological balance, we thank you.
+0x0000007B We thank you. You have ~mission_time~ sectons once on planet ~mission_target_planet~ to destroy the ~mission_target_animal_species~.
+0x0000007C You are authorized you to head for planet ~mission_target_planet~ and destroy ~mission_target_animal_species~; however, you have only ~mission_time~ sectons once you've arrived to complete your task. Do not fire on buildings, citizens, or harmless animals.
+0x0000007D Head for planet ~mission_target_planet~ and destroy the glowing ~mission_target_animal_species~. You have only ~mission_time~ sectons to save our species. Don't shoot any other species, or our lovely little homes, or for that matter us!~p~And hurry, before the ~mission_target_animal_species~ can do more damage.
+0x0000007E Delight suffuses this one's wretched being! He must remind the mighty ~player_creature_name~ not to accidentally harm any sentients or harmless life-forms. And, you have only ~mission_time~ sectons on planet ~mission_target_planet~ to eradicate the ~mission_target_animal_species~.
+0x0000007F Thank you! You have ~mission_time~ sectons on planet ~mission_target_planet~ to destroy the ~mission_target_animal_species~. Don't harm any of our other animal friends, or destroy any of us or our feng shui.~p~Please hasten, before the ~mission_target_animal_species~ can spread!
+0x00000080 You are not allowed to fire on buildings, our people, or harmless animals. Go at once. You have only ~mission_time~ sectons on planet ~mission_target_planet~ to eradicate the ~mission_target_animal_species~.
+0x000000E3 There are time constraints on this mission, so leave at once. You have only ~mission_time~ sectons on planet ~mission_target_planet~ to eradicate the ~mission_target_animal_species~.
+0x000000E4 Hurry, Captain! This must be done quickly! You have only ~mission_time~ sectons on planet ~mission_target_planet~ to eradicate the ~mission_target_animal_species~.
+0x00000026 I'd like to ask you something else...
+0x00000028 Before I go, I have other questions.
+0x00000030 Also...
+0x00000031 One more thing...
+0x00000081 I will return shortly.
+0x00000082 Be right back.
+0x00000083 I'm off to kill some animals!
+0x00000084 You can count on me.
+0x00000085 Hmmm, that's unusual. We'd heard you generally accepted all manner of galactic quests.~p~Well, this is unfortunate. The ~mission_target_animal_species~ could evolve recklessly if we don't nudge them in the appropriate direction.~p~Not all species are so lucky as to have a good mentor. I guess we'll just roll the dice with the ~mission_target_animal_species~.
+0x00000086 Awww...~p~C'mon, buddy. Don't leave us hangin, brah...~p~I thought you were cool!~p~Whatever!!!~p~I'm telling! I'm telling THE AWESOME AND MAJESTIC GROX on you!!!
+0x00000087 Oh, no! When we saw you coming, I guess we just pinned all our hopes on you to save the ~mission_target_animal_species~ from their horrible fate.~p~I guess nothing can stop the Oogie Fever from spreading now! It's curtains for the ~mission_target_animal_species~!
+0x00000088 Awwww, gee, that's too bad. I guess that means you'll be going far, far, far, far, far away now, right? And quickly, too, yeah?~p~This time we've shared together - no one can take that from us.~p~Now go! Be sure to travel fast and travel far, now.~p~Bye.
+0x00000089 Oh, the wretched heavens have unleashed a torrent of misfortune upon us! We're upon the very cusp of the show itself, and there are so many other things to do!~p~We need to tape down the mesas and apply vaseline to the mountain caps, even still!~p~You likely just cost us the highly coveted Best in Show! We shall not forget this soon, you scoundrel!
+0x0000008B The Grand Council will not compel any species to act against its will. These negotiations are at an end. Goodbye.
+0x0000008C The Grand Council views with grave concern this failure of the ~player_creature_name~ to act in accordance with an agreement into which they entered freely. Goodbye.
+0x0000008D Truly it is said that the heart of an unbeliever is a heart of stone. Goodbye.
+0x0000008E We can only hope that the ecosystem of planet ~mission_target_planet~ will survive without your help. Goodbye.
+0x0000008F We will accomplish that task ourselves, then. Goodbye.
+0x00000090 But you look so terrifically stunning with a blaster in your arms! Oh, well.
+0x00000091 Oh dear, oh dear. To think of the rewards that could have been yours!
+0x00000092 We'll have to hold a healing ceremony in order to recover from this rejection.
+0x00000093 Such a simple task is beyond you? We shall take note.
+0x000000E5 Do you refuse to obey orders?
+0x0000008A I'd like to ask you something else...
+0x0000002B Before I go, I have other questions.
+0x00000041 Also...
+0x00000057 One more thing...
+0x0000006C Very sorry to have bothered you. So long.
+0x0000006D Perhaps another time. So long.
+0x0000006E I can see you are busy. We'll speak later.
+0x0000006F I can see you need a moment. Farewell.
+0x00000070 I beg your understanding.
+0x0000009C Quitting? This is shocking.~p~You realize, these conservationists will talk about you. On their blogs!
+0x0000009D Aborting the mission? This is...~p~you can't... The planet needs to be just right for our masters...~p~THE  COLD AND UNWAVERING GROX ARE GOING TO HEAR ABOUT THIS!!!
+0x0000009E Forgive me for saying so, but how could you be so callous?~p~The ~mission_target_animal_species~ are about to be extinguished, and you were the only one who could have saved them! Now, they're done for!~p~Oh, if we only had the courage to cull the ill ourselves!
+0x0000009F Mission Aborted? Oh, no. How terrible.~p~Although, really, I think we'd be willing to still consider this a success if you, you know, leave. Quickly.~p~You're not getting paid, of course. Like, duh. But otherwise, just seeing you go feels like success.
+0x000000A0 Oh, this is unimaginable! This can not be happening!~p~The judges will arrive any moment, and the planet is not ready, thanks to you!~p~Planet ~mission_target_planet~ will win the 'So-so Effort' award at best!
+0x000000A2 In view of this willful disregard of your agreement, the Grand Council will have to seriously reconsider its attitude toward your species.
+0x000000A3 The tongue of the heathen is the tongue of the liar. Goodbye.
+0x000000A4 Your irresponsible attitude is noted.
+0x000000A5 How curious. Goodbye.
+0x000000A6 Your species tries so hard to amuse. A pity that you always fail.
+0x000000A7 We will have to set aside the ~mission_rewards~ Sporebucks for a more reliable species.
+0x000000A8 You are possessed by an erratic and wandering spirit.
+0x000000A9 Is this the ~player_creature_name~ concept of honor?
+0x000000E7 Defiance of a Grox order is tantamount to suicide.
+0x000000E8 You're quitting? But we counted on you!
+0x00000071 I'd like to ask you something else...
+0x000000A1 Before I go, I have other questions.
+0x00000094 Also...
+0x00000095 One more thing...
+0x00000096 Very sorry to have bothered you. So long.
+0x00000097 Perhaps another time. So long.
+0x00000098 I can see you are busy. We'll speak later.
+0x00000099 I can see you need a moment. Farewell.
+0x0000009A I beg your understanding.
+0x000000AE I think you would have benefited from looking up the definition of 'conservation' before you embarked on this journey.~p~If you decimate the entire population of ~mission_target_animal_species~, it makes it much more difficult conserve anything. Now, they're on the brink of annihilation.~p~Some help you are!
+0x000000AF Oh, did you kill too many untagged creatures?~p~Did we not mention that's a no-no? It was a gardened planet, after all.~p~Yeah, uhhh... THE FASTIDIOUS AND EXACTING GROX... they... they are not gonna like this. Nope. Not a bit.~p~Hooboy, this is such a huge mess!
+0x000000B0 Oh, no! This is a catastrophe!~p~Those, poor defenseless ~mission_target_animal_species~! So cute! So loving! And now, doomed! Doomed to extinction! It's too much to bear!~p~You killed too many healthy animals, and de-stabilized the whole population! What did they ever do to you!?!
+0x000000B2 Calamity! This is beyond disastrous! Words... words fail us. Your recklessness has sent us reeling into the domain of pure, unfettered emotion.~p~We've gravely misjudged you. This task required deftness and precision, and you seem to lack both, you oaf!~p~The ~mission_target_animal_species~ have been completely de-stabilized, and there's no time to re-volumize. We've lost!
+0x000000E9 ~player_creature_name~ you have failed to do what the Grox required of you. This has been noted.
+0x00000005  ~player_title~ ~player_creature_name~. Your irresponsible violence toward all species has resulted in serious harm to the world's delicate Food Web! We are dissapointed.
+0x000000B4 Ho ho! ~player_title~ ~player_creature_name~ returns... but methinks not so ~player_title~-ee afterall.~p~Did you shoot at all that moved?? Yes, 'tis a fun game as well... but 'tis not what we asked of you.~p~No Sporedecakes for you!
+0x000000B5 You have returned ~player_title~ ~player_creature_name~.~p~The Philosophy of Order specifically states the avoidance of disorder. Tragically, your irresponsible violence has caused irreparable disorder in the galaxy!~p~The Grand Council will have to refile your contracts as a risk to our Philosophy.
+0x000000B6 Irreverent ~player_title~ ~player_creature_name~.~p~Your reckless shooting has destroyed the harmony we worked so hard to create! Would that you grow and take more careful aim in the future.
+0x000000B7 ~player_creature_name~. A true weapons master aims his weapon not at everything in sight, but only at the target.~p~Clearly you are not such a master.
+0x000000EE Halt ~player_creature_name~!~p~Your indiscriminate shooting has done more damage than the hellspawn! We were led to believe you had a clear sense of good and evil. Clearly not!
+0x000000B1 I'd like to ask you something else...
+0x000000C9 Before I go, I have other questions.
+0x000000E6 Also...
+0x000000EA One more thing...
+0x000000B9 But blowing stuff up is fun! So long.
+0x000000BA But my way's more fun! Goodbye.
+0x000000BB Oops. My bad. Farewell.
+0x000000BC I see you need a moment. I'll return later.
+0x000000EF Please accept my humble apology!
+0x000000BD What what? We see you have returned in the opposite state of success! We were expecting the opposite of the opposite state of success!~p~Oh dear, oh dear! Plan B... we need a Plan B
+0x000000BE Welcome ~player_title~ ~player_creature_name~. We greet you once again on behalf of the Grand Council.~p~Speaking of which, I hate to tell them that you have failed your task. I will stamp it as 'in need of review'... by the time it works its way thru the filings and approvals... perhaps you will have had a chance to improve your reputation.
+0x000000BF ~player_creature_name~ has been defeated by the hellspawn? Alas that they were so many! 
+0x000000C0 Wow... so... welcome back.~p~We have heard you were unable to complete your task, which I must confess gives us some relief. Perhaps it was not to be.
+0x000000C1 ~player_title~ ~player_creature_name~. Your species is incapable of following simple instructions. We will bear this in mind should we encounter you again.
+0x000000C2 Ho ho! ~player_title~ ~player_creature_name~ returns... but methinks not so ~player_title~-ee afterall.~p~Let's see... you were bested by a bunch of dumb beasts that glow in the dark and can't fight back.~p~Hee hee! Truly your ship has powerful zing! A shame it is such a secret! Ha!
+0x000000C3 Kind ~player_title~ ~player_creature_name~, you have returned safely, but have failed in your efforts.~p~We do understand. It's hard to look in the eyes of one of our furry brethren and shoot them down in cold blood.
+0x000000C4 ~race~ told ~player_creature_name~ to make haste on planet ~mission_target_planet~, but instead ~player_creature_name~ wasted time. ~player_creature_name~ efficiency is in question.
+0x000000EB ~player_creature_name~ have failed to eliminate ~mission_target_animal_species~ within the time parameter specified. ~player_creature_name~ species is inefficient.
+0x000000EC Welcome back Captain. We see you encountered some difficulties on your mission.~p~We're disappointed the didn't manage to eliminate ~mission_target_animal_species~ quickly enough. Perhaps more target practice is in order.
+0x000000C5 I'd like to ask you something else...
+0x000000C6 Before I go, I have other questions.
+0x000000C7 Also...
+0x000000C8 One more thing...
+0x000000F0 I had some unforeseen issues. Goodbye.
+0x00000107 I see you need a moment. I'll return later.
+0x00000108 Please accept my humble apology!
+0x000000CA ...
+0x0000009B I need a little refresher on the mission...
+0x000000AA Uhh... What am I supposed to do again?
+0x000000AB I spaced on my mission. What is it again?
+0x000000AC I forgot what I doing. What's my mission?
+0x000000AD Can you remind me of my mission?
+0x000000B3 Ah, of course! The Mission Log. I will look there!
+0x000000B8 Before I go, I have other questions...
+0x000000CB Also...
+0x000000CC One more thing...
+0x000000CF I'd rather do something else.
+0x000000D0 I need to decline this task.
+0x000000D1 This task no longer fits into my schedule.
+0x000000D2 I beg to be released from this task.
+0x000000D3 Very sorry to have bothered you. So long.
+0x000000D4 Until we speak again. So long.
+0x000000D5 I can see you are busy. We'll speak later.
+0x000000D6 I beg your understanding.
+0x000000CD Eradicate ~mission_num_kills_needed~ targeted ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ on planet ~mission_target_planet~.
+0x000000CE All varieties of ~mission_target_animal_species~ have been eliminated. Return to collect payment.
+0x000000F1 Failed. Go back to planet ~mission_source_planet~.
+0x000000F2 Failed. Go back to planet ~mission_source_planet~.
+0x000000F3 Planet is located in the ~mission_target_star~ system.
+0x000000F4 Return to planet ~mission_source_planet~ in star system ~mission_source_star~ for payment.
+0x000000F5 You have killed too many healthy animals. Return to star system ~mission_source_star~ to give them the bad news.
+0x000000F6 You failed to eradicate diseased animals on time. Go back to star system ~mission_source_star~ to give them the bad news.
+0x000000F7 Eradicate ~mission_num_kills_needed~ targeted ~mission_target_animal_species~ ~^p^mission_num_kills_needed^creature^creatures~ on planet ~mission_target_planet~ in the ~mission_target_star~ system.
+0x000000F8 All varieties of ~mission_target_animal_species~ have been eliminated. Return to planet ~mission_source_planet~ in star system ~mission_source_star~ for payment.
+0x000000FA You have killed too many healthy animals. Go back to planet ~mission_source_planet~ in star system ~mission_source_star~ to give them the bad news.
+0x000000FB You failed to eradicate diseased animals in time. Go back to planet ~mission_source_planet~ in star system ~mission_source_star~ to give them the bad news.
+0x000000FC ~mission_num_eradicated_creatures~ down, ~mission_num_diseased_creatures_left~ more ~mission_target_animal_species~ ~^p^mission_num_diseased_creatures_left^creature^creatures~ to go.
+0x000000FD Success! All targeted ~mission_target_animal_species~ have been eliminated.
+0x000000FE Eradicate glowing creatures only, please. Thank You.
+0x000000FF Mission Failure. Too many untargeted eradications.
+0x00000100 Killing ~mission_num_healthy_creatures_left~ more untargeted ~^p^mission_num_healthy_creatures_left^creature^creatures~ will cause mission failure.
+0x00000101 Possibility for infection. Incinerating...
+0x00000102 Infected lifeform. Incinerating...
+0x00000103 Time has expired. Mission failed.
+0x00000105 The ~mission_target_star~ system is approximately ~mission_clue_distance~ parsecs from ~mission_clue_landmark1~
+0x00000106 The ~mission_target_star~ system is ~mission_clue_range_min~ to ~mission_clue_range_max~ parsecs from ~mission_clue_landmark1~
+0x000000ED The star name is ~mission_target_star~

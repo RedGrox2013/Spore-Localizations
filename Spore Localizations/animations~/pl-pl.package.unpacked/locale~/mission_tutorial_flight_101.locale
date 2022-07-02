@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Flight101_EradicateAnimals Reject
+0x0000001E Flight101_EradicateAnimals Abort
+0x00000018 Flight101_FetchAnimal Reject
+0x0000001D Flight101_FetchAnimal Abort
+0x00000051 Flight101_Scan Reject
+0x00000075 ...
+0x00000065 Flight101_Scan Abort
+0x00000021 A zatem, co mam teraz zrobić dla was?
+0x00000013 Jakiś problem, kadecie? ~p~Musisz przelecieć przez dowolne z 7 kul, jakie zostały wzniesione ponad miastami. Używaj klawiszy ze strzałkami albo trzymaj wciśnięty prawy przycisk myszy, aby pilotować swój statek kosmiczny. Do zwiększania lub zmniejszania wysokości loty służy kółko myszy.~p~Możesz także poruszać się po planecie, klikając minimapę.
+0x0000000F Dobra robota, kadecie. Latając w ten sposób, szybko dorobisz się rangi kapitana.
+0x00000005 Umiem już pilotować swój statek. Teraz to dla mnie pestka.
+0x0000002B Nawiąż komunikację.
+0x00000061 Tak. Co teraz?
+0x0000000D Dobrze. Wchodzę w to.
+0x0000002E Nawiąż komunikację.
+0x0000000B Użyj promienia przechwytującego, który znajdziesz na panelu ładowni, aby zabrać tego stwora do dalszych badań.~p~Postaraj się utrzymać pracę narzędzia tak długo, aż stwór znajdzie się bezpiecznie w ładowni statku.~p~Jeśli przerwiesz wysyłanie promienia zbyt wcześnie, zanim ładunek zostanie bezpiecznie zapakowany na statek, może to oznaczać bardzo przykre konsekwencje dla ofiary... eh, to znaczy, dla okazu.
+0x0000004A Skanowanie zakończone. Nawiąż komunikację.
+0x00000019 Doskonale! Nasi naukowcy z ochotą zajmą się analizą danych.
+0x0000001C W takim razie wygląda na to, że patrzymy na naszego nowego kapitana. Czy czujesz się na siłach, aby podjąć się bardziej ekscytujących misji?
+0x00000078 Fiasko misji. Zbyt wiele przypadkowych ofiar.
+0x0000002D Nawiąż komunikację.
+0x0000004D Zaraz wracam.
+0x00000017 W takim razie wygląda na to, że patrzymy na naszego nowego kapitana. Czy czujesz się na siłach, aby podjąć się bardziej ekscytujących misji?
+0x0000002C Nawiąż komunikację.
+0x00000071 Tak.
+0x00000024 Zgadza się. Teraz rozumiem. Dzięki.
+0x00000052 Nie wprowadzisz tego czegoś na pokład. Nie ma mowy!
+0x00000076 Przepraszam. Powtórzcie, na czym polega ta misja?
+0x0000003D Zgadza się. Teraz rozumiem. Dzięki.
+0x00000022 Jasne.
+0x00000077 Prosimy, eksterminuj tylko lśniące stwory. Dziękujemy.
+0x0000007B Nie zabieraj zwierząt wybranych do eksterminacji.
+0x0000004E Stwór ~mission_item~ został porwany. Nawiąż komunikację.
+0x00000042 W Twojej ładowni jest teraz ~mission_item~. Nawiąż komunikację.
+0x00000014 Nie możesz wciągnąć żadnego z tych małych skubańców? ~p~Po wybraniu promienia przechwytującego kliknij lewym przyciskiem myszy stwora, którego chcesz porwać. Musisz trzymać wciśnięty lewy przycisk myszy cały czas, dopóki stwór nie znajdzie się w Twojej ładowni. ~p~Karta Twojego celu zaktualizuje się, gdy zabezpieczysz swój ładunek.
+0x00000047 W Twojej ładowni jest teraz ~mission_item~.
+0x00000007 Jeśli myślisz, że dasz sobie z tym radę, to kontynuuj. ~p~Otrzymasz Odznakę Kapitana. Wyposażyliśmy Twój statek kosmiczny w cały sprzęt potrzebny do rozpoczęcia Twojego programu eksploracji przestrzeni kosmicznej.
+0x00000089 W Twojej ładowni jest teraz zwierzę gatunku ~mission_item~.
+0x0000008D W Twojej ładowni jest teraz zwierzę gatunku ~mission_item~. Nawiąż komunikację.
+0x00000027 Porwij przedstawiciela gatunku ~mission_item~.
+0x00000026 Przeskanuj brakujący gatunek.
+0x0000003C Aby zapobiec rozprzestrzenianiu się epidemii, usuń z macierzystej planety zarażone zwierzęta z gatunku ~mission_target_animal_species~ w liczbie ~mission_num_kills_needed~.~p~Użyj minilasera, który znajdziesz w zbrojowni.
+0x0000003A Ze Sporpedii zniknęły informacje o autochtonicznym stworze. Użyj skanera, aby zdobyć te dane.~p~Narzędzie skanowania znajduje się w grupie narzędzi głównych.~p~Istota, o którą chodzi, zostawia świecący ślad. Aby ją odnaleźć, zwróć uwagę na sygnały odbierane przez radar.~p~Zmienianie wysokości lotu może ułatwić poszukiwania. Do tego celu użyj klawiszy +/– albo kółka myszy.
+0x0000003B Porwij stwora i umieść go w mieście, aby rozpocząć badania.~p~Wybierz promień przechwytujący, kliknij stwora i przytrzymaj przycisk. Promień przechwytujący znajdziesz w grupie ładowni. Nie wyłączaj promienia, póki stwór nie znajdzie się na statku.~p~Kiedy już będziesz mieć na pokładzie okaz, poleć do dowolnego miasta i delikatnie opuść go w granicach murów miejskich. Aby to zrobić kliknij stwora w ładowni, a potem lewym przyciskiem kliknij miejsce, w które chcesz go opuścić. Pamiętaj, aby nie puszczać przycisku, póki stwór nie znajdzie się bezpiecznie na ziemi.
+0x0000004B Chore zwierzęta z gatunku ~mission_target_animal_species~ zostały wyeliminowane. Nawiąż komunikację.
+0x00000012 Kliknij ~mission_item~ w ładowni, przesuń kursor nad dowolne miasto, a następnie kliknij i przytrzymaj przycisk myszy.
+0x00000002 Użyj prawego przycisku myszy, aby latać, i klawiszy +/– aby zmieniać wysokość lotu.
+0x00000025 Brzmi obiecująco. Mogę ruszać w każdej chwili!
+0x0000008B Promień przechwytujący znajduje się w ładowni.
+0x0000000E ~mission_item~ musi się znaleźć w granicach murów miejskich.
+0x00000030 Użyj skanera, aby wprowadzić informacje o wybranym stworze do Sporpedii.
+0x0000008E Sukces! Nawiąż komunikację.
+0x00000031 Użyj mini lasera ze zbrojowni.
+0x00000086 Przeleć przez kule nad jeszcze ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^miastem^miastami~, aby je rozbić.
+0x00000009 Tak. Wiem, co robię. Przygotujcie mój statek kosmiczny do gwiezdnej podróży.
+0x0000000C Wybierz minilaser na panelu uzbrojenia i wyceluj go w chore stwory. ~p~Uważaj, gdzie celujesz tym laserem! Jest w stanie niszczyć budynki, pojazdy i inne statki kosmiczne. ~p~A teraz ruszaj już, zanim zaraza rozniesie się na jeszcze więcej okazów!
+0x00000008 Jeszcze nie. Zmieniam zdanie. Odwiedźmy miasta.
+0x00000004 Teraz, gdy jesteś asem przestworzy, możesz używać bardziej wyrafinowanych narzędzi, które wynaleźliśmy specjalnie do Twojego statku kosmicznego.~p~Pracowaliśmy nad możliwością skanowania planet oraz zwierząt, jakie odkrywasz podczas swoich podróży.~p~Wygląda na to, że to narzędzie pojawiło się w samą porę! Zapis danych w Sporpedii na temat jednego z naszych własnych zwierząt ostatnio uległ uszkodzeniu. I to w tym samym czasie, gdy to zwierzę zaczęło przejawiać dziwne symptomy.~p~Musisz zeskanować zwierzę, abyśmy mogli zebrać więcej informacji o tym gatunku.
+0x00000001 Zdaje się, że zabrany okaz był chory i zakażony wirusem, który rozprzestrzenia się w zastraszającym tempie. To może zagrozić całemu naszemu ekosystemowi.~p~Oczywiście, liczymy na to, że zajmiesz się tym z wyczuciem. Wyposażyliśmy Twój statek kosmiczny w niezwykle przydatny minilaser. Ta broń zapewnia precyzję, która będzie potrzebna do usunięcia zarażonych stworów, bez szkody dla zdrowych osobników.
+0x00000039 Odwiedź jeszcze ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^miasto^miasta~ i przeleć przez kule, aby je rozbić.~p~Kieruj swoim statkiem kosmicznym za pomocą klawiszy ze strzałkami. Możesz także sterować, trzymając wciśnięty prawy przycisk myszy.~p~Jeśli chcesz zmienić wysokość, używaj klawiszy +/– albo kółka myszy.~p~Wypatruj lśniących kul nad miastami i przelatuj przez te kule.
+0x00000028 Liczba chorych zwierząt do likwidacji: ~mission_num_kills_needed~.
+0x00000079 Po ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^dalszej błędnej eksterminacji^dalszych błędnych eksterminacjach~ misja zakończy się porażką.
+0x00000003 Gratulacje, kadecie! Niezłą masz furę! ~br~Nadal dodajemy nowe wyposażenie do Twojego statku, ale już wkrótce będzie gotowy do podróży kosmicznych! ~p~Czy pilotujesz statek kosmiczny po raz pierwszy? Tak? ~br~Hmm... Cóż... Nie ma to jak lot próbny, któremu przygląda się cała populacja ~player_creature_name~ z planety ~race_homeworld~.~p~I co na to powiesz? Czujesz się na siłach zdobyć Odznakę Kapitana?~p~
+0x0000008F Obiekt ~mission_item~ został pozyskany do badań. Nawiąż komunikację.
+0x0000004F Obiekt ~mission_item~ został upuszczony zbyt daleko od jakiegokolwiek miasta. Podnieś go i umieść w obrębie murów miejskich.
+0x0000008C Udało ci się odwiedzić ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^miasto^miasta~.
+0x00000046 Udało ci się przeskanować gatunek.
+0x00000006 Na kosmokurczaki! Informacje, jakie udało ci się zebrać za pomocą skanowania, okazały się całkiem przydatne.~p~Teraz mamy już jasność, że musimy dalej badać ten gatunek. ~p~Twój statek został wyposażony w promień przechwytujący, który znajdziesz w swojej ładowni. Użyj tego narzędzia, aby schwytać okaz stwora, i przywieź go nam.
+0x00000036 Udało ci się przeskanować gatunek.
+0x00000041 Stwór, o którym mowa, zostawia za sobą dziwny, lśniący ślad.~p~Twój statek wyposażony jest w radar, który można włączyć lub wyłączyć w grupie narzędzi głównych. Wskaże ci on cele misji i przedmioty znajdujące się na powierzchni planety, które mogą cię zainteresować. Sygnał zwiększa częstotliwość, kiedy zbliżasz się do celu.~p~Wybierz skaner z grupy narzędzi głównych.
+0x00000040 Udało ci się przeskanować nowy gatunek. Nawiąż komunikację.
+0x00000037 Udało ci się zabić chore zwierzęta z gatunku ~mission_target_animal_species~.
+0x00000020 Wygląda na to, że udało ci się zabrać odpowiedni okaz. Musisz go dostarczyć do jednego z naszych miast.~p~Wybierz ładunek, który chcesz wyładować, na panelu ładowni i zrzuć go w mieście.~p~Postaraj się przenieść go promieniem bezpiecznie na powierzchnię, albo trzeba będzie złapać inny okaz i posprzątać bałagan.
+0x00000015 Czy wciąż nie udało ci się eksterminować wszystkich chorych stworów? ~p~Wyposaż się w laser, wskaż chore stwory i przytrzymaj wciśnięty lewy przycisk myszy. Są szybkie, więc musisz przesuwać laser, aby w nie trafiać.
+0x0000000A Tak trzymać!~br~Każde miasto na planecie ~race_homeworld~ wystrzeliło olbrzymią kulę na cześć naszego pierwszego statku kosmicznego! Naprawdę nie sposób ich przeoczyć!~p~Weź swój statek na przelot wokół planety i odwiedź ~mission_explore_num_cities_to_visit~ naszych miast. Przeleć przez kule, aby je rozbić!~br~Gdy skończysz, damy ci dalsze instrukcje. ~p~Powodzenia! I postaraj się nie zarysować lakieru.
+0x00000010 Naprawdę niezła robota, kadecie. Udało ci się dostarczyć nam doskonały okaz do badań. Zawsze powiadam: „Najpierw sonduj, potem porywaj”.
+0x00000050 Liczba wyeliminowanych stworów gatunku ~mission_target_animal_species~: ~mission_num_eradicated_creatures~. Musisz jeszcze unieszkodliwić ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^stwora^stwory(ów)~.
+0x00000034 Udało ci się zabić chore zwierzęta z gatunku ~mission_target_animal_species~. Nawiąż komunikację.
+0x00000033 Udało ci się przeskanować nowy gatunek. Nawiąż komunikację.
+0x00000048 Udało ci się zabić chore zwierzęta z gatunku ~mission_target_animal_species~.
+0x00000029 Masz problemy z przeskanowaniem okazu? ~p~Po wybraniu narzędzia skanowania kliknij lewym przyciskiem jeden z lśniących na żółto stworów. ~p~Jeśli nie udaje ci się znaleźć odpowiedniego stwora, spróbuj zwiększyć wysokość lotu za pomocą kółka myszy, aby zyskać szerszą perspektywę. Wypatruj żółtych strzałek. ~p~Po zlokalizowaniu celu, podleć do niego na niskim pułapie.
+0x00000045 Udało ci się odwiedzić ~mission_explore_num_cities_to_visit~ miast(a).
+0x00000088 Udało ci się odwiedzić ~mission_explore_num_cities_to_visit~ miast(a).
+0x00000011 Znakomita robota! Zdecydowanie się do tego nadajesz. Zasługujesz na szacunek i zaufanie swojej macierzystej planety. Chcemy powierzyć ci dowodzenie tym statkiem kosmicznym. Poprowadź naszą rasę ku galaktyce i chwale.~p~Otrzymujesz odznakę i tytuł Kapitana.~p~Nasi uczeni opracowali napęd międzyplanetarny dla Twojego statku, ale najpierw musisz go zainstalować, kapitanie.
+0x00000043 Udało ci się zabić chore zwierzęta z gatunku ~mission_target_animal_species~. Nawiąż komunikację.
+0x00000023 Nadal musisz dostarczyć okaz do jednego z naszych miast. ~p~Wybierz obiekt, który chcesz wyładować, klikając go lewym przyciskiem myszy na panelu ładowni. Spowoduje to aktywowanie promienia transportowego, który umożliwi ci umieszczenie obiektu na powierzchni planety. Poleć do jednego z naszych miast i odstaw okaz. Trzymaj wciśnięty lewy przycisk myszy, aż stwór zostanie bezpiecznie odstawiony na powierzchnię w obrębie jednego z naszych miast. ~p~Jeśli puścisz przycisk zbyt wcześnie, upuścisz obiekt i... Cóż, będzie potrzebny nowy.
+0x0000003F Udało ci się odwiedzić ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^miasto^miasta~. Nawiąż komunikację.
+

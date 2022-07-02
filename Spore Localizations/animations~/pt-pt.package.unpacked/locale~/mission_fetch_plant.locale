@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000D4 Até à próxima. Adeus.
+0x00000051 Estou farto desta missão. Obrigado, mas desisto.
+0x000000B8 O planeta ~mission_target_planet~ encontra-se no sistema estelar ~mission_target_star~.
+0x000000C3 Missão falhada. O tempo permitido expirou.
+0x000000D5 Já percebi que está ocupado. Depois falamos.
+0x000000B7 Missão falhada. Volte para o sistema estelar ~mission_source_star~.
+0x000000C0 Além disso...
+0x000000C2 Missão concluída. ~mission_item~ está a bordo.
+0x000000BC Tem ~mission_item~.~p~Volte para ~mission_source_planet~ no sistema estelar ~mission_source_star~ para receber a sua recompensa.
+0x00000050 Isto é uma planta matreira. Desisto.
+0x000000C1 Mais uma coisa...
+0x000000BF Antes de ir, queria fazer outras perguntas...
+0x000000BA Excedeu o tempo limite. Volte para o planeta ~mission_source_planet~ e dê-lhes as más notícias.
+0x0000000B Os nossos teólogos estão sempre a melhorar os nossos conhecimentos sobre a criação de Spode. Ainda não categorizámos ~mission_item~ como seguro ou não. Pode trazer-nos uma amostra?
+0x000000C4 Estamos à procura de uma planta...
+0x000000B9 Encontrou um espécimen de uma planta chamada ~mission_item~. Volte para o planeta ~mission_source_planet~ e receba a sua recompensa.
+0x000000BE Não conseguiu encontrar a planta ~mission_item~ a tempo. Volte para o planeta ~mission_source_planet~ no sistema ~mission_source_star~ para lhes dar as más notícias.
+0x000000CB Fica para a próxima. Acho que sou alérgico ao pólen de ~mission_item~.
+0x000000A9 Preciso de verificar novamente a missão...
+0x00000040 Isto é inaceitável! Já devia estar a meio-caminho do sistema ~mission_target_star~! ~p~Tique, toque... cada segundo desperdiçado aqui poderia ser melhor aproveitado na superfície do planeta ~mission_target_planet~ a recolher uma amostra da planta ~mission_item~.
+0x000000A6 Já percebi que está ocupado. Depois falamos.
+0x000000CC Acho que vou recusar. Não quero deixar bostas no compartimento de carga.
+0x000000A7 Já percebi que precisa de estar sozinho. Adeus.
+0x000000AB Esqueci-me qual é a missão. Qual é?
+0x0000009D Peço a sua compreensão.
+0x0000003B Dinheiro! Hoje vou jantar uns bifes!
+0x000000CA Claro. Parece-me divertido.
+0x000000AC Esqueci-me do que estava a fazer. Qual é a minha missão?
+0x0000001F Dê-me mais informações...
+0x0000003D Pelos vistos, sofre de perda de memória a curto prazo. Felizmente, pensa-se que a planta ~mission_item~ é uma benção para o funcionamento cognitivo geral. ~p~Recapitulando: vá para o sistema ~mission_target_star~ e obtenha uma amostra da planta ~mission_item~ de ~mission_target_planet~.
+0x000000AA Uhh... Diga lá outra vez, o que é que tenho de fazer?
+0x0000003C Não há problema. De nada. Adeus.
+0x00000004 Dispomos de quotas consideráveis em várias grandes empresas farmacêuticas e de uma fantástica nova planta, a ~mission_item~ ameaça enfraquecer o nosso modelo de negócios. ~p~Esta impressionante planta só cresce em ~mission_target_planet~, no sistema ~mission_target_star~. As propriedades regenerativas de ~mission_item~ são consideradas únicas no universo! ~p~Precisamos que nos traga uma amostra - queremos ter a certeza de que estas características são verdadeiras antes de eliminarmos o planeta!
+0x00000042 ESTADO DA MISSÃO: incompleta. ~p~DECLARAÇÃO DE DESAPROVAÇÃO: por que é está a demorar tanto tempo? Isto é lento, mesmo para um miserável como tu. ~p~RECAPITULAR DA MISSÃO: obter a amostra ~mission_item~ do planeta ~mission_target_planet~ no planeta ~mission_target_star~.
+0x000000A2 Além disso...
+0x000000CE Desculpa. Não posso fazer isso agora.
+0x000000D0 Tenho de recusar esta tarefa.
+0x000000D1 Esta tarefa já não se encaixa na minha agenda.
+0x000000CF Prefiro fazer outra coisa.
+0x000000A0 Queria pedir-lhe outra coisa...
+0x00000005 A planta ~mission_item~ está envolta em mistério e lenda, e obscurecida pelas névoas do tempo. Foi, desde sempre, considerada um mito, mas agora comprovámos a sua veracidade, bem como a sua localização! ~p~Terá de deslocar-se, rápida e discretamente, para o planeta ~mission_target_planet~ no sistema estelar ~mission_target_star~ e trazer uma amostra. ~p~Quando a trouxer, vamos fazer um bom chá!
+0x00000041 Se calhar, ficou demasiado entusiasmado com a existência da lendária planta ~mission_item~! É entusiasmante, não é? ~p~Seja como for, esperamos que cumpra a sua missão a tempo, por isso vá de imediato para o planeta ~mission_target_planet~ no sistema estelar ~mission_target_star~ e recolha o espécimen de amostra para que os nossos botânicos mais experientes e eruditos a possam estudar.
+0x000000A5 Fica para a próxima. Adeus.
+0x00000021 Gostaria de ter mais informações...
+0x000000A1 Antes de ir, queria fazer outras perguntas.
+0x000000A3 Mais uma coisa...
+0x000000A4 Peço imensa desculpa pelo incómodo. Adeus.
+0x0000003A É um prazer ajudá-lo. Adeus.
+0x0000004E Mais uma coisa...
+0x00000098 Por que é que uma planta de raiz o assusta tanto!? Ho ho! Que parvoíce!
+0x000000C7 Roubar uma planta? Sim, posso fazer isso.
+0x0000004D Posso perguntar-lhe outra coisa?
+0x0000004F Esta missão é demasiado complexa para mim. Desisto.
+0x000000B5 Procure a planta ~mission_item~ de ~mission_target_planet~.
+0x000000D3 Peço imensa desculpa pelo incómodo. Adeus.
+0x000000B4 Sim. Estamos à procura de uma planta...
+0x000000C6 A aceder aos registos. Pedido Aprovado.
+0x0000004B Queria pedir-lhe outra coisa...
+0x00000038 Mais uma coisa...
+0x00000037 Além disso...
+0x00000039 A parte que mais gosto no meu trabalho é o dinheiro! Adeus.
+0x000000AD Pode lembrar-me qual é a minha missão?
+0x00000035 Queria pedir-lhe outra coisa...
+0x0000004C Antes de ir, queria fazer outras perguntas.
+0x000000C8 Isso parece muito fácil. Aceito.
+0x00000099 Pense bem antes de nos fazer perder tempo.
+0x000000C9 Sim, tudo bem. Aceito.
+0x000000D2 Imploro ser afastado desta tarefa.
+0x00000036 Antes de ir, queria fazer outras perguntas.
+0x00000089 Peço a sua compreensão.
+0x00000091 Já percebi que precisa de estar sozinho. Adeus.
+0x00000053 Ahh, está bem. Já percebi.
+0x0000006A Obrigado por me conceder o seu tempo precioso.~p~Por falar em tempo... Terá ~mission_time~ sectons no planeta ~mission_target_planet~ para obter o espécimen. ~p~Não iremos esquecer a sua ajuda.
+0x00000061 Sim, houve alguns problemas...
+0x00000084 Por que é que uma planta de raiz o assusta tanto!? Ho ho! Que parvoíce!
+0x0000008E Peço imensa desculpa pelo incómodo. Adeus.
+0x00000054 Ooh. Já percebi. Bom, vou-me embora.
+0x0000007A Não resisto a dinheiro fácil como este!
+0x0000008D Mais uma coisa...
+0x000000DA o nome da estrela é ~mission_target_star~
+0x00000074 Queria pedir-lhe outra coisa...
+0x0000014C Obrigado, Capitão!~p~Tem de se despachar. Quando chegar, terá ~mission_time~ sectons para identificar e obter o espécimen.~p~Aguardamos ansiosamente o seu regresso!
+0x00000056 OK, acho que já terminei a minha missão.
+0x0000007C Tenho de me despachar. Adeus.
+0x00000085 Pensa bem antes de nos fazer perder tempo.
+0x00000067 É óbvio que tem a certeza que vai aceitar esta missão. Esperemos que tenha também a coragem e a firmeza necessárias para a concretizar rápida e eficazmente.~p~As engrenagens do progresso económico serão servidas se conseguir trazer a planta ~mission_item~ em boas condições.~p~Só tem ~mission_time~ sectons restantes. Depressa, soldado!
+0x0000005F É um prazer servi-lo. Adeus
+0x00000076 Além disso...
+0x0000006E Fantástico! Cuidado com as horas. O seu tempo no planeta ~mission_target_planet~ não deve exceder ~mission_time~ sectons. ~p~Boa viagem!
+0x0000007D Peço a sua compreensão.
+0x0000008F Fica para a próxima. Adeus.
+0x00000069 Bem, teria de obter autorização, certamente. Mas sei que há uma obtenção de fábrica concebida para subcontratação...
+0x00000075 Antes de ir, queria fazer outras perguntas.
+0x00000055 Oooh. Eu trago-lhe a planta. Erro meu.
+0x0000007B Eu já volto!
+0x00000090 Já percebi que está ocupado. Depois falamos.
+0x00000060 Desculpe. Podemos falar sobre outro assunto...
+0x00000077 Mais uma coisa...
+0x0000006B A luz de Spode avança! Abençoados sejam os que receberam ~mission_time~ no planeta ~mission_target_planet~ para identificar e obter o espécimen.~p~Vá de imediato. ~p~
+0x00000078 Creio que nos veremos em breve.
+0x0000006C Excelente. O nosso contrato foi aprovado. ~p~Deve entregar o espécimen de ~mission_item~ assim que possível. O seu tempo no planeta ~mission_target_planet~ não deverá exceder ~mission_time~ sectons. ~p~O Grande Conselho agradece-lhe.~p~
+0x00000079 Volte depressa, está bem? Obrigado! Adeus!
+0x00000142 Verificou-se que ~mission_item~ tem propriedades farmacêuticas úteis. Pode trazer-nos uma amostra, para que a possamos cultivar?
+0x00000017 Uma recente tendência por ~mission_item~ na área paisagística criou-nos uma situação de escassez. Embora estejamos reticentes... em incomodar uma sumidade da sua grandeza, será possível pedir-lhe que nos traga alguns ~mission_item~ em troca de uma recompensa?
+0x00000140 Terá de trazer-nos ~mission_item~. Não tem de saber o motivo desta missão.
+0x00000141 Os nossos estudos sobre fraquezas de sistemas orgânicos requerem ~mission_item~. Terá de trazer isto.
+0x0000008B Antes de ir, queria fazer outras perguntas.
+0x00000072 Obrigado! ~p~Vai dispor de ~mission_time~ sectons no planeta ~mission_target_planet~ para identificar e trazer o espécimen.~p~Está a acumular bom karma!~p~
+0x00000052 Bah! Desisto.
+0x00000063 Vamos concentrar-nos no futuro...
+0x00000071 Ajoelhamo-nos perante o seu esplendor!~p~É claro que só podemos dar-lhe ~mission_time~ sectons no planeta ~mission_target_planet~ para assistir ao lançamento do produto capital à base de ervas do nosso concorrente.~p~Traga-nos o ~mission_item~ e a recompensa será sua!
+0x00000073 Tem de se despachar. Tem ~mission_time~ sectons para identificar e trazer o espécimen.~p~Vá de imediato.
+0x00000062 Esta não foi a minha melhor tarefa...
+0x00000016 Descobrimos uma nova utilização rentável para ~mission_item~! Estaríamos dispostos a partilhar os nossos lucros com sua radiosa majestade se nos trouxesse essa planta do seu planeta de origem.
+0x0000008A Queria pedir-lhe outra coisa...
+0x0000008C Além disso...
+0x00000143 Todos os ~mission_item~ no nosso Museu de Exobiologia morreram de causa desconhecida. Pode substituí-los?
+0x00000001 Olá, meu espacial. Ficaríamos muito agradecidos se fosse ao sistema ~mission_target_star~ e nos trouxesse um rebento da erva ~mission_item~ do planeta ~mission_target_planet~. Seria excelente se o pudesse fazer. A sério. ~p~E que o Imperador vai fazer anos em breve e o velho pateta está sempre a dizer que os jardins reais não têm a planta ~mission_item~. Se eu tivesse uma, isso faria com que as outras prendas se parecessem com fertilizante Grox! Isso seria fantástico!
+0x00000146 Bem-vindo de volta, Comandante.~p~A planta chamada ~mission_item~ chegou em boas condições! Excelente trabalho! Queríamos dar-lhe ~mission_rewards~ Sporecoroas pelos seus esforços.
+0x00000019 A Cerimónia do Ser Transcendental está prestes a acontecer e temos todos de usar ~mission_item~. Temos pouco disso... pode ajudar-nos?
+0x00000081 Oooh... está bem... Sim, tudo bem. ~p~Se não está empenhado, não gostaríamos que interagisse com a Natureza virgem... ~p~
+0x00000015 O Festival de Ironia Refinada está a prestes a acontecer e gostaria de usar um novo fato que transmitisse uma mensagem subtil sobre os actuais costumes e tendências. Iria usar um rebento dos ramos de ~mission_item~ para o chapéu. Pode trazer-me um rebento ~mission_item~ em segredo, de maneira discreta, para que ninguém soubesse os meus planos?
+0x0000013F Tem de trazer-nos uma planta de ~mission_target_planet~. Vai concordar.
+0x00000082 Escolha interessante, ~player_title~ ~player_creature_name~. Se calhar, tem informação de que nós não dispomos, embora isso seja improvável.
+0x00000008 As análises à ~mission_item~ indicam que pode ter uma imunidade natural à Vespa Arbórea de Três Patas, que se tornou um perigo para as nossas colheitas. Pode trazer-nos uma amostra?
+0x00000047 Hmm. Vou tentar com palavras de uma sílaba: onde está o ~mission_item~ que disse que ia trazer? Os pormenores não estão no seu Registo de Missão?
+0x0000014B Concedemos-lhe generosamente ~mission_time~ sectons no planeta ~mission_target_planet~ para identificar e recolher o exemplar.~p~Comece de imediato.~p~
+0x00000025 Esqueça. Queria perguntar-lhe outra coisa...
+0x0000007E É perfeitamente compreensível, Comandante.~p~Desculpe incomodá-lo com estas questões.~p~
+0x0000014A Bem-vindo de volta, Comandante.~p~Pelos vistos, não conseguiu trazer o objecto do planeta ~mission_target_planet~. A sua nave sofreu alguma avaria...?
+0x0000001A Um dos nossos gurus descobriu que ~mission_item~ é útil para uma limpeza interior. A planta provou ser tão útil que se esgotou... pode trazer-nos algumas?
+0x00000044 Está atrasado. Onde está o ~mission_item~ que prometeu trazer-nos, tal como indicado no seu Registo de Missão? Vai trazer-nos o que prometeu ou quer enfrentar a Ira de Spode?
+0x00000045 Não nos trouxe ~mission_item~ para os Jardins Botânicos.  As nossas especificações estão indicadas no seu Registo de Missão. Vai trazer em breve o que lhe pedimos?
+0x0000001C Descobrimos uma aplicação para ~mission_item~ na cura de feridas. Podes trazer um para o nosso arboreto médico?
+0x00000043 Não nos prometeu trazer ~mission_item~ de ~mission_target_star~? Consegue cumprir esta missão? Todos os dados relevantes estão guardados no seu Registo de Missão.
+0x0000000E Os nossos botânicos desenvolveram recentemente um interesse nas propriedades únicas de ~mission_item~. Perdemos as nossas amostras devido a uma confusão burocrática. Poderia substituí-las?
+0x00000144 Uma praga dizimou ~mission_item~ no nosso mundo. Pode trazer-nos um exemplar?
+0x0000001B Um vidente teve um sonho em que foi informado de que ~mission_item~ poderia impedir que o universo regredisse durante a viragem do próximo Ciclo! Pode trazer-nos uma amostra?
+0x00000046 Na nossa última reunião, mostrou a sua vontade em viajar para ~mission_target_star~ à procura de ~mission_item~. A memória do seu Registo de Missão não está a funcionar bem ou há algum outro motivo para voltar de mãos vazias?
+0x00000014 Estamos aborrecidos com a vista que temos aqui e decidimos encenar uma ópera e reestruturar todo o planeta! Iremos plantar ~mission_item~ um pouco por todo o lado, para fornecer uns toques interessantes, mas não temos muitos. Pode trazer-nos alguns?
+0x0000007F Compreendido, ~player_title~ ~player_creature_name~. Agradecemos a sua discrição.~p~Irá de facto poupar-nos alguma papelada. O processo de aprovação subcontratual do transporte interplanetário de vegetação requer apenas trezentos e sessenta e dois formulários diferentes assinados e carimbados em triplicado. ~p~É claro que isto fica aquém das orientações estabelecidas no Procedimento de Funcionamento Padrão... Devia ver os formulários necessários para o transporte de especiarias fermentadas.
+0x00000023 Ups! Lembrei-me agora... estou ocupado.
+0x00000147 Não voltou com ~mission_item~, como tínhamos ordenámos. Todos os parâmetros foram enviados para o seu Registo de Missão.
+0x00000080 Deve seguir o seu próprio caminho.~p~ Passe bem, amigo.
+0x00000018 Embora seja muito improvável que uma entidade tão importante como você se preocupe com questões terrenas, descobrimos que ~mission_item~ é utilizado em medicina. Em troca de uma recompensa, poderíamos pedir-lhe para nos trazer essa planta e melhorar a felicidade e saúde dos nossos clientes?
+0x00000148 Ainda estamos à espera de ~mission_item~! Os pormenores encontram-se no seu Registo de Missão.
+0x0000001D Um ataque biológico do inimigo dizimou todos os ~mission_item~ do nosso planeta. Pode trazer-nos uma nova amostra?
+0x00000093 Compreendido, ~player_title~ ~player_creature_name~. Agradecemos a sua discrição.~p~Irá de facto poupar-nos alguma papelada. O processo de aprovação subcontratual do transporte interplanetário de vegetação requer apenas trezentos e sessenta e dois formulários diferentes assinados e carimbados em triplicado. ~p~É claro que isto fica aquém das orientações estabelecidas no Procedimento de Funcionamento Padrão... Devia ver os formulários necessários para o transporte de especiarias fermentadas.
+0x00000003 Gostaríamos que nos trouxesse uma amostra de um tipo de planta específica do planeta ~mission_target_planet~ no sistema ~mission_target_star~.~p~A planta ~mission_item~ e as suas propriedades medicinais têm sido comentadas há milénios, mas supõe-se que não é mais do que mito e superstição, um conto de fadas popular divulgada entre boémios e desertores da galáxia.~p~É essencial que analisemos essa planta e os seus compostos activos, para o bem de todos!
+0x00000064 Maravilhoso! Tínhamos a sensação de que iria aceitar esta missão. Parecia-nos que seria algo que aceitaria. ~p~E, naturalmente, iremos pagar-lhe pelos seus esforços, no valor de ~mission_rewards~.~p~Terá ~mission_time~ sectons no planeta ~mission_target_planet~ para concluir a missão.~p~Divirta-se!~p~
+0x00000092 É perfeitamente compreensível, Comandante.~p~Desculpe incomodá-lo com estas questões.~p~
+0x000000CD Detesto dizer que não... mas não.
+0x00000095 Oooh... está bem... Sim, tudo bem. ~p~Se não está empenhado, não gostaríamos que interagisse com a Natureza virgem... ~p~
+0x000000B6 Concluída! Volte para o sistema estelar ~mission_source_star~.
+0x0000003E Oh, não! Isto é um pesadelo! A festa de aniversário do Imperador está a aproximar-se. ~p~Rápido! Tem de ir para o planeta ~mission_target_planet~ no sistema ~mission_target_star~ e trazer-me a planta ~mission_item~. ~p~Toda a gente tem de saber que o meu amor e devoção pelo Imperador não tem equivalente em toda a galáxia!
+0x00000007 Os nossos ecologistas suspeitam que ~mission_item~ pode encontrar um lugar adequado no nosso ecossistema, mas terá de ser estudado primeiro. Pode recolher uma amostra para o nosso Arboreto Arboretum?
+0x00000094 Deve seguir o seu próprio caminho.~p~Passe bem, amigo.
+0x00000065 Sim, Comandante. Há um pequeno pormenor que gostaríamos de pedir-lhe, caso tenha tempo.~p~ Iremos obviamente compensá-o pelos seus esforços.
+0x00000066 Traga rapidamente ~mission_item~, para que possamos desfrutar mais cedo da recompensa! ~p~Já agora, será que mencionei que tem apenas ~mission_time~ sectons em ~mission_target_planet~ para identificar e trazer o exemplar? ~p~Não? Gostamos sempre de ser directos nestes assuntos.~p~Desejo-lhe uma boa viagem!~p~
+0x0000000D Os Jardins Botânicos estão a ser melhorados por ordem do Grande Conselho. Para podermos concluir a nossa recolha e para que os cientistas disponham do maior número possível de plantas para estudo, terá de viajar para ~mission_target_star~ e recolher ~mission_item~.
+0x0000001E Suspeitamos que ~mission_item~ pode segregar uma toxina natural que pode ser útil para os nossos especialistas em guerra biológica. Podes trazer-nos alguns exemplares?
+0x0000005C O quê ~player_title~ ~player_creature_name~?~p~Não conseguiu encontrar a planta? Não me diga que o vegetal fugiu? Se calhar, devia era comprar uns óculos na loja, para ver por onde anda.
+0x000000BB Encontre a planta ~mission_item~ de ~mission_target_planet~ no sistema estelar ~mission_target_star~. Sabe-se que ~group:star_clue~. ~p~Quando estiver no planeta ~mission_target_planet~, terá ~mission_time~ sectons para identificar e trazer o exemplar pretendido.~p~
+0x0000005B He he!! Ho ho!! É muito lento.~p~É uma planta. Está presa ao chão. Não nos vai dizer que fugiu, pois não?~p~Ha ha ha!
+0x0000005D Olá outra vez, amigo.~p~Ouvimos dizer que falhou o seu objectivo. ~p~~player_title~ do ~player_creature_name~ deve lembrar-se de que tudo o que vale a pena fazer requer empenho, meu amigo.
+0x0000005E Insignificante ~player_creature_name~.~p~Não conseguiu trazer uma mera planta? É mera incapacidade da sua parte, ou está a gozar connosco? Seja como for, tenha cuidado.
+0x00000058 ~player_title~ de ~player_creature_name~, não conseguiu trazer uma planta tão simples no tempo disponível? Não iremos esquecer-nos disso.
+0x00000057 Ó ~player_title~ ~player_creature_name~...~p~Espere... onde está ~mission_item~? Não lhe pedimos para trazer um?.. Falhou?... que chato.
+0x000000D6 Peço a vossa compreensão.
+0x00000030 ~player_title~ ~player_creature_name~. A saúde dos nossos cidadãos irá em breve melhorar! O seu comportamento foi inteligente e oferecemos-lhe do mesmo modo ~mission_rewards~ Sporecoroas.
+0x0000005A Olá, ~player_title~ ~player_creature_name~.~p~A análise da sua nave indica que a missão não foi bem sucedida. Os maiores génios científicos da nossa civilização estão estupefactos com a sua incapacidade para trazer uma simples planta.
+0x00000059 ~player_title~ ~player_creature_name~, não trouxe o animal ~mission_item~ no prazo indicado, tal como prometido. Sou obrigado a informar o Grande Conselho sobre o seu fracasso.
+0x0000009B O desrespeito de uma espécie como a sua não inspira respeito,mas destruição.
+0x000000B3 Sim,  ~player_title~ ~player_creature_name~. Precisamos de um exemplar da planta...
+0x00000010 A utilização farmacêutica de ~mission_item~ foi recentemente descoberta pelos nossos cientistas. Isto pode ser extremamente vantajoso para a saúde dos cidadãos que sofre de Paralisia de Glarthrb. Poderia trazer-me uma amostra?
+0x00000070 Aguardamos ansiosamente os lucros! ~mission_item~ irá abrir-nos novos mercados! ~p~Mais uma coisa... terá apenas ~mission_time~ sectons no planeta ~mission_target_planet~ para identificar e obter o exemplar. Isso não é um problema, pois não?~p~Obrigado e bom voo.~p~
+0x00000013 O Festival do Bocejo está a aproximar-se, e necessitamos de um número adequado de ~mission_item~ para fazer ventoinhas dos respectivos ramos. Pode trazer-nos alguns?
+0x0000000C ~mission_item~ foi considerado um Símbolo Sancionado da Luz Sagrada de Spode. Verificámos que temos falta desse objecto. Pode ajudar-nos?
+0x0000004A Obrigou-se a si próprio a ir a ~mission_target_star~ à procura de ~mission_item~. Será que isto lhe escapou à memória e à memória do seu Registo de Missão?
+0x00000049 Pensávamos que nos ia trazer ~mission_item~, mas pelos vistos enganámo-nos. Não terá apagado o seu Registo de Missão por engano?
+0x0000000F O Grande Conselho deseja apenas a saúde e o bem-estar dos nossos cidadãos. As propriedades farmacêuticas de ~mission_item~ foram recentemente descobertas num dos nossos planetas. Pode trazer-nos uma amostra para promover a saúde deste planeta?
+0x0000009C Tem o descaramento de ignorar as ordens de Grox! Seu insolente!
+0x000000B2 Sim, é verdade. Estamos à procura de uma planta...
+0x00000087 O desrespeito de uma espécie como a sua não inspira respeito,mas destruição.
+0x00000097 Claro que sim. Eu sabia que seria inútil referir um assunto tão insignificante a alguém tão glorioso como vós. Se calhar, podia consolar-me gastando dinheiro na loja?
+0x00000096 Escolha interessante, ~player_title~ ~player_creature_name~. Se calhar, tem informação de que nós não dispomos, embora isso seja improvável.
+0x0000003F Então? Ficou confuso? ~p~Isso é perfeitamente compreensível- esta é uma missão muito complexa, que envolve a captura de flora exótica e astuciosa. ~p~Recapitulando: ~p~Vá para o sistema ~mission_target_star~ e localize o planeta ~mission_target_planet~. Aí, vai encontrar a planta ~mission_item~. Traga-nos uma amostra. ~p~Curioso, agora que o digo em voz alta, não me parece tão complexa.
+0x00000088 Tem o descaramento de ignorar as ordens de Grox! Seu insolente!
+0x0000006D ~player_title~ ~player_creature_name~. Obrigado pela sua cooperação entusiástica.~p~Planeie com atenção a sua viagem. O seu tempo no planeta ~mission_target_planet~ não deve exceder ~mission_time~ sectons.~p~Bom trabalho.~p~
+0x0000000A A festividade do Sagrado Coração de Spode irá decorrer em todo o Império Sagrado de Spode. Precisamos de um número adequado de ~mission_item~ para decorar os altares de Spode. Pode trazer-nos alguns?
+0x00000020 Estou interessado.
+0x00000149 ~player_creature_name~. O seu incumprimento foi registado. A sua utilidade é limitada.
+0x00000024 Já lhe digo alguma coisa.
+0x00000022 Estou disponível.
+0x00000026 Ando à procura de algo diferente.
+0x00000145 ~player_creature_name~. A planta chegou em boas condições. Como é costume nas espécies orgânicas, vamos dar-lhe ~mission_rewards~ Sporecoroas.
+0x00000048 O que aconteceu a ~mission_item~ do sistema ~mission_target_star~? Pedimos muito dinheiro emprestado à fábrica de processamento e gostaríamos que os lucros começassem a entrar de imediato. Todos os pormenores do acordo estão incluídos no seu Registo de Missão.
+0x00000083 Claro que sim. Eu sabia que seria inútil referir um assunto tão insignificante a alguém tão glorioso como vós. Se calhar, podia consolar-nos gastando dinheiro na loja?
+0x00000068 Este dia será recordado para sempre como um alegre prelúdio da redescoberta incontestada da planta ~mission_item~. Será recebido como um herói quando voltar! ~p~Sem arrependimento nem hesitação, oferecemos-lhe orgulhosamente ~mission_rewards~ Sporecoroas como remuneração financeira pela vitoriosa concretização desta tarefa tão solene quanto austera que lhe foi incumbida.~p~Mas cuidado, o tempo escasseia. Tem apenas ~mission_time~ sectons no planeta ~mission_target_planet~ para realizar esta tarefa. ~p~Boa sorte, nobre guerreiro. E boa viagem!~p~
+0x0000002F Bem-vindo, ~player_title~ ~player_creature_name~. ~p~Obrigado pelos seus esforços! O Grande Conselho oferece-lhe um Certificado de Louvor, Terceira Classe, e ~mission_rewards~ Sporecoroas.
+0x0000002B Os deuses antigos sejam louvados! Eis que regressa, magnânimo na sua vitória e com um semblante humilde que tanta falta faz aos seus colegas e companheiros. É tão refrescante como as águas fluidas do Rio SaccaRhine. É, de facto, o verdadeiro modelo de um grande viajante moderno. ~p~Por favor, permita-nos que lhe dê ~mission_rewards~ Sporecoroas pelas suas viagens, como agradecimento pelos serviços que tão habilmente nos prestou.
+0x0000002E ~player_title~ ~player_creature_name~.~p~Os seguidores de Spode deliciam-se na presença de ~mission_item~! Leve as suas ~mission_rewards~ Sporecoroas e a bênção de Spode.
+0x00000009 Os caules secos de ~mission_item~ têm provado ser úteis como fonte de energia segura em termos ambientais, mas a nossa equipa perdeu a única amostra disponível. Pode trazer-nos um exemplar?
+0x000000AF Eu... Acho que encontrámos alguma coisa... É amante da Natureza?... Tem alguma ligação com a vida das plantas?
+0x00000006 DESCRIÇÃO GERAL DA MISSÃO: Obter amostra floral.~p~SISTEMA ESTELAR DA MISSÃO:~mission_target_star~.~p~ÂMBITO PLANETÁRIO DA MISSÃO: ~mission_target_planet~.~p~FLORA ALVO: ~mission_item~. ~p~MOTIVO/OUTRO: O ruído genético deve ser eliminado.~p~COMPENSAÇÃO: ~mission_rewards~.
+0x00000028 Óptimo! Muito bem, amigo! Além disso, tem jeito para as plantas! É um excelente exemplar da planta ~mission_item~. O Imperador irá ficar muito satisfeito! ~p~Durante a sua ausência, fiz umas investigações e descobri quais são as outras prendas de aniversário que o Imperador vai receber, e esta é certamente a melhor. Isto vai dar um grande impulso à minha carreira! ~p~Oferecemos-lhe um pagamento de ~mission_rewards~ Sporecoroas. Muito obrigado, amigo.
+0x0000002D Olá, ~player_title~ ~player_creature_name~... Obrigado.~p~Se for bem tratada, esta planta poderá ser útil... tanto para a nossa economia como para a ecologia! Estamos contentes por lhe oferecer ~mission_rewards~ Sporoas.
+0x00000032 Bem-vindo, bem-vindo ~player_title~ ~player_creature_name~.~p~A possibilidade de lucro só pode causar alegria a qualquer pessoa sensível! Aproveite as suas ~mission_rewards~ Sporecoroas e uma excursão ao empório.
+0x00000033 Caro, ~player_title~ ~player_creature_name~. ~p~Aceitamos alegremente este ~mission_item~ com a confiança total de que irá aumentar o nosso número de pontos metafísicos! A sua recompensa em ~mission_rewards~ Sporecoroas é bem merecida!
+0x00000031 Que bom! Chegou mesmo a tempo,  ~player_title~ ~player_creature_name~! Toda a gente fala da ~mission_item~! Aceite as suas ~mission_rewards~ Sporoas!
+0x000000B1 He ho! Precisa de dinheiro, não é? Ha!~p~Podemos enviar-lhe para vários locais. É rápido? Temos uma missão rápida para si.
+0x00000034 ~player_creature_name~. Parabéns. Provou ser útil. Aceite estas ~mission_rewards~ Sporecoroas.
+0x0000009A O ~mission_source_empire~ questiona a sua indecisão. É evidente que lhe falta uma força dominante a orientar o seu caminho. Que infelicidade.
+0x000000AE Ah, claro que sim! O Registo da Missão. Eu vou ver!
+0x00000002 Temos uma missão extremamente importante para o ~mission_source_empire~. Precisávamos que nos trouxesse uma determinada planta. ~p~Durante imenso tempo, sofremos inúmeras doenças, desde vapores e sporíase, a síndroma de sotaque estrangeiro e de White. ~p~Contudo, ouvimos falar recentemente da planta ~mission_item~, existente no planeta ~mission_target_planet~ no sistema ~mission_target_star~. Esta planta fantástica é conhecida pelas suas propriedades curativas para todas estas doenças e esperamos ter o monopólio desse mercado!
+0x00000086 O ~mission_source_empire~ questiona a sua indecisão. É evidente que lhe falta uma força dominante a orientar o seu caminho. Que infelicidade.
+0x0000006F Oh, isto é maravilhoso! Maravilhoso! ~p~Nós podíamos ter ido, mas distraímo-nos sempre que viajamos. De facto, ~mission_source_empire~ descobriu acidentalmente os voos espaciais durante uma experiência de culinária falhada.~p~A nossa capacidade de concentração é limitada. É por isso que precisamos desesperadamente da sua ajuda.~p~Além disso, não reagimos bem à pressão e com apenas ~mission_time~ sectons no planeta ~mission_target_planet~, iríamos ficar com mau hálito.~p~Aguardamos ansiosamente o seu regresso. De facto, esperamos que a planta ~mission_item~ também resolva este problema. Já alguma vez sentiu o cheiro do mau hálito! É horrível!~p~
+0x000000B0 Vejamos.~p~Sim, sim.~p~Encontrámos alguma coisa. Precisamos urgentemente de uma planta...
+0x00000029 Estamos cheios de alegria e gratidão... nós... nós... vamos sentar-nos um pouco. O Mercado está a reagir. ~p~Fez um excelente trabalho para ~mission_source_empire~! A sua nova linha de produtos irá provavelmente tornar-me rico. Aproveite bem os ~mission_rewards~ como bónus do primeiro dia!
+0x00000011 Uma recente praga fez com que ~mission_item~ fossem extintos no nosso planeta. Poderia recolher algumas amostras não contaminadas em ~mission_target_planet~?
+0x000000D9 A estrela está entre ~mission_clue_range_min~ e ~mission_clue_range_max~ parsecs de ~mission_clue_landmark1~
+0x000000D8 A estrela está a aproximadamente ~mission_clue_distance~ parsecs de ~mission_clue_landmark1~
+0x0000002C ESTADO DA MISSÃO: a planta ~mission_item~ foi transferida com sucesso para o ~race~. ~p~DECLARAÇÃO DE AGRADECIMENTO: parabéns. Você é um motivo de orgulho para as entidades pouco inteligentes e fisicamente diminuídas por toda a parte. Além disso, o seu odor pessoal não é tão repugnante como as avaliações iniciais indicavam. ~p~PAGAMENTO: ~mission_rewards~. ~p~ESMERO SOCIAL: Obrigado, pedaço de carvão.
+0x00000012 Suspeitamos que o ADN único de ~mission_item~ pode ser útil para resolver vários mistérios biológicos. Poderia trazer-nos uma amostra para que possamos isolar as respectivas propriedades?
+0x00000027 Se há coisa que o ~race~ aprendeu desde que o lançámos no espaço foi que podemos sempre contar com ~player_creature_name~ para um trabalho bem feito. ~p~Em breve, iremos desvendar os segredos desta planta e irá aliviar o sofrimento de milhões de pessoas das muitas doenças para as quais ~mission_item~ representa alívio. ~p~Pela sua dedicação sem condições ao nosso povo, aceite ~mission_rewards~.
+0x0000002A Parabéns! Percebemos logo quando o conhecemos que era um verdadeiro defensor do mercado livre. Afinal de contas, se toda a gente tratasse da sua riqueza, os poderes económicos que sustentam a sociedade do ~race~ deixariam de funcionar e isso não pode acontecer! ~p~Aceite o seu pagamento de ~mission_rewards~ Sporecoroas e vá-se embora. Não conte a ninguém o que sabe sobre ~mission_item~ - não queremos considerá-lo inimigo do progresso. Isso pode ser-lhe prejudicial.
+

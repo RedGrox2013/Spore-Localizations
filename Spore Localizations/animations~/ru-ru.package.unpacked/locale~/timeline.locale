@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~: потерян город.
+0x35492924 Потеря города
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x060B4242 Военная специализация
+0x06085D4D ~timelineMyCivName~: получен статус военной цивилизации.
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ развивается, но теряет один из полученных ранее навыков - ~timelineAbilityName~.
+0x550A15C2 Потерян навык "~timelineAbilityName~"
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~
+0x555450A5 ~timelineAbsoluteYears~ г.
+
+#### Time Line Title ####
+
+0x0448655A Развитие племени
+0x0448655B Освоение земель
+0x0448655E Покорение вселенной
+0x0448655D Освоение космоса
+0x0448655C Покорение мира
+0x04486557 Эволюция на суше
+0x04486556 Выход на сушу
+0x04486555 Зарождение жизни
+0x04486558 Зарождение разума
+0x04486559 Становление цивилизации
+0x00000006 Зарабатывайте баллы ДНК и получайте доступ к новым фрагментам.
+0x00000001 Питайтесь, чтобы получать ДНК и расти.
+0x00000011 Находите друзей и врагов в космосе.
+0x00000009 Заинтересуйте или завоюйте пять враждебных племен.
+0x00000008 Этап "Племя"
+0x00000002 Побеждайте противников и получайте доступ к новым фрагментам.
+0x0000000F Захватывайте, выкупайте или обращайте в свою веру вражеские города.
+0x0000000A Охотьтесь, ловите рыбу или собирайте фрукты.
+0x00000013 Заселяйте и изменяйте планеты.
+0x00000012 Выполняйте задания.
+0x00000010 Этап "Космос"
+0x00000007 Скрещивайте существ, чтобы вывести более развитое потомство.
+0x0000000E Добывайте пряность.
+0x0000000B Возводите мастерские и используйте инструменты.
+0x0000000C Этап "Цивилизация"
+0x0000000D Приобретайте или создавайте технику в меню города.
+0x00000003 Развивайте клетку в Редакторе.
+0x00000004 Этап "Существо"
+0x00000000 Этап "Клетка"
+0x00000005 Сражайтесь, общайтесь, добывайте пищу.
+
+# CLG_EatMeat
+
+0x352DBDB9 Съедено мяса: ~timelineEventCount~
+0x352DBDBA ~timelineMySpeciesName~ съедает порцию мяса.
+0x352DBDBB ~timelineMySpeciesName~: число съеденных порций мяса - ~timelineEventCount~.
+0x75580858 Клетка съела кусочек мяса.
+0x75580859 Съедено кусочков мяса: ~timelineEventCount~.
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~: убит монстр - ~timelineTargetOTDBName~
+0x060B422F Убийство монстра
+
+# SPG_ColonyOnPlanet
+
+0x060B424D Создание колонии
+0x05FA01CB ~timelineMyEmpireName~: начата колонизация планеты ~timelinePlanetName~.
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ заключает союз с видом "~timelineTargetOTDBName~".
+0x060B4221 Заключение союза
+
+# SPG_PurchasedStar
+
+0x06300C33 Приобретение звезды
+0x06300C34 ~timelineMyEmpireName~: приобретена звезда, предыдущий владелец - ~timelineTargetEmpireName~.
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~: клетка погибла ~timelineEventCount~ раз(а).
+0x05FA0196 ~timelineMySpeciesName~ погибает.
+0x060B4214 Смерть
+0x75580854 Клетка погибла.
+0x75580855 Клетка погибла ~timelineEventCount~ раз(а).
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Экономический захват города
+0x06031AAB ~timelineMyCivName~: захвачен город другой цивилизации (~timelineTargetCivName~) с помощью экономического воздействия.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Разрушение планеты
+0xB54938AD ~timelineMyEmpireName~: разрушена планета ~timelinePlanetName~.
+
+# SPG_EndedWar
+
+0x35493814 Конец войны
+0x35493815 ~timelineMyEmpireName~ и ~timelineTargetEmpireName~ больше не воюют.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Плотоядность
+0x05FA0198 ~timelineMySpeciesName~ становится хищником и сможет питаться мясом на этапе "Существо".
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Проповедническая техника (море)
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~: создана новая единица техники - ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA843 Построение пищевых цепей
+0x064AA844 Конструирование позвоночника
+0x064AA839 Распределение метафит
+0x064AA83A Дезинфекция гамет
+0x064AA83B Дифференциация клеточных данных
+0x064AA838 Разработка векторов рекомбинации
+0x064AA840 Запуск нервной системы
+0x064AA841 Рекомбинация векторов эволюции
+0x064AA842 Вычисление амплитуды веселья
+0x064AA83C Перетасовка архетипов
+0x064AA83D Выделение кожно-желудочных выделений
+0x064AA83E Упаковка в эпидермические слои
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Военная техника (суша)
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Религиозная специализация
+0x05FA01B3 ~timelineMyTribeName~: основыван религиозный город.
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~: убито представителей других племен - ~timelineEventCount~.
+0xB5303DE6 ~timelineMyTribeName~: убито существо из другого племени - ~timelineTargetTribeName~.
+0xB5303DE5 Убийство существа из другого племени
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~: основан первый город!
+0x060B4238 Начало цивилизации
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Конец войны
+0x9552AA74 ~timelineMyCivName~ и ~timelineTargetCivName~ больше не воюют.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~: объявлена война! Противник - ~timelineTargetCivName~.
+0x35492926 Начало войны
+
+# TRG_EggGathered
+
+0x555BD5C2 Собрано яиц: ~timelineSummedCount~.
+0x555BD5C1 Собрано яиц: ~timelineSummedCount~.
+0x555BD5C0 Собрано яиц: ~timelineSummedCount~.
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Создание единицы техники
+0x35523EC1 Создана единица военно-морской техники.
+0x35523EC2 Создано единиц военно-морской техники: ~timelineEventCount~.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Создание техники
+0xB5523D44 Создана единица торговой воздушной техники.
+0xB5523D45 Создано единиц торговой воздушной техники: ~timelineEventCount~.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~: создан новый вид техники - ~timelineTargetOTDBName~.
+0x060B423A Создание единицы техники
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~: построено новое сооружение - ~timelineTargetOTDBName~.
+0x060B4239 Новое сооружение
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x060B4241 Религиозная специализация
+0x06085D4C ~timelineMyCivName~: получен статус религиозной цивилизации.
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01A5 ~timelineMySpeciesName~: вид становится дружелюбным.
+0x060B4223 Дружелюбность
+
+# CVG_AccessorizedCreature
+
+0x060B423B Новое снаряжение
+0x05FA01BD ~timelineMyCivName~: выбрано новое снаряжение.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~: первый полет в космос!
+0x060B424B Полет в космос
+
+# CRG_BefriendedSomething
+
+0x05FA01A9 ~timelineMySpeciesName~ находит друга: ~timelineTargetOTDBName~.
+0x060B4227 Новый друг
+0x54F7EDA3 ~timelineMySpeciesName~: число друзей - ~timelineEventCount~.
+
+# CRG_Migrated
+
+0x05FA01A1 ~timelineMySpeciesName~ занимает новое гнездо.
+0x060B421F Новое гнездо
+
+# CRG_Death
+
+0x05FA01A7 ~timelineMySpeciesName~ погибает.
+0x14F7EF6F ~timelineMySpeciesName~: существо погибло ~timelineEventCount~ раз(а).
+0x060B4225 Смерть
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ получает фрагмент: ~timelinePartName~.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Военная специализация
+0x05FA01B2 ~timelineMyTribeName~: основыван военный город.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~: создана новая постройка - ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Торговая техника (суша)
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Потеря техники
+0xD4F81D00 Число единиц морской техники, уничтоженных противником: ~timelineEventCount~.
+0x05FA01C7 Потоплена единица морской техники.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~: разрушена планета ~timelinePlanetName~.
+0x060B4251 Разрушение планеты
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Новое снаряжение.
+0xD5147CA7 ~timelineMyEmpireName~: выбрано новое снаряжение.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~: племя изобрело ~timelineAbilityName~!
+
+# TRG_BefriendedTribe
+
+0x05FA01AF ~timelineMyTribeName~: заключен союз с соседним племенем - ~timelineTargetTribeName~!
+0x060B422D Союз с другим племенем
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Торговая техника (воздух)
+
+# SPG_ColonyPlaced
+
+0x060B425F Создание колонии
+0x05FA01D3 ~timelineMyEmpireName~: основана колония на планете ~timelinePlanetName~.
+
+# TRG_MeatGathered
+
+0x94F807CA Добыто мяса: ~timelineSummedCount~.
+0x060B4237 Добыто мяса: ~timelineSummedCount~
+0x05FA01B9 Добыто мяса: ~timelineSummedCount~.
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~: принят стиль игры "Бард"!
+0x060B4255 Стиль "Бард"
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 Создано единиц военно-воздушной техники: ~timelineEventCount~.
+0xB5523D41 Создана единица военно-воздушной техники.
+0xB5523D40 Создание техники
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AD Терраформирована планета ~timelinePlanetName~.
+0x0627E7AC Повышение терраиндекса планеты
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Экономическая специализация
+0x05FA01B4 ~timelineMyTribeName~: основыван торговый город.
+
+# CRG_PackMemberAdded
+
+0x060B421D Новое существо в стае
+0x05FA019F К стае присоединяется ~timelineTargetOTDBName~.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~: принят стиль игры "Ученый"!
+0x060B4259 Стиль "Ученый"
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~: создана единица техники - ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x060B424E Заключение союза
+0x05FA01CC ~timelineMyEmpireName~: заключен союз с другой империей - ~timelineTargetEmpireName~.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Создана единица торговой сухопутной техники.
+0x15523CA3 Создание единицы техники
+0x15523CA5 Создано единиц торговой сухопутной техники: ~timelineEventCount~.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 ~timelineMySpeciesName~: вид становится быстрым.
+0x060B4224 Скорость
+
+# CVG_CapturedCityReligious
+
+0x060B423E Захват города с помощью религии
+0x06031AAC ~timelineMyCivName~: захвачен город другой цивилизации (~timelineTargetCivName~) с помощью религиозного воздействия.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x05FA01A4 ~timelineMySpeciesName~: вид становится агрессивным.
+0x060B4222 Агрессия
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~: использовано супероружие - ~timelineSuperPowerName~.
+0x060B4244 Использование супероружия
+
+# CVG_EpicKilled
+
+0x3552A304 Убийство монстра
+0x3552A305 ~timelineMyCivName~: убит монстр - ~timelineTargetOTDBName~.
+
+# CRG_KilledSomething
+
+0x05FA01A8 ~timelineMySpeciesName~ убивает врага: ~timelineTargetOTDBName~.
+0x060B4226 Убийство другого существа
+0xF4F7EE4B ~timelineMySpeciesName~: число убитых врагов - ~timelineEventCount~.
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~: число захваченных источников пряности - ~timelineEventCount~.
+0x05FA01C1 ~timelineMyCivName~: захвачен источник пряности.
+0x060B4243 Захват источника пряности
+
+# CVG_LostCityByMilitary
+
+0x35492920 Потеря города
+0x35492921 ~timelineMyCivName~: потерян город.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ истребляет всех существ вида "~timelineTargetOTDBName~".
+0x060B4220 Вымирание вида
+
+# CRG_PackMemberDied
+
+0x05FA01A0 ~timelineMySpeciesName~: одно из существ покидает стаю.
+0x060B421E Гибель одного из существ стаи
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~: принят стиль игры "Шаман"!
+0x060B425A Стиль "Шаман"
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Создание техники
+0x05FA01C3 Создана единица сухопутной техники.
+0xB4F817E5 Создано единиц наземной техники: ~timelineEventCount~.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Потеря техники
+0x54F81C70 Число единиц наземной техники, уничтоженных противником: ~timelineEventCount~.
+0x05FA01C6 Разрушена единица наземной техники.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA852 Запуск волновых колебаний
+0x064AA853 Рассеивание технологических факторов
+0x064AA854 Стабилизация урбанизации
+0x064AA84F Поиск углеводородных источников
+0x064AA850 Расшифровка межгалактических шифровок
+0x064AA851 Заселение континентов
+0x064AA900 Распыление вирусов
+0x064AA855 Создание фоновых звуков
+0x064AA856 Растягивание микрочастиц
+0x064AA857 Запуск генных мутаций
+0x064AA84E Стабилизация геостатических границ
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~ достигают просветления.
+0x060B4254 Квазар
+
+# CRG_EvolveInEditor
+
+0x060B421B ~timelineGenerationCount~ поколение
+0x05FA019D ~timelineMySpeciesName~ становится более развитым существом.
+
+# CVG_AirVehicleLost
+
+0x060B424A Потеря техники
+0xF4F81D2C Число единиц воздушной техники, уничтоженных противником: ~timelineEventCount~.
+0x05FA01C8 Сбита единица воздушной техники.
+
+# SPG_CapturedStare
+
+0x05FA01CE ~timelineMyEmpireName~: захвачена звезда, предыдущий владелец - ~timelineTargetEmpireName~.
+0x060B4250 Захват звезды
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Проповедническая техника (суша)
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 Потерян космический корабль "~timelineTargetOTDBName~".
+0x060B4263 Уничтожение космического корабля игрока
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~: принят стиль игры "Рыцарь"!
+0x060B4258 Стиль "Рыцарь"
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ развивается и получает новый навык - ~timelineAbilityName~.
+0x550A15C0 Освоен навык "~timelineAbilityName~"
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 Обнаружена новая империя: ~timelineTargetEmpireName~.
+0x060B4264 Встреча с другой империей
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~: преподнесен подарок другому племени - ~timelineTargetTribeName~.
+0xB5303DE2 Преподнесение даров
+0xB5303DE4 ~timelineMyTribeName~: число даров, преподнесенных другим племенам - ~timelineEventCount~.
+
+# CVG_TradeRouteStarted
+
+0x3549292A Заключение торгового соглашения
+0x3549292B Заключено торговое соглашение. Партнер - ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x060B424C Изменение космического корабля
+0x05FA01CA ~timelineMyEmpireName~: создан новый космический корабль.
+
+# CLG_DiscoverPart
+
+0x05FA0193 ~timelineMySpeciesName~ получает фрагмент: ~timelinePartName~.
+0x060B4211 Новый фрагмент
+0x75580853 Найден фрагмент:~timelinePartName~.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~: принят стиль игры "Воин"!
+0x060B425D Стиль "Воин"
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Создание техники
+0x94F819B5 Число созданных единиц морской техники: ~timelineEventCount~.
+0x05FA01C4 Создана единица морской техники.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~: война окончена! Противник ~timelineTargetCivName~ повержен.
+0x35492928 Конец войны
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~: принят стиль игры "Странник"!
+0x060B425C Стиль "Странник"
+
+# TRG_UnlockedTool
+
+0xD537EA55 Навык "~timelineAbilityName~"
+0xD537EA56 Освоен навык "~timelineAbilityName~".
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~: принят стиль игры "Эколог"!
+0x060B4257 Стиль "Эколог"
+
+# TRG_DomesticatedSpecies
+
+0x05FA01B0 ~timelineMyTribeName~: приручено дикое животное - ~timelineTargetOTDBName~.
+0x060B422E Новый питомец: ~timelineTargetOTDBName~.
+
+# SPG_UFODestroyed
+
+0x060B4260 Уничтожение космического корабля
+0x05FA01D4 Разрушен космический корабль "~timelineTargetEmpireName~".
+0x356A2D21 Разрушено кораблей: ~timelineEventCount~.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Торговая техника (море)
+
+# TRG_TribeMemberDied
+
+0x05FA01B6 ~timelineMyTribeName~: племя скорбит! Одно из существ погибло.
+0xD4F7FE0D ~timelineMyTribeName~: погибло представителей племени - ~timelineEventCount~.
+0x060B4234 Гибель существа
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Военная техника (воздух)
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 Создано единиц военной сухопутной техники: ~timelineEventCount~.
+0x15523CA1 Создана единица военной сухопутной техники.
+0x15523CA0 Создание единицы техники
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~: принят стиль игры "Торговец"!
+0x060B425B Стиль "Торговец"
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~: первая встреча с гроксами.
+0x060B4252 Первая встреча с гроксами
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 Создано единиц проповеднической сухопутной техники: ~timelineEventCount~.
+0x15523CA7 Создана единица проповеднической сухопутной техники.
+0x15523CA6 Создание единицы техники
+
+# TRG_ConqueredTribe
+
+0x05FA01AE ~timelineMyTribeName~: покорено новое племя - ~timelineTargetTribeName~!
+0x060B422C Завоевание другого племени
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA901 Распределение электромагнитных полей
+0x064AA902 Сохранение массы
+0x064AA903 Расширение границ пространства
+0x064AA907 Генерирование галактического разнообразия видов
+0x064AA908 Раскручивание аккреционного диска
+0x064AA909 Балансировка галактических вспышек
+0x064AA904 Корректировка гравитационной постоянной
+0x064AA905 Подзарядка туманных излучателей
+0x064AA906 Раскручивание протопланетарных систем
+0x064AA90A Поправка планетарных вращений
+0x064AA90B Проверка уровня энтропии
+0x064AA90C Распределение границ влияния империй
+
+# TRG_AccessorizedCreature
+
+0x05FA01AC ~timelineMyTribeName~: у племени теперь новое снаряжение!
+0x060B422A Смена снаряжения
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ становится более развитым существом.
+0x060B4212 ~timelineGenerationCount~ поколение
+
+# CRG_Grow
+
+0x05FA019E ~timelineMySpeciesName~: мозг существа становится больше!
+0x060B421C Новая ступень развития интеллекта
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~: принят стиль игры "Дипломат"!
+0x060B4256 Стиль "Дипломат"
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 Получена прибыль от торговли - ~timelineSummedCount~ спорл.
+0x7552A857 Доход от торговли
+0x7552A858 Получена прибыль от торговли - ~timelineSummedCount~ спорл.
+
+# CLG_KilledSomething
+
+0x05FA019B ~timelineMySpeciesName~ убивает существо: ~timelineTargetOTDBName~.
+0xF4F7C380 ~timelineMySpeciesName~: число убитых врагов - ~timelineEventCount~.
+0x060B4219 Убийство другого существа
+0x7558085A Клетка убила существо: ~timelineTargetOTDBName~.
+0x7558085B Убито других клеток: ~timelineEventCount~.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Всеядность
+0x05FA0199 ~timelineMySpeciesName~ становится всеядным существом и сможет питаться как фруктами, так и мясом на этапе "Существо".
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA846 Развитие культурных абстракций
+0x064AA847 Полировка движений
+0x064AA848 Структурирование лингвистических систем
+0x064AA845 Фильтрация общественных связей
+0x064AA84C Фазовый сдвиг парадигм
+0x064AA84D Распределение познавательных способностей
+0x064AA849 Распутывание эпистемологических связей
+0x064AA84A Сглаживание черт лица
+0x064AA84B Подготовка этнографических проб
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~: принят стиль игры "Фанатик"!
+0x060B425E Стиль "Фанатик"
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 Собрано водорослей: ~timelineSummedCount~.
+0x555BD5C3 Собрано водорослей: ~timelineSummedCount~.
+0x555BD5C4 Собрано водорослей: ~timelineSummedCount~.
+
+# SPG_SpiceTraded
+
+0x060B4261 Торговля пряностью
+0x55564EC3 Продано пряности: ~timelineSummedCount~.
+0x05FA01D5 Продано пряности: ~timelineSummedCount~.
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~: получен высший знак отличия.
+0x060B4253 Высший знак отличия
+
+# CLG_GameStart
+
+0x060B4210 ~timelineGenerationCount~ поколение
+0x05FA0192 На планете зарождается жизнь.
+
+# CVG_EpicCharmed
+
+0x3552A306 Приручение монстра
+0x3552A307 ~timelineMyCivName~: приручен монстр - ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Военный захват города
+0x06031AAA ~timelineMyCivName~: захвачен город другой цивилизации (~timelineTargetCivName~) с помощью военного воздействия.
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~: число источников пряности, отвоеванных противником, - ~timelineEventCount~.
+0xD54932C1 ~timelineMyCivName~: потерян источник пряности.
+0xD54932C0 Потеря источника пряности
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 Создано единиц торговой морской техники: ~timelineEventCount~.
+0x35523EC3 Создание единицы техники
+0x35523EC4 Создана единица торговой морской техники.
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ начинает свой путь к разумной жизни на суше.
+0x060B421A ~timelineGenerationCount~ поколение
+
+# CLG_EatPlant
+
+0x352DBDB8 ~timelineMySpeciesName~: число съеденных водорослей - ~timelineEventCount~.
+0x352DBDB7 ~timelineMySpeciesName~ съедает водоросль.
+0x352DBDB6 Съедено водорослей: ~timelineEventCount~
+0x75580856 Клетка съела водоросль.
+0x75580857 Съедено водорослей: ~timelineEventCount~.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ создает племя.
+0x060B4229 Создание племени
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~: объявлена война! Противник - ~timelineTargetEmpireName~.
+0x060B424F Начало войны
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Военная техника (море)
+
+# TRG_TribeMemberBorn
+
+0x05FA01B5 ~timelineMyTribeName~: в племени пополнение! На свет появился детеныш.
+0xD4F81307 ~timelineMyTribeName~: число детенышей - ~timelineEventCount~.
+0x060B4233 Рождение детеныша
+
+# SPG_RareFound
+
+0x05FA01D6 Найден раритет: ~timelineRareName~.
+0x060B4262 Раритет
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Создание техники
+0x34F81C5A Число созданных единиц воздушной техники: ~timelineEventCount~.
+0x05FA01C5 Создана единица воздушной техники.
+
+# TRG_FruitGathered
+
+0x94F804D9 Собрано фруктов: ~timelineSummedCount~.
+0x05FA01B7 Собрано фруктов: ~timelineSummedCount~.
+0x060B4235 Собрано фруктов: ~timelineSummedCount~
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x060B4240 Экономическая специализация
+0x06085D4B ~timelineMyCivName~: получен статус экономической цивилизации.
+
+# TRG_FishGathered
+
+0x54F8079A Добыто рыбы: ~timelineSummedCount~.
+0x060B4236 Добыто рыбы: ~timelineSummedCount~
+0x05FA01B8 Добыто рыбы: ~timelineSummedCount~.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 Создано единиц проповеднической морской техники: ~timelineEventCount~.
+0x35523EC6 Создание единицы техники
+0x35523EC7 Создана единица проповеднической морской техники.
+
+# CVG_TradeCompleted
+
+0x3549292C Торговля
+0x3549292D ~timelineMyCivName~: прибыль от торговли - ~timelineSummedCount~ спорл.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Создана единица проповеднической воздушной техники.
+0xB5523D48 Создано единиц проповеднической воздушной техники: ~timelineEventCount~.
+0xB5523D46 Создание техники
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Проповедническая техника (воздух)
+
+# CVG_GiftGiven
+
+0xD54932C3 Расход средств
+0xD54932C4 ~timelineMyCivName~: затрачено ~timelineSummedCount~ спорл.
+0xD54932C5 ~timelineMyCivName~: затрачено ~timelineSummedCount~ спорл.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Травоядность
+0x05FA0197 ~timelineMySpeciesName~ становится травоядным существом и сможет питаться фруктами на этапе "Существо".
+

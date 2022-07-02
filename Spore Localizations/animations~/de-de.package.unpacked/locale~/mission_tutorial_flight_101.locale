@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000075 ...
+0x0000002D Öffne deine Kommunikationskanäle!
+0x00000010 Richtig gute Arbeit, Kadett! Du hast uns für unsere Forschung ein ausgezeichnetes Exemplar gebracht. Zwei untersuchen, eins entführen, sag ich immer.
+0x0000002C Öffne deine Kommunikationskanäle!
+0x0000002B Öffne deine Kommunikationskanäle!
+0x00000061 Ja Und was kommt jetzt?
+0x00000029 Hast du Probleme, ein Exemplar zu scannen? ~p~Wenn das Scanner-Werkzeug angewählt ist, linksklicke auf eine der leuchtenden gelben Kreaturen. ~p~Wenn du Schwierigkeiten hast, die richtige Kreatur zu finden, steig mit Hilfe des Mausrads ein wenig höher, um das Ganze aus der Vogelperspektive zu sehen, und halte nach gelben Pfeilen Ausschau. ~p~Wenn du so dein Ziel gefunden hast, kannst du wieder tiefer gehen.
+0x00000040 Du hast die neue Spezies gescannt. Öffne deine Kommunikationskanäle!
+0x0000000F Gut gemacht, Kadett! So wie du fliegst, bist du im Handumdrehen Kapitän.
+0x00000089 Du hast erfolgreich ein ~mission_item~-Tier beschafft.
+0x0000001A Flight101_TiereVernichten Ablehnen
+0x00000088 Du hast erfolgreich ~mission_explore_num_cities_to_visit~ Städte besucht.
+0x0000001C In dem Fall stehen wir wohl gerade vor unserem neuen Kapitän. Bist du bereit für weitere aufregende Missionen?
+0x00000021 Was soll ich als Nächstes tun?
+0x00000018 Flight101_TierHolen Ablehnen
+0x00000022 Hab's kapiert.
+0x00000019 Ausgezeichnet! Unsere Wissenschaftler sind ganz begierig darauf, die Daten zu analysieren.
+0x0000001D Flight101_TierHolen Abbruch
+0x00000005 Ich weiß bereits, wie ich mein Schiff kommandiere. Alles schon ein alter Hut!
+0x0000004F Du hast das ~mission_item~-Exemplar weitab von jeder Stadt abgesetzt. Nimm es wieder auf und setze es innerhalb der Stadtmauern ab!
+0x0000008F ~mission_item~ zur Untersuchung erhalten. Öffne deine Kommunikationskanäle!
+0x0000004E ~mission_item~-Exemplar erfolgreich entführt. Öffne deine Kommunikationskanäle!
+0x0000004D Bin bald wieder da.
+0x00000020 Du hast anscheinend das richtige Exemplar beschafft. Du musst es in einer unserer Städte abladen.~p~Wähle die abzusetzende Fracht im Fracht-Menü an und lade sie in der Stadt ab.~p~Achte darauf, dass du sie sanft auf die Oberfläche beamst , sonst musst du ein zweites Exemplar beschaffen ... und vor allem die Sauerei wegputzen.
+0x0000001E Flight101_TiereVernichten Abbruch
+0x00000051 Flight101_Scan Ablehnen
+0x0000004A Untersuchung erfolgreich. Öffne deine Kommunikationskanäle!
+0x00000036 Du hast die Spezies erfolgreich gescannt.
+0x00000045 Du hast erfolgreich ~mission_explore_num_cities_to_visit~ Städte besucht.
+0x00000046 Du hast die Spezies erfolgreich gescannt.
+0x00000042 Du hast erfolgreich ein ~mission_item~-Exemplar beschafft. Öffne deine Kommunikationskanäle!
+0x00000006 Schockschwerenot! Deine Information durch das Scannen war wirklich wichtig.~p~Wir wissen jetzt, dass wir diese Spezies genauer untersuchen müssen. ~p~Dein Schiff hat einen Entführungsstrahl, den du im Fracht-Menü findest. Sammle mit diesem Werkzeug ein Exemplar ein und bring es uns!
+0x00000071 Ja
+0x00000015 Hast du immer noch nicht alle infizierten Kreaturen vernichtet? ~p~Du musst den Laser angelegt haben. Ziele dann mit gedrückter linker Maustaste auf die infizierten Kreaturen! Sie sind schnell, also musst du den Laser so lange bewegen, bis du sie triffst.
+0x00000017 In dem Fall stehen wir wohl gerade vor unserem neuen Kapitän. Bist du bereit für weitere aufregende Missionen?
+0x00000024 Stimmt! Jetzt verstehe ich. Danke.
+0x00000047 Du hast erfolgreich ein ~mission_item~-Exemplar beschafft.
+0x00000013 Gibt's ein Problem, Kadett? ~p~Du musst durch 7 beliebige Kugeln fliegen, die sich jeweils über einer Stadt befinden. Mit den Pfeiltasten oder gedrückter rechter Maustaste steuerst du dein Raumschiff. Mit dem Mausrad änderst du deine Flughöhe.~p~Du kannst auf dem Planeten auch durch Anklicken der Übersichtskarte navigieren.
+0x0000000B Setze deinen Entführungsstrahl im Fracht-Menü ein, um diese Kreatur zur weiteren Untersuchung zu beschaffen.~p~Du musst den Strahl aktiv halten, bis die Kreatur vollständig im Frachtraum des Schiffs angekommen ist.~p~Unterbrichst du zu früh, kann das zu wenig wünschenswerten Ergebnissen für das Opfer führen ... äh, ich meine, für das Exemplar.
+0x00000052 Du bringst dieses Ding nicht an Bord! Keine Chance!
+0x00000077 Bitte vernichte nur die leuchtenden Kreaturen! Vielen Dank!
+0x00000078 Mission fehlgeschlagen. Zu viele unmarkierter Ziele eliminiert.
+0x0000000D Okay. Ich bin dabei.
+0x00000065 Flight101_Scan Abbruch
+0x0000007B Zur Keulung markierte Tiere dürfen nicht an Bord genommen werden.
+0x0000003D Stimmt! Jetzt verstehe ich. Danke.
+0x0000002E Öffne deine Kommunikationskanäle!
+0x00000076 Es tut mir leid. Was war gleich noch mal die Mission?
+0x00000048 Du hast erfolgreiche die erkrankten ~mission_target_animal_species~-Tiere von ihrem Leid erlöst.
+0x00000027 Entführe ein ~mission_item~-Tier!
+0x00000041 Die fragliche Kreatur ist von einem seltsamen Leuchten umgeben.~p~Dein Schiff ist mit einem Radar-Werkzeug ausgerüstet, das im Hauptwerkzeugsmenü ein- und ausgeschaltet werden kann. Es zeigt auf der Planetenoberfläche Missionsziele und interessante Objekte an. Das Radar piept schneller, wenn du deinem Ziel näher kommst.~p~Wähle das Scanner-Werkzeug aus dem Hauptwerkzeuge-Menü aus!
+0x00000043 Du hast erfolgreiche die erkrankten ~mission_target_animal_species~-Tiere von ihrem Leid erlöst. Öffne deine Kommunikationskanäle!
+0x00000014 Wir brauchen diesen Probanden wirklich dringend für unsere Untersuchungen. ~p~Wenn der Entführungsstrahl ausgewählt ist, machst du einen Linksklick auf die Kreatur, die du entführen möchtest. Du musst dabei die linke Maustaste gedrückt halten, bis die Kreatur sicher in deinem Frachtraum angekommen ist. ~p~Deine Zielkarte wird aktualisiert, sobald deine Fracht verstaut ist.~p~Hast du einen der kleinen Racker in deinem Frachtraum, fliegst du zu irgendeiner Stadt und setzt ihn innerhalb der Stadtmauern ab. Aber lass ihn nicht fallen, das macht immer so viel Dreck!~p~Nach der Anlieferung kümmert sich dann einer unserer Helfer um die Kreatur.
+0x00000026 Die fehlende Spezies scannen.
+0x00000037 Du hast erfolgreiche die erkrankten ~mission_target_animal_species~-Tiere von ihrem Leid erlöst.
+0x00000004 Da du jetzt ein Fliegerass bist, kannst du endlich die großartigen Werkzeuge einsetzen, die wir für dein Raumschiff erfunden haben.~p~Wir haben schon länger daran gearbeitet, die Pflanzen und Tiere SCANNEN zu können, die du auf deinen Reisen entdeckst.~p~Sieht aus, als wäre das Werkzeug genau zur rechten Zeit fertig geworden. Der Sporepädie-Eintrag eines unserer eigenen Tiere hatte kürzlich genau zu dem Zeitpunkt einen Fehler, als das Tier eigentümliche Symptome aufzuweisen begann.~p~Du musst das Tier scannen, damit wir mehr Informationen über diese Spezies erhalten.
+0x0000003B Entführe ein Exemplar und setze es in einer Stadt ab, damit es untersucht werden kann.~p~Wähle den Entführungsstrahl aus, linksklicke auf die Kreatur, die du entführen möchtest, und halte die linke Maustaste gedrückt. Der Entführungsstrahl befindet sich im Fracht-Bereich der Werkzeuggruppen. Halte den Strahl aktiviert, bis die Kreatur sicher in deinem Frachtraum angekommen ist.~p~Sobald du ein Exemplar hast, fliege zu irgendeiner Stadt und setze es vorsichtig innerhalb der Stadtmauern wieder ab. Dazu wählst du das Objekt aus, das du aus deinem Frachtraum absetzen möchtest. Linksklicke auf den Ort, an dem das Objekt abgesetzt werden soll, und halte die Maustaste gedrückt. Halte die Taste wieder gedrückt, bis die Kreatur sicher auf dem Boden gelandet ist.
+0x0000004B Du hast erfolgreiche die erkrankten ~mission_target_animal_species~-Tiere erlöst. Öffne deine Kommunikationskanäle!
+0x00000011 Löbliche Arbeit! Du bist aus dem richtigen Holz geschnitzt. Du hast dir den Respekt und das Vertrauen deiner Heimatwelt verdient. Wir wollen, dass du als Pilot dieses Raumschiffs unsere Rasse bei der Erforschung der Galaxie vertrittst und uns Ehre machst.~p~Du bekommst die Plakette und damit den Titel Kapitän.~p~Unsere Wissenschaftler haben einen interplanetaren Antrieb für dein Schiff entwickelt, aber du musst ihn erst noch installieren, Kapitän.
+0x00000034 Du hast erfolgreiche die erkrankten ~mission_target_animal_species~-Tiere von ihrem Leid erlöst.
+0x00000025 Klingt gut. Ich bin bereit.
+0x00000033 Du hast die neue Spezies gescannt.
+0x0000008B Der Entführungsstrahl befindet sich im Fracht-Bereich.
+0x00000030 Setze das Scanner-Werkzeug ein, um die Informationen über die Zielkreatur in die Sporepädie einzutragen!
+0x0000008E Geschafft! Öffne deine Kommunikationskanäle!
+0x00000031 Setze den Mini-Laser der Waffenliste ein!
+0x0000000C Wähle den Mini-Laser in deinem Waffen-Menü aus und ziele auf die infizierten Kreaturen! ~p~Vorsicht, worauf du den Laser richtest! Er kann Gebäude, Fahrzeuge und andere Raumschiffe zerstören. ~p~Geh jetzt, bevor die Infektion sich weiter ausbreitet!
+0x00000009 Ja, ich weiß, was ich tue. Mach mein Raumschiff bereit zum Start ins All!
+0x0000008D Du hast erfolgreich ein ~mission_item~-Tier beschafft.
+0x00000023 Du musst das Exemplar immer noch in einer unserer Städte abladen.~p~Wähle den Gegenstand, den du abladen möchtest, per Linksklick aus. Das aktiviert deinen Transportstrahl, mit dem du den Gegenstand am Boden absetzen kannst. Fliege zu einer unserer Städte und lade das Exemplar ab! Halte die linke Maustaste gedrückt, bis die Kreatur sicher die Oberfläche in einer unserer Städte erreicht hat! ~p~Wenn du zu früh loslässt, fällt sie herunter und geht kaputt.
+0x00000001 Das von dir beschaffte Exemplar war offenbar krank und trägt ein Virus in sich, das sich mit alarmierender Geschwindigkeit ausbreiten kann. Es stellt eine Gefahr für unser gesamtes Ökosystem dar.~p~Wir wollen die Angelegenheit mit Feingefühl erledigen. Darum haben wir unser Raumschiff mit einem sehr praktischen Mini-Laser ausgerüstet. Er ist so präzise, dass du die infizierten Kreaturen eliminieren kannst, ohne einem gesunden Tier zu schaden.
+0x00000003 Glückwunsch, Kadett! Ist das nicht ein schmucker Flitzer?~p~Wir schrauben zwar immer noch neue Teile an dein Schiff, aber es ist für die Reise ins All schon so gut wie einsatzfähig. ~p~Bist du schon mal mit einem Raumschiff geflogen? Nicht? ~p~Hmmm ... na ja ... es geht doch nichts über einen Testflug, wenn die gesamte Bevölkerung der ~player_creature_name~ vom Planeten ~race_homeworld~ zusieht!~p~Was meinst du? Bist du bereit, dir deine Kapitänsplakette zu verdienen?
+0x00000007 Wenn du aus dem richtigen Holz geschnitzt bist, solltest du unbedingt weitermachen. ~p~Wir haben dein Raumschiff jedenfalls schon mal mit allem ausgestattet, was für das Weltraumprogramm erforderlich ist.~p~Bist du bereit den Planeten zu verlassen?
+0x00000008 Noch nicht. Ich hab's mir anders überlegt. Sehen wir uns ein paar Städte an.
+0x0000000A So ist's recht!~p~Jede Stadt auf dem Planeten ~race_homeworld~ hat eine riesige Kugel gen Himmel geschossen, um unser erstes Raumschiff gebührend zu feiern. Wirklich ... die kannst du nicht übersehen!~p~Fliege mit deinem Schiff einmal um den Planeten herum, zu ~mission_explore_num_cities_to_visit~ unserer Städte! Fliege durch die Kugeln, um sie zu zerstören!~p~Sobald du fertig bist, bekommst du weitere Anweisungen. ~p~Viel Glück und mach keine Kratzer in den Lack!
+0x0000003C Damit die Infektion sich nicht ausbreitet, musst du ~mission_num_kills_needed~ kranke ~mission_target_animal_species~~^p^mission_num_kills_needed^-Kreatur^-Kreaturen~ von der Heimatwelt entfernen.~p~Benutze dazu den Mini-Laser.
+0x0000008C Du hast ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^Stadt^Städte~ besucht.
+0x00000002 Mit der rechten Maustaste kannst du steuern, mit den Tasten "+" und "-" bestimmst du die Flughöhe.
+0x00000079 Die Eliminierung ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^weiteren unmarkierten Kreatur^weiterer unmarkierter Kreaturen~ führt zum Scheitern der Mission.
+0x00000028 Entferne ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^weiteres krankes Tier^weitere kranke Tiere~.
+0x00000050 ~mission_num_eradicated_creatures~ erlegt, noch ~mission_num_kills_needed~ weitere ~mission_target_animal_species~~^p^mission_num_kills_needed^-Kreatur^-Kreaturen~ zu eliminieren.
+0x00000086 Fliege durch die Kugel über ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^weitere Stadt^weiteren Städten~.
+0x0000003A Der Sporepädie-Eintrag einer hiesigen Kreatur ist verschwunden. Setze das Scanner-Werkzeug ein, um Informationen über diese Kreatur zu sammeln.~p~Das Scanner-Werkzeug befindet sich im Hauptwerkzeuge-Menü.~p~Die fragliche Kreatur ist von einem Leuchten umgeben. Um die Kreatur aufzuspüren, höre auf das Radarsignal.~p~Das Suchen kann aus größerer oder aus geringerer Höhe einfacher sein. Du veränderst die Flughöhe mit den Tasten "+" und "-" oder mit dem Mausrad.
+0x0000000E Setze das ~mission_item~ innerhalb der Stadtmauern ab!
+0x00000039 Besuche ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^weitere Stadt^weitere Städte~ und fliege durch die schwebende Kugel, um sie platzen zu lassen.~p~Lenke dein Raumschiff mit den Pfeiltasten. Du kannst auch mit gedrückter rechter Maustaste fliegen.~p~Um die Flughöhe zu ändern, benutzt du entweder die Tasten "+" und "-" oder das Mausrad.~p~Suche nach glitzernden Kugeln über den Städten und fliege durch die Kugeln!
+0x0000003F Du hast ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^Stadt^Städte~ besucht. Öffne deine Kommunikationskanäle!
+0x00000012 Klicke zunächst auf das ~mission_item~ im Frachtraum und anschließend auf einen Ort in irgendeiner Stadt (und halte die Maustaste gedrückt)!
+

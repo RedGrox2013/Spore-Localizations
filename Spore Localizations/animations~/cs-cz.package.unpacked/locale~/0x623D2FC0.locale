@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F Radostní
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD Spravedliví
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 Čestní
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 Oddaní
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 Vyvážení
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 Šetrní
+
+# Zealot
+
+0x07CEA308 Prorok
+0x07CEA307 Biskup
+0x07CEA309 Svatý
+0x07CEA306 Opat
+0x07CEA303 Mnich
+0x07CEA302 Ministrant
+0x07CEA305 Kněz
+0x07CEA304 Kaplan
+0x07CEA300 Věřící
+0x07CEA301 Uctivatel
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 Vděční
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA Odvážní
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E Krasavci
+
+# Diplomat
+
+0x07CEA406 Vyslanec
+0x07CEA405 Advokát
+0x07CEA400 Asistent
+0x07CEA404 Smírčí soudce
+0x07CEA403 První tajemník
+0x07CEA402 Druhý tajemník
+0x07CEA401 Atašé
+0x07CEA409 Velvyslanec
+0x07CEA408 Zmocněnec
+0x07CEA407 Ministr
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Posila
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 Výbušní
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB Prozíraví
+
+# Shaman
+
+0x07CEA700 Sběrač
+0x07CEA702 Lovec
+0x07CEA701 Zemědělec
+0x07CEA708 Lovec snů
+0x07CEA707 Vizionář
+0x07CEA704 Tkadlec
+0x07CEA703 Malíř obličejů
+0x07CEA706 Podpalovač
+0x07CEA705 Vyráběč holí
+0x07CEA709 Duchovní
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 Univerzální
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C Z impéria druhu ~ep1_captain_species_name~
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F Moudří
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 Čestní
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 Průmysloví
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 Empatičtí
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 Duchovní
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A Štědří
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 Vtipálci
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B Uličníci
+
+# Trader
+
+0x07CEA609 Magnát
+0x07CEA608 Výkonný ředitel
+0x07CEA605 Manažer
+0x07CEA604 Šmelinář
+0x07CEA607 Prezident
+0x07CEA606 Viceprezident
+0x07CEA600 Běžec
+0x07CEA602 Pašerák
+0x07CEA601 Kurýr
+0x07CEA603 Účetní
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE Mlčenlivý
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 Silní
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D Logici
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 Hraví
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B Inteligenti
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A Houževnatí
+
+# Wanderer
+
+0x07CEA908 Hvězdný běžec
+0x07CEA909 Galaktický cestovatel
+0x07CEA905 Průzkumník
+0x07CEA904 Stopař
+0x07CEA906 Cestovatel
+0x07CEA907 Planetární přebíhavec
+0x07CEA903 Skaut
+0x07CEA900 Pobuda
+0x07CEA902 Nomád
+0x07CEA901 Stopař
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 Krutý
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 Soucitný
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 Zdrojoví
+
+# Warrior 	
+
+0x07CEA804 Major
+0x07CEA805 Poručík
+0x07CEA806 Důstojník
+0x07CEA808 Generál
+0x07CEA807 Velitel
+0x07CEA802 Žoldák
+0x07CEA801 Bojovník
+0x07CEA800 Drsňák
+0x07CEA803 Seržant
+0x07CEA809 Válečník
+
+# Scientist
+
+0x07CEA501 Technik
+0x07CEA500 Praktikant
+0x07CEA503 Inženýr
+0x07CEA502 Badatel
+0x07CEA509 Génius
+0x07CEA508 Teoretik
+0x07CEA505 Profesor
+0x07CEA504 Vynálezce
+0x07CEA507 Vzdělanec
+0x07CEA506 Doktor
+
+# Bard
+
+0x07CEA109 Superstar
+0x07CEA103 Hráč
+0x07CEA104 Muzikant
+0x07CEA101 Cestička
+0x07CEA102 Ladič
+0x07CEA105 Průkopník
+0x07CEA108 Hvězda
+0x07CEA106 Ikona
+0x07CEA107 Celebrita
+0x07CEA100 Skupina
+
+# Ecologist
+
+0x07CEA209 Guru
+0x07CEA202 Botanik
+0x07CEA203 Hlídač
+0x07CEA200 Plečka
+0x07CEA201 Zahradník
+0x07CEA204 Farmář
+0x07CEA205 Chovatel
+0x07CEA206 Šlechtitel
+0x07CEA207 Klonovač
+0x07CEA208 Filosof
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 Závislí
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 Stateční
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 Věrní
+
+# Knight
+
+0x07CEAA07 Paladin
+0x07CEAA09 Lord
+0x07CEAA05 Strážce
+0x07CEAA08 Šlechtic
+0x07CEAA01 Učedník
+0x07CEAA00 Tulák
+0x07CEAA02 Panoš
+0x07CEAA04 Muž ve zbroji
+0x07CEAA03 Dobrodruh
+0x07CEAA06 Rytíř
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

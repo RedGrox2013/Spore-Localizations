@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 Ok
+0x06162C22 Criar Novo Sporecast
+0x06162C24 Novo
+0x74BF153E Encontre enquanto joga para adicionar à Sporepédia!
+0x06162C1E Adicionar ao Sporecast
+0x06162C1F Seleccionar Sporecast:
+0x74BF153F Poderá encontrar...
+0x34F8116D Esta característica vai desbloquear:
+
+# ProfileView.layout
+
+0x062EE735 Página de Perfil
+
+# vehicle stats (specific)
+
+0x058B5C24 Poder Militar
+0x058B5C26 Poder Económico
+0x058B5C25 Poder Religioso
+
+# AssetViewLarge.layout
+
+0x058B60F2 Descrição:
+0x058B60F4 Nome de Opção
+0x058B60F5 Criador do Objecto
+0x058B60F6 por
+0x058B60F7 Seguinte
+0x058B60F8 Anterior
+0x058B60F3 Etiquetas:
+0xD4AF63E8 Aguarde, por favor...
+
+# creature stats
+
+0x058B5C22 Social
+0x058B5C1F Carnívoro
+0x058B5C21 Atacar
+0x058B5C20 Herbívoro
+0x058B5C1E Omnívoro
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175F6 <Missing>
+0x05B175E8 Domingo
+0x05B175E9 Segunda
+0x05B175EA Terça
+0x05B175EB Quarta
+0x05B175EC Quinta
+0x05B175ED Sexta
+0x05B175EE Sábado
+0x05B175F0 ~seconds~ s atrás
+0x05B175EF ~day_of_week~ Passada
+0x05B175F1 ~minutes~ min atrás
+0x05B175F2 ~hours~ h atrás
+
+# vehicle stats
+
+0x058B5C1C Poder
+0x058B5C1D Velocidade
+0x058B5C1B Saúde
+
+# AssetBrowser.layout
+
+0x05B1A59C Procura
+0x05B1A59D Sporepédia
+0x05B1A59E Bem-vindo ~username~
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C12 TÍtulo
+0x058B5C14 Tipo
+0x058B5C16 Conteúdo online só disponível quando inicia a sessão
+0x058B5C17 Conteúdo online só disponível quando inicia a sessão
+0x058B5C19 Regressar
+0x058B5C10 Ordenar:
+0x058B5C15 Partilhado
+0x058B5C1A Relacionamento
+0x058B5C11 Hora Criada
+0x058B5C13 Criador
+0x058B5C18 Criar o Seu
+0x058B5C27 Tempo Descarregado
+0x058B5C28 Medonho & Giro
+

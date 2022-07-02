@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 Ok
+0x06162C22 Új Spóradás létrehozása
+0x06162C24 Új
+0x06162C1E Hozzáadás Spóradáshoz
+0x06162C1F Válassz Spóradást:
+0x74BF153F Találkozásra kerülhet sor…
+0x34F8116D Ez a tulajdonság elérhetővé teszi:
+0x74BF153E Keresd meg játék közben, hogy hozzáadhasd a Spóropédiához!
+
+# ProfileView.layout
+
+0x062EE735 Profillap
+
+# vehicle stats (specific)
+
+0x058B5C24 Katonai erő
+0x058B5C26 Gazdasági erő
+0x058B5C25 Vallási erő
+
+# AssetViewLarge.layout
+
+0x058B60F2 Leírás:
+0x058B60F4 Eszköz neve
+0x058B60F5 Eszköz teremtője
+0x058B60F3 Címkék
+0x058B60F8 Előző
+0x058B60F7 Következő
+0x058B60F6 ,
+0xD4AF63E8 Várj…
+
+# creature stats
+
+0x058B5C1F Húsevő
+0x058B5C21 Támadás
+0x058B5C20 Növényevő
+0x058B5C1E Mindenevő
+0x058B5C22 Társasági
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175F6 <Missing>
+0x05B175E8 Vasárnap
+0x05B175E9 Hétfő
+0x05B175EA Kedd
+0x05B175EB Szerda
+0x05B175EC Csütörtök
+0x05B175ED Péntek
+0x05B175EE Szombat
+0x05B175F0 ~seconds~ másodperccel ezelőtt
+0x05B175F1 ~minutes~ perccel ezelőtt
+0x05B175F2 ~hours~ órával ezelőtt
+0x05B175EF Múlt ~day_of_week~
+
+# vehicle stats
+
+0x058B5C1B Életerő
+0x058B5C1C Energia
+0x058B5C1D Sebesség
+
+# AssetBrowser.layout
+
+0x05B1A59C Keresés
+0x05B1A59D Spóropédia™
+0x05B1A59E Köszöntünk, ~username~!
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 Rendezés:
+0x058B5C14 Típus
+0x058B5C19 Vissza
+0x058B5C13 Teremtő
+0x058B5C16 Az online tartalom csak bejelentkezve érhető el
+0x058B5C17 Az online tartalom csak bejelentkezve érhető el
+0x058B5C15 Megosztva
+0x058B5C1A Kapcsolat
+0x058B5C11 Létrehozás ideje
+0x058B5C18 Hozz létre sajátot!
+0x058B5C27 Letöltések
+0x058B5C12 Név
+0x058B5C28 Édes és Rémes
+

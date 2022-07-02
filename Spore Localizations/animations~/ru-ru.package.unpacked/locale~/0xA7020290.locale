@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Поздравляем! Мистер Паззл впечатлен твоими умственными способностями. Он не прочь сыграть с тобой еще раз.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Загадки посложнее мы видали...
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Не можешь так - давай двумя руками.
+
+# Act 2 description
+
+0x00000101 Каждая из цветных карточек открывает одну дверь, и лишь одна из дверей ведет к таинственному ключу.
+
+# Adventure name
+
+0x00000002 Волшебные ворота мистера Паззла
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Таинственный ключ
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Проходи-ка, не стесняйся, к игре присоединяйся!
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Мистер Паззл
+
+# Act 3 description
+
+0x00000025 Ключ у тебя! Теперь телепортируй его мистеру Паззлу.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Мистер Паззл меня величают. Я загадки тебе обещаю.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Привет-привет! Сто лет в обед!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Не стесняйся, не робей, действуй же - и поскорей!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Если есть ума немножко, ты найдешь ответ. Если будет слишком сложно - значит, ума нет.
+
+# Act 1 name
+
+0x00000020 Знакомьтесь: мистер Паззл
+
+# 'Adventure lost' message
+
+0x00000012 Не сдавайся. Может, попробуешь двумя руками сразу?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 А радуйся сильнее!
+
+# Act 3 name
+
+0x00000024 Есть!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Что нет тебя умнее!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (И ты не скромничай совсем.)
+
+# Adventure description
+
+0x00000003 Мистер Паззл вызывает тебя на испытание. Сможешь ли ты добыть таинственный ключ?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 головоломка, мистер Паззл, ворота, ключи
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Мой ключ! Мой ключ! Скажу я всем...
+
+# Act 4 name
+
+0x00000102 Отличная работа!
+
+# Act 1 description
+
+0x00000021 Никогда не угадаешь, что на сей раз придумал мистер Паззл. Что же таит его палатка сегодня?
+
+# Act 4 description
+
+0x00000103 Мистер Паззл в восторге!
+
+# 'Adventure start' message
+
+0x00000010 Мистер Паззл путешествует по галактике и загадывает всем подряд загадки. Что он задумал на этот раз?
+
+# Act 2 name
+
+0x00000100 Таинственный ключ
+

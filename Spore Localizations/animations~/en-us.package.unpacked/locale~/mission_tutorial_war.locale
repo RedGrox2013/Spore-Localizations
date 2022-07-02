@@ -1,0 +1,102 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000000 We have been trying to peacefully negotiate with the ~mission_target_empire~ in secret for some time now, but all our efforts have proven unsuccessful. These bellicose upstarts have left us with little choice. Regrettably, we must give them a demonstration of our unassailable might. Go to planet ~mission_target_planet~, a small colony of the ~mission_target_empire~, and destroy all the cities you find there.
+0x0000000B How do I find these ruffians?
+0x0000000C Tell me where I can find these scallywags!
+0x0000000D How do I find these curs?
+0x0000000E Where can I find them?
+0x0000000F You mean to start a war! I'll have no part.
+0x00000010 No. No. A million times no.
+0x00000011 Actually, I'm more of a lover than a fighter.
+0x00000012 I'm not so much into the killing and stuff.
+0x00000013 We knew we could count on you! Planet ~mission_target_planet~ can be found within the ~mission_target_star~ system.~p~We know you must find this to be a terrible burden to bear, to say nothing of the ethical implications alone! However, if you complete this grave task successfully, we'll give you ~mission_rewards~ Sporebucks.
+0x0000001C Alright. Sounds fun. I'll do it.
+0x0000001D Wetworks! Sounds like a larf! I'll do it.
+0x0000001E I've always wanted to really lay into those guys. I'll do it.
+0x0000001F ~mission_target_empire~? I hate those guys. I'm in!
+0x00000020 I'm out! This feels like bad karma, times a bajillion.
+0x00000021 I just can't tolerate this level of violence.
+0x00000022 No way. No how. Not now. Not ever.
+0x00000023 No. No. A zillion times no.
+0x00000024 You have performed this grave task unflinchingly. For that, we salute you. Thank you for your tireless service. Here is ~mission_rewards~ Sporebucks for any hardships you may have endured in the course of this assignment.
+0x0000002D Soooo... Anywaaaaay...
+0x0000002E Moving on...
+0x0000002F Let's talk about something else...
+0x00000030 Also...
+0x00000031 There is something deeply gratifying about starting a fight.
+0x00000032 I had fun. Call me anytime.
+0x00000033 Nothing satisfies at the end of the day like global destruction.
+0x00000034 That's tiring work. I could use a rest. Bye!
+0x00000035 You forgot your mission, didn't you? Have you been taking neuropsin suppressors? They are ideal for war-faring species, but they do tend to cloud the mind.~p~The planet of ~mission_target_planet~ is still occupied by ~mission_target_empire~. Rid ~mission_target_planet~ of these hostile forces.~p~For the Empire!
+0x0000003E Soooo... Anywaaaaay...
+0x0000003F Moving on...
+0x00000040 Let's talk about something else.
+0x00000041 Also...
+0x00000042 My conscience can't bear this. I give up.
+0x00000043 This is too horrific. I quit.
+0x00000044 I just can't do it. Find someone else.
+0x00000045 I give up. Sorry.
+0x00000046 That's right. A bit of the old ultraviolence.
+0x00000047 I remember now. Smoke 'em.
+0x00000048 Ahh, yes. Global mayhem. Got it.
+0x00000049 Aha! Destroy them! That's the part I forgot.
+0x00000050 Thank you! It pains us to send you on a task such as this, but we've exhausted our every option. Be strong.
+0x00000008 One thing before I go...
+0x00000009 One more thing...
+0x0000000A Let's talk about something else...
+0x00000014 Also...
+0x0000005B I got the urge. The urge to purge!
+0x0000005C Call me Janitor, 'cause I'm about to do some cleaning!
+0x0000005D You can count on me. They won't know what hit 'em!
+0x0000005E I will leave smoking holes where once were proud cities!
+0x0000005F I can't say your actions will aid your reputation, but I can't say I blame you either. Intergalactic extermination is a tricky business, fraught with all sorts of knotty ethical dilemmas.~p~We have other missions that may be more appealing.
+0x00000069 Soooo... Anywaaaaay...
+0x0000006A Moving on...
+0x0000006B Let's talk about something else...
+0x0000006C Also...
+0x0000006D I need a moment to be alone. I'll be back later.
+0x00000070 Thanks, I'll see you later.
+0x00000071 I can't say your actions will aid your reputation, but I can't say I blame you either. Intergalactic warfare is a tricky business, fraught with all sorts of complexity.
+0x00000015 One thing before I go...
+0x00000016 One more thing...
+0x00000017 Let's talk about something else...
+0x00000018 Also...
+0x0000007A I need a moment to be alone. I'll be back later.
+0x0000007B We're going to have to find another way. War sucks!
+0x0000007D Thanks, I'll see you later.
+0x000000A7 ...
+0x000000A8 Ah, of course! The mission log. I will look there!
+0x000000A9 I need to review my mission.
+0x000000AA The details of my mission have escaped me.
+0x000000AB I'd like to review the details of my mission.
+0x000000AC Restate your request. My notes are unclear.
+0x0000003D Ah, of course! The mission log. I will look there!
+0x00000002 Before I go, I have other questions...
+0x00000003 Also...
+0x00000004 One more thing...
+0x00000005 I'd rather do something else.
+0x0000007E I need to decline this task.
+0x0000007F This task no longer fits into my schedule.
+0x00000080 I beg to be released from this task.
+0x00000092 Very sorry to have bothered you. So long.
+0x00000093 Until we speak again. So long.
+0x00000094 I can see you are busy. We'll speak later.
+0x00000095 I beg your understanding. 
+0x00000084 Destroy all cities of ~mission_target_empire~ on planet ~mission_target_planet~.
+0x00000001 Capture or destroy all cities on the planet!
+0x00000085 Success! Return to your homeworld!
+0x00000086 Oops! Time has expired.
+0x00000087 Look for the ~mission_target_star~ star system.
+0x00000088 Your Empire is waiting to congratulate... and pay you!
+0x00000089 You failed to destroy all cities on time. Return to your homeworld.
+0x0000008A Destroy all the cities located on planet ~mission_target_planet~ in the ~mission_target_star~ star system.~p~Per the request of your homeworld, the ~mission_target_empire~ must be reduced in size.~p~Completing this mission will earn you ~mission_rewards~ Sporebucks.
+0x0000008B Return to planet ~mission_source_planet~ in system ~mission_source_star~ for glory!~p~Completing this mission will earn you ~mission_rewards~ Sporebucks.
+0x0000008D You failed to destroy all cities on time. Go back to your homeworld and give them the bad news.
+0x00000091 Cities destroyed: ~mission_war_num_destroyed_cities~. Remaining ~mission_war_num_cities_left~.
+0x00000006 Success. The enemy has been obliterated.
+0x00000007 Time has expired! Mission failed.

@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Onneksi olkoon! Pulmaherra on ilahtunut aivojesi nerokkaasta poimuisuudesta. Hän odottaakin innolla tilaisuutta päästä koettelemaan älyäsi.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Tämä pulma ei varmasti tarjoa sinulle vastusta.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Jos jäät jumiin, käytä käsiäsi.
+
+# Act 2 description
+
+0x00000101 Jokainen värikortti avaa väriä vastaavan oven. Yksi ovista johtaa mysteeriavaimen luo.
+
+# Adventure name
+
+0x00000002 Pulmaherran taikaportit
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Mysteeriavain
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mysteeritelttani on parasta, mitä maa päällään kantaa. Astu sisään ja koettele älysi ylivertaisuutta.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Pulmaherra
+
+# Act 3 description
+
+0x00000025 Löysit avaimen! Käytä nyt taikateleporttia antaaksesi sen Pulmaherralle.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Olen Pulmaherra ja koettelen mielelläni vieraideni älynystyröitä.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Terve ja tervehdys! Tervetuloa seuraamaan kiertävää esitystäni.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Älä turhaan jumitu. Onnea matkaan.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Jos olet riittävän nokkela, löydät varmasti avaimeni. Jos ei lanttu leikkaa, niin vertauskuvallinen hukka sinut periköön.
+
+# Act 1 name
+
+0x00000020 Kohtaa Pulmaherra
+
+# 'Adventure lost' message
+
+0x00000012 Älä nyt vielä luovuta. Käytä myös käsiäsi.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Näemme varmasti pian uudelleen. Sen lupaan.
+
+# Act 3 name
+
+0x00000024 Löysin sen!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Olet totisesti melkoisen isoaivoinen otus.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 Olet varmaan samaa mieltä kanssani.
+
+# Adventure description
+
+0x00000003 Pulmaherra haastaa sinut koettelemaan nokkeluuttasi. Saatko palautettua hänen mysteeriavaimensa?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 pulma, Pulmaherra, portit, avaimet
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Kas, löysit avaimeni. Aikamoista.
+
+# Act 4 name
+
+0x00000102 Superhienoa!
+
+# Act 1 description
+
+0x00000021 Koskaan ei voi tietää, mitä Pulmaherran esitykseen seuraavaksi kuuluu. Mitähän hänen mysteeriteltassaan tällä kertaa on?
+
+# Act 4 description
+
+0x00000103 Pulmaherra on melkoisen vaikuttunut!
+
+# 'Adventure start' message
+
+0x00000010 Pulmaherra vaeltaa pitkin galaksia hämmentäen niin nuoria kuin vanhojakin. Mitähän haasteita hänellä onkaan tälle karulle planeetalle?
+
+# Act 2 name
+
+0x00000100 Mysteeriavain
+

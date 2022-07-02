@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Stadt erobern
+0x04D19085 Stadt konvertieren
+0x04D1912C Handelsroute vorschlagen
+0x04D19177 Mit Stadt handeln
+0x0563CE33 Stadt erobern (nicht erreichbar)
+0x0563CE86 Stadt konvertieren (nicht erreichbar)
+0x0563CEC2 Handelsroute vorschlagen (nicht erreichen)
+0x05F4FC30 Handelsroute eröffnen
+0x06776CA9 Stadt konvertieren (automatisch Unterhaltungsgebäude anvisieren, um die Zufriedenheit zu senken)
+0x04D19086 Stadt konvertieren (Zu große Zufriedenheit - Unterhaltungsgebäude zuerst anvisieren)
+
+# Tutorial Buy Sea Unit
+
+0x058C7643 Klicke auf den Stadtplaner-Button und kaufe dein erstes Wasserfahrzeug.
+0x058C7644 Baue und kaufe ein Wasserfahrzeug!
+0x058C7642 Kaufen
+
+#######################################
+# NPC city hall
+
+0x052ECBE1 Stadt kaufen (mehr Handel benötigt)
+0x052ECBE2 Stadt kaufen (Handelsroute benötigt)
+0x04D194FE Geschenk überreichen
+0x04D1956A Stadt kaufen
+0x04D29B0C Kontakt
+
+# Tutorial Claim Node
+
+0x058B486B Wähle ein Fahrzeug aus und rechtsklicke auf einen Gewürzgeysir, um diesen zu erobern.
+0x058B486C Besetze einen Gewürzgeysir.
+0x058B486A Besetzen
+
+############################################################ pie menus
+
+0x06A56B8F Besteche die Arbeiter
+
+# Tutorial Religious Capture
+
+0x058C968E Konvertiere eine feindliche Stadt.
+0x058C968C Erobern
+0x058C968D Baue religiöse Fahrzeuge, klicke auf eine feindliche Stadt und wähle "Stadt konvertieren". Religiöse Fahrzeuge können auch einzelne Gebäude einer Stadt deaktivieren, damit sie deinen Angriff nicht aufhalten.
+
+#######################################
+# wall
+
+0x04D195B2 Reparieren
+
+#######################################
+# city hall
+
+0x058B5210 Glaubensheilung $~currency_number~
+0x058B5211 Schwarzer Regen $~currency_number~
+0x058B5212 Korruption und Konfusion $~currency_number~
+0x058B5213 Werbekampagne $~currency_number~
+0x058B5214 Globale Fusion $~currency_number~
+0x05763FE4 Taktischer Auroraangriff $~currency_number~
+0x056B8A99 Aufstieg des Messias $~currency_number~
+0x04E41707 Globaler Interkontinentalraketen-Angriff $~currency_number~
+0x04D2B633 Stadtausstatter
+0x04D191CF Gebäude kaufen
+0x04D192DC Fahrzeuge kaufen
+0x04D19342 Aufbruch in den Weltraum
+0x058B51F4 Napalmbombe $~currency_number~
+
+# Tutorial Economic Capture
+
+0x058C96A4 Kaufe eine feindliche Stadt.
+0x058C96A3 Baue Wirtschaftsfahrzeuge, klicke auf eine feindliche Stadt und wähle "Handelsroute vorschlagen". Hast du genug Handel getrieben, bietet die Stadt dir an, sie zu kaufen.
+0x058C96A2 Erobern
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Stilllegen
+0x04D960BB Möchtest du die gewählten Fahrzeuge stilllegen?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Baue dein Raumschiff
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Militärisch
+0x04D175CB Religiös
+0x04D175CC Wirtschaftlich
+0x04D175CD Erntemaschine
+
+# Tutorial Happy City
+
+0x058C75FF Entwirf eine zufriedene Stadt.
+0x058C75FE Klicke auf den Stadtplaner-Button und baue mit Häusern verbundene Unterhaltungsgebäude.
+0x058C75FD Entwerfen
+
+#######################################
+# building menu
+
+0x04E50472 Gebäude verkaufen für $~currency_number~
+0x04D1A21D Abreißen
+
+# Tutorial Military Capture
+
+0x058C9724 Erobere eine feindliche Stadt.
+0x058C9723 Baue Militärfahrzeuge, klicke auf eine feindliche Stadt und wähle "Stadt erobern". Je größer deine Armee ist, desto größer sind deine Erfolgsaussichten.
+0x058C9722 Erobern
+
+#######################################
+# vehicle limit
+
+0x04D1A4A7 Flottenlimit erreicht
+0x04D1A4AE Du hast deine Flottengrenze für diese Fahrzeugart erreicht.  Um die Grenze zu erweitern, erobere weitere Städte desselben Typs.~br~Tipp: Du kannst Fahrzeuge auch stilllegen. Markiere dazu die gewünschten Fahrzeuge und drücke ENTF.
+
+# Tutorial Profitable City
+
+0x058B71B6 Designe eine profitable Stadt.
+0x058B71B5 Klicke auf den Stadtplaner-Button in deinem Rathaus und füge miteinander verbundene Häuser und Fabriken hinzu, damit deine Stadt mehr Gewinn abwirft.
+0x058B71B4 Entwerfen
+
+# Tutorial Capture All
+
+0x0590C22A Erobere alle Städte.
+0x0590C229 Erobere alle Städte auf dem Planeten, um zu siegen!
+0x0590C228 Erobern
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Kaufe dein erstes Fahrzeug.
+0x05C18512 Klicke auf den Stadtplaner-Button, um dein erstes Fahrzeug zu kaufen.
+0x05C18502 Kaufen
+
+# Tutorial Buy Land Unit
+
+0x058C7628 Kaufe ein weiteres Landfahrzeug.
+0x058C7626 Kaufen
+0x058C7627 Klicke auf den Stadtplaner-Button, um ein weiteres Landfahrzeug zu kaufen.
+
+# Tutorial Buy Air Unit
+
+0x058C765C Klicke auf den Stadtplaner-Button und erstelle dein erstes Luftfahrzeug.
+0x058C765D Baue und kaufe ein Luftfahrzeug!
+0x058C765B Kaufen
+
+#######################################
+# player lost
+
+0x04D1A8A8 Du hast deine letzte Stadt an einen Gegner verloren!
+

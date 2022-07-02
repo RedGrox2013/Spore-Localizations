@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Bom o Suficiente
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Tutoriais
+0x058B62B1 Dicas de Jogo
+0x058B62B2 Rolagem de Margem
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Padrões
+0x0474E6B5 Configurações Gráficas
+0x0474E6B6 Baixo
+0x0474E6C2 Médio
+0x0474E6C6 Alto
+0x0474E6CC Sombras
+0x0474E6D0 Detalhes de Textura
+0x0474E6D6 Efeitos Gráficos
+0x0474E6DE Qualidade do Modelo do Jogador
+0x0474E6E4 Qualidade do Planeta
+0x0474E6E5 Qualidade da Iluminação
+0x0474E6E9 Tamanho da Tela
+0x0474E6F0 Perfis
+0x058A2A2B Alterar o tamanho da tela faz que seja necessário reiniciar o jogo e pode afetar o seu desempenho.
+0x058B6240 Modo Tela Cheia
+0x058B624C Modo Janela
+0x0474E6ED Cache Gráfico (MB)
+0xBBFC7687 Profundidade de Campo
+0x0674D28F Efeito de Brilho
+0x066A4BC8 Antialiasing
+0x0695A585 Command-Return alterna entre os modos de exibição em janela e tela cheia.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Mova a Nave
+0x080B23B8 Mude a Altitude da Nave
+0x080B23B7 Gire e Mova a Câmera
+0x080B23B2 Civilização
+0x080B23B3 Selecione o Alvo
+0x080B23B4 Ative a Ferramenta
+0x090A24A7 Mover Câmera
+0x090A23A3 Mover Criatura
+0x090A28A7 Selecionar um Veículo
+0x090A28A6 Escolha um Membro de Tribo
+0x090A26A9 Gire e Mova a Câmera
+0x088B63B6 Criatura
+0x090A21A6 Dar Orientações
+0x088B63B9 Tribo
+0x088B63B7 Clique aqui para atribuir a rotação ao botão direito do mouse
+0x090A29A7 Mover a Célula
+0x090A50AA Clique e arraste com o botão esquerdo do mouse ou use as teclas W, A, S, e D
+0x090A50A6 Gire a roda do mouse
+0x090A50A5 Clique e arraste com o botão direito do mouse
+0x090A50A7 Clique e arraste com ambos os botões do mouse
+0x090A50A8 Clique e arraste com o botão direito do mouse ou use as teclas W, A, S, e D
+0x090A50A9 A Criatura Segue o Cursor
+0x090A50A1 Use as teclas W, A, S e D
+0x090A30B5 Selecionar Veículos com Retângulo
+0x090A30B4 Selecionar Membros da Tribo com Retângulo
+0x090A50A4 Clique com o botão direito do mouse
+0x090A50A3 Clique e arraste com o botão esquerdo do mouse
+0x090A50A2 Clique com o botão esquerdo do mouse
+0x088B63B3 Célula
+0x080B23B9 Espaço
+0x088B63B4 Clique aqui para seguir automaticamente o cursor
+0x088B63B5 Passe o cursor sobre os ícones abaixo para ver como funcionam
+0x090A50AB Mantenha as teclas Command, Option e o Botão Esquerdo do Mouse pressionados
+0x090A50AC Pressione o botão central do mouse
+
+#### profile - user selects ####
+
+0x0474E6FC Escolha do Usuário
+
+#### profile - performance ####
+
+0x0474E6F1 Desempenho
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Desconectar
+0x0565289E Conectar
+0x0565289F Registrar
+0x056528A0 Conexão com o Servidor
+0x056528A4 Não-registrado
+0x056528A6 Off-line
+0x056528A8 ~generic0~ Conectado
+0x058B63D4 Combinação Estética
+0x056528A1 condição:
+0x056528A7 Conectar ao Spore.
+0x056528A5 Crie uma conta para conectar-se ao Spore.
+0x05E39554 Atualizando o banco de dados de conteúdo...
+0x058B63D3 Apenas Conteúdo de Amigos
+0x056528A2 Opções On-line
+0x056528A3 Perguntar ao iniciar
+0x067A21D9 Dias.
+0x067A21D8 Fazer somente o download de conteúdo de inscrições mais recentes do que este número de dias:
+0x0626E390 Excluir~br~Downloads Antigos
+0x0626E391 Dias, após o download, para excluir o arquivo
+0x0626E392 Copiar excluídos para a pasta de arquivo
+0x056528A9 Desconectar do Spore ou~br~mudar de usuário.
+0x067A21D7 Tamanho do Cache (MB)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Configurações de Áudio
+0x0473EF2C Configurações Gráficas
+0x0473EF2D Configurações de Jogo
+0x0473EF2E Configurações de Captura
+0x0473EF2F Configurações On-line
+0x0473EF30 Créditos
+0x0473EF31 Salvar suas configurações
+0x0473EF32 Fechar a tela Opções sem salvar
+0x0473EF33 Configurações
+0x0473EF34 Configurações de Controles
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Conecte-me automaticamente ao YouTube
+0x0589E518 Tamanho do Filme
+0x0589E51C Tamanho da Imagem
+0x0589E51D Pequeno
+0x0589E51E Médio
+0x0589E51F Grande
+0x058B6381 Configurações de Jogo e Captura
+0x058B63A0 Capturar Filme Sem Áudio
+0x05D1185C Opções de Jogo e Ajuda
+0x0631825F Se você aceitou os locais-padrão indicados durante a instalação, poderá encontrar suas imagens e filmes capturados em ~generic0~
+
+#### profile - image quality ####
+
+0x0474E6F5 Qualidade da Imagem
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D893 Vozes
+0x0431D894 Efeitos Sonoros
+0x0431D897 Mix
+0x0431D899 2 caixas (estéreo)
+0x0431D89A 4 caixas (quadri)
+0x0431D89B caixas 5.1 (surround)
+0x0431D895 Música
+0x0431D89C Qualidade Sonora
+0x0431D89D Volume de todos os sons
+0x0431D89E Volume da música do jogo
+0x0431D89F Volume da voz das criaturas
+0x0431D8A0 Volume dos efeitos sonoros
+0x0431D898 Configuração das Caixas Acústicas
+0x0431D896 Silenciar Tudo
+0x0431D892 Principal
+0x0431D8A1 É necessário estar na Tela Galáxia Spore para alterar a Configuração das Caixas Acústicas
+
+## Mac version
+
+0x06318D68 Se você aceitou os locais-padrão indicados durante a instalação, poderá encontrar suas imagens e filmes capturados, no diretório Minhas Criações Spore/ localizado na pasta Documentos em seu diretório principal.
+

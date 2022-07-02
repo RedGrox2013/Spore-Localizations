@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7C -A
+0x05D66E7D -B
+
+#######################################
+# Animal types
+
+0x03EBF7A8 Rozumny
+0x03EBF7A9 Roślinożerca
+0x03EBF7AA Mięsożerca
+0x03EBF7AB Wszystkożerca
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 Sprzymierzeńcy
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF07F Rzuć proszę okiem na nasze doskonałe towary.
+0x043AF080 Naprawdę przydałoby się nam trochę żółtej.
+0x043AF03A Czerwona przyprawa
+0x043AF038 Rzuć, proszę, okiem na nasze doskonałe towary.
+0x043AF039 Jakże mocno pragniemy czerwonej przyprawy.
+0x043AF084 Zielona przyprawa
+0x043AF085 Mieliśmy w tym roku znakomite zbiory różowej przyprawy. Chyba nie przegapisz takiej okazji?
+0x043AF083 Nasz przywódca pragnie się dowiedzieć, czy nie masz trochę zielonej...
+0x043AF081 Żółta przyprawa
+0x043AF082 Przeskanowaliśmy twoją ładownię. Czy widzisz tu coś, co mogłoby cię zainteresować?
+0x043AEF67 Masz trochę purpurowej?
+0x043AEF68 Purpurowa przyprawa
+0x043AEF66 Mamy specjalną ofertę dotyczącą purpurowej przyprawy.
+0x043AF086 Różowa daje nam siłę. Różowa daje nam szczęście. Szkoda, że żadnej nie mamy.
+0x043AF42C Błękitna przyprawa
+0x043AF087 Różowa przyprawa
+0x043AF42A Zastanawialiśmy się, czy nie masz pod macką odrobiny błękitnej przyprawy.
+0x043AF42B Rzuć proszę okiem na nasze doskonałe towary. Na pewno dobijemy targu.
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF504 pas asteroidów
+0x043AF505 i
+0x043AF4FA tu
+0x043AF4FB gwiazda o nazwie ~star_name~
+0x043AF4FF układ protoplanetarny o nazwie ~star_name~
+0x043AF500 jądro galaktyki
+0x043AF501 gazowy olbrzym
+0x043AF4FC tunel o nazwie ~star_name~
+0x043AF4FD wielka gwiazda o nazwie ~star_name~
+0x043AF4FE jaką jest czerwona gwiazda o nazwie ~star_name~
+
+#random string for spg
+
+0x068B22CD Nie jest to możliwe w tym układzie.
+
+#######################################
+# Filters
+
+0x031791AF Moje imperium
+0x031791B2 Imperia
+0x031791B3 Misje
+0x031791B4 Trasa podróży
+0x0563D2AA Odwiedzone
+0x0563D2AB Sprzymierzeńcy i wrogowie
+
+#######################################
+# Plant types
+
+0x03EBF7AC Mała roślina
+0x03EBF7AD Średnia roślina
+0x03EBF7AE Duża roślina
+
+#######################################
+# Tech Levels
+
+0x03EAC03E Kosmiczna
+0x03EAC03B Plemienna
+0x03EAC03C Miejska
+0x03EAC03D Cywilizacyjna
+0x03EAC03A Dzika
+0x03EAC039 Jałowa
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x0539AA97 Nisza roślinożercy
+0x0539AA96 Nisza dużej roślina
+0x0539AAE8 Aby odblokować, wypełnij nisze roślin
+0x0539AA98 Nisza mięsożercy/wszystkożercy
+0x0539AA95 Nisza średniej rośliny
+0x0539AA94 Nisza małej rośliny
+0x0473CB22 Mięsożercy
+0x0473CB26 Gęsta atmosfera
+0x0473CB2A Brak atmosfery
+0x0473CB1A Rośliny
+0x0473CB1F Roślinożercy
+0x0473CB2E Niska temperatura
+0x0473CB32 Wysoka temperatura
+0x061DFE83 Aby odblokować, wypełnij poprzedni rząd
+0x03E81C65 Nieodblokowane
+
+#player titles
+
+0x05AC5B73 Istota Najwyższa
+0x05AC5B01 Kapitan
+0x05AC5B64 Wielki
+0x05AC5B2E Admirał
+0x05AC5B58 Czcigodny
+0x05AC5B5F Słynny
+0x05AC5B20 Komodor
+0x05AC5B1B Komandor
+0x05AC5B68 Legendarny
+0x05AC5B6F Wszechpotężny
+0x05AC5B78 Wszechmocny
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF3 Badanie
+0x05879DF4 Uzbrojenie
+0x05879DF8 Dyplomacja
+0x05879DF7 Kolonizowanie
+0x05879DFA Specjalne
+0x05879DF9 Kult
+0x05879DF5 Terraformowanie
+0x05879DF6 Tworzenie
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 Czy na pewno chcesz zniszczyć ten ładunek?
+0x03E81C55 Wyrzuć ładunek
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000007 Berło
+0x04000006 Talerz
+0x04000000 Złoty posąg
+0x04000001 Kufer
+0x04000005 Lama
+0x04000010 Zapłata za dostawę
+0x04000009 Puchar
+0x04000004 Graal
+0x04000008 Śnieżka
+0x04000003 Gnom
+0x04000002 Korona
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6B Zdejmij hologram
+0x03E81C6A Terraformowanie
+0x03E81C6C Holograficzny zwiadowca
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A Odległość: ~travel_distance~(pc)
+
+0x065672CB Dostępne do nabycia. Znajdź imperium, które sprzedaje to narzędzie.
+0x0657C8D4 Aby zapisać grę, musisz opuścić planetę.
+0x0657CC21 ~badge_points~ pkt. odznak
+0x065B76EF ~p~Odblokowuje:
+0x0580E601 Twoje imperium
+
+#######################################
+# Misc Rollovers
+
+0x0654CB0A Postęp szlaku handlowego
+0x0654CB16 Planeta ~planet_name~ nie poddała się
+0x0654CB13 Planeta ~planet_name~ poddała się
+0x0654CB0F Postęp podboju
+0x06749C10 Roboty strażniczy
+0x0678CDDF Pirat
+
+#tool given
+
+0x06538847 Zebrano: ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC682 T1
+0x03EAC681 T0
+0x03EAC683 T2
+0x03EAC684 T3
+
+#######################################
+# Progress bar rollover
+
+0x0435ECE0 Liczba odznak: ~badge_count~
+0x0436D447 Punkty odznak: ~badge_points~
+0x0435ECEB Liczba misji: ~mission_count~
+0x0435ECE5 Liczba kolonii: ~colony_count~
+0x0435ECE8 Liczba kohort: faza plemienia: ~tribe_worshipper_count~, faza cywilizacji: ~civ_worshipper_count~, faza kosmosu: ~ally_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x063C3D96 Niczyj
+0x06748F94 Zajęty
+0x03F5A128 Kometa
+
+#######################################
+# Comm/Trade fail text
+
+0x06790598 Handel niemożliwy.
+0x0679ED24 Za mało pieniędzy.
+0x0679F573 Naprawa podczas wojny niemożliwa.
+0x06790599 Ulepsz stosunki, aby handlować.
+0x0679F574 Uzupełnianie energii podczas wojny niemożliwe.
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9958 ~commodity_tool_req~ lub ~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~ i ~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~ i ~commodity_tool_and_req~ lub ~commodity_tool_or_req~
+0x065B8F3D odznaki ~commodity_badge_req~ i ~commodity_badge_and_req~
+0x065B8F44 odznaki ~commodity_badge_req~ i ~commodity_badge_and_req~ lub odznaka ~commodity_badge_or_req~
+0x065B9969 ~commodity_badge_reqs~ i ~commodity_tool_reqs~
+0x065BD251 odznaka ~commodity_badge_req~
+0x065B8F36 odznaki: ~commodity_badge_req~ lub ~commodity_badge_or_req~
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (za darmo)
+
+#######################################
+# space - city piemenu
+
+0x0510B24F Modyfikuj statek kosmiczny
+0x043DB6B9 Sprzedaj kolonię (~cost~)
+0x043DB6B5 Napraw budynek (~cost~)
+0x043DB6B7 Napraw statek (~cost~)
+0x043DB6B8 Kupuj budynki
+0x04C82968 Przydzielanie wyposażenia
+0x043DB6B2 Napraw wieżyczkę (~cost~)
+0x043DB6B3 Zniszcz
+0x043DB6B4 Sprzedaj budynek (~cost~)
+0x043DB6B1 Sprzedaj wieżyczkę (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x04729A65 Niezbadana
+0x03EAFDD3 z planety ~item_planet_name~
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 Niezainteresowani.
+0x0679EAC6 Twoja ładownia jest pełna.
+
+#######################################
+# Tool Fail Text
+
+0x0653E5A0 Celem nie może być planeta macierzysta.
+0x0653E59F Potrzebny wyższy typ planety.
+0x0653E59E Celem musi być dzika planeta.
+0x0653E598 Brak wolnych miejsc we flocie.
+0x0653E599 Masz już Mini-Ty.
+0x0653E597 Celem musi być kolonia obcej cywilizacji.
+0x0653E59D Celem nie może być rezerwat przyrody.
+0x0653E59A Do systemu musi prowadzić szlak handlowy.
+0x0653E59B Musi być na planecie z najwyższym poziomem technologii w układzie.
+0x0653E596 Celem musi być planeta imperium.
+0x0653E595 Ładowanie.
+0x0653E593 Musi znajdować się na planecie.
+0x0671CE05 Na planecie musi żyć jakiś gatunek zwierzęcia.
+0x0671FB24 Na tej planecie nie można użyć monolitu!
+0x066F7A20 Jesteś zbyt wysoko.
+0x066F7A21 W tym układzie słonecznym już żyją istoty rozumne.
+0x066F7A22 Bieżący typ planety uniemożliwia założenie następnej kolonii.
+0x066F7A1D Pełny zapas energii.
+0x066F7A1E Nie można używać nad miastem.
+0x066F7A1F Nie można używać nad wodą.
+0x066F7A1A Celem musi być jedna z Twoich kolonii.
+0x066F7A1B Można mieć tylko jeden egzemplarz na planetę.
+0x066F7A1C Statek w pełni sprawny.
+0x0653E59C Celem nie może być układ imperium.
+0x0653E594 Brak
+
+# used to name the Galactic Core.
+
+0x0591BD91 Jądro galaktyki
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF508 1.
+0x043AF509 2.
+0x043AF50A 3.
+0x043AF507 0.
+0x043AF50E 7.
+0x043AF50F 8.
+0x043AF510 9.
+0x043AF50B 4.
+0x043AF50C 5.
+0x043AF50D 6.
+0x043AF526 W toku
+0x043AF527 Ukończona
+0x043AF52B Odznaka
+0x043AF528 Nieudana
+0x043AF529 Misja
+0x043AF52A Alarm
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EECF Ulepsz typ planety, aby odblokować
+0x0678EED0 Miejsce na kolonię
+
+#######################################
+# Roll overs
+
+0x04359B0F Minimapa
+0x04359B05 Terraformowanie
+0x048662B4 Filtry mapy gwiezdnej
+0x045FFE85 Opcje
+0x045FFE89 Pomoc
+0x045FFE8E Wstrzymaj/wznów
+0x061ECCF0 Możliwości statku kosmicznego
+0x03E81C5F Uzbrojenie
+0x03E81C5E Ładunek
+0x03E81C60 Narzędzia główne
+0x03E81C62 Modyfikuj statek kosmiczny
+0x03E81C61 Przełącznik Sporpedii
+0x03E81C5C Narzędzia przekształcania
+0x03E81C5B Opcje statku kosmicznego
+0x03E81C5D Nawiąż łączność
+
+#######################################
+# colony object names
+
+0x4A1E2E7B Wzmacniacz zadowolenia
+0xB4150FEB Magazyn przyprawy
+0x44B420E4 Wzmacniacz lojalności
+0xF55D419A Bioprotektor
+0x405DC1DF Rezerwat Przyrody
+0xE4EC3F34 Satelita obronny
+0x3AAB4C0E Ambasada
+0xB7D22F27 Biostabilizator
+
+#######################################
+# Our Solar System
+
+0x03F5A0B8 Saturn
+0x03F5A0B5 Mars
+0x03F5A0B9 Tytan
+0x03F5A0BA Uran
+0x03F5A0B7 Ganimedes
+0x03F5A0B6 Jowisz
+0x03F5A0B1 Merkury
+0x03F5A0B0 Słońce
+0x03F5A0B4 Księżyc
+0x03F5A0B2 Wenus
+0x03F5A0B3 Ziemia
+0x03F5A0BE Kometa Shoemaker-Levy 2
+0x03F5A0C0 Kometa Kohoutka
+0x03F5A0BC Kometa Halleya
+0x03F5A0BB Neptun
+0x03F5A0C2 Kometa Borrelly’ego
+0x03F5A0BD Kometa Hale’a-Boppa
+

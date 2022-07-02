@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 Tähtijärjestelmän ~star_name~ planeetalla ~planet_name~ asuva laji on kehittynyt ja perustanut sivilisaation.
+0x06771171 Tähtijärjestelmän ~star_name~ planeetalla ~planet_name~ asuva laji on kehittynyt ja lähtenyt tutkimaan avaruutta.
+0x067710B2 Tähtijärjestelmän ~star_name~ planeetalla ~planet_name~ asuva laji on kehittynyt ja muodostanut heimon.
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Ansiomerkki avattu
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Voit käyttää laitetta vain, jos läsnä on eläin!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Ansaitsit oikeuden lisätä laivastoosi liittolaisaluksen.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Voit käyttää laitetta vain valtakuntasi planeetoilla.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD Siirtokunta on liian kaukana rohdosta.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Et voi käyttää laitetta veden yllä.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Kerätty rohtoa.
+
+#standard....
+
+0x0000000B Tutkimusmatkasi joutui juuri taloudelliseen ahdinkoon. Parasta, että odottelet hinausalusta. [not in use]
+0x00000016 Tuhoat omia rakennuksiasi.
+0x00000035 Eräs liittolaisesi alus tuhottiin!
+0x00000003 Liittolaisesi lähetti laivueeseesi uuden aluksen.
+0x0000001A ~race~ on purkanut yhteistyösopimuksenne.
+0x04D28917 Saatavilla on uusia laitteita.
+0x04E3AB1A Et voi sijoittaa sitä siirtokuntaan.
+0x00000034 Rahasi eivät riitä toiminnon käyttämiseen.
+0x00000008 ~count~ planeetan ~tribe_count~ ~^p^count^heimosta^heimosta~ ~^p^count^palvoo^palvoo~ sinua! [not in use]
+0x04F7B80D Kohota planeetan ~planet_name~ maankaltaisuusluokkaa, jotta valittu kohde selviää planeetalla.
+0x00000006 Väärä profeetta! Heimon mielestä uskontosi on ihan mäntti. [not in use]
+0x06159AE6 ~race~ on menettämässä kiinnostuksensa liittoumaanne. Vieraile valtakunnassa.
+0x00000002 Sinulla taitaa olla jo riittävästi apua, joten yksi liittolaisaluksista palasi kotiin.
+0x00000037 Se jota ammutaan, ampuu ennen pitkää takaisin.
+0x0000001C Lastiruumasi on täynnä. Tyhjennä rahtiosastoja.
+0x0000000C Korjaa avaruusaluksesi jossain liittolaissiirtokunnissasi.
+0x00000022 ~generic_name~ nääntyi nälkään ja koko laji kuoli sukupuuttoon.
+0x00000010 Sinulla on nyt ~rare_name~. Se kuuluu ~rare_count~ esineen kokoelmaan ~rare_group~.
+0x0000000F Planeetta ei kykene ylläpitämään siirtokuntia ennen kuin kohennat sen maankaltaisuusluokkaa.
+0x00000045 Kropojen huomiomittari notkahti juuri kohdallasi osoittamaan hitusen uhkaavaa otusta.
+0x00000036 On löytynyt loistava uusi muinaisjäänne.
+0x00000019 Palaa kotiplaneetallesi. Sinulle on uusi tehtävä.
+0x061DBC92 Kohde on kantaman ulkopuolella.
+0x04E39F9A Näitä voi olla vain yksi kullakin planeetalla.
+0x00000017 Kaikki planeetan ~planet_name~ heimot palvovat sinua! [not in use]
+0x04EA4FD8 Tapoit planeetan kropot maankaltaistamalla planeetan maankaltaisuusluokkaan T1.
+0x0541A247 Viimeistelit osan ekosysteemiä, joten voit perustaa aiempaa parempia siirtokuntia.
+0x04F615F5 Jos haluat tallentaa, sinun pitää poistua planeetalta.
+0x04EA4FD9 Luotaimesi eivät tunnista planeetan asukkaita. Palaa kotiplaneetallesi raportoimaan.
+0x0000000D Planeetan ~planet_name~ maankaltaisuusluokka on nyt ~terraform_level~.
+0x00000047 Kropojen huomiomittari osoittaa kohdallasi hitusen uhkaavaa otusta.
+0x00000004 ~race~ on julistanut sinulle sodan. Valmistaudu taisteluun.
+0x065BCDA0 Varoitus: Esineiden varastaminen vierailta planeetoilta suututtaa valtakunnan, joka hallitsee planeettaa.
+0x00000042 Kropojen huomiomittari nousi juuri kohdallasi osoittamaan otusta, joka ei kyllä uhkaa mitään eikä ketään.
+0x00000048 Kropojen huomiomittari osoittaa kohdallasi karmivan uhkaavaa otusta.
+0x0000001F ~generic_name~ kuoli sukupuuttoon. Sijoitat kohteet liian lähelle toisiaan. Koeta sijoittaa kohde planeetan toiselle puolelle. [not in use]
+0x0000001B Hengissäpitolaitteet reistaavat!
+0x00000020 ~generic_name~ kuoli sukupuuttoon kasvien puutteen takia.
+0x0546A708 Tälle luonnonsuojelualueelle ei voi lisätä enempää eläimiä.
+0x065BCDA7 Varoitus: Kansalaisten sieppaaminen suututtaa valtakunnan, johon siepattu kansalainen kuuluu.
+0x00000032 Voit kohentaa siirtokuntaasi lisäämällä rakennuksen.
+0x05C2BC26 Voit kehittää planeettaa vasta, kun olet täyttänyt vähintään yhden rivin kasveja ja eläimiä.
+0x04F77C3E Valittu laji esiintyy jo tässä kohteessa.
+0x04F7B030 Valittu lihansyöjä ei selviä tällä planeetalla. Lisää enemmän kasvinsyöjiä.
+0x04E3AAFD Kohde on sijoitettava maalle.
+0x06527A69 ~race~ on sulkenut kauppareittinne.
+0x06527A66 ~race~ on menettämässä kiinnostuksensa kauppareittiisi. Kohenna valtakuntienne suhdetta.
+0x0000000E Luotauksesi onnistui. Kaikki tietosi tallentuvat Spore-keskukseen.
+0x06037BB6 Jokin planeetan lajeista kuoli sukupuuttoon vedenpinnan noustua.
+0x0541A219 Vakautit planeetan maankaltaisuusluokan.
+0x00000021 ~generic_name~ kuoli sukupuuttoon.
+0x00000011 Hälytys! Kaapparit ovat hyökänneet planeetalle ~planet_name~.
+0x04BD78A5 Planeetalla ei ole vihamielisiä otuksia, joita vastaan liittolaisesi voisivat taistella.
+0x00000049 ~race~ peruutti antamansa tehtävän, koska suhteemme on kiristynyt.
+0x04BD7870 Sinulla ei ole liittolaisia, jotka voisivat tulla avuksesi.
+0x04BD78A0 Liittolaisesi ovat jo apunasi.
+0x00000043 Kropojen huomiomittari notkahti juuri kohdallasi osoittamaan otusta, joka ei kyllä uhkaa mitään eikä ketään.
+0x00000028 Kasvit eivät selviä veden alla. Ne pitää sijoittaa maalle.
+0x05483AB4 Olet lisännyt luonnonsuojelualueellesi lajin ~creature_name~. Luonnonsuojelualueella on ~animal_count~/~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ mahdollisesta eläimestä.
+0x0000001E Maankaltaisuusluokka on laskenut, ja jokin planeetan eliöistä on kuollut sukupuuttoon.
+0x0000004A Kohde on aivan liian myrkyllinen lastiruumaasi. Käynnistetään polttimia...
+0x0000003C Epäonnistuit tämän kaupungin käännyttämisessä. Kokeile toista kaupunkia. [not in use]
+0x00000026 Levitä sanaa, mutta planeetta kerrallaan sitten.
+0x00000027 Älä pudottele siepattuja otuksia, jos et halua tappaa niitä. Siirrä ne alas varoen.
+0x0000001D Laitteeseen ~tool_name~ löytyi ~count~ akkua!
+0x0000003B Sinua palvotaan nyt planeetan kaikissa kaupungeissa! [not in use]
+0x05807D8E ~race~ on päättänyt sotansa kanssasi.
+0x0000003A Et todellakaan voi asettua tänne. Tähtijärjestelmä ~star_name~ kuuluu jo toiselle lajille.
+0x00000018 Perustit siirtokunnan planeetalle ~planet_name~!
+0x0000002D Jos pudotat otukset korkealta, ne kuolevat. Siirrä ne alas varoen.
+0x0000002F Siirtokunnat eivät selviä veden alla. Sijoita siirtokuntasi maan päälle.
+0x00000031 Planeetta on jo vallattu.
+0x0000002E Eläimet eivät selviä laavasta. Ne pitää sijoittaa maalle.
+0x00000046 Kropojen huomiomittari nousi kohdallasi osoittamaan karmivan uhkaavaa otusta.
+0x00000005 Palvojistasi planeetalla ~planet_name~ on tullut teknologinen yhteiskunta. [not in use]
+0x0000002A Kasvit eivät selviä laavasta. Ne pitää sijoittaa maalle.
+0x0591CCD5 Löysit harvinaisen galaktisen muodostelman.
+0x0591CCD6 Löysit ainutlaatuisen planeetan!
+0x00000044 Kropojen huomiomittari nousi kohdallasi osoittamaan hitusen uhkaavaa otusta.
+0x00000029 Tämä kasvi ei sovi kooltaan paikalliseen ekosysteemiin. Kokeile erikokoista kasvia.
+0x0637C896 Se on ansa! Kaapparit hyökkäsivät kimppuusi!
+0x0000002C Valittu kasvinsyöjä ei selviä tällä planeetalla. Lisää enemmän kasveja.
+0x0637C897 Kerätty: ~tool_name~.
+0x0000002B Laji ei selviä veden alla. Ne pitää sijoittaa maalle.
+0x00000039 ~count~ planeetan ~city_count~ ~^p^count^kaupungista^kaupungista~ ~^p^count^palvoo^palvoo~ sinua! [not in use]
+0x00000023 Vihollisen avaruusalus tuhottu!
+0x00000001 Et voi käyttää laitetta kotiplaneettaasi.
+0x057F4C52 Energia ei riitä laitteen käyttämiseen.
+0x04E38CF9 Voit käyttää laitetta vain omalla siirtokuntaplaneetalla.
+0x0580C3FA Voit käyttää laitetta vain toisten valtakuntien planeetoilla.
+0x06170F80 Laite edellyttää maalin toimiakseen.
+0x04ED0A12 Sait käyttöösi 42 erinomaista laitetta ja löysit harvinaisen galaktisen muodostelman.
+0x06707FAA Kyseinen ekologinen lokero on täynnä, joten se ei enää voi tukea uutta lajia.
+0x066F10AB Lähetys kotimaailmastasi!
+0x066F10B8 Lähetys siirtokunnastasi!
+0x00000025 ~race~ on ottanut haltuunsa tähtijärjestelmän ~star_name~ ja perustanut siirtokunnan uudelle planeetalle.
+0x05790C96 ~race~ haluaa viestiä kanssasi!
+0x00000024 ~race~ on menettänyt tähtijärjestelmän ~star_name~ hallinnan.
+0x0567757C Kauppakumppanisi tähtijärjestelmässä ~star_name~ pitävät sinua suuressa arvossa. ~race~ saattaa olla valmis diplomaattisiin neuvotteluihin.
+0x00000041 ~race~ on tuhottu.
+0x0000003F ~race~ on solminut liiton. ~race2~ on vastapuoli.
+0x0000003E ~race~ solmi rauhansopimuksen. ~race2~ on vastapuoli.
+0x00000040 ~race~ on purkanut liiton. ~race2~ on vastapuoli.
+0x0000003D ~race~ on nyt sodassa. ~race2~ on vastapuoli.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Et voi käyttää laitetta valtakuntasi planeetoilla.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 Siirtokunnat tulee sijoittaa lähelle rohtoesiintymiä.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Et voi käyttää laitetta luonnonsuojelualueella.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Tätä laitetta voi käyttää vain villeillä planeetoilla.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <kirjoita teksti tähän>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Laitetta ei voi käyttää kaupungin yläpuolella.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x0654CA48 Kaupunki on antautunut hallintaasi.
+0x0654C9DF Planeetta on antautunut, mutta tässä tähtijärjestelmässä on muitakin planeettoja.
+0x064C024E Kohota planeetan maankaltaisuusluokkaa, niin pääset siirtokuntaeditoriin. [not in use]
+0x065BAC9F Et voi käyttää laitetta jättiin.
+0x065BFFFA Lastiruumassasi ei ole enää tilaa rohdolle.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Sinulla on jo tämä kohde.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Laivastossasi ei ole riittävästi tilaa uudelle alukselle.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Et voi käyttää laitetta näin korkealta.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Voit käyttää laitetta vain järjestelmissä, joihin kulkee kauppareitti.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA Et voi käyttää laitetta, koska planeetan maankaltaisuusluokka on liian alhainen.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 Siirtokunta on liian lähellä rohtoesiintymää.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Et voi käyttää laitetta. Planeetta on korkeimmalla tasolla.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x03FFE7FB ~game_plant_name~ on luodattu jo aiemmin.
+0x03FFE7FF ~creature_name~ on luodattu ja lisätty Spore-keskuksen otusluetteloon.
+0x03FFE77B ~game_plant_name~ on luodattu ja lisätty Spore-keskuksen kasviluetteloon.
+0x03FFE803 ~creature_name~ on luodattu jo aiemmin.
+0x043AD9F2 ~ufo_name~ on luodattu jo aiemmin.
+0x043AD9E0 ~ufo_name~ on luodattu ja lisätty Spore-keskuksen avaruusalusluetteloon.
+0x04374114 ~building_name~ on luodattu ja lisätty Spore-keskuksen rakennusluetteloon.
+0x04374125 ~building_name~ on luodattu jo aiemmin.
+0x04377196 ~vehicle_name~ on luodattu jo aiemmin.
+0x04377191 ~vehicle_name~ on luodattu ja lisätty Spore-keskuksen kulkuneuvoluetteloon.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Et voi käyttää monoliittia tällä planeetalla.
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Et voi käyttää laitetta näin lähellä rakennelmaa.
+

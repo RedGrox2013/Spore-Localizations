@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000013 Energislag
+0x00000014 Slår målet. Bruker energi.
+
+# Part: Harpolizer
+
+0x00001047 En sang som forbedrer forhold og bruker lite energi.
+0x00001046 Inspirerende sang
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Gjør skapningen din nesten umulig å oppdage. Bruker energi når det er aktivt.
+0x00001042 Snikefelt
+
+### Complexity Meter ##
+
+0x07426209 For kompleks
+0x0742620A Fjern ekstra forekomster eller reduser antall unike modeller.
+0x05F110B4 Hvis denne måleren er full, kan du ikke legge til flere gjenstander.
+0x05F110B3 Kompleksitetsmåler
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 En sjarmering som forbedrer forhold og bruker lite energi.
+0x00000101 Holoformel
+
+# Part: Hop Gogs
+
+0x00001053 En dans som forbedrer forhold og bruker lite energi.
+0x00001052 Bedøvende dans
+
+# Part: Icy Band
+
+0x00001029 Fryser et mål en kort periode.
+0x00001028 Issalve
+
+# Part: Jump Jet
+
+0x00001044 Hoppjet
+0x00001045 Et meget høyt hopp som bruker middels mengde energi.
+
+# Part: Plasma Pulser
+
+0x00001006 Pulsstråle
+0x00001007 Fyrer av en konsentrert energipuls mot målet og bruker energi.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Kraftrustning
+0x00001015 Absorberer alle angrep og bruker mye energi.
+
+# Part: Hypnomelder
+
+0x00001024 Hjernebinding
+0x00001025 Gjør fiender vennligsinnede en kort periode.
+
+# Part: Fettipopper
+
+0x00001059 En posering som forbedrer forhold og bruker lite energi.
+0x00001058 Konfettiposering
+
+# Part: Imperial Robe
+
+0x00001036 Strålende posering
+0x00001037 En fin posering som hjelper til med å forbedre forhold.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Reduserer litt skade og bruker ikke energi.
+0x00001012 Kamprustning
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Fyrer av en rakett som skader området rundt målet. Bruker energi.
+0x00000001 Rakettangrep
+
+# Part: Regal Ring
+
+0x00001034 Kongelig sjarm
+0x00001035 En imponerende sjarmering som hjelper til med å forbedre forhold.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Påkaller en sverm med insekter som plager fienden.
+0x00001022 Påkall sverm
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energilager
+0x00001065 Øker total energikapasitet.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Helseregenerering
+0x00001019 Øker farten på helseregenereringen.
+0x00002012 ~icon_amount~ helse/sek
+
+# Part: Ducal Cape
+
+0x00001033 En vakker sang som hjelper til med å forbedre forhold.
+0x00001032 Harmonisk sang
+
+# Part: Regen-Deflector
+
+0x00001017 Konverterer en liten prosent av energien fra angrepene direkte til energi.
+0x00001016 Energiabsorpsjon
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Forbedrer hastigheten en kort periode og bruker lite energi.
+0x00001038 Supersprint
+
+# Part: Glider Pack
+
+0x00001041 Hold deg i luften litt lenger. Bruker lite energi.
+0x00001040 Sveving
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Lynnedslag
+0x00001001 Slår ut målet, gjør stor skade og bruker energi.
+
+# Part: Toxic Crystal
+
+0x00001026 Giftblad
+0x00001027 Sender ut en gift som gjør litt skade over tid.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Helseøkning
+0x00001021 Øker total helse.
+
+# Part: Danger Reductor
+
+0x00000020 Lager en beskyttende kule som reduserer påført skade og forbedrer energieffektiviteten.
+0x00000019 Skjoldgenerator
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 En elegant dans som hjelper deg med å forbedre forhold.
+0x00001030 Grasiøs vals
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Øker farten på energiregenereringen.
+0x00000010 Energiregenerering
+0x00000012 ~icon_amount~ energi/sek
+0x00000021 Skjold
+0x00000022 Noen ganger er forsvar det beste angrep.
+

@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x0757671A Start
+0x071877BA Sem přijde autorem vytvořený text DOBRODRUŽSTVÍ VYHRÁNO.
+0x07186066 ~ep1_adventure_lose~ ~br~ skóre: ~ep1_score~ ~br~ čas: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~ uloženo.
+0x070B1805 Restartovat
+0x070B17F3 Sem přijde autorem vytvořený text DOBRODRUŽSTVÍ PROHRÁNO.
+0x070B1800 Ukončit
+0x07959A07 Toto dobrodružství je možné uložit až tehdy, když bude ve světě platně umístěn kapitán.
+0x071877AD ~ep1_adventure_win~ ~br~ skóre: ~ep1_score~ ~br~ čas: ~ep1_time~
+0x07CCEEFC Posádka
+0x07B4DD6E Při tomto dobrodružství musí být kapitán ve světě na platném místě, jinak nebude možné hrát.
+0x071877C1 Autor tohoto dobrodružství mu ještě nevytvořil úvod.~p~V Tvoření dobrodružství klikněte na tlačítko Úvod na panelu Dějství a přidejte úvodní text.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Úkol nemá definované parametry.
+0x07D91076 Neplatný úkol
+
+# instance checks
+
+0x07D910E4 Úkol nelze použít na cíl, který je v dějství nastaven jako agresivní nebo místní.
+0x07D910E6 Úkol nelze použít pro obří příšerky.
+0x07D910E8 Úkol nelze použít na cíl, který se v dějství bude chovat nepřátelsky.
+0x07D910E1 Cíl se nachází v neplatném umístění.
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Všechno
+
+# Second, for buildings and vehicles
+
+0x07B51559 Donést…
+0x07B5154F Zničit
+0x07B51562 Dát…
+0x07B5155C Sebrat
+0x07B5154C Prozkoumat
+0x07B51549 Přejít
+0x07B51564 Blokovat…
+0x07B51567 Bránit
+0x07B55060 Prozkoumejte ~ep1_goal_target_name~
+0x07B55063 Zničte ~ep1_goal_target_name~ (zničeno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07B5505D Přejděte na ~ep1_goal_target_name~ (dokončeno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07B5506A Přineste ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B55076 Blokujte ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B55079 Braňte ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Sbírejte ~ep1_goal_target_name~ (sebráno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07B55073 Dejte ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A47 Přineste ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B52A49 Seberte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Prozkoumejte ~ep1_goal_target_name~
+0x07B52A44 Zničte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Dejte ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A4E Blokujte ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A3A Přejděte na ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Braňte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Zdraví cíle je v tomto ději nastaveno na hodnotu nezranitelný.
+0x07D910C4 Zdraví cíle je nastaven v tomto ději na nulu.
+0x07D910C0 V tomto ději je cíl nastaven jako neviditelný.
+0x07D910CB Úkol se netýká příšerek.
+0x07D910CD Úkol se netýká vozidel.
+0x07D910DA Úkol se netýká avatarů.
+0x07D910DD Alespoň jeden z cílů se musí pohybovat.
+0x07D910D8 Úkol se netýká herních předmětů.
+0x07D910CF Úkol se netýká budov.
+0x07D910D3 Úkol se netýká pevných předmětů.
+0x07D910D5 Úkol se netýká nepřenosných předmětů.
+
+# Special first half of give goal:
+
+0x079E8291 Najděte ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Plavidla nemůžete umístit na souš.
+0x07D8B21E Pozemní vozidla nemůžete umístit na vodu.
+0x07D8C654 Příšerky nemůžete dát na vodu.
+0x07D8C658 Předmět se nachází vysoko nad povrchem planety.
+
+# Goal strings used for mission cards
+
+0x0727D37F Chyba: Nenastaven úkol
+
+# Sculpt panel UI
+
+0x07316C0A Barvy planet
+0x07316C09 Počasí
+0x07316C0D Základní nástroje
+0x07316C0E Cesty
+0x07316C00 Povrch
+0x07316C04 Voda
+0x07316C05 Terraformace
+0x07316C01 Styly planet
+0x07316C02 Atmosféra
+0x0768A3E9 Světadíly a ostrovy
+0x0768A339 Oceány a jezera
+0x07316C03 Motivy
+0x07316C08 Rostlinstvo
+0x079EDFB9 Speciální
+0x07316C0C Řeky
+0x07316C0B Barvy povrchů
+0x07316C06 Hory
+0x07316C10 Pláže         #ODSTRANĚNY?
+0x07316C0F Kaňony      #ODSTRANĚNY?
+0x07B2739C Údolí
+0x07B280CB Kopce
+0x07B278FF Dlážděné cesty
+0x07B27900 Technické cesty
+0x07B27901 Náměstí
+0x07B278FD Prašné cesty
+0x07B278FE Cesty z kostek
+0x07316C07 Rostlinstvo
+
+# Third, for all other (tools)
+
+0x07968DE4 [Cíl nenastaven]
+0x07B51644 Bránit
+0x07B5163F Blokovat…
+0x07B51611 Prozkoumat
+0x07B5160C Přejít
+0x07B51628 Spojit…
+0x07B51637 Dát…
+0x07B51633 Držet
+0x07B5162D Sebrat
+0x07B52A65 Blokujte ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B52A68 Braňte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A61 Držte ~ep1_goal_target_name~
+0x07B52A63 Dejte ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A59 Přineste ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A5E Seberte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Prozkoumejte ~ep1_goal_target_name~
+0x07B55092 Blokujte ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B55095 Braňte ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508D Držte ~ep1_goal_target_name~
+0x07B5508F Dejte ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B55088 Doneste ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B5508A Seberte ~ep1_goal_target_name~ (sebráno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07B5507B Přejděte na ~ep1_goal_target_name~ (dokončeno ~ep1_goal_progress~ z ~ep1_goal_total~ )
+0x07B5507E Prozkoumejte ~ep1_goal_target_name~
+0x07B52A52 Přejděte na ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 Úkol 2 hotov
+0x07292A93 Úkol 3 hotov
+0x07292A8D Úkol 1 hotov
+0x07290AF0 Přídavek úkolu 1
+0x07290AF5 Přídavek úkolu 2
+0x07290AF8 Přídavek úkolu 3
+0x074BB7EC Dějství ~ep1_current_act~ z ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07D8FA97 Vozidla nemohou být příliš blízko přenosných předmětů.
+0x07D8FA93 Vozidla nemohou být příliš blízko statických ornamentů.
+0x07D8FA90 Vozidla nemohou být příliš blízko příšerek.
+0x07D8FA99 Vozidla nemohou být příliš blízko kamenů.
+0x07D8FAA1 Statické ornamenty nemohou být příliš blízko u vozidel.
+0x07D8FA9E Vozidla nemohou být příliš blízko u předmětů hry.
+0x07D8FA8D Vozidla nemohou být příliš blízko budov.
+0x07D8FA79 Příšerky nemohou stát příliš blízko statických ornamentů.
+0x07D8FA77 Příšerky nemohou být příliš blízko u sebe.
+0x07D8FA87 Vozidla nemohou být příliš blízko u sebe.
+0x07D8FA85 Budovy nemohou stát příliš blízko u vozidel.
+0x07D8FA82 Pod obrovské příšerky nemůžete dát budovy.
+0x07D8FAA8 Přenosné předměty nemohou být příliš blízko u sebe.
+0x07D8FAA5 Přenosné předměty nemohou být příliš blízko u vozidel.
+0x07D8FAA3 Statické ornamenty nemohou být příliš blízko u příšerek.
+0x07D8FA75 Obří příšerky nemohou být na budovách.
+0x07D8FA72 Příšerky nemohou stát příliš blízko vozidel.
+0x07DA2A90 Oba předměty jsou tak blízko u sebe, že jsou v dějství vidět ~ep1_visibility_intersect_act~.
+0x07D8FABB Herní předměty nemohou být příliš blízko u vozidel.
+0x07D8FAAA Přenosné předměty nemohou být příliš blízko u kamenů.
+0x07D8FAB2 Kameny nemohou být příliš blízko přenosných předmětů.
+0x07D8FAAF Kameny nemohou být příliš blízko postav.
+0x07D8FAAD Kameny nemohou být příliš blízko vozidel.
+0x07ECC0AB Kameny nemohou být tak blízko u sebe
+0x07D8FA7F Příšerky nemůžou být příliš blízko rostlinstva.
+0x07D8FA6F Tyto dva objekty u sebe nemohou být příliš blízko
+0x07D8FAB5 Rostlinstvo nemůže být příliš blízko příšerek.
+0x07D8FAB8 Rostlinstvo nemůže být příliš blízko vozidel.
+0x07D8FA9C Vozidla nemohou být příliš blízko rostlinstva.
+0x07D8FA7C Příšerky nemohou být příliš blízko kamenů.
+
+# Goal string for goal count combo box:
+
+0x07C53729 Všechno
+
+# inter-act checks
+
+0x07D91134 Úkoly Přinést a Blokovat ve stejném dějství nemohou mít stejný cíl.
+0x07D91132 Počet cílů úkolu je v rozporu s počtem cílů jiného úkolu v dějství.
+0x07D91130 Úkol je v tomto dějství duplicitní s jiným úkolem.
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B8 Bránit
+0x073C19B7 Zabraňte…
+0x073C19B6 Dejte…
+0x073C19AF Mluvte s kým
+0x073C19AE Přesuňte kam
+0x073C19B3 Doneste…
+0x073C19B1 Spřátelte se
+0x073C19B0 Zabte
+0x073C19B2 Spojte se…
+0x073C19B4 Nasbírejte
+
+# goal count checks
+
+0x07D9112B Počet cílů je "všechno", ale na světě neexistuje žádný vhodný cíl.
+0x07D91122 Počet cílů není jen počet vhodných cílů na světě.
+0x07D9112E Nedostatečný počet volných slotů pro oddíly.
+0x07D91125 Ve světě musí existovat alespoň jeden vhodný cíl.
+0x07D91128 Ve světě musejí existovat alespoň dva vhodné cíle.
+
+# Explain to user/author why the adventure was lost
+
+0x07C50B5F Dějství obsahuje duplicitní úkol.
+0x0796CFE5 Nepodařilo se vám ubránit ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796CFE1 Nepodařilo se vám zabránit ~ep1_goal_target_name~ v ~ep1_goal2_target_name~.
+0x0796D59A Porušili jste tento úkol: ~ep1_goal_description~
+0x0796D599 Tento úkol již nemůžete dokončit: ~ep1_goal_description~
+0x0796CFDD Vypršel vám čas.
+0x0796CEE4 Zemřeli jste.
+
+# First, for creatures
+
+0x0727D38E Spojte se s ~ep1_goal_target_name~ (přidáno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07B52A25 Promluvte s ~ep1_goal_target_name~
+0x07B52A21 Přejděte na ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Pozabíjejte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Spojte se s ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Spřátelte se s ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E Přineste ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A36 Blokujte ~ep1_goal_target_name~  ~ep1_goal2_target_name~
+0x07B52A34 Dejte ~ep1_goal_target_name~ ~ep1_goal2_target_name~
+0x07B52A38 Braňte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A31 Seberte ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x072AA963 Seberte: ~ep1_goal_target_name~ (sebráno ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x07311C75 Braňte: ~ep1_goal_total~ před: ~ep1_goal_target_name~
+0x07311C6E Zabraňte ~ep1_goal_target_name~ od ~ep1_goal2_target_name~
+0x072AA965 Dejte ~ep1_goal_target_name~, komu: ~ep1_goal2_target_name~
+0x0727D387 Promluvte si s: ~ep1_goal_target_name~
+0x0727D389 Zabte ~ep1_goal_target_name~ (zabito ~ep1_goal_progress~ z ~ep1_goal_total~)
+0x0727D38B Spřátelte se s: ~ep1_goal_target_name~ (~ep1_goal_progress~ z ~ep1_goal_total~ spřátelených)
+0x0727D391 Dovezte ~ep1_goal_target_name~ k ~ep1_goal2_target_name~
+0x0727D384 Přesuňte se k ~ep1_goal_target_name~ (dokončeno ~ep1_goal_progress~ z ~ep1_goal_total~)
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Dobrodružství ~timelinePlanetName~ dokončeno.
+0x076B2671 Druh ~timelineMySpeciesName~ objevil část ~timelinePartName~.
+0x076B2675 Kapitán ~ep1_captain_name~ byl povýšen na ~ep1_captain_primary_title~.
+0x076B2674 Povýšený
+
+# Used for palette
+
+0x0710310A Audio
+0x079C4769 Herní předměty
+0x07103108 Příšerky
+0x07103109 Fixní předměty
+0x07103106 Budovy
+0x07103107 Vozidla
+0x0710310C Použité obsazení
+0x0710310B Efekty
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Pojmenujte své dobrodružství
+0x075E40EF Podnadpis přechodu scénáře 3
+0x075E40EE Podnadpis přechodu scénáře 2
+0x075E40ED Podnadpis přechodu scénáře 1
+
+# other
+
+0x07D91140 Vyhrazeno pro radu k odplatě 5
+0x07D9113E Vyhrazeno pro radu k odplatě 4
+0x07D9113B Vyhrazeno pro radu k odplatě 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

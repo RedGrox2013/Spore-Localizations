@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000097 進行中
+0x00000099 任務成功！向<~mission_source_star~> 星系回報。
+0x00000098 已完成
+0x00000093 前往：<~mission_source_star~>星系。
+0x000000B2 向<~mission_source_planet~>回報。
+0x00000095 已經取得黃金駱駝。向<~mission_source_star~>星系的<~mission_source_planet~>回報。
+0x00000081 穿越危險叢林探尋寶藏的工作並非人人適合。~p~就連我也辦不到。這也就是我付錢另請高明的原因！
+0x00000092 取得位在<~mission_target_star~>星系的黃金駱駝。留意守護者！
+0x00000000 ~ep1_captain_full_name~，你喜歡寶藏嗎？你喜歡工藝品嗎？或者是稀有的人偶和珍貴的寶石？想當然爾！~p~嗯，聽好了，我有個計畫。如果你願意幫我取得傳說中的黃金駱駝，我就告訴你它的下落。~p~我會給你 ~mission_rewards~ Spore幣作為報酬。~p~成交？
+0x00000071 你不喜歡這個任務的哪個部分？黃金還是駱駝？
+0x00000064 黃金駱駝就在外頭。你必須穿過充滿嗜血生物的迷宮才能取得它。~p~嘿，如果這差事很簡單，我早就自己去了！
+0x0000004E 不知道該怎麼把黃金駱駝弄到手？察看你的任務日誌，找到正確的座標。
+0x00000041 太棒了！我終於把黃金駱駝弄到手了！和我收藏的黃金物品擺放在一起，一定十分搶眼。嗯...或許和我成堆的駱駝收藏品擺在一起更好？~p~感謝你，~ep1_captain_full_name~，替我冒險犯難，這~mission_rewards~Spore幣致贈給你。下次，若我需要取得珍貴工藝品，我一定會找你的。
+0x00000094 取得<~mission_target_star~>星系<~mission_target_planet~>上的黃金駱駝。留意守護者！
+0x000000B1 取得位在<~mission_target_planet~>上的黃金駱駝。
+

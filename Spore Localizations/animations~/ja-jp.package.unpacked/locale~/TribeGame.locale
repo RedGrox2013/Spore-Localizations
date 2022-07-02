@@ -1,0 +1,104 @@
+﻿# Tutorial Mating
+
+0x056CEA63 居住
+0x056CEA64 赤ちゃんが成長すると、集落メンバーとして貢献できるようになります。
+0x056CEA65 あなたの集落の住み家をクリックして赤ちゃんを増やしましょう。
+
+# Tutorial Accessorize Tribe
+
+0x05935B28 服装
+0x05935B2A 集落の服装を決めましょう。
+0x05935B29 服装はあなたの集落で色々なことに役立ちます。あなたの戦略にあった服装を選びましょう。
+
+# Tribe to Tribe Social - Neutral or Above
+
+0x5519033A 音楽を演奏して~npc0_name_village~と同盟を結んでください。 同盟となった集落は、あなたに贈り物を届けてくれます。
+0x5519033B ~npc0_name_village~と同盟を結びましょう。
+
+# Hint (that did not get transferred to HintsTRG.txt before the localization cutoff)
+
+0x751CE899 バンドを指揮するためには族長をつれてこないといけません！
+
+# Tutorial Equip Tools
+
+0x056CF7F4 集落メンバーに道具を装備させる
+0x056CF7F3 集落メンバーを選択し、クリックすれば、道具を装備させられます。集落メンバーが持っている時のみ、道具は役に立ちます！
+0x056CF7F2 道具を装備
+
+# Tutorial Eat - Carnivore
+
+0x055407BD 狩る
+0x055407BF 肉か魚を狩りましょう。
+0x055407BE 肉食生物は肉を食べて、その命をつなぎます。また、食料を使うことで集落メンバーを増やしたり、道具を購入することができます。
+
+# Tutorial Domesticate
+
+0x05BAA454 飼いならす
+0x05BAA455 野生クリーチャーにエサをやって仲良くなりましょう。そのうえでクリックして手なずけてみましょう！　手なずけたクリーチャーは食料として集められる卵を産んでくれます。
+0x05BAA456 野生クリーチャーと交流をしましょう。
+
+# Tribe to Tribe Social - Below Neutral
+
+0x055A6240 ~npc0_name_village~に贈り物を渡して関係をよくしてから、同盟を結ぶ話を切り出しましょう。
+0x055A6241 ~npc0_name_village~に贈り物を届けましょう。
+
+##############################
+# Tutorial Select
+
+0x05540620 集落メンバーを選んでください。
+0x0554061F 集落メンバーを一人クリックするか、クリックとドラッグで複数の集落メンバーを選択することで、直接指示ができます。
+0x0554061E 集落メンバーを選択
+
+# Tutorial Eat - Herbivore
+
+0x055407C8 果実か海藻を集めましょう。
+0x055407C7 草食生物は果実か海藻を食べないと生きていけません。また、食料を使うことで集落メンバーを増やしたり、道具を購入することができます。
+0x055407C6 食べ物を集める
+
+# Conquer Tribe
+
+0x0567CBF0 他の集落に贈り物をするか、感心させるか、攻撃しましょう！
+0x0567CBEF 他の集落のメンバーに贈り物をして、感心させるか、攻撃して、支配への一歩を踏み出しましょう！
+0x0567CBEE 交流
+
+# Tribe to Tribe Combat
+
+0x055A6248 ~npc0_name_village~の建造物を全て破壊して、地図から消し去りましょう。
+0x055A6249 ~npc0_name_village~を攻撃しましょう。
+
+# Tutorial Buy Tools
+
+0x056CF6A5 集落のために道具小屋を購入
+0x056CF6A4 住み家をクリックしてプランナーに入り、道具小屋を購入しましょう。各道具小屋は、惑星を支配するのに役立つ特定の目的をそれぞれ持っています。
+0x056CF6A3 道具を購入
+
+# Tribe Game Localized Text
+# posse ui title and "select all members" button
+
+0xF37C273B 集落
+
+# Tutorial Eat - Omnivore
+
+0x055407C2 狩るか集める
+0x055407C4 果実か肉か魚を集めましょう。
+0x055407C3 雑食生物は果実、魚、肉などを食べないと生きていけません。また、食料を使うことで集落メンバーを増やしたり、道具を購入することができます。
+
+##############################
+# Tribe to Tribe titles
+
+0x06E1F025 制圧
+0x06E1F026 同盟者
+
+# Tribe member Rollover titles and names
+
+0x04BD540B 族長~tribe_creature_name~
+0x0567D1D0 シャーマン~tribe_creature_name~
+0x0567D1D1 槍兵~tribe_creature_name~
+0x0567D1D4 漁師~tribe_creature_name~
+0x0567D1D5 農民~tribe_creature_name~
+0x0567D1D6 ホルン奏者~tribe_creature_name~
+0x0567D1D2 猟師~tribe_creature_name~
+0x0567D1D3 放火兵~tribe_creature_name~
+0x0567D1D7 マラカス奏者~tribe_creature_name~
+0x0567D1D8 ディジュリドゥ奏者~tribe_creature_name~
+

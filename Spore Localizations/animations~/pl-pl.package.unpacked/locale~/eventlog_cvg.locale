@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~ nie zgadza się na założenie szlaku handlowego do ciebie.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~ zgadza się na założenie szlaku handlowego do ciebie.
+
+#######################################
+# event logs
+
+0x0000000E Tak, ~target_city_name~ zostało zdobyte!
+0x0000001A Udało ci się wykupić ~target_city_name~!
+0x00000019 Niestety ~target_city_name~ nie dało się wykupić.
+0x00000005 Udało ci się nawrócić ~target_city_name~.
+0x00000018 Uwaga, ~target_city_name~ zostało wystawione na sprzedaż.
+0x00000004 Udało ci się przejąć ~target_city_name~.
+0x0000000F Hej, ~target_city_name~ zostało nawrócone!
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x0000002F Jeden z naszych szybów wydobywczych przyprawy jest atakowany!
+0x0000002C Ty i ~source_civ_name~ jesteście teraz sojusznikami.
+0x00000034 ~target_city_name~ świętuje, co oznacza wyższe dochody!
+0x00000030 Plądrujesz terytorium plemienia i zabierasz łup w wysokości %d sporylionów!
+0x00000033 Przejmujesz szyb wydobywczy przyprawy.
+0x00000032 Zajmujesz gejzer przyprawy.
+0x00000028 Ty i ~source_civ_name~ jesteście teraz w stanie wojny.
+0x00000035 Kliknij miasto, aby wystrzelić.
+0x00000023 Aby skierować pojazd do wydobycia, kliknij gejzer przyprawy.
+0x00000036 Plemię jest wrogo nastawione i atakuje Twój pojazd!
+0x00000021 Twoje ~target_city_name~ jest atakowane!
+0x00000026 ~source_civ_name~ należy już do historii.
+0x0000001C Teraz przez ~target_city_name~ przebiega szlak handlowy.
+0x0000002B Ty i ~source_civ_name~ zerwaliście przymierze.
+0x00000027 ~source_civ_name~ przejął ~target_city_name~!
+0x00000031 Plemię obdarowało cię darmowym pojazdem!
+0x00000024 Założono nowe ~target_city_name~!
+0x0000002A Ty i ~source_civ_name~ nie jesteście już w stanie wojny.
+0x00000029 Ty i ~source_civ_name~ jesteście teraz w stanie wojny.
+

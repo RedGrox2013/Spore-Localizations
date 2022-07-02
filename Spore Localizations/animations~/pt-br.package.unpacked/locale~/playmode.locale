@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Seus arquivos do Maya Export foram salvos em ~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Não
+0x0549366D Enviar
+0x05496B24 Conectando-se ao YouTube…
+0x055AA305 Enviando vídeo para o YouTube…
+0x056691B0 Verificando o Registro no YouTube...
+0x056D0627 Envio concluído com sucesso!  Agora, envie o endereço do vídeo para um amigo!
+0x05B5AC4C Termos do YouTube
+0x05498DCB Seu vídeo foi enviado.  Deseja avisar seus amigos?
+0x054C1E63 Seu filme foi salvo em:  ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Ocorreu um erro durante o envio de conteúdo para o YouTube.~br~~br~Por favor, verifique sua conexão com a Internet ou tente novamente mais tarde.
+0x05498260 Ocorreu um erro durante a conexão ao YouTube.~br~~br~Por favor, verifique sua conexão com a Internet ou tente novamente mais tarde.
+0x05B5FD1E Deseja enviar o conteúdo agora?
+0x05D2C767 Seu envio foi cancelado.
+0x05D54AF7 O website associado possui textos em inglês.  Para visualizar o seu idioma, escolha seu país de origem no seletor do site.
+0x0563C623 Você deve registrar-se no Spore para usar este recurso. Deseja registrar-se agora?
+0x05600488 Você deve estar conectado ao Spore para utilizar este recurso. Deseja conectar-se agora?
+0x05496510 Falha ao conectar-se no YouTube.~br~~br~Por favor, utilize um nome de usuário e uma senha válidos ou registre-se no YouTube antes de continuar o envio.
+0x05E501EB Enviar
+
+# email
+
+0x04585F1F Seu endereço de e-mail é inválido.
+0x04585F49 O endereço de e-mail do destinatário é inválido.
+0x045AD62F Seu E-mail
+0x045AD634 E-mail do Destinatário
+0x05B5B8C4 Contar a um Amigo Sobre o Seu Vídeo
+0x0583897C Clique aqui para enviar um Cartão-Postal por E-mail
+0x04588BEF Seu cartão-postal foi enviado.
+0x045AD5B9 Enviar um Cartão-postal
+
+# capture GIF
+
+0x058B90F2 Seu Avatar Animado foi salvo em ~br~~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x04598E97 Enviar E-mail
+0x046286E7 Girar
+0x046286F4 Sentar
+0x046286F8 Rugir
+0x04628713 Chamar
+0x04628717 Socar
+0x04628719 Taa-daa!
+0x04628722 Gracinha
+0x04628724 Sumô
+0x04628726 Ei
+0x04628733 Ei, Gracinha
+0x04628737 O Ponto
+0x04628739 Ande e Dance
+0x0462873F Pé Quente
+0x04628745 Gritinhos e Saltitos
+0x04628749 A Pisada
+0x04628798 Feliz
+0x0462879C Triste
+0x046287A0 Assustado
+0x046287A1 Zangado
+0x046287A2 Rir
+0x046287A4 Visor de Imagens
+0x046287ED Salvar
+0x0462932D Ajuda
+0x0473F903 Gerenciar Imagens
+0x0474E80E Arquivar Imagem
+0x046287DA Filhotes
+0x046287A6 Gravar Filme
+0x046286F2 Virar
+0x046287A3 Apaixonado
+0x0462874E Agito Raver
+0x04628729 Apertar
+0x0474E80D Excluir Imagem
+0x046287A5 Tirar Fotos
+0x046287D6 Ações
+0x046287D8 Cenários
+
+# move all
+
+0x04583A4E Arquivar Todas
+
+#continue
+
+0x0549656C Continuar
+
+# delete one done
+
+0x04583433 Sua imagem foi excluída.
+
+# delete all done
+
+0x0458334E Suas imagens foram excluídas.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_dayofmonth~-~movie_month~-~movie_year~_~movie_time~
+
+# move one done
+
+0x0458342D Suas imagens foram arquivadas em: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_dayofmonth~-~gif_month~-~gif_year~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Suas imagens foram arquivadas em: ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Sim
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animação
+
+# photobackuppath
+
+0x06305594 Meus Documentos
+0x06305593 Minhas criações Spore/Imagens/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Falha de Login
+0x05CBDEDA Falha no Envio
+
+# your message
+
+0x045AD63A Sua Mensagem
+
+#drag and drop fail message
+
+0x05889A4C Você não pode clicar e arrastar uma parte no Modo Teste.  Por favor, vá para o modo Criação ou Pintura para realizar esta ação.
+0x05889A21 Modo Teste
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Você possui muitas imagens.  Armazene algumas imagens antes de continuar.
+
+# photo actions
+
+0x045C206E Tem certeza de que deseja excluir esta imagem?
+0x045C208A Tem certeza de que deseja excluir todas as imagens?
+0x045C2025 O que deseja fazer com as imagens?
+0x04613ED0 Sair agora fará com que as imagens restantes não sejam salvas. Ainda deseja sair?
+0x045C2094 Tem certeza de que deseja arquivar esta imagem?
+0x045C2098 Tem certeza de que deseja arquivar todas as imagens?
+
+# delete all
+
+0x04583A36 Excluir Tudo
+
+# cancel
+
+0x04583AFB Cancelar
+
+# Are you sure: No
+
+0x0458400E Não
+
+# email message
+
+0x056BCDCA Veja o vídeo que eu criei no Spore!~br~~video_url~
+0x056BCE10 Ei! Veja só que criatura sensacional eu criei no Spore!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK

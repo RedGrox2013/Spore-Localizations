@@ -1,0 +1,222 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000002F A vida no planeta ~mission_source_planet~ foi semeada a partir do planeta ~mission_target_planet~. Infelizmente, os registros do planeta ~mission_target_planet~ foram destruídos na catástrofe, mas acreditamos que eles estejam perto do sistema ~mission_target_star~.~p~Localize este planeta e traga amostras completas de sua teia vital para ~mission_source_planet~ .
+0x000000AE ...
+0x0000000E Nossas pesquisas sobre o planeta ~mission_target_planet~ indicam que ele é adequado para terraformação. O Grande Conselho deseja colonizar este planeta imediatamente. Você pode nos ajudar, terraformando o planeta ~mission_target_planet~?
+0x00000003 Eles nos provocam o tempo todo, em escala planetária. Estamos ficando preocupados com a sobrevivência da nossa espécie a longo prazo. ~p~ Precisamos de que você evolua o planeta ~mission_target_planet~, no sistema ~mission_target_star~, até um nível de terraformação adequado para nossa habitação: ~mission_terraform_target_score~. ~p~ Afinal, quanto mais nos espalharmos pelos planetas, menor a chance de sermos extintos por causa de um EPP - Evento de Provocação Planetária.
+0x00000021 Pode me dar uma orientação?
+0x0000001E O planeta ~mission_target_planet~ é adequado para terraformação.  Estamos interessados em descobrir se você é capaz de fazer isso.
+0x00000020 Eu gostaria de mais informações sobre como chegar lá
+0x00000014 Encontramos um planeta bem gasto e gostaríamos de reformá-lo! Você poderia demonstrar suas habilidades de decoração?
+0x00000007 Como parte da nossa missão para compreender a interdependência entre todas as coisas vivas, gostaríamos de observar uma demonstração das suas capacidades de terraformação. Você pode ir até o planeta ~mission_target_star~ e nos mostrar o seu conhecimento no assunto?
+0x0000001C Se o planeta ~mission_target_planet~ fosse terraformado, ele seria uma excelente base militar avançada. Você está disposto a aceitar esta tarefa?
+0x0000000D O Grande Conselho definiu como alta prioridade a preparação de planetas para colonos da nossa federação. Recentemente, um planeta adequado foi descoberto no sistema ~mission_target_star~. Você tem interesse em nos ajudar, terraformando esse mundo?
+0x0000001F Pode me dar mais algumas informações?
+0x00000001 As coisas estão um pouco apertadas aqui na superfície. ~p~ Nosso sucesso como espécie está gerando desafios surpreendentes e inesperados à nossa sobrevivência. Quem diria? ~p~ Portanto, precisamos de ajuda para expandir um pouco. Queremos que você faça uma terraformação no planeta ~mission_target_planet~, no sistema ~mission_target_star~. ~p~ Leve o planeta ~mission_target_planet~ ao nível ~mission_terraform_target_score~ de terraformação. ~p~ Por esse trabalho, pagaremos ~mission_rewards~ Sporegranas, pois é uma missão importante.
+0x0000001D Estamos interessados no conceito de terraformação não-destrutiva. Você pode fazer uma demonstração?
+0x00000016 Toda a galáxia está espantada com o seu conhecimento e poder. Talvez, esta criatura miserável possa tentá-lo a exibir sua perícia terraformadora no sistema ~mission_target_star~. Você concordaria em fazer uma demonstração, em troca de magníficas recompensas?
+0x00000008 O planeta ~mission_target_planet~ foi considerado adequado para a terraformação. Nossas unidades de terraformação estão ocupadas em outro lugar, mas pensamos que talvez você pudesse se encarregar desta missão para nós. Você pode nos ajudar a expandir a teia vital galáctica?
+0x00000006 ATRIBUIÇÕES DA MISSÃO: Terraforme o planeta ~mission_target_planet~ até que ele atinja o nível de terraformação definido. ~p~ NÍVEL DE TERRAFORMAÇÃO DEFINIDO: ~mission_terraform_target_score~. ~p~ SISTEMA ESTELAR: Sistema ~mission_target_star~. ~p~ MOTIVO/OUTRO: Ele sabe o que fez! ~p~ PAGAMENTO: ~mission_rewards~ Sporegranas. ~p~ PERGUNTA: Esta missão é do seu interesse?
+0x00000015 Não há nada de errado com o sistema ~mission_target_star~, além de ser uma velha coleção de planetas maçantes! Gostaríamos de animar um pouco a vizinhança com uma reforma bem chique! Você pode cuidar disso para nós?
+0x00000010 Estamos interessados em descobrir o máximo possível sobre o universo, o que obviamente inclui nossos vizinhos e sua tecnologia. Um planeta adequado foi encontrado no sistema ~mission_target_star~. Você gostaria de nos demonstrar as suas capacidades? Como pagamento pela sua cooperação, ofereceremos recompensas adequadas.
+0x00000005 Você sabia que a nossa imperatriz tem a maior coleção de miniaturas de Oogies nesse setor da galáxia? É verdade! Você não está impressionado? ~p~ Eles cresceram demais em seu habitat atual, então queremos que você terraforme o planeta ~mission_target_planet~, no sistema ~mission_target_star~. ~p~ Os Oogies da imperatriz são muito peculiares, então certifique-se de elevar o nível de terraformação para ~mission_terraform_target_score~. ~p~ Esses Oogies são o tesouro da nossa imperatriz, portanto pagaremos ~mission_rewards~ Sporegranas a você.
+0x00000018 Nosso filósofo Paranelso definiu os Três Desejáveis:  um cliente ingênuo, uma bolsa cheia e um novo planeta com pilhas de recursos naturais, pronto para ser explorado! Essa exploração seria mais simples se, antes disso, o planeta fosse terraformado... você gostaria de fazer isso por nós, em troca de uma generosa comissão?
+0x0000000C O Spode nos ordena a levar Sua luz a todos os lugares! Infelizmente, não poderemos fazer isso se não estivermos respirando... você pode terraformar o planeta ~mission_target_planet~ para nós? Assim, nós poderemos usá-lo como uma plataforma para levar a luz do Spode a toda a galáxia.
+0x00000017 Surge um novo mundo, pronto para ser entupido de consumidores! Mas alguns ajustes no ambiente são necessários, antes que uma colonização possa ser considerada. Tais ajustes devem ser simples para uma criatura magnífica como você... talvez possamos convencê-lo com uma recompensa?
+0x00000011 Encontramos um mundo que talvez seja adequado para colonização, quando uma ecologia funcional for estabelecida. Nossas equipes de terraformação estão trabalhando em outros projetos. Você poderia terraformar este planeta para nós?
+0x00000009 Nossa missão é espalhar a vida pela galáxia. Você pode nos ajudar terraformando o planeta ~mission_target_planet~. Você tem interesse nessa missão?
+0x0000000A O próprio Spode nos deu a missão de tornar frutíferos os mundos estéreis do universo. Um planeta estéril foi encontrado no sistema ~mission_target_star~. Você gostaria de povoá-lo com as gloriosas criações do Spode?
+0x0000000B Os peregrinos sagrados estão prontos para povoar um novo mundo! Este planeta precisa ser preparado para a nossa espécie... Você poderia torná-lo adequado para o povo do Spode?
+0x0000000F O planeta ~mission_target_planet~ foi considerado adequado para terraformação pelo Grande Conselho. Você vai nos ajudar nessa missão de colonização?
+0x00000022 Qual é o melhor jeito de se chegar lá?
+0x00000024 Estou procurando um trabalho mais fácil.
+0x00000023 Argh. Terraformação é um trabalho chato. Não, obrigado.
+0x000000DA Mais uma coisa...
+0x0000006E Eu gostaria de perguntar outra coisa...
+0x000000DB Eu prefiro fazer outra coisa.
+0x00000070 Eu quero discutir mais uma coisa.
+0x000000DF Lamento ter incomodado você. Até logo.
+0x000000D9 Também...
+0x0000006C Ah, certo. Isso faz sentido. Adeus.
+0x000000DD Essa tarefa não cabe mais no meu calendário.
+0x0000006D Eu imploro a sua compreensão.
+0x000000DE Eu imploro para ser liberado dessa tarefa.
+0x000000E0 Até mais ver. Até logo.
+0x0000006F Posso fazer outra pergunta?
+0x00000051 Oh, sim. Vamos nos ver de novo.
+0x0000002D O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~.
+0x0000002B Eu quero discutir mais uma coisa.
+0x0000004F Bem... Eu gostei disso. Até mais!
+0x0000002C Também...
+0x00000050 Terraformação é sempre um trabalho satisfatório. Adeus.
+0x00000031 O chatíssimo planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme esse mundo até que ele atinja o nível de Terraformação Definido - ~mission_terraform_target_score~, e nós daremos uma grande festa para comemorar!
+0x00000052 Bom, acho que isso é tudo...
+0x0000002E O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~, e que o Spode abençoe você.
+0x00000030 O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~, e, então, volte.
+0x00000025 Muito difícil. Não, obrigado.
+0x00000042 ESTADO DA MISSÃO: Cumprida; Planeta ~mission_target_planet~, agora, está no nível de terraformação ~mission_terraform_target_score~. ~p~ PAGAMENTO: ~mission_rewards~ Sporegranas. ~p~ DECLARAÇÃO DE INCENTIVO: Para um organismo inferior, baseado em proteínas, você é legal. Você conseguiu!
+0x00000048 Como agradecimento por ter criado um empreendimento imobiliário tão valioso, temos o prazer de oferecer ~mission_rewards~ Sporegranas. Visite o nosso empório quando quiser.
+0x00000028 Eu vou fazer o que você pediu.
+0x00000045 O Grande Conselho está satisfeito com os seus esforços. Aceite este Certificado de Louvor, Segunda Classe e essas ~mission_rewards~ Sporegranas.
+0x00000044 O planeta ~mission_target_planet~ foi abençoado pela glória do Spode. Aceite suas ~mission_rewards~ sporegranas. E leve uma amostra das nossas sagradas escrituras.
+0x00000027 Por gentileza, continue. Eu ouço atentamente.
+0x00000026 Oh. Essa não é a minha especialidade.
+0x00000029 Deixe-me perguntar só mais uma coisa...
+0x0000004C Eu tenho só mais uma pergunta...
+0x0000004E Mais uma coisa, antes de eu partir...
+0x0000004D Posso fazer outra pergunta?
+0x0000002A Posso fazer outra pergunta?
+0x0000004A Você se saiu muito bem. Sua eficiência foi registrada. Aproveite as suas ~mission_rewards~ sporegranas.
+0x0000004B Deixe-me perguntar mais uma coisa...
+0x00000065 Você não disse que isso seria difícil! Já basta.
+0x00000038 Claro. Eu aceito. Pode contar comigo.
+0x00000066 Isso é difícil. Eu desisto.
+0x00000039 Cada planeta é perfeito do jeito que é!
+0x00000037 Parece divertido. Sim.
+0x00000036 Heh. Eu não tenho nada melhor para fazer.
+0x00000064 Posso fazer outra pergunta?
+0x00000063 Eu gostaria de perguntar outra coisa...
+0x00000062 Só mais uma coisa...
+0x0000006B Eu entendo. Eu voltarei em breve.
+0x000000E2 Eu imploro a sua compreensão.
+0x0000003C Infelizmente, devo recusar.
+0x000000E1 Vejo que você está ocupado. Nos falamos mais tarde.
+0x00000068 Não. Já basta. Desculpe.
+0x00000067 Bah! Eu desisto!
+0x0000003A Terraformação não é natural!
+0x0000006A A-há! Entendo. Adeus.
+0x00000069 Certo. Eu entendo. Obrigado.
+0x0000003B Terraformação é contra a natureza!
+0x0000005A A gloriosa criação do Spode ainda não viu a luz do sistema ~mission_target_star~? Você vai manter sua promessa de terraformar o planeta, conforme descrito no seu registro da missão?
+0x00000059 Você não terminou o trabalho no planeta ~mission_target_planet~. Sua capacidade de terraformação não é adequada? Ou você apagou acidentalmente os dados do registro da missão?
+0x00000033 O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme esse mundo até que ele atinja o nível de terraformação definido - ~mission_terraform_target_score~, e informe-nos, o quanto antes, para que possamos enviar nossos colonos para viver em harmonia no novo planeta.
+0x00000061 Mais uma coisa, antes de eu partir...
+0x00000060 Você é incapaz de terraformar o planeta ~mission_target_planet~? Há algum problema com o seu registro da missão?
+0x0000005F Nós pensávamos que você havia ido terraformar o planeta ~mission_target_planet~ ? Há algum problema? Seu registro da missão não tem as informações?
+0x0000005D Você não concordou em terraformar o planeta ~mission_target_planet~, digamos, agora? Aceite um conselho: nós não gostamos de contratados inúteis! Verifique o registro da missão para ver o nosso contrato.
+0x0000005C Apesar dos dados no seu registro da missão, você parece ter deixado incompleta a terraformação do planeta ~mission_target_planet~. Sua escolha é binária. Você vai nos ajudar ou não?
+0x0000005B Seu nível de terraformação definido não atende aos parâmetros da missão. Você vai continuar sua tarefa no sistema ~mission_target_star~? As informações necessárias estão no registro da missão.
+0x0000005E Infelizmente, você não conseguiu demonstrar sua capacidade de terraformação! Você vai continuar sua tarefa no sistema ~mission_target_star~? Ou você apagou acidentalmente os dados do registro da missão?
+0x00000035 Claro, por que não? Eu farei isso.
+0x000000B8 Sua recompensa aguarda por você no sistema ~mission_source_star~.
+0x00000086 ESTADO DA MISSÃO: Suspensa, Rejeitada pelo Contratado: ~p~ DECLARAÇÃO DE EXTREMA IRRITAÇÃO: Que a vasta e poderosa fauna de Coprólito-2 se alivie após cem dias de glutonices com sebozitos diretamente sobre você e sobre essa porcaria que você chama de nave! ~p~ MOTIVO/OUTRO: Você sabe o que fez!
+0x000000B6 Muito bem! Volte ao planeta ~mission_source_planet~.
+0x00000087 Se não vai, não vai. Adeus.
+0x000000B7 O planeta fica no sistema ~mission_target_star~. As informações disponíveis indicam que: ~p~ ~group:star_clue~.
+0x00000085 Oh, a Imperatriz vai ficar pálida e furiosa quando souber dessa terrível afronta a ela e aos miniOogies! Vamos ter de escolher alguém por sorteio para dar a eles essa notícia infeliz. ~p~ Eu não!
+0x00000082 Oh, meu amigo. Alô? Eeeeei! ~p~ Você não está prejudicando só a gente, cara. Você está prejudicando a Corporação Astroverso e todas as suas filiadas, subsidiárias, representantes, revendedores e a nossa rede de contratados, como você. ~p~ Não estávamos pedindo para você fazer somente um trabalho. Nós estávamos pedindo para você se juntar à família Astroverso.
+0x00000083 Oh, mas que aborrecimento! ~p~ Minha nossa! Perdoe a minha explosão. Posso garantir que nenhuma das minhas palavras duras é dirigida a você. Por favor, não nos machuque! ~p~ Você não precisa nos ajudar a evitar nossa extinção nesses Eventos de Provocação Planetária, mas não torne as coisas piores, cometendo um EPP! Por favor! Nós imploramos!
+0x000000BD Ah, é claro! O registro da missão. Eu vou procurar lá.
+0x000000BC Ah, é claro! O registro da missão. Eu vou procurar lá.
+0x00000084 Grrrrr. ~p~ Se você não vai aceitar trabalho, não saia por aí pedindo serviço. O que tem de errado com você? ~p~ Bah! Nós somos ricos e poderosos! Não mexa conosco. Não somos organismos com quem você vai querer se meter.
+0x000000BA Volte ao planeta ~mission_source_planet~ no sistema ~mission_source_star~ para receber sua recompensa.
+0x00000089 Muito bem. Nossas próprias equipes vão preparar o planeta para a colonização. Adeus.
+0x00000090 Posso fazer outra pergunta?
+0x0000008E Vamos considerar essa incapacidade ao solicitar serviços futuros. Adeus.
+0x0000008F Deixe-me perguntar só mais uma coisa...
+0x000000D5 Uma ordem dos Grox não pode ser desobedecida.
+0x00000091 Eu quero discutir mais uma coisa.
+0x000000B1 Queremos fazer florescer os planetas estéreis. Você pode nos ajudar?
+0x000000B2 O planeta ~mission_target_planet~ precisa de uma biosfera. Você vai fornecê-la.
+0x0000008B Que pena. Tínhamos esperança de que essas tarefas complexas não estariam muito além da sua capacidade.
+0x000000D4 Você não vai? Não estamos entendendo!
+0x000000B3 Queremos conhecer sua capacidade de terraformação. O planeta ~mission_target_planet~ está disponível para essa demonstração.
+0x0000008D Bem, eu suponho que não é sua culpa se você não está em unidade com a natureza, como nós.
+0x000000B4 Queremos estudar a disseminação da vida orgânica, para impedir esse processo quando for necessário. Você vai nos ajudar.
+0x0000008C Vamos ter de contar com nossos próprios esforços patéticos. Você talvez queira visitar o nosso bazar?
+0x000000CD O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~, e, então, volte.
+0x00000076 Eu imploro a sua compreensão.
+0x000000CC O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~, e, então, volte.
+0x000000D1 Você não completou sua tarefa no planeta ~mission_target_planet~. Todos os parâmetros estão disponíveis no seu Registro da Missão. Você dará continuidade imediata à missão.
+0x00000072 Também...
+0x000000D2 Ótimo! ~p~ ~group:star_clue~. ~p~ Estamos ansiosos para visitar o novo jardim da galáxia!
+0x000000CF O planeta ~mission_target_planet~ recebeu uma biosfera, como havíamos exigido. Acreditamos que a espécie biológica vai precisar de ~mission_rewards~ Sporegranas.
+0x0000007A Você vai criar muitos imóveis para nós! Vá imediatamente para o planeta ~mission_target_planet~!
+0x00000081 ...O quê? Como você pôde abandonar sua própria espécie assim? ~p~ Talvez, se tivéssemos agido antes - quando as geleiras foram sublimadas? Não, já era tarde demais... ~p~ Talvez quando as florestas queimaram. Não... tarde demais. ~p~ Talvez quando a camada de ozônio desapareceu? ~p~ Oh, isso é demais para mim. Não adianta mesmo ficar procurando culpados agora.
+0x0000007F Eu vou cuidar de tudo, e bem rápido!
+0x00000080 Pode contar comigo.
+0x000000BF Sucesso! Volte ao sistema ~mission_source_star~ para receber sua recompensa.
+0x0000007E Um planeta, sob medida. É pra já!
+0x000000C8 O nome da estrela é ~mission_target_star~
+0x000000C7 A estrela fica entre ~mission_clue_range_min~ e ~mission_clue_range_max~ parsecs de ~mission_clue_landmark1~
+0x0000007D Vou voltar em um instante.
+0x0000007C Muito bem. Eficiência é importante.
+0x000000C6 A estrela fica a aproximadamente ~mission_clue_distance~ parsecs de ~mission_clue_landmark1~
+0x00000096 Sem ressentimentos, claro. Adeus.
+0x000000A8 Acho que você precisa ficar sozinho. Adeus.
+0x00000095 É, desculpe. Vejo você por aí.
+0x00000097 Uma coisa é recusar a missão quando ela é oferecida, mas AGORA? Isso é praticamente sabotagem! ~p~ Perdemos um tempo precioso esperando que você viesse nos ajudar. ~p~ Fomos muito tolos ao contratar você. Essa foi uma besteira maior do que ignorar o desaparecimento da Grande Montanha Docemel!
+0x00000099 O, seu... ~p~ Minha nossa! O que eu disse? O que eu fiz? ~p~ Por favor, perdoe a minha indiscrição! Fiquei emocionado por alguns instantes, mas já recuperei meu senso. Eu juro. ~p~ Por favor, não nos machuque! Não podemos suportar nem a simples idéia de sofrer um Evento de Provocação Planetária nas mãos do mesmo indivíduo que contratamos para nos proteger desse tipo de atrocidade.
+0x000000A7 Vejo que você está ocupado. Nos falamos mais tarde.
+0x000000D7 Há algum ritual que você gostaria que fosse feito depois da sua morte?
+0x000000AB Eu gostaria de revisar os detalhes da minha missão.
+0x00000092 Também...
+0x000000AC Refaça sua requisição. Minhas anotações não são claras.
+0x00000093 Essa missão não encaixa... Adeus.
+0x000000A9 Eu preciso revisar a minha missão.
+0x00000094 Eu não estou sentindo, sabe? Até logo.
+0x000000AA Eu esqueci os detalhes da missão.
+0x000000A6 Talvez outra hora. Até logo.
+0x000000A0 Você já pensou em fazer implantes cerebrais? Eles podem manter sua mente concentrada.
+0x0000009F Você não vai concluir essa missão? O Grande Conselho será informado. Adeus.
+0x000000A3 Desistindo, é? Bem, o universo tem muitos caminhos.
+0x000000A2 Você está violando o nosso contrato! Nossos advogados vão procurar você.
+0x000000A1 A tarefa estava além da sua capacidade? Não estamos surpresos.
+0x0000009E O Spode sabe da sua traição, e o Spode não perdoa!
+0x0000009B Oh, a Imperatriz e os miniOogies vão ficar muito aborrecidos com a sua decisão, ~p~ (Ei, pessoal! *Eu* não vou contar a ela sobre a decisão infeliz do nosso contratado.) ~p~ A Imperatriz já declarou guerras por menos do que isso, seu patife! ~p~ E os miniOogies vão arrancar sua pele quando descobrirem que serão obrigados a viver no aperto do seu antigo habitat. ~p~ Desapareça, seu asqueroso!
+0x000000A5 Lamento ter incomodado você. Até logo.
+0x0000009A Oh, ho! Você acha que pode desistir? Ora, seu... ~p~ Você não pode desistir! Ninguém abandona as nossas missões, especialmente esta missão! ~p~ Nós devíamos explodir, agora mesmo, você e esse brinquedo que você chama de nave, mas nosso exército particular contratado está ocupado, esmagando uma revolta de camponeses. ~p~ Você teve sorte dessa vez!
+0x000000D8 Antes de ir, tenho outras perguntas...
+0x0000009D Você está desperdiçando o nosso tempo.
+0x000000A4 Às vezes, diante da própria incompetência, a atitude mais sábia é desistir.
+0x0000009C ESTADO DA MISSÃO: Suspensa, Abortada pelo Contratado: ~p~ DECLARAÇÃO DE EXTREMA FRUSTRAÇÃO: AAAAAAAAAAAAAAAAAAAAAAAH! O que vamos fazer? ~p~ MOTIVO/OUTRO: Não sabemos o que fazer, mas você sabe o que fez!
+0x000000AD Infelizmente, devo recusar.
+0x000000AF O planeta ~mission_target_planet~ parece uma colônia ideal, apesar de não ter uma biosfera adequada. Você pode nos ajudar?
+0x000000B0 O planeta ~mission_target_planet~ precisa ser terraformado.  Você pode fazer isso?
+0x000000D6 Não queremos criticá-lo, mas você parece horrivelmente distraído hoje.
+0x000000CE Um trabalho excelente, Capitão! O planeta ~mission_target_planet~ está pronto para colonização!  Aqui estão suas ~mission_rewards~ Sporegranas.
+0x00000088 Meros infiéis não são dignos de serem acrescentados à criação do Spode. Adeus.
+0x0000008A É corajoso de sua parte admitir tão abertamente que a sua espécie é incapaz. Adeus.
+0x0000001A Nossos profetas dizem que o mundo-espírito do sistema estéril ~mission_target_planet~ anseia por uma população que o entenda e cuide dele. Talvez você possa torná-lo adequado para a nossa colonização.
+0x000000DC Eu preciso recusar essa tarefa.
+0x00000019 Estamos muito interessados nas almas do ~player_creature_name~, e nada revela a alma melhor do que as obras de sua criação. Encontramos um planeta estéril no sistema ~mission_target_star~ e gostaríamos que você nos mostrasse a sua alma, fazendo a terraformação do planeta. Você fará isso por nós?
+0x0000001B O planeta ~mission_target_planet~ é como uma tela em branco, esperando pelo primeiro toque do pincel! Você quer ser o pintor?
+0x00000012 O planeta ~mission_target_planet~ é adequado para terraformação.  Essa é uma missão importante, e queremos saber se o ~player_creature_name~ está disposto a aceitá-la.
+0x00000041 Que notícias maravilhosas para a Imperatriz! Eu serei soterrado com dádivas!~p~Aqui - aceite suas ~mission_rewards~ Sporegranas. Você vale dez vezes o seu preço! Em sentido figurado, é claro.~p~ Há muito o que fazer para preparar a mudança dos MiniOogies para o planeta ~mission_target_planet~. Agora, tenho de me despedir.~p~Cuide-se. Que os céus sejam sempre tranqüilos para você.
+0x00000046 Suas capacidades são uma surpresa agradável. O planeta ~mission_target_planet~ foi transformado em um paraíso, adequado para os colonos da nossa espécie. Aqui, estão suas ~mission_rewards~ Sporegranas.
+0x00000032 O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~.~p~~group:star_clue~.
+0x00000079 ~group:star_clue~.~p~Pode começar agora mesmo! E, faça o que fizer, não se esqueça do recurso aquático!
+0x0000007B ~group:star_clue~.~p~Leve este amuleto invisível para iluminar seu caminho!
+0x00000073 ~group:star_clue~.~p~ Estamos aguardando resultados excelentes. Temos plena confiança de que você criará um mundo bonito!
+0x00000074 ~group:star_clue~.~p~Que a obra sagrada do Spode comece. Que o Spode ilumine o seu caminho até o planeta ~mission_target_planet~.
+0x00000034 O planeta ~mission_target_planet~ fica no sistema ~mission_target_star~. Terraforme este mundo até o nível de terraformação definido - ~mission_terraform_target_score~, e, então, volte.~p~~group:star_clue~.
+0x00000098 Oh, não. Não é assim que nós trabalhamos na Corporação Astroverso, cara.~p~Você não sai da família Astroverso... Porque não dá pra sair de uma família!~p~Mas se realmente quiser abandonar a Família Astroverso, fique à vontade e prossiga.~p~Você vai ver. Tenho certeza. A Corporação Astroverso adora você.
+0x000000D0 Ainda estamos esperando a terraformação do planeta ~mission_target_planet~. Os dados estão no registro da missão! .
+0x000000BE O Nível-T do planeta ~mission_target_planet~ aumentou. Adicione plantas para estabilizá-lo.
+0x000000B5 Terraforme o planeta ~mission_target_planet~ até o Nível-T ~mission_terraform_target_score~.
+0x00000047 Seu trabalho no planeta ~mission_target_planet~ foi exemplar! Vai ser o melhor ponto de encontro para todas as coisinhas bonitinhas da galáxia! Aqui, estão suas ~mission_rewards~ Sgranas... tchau!
+0x0000003F *Ufa!*~p~Ainda bem que você chegou a tempo! Você merece cada centavo das suas ~mission_rewards~ Sgranas, com certeza! Tivemos outro EPP enquanto você estava longe.~p~Felizmente, não houve baixas desta vez, não desmerecendo a seriedade do ataque.~p~Para pensar: Pergunte onde estão as minhas cuecas. Vamos. Você vai se surpreender com a resposta...
+0x00000043 Você criou um ecossistema adorável. Como agradecimento, oferecemos a você ~mission_rewards~ Sgranas.
+0x00000049 O planeta ~mission_target_planet~ é perfeito para os cânticos, meditação, clisteres e todas as nossas outras práticas esotéricas! Aqui, estão suas ~mission_rewards~ Sgranas. Você pode criar novos mundos para nós quando quiser!
+0x00000013 Nós gostaríamos de criar um novo planeta para festas! Ele precisa de uma brisa agradável, paisagens pitorescas, uma variedade de plantas que possam ser transformadas em bebidas deliciosas e alguns animais curiosos. Você gostaria de criá-lo para nós?
+0x0000003D Essa é a melhor notícia que ouvimos nos últimos tempos! ~p~ Vamos começar a mandar pioneiros ao planeta ~mission_target_planet~ imediatamente. A viagem será difícil, e a construção do novo mundo, mais difícil ainda. ~p~ Mesmo assim, esse corajoso sacrifício vai facilitar tudo para nós. ~p~ Eis aqui um símbolo da nossa gratidão - ~mission_rewards~ Sporegranas.
+0x00000077 Os dados indicam o seguinte: ~group:star_clue~. ~p~Aguardamos ansiosamente por esta demonstração das suas capacidades.
+0x00000075 Estamos satisfeitos em trabalhar com você nessa missão de civilização. Embarque para ~mission_target_planet~ imediatamente. ~group:star_clue~.
+0x00000071 Oh, a Imperatriz se alegrará com as notícias! ~p~Você sabia que o canil dela é do tempo em que os Oogies alcançaram a inteligência e se separaram das criaturas que mais tarde se tornariam os miniOogies, que a nossa Imperatriz adora tanto? Não é fascinante? ~p~Bem, de qualquer forma... ~group:star_clue~. ~p~Então, adeus, até nos encontrarmos novamente.
+0x000000D3 ~group:star_clue~. ~p~Você pode começar.
+0x00000040 He he he he. Bom trabalho. Aqui estão suas ~mission_rewards~ Sgranas. Você fez um favor enorme a vários indivíduos poderosos. ~p~ Os comerciantes querem tanto ficar com o planeta... vamos ver o que eles acham quando finalmente o tiverem, sem todas as coisas boas! ~p~ Heh heh heh heh heh heh...
+0x00000004 Os mais ricos e poderosos entre nós decidiram que já estamos fartos desse bando de pobres inúteis que nos sugam feito parasitas, então vamos embora daqui! Vamos ver o que eles acham disso! ~p~ Vá para o planeta ~mission_target_planet~. Ele fica no sistema ~mission_target_star~. Leve o planeta para o nível de terraformação ~mission_terraform_target_score~ para preparar a nossa mudança. ~p~Nós pagaremos ~mission_rewards~ Sgranas.
+0x0000003E Oh, isso é muito bom, cara! ~p~ Nossos armazéns estavam quase lotados. Temos uma leva completa de consumidores, pronta para ser depositada no planeta ~mission_target_planet~! ~p~ Logo eles estarão comprando (exclusivamente) os produtos da Corporação Astroverso. Não há necessidade que a Astroverso não possa atender. ~p~ Falando nisso, aqui estão suas ~mission_rewards~ Sgranas, cara. Bom Trabalho!
+0x00000002 Cara, nós temos um projeto legal em andamento. Olha só: ~p~ Nós vamos criar Consumidores de Marcas para a nossa companhia controladora, a Corporação Astroverso. ~p~ Queremos que você terraforme o planeta ~mission_target_planet~, no sistema ~mission_target_star~. ~p~ Se você puder elevar o nível planetário de terraformação para ~mission_terraform_target_score~, poderemos depositar nossas espécies consumidoras no planeta ~mission_target_planet~ e começar a gerar lucros para a Astroverso. ~p~ Cara, isso vale ~mission_rewards~ Sgranas.
+0x00000054 Vamos lá, cara! Depressa!~p~Você ainda precisa terraformar o planeta ~mission_target_planet~. O caminho é mais ou menos esse:~p~~group:star_clue~.
+0x000000B9 Terraforme o planeta ~mission_target_planet~ no sistema ~mission_target_star~.~p~Eis as informações disponíveis:~p~~group:star_clue~.~p~Use suas ferramentas de terraformação para aumentar o nível-T até ~mission_terraform_target_score~ e, então, cultive plantas para estabilizar o ambiente.
+0x00000057 Você presta um grande desserviço à Imperatriz e aos miniOogies dela vadiando durante a missão!~p~ Vá para o planeta ~mission_target_planet~ e terraforme-o para que esteja preparado quando os MiniOogies chegarem. Essa é a rota mais rápida:~p~~group:star_clue~.
+0x00000055 Por favor, terraforme o planeta ~mission_target_planet~. Este é, provavelmente, o caminho mais rápido:~p~~group:star_clue~.
+0x00000056 O que você está esperando? Vá para o planeta ~mission_target_planet~ e terraforme-o imediatamente!~p~Não conhecemos a rota exata, mas aí vai uma dica:~p~~group:star_clue~.
+0x00000053 Precisamos aliviar a pressão populacional terraformando o planeta ~mission_target_planet~. Isso vai ajudar você a chegar lá:~p~~group:star_clue~.
+0x00000058 ESTADO DA MISSÃO: Em andamento; O Contratado solicita ajuda.~p~RESUMO DA MISSÃO: Terraformar o planeta ~mission_target_planet~.~p~ADICIONAL/OUTRO: ~group:star_clue~.
+

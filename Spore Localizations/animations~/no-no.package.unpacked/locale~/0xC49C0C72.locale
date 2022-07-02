@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Administrer mål og historie i aktpanelet.
+0x079A7CE1 Beskrivelse av akten
+0x079A7B8E Introduser akten her. Spillerne ser dette på begynnelsen av akten.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfære
+0x07639100 Bestem atmosfæretettheten. Tunge skyer produserer lys. En tynn atmosfære forårsaker meteorstormer!
+
+# EP1-TerraThemes
+
+0x0771EF15 Velg et tema for planeten din.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Legge til mål
+0x07BB8BDE Hver akt kan ha opp til tre mål. Slett et mål ved å venstreklikke på søppelbøtten ved siden av det, og start denne opplæringen fra sjekklisten.
+
+# EP1-WinLoseText
+
+0x0771E83A Skriv inn tekst for seier og tap-meldinger i eventyret.
+0x07763B90 Tekst for seier og tap
+
+# EP1-ClickGoalButton
+
+0x0762251C Målpanel
+0x0762251D Gi kapteinen mål. Hver akt kan ha opp til tre mål som kan fullføres i hvilken som helst rekkefølge.~p~Aktene må ha mål for at spillerne skal kunne vinne eller tape eventyret.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Sett målet til "Snakk med" eller "Undersøk". Figurer, fremkomstmidler og gjenstander kan ha et Snakk med- eller Undersøk-mål hver per akt.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Sett motstanderens personlighet til aggressiv.
+0x07621DD8 Gi kapteinen din en motstander med oppførselspanelet. Her kan du velge personlighet, bevegelse, bevissthet og lag.
+0x07621DD7 Oppførsel
+0x0797266C Prøv endringene dine i prøvekjøringsmodus.
+0x077AD33C Sett motstanderens oppmerksomhet til maks, så den kan se kapteinen.
+0x0779D3EF Personligheter
+0x0779B5E8 Beveg markøren over rollefigurpaletten for å vise oppførselspanelknappen.
+0x0779B5E7 Oppførselspanel
+0x077AC9A2 Plasser denne markøren på en rollefigur for å få skapningen til å følge etter.
+0x077AC9A1 Følgemarkør
+0x077AC9D4 Dra Følg-markøren og plasser den på kapteinen i spillverdenen.
+0x077AD164 Dette avgjør hvor langt bort rollefiguren reagerer på andre gjenstander.
+0x077AD163 Oppmerksomhetsradius
+0x0779DB81 Velg bevegelsesknappen og trykk på Følg.
+0x0775CE3E Legg til en rollefigur
+0x0779D3F0 Bestem personligheten til en rollefigur ved å trykke på riktig knapp. Personlighetene varierer fra fredelig til aggressiv.
+0x0779DB5F Denne knappen lar deg bestemme bevegelsene til rollefigurene. Bevegelsestypene inkluderer Vandre, Patruljere, Følge og Stasjonær.
+0x0779DB5E Bevegelse
+0x0779C5B4 Venstreklikk på oppførselspanelknappen.
+0x078D7B6F Når du har plassert kapteinen, høyreklikker du på heltepanelet for å sentrere kameraet på kapteinen.
+0x0775CE3F Hvis ikke du har gjort det allerede, kan du legge til en skapning i rollefigurpaletten her. Dra skapningen fra rollefigurpaletten for å plassere et nytt eksemplar der du vil ha det.
+0x07B4EC8D Hvis du vil kopiere en rollefigur, holder du inne ALT, venstreklikker og drar ut en kopi.
+0x07C74109 Endringer du gjør påvirker alle aktene. Venstreklikk på Bruk globalt-knappen for å skru dette av, så vil nye endringer på denne rollefiguren bare gjelde akten du holder på med.
+0x07D23C43 Bra! Du ga skapningen en aggressiv personlighet.
+0x07C743A7 Global oppførsel
+0x07C742C5 Venstreklikk på Bruk globalt-knappen, så blir alle innstillingene til denne rollefiguren brukt i alle aktene.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Florapalett
+0x076390FE Velg florapaletten for å endre floraen på planeten din. Flora finner du bare på levende terreng, og når temperaturen er riktig. Det finnes kategorier for store, middels store og små planter.
+
+# EP1-TerraMood
+
+0x0771F108 Du kan låse tiden eller la den gå på normal måte.
+0x0771EFA4 Juster tiden på døgnet til et tidspunkt som passer deg.
+0x0771F133 Beveg atmosfæreglidebryteren for å velge tettheten i skylaget. Lav tetthet i atmosfæren forårsaker meteorittnedslag. Høy tetthet forårsaker tordenvær.
+0x0796DD5B Stemningspalett
+0x0796DE16 Velg stemningspaletten for å bestemme tid på døgnet, temperatur, atmosfære og vannstand på planeten.
+0x079732F0 Atmosfære
+0x079732D9 Tid på døgnet
+0x07A0112B Låsetid
+0x07957E9C Planettemperatur
+0x07957EAD Beveg glidebryteren for å bestemme temperaturen på planeten.
+
+# Complexity Meter
+
+0x07957630 Kompleksitetsmåleren forteller deg hvor mye planeten kan endres.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Venstreklikk på Fritt kamera for å skru fritt kamera av og på.
+0x079709BB Fritt kamera
+
+### Checklist UI ###
+
+0x07735BDC Sjekkliste ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Eventyrene kan ha fremkomstmidler.
+0x07621438 Fremkomstmidlene er med på rollelisten. Som skapningene, har de personlighet og oppførsel som du bestemmer.
+
+### Tutorial Checklist
+
+0x079C1550 Bygg en landsby
+0x079C1527 Lag en verden
+0x079C1570 Legge til personlighet
+0x079C1523 Lagre
+0x079C1531 Grunnleggende kontroller
+0x079C152C Velkommen
+0x0797355A Kamerakontroll
+0x07970BD9 Aktpanel
+0x079712E5 Mål med flere gjenstander
+0x07733143 Gi kapteinen et mål.
+0x07733140 Plasser en kaptein.
+0x079692E4 Legg til lyd
+0x07733141 Velg rollefigurer.
+0x07733144 Bestem oppførsel
+0x0796B1E0 Bestem oppførsel for fremkomstmidler
+0x07C7ABAA Innledning
+0x079C1586 Lag et spill
+0x079C1565 Plasser en bygning
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kapteinsutstyr
+0x079E7D0F Energimåleren holder rede på hvor mye energi noen av egenskapene bruker, og hvor mye som lagres og lades opp av batterier og generatorer. ~p~Hvis du slipper opp for energi, kan du ikke bruke egenskapene dine. ~p~Dra i krafthendelen på et gjenstand for å øke nivået og energiforbruket.
+0x079E7D0E Energimåler
+0x07A8F04B Velkommen til kapteinutstyrsbutikken. ~p~Når du fullfører eventyr i hurtigspill og romfasen, låser du opp nytt tilbehør til kapteinene dine. ~p~Disse vises i kapteinstilbehørpanelet.
+
+# EP1- ShowActUI
+
+0x07635ED1 Aktpanel
+0x07972881 Her bestemmer du musikken for hver akt.
+0x07972865 Aktmusikk
+0x07635ED2 I aktpanelet beskriver du de individuelle aktene og gir dem navn.~p~Eventyrene kan ha opp til åtte akter.~p~Du kan også bestemme musikk til akten her.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Ta en pinne fra gjenstandspaletten.
+0x0771EAE0 Nå må vi gi kapteinen noe å gjøre.
+0x0771EB72 Dra et nytt mål for akt 2 til pinnen.
+0x0771EB1C Plasser pinnen på bakken i nærheten av kapteinen.
+0x0771EAC0 Venstreklikk her for å legge til en akt til. Gjeldende akt må ha et mål før du kan legge til en ny akt.
+0x0771EC65 Bestem hva slags mål du vil bruke.
+0x0771ECB5 Skriv inn tekst til målkortet som forklarer hva spilleren skal gjøre.
+0x0771EC85 Sett den andre markøren på en skapning.
+0x0771ED0B Lagre det du har gjort ved å venstreklikke på lagringsknappen når som helst.
+0x078DB94B Venstreklikk på paletten for stasjonære gjenstander.
+0x078DB6DF Stasjonære gjenstander
+0x078DB94A Stasjonære gjenstander
+0x078DB6E0 Venstreklikk og dra stasjonære gjenstander inn i spillverdenen for å komme i gang.
+0x07763A67 Legg til akt
+0x07B4E966 Lagrer eventyr
+
+# Checklist
+
+0x07A3CFA7 Du kan skru opplæringer på igjen i innstillingsmenyen.
+0x07912CD1 Sjekkliste
+0x07912D11 Venstreklikk på elementer i sjekklisten for å få hjelp til å lage et eventyr.~p~Opplæringer låses opp etter hvert som du går nedover listen.~p~Åpne dem og venstreklikk på noe som er tilgjengelig.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 Minikartet er nyttig når du skal navigere deg gjennom eventyrene. Kapteinens posisjon, mål og startposisjon vises på minikartet.
+0x0775F221 Minikart
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Velkommen til eventyrskaperen.
+0x0761D564 Lag eventyr som kan spilles av Spore-spillere over hele verden. Ta deg tid til å bli kjent med alle de tilgjengelige verktøyene. ~p~Lag en egen verden, befolk den med skapninger av alle typer, lag mål og fortell en historie andre Spore-spillere kan kose seg med.
+
+# Hint
+
+0x0771DE1F Skriv inn tekst for å bestemme hva rollefiguren skal si. Dette vises i eventyret.
+0x078D93DA Snakketekst
+0x0771D3CF Venstreklikk på Navn og beskrivelse-boksen for å gi eventyret et navn.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Velg kaptein!
+0x07D087E0 Lag en helt ny kaptein fra grunnen av, eller velg en skapning du har laget ved å klikke på "Alt"-filteret. ~p~Kapteinen får erfaring (eventyrpoeng) hver gang du fullfører et eventyr. ~p~Erfarne kapteiner får tilgang til nytt utstyr og tilbehør.~p~Velg en kaptein for å begynne reisen.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minikart
+0x079E8124 Minikartet er nyttig når du skal navigere deg rundt på planeten. ~p~Kapteinens posisjon, mål og startposisjon vises på minikartet.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Nå kan du teste eventyret ditt igjen.
+0x07763C47 Prøvekjøring igjen
+
+# EP1-Audio
+
+0x0796A67A Hvis ikke du har gjort det, velger du en lydgjenstand fra Sporepedia og drar den inn i spillverdenen. Hold markøren over gjenstanden for å høre lyd fra den.
+0x0796A679 Lydgjenstander
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Palett for stasjonære gjenstander
+0x0762143E Stasjonære gjenstander kan brukes som dekorasjoner og for å hjelpe spilleren med å navigere seg rundt. Verktøy og gjenstander som kan plukkes opp, beveges, gis som gaver eller veltes finner du også her.
+
+# EP1-PaintModeIntro
+
+0x076756BA Terrengmodus
+0x076756BB I terrengmodus har du temaer og verktøy for å fargelegge eventyrplaneten din.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Endre rekkevidden til lyden ved å bevege markøren over gjenstanden, holde inne Skift og rulle med musehjulet.
+0x0771F1F1 Plasser lyden du har valgt.
+0x0795826C Endre vinkelen ved å velge gjenstanden og dra i rotasjonsringen.
+0x07972C1C Endre volum ved å velge gjenstanden og dra i volumringen.
+
+# Add a building
+
+0x079AC52F Plasser bygninger
+0x07C7361C Jobbe med bygninger
+0x07C73644 Hold inne Tab-tasten og hold markøren over bygningen for å få frem hendler som bestemmer rotasjon og helning. Hold inne Alt og dra for å kopiere.~p~Det kan hende at skapninger og kjøretøyer ikke greier å passere mellom bygninger som er for nær hverandre.
+0x07BB5926 Plasser bygninger
+0x079AC7EF Hvis ikke du allerede har gjort det, velger du en bygning i Sporepedia. Dra den til dit du vil ha den.
+0x079AC545 Når du skal begynne å lage en landsby, velger du bygningspaletten.
+
+# EP1-DragCreature
+
+0x075E4E54 Venstreklikk på skapningen og dra den til et sted i nærheten av kapteinen.
+
+# EP1-DragHero
+
+0x07577C95 Venstreklikk på heltepanelet og dra kapteinen inn i spillverdenen.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Bruk glidebryterne til å endre fargene for levende og dødt terreng. Det kan hende du ikke alltid vil kunne se forskjell.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Du kan sette opp hastigheten på verden ved å venstreklikke på disse knappene.
+0x0771E735 Venstreklikk på byggemodusknappen for å gå tilbake til redigeringen.
+0x0771E683 Det du skriver om målet vises på målkortet.
+0x07763BB6 Hastighetsknapper
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Hold inne høyre museknapp og beveg musen over planeten for å kikke deg rundt.
+
+# EP1-Teams
+
+0x0771F3ED Velg Lag A for en skapning for å legge den til å laget til kapteinen.
+0x0771F410 Lag B er alltid mot kapteinen.
+0x0771F426 Hvis ikke du velger lag, er skapningen nøytral.
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planetmaling
+0x076390FC Terrenget kan farges i henhold til høyde ved hjelp av terrenghøydefargeleggeren. Fargene matcher temaet til planeten din.
+0x07BBAF6C Du velger farge for vann, atmosfære, strender og klipper ved å venstreklikke på ikonet og velge fargen i fargevelgeren.
+0x07BBAF80 Prøv å endre fargene på planeten for å få looken du er ute etter.
+0x07BBAF62 Klipper, strender, atmosfære, vann
+0x07D2278E Dra en høydemarkør til høyden du vil farge.
+0x07973230 Farg i henhold til høyde
+0x079731E7 Velg planetmalepaletten
+0x07DB8058 Lag et nytt fargelag ved å venstreklikke på terrenghøydemåleren.
+0x07D2274B Velg en farge for markøren i fargevelgeren. Du kan slette den senere ved å dra den bort fra paletten.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Eventyroppdragskort
+0x07634DAD Oppdragskortene forteller spillerne hva gjeldende mål er.
+
+# EP1-CamZoom
+
+0x07563B2B Bruk musehjulet til å zoome inn og ut.
+
+# EP1-FirstAdventure
+
+0x07D087E1 Velkommen til ditt første eventyr!
+0x07D087E2 Kapteinen din får erfaring når du har fullført dette eventyret. ~p~Du kan følge med på kapteinens fremgang i Sporepedia. ~p~Når du er på planeten, kontrollerer du kapteinen din på samme måte som du kontrollerte skapningen din i skapningsfasen. ~p~Nå skal vi se på hva som er nytt.
+
+##Terrain Mode items
+
+0x0762143F Tilgjengelige rollefigurer
+0x07621440 Alle du har lagt til i rollelisten fra Sporepedia til bruk i eventyret vises her.
+0x0791911C Flora
+0x07919119 Terraforming
+0x0791911B Vær
+0x0791911A Velge et tema
+0x079C153A Terrengfarger
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Sørg for å holde energinivået høyt, ellers kan det hende at noen av egenskapene dine ikke kan brukes. ~p~Utstyr kapteinen din med batterier og generatorer for å øke energien.
+0x079E7E25 Energi
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Venstreklikk på byggemodusknappen en gang til.
+0x07763AD7 Byggemodus igjen
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Høyreklikk på motstanderen i rollefigurpaletten for å sentrere kameraet.
+0x075E5364 Hold inne Skift-tasten og rull med musehjulet over rollefiguren for å justere størrelsen.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Prøvekjøring
+0x075F5A4F Venstreklikk på prøvekjøringsknappen for å prøve ut eventyret du lager.
+
+# New Join with Sword
+
+0x07A81511 To gjenstandsmål
+0x078E92E3 Velg Bring til mål-type.
+0x07A81521 Ta en målmarkør og slipp den på den første av de to gjenstandene du skal bruke "Bring til" på.
+0x07A81620 Plasser den andre markøren i "Bring til"-målet på en gjenstand eller skapning som kan komme i kontakt med den første gjenstanden.
+0x07A814D8 Bring til- og Blokker-mål krever to gjenstander for å fullføres. En eller begge må være mulige å bevege eller kunne beveges uavhengig av hverandre. "Bring til" krever at kapteinen fører dem sammen. "Blokker" krever at kapteinen holder dem fra hverandre.
+0x07BA7CC2 Mål med to gjenstander (del 2)
+0x07BA7DAE Finn eller plasser den andre gjenstanden for dette målet og dra den andre målmarkøren til den for å fullføre setningen.
+
+# EP1-NameAdventure
+
+0x0771D3CE Navn på eventyr
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Dette er panelet for rollebesetningen i eventyret.
+0x076214A1 Alt du legger til i eventyret vises her.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Rollefigurpalett
+0x075E079E Venstreklikk for å velge rollefigurpaletten.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Fremdriftsmåleren følger med på hvor mange mål du har nådd og hvor mange du har igjen. ~p~Når måleren er full, fullføres eventyret.
+0x079E8180 Fremdriftsmåler
+
+# EP1-Vehicles
+
+0x0796C959 Velg fremkomstmiddelets oppførselsknapp.
+0x0796B4AC Fremkomstmiddelpalett
+0x0796B4AD Velg fremkomstmiddelpaletten for å legge til fremkomstmidler i eventyret.
+0x0796C41F Beveg markøren over rollefigurpaletten for å vise oppførselspanelknappen.
+0x0796C41E Oppførsel for fremkomstmidler
+0x0796B623 Legg til et fremkomstmiddel
+0x0771F308 Bestem oppførsel for fremkomstmiddel.
+0x0771F399 Dra patruljemarkøren til det andre punktet på fremkomstmiddelets patruljerute.
+0x0771F293 Legg til et fremkomstmiddel fra Sporepedia i rollelisten. Så plasserer du det et sted ved å dra det fra paletten.
+0x0796CC7D Venstreklikk på bevegelsesknappen. Velg Patruljer.
+0x07D23877 "Flytt til" likner, men med dette blir figuren værende ved den siste markøren.
+0x07D6257A Trykk på Alt og dra markøren for å sette et punkt bortenfor det første. Fremkomstmiddelet beveger seg fra en ende av patruljeringsruten til den andre og tilbake.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Lydpanel
+0x079694A7 Velg denne paletten for å legge til lyd og musikk i eventyret.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Oppdragskortet forteller deg hva som er de viktigste målene for øyeblikket. ~p~Nå alle målene for å gå videre til neste akt.
+0x079E8049 Oppdragskort
+
+# EP1-SelectHero
+
+0x07578A4F Plasser kaptein
+0x07578A50 Kapteinen er stjernen i eventyret. Dette er spillfiguren til spilleren.
+
+# EP1-TestModeIntro
+
+0x07632EEC Velkommen til prøvekjøring
+0x07632EED Hvis du prøvekjører eventyret ditt, kan du luke ut feil og spille gjennom et du holder på med å lage.~p~Gå tilbake til byggemodus når du finner noe du vil endre i eventyret.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Venstreklikk på byggemodusknappen for å gå tilbake til redigeringen.
+0x075F5A50 Byggemodus
+
+# EP1-Flora
+
+0x0771F197 Velg ny flora du vil ha på planeten. Flora finner du på levende terreng, og når temperaturen er riktig.
+
+# EP1-DragGoal
+
+0x075F39B9 Plasser en målmarkør på en rollefigur for å sette mål for kapteinen.
+0x07971E8D Målmarkører brukes til å bestemme mål for kapteinen i et eventyr. Målene inkluderer Snakk til, Gi gave, Ødelegg og Bli venn med.
+0x07971D33 Gi et mål
+
+##End
+
+0x0762407B Plasser lyder i eventyret ved å dra dem dit du vil ha dem. Juster hendlene for å bestemme hvor langt unna lydene kan høres og hvor de blir igangsatt.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Velg temapaletten.
+0x076390FA Temaer gir planeten en helt ny, fargerik stil.
+0x079207E3 Temapalett
+0x07920810 Temaer
+
+#Test Mode Goal Cards
+
+0x07A80599 I prøvekjøring kan du hoppe over mål ved å venstreklikke på markøren ved siden av målet.
+0x07A805ED Hoppe over mål
+0x07A805F9 Hoppe over akter
+0x07A805FE Du kan hoppe mellom akter ved å venstreklikke på pilene øverst på målkortet.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Bruk hendlene til å endre størrelse, intensitet og retning.
+
+# EP1-SelectCreature
+
+0x075E2C84 Legg til en skapning
+0x075E2C85 Venstreklikk og dra en skapning til et sted i eventyret.~p~Gå til Sporepedia for å velge en skapning hvis ikke du har en.
+
+# EP1-FirstClickTerraCategory
+
+0x07639102 Her kan du gjøre endringer på terrenget, velge flora og bestemme stemning for planeten.
+0x07639101 Velkommen til terraformmodus.
+0x0791F5B7 Terrengpalett
+0x07959720 Bruk stemplene til å gi terrenget fjellandskap.
+0x07958D39 Velg et terrengstempel og dra det til planeten.
+0x0791F5B8 Fjell
+0x07B3A935 Velg terrengpaletten for å få tilgang til terrengstempler.
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Bruk gjenfødelsesoppførsel til å få skapninger til å gjenfødes og bli flere.
+0x07A032FB Gjenfødelse
+0x07A03396 Frekvensen bestemmer hvor ofte en skapning fødes. Grensen bestemmer hvor mange det kan være i spillverdenen på en gang.
+0x07A034A1 Spillgjenstander bør testes. Bruk prøvekjøring ofte.
+0x07A033EF Spillgjenstander gjør eventyret mer utfordrende og moro.~p~Velg en fra Sporepedia og plasser den i spillverdenen.
+0x07A033E5 Spillgjenstander
+0x07A02DE0 Velg en håndholdt gjenstand fra Sporepedia og dra den inn i spillverdenen.
+0x07A02DD5 Håndholdt gjenstand
+0x07A02E13 Håndholdte gjenstander kan plukkes opp, bæres rundt og gis til andre skapninger.
+0x07A03149 Akt-timer
+0x07A02FFC Omslagsillustrasjon for eventyr
+0x07A03553 Ta et bilde til omslaget ved å venstreklikke på kameraknappen i prøvekjøring.~p~Bildet vises i panelet for navn og beskrivelse.
+0x07A03155 Hvis du vil sette tidsbegrensning på en akt, venstreklikker du på akt-timer-knappen. Velg tiden du vil at spillerne skal ha på seg på å nå målene i akten.
+0x07A0304F Hvis du vil lage en omslagsillustrasjon for eventyret ditt som spillere kan se i Sporepedia, må du plassere kameraet der du vil ha det.~p~Så åpner du panelet for navn og beskrivelse og venstreklikker på kameraknappen.~p~Velg det som passer best for eventyret ditt.
+
+# EP1-CamRotate
+
+0x07563B2A Klikk med midtre museknapp og beveg musen for å rotere og tilte kameraet. I brukerveiledningen har du en liste over taster du kan bruke.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Bygninger
+0x0762143A Det du lager i bygningsskaperen kan også være med i eventyrene. Bygninger kan tilhøre et lag og gi meldinger til spilleren. De kan også bli skadet av avanserte våpen. Aggressive NPC-er kan angripe bygninger som er nøytrale eller tilhører det andre laget.
+

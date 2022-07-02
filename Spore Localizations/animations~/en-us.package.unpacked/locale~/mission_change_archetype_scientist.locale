@@ -1,0 +1,39 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 ~player_title~ ~player_creature_name~, clearly you have studied all of the other options and have found them wanting compared to the Philosophy of Science. We like that attitude of attention to detail.~p~Keep in mind that this requires rigorous study, and it is not an inexpensive endeavor! Tuition for our discipline is ~mission_accept_cost~ Sporebucks and of course in exchange for your new abilities, you must give up your old.~p~Are you willing to apply yourself to your studies?
+0x00000007 This sounds interesting... go on...
+0x0000000B I'm not interested right now. Maybe later.
+0x00000002 ~player_title~ ~player_creature_name~, the Philosophy of Science is the study and acquisition of knowledge in any way we can.~p~If you are smart enough to join our ranks, a very scholarly pursuit, you will gain access to our super power - The Gravitation Wave. With this powerful scientific weapon, you can destroy all colonies, cities or tribes on a planet.
+0x00000022 I accept your Philosophy of Science. I'm ready to begin my training.
+0x00000029 I've changed my mind. I will stay as I am for now.
+0x00000033 Welcome ~player_title~ ~player_creature_name~! Let the commencement commence!~p~The Gravitation Wave is yours! Go forth and soak up knowledge like a celestial sponge!
+0x00000034 I am excited, but before I go...
+0x0000003A Thank you, I shall now go try out the Gravitation Wave! 
+0x00000004 Full understanding of our principles does not come quickly. We require more dedicated work.~p~You still need to discover ~mission_num_actions_left_to_perform~ more non-planetary astronomical ~^p^mission_num_actions_left_to_perform^object^objects~.
+0x0000004A Got it. One other thing...
+0x0000004E I don't understand your principle... I shall move on now...
+0x00000053 I'm off!
+0x0000000E ~player_title~ ~player_creature_name~, exploration and discovery are the paths to the Philosophy of Science.~p~Explore ~mission_num_actions_left_to_perform~ non-planetary ~^p^mission_num_actions_left_to_perform^system^systems~, including blackholes, nebulae or other galactic objects.~p~Go forth and bring back knowledge! Knowledge is the only true power!
+0x00000003 I'd like to ask you about something else...
+0x0000005F I understand. Farewell.
+0x0000000F Rational thought will surely lead you to the Philosophy of Science. Until then, we hope your travels are enlightening.
+0x0000006B I'd like to ask you about something else...
+0x00000071 I must follow a different path. Farewell.
+0x00000010 This erratic behavior seems unscientific. Perhaps our Philosophy is not for you.
+0x00000005 I'd like to ask you about something else...
+0x0000007E I must follow a different path. Farewell.
+0x00000084 ...
+0x00000085 I'm supposed to do what, now?
+0x00000006 I'd like to ask you about something else...
+0x00000008 This is logical. Farewell.
+0x00000011 Discover ~mission_num_actions_left_to_perform~ non-planetary ~^p^mission_num_actions_left_to_perform^system^systems~ in your pursuit of the Philosophy of Science.
+0x00000012 Your training is complete! 
+0x00000013 Non-planetary systems can be blackholes, nebulae or other galactic objects.
+0x00000014 Return to the ~mission_source_star~ star system!
+0x00000016 Exploration and discovery are the paths to the Philosophy of Science.~p~Explore ~mission_num_actions_left_to_perform~ non-planetary ~^p^mission_num_actions_left_to_perform^system^systems~ including blackholes, nebulae or other galactic objects.~p~This will earn you the Gravitation Wave which could help you destroy all colonies, cities or tribes on a planet.
+0x00000017 Your Philosophy of Science training is complete! Return to the ~mission_source_star~ star system!

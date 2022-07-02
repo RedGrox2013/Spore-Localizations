@@ -1,0 +1,122 @@
+﻿0x50F7380E Electronic Arts~EA_GAMES~
+0x07F727E1 SPORE™~GAME_TITLE~
+0x319AD21D SPORE™ – Galaksissa kuhisee~PRODUCT_NAME~
+0x1004B90B Haluatko asentaa EA Download Managerin (EADM) viimeisimmän version? EADM ilmoittaa sinulle uusista pelipäivityksistä ja parannuksista sekä nopeuttaa niiden lataamista ja asentamista. EADM-sovellusta käyttävät pelaajat saavat myös ainutlaatuista lisäsisältöä ja pelipäivityksiä suoraan Maxis™-studiolta.~EADM_Install~
+0x64663ACA SPORE™-pelin päivitystä ei suoritettu loppuun. Yritä SPORE™-pelin päivitystä myöhemmin uudelleen tai pyydä lisätietoa asiakaspalvelusta.~PATCH_FAILED~
+0x7734F859 Voit asentaa kohteen ~string~ vain, jos olet jo asentanut SPORE™-pelin.~SPORE_NOT_INSTALLED~
+0x6BA1B25F Valitulla kiintolevyllä ei ole riittävästi vapaata tilaa. Vapauta tilaa valitulta kiintolevyltä.~NO_SPACE_MSG_CP~
+0x7FA1F2A0 Poista ~string~~UNINSTALL_APPLICATION~
+0x3C7BB1E1 SPORE™-pelin asennusohjelma päivittää ensin SPORE™-pelin viimeisimpään versioon ja jatkaa sitten kohteen ~string~ asennusta.~UPDATE_SPORE~
+0x64A17D06 Asennuksen yhteydessä ilmeni virhe. Asennusta ei voitu suorittaa loppuun, joten se pysäytettiin. Yritä uudelleen.~GENERAL_ERROR~
+0x58210F85 Kohteen ~string~ asennus epäonnistui. Järjestelmää ei ole muokattu. Yritä uudelleen.~INSTALL_UNSUCCESSFUL~
+0x44CA6AE6 Pelin asentamiseen vaaditaan järjestelmänvalvojan käyttöoikeudet.~ADMINISTRATOR_ACCOUNT~
+0x367E6B82 SPORE™-peli on jo käynnissä. Sulje SPORE™ ennen kuin jatkat.~GAME_RUNNING~
+0x5EC7AFC0 SPORE™-otuseditori on jo käynnissä. Sulje SPORE™-otuseditori, ennen kuin jatkat.~GAME_RUNNING_CSA~
+0x0E777733 Päivitettävä tiedosto puuttuu.~PATCH_ERROR_MISSING_FILE~
+0x2BF6EA98 Valitussa asemassa ei ole riittävästi vapaata levytilaa. Poista tiedostoja tai valitse toinen asema.~NO_SPACE_MSG~
+0x5CEBC9EF Muokkausajan merkintä päivitettyyn tiedostoon ei onnistu.~PATCH_ERROR_TIME~
+0x46A61B9B Kohdetta ~string~ ei löytynyt.~MISSING_FILES~
+0x0D849C4A Kun olet valmis, voit poistua napsauttamalla Valmis-painiketta~CLICK_FINISH~
+0x70C5CBE4 Ylivuototietoja ei voi tallentaa.~PATCH_ERROR_OVERFLOW_WRITE~
+0x6BCC80AF Tiedostoa ei voi nimetä uudelleen tai poistaa. Tiedosto saattaa olla lukittu tai käytössä.~PATCH_ERROR_RENAMING_DELETING~
+0x38A8F152 Tervetuloa pelin ~string~ pariin!~WELCOME_SPORE_TITLE~
+0x42A0F6F9 Virhe luettaessa aiemmasta tiedostosta.~PATCH_ERROR_READING_FILE~
+0x353F37C7 ~string~ on poistettava, jotta asennusta voi jatkaa. Haluatko jatkaa?~SPORE_REMOVE_CSA_WARNING~
+0x3BCC85D2 Liian vähän levytilaa - Päivityksen asentamiseen tarvitaan vähintään %d tavua.~PATCH_ERROR_DISKSPACE~
+0x394403EB Varmistustietojen lokitiedoston luominen ei onnistunut.~PATCH_ERROR_BACKUP_LOG~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x6754C223 Uusi tiedosto on jo luotu.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x39040F38 LueMinut~README~
+0x6AEE038F Päivityshakemistoa ei ole.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x40CFBF3E Päivitystiedostoa ei voi avata.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x657F7D49 Päivitystiedostoa ei löydy.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x09FAE7DA Päivitystiedosto on virheellinen.~PATCH_ERROR_INVALID~
+0x0890C566 Virhe MSI-tietokantaa päivitettäessä.~PATCH_ERROR_MSI~
+0x08F68C4F Määritetty toiminto on virheellinen.~PATCH_ERROR_ILLEGAL~
+0x61ABCBCD Virhe uuteen tiedostoon tallennettaessa.~PATCH_ERROR_WRITING_FILE~
+0x45DB3D71 Varmistustietojen lähdetiedostoa ei voi avata.~PATCH_ERROR_BACKUP_SOURCE~
+0x0AC7C17D Puuttuva tai virheellinen rekisteri- tai INI-merkintä.~PATCH_ERROR_REGISTRY~
+0x2F6DAE9F Päivitystiedosto on tarkoitettu toiselle alustalle.~PATCH_ERROR_PLATFORM~
+0x3162CD81 Päivitysvirhe~PATCH_ERROR_TITLE~
+0x3C17044B Käyttäjä keskeytti toiminnon tai tiedoston patchw32.dll latauksessa tapahtui virhe.~PATCH_ERROR_IS_ABORT~
+0x3269ED31 Virheviestien tiedostoa ei voi avata.~PATCH_ERROR_ERROR~
+0x303D349E Tiedosto: ~string~~br~Virhe: ~string~~COMP_ERROR_MSG~
+0x07B43E64 InstallShield-asennusohjelma on päivittänyt ohjelman %P versioon %VS.~UPDATE_COMPLETE~
+0x3017EF99 Haluatko poistaa kaikki sovelluksen ~string~ luomat käyttäjätiedot?~REMOVE_USERDATA~
+0x16741C9F Käynnistä ~string~ asennuksen jälkeen~LAUNCH_SPORE~
+0x5760C2F0 Päivitystiedosto ei ole kelvollinen.~PATCH_ERROR_VERIFY_FAILED~
+0x02699E57 Asennustapa ~SETUP_TYPE_TITLE~
+0x166E669A Kohteeseen ~string~ ei voi asentaa.~br~Valitse toinen kansio.~DANGEROUS_DIRECTORY_ERROR~
+0x15C024FC Päivityskansion nimi ei ole kelvollinen.~PATCH_ERROR_DIRECTORY_INVALID~
+0x15CC67E6 ~string~ asennetaan kansioon~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x27D33671 Tiedoston polku on liian pitkä. Valitse lyhyempi tiedoston polku.~DIR_TOO_LONG~
+0x568D9702 Kumpikaan määritetyistä komentorivin asetuksista ei ole tietokoneen kansio.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x16FBAEAF Olet nyt valmis pelaamaan peliä ~string~.~READY_TO_PLAY~
+0x767EF241 Varmistustietojen kohdetiedostoa ei voi avata.~PATCH_ERROR_BACKUP_DESTINATION~
+0x03BCF887 Valitse alla olevista vaihtoehdoista.~SELECT_OPTIONS~
+0x292EDCB9 SPORE™-otuseditori~CSA_TITLE~
+0x28A00C2C Komentoriville voi määrittää vain yhden tiedoston ja yhden kansion.~PATCH_ERROR_COMMAND_LINE~
+0x01725188 SPORE™-otuseditorin päivitystä ei suoritettu loppuun. Yritä SPORE™-otuseditorin päivitystä myöhemmin uudelleen.~PATCH_FAILED_CSA~
+0x144073D1 ~string~ asennetaan valitsemaasi kansioon.~CUSTOM_SPORE_SETUP~
+0x0F5F623F Tiedoston sisäistä hakua ei voitu suorittaa.~PATCH_ERROR_SEEKING~
+0x72B5864F Aiempaa tiedostoa ei löytynyt. Samankaltainen tiedosto kuitenkin löytyi. Päivitystä ei suoritettu, sillä sisällöt eroavat toisistaan.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x0F1854E4 Sarjallistustiedostoa ei voi lukea.~PATCH_ERROR_READING_SERIALIZATION~
+0x0F48320C Tiedostoa isrtp.dll ei voitu ladata.~PATCH_ERROR_IS_LOAD~
+0x151DEC2F Spore™ ei toimi kunnolla ilman DirectX-rajapintaa.~DIRECTX_WARNING~
+0x01FCAF57 Omat Spore-luomukset ~SAVE_FOLDER~
+0x74CA8AD7 Tiedostoa ei voitu nimetä uudelleen.~PATCH_ERROR_RENAMING~
+0x59450AC4 Asennustapa~br~Valitse haluamasi asennustapa~SETUP_TYPE_MESSAGE~
+0x1498EC13 Valmiina asentamaan!~READY_TO_INSTALL~
+0x2A8D9AF3 EA-ohjeet~EA_HELP~
+0x2A2F9BCC Väliaikaisen tiedoston luominen ei onnistu.~PATCH_ERROR_TEMPORARY~
+0x4A43CA10 Aiemman tiedoston avaus ei onnistu.~PATCH_ERROR_OLD_FILE~
+0x20176E40 Varmistustiedoston kirjoittaminen ei onnistu.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x1F726BCA Pelaa~PLAY_SPORE~
+0x4C7A3E93 MSI-tuki on saatavilla vain 32-bittiseen Windows-päivitykseen.~PATCH_ERROR_MSI_32BIT~
+0x1D6F9667 Toimintoon tarvitaan päivityssovelluksen uudempi versio.~PATCH_ERROR_INCOMPATIBLE~
+0x7E8BB5FD Asennus on valmis~INSTALLATION_COMPLETE~
+0x06220BA5 Asenna ~string~ napsauttamalla Seuraava-painiketta!~WELCOME_SPORE_MESSAGE~
+0x7EC3C6FA Varmistushakemistoa ei voitu luoda.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x208AB121 Virhe päivitystä asennettaessa. (%d)~PATCH_ERROR_GENERAL~
+0x4950A450 Spore™-otuseditorin kokeiluversio~SCC_TRIAL_NAME~
+0x494AA82F Ohjattu asennustoiminto keskeytettiin, ennen kuin ~string~ oli täysin päivitetty.~br~~br~Jos haluat päivittää ohjelman täysin, käynnistä asennustoiminto uudelleen.~UNINSTALL_INCOMP~
+0x54F8A844 Liian vähän muistia.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x23584337 DOS ei tue rekisteri- tai INI-päivitystä.~PATCH_ERROR_DOS~
+0x19843E71 Uuden tiedoston avaus ei onnistu.~PATCH_ERROR_NEW_FILE~
+0x23FD0D11 Spore™-otuseditori~SCC_NAME~
+0x25A6ABC6 Tiedoston avaaminen ylivuototietoja varten ei onnistunut.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55BA6A48 Ylivuototietoja ei voi lukea.~PATCH_ERROR_OVERFLOW_READ~
+0x3D73B13D Päivitystiedostossa määritettyä päivitystä ei löydy.~PATCH_ERROR_NOT_FOUND~
+0x1ADB7500 Sarjallistustiedostoa ei voi avata.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x4C87F179 Tiedosto on jo päivitetty.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF Keskeytetty erikoistoiminnolla.~PATCH_ERROR_CUSTOM_ACTION~
+0x227BB46B Hyväksyttyä salasanaa ei ole kirjoitettu. Päivitystä ei voitu asentaa.~PATCH_ERROR_PASSWORD~
+0x783C20B6 InstallShield-asennusohjelma päivittää ohjelman %P versiosta %VI versioon %VS. Jatka napsauttamalla Seuraava.~UPDATE_TO_NEW_VERSION~
+0x5C043E34 Päivitetään tiedostoja.~APPLY_PATCH~
+0x71211E4D Tiedosto patchw32.dll on varattu.~PATCH_ERROR_BUSY~
+0x6CD070E6 Kaikkea asennuksen poistamiseen tarvittavaa tietoa ei löytynyt. Kyseessä saattaa olla asennusvirhe. Osa tiedostoista ja kansioista on ehkä poistettava erikseen.~MISSING_UNINSTALL~
+0x1E337A76 Aloita asennus napsauttamalla asennuspainiketta.~br~~br~Jos haluat tarkastella tai muuttaa asennusasetuksia, napsauta paluupainiketta. Voit lopettaa asennuksen napsauttamalla peruutuspainiketta.~br~~br~Kohteen ~string~ voi poistaa vasta, kun ~string~ on poistettu.~DLG_SDSTARTCOPY2_MSG~
+0x7B152168 Aloita asennus napsauttamalla asennuspainiketta.~br~~br~Jos haluat tarkastella tai muuttaa asennusasetuksia, napsauta paluupainiketta. Voit lopettaa asennuksen napsauttamalla peruutuspainiketta.~BEGIN_INSTALLATION~
+0x51909529 Poista tämän laitteen varmennus~DEAUTHORIZE~
+0x374F68D8 Odota hetki. Asennusohjelma pyrkii poistamaan kohteen ~string~ varmennuksen.~WAIT_DEAUTHORIZE~
+0x3B9C8CD2 Kaikki lisäosat on poistettava, ennen kuin ~string~ voidaan poistaa.~UNINSTALL_EXPANSIONS_FIRST~
+0x3C8EC28C SPORE™-otuseditori on poistettava ennen kuin kohde ~string~ voidaan poistaa.~UNINSTALL_CSA_FIRST~
+0x711D4A01 Voit asentaa kohteen ~string~ vasta asennettuasi SPORE™-pelin tai SPORE™-otuseditorin.~CSA_TRIAL_UNSUPPORTED~
+0x0018FC1D SPORE™-pelin asennusohjelma päivittää ensin SPORE™-otuseditorin viimeisimpään versioon ja jatkaa sitten kohteen ~string~ asennusta.~UPDATE_CSA~
+0x5E418C32 SPORE™ on poistettava ennen kuin kohde ~string~ voidaan poistaa.~UNINSTALL_SPORE_FIRST~
+0x40D6F8BD Lue LueMinut.txt asennuksen jälkeen~VIEW_README~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x51EA40D5 Jos et ole yhdistettynä internetiin ja jatkat asennuksen poistoa, tuotteen varmennusta ei poisteta tältä tietokoneelta. Haluatko jatkaa?~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\Lueminut.txt~ADD_REMOVE_PROGRAMS_README~
+0x0AA43B92 Suositellaan ~RECOMMENDED~
+0x0A77D8D6 SPORE™ – Galaksissa kuhisee~SPORE_EP1_NAME~
+0x7426EAA1 Pikakuvake~DESKTOP_SHORTCUT~
+0x4DE32707 Sulje ~string~ ennen kuin jatkat.~GAME_RUNNING_STRING~
+0x7D4A4E2F Oma ~CUSTOM~
+0x3D927FE5 KÄYTTÖOIKEUSSOPIMUS~SOFTWARE_LICENSE~
+0x40922E1B Pelin ~string~ asennusohjelma on päivittänyt pelin ~string~ versioon ~string~.~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D Pelin ~string~ tulee olla asennettuna tietokoneelle, jotta ~string~ voidaan päivittää.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 Pelin ~string~ asennusohjelma päivittää pelin ~string~ viimeisimpään versioon.~UPDATE_PRODUCT~
+0x7D34F09B Pelin ~string~ asennusohjelma pyrkii päivittämään tietokoneelle asennetun version (~string~) pelistä ~string~ versioon ~string~.~UPDATING_TO_NEW_VERSION~
+0x3D80E796 ~string~ on ajan tasalla. Päivitys ei ole tarpeellinen.~PATCH_NOT_REQUIRED~
+

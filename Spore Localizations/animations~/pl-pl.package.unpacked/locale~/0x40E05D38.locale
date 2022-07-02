@@ -1,0 +1,122 @@
+﻿0x50F7380E Electronic Arts~EA_GAMES~
+0x07F727E1 SPORE™~GAME_TITLE~
+0x1004B90B Czy chcesz zainstalować najnowszą aplikację EA Download Manager? EADM będzie Cię powiadamiać o dostępnych najnowszych aktualizacjach i dodatkach do Twoich gier, a także umożliwi szybsze ich pobranie i zainstalowanie. Ponadto po zainstalowaniu EADM zyskasz dostęp do ekskluzywnych materiałów i elementów rozgrywki od Maxis™.~EADM_Install~
+0x64663ACA Aktualizacja gry SPORE™ nie została zakończona. Spróbuj zaktualizować grę później lub skontaktuj się z działem obsługi klienta.~PATCH_FAILED~
+0x7734F859 Aby móc zainstalować produkt ~string~ na Twoim komputerze musi być zainstalowana gra SPORE™.~SPORE_NOT_INSTALLED~
+0x6BA1B25F Na wybranej partycji jest za mało wolnego miejsca. Zwolnij na niej miejsce.~NO_SPACE_MSG_CP~
+0x7FA1F2A0 Usuń produkt ~string~~UNINSTALL_APPLICATION~
+0x3C7BB1E1 Instalator SPORE™ najpierw zaktualizuje grę SPORE™ do najnowszej wersji. Produkt ~string~ zostanie zainstalowany po zakończeniu aktualizacji.~UPDATE_SPORE~
+0x64A17D06 Wystąpił błąd. Instalacja nie może zostać dokończona. Program zakończy pracę. Spróbuj ponownie później.~GENERAL_ERROR~
+0x58210F85 Produkt ~string~ nie został zainstalowany. W Twoim systemie nie zostały wprowadzone żadne zmiany. Spróbuj ponownie.~INSTALL_UNSUCCESSFUL~
+0x44CA6AE6 Do instalacji wymagane są uprawnienia administratora.~ADMINISTRATOR_ACCOUNT~
+0x367E6B82 Gra SPORE™ jest aktualnie uruchomiona. Zamknij grę SPORE™, a następnie kontynuuj proces.~GAME_RUNNING~
+0x0E777733 Nie można znaleźć poprzedniej wersji aktualizowanego pliku.~PATCH_ERROR_MISSING_FILE~
+0x2BF6EA98 Na wybranej partycji jest za mało wolnego miejsca. Możesz usunąć pliki z wybranej partycji lub wybrać inny napęd.~NO_SPACE_MSG~
+0x5CEBC9EF Nie można ustawić czasu/daty aktualizacji pliku.~PATCH_ERROR_TIME~
+0x46A61B9B Nie znaleziono: ~string~.~MISSING_FILES~
+0x0D849C4A Kliknij „Zakończ”, aby wyjść i rozpocząć grę~CLICK_FINISH~
+0x70C5CBE4 Nie można zapisać danych w tabeli danych nadmiarowych.~PATCH_ERROR_OVERFLOW_WRITE~
+0x6BCC80AF Nie można zmienić nazwy lub usunąć pliku. Plik może być zablokowany lub wykorzystywany przez inną aplikację.~PATCH_ERROR_RENAMING_DELETING~
+0x38A8F152 Witamy w grze ~string~~WELCOME_SPORE_TITLE~
+0x42A0F6F9 Podczas odczytywania zawartości starego pliku wystąpił błąd.~PATCH_ERROR_READING_FILE~
+0x353F37C7 Aby kontynuować, musisz zdezinstalować program ~string~. Czy chcesz kontynuować?~SPORE_REMOVE_CSA_WARNING~
+0x3BCC85D2 Brak miejsca na dysku — do zainstalowania aktualizacji potrzeba %d B wolnego miejsca.~PATCH_ERROR_DISKSPACE~
+0x394403EB Nie można utworzyć pliku dziennika kopii zapasowej.~PATCH_ERROR_BACKUP_LOG~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x6754C223 Nowy plik już istnieje.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x39040F38 Plik Przeczytaj~README~
+0x6AEE038F Folder aktualizacji nie istnieje.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x40CFBF3E Nie można otworzyć pliku z aktualizacją.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x657F7D49 Nie można odnaleźć pliku z aktualizacją.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x09FAE7DA Plik z aktualizacją jest nieprawidłowy.~PATCH_ERROR_INVALID~
+0x0890C566 Błąd podczas aktualizacji bazy MSI.~PATCH_ERROR_MSI~
+0x08F68C4F Wybrana opcja jest nieprawidłowa.~PATCH_ERROR_ILLEGAL~
+0x61ABCBCD Podczas zapisywania nowego pliku wystąpił błąd.~PATCH_ERROR_WRITING_FILE~
+0x45DB3D71 Nie można otworzyć kopii zapasowej pliku źródłowego.~PATCH_ERROR_BACKUP_SOURCE~
+0x0AC7C17D Brakujący lub nieprawidłowy wpis w rejestrze/pliku INI.~PATCH_ERROR_REGISTRY~
+0x2F6DAE9F Uruchomiony program do aktualizacji został skompilowany do innej platformy.~PATCH_ERROR_PLATFORM~
+0x3162CD81 Błąd aktualizacji~PATCH_ERROR_TITLE~
+0x3C17044B Wczytywanie pliku patchw32.dll zostało przerwane przez użytkownika lub wystąpił błąd wczytywania.~PATCH_ERROR_IS_ABORT~
+0x3269ED31 Nie można otworzyć pliku z komunikatami o błędach.~PATCH_ERROR_ERROR~
+0x303D349E Plik: ~string~~br~Błąd: ~string~~COMP_ERROR_MSG~
+0x07B43E64 Kreator InstallShield zaktualizował program %P do wersji %VS.~UPDATE_COMPLETE~
+0x3017EF99 Czy chcesz usunąć wszystkie dane użytkownika stworzone za pomocą ~string~?~REMOVE_USERDATA~
+0x16741C9F Uruchom grę ~string~ po zainstalowaniu~LAUNCH_SPORE~
+0x5760C2F0 Plik z aktualizacją jest nieprawidłowy.~PATCH_ERROR_VERIFY_FAILED~
+0x02699E57 Typ instalacji~SETUP_TYPE_TITLE~
+0x166E669A Nie można zainstalować w folderze ~string~~br~Wybierz inny folder.~DANGEROUS_DIRECTORY_ERROR~
+0x15C024FC Nazwa folderu aktualizacji nie jest prawidłową nazwą folderu.~PATCH_ERROR_DIRECTORY_INVALID~
+0x15CC67E6 Gra ~string~ zostanie zainstalowana w folderze~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x27D33671 Ścieżka dostępu do pliku jest zbyt długa. Proszę wybrać krótszą.~DIR_TOO_LONG~
+0x568D9702 Żaden z podanych parametrów wiersza poleceń nie jest nazwą istniejącego folderu.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x16FBAEAF Teraz możesz rozpocząć zabawę z grą ~string~~READY_TO_PLAY~
+0x767EF241 Nie można otworzyć kopii zapasowej pliku docelowego.~PATCH_ERROR_BACKUP_DESTINATION~
+0x03BCF887 Wybierz jedną z poniższych opcji.~SELECT_OPTIONS~
+0x28A00C2C W trybie wiersza poleceń można podać tylko jeden plik i jeden folder.~PATCH_ERROR_COMMAND_LINE~
+0x01725188 Aktualizacja Fabryki stworów SPORE nie została zakończona. Spróbuj dokonać ponownej aktualizacji Fabryki stworów SPORE w późniejszym czasie.~PATCH_FAILED_CSA~
+0x144073D1 Gra ~string~ zostanie zainstalowana we wskazanym folderze.~CUSTOM_SPORE_SETUP~
+0x0F5F623F Nie można przejść w wymagane miejsce w pliku.~PATCH_ERROR_SEEKING~
+0x72B5864F Nie znaleziono starego pliku. Znaleziono jednakże plik o takiej samej nazwie. Plik nie został zaktualizowany ze względu na różnice w zawartości.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x0F1854E4 Nie można odczytać pliku serializacji.~PATCH_ERROR_READING_SERIALIZATION~
+0x0F48320C Nie można załadować biblioteki isrtp.dll.~PATCH_ERROR_IS_LOAD~
+0x151DEC2F Gra SPORE nie będzie działała prawidłowo bez DirectX.~DIRECTX_WARNING~
+0x01FCAF57 Moje dzieła SPORE~SAVE_FOLDER~
+0x74CA8AD7 Nie można zmienić nazwy pliku.~PATCH_ERROR_RENAMING~
+0x59450AC4 Typ instalacji~br~Wybierz typ instalacji~SETUP_TYPE_MESSAGE~
+0x1498EC13 Gra gotowa do instalacji!~READY_TO_INSTALL~
+0x2A8D9AF3 Pomoc EA~EA_HELP~
+0x2A2F9BCC Nie można utworzyć pliku tymczasowego.~PATCH_ERROR_TEMPORARY~
+0x4A43CA10 Nie można otworzyć starego pliku.~PATCH_ERROR_OLD_FILE~
+0x20176E40 Nie można zapisać kopii zapasowej pliku.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x1F726BCA Graj~PLAY_SPORE~
+0x4C7A3E93 Obsługa MSI jest dostępna wyłącznie w przypadku aktualizacji przeznaczonej do wersji 32-bitowej systemu Windows.~PATCH_ERROR_MSI_32BIT~
+0x1D6F9667 Wymagana jest nowsza wersja programu do aktualizacji gry.~PATCH_ERROR_INCOMPATIBLE~
+0x7E8BB5FD Instalacja została zakończona~INSTALLATION_COMPLETE~
+0x06220BA5 Kliknij „Dalej”, aby zainstalować grę ~string~ na swoim komputerze!~WELCOME_SPORE_MESSAGE~
+0x7EC3C6FA Nie można utworzyć folderu zapasowego.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x208AB121 Podczas instalowania aktualizacji wystąpił błąd. (%d)~PATCH_ERROR_GENERAL~
+0x494AA82F Praca kreatora została zakłócona przed pełną aktualizacją programu ~string~.~br~~br~Aby w przyszłości w pełni zaktualizować program, uruchom ponownie plik z aktualizacją.~UNINSTALL_INCOMP~
+0x54F8A844 Niewystarczająca ilość dostępnej pamięci.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x23584337 Aktualizacja rejestru/pliku INI nie jest możliwa w systemie DOS.~PATCH_ERROR_DOS~
+0x19843E71 Nie można otworzyć nowego pliku.~PATCH_ERROR_NEW_FILE~
+0x25A6ABC6 Nie można otworzyć pliku w celu pobrania nadmiarowych danych.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55BA6A48 Nie można odczytać danych z tabeli danych nadmiarowych.~PATCH_ERROR_OVERFLOW_READ~
+0x3D73B13D Nie można znaleźć aktualizacji wskazanej w pliku z aktualizacją.~PATCH_ERROR_NOT_FOUND~
+0x1ADB7500 Nie można otworzyć pliku serializacji.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x4C87F179 Ten plik został już zaktualizowany.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x48DBEDEF Aktualizacja przerwana przez użytkownika.~PATCH_ERROR_CUSTOM_ACTION~
+0x227BB46B Nie podano prawidłowego hasła. Aktualizacja nie może zostać zainstalowana.~PATCH_ERROR_PASSWORD~
+0x783C20B6 InstallShield Wizard dokona aktualizacji zainstalowanej wersji (%VI) gry %P do wersji %VS.  Aby kontynuować, wciśnij przycisk Dalej.~UPDATE_TO_NEW_VERSION~
+0x5C043E34 Trwa aktualizowanie plików...~APPLY_PATCH~
+0x71211E4D Plik patchw32.dll jest aktualnie wykorzystywany przez inny proces.~PATCH_ERROR_BUSY~
+0x6CD070E6 Nie znaleziono części informacji niezbędnych do dokończenia dezinstalacji. Podczas początkowej instalacji mógł wystąpić błąd. Konieczne może być ręczne usunięcie niektórych plików i folderów.~MISSING_UNINSTALL~
+0x1E337A76 Kliknij „Instaluj”, aby rozpocząć instalację. ~br~~br~Aby przejrzeć lub zmienić parametry instalacji, kliknij przycisk „Wstecz”. Aby zakończyć pracę kreatora, kliknij przycisk „Anuluj”. ~br~~br~Nie możesz zdezinstalować programu ~string~ do czasu zakończenia dezinstalacji programu ~string~.~DLG_SDSTARTCOPY2_MSG~
+0x7B152168 Kliknij „Instaluj”, aby rozpocząć instalację~br~~br~Jeśli chcesz przejrzeć lub zmienić parametry instalacji, kliknij przycisk „Wstecz”. Jeśli chcesz wyjść, kliknij przycisk „Anuluj”.~BEGIN_INSTALLATION~
+0x51909529 Usuń autoryzację tego komputera~DEAUTHORIZE~
+0x3B9C8CD2 Aby móc zdezinstalować produkt ~string~, musisz najpierw usunąć wszystkie rozszerzenia.~UNINSTALL_EXPANSIONS_FIRST~
+0x3C8EC28C Musisz odinstalować Fabrykę stworów SPORE™ przed usunięciem pakietu ~string~.~UNINSTALL_CSA_FIRST~
+0x711D4A01 SPORE™ or Fabryka stworów SPORE™ muszą być zainstalowane na dysku, aby zainstalować ~string~.~CSA_TRIAL_UNSUPPORTED~
+0x0018FC1D Instalator SPORE najpierw dokona aktualizacji Twojej Fabryki stworów SPORE do najnowszej wersji. Następnie zainstalowany zostanie pakiet ~string~.~UPDATE_CSA~
+0x5E418C32 Musisz odinstalować SPORE™ przed usunięciem pakietu ~string~.~UNINSTALL_SPORE_FIRST~
+0x374F68D8 Proszę czekać. Kreator instalacji cofa autoryzację następującego elementu: ~string~.~WAIT_DEAUTHORIZE~
+0x23FD0D11 SPORE Fabryka stworów~SCC_NAME~
+0x5EC7AFC0 Program „SPORE™ Fabryka stworów” jest uruchomiony na tym komputerze. Zamknij program „SPORE: Fabryka stworów” przed kontynuowaniem.~GAME_RUNNING_CSA~
+0x292EDCB9 SPORE™ Fabryka stworów~CSA_TITLE~
+0x4950A450 SPORE™ Fabryka stworów, wersja próbna~SCC_TRIAL_NAME~
+0x319AD21D SPORE™ Kosmiczne przygody~PRODUCT_NAME~
+0x40D6F8BD Wyświetl plik Przeczytaj SPORE EP1 PL.txt  po instalacji~VIEW_README~
+0x76DE4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x51EA40D5 Jeśli dokonasz dezinstalacji bez aktywnego połączenia z Internetem, autoryzacja tego komputera nie zostanie usunięta. Czy chcesz kontynuować?~OFFLINE_DEAUTHENTICATION~
+0x344BFCE3 <SPORE_EP_BIN_TARGET_FOLDER>\\Przeczytaj.txt~ADD_REMOVE_PROGRAMS_README~
+0x0AA43B92 Polecane~RECOMMENDED~
+0x0A77D8D6 SPORE™ Kosmiczne przygody~SPORE_EP1_NAME~
+0x7426EAA1 Skrót na pulpicie~DESKTOP_SHORTCUT~
+0x4DE32707 Zamknij program ~string~, aby kontynuować.~GAME_RUNNING_STRING~
+0x7D4A4E2F Użytkownika~CUSTOM~
+0x3D927FE5 UMOWA UŻYTKOWNIKA OPROGRAMOWANIA~SOFTWARE_LICENSE~
+0x40922E1B Instalator ~string~ zaktualizował grę ~string~ do wersji ~string~.~UPDATE_COMPLETE_VERSION~
+0x4C84FC5D Musisz mieć zainstalowaną grę ~string~, aby móc zaktualizować grę ~string~.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x18017123 Instalator ~string~ zaktualizuje grę ~string~ do najnowszej dostępnej wersji.~UPDATE_PRODUCT~
+0x7D34F09B Instalator ~string~ przystępuje do aktualizacji zainstalowanej wersji (~string~) gry ~string~ do wersji ~string~.~UPDATING_TO_NEW_VERSION~
+0x3D80E796 Twój produkt ~string~ jest aktualny. Nie trzeba instalować poprawek.~PATCH_NOT_REQUIRED~
+

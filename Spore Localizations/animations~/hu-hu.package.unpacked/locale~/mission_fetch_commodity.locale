@@ -1,0 +1,243 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B7 ...
+0x00000094 Látom, más dolgod van. Később beszélünk.
+0x000000CE A küldetés részletei valahogy kimentek a fejemből.
+0x000000CD Át kell nézzem a küldetésemet.
+0x0000007D Inkább valami mást csinálnék.
+0x000000D8 Ez a feladat már nem fér be az időrendembe.
+0x000000D4 Mielőtt távozom, volna még pár kérdésem.
+0x000000D6 Még egy dolog...
+0x000000D5 Továbbá...
+0x000000DA A következő beszélgetésig. Viszlát.
+0x000000DB Könyörgöm, értsenek meg!
+0x000000CF Szeretném átnézni a küldetésem részleteit.
+0x000000D2 Ismételje meg a kérést. A jegyzeteim nem világosak.
+0x000000C2 Ah, persze! A küldetésnapló. Ott utánanézek!
+0x000000C1 Könyörgöm, értsenek meg!
+0x00000080 Könyörgöm, mentsenek fel a feladat alól!
+0x000000BC Még egy dolog...
+0x000000BE Talán máskor. Viszlát!
+0x000000BF Látom, más dolgod van. Később beszélünk.
+0x0000009E Kérdezhetnék még valamit?
+0x00000059 A csillag neve ~mission_target_star~
+0x0000005A Energiavilágunkban fogytán van a ~mission_item~. A küldetésnaplód szerint megegyeztünk, hogy segítesz nekünk. Miért nem hoztad el a megígért mennyiséget?
+0x00000062 Hadd kérdezzek még valamit…
+0x0000001D Úgy találtuk, hogy a ~mission_item~ megnöveli harcosaink teljesítményét. Leköteleznél, ha hoznál belőle.
+0x00000075 Szánalmas… nem áll össze, mi?
+0x000000A2 Nos, az sajnálatos.
+0x00000022 Hogy találhatnám meg?
+0x00000081 Örvendve várjuk visszatérted. Menj a ~mission_target_planet~ bolygóra. Amint ott vagy, ~mission_time~ szektonod van, hogy elvégezd a megbízatást, és visszatérj.
+0x00000117 A groxnak több ~mission_item~ anyagra van szüksége. Elvárjuk, hogy megszerezd.
+0x0000004F Még valami mielőtt megyek…
+0x00000084 Elegendő mennyiségű ~mission_item~ ellátmány létfontosságú a gazdaságunk jóléte számára. Siess a ~mission_target_planet~ bolygóra, ahol csak ~mission_time~ szektonod lesz ahhoz, hogy ne sodord veszélybe a terveinket. Ha gond adódik, ne említsd a nevünket.
+0x00000085 A ~mission_item~ körül forog a világunk! Amint a ~mission_target_planet~ bolygón vagy, ~mission_time~ szektonod marad, hogy visszatérj és mozgásban tartsd világunk!
+0x0000005C A piacaink hervadoznak a ~mission_item~ hiányának köszönhetően. A munkafeltételek fellelhetőek a küldetésnaplódban. Volnál kedves beszerezni ezeket a dolgokat nekünk?
+0x00000039 Oké, megyek már.
+0x00000038 Azt hiszem, tudok segíteni.
+0x00000077 Mielőtt megyek, még van pár kérdésem.
+0x00000078 Kérdezhetek valami másról?
+0x000000A7 Nnnnaaa, gyerük már!~p~Ez nem korrekt! Ha magunk akartuk volna megszerezni a ~mission_item~ tárgyat, akkor úgy elvertek volna minket a galaxis nagyfiúi, mint szódás a lovát. ~p~De ahhoz, hogy véget vessünk szenvedéseinknek, szükségünk van a ~mission_item~ cuccra! Kell nekünk egy olyasvalaki, mint te; valaki, aki képes kezeleni a dolgokat odakint a hideg, sötét ürességben.~p~Tudod mi vagy te? Egy nagy gonosz rondaság!
+0x00000017 Boldog fajunkon lassan erőt vesz a nyomorúság és mindez csak a ~mission_item~ hiánya miatt. Felkínálhatok neked egy csekély kompenzációt azért, hogy hozz nekünk belőle valamennyit?
+0x0000000E Szükség lenne egy ~mission_item~-rakományra, hogy a Nagytanács pompás új főhadiszállását felépíthessük. Számítunk rád.
+0x00000007 A ~mission_item~ létfontosságú a szennyezésmentes energiarendszerünk szempontjából, de a legutóbbi szállítmány kalózok zsákmánya lett. Hoznál nekünk hát egy keveset, hogy világunk megőrizhesse ragyogó tisztaságát?
+0x00000001 Nemrég hallottunk egy finomszemcsés, porszerű matériából, amely ~mission_item~ néven ismert és számos hasznos tulajdonsága van. ~p~A hírszerzésünk szerint rendkívül tiszta minta található a ~mission_item~ anyagból a ~mission_target_planet~ bolygón.~p~Meg kell találnunk és szereznünk kell belőle. Megkapod a felhatalmazást, hogy minden eszközt bevess a küldetés sikere érdekében.
+0x0000002E A ~mission_item~ a ~mission_target_planet~ bolygónál található. A ~mission_target_planet~ bolygó lakói hitetlenek, akik visszautasították Spóriusz tanításait, megölöd őket vagy sem, rajtad áll.
+0x000000B1 Először igent mondasz, aztán nemet, utána meg fordítva. Miért nem mondasz rögtön nemet?
+0x0000000D A Nagytanács arra törekszik, hogy polgárai boldogan és gazdagon éljenek. Hogy ez így is maradjon, megfelelő ~mission_item~-készletekre van szükségünk. Ugye számíthatunk rád?
+0x00000068 Felmondok! Szerezd meg magadnak!
+0x00000070 Szerencsétlen próbákozásod felébresztette szánalmunkat. Legközelebb talán egy egyszerűbb küldetést adunk.
+0x00000119 Azonnal készülj fel egy utazása. A ~mission_target_planet~ bolygóra mész.
+0x000000AE Nem végzed hát el a munkát? Talán megengedjük tudósainknak, hogy sebészetileg módosítsák agyadat, hogy racionálisabban gondolkodj.
+0x0000005B Nem hoztad a ~mission_item~ tárgyat, ígéreteddel és a küldetésnaplódban foglaltakkal ellentétben. Spóriusz kellő imádata veszélybe került. Betartod a szavad?
+0x000000AC Az árulást Spóriusz nem tolerálja. Viszlát.
+0x000000B0 Akkor magunk söpörjük be az összes pénzt. Viszlát.
+0x000000C7 Térj vissza a ~mission_source_planet~ bolygóra, a ~mission_source_star~ rendszerbe és vedd át jutalmadat.
+0x00000118 Elmész a ~mission_target_planet~ bolygóra és hozol ~mission_item~ tárgyat. Készülj az azonnali indulásra.
+0x00000011 A ~mission_item~ létfontosságú a kereskedelmünk szempontjából. Ugye nem okoz gondot, hogy elutazz az egyik közeli világra és hozz nekünk egy jelentős mennyiséget?
+0x00000037 Oké, megcsinálom.
+0x000000AD Úgy tűnik, nem érdekel a kölcsönös előnyökön alapuló kapcsolat. Gazdaságunkat így nélküled építjük majd ki. Viszlát.
+0x000000AB Magad vagy a megbízhatatlanság új etalonja! Viszlát.
+0x00000019 A Tanító felfedezte, hogy ha ~mission_item~ kerül a szemünkbe, azzal nagyban javítható a második látásunk. Sajnos azonban ez az anyag fogyóban van és arra kérünk, hozz még belőle!
+0x0000009D Hadd kérdezzek még valamit…
+0x0000009A Ebben az esetben már nálad a szükséges pénzmennyiség. Ha így van, látogass el a bazárunkba.
+0x00000052 Öröm veled üzletelni.
+0x00000082 A ~mission_item~ alapvető fontosságú Spóriusz imádásához! Menj a ~mission_target_planet~ bolygóra, ahol is ~mission_time~ szekton időd lesz, hogy kiérdemeld Spóriusz áldását.
+0x00000066 Elegem van. Végeztem.
+0x00000099 Rendben! Ha nem vagy benne egy kis balhéban, üzletelésben és haszonszerzésben, mi nem fogunk meggyőzni az ellenkezőjéről.
+0x00000020 Mi lenne, ha útbaigazítanál?
+0x00000124 Nem hoztad el nekünk a ~mission_item~ készletünket? Számítottunk rá pedig!
+0x00000125 Azonnal menj a ~mission_target_planet~ bolygóra! Ahogy megérkezel, térj vissza és hozd a ~mission_item~ anyagot ~mission_time~ szektonon belül!
+0x000000CC Nem hoztad vissza idejében a holmit. Menj vissza a ~mission_source_planet~ bolygóra a ~mission_source_star~ rendszerbe és tudasd velük a rossz hírt.
+0x00000035 A ~mission_item~ a ~mission_target_planet~ bolygón található.~p~Ezt a világot egy őshonos faj lakja. Szükségleteink jelentősebbek, mint az övéik, így hát figyelmen kívül hagyhatod őket, hacsak nem vágysz egy kis lőgyakorlatra.
+0x0000001A A ~mission_item~ tisztítja meg a híveket az Önajnározás ünnepén, ahol dicsérjük magunkat, mert oly messzire jutottunk a szellemi tökéletesedés útján. De a ~mission_item~ egyre fogy, így hiszen megérdemelten sokszor ünnepeljük magunkat. Ugye szereznél még belőle?
+0x0000009C Rendben, akkor magunk lopjuk ela cuccot.
+0x0000003A Kösz, nem.
+0x0000004E Van egy másik kérdésem…
+0x00000065 Még valami mielőtt megyek…
+0x00000030 A ~mission_item~ a ~mission_target_planet~ bolygón található, melyet hidegen hagynak az észbeli vagy gazdasági ösztönzések. A ~mission_item~ beszerzésekor a lehető legkevesebb erőszakot alkalmazd, majd térj vissza ide.
+0x00000053 Élvezd. A szolgálat a második nevem.
+0x00000064 Van még egy kérdésem...
+0x00000033 A legközelebbi ~mission_item~ lelőhely a ~mission_target_planet~ bolygón van. Szerezz belőle valamennyit, és térj vissza, amilyen hamar csak lehet. Lehet, hogy a ~mission_target_planet~ bolygó lakói tiltakoznak majd, de az ellenállásuk legjobb esetben is jelentéktelen lesz.
+0x0000001E A ~mission_item~ tradicionális felhasználásának egyik módja, hogy győzedelmes hadvezéreink lába elé szórjuk, de újabban annyi győzelmet arattunk, hogy készleteink fogyóban vannak. Ugye hozol nekünk még?
+0x000000A6 Haver. Miért vagy ilyen negatív? Ilyen lehangoló? ~p~Izgalmat ígértünk neked! Kalandot ígértünk neked! Miért nem érdekel már? ~p~Olyan belevaló fajtának tűnsz, telve hévvel és tettvággyal. Azt hiszem a külcsín megtévesztő tud lenni, mert haver, te tényleg elég teszetosza vagy.
+0x000000A3 Sajnálom, hogy nem segíthettem.
+0x0000009B Nem ragaszkodunk hozzá! Pusztán csak megtartjuk metafizikai csodálatosságunkat magunknak.
+0x0000001B Spud guru azt állítja, hogy ha szétszórunk egy kevés ~mission_item~anyagot a házban, akkor szerencsések leszünk, ez pedig most különösen fontos! Hozol nekünk belőle, ugye?
+0x00000057 Hé, nem azért fizetünk, hogy csellengj! Vágj bele! Mutass némi kezdeményezőkészséget! Itt egy emlékeztető számodra, ha kell: ~p~Elmész a ~mission_target_planet~ bolygóra a ~mission_target_star~ rendszerben és megtalálod nekünk ezt: ~mission_item~. ~p~Láthatóan igen hatalmassá tesz. Meg kell szereznünk! ~p~Tedd meg, bármit is kell.
+0x00000073 Uramisten! Azt hittük, hogy te, nos, hatalmas vagy, vagy valami. Igyekszünk azzal vigasztalni magunkat, hogy rád sózunk néhány dolgot a bazárból.
+0x00000063 Kérdezhetnék még valamit?
+0x00000008 Némi ~mission_item~ hasznosnak bizonyult a visszaerdősítések során. Kérlek, hozz nekünk egy kisebb adagot.
+0x00000129 Halálért könyörögsz? Ezt talán megadhatjuk neked.
+0x00000067 Befejeztem. Találd meg magad a fűszeredet!
+0x00000074 De hogy fogom elérni a következő transz-fizikai síkot a ~mission_item~ nélkül?
+0x00000058 Megvan a ~mission_item~ fűszer? Nincs? Ha emlékeztetőre van szükséged: ~p~Hozd elénk a már említett ~mission_item~ tárgyat, melyről úgy hisszük, hogy a ~mission_target_star~ csillagrendszerben van, a ~mission_target_planet~ bolygón. ~p~Sietned kell! Egyre kiéhezettebb vagyok! ~p~Az étel fűszerezetlen elfogyasztásának már a puszta gondolata is gyomorforgató! Szerezz nekem belőle!
+0x0000004D Kérdezhetnék még valamit?
+0x0000012A Most nincs idő töketlenkedésre! Nos, talán mégis.
+0x00000095 Akkor a saját erőnkből oldjuk meg. Viszlát.
+0x00000083 A Nagytanács a lekötelezetted. Utazz, a ~mission_target_planet~ bolygóra azonnal; érkezésedkor ~mission_time~ szektonod lesz, hogy teljesítsd a feladatot.
+0x00000015 A legújabb divatirányzat az, hogy ~mission_item~-vázákat hordunk kalapként, de a kereslet meghaladja a kínálatot. Hoznál tehát nekünk még többet, hogy a mindenki divatosan öltözködhessen?
+0x00000121 A küldetésnaplódba feltöltött adatok ellenére, a ~mission_item~ nélkül tértél vissza.
+0x00000032 A legújabb divatirányzat az, hogy ~mission_item~-vázákat hordunk kalapként, de a kereslet meghaladja a kínálatot. Hoznál tehát nekünk még többet, hogy a mindenki divatosan öltözködhessen?
+0x00000072 Nem hoztad el a ~mission_item~ tárgyat? A fesztiváljaink elfogják veszteni fényüket!
+0x00000098 Ha te nem segítesz nekünk, akkor a logika azt sugallja, hogy segítsünk magunkon. Viszlát.
+0x00000122 A küldetésnaplódba feltöltött adatok ellenére, a ~mission_item~ nélkül tértél vissza. Komoly szükségünk van rá. Hát cserben hagysz minket?
+0x00000014 Úgy találtuk, hogy ha ~mission_item~ kerül az ivóvízbe, akkor egészségesebbek és gazdagabbak leszünk. Lehet, hogy mindez csak illúzió, de mivel mi adunk a látszatra, ennyi elég is. Mindenestre az anyag fogy... Hozol nekünk még?
+0x00000127 Nem értetted meg a parancsot?
+0x00000128 Nem akarsz másoktól erőforrásokat lopni? Hé, mi ezzel pénzt vesztünk! Most nincs időnk erkölcsi prédikációkra!
+0x0000000A Spóriusz szolgálata sok szent tárgyat igényel, miután azonban átvizsgáltuk szentélyeit, rájöttünk, hogy komoly mennyiségű ~mission_item~ hiányzik. Hozol nekünk belőle?
+0x000000AA KÜLDETÉS ÁLLAPOTA: Felbontva az alvállalkozó által. ~p~ÉRTÉKELÉS: Elfogadhatatlan! ~p~SZIGORÚ LECKE: Manapság, ha valaki egy ~mission_item~ tárgyat akar, akkor fel kell találnia a csillagközi utazást, és magának kell megkeresnie! Bolygónként keresgélve! ~p~ÖSSZEGZÉS: Ti ifjú röpcsik, nem is tudjátok, milyen jó nektek!
+0x00000097 Ha máshol van dolgok, mi nem tartóztatunk. Ég veled.
+0x00000086 Nyálcsorgatva várunk. Indulj a ~mission_target_planet~ bolygóra azonnal, ahol ~mission_time~ szekton áll rendelkezésedre, hogy véghezvidd a feladatot.
+0x0000005E A ~mission_item~ iránti igény egyre nagyobb és nagyobb és még semennyit sem hoztál nekünk! Fusd át a küldetésnaplódat a részletekért! Nincs már sok idő hátra!
+0x000000D1 A küldetés sikertelen, az idő lejárt.
+0x0000006D Oké, már világos.
+0x0000008F Ez módfelett sajnálatos. ~p~Bizonyosan találunk majd valakit, akit segít visszaszerezni a ~mission_item~ tárgyat, de a személyzeti pszichológus szerint messze te voltál a legjobb jelölt a melóra.~p~Senki sem csinálja nálad jobban.
+0x0000007C Ezek szuper-fantasztikus hírek, haver!~p~Tudtuk, hogy szakszerűen kézben fogod tartani a dolgokat! ~p~Amint a ~mission_target_planet~ bolygón vagy, ~mission_time~ szektonon belül kell visszatérned.
+0x00000061 A küldetésnapló tanúsága szerint megegyeztünk, hogy elhozod a ~mission_item~ tárgyat a ~mission_target_planet~ bolygóról. Megfutamítottak azok a szánalmas bennszülöttek, vagy valami más oka van a kudarcodnak?
+0x00000079 Még valami...
+0x0000008A Köszönjük. Nagyra értékelnénk egy kis kalózkodást a jó ügy érdekében.~p~Meghatározott ~mission_time~ szekton áll rendelkezésedre, hogy véghezvidd a küldetést, onnan kezdve, hogy megérkezel a ~mission_target_planet~ bolygóra.
+0x000000C4 Térj vissza a ~mission_source_planet~ bolygóra.
+0x00000031 Úgy találtuk, hogy ha a ~mission_item~ anyagot beletesszük a vízkészletbe, akkor az megnöveli az életerőt és jólétet. Vagy legalábbis az életerő és a jólét illúzióját, és végtére is csak az számít. Kezdünk kifogyni... Hoznál nekünk valamennyit?
+0x00000023 Nem, nem érdekel a küldetés.
+0x0000000F A legújabb fejlesztési terv alapján a Nagytanács szerint a ~mission_item~ A osztályú alapanyag, de mivel hiányunk van belőle, lehet, hogy nem tudjuk teljesíteni a kvótánkat! Ugye hozol nekünk belőle?
+0x0000006B Ó, igen. Így van.
+0x00000088 Milyen szánalmas a ~mission_source_empire~ a hatalmas fajod előtt! Ha megfelelő mennyiségű ~mission_item~ anyaggal térnél vissza, remegnénk titáni nagyságod előtt!~p~A ~mission_target_planet~ bolygóra való érkezésedtől számított ~mission_time~ szekton időn belül várjuk visszatérted.
+0x00000003 Függőkertjeinket sok turista látogatja újabban, és ez nem tesz jót a növényeknek. Kéne némi ~mission_item~ a ~mission_target_planet~ bolygóról, hogy rendbejöjjenek.
+0x0000006C Király. Már értem.
+0x00000036 Igen. Kisegítelek.
+0x0000003B Kösz, nem érdekel.
+0x00000050 Örülök, hogy segíthettem. Még egyszer köszi!
+0x0000005F A piacaink hervadoznak a ~mission_item~ hiányának köszönhetően. Miért nem hoztál nekünk semennyit se? A mennyiség és a forrás pontosan meg van határozva a küldetésnaplódban.
+0x0000007B Úgy gondoltuk, hogy képtelen lesz ellenállni egy ilyen roppant hatalmas felfedezés csábításának. ~p~Amint a ~mission_target_planet~ bolygón vagy, ~mission_time~ szektonon belül kell visszatérned, hogy előremozdítsd céljainkat.
+0x00000009 Felfedeztük ~mission_item~ azon tulajdonságát, hogy erősíti immunrendszerünket. Hoznál nekünk egy keveset ebből az értékes anyagból?
+0x00000013 Halálosan nagy bulijaink azért olyan frenetikusak, mert sok ~mission_item~ kerül rajtuk felhasználásra, de most fogyóban van. Hoznál nekünk belőle, hogy ne maradjon abba a parti?
+0x000000A0 Még valami mielőtt indulok…
+0x00000060 Nem egyeztünk meg, hogy hozol ~mission_item~ tárgyat? Az igény eléggé komoly! A részleteket megtalálod a küldetésnaplódban.
+0x000000B2 A becstelenséged csak a türelmetlenségedhez fogható.
+0x000000A8 MI!!!???!!! ~p~Hogy mered semmibe venni a megbízásunkat? Megegyeztünk! ~p~Most ki kell hoznunk az összes hajónkat a szárazdokkból, csapatot kell szerveznünk, és magunknak kell megcsinálnunk. Micsoda kín!~p~Megkönnyíthetted volna, de neeeeeem! ~p~Amikor megtaláljuk a ~mission_item~ cuccot, és jól képzett, tömör izomfallá változunk, nos akkor majd megyünk és megkeresünk, oké, öcskös? ~p~Még találkozunk. Ó igen...
+0x000000D0 Küldetés teljesítve. A ~mission_item~ a fedélzeten van.
+0x00000018 Kalózok raboltak el tőlünk egy ~mission_item~ szállítmányt. Remélem, fenséged nem tagadja meg tőlünk segítségét és szerez nekünk még egy adaggal.
+0x00000024 Kösz, de nem.
+0x0000006E Úgy tűnik, még ez az egyszerű feladat is túl sok neked. Magunk fogjuk megoldani.
+0x00000051 Mindig öröm.
+0x0000006A Rendben. Értem. Oké.
+0x0000011B Tudósaink a ~mission_item~ számos új felhasználását ismerik, és most fogytán vagyunk belőle. Hoznál egy ellátmányt?
+0x00000010 Gazdasági analízisünk sajnos nem jelezte előre, mennyire megnövekszik majd a ~mission_item~ felhasználása. Ugye hozol nekünk egy nagy rakományt belőle?
+0x0000011C Elveszett egy szállítmány ~mission_item~, amikor kalóztámadás érte a hajót. Segítesz a probléma megoldásában?
+0x0000000C A ~mission_item~ nem hiányozhat egy megfelelő oltárról, de Spóriusz hívei újabban nehezen jutnak hozzá. Segítesz nekünk, hogy megfelelő körülmények között imádkozhassunk hozzá?
+0x0000009F Van még egy kérdésem…
+0x0000004C Hadd kérdezzek még valamit…
+0x000000A1 Ha! Hát jó. Mennem kell.
+0x0000011A A ~mission_item~ létfontosságú lett a gazdaságunk számára. Hoznál tehát belőle?
+0x00000012 Egy kalóztámadásban elpusztult az a szállítóhajó, amely ~mission_item~ készletünket szállította. Ugye számíthatunk rád, hogy ne lépjen fel végzetes hiány?
+0x0000001C A ~mission_item~ egy új fegyver hasznos alapanyagának bizonyult. Kellene nekünk egy nagy adaggal.
+0x00000025 Nem hiszem, hogy alkalmas vagyok erre.
+0x0000007E Amint birtokunkban a ~mission_item~, sokkal hatékonyabban tudunk zsarnokoskodni és másokat gyötörni! Amint a ~mission_target_planet~ bolygón vagy, ~mission_time~ szektonon belül kell visszatérned.
+0x000000C6 A ~mission_target_planet~ bolygó a ~mission_target_star~ csillagrendszerben található.
+0x00000089 Csodálatos, hogy ily módon segítesz nekünk metafizikai küldetésünkön! Hoha felülemelkedtünk oly hívságokon, mint az idő, szeretnénk, ha ~mission_time~ szektonon belül visszatérnél. A galaktikus óra a ~mission_target_planet~ bolygóra való érkezésedkor kezd ketyegni.
+0x00000091 Oh, huh. Oké. Úgy értem, ha nem akarsz segíteni...az is okés. Jah...~p~Csak hát... nos... tudod... ~p~Nos, eléggé megszorultunk. Olyannak tűntél, mint akit érdekel... ~p~Mindegy. Biztosan megleszünk. Eddig is túléltünk. Valahogy. ~p~Azért kösz. Jah.
+0x0000000B Papi gyógyítóink Spóriusz sok hívének adták vissza egészségét ~mission_item~ segítségével, de sajnos készleteink a végüket járják. Ugye hozol nekünk belőle?
+0x000000D7 Vissza kell utasítanom ezt a feladatot.
+0x00000092 Ó, ez felettébb kellemetlen!~p~Még a legelegánsabban előkészített gasztronómiai ínyencségek is olyan íztelennek és semmilyennek tűnnek, mint a zsibbadtnyelv-gyökér, és most, tudomásunk van egy elrejtett készlet ~mission_item~ fűszerről .~p~Szégyen, hogy nem segítesz nekünk. Még azt is fontolgattuk, hogy adunk egy szeletnyi günyőbogyós pitét megfűszerezve a ~mission_item~ fűszerrel, amikor visszatérsz, és mi nem arról vagyunk ismertek, hogy kívülállókkal osztjuk meg az ételt.
+0x000000A4 Kérlek, légy megértéssel.
+0x00000002 Elvegyülnél a gazdag és befolyásos népek között?~p~Ha igen, van számodra egy feladatunk! Ez lesz csak a meló!~p~Ez a küldetés híressé teszi a nevedet! Érdekel? Örülök, hogy feltetted ezt a kérdést!~p~A küldetés célja nem más, mint a ~mission_item~ fűszer! Az aktuális változások érintik a ~mission_target_planet~ bolygót is, és ez a következőt jelenti...~p~Hé, haver! Érdekel a dolog? Gondoltam ám! Akarsz többet tudni?
+0x0000005D ~player_creature_name~ ~player_title~! A küldetésnaplódban rögzítettek szerint elvállaltad, hogy ellátsz bennünket egy rakományravaló ~mission_item~ anyaggal a ~mission_target_planet~ bolygóról. Szándékodban áll véghezvinni a megegyezést?
+0x000000BB Még valami...
+0x0000002F Kérlek, utazz a ~mission_target_planet~ bolygóra, amely a ~mission_target_star~ rendszerben kering, és szerezz egy mintavételnyit ebből: ~mission_item~. Térj vissza, amilyen hamar csak lehet. Mivel ezt a világot olyan faj lakja, amely visszautasította a tagságot a Szövetségi rendszerünkben, nem kell velük törődnöd. A lehető legkevesebb élet elvesztésével térj vissza.
+0x00000056 Miért jöttél vissza? Igazán nem akarunk tolakodóak lenni vagy zavarni, de tényleg nagy szükségünk van a ~mission_item~cuccra a ~mission_target_planet~ bolygóról, ami a ~mission_target_star~ csillagrendszerben van.~p~Naggyá és erőssé tesz majd minket és a többi birodalom véget vet a folytonos zaklatásnak, amikor majd meglátják óriási izmainkat, melyen úgy dagadnak majd az erek, mint a pneumatika.~p~Megmutatjuk nekik!
+0x0000011D A ~mission_item~ a ~mission_target_planet~ bolygón található, amely a ~mission_target_star~ rendszerben kering. Menj oda, és szerezz egy adaggal, majd térj vissza.~p~Rajtad múlik, hogy életben hagyod-e a helyi fajt vagy sem.
+0x00000126 Nagyon számítunk már arra, hogy a birtokunkban legyen a ~mission_item~. Indulj azonnal!~p~Ha megérkezel a ~mission_target_planet~ bolygóra, csak ~mission_time~ szektonnyi időd van, hogy elvégezd a küldetést.
+0x000000C5 A küldetés kudarcot vallott. Térj vissza a ~mission_source_planet~ bolygóra.
+0x00000123 ~player_creature_name~! A fajod gondolkodása – úgy tűnik, hogy rendszertelen.
+0x0000003C Nem hinném, hogy ez a küldetés megfelel számomra.
+0x0000003D Bocsáss meg, de nem tehetem meg, amit kérsz.
+0x00000016 Habár alig fogjuk fel lényed nagyszerűségét és nem is reméljük, hogy lealacsonyodsz méltatlan problémáinkhoz, azért alázatosan közöljük, hogy hiánycikké vált a ~mission_item~. Ha nem lenne túl nagy gond, szeretnénk, ha kerítenél belőle, természetesen olyan tiszteletdíj fejében, amely méltó fényességedhez!
+0x00000054 Tekintsük át újra:~p~El kell menned a ~mission_target_star~ csillagrendszerbe és meg kell találnod ezt: ~mission_item~ a ~mission_target_planet~ bolygón.~p~Amint meglelted, megszerzed a ~mission_item~ cuccot, bármilyen módon, amit csak jónak látsz.~p~Légy óvatos, gyors és alapos. És próbáld nem elfelejteni, hogy mi a dolgod. Rendben?
+0x000000A9 Ó, kulináris terveink úgy illannak el, mint egy marék csillagpor!~p~Azért béreltünk fel, hogy segíts gasztronómiai műveinket a nagyság sztratoszférikus magasságaiba emelni, de voltaképp nem tettél mást, mint, hogy összehánytál egy még balsikeresebb fogást; egy szuflét, ami az elvárásainkra épült, egy flambét, amit a saját vágyaink lobbantottak lángra.~p~És most eljött az idő, hogy beleharapjunk a kudarcod gyümölcsébe – a kétségbeesésünkbe!~p~Ízletes?
+0x00000004 Segíteni akarsz nekünk? Nos, lenne itt valami...~p~Hallottunk a ~mission_item~ fűszerről. Azt mondják, talán jót tesz az emésztésnek, vagy ilyesmi. Erős és szép leszel tőle, meg minden~p~Egy volt ellenségünk csata előtt adagolt belőle a katonáinak Kell nekünk a ~mission_item~!~p~Úgy tudjuk, van belőle a ~mission_target_planet~ bolygón.~p~Bármi áron szerezned kell nekünk belőle!
+0x000000A5 Gondolom, belátod, hogy ez egy szörnyű folt az adatlapodon.~p~Milyen szerencsétlen vég ez egy ilyen kiváló karrienek. Kár.~p~Jaj, csak viccelek! Számodra mindig van hely itt.~p~~player_creature_name~, nem mondhatunk fel neked!
+0x00000096 A megfelelő istentisztelet bonyulultsága nyilvánvalóan meghaladja a ~player_creature_name~ képességeit. Ég veled.
+0x0000002D A legközelebbi ~mission_item~ forrás a ~mission_source_planet~ bolygón lelhető fel. Hozz belőle, és térj vissza mihamarabb. A ~mission_target_planet~ bolygó felvilágosulatlan őslakói gondot jelenthetnek, de lehetőleg ne bántsd őket... hiszen nekik is megvan a maguk helye a galaktikus rendben.
+0x000000B8 Hamarosan visszatérek. Viszlát.
+0x000000C8 Nem sikerült idejében elhoznod: ~mission_item~. Térj vissza a ~mission_source_star~ rendszerbe!
+0x0000007F Ó, milyen elragadó! Milyen csodálatos, amit megteszel értünk!~p~Tartózkodom attól, hogy megvitassam az étek mibenlétét, amit akkor készítünk el, amint visszatérsz hozzánk a ~mission_item~ fűszerrel. A legjobb ha máris indulsz...~p~Ó, ez még nem árthat:~p~Mmmm! Finom, ízletes őrölt és szárított kexenschuss egy kevés habkönnyű tengeri undorkával!~p~Amint a ~mission_target_planet~ bolygóra érsz, ~mission_time~ szektonnyi időd van, hogy visszatérj kulináris jutalmadért...
+0x0000008C Kérlek, légy megértéssel.
+0x000000B3 Még valami...
+0x0000008E Mielőtt indulok, lenne még pár kérdésem…
+0x00000071 ~player_creature_name~ ~player_title~! Egyes fajok talán bájos találják az együgyűségedet, de a mi gazdaságunkban nincs piaca a bájnak.
+0x0000006F ~player_creature_name~ ~player_title~, bizonyára démoni erők állták utadat. Dicsérjük Spóriuszt, és lépjünk tovább.
+0x000000B4 Még egy dolog…
+0x0000007A Épp megfelelő feladat. Ég veled.
+0x000000B5 Indulnom kell. Ég veled.
+0x00000069 Nem tudom elvégezni ezt a feladatot. Bocsáss meg, kérlek.
+0x000000B6 Köszönöm a lehetőséget. Viszlát.
+0x00000087 Merészséged egész fajunkat ámultba ejti. Megremegünk félelmetes fenséged előtt!~p~Engedd meg nekünk, hogy tovább folytathassuk imádásunk azáltal, hogy visszatérsz ~mission_time~ szektonon belül. Az óra a ~mission_target_planet~ bolygóra való érkezésedkor indul.
+0x0000008B Tovább kell indulnom. Ég veled.
+0x000000BA Mielőtt indulok, lenne még pár kérdésem…
+0x000000CA Megvan a ~mission_item~.~p~Térj vissza a ~mission_source_star~ rendszer ~mission_source_planet~ bolygójára, és vedd át a jutalmadat.
+0x00000090 Ó, haver. Nem, tudod, milyen izgalmas lehetőséget hagysz ki.~p~A ~mission_item~ megszerzésért folytatott utazás biztosan tele van mindeféle izgalmakkal és kalanddal!~p~Azt hittem, van annyi tartás benned, a bitang jó kinézeted miatt, de talán tévedtem. Egy gerinctelen fajba tartozol?
+0x00000026 Kérem, légy megértéssel, sajnos nem fogadhatom el a küldetést.
+0x0000011E A ~mission_item~ a ~mission_target_star~ rendszer ~mission_target_planet~ nevű bolygóján található. Menjen oda, töltse fel a rakterét, majd térjen vissza! ~p~Él a bolygón egy intelligens életforma, de a mi érdekeink előbbre valóak, mint az övéik. Szükségtelen erőszakot mindenesetre ne alkalmazzon.
+0x00000034 Egy ellátmánnyi ~mission_item~ a ~mission_target_planet~ bolygón található, ami a ~mission_target_star~ rendszerben kering. Az ott élő nép, korántsem olyan fejlett szellemileg, mint mi, nem kell velük foglalkoznod. ~p~Mindazonáltal ne keveredj harcba velük, az csak összezavarná a karmát.
+0x00000005 Talán volt már szerencséd megízlelni a fogásokat, amelyeket egy csipetnyi ~mission_item~ felhasználásával készítettünk. Olyan, mintha ezer angyal landolna épp az ízlelőbimbóidon, nemde? ~p~Nagy mennyiséget találtunk ebből a ~mission_item~ fűszerből a ~mission_target_planet~ bolygón. Mindenáron meg kell szereznünk! ~p~A mi szakácsaink a galaxis legjobbjai és nem tűrhetjük, hogy efféle finomságot a miénknél hitványabb konyhában szolgáljanak fel.
+0x00000093 Ó, igen? Azt hitted, hogy csak úgy elsétálhatsz, miután nagylelkűen megosztottuk veled a küldetés részleteit? ~p~Azt hiszed, haver? ~p~Igen? Na? AZT HISZED!?! ~p~Ha-ha-ha-ha-haaa! Csak kicsit villogtunk előtted, haver! Csak szórakoztunk kicsit veled, ez minden. Eléggé kedvelünk ahhoz, hogy ne lőjünk cafatokká. ~p~Nem akarod megcsinálni a melót – a te dolgod. És a te bajdod. Majd találunk valaki mást.
+0x000000D3 Ah, hát persze! A küldetésnapló. Ott utánanézek!
+0x000000AF Furcsák vagytok ti, a ~player_species~ faj.
+0x00000120 Szép munka, kapitány! A ~mission_item~ jótékony hatással lesz gazdaságunkra. Úgy véljük, a megfelelő javadalmazás ~mission_rewards~.
+0x00000048 Kiváló. Mulatságunk tüze még fényesebb lett, hála neked. Tessék, vedd jutalmad: ~mission_rewards~.
+0x0000004B Köszönet az időszerű ellátmányért. Felajánlunk neked ~mission_rewards~ összeget abban az esetben, ha a nekünk tett szolgálat önmagában nem lenne elegendő.
+0x00000047 Köszönjük, hogy biztosítottad a gazdaságunk erősödését. Reméljük jutalmad, ~mission_rewards~ a te gazdasági jóléteden is segít.
+0x0000011F ~player_creature_name~! Megfelelő mennyiségű ~mission_item~ anyaggal tértél haza. Fajod szokása szerint jutalmad ~mission_rewards~.
+0x00000049 Hála nagyszerű tettetned, gazdaságunk virágzik. Miután bezsebelted a ~mission_rewards~ jutalmat, nézz körül az áruházunkban.
+0x00000044 Köszönet a fáradtságodért, a ~mission_source_empire_home_star~ rendszer a galaxis egyik sikeresen vezetett világa marad. Örömmel nyújtjuk át a ~mission_rewards~ jutalmat.
+0x00000040 Ez annyira izgalmas időszak számunkra, és ezt mind neked köszönhetjük!~p~Fizetségképp felajánlunk neked ~mission_rewards~ összeget.~p~Hamarosan a tudomány és a ~mission_item~ olyan izomállattá fog minket változtatni, hogy többé senki sem mer majd zsarnokoskodni felettünk!~p~Némelyek szerint a ~mission_item~ megjósolhatatlan őrjöngést okoz és egy kis... uhhh... zsugorodást a...~p~De mindez megéri mindazt, ami akkor lesz, amikor valami zsarnok idejön, hogy mulatságból piszkáljon bennünket!
+0x0000004A Kiváló! Élvezd ~mission_rewards~ jutalmad, és tudd, hogy segítettél még transzcendensen egyedibbé válnunk!
+0x0000003F Jó hamar végeztél a küldetéssel, haver! Nem tudjuk eléggé megköszönni. Őszintén.~p~Ez a ~mission_item~ bizonyosan hasznodra fog válni!~p~Fáradozásaidért cserébe fogadj el tőlünk ~mission_rewards~ fizetséget!~p~Szuper segítség voltál, haver! Köszi! Komolyan mondom!
+0x00000042 ~player_creature_name~ ~player_title~! Ez ~mission_item~ évekig tartó fényűző lakomát jelent magának a Császárnőnek!~p~Most pedig térjünk rá a viszonzás mellékes kérdésére. Jól hiszem, hogy ~mission_rewards~ volt az ajánlat, ugye?~p~Hmmmm. Vajon miféle étket készítsek először ezzel a fűszerrel? Sült hörghattyot? Cukorba mártott lififfeket?? Blomba-blagok pirított vállait egy kevéske Kungerox-szószban?~p~Ó, úgy vélem, igen! Mindet!
+0x0000002A Megtalálod a ~mission_target_planet~ bolygót a ~mission_target_star~ csillagrendszerben.~p~Ez a küldetés kulcsfontosságú a nyilvánvalóan ellenséges és agresszív életmódunk szempontjából, így hát ~mission_rewards~ jutalmat kínálunk azért, hogy megszerezd nekünk a cuccot, bármi áron.~p~Oly sok örömünk származik abból, ha kisebb birodalmak és civilizációk szenvednek a színünk előtt. Ez a ~mission_item~ cucc képes megnövelni a játékteret, de romba is dönthet mindent, amiért küzdünk!!!
+0x00000029 A ~mission_target_planet~ bolygó a ~mission_target_star~ rendszerben van.~p~A ~mission_item~ arrafelé található.~p~Elegünk van abból, erőszakoskodnak velünk a galaxisban, nem érdekes, hogyan szerzed meg. Csak szerezd meg!~p~~mission_rewards~ lesz a jutalmad.~p~Kérlek, tudnál... vagyis... lennél kedves... segíteni rajtunk? Kérlek?
+0x00000045 ~player_creature_name~ ~player_title~! Köszönjük néked, a megtesszük a megfelelő felajánlást Spóriusznak. Lettlégyen a ~mission_rewards~ tiéd... Spóriusz Szent Szavával egyetemben, amely fellelhető ebben a hordozható kiadásban.
+0x00000046 ~player_creature_name~ ~player_title~! A Nagytanács elégedett a gazdaságunkban játszott közreműködéseddel. Felhatalmaztak, hogy Másodosztályú Vállveregetésben részesítselek, valamint ~mission_rewards~ összeggel jutalmazzalak.
+0x00000055 Mi a gond? Megzavarták az események? Megfertőzte a kétely és a zavarodottság?~p~Válaszok után kutat? Segíthetünk...~p~Végcélja a ~mission_target_star~ rendszerben vár, a ~mission_target_planet~ bolygón.~p~Ott megleli, amit keres: ~mission_item~.~p~Szerezze meg, ahogy tudja, és hozza el nekünk!
+0x000000C9 Szerezd vissza a ~mission_item~ tárgyat a ~mission_target_planet~ bolygóról, ami a ~mission_target_star~ csillagrendszerben van.~p~Ismeretes, hogy: ~group:star_clue~.~p~Ha a ~mission_target_planet~ bolygóra értél, ~mission_time~ szektonnyi időd van a tárgy azonosítására és megszerzésére.
+0x000000B9 Kérdeznék még valamit…
+0x0000008D Kérdeznék még valamit…
+0x000000BD Bocsánat a zavarásért. Viszlát.
+0x000000C0 Látom, szüksége van egy kis időre. Viszlát.
+0x00000027 A ~mission_target_planet~ bolygó a ~mission_target_star~ csillag körül kering.~p~Ha incidensek nélkül végrehajtja a feladatot, ~mission_rewards~ lesz a jutalma. ~p~Belső használatra a küldetés kódneve: „Köze hozzá?” Hozza el nekünk a port, és mi nem kérdezzük meg, hogy szerezte.~p~Vágja, ugye?
+0x0000003E Ezek fantasztikus hírek!~p~Ha a tudósaink számításai helyesek, akkor iparunk és társadalmunk nagy haszonra tehet szert a ~mission_item~ körültekintő elemzéséből. Vélhetően hősként fognak köszönteni. Ismételten. *Ásítás*.~p~Bárhogyis, íme jutalmad: ~mission_rewards~. Köszönet a kemény munkáért.
+0x0000002C A csillag körülbelül ~mission_clue_distance~ parszekre van ~mission_clue_landmark1~ körzetében
+0x000000D9 Bocsánat a zavarásért. Viszlát.
+0x00000041 ~player_creature_name~! Muhahahahahaha!!!~p~Most feltárjuk a ~mission_item~ rejtélyeit és megállíthatatlan szuper-hipertrófikus lények seregévé válunk!~p~Szétzúzzunk ellenségeink! Látjuk majd, hogy menekülnek előlünk, és halljuk majd a túlélők sirámait!~p~Vidd jutalmad, a ~mission_rewards~, és menj!
+0x0000002B Megtalálod a ~mission_target_planet~ bolygót, ami szüntelen kering szülőcsillaga, a ~mission_target_star~ körül.~p~Ó csupán a puszta gondolata az ízek azon mennyei összejátékának, amelyet egy csipetnyi ~mission_item~ ad az ételnek... már ez a vágy izzó örvényeibe vetett, amelyből nem szabadulhatok, míg meg nem érezhetem azt az ízt!!!~p~Kérlek, indulj! Legyél gyors! A jutalmad cserébe ~mission_rewards~ lesz!
+0x00000076 Kérdeznék még valamit…
+0x00000021 Nem ártana még egy kis információ.
+0x00000043 A csillag ~mission_clue_range_min~ – ~mission_clue_range_max~ parszekre van ~mission_clue_landmark1~ körzetében.
+0x00000028 Oké, haver, kezdődhet a munka!~p~Indulj a ~mission_target_star~ csillagrendszer felé olyan gyorsan, ahogy csak a ~ufo_name~ hajtóművei bírják.~p~Ha ott vagy, irány a ~mission_target_planet~ bolygó, ahol szerzel némi ~mission_item~ cuccot.~p~Lehet, hogy akadályok kerülnek az utadba, de a világűr ilyen hatalmas, okos hőse biztosan talál rájuk megoldást.~p~A sikeres akció jutalma ~mission_rewards~. Jó, mi?
+0x000000C3 Szerezz vissza egy ~mission_item~ tárgyat a ~mission_target_planet~ bolygóról.
+

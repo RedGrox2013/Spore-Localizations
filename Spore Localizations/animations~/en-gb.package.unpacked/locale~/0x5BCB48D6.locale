@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 The battle on ~mission_target_planet~ has been won. Report back to planet ~mission_source_planet~ in system ~mission_source_star~.
+0x000000B2 Report back to planet ~mission_source_planet~.
+0x00000098 Completed
+0x00000093 Heading: ~mission_source_star~ system.
+0x00000099 Success! Report to the ~mission_source_star~ star system.
+0x00000097 In Progress
+0x000000B1 Fight an infested army on planet ~mission_target_planet~.
+0x00000000 Red alert! A Grox drone ship has been spotted on ~mission_target_planet~!  It looks like they are trying to convert the planet. We need soldiers down on the ground and we need them fast!~p~~ep1_captain_full_name~, are you in?
+0x00000092 The Grox have been located in the ~mission_target_star~ star system. Don't let their infestation spread!
+0x00000094 The Grox have been located in the ~mission_target_star~ star system. Don't let them infest ~mission_target_planet~.
+0x0000004E Let's go soldier! The planetary coordinates have already been uploaded to your mission log!
+0x00000064 When a Grox Infestation ship lands you gotta take it out fast. If it roots in place the only way to remove it is with a Planet Buster.~p~Unfortunately, that removes the planet, too.
+0x00000041 Good fightin' ~ep1_captain_full_name~! You've got the Warrior instinct, that's for sure.~p~The Grox won't have a chance as long as you're around.~p~Here's ~mission_rewards~ Sporebucks. That should be more than enough to cover the cost of your ammo.
+0x00000081 We'll have to keep on fightin' the Grox without you. We can't let this sector fall!
+0x00000071 Who's side are you on? If the Grox infest ~mission_target_planet~ then the rest of this sector will fall fast.
+

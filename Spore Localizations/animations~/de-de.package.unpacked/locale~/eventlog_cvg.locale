@@ -1,0 +1,41 @@
+﻿# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001E ~target_city_name~ hat deinen Vorschlag zur Einrichtung einer Handelsroute abgelehnt.
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+
+0x0000001B ~target_city_name~ hat deinen Vorschlag zur Einrichtung einer Handelsroute angenommen.
+
+#######################################
+# event logs
+
+0x00000005 Du hast die Stadt ~target_city_name~ konvertiert.
+0x00000004 Du hast die Stadt ~target_city_name~ erobert.
+0x0000000E ~target_city_name~ wurde erobert!
+0x0000000F ~target_city_name~ wurde konvertiert!
+0x00000019 Dein Versuch, ~target_city_name~ zu kaufen, ist gescheitert.
+0x0000001A Du hast die Stadt ~target_city_name~ gekauft!
+0x00000018 Die Stadt ~target_city_name~ steht nun zum Verkauf.
+
+# TradeRouteEstablished:  NPC-to-player trade route established.
+
+0x0000001C In ~target_city_name~ wurde eine Handelsroute eingerichtet.
+0x0000002C Du hast dich mit ~source_civ_name~ verbündet.
+0x00000026 ~source_civ_name~ ist nicht mehr.
+0x00000032 Du hast einen Gewürzgeysir besetzt.
+0x00000033 Du hast einen Gewürzbohrturm erobert.
+0x00000034 Die Stadt ~target_city_name~ feiert und erwirtschaftet mehr Einkommen!
+0x00000035 Klicke zum Starten auf eine Stadt!
+0x0000002F Einer deiner Gewürzbohrtürme wird angegriffen!
+0x00000024 Die Stadt ~target_city_name~ wurde gegründet!
+0x00000030 Du erbeutest bei dem Stamm %d Spore-Dollars!
+0x00000021 ~target_city_name~ wird angegriffen!
+0x00000023 Klicke auf den Gewürzgeysir, um mit der Ernte zu beginnen.
+0x00000028 Du führst jetzt Krieg gegen ~source_civ_name~.
+0x00000036 Der Stamm ist feindselig und greift dein Fahrzeug an.
+0x00000031 Du hast von dem Stamm ein Gratis-Fahrzeug erhalten!
+0x0000002B Du bist nicht länger mit der ~source_civ_name~ verbündet.
+0x00000027 Die ~source_civ_name~ hat die Stadt ~target_city_name~ erobert!
+0x0000002A Du führst nicht länger Krieg gegen die ~source_civ_name~.
+0x00000029 Du führst jetzt Krieg gegen die ~source_civ_name~.
+

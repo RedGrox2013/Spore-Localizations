@@ -1,0 +1,200 @@
+﻿# Edit Sporecast Title
+
+0x061B3E6B Modifier Sporecast
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 Récompense
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB Voulez-vous enlever "~generic0~" de votre liste d'amis ?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE Se désabonner
+
+# Subscribing failed
+
+0x05A5DFA6 Echec de l'abonnement au Sporecast.
+
+# Create Sporecast Success
+
+0x059497EE Création du Sporecast réussie !
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Création Sporecast
+
+#Build your city Hall dialog box
+
+0x04A5B8EB Créer
+0x04A5B9EB Charger
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF Voulez-vous vous désabonner de ce fil Sporecast ?
+
+# XHTML error dialog message
+
+0x0618AEDB Une erreur s'est produite lors de la connexion au serveur SPORE. Vérifiez votre connexion Internet ou réessayez ultérieurement.
+
+# Edit Sporecast Success
+
+0x061B3E6C Le Sporecast a été mis à jour !
+
+# Already downloaded title
+
+0x066F2FEE Déjà téléchargé
+
+# Delete Sporecast Failure
+
+0x061B3E70 Un problème est survenu en effaçant votre Sporecast.
+
+# login failed dialog title
+
+0x055C0E8E Echec connexion
+
+#####################################
+# GGE
+
+0x051E63B8 Choix d'un Atelier
+
+# Subscribe to sporecast message 
+
+0x0618AEDD Voulez-vous vous abonner à ce fil Sporecast ?
+
+# Cannot open asset message 
+
+0xF4A30B07 Vous n'avez pas installé tous les éléments nécessaires.
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 Jeu en réseau désactivé
+
+# Subscribe to sporecast title
+
+0x0618AEDC S'abonner
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B51 ~generic0~. Voulez-vous sauvegarder ?
+0x05399B53 ~generic0~. Création inutilisable dans le jeu. Voulez-vous sauvegarder ?
+0x05399B54 ~generic0~. The creation cannot be played in game and cannot be shared. Are you sure you want to save? [NOT IN USE]
+0x05399B52 ~generic0~. The creation cannot be shared. Are you sure you want to save? [NOT IN USE]
+
+# Cannot open asset title
+
+0xF4A30B06 Impossible d'ouvrir l'objet
+
+# Delete Sporecast title
+
+0x948F6008 Effacer Sporecast
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD2 Remplacer
+0x045BEDD4 Annuler
+0x045BEDD8 Quitter
+0x045BEDD9 Quitter
+0x045BEDDB Annuler - Ne pas sauvegarder
+0x045BEDD3 Ne pas sauvegarder
+0x045BEDD7 Sauvegarder et partager
+0x045BEDDA Quitter - Ne pas sauver
+0x045BEDD5 Partager
+0x045BEDD6 Sauvegarder Nouveau
+0x045BEDD1 Sauvegarder
+
+# Delete Sporecast message 
+
+0x948F6009 Voulez-vous vraiment supprimer ce Sporecast ?
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~
+
+# Delete Sporecast button option
+
+0x948F600A Suppr
+
+# Tribe game
+
+0x0518AED9 Restart [NOT IN USE]
+0x0518AED8 Your population has fallen below two.  You will need to restart and try again. [NOT IN USE]
+0x0518AEDA Quit [NOT IN USE]
+
+# Create Sporecast Failure
+
+0x059497F4 Problème lors de la création de votre Sporecast.
+
+# Edit Sporecast Failure
+
+0x061B3E6D La mise à jour de votre Sporecast a échoué.
+
+# Banning content dialogs
+
+0x04519364 A supprimer
+0x045196AD Echec de la suppression
+0x045196B0 Impossible de supprimer "~generic0~," cela vient de Maxis et fait partie du jeu d'origine.
+0x04519652 Voulez-vous supprimer cet objet du jeu, "~generic0~," ?~br~~br~Le jeu sera sauvegardé et vous reviendrez à l'écran principal.
+0x04519651 Voulez-vous supprimer cet objet du jeu, "~generic0~," ?~br~~br~Le jeu sera sauvegardé et vous reviendrez à l'écran principal galaxie. Vous pourrez relancer la partie.
+0x045196B2 Impossible de supprimer "~generic0~" : c'est votre créature.
+
+#####################################
+# Settings
+
+0x057E63B7 Vous devez redémarrer Spore pour appliquer cette résolution.
+0x064013CC Tout changement de paramètre relatif à vos amis implique la mise à jour de vos paramètres locaux. Le jeu pourra se figer quelques instants. Cette mise à jour peut se faire dès à présent ou au prochain lancement du jeu. Souhaitez-vous la faire maintenant ?
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA Erreur
+
+# Remove buddy failed
+
+0x0615DBB5 Echec : ami non enlevé.
+
+# Already downloaded message
+
+0x066F2FEF Ce modèle est déjà présent sur votre ordinateur. Cherchez-le dans l'onglet "Tout".
+
+# Add buddy confirmation title
+
+0x0615DB9D Ajouter l'ami
+
+# Add buddy confirmation message 
+
+0x0615DBA2 Voulez-vous ajouter "~generic0~" à votre liste d'amis ?
+
+# Add buddy failed
+
+0x0615DBB1 Echec : ami non ajouté.
+
+# Delete message box
+
+0x04A5B7EB EFFACER
+
+# Unsubscribing failed
+
+0x05A5DFA5 Echec du désabonnement au Sporecast.
+
+# Save dialog
+
+0x04D96A85 Etes-vous sûr(e) ?  Tout sera perdu !
+0x04D96A86 Voulez-vous sauvegarder ?
+0x04D96A87 Echec de la sauvegarde. Spore va s'arrêter. Votre sauvegarde précédente sera récupérée au prochain démarrage.
+0x04D96A88 Spore a décelé une sauvegarde corrompue. Le programme a essayé d'accéder à la version précédente.
+0x04D96A84 La partie sur la planète ~generic0~ est sauvegardée.
+
+# Remove buddy confirmation title
+
+0x0615DBA8 Supprimer ami
+

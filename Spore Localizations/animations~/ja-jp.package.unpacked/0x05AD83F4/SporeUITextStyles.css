@@ -1,0 +1,621 @@
+///////////////////////////////////////////////////////////////////////////////////////
+// Supported style parameters:
+///////////////////////////////////////////////////////////////////////////////////////
+
+//
+// font-size                :Npx or Npt. (font-size : 12px) (font-size : 12pt)
+// font-style               :normal,italic,oblique
+// font-weight              :normal,bold
+// font-variant             :normal,small-caps
+// font-pitch               :variable,fixed
+// font-smooth              :auto,never,always
+// font-stretch             :N
+// font-emphasize-style     :none,accent,dot,circle,disc
+// font-emphasize-position  :before,after
+// text-decoration          :underline,overline,line-through
+// text-linespacing         :N
+// text-letterspacing       :(letter-spacing: 12px) (letter-spacing: -0.5px)
+// text-wordspacing         :N
+// text-align               :left,center,right,justify
+// text-valign              :top,middle,bottom
+// text-justify             :inter-word,inter-ideograph,distribute,newspaper,inter-cluster,kashida
+// text-overflow-mode       :none,clip,ellipsis,ellipsis-word
+// color                    :#RGB or #RGBA. (color : #cc2255) (color : #cc2255ff)
+// background-color         :#RGB or #RGBA. (color : #cc2255) (color : #cc2255ff)
+// wrap-option              :wrap,no-wrap,soft-wrap,hard-wrap,emergency
+// digit-substitution       :none,context,western,national,traditional
+// password-mode            :none,password
+// @font "font file name.ttf" ;
+
+
+///////////////////////////////////////////////////////////////////////////////////////
+// Fonts used in the styles that follow. Styles refer to font family name and NOT to
+// font file name. In order to find out the family name from the font file you need
+// to open the font file with a standard Windows font viewer and the name at the top is the
+// font family name (aka font face name).
+//////////////////////////////////////////////////////////////////////////////////////
+
+@font "DFPopMixEA.ttf" ; //japanese//
+@font "DFPopMixEAbold.ttf" ; //japanese//
+
+///////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////
+// Text styles used in Spore.
+///////////////////////////////////////////////////////////////////////////////////////
+
+// Default style settings
+DefaultStyle(0x00aebb69){
+   font-family:"DF POPMix EA";
+   font-smooth:always;
+   font-weight:bold;
+   font-size:10px;
+   text-valign:middle;
+}
+
+DefaultStyleCentered(0x00aebb70) : DefaultStyle{
+   text-align:center;
+   text-valign:middle;
+}
+
+WindowDefaultStyle(0x00000001) : DefaultStyle{ 
+}
+ 
+MessageText(0x0f170dc1) : DefaultStyle{ 
+}
+ 
+DialogTitle(0xacbf4564) : DefaultStyleCentered{ 
+	font-size:14px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+BodyText(0xaf14b67f) : DefaultStyleCentered{ 
+}
+ 
+ButtonCaption(0xaf14b67e) : DefaultStyleCentered{ 
+}
+ 
+ButtonCaptionSmall(0x05a877f1) : DefaultStyleCentered{ 
+	font-weight:normal; 
+}
+ 
+ConsoleStyle(0xefe945b2) : DefaultStyle{ 
+	font-weight:normal; 
+	font-smooth:never; 
+	font-size:9px; 
+	font-family:"Courier New"; 
+}
+
+CollectionsUIBodyText(0xbcdc2163) : DefaultStyle{
+	font-weight:normal;
+	font-size:10px;
+	text-valign:top;
+}
+ 
+EventLog(0xaf14b676) : DefaultStyleCentered{ 
+	font-family:"DF POPMix EA"; 
+}
+ 
+PropertyEditorValues(0x015a4361) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+CargoCountLabels(0x03713a78) : DefaultStyleCentered{ 
+	font-size:9px; 
+}
+ 
+CreatureEditorBudget(0x70527a3b) : DefaultStyleCentered{ 
+	font-size:16px; 
+}
+ 
+EditorBudgetLeft(0x323b4096) : DefaultStyle{ 
+	font-size:12px; 
+	text-valign:middle; 
+}
+ 
+EditorNameText(0x0e0ad07e) : DefaultStyleCentered{ 
+	font-size:12px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+EditorPageCountText(0x934afd8a) : DefaultStyleCentered{ 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+EditorDescriptionText(0xde808a41) : DefaultStyle{ 
+	font-size:11px; 
+	text-valign:middle; 
+}
+
+BanDescriptionText(0x33307eaf) : DefaultStyle{
+	font-size:11px;
+	text-valign:top;
+}
+ 
+EditorRolloverTitleText(0xde808a42) : DefaultStyle{ 
+	font-size:14px; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+DefaultRight(0x73da7e17) : DefaultStyleCentered{ 
+	text-align:right; 
+}
+ 
+DefaultCentered(0x015a5d0f) : DefaultStyleCentered{ 
+}
+ 
+RolloverTitleText(0x015a9d0f) : DefaultStyleCentered{ 
+	font-size:8px; 
+}
+ 
+RolloverText(0x015a6d0f) : DefaultStyle{ 
+	font-size:8px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+RolloverGridText(0x016a5d10) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:11px; 
+	text-valign:middle; 
+}
+ 
+SpaceRolloverTitle(0x0488e225) : DefaultStyle{ 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+SpaceRolloverText(0x0488e222) : DefaultStyle{ 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+SpaceBadgeName(0x054293be) : DefaultStyleCentered{ 
+	font-size:14px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+SpaceMoney(0x04a096aa) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+SpacePlanetName(0x04a0ad69) : DefaultStyleCentered{ 
+	text-overflow-mode:ellipsis; 
+}
+ 
+SpaceSpeciesName(0x04a0ad6f) : DefaultStyleCentered{ 
+	text-overflow-mode:ellipsis; 
+}
+ 
+SpaceTooltip(0x04a0ad74) : DefaultStyle{ 
+	font-size:11px; 
+	text-valign:middle; 
+}
+ 
+SpaceTooltipDescription(0x04f60c46) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+SpaceItemCount(0x04a0ad7a) : DefaultStyle{ 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+GuiData(0x015a5d10) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:14px; 
+	text-valign:middle; 
+}
+ 
+OfflineMessage(0x05b7fa34) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:18px; 
+}
+ 
+AssetBrowserFeedCategory(0x93c84c6b) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:12px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+CategoryHeaderGeneric(0x05a87dc6) : DefaultStyleCentered{ 
+	font-weight:normal; 
+}
+ 
+OptionsHeader(0x05b01163) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:18px; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+OptionsSubHeader(0x05b00f05) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:14px; 
+	text-valign:middle; 
+}
+ 
+OptionsButtonText(0x05b0109c) : DefaultStyle{ 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+OptionsTextSmall(0x05b055d7) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:10px; 
+	text-valign:middle; 
+}
+ 
+OptionsTextSmallCentered(0x05b06de4) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:9px; 
+}
+ 
+OptionsTextCategoryCentered(0x05b056ce) : DefaultStyleCentered{ 
+	font-weight:normal; 
+}
+ 
+OptionsTextCategory(0x05b0573a) : DefaultStyle{ 
+	font-weight:normal; 
+}
+ 
+OptionsComboBoxNumber(0x05b9c30a) : DefaultStyleCentered{ 
+	font-weight:normal; 
+}
+ 
+NextText(0x05a88622) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+	text-align:right; 
+}
+ 
+AssetBrowserBodyText(0x05a8862a) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+PartCardStatName(0x051af7cd) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+MediumGoalCardBodyText(0x052af8ad) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:9px; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+AssetName(0xd3d702a9) : DefaultStyleCentered{ 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+AssetAuthor(0xd3d702aa) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+AssetAuthorCard(0x05a74c6b) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:8px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+SporepediaSearchBox(0x74935841) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:8px; 
+	wrap-option:no-wrap; 
+	text-valign:middle; 
+}
+ 
+AssetNameLarge(0x0553adec) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:16px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+AssetBrowserFeedHeader(0xd42483ec) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:18px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+AssetBrowserFeedHeaderRight(0x944ec0c1) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:18px; 
+	wrap-option:no-wrap; 
+	text-overflow-mode:ellipsis; 
+	text-align:right; 
+}
+ 
+AssetBrowserMakeNew(0x748e48e3) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:20px; 
+}
+ 
+GuiDataSmall(0x7237635e) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:11px; 
+	text-valign:middle; 
+}
+ 
+VerbIconDescription(0x324a1ab2) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+GuiDataSmallCentered(0x7237635f) : DefaultStyleCentered{ 
+	font-size:11px; 
+}
+ 
+GuiDataRight(0x02eed114) : DefaultStyleCentered{ 
+	font-size:14px; 
+	text-align:right; 
+}
+ 
+GuiDataCentered(0x015a5d11) : DefaultStyleCentered{ 
+	font-size:14px; 
+}
+ 
+ShoppingTitle(0x32e6fa7e) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:22px; 
+	wrap-option:no-wrap; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+ShoppingDescription(0x32e6fa7f) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+ShoppingAssetName(0x92e6d0fd) : DefaultStyleCentered{ 
+	font-size:12px; 
+	wrap-option:no-wrap; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+ShoppingCreatorName(0x92e6d0fe) : DefaultStyle{ 
+	font-weight:normal; 
+	wrap-option:no-wrap; 
+	text-valign:middle; 
+}
+ 
+VerbIconEditorValues(0x04dcf959) : DefaultStyleCentered{ 
+	wrap-option:no-wrap; 
+}
+ 
+VerbIconAbilityEditorValues(0x05a6e08e) : DefaultStyleCentered{ 
+	font-size:8px; 
+	wrap-option:no-wrap; 
+}
+ 
+SporecastName(0x05a6d6f7) : DefaultStyle{ 
+	font-weight:normal;  
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+SporecastItemCount(0x348e26df) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:8px; 
+	wrap-option:no-wrap; 
+	text-align:right; 
+}
+ 
+ShoppingThumbTitle(0x92e8d0fe) : DefaultStyleCentered{ 
+	wrap-option:no-wrap; 
+}
+ 
+SporepediaLargeTitle(0x02801c6a) : DefaultStyleCentered{ 
+	font-size:14px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+	text-align:right; 
+}
+ 
+SporepediaLargeStatsLabel(0x02801d0e) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:14px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+	text-align:right; 
+}
+ 
+CommunicationsText(0xd16302df) : DefaultStyleCentered{ 
+	font-size:12px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+CommunicationsTextLeft(0x03751f9d) : DefaultStyle{ 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+
+StatListTextLeft(0x07fadb78) : DefaultStyle{
+	font-family:"DF POPMix EA";
+    text-overflow-mode:ellipsis;
+	text-valign:middle;
+}
+
+CommunicationsButtonCaption(0x5163044d) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:12px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+CommunicationsTitle(0x04f64d9c) : DefaultStyleCentered{ 
+	font-size:11px; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+EventLogText(0x02dde830) : DefaultStyle{ 
+	font-family:"DF POPMix EA"; 
+	text-overflow-mode:ellipsis;
+}
+ 
+newSporepediaLargeLeft(0x040d40ab) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:14px; 
+	text-valign:middle; 
+}
+ 
+newSporepediaLargeCenter(0x044481a6) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:14px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+newSporepediaMediumcenter(0x040d4099) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:12px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+newSporepediaMediumRight(0x040d40a2) : DefaultStyleCentered{ 
+	font-weight:bolder; 
+	font-size:11px; 
+	font-family:"DF POPMix EA"; 
+	text-align:right; 
+}
+ 
+newSporepediaMediumLeft(0x040d40a7) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:11px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+newSporepediaTinyCenter(0x040d40af) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+newSporepediaTiny(0x04090878) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	text-align:right; 
+}
+ 
+newSporepediaTinyRight(0x040d3f47) : DefaultStyleCentered{ 
+	text-align:right; 
+}
+ 
+DominantSpeciesClipped(0x044d9452) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:8px; 
+	text-overflow-mode:ellipsis; 
+}
+ 
+TimeLineAdjective(0x14090878) : DefaultStyleCentered{ 
+	font-size:14px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+TransitionscreenHeader(0x044730d4) : DefaultStyle{ 
+	font-size:34px; 
+	font-family:"DF POPMix EA"; 
+}
+
+TransitionscreenHeaderCenter(0x06601198) : DefaultStyleCentered{
+	font-size:34px;
+	font-family:"DF POPMix EA";
+}
+
+LetterBox(0x044481a7) : DefaultStyleCentered{ 
+	font-weight:normal; 
+	font-size:12px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+TransitionscreensSub(0x04473356) : DefaultStyle{ 
+	font-weight:normal; 
+	font-size:14px; 
+}
+ 
+TopHeader(0x0452d001) : DefaultStyle{ 
+	font-size:22px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+TopHeaderRight(0x051da2d8) : DefaultStyle{ 
+	font-size:22px; 
+	font-family:"DF POPMix EA"; 
+	text-align:right; 
+}
+ 
+TopSubHeader(0x04654546) : DefaultStyle{ 
+	font-size:18px; 
+	font-family:"DF POPMix EA"; 
+}
+ 
+ToolTip(0x025a6d0f) : DefaultStyle{ 
+	text-valign:middle; 
+}
+ 
+RelationshipRolloverText(0x04d17659) : DefaultStyle{ 
+	font-size:11px; 
+	text-overflow-mode:ellipsis; 
+	text-valign:middle; 
+}
+ 
+RareCardItem(0x051aee68) : DefaultStyle{ 
+	font-size:13px; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+MissionLogTitle(0x051aee69) : DefaultStyle{ 
+	font-size:12px; 
+	text-overflow-mode:ellipsis; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+RareCardTitle(0x051c4099) : DefaultStyle{ 
+	font-size:14px; 
+	font-family:"DF POPMix EA"; 
+	text-valign:middle; 
+}
+ 
+MissionText(0x051c51a0) : DefaultStyle{ 
+	font-size:9px; 
+	text-overflow-mode:ellipsis; 
+}
+
+LimitMeter(0x06a15ef0) : DefaultStyleCentered{
+	font-weight:bold;
+	font-size:7px;
+	wrap-option:no-wrap;
+	text-overflow-mode:ellipsis;
+}
+
+AdventureDescription(0x075605a8) : DefaultStyle{
+	font-family:"DF POPMix EA";
+	font-weight:normal;
+	font-size:11px;
+	text-overflow-mode:ellipsis;
+	text-valign:top;
+	line-spacing:0;
+}

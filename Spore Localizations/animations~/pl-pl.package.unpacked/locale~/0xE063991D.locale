@@ -1,0 +1,35 @@
+﻿0x00000021 ~guide: -h2~ Panel ustawień umożliwia konfigurowanie wielu różnych aspektów dotyczących wydajności i rozgrywki, takich jak grafika, samouczki i wskazówki, dźwięk, połączenie z siecią oraz nagrywanie filmów i zapisywanie zdjęć.
+0x00000231 ~guide: -bullet~ W przypadku zrezygnowania z rejestracji na początku, można to zrobić w dowolnej chwili. W tym celu należy kliknąć przycisk rejestracji znajdujący się obok przycisku opcji na ekranie galaktyki.
+0x00000041 ~guide: -h3~ Ustawienia grafiki
+0x000001D1 ~guide: -h3~ Ustawienia gry i nagrywania
+0x00000261 ~guide: -h3~ Twórcy
+0x00000091 ~guide: -h3~ Ustawienia dźwięku
+0x00000211 ~guide: -h3~ Ustawienia sieciowe
+0x00000241 ~guide: -bullet~ Połączenie z serwerem — w sekcji ustawień sieciowych możesz się zalogować lub wylogować.
+0x00000201 ~guide: -bullet~ Rozmiar zdjęcia — to ustawienie wpływa na rozdzielczość zdjęć wykonywanych w trybie próby generalnej w fabryce stworów oraz podczas rozgrywki. Wyższa rozdzielczość oznacza większy rozmiar pliku, ale zarazem lepszą jakość.
+0x000001A1 ~guide: -bullet~ Jakość dźwięku — SPORE automatycznie wykrywa możliwości dźwiękowe Twojego komputera i ustawia jakość dźwięku na odpowiednim poziomie. Od parametru tego zależy liczba równocześnie odtwarzanych dźwięków oraz szczegółowość i różnorodność muzyki.
+0x000001F1 ~guide: -bullet~ Rozmiar filmu — ustawienie to decyduje o rozdzielczości filmu nagrywanego w trybie próby generalnej w fabryce stworów oraz podczas rozgrywki. Rozdzielczość obrazu ma ogromny wpływ na wielkość tworzonych plików. Maksymalny czas trwania dowolnego filmu wynosi dwie minuty.
+0x00000221 ~guide: -h2~ Aby uzyskać dostęp do funkcji sieciowych SPORE — udostępniania elementów i automatycznych aktualizacji — musisz się zarejestrować. Do konfigurowania parametrów sieciowych służy opcja „Ustawienia sieciowe”.
+0x00000031 ~guide: -h2~ Aby otworzyć panel ustawień, kliknij przycisk opcji, a następnie przycisk ustawień.
+0x00000071 ~guide: -bullet~ Rozmiar ekranu — przywrócenie pierwotnej rozdzielczości ekranu wymaga ponownego uruchomienia gry. Pamiętaj, że wyższe rozdzielczości mogą spowolnić działanie gry na Twoim komputerze.
+0x000001E1 ~guide: -h4~ Opcje gry i pomocy
+0x000001B1 ~guide: -bullet~ Konfiguracja głośników — SPORE nie może wykryć Twojej konfiguracji głośników, w związku z czym zawsze domyślnie ustawi się na stereo. Możesz to zmienić, wybierając odpowiednią opcję.
+0x00000051 ~guide: -h2~ Gra SPORE automatycznie wykrywa możliwości Twojego komputera i konfiguruje ustawienia grafiki w taki sposób, aby uzyskać jakość najlepiej współgrającą z wydajnością działania. Jeśli stwierdzisz, że gra działa zbyt wolno, albo postanowisz poeksperymentować z konfiguracją, przejdź na panel ustawień grafiki. Zawsze możesz też wrócić do pierwotnych ustawień, klikając przycisk „Domyślne”.
+0x00000061 ~guide: -h2~ Uwaga: gdy zmienisz dowolne z ustawień jakości i klikniesz zielony znaczek, wrócisz do gry. Rozgrywka zostanie na chwilę zatrzymana, aby uaktywnić nowe ustawienia, a następnie wznowiona.
+0x00000271 ~guide: -h2~ Ci, którzy sprawili, że gra SPORE jest taka, a nie inna. Masz krewnego w zespole? Tu znajdziesz jego imię. Cześć, Mamo!
+0x000001C1 ~guide: -bullet~ Ustawienia dźwięku — ustal głośność ogólnego tła dźwiękowego oraz poszczególnych elementów, zgodnie z własnymi upodobaniami.
+0x000001E3 ~guide: -bullet~ Przewijanie ekranu —jeśli ta opcja jest włączona, przesunięcie kursora do krawędzi ekranu spowoduje przesunięcie kamery.
+0x000001E4 ~guide: -bullet~ Samouczki — w każdej fazie dostępne są oddzielne samouczki. Jeśli nie chcesz zapoznawać się z nimi, wyłącz tę opcję.
+0x000001E2 ~guide: -h2~ Włącz lub wyłącz poszczególne ustawienia, zaznaczając pole wyboru przy każdym z nich.
+0x00000202 ~guide: -h3~ Sterowanie
+0x000001E6 ~guide: -h4~ Ustawienia nagrywania
+0x00000204 ~guide: -h2~ W fazach plemienia, cywilizacji i kosmosu masz możliwość zmiany opcji sterowania. Możesz tam przypisać konkretne funkcje do przycisków myszy, a także zmienić sposób sterowania kamerą.
+0x00000203 ~guide: -h2~ Każda faza gry ma własne ustawienia myszy i klawiatury. Możesz się z nimi zapoznać w ustawieniach sterowania.
+0x00000255 ~guide: -bullet~ Tylko znajomi — włącz tę opcję, jeśli chcesz ograniczyć udostępnianie dzieł SPORE wyłącznie do znajomych dodanych za pośrednictwem Sporpedii.
+0x00000081 ~guide: -bullet~ Bufor grafiki — zwiększenie rozmiaru bufora grafiki umożliwi grze SPORE przechowywanie większej liczby elementów w pamięci wirtualnej, co skróci czasy wczytywania pomiędzy fazami gry.
+0x00000206 ~guide: -h2~ Kiedy już raz ustawisz opcje, zostaną one zapisane i będą używane w każdej fazie gry, dopóki ich nie zmienisz lub nie przywrócisz ustawień domyślnych.
+0x00000011 ~guide: -image-left-h1 0x05556b31!gge-settings-button.png~ Ustawienia
+0x00000205 ~guide: -h2~ Każda faza ma własne ustawienia. Możesz więc dostosować rozgrywkę do swoich upodobań oddzielnie w każdej fazie gry.
+0x000001E5 ~guide: -bullet~ Porady — w każdej fazie na ekranie będą wyświetlane porady, które pomogą ci w rozgrywce. Jeśli nie chcesz otrzymywać porad, wyłącz tę opcję. Przy wyłączonych poradach będą wyświetlane jedynie informacje istotne dla rozgrywki.
+0x00000251 ~guide: -bullet~ Opcje sieciowe — umożliwiają dostosowanie ustawień sieciowych, w tym dotyczących publikowania dzieł w Internecie. Jeśli chcesz dzielić się swoimi dziełami jedynie ze znajomymi, zaznacz opcję „Tylko dzieła znajomych”.
+

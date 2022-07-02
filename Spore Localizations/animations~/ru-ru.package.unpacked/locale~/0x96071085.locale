@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Следующие из использованных в приключении творений удалены с сервера, из-за этого приключение будет недоступно другим игрокам. Опубликовать творения заново?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Следующие творения, используемые в этом приключении, еще не опубликованы. Вы хотите опубликовать их, чтобы другие пользователи могли сыграть в это приключение?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Некоторые творения, используемые в этом приключении, были заблокированы.~p~Ваш результат не будет записан.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Некоторые творения, используемые в этом приключении, были удалены.~p~Загрузить их повторно?
+
+# Editing adventures offline
+
+0x07AA5B67 Отмена
+0x07AA5B66 Замена
+0x07AA5B64 Чтобы загрузить творения для этого приключения, необходимо выполнить вход. Если вы отредактируете приключение, творения будут заменены.
+0x07AA5B65 Вход
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E В этом приключении использованы заблокированные и содержащие недоступные вам фрагменты творения.~p~ Некоторые творения будут заменены.
+
+# Editing adventures with banned assets
+
+0x0750187C Некоторые творения, используемые в этом приключении, были заблокированы.~p~Некоторые творения будут заменены.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 В этом приключении использованы заблокированные творения.~p~ Результат не будет опубликован.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 Чтобы загрузить творения из этого приключения, необходимо выполнить вход в систему.
+0x00000004 Ошибка загрузки творений
+0x00000003 Отмена
+0x00000002 Загрузка творений из приключения
+0x00000008 Публикация
+0x00000001 Индикатор загрузки творений
+0x00000006 Не удалось опубликовать творения.
+0x00000007 Индикатор публикации
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Произошла ошибка загрузки творений. Продолжить?~p~Некоторые объекты будут заменены, а ваш результат не будет записан.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D В этом приключении использованы творения, содержащие недоступные вам фрагменты.~p~ Некоторые творения будут заменены.
+

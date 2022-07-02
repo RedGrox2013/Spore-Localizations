@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7D -B
+0x05D66E7C -A
+
+#######################################
+# Animal types
+
+0x03EBF7AA 葷食生物
+0x03EBF7A8 科學家
+0x03EBF7AB 雜食生物
+0x03EBF7A9 素食生物
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 同盟
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AEF66 我們已取得紫色香料。
+0x043AF42A 我們想你有沒有任何藍色香料。
+0x043AF087 粉紅色香料
+0x043AF085 我們粉紅色香料今年豐收。你不會想拒絕這個交易的！
+0x043AF086 粉紅色香料讓我們強大。粉紅色香料讓我們開心。可惜是我們什麼都沒有。
+0x043AF42B 請看看我們上好的貨色。我確定我們會完成這個貿易。
+0x043AF42C 藍色香料
+0x043AF084 綠色香料
+0x043AF039 哇，我們真的渴望獲得一些紅色香料。
+0x043AF03A 紅色香料
+0x043AF038 請看看我們上好的貨色。
+0x043AEF67 獲得任何紫色香料？
+0x043AEF68 紫色香料
+0x043AF07F 請看看我們上好的貨色。
+0x043AF083 我們隊長希望知道你有沒綠色的香料...
+0x043AF082 我們已經掃瞄你的貨物，你有沒發現什麼有趣的？
+0x043AF080 我們真的希望這能有些黃色香料
+0x043AF081 黃色香料
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF501 巨大氣體行星
+0x043AF500 銀河中心
+0x043AF504 小行星帶
+0x043AF505 和
+0x043AF4FA 這裡
+0x043AF4FB 叫做<~star_name~>的星系
+0x043AF4FC 叫做<~star_name~>的蟲洞
+0x043AF4FE 叫做<~star_name~>的紅色星系
+0x043AF4FF 叫做<~star_name~>的原生行星
+0x043AF4FD 叫做<~star_name~>的龐大星系
+
+#random string for spg
+
+0x068B22CD 無法在這個星系中使用。
+
+#######################################
+# Filters
+
+0x0563D2AB 朋友和敵人
+0x0563D2AA 已造訪
+0x031791B4 旅行軌跡
+0x031791AF 我的帝國
+0x031791B3 任務
+0x031791B2 帝國
+
+#######################################
+# Plant types
+
+0x03EBF7AE 大型植物
+0x03EBF7AD 中型植物
+0x03EBF7AC 小型植物
+
+#######################################
+# Tech Levels
+
+0x03EAC03E 太空
+0x03EAC03C 城市
+0x03EAC03D 文明
+0x03EAC03B 部落
+0x03EAC039 蠻荒
+0x03EAC03A 蠻荒
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x03E81C65 ???????
+0x0539AA95 中型植物欄位
+0x0539AA96 大型植物欄位
+0x0539AA94 小型植物欄位
+0x061DFE83 填滿前列可以解開。
+0x0539AAE8 填滿植物來解開
+0x0539AA97 素食生物欄位
+0x0539AA98 葷食/雜食生物欄位
+0x0473CB2A 沒有大氣
+0x0473CB26 稠密的大氣
+0x0473CB2E 低溫
+0x0473CB32 高溫
+0x0473CB22 葷食生物
+0x0473CB1F 素食生物
+0x0473CB1A 植物
+
+#player titles
+
+0x05AC5B78 萬能之士
+0x05AC5B6F 強權之士
+0x05AC5B73 終極之士
+0x05AC5B1B 指揮官
+0x05AC5B20 准將
+0x05AC5B01 船長
+0x05AC5B2E 上將
+0x05AC5B64 偉大之士
+0x05AC5B68 傳奇之士
+0x05AC5B5F 馳名之士
+0x05AC5B58 著名之士
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DFA 特殊
+0x05879DF9 朝拜
+0x05879DF8 外交
+0x05879DF3 探索
+0x05879DF7 殖民
+0x05879DF6 創造
+0x05879DF4 武器
+0x05879DF5 整地
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 你想要永久的摧毀這貨物嗎？
+0x03E81C55 拋棄貨物
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000008 雪景球
+0x04000009 戰利品
+0x04000007 權杖
+0x04000005 無峰駝
+0x04000006 盤子
+0x04000010 運送付款
+0x04000003 地精
+0x04000004 聖杯
+0x04000002 王冠
+0x04000000 黃金偶像
+0x04000001 箱子
+
+# if name ends in a digit
+
+0x05D66E80 B
+0x05D66E7E A
+0x0473D0CF ~tech_level~
+0x03E81C6C 全像斥候
+0x03E81C6A 整地
+0x03E81C6B 撿起全像斥候
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B09 ~travel_cost~
+0x03E98B0B ~empire_money~
+0x03E98B0A 距離：~travel_distance~(秒差距)
+
+0x0580E601 你擁有的帝國
+0x065B76EF ~p~解開：
+0x065672CB 可進行購買。找到一個願意出售的帝國。
+0x0657C8D4 你必須離開星球才能儲存遊戲。
+0x0657CC21 ~badge_points~ 點徽章點數
+
+#######################################
+# Misc Rollovers
+
+0x0678CDDF 海盜
+0x0654CB0F 進行佔領
+0x0654CB0A 進行貿易路線
+0x06749C10 無人守衛戰機
+0x0654CB16 <~planet_name~>不投降
+0x0654CB13 <~planet_name~>投降
+
+#tool given
+
+0x06538847 已收集： ~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC683 T2
+0x03EAC684 T3
+0x03EAC681 T0
+0x03EAC682 T1
+
+#######################################
+# Progress bar rollover
+
+0x0435ECEB 任務數： ~mission_count~
+0x0435ECE8 人數：部落： ~tribe_worshipper_count~，文明： ~civ_worshipper_count~，太空： ~ally_count~
+0x0435ECE5 殖民地： ~colony_count~
+0x0436D447 徽章點數： ~badge_points~
+0x0435ECE0 徽章： ~badge_count~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x063C3D96 未佔據的
+0x03F5A128 彗星
+0x06748F94 佔據的
+
+#######################################
+# Comm/Trade fail text
+
+0x0679ED24 金額不足。
+0x06790599 改善關係進行交易。
+0x06790598 不開放交易。
+0x0679F574 在戰爭中無法充能。
+0x0679F573 在戰爭中無法維修。
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065B9952 ~commodity_tool_req~
+0x065B9960 ~commodity_tool_req~和~commodity_tool_and_req~或~commodity_tool_or_req~
+0x065B995C ~commodity_tool_req~和~commodity_tool_and_req~
+0x065B9958 ~commodity_tool_req~或~commodity_tool_or_req~
+0x065BD251 ~commodity_badge_req~徽章
+0x065B9969 ~commodity_badge_reqs~，和~commodity_tool_reqs~
+0x065B8F44 ~commodity_badge_req~和~commodity_badge_and_req~或~commodity_badge_or_req~徽章
+0x065B8F36 ~commodity_badge_req~或~commodity_badge_or_req~徽章
+0x065B8F3D ~commodity_badge_req~和~commodity_badge_and_req~徽章
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 (免費)
+
+#######################################
+# space - city piemenu
+
+0x043DB6B7 維修太空船 (~cost~)
+0x043DB6B8 購買建築物
+0x04C82968 替市民配件
+0x043DB6B2 維修砲塔 (~cost~)
+0x043DB6B3 拆除
+0x043DB6B5 維修建築物 (~cost~)
+0x043DB6B4 賣掉建築物 (~cost~)
+0x043DB6B9 賣掉殖民地 (~cost~)
+0x0510B24F 編輯太空船
+0x043DB6B1 賣掉砲塔 (~cost~)
+
+#######################################
+# Cargo Rollovers
+
+0x03EADFD0 ~tool_use_cost~
+0x03EDFDD5 ~item_plant_type~
+0x03EDFDD4 ~item_animal_type~
+0x03EAFDD3 來自<~item_planet_name~>
+0x04729A65 未掃瞄的
+
+# todo: the following need to be hooked up
+
+0x0679EAC6 你的貨艙已滿。
+0x0679EAC5 不敢興趣。
+
+#######################################
+# Tool Fail Text
+
+0x0653E59F 需要更高的整地分數。
+0x0653E5A0 無法使用在母星上。
+0x0653E594 彈藥用盡。
+0x0653E596 必須在帝國星球上使用。
+0x0653E59B 在星系裡必須有一個最高科技等級的星球。
+0x0653E59A 星系必須有一個貿易路線。
+0x0653E59E 必須使用在蠻荒星球。
+0x0653E59D 無法使用在野生生物保護區。
+0x0653E598 艦隊沒有空間容納其他船艦。
+0x0653E597 必須在外星種族殖民地上使用。
+0x0653E599 已經有一艘小型船艦。
+0x0671CE05 必須有動物出現在這個星球。
+0x0671FB24 你無法在這個星球上使用巨石！
+0x066F7A1E 無法在城市上使用。
+0x066F7A20 太高了。
+0x066F7A1F 無法在水上使用。
+0x066F7A1A 必須在你的一個殖民地上使用
+0x066F7A1D 能量已滿。
+0x066F7A1C 耐久度已滿。
+0x0653E59C 無法在帝國星系上使用。
+0x0653E593 必須在星球上才能使用。
+0x0653E595 充能中。
+0x066F7A1B 每個星球中只能擁有一個。
+0x066F7A21 星系已經有一個具有知覺的物種。
+0x066F7A22 在現在的整地分數下，無法放置更多的殖民地。
+
+# used to name the Galactic Core.
+
+0x0591BD91 銀河中心
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF520 T0
+0x043AF521 T1
+0x043AF522 T2
+0x043AF523 T3
+0x043AF507 第0
+0x043AF509 第2
+0x043AF508 第1
+0x043AF50A 第3
+0x043AF50B 第4
+0x043AF529 任務
+0x043AF528 失敗
+0x043AF52A 警告
+0x043AF52B 徽章
+0x043AF526 進行中
+0x043AF527 完成
+0x043AF50D 第6
+0x043AF50C 第5
+0x043AF50E 第7
+0x043AF510 第9
+0x043AF50F 第8
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EECF 改善整地分數來解鎖
+0x0678EED0 殖民地欄位
+
+#######################################
+# Roll overs
+
+0x061ECCF0 太空船能力
+0x045FFE8E 暫停/停止暫停
+0x045FFE85 選項
+0x045FFE89 幫助
+0x04359B05 整地
+0x03E81C5F 武器
+0x03E81C5E 貨物
+0x03E81C60 主要工具
+0x03E81C62 編輯太空船
+0x03E81C61 開關「Spore百科」
+0x03E81C5C 整地工具
+0x03E81C5B 太空船選項
+0x03E81C5D 打開通訊
+0x04359B0F 迷你地圖
+0x048662B4 星系地圖過濾器
+
+#######################################
+# colony object names
+
+0xF55D419A 生物保護裝置
+0x405DC1DF 野生生物保護區
+0x3AAB4C0E 大使館
+0x44B420E4 忠誠增進裝置
+0x4A1E2E7B 快樂增進裝置
+0xE4EC3F34 防禦衛星
+0xB7D22F27 生化穩定
+0xB4150FEB 香料儲存
+
+#######################################
+# Our Solar System
+
+0x03F5A0BB 海王星
+0x03F5A0B9 泰坦
+0x03F5A0BA 天王星
+0x03F5A0B2 金星
+0x03F5A0B3 地球
+0x03F5A0B1 水星
+0x03F5A0B0 太陽
+0x03F5A0B7 甘尼米德
+0x03F5A0B8 土星
+0x03F5A0B6 木星
+0x03F5A0B4 月球
+0x03F5A0B5 火星
+0x03F5A0C2 包瑞利彗星
+0x03F5A0C0 科胡鐵克彗星
+0x03F5A0BD 海爾-波普彗星
+0x03F5A0BE 舒梅克-李維二號彗星
+0x03F5A0BC 哈雷彗星
+

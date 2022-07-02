@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 Maya export fájljaid elmentve: ~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C Nem
+0x0549366D Feltöltés
+0x05496B24 Csatlakozás a YouTube-hoz...
+0x055AA305 Klip feltöltése a YouTube-ra...
+0x0563C623 Regisztrálnod kell a Spore-ba, hogy ezt használhasd. Szeretnél regisztrálni?
+0x056691B0 YouTube regisztráció ellenőrzése...
+0x05B5AC4C YouTube szolgáltatási feltételek
+0x056D0627 Sikeres feltöltés! Küldd el a klip URL-jét egy barátodnak!
+0x05498DCB A videód feltöltve. Szeretnél szólni róla a barátodnak?
+0x05496510 Nem sikerült csatlakozni a YouTube-hoz. ~br~~br~Adj meg egy érvényes felhasználónevet és jelszót a folytatáshoz.
+0x054C1E63 A klip mentésre került: ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Hiba történt a YouTube-ra való feltöltés során.~br~~br~Ellenőrizd az internetkapcsolatot, vagy próbálkozz újra!
+0x05498260 Hiba történt a YouTube-hoz való csatlakozás során.~br~~br~Ellenőrizd az internetkapcsolatot, vagy próbálkozz újra!
+0x05B5FD1E Fel akarod tölteni?
+0x05D2C767 Feltöltésed törlésre került
+0x05D54AF7 A kapcsolódó honlap angol nyelvű. Ha saját nyelveden akarod olvasni, a honlapválasztóban jelöld ki országodat.
+0x05E501EB <youtubeicon>Feltöltés
+0x05600488 Be kell jelentkezned a Spore-ba, hogy ezt használhasd. Be szeretnél lépni?
+
+# email
+
+0x0583897C Képeslap küldéséhez katt ide
+0x05B5B8C4 Értesítsd egy barátod a videódról
+0x04588BEF A képeslapod el lett küldve.
+0x045AD5B9 Levelezőlap küldése e-mailben
+0x04585F1F Az e-mail címed érvénytelen.
+0x045AD634 A címzett e-mailcíme
+0x045AD62F e-mail címed
+0x04585F49 A címzett e-mail címe érvénytelen.
+
+# capture GIF
+
+0x058B90F2 Az animált avatár mentésre került: ~br~~gif_name~~mac_save_append~.
+
+# tool tips
+
+0x046286E7 Forog
+0x046286F4 Ül
+0x046286F8 Morog
+0x04628713 Hív
+0x04628717 Megüt
+0x04628719 Ta-dá!
+0x04628722 Ari
+0x04628724 Szumó
+0x04628726 Hé
+0x04628733 Hé, bébi
+0x04628737 A lényeg
+0x04628739 Helyben jár
+0x0462873F Tüzes talaj
+0x04628745 Ugrabugra
+0x04628749 Tánc
+0x0462874E Tombol
+0x04628798 Boldog
+0x0462879C Szomorú
+0x046287A0 Ijedt
+0x046287A1 Mérges
+0x046287A2 Nevet
+0x046287A3 Elalél
+0x046287A4 Képnézegető
+0x046287A5 Képkészítés
+0x046287A6 Klipfelvétel
+0x046287DA Kölykök
+0x046287ED Mentés
+0x0462932D Segítség
+0x0474E80D Kép törlése
+0x0474E80E Kép archiválása
+0x0473F903 Képek rendezése
+0x046286F2 Szaltó
+0x04628729 Fenyeget
+0x046287D8 Hátterek
+0x04598E97 e-mail küldése
+0x046287D6 Mozgások
+
+# move all
+
+0x04583A4E Mind archiválása
+
+#continue
+
+0x0549656C Folytatás
+
+# delete one done
+
+0x04583433 A képed törlésre került.
+
+# delete all done
+
+0x0458334E A képeid törlésre kerültek.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D A képed archiválásra került a ~play_photo_back~ könyvtárban.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 A képeid archiválásra kerültek a ~play_photo_back~ könyvtárban.
+
+# Are you sure: Yes
+
+0x04583FFB Igen
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animáció
+
+# photobackuppath
+
+0x06305594 My Documents
+0x06305593 Spóralkotások/Képek/Archív
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Sikertelen bejelentkezés
+0x05CBDEDA A feltöltés sikertelen
+
+# your message
+
+0x045AD63A Üzeneted
+
+#drag and drop fail message
+
+0x05889A21 Járáspróba
+0x05889A4C Ezt nem teheted Járáspróba közben. Válts át Szerkesztésre vagy Színezésre!
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Túl sok fotód van. Előbb archiválj néhányat.
+
+# photo actions
+
+0x04613ED0 Ha most kilépsz, a folyamatban lévő mentések elvesznek. Biztos kilépsz?
+0x045C206E Biztosan törölni akarod ezt a képet?
+0x045C208A Biztosan törölni akarsz minden képet?
+0x045C2025 Mit szeretnél tenni a képekkel?
+0x045C2094 Biztosan archiválni akarod ezt a képet?
+0x045C2098 Biztosan archiválni akarsz minden képet?
+
+# delete all
+
+0x04583A36 Mind törlése
+
+# cancel
+
+0x04583AFB Mégse
+
+# Are you sure: No
+
+0x0458400E Nem
+
+# email message
+
+0x056BCDCA Nézd meg, milyen tuti videót vettem fel a Spore-ban!~br~~video_url~
+0x056BCE10 Nézd meg, milyen klassz Spore lényt alkottam!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK

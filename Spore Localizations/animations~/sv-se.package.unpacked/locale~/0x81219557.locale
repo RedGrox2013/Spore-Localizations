@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Hugger målet till en energikostnad.
+0x00000013 Energihugg
+
+# Part: Harpolizer
+
+0x00001047 En utökad sång som förbättrar relationer och har en låg energikostnad.
+0x00001046 Inspirerande sång
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Gör det nästan omöjligt att upptäcka din varelse, men konsumerar energi under tiden.
+0x00001042 Stealth-fält
+
+### Complexity Meter ##
+
+0x07426209 För komplex
+0x0742620A Ta bort extra förekomster eller minska antalet unika modeller.
+0x05F110B4 Om den här mätaren är full kan du inte lägga till fler föremål.
+0x05F110B3 Komplexitetsmätare
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 En utökad amulett som förbättrar relationer och har en låg energikostnad.
+0x00000101 Holo-amulett
+
+# Part: Hop Gogs
+
+0x00001053 En utökad dans som förbättrar relationer och har en låg energikostnad.
+0x00001052 Överdådig dans
+
+# Part: Icy Band
+
+0x00001029 Fryser ett mål på plats under en kort tidsperiod.
+0x00001028 Fryssmäll
+
+# Part: Jump Jet
+
+0x00001044 Jetpack
+0x00001045 Ett mycket högt hopp till en medelhög energikostnad.
+
+# Part: Plasma Pulser
+
+0x00001006 Pulssmäll
+0x00001007 Avfyrar en koncentrerad energistöt mot målet till en energikostnad.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Energisatt pansar
+0x00001015 Absorberar all skada som tagits till en hög energikostnad.
+
+# Part: Hypnomelder
+
+0x00001024 Sinnessammansmältning
+0x00001025 Förvandlar fientliga fiender till vänner under en tidsperiod.
+
+# Part: Fettipopper
+
+0x00001059 En utökad posering som förbättrar relationer och har en låg energikostnad.
+0x00001058 Konfettiposering
+
+# Part: Imperial Robe
+
+0x00001036 Strålande posering
+0x00001037 En livfull posering som bidrar till att förbättra relationer.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Minskar skadan något och har ingen energikostnad.
+0x00001012 Stridspansar
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Avfyrar en missil som skadar området kring målet till en energikostnad.
+0x00000001 Missilattack
+
+# Part: Regal Ring
+
+0x00001034 Kunglig amulett
+0x00001035 En glittrande amulett som bidrar till att förbättra relationer.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Kallar på en svärm av beskäftiga insekter som plågar dina fiender.
+0x00001022 Kalla på svärm
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energilagring
+0x00001065 Ökar den totala energikapaciteten.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Regenerering av hälsa
+0x00001019 Ökar regenereringen av hälsa
+0x00002012 ~icon_amount~ hälsa/sekund
+
+# Part: Ducal Cape
+
+0x00001033 En vacker sång som bidrar till att förbättra relationer.
+0x00001032 Harmonisk sång
+
+# Part: Regen-Deflector
+
+0x00001017 Konverterar en liten andel av inkommande skada direkt till energi.
+0x00001016 Energiabsorbering
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Förbättrar hastigheten under en kort tidsperiod och har en låg energikostnad.
+0x00001038 Spurtkrevad
+
+# Part: Glider Pack
+
+0x00001041 Håll dig uppe längre till en låg energikostnad.
+0x00001040 Sväva
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Blixtnedslag
+0x00001001 Paralyserar målet och ger stor skada till en energikostnad.
+
+# Part: Toxic Crystal
+
+0x00001026 Giftblad
+0x00001027 Levererar ett gift som gör en liten skada under en tidsperiod.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Hälsobonus
+0x00001021 Förbättrar den totala hälsan.
+
+# Part: Danger Reductor
+
+0x00000020 Skapar ett skyddande klot, som minskar skadan som tas och förbättrar energieffektiviteten.
+0x00000019 Sköldgenerator
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 En elegant dans om bidrar till att förbättra relationer.
+0x00001030 Graciös vals
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Ökar hastigheten för regenereringen av energi.
+0x00000010 Regenerering av energi
+0x00000021 Skydd
+0x00000022 Ibland är försvar det bästa försvaret.
+0x00000012 ~icon_amount~ enheter/sekund
+

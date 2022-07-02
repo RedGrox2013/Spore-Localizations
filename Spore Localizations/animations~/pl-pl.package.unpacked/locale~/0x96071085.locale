@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Następujące stwory z tej przygody zostały usunięte z serwera: ~p~~ep1_server_deleted_creations~. ~p~Czy chcesz je ponownie opublikować, aby inni gracze mogli zagrać w tę przygodę?
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Następujące dzieła wykorzystane w tej przygodzie nie zostały jeszcze opublikowane. Czy chcesz je opublikować, aby inni użytkownicy mogli grać w tę przygodę?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Niektóre dzieła w tej przygodzie zostały zablokowane.~p~ Twój wynik nie zostanie podany.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Niektóre dzieła w tej przygodzie zostały zablokowane.~p~ Czy chcesz pobrać je ponownie?
+
+# Editing adventures offline
+
+0x07AA5B67 Anuluj
+0x07AA5B66 Zastąp
+0x07AA5B64 Aby pobrać dzieła do tej przygody, musisz się najpierw zalogować. Jeśli dokonasz edycji tej przygody, dzieła te zostaną zastąpione.
+0x07AA5B65 Zaloguj
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Ta przygoda zawiera dzieła zablokowane, lub zawierające elementy, których nie masz na swoim komputerze. ~p~Niektóre dzieła zostaną zastąpione.
+
+# Editing adventures with banned assets
+
+0x0750187C Niektóre dzieła w tej przygodzie zostały zablokowane.~p~ Niektóre z nich zostaną zastąpione.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Niektóre dzieła w tej przygodzie zostały zablokowane. ~p~Twój wynik nie został udostępniony.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 Musisz się zalogować, aby móc pobrać dzieła użyte w tej przygodzie.
+0x00000004 Pobranie dzieła nieudane
+0x00000003 Anuluj
+0x00000002 Pobieranie dzieł z przygód
+0x00000008 Publikacja...
+0x00000001 Postęp pobierania dzieła
+0x00000006 Publikacja dzieł nieudana.
+0x00000007 Postęp publikacji
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Pobranie dzieła nieudane. Czy chcesz kontynuować?~p~Niektóre materiały zostaną zastąpione i Twój wynik nie zostanie podany.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Niektóre dzieła występujące w tej przygodzie zawierają elementy, których nie masz na swoim komputerze. ~p~Niektóre dzieła zostaną zastąpione.
+

@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Bra nok 
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Opplæring
+0x058B62B1 Spillhint
+0x058B62B2 Kantrulling
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Standard
+0x0474E6B5 Grafikkinnstillinger
+0x0474E6B6 Lav
+0x0474E6C2 Middels
+0x0474E6C6 Høy
+0x0474E6D0 Teksturdetalj
+0x0474E6D6 Grafikkeffekter
+0x0474E6DE Spillermodellkvalitet
+0x0474E6E4 Planetkvalitet
+0x0474E6E5 Lyskvalitet
+0x0474E6F0 Profiler
+0x058B624C Kjør spillet i et vind
+0x0474E6E9 Skjermoppløsning
+0x0474E6ED Grafisk hurtigminne (MB)
+0x0474E6CC Skyggekvalitet
+0x058A2A2B Merk: Endring av oppløsning kan påvirke spillets ytelse og krever at du starter spillet på nytt.
+0x058B6240 Full skjerm-modus
+0xBBFC7687 Dybdeskarphet
+0x0674D28F Bloom
+0x066A4BC8 Kantutjevning
+0x0695A585 Command-Return Velg mellom å kjøre spillet i vindu eller over hele skjermen.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Beveg romskip
+0x080B23B8 Endre høyde for romskipet
+0x080B23B7 Tilt og roter kameraet
+0x080B23B2 Sivilisasjon
+0x080B23B3 Velg mål
+0x080B23B4 Aktiver verktøy
+0x090A24A7 Beveg kameraet
+0x090A23A3 Beveg skapning
+0x090A28A7 Velg et fremkomstmiddel
+0x090A28A6 Velg et stammemedlem
+0x090A26A9 Tilt og roter kameraet
+0x088B63B6 Skapning
+0x090A21A6 Gi retningsbeskrivelse
+0x088B63B9 Stamme
+0x088B63B7 Klikk her for å rotere kartet med høyre muskenapp
+0x090A29A7 Beveg celle
+0x090A50AA Klikk og dra med venstre museknapp eller bruk W, A, S og D på tastaturet
+0x090A50A6 Rull med musehjulet
+0x090A50A5 Klikk og dra med høyre museknapp
+0x090A50A7 Klikk og dra med begge museknappene
+0x090A50A8 Klikk og dra med høyre museknapp eller bruk W, A, S og D på tastaturet
+0x090A50A9 Skapning følger markør
+0x090A50A1 Bruk W-, A-, S- og D-tasten
+0x090A30B5 Velg fremkomstmidler ved å dra ut boks
+0x090A30B4 Velg stammemedlemmer ved å dra ut boks
+0x090A50A4 Klikk med høyre museknapp.
+0x090A50A3 Klikk og dra med venstre museknapp
+0x090A50A2 Klikk med venstre museknapp.
+0x088B63B3 Celle
+0x080B23B9 Mellomrom
+0x088B63B4 Klikk her for å følge markøren automatisk
+0x088B63B5 Hold markøren over ikonene for å se hvordan de fungerer
+0x090A50AB Hold inne Command, Option og venstre museknapp
+0x090A50AC Hold inne midtre museknapp
+
+#### profile - user selects ####
+
+0x0474E6FC Brukervalg
+
+#### profile - performance ####
+
+0x0474E6F1 Ytelse
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289D Logg ut 
+0x0565289E Logg inn
+0x0565289F Registrer
+0x056528A0 Servertilkobling
+0x056528A1 Status:
+0x056528A3 Spørsmål ved start
+0x056528A4 Ikke registrert
+0x056528A5 Opprett en konto for å koble deg til Spore.
+0x056528A7 Koble deg til Spore.
+0x056528A8 ~generic0~ Tilkoblet
+0x056528A9 Koble deg fra Spore eller bytt bruker.
+0x058B63D4 Estetisk matching
+0x0626E391 Varighet i dager før sletting
+0x0626E392 Kopier slettede elementer til arkivmappe
+0x0626E390 Slett gamle nedlastinger
+0x056528A2 Nettinnstillinger
+0x05E39554 Oppdaterer innholdsdatabase ...
+0x058B63D3 Kun innhold fra kompiser
+0x067A21D9 dager
+0x067A21D8 Last kun ned innhold fra abonnementer som er nyere enn følgende antall dager:
+0x067A21D7 Mellomlagerstørrelse for nedlasting (MB)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Lydinnstillinger
+0x0473EF2C Grafikkinnstillinger
+0x0473EF2D Spillinnstillinger
+0x0473EF2E Opptaksinnstillinger
+0x0473EF2F Nettinnstillinger
+0x0473EF30 Medvirkende
+0x0473EF31 Lagre innstillingene
+0x0473EF32 Lukk innstillingene uten å lagre
+0x0473EF33 Diverse innstillinger
+0x0473EF34 Kontrollinnstillinger
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 Logg meg inn på YouTube automatisk.
+0x0589E51C Billedstørrelse
+0x0589E51D Lite
+0x0589E51E Middels
+0x0589E51F Stort
+0x058B63A0 Ta opp film uten lyd
+0x0589E51A 320 x 240
+0x0589E519 160 x 120
+0x0589E518 Filmoppløsning
+0x0589E51B 640 x 480
+0x0631825F Hvis du godtok standardplasseringen under installering, kan du finne bilder og filmer i ~generic0~(elementtype)
+0x05D1185C Spill- og hjelpeinnstillinger
+0x058B6381 Spill- og opptaksinnstillinger
+
+#### profile - image quality ####
+
+0x0474E6F5 Billedkvalitet
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D893 Stemmer
+0x0431D894 Effekter
+0x0431D896 Demp alle
+0x0431D898 Høyttalerkonfigurasjon
+0x0431D899 2 høyttalere
+0x0431D89A 4 høyttalere
+0x0431D89B 5.1-høyttalere (surround)
+0x0431D895 Musikk
+0x0431D89C Lydkvalitet
+0x0431D89D Volum på alle lyder
+0x0431D89E Volum på musikk
+0x0431D89F Volum på stemmene til skapningene
+0x0431D8A0 Volum på lydeffekter
+0x0431D8A1 Spilleren må være på galakseskjermen for å endre høyttalerkonfigurasjon.
+0x0431D897 Lydmiks
+0x0431D892 Hovedvolum
+
+## Mac version
+
+0x06318D68 Hvis du godtok standardplasseringen under installering, kan du finne filmer og videoer i Mine Spore-skapninger/(elementtype) i dokumentmappen i hjemmemappen.
+

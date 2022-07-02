@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE7B Stellung halten
+0x0567AE82 Aggressiv
+0xF67C278E Allgemeine Fähigkeiten
+0x0568AE90 Wirtschaftsmanipulatoren
+0xF47C278E Sozialhaltung
+0xF57C276F Sozialhaltung
+0xF57C278E Kampfhaltung
+0xF57C279A Kampfhaltung
+0x0568AE91 Bestechung und Verwirrung
+0x0568AE92 Werbekampagne
+0x0568AE70 Militärische Waffen
+0x0568AE71 Napalmbombe
+0x0568AE72 Taktische Atomwaffe
+0x0568AE73 Globaler Interkontinentalraketen-Angriff
+0x0568AE80 Religiöse Mächte
+0x0568AE81 Glaubensheilung
+0x0568AE82 Bestienregen
+0x0568AE83 Ankunft des Heilands
+0x0568AE93 Globale Werbekampagne
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+
+### Global UI specific ###
+
+0x04BC1A80 DNA-Punkte. DNA erhältst du aus Nahrung. Gib sie für Körperteile aus.
+0x04CAC3D6 Heranzoomen
+0x04CAC3D7 Herauszoomen
+0xF27C278D Entwickle dich zum Land hin. Iss, um zu wachsen.
+0xF57C278D DNA-Punkte
+0xF77C278D Um zu gewinnen, musst du deine Bevölkerungszahl erhöhen, indem du dich mit anderen Kreaturen verbündest oder sie rekrutierst.
+0xF87C278D Gesammelte Nahrung
+0x04CAC3C1 Erobere andere Stämme oder verbünde dich mit ihnen, um weiterzukommen.
+0x04CAC3C2 Erobere andere Stämme oder verbünde dich mit ihnen, um weiterzukommen.
+0x04CAC3C3 Erobere andere Stämme oder verbünde dich mit ihnen, um weiterzukommen.
+0xF47C279B Körperteile freigeschaltet
+0xF47C279A Missionsliste
+0xF47C279D Abgeschlossene Missionen
+0xF47C279C Laufende Missionen
+0xF67C278D Sammle DNA, um dich weiterzuentwickeln
+0xF47C278D Kontrolliere 10 Städte, um die Raumfahrt zu erfinden.
+0x04CAC3D4 Drehen
+0x04CAC3D5 Drehen
+0x04CAC3C4 Kontrolliere 2 Städte, um Wasserfahrzeuge zu erfinden.
+0x064A7057 Luftfahrzeug kaufen ($3000)
+0x064A705D Wasserfahrzeug kaufen ($1500)
+0x064A7064 Landfahrzeug kaufen ($1000)
+0x0643ED9B Du hast Wasserfahrzeuge erfunden
+0x0643EDB7 Du hast Luftfahrzeuge erfunden
+0x0643EDBE Du hast die Raumfahrt erfunden
+0x062E9EC2 Voraussetzung: 2 Städte
+0x062EABDE Voraussetzung: 1 Stadt
+0x062E9ECA Voraussetzung: 6 Städte
+0x04CAC3D8 Spore-Dollars
+0x065FC365 Stammesplaner
+0x065CD6F2 --Gesamtfahrzeuggrenze erreicht
+0x0657690D --Erstelle im Stadtplaner ein Luftfahrzeug
+0x0657690C --Erstelle im Stadtplaner ein Wasserfahrzeug
+0x0657690B --Erstelle im Stadtplaner ein Landfahrzeug
+0x06565205 Kolonieplaner
+0x06562784 --Erfordert mehr Häuser
+0x065767B3 --Muss eine Stadt am Meer sein
+0x065767BB --Voraussetzung: 4 Städte
+0x065767B7 --Voraussetzung: 2 Städte
+0x064A7050 Stadtplaner
+0x062E9EC6 Voraussetzung: 4 Städte
+0x04CAC3C5 Kontrolliere 4 Städte, um Wasserfahrzeuge zu erfinden.
+0xF17C278D Geschichte
+0x065FC366 Baby hinzufügen (~tribe_food_required_for_baby~ Nahrung)
+0x062DACA9 Schließe die Kreaturenphase ab, um diese Fähigkeit freizuschalten.
+0x062DACAD Schließe die Stammesphase ab, um diese Fähigkeit freizuschalten.
+0x062DAC92 Schließe die Zellenphase ab, um diese Fähigkeit freizuschalten.
+0x062E98FB Folgetalente
+0x0645384B In Stammesphase eintreten
+0x06453842 In Kreaturenphase eintreten
+0x0645384F In Zivilisationsphase eintreten
+0x065F79F0 Einkommen: +$~civ_income~/min
+0x065FC369 --Stamm ist voll
+0x0671FB71 --Nicht genug Spore-Dollars
+0x065FC367 --Nicht genug Futter
+0x065FC368 --Erfordert größere Hütte
+0x06453852 In Weltraumphase aufsteigen
+
+#### CSA Spore Guide ###
+
+0x04F65BBB Willkommen bei Spore
+0x04F65BBC Einstieg
+0x04F65BBD Baumodus
+0x04F65BBE Testlauf
+0x04F65BBF Bemalen-Modus
+0x063C34EB Neue Kreation laden
+
+### Consequence Timeline ###
+
+0x06131BB0 Zeitachsen-Ansicht
+0x06131BB1 Konsequenzen-Ansicht
+0x06131BB2 Evolutionsuhr
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Kaufen
+0xF17C273B Bearbeiten
+0xF47C273B Nächste Seite
+0xF57C273B Vorherige Seite
+0xF67C273B Von Grund auf erschaffen
+0xF77C273B Sortieren nach:
+0xF87C273B Verkaufen
+0xF27C273B Bereitstellen
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Hilfe - Kreatur
+0xF81C283C Hilfe - Stamm
+0xF81C284C Hilfe - Zivilisation
+0xF81C286C Hilfe - Weltraum
+0xF81C287C Hilfe - Hauptmenü
+0x05B5517E Zellenhilfe
+0xF81C285C Designer-Hilfe
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Alle wählen
+0xF87C278E Wähle einen Freund
+0x0614906C Klicken, um ein Baby hinzuzufügen
+0x05D298AC Rede mit einem Verbündeten, um ein Raumschiff zu bekommen.
+0xF97C278E Sozialisiere dich mit einem Verbündeten, um ihn deinem Rudel hinzuzufügen!
+
+#### Global UI Space ####
+
+0xF57C270A Terraforming-Werkzeuge
+0x93CF382F Planet verfolgen
+
+#### Planners -- Global ### (not CSA)
+
+0x0F1C278E Gebäude- und Geschützturm-Limit
+0xF70C278F Kleidung bearbeiten
+0x04BAFA05 Militärfahrzeug-Limit
+0x04BAFA07 Wirtschaftsfahrzeug-Limit
+0xF27C278E Erntefahrzeug-Limit
+0xF57C278F Bevölkerungszahl
+0xF58C278F Zufriedenheit
+0xF59C278F Verteidigung
+0xF60C278F Wirtschaft
+0xF71C278F Langeweile-Stufe
+0xF72C278F Müdigkeitsstufe
+0x0626EA63 Eigene religiöse Städte
+0x0626EA64 Eigene wirtschaftliche Städte
+0x0626EA62 Eigene militärische Städte
+0x06381A1A Name deines Reiches
+0x06381A1B Planeteneinkommen/Minute
+0x0653C13B Nächste Stadt
+0x0653C13E Vorherige Kolonie
+0x0653C13C Vorherige Stadt
+0x0653C13D Nächste Kolonie
+0x06381A13 Nationales Einkommen/Minute
+0x06381A18 Name deines Stammes
+0x06381A19 Name deiner Nation
+0x06381A17 Gebäude-Übersicht
+0x06381A16 Fahrzeug-Übersicht
+0x05342949 Verbessere den TerraScore, um weitere Strukturen freizuschalten.
+0x04BAFA06 Religionsfahrzeug-Limit
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Animierten Avatar aufzeichnen
+0x05B04FE7 Maya-Export
+
+## cell ##
+
+0x03000000 Partner rufen
+0x03000002 Rufe einen Partner, um den Zellen-Designer zu öffnen!
+0x03000001 Rufe einen Partner, um den Zellen-Designer zu öffnen!
+0x03000003 Entwickle Beine und geh an Land!
+
+## Lock Icon##
+
+0x0679F344 Bearbeiten nicht möglich
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Speichern
+0xF81C228B Spiel verlassen
+0xF81C238B Zurück zum Hauptmenü
+0xF81C248B Inhalte ausschließen
+0xF81C25AB Wiederherstellen
+0xF81C25CB Rückgängig
+0xF81C26CB Akzeptieren
+0xF81C277B Optionen
+0xF81C27CB Löschen
+0xF81C28CB Schließen
+0xF81C292C Abschicken
+0xF81C303C Neu laden
+0xF81C304C Abbrechen
+0xF81C305C Entwickle dich zum Land hin!
+0xF81C306C Zurück
+0xF81C307C Info
+0xF81C28CC Speichern und beenden
+0xF81C310C Abbrechen ohne zu speichern
+0xF81C309C Senden
+0xF81C308C Abbestellen
+0x0615FFA4 Ausstatten
+0x0615FFA5 Spielen
+0xF81C276B Spore-Fibel
+0xF81C311C Kreation verbannen
+0xF81C312C Details betrachten
+0xF81C313C Suche löschen
+0xF81C314C Freund hinzufügen
+0x0615FFB0 Hunger
+0xF81C258B Einstellungen
+0x0615FFA9 Gesundheit
+0x0615FFA8 Ausblenden
+0x0615FFA7 Einblenden
+0x0612F6B6 Bereitstellen
+0x0615DD1C Du musst vor der Bereitstellung speichern
+0x0615DD1B Bereits geteilt
+0x0655200D Spielen
+0xF81C281C Ausblenden
+0xF81C278B Pause
+0x0615FFA6 Meine Sammlungen
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Kolonien auf diesem Planeten
+0x06381A14 Planeten-TerraScore
+0xF72C27AA Bevölkerung
+0xF72C27BB Zufriedenheit
+0xF72C27CC Einkommen
+0xF72C27DD Verteidigung
+
+### Options Panel###
+
+0xF57C573C Fernglas
+0xF57C674D Verbannen
+0xF57C775E Einstellungen
+0xF57C776E Weiterspielen
+0xF57C777E Spore beenden
+0xF57C778E Bearbeiten fortsetzen
+0x0678C049 Schließe den Designer, bevor du Spore beendest!
+0x0678C04A Fernglas-Modus in der Zellenphase nicht verfügbar
+0x0678C04B Verbannen-Modus in der Zellenphase nicht verfügbar
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Körperteile freigeschaltet
+0x05837B77 Es sind freigeschaltete Körperteile verfügbar
+
+#### CSA ### 
+
+0x04E404F9 Optionen
+0x04E404FA Hilfe
+0x04E404FB Optionen
+0x04E404FE Kreatur speichern
+0x04E404FF Einstellungen
+0x04E404FC Sporepädie
+0x04E404FD Neue Kreation
+0x04E404F8 Spore-News
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08754 Zelle wählen
+0x05B08755 Kreatur wählen
+0x05B08756 Stammeskreatur wählen
+0x05B08757 Zivilisationskreatur wählen
+0x05B08758 Weltraumkreatur wählen
+0x05B08759 Rathaus wählen
+0x05B08760 Raumschiff wählen
+0x05B08851 Wähle einen zufälligen Namen
+0x05B08862 Wähle ein zufälliges Objekt
+0x05B08863 Objekt sperren
+
+### Editor Camera instructions ###
+
+0x05013A33 Heranzoomen
+0x05013A34 Herauszoomen
+0x05013A32 Drehen
+0x05013A31 Drehen
+
+#### Editors -- Global ###
+
+0xF37C273B Budget
+0xF37C275B Baumodus
+0xF37C276B Bemalen-Modus
+0xF37C277B Testlauf
+0xF37C278C Gib mir einen Namen
+0x05AF4A02 Weitere Kategorien
+0x05AF4A03 Weitere Kategorien
+0xF37C274B Komplexitätsanzeige
+0x05AF4A04 Bemalen wie ...
+0x05AF4A05 Bemalen wie "~newmodelname~"
+0x05AF4A06 Neue Standardfarbe
+0x064D2883 Budget
+0x064D2882 Budget
+0x064D2885 Budget
+0x064D2884 Budget
+0xF37C278D Ausblenden
+
+#### GGE #####
+
+0xF36C273B Spore.com
+0x0577BFC5 Namen erzeugen
+0xF45C273B Anmeldung & Registrierung
+0xF82C275B Das Spiel spielen
+0xF18C213B Sporepädie
+0xF81C271B Gebäude-Designer
+0xF81C275B Raumschiff-Designer
+0xF63C273B Zellen-Designer
+0x063AEAA9 Großansicht
+0xF27C223B Spore-Katalog
+0xF54C273B Designer
+0xF72C273B Kreaturen-Designer
+0xF81C274B Fahrzeug-Designer
+0xF81C273B Fahrzeug-Designer
+0xF81C272B Fahrzeug-Designer
+0x0609BC40 Weltraumausstatter
+0x0609BC24 Stammesausstatter
+0x0609BC3D Zivilisationsausstatter
+0xF81C2A3B Ausstatter
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/Stunde
+
+##GGE General##
+
+0x05B08744 Abbrechen
+0x05B08745 Informationen
+0x05B08746 Vorwärts
+0x05B08747 Zurück
+0x05B08748 Sporecast-Thema
+0x05B08749 Beispielobjekte
+0x05B08750 Identitätsfarbe
+0x05B08751 Freigeschaltet
+0x05B08752 Gesperrt
+0x05B08753 Zufall
+

@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE82 Agressivo
+0xF67C278E Habilidades Gerais
+0x0568AE90 Manipuladores Econômicos
+0xF47C278E Postura Social
+0xF57C276F Postura Social
+0xF57C278E Postura de Combate
+0xF57C279A Postura de Combate
+0x0568AE91 Suborno e Confusão
+0x0568AE92 Ataque Publicitário
+0x0568AE70 Armas Militares
+0x0568AE71 Bomba Incendiária
+0x0568AE72 Bomba Nuclear Tática
+0x0568AE73 Míssil ICBM
+0x0568AE80 Poderes Religiosos
+0x0568AE81 Cura da Fé
+0x0568AE82 Chuva de Bestas
+0x0568AE83 Ascensão do Messias
+0x0568AE93 Ataque Publicitário Global
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+0x0567AE7B Defensivo
+
+### Global UI specific ###
+
+0x04BC1A80 Pontos de DNA. Ganhe pontos de DNA ao se alimentar e gaste-os em novas partes para sua criatura.
+0x04CAC3D8 Sporegranas
+0xF27C278D Progresso em direção à terra. Alimente-se para crescer.
+0xF57C278D Pontos de DNA
+0xF77C278D Para VENCER, aumente sua população acasalando e recrutando!
+0xF87C278D Alimento Coletado
+0x04CAC3C1 Conquiste ou alie-se a outras tribos para continuar
+0x04CAC3C2 Conquiste ou alie-se a outras tribos para continuar
+0x04CAC3C3 Conquiste ou alie-se a outras tribos para continuar
+0xF47C279B Partes Destravadas
+0x04CAC3D7 Diminuir aproximação
+0x04CAC3D6 Aumentar aproximação
+0xF47C279A Lista de missões
+0xF47C279D Missões completas
+0xF47C279C Missões em andamento
+0x062E9EC2 Requer 2 Cidades
+0x0643EDB7 Você inventou os veículos aéreos
+0x0643EDBE Você inventou a viagem espacial
+0x0643ED9B Você inventou os veículos aquáticos
+0x062EABDE Requer 1 Cidade
+0x062E9ECA Requer 6 Cidades
+0x04CAC3D4 Girar
+0x04CAC3C4 Controle 2 cidades para desbloquear os veículos aquáticos
+0x04CAC3D5 Girar
+0xF47C278D Controle 10 cidades para inventar a viagem espacial
+0xF67C278D Acumule DNA para avançar
+0x064A7064 Comprar Veículo Terrestre ($1.000)
+0x064A705D Comprar Veículo Aquático ($1.500)
+0x064A7057 Comprar Veículo Aéreo ($3.000)
+0x065CD6F2 --Limite de Veículos Atingido
+0x0657690D --Crie um Veículo Aéreo no Planejador de Cidades
+0x0657690B --Crie um Veículo Terrestre no Planejador de Cidades
+0x06565205 Planejador de Colônias
+0x06562784 --Necessita de Mais Casas
+0x065767B3 --Deve ser uma Cidade Marítima
+0x065767BB --Requer 4 Cidades
+0x065767B7 --Requer 2 Cidades
+0x065FC365 Planejador Tribal
+0x0657690C --Crie um Veículo Aquático no Planejador de Cidades
+0x062DAC92 Complete o Estágio de Célula para desbloquear esta habilidade.
+0x065FC366 Adicionar Bebê (~tribe_food_required_for_baby~ de Alimento)
+0x062E9EC6 Requer 4 Cidades
+0x064A7050 Planejador de Cidades
+0x04CAC3C5 Controle 4 cidades para desbloquear os veículos aéreos
+0xF17C278D Histórico
+0x065F79F0 Receita: +$~civ_income~/min
+0x062DACA9 Complete o Estágio de Criatura para desbloquear esta habilidade.
+0x062DACAD Complete o Estágio Tribal para desbloquear esta habilidade.
+0x062E98FB Habilidades Conseqüenciais
+0x06453852 Evoluir para Espaço
+0x0645384B Evoluir para Tribo
+0x06453842 Evoluir para Criatura
+0x0645384F Evoluir para Civilização
+0x065FC369 -Tribo completa
+0x0671FB71 -Sporegranas insuficientes
+0x065FC367 -Comida insuficiente
+0x065FC368 -Requer cabana maior
+
+#### CSA Spore Guide ###
+
+0x04F65BBC Iniciando
+0x04F65BBF Modo Pintura
+0x04F65BBD Modo Criação
+0x04F65BBB Bem-vindo ao Spore
+0x063C34EB Carregar Nova Criação
+0x04F65BBE Modo Teste
+
+### Consequence Timeline ###
+
+0x06131BB0 Ver Linha do Tempo
+0x06131BB1 Ver Conseqüência
+0x06131BB2 Relógio Evolutivo
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Comprar
+0xF17C273B Editar
+0xF67C273B Criar do Nada
+0xF87C273B Vender
+0xF27C273B Compartilhar
+0xF47C273B Próxima
+0xF77C273B Classificar por
+0xF57C273B Anterior
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Ajuda - Criatura
+0xF81C283C Ajuda - Tribo
+0xF81C284C Ajuda - Civilização
+0xF81C286C Ajuda - Espaço
+0xF81C287C Ajuda - Principal
+0x05B5517E Ajuda do Estágio de Célula
+0xF81C285C Ajuda do Criador
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Escolher Todos
+0xF87C278E Escolha um Amigo
+0x0614906C Clique para adicionar um Filhote
+0xF97C278E Socialize com um aliado para adicioná-lo ao seu bando
+0x05D298AC Converse com um aliado para conseguir uma nave
+
+#### Global UI Space ####
+
+0xF57C270A Ferramentas de Terraformação
+0x93CF382F Rastrear Planeta
+
+#### Planners -- Global ### (not CSA)
+
+0x04BAFA06 Limite de Veículos Religiosos
+0x04BAFA05 Limite de Veículos Militares
+0x04BAFA07 Limite de Veículos Econômicos
+0x0F1C278E Limite de Torres e Estruturas
+0xF27C278E Limite de Veículos Agrícolas
+0xF57C278F População
+0xF58C278F Felicidade
+0xF59C278F Defesa
+0xF60C278F Economia
+0xF70C278F Editar Vestimenta
+0xF71C278F Nível de tédio
+0xF72C278F Nível de cansaço
+0x0626EA63 Cidades Religiosas Controladas
+0x0626EA64 Cidades Econômicas Controladas
+0x0626EA62 Cidades Militares Controladas
+0x06381A18 O Nome de Sua Tribo
+0x06381A17 Visão Geral da Estrutura
+0x06381A16 Visão Geral do Veículo
+0x06381A1A O Nome de Seu Império
+0x06381A1B Receita Planetária Por Minuto
+0x06381A19 O Nome de Sua Nação
+0x06381A13 Receita Nacional Por Minuto
+0x0653C13E Colônia Anterior
+0x0653C13D Próxima Colônia
+0x0653C13C Cidade Anterior
+0x0653C13B Próxima Cidade
+0x05342949 Melhore seu Nível_T para desbloquear mais estruturas
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Capturar Avatar Animado
+0x05B04FE7 Maya Export
+
+## cell ##
+
+0x03000000 Chamado de Acasalamento
+0x03000002 Chame um companheiro para ir ao Criador de Células!
+0x03000001 Chame um companheiro para ir ao Criador de Células!
+0x03000003 Desenvolva pernas e vá para a terra!
+
+## Lock Icon##
+
+0x0679F344 Não é possível editar
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Salvar
+0xF81C228B Sair do Jogo
+0xF81C238B Sair para o Menu Principal
+0xF81C248B Banir Conteúdo
+0xF81C25AB Refazer
+0xF81C25CB Desfazer
+0xF81C26CB Aceitar
+0xF81C277B Opções
+0xF81C28CB Fechar
+0xF81C292C Enviar
+0xF81C303C Recarregar
+0xF81C304C Cancelar
+0xF81C305C Evoluir para a terra!
+0xF81C306C Voltar
+0xF81C28CC Salvar e Sair
+0xF81C310C Cancelar-Não Salvar
+0xF81C309C Enviar
+0xF81C307C Informações
+0xF81C308C Cancelar Inscrição
+0x0615FFA4 Vestimenta
+0x0615FFA5 Jogar
+0xF81C27CB Excluir
+0xF81C311C Banir Criação
+0xF81C312C Ver Detalhes
+0xF81C313C Limpar Pesquisa
+0xF81C314C Adicionar Amigo
+0xF81C276B Guia Spore
+0x0615DD1B Já Compartilhado
+0x0615DD1C Você Deve Salvar Antes de Compartilhar
+0x0612F6B6 Compartilhar
+0x0615FFB0 Fome
+0x0615FFA9 Saúde
+0x0615FFA7 Exibir
+0x0615FFA8 Esconder
+0xF81C258B Configurações
+0xF81C281C Esconder
+0xF81C278B Pausa
+0x0655200D Jogar
+0x0615FFA6 Minhas Coleções
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Número de Colônias neste Planeta
+0xF72C27AA População
+0xF72C27BB Felicidade
+0xF72C27CC Receita
+0xF72C27DD Defesa
+0x06381A14 Nível-T do Planeta
+
+### Options Panel###
+
+0xF57C674D Banir
+0xF57C775E Configurações
+0xF57C573C Luneta
+0xF57C776E Continuar Jogo
+0xF57C777E Sair do Spore
+0xF57C778E Continuar Edição
+0x0678C049 Saia do Criador antes de sair do Spore
+0x0678C04A O modo Luneta não está disponível no Estágio de Célula
+0x0678C04B O modo Banir não está disponível no Estágio de Célula
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Partes Destravadas
+0x05837B77 Partes destravadas disponíveis
+
+#### CSA ### 
+
+0x04E404F9 Opções
+0x04E404FA Ajuda
+0x04E404FB Opções
+0x04E404FC Sporepédia
+0x04E404FE Salvar Criatura
+0x04E404FF Configurações
+0x04E404FD Nova Criação
+0x04E404F8 Notícias do Spore
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08754 Escolher Célula
+0x05B08755 Escolher Criatura
+0x05B08756 Escolher Criatura da Tribo
+0x05B08757 Escolher Criatura da Civilização
+0x05B08758 Escolher Criatura Espacial
+0x05B08759 Escolher Prefeitura
+0x05B08863 Travar Item
+0x05B08862 Escolher Item Aleatório
+0x05B08851 Escolher Nome Aleatório
+0x05B08760 Escolher Nave
+
+### Editor Camera instructions ###
+
+0x05013A33 Aumentar aproximação
+0x05013A34 Diminuir aproximação
+0x05013A32 Girar
+0x05013A31 Girar
+
+#### Editors -- Global ###
+
+0xF37C273B Orçamento
+0xF37C276B Modo Pintura
+0xF37C278C Dê-me um Nome
+0x05AF4A02 Mais Categorias
+0x05AF4A03 Mais Categorias
+0xF37C274B Medidor de Complexidade
+0x05AF4A04 Pintar como...
+0x05AF4A05 Pintar como "~newmodelname~"
+0x05AF4A06 Nova cor padrão
+0xF37C275B Modo Criação
+0x064D2883 Reserva
+0x064D2882 Reserva
+0x064D2885 Reserva
+0x064D2884 Reserva
+0xF37C278D Esconder
+0xF37C277B Modo Teste
+
+#### GGE #####
+
+0xF36C273B Spore.com
+0xF18C213B Sporepédia
+0xF45C273B Conexão e Registro
+0xF82C275B Jogar
+0xF54C273B Criadores
+0xF63C273B Criador de Células
+0xF72C273B Criador de Criaturas
+0xF81C271B Criador de Estruturas
+0x063AEAA9 Visão Expandida
+0xF27C223B Catálogo Spore
+0x0577BFC5 Aleatório
+0xF81C275B Criador de Naves
+0xF81C274B Criador de Veículos
+0xF81C273B Criador de Veículos
+0xF81C272B Criador de Veículos
+0x0609BC40 Fornecedor Espacial
+0x0609BC24 Fornecedor da Tribo
+0x0609BC3D Fornecedor da Civilização
+0xF81C2A3B Fornecedor
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/hora
+
+##GGE General##
+
+0x05B08744 Cancelar
+0x05B08745 Informação
+0x05B08746 Avançar
+0x05B08747 Voltar
+0x05B08748 Tema do Sporecast
+0x05B08749 Amostra de Itens 
+0x05B08750 Cor da Identidade
+0x05B08751 Desbloqueado
+0x05B08752 Bloqueado
+0x05B08753 Aleatório
+

@@ -1,0 +1,246 @@
+﻿0x00000061 ~guide: -h1~ A kezdetek
+0x00000A91 ~guide: -h1~ Célkártyák
+0x00000AA1 ~guide: -h2~ Minden egyes játékfázis célokat, küldetéseket kínál, melyek sikeres teljesítése elősegíti a következőhöz való továbbjutást.
+0x000008F1 ~guide: -h3~ A népesség növelése
+0x00000A11 ~guide: -h3~ Eszközök felszerelése
+0x00000C41 ~guide: -h3~ A hódításhoz:
+0x000009E1 ~guide: -h3~ Elhelyezés
+0x00000A01 ~guide: -h2~ Egy adott eszköz megvásárlásához csak kattints rá és húzd bele törzsi faludba, az egyik világló elhelyezési gyűrűbe.
+0x00000C21 ~guide: -h2~ Elsődleges riválisod a világban nem más, mint a többi törzs.
+0x00000C31 ~guide: -h2~ A fejlődéshez öt szomszédos törzset kell meghódítanod vagy szövetségeseddé tenned, célszerű hát stratégiádat ellenlábasaid méretéhez, helyéhez és eszközeihez igazítanod.
+0x00000A41 ~guide: -bullet~ Kattints jobb gombbal az eszközös kunyhóra, mely tartalmazza a használni kívánt eszközt.
+0x00000971 ~guide: -h4~ Az eszközök háromféle kategóriába sorolhatók:
+0x000009D1 ~guide: -h2~ Minden egyes eszköz bizonyos élelemmennyiségbe kerül, amiért cserébe felszerelve egy bizonyos képességet biztosít törzsed tagjainak.
+0x000009C1 ~guide: -h3~ Költségek
+0x00000C01 ~guide: -h2~ Mielőtt szövetség felé próbálnál terelni egy törzset szórakoztatással, vihetsz neki élelem-ajándékot, hogy így is javíts a kapcsolatotokon.
+0x00000D51 ~guide: -h2~ Ha öt szomszédos törzs meghódításával vagy szövetségessé tételével megtöltöd a fejlődéscsíkot, lehetőséged nyílik arra, hogy bármikor továbblépj a civilizációs fázisba. Ha ezt szeretnéd, kattints a Fejlődés gombra.
+0x00000A81 ~guide: -h2~ Minden egyes kiegészítő más és más előnyt biztosít törzsed tagjainak, így célszerű olyanokat választanod, melyek illenek az általad a törzs számára választott stratégiához.
+0x000008A1 ~guide: -h2~ Egy vadállat háziasításához:
+0x000008C1 ~guide: -bullet~ Kattints jobb gombbal a vadállatra, amit háziasítani szeretnél.
+0x00000CC1 ~guide: -h3~ A szövetkezéshez:
+0x00000881 ~guide: -h3~ Háziasítás
+0x00000891 ~guide: -h2~ A lények háziasításával hozzáadhatod őket törzsedhez, háziállatokként. Eztán begyűjtheted tojásaikat, miáltal javulnak túlélésed esélyei. A növényevők, a húsevők és a mindenevők egyaránt meg tudják enni a háziasított állatok tojásait.
+0x00000BD1 ~guide: -h2~ A vadállatok vagy egyéb törzsek portyáit a vadászkürt hangja jelzi. Ha törzsed nincs otthon, ideje sürgősen visszatérni a faluba!
+0x00000B61 ~guide: -bullet~ Ha egy szomszédos törzs kunyhója fölé viszed az egérmutatót, megtudhatod, mekkora az adott törzs és milyen kapcsolatban áll a te törzseddel.
+0x00000B81 ~guide: -bullet~ Ha duplán rákattintasz a minitérképre, a kamera gyorsan átvált az adott helyre.
+0x00000B71 ~guide: -bullet~ Ha a minitérképre kattintasz, a kattintás helyére küldöd a kamerát.
+0x00000B01 ~guide: -h2~ A minitérkép a kontinens fontos pontjainak helyzetét mutatja:
+0x00000B91 ~guide: -h1~ Kapcsolat szomszédos törzsekkel
+0x00000AF1 ~guide: -h1~ A minitérkép
+0x00000B31 ~guide: -image-left 0x05556b31!minimap-fish.png ~ Kiváló halászhelyek
+0x00000B11 ~guide: -image-left 0x05556b31!minimap-fruit.png ~ Gyümölcsligetek
+0x00000AB1 ~guide: -h3~ Mini célkártyák
+0x00000831 ~guide: -h3~ Vadászat
+0x000007A1 ~guide: -h2~ A Törzsi fázisban az élelem fontos fizetőeszköz.
+0x000007B1 ~guide: -h2~ Ha élelemtartalékot halmozol fel, megmentheted törzsedet az éhezéstől és szerszámokat is vásárolhatsz belőle a Törzstervezőben.
+0x000007C1 ~guide: -h2~ Törzsed étrendje a száj típusától függ. Ha növényevők, hínárt vagy gyümölcsöt kell gyűjteniük, ha ragadozók, akkor halászniuk vagy vadászniuk kell. Ha mindenevők, akkor vadászhatnak és gyűjtögetnek is, de mindenből kicsit többre lesz szükségük.
+0x00000781 ~guide: -h2~ Lásd a Kapcsolat más törzsekkel c. fejezetet
+0x00000791 ~guide: -h1~ Élelem
+0x00000821 ~guide: -h2~ A törzsbeliek addig gyűjtögetik és viszik az élelemtartalékhoz a gyümölcsöt vagy hínárt, míg a gyűjtögetés helyén el nem fogy az élelem.
+0x000007D1 ~guide: -h2~ Minden törzs képes vadállatokat szelídíteni és elfogyasztani tojásaikat, legyenek tagjai húsevők, mindenevők vagy akár növényevők.
+0x000007E1 ~guide: -h3~ Gyűjtögetés
+0x000007F1 ~guide: -h2~ * A gyümölcsösök vagy a halászhelyek közelében található hínárosok a növényevő törzsek gyűjtögetőhelyei.
+0x00000251 ~guide: -h3~ Éhség
+0x000002B1 ~guide: -h3~ Egészség
+0x00000291 ~guide: -h2~ Ha a törzs tagjai nem jutnak ételhez, éhezni kezdenek, életerejük csökken, végül pedig meghalnak.
+0x00000241 ~guide: -h2~ Ha egy törzstag kiválasztásra kerül, portréját sárga keret veszi majd körül.
+0x000001F1 ~guide: -h2~ A törzs minden tagjának portréja megjelenik a képernyő jobb szélén.
+0x000001E1 ~guide: -h4~ Törzstagok
+0x00000201 ~guide: -h2~ A portrékon látható:
+0x00000231 ~guide: -bullet~ Az illető törzstag éhségének szintje.
+0x00000211 ~guide: -bullet~ Az a tárgy, amellyel a törzstag aktuálisan fel van szerelve.
+0x00000361 ~guide: -h2~ Legyen bár gyümölcs, hal, hínár vagy hús az élelem, amit gyűjtögetsz, törzsed tagjai mindenképpen a totemoszlop mellett fogják felhalmozni.
+0x00000351 ~guide: -h3~ A törzs élelmiszerkészlete
+0x00000371 ~guide: -h2~ A vadállatok imádják felprédálni az élelemtartalékot. Ha a faludban őrizetlenül hagysz egy komoly készletet, mindenképpen megpróbálják megdézsmálni. Erre az eseménynapló és egy vadászkürt hangja fog figyelmeztetni.
+0x00000391 ~guide: -h2~ Törzsed totemoszlopa a státusz és fejlődés szimbóluma
+0x00000381 ~guide: -h3~ Totemoszlop
+0x00000331 ~guide: -h3~ Tűzgödör
+0x000002E1 ~guide: -h3~ Halál a törzsben
+0x000002D1 ~guide: -h2~ A Törzstervezőben vásárolhatsz törzsi eszközöket, melyekkel a tagok gyorsabban gyógyulnak.
+0x000002C1 ~guide: -h2~ A törzs tagjainak életereje csökkenhet a csatában. Hogy formában maradjanak, irányítsd őket a törzs falujába, ahol pihenhetnek és gyógyulhatnak.
+0x00000321 ~guide: -h2~ A törzsi kunyhó falud központja, és ez viseli törzsed azonosítószínét is. Ahogy törzsed növekszik más törzsek meghódításával vagy a velük kötött szövetségek nyomán, úgy lesz egyre nagyobb mind a falu, mind az épület.
+0x00000311 ~guide: -h3~ Törzsi kunyhó
+0x00000301 ~guide: -h1~ Törzsi falu
+0x000001D1 ~guide: -h2~ A botjáról azonosítható törzsfőnök erősebb, mit törzsed többi tagja. A törzsfőnöknek a botján kívül nincs szüksége más eszközre, mivel az a törzs összes eszközének tulajdonságával rendelkezik.
+0x00000091 ~guide: -h3~ A Lényfázisból
+0x000000C1 ~guide: -h2~ Előbb-utóbb törzsed érdeklődni kezd a kontinensen élő más törzsek iránt.
+0x000000B1 ~guide: -h2~ Törzsed legfontosabb szükséglete az élelem. A törzs ellátásához gyűjtögetned vagy vadásznod kell.
+0x00000031 ~guide: -h2~ Újonnan kifejlődött intelligenciáddal együtt megtanulod használni a tüzet, a szerszámokat és a felszereléseket. Ezek kritikus fontosságúak törzsed sikeressége szempontjából. A Törzsi fázis fizetőeszköze az élelem.
+0x00000041 ~guide: -h2~ A szerszámokkal hozzáférsz a tenger kincseihez. Törzsed most már képes élelmet szerezni a tengerből: a növényevők hínárt, a ragadozók és mindenevők halat.
+0x00000161 ~guide: -h2~ Törzsi azonosítód lényed alapszínétől függ. A rivális törzsek színei megtalálhatók a bőrükön, az épületeiken, az eszközeiken és a kistérképen. Ezek a színek különböztetik meg a törzseket a bolygón kószáló vadállatoktól.
+0x000001A1 ~guide: -h3~ A törzs
+0x00000151 ~guide: -h3~ Törzsi azonosító szín
+0x00000101 ~guide: -h1~ Célod
+0x00000141 ~guide: -h1~ Törzsed
+0x000003B1 ~guide: -h3~ Szerszámos viskók
+0x00000651 ~guide: -bullet~ Az olyan tárgyakat, amelyekkel kezdhetsz valamit, kijelölés vagy a rájuk vitt kurzor színének változása jelzi.
+0x000005B1 ~guide: -h2~ Ha törzsed több tagját akarod kiválasztani, használd az alábbi módszerek valamelyikét:
+0x00000591 ~guide: -h2~ Ha kijelölted a törzs egyik tagját, sárga kör jelenik meg körülötte, és engedelmeskedni fog utasításaidnak.
+0x000005C1 ~guide: -bullet~ Tartsd lenyomva az egér bal gombját, és húzz egy keretet a kurzorral a kívánt csoport köré.
+0x000005D1 ~guide: -bullet~ Tartsd lenyomva a CTRL gombot és az egér bal gombjával kattints arra az egyénre, akit hozzá akarsz adni a csoporthoz.
+0x00000741 ~guide: -bullet~ A kiválasztott törzstagok a beállított viselkedésmódtól függően megpróbálják elejteni vagy háziasítani az állatot.
+0x00000731 ~guide: -bullet~ Kattints a jobb gombbal a vadállatra!
+0x000006E1 ~guide: -h2~ Jó ötlet egy szomszédos törzstag vagy vadállat felkeresése előtt beállítani törzsed tagjainak viselkedésmódját.
+0x00000681 ~guide: -h2~ Törzsed tagjai addig ismételgetik a cselekvést, amelyre utasítást adtál, amíg a forrás ki nem merül, amíg a körülmények lehetővé teszik, vagy amíg félbe nem szakítják őket.
+0x00000671 ~guide: -bullet~ Ha a világ egy kiválasztott részére akarod küldeni törzsed tagjait, a kívánt helyet a jobb egérgombbal jelölheted ki.
+0x000006A1 ~guide: -h2~ Törzsed tagjainak viselkedését az aktuális helyzetük befolyásolja.
+0x00000441 ~guide: -h3~ Kamera
+0x00000431 ~guide: -h1~ Kezelőszervek
+0x00000421 ~guide: -h2~ Ha szövetséget kötsz vagy katonai győzelmet érsz el, törzsed totemoszlopa újabb darabbal gazdagodik.
+0x00000451 ~guide: -h4~ Kamera forgatása
+0x00000471 ~guide: -bullet~ Vagy nyomd le hosszan a középső egérgombot, és mozdítsd az egeret balra vagy jobbra.
+0x00000411 ~guide: -h2~ A jelző minden szegmense egy-egy olyan törzset jelöl, amelyet legyőztél vagy szövetségeseddé tettél. Ha sikert akarsz elérni a Törzsi fázisban, mind az öt szomszédos törzset uralnod kell így vagy úgy.
+0x00000401 ~guide: -h2~ A Törzsi fázisban tanúsított haladásodat a fejlődéscsík mutatja a képernyő alján.
+0x000003F1 ~guide: -h1~ Haladásod követése
+0x00000531 ~guide: -h4~ Követés kamerával
+0x00000561 ~guide: -h1~ Törzstagok irányítása
+0x00000501 ~guide: -h4~ Ráközelítés, távolítás a kamerával
+0x000004B1 ~guide: -bullet~ Vagy nyomd le hosszan a középső egérgombot, és mozdítsd az egeret fel és le.
+0x00000491 ~guide: -h4~ Kamera rögzítése
+0x000004C1 ~guide: -h4~ Pásztázás a kamerával
+0x000004F1 ~guide: -bullet~ A W,A,S,D gombok vagy a nyílgombok segítségével is pásztázhatsz a kamerával.
+0x000004D1 ~guide: -bullet~ Mozgasd a kurzort a képernyőnek arra a szélére, amerre pásztázni akarsz vele. (ehhez az élgörgetésnek BE állásban kell lennie).
+0x00000861 ~guide: -bullet~ A törzsbeliek megrohanják az állatot, és ha győznek, húsostálakat hoznak az élelmiszerkészlethez.
+0x00000871 ~guide: -h2~ A Törzstervezőben vásárolt fegyverek növelik a törzsbeliek előnyét a vadállatokkal szemben.
+0x00000021 ~guide: -h2~ Fajod immár értelmes, és kis törzset alakított! Körülötted, a kontinensen más fajok is tanulják az eszközhasználatot, és kunyhókat építenek. Hamarosan vetélytársak lesztek. Le kell küzdened ezeket a törzseket, hogy megalapíthasd a bolygó első civilizált társadalmát.
+0x00000801 ~guide: -bullet~ Jelölj ki egy törzsbelit vagy egy csoportot, és kattints egy gyümölcsösre, hogy megkezdjék a gyűjtögetést!
+0x00000811 ~guide: -bullet~ Jelölj ki egy törzsbelit vagy egy csoportot, és kattints egy olyan helyre a parton, ami közelében halak ugrálnak, hogy megkezdjék a hínárgyűjtést!
+0x00000721 ~guide: -bullet~ Válassz a Harcias és Társasági viselkedésmód között
+0x00000841 ~guide: -h2~ A Törzsi fázisban a vadállatok jelenthetnek fenyegetést is törzsedre nézve, de akár táplálékforrássá is válhatnak.
+0x00000851 ~guide: -bullet~ Válassz ki egy vagy több törzstagot, állítsd át őket Harcias viselkedésmódra, majd kattints egy vadállatra, hogy megtámadják.
+0x000008B1 ~guide: -bullet~ A bal egérgombbal kattintva választhatod ki azokat a törzstagokat akiknek utasításokat kívánsz adni.
+0x00000341 ~guide: -h2~ Törzsed immár tud bánni a tűzzel: ezt a törzsi tűzgödör megléte bizonyítja. Ahogy törzsed minden egyéb épülete, ez is fejlődik. Ha népednek épp nincs más dolga, kattints a tűzre, hogy kezdetét vehesse a törzsi tánc. Ez jót tesz a morálnak.
+0x00000621 ~guide: -h2~ A törzstagok portréi a törzsi listán megmutatják, hogy az adott személy éppen mivel foglalkozik. Ha van eszközöd, az azt jelölő ikon jelenik meg a portré helyett, így nyomon követheted gyűjtögetéssel és vadászással foglalatoskodó törzstagjaidat és láthatod azt is, mennyire éhesek és életerősek. Az adatok segítségével a megfelelő személyeket küldheted a feladatok megoldására.
+0x000003A1 ~guide: -h2~ Minden legyőzött törzs vagy sikeres szövetség új darabbal gazdagítja totemoszlopodat. Ha összegyűlik öt, törzsed elég tekintéllyel fog rendelkezni ahhoz, hogy várost alapítson!
+0x000003C1 ~guide: -h2~ A Törzsi fázisban több szerszámosviskó is elérhető, megszerzésükhöz ételkészletedből kell áldoznod. Minden szerszám új képességekkel ruházza fel törzsedet, segítve ezzel, hogy te légy a legerősebb a bolygón.
+0x000000F1 ~guide: -h2~ Amikor több élelmet gyűjtesz, mint amennyire pillanatnyilag szükséged van, fejlesztheted a falut, eszközöket vehetsz vagy felszerelheted a törzs tagjait, hogy nagyobb eséllyel szállhass szembe új létük kihívásaival.
+0x00000D41 ~guide: -h1~ A Törzsi fázis befejezése
+0x00000641 ~guide: -h2~ Ha kiválasztod törzsed egy tagját, utasíthatod rá, hogy kezelje a világon található tárgyakat.
+0x00000661 ~guide: -bullet~ Ha kiválasztottad a törzstagokat, a jobb egérgombbal kattints az adott tárgyra, hogy kiadd a megfelelő parancsot. Ha gyümölcsöt akarsz például gyűjteni, kattints a gyümölcsfára, ha pedig halat akarsz fogni, akkor a tengerpartra.
+0x00000581 ~guide: -h2~ Az egyes törzstagokat rájuk vagy a kép jobb oldalán levő törzsi listán portréjukra kattintva jelölheted ki.
+0x00000131 ~guide: -h2~ Miután meghódítottad vagy beolvasztottad első, harmadik és ötödik törzsedet, törzsed befolyása és populációja megnő, és a technikai fejlődésnek köszönhetően hamarosan már építhetsz városházát, hogy aztán továbblépj a Civilizációs fázisba.
+0x00000111 ~guide: -h2~ Célod a Törzsi fázisban meghódítani a rivális törzseket, vagy szövetséget kötni velük, hogy növekedni tudj, és végül várost építhess, civilizációt hozhass létre.
+0x000001B1 ~guide: -h4~ A törzsfőnök
+0x000005F1 ~guide: -h4~ Egy törzstag kiválasztásának megszüntetése.
+0x00000BA1 ~guide: -h2~ A Törzsi fázisban igen fontosak a más törzsekhez és vadállatokhoz fűződő viszonyok.
+0x000006B1 ~guide: -h2~ Viselkedésmódjukat az üzemmódgombokkal állíthatod be, amelyet a képernyő aljának közepén találsz.
+0x000006D1 ~guide: -h2~ A Társasági viselkedésmódra állított törzstagok barátságosak lesznek más falvak lakóival és a vadállatokkal.
+0x000006C1 ~guide: -h2~ A Harcias viselkedésmód állított törzstagok agresszívak lesznek, ha más falvak lakói, szerszámosviskói vagy vadállatok felé irányítod őket.
+0x00000691 ~guide: -h3~ Harcias és Társasági viselkedésmód beállítása
+0x00000521 ~guide: -bullet~ A + vagy a – gombok segítségével is ráközelíthetsz vagy távolíthatsz a kamerával.
+0x00000991 ~guide: -bullet~ Szociális – Ezek a hangszerek igen értékesek mivel jó hasznukat veheted, miközben azon dolgozol, hogy jó benyomást tégy más törzsekre. Érdemes lehet őket kombinálni is.
+0x000009A1 ~guide: -bullet~ Katonai – Ezek a fegyverek jól jöhetnek mind vadászatra, mind más törzsek elleni harcra. E fegyverek kombinálása még félelmetesebbé tesz.
+0x00000981 ~guide: -bullet~ Élelem és gyógyítás – Ezek az eszközök hatékonyabbá teszik élelmiszergyűjtésedet vagy gyógyításodat.
+0x00000A71 ~guide: -h2~ Immár nem abban az evolúciós szakaszban jársz, melyben a Lényfázisban voltál, már nem változtathatsz a megjelenéseden részek hozzáadásával vagy mozgatásával – viszont vehetsz ruhákat törzsed tagjainak a Törzsszépítőben!
+0x00000A21 ~guide: -h2~ Ha eszközt vásárolsz, azzal célszerű felszerelned törzsed tagjait – annyit, ahányat csak akarsz.
+0x00000D31 ~guide: -bullet~ Miközben törzsed a hangszerein játszik, a másik törzs megfontolja majd, milyen zenét szeretne hallani.
+0x00000D32 ~guide: -bullet~ Próbálj meg alkalmazkodni meghatározó kívánságaikhoz, hogy viszonyotok a helyes irányba mozduljon.
+0x00000D33 ~guide: -bullet~ A dal végén a másik törzs pontozza teljesítményedet. Ha a pontszám elég magas, jó úton jársz a szövetség felé.
+0x00000D21 ~guide: -bullet~ Törzsed tagjai elutaznak a szomszédos törzshöz, illetve egy másik faluhoz, és felsorakoznak a szórakoztatáshoz.
+0x00000D03 ~guide: -bullet~ Kattints a Barátkozás módra.
+0x00000C51 ~guide: -h2~ Egy másik törzs meghódításához le kell gyalulnod annak faluját, elpusztítva a kunyhójukat.
+0x00000CF1 ~guide: -h4~ Előadás a szövetségért
+0x00000C63 ~guide: -bullet~ Az eltérő fegyverekkel felszerelt törzstagokat csoportként küldheted harcba. Ez növeli a hatékonyságot, mivel minden eszköznek más a specialitása.
+0x00000C62 ~guide: -bullet~ Ha törzsedet szerszámokkal látod el, azzal növeled támadásod erejét.
+0x00000C64 ~guide: -bullet~ Alakulhat úgy, hogy a rivális törzs egyes tagjait kell megcéloznod, hogy kordában tartsd őket, mivel törzstársaid a rivális falut támadják.
+0x00000B82 ~guide: -bullet~ Mozgasd az egeret a kistérképtől jobbra található kunyhók fölé, hogy megnézd, milyen viszonyban van törzsed az adott törzzsel.
+0x000000E1 ~guide: -h2~ Törzsed számára a falu jelenti az otthont. A tagok ott pihennek, gyógyulnak, és halmoznak fel élelmet. Még egy pajtát is építettek a háziasított állatok számára, ha kívánsz ilyeneket tartani.
+0x000000A2 ~guide: -h3~ Már egy törzset vezetsz
+0x000000A3 ~guide: -h2~ Most egy három lényből álló törzset vezetsz. Egyenként, vagy csoportban is adhatsz nekik utasítást. A kamerát is mozgathatod, hogy nyomon kövesd a különböző feladatra elküldött egyedeket és csoportokat.
+0x00000B52 ~guide: -h3~ A kistérkép vezérlése
+0x00000C02 ~guide: -h2~ Ha ajándékot akarsz adni egy másik törzsnek:
+0x00000D92 ~guide: -h2~ Törzsed sikerét jelzi az átalakulás faluból várossá. Továbbléphetsz az Épületlaborba, ahol létrehozhatsz vagy választhatsz egy Városközpontot, valamint a Járműlaborba, ahol megtervezheted fejlődő civilizációd első járművét.
+0x00000D91 ~guide: -h3~ Faluból város
+0x00000C04 ~guide: -bullet~ Válaszd ki a kívánt törzstagot, majd jobb gombbal kattints a szomszéd kunyhójára, vagy élelmiszerkészletére.
+0x00000C03 ~guide: -bullet~ Győződj meg róla, hogy van fölösleges élelmed!
+0x00000BC2 ~guide: -h2~ A vadállatok képtelenek ellenállni egy megrakott etetőnek. Ki akarják majd fosztani élelmiszerkészletedet és elszaladni a zsákmánnyal.
+0x00000BC1 ~guide: -h2~ A törzsek, melyek nem szeretnek, élelemszerző portyákat indítanak majd ellened, valamint megtámadják törzstagjaidat és faludat. Ápolj jó viszonyt a nagyobb törzsekkel, vagy csapj le rájuk hamar, ha nem akarod, hogy ők üssenek rajtad. Ha elveszíted a törzsi kunyhódat, az törzsed kudarcát jelenti.
+0x000000D1 ~guide: -h2~ Törzsed populációja megnő, ha új státuszt érsz el a bolygón a többi törzs meghódításával vagy egyesítésével.
+0x00000BF1 ~guide: -h2~ Azok a törzsek, melyekkel jó viszonyt ápol törzsed, gyakran hoznak majd élelmet ajándékba.
+0x00000BE1 ~guide: -h3~ Kapcsolatok fejlesztése ajándékokkal
+0x000004E1 ~guide: -bullet~ tartsd lenyomva a jobb egérgombot, majd mozgasd az egeret.
+0x00000611 ~guide: -h4~ A törzsi lista használata
+0x000005E1 ~guide: -bullet~ A CTRL gombot hosszan lenyomva kattints rá több portréra is a törzsi listán bal gombbal.
+0x00000631 ~guide: -h1~ Parancsok kiadása
+0x000005A1 ~guide: -h4~ Csoportok kiválasztása
+0x00000281 ~guide: -h2~ Ha éhesek, csak a kajára tudnak gondolni, ezért mielőbb etesd meg őket!
+0x00000261 ~guide: -h2~ A törzstagok elsődleges gondja az éhség, amely portréjukon narancssárga sávként látható a portréjukon a Törzsi listán.
+0x000001D2 ~guide: -h2~ Ha törzsfőnököd harcban elesik, misztikus körülmények között regenerálódik a faludban.
+0x000003E2 ~guide: -h1~ Előzmények és következmények
+0x000003E3 ~guide: -h2~ Miközben áthaladsz a Törzsi fázison, törzsed minden cselekedet feljegyzésre kerül. Kattints az Előzmények gombra a fejlődéscsík végénél, ha vissza akarod nézni, hogy alakultak cselekményeid és eredményeid.
+0x00000951 ~guide: -h2~ Javítsd fel képességeidet: vásárolj eszközöket törzsednek! Gyűjts fölös élelmet és használd eszközök vásárlására a Törzstervezőben!
+0x00000941 ~guide: -h3~ Eszközvásárlás
+0x00000931 ~guide: -bullet~ Válaszd ki a balra fent látható fülek közül, mit szeretnél!
+0x00000922 ~guide: -bullet~ A Törzstervező megnyitásához mozgasd a kurzort a kunyhó fölé és kattints a Törzstervező gombra!
+0x00000904 ~guide: -bullet~ Kattints a kölyök gombra; ekkor hogy-hogy nem egy tojás jelenik meg a kunyhó ajtajában (hogy odabenn mi történik, azt a fantáziádra bízzuk). A tojás aztán kikel és egy kölyök csatlakozik a törzshöz.
+0x00000902 ~guide: -bullet~ A kunyhódra kattintva fedd fel a kölyök gombot!
+0x00000907 ~guide: -h2~ Ahogy törzsed presztízse szövetségek megkötésével, vagy a szomszédok leigázásával növekszik, saját törzsed létszáma is emelkedik.
+0x00000905 ~guide: -bullet~ A kölykök nem engedelmeskednek parancsoknak. Meg kell várnod, amíg felnőnek, csak akkor lesznek produktív törzstagok. Ez egy kis időbe kerül.
+0x00000906 ~guide: -bullet~ Miután felnőnek, képük megjelenik a többi törzstag mellett a Törzslistán.
+0x000009B1 ~guide: -h2~ Azt, hogy falubéli életük kezdetén milyen eszközök érhetőek el törzsed számára, sejtként kezdett életed evolúciós döntései s azok következményei határozzák meg. A további eszközök mindaddig hozzáférhetetlenek maradnak számodra, míg le nem győzöl vagy szövetséget nem kötsz egy őket birtokló törzzsel. Ekkor megvásárolhatóvá válnak Törzsterveződben.
+0x00000A42 ~guide: -bullet~ Törzstagjaidnak pár percbe kerül felsorakozni és felvenni az eszközöket abból a zsákból.
+0x00000A51 ~guide: -h3~ Törzsed felszerelése
+0x00000A31 ~guide: -bullet~ A törzsbeliek eszközökkel való felszereléséhez lépj ki a Törzstervezőből, és válaszd ki törzsed azon tagjait, akiket fel szeretnél szerelni!
+0x00000751 ~guide: -h2~ Háziasítás esetén élelemkészletedből vett eleséget ajánlanak majd az állatnak. Ezzel élelmiszerkészleted csökken. Gondoskodj róla, hogy mindig legyen elég élelmed!
+0x000008B2 ~guide: -bullet~ Kapcsold át törzsed tagjait barátkozás módba; ehhez rá kell kattintanod a Barátkozás mód gombra a képernyő alján.
+0x00000081 ~guide: -h2~ Saját galaxisodból válassz egy bolygót a játékra. Aztán hozd létre vagy válaszd ki kezdő törzsi lényedet. Az egyik legfontosabb jellemző a szájszerv lesz: növényevő, ragadozó vagy mindenevő. Választásod határozza meg törzsed étrendjét, amely drámai mértékben befolyásolja életszemléletét a bolygón. Melyiket választod?
+0x000001C1 ~guide: -h2~ Amikor megkezded a Törzsi fázist, lényed a Lényfázisból a falu törzsfőnökévé lép elő.
+0x00000911 ~guide: -h1~ A Törzstervező
+0x00000051 ~guide: -h2~ Odakint bizony kemény világ terül el. Vad lények kószálnak a vidéken, de te összebarátkozhatsz velük, illetve megszelídítheted vagy levadászhatod őket.
+0x00000221 ~guide: -bullet~ Az illető törzstag életereje.
+0x00000271 ~guide: -h2~ Ahogy csökken, a törzs tagjai megéheznek, így etetni kell őket.
+0x00000071 ~guide: -h3~ Közvetlenül a galaxisból
+0x00000511 ~guide: -bullet~ Az egér kerekének görgetésével közelíthetsz/távolíthatsz a kamerával.
+0x00000D81 ~guide: -h2~ Fajod egy tulajdonsággal fog gazdagodni, mely személyes evolúciós útján alapszik. A tulajdonság tükrözi fajod tetteit és döntéseit az egysejtű fázis óta. Ez a tulajdonság egyedi képességeket határoz meg, melyeket a lény előnyére használhat a Civilizációs fázisban, és később is!
+0x00000711 ~guide: -bullet~ Válassz ki egy vagy több törzstagot!
+0x00000121 ~guide: -h2~ Ehhez ajándékokat kell osztogatnod és szociális jellegű képességeidet kell használnod, hogy szövetségeseddé tegyél egy másik törzset, vagy eszközeik és kunyhóik lerombolásával kell eltüntetned őket a térképről.
+0x00000125 ~guide: -h3~ Az összes meghódított vagy szövetségessé tett törzs megosztja veled eszközeit és felszerelését. Ezekhez a Törzstervezőben férhetsz hozzá.
+0x00000BB1 ~guide: -h3~ Rossz kapcsolatok
+0x00000575 ~guide: -h4~ Egyének kiválasztása
+0x00000571 ~guide: -h3~ Törzstagok kiválasztása
+0x00000601 ~guide: -bullet~ Tartsd lenyomva a CTRL gombot és az egér bal gombjával kattints arra az egyénre, illetve a portréjára, akiről el szeretnéd távolítani a kiválasztást.
+0x00000C61 ~guide: -bullet~ Célozd meg szerszámos raktáraikat és kunyhójukat: válaszd ki törzsed egy csoportját, állítsd őket harci módba, majd kattints a fent nevezett objektumokra.
+0x00000D71 ~guide: -h2~ Mielőtt létrehozod városodat, megtekintheted személyes történetedet. Itt feljegyzésre kerül minden cselekedeted és egysejtű korod óta minden evolúciós választásod. Az evolúció olyan utazás, melynek során legelső döntéseid és tetteid következményei fajod jövőjét befolyásolják.
+0x00000D61 ~guide: -h3~ Történeted
+0x00000171 ~guide: -h3~ Járulékos képességek
+0x000000A1 ~guide: -h2~ Értelmessé vált lényed a Lényfázisban megtanult bánni a tűzzel, és létrehozott egy kis, háromtagú törzset. Evolúciós utad meghatározta törzsed jellegzetességeit: az étrendjét, az eleinte rendelkezésre álló törzsi eszközöket és az egyedi járulékos képességeidet.
+0x00000181 ~guide: -h2~ Evolúciós stratégiáid és sejtként tanúsított viselkedésed egyedi tulajdonságokat eredményeztek a Törzsi fázisban.
+0x00000191 ~guide: -bullet~ Törzsed járulékos képessége a Harcias és Társasági viselkedésmód gombok felett látható.
+0x00000011 ~guide: -image-left-h1 0x02e9a2ca!butn-trg-norm.png~ Üdvözlünk a Törzsi fázisban!
+0x00000D00 ~guide: -bullet~ Szereld fel törzsed egy vagy több tagját hangszerekkel, ha rendelkezel ilyenekkel! Ha nem, természetes barátkozó képességüket használják.
+0x00000D02 ~guide: -bullet~ A csoportban szerepelnie kell a törzsfőnöknek is.
+0x00000D01 ~guide: -bullet~ Válaszd ki a törzsi követként küldeni kívánt egyént, vagy csoportot!
+0x00000625 ~guide: -bullet~ Jobb gombbal kattints egy törzstag képére, ha a kamerát rá akarod mozgatni!
+0x000003D1 ~guide: -h3~ Háziasított állatok
+0x000003E5 ~guide: -h2~ Törzsed túlélési módszere; szorgos vadászat, vagy gyűjtögetés, harcos, vagy barátságos szomszédság, meghatározza bimbódzó civilizációd jellemzőit. Ez a jellemző a teljesen civilizált fázisba is elkísér, és a törzs története során összegyűjtött többivel együtt meghatározza az eljövendő generációk különleges képességeit.
+0x00000B21 ~guide: -image-left 0x05556b31!minimap-creature-nest.png ~ Lényfészkek
+0x00000B51 ~guide: -bullet~ Egyes törzstagokat, akik a kontinenst járják, hovatartozásuk színkódolva.
+0x00000BB5 ~guide: -h2~ Ha megtámadod vagy meglopod a többi törzset, az feldühíti őket, ami ellenségeskedéshez vezethet.
+0x00000AC1 ~guide: -h2~ A mini célkártyák a játékképernyőd bal felső sarkában jelennek meg. Ezek követik nyomon az adott cél felé tett lépéseidet.
+0x00000CD1 ~guide: -bullet~ Ha egy másik törzzsel való viszonyod a semlegesnél rosszabb, fel kell javítanod kapcsolatotokat, mielőtt használhatnád szórakoztatási képességedet a szövetség érdekében. Kezdd élelem-ajándékokkal: így megnyerheted őket magadnak, jó irányba terelve a kapcsolatot. Ezután már megpróbálhatod szövetségbe szórakoztatni is őket. Számos előadás szükséges ahhoz, hogy valóban a barátodnak tekinthesd őket.
+0x000002A1 ~guide: -bullet~ Válassz egy éhes törzstagot, és kattints a törzsi élelemkészletre a totemoszlop mellett, hogy a lény táplálkozni kezdjen!
+0x000004A1 ~guide: -bullet~ Tartsd lenyomva az egér bal és jobb gombját, majd mozdítsd az egeret fel és le; Mac-en tartsd lenyomva a Command, az Option és az egérgombot.
+0x00000461 ~guide: -bullet~ Tartsd lenyomva az egér bal és jobb gombját, majd mozdítsd az egeret balra vagy jobbra; Mac-en tartsd lenyomva a Command, az Option és az egérgombot.
+0x000003E1 ~guide: -h2~ A vadállatokat megszelídítheted. A háziasított állatok a törzsi kunyhón kívül élnek majd, az általuk tojt tojások pedig a törzs élelmiszer-tartalékát gazdagíthatják.
+0x000008E1 ~guide: -h2~ Ha elégségesen megetetted az állatot, az megszelídül, és törzsed tagjai a törzsi kunyhóhoz terelhetik.
+0x00000901 ~guide: -h2~ Törzsed három főből áll, de lehetőséged van kölyköket is létrehozni. Előkészületként nem árt ételt felhalmoznod.
+0x000008D1 ~guide: -bullet~ Törzstagod megeteti valami élelemmel. Ügyelj rá, hogy legyen elegendő fölös élelmed! Minél nagyobb a lény, annál több ételt ajánlanak fel neki a törzstagok.
+0x00000B41 ~guide: -image-left 0x05556b31!minimap-nest.png~ A szomszédos törzseket a törzsi színeikben pompázó kunyhók jelzik. A te kunyhód nagyobbnak látszik, mint a többi törzsé.
+0x000006F1 ~guide: -h3~ Kapcsolat vadállatokkal
+0x00000701 ~guide: -h2~ Kapcsolat vadállatokkal:
+0x00000C11 ~guide: -h1~ Érintkezés más törzsekkel
+0x00000761 ~guide: -h3~ Érintkezés más törzsekkel
+0x00000A62 ~guide: -bullet~ Kattints a Törzsszépítő gombra, majd mozgasd a kurzort a törzstag portréja fölé, majd kattints a Felszerel parancsra!
+0x00000A61 ~guide: -h2~ Ha szeretnél belépni a Törzsszépítőbe, vidd az egeret a kunyhódra, majd kattints a Törzstervező gombra.
+0x00000921 ~guide: -h2~ A Törzstervező hozzáférést biztosít az Eszközökhöz és a Törzsszépítőhöz.
+0x00000AC7 ~guide: -bullet~ A Gyűjteményem gombra kattintva tekintheted át a küldetésnaplót, valamint az összegyűjtött eszközöket és felszerelést.
+0x00000AC5 ~guide: -h1~ Gyűjteményem
+0x00000A82 ~guide: -h2~ A Törzstervező fejezetében további információkat találsz a Törzsszépítőről.
+0x00000903 ~guide: -bullet~ Minden kölyök 10 adag élelembe kerül a törzsnek.
+0x00000541 ~guide: -bullet~ A szóköz gombbal a kamera követi a törzs tagjait.
+0x00000551 ~guide: -bullet~ A szóköz gombot nyomkodva addig váltogathatsz törzsed tagjai közt, míg a kívánt egyedet vagy csoportot nem látod.
+0x00000642 ~guide: -h3~ Kapcsolat tárgyakkal
+0x00000D11 ~guide: -bullet~ Ebben az üzemmódban kattints egy szomszédos törzs egy tagjára vagy a kunyhójukra, hogy társas érintkezébe léphess vele.
+0x00000481 ~guide: -bullet~ A , és a . gombokkal forgatható is a kamera.
+0x000002F1 ~guide: -h2~ Ha a kunyhódat lerombolja egy másik törzs, elölről kell kezdened a Törzsi fázist. Ha van mentésed, az utolsó mentéstől indul újra a játék. Ha nem mentettél, háromfős faluval indulsz.
+

@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Város elfoglalása
+0x04D19085 Város megtérítése
+0x0563CE33 Város elfoglalása (nem érhető el)
+0x0563CE86 Város megtérítése (nem érhető el)
+0x05F4FC30 Kereskedelmi útvonal kezdete
+0x04D19086 Város megtérítése (Túl nagy boldogság – először célozd a szórakoztatást)
+0x0563CEC2 Kereskedelmi útvonal javaslása (nem érhető el)
+0x04D19177 Kereskedés a várossal
+0x04D1912C Kereskedelmi útvonal javaslása
+0x06776CA9 Város megtérítése (a szórakoztatást célozza, hogy csökkentse a boldogságot)
+
+# Tutorial Buy Sea Unit
+
+0x058C7643 Kattints a Várostervező gombra, és vásárold meg első tengeri egységedet!
+0x058C7644 Tengeri jármű építése és vásárlása
+0x058C7642 Vásárlás
+
+#######################################
+# NPC city hall
+
+0x052ECBE2 Város megvásárlása (több kereskedelmi útvonal szükséges)
+0x04D194FE Ajándék átadása
+0x04D1956A Város megvásárlása
+0x04D29B0C Kapcsolat
+0x052ECBE1 Város megvásárlása (több kereskedés szükséges)
+
+# Tutorial Claim Node
+
+0x058B486B Válassz ki egy járművet, majd kattints a fűszergejzírre a kisajátításához!
+0x058B486C Foglalj el egy fűszergejzírt!
+0x058B486A Elfoglalás
+
+############################################################ pie menus
+
+0x06A56B8F Munkások megvesztegetése
+
+# Tutorial Religious Capture
+
+0x058C968E Téríts meg egy ellenséges várost!
+0x058C968D Vásárolj vallási járműveket kattints egy ellenséges városra, és válaszd ki a „Város megtérítése” gombot. A vallási járművek a kiválasztott városon belül kiválaszthatnak egy bizonyos épületet is, és leállíthatják működését, így nem lesznek képesek ellenállni támadásodnak.
+0x058C968C Elfoglalás
+
+#######################################
+# wall
+
+0x04D195B2 Javítás
+
+#######################################
+# city hall
+
+0x05763FE4 $~currency_number~ taktikai nukleáris csapás
+0x056B8A99 Messiási felemelkedés $~currency_number~
+0x04E41707 Globális ICBM csapás $~currency_number~
+0x04D191CF Épületek vásárlása
+0x04D192DC Járművek vásárlása
+0x04D19342 Ugrás az űrbe
+0x04D2B633 Városszépítő
+0x058B51F4 ~currency_number~$ napalmbomba
+0x058B5210 ~currency_number~$ hitgyógyítás
+0x058B5211 ~currency_number~$ feketeeső
+0x058B5213 ~currency_number~$ villám
+0x058B5212 ~currency_number~$ megvesztegetés és zűrzavar
+0x058B5214 ~currency_number~$ globális egybeolvadás
+
+# Tutorial Economic Capture
+
+0x058C96A4 Vásárolj meg egy ellenséges várost!
+0x058C96A2 Elfoglalás
+0x058C96A3 Építs gazdasági járműveket, kattints az ellenséges városra, és válaszd ki a „Kereskedelmi útvonal javaslása” gombot! Egy bizonyos kereskedés után a város maga ajánlja fel, hogy vásárolják meg.
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Feloszlatás
+0x04D960BB Valóban el akarod pusztítani a kiválasztott járműveket?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Űrhajód elkészítése
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Katonai
+0x04D175CB Vallási
+0x04D175CC Gazdasági
+0x04D175CD Arató
+
+# Tutorial Happy City
+
+0x058C75FF Tervezz egy boldog várost!
+0x058C75FE Kattints a Várostervezés gombra, és kapcsolj a házakhoz szórakoztatási épületeket!
+0x058C75FD Tervezés
+
+#######################################
+# building menu
+
+0x04E50472 $~currency_number~ összegért épület eladása
+0x04D1A21D Rombolás
+
+# Tutorial Military Capture
+
+0x058C9724 Foglalj el egy ellenséges várost!
+0x058C9723 Hozz létre katonai járműveket, kattints az ellenséges városra, majd válaszd ki a „Város elfoglalása” gombot! Minél nagyobb a haderő, annál nagyobb az esély a sikerre.
+0x058C9722 Elfoglalás
+
+#######################################
+# vehicle limit
+
+0x04D1A4A7 Elérted a flottalimitet
+0x04D1A4AE Flottád állományában a járműtípus elérte maximális számát. Ahhoz, hogy ezt a maximumot megnöveld, több hasonló típusú várost kell elfoglalnod.~br~Tipp: a járműveket úgy szerelheted le, ha a járművet kiválasztva lenyomod a DELETE gombot.
+
+# Tutorial Profitable City
+
+0x058B71B5 Kattints Várostervező gombra városházádban, hogy kapcsolódó házakat és gyárakat adj hozzá. Így jövedelmezőbb lesz városod.
+0x058B71B6 Tervezz jövedelmező várost!
+0x058B71B4 Tervezés
+
+# Tutorial Capture All
+
+0x0590C22A Foglad el az összes várost!
+0x0590C228 Elfoglalás
+0x0590C229 A győzelemhez foglald el a bolygó minden városát!
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Vedd meg első járművedet!
+0x05C18512 Kattints a Várostervező gombra, és megveheted első járművedet.
+0x05C18502 Vásárlás
+
+# Tutorial Buy Land Unit
+
+0x058C7628 Vásárolj egy újabb szárazföldi járművet!
+0x058C7627 Kattints a Várostervező gombra, és vásárolj egy másik szárazföldi egységet!
+0x058C7626 Vásárlás
+
+# Tutorial Buy Air Unit
+
+0x058C765C Kattints a Várostervező gombra, és hozd létre első légi egységedet!
+0x058C765D Légijármű építése és vásárlása
+0x058C765B Vásárlás
+
+#######################################
+# player lost
+
+0x04D1A8A8 Egyik ellenfeled elfoglalta az utolsó városodat is!
+

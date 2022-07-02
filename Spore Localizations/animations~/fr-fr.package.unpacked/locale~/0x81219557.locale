@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000014 Frappe la cible moyennant une dépense d'énergie.
+0x00000013 Frappe éner.
+
+# Part: Harpolizer
+
+0x00001047 Chanson permettant d'améliorer encore plus les relations (dépense énergétique : faible).
+0x00001046 Chanson exaltante
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001042 Champ furtif
+0x00001043 Rend votre créature presque indétectable, mais son fonctionnement vous coûte de l'énergie.
+
+### Complexity Meter ##
+
+0x07426209 Trop complexe
+0x0742620A Réduisez le nombre d'éléments d'un même type ou le nombre de types différents.
+0x05F110B4 Impossible d'ajouter un objet si cette barre est pleine.
+0x05F110B3 Témoin de complexité
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Un super grigri qui harmonise les relations avec autrui (dépense énergétique : élevée).
+0x00000101 Holo-Trad
+
+# Part: Hop Gogs
+
+0x00001053 Danse permettant d'améliorer encore plus les relations (dépense énergétique : faible).
+0x00001052 Danse stupéfiante
+
+# Part: Icy Band
+
+0x00001029 Congèle la cible sur place pendant quelques secondes.
+0x00001028 Coup de froid
+
+# Part: Jump Jet
+
+0x00001044 Réac'saut
+0x00001045 Permet de sauter très haut (dépense énergétique : moyenne).
+
+# Part: Plasma Pulser
+
+0x00001007 Envoie une décharge d'énergie ciblée sur l'objectif moyennant une dépense d'énergie.
+0x00001006 Pulsation éner.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Super armure
+0x00001015 Absorbe tous les dommages subis (dépense énergétique : élevée).
+
+# Part: Hypnomelder
+
+0x00001024 Trouble-esprit
+0x00001025 Transforme un ennemi en ami pendant quelques secondes.
+
+# Part: Fettipopper
+
+0x00001059 Pose permettant d'améliorer encore plus les relations (dépense énergétique : faible).
+0x00001058 Pose confetti
+
+# Part: Imperial Robe
+
+0x00001036 Pose radieuse
+0x00001037 Une posture éclatante qui améliore les relations avec autrui.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Atténue légèrement les dommages subis (dépense énergétique : nulle).
+0x00001012 Armure de combat
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Lance un missile qui ravage la zone autour de la cible, moyennant une dépense d'énergie.
+0x00000001 Attaque au missile
+
+# Part: Regal Ring
+
+0x00001034 Grigri royal
+0x00001035 Un grigri éblouissant qui améliore les relations avec autrui.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Envoie un essaim d'insectes déchaînés sur vos ennemis.
+0x00001022 Essaim tenace
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Stockage d'énergie
+0x00001065 Augmente la capacité totale de stockage de l'énergie.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Régénération
+0x00002012 ~icon_amount~ santé/sec
+0x00001019 Améliore la récupération état/santé.
+
+# Part: Ducal Cape
+
+0x00001032 Chant harmonieux
+0x00001033 Un joli chant qui améliore les relations avec autrui.
+
+# Part: Regen-Deflector
+
+0x00001017 Transforme directement un petit pourcentage des dégâts subis en énergie.
+0x00001016 Absorption d'énergie
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001039 Permet d'aller plus vite pendant quelques secondes (dépense énergétique : faible).
+0x00001038 Pointe de Vitesse
+
+# Part: Glider Pack
+
+0x00001041 Permet de rester en l'air plus longtemps (dépense énergétique : faible).
+0x00001040 Survol
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Coup de foudre
+0x00001001 Foudroie la cible et inflige de gros dégâts moyennant une dépense d'énergie.
+
+# Part: Toxic Crystal
+
+0x00001026 Lame empoisonnée
+0x00001027 Dégage un poison aux effets légers mais prolongés.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Top état/santé
+0x00001021 Améliore le total état/santé.
+
+# Part: Danger Reductor
+
+0x00000019 Bouclier-Générateur
+0x00000020 Crée un orbe protecteur, atténue les dégâts subis et améliore l'efficacité énergétique.
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Une danse élégante qui améliore les relations avec autrui.
+0x00001030 Valse délicate
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Accélère la récupération d'énergie.
+0x00000010 Récupération d'énergie
+0x00000012 ~icon_amount~ énergie/sec
+0x00000021 Protection
+0x00000022 La défense est parfois la meilleure défense.
+

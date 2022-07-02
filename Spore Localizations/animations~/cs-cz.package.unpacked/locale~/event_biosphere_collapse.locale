@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000014 Na planetě ~mission_target_planet~ se zhroutil ekosystém.
+0x00000015 Vybijte určená zvířata. Rychle!
+0x0000000F Druh ~mission_target_animal_species~ vyhynul.
+0x00000012 Na planetě ~mission_target_planet~ se hroutí ekosystém: Vyhynul rostlinný druh.
+0x00000011 Odlesňování! Rostlinné druhy vymřely.
+0x00000091 Planeta ~mission_target_planet~ je zachráněna!
+0x00000090 Vyhubte ve stádu infikované příšerky druhu ~mission_target_animal_species~.
+0x00000017 Ekosystém planety ~mission_target_planet~ je těsně před zhroucením. Vyhlaďte určená zvířata. Rychle!
+0x00000007 Biosféra na planetě ~mission_target_planet~ již není v ohrožení.
+0x00000018 Dodejte na planetu ~mission_target_planet~ rostliny a zvířata - předejdete tím zhroucení ekosystému.
+0x00000010 Na planetě ~mission_target_planet~ se hroutí ekosystém. Druh ~mission_target_animal_species~ vymřel.
+0x00000002 Ukončit přenos
+0x0000000E To zvíře je nemocné. Nemůžete je vzít na palubu!
+0x00000005 Ekosystém se navrátil do vyváženého stavu.
+0x0000000A Vyhubte pouze vybraná zvířata.
+0x00000004 Zachraňte planetu ~mission_target_planet~ před ekologickou katastrofou!
+0x0000000D Je zakázáno brát zvířata z nakaženého stáda na palubu lodi ~ufo_name~.
+0x0000000B Katastrofa! Bylo zabito příliš zdravých zvířat.
+0x00000013 Na planetě ~mission_target_planet~ se zhroutil ekosystém.
+0x00000021 Haló, ~player_creature_name~, pozor!~p~Ihned se nahlásíte na planetě ~mission_target_planet~ a vyhladíte slabé jedince druhu ~mission_target_animal_species~.~p~To je vše.
+0x00000020 Haló, ~player_creature_name~, pozor!~p~Na planetě ~mission_target_planet~ byla odhalena slabina, kterou rasa ~race~ nemůže tolerovat. Ihned odstraňte slabé jedince druhu ~mission_target_animal_species~.~p~Rasa ~race~ konec.
+0x0000001D Heršvec sakryš! Nic nedokáže krásný den překazit tak dokonale, jako blížící se ekologická katastrofa.~p~~player_title~ ~player_creature_name~ - vy prostě musíte dorazit uvést věci do pořádku. Naše divoká stáda poťouchlého druhu ~mission_target_animal_species~ se dostala do pěkné bryndy, byť domestikovaní jedinci tohoto druhu se dosud drží v dobré kondici i náladě.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Pospěšte, pospěšte! Rychle přijeďte, rychle přijeďte
+0x00000019 Na planetě ~mission_target_planet~ se hroutí biosféra: Jestliže do tamního ekosystému přidáte rostliny a zvířata, předejdete tím poškození T-Skóre!
+0x00000003 Vážení ~player_title~ druhu zvaného ~player_creature_name~!~p~Snažíme se sice co nejméně zasahovat do přirozeného běhu událostí, přesto došlo k tragickému zvratu a je potřeba zasáhnout. Ekosystém naší planety ~mission_target_planet~ je vážně ohrožen! Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Pospěšte!
+0x00000001 Naléhavá zpráva pro kapitána!~p~Ekosystém naší planety ~mission_target_planet~ je vážně ohrožen! Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Pospěšte!~p~Planeta ~mission_target_planet~ konec!
+0x00000006 Ekosystém na planetě ~mission_target_planet~ je ve velkém ohrožení! Stáda zvířat ~mission_target_animal_species~ přenášejí jakýsi virus. Infikovaní jedinci po sobě zanechávají svítící stopu.~p~Je nutné nakažená zvířata co nejrychleji zlikvidovat, jinak se virus rozšíří a vyhubí celý druh...což by byl počátek zhroucení celé biosféry.
+0x0000000C Varování! Pokud zabijete ~mission_num_healthy_creatures_left~ další(ch) ~mission_target_animal_species~ zdravé(ých) zvíře(at), tak zapříčiníte jejich vyhynutí!
+0x0000001B Velká rada začíná vysílat nouzový signál. ~player_title~ ~player_creature_name~ - žádáme vás o asistenci.~p~Ekosystém naší planety ~mission_target_planet~ je vážně ohrožen! Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Je to v naprostém rozporu s naší Filozofií pořádku, takže si dovedete představit, jaký zmatek to způsobuje. Na základě naší Spojenecké smlouvy, dokumentu 48, odstavce LXVII, vás žádáme o okamžitý zásah.~p~Očekáváme váš okamžitý přílet.
+0x0000001A ~player_title~ ~player_creature_name~! Naléhavě vás žádáme o pomoc.~p~Věrní stoupenci Spoda na planetě ~mission_target_planet~ jsou ve velkém nebezpečí! Některá stáda divokých zvířat ~mission_target_animal_species~ šíří virus.~p~Okamžitě odstraňte nakažená zvířata, ať se virus nemůže dál šířit a postihnout celý druh...to by byl totiž počátek zkázy celé planety.~p~Pospěšte!
+0x00000009 Předešlo se zhroucení ekosystému.
+0x0000001C Je tam ~player_title~ ~player_creature_name~?~p~Nedávný terénní průzkum naší divoké zvěře prokázal alarmující skutečnosti. Ekosystém naší planety ~mission_target_planet~ je vážně ohrožen! Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Požadujeme vaši okamžitou pomoc. Ihned spusťte efektivní letový plán.
+0x0000001E Ach, ~player_title~ ~player_creature_name~! Pomožte, pomožte! Ekosystém naší planety ~mission_target_planet~ je vážně ohrožen! Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Pospěšte, pospěšte!
+0x0000001F Je tam drahý ~player_title~ ~player_creature_name~?~p~Jak nás cesty Harmonie učí, má cyklus života svůj vlastní rytmus. Běda však - planeta ~mission_target_planet~ zahrála falešnou notu!~p~Stáda divokých zvířat zvaných ~mission_target_animal_species~ jsou nakažena virem.~p~Je nutné, abyste co nejdříve oddělili nakažená zvířata od zdravých nebo se virus rozšíří a vyhubí celý druh...což by mohl být počátek zhroucení celé biosféry.~p~Zdar a rychlost vašemu letu tímto směrem.
+0x00000008 ~mission_num_eradicated_creatures~ z ~mission_num_creatures~ příšerek druhu ~mission_target_animal_species~ bylo vyhubeno.
+

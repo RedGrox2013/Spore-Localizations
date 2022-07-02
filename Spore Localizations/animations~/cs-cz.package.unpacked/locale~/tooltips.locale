@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE82 Agresivní
+0xF67C278E Všeobecné schopnosti
+0xF47C278E Společenský postoj
+0xF57C276F Společenský postoj
+0xF57C278E Bojový postoj
+0xF57C279A Bojový postoj
+0x0568AE91 Úplatky a zmatek
+0x0568AE92 Reklamní útok
+0x0568AE70 Vojenské zbraně
+0x0568AE71 Napalmová bomba
+0x0568AE73 Globální útok raketami ICBM
+0x0568AE80 Náboženské síly
+0x0568AE81 Léčení vírou
+0x0568AE82 Déšť příšer
+0x0568AE83 Vzestup mesiáše
+0x0568AE90 Ekonomičtí manipulátoři
+0x0568AE93 Globální reklamní útok
+0x0567AE7B Neustupujte
+0x0568AE72 Taktická atomová puma
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+
+### Global UI specific ###
+
+0x04CAC3D6 Přiblížit
+0x04CAC3D7 Oddálit
+0xF57C278D DNA body
+0xF47C279B Součásti odemčeny
+0x04BC1A80 DNA body. Zvyšte hodnotu DNA z potravy a utraťte ji na součásti.
+0x04CAC3C1 Pro rozvoj uzavřete spojenectví s jinými kmeny nebo je ovládněte
+0xF27C278D Vyvíjejte se směrem na souš. Jezte, abyste rostli.
+0x04CAC3D8 Sporekačky
+0x04CAC3C2 Pro rozvoj uzavřete spojenectví s jinými kmeny nebo je ovládněte
+0x04CAC3C3 Pro rozvoj uzavřete spojenectví s jinými kmeny nebo je ovládněte
+0xF47C279A Přehled misí
+0xF77C278D Zvyšte populaci jejím rozmnožením a odvodem a VYHRAJTE!
+0xF47C279D Dokončené mise
+0xF47C279C Probíhající mise
+0xF67C278D Abyste se mohli vyvíjet, sbírejte DNA
+0xF47C278D Ovládněte 10 měst a vynaleznete cestování vesmírem
+0x04CAC3D4 Otáčení
+0x04CAC3D5 Otáčení
+0x04CAC3C4 Po ovládnutí 2 měst vynaleznete vodní vozidla
+0x0643ED9B Vynalezli jste lodní vozidla
+0x0643EDB7 Vynalezli jste letecká vozidla
+0x0643EDBE Vynalezli jste cestování vesmírem
+0x062E9EC2 Vyžaduje 2 města
+0x062EABDE Vyžaduje 1 město
+0x062E9ECA Vyžaduje 6 měst
+0x065CD6F2 --Dosažen maximální možný počet vozidel
+0xF87C278D Nasbírané jídlo
+0x06565205 Plánovač kolonie
+0x06562784 --Vyžaduje více domů
+0x065767B3 --Musí to být přímořské město
+0x065767BB --Vyžaduje 4 města
+0x065767B7 --Vyžaduje 2 města
+0xF17C278D Historie
+0x065FC365 Kmenový plánovač
+0x062E9EC6 Vyžaduje 4 města
+0x064A7050 Městský architekt
+0x04CAC3C5 Pro vynalezení leteckých vozidel ovládněte 4 města
+0x062DACA9 Tato schopnost se zpřístupní po dokončení Fáze vývoje tvorů.
+0x062DACAD Tato schopnost se zpřístupní po dokončení Kmenové fáze.
+0x062DAC92 Tato schopnost se zpřístupní po dokončení Buněčné fáze.
+0x065FC367 --Málo jídla
+0x065FC368 --Vyžaduje větší chýši
+0x065FC369 --Kmen je již zaplněn
+0x062E98FB Výsledné schopnosti
+0x06453852 Přejděte do kosmu
+0x0645384B Vyviňte se v kmen
+0x06453842 Vyviňte se v příšerku
+0x0645384F Vyviňte se v civilizaci
+0x0671FB71 --Nedostatek Sporáčů
+0x065FC366 Přidat mládě (~tribe_food_required_for_baby~ jídla)
+0x065F79F0 Příjem: +$~civ_income~/min
+0x064A7064 Koupit pozemní vozidlo ($ 1000)
+0x064A7057 Koupit letecké vozidlo ($ 3000)
+0x064A705D Koupit lodní vozidlo ($ 1500)
+0x0657690D --V Městském architektu vytvořte letecké vozidlo
+0x0657690C --V Městském architektu vytvořte vodní vozidlo
+0x0657690B --V Městském architektu vytvořte pozemní vozidlo
+
+#### CSA Spore Guide ###
+
+0x04F65BBC Začínáme
+0x04F65BBF Režim malování
+0x04F65BBB Vítejte ve Spore
+0x04F65BBD Režim tvorby
+0x04F65BBE Testování
+0x063C34EB Načíst nový výtvor
+
+### Consequence Timeline ###
+
+0x06131BB0 Zobrazení časové osy
+0x06131BB1 Zobrazení důsledků
+0x06131BB2 Evoluční hodiny
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Koupit
+0xF17C273B Editovat
+0xF47C273B Další stránka
+0xF57C273B Předchozí stránka
+0xF87C273B Prodat
+0xF27C273B Sdílet
+0xF77C273B Třídit
+0xF67C273B Vytvořte podle náčrtu
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Nápověda ke stvoření
+0xF81C283C Nápověda ke kmenu
+0xF81C284C Nápověda k civilizaci
+0xF81C286C Nápověda k vesmíru
+0xF81C287C Hlavní nápověda
+0x05B5517E Nápověda k buňce
+0xF81C285C Nápověda k Tvoření
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Vybrat vše
+0x0614906C Kliknutím sem přidáte mládě
+0x05D298AC Pro získání kosmické lodi si promluvte se spojencem
+0xF87C278E Vyberte si kamaráda
+0xF97C278E Spojence přidáte do své smečky tak, že s ním navážete společenský kontakt
+
+#### Global UI Space ####
+
+0xF57C270A Nástroje pro formování povrchu
+0x93CF382F Planeta sledování
+
+#### Planners -- Global ### (not CSA)
+
+0x04BAFA06 Limit náboženského vozidla
+0x04BAFA05 Limit armádního vozidla
+0x04BAFA07 Limit ekonomického vozidla
+0x0F1C278E Limit sestavování a zásobníku
+0xF27C278E Limit sklízecího vozidla
+0xF57C278F Populace
+0xF58C278F Štěstí
+0xF59C278F Obrana
+0xF60C278F Ekonomika
+0xF70C278F Editovat vybavení
+0xF71C278F Úroveň znudění
+0xF72C278F Úroveň únavy
+0x0626EA63 Vlastněná náboženská města
+0x0626EA64 Vlastněná obchodní města
+0x0626EA62 Vlastněná vojenská města
+0x06381A1A Jméno vašeho impéria
+0x06381A1B Příjem planety za minutu
+0x0653C13B Další město
+0x0653C13E Předešlá kolonie
+0x0653C13C Předešlé město
+0x0653C13D Další kolonie
+0x06381A13 Příjem národu za minutu
+0x06381A18 Jméno vašeho kmene
+0x06381A19 Jméno vašeho národa
+0x06381A17 Přehled budov
+0x06381A16 Přehled vozidel
+0x05342949 Vylepšením terraskóre zpřístupníte více struktur
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Animovat avatara
+0x05B04FE7 Maya Vývoz
+
+## cell ##
+
+0x03000000 Zavolejte partnera
+0x03000002 Zavolejte partnera - vstoupíte tak do Tvoření buněk!
+0x03000001 Zavolejte partnera - vstoupíte tak do Tvoření buněk!
+0x03000003 Vyviňte si nohy a vyražte na souš!
+
+## Lock Icon##
+
+0x0679F344 Nelze upravovat
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Uložit
+0xF81C228B Opustit hru
+0xF81C238B Odejít do hlavní nabídky
+0xF81C248B Zakázat obsah
+0xF81C26CB Přijmout
+0xF81C276B Průvodce Spore
+0xF81C277B Možnosti
+0xF81C28CB Zavřít
+0xF81C292C Předložit
+0xF81C303C Znovu nahrát
+0xF81C304C Zrušit
+0xF81C306C Zpět
+0xF81C307C Info
+0xF81C310C Zrušit - Neukládat
+0xF81C309C Poslat
+0xF81C25AB Opakovat
+0xF81C308C Zrušit odebírání
+0x0615FFA4 Ošacení
+0x0615FFA5 Hrát hru
+0xF81C27CB Smazat
+0xF81C311C Zakázat výtvor
+0xF81C312C Zobrazit podrobnosti
+0xF81C313C Vyčistit výsledky
+0xF81C314C Přidat kamaráda
+0xF81C305C Vyvíjejte se k souši!
+0xF81C28CC Uložit a odejít
+0xF81C258B Nastavení
+0x0615FFA9 Zdraví
+0x0615FFB0 Hlad
+0x0615FFA8 Skrýt
+0x0615FFA7 Zobrazit
+0x0612F6B6 Sdílet
+0x0615DD1B Již nasdíleno
+0x0655200D Hrát
+0xF81C281C Skrýt
+0xF81C278B Pozastavit
+0xF81C25CB Zpět
+0x0615DD1C Před sdílením musíte uložit
+0x0615FFA6 Moje sbírky
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Počet kolonií na této planetě
+0xF72C27AA Populace
+0xF72C27BB Spokojenost
+0xF72C27CC Příjem
+0xF72C27DD Obrana
+0x06381A14 Terraskóre planety
+
+### Options Panel###
+
+0xF57C573C Dalekohled
+0xF57C674D Zákaz
+0xF57C775E Nastavení
+0xF57C776E Vrátit se do hry
+0xF57C777E Ukončit Spore
+0xF57C778E Editor souhrnů
+0x0678C049 Před ukončením Spore opusťte Tvoření
+0x0678C04A V Buněčné fázi není Režim dalekohled přístupný
+0x0678C04B V Buněčné fázi není Režim zákazu přístupný
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Součásti odemčeny
+0x05837B77 Odemčené součásti jsou k dispozici
+
+#### CSA ### 
+
+0x04E404F9 Možnosti
+0x04E404FA Pomoc
+0x04E404FB Možnosti
+0x04E404FC Sporepedie
+0x04E404FE Uložit stvoření
+0x04E404FF Nastavení
+0x04E404FD Nový výtvor
+0x04E404F8 Spore novinky
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08863 Zamknout výhody
+0x05B08756 Vyberte kmenovou příšerku
+0x05B08758 Vyberte vesmírnou příšerku
+0x05B08757 Vyberte příšerku civilizace
+0x05B08755 Vyberte příšerku
+0x05B08862 Vyberte náhodnou výhodu
+0x05B08851 Vyberte náhodné jméno
+0x05B08760 Vyberte vesmírnou loď
+0x05B08759 Vyberte radnici
+0x05B08754 Vyberte buňku
+
+### Editor Camera instructions ###
+
+0x05013A33 Přiblížení
+0x05013A34 Oddálení
+0x05013A32 Otáčení
+0x05013A31 Otáčení
+
+#### Editors -- Global ###
+
+0xF37C273B Rozpočet
+0x05AF4A02 Více kategorií
+0x05AF4A03 Více kategorií
+0xF37C274B Ukazatel vývoje
+0xF37C277B Testování
+0xF37C278C Pojmenujte mě
+0xF37C275B Režim tvorby
+0xF37C276B Režim malování
+0x05AF4A04 Vybarvit jako…
+0x05AF4A05 Vybarvit jako "~newmodelname~"
+0x05AF4A06 Nová výchozí barva
+0x064D2884 Rozpočet
+0x064D2885 Rozpočet
+0x064D2883 Rozpočet
+0x064D2882 Rozpočet
+0xF37C278D Skrýt
+
+#### GGE #####
+
+0xF36C273B Spore.com
+0x0577BFC5 Generovat název
+0xF18C213B Sporepedie
+0xF45C273B Přihlásit se a Registrace 
+0xF82C275B Hrát hru
+0xF54C273B Tvoření
+0xF81C271B Tvoření budov
+0xF63C273B Tvoření buňek
+0xF72C273B Tvoření příšerek
+0x063AEAA9 Velké zobrazení
+0xF27C223B Spore katalog
+0xF81C275B Tvoření kosmických lodí
+0xF81C274B Tvoření vozidel
+0xF81C273B Tvoření vozidel
+0xF81C272B Tvoření vozidel
+0xF81C2A3B Krejčí
+0x0609BC40 Vesmírný krejčí
+0x0609BC3D Civilizační krejčí
+0x0609BC24 Kmenový krejčí
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/hod
+
+##GGE General##
+
+0x05B08744 Zrušit
+0x05B08745 Informace
+0x05B08746 Vpřed
+0x05B08747 Zpět
+0x05B08753 Zpřeházet
+0x05B08749 Příklady výhod
+0x05B08751 Odemčeno
+0x05B08752 Uzamčeno
+0x05B08750 Barva identity
+0x05B08748 Motiv Sporekanálu
+

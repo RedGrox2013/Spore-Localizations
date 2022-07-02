@@ -1,0 +1,83 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000009B Rumbo: Sistema ~mission_source_star~.
+0x0000009C Viaja al sistema estelar ~mission_target_star~. Baja al planeta ~mission_target_planet~ y cumple allí con tu misión.~p~Recibirás ~mission_rewards~ esporetas por hacerlo.
+0x0000009A Cuando llegues al planeta, tendrás que bajar a su superficie junto con tu tripulación.
+0x00000099 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000003 En estos tiempos tan agitados apenas disponemos de recursos para patrullar entre las estrellas, y no digamos para bajar a los planetas. Inteligencia nos informa de que hay que enviar un embajador a ~mission_target_planet~.~p~¿Podríamos convencerte de que vayas en nuestro nombre?
+0x0000009F Completada
+0x000000A0 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x0000009D Tu misión en el planeta ~mission_target_planet~ se ha completado. Vuelve al planeta ~mission_source_planet~ del sistema ~mission_source_star~ para informar.
+0x0000009E En progreso
+0x00000054 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Se te concederán riquezas si vuelves sano y salvo.
+0x00000053 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Habrá dinero, canciones y bailes a tu regreso.
+0x00000051 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Vuelve cuando hayas terminado y te recompensaremos.
+0x00000055 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Tendremos tus honorarios listos una vez hayas terminado.
+0x00000005 Como miembros activos de "Mantén Limpio Nuestro Oxígeno" (MLNO), estamos intentando investigar todos los planetas de la galaxia. ¿Podrías ir a ~mission_target_planet~ para investigar?
+0x00000052 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Tus honorarios estarán esperando a tu regreso.
+0x00000004 ¿Te apetece conocer la vida salvaje de ~mission_target_planet~? Hemos oído que es maravillosa en esta época del año y queremos que vayas allí con urgencia para asegurarte de que el lugar es seguro.
+0x00000050 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Por favor, vuelve cuando hayas terminado y te colmaremos de riquezas.
+0x00000057 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Puede que decidamos pagarte SI vuelves.
+0x00000098 Viaja a ~mission_target_planet~.
+0x00000056 Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Tu dinero fluirá como el Río Que Se Precipita una vez hayas completado tu viaje..
+0x0000004F Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Vuelve cuando hayas terminado y tramitaremos los honorarios por la operación.
+0x00000046 Me disculpo, pero debo darme de baja en el proyecto.
+0x0000004E Cuando llegues a ~mission_target_planet~, tendrás que bajar al planeta. Podrás equipar a tu grupo de abordaje antes de que te enviemos allí.~p~Algunas aventuras te permiten bajar miembros de tu escuadrón de vuelo.~p~Vuelve cuando hayas terminado para recibir tu pago por los servicios prestados.
+0x00000001 El Gran Consejo nos ha informado de que hay actividades desconocidas en ~mission_target_planet~. ¿Podrías viajar al planeta a echar un vistazo?
+0x0000005F Entiendo. Volveré enseguida.
+0x00000060 Es perfectamente comprensible, capitán.~p~Lamento haberte molestado con estas cuestiones.~p~
+0x00000002 El Gran Consejo ha recibido un informe de su embajador en ~mission_target_planet~ en el que dice que necesita ayuda. Queremos contratarte. ¿Te interesa un poco de trabajo extra que podría obligarte a bajar a la superficie del planeta?
+0x00000073 Es perfectamente comprensible, capitán.~p~Lamento haberte molestado con estas cuestiones.
+0x00000072 Te ruego que lo comprendas.
+0x00000040 A pesar de los datos que figuran en tu historial de misiones, no has cumplido tu misión en el planeta ~mission_target_planet~. ¿Actuarás con honor o con cobardía?
+0x0000000B Nuestros científicos en ~mission_target_planet~ nos han informado de que puede que haya algo interesante para alguien como tú en la superficie del planeta.~p~¿Quieres verlo?
+0x00000027 ¡Bien hecho! ¡Es un placer ofrecerte estas ~mission_rewards~ esporetas y el título de Amigo del Cosmos!
+0x00000026 Has servido bien a la galaxia. En nombre del Gran Consejo, estoy autorizado a ofrecerte ~mission_rewards~ y este certificado de alabanza de segunda clase.
+0x0000000D Uno bueno...~p~¿Quién viaja a ~mission_target_planet~ cobrando por ello?~p~¿Te rindes?~p~¡Tú! ¿Te interesa?
+0x0000000A Nuestra baliza de investigación nos ha enviado interesantes datos desde ~mission_target_planet~. Vas a tener que bajar a ~mission_target_planet~ para investigar.~p~¿Quieres realizar este servicio para nosotros?
+0x0000001E Nuestros robots de exploración nos han informado de que hay actividad en el planeta ~mission_target_planet~. La transmisión no era muy clara, pero parece indicar una urgente necesidad de investigar. Ojalá pudiéramos contarte más... Hemos realizado una petición formal de ayuda.~p~¿Te interesa?
+0x00000041 A pesar de la información contenida en tu historial de misiones, no has completado el trabajo en el planeta ~mission_target_planet~. ¿Piensas hacerlo?
+0x00000028 Has demostrado que eres amigo de Spode. Toma estas ~mission_rewards~ esporetas en el nombre de Spode, junto con una copia de Palabra de Spode.
+0x00000009 El Uno ha hablado. Debemos enviar un héroe a ~mission_target_planet~ para difundir la palabra. ¿Quieres ser tú ese héroe?
+0x0000003C A pesar de los datos de tu historial de misiones, parece que no has completado tu misión en el planeta ~mission_target_planet~. Eso no parece lógico.
+0x0000003D Querríamos invitarte a nuestra fiesta, pero parece que aún no has cumplido tu misión en ~mission_target_planet~. No seas aguafiestas. ¡Manos a la obra!
+0x0000003E No quisiera ser desagradable... pero... no has cumplido tu misión en ~mission_target_planet~. Sería muy lucrativo para todos que lo hicieras.
+0x0000003B El Iluminado no estará satisfecho. Debes ir a ~mission_target_planet~ al instante para demostrar que eres digno.
+0x0000003A Eh, ¿aún no has bajado a ~mission_target_planet~? Deberías... ir... y encargarte del asunto.
+0x00000039 Tu misión diplomática no ha terminado aún. Ve a ~mission_target_planet~ y baja al planeta.
+0x00000038 Aún no has cumplido tu misión, capitán. Ve a ~mission_target_planet~ ahora mismo, antes de que el cuartel general se harte.
+0x00000010 Qué alegría que alguien tan importante como tú visite a unos seres insignificantes como nosotros. Si no supone un gran inconveniente, querríamos pedirte algo.~p~¿Podrías viajar al planeta ~mission_target_planet~ para ver qué oportunidades se presentan? Solo si no es mucho problema.
+0x0000003F Viaja a ~mission_target_planet~ y cumple con la misión que has aceptado. Somos pacientes y esperaremos tu regreso.
+0x0000000F 1, 2, 3... ¿Quieres hacer algo por este tunante?~p~4, 5, 6... Ir al planeta ~mission_target_planet~ de visitante.~p~7, 8, 9... Y asegurarte de que no llueve.~p~¿Qué viene después del 9?
+0x00000025 Me temo que debo rehusar.
+0x00000011 No quisiéramos molestarte, pero ¿podrías hacernos un favor? ¿Podrías volar al planeta ~mission_target_planet~?~p~Uno de nuestros cargueros nos informa de que podría haber grandes oportunidades para alguien tan valiente como tú.~p~Y te pagaremos, claro.
+0x00000017 Muchos aventureros pasan por aquí. ¿Qué te hace diferente a ellos?~p~Ve al planeta ~mission_target_planet~. Puede que el riesgo sea grande, pero la recompensa es aún mayor.
+0x00000016 ¿Te crees más fuerte que los ~race~? Demuéstralo.~p~Ve al planeta ~mission_target_planet~ y enfréntate a los peligros que allí te esperan. Será muy lucrativo.
+0x00000015 Cuando la Estrella de Piedra se alinea con las Puertas de la Cólera, suceden cosas mágicas. Esa magia te espera en el planeta ~mission_target_planet~.~p~¿Quieres ir allí?
+0x0000002C Por los Grandes Vientos Solares... ¡lo has conseguido! ¡Acepta estas ~mission_rewards~ esporetas, por favor, y no te olvides de ajustar el feng shui de tu nave antes de marcharte!
+0x0000002D Nos has ayudado y no somos unos ingratos. Aquí tienes ~mission_rewards~ esporetas.
+0x00000018 Los ~race~ respetan a quienes se muestran valientes y se ríen en la cara del peligro.~p~Viaja al planeta ~mission_target_planet~ e investiga. No sabemos lo que te espera en el viaje, pero será peligroso.~p~¿Estás a punto?
+0x00000014 Las Grandes Aguas hablan de las increíbles experiencias que aguardan a los valientes. Ve al planeta ~mission_target_planet~ cuando antes.~p~Que el Guardián del Espíritu te proteja.
+0x0000002F ¡Capitán, tu historial de misiones indica que has tenido ÉXITO! ¡Estamos totalmente impresionados!~p~¡Ten estas ~mission_rewards~ esporetas, junto con nuestra completa gratitud!
+0x00000037 Nunca había visto tal generosidad.
+0x00000006 Por mucho que nos duela derrochar energía para viajar a otro planeta, necesitamos que viajes a ~mission_target_planet~.~p~Nuestros conservacionistas en el planeta nos han informado sobre actividades extrañas.
+0x00000013 El viento nos ha susurrado que vendría un héroe ávido de aventuras. ¿Eres tú ese héroe?~p~Si es así, viaja a ~mission_target_planet~. Tu aventura te aguarda allí.
+0x00000012 Es un honor estar en presencia de un héroe tan poderoso como tú. El planeta ~mission_target_planet~ necesita tus servicios.~p~Siempre estaremos en deuda contigo y te pagaremos muy bien.
+0x0000002E Has completado satisfactoriamente la misión. Estas ~mission_rewards~ esporetas no nos sirven de nada, pero puede que a ti sí.
+0x0000001C El cuartel general tiene para ti una misión del máximo secreto en el planeta ~mission_target_planet~.~p~¿Te interesa, capitán?
+0x0000001B Te dirigirás al instante al planeta ~mission_target_planet~ o afrontarás tu castigo.
+0x0000001D No tenemos muchos detalles, capitán, pero inteligencia nos informa de que necesitamos que viajes al instante al planeta ~mission_target_planet~ para ver qué está pasando allí.~p~¿Te interesa?
+0x00000029 En el pasado hemos comprobado que las recompensas resultan muy útiles a la hora de obtener la colaboración de otras especies. Por consiguiente, te ofrecemos estas ~mission_rewards~ esporetas.
+0x00000019 Ve al planeta ~mission_target_planet~, insignificante forma de vida. No cuestiones nuestra autoridad.
+0x0000002B ¡El Grande regresa triunfante! ¡Aullamos y brincamos de júbilo! Acepta estas ~mission_rewards~ esporetas y una visita gratuita a nuestra excelente boutique, por favor.
+0x0000001A Marcha al instante al planeta ~mission_target_planet~. Eso es todo.
+0x00000008 Grandes aventuras te esperan en ~mission_target_planet~. Hay un gran poder ahí fuera que lo desea.~p~¿Estás a la altura?
+0x00000007 Se ha revelado que debes ir a ~mission_target_planet~ en nombre de Spode. Aún no conocemos los detalles, pero sabemos que hay que viajar al planeta.
+0x0000000C Si nuestros cálculos no fallan, está ocurriendo algo grande en la superficie de ~mission_target_planet~.~p~Si no te supone un gran inconveniente, ¿podrías ir allí a echar un vistazo?
+0x0000000E Estamos demasiado ocupados celebrando la "Celebración de la Celebración", una fiesta de un año de duración en nuestro planeta. ¿Tendrías la amabilidad de ir al planeta ~mission_target_planet~ a investigar?~p~Te pagaremos bien y encima te daremos besitos gratis.
+0x0000002A ¿Qué tiempos más gloriosos, amigo! Lo has conseguido... ¿Cómo lo hiciste?~p~No importa... Es hora de cantar y hacer el indio. Y, como prometimos, aquí tienes ~mission_rewards~ esporetas.
+

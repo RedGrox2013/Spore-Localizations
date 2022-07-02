@@ -1,0 +1,104 @@
+﻿# Tutorial Mating
+
+0x056CEA65 Napsauta majaa ja lisää poikanen.
+0x056CEA63 Kansoita
+0x056CEA64 Poikasista tulee hyödyllisiä heimon jäseniä.
+
+# Tutorial Accessorize Tribe
+
+0x05935B29 Asut helpottavat heimosi elämää eri tavoin. Valitse siis asu, joka sopii taktiikkaasi.
+0x05935B2A Vieraile heimoeditorissa muokkaamassa asuasi.
+0x05935B28 Suunnittele asu
+
+# Tribe to Tribe Social - Neutral or Above
+
+0x5519033A Tee heimosta ~npc0_name_village~ liittolaisesi soittamalla heille musiikkia. Liittolaisheimot tuovat heimollesi lahjoja.
+0x5519033B Liittoudu heimon ~npc0_name_village~ kanssa
+
+# Hint (that did not get transferred to HintsTRG.txt before the localization cutoff)
+
+0x751CE899 Soittajat eivät pysy rytmissä, ellei päällikkö johda musisointia!
+
+# Tutorial Equip Tools
+
+0x056CF7F2 Varusta työkalut
+0x056CF7F4 Kukin heimon jäsen voi kantaa työkalua.
+0x056CF7F3 Valitse ensin heimon jäsen ja varusta tämä sitten napsauttamalla työkaluvajaa.
+
+# Tutorial Eat - Carnivore
+
+0x055407BD Metsästä
+0x055407BF Metsästä, niin saat lihaa tai kalaa.
+0x055407BE Lihansyöjät selviävät vain syömällä lihaa. Ruoan avulla voit kasvattaa heimoasi ja ostaa työkaluja.
+
+# Tutorial Domesticate
+
+0x05BAA456 Kesytä villieläin.
+0x05BAA454 Kesytä
+0x05BAA455 Kesytä villieläimet seurustelutoiminnoilla. Kesytetyt otukset asuvat aitauksessa majasi takana ja tuottavat munia, joita heimosi voi kerätä ruoakseen.
+
+# Tribe to Tribe Social - Below Neutral
+
+0x055A6241 Tuo lahjoja heimolle ~npc0_name_village~.
+0x055A6240 Anna heimon ~npc0_name_village~ jäsenille lahjoja, niin voit parantaa heimojen välistä suhdetta ja liittoutua heidän kanssaan.
+
+##############################
+# Tutorial Select
+
+0x0554061E Heimon jäsenen valinta
+0x0554061F Valitse yksi heimosi jäsen napsauttamalla tai valitse suurempi joukko napsauttamalla tai vetämällä. Voit sitten ohjata ja komentaa valittuja heimon jäseniä.
+0x05540620 Valitse heimon jäsen.
+
+# Tutorial Eat - Herbivore
+
+0x055407C7 Kasvinsyöjät selviävät syömällä hedelmiä tai merilevää. Ruoan avulla voit kasvattaa heimoasi ja ostaa työkaluja.
+0x055407C6 Kerää
+0x055407C8 Kerää merilevää.
+
+# Conquer Tribe
+
+0x0567CBEE Toimi
+0x0567CBEF Aloita vallantavoittelu antamalla toisen heimon edustajalle lahja, tekemällä tähän vaikutus tai hyökkäämällä tämän kimppuun.
+0x0567CBF0 Anna toiselle heimolle lahja, tee siihen vaikutus tai hyökkää sen kimppuun.
+
+# Tribe to Tribe Combat
+
+0x055A6249 Hyökkää heimon ~npc0_name_village~ kimppuun.
+0x055A6248 Kukista ~npc0_name_village~ tuhoamalla heimon maja.
+
+# Tutorial Buy Tools
+
+0x056CF6A3 Osta työkaluja
+0x056CF6A5 Vieraile heimosi majassa ja valitse editori.
+0x056CF6A4 Osta heimollesi työkaluja. Työkalut auttavat heimoasi eri tavoin. Valitse työkalu, joka sopii parhaiten pelitaktiikkaasi.
+
+# Tribe Game Localized Text
+# posse ui title and "select all members" button
+
+0xF37C273B Heimo
+
+# Tutorial Eat - Omnivore
+
+0x055407C4 Kerää hedelmiä, lihaa tai kalaa.
+0x055407C3 Kaikkiruokaiset otukset selviävät syömällä hedelmiä, kalaa tai lihaa. Ruoan avulla voit kasvattaa heimoasi ja ostaa työkaluja.
+0x055407C2 Metsästä tai kerää.
+
+##############################
+# Tribe to Tribe titles
+
+0x06E1F025 Valloita
+0x06E1F026 Liittoudu
+
+# Tribe member Rollover titles and names
+
+0x0567D1D0 Samaani ~tribe_creature_name~
+0x0567D1D1 Keihästäjä ~tribe_creature_name~
+0x0567D1D2 Kirvestäjä ~tribe_creature_name~
+0x0567D1D4 Kalastaja ~tribe_creature_name~
+0x0567D1D5 Maanviljelijä ~tribe_creature_name~
+0x0567D1D6 Torvensoittaja ~tribe_creature_name~
+0x0567D1D7 Marakassinsoittaja ~tribe_creature_name~
+0x0567D1D8 Aerofonisti ~tribe_creature_name~
+0x04BD540B Päällikkö ~tribe_creature_name~
+0x0567D1D3 Soihdunkantaja ~tribe_creature_name~
+

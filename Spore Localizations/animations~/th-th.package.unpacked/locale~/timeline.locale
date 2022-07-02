@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492924 เมืองที่สูญหาย
+0x35492925 ~timelineMyCivName~ มีเมืองที่สูญหายไป
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x060B4242 พัฒนาเป็นอารยธรรมทหาร
+0x06085D4D ~timelineMyCivName~ พัฒนาเป็นอารอารยธรรมทหาร
+
+# CRG_LostAbility
+
+0x550A15C2 ทำ ~timelineAbilityName~ หาย
+0x550A15C3 ~timelineMySpeciesName~ มีวิวัฒนาการแต่สูญเสียความสามารถ ~timelineAbilityName~
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A5 ~timelineAbsoluteYears~ ปี
+0x555450A6 +~timelineDeltaYears~ ปี
+
+#### Time Line Title ####
+
+0x0448655C พิชิตโลก
+0x0448655A สร้างเผ่า
+0x04486558 พัฒนาสติปัญญา
+0x04486559 รุ่งอรุณแห่งอารยธรรม
+0x0448655B ชัยชนะเหนือเผ่าอื่น
+0x00000011 สำรวจดวงดาวเพื่อพบปะมิตรและเผชิญศัตรู
+0x00000001 กินเพื่อเติบโตและสะสมแต้ม DNA
+0x0000000E ทำเหมืองเครื่องเทศเพื่อสะสมทรัพยากร
+0x00000005 ต่อสู้ ผูกมิตร หรือค้นหาชิ้นส่วน
+0x0448655D ยุคอวกาศ
+0x0448655E สำรวจจักรวาล
+0x04486555 ต้นกำเนิดของชีวิต
+0x04486557 วิวัฒนาการของชีวิตบนบก
+0x0000000B ซื้อเครื่องมือเพื่อเสริมศักยภาพ
+0x04486556 ก้าวผ่านพัฒนาการและขึ้นไปอาศัยบนบก
+0x0000000D ซื้อหรือสร้างพาหนะจากที่ว่าการเมือง
+0x00000004 ช่วงวิวัฒนาการ
+0x0000000F ใช้พาหนะเพื่อบุกยึด ล้างสมอง หรือเข้าซื้อเมืองคู่แข่ง
+0x00000003 เพิ่มชิ้นส่วนในโปรแกรมกำเนิดและวิวัฒนาการ
+0x00000012 ทำภารกิจให้สำเร็จเพื่อรับเงินรางวัล
+0x00000013 ตั้งอาณานิคมและปรับสภาพดาวเคราะห์
+0x00000010 ช่วงท่องอวกาศ
+0x0000000C ช่วงสร้างอารยธรรม
+0x00000002 เอาชนะศัตรูเพื่อปลดล็อคชิ้นส่วน
+0x00000009 ผูกมิตรหรือพิชิตเผ่าคู่แข่ง 5 เผ่า
+0x00000000 ช่วงจุลชีพ
+0x0000000A ออกล่า ตกปลา หรือเก็บผลไม้เพื่อสะสมอาหาร
+0x00000006 สะสมแต้ม DNA และปลดล็อคชิ้นส่วน
+0x00000008 ช่วงสร้างเผ่า
+0x00000007 จับคู่เพื่อผลิตทายาทและวิวัฒนาการ
+
+# CLG_EatMeat
+
+0x352DBDB9 กินเนื้อ ~timelineEventCount~ ครั้ง
+0x352DBDBA ~timelineMySpeciesName~ กินเนื้อ
+0x352DBDBB ~timelineMySpeciesName~ กินชิ้นเนื้อ ~timelineEventCount~
+0x75580859 เซลล์ของคุณกินเศษเนื้อ ~timelineEventCount~
+0x75580858 เซลล์ของคุณกินชิ้นเนื้อ
+
+# TRG_KilledEpic
+
+0x05FA01B1 ~timelineMyTribeName~ กำจัด ~timelineTargetOTDBName~ ยักษ์ได้สำเร็จ
+0x060B422F กำจัดสัตว์ยักษ์
+
+# SPG_ColonyOnPlanet
+
+0x05FA01CB ~timelineMyEmpireName~ ตั้งอาณานิคมที่ดาว ~timelinePlanetName~
+0x060B424D ตั้งอาณานิคมบนดาวเคราะห์
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ ร่วมเป็นพันธมิตรกับ ~timelineTargetOTDBName~
+0x060B4221 เป็นพันธมิตร
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ ซื้อดาวจาก ~timelineTargetEmpireName~
+0x06300C33 ซื้อดาว
+
+# CLG_Death
+
+0x75580855 เซลล์ของคุณตาย ~timelineEventCount~ ครั้ง
+0x75580854 เซลล์ของคุณตายแล้ว
+0x05FA0196 ~timelineMySpeciesName~ ตาย
+0x060B4214 ตาย
+0x14F7E775 ~timelineMySpeciesName~ ตาย ~timelineEventCount~ ครั้ง
+
+# CVG_CapturedCityEconomic
+
+0x060B423D ใช้วิธีการทางเศรษฐกิจเข้ายึดเมือง
+0x06031AAB ~timelineMyCivName~ ยึดเมืองจากชาว ~timelineTargetCivName~ ด้วยวิธีการทางเศรษฐกิจ
+
+# SPG_PlanetDestroyed
+
+0xB54938AD จักรวรรดิ ~timelineMyEmpireName~ ทำลายดาวเคราะห์ ~timelinePlanetName~
+0xB54938AC ดาวเคราะห์ถูกทำลาย
+
+# SPG_EndedWar
+
+0x35493814 สงครามสิ้นสุด
+0x35493815 ~timelineMyEmpireName~ ยุติสงครามกับ ~timelineTargetEmpireName~
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x05FA0198 ~timelineMySpeciesName~ พัฒนาสายพันธุ์ขึ้นเป็นสิ่งมีชีวิตที่กินเนื้อเป็นอาหาร
+0x060B4216 ผันมากินเนื้อ
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 พาหนะทางน้ำเมืองศาสนา
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ ได้ออกแบบยานพาหนะใหม่ ~timelineTargetOTDBName~
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA843 โยงใยเครือข่ายห่วงโซ่อาหาร
+0x064AA844 ปรับแนวโครงร่างกระดูกสันหลัง
+0x064AA841 สร้างแผนผังวิวัฒนาการ
+0x064AA842 คำนวณความผันผวนของการเคลื่อนที่
+0x064AA840 เชื่อมต่อปลายประสาทส่วนย่อย
+0x064AA83E ให้ความชุ่มชื้นแก่ผิวหนังชั้นนอก
+0x064AA83A กำจัดพาหะโรคติดต่อ
+0x064AA839 กระจายเซลล์ต้นแบบพันธุ์พืช
+0x064AA838 จัดเรียงรหัสพันธุกรรม
+0x064AA83C สุ่มข้อมูลยีนส์พื้นฐาน
+0x064AA83D สร้างระบบทางเดินอาหารและผิวหนัง
+0x064AA83B คัดแยกข้อมูลสายพันธุ์
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 พาหนะทางบกเมืองทหาร
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01B3 ~timelineMyTribeName~ พัฒนาไปเป็นเมืองศาสนา
+0x060B4231 พัฒนาเป็นสังคมแห่งมิตรภาพ
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~ กำจัดสมาชิกเผ่า ~timelineEventCount~ ตัว
+0xB5303DE6 ~timelineMyTribeName~ กำจัดสมาชิกเผ่า ~timelineTargetTribeName~
+0xB5303DE5 กำจัดสมาชิกเผ่า
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ ก่อตั้งเมือง!
+0x060B4238 เข้าสู่ช่วงสร้างอารยธรรม
+
+# CVG_WarEndedByRelationship
+
+0x9552AA74 ~timelineMyCivName~ ไม่ได้ทำสงครามอยู่กับ ~timelineTargetCivName~
+0x9552AA73 สงครามสิ้นสุด
+
+# CVG_WarStarted
+
+0x35492926 สงครามเริ่มแล้ว
+0x35492927 ~timelineMyCivName~ กำลังทำสงครามอยู่กับ ~timelineTargetCivName~.
+
+# TRG_EggGathered
+
+0x555BD5C1 เก็บไข่ ~timelineSummedCount~
+0x555BD5C2 เก็บไข่ ~timelineSummedCount~
+0x555BD5C0 เก็บไข่ ~timelineSummedCount~
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 สร้างพาหนะ
+0x35523EC1 สร้างพาหนะทางทะเล
+0x35523EC2 สร้างพาหนะทางทะเลเมืองทหาร ~timelineEventCount~ ครั้ง
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 สร้างพาหนะ
+0xB5523D44 สร้างพาหนะทางอากาศเมืองเศรษฐกิจ
+0xB5523D45 สร้างพาหนะทางอากาศเมืองเศรษฐกิจ ~timelineEventCount~ ครั้ง
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ ออกแบบพาหนะ ~timelineTargetOTDBName~
+0x060B423A สร้างพาหนะ
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ ออกแบบสิ่งปลูกสร้าง ~timelineTargetOTDBName~
+0x060B4239 สร้างสิ่งปลูกสร้าง
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x060B4241 พัฒนาเป็นอารยธรรมศาสนา
+0x06085D4C ~timelineMyCivName~ พัฒนาเป็นอารอารยธรรมศาสนา
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01A5 ~timelineMySpeciesName~ วิวัฒนาการขึ้นเป็นพวกสังคม
+0x060B4223 ได้รับสัญชาตญาณแห่งสังคม
+
+# CVG_AccessorizedCreature
+
+0x05FA01BD ~timelineMyCivName~ เริ่มใช้เครื่องแต่งกายแบบใหม่
+0x060B423B เริ่มใช้เครื่องแต่งกายใหม่
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ ทะยานขึ้นสู่ดวงดาว
+0x060B424B เข้าสู่ช่วงท่องอวกาศ
+
+# CRG_BefriendedSomething
+
+0x54F7EDA3 ~timelineMySpeciesName~ ผูกมิตรกับสัตว์อื่น ~timelineEventCount~ ตัว
+0x05FA01A9 ~timelineMySpeciesName~ ผูกมิตรกับ ~timelineTargetOTDBName~
+0x060B4227 ผูกมิตรกับสิ่งมีชีวิตอื่น
+
+# CRG_Migrated
+
+0x05FA01A1 ~timelineMySpeciesName~ เข้าอาศัยในรังใหม่
+0x060B421F ย้ายเข้ารังใหม่
+
+# CRG_Death
+
+0x05FA01A7 ~timelineMySpeciesName~ ตาย
+0x060B4225 ตาย
+0x14F7EF6F ~timelineMySpeciesName~ ตาย ~timelineEventCount~ ครั้ง
+
+# CRG_DiscoverPart
+
+0x05FA01AA ~timelineMySpeciesName~ ค้นพบชิ้นส่วน ~timelinePartName~
+0x060B4228 ~timelinePartName~
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x05FA01B2 ~timelineMyTribeName~ พัฒนาขึ้นเป็นเมืองทหาร
+0x060B4230 พัฒนาเป็นสังคมกระหายสงคราม
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ ออกแบบอาคารใหม่ ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 พาหนะทางบกเมืองเศรษฐกิจ
+
+# CVG_SeaVehicleLost
+
+0xD4F81D00 ยานพาหนะท้องทะเล ~timelineEventCount~ ที่สูญหาย
+0x05FA01C7 เสียพาหนะทางทะเล
+0x060B4249 เสียพาหนะ
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ ทำลายดาว ~timelinePlanetName~
+0x060B4251 ทำลายดาวเคราะห์
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 เครื่องแต่งกายใหม่
+0xD5147CA7 ~timelineMyEmpireName~ เริ่มใช้เครื่องแต่งกายแบบใหม่
+
+# TRG_BoughtTool
+
+0x05FA01AD ~timelineMyTribeName~ ประดิษฐ์ ~timelineAbilityName~
+0x060B422B ~timelineAbilityName~
+
+# TRG_BefriendedTribe
+
+0x05FA01AF ~timelineMyTribeName~ เป็นพันธมิตรกับ ~timelineTargetTribeName~.
+0x060B422D เป็นพันธมิตรกับเผ่าอื่น
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 พาหนะทางอากาศเมืองเศรษฐกิจ
+
+# SPG_ColonyPlaced
+
+0x05FA01D3 ~timelineMyEmpireName~ ตั้งอาณานิคมบนดาว ~timelinePlanetName~ แล้ว
+0x060B425F ตั้งอาณานิคม
+
+# TRG_MeatGathered
+
+0x94F807CA รวบรวมเนื้อได้ทั้งหมด ~timelineSummedCount~ หน่วย
+0x05FA01B9 รวบรวมเนื้อได้ ~timelineSummedCount~ หน่วย
+0x060B4237 รวบรวมเนื้อได้ ~timelineSummedCount~ หน่วย
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ เป็นนักดนตรีแห่งจักรวาล!
+0x060B4255 รับเอาลักษณะแบบกวี
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 สร้างพาหนะทางอากาศเมืองทหาร ~timelineEventCount~ ครั้ง
+0xB5523D41 สร้างพาหนะทางอากาศเมืองทหาร
+0xB5523D40 สร้างพาหนะ
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AD ปรับสภาพดาว ~timelinePlanetName~
+0x0627E7AC เพิ่มระดับความอุดมสมบูรณ์ของดาวเคราะห์
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01B4 ~timelineMyTribeName~ พัฒนาไปเป็นเมืองเศรษฐกิจ
+0x060B4232 พัฒนาเป็นสังคมอุตสาหกรรม
+
+# CRG_PackMemberAdded
+
+0x05FA019F ~timelineTargetOTDBName~ ถูกเพิ่มในฝูง
+0x060B421D ได้สมาชิกฝูงเพิ่ม
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~ เป็นนักวิทยาศาสตร์แห่งจักรวาล!
+0x060B4259 รับเอาลักษณะแบบนักวิทยาศาสตร์
+
+# SPG_EditedVehicle
+
+0x35493813 ~timelineMyEmpireName~ ออกแบบยานพาหนะใหม่ ~timelineTargetOTDBName~.
+0x35493812 ~timelineTargetOTDBName~
+
+# SPG_MadeAlly
+
+0x05FA01CC ~timelineMyEmpireName~ ร่วมเป็นพันธมิตรกับชาว ~timelineTargetEmpireName~
+0x060B424E สร้างพันธมิตร
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 สร้างพาหนะทางบกเมืองเศรษฐกิจ
+0x15523CA3 สร้างพาหนะ
+0x15523CA5 สร้างพาหนะทางบกเมืองเศรษฐกิจ ~timelineEventCount~ ครั้ง
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 ~timelineMySpeciesName~ วิวัฒนาการขึ้นเป็นพวกปรับตัวเก่ง
+0x060B4224 ได้รับสัญชาตญาณแห่งการปรับตัว
+
+# CVG_CapturedCityReligious
+
+0x060B423E ใช้วิธีการทางศาสนาเข้ายึดเมือง
+0x06031AAC ~timelineMyCivName~ ยึดเมืองจากชาว ~timelineTargetCivName~ ด้วยวิธีการทางศาสนา
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x05FA01A4 ~timelineMySpeciesName~ วิวัฒนาการขึ้นเป็นพวกนักล่า
+0x060B4222 ได้รับสัญชาติญาณแห่งนักล่า
+
+# CVG_UsedSuperPower
+
+0x05FA01C2 ~timelineMyCivName~ ใช้ ~timelineSuperPowerName~
+0x060B4244 ใช้พลังพิเศษ
+
+# CVG_EpicKilled
+
+0x3552A305 ~timelineMyCivName~ ฆ่ายักษ์ ~timelineTargetOTDBName~.
+0x3552A304 ฆ่ายักษ์
+
+# CRG_KilledSomething
+
+0xF4F7EE4B ~timelineMySpeciesName~ กำจัดสิ่งมีชีวิตอื่น ~timelineEventCount~ ตัว
+0x05FA01A8 ~timelineMySpeciesName~ กำจัด ~timelineTargetOTDBName~
+0x060B4226 กำจัดสิ่งมีชีวิตอื่น
+
+# CVG_SpiceNodeCaptured
+
+0x060B4243 ยึดเหมืองเครื่องเทศ
+0x05FA01C1 ~timelineMyCivName~ ยึดน้ำพุเครื่องเทศได้
+0x15137CD5 ~timelineMyCivName~ ยึดน้ำพุเครื่องเทศ ~timelineEventCount~ แห่ง
+
+# CVG_LostCityByMilitary
+
+0x35492921 ~timelineMyCivName~ มีเมืองที่สูญหายไป
+0x35492920 เมืองที่สูญหาย
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ กำจัด ~timelineTargetOTDBName~ จนสูญพันธุ์
+0x060B4220 สูญพันธุ์
+
+# CRG_PackMemberDied
+
+0x05FA01A0 ~timelineMySpeciesName~ เสียสมาชิกฝูง
+0x060B421E สมาชิกฝูงตาย
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~ เป็นนักปราชญ์แห่งจักรวาล!
+0x060B425A รับเอาลักษณะแบบนักปรัชญา
+
+# CVG_LandVehicleBuilt
+
+0xB4F817E5 สร้างพาหนะทางบก ~timelineEventCount~ ครั้ง
+0x05FA01C3 สร้างพาหนะทางบก
+0x060B4245 สร้างพาหนะ
+
+# CVG_LandVehicleLost
+
+0x54F81C70 ยานของดินแดน ~timelineEventCount~ ที่สูญหาย
+0x05FA01C6 เสียพาหนะทางบก
+0x060B4248 เสียพาหนะ
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA851 สำรวจที่อยู่ประชากรท้องถิ่นบนพื้นทวีป
+0x064AA852 เริ่มตัวควบคุมปรากฏการณ์ลอกแบบ
+0x064AA854 ปรับสภาพพลวัตพื้นที่รอบนอก
+0x064AA853 ปลูกฝังปัจจัยทางเทคโนโลยี
+0x064AA850 ปรับสัดส่วนพื้นผิววัตถุ
+0x064AA84E รักษาสมดุลความดันบนดาวเคราะห์
+0x064AA84F สำรวจแหล่งทรัพยากรไฮโดรคาร์บอน
+0x064AA855 สร้างเสียงเพลงประกอบบรรยากาศ
+0x064AA856 ขยายบริเวณกระจายอนุภาค
+0x064AA900 กระจายข้อมูลเชิงลบ
+0x064AA857 เริ่มการถ่ายทอดวัฒนธรรม
+
+# SPG_CGQuasar
+
+0x05FA01D2 ~timelineMyEmpireName~ ก้าวเข้าสู่ยุคแห่งการรู้แจ้ง
+0x060B4254 เข้าไปใกล้ควอซาร์
+
+# CRG_EvolveInEditor
+
+0x05FA019D ~timelineMySpeciesName~ วิวัฒนาการ!
+0x060B421B รุ่นที่ ~timelineGenerationCount~
+
+# CVG_AirVehicleLost
+
+0xF4F81D2C ยานพาหนะอากาศ ~timelineEventCount~ สูญหาย
+0x05FA01C8 เสียพาหนะทางอากาศ
+0x060B424A เสียพาหนะ
+
+# SPG_CapturedStare
+
+0x05FA01CE ~timelineMyEmpireName~ ยึดอาณานิคมจากชาว ~timelineTargetEmpireName~
+0x060B4250 เข้ายึดดาวเคราะห์
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 พาหนะทางบกเมืองศาสนา
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 เสียยาน ~timelineTargetOTDBName~
+0x060B4263 ยานอวกาศของผู้เล่นถูกทำลาย
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~ เป็นอัศวินแห่งจักรวาล!
+0x060B4258 รับเอาลักษณะแบบอัศวิน
+
+# CRG_GainedAbility
+
+0x550A15C0 ได้รับ ~timelineAbilityName~
+0x550A15C1 ~timelineMySpeciesName~ วิวัฒนาการและได้ความสามารถ ~timelineAbilityName~
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 พบชาว ~timelineTargetEmpireName~
+0x060B4264 พบจักรวรรดิอื่น
+
+# TRG_GiftGiven
+
+0xB5303DE2 ให้ของขวัญ
+0xB5303DE3 ~timelineMyTribeName~ ส่งของขวัญให้ ~timelineTargetTribeName~
+0xB5303DE4 ~timelineMyTribeName~ ส่งของขวัญ ~timelineEventCount~ ครั้ง
+
+# CVG_TradeRouteStarted
+
+0x3549292A เส้นทางการค้าได้รับการวางขึ้น
+0x3549292B เริ่มเข้าสู่เส้นทางการค้าด้วย ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~ ออกแบบยานอวกาศใหม่
+0x060B424C ปรับปรุงยานอวกาศ
+
+# CLG_DiscoverPart
+
+0x75580853 ชิ้นส่วน ~timelinePartName~ ถูกค้นพบ
+0x05FA0193 ~timelineMySpeciesName~ ค้นพบชิ้นส่วน ~timelinePartName~
+0x060B4211 ค้นพบชิ้นส่วน
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ เป็นนักรบแห่งจักรวาล!
+0x060B425D รับเอาลักษณะแบบนักรบ
+
+# CVG_SeaVehicleBuilt
+
+0x94F819B5 สร้างพาหนะทางทะเล ~timelineEventCount~ ครั้ง
+0x05FA01C4 สร้างพาหนะทางทะเล
+0x060B4246 สร้างพาหนะ
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ ชนะ ~timelineTargetCivName~.
+0x35492928 สงครามสิ้นสุด
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ เป็นนักเดินทางแห่งจักรวาล!
+0x060B425C รับเอาลักษณะแบบนักพเนจร
+
+# TRG_UnlockedTool
+
+0xD537EA55 ปลดล็อก ~timelineAbilityName~
+0xD537EA56 ปลดล็อก ~timelineAbilityName~
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~ เป็นนักนิเวศแห่งจักรวาล!
+0x060B4257 รับเอาลักษณะแบบนักนิเวศวิทยา
+
+# TRG_DomesticatedSpecies
+
+0x05FA01B0 ~timelineMyTribeName~ รับ ~timelineTargetOTDBName~ มาเป็นสัตว์เลี้ยง
+0x060B422E นำ ~timelineTargetOTDBName~ มาเลี้ยง
+
+# SPG_UFODestroyed
+
+0x356A2D21 ยานอวกาศถูกทำลาย ~timelineEventCount~ ครั้ง
+0x05FA01D4 ~timelineTargetEmpireName~ ถูกทำลาย
+0x060B4260 ทำลายยานอวกาศ
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 พาหนะทางน้ำเมืองเศรษฐกิจ
+
+# TRG_TribeMemberDied
+
+0xD4F7FE0D ~timelineMyTribeName~ มีสมาชิกเผ่าตาย ~timelineEventCount~ ตัว
+0x05FA01B6 ~timelineMyTribeName~ สูญเสียสมาชิกเผ่า
+0x060B4234 มีสมาชิกเผ่าเสียชีวิต
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 พาหนะทางอากาศเมืองทหาร
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 สร้างพาหนะทางบกเมืองทหาร ~timelineEventCount~ ครั้ง
+0x15523CA0 สร้างพาหนะ
+0x15523CA1 สร้างพาหนะทางบกเมืองทหาร
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ เป็นนักธุรกิจแห่งจักรวาล!
+0x060B425B รับเอาลักษณะแบบนักธุรกิจ
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~ เผชิญหน้ากับพวกกร็อกซ์
+0x060B4252 เผชิญหน้ากร็อกซ์ครั้งแรก
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 สร้างพาหนะทางบกเมืองศาสนา ~timelineEventCount~ ครั้ง
+0x15523CA7 สร้างพาหนะทางบกเมืองศาสนา
+0x15523CA6 สร้างพาหนะ
+
+# TRG_ConqueredTribe
+
+0x05FA01AE ~timelineMyTribeName~เอาชนะ ~timelineTargetTribeName~.
+0x060B422C พิชิตเผ่าอื่น
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA906 วัดระยะวงโคจรของดาวเคราะห์
+0x064AA907 รับคลื่นสัญญาณจากอวกาศ
+0x064AA908 เร่งกระบวนการซิงกูลาริตี้
+0x064AA902 อนุรักษ์มวลสสาร
+0x064AA901 กำหนดค่าสนามฮิกส์-ฮิกส์โบซอน
+0x064AA903 ตรวจสอบการขยายตัวของอวกาศ
+0x064AA905 ตรวจจับการแผ่รังสีจากเนบิวล่า
+0x064AA904 ปรับค่าคงที่แรงโน้มถ่วง
+0x064AA909 วัดค่าการแผ่รังสีจากควอซาร์
+0x064AA90A สำรวจการหมุนของกาแล็กซี่
+0x064AA90C คำนวณขนาดพื้นที่อิทธิพลของจักรวรรดิ
+0x064AA90B ปรับตั้งค่าเอนโทรปีของจักรวาล
+
+# TRG_AccessorizedCreature
+
+0x05FA01AC ~timelineMyTribeName~ เริ่มใช้ชุดแต่งกายแบบใหม่
+0x060B422A เริ่มใช้เครื่องแต่งกายใหม่
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ วิวัฒนาการ
+0x060B4212 รุ่นที่ ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x05FA019E สมอง ~timelineMySpeciesName~ พัฒนาขึ้น!
+0x060B421C พัฒนาสมอง
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ เป็นนักการฑูตแห่งจักรวาล!
+0x060B4256 รับเอาลักษณะแบบนักการฑูต
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A857 เงินที่ได้จากการทำการค้า
+0x7552A859 ~timelineSummedCount~ sporebaht ซึ่งได้บนเส้นทางการค้า
+0x7552A858 ~timelineSummedCount~ sporebaht ซึ่งได้บนเส้นทางการค้า
+
+# CLG_KilledSomething
+
+0x7558085B เซลล์ของคุณฆ่าเซลล์ ~timelineEventCount~
+0x7558085A เซลล์ของคุณฆ่า ~timelineTargetOTDBName~
+0xF4F7C380 ~timelineMySpeciesName~ กำจัดเซลล์อื่น ~timelineEventCount~ เซลล์
+0x05FA019B ~timelineMySpeciesName~ กำจัด ~timelineTargetOTDBName~
+0x060B4219 กำจัดเซลล์อื่น
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA0199 ~timelineMySpeciesName~ พัฒนาสายพันธุ์ขึ้นเป็นสิ่งมีชีวิตที่กินทั้งพืชและเนื้อเป็นอาหาร
+0x060B4217 ผันมากินทั้งพืชและเนื้อ
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA846 พัฒนาแนวคิดทางวัฒนธรรม
+0x064AA849 แยกส่วนกลไกการเกิดความรู้
+0x064AA84A ปรับสภาพพื้นผิวโดยรอบ
+0x064AA84B สุ่มค่าปัจจัยทางวัฒนธรรม
+0x064AA848 กำหนดโครงสร้างระบบไวยากรณ์
+0x064AA847 ขัดเกลาท่าทางการเคลื่อนไหว
+0x064AA845 กรองค่าปฏิสัมพันธ์ทางสังคม
+0x064AA84C ปรับสภาพการเปลี่ยนช่วง
+0x064AA84D ถ่ายทอดความสามารถในการรับรู้
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~ เป็นนักบวชแห่งจักรวาล!
+0x060B425E รับเอาลักษณะแบบสาวกผู้ศรัทธา
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 เก็บสาหร่าย ~timelineSummedCount~
+0x555BD5C4 เก็บสาหร่าย ~timelineSummedCount~
+0x555BD5C3 เก็บสาหร่าย ~timelineSummedCount~
+
+# SPG_SpiceTraded
+
+0x55564EC3 ทำการค้าเครื่องเทศ ~timelineSummedCount~
+0x05FA01D5 ค้าขายเครื่องเทศ ~timelineSummedCount~ ครั้ง
+0x060B4261 ค้าขายเครื่องเทศ
+
+# SPG_MasterBadge
+
+0x05FA01D1 ~timelineMyEmpireName~ ได้รับตราผู้เชี่ยวชาญ
+0x060B4253 ได้รับตราผู้เชี่ยวชาญ
+
+# CLG_GameStart
+
+0x05FA0192 กำเนิดจากสะเก็ดดาว
+0x060B4210 รุ่นที่ ~timelineGenerationCount~
+
+# CVG_EpicCharmed
+
+0x3552A306 หว่านเสน่ห์ใส่ยักษ์
+0x3552A307 ~timelineMyCivName~ หว่านเสน่ห์ใส่ยักษ์ ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C ใช้วิธีการทางทหารเข้ายึดเมือง
+0x06031AAA ~timelineMyCivName~ ยึดเมืองมาจากชาว ~timelineTargetCivName~ ด้วยวิธีการทางทหาร
+
+# CVG_SpiceNodeLost
+
+0xD54932C0 แหล่งเครื่องเทศสูญหาย
+0xD54932C2 ~timelineMyCivName~ ทำน้ำพุเครื่องเทศ ~timelineEventCount~ หาย
+0xD54932C1 ~timelineMyCivName~ ทำน้ำพุเครื่องเทศหาย
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC4 สร้างพาหนะทางทะเลเมืองเศรษฐกิจ
+0x35523EC5 สร้างพาหนะทางทะเลเมืองเศรษฐกิจ ~timelineEventCount~ ครั้ง
+0x35523EC3 สร้างพาหนะ
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~ ขึ้นสู่บนบกและเริ่มต้นเส้นทางสู่การเป็นสิ่งมีชีวิตที่มีสติปัญญา
+0x060B421A รุ่นที่ ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 กินพืช ~timelineEventCount~ ครั้ง
+0x352DBDB7 ~timelineMySpeciesName~ กินพืช
+0x352DBDB8 ~timelineMySpeciesName~ กินต้นอ่อน ~timelineEventCount~
+0x75580856 เซลล์ของคุณกินพืช
+0x75580857 เซลล์ของคุณกินพืช ~timelineEventCount~ ครั้ง
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ ก่อตั้งเผ่า
+0x060B4229 เข้าสู่ช่วงสร้างเผ่า
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~ ประกาศสงครามกับชาว ~timelineTargetEmpireName~
+0x060B424F ประกาศสงคราม
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 พาหนะทางน้ำเมืองทหาร
+
+# TRG_TribeMemberBorn
+
+0xD4F81307 ในเผ่า ~timelineMyTribeName~ มีสมาชิกเกิดใหม่ ~timelineEventCount~ ตัว
+0x05FA01B5 ~timelineMyTribeName~ ให้กำเนิดสมาชิกใหม่
+0x060B4233 มีสมาชิกเผ่าเกิดใหม่
+
+# SPG_RareFound
+
+0x05FA01D6 ค้นพบของหายาก: ~timelineRareName~
+0x060B4262 ค้นพบของหายาก
+
+# CVG_AirVehicleBuilt
+
+0x34F81C5A สร้างพาหนะทางอากาศ ~timelineEventCount~ ครั้ง
+0x05FA01C5 สร้างพาหนะทางอากาศ
+0x060B4247 สร้างพาหนะ
+
+# TRG_FruitGathered
+
+0x94F804D9 เก็บผลไม้ได้ทั้งหมด ~timelineSummedCount~ หน่วย
+0x05FA01B7 เก็บผลไม้ได้ ~timelineSummedCount~ หน่วย
+0x060B4235 เก็บผลไม้ได้ ~timelineSummedCount~ หน่วย
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x060B4240 พัฒนาเป็นอารยธรรมเศรษฐกิจ
+0x06085D4B ~timelineMyCivName~ พัฒนาเป็นอารอารยธรรมเศรษฐกิจ
+
+# TRG_FishGathered
+
+0x54F8079A จับปลาได้ทั้งหมด ~timelineSummedCount~ หน่วย
+0x05FA01B8 หาปลาได้ ~timelineSummedCount~ หน่วย
+0x060B4236 หาปลาได้ ~timelineSummedCount~ หน่วย
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC7 สร้างพาหนะทางทะเลเมืองศาสนา
+0x35523EC8 สร้างพาหนะทางทะเลเมืองศาสนา ~timelineEventCount~ ครั้ง
+0x35523EC6 สร้างพาหนะ
+
+# CVG_TradeCompleted
+
+0x3549292C เกิดการค้าขึ้น
+0x3549292D ~timelineMyCivName~ แลก ~timelineSummedCount~ Sporebaht
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 สร้างพาหนะทางอากาศเมืองศาสนา
+0xB5523D46 สร้างพาหนะ
+0xB5523D48 สร้างพาหนะทางอากาศเมืองศาสนา ~timelineEventCount~ ครั้ง
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 พาหนะทางอากาศเมืองศาสนา
+
+# CVG_GiftGiven
+
+0xD54932C5 ~timelineMyCivName~ จ่าย ~timelineSummedCount~ Sporebaht
+0xD54932C4 ~timelineMyCivName~ จ่าย ~timelineSummedCount~ Sporebaht
+0xD54932C3 จ่ายเงินแล้ว
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x05FA0197 ~timelineMySpeciesName~ พัฒนาสายพันธุ์ขึ้นเป็นสิ่งมีชีวิตที่กินพืชเป็นอาหาร
+0x060B4215 ผันมากินพืช
+

@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Dessa varelser står stilla.
+0x079817BE Dessa varelser följer en annan tilldelad medlem i rollbesättningen.
+0x079817BA Dessa varelser rör sig fram och tillbaka mellan två punkter.
+0x079817B5 Dessa vareler rör sig slumpvis runtomkring sin startposition.
+0x079EDF5A Dessa fordon står stilla.
+0x079EDF5B Dessa fordon rör sig slumpvis runtomkring sin startposition.
+0x079EDF5C Dessa fordon rör sig fram och tillbaka mellan två punkter.
+0x079EDF5D Dessa fordon följer en annan tilldelad medlem i rollbesättningen.
+
+# Planet Paint
+
+0xB6AFCFC1 Blommor
+0xB6AFCFC2 Molnstil
+0xB6AFCFC0 Marktäckn.
+
+#Goals:
+
+0x07981798 Förhindra att dessa ~ep1_current_cast~ blir förstörda.
+0x0798178C Förhindra att dessa ~ep1_current_cast~ får kontakt med en annan medlem i rollbesättningen.
+0x0798177E Håll dessa ~ep1_current_cast~.
+0x07981789 För dessa ~ep1_current_cast~ till en annan medlem i rollbesättningen.
+0x07981785 Samla in dessa ~ep1_current_cast~.
+0x07981782 Ge dessa ~ep1_current_cast~ till en annan medlem i rollbesättningen.
+0x07981764 Ta dig nära dessa ~ep1_current_cast~.
+0x0798176F Förstör dessa ~ep1_current_cast~.
+0x0798177B Tala med dessa ~ep1_current_cast~.
+0x07981773 Umgås med dessa ~ep1_current_cast~.
+0x07981777 Bli vän med dessa ~ep1_current_cast~ och få dem att gå med i ditt gäng.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF73 Nät
+0x56AFCF75 Tvättsvamp
+0x56AFCF72 Utomjordiskt
+0x56AFCF70 Standard
+0x56AFCF71 Vågigt
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 varelser
+0x07981E93 föremål
+0x07981E92 byggnader
+0x07981E91 fordon
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klicka på en varelse, en byggnad eller ett fordon för att ta bort det från spelet permanent.~br~Om du vill ta bort äventyret permanent från spelet avslutar du äventyret och öppnar Sporepedin (tryck på "B"-tangenten). I Sporepedin letar du upp äventyret du vill ta bort, markerar det och klickar på knappen Förbjud skapelse i det nedre högra hörnet. Då tas äventyret bort, men inte skapelserna i det. Dessa måste du ta bort enskilt.~br~En rapport om skapelsen skickas till Spores kundtjänst.
+
+#Awareness:  
+
+0x07981DE3 Avgör hur långt dessa varelser kan se.
+0x079EDF5E Avgör hur långt dessa fordon kan se.
+
+#Stances:
+
+0x0798179D Dessa varelser attackerar fiendeenheter när de får syn på dem.
+0x079817A1 Dessa varelser varnar innan de anfaller.
+0x079817AD Dessa varelser flyr om de blir anfallna.
+0x079817A9 Dessa varelser försvarar sig bara om de blir anfallna.
+0x079817A5 Dessa varelser distraheras aldrig från sitt tilldelade beteende.
+0x079EDF55 Dessa fordon attackerar fiendeenheter när de får syn på dem.
+0x079EDF57 Dessa fordon distraheras aldrig från sitt tilldelade beteende.
+0x079EDF56 Dessa fordon varnar innan de anfaller.
+0x079EDF58 Dessa fordon försvarar sig bara om de blir anfallna.
+0x079EDF59 Dessa fordon flyr om de blir anfallna.
+
+#Pickup:
+
+0x079817C2 Dessa varelser plockar upp alla verktyg.
+0x079817C5 Dessa varelser plockar upp det tilldelade verktyget.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE71 Claymation
+0x56AFCE7D Shitaake
+0x56AFCE7B Vanliga klippor
+0x56AFCE7A Isklippor
+0x56AFCE7C Lavaklippor
+0x56AFCE72 Gytter
+0x56AFCE73 Korall
+0x56AFCE60 Ingen
+0x56AFCE79 Schweizisk
+0x56AFCE75 Granit
+0x56AFCE76 Organisk
+0x56AFCE78 Sandsten
+0x56AFCE74 Kristall
+0x56AFCE77 Taggar
+
+# posse ui
+
+0x0760B242 Besättning
+
+#mission ending description#
+
+0x0760B241 Slut
+
+0x0760B0F8 Akt ~ep1_current_act~ Beskrivning och musik
+0x075E4C79 Ange måltyp
+0x075E4C78 Drag mål till medlem i rollbesättningen
+0x0760B0F9 Introduktion:
+0x0760B0FB Vid förlust:
+0x0760B0FA Vid vinst:
+
+#Teams:
+
+0x079EDF5F Dessa fordon anfaller aldrig medlemmar i deras lags rollbesättning.
+0x07981E72 Dessa byggnader anfalls av medlemmar i rollbesättningen i deras fienders lag.
+0x07981E71 Dessa varelser anfaller aldrig medlemmar i deras lags rollbesättning.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Akt ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Detta äventyr har en akt utan mål. Spelaren kan inte vinna äventyret om inte akten har ett mål eller det är den sista akten i äventyret. Vill du spara det ändå?
+
+#Give:
+
+0x079817CE Dessa varelser ger ett verktyg till tilldelad medlem i rollbesättningen.
+0x079817C9 Dessa varelser ger ett verktyg till vilken medlem som helst i rollbesättningen.
+

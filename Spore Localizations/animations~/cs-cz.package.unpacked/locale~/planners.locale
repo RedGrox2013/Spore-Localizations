@@ -1,0 +1,205 @@
+﻿# Tribe tool category labels
+
+0x056E8BE4 Jídlo a léčení
+0x056E8BE6 Zbraně
+0x056E8BE5 Nástroje
+
+# Space Legend Text
+
+0x06675642 Legenda kolonie
+0x06675643 Modrá propojení zvyšují výrobu koření kolonie. Zelená propojení zvyšují spokojenost kolonií, červená ji snižují, bílá propojení jsou neutrální.
+
+# air-diplo
+
+0x03000001 Vytvořte nebo si vyberte své obchodní vozidlo!
+0x03000004 Vybrat
+0x03000002 Vytvořit vlastní
+0x03000003 Upravit
+
+# land-military
+
+0x12000003 Upravit
+0x12000002 Vytvořit vlastní
+0x12000001 Vytvořte nebo si vyberte své vojenské vozidlo.
+0x12000004 Vybrat
+
+# sea-economic
+
+0x24000001 Vytvořte nebo si vyberte své obchodní vozidlo.
+0x24000003 Upravit
+0x24000004 Vybrat
+0x24000002 Vytvořit vlastní
+
+# colony-sea
+
+0x33000004 Vybrat
+0x33000003 Upravit
+0x33000001 Vytvořte nebo si vyberte své koloniální vodní vozidlo!
+0x33000002 Vytvořit vlastní
+
+# Common UI
+
+0x40000010 Prodat za
+
+# land-cultural
+
+0x11000001 Vytvořte nebo si vyberte své náboženské vozidlo.
+0x11000004 Vybrat
+0x11000002 Vytvořit vlastní
+0x11000003 Upravit
+
+# colony-land
+
+0x32000004 Vyberte
+0x32000003 Upravit
+0x32000001 Vytvořte nebo si vyberte své koloniální pozemní vozidlo!
+0x32000002 Vytvořte vlastní
+
+# Civ Legend Text
+
+0x06675641 Modrá propojení zvyšují příjem města. Zelená propojení zvyšují spokojenost, červená ji snižují, bílá propojení jsou neutrální.
+0x06675640 Legenda města
+
+# land-economic
+
+0x14000004 Vybrat
+0x14000003 Upravit
+0x14000001 Vytvořte nebo si vyberte své obchodní vozidlo.
+0x14000002 Vytvořit vlastní
+
+# Colony Terraform Value
+
+0x062768F8 ~terraform_level~
+
+# entertainment
+
+0x10000004 Vybrat
+0x10000003 Upravit
+0x10000002 Vytvořit vlastní
+0x10000001 Vytvořte novou zábavní budovu! ~br~Zábavní budovy zvyšují spokojenost obyvatel a tím město chrání před náboženskými útoky.
+
+# sea-diplo
+
+0x23000002 Vytvořit vlastní
+0x23000003 Upravit
+0x23000004 Vybrat
+0x23000001 Vytvořte nebo si vyberte své obchodní vozidlo.
+
+# colony-air
+
+0x34000003 Upravit
+0x34000004 Vybrat
+0x34000002 Vytvořit vlastní
+0x34000001 Vytvořte nebo si vyberte své koloniální letecké vozidlo!
+
+# harvester
+
+0xA0000002 Navrhnout nový kombajn.
+0xA0000004 Vybrat kombajn z katalogu
+0xA0000003 Upravit váš kombajn.
+0xA0000001 Navrhněte si svůj kombajn!
+
+#########################################################
+# Naming Prompts
+# City naming
+
+0x40000001 Název města
+0x40000002 Název kolonie
+
+#####################
+# Tooltips for the vehicle swatch
+
+0x04A505A5 Označte
+0x04A505A4 Upravit
+0x04A505A3 Vytvořte si nové vozidlo
+0x04A505A2 Vytvořte si vlastní vozidlo
+
+# colony vehicles
+
+0x35000002 Vytvořit nový osadnický stroj.
+0x35000001 Jak kolonie narůstají, začínají si samy organizovat nákup vozidel.
+
+# city hall
+
+0x30000002 Vytvořit vlastní
+0x30000003 Upravit
+0x30000004 Vybrat
+
+# air-military
+
+0x02000003 Upravit
+0x02000002 Vytvořit vlastní
+0x02000004 Vybrat
+0x02000001 Vytvořte nebo si vyberte své vojenské vozidlo!
+
+# Tooltips for the building swatch
+
+0x04A50266 Navrhni si svou budovu (TEMP)
+0x04A50267 Navrhnout novou budovu
+0x04A50268 Upravit tuto budovu
+0x04A50269 Vybrat budovu z katalogu
+
+# Income text
+
+0x0653EA92 +~city_income~/min
+0x06258EB9 Příjem: +~civ_income~/min
+0x068C71FB +~city_income~/hod
+
+# air-cultural
+
+0x01000001 Vytvořte nebo si vyberte své náboženské vozidlo!
+0x01000003 Upravit
+0x01000002 Vytvořit vlastní
+0x01000004 Vybrat
+
+# land-diplo
+
+0x13000004 Vybrat
+0x13000003 Upravit
+0x13000001 Vytvořte nebo si vyberte své obchodní vozidlo.
+0x13000002 Vytvořit vlastní
+
+# air-economic
+
+0x04000003 Upravit
+0x04000004 Vybrat
+0x04000001 Vytvořte nebo si vyberte své obchodní vozidlo!
+0x04000002 Vytvořit vlastní
+
+# sea-cultural
+
+0x21000002 Vytvořit vlastní
+0x21000001 Vytvořte nebo si vyberte své náboženské vozidlo.
+0x21000003 Upravit
+0x21000004 Vybrat
+
+# sea-military
+
+0x22000002 Vytvořte vlastní
+0x22000001 Vytvořte nebo si vyberte své vojenské vozidlo.
+0x22000003 Upravit
+0x22000004 Vyberte
+
+# factory
+
+0x20000001 Navrhni si novou továrnu! ~br~Zvyšuje příjmy, ale snižuje spokojenost.
+0x20000003 Upravit
+0x20000002 Vytvořit vlastní
+0x20000004 Vybrat
+
+# houses
+
+0x00000001 Navrhněte nový dům!  ~br~Zvýšíte tak počet obyvatel města a kapacitu vozidel.
+0x00000003 Upravit
+0x00000004 Vybrat
+0x00000002 Vytvořit vlastní
+
+# ufo
+
+0x31000005 Pro vynalezení vesmírného plavidla je třeba získat kontrolu nad všemi 12 městy na planetě.
+0x31000002 Vytvořit vlastní
+0x31000003 Upravit
+0x31000004 Vybrat
+0x31000001 Navrhněte si svoji kosmickou loď!
+0x31000006 Kosmické lodě jsou skvělé na létání po galaxii.
+

@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Towarzyskie
+0x01020007 Odkrywanie
+0x01020003 Bez gatunku
+0x01020004 Atak
+0x01020005 Obrona
+0x0102000A Zbieranie
+0x01020009 Historia
+0x01020008 Zadanie
+0x0102000D Szablon
+0x0102000C Planety
+0x0102000B Zagadka
+
+#######################################
+# Filter Names
+
+0x01020001 Przygody
+0x01020002 Grywalne przygody
+0x07200107 Kapitan
+0x07200108 Moi kapitanowie
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 Liczba gier: ~ep1_adventure_stats_num_plays~
+
+### Difficulty Descriptions
+
+0x07D86C49 Trudność: ~ep1_adventure_difficulty~
+0x07D86C6A Bardzo łatwa
+0x07D86C87 Umiarkowanie trudna
+0x07D86C7C Łatwa
+0x07D86CA8 Bardzo trudna
+0x07D86C9F Trudna
+
+# Unpublish
+
+0x07D9CFD7 Czy chcesz przestać udostępniać swojego stwora? Zostanie on usunięty z serwera.
+0x07D9CFB6 Przerwij udostępnianie
+
+#######################################
+# Misc
+
+0x02000001 Przedmiot jest w tym momencie edytowany. Nie możesz go usunąć.
+0x02000002 Wybrane przedmioty: ~num_selected_items~
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Cele
+
+# Audio filters
+
+0x01021007 Tłum
+0x01021006 Dźwięk
+0x01021008 Otoczenie
+0x0102100A Muzyka
+0x01021009 Mechaniczne
+0x0102100C Jednorazowe
+0x0102100B Nuta
+
+### Ratings
+
+0xC7647889 Ocena
+
+# Download adventure
+
+0x02200002 Czy chcesz otworzyć tę przygodę?
+0x02200001 Pobierz przygodę
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ PKT.
+
+#######################################
+# Category Names
+
+0x00000001 Cele przygody
+
+# Fixed object filters
+
+0x01021004 Skały
+0x01021003 Obiekty rozgrywki
+0x01021002 Obiekty ręczne
+0x01021005 Ozdoby statyczne
+0x01021001 Obiekty nieruchome
+
+# Effects filters
+
+0x01022003 Efekty naturalne
+0x01022002 Efekty świetlne
+0x01022006 Efekty jednorazowe
+0x01022005 Efekty nieprzewidziane
+0x01022004 Efekty nadnaturalne
+0x01022001 Efekty
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Wybierz planetę
+0x07B24B83 Aby móc obejrzeć ranking i ocenę tej przygody, musisz się najpierw zalogować.
+0x079EDCD5 Stwórz lub wybierz swojego kapitana
+0x072925B0 Wybierz przygodę
+0x072000E3 Stwórz lub wybierz kapitana
+0x072925BB Wybierz jeden lub więcej efektów
+0x072925BA Wybierz jeden lub więcej statków kosmicznych
+0x072925B9 Wybierz jeden lub więcej pojazdów
+0x07B67C69 Wybierz jeden lub więcej obiektów gry
+0x072925BD Wybierz obiekt
+0x072925BC Wybierz jeden lub więcej obiektów dźwiękowych
+0x072925B8 Wybierz jeden lub więcej budynków
+0x072925B4 Wybierz obiekt dźwiękowy
+0x072925B3 Wybierz jeden lub więcej obiektów
+0x072925B2 Stwórz lub wybierz członka obsady
+0x072925B7 Wybierz jednego lub więcej stworów
+0x072925B6 Wybierz obsadę przygody
+0x072925B5 Wybierz florę
+

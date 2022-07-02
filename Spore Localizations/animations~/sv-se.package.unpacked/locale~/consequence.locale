@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x0001003F Svart moln
+0x00010040 Den här förmågan stänger underhållningsbyggnader och försvarstorn, vilket orsakar olycka.
+
+# CLG_Plant
+
+0x00000042 Växtätare
+0x00000043 Växtätande celler har en diet som består av växtarter.
+
+# CRG_CLG_Plant
+
+0x00010022 Sirensång
+0x00010023 Använd den här förmågan för att tillfälligt förhäxa alla varelser i omgivningen. Det gör det lättare för dig att lära känna dem.
+
+# SPG_CRG_Mix
+
+0x0001004E Den här förmågan gör rymdresor mellan stjärnorna snabbare.
+0x0001004D Fartdåre
+
+# CVG_CRG_Attack
+
+0x00010037 Mäktig bomb
+0x00010038 Denna förmåga skadar alla byggnader och fordon inom sprängradien.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatiskt upplopp
+0x0001006C Omvänder alla städer
+
+# SPG_Wanderer_Tool
+
+0x00010068 Randomizes the species on a planet. NOT IN USE
+0x00010067 Species Shuffler NOT IN USE
+
+# CVG_Religious
+
+0x00000055 Religiösa
+0x00000056 Religiösa civilisationer använder ordets och tankens kraft för att konvertera andra nationer till deras levnadssätt.
+
+# SPG_TRG_Social
+
+0x00010052 Den här förmågan förbättrar dina inledande relationer med främmande raser.
+0x00010051 Vänlig hälsning
+
+# TRG_Mix
+
+0x00000050 Flitiga stammar fångar ögonblicket och attackerar eller bildar allianser efter behov. De utgör bra allierade, men passa dig.
+0x0000004F Flitiga
+
+# CVG_CRG_Mix
+
+0x0001003C Den här förmågan gör att fiendefordon inom bombens sprängradie anfaller varandra.
+0x0001003B Mutbomb
+
+# CVG_TRG_Mix
+
+0x00010042 Med den här förmågan kan du köpa ut en stad snabbare.
+0x00010041 Annonskampanj
+
+# SPG_CRG_Social
+
+0x0001004C Den här förmågan gör alla dina kolonier lyckliga och minskar sannolikheten för uppror.
+0x0001004B Angenäm prestation
+
+# SPG_CVG_Military
+
+0x00010056 Den här förmågan fungerar som ett pirat-motmedel och minskar sannolikheten för räder.
+0x00010055 Pirat-puts-väck
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Köttätare
+0x00000041 Köttätande celler har en diet som består av kött.
+
+# TRG_CLG_Mix
+
+0x00010029 Flygande fisk
+0x0001002A Den här förmågan låter hövdingen framkalla en orm som skrämmer fisken från havet.
+
+# SPG_TRG_Attack
+
+0x00010050 Den här förmågan ger dig rabatter all stridsutrustning.
+0x0001004F Vapenhandlare
+
+##########################
+# Super Power names & descriptions
+
+0x067775D9 Tillgänglig i stamfasen
+0x067775B1 Tillgänglig i varelsefasen
+0x067775FA Tillgänglig i rymdfasen
+0x067775E7 Tillgänglig i civilisationsfasen
+
+# SPG_Trader
+
+0x00000062 Handlare är ute efter förtjänster. Deras enda lojalitet är gentemot den allsmäktiga Sporebucken.
+0x00000061 Handlare
+
+# SPG_Bard
+
+0x00000057 Barder
+0x00000058 Barder är de sociala, utåtriktade underhållarna i kosmos. Galaxen är deras personliga lekplats.
+
+# SPG_Warrior_Tool
+
+0x00010066 Öppnar en mystisk piratportal som leder till kaos på planeten.
+0x00010065 Plundringspartaj
+
+# SPG_Diplomat
+
+0x0000005D Diplomater
+0x0000005E Diplomater är förhandlare och problemlösare. Fred uppnås i galaxen enbart genom öppen kommunikation raserna emellan.
+
+# CVG_Economic
+
+0x00000053 Ekonomiska
+0x00000054 Ekonomiska civilisationer använder pengar och handelsvägar för att påverka andra nationer. De bildar allianser men oftast är villkoren till deras fördel.
+
+# CLG2_Discoverer
+
+0x00000103 Beskrivning av upptäckare
+0x00000102 Upptäckare
+
+# SPG_Knight_Tool
+
+0x00010069 Kalla på Mini-Du
+0x0001006A Kallar på en miniklon av ditt rymdskepp som hjälp i dina äventyr.
+
+# CLG2_Killer
+
+0x00000100 Mördare
+0x00000101 Beskrivning av mördare
+
+# SPG_Warrior
+
+0x00000066 Krigare tar det de vill ha utan att fråga om lov. Galaxen är ett pris som den starkaste tar hem.
+0x00000065 Krigare
+
+# SPG_Wanderer
+
+0x00000068 Vandrare vill prova på lite av varje. Galaxen är stor och de vill uppleva alltihop.
+0x00000067 Vandrare
+
+# CVG_CRG_Social
+
+0x00010039 Diplo-dervisch
+0x0001003A Den här förmågan förbättrar dina relationer med en vald nation.
+
+# CRG_Attack
+
+0x00000046 Rovdjur
+0x00000047 Rovdjur spenderar sina liv i jakt på byten. De utrotar hellre en hel art än att "dansa" eller "charma".
+
+# TRG_CRG_Mix
+
+0x0001002F Djurtämjare
+0x00010030 Med denna förmåga kan hövdingen förtrolla djur och få dem att hjälpa dig umgås eller strida.
+
+# CVG_CLG_Meat
+
+0x00010032 Med denna förmåga blir dina fordon osårbara under en begränsad tid.
+0x00010031 Osårbarhet
+
+# TRG_CLG_Meat
+
+0x00020025 Fällor
+0x00020026 Hövdingen gillrar fällor som kan fånga vilda djur.
+
+# SPG_CLG_Meat
+
+0x00010043 Krafthetsare
+0x00010044 Den här förmågan ökar effektiviteten för alla vapen.
+
+# SPG_CLG_Mix
+
+0x00010048 Den här förmågan ger dig en rabatt all standardutrustning.
+0x00010047 Fridsam fixare
+
+# SPG_TRG_Mix
+
+0x00010053 Kolonigalen
+0x00010054 Den här förmågan ger dig en rabatt all koloniseringsutrustning.
+
+# Zero
+
+0x06941DC3 År
+0x06941DC2 Tusen
+0x06941DC0 Miljarder
+0x06941DC1 Miljoner
+
+# SPG_CVG_Religious
+
+0x0002005A Denna förmåga minskar förekomsten av biologiska katastrofer i alla dina kolonier.
+0x00020059 Grön ledare
+
+# CLG_Mix
+
+0x00000045 Allätande celler äter all tillgänglig typ av föda.
+0x00000044 Allätare
+
+# SPG_Bard_Tool
+
+0x00010058 Används för att lugna främmande raser och tillfälligt förbättra era relationer.
+0x00010057 Lugnande sång
+
+# CRG_Social
+
+0x00000147 Sociala
+0x00000048 Sociala varelser letar konstant efter nya vänner och allierade. Att möta en ny ras är dagens höjdpunkt för dem.
+
+# CRG_Mix
+
+0x00000049 Anpassningsbar
+0x0000004A Anpassningsbara varelser har många vänner och många fiender. De gör sina val baserat på ögonblickets situation.
+
+# SPG_CLG_Plant
+
+0x00010045 Social kompetens
+0x00010046 Den här förmågan ger dig en omedelbar förhandlingsrabatt på alla sociala verktyg.
+
+# CRG_CLG_Meat
+
+0x00010020 Rasande rytande
+0x00010021 Använd den här förmågan för att få alla varelser i omgivningen att fly i skräck.
+
+# CVG_CLG_Plant
+
+0x00010033 Helande aura
+0x00010034 Denna förmåga reparerar alla dina fordon och byggnader.
+
+# SPG_Shaman
+
+0x00000063 Shamaner
+0x00000064 Shamaner förstår att alla livsformer har ett gemensamt band. Hela galaxen existerar inom var och en av oss.
+
+# SPG_Ecologist
+
+0x0000005A Ekologer är naturens beskyddare. Varelser som försöker utnyttja och förvrida galaxen måste utrotas.
+0x00000059 Ekologer
+
+# CVG_TRG_Attack
+
+0x0001003D Prylbomb
+0x0001003E Den här förmågan skadar byggnader och fordon och kan hjälpa till att erövra städer.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safaridammsugare
+0x0001005A Fyller omedelbart ditt lastrum med alla arter från en planet.
+
+# SPG_Zealot
+
+0x0000005C Fanatiker är övertygade om att deras tro är den enda sanningen som räknas. De som inte känner likadant är inte värdiga att existera i galaxen.
+0x0000005B Fanatiker
+
+# SPG_Trader_Tool
+
+0x00010061 Kontanttillförsel
+0x00010062 Gör handelssystem omedelbart tillgängliga för utköp.
+
+# SPG_CRG_Attack
+
+0x0001004A Den här förmågan ökar rymdskeppets totala hälsa.
+0x00010049 Praktexemplar
+
+# CRG_CLG_Mix
+
+0x00010024 Samla flock
+0x00010025 Använd den här förmågan för att samla ihop en flock underhuggare som hjälper dig att socialisera eller slåss.
+
+# TRG_Attack
+
+0x0000004B Aggressiv
+0x0000004C Aggressiva stammar försöker utplåna sina konkurrenter. De attackerar skoningslöst och roffar åt sig alla resurser själva.
+
+# SPG_Knight
+
+0x0000006A Knektar är ädla krigare som slåss för det rätta, inte för personlig vinning. Fred uppnås i galaxen först när ondskan har förgjorts.
+0x00000069 Riddare
+
+# SPG_Scientist
+
+0x00000060 Vetenskapsmän är logiska och beräknande. Galaxen finns till för att studeras och förstås.
+0x0000005F Vetenskapsmän
+
+# SPG_Shaman_Tool
+
+0x00010063 Returbiljett
+0x00010064 Återför dig till ditt hemsystem i ett steg.
+
+# SPG_Zealot_Tool
+
+0x0001005B Fanatiskt ursinne
+0x0001005C Omvänder system som ägs av främmande raser till ditt imperium.
+
+# SPG_CVG_Economic
+
+0x00020058 Denna förmåga ökar kryddproduktionen i alla dina kolonier.
+0x00020057 Kryddkung
+
+# CVG_TRG_MixWin
+
+0x0001006D Global sammanslagning
+0x0001006E Köper alla städer
+
+# Singular
+
+0x55496324 År
+0x55496321 Miljard
+0x55496323 Tusen
+0x55496322 Miljon
+
+# TRG_CLG_Plant
+
+0x00010028 Den här förmågan låter hövdingen framkalla en storm som förnyar frukterna och låter dem falla från träden.
+0x00010027 Uppfriskande storm
+
+# CVG_TRG_AttackWin
+
+0x0001006F ICBM
+0x00010070 Förstör alla städer
+
+# CVG_Military
+
+0x00000051 Militära
+0x00000052 Militära civilisationer litar på vapen och råstyrka. De använder alla tillgängliga resurser för att förgöra andra nationer.
+
+# TRG_CRG_Social
+
+0x0001002D Fyrverkerier
+0x0001002E Med denna förmåga kan hövdingen skjuta upp fyrverkerier som förbättrar relationerna med grannarna.
+
+# TRG_Social
+
+0x0000004D Vänliga
+0x0000004E Vänliga stammar förstår vikten av samarbete. De bildar allianser för att fördela resurser och framgång med andra stammar.
+
+# Plural
+
+0x069417A0 Tusen
+0x069417A1 År
+0x0694179E Miljarder
+0x0694179F Miljoner
+
+# CVG_CLG_Mix
+
+0x00010035 Statisk bomb
+0x00010036 Denna förmåga slår tillfälligt ut alla fordon, försvarstorn och byggnader.
+
+# TRG_CRG_Attack
+
+0x0001002B Brandbomber
+0x0001002C Med denna förmåga kan hövdingen kasta brandbomber som skadar motståndare och byggnader.
+
+# SPG_Diplomat_Tool
+
+0x0001005D Statisk Klang
+0x0001005E Immobiliserar alla fiendens skepp och försvarstorn på planeten.
+
+# SPG_Scientist_Tool
+
+0x00010060 Jämnar kulturer och byggnader med marken.
+0x0001005F Gravitationsvåg
+
+# Timeline GUIDS
+
+0x55496320 Historia
+

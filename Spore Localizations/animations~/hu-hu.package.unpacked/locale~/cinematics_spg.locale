@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x06304FA8 Rakéták és csillagközi utazásra alkalmas hajtómű, és a vezérlőrendszerbe egy ismeretlen csillag koordinátáit programozták. A roncs sérülései mintha harcból származnának. A hajót bizonyára egy másik bolygóról küldték, hogy segítséget hozzon.
+0x00000004 Valami megjelent a hajó radarján...
+0x0000001C Elkéstünk! Csupán ezek a romok maradtak a hajót vezető idegenek kolóniájából. A romok átvizsgálása után talán többet is megtudhatunk arról, mi történt itt.
+0x0000001B Idegenek! Életjel viszont nincs. Mintha a haláluk előtt felvázoltak volna valamilyen rejtjeles térképet. Várj! A roncs transzfersugarat bocsát ki! Néhány tárgy a fedélzetre került!
+0x0000001D A letapogatás nem hozott eredményt, de úgy tűnik, kiváltottunk valamiféle reakciót… A radar aktivitást jelez.
+0x0000001A Egy lezuhant űrhajó! És különös rádiójeleket bocsát ki. Repülj oda és használd a Letapogatót a baleset helyszínének megvizsgálására!
+0x00000028 A letapogatás bizonyára aktiválta a kolónia védelmét. Ezek a robotok nem tűnnek valami barátságosnak… Várj… Beérkező üzenet…
+0x0663A00A A roncs csillagközi hajtóműve reagál egy közeli csillagról érkező jelre, melynek koordinátái egyeznek a memóriájában tárolttal. Ez lehet az otthonuk, és talán még mindig szükségük van segítségre…
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B778C ~br~~br~Üdvözlet, barátom! ~br~~br~Messziről érkeztél, és utad nehéz volt.~br~~br~Az úton sok, különösnek látszó testvéreddel találkozhattál.~br~~br~~br~~br~Csak kevesek jutottak el idáig, a legjobbak! ~br~~br~Hősies erőfeszítéseid azt mutatják, hogy méltó vagy a jutalomra.~br~~br~Elérheted létezésed következő állomását! ~br~~br~~br~A te univerzumod csak az egyik a sok közül… ~br~~br~Számtalan világ van még, amelyet nem is láttál.~br~~br~~br~Kreativitásod nem maradt titokban; ~br~~br~mi több, még ezek az ismeretlen világok is felfigyeltek rájuk,~br~~br~~br~ahogyan a te világod is gazdagodott általuk.~br~~br~~br~Ideje, hogy csatlakozz hozzánk….~br~~br~~br~Csatlakozz! ~br~~br~~br~…Muhahahaha!!~br~~br~~br~Csak vicceltem. Nem kell félni!~br~~br~Tényleg. Jó, nagyon jó idők jönnek, ~br~~br~igazán jók. ~br~Néhányan közületek feltehetitek a kérdést, hogy kié ez titokzatos hang, ~br~ki oly nagytudású és hatalmas?~br~~br~~br~~br~~br~Nos, a kérdés jó...~br~
+0x067B7833 ~br~~br~A nevem Steve.~br~~br~Hamarosan hatalmat kaptok.~br~~br~Bizony!~br~~br~A HATALMAT!~br~~br~Életet teremthettek és terjeszthetitek azt az univerzumban, értelmet és civilizációt vihettek más világokba. ~br~~br~~br~~br~Használjátok bölcsen! ~br~Ha jól sáfárkodtok vele, egy napon eggyé válhatunk…~br~~br~~br~~br~…Persze… nem úgy.~br~Csak metaforikus értelemben.~br~~br~~br~~br~Óh… még valami. ~br~~br~Majdnem elfogytak az üdülési jogok az egyik nagyobb csillagunkra, azaz az egyik különleges bolygójára.~br~~br~~br~~br~Ha a közelben jártok, beugorhattok egy kis reggelire és csevejre.~br~~br~~br~~br~A Nap utáni harmadik aszteroidát keressétek!~br~
+
+# Terraform
+
+0x05FA8A51 Gratulálunk! Terraformálással és gyarmatosítással kiépítetted saját birodalmad. A kolóniáidról származó fűszerrel kereskedhetsz más fajokkal.
+
+################
+
+0x0000002C A ~ufo_name~ a súlyos sérülések következtében megsemmisült. A klónozási technológiában elért eredményeknek köszönhetően nem haltál meg. Ehelyett visszatérsz az otthonvilágodra, ahol már vár egy új űrhajó.
+0x00000020 A ~planet_name~ bolygó jelöltet ki a Vadrezervátum helyéül. Összegyűjthetsz ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ állatot, és biztonságosan benépesítheted velük a bolygót.
+0x00000030 Ez ellenséges terület. Ez a faj folytatni fogja a támadásokat, amíg a területén tartózkodsz. Döntened kell. Menekülés, harc vagy béke. Mi legyen?
+0x00000014 Lehet, hogy ez egy grox kolónia? Legendás érzéketlenségük az egész galaxisban ismert. Óvatosan!
+0x0000002F A területet a csillagrendszerben élő faj felügyeli. Jelenlétedet a körzetükben agresszióként értelmezik.
+0x00000007 Drake egyenlete nem hazudott… egy élő, idegen faj. Nem vagyunk egyedül! Úgy tűnik, követet küldtek a köszöntésedre. Talán beszélned kellene velük, nyisd meg a kommunikációs panelt.
+0x05B1568D Űrkalózok! Ezek a fickók gondot jelenthetnek, érdemes lenne megközelítened a bolygót és elüldöznöd őket.
+0x05F776D6 Ahogy megközelíted a galaxis középpontját, egyre nehezebb navigálni a sűrűn elhelyezkedő csillahalmazok gravitációs kútjai közt. Az utazási távolságod lerövidül a nagyobb pontosság elérése érdekében.
+0x05B1CB68 Szokatlan jelmintát érzékelsz erről a bolygóról. Menj oda és ellenőrizd!
+0x05F9E801 Most, hogy létrehoztál egy kereskedelmi útvonalat, automatikusan útjára indítod a fűszerszállítmányokat a birodalmak között. Ez a társulás kikövezi az utat a rendszer felvásárlása előtt.
+0x05B1A752 Rajtaütés! A kalózok hamis jeleket adtak, hogy csapdába csaljanak. Készülj a harcra!
+0x05FA2A28 Cselekedeteiddel hírnevet vívtál ki magadnak ebben a birodalomban. Nyisd meg a kommunikációt, és használd diplomáciai szakértelmedet, hogy szövetséget ajánlj nekik.
+0x063BB6EE Gratulálunk elérted a Legendás címet!
+0x063BB6FA Gratulálunk! Elérted a legmagasabb elérhető szintet, a Mindenható titulust!
+0x05B15258 SETI készüléked különös rádiójeleket észlelt erről a csillagról. Menj oda és ellenőrizd!
+0x063ABD3D Gratulálunk, megszolgáltad a kitüntetést és a kapitányi rangot!
+0x064E8373 Építettünk neked egy új hajót, ezúttal próbáld meg nem összetörni!
+0x063BB6D6 Gratulálunk, sorhajókapitányi rangot szereztél! Szövetséges flottádban így még egy hajónak van hely.
+0x05FA70DA Ideje háborúzni! Fegyvereiddel megsemmisítheted a bolygó összes kolóniáját, hogy kikényszerítsd a kapitulációt, és aztán dönthess az eltörlésükről vagy a fogságba ejtésükről.
+0x063BB6D0 Gratulálunk, parancsnoki rangot szereztél!
+0x0000000F ~ufo_name~ űrhajód olyan súlyos sérüléseket szenvedett, hogy megsemmisült.
+0x05FA8A4E Kolóniát bármilyen világon lehet létesíteni, a kopár holdaktól kezdve a buja, 3-as terraszintű oázisokig. A gyümölcsöző kolóniák fűszert bányásznak, amelyet el lehet adni.
+0x064BD3E4 A bolygón nem észleltél semmilyen objektumot. Valami itt nincs rendben…
+0x060C72DC Fűszert gyűjtöttél! A fűszer értékes fizetőeszköz. Gyűjtsd össze a kolóniáidról és otthonvilágodról minden alkalommal, amikor arra jársz.
+0x0000002E Beléptél a ~race~ területére. A kapcsolatotok nem valami jó, ezért ezt ellenséges lépésnek veszik, és meg fognak támadni.
+0x00000001 Felszállás! Sikeresen kifejlesztettél egy olyan hajót, amely képes az űrutazásra! Hív az ég, vár a kozmosz, az univerzum csak egy karnyújtásnyira van. Persze előbb meg kéne tanulni repülni ezzel a géppel…
+0x0000002B Felfedeztél egy kietlen bolygót. Ezek a planéták képesek fenntartani egy kisebb kolóniát, vagy fejlesztheted a Terraformáltsági szintjét (T-szint), és virágzó űrkikötőt hozhatsz létre rajta a birodalmad számára.
+0x00000029 Felfedeztél egy vad bolygót, rengeteg lény és növény várja, hogy hirdesse az életet más planétákon. A vad bolygók ezenkívül tobzódnak a fűszerben, és képesek ellátni a kolóniákat.
+0x05FA8A4F Gratulálunk! Kiépítetted saját birodalmad. Minden kolónia termelékenysége a méretétől függ, a méretet pedig a bolygó terraszintje határozza meg. Fektess be a terraformálásba, azután építs kolóniákat és épületeket a legnagyobb haszon érdekében.
+0x0000000B A bolygó ökoszisztémája veszélyben van. Öld meg a beteg állatokat, mielőtt megfertőzik a többi fajt, különben a bekövetkező dominóeffektus összeomlaszthatja a teljes élelemhálót.
+0x05FA8A4D A zöld orbitális pályán fekvő bolygókat könnyebb terraformálni és kolonizálni, mint a vörösöket vagy a kékeket.
+0x00000010 A klónozásban és a tudatátvitelben elért fejlődésnek köszönhetően nem haltál meg. Ehelyett visszatértél otthonvilágodra, ahol birodalmad új ~ufo_name~ hajót épít számodra.
+0x063BB6DA Gratulálunk, admirális lettél!
+0x063BB6F2 Gratulálunk, megkaptad a Nagyhatalmú címet!
+0x063BB6F6 Gratulálunk, megkaptad az exkluzív Legfelsőbb Lény címet!
+0x063BB6DF Gratulálunk, megkaptad az Ünnepelt címet! Előléptetésed azt jelenti, hogy most már nagyobb szövetséges flottát is vezethetsz.
+0x063BB6E3 Gratulálunk, megkaptad a Híres-Neves címet!
+0x063BB6E8 Gratulálunk, megkaptad a Nagyságos címet! Így már nagyobb szövetséges flottát vezethetsz!
+0x0601FE99 A ~ufo_name~ elpusztítása után szövetségeseid visszatértek saját rendszereikbe, mivel neked is új hajót kell szerezned. Flottád újjáépítéséhez látogasd meg szövetségeseidet, és fogadd fel őket újra.
+
+# Uplift Game
+
+0x00000022 A monolit segít a bolygó fejlődésében... Gyere vissza később, és nézd meg, mi történt!
+
+#System Capture
+
+0x06610F0D Gratulálunk! Diplomáciai módszerekkel erős kereskedelmi szövetséget hoztál létre, így kialkudhattál egy kedvező szerződést, és felvásárolhattad a rendszerüket.
+0x06610F0C Gratulálunk! Katonai úton eltörölted ellenségeidet, és elfoglaltad rendszerüket.
+0x06610F0B Gratulálunk! Katonai úton eltörölted ellenségeidet, és elfoglaltad rendszerüket.
+0x06610F0E Gratulálunk! Diplomáciai módszerekkel erős kereskedelmi szövetséget hoztál létre, így kialkudhattál egy kedvező szerződést, és felvásárolhattad a rendszerüket.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Jutalmul megkaptad az Élet pálcáját!
+
+# Rares
+
+0x0000000C A hajó radarja érdekes objektumot észlelt a bolygón!
+0x0000001E A hajó radarja egyedi jelet fogott, ami semmi korábban észlelthez nem hasonlít.
+0x0000000D A galaxis tele van ritka tárgyakkal, szobrokkal és fosszíliákkal. És az egyedi leletek némelyike itt található! Gyűjtsd be és add el, ha sok spóradolcsira akarsz szert tenni, de ha a teljes készletet sikerül megszerezned, még gazdagabb lehetsz.
+0x0643D130 Egy bolygószobrász eszköz! Ezzel az eszközzel egyedi bolygókat hozhatsz létre.
+

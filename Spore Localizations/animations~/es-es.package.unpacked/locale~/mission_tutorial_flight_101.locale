@@ -1,0 +1,94 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000075 ...
+0x00000021 Entonces, ¿qué quieres que haga a continuación?
+0x0000001A Flight101_EradicateAnimals Rechazar
+0x00000046 Has conseguido escanear la especie.
+0x00000065 Flight101_Scan Cancelar
+0x0000000F Buen trabajo, cadete. Volando así, llegarás a capitán en un santiamén.
+0x00000005 Ya sé cómo pilotar mi nave. Esto está trillado.
+0x00000051 Flight101_Scan Rechazar
+0x00000018 Flight101_FetchAnimal Rechazar
+0x0000002B Abre tus comunicaciones.
+0x00000047 Lo has conseguido. Ya tenemos ~mission_item~.
+0x00000061 Sí. ¿Qué es lo siguiente?
+0x0000000D Vale. Cuenta conmigo.
+0x0000002E Abre tus comunicaciones.
+0x00000088 Has conseguido visitar ~mission_explore_num_cities_to_visit~ ciudades.
+0x00000045 Has conseguido visitar ~mission_explore_num_cities_to_visit~ ciudades.
+0x00000020 Parece que has capturado al espécimen correcto. Necesitamos que lo deposites en una de nuestras ciudades.~p~Selecciona qué objeto quieres depositar en el panel de carga y deposítalo en una ciudad.~p~Asegúrate de que lo teletransportas correctamente o tendrás que capturar otro espécimen y limpiar las manchas.
+0x0000004A Escaneo finalizado. Abre tus comunicaciones.
+0x0000001E Flight101_EradicateAnimals Cancelar
+0x00000019 ¡Espléndido! Nuestros científicos arden en deseos de analizar esos datos.
+0x0000001D Flight101_FetchAnimal Cancelar
+0x00000078 La misión ha fracasado. Se han eliminado demasiados ejemplares de manera indebida.
+0x00000036 Has conseguido escanear la especie.
+0x0000002D Abre tus comunicaciones.
+0x0000004D Volveré pronto.
+0x00000042 Lo has conseguido: ~mission_item~ a la saca. Abre tus comunicaciones.
+0x0000002C Abre tus comunicaciones.
+0x00000071 Sí.
+0x00000024 Correcto. Ahora lo veo. Gracias.
+0x00000052 Me niego a que subas esa cosa a bordo. ¡Ni hablar!
+0x0000008F Recepción de ~mission_item~ para examen. Abre tus comunicaciones.
+0x00000076 Lo siento. Otra vez, ¿cuál es la misión?
+0x0000004F Has dejado el ejemplar de ~mission_item~ lejos de cualquier ciudad. Recógelo y deposítalo dentro del recinto amurallado de la ciudad.
+0x0000003D Correcto. Ahora lo veo. Gracias.
+0x00000022 Entendido.
+0x00000010 Excelente trabajo, cadete. Nos has proporcionado un espécimen excelente para nuestras investigaciones. Como digo siempre: explora dos veces y abduce una.
+0x00000040 Has escaneado la nueva especie. Abre tus comunicaciones.
+0x00000089 Has conseguido hacerte con el animal ~mission_item~.
+0x00000077 Por favor, erradica únicamente a las criaturas que brillan. Gracias.
+0x0000007B No captures animales marcados para el sacrificio.
+0x0000004E Has conseguido abducir al ejemplar de ~mission_item~. Abre tus comunicaciones.
+0x0000000A ¡Así se habla!~p~¡Todas las ciudades del planeta ~race_homeworld~ han lanzado un orbe gigante para celebrar nuestra primera nave espacial! En serio... ¡no deberías perdértelo!~p~Coge tu nave y date un paseo en torno al planeta y visita ~mission_explore_num_cities_to_visit~ de nuestras ciudades. ¡Debes atravesar los orbes para romperlos!~p~Una vez hayas acabado, te daremos más instrucciones.~p~Buena suerte, e intenta no hacerle ningún arañazo.
+0x0000000B Utiliza el rayo abductor, activado desde el panel de carga, para capturar a esta criatura y poder investigarla con mayor detalle.~p~Asegúrate de mantener la herramienta activada el tiempo suficiente, hasta que la criatura esté segura en la bodega de la nave.~p~Si apagas el rayo demasiado pronto, antes de que la carga esté segura, puede que las consecuencias no fueran las más deseables para la víctima... um, quiero decir, para el espécimen.
+0x00000006 ¡Cáspita! La información que obtuviste con el escáner nos resultó muy valiosa.~p~Hemos llegado a la conclusión de que debemos examinar más de cerca a esa especie.~p~Tu nave está equipada con un rayo abductor, que se activa desde el panel de carga. Utiliza esa herramienta para obtener un espécimen y traérnoslo.
+0x00000043 Has logrado erradicar a los ejemplares enfermos de la especie ~mission_target_animal_species~. Abre tus comunicaciones.
+0x00000031 Usa el miniláser del grupo de armas.
+0x00000011 ¡Un trabajo digno de encomio! Tienes lo que hay que tener. Te has ganado el respeto y la confianza de tu planeta. Queremos que pilotes esta nave y guíes a nuestra especie en su progreso hacia la exploración galáctica y la gloria.~p~Te has ganado la medalla y el título de capitán.~p~Nuestros científicos han desarrollado un impulsor interplanetario para tu nave, pero primero debes instalarlo, capitán.
+0x00000027 Abduce a un animal ~mission_item~.
+0x0000001C En ese caso, creo que estamos en presencia de nuestro nuevo capitán. ¿Qué te parece enfrentarte a misiones más excitantes?
+0x00000041 La criatura en cuestión exhibe la curiosa característica de dejar un rastro brillante.~p~Tu nave está equipada con un radar que puedes activar y desactivar en el panel de herramientas principales. Éste te permitirá encontrar tus objetivos y otros objetos de interés cuando estés cerca de la superficie de un planeta. La señal sonora del radar se acelera cuando estás más cerca de tu objetivo.~p~Selecciona la herramienta de escaneo en el panel de herramientas principales.
+0x0000004B Erradicados con éxito los ejemplares enfermos de la especie ~mission_target_animal_species~. Abre tus comunicaciones.
+0x0000003B Abduce a un espécimen y llévalo a una ciudad para que podamos estudiarlo.~p~Con el rayo abductor seleccionado, haz clic izquierdo sobre la criatura elegida y no sueltes el botón. El rayo abductor se encuentra en la zona de carga de los grupos de herramientas. Sigue utilizándolo hasta que la criatura esté en el compartimiento de carga.~p~Una vez obtenido el espécimen, dirígete a cualquier ciudad y deposítalo con delicadeza tras sus murallas. Para hacerlo, selecciona el objeto que desees descargar. Haz clic izquierdo en el lugar donde vayas a depositarlo y no sueltes el botón hasta que la criatura esté sana y salva en tierra.
+0x00000034 Has logrado erradicar a los animales enfermos de la especie ~mission_target_animal_species~.
+0x00000014 Necesitamos ese espécimen para estudiarlo. ~p~Con el rayo abductor seleccionado, haz clic izquierdo sobre la criatura que desees abducir. Debes mantener el botón pulsado hasta que la criatura esté en tu área de carga. ~p~Cuando sea así, la ficha de objetivos se actualizará.~p~Una vez que tengas uno de esos bichejos en el compartimiento de carga, vuela a cualquier ciudad y deposítalo tras sus murallas. Y hazlo con cuidado, que luego limpiarlo es un asco.~p~Enviaremos un cuidador a por él en cuanto nos lo hayas traído.
+0x00000029 ¿Tienes dificultades a la hora de escanear un espécimen?~p~Una vez seleccionada la herramienta de escaneo, haz clic izquierdo en las criaturas brillantes de color amarillo.~p~Si te cuesta encontrar la criatura apropiada, prueba a aumentar tu altitud usando la rueda del ratón para obtener una perspectiva de ojo de pájaro, y busca las flechas amarillas.~p~Después, una vez localizado tu objetivo, ya puedes descender.
+0x00000004 Ahora que te has convertido en un as del pilotaje, ha llegado el momento de que utilices las sofisticadas herramientas que hemos diseñado para tu nave espacial.~p~Hemos estado trabajando en la posibilidad de escanear las plantas y los animales que te encuentres en el curso de tus viajes.~p~¡Parece que esta herramienta nos llega en el momento justo! La entrada en la Sporepedia de uno de nuestros animales resultó dañada al mismo tiempo que el animal comenzó a exhibir unos síntomas la mar de extraños.~p~Necesitamos que escanees al animal para así poder reunir más información acerca de esta especie.
+0x0000000E Suelta el ejemplar de ~mission_item~ tras las murallas de la ciudad.
+0x00000001 Parece que el espécimen que capturaste estaba enfermo y era portador de un virus capaz de propagarse a una velocidad alarmante. Podría poner en peligro todo nuestro ecosistema.~p~Por supuesto, queremos que soluciones este asunto sin más crueldad que la necesaria. Hemos equipado tu nave espacial con un miniláser sumamente práctico. Es lo suficientemente preciso como para permitirte eliminar a las criaturas infectadas sin dañar a las sanas.
+0x0000008D Has conseguido hacerte con el animal ~mission_item~.
+0x0000008B El rayo abductor se encuentra en el área de carga.
+0x00000037 Has logrado eliminar a los animales enfermos de la especie ~mission_target_animal_species~.
+0x0000008C Has visitado ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^ciudad^ciudades~.
+0x0000008E ¡Conseguido! Abre tus comunicaciones.
+0x00000002 Usa el botón derecho del ratón para volar y las teclas +/- para cambiar de altitud.
+0x00000017 En ese caso, creo que estamos en presencia de nuestro nuevo capitán. ¿Qué te parece enfrentarte a misiones más excitantes?
+0x00000003 ¡Felicidades, cadete! ¡Espléndida nave!~p~¡Todavía estamos añadiéndole elementos, pero debería estar lista para viajes espaciales en un santiamén!~p~¿Has pilotado alguna vez una nave espacial? ¿No?~p~Hmmm... Bueno... nada mejor que un vuelo de prueba con la mirada de toda la población de ~player_creature_name~ del planeta ~race_homeworld~ puesta en ti.~p~¿Qué me dices? ¿Vas a demostrar que puedes ganar tu medalla de capitán?~p~
+0x00000015 ¿Aún no has exterminado a todas las criaturas infectadas?~p~Asegúrate de que has activado el láser y mantén pulsado el botón izquierdo del ratón sobre las criaturas infectadas. Son veloces, así que tendrás que mover tu láser hasta alcanzarlas.
+0x00000048 Has logrado erradicar a los animales enfermos de la especie ~mission_target_animal_species~.
+0x00000025 Suena bien. Estoy preparado.
+0x00000030 Usa la herramienta de escaneo para enviar a la Sporepedia la información sobre la criatura seleccionada.
+0x00000033 Has escaneado la nueva especie.
+0x00000023 Todavía tienes que depositar el espécimen en una de nuestras ciudades.~p~Selecciona el objeto que deseas descargar haciendo clic con el botón izquierdo sobre el objeto en tu bodega de carga. Esto activará tu rayo transportador, permitiéndote depositar el objeto en la superficie. Dirígete a una de sus ciudades y deja allí el espécimen. Mantén pulsado el botón izquierdo del ratón hasta que la criatura esté sana y salva en la superficie de una de tus ciudades.~p~Si sueltas el botón demasiado pronto, soltarás el objeto, causando su destrucción.
+0x00000012 Haz clic en la muestra de ~mission_item~ del área de carga y luego haz clic sobre la ciudad y mantén pulsado el botón del ratón.
+0x0000000C Selecciona el miniláser en tu panel de armas y apunta con él a las criaturas infectadas.~p~Ten cuidado con dónde apuntas ese láser; con él puedes destruir edificios, vehículos y otras naves espaciales.~p~¡Y ahora en marcha, antes de que la infección se propague más!
+0x00000013 ¿Hay algún problema, cadete?~p~Tienes que atravesar 7 de las esferas que aparecen sobre las ciudades. Usa las teclas del cursor o mantén pulsado el botón derecho del ratón para pilotar tu nave espacial. Para ascender y descender, usa la rueda del ratón.~p~También puedes desplazarte por el mundo haciendo clic con el botón izquierdo sobre el minimapa.
+0x00000026 Escanea la especie desaparecida.
+0x00000009 Sí, sé lo que me hago. Prepara mi nave para un vuelo espacial.
+0x00000007 Si te parece que tienes lo que hay que tener, adelante. ~p~Hemos equipado tu nave con todo lo necesario para dar comienzo a nuestro programa de exploración espacial.~p~¿Estás preparado para abandonar el planeta?
+0x00000008 Aún no, he cambiado de idea. Visitemos ciudades.
+0x00000086 Vuela sobre el orbe situado sobre ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^ciudad^ciudades~ más.
+0x00000028 Elimina ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^animal enfermo^animales enfermos~ más.
+0x0000003C Para impedir que se propague la infección, elimina del mundo ~mission_num_kills_needed~ ~^p^mission_num_kills_needed^animal^animales~ de la especie ~mission_target_animal_species~ con la enfermedad.~p~Usa el miniláser de la sección de armas.
+0x00000079 ~mission_num_healthy_creatures_left~ ~^p^mission_num_healthy_creatures_left^erradicación^erradicaciones~ más de manera indebida harán que fracase la misión.
+0x00000050 ~mission_num_eradicated_creatures~ abatidas; quedan ~mission_num_kills_needed~ más de ~mission_target_animal_species~ ~^p^mission_num_kills_needed^criatura^criaturas~ por abatir.
+0x0000003A Se ha borrado el artículo de la Sporepedia sobre una criatura local. Usa la herramienta de escaneo para volver a recoger la información.~p~La herramienta de escaneo se encuentra en la sección de herramientas principales.~p~La criatura en cuestión deja un rastro luminoso. Para encontrarla, presta atención a las señales del radar.~p~A veces es más fácil hacerlo desde ciertas altitudes. Usa las teclas "+" y "-" o la rueda del ratón para ascender o descender.
+0x00000039 Visita ~mission_explore_num_cities_left_to_visit~ ~^p^mission_explore_num_cities_left_to_visit^ciudad^ciudades~ más. Usa las teclas del cursor para desplazar tu nave espacial. Para volar, también puedes mantener pulsado el botón derecho del ratón.~p~Para modificar tu altitud, utiliza las teclas "+" y "-" o la rueda del ratón.~p~Busca orbes brillantes situados sobre las ciudades y atraviésalos con tu nave.
+0x0000003F Has visitado ~mission_explore_num_cities_to_visit~ ~^p^mission_explore_num_cities_to_visit^ciudad^ciudades~. Abre tus comunicaciones.
+

@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 La batalla de ~mission_target_planet~ se ha ganado. Vuelve al planeta ~mission_source_planet~ del sistema ~mission_source_star~ para informar.
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x00000098 Completada
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000097 En progreso
+0x00000081 Tendremos que seguir combatiendo a los grox sin ti. ¡No podemos dejar que este sector caiga!
+0x00000094 Los grox han sido localizados en el sistema estelar ~mission_target_star~. No dejes que infesten ~mission_target_planet~.
+0x00000071 ¿De lado de quién estás? Si los grox infestan ~mission_target_planet~, el resto del sector caerá rápidamente.
+0x00000092 Los grox han sido localizados en el sistema estelar ~mission_target_star~. ¡No dejes que su infestación se extienda!
+0x00000041 ¡Así se lucha, ~ep1_captain_full_name~! Tienes instinto de guerrero, eso está claro.~p~Los grox no tendrán nada que hacer mientras tú andes cerca.~p~Aquí tienes ~mission_rewards~ esporetas. Deberían ser más que suficientes para cubrir el coste de tu munición.
+0x000000B1 Combate contra un ejército infestado en el planeta ~mission_target_planet~.
+0x0000004E ¡Adelante, soldado! ¡Las coordenadas planetarias ya han sido transferidas a tu historial de misiones!
+0x00000000 ¡Alerta roja! ¡Se ha avistado una nave de exploración grox en ~mission_target_planet~! Parece que están intentando convertir el planeta. ¡Necesitamos soldados sobre el terreno lo antes posible!~p~~ep1_captain_full_name~, ¿te apuntas?
+0x00000064 Cuando una nave de infestación grox aterriza, tienes que acabar con ella rápidamente. Si echa raíces, la única forma de eliminarla es usar un revientaplanetas.~p~Por desgracia, eso también acaba con el planeta.
+

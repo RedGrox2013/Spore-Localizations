@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000003 Житель ~id_color_name~
+0x00000000 Поселение ~id_color_name~
+0x00000001 Страна ~id_color_name~
+0x00000009 Развлекательный центр
+0x0000000A Башня
+0x0000000B Город (~species_name~)
+0x0000000C Колония (~species_name~)
+0x00000006 Ратуша ~id_color_name~
+0x00000002 Империя (~species_name~)
+0x00000004 Горожанин ~id_color_name~
+0x00000010 ~species_name~-горожанин
+0x00000007 Жилой дом
+0x0000000F ~species_name~-поселенец
+0x00000008 Завод
+0x0000000E Поселение (~species_name~)
+0x00000011 ~species_name~-колонист
+0x0000000D Страна (~species_name~)
+0x00000005 ~species_name~-колонист ~id_color_name~
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCFA (красные)
+0x053DBCF3 (коричневые)
+0x053DBCFC (темно-зеленые)
+0x053DBCFD (темно-красные)
+0x053DBCF1 Игрок
+0x053DBCF2 (нейтральные)
+0x053DBCF6 (зеленые)
+0x053DBCF8 (оранжевые)
+0x053DBCF7 (сиреневые)
+0x053DBCF4 (розовые)
+0x053DBCF9 (желтые)
+0x053DBCF5 (бирюзовые)
+0x053DBCFB (синие)
+0x053DBCFE (фиолетовые)
+

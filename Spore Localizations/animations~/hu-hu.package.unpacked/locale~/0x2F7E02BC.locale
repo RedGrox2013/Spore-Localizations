@@ -1,0 +1,25 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001A Látogass el Vat Tegóba a ~mission_target_planet~ bolygón!
+0x00000004 Egy űrhajó parancsnoki tisztségének ellátása csak egy részét jelenti egy űrkapitány felelősségének. A többit a bolygófelszíni műveletek koordinációja teszi ki: ilyenkor te és a legénységed elhagyjátok az űrhajótokat, és lesugároztok egy bolygóra.
+0x0000001B Jelentkezz le ~mission_source_planet~ nevű anyabolygódon!
+0x0000001F Teljesítetted a küldetést a ~mission_target_planet~ bolygón. Tegyél jelentést a ~mission_source_star~ csillagrendszer ~mission_source_planet~ nevű bolygóján!
+0x00000008 Kaland! Számíthattok rám.
+0x0000000D Belenéztél mostanában a küldetésnaplódba?!~p~El kell menned a ~mission_target_planet~ bolygó Vat Tego űrkikötőjébe, méghozzá azonnal! Ez lehet a pályafutásod legfontosabb feladata.
+0x0000001E Utazz el a ~mission_target_star~ csillagrendszerbe! Sugározz le a ~mission_target_planet~ bolygó Vat Tego nevű űrkikötőjébe! Beszélj a vezérbottal, hogy megismerd a küldetés további részleteit!
+0x00000005 Lesugározunk?
+0x00000021 Teljesítve
+0x00000007 A tudósaink felszerelték a hajódat egy teleportberendezéssel, amelynek segítségével a legénységeddel az oldaladon lesugározhatsz a bolygókra felszíni küldetések végrehajtására.~p~Az összes magára valamit is adó kapitánynak van ilyenje...~p~Kész vagy ellátogatni Vat Tegóba?
+0x00000002 Hadd halljam a részleteket!
+0x00000001 A Parancsnokságnak van egy izgalmas új küldetése a számodra.~p~Szeretnénk, ha ellátogatnál a ~mission_target_planet~ bolygóra, és végrehajtanál egy felderítési küldetést a Vat Tego űrkikötőben.
+0x00000020 Folyamatban
+0x0000000A Üdv újra itt, kapitány! A hajónapló adatai szerint minden információt összegyűjtöttél az űrkapitányi feladatok ellátásával kapcsolatban.~p~Vegyük át még egyszer, rendben?~p~Először is, kalandokat kell teljesítened, hogy gyarapítsd a kapitányi tapasztalatodat. Ahogy egyre feljebb lépdelsz a ranglétrán, újabb és újabb kiegészítőket és képességeket nyersz el. Ha magad köré gyűjtöd a legénységedet, könnyebb dolgod lesz a bolygó felszínén.~p~Egyszerűbb, mint az egyszeregy! Most pedig csapj a lovak közé, a történeted máris elkezdődik!
+0x0000001D Úticél: ~mission_source_star~ rendszer.
+0x0000001C Utazz el a ~mission_target_star~ csillagrendszerbe! Beszélj a vezérbottal, hogy megismerd a küldetés további részleteit!
+0x00000011 Mesés! Ha odaérsz a ~mission_target_planet~ bolygóhoz, csak repülj rá a szokásos módon, hogy megkezdhesd a lesugárzási folyamatot.~p~Vat Tegóba érve keresd a vezérbotot! Ő majd eligazít, hogy hova érdemes menni és kit kell felkeresned az űrkikötőben.~p~Járj békével, kapitány!
+0x00000022 Siker! Tegyél jelentést a ~mission_source_star~ csillagrendszerben!
+

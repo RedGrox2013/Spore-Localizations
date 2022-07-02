@@ -1,0 +1,121 @@
+﻿#######################################
+# Filter Names
+
+0x00020001 Luft
+0x00020002 Byggnader
+0x00020003 Celler
+0x00020004 Stadshus
+0x00020005 Koloni
+0x00020006 Djur
+0x00020007 Nationer
+0x00020008 Varelser
+0x00020009 Imperium
+0x0002000A Religiös
+0x0002000B Ekonomisk
+0x0002000C Underhållning
+0x0002000D Fabrik
+0x0002000E Flora
+0x0002000F Högt träd
+0x00020010 Lågt träd
+0x00020011 Buske
+0x00020013 Hus
+0x00020014 Land
+0x00020015 Militär
+0x00020016 Musik
+0x00020019 Fordon
+0x0002001A Stammar
+0x0002001B Rekommenderade varelser
+0x00020012 Alla
+0x0002001C Planeter
+0x00020018 Rymdskepp
+0x00020017 Sjö
+
+#######################################
+# Misc
+
+0x00030001 Sortera efter
+0x00030002 eller skapa en ny
+0x00030003 Visar ~num_items~ föremål
+0x00030005 Visar ~num_filtered_items~ av ~num_items~ föremål
+0x00030007 Ändra dina sorteringsvillkor eller välj Allt för att se fler skapelser. Det finns ~num_items~ skapelser som inte matchar den aktuella sorteringen.
+0x00030006 Laddar ~loading_percent~%
+0x00030004 Döljer ~num_items_invalid~ ogiltiga objekt.
+
+#######################################
+# Category Names
+#######################################
+# Category Names
+
+0x00000003 Skapelser
+0x00000004 Blandat
+0x00000006 Community
+0x00000002 Spore-sändningar
+0x00000007 Taggar
+0x00000001 Kompisar
+0x00000008 Mitt material
+0x00000005 ~my_game_name~
+
+#######################################
+# SPUIFeedListItem.cpp
+
+0xF4C87CF7 ~num_subscribers~ Prenumeranter
+0xF4C87CF6 ~num_subscribers~ Prenumerant
+
+#######################################
+# Call To Action Messages
+
+0x00040002 Välj musik till din stad
+0x00040001 Din mångsidiga innehållsläsare
+0x00040011 Välj en Varelse
+0x00040015 Välj en Varelse
+0x0004000A Välj en Underhållningsbyggnad
+0x0004000D Välj ett Militärt luftfordon
+0x0004000C Välj ett Hus
+0x0004000B Välj en Fabrik
+0x00040005 Välj ett Religiöst landfordon
+0x00040004 Välj ett Religiöst luftfordon
+0x00040003 Välj ett Stadshus
+0x00040008 Välj ett Ekonomiskt landfordon
+0x00040007 Välj ett Ekonomiskt luftfordon
+0x0004000E Välj ett Militärt landfordon
+0x00040013 Välj ett Koloni-landfordon
+0x00040012 Välj ett Koloni-luftfordon
+0x00040018 Skapa eller välj en stamvarelse
+0x00040019 Skapa eller välj en varelse
+0x0004001A Välj en cell
+0x00040010 Välj ett rymdskepp
+0x00040016 Skapa eller välj en Civ-varelse
+0x00040017 Skapa eller välj en rymdvarelse
+0x00040009 Välj ett Ekonomiskt sjöfordon
+0x0004000F Välj ett Militärt sjöfordon
+0x00040006 Välj ett Religiöst sjöfordon
+0x00040014 Välj ett Koloni-sjöfordon
+
+#######################################
+# Feed Item Names
+
+0x00010002 Mina skapelser
+0x00010003 Maxis
+0x00010009 Alternativ
+0x0001000A Stäng av spelet
+0x0001000B Stäng och gå till huvudmenyn
+0x0001000C Spara spel
+0x0001000D Relationer
+0x0001000E Tidslinje
+0x00010001 Alla
+0x00010004 Skapa Spore-sändning
+0x00010006 Hitta Spore-sändning
+0x00010008 Spore-katalogen
+0x00010007 MySpore-sidan
+0x00010018 Senaste hämtade filer
+0x00010012 Varelsespel
+0x00010013 Stamspel
+0x00010014 Civilisationsspel
+0x00010015 Rymdspel
+0x00010016 Sök online
+0x00010017 Hämtning av filer
+0x00010010 Utmärkelser
+0x00010011 Cellspel
+0x00010005 Hitta kompis
+0x0001000F Skanningar
+

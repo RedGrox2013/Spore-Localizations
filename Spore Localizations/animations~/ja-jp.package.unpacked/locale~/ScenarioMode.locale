@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x07186066 ~ep1_adventure_lose~ ~br~ score: ~ep1_score~ ~br~ time: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ score: ~ep1_score~ ~br~ time: ~ep1_time~
+0x0757671A 開始
+0x071877BA 作成者が設定する「アドベンチャー成功」時のテキストをここに入力してください。
+0x071877C5 ~ep1_adventure_name~をセーブしました。
+0x070B1805 リスタート
+0x070B17F3 作成者が設定する「アドベンチャー失敗」時のテキストをここに入力してください。
+0x070B1800 終了
+0x071877C1 このアドベンチャーの作者は、まだオープニングを作成していません。~p~アドベンチャークリエイターで、章パネルからオープニングボタンをクリックし、オープニングを追加してください。
+0x07CCEEFC 乗組員
+0x07B4DD6E アドベンチャーをプレイするには、世界内に適切に配置された艦長が必要です。
+0x07959A07 セーブするには有効な位置に艦長を配置する必要があります。
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 目標のなかに未定義のパラメーターがあります
+0x07D91076 目標は無効です
+
+# instance checks
+
+0x07D910E1 ターゲットが不適切な位置にあります
+0x07D910E4 この章では、目標は特定地域にいる、もしくは攻撃的なターゲットに適用できません
+0x07D910E6 目標は壮大なクリーチャーには適用できません
+0x07D910E8 目標は、敵意を持つと思われるターゲットに適用できません
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F 全て
+
+# Second, for buildings and vehicles
+
+0x07B52A4C ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07B52A4E ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x07B52A41 ~ep1_goal_target_name~を調べる
+0x07B55060 ~ep1_goal_target_name~を調べる
+0x07B55073 ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07B55076 ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x07B51562 渡す…
+0x07B51549 近づく
+0x07B5154C 調べる
+0x07B51564 防ぐ…
+0x07B51567 守る
+0x07B5154F 破壊する
+0x07B5155C 集める
+0x07B5505D ~ep1_goal_target_name~に近づく（~ep1_goal_progress~／~ep1_goal_total~完了）
+0x07B52A44 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を破壊する
+0x07B52A49 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を集める
+0x07B5506C ~ep1_goal_target_name~を集める（~ep1_goal_progress~ ／~ep1_goal_total~収集）
+0x07B55063 ~ep1_goal_target_name~を破壊する（~ep1_goal_progress~／~ep1_goal_total~破壊）
+0x07B52A3A ~ep1_goal_total_or_all~の~ep1_goal_target_name~に近づく
+0x07B52A47 ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+0x07B5506A ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+0x07B52A50 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を守る
+0x07B51559 連れて行く…
+0x07B55079 ~ep1_goal_total~の~ep1_goal_target_name~を守る
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910DA 目標はアバターに適用されません
+0x07D910CD 目標はビークルに適用されません
+0x07D910CF 目標は建物に適用されません
+0x07D910D8 目標はゲームプレイオブジェクトに適用されません
+0x07D910D3 目標は固定オブジェクトに適用されません
+0x07D910D5 目標は手持ち不能なオブジェクトに適用されません
+0x07D910CB 目標はクリーチャーに適用されません
+0x07D910DD 少なくとも1つのターゲットが移動可能でなければなりません
+0x07D910C0 この章では、ターゲットは非表示に設定されています
+0x07D910C4 この章では、ターゲットの体力が0に設定されています
+0x07D910C6 この章では、ターゲットの体力が無敵に設定されています
+
+# Special first half of give goal:
+
+0x079E8291 ~ep1_goal_target_name~を見つける
+
+# Editor object placement hints
+
+0x07D8C654 クリーチャーは水上に配置できません
+0x07D8B21E 陸上ビークルは水上に配置できません
+0x07D8C64C 海上ビークルは陸上に配置できません
+0x07D8C658 オブジェクトが惑星の表面から離れすぎています
+
+# Goal strings used for mission cards
+
+0x0727D37F エラー：目標が設定されていません。
+
+# Sculpt panel UI
+
+0x07316C0A 惑星の色
+0x07316C09 天候
+0x07316C0D 基本ツール
+0x07316C0E 道路
+0x07316C04 水
+0x07316C05 テラフォーム
+0x07316C02 大気
+0x07316C03 テーマ
+0x0768A3E9 大陸と島
+0x0768A339 海と湖
+0x079EDFB9 スペシャル
+0x07316C0C 河川
+0x07316C01 惑星のテーマ
+0x07B27900 人工の道
+0x07B278FF 舗装された道
+0x07B278FD ぬかるんだ道
+0x07B278FE 石を敷き詰めた道
+0x07B27901 広場
+0x07B280CB 丘
+0x07B2739C 渓谷
+0x07316C0F 渓谷　#削除？
+0x07316C10 ビーチ　#削除？
+0x07316C06 山脈
+0x07316C08 植物
+0x07316C07 植物
+0x07316C00 地表
+0x07316C0B 惑星の色
+
+# Third, for all other (tools)
+
+0x07B52A56 ~ep1_goal_target_name~を調べる
+0x07B52A63 ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07B52A65 ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x07B55092 ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x07B5508F ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07B5507E ~ep1_goal_target_name~を調べる
+0x07B51637 渡す…
+0x07B5160C 近づく
+0x07B52A5E ~ep1_goal_total_or_all~の~ep1_goal_target_name~を集める
+0x07B52A61 ~ep1_goal_target_name~を持つ
+0x07B52A52 ~ep1_goal_total_or_all~の~ep1_goal_target_name~に近づく
+0x07B5508D ~ep1_goal_target_name~を持つ
+0x07B5507B ~ep1_goal_target_name~に近づく（~ep1_goal_progress~／~ep1_goal_total~完了）
+0x07B5508A ~ep1_goal_target_name~を集める（~ep1_goal_progress~ ／~ep1_goal_total~収集）
+0x07B5163F 防ぐ…
+0x07B51644 守る
+0x07B51611 調べる
+0x07B51633 持つ
+0x07B5162D 集める
+0x07B52A68 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を守る
+0x07B52A59 ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+0x07B51628 …に連れて行く
+0x07B55088 ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+0x07968DE4 [未設定のターゲット]
+0x07B55095 ~ep1_goal_total~の~ep1_goal_target_name~を守る
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 目標2完了
+0x07292A93 目標3完了
+0x07292A8D 目標1完了
+0x07290AF0 目標1を前進
+0x07290AF5 目標2を前進
+0x07290AF8 目標3を前進
+0x074BB7EC 第~ep1_current_act~章／~ep1_total_acts~章
+
+# Editor object intersection hints
+
+0x07D8FA99 ビークルは岩から少し離してください
+0x07D8FA77 クリーチャーは互いに少し離してください
+0x07D8FA7C クリーチャーは岩から少し離してください
+0x07D8FA79 クリーチャーは動かない装飾品から少し離してください
+0x07D8FA72 クリーチャーはビークルから少し離してください
+0x07D8FA90 ビークルはクリーチャーから少し離してください
+0x07D8FA8D ビークルは建物から少し離してください
+0x07D8FA97 ビークルは手持ちのオブジェクトから少し離してください
+0x07D8FA93 ビークルは動かない装飾品から少し離してください
+0x07D8FA87 ビークルは互いに少し離してください
+0x07D8FA85 建物はビークルから少し離してください
+0x07DA2A90 ~ep1_visibility_intersect_act~章で双方が見えるよう、オブジェクトを互いに少し離してください
+0x07D8FAB2 岩は手持ちのオブジェクトから少し離してください
+0x07D8FAAF 岩はクリーチャーから少し離してください
+0x07D8FABB ゲームプレイオブジェクトはビークルから少し離してください
+0x07D8FAA3 動かない装飾品はクリーチャーから少し離してください
+0x07D8FAA5 手持ちのオブジェクトはビークルから少し離してください
+0x07D8FA9E ビークルはゲームプレイオブジェクトから少し離してください
+0x07D8FAA1 動かない装飾品はビークルから少し離してください
+0x07D8FAAD 岩はビークルから少し離してください
+0x07D8FAA8 手持ちのオブジェクトは互いに少し離してください
+0x07D8FAAA 手持ちのオブジェクトは岩から少し離してください
+0x07ECC0AB 岩は互いに少し離してください
+0x07D8FA7F クリーチャーは植物から少し離してください
+0x07D8FA6F オブジェクトは互いに少し離してください
+0x07D8FAB5 植物はクリーチャーから少し離してください
+0x07D8FAB8 植物はビークルから少し離してください
+0x07D8FA9C ビークルは植物から少し離してください
+0x07D8FA82 建物は壮大なクリーチャーの下に配置できません
+0x07D8FA75 壮大なクリーチャーは建物の上に配置できません
+
+# Goal string for goal count combo box:
+
+0x07C53729 全て
+
+# inter-act checks
+
+0x07D91134 同じ章内で、「連れて行く」と「防ぐ」の目標は同じターゲットに設定できません
+0x07D91130 目標はすでにこの章の目標として設定されています
+0x07D91132 目標ターゲットまたはターゲットの数が、この章にある他の目標と競合しています
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B6 渡す…
+0x073C19B0 倒す
+0x073C19B2 同盟する…
+0x073C19B1 仲良くなる
+0x073C19B4 集める
+0x073C19AF 話す
+0x073C19AE 近づく
+0x073C19B7 防ぐ…
+0x073C19B8 守る
+0x073C19B3 連れて行く…
+
+# goal count checks
+
+0x07D91125 世界には少なくとも1つの適用できるターゲットが必要です
+0x07D9112E 仲間スロットが足りません
+0x07D91128 世界には少なくとも2つの適用できるターゲットが必要です
+0x07D9112B ターゲットの数が"全て"ですが、世界内に適用できるターゲットがありません
+0x07D91122 ターゲットの数が世界内で適用できるターゲット数を上回っています
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防げませんでした。
+0x0796CEE4 死んでしまいました。
+0x0796CFDD 時間切れです。
+0x0796D59A 次の目標に違反しました：~ep1_goal_description~
+0x07C50B5F この章には同じ目標があります。
+0x0796CFE5 ~ep1_goal_total~の~ep1_goal_target_name~を守れませんでした。
+0x0796D599 次の目標は達成不可能です：~ep1_goal_description~
+
+# First, for creatures
+
+0x072AA965 ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07311C6E ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x0727D387 ~ep1_goal_target_name~と話す
+0x0727D38E ~ep1_goal_target_name~と同盟する（~ep1_goal_progress~ ／~ep1_goal_total~同盟）
+0x07B52A34 ~ep1_goal_target_name~を~ep1_goal2_target_name~に渡す
+0x07B52A36 ~ep1_goal_target_name~の~ep1_goal2_target_name~への到達を防ぐ
+0x07B52A25 ~ep1_goal_target_name~と話す
+0x0727D384 ~ep1_goal_target_name~に近づく（~ep1_goal_progress~／~ep1_goal_total~完了）
+0x0727D389 ~ep1_goal_target_name~を倒す（~ep1_goal_progress~ ／~ep1_goal_total~撃破）
+0x0727D38B ~ep1_goal_target_name~と仲良くなる（~ep1_goal_progress~ ／~ep1_goal_total~友好関係）
+0x07B52A21 ~ep1_goal_total_or_all~の~ep1_goal_target_name~に近づく
+0x07311C75 ~ep1_goal_total~の~ep1_goal_target_name~を守る
+0x07B52A28 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を倒す
+0x07B52A31 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を集める
+0x07B52A2C ~ep1_goal_total_or_all~の~ep1_goal_target_name~と同盟する
+0x072AA963 ~ep1_goal_target_name~を集める（~ep1_goal_progress~ ／~ep1_goal_total~収集）
+0x07B52A2A ~ep1_goal_total_or_all~の~ep1_goal_target_name~と仲良くなる
+0x07B52A2E ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+0x07B52A38 ~ep1_goal_total_or_all~の~ep1_goal_target_name~を守る
+0x0727D391 ~ep1_goal_target_name~を~ep1_goal2_target_name~に連れて行く
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2674 昇進
+0x076B2671 ~timelineMySpeciesName~はパーツ「~timelinePartName~」を発見した。
+0x076B2673 アドベンチャー、「~timelinePlanetName~」を完了した。
+0x076B2675 ~ep1_captain_name~は「~ep1_captain_primary_title~」に昇進した。
+
+# Used for palette
+
+0x079C4769 ゲームプレイオブジェクト
+0x07103106 建物
+0x07103107 ビークル
+0x0710310C 使用中のキャスト
+0x0710310A 音声
+0x07103108 クリーチャー
+0x07103109 固定オブジェクト
+0x0710310B 効果
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x075E40EF シナリオ移行の小見出し3
+0x075E40EE シナリオ移行の小見出し2
+0x075E40ED シナリオ移行の小見出し1
+0x07312E6E 名前をつけてください
+
+# other
+
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91140 お助けヒント5のため予約
+0x07D9113B お助けヒント3のため予約
+0x07D9113E お助けヒント4のため予約
+0x07D91139 ~ep1_goal_error_str2~
+

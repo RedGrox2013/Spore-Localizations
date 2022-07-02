@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 W miarę
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Samouczki
+0x058B62B1 Porady
+0x058B62B2 Przewijanie krawędziowe
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Domyślne
+0x0474E6B5 Ustawienia grafiki
+0x0474E6B6 Niskie
+0x0474E6C2 Średnie
+0x0474E6C6 Wysokie
+0x0474E6CC Cienie
+0x0474E6D0 Szczegółowość tekstur
+0x0474E6D6 Efekty graficzne
+0x0474E6DE Jakość modelu gracza
+0x0474E6E4 Jakość planety
+0x0474E6E5 Jakość oświetlenia
+0x0474E6E9 Rozmiar ekranu
+0x0474E6ED Rozmiar bufora grafiki (MB)
+0x0474E6F0 Profile
+0x058A2A2B Zmiana rozdzielczości ekranu wymaga ponownego uruchomienia gry i może mieć wpływ na szybkość jej działania.
+0x058B6240 Tryb pełnoekranowy
+0x058B624C Tryb okienkowy
+0xBBFC7687 Głębokość pola
+0x0674D28F Efekt poświaty (bloom)
+0x066A4BC8 Wygładzanie krawędzi
+0x0695A585 Kombinacja Command-Return służy do przełączania gry między trybem okienkowym i pełnoekranowym.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B6 Przemieść statek
+0x080B23B8 Zmień wysokość lotu
+0x080B23B7 Nachylenie i obrót kamery
+0x080B23B2 Cywilizacja
+0x080B23B3 Wybierz cel
+0x080B23B4 Aktywuj narzędzie
+0x090A24A7 Ruch kamery
+0x090A23A4 Zbliżenie
+0x090A23A3 Przemieść stwora
+0x090A28A7 Wybierz pojazd
+0x090A28A6 Wybierz członka plemienia
+0x090A26A9 Nachylenie i obrót kamery
+0x088B63B6 Stwór
+0x090A21A6 Podaj wskazówki
+0x088B63B9 Plemię
+0x088B63B7 Kliknij tu, aby obracać mapę prawym przyciskiem myszy.
+0x090A29A7 Przemieść komórkę
+0x090A50AA Kliknij i przeciągnij lewym przyciskiem myszy lub użyj klawiszy W, S, A, D
+0x090A50A6 Użyj kółka myszy
+0x090A50A5 Kliknij i przeciągnij prawym przyciskiem myszy
+0x090A50A7 Kliknij i przeciągnij oboma przyciskami myszy
+0x090A50A8 Kliknij i przeciągnij prawym przyciskiem myszy lub użyj klawiszy W, S, A, D
+0x090A50A9 Stwór podąża za kursorem
+0x090A50A1 Użyj klawiszy W, S, A, D
+0x090A30B5 Wybierz pojazdy, rysując prostokąt
+0x090A30B4 Wybierz członków plemienia, rysując prostokąt
+0x090A50A4 Kliknij prawym przyciskiem myszy
+0x090A50A3 Kliknij i przeciągnij lewym przyciskiem myszy
+0x090A50A2 Kliknij lewym przyciskiem myszy
+0x088B63B3 Komórka
+0x080B23B9 Kosmos
+0x088B63B4 Kliknij tu, by automatycznie podążać za kursorem.
+0x088B63B5 Wskazuj kursorem ikony, aby się dowiedzieć, jak działają.
+0x090A50AB Przytrzymaj naciśnięte klawisze Command i Option oraz wciśnięty lewy przycisk myszy
+0x090A50AC Przytrzymaj wciśnięty środkowy przycisk
+
+#### profile - user selects ####
+
+0x0474E6FC Użytkownika
+
+#### profile - performance ####
+
+0x0474E6F1 Wydajność
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Wyloguj się
+0x0565289E Zaloguj się
+0x0565289F Rejestracja
+0x056528A0 Połączenie z serwerem
+0x056528A4 Brak rejestracji
+0x056528A6 Połączenie nieaktywne
+0x056528A8 ~generic0~ połączono
+0x056528A9 Rozłącz się lub zmień użytkownika.
+0x058B63D4 Dopasowanie estetyczne
+0x056528A3 Zapytaj przy uruchamianiu
+0x056528A1 stan:
+0x0626E391 Liczba dni do usunięcia materiału
+0x056528A2 Opcje sieciowe
+0x05E39554 Aktualizacja bazy elementów...
+0x058B63D3 Tylko elementy znajomych
+0x056528A7 Połącz się z serwisem SPORE.
+0x056528A5 Stwórz konto, by połączyć się z serwisem SPORE.
+0x0626E392 Kopiuj usuwane materiały do foldera archiwum
+0x067A21D9 dni.
+0x067A21D8 Pobieraj elementy abonowane liczące nie więcej niż:
+0x0626E390 Usuń stare pobrane materiały
+0x067A21D7 Wielkość bufora pobierania (MB)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Ustawienia dźwięku
+0x0473EF2C Ustawienia grafiki
+0x0473EF2D Ustawienia gry
+0x0473EF2E Ustawienia zapisu
+0x0473EF2F Ustawienia sieciowe
+0x0473EF30 Twórcy
+0x0473EF31 Zapisz ustawienia
+0x0473EF32 Zamknij opcje bez zapisywania
+0x0473EF33 Ustawienia
+0x0473EF34 Sterowanie
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Loguj mnie automatycznie na YouTube
+0x0589E518 Rozmiar filmu
+0x0589E51C Rozmiar zdjęcia
+0x0589E51D Małe
+0x0589E51E Średnie
+0x0589E51F Duże
+0x058B6381 Ustawienia gry i nagrywania
+0x058B63A0 Nagrywanie filmu bez dźwięku
+0x05D1185C Opcje gry i pomocy
+0x0631825F Jeśli podczas instalacji zaakceptowano domyślne foldery, swoje zdjęcia i filmy znajdziesz w folderze ~generic0~(rodzaj dzieła)
+
+#### profile - image quality ####
+
+0x0474E6F5 Jakość obrazu
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Kanał główny
+0x0431D893 Głosy
+0x0431D894 Efekty
+0x0431D896 Wycisz wszystko
+0x0431D898 Konfiguracja głośników
+0x0431D899 2 głośniki (stereo)
+0x0431D89A 4 głośniki (kwadrofonia)
+0x0431D89B Głośniki 5.1 (surround)
+0x0431D895 Muzyka
+0x0431D89C Jakość dźwięku
+0x0431D89D Głośność wszystkich dźwięków
+0x0431D89E Głośność muzyki w grze
+0x0431D8A0 Głośność efektów dźwiękowych
+0x0431D89F Głośność głosów stworów
+0x0431D8A1 Zmiana konfiguracji głośników jest możliwa jedynie na ekranie galaktyki SPORE.
+0x0431D897 Miks
+
+## Mac version
+
+0x06318D68 Jeśli podczas instalacji zaakceptowano domyślne foldery, swoje filmy znajdziesz w katalogu Moje dzieła SPORE/(rodzaj dzieła) w folderze Dokumenty swojego katalogu macierzystego.
+

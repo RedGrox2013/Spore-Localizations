@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 Ok
+0x34F8116D Tato vlastnost odemkne:
+0x74BF153F Můžete natrefit na…
+0x06162C24 Nový
+0x74BF153E Nacházejte je při hře a přidávejte je do Sporepedie.
+0x06162C22 Vytvořit nový Sporekanál
+0x06162C1F Zvolte Sporekanál:
+0x06162C1E Přidat do Sporekanálu
+
+# ProfileView.layout
+
+0x062EE735 Stránka s profilem
+
+# vehicle stats (specific)
+
+0x058B5C25 Náboženský výkon
+0x058B5C26 Ekonomický výkon
+0x058B5C24 Vojenský výkon
+
+# AssetViewLarge.layout
+
+0x058B60F2 Popis:
+0x058B60F4 Název položky
+0x058B60F5 Tvoření výhod
+0x058B60F7 Další
+0x058B60F8 Předchozí
+0x058B60F6 od
+0xD4AF63E8 Čekejte prosím
+0x058B60F3 Popisky:
+
+# creature stats
+
+0x058B5C21 Útočné
+0x058B5C20 Býložravec
+0x058B5C22 Společenské
+0x058B5C1F Masožravec
+0x058B5C1E Všežravec
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F1 Před ~minutes~ min
+0x05B175F0 Před ~seconds~ sek
+0x05B175F6 <Chybí>
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175EC čtvrtek
+0x05B175EB středa
+0x05B175EE sobota
+0x05B175ED pátek
+0x05B175EA úterý
+0x05B175E9 pondělí
+0x05B175E8 neděle
+0x05B175EF předchozí ~day_of_week~
+0x05B175F2 Před ~hours~ hod
+
+# vehicle stats
+
+0x058B5C1D Rychlost
+0x058B5C1C Výkon
+0x058B5C1B Životy
+
+# AssetBrowser.layout
+
+0x05B1A59D Sporepedie™
+0x05B1A59C Hledat
+0x05B1A59E Vítáme uživatele ~username~
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C13 Tvoření
+0x058B5C10 Třídit
+0x058B5C12 Název
+0x058B5C14 Typ
+0x058B5C16 On-line obsah dostupný pouze po přihlášení
+0x058B5C17 On-line obsah dostupný pouze po přihlášení
+0x058B5C19 Jít zpět
+0x058B5C15 Zveřejněné
+0x058B5C18 Vytvořte vlastní
+0x058B5C11 Čas vytvoření
+0x058B5C1A Vztahy
+0x058B5C27 Čas stažení
+0x058B5C28 Strašidelné a roztomilé
+

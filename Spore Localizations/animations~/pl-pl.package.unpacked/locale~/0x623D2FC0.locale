@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F Radosny
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD Sprawiedliwy
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 Honorowy
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 Pobożny
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 Zrównoważony
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 Skromny
+
+# Zealot
+
+0x07CEA308 Prorok
+0x07CEA307 Biskup
+0x07CEA309 Święty
+0x07CEA306 Opat
+0x07CEA303 Mnich
+0x07CEA302 Akolita
+0x07CEA305 Kapłan
+0x07CEA304 Kapelan
+0x07CEA300 Wierzący
+0x07CEA301 Wyznawca
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 Łaskawy
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA Odważny
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E Piękny
+
+# Diplomat
+
+0x07CEA407 Minister
+0x07CEA406 Wysłannik
+0x07CEA405 Doradca
+0x07CEA400 Asystent
+0x07CEA404 Sędzia
+0x07CEA403 Pierwszy sekretarz
+0x07CEA402 Drugi sekretarz
+0x07CEA401 Konsul
+0x07CEA409 Ambasador
+0x07CEA408 Komisarz
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Rekrut
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 Zrównoważony
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB Roztropny
+
+# Shaman
+
+0x07CEA700 Zbieracz
+0x07CEA702 Myśliwy
+0x07CEA701 Żniwiarz
+0x07CEA709 Mistrz duchów
+0x07CEA708 Łapacz snów
+0x07CEA707 Wizjoner
+0x07CEA704 Tkacz
+0x07CEA703 Malarz twarzy
+0x07CEA706 Zapalacz
+0x07CEA705 Strugacz kosturów
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 Uniwersalny
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C z imperium ~ep1_captain_species_name~
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F Mądry
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 Prawy
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 Przedsiębiorczy
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 Empatyczny
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 Uduchowiony
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A Szczodry
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 Dowcipny
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B Swawolny
+
+# Trader
+
+0x07CEA609 Potentat
+0x07CEA608 Dyrektor generalny
+0x07CEA605 Menedżer
+0x07CEA604 Spekulant
+0x07CEA607 Prezes
+0x07CEA606 Wiceprezes
+0x07CEA603 Księgowy
+0x07CEA600 Biegacz
+0x07CEA602 Przemytnik
+0x07CEA601 Kurier
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE Cichy
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 Silnoręki
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D Logiczny
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 Swawolny
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B Inteligentny
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A Nieustępliwy
+
+# Wanderer
+
+0x07CEA908 Obieżygwiazd
+0x07CEA909 Galaktyczny podróżnik
+0x07CEA905 Badacz
+0x07CEA904 Obieżyświat
+0x07CEA906 Podróżnik
+0x07CEA907 Miłośnik planet
+0x07CEA903 Zwiadowca
+0x07CEA900 Włóczęga
+0x07CEA902 Nomad
+0x07CEA901 Autostopowicz
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 Porywczy
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 Współczujący
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 Zaradny
+
+# Warrior 	
+
+0x07CEA804 Major
+0x07CEA803 Sierżant
+0x07CEA809 Wódz
+0x07CEA805 Porucznik
+0x07CEA806 Oficer
+0x07CEA808 Generał
+0x07CEA807 Komendant
+0x07CEA802 Najemnik
+0x07CEA801 Wojak
+0x07CEA800 Rzezimieszek
+
+# Scientist
+
+0x07CEA501 Technik
+0x07CEA500 Stażysta
+0x07CEA503 Inżynier
+0x07CEA502 Badacz
+0x07CEA509 Geniusz
+0x07CEA508 Teoretyk
+0x07CEA505 Profesor
+0x07CEA504 Wynalazca
+0x07CEA507 Uczony
+0x07CEA506 Doktor
+
+# Bard
+
+0x07CEA103 Gracz
+0x07CEA104 Muzyk
+0x07CEA101 Pomocnik
+0x07CEA102 Dźwiękowiec
+0x07CEA105 Wyznaczający trendy
+0x07CEA108 Gwiazda
+0x07CEA109 Supergwiazda
+0x07CEA106 Ikona
+0x07CEA107 Osobistość
+0x07CEA100 Fan
+
+# Ecologist
+
+0x07CEA209 Guru
+0x07CEA204 Farmer
+0x07CEA202 Botanik
+0x07CEA203 Stróż
+0x07CEA200 Starszy chwastowy
+0x07CEA201 Ogrodnik
+0x07CEA205 Hodowca
+0x07CEA206 Hodowca mieszańców
+0x07CEA207 Kloniarz
+0x07CEA208 Filozof
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 Niezawodny
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 Odważny
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 Wierny
+
+# Knight
+
+0x07CEAA09 Lord
+0x07CEAA05 Strażnik
+0x07CEAA07 Paladyn
+0x07CEAA06 Rycerski
+0x07CEAA08 Szlachcic
+0x07CEAA01 Czeladnik
+0x07CEAA00 Łotr
+0x07CEAA02 Giermek
+0x07CEAA04 Towarzysz broni
+0x07CEAA03 Poszukiwacz przygód
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Følgende som var med i eventyret har blitt slettet fra serveren. Vil du publisere det, så eventyret kan spilles av andre?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Følgende brukes i dette eventyret, men er ikke publisert ennå. Vil du publisere det, så eventyret ditt kan spilles av andre?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Noe av det som var med i dette eventyret ble forbudt.~p~Poengsummen din blir ikke registrert.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Noe av det som var med i dette eventyret ble slettet.~p~Vil du laste dem ned på nytt?
+
+# Editing adventures offline
+
+0x07AA5B67 Avbryt
+0x07AA5B66 Erstatt
+0x07AA5B64 Du må logge deg inn før du kan laste ned ting til dette eventyret. Hvis du redigerer eventyret, blir de erstattet.
+0x07AA5B65 Logg inn
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Dette eventyret inneholder forbudte skapninger og ting med deler du ikke har.~p~ Dette vil bli erstattet.
+
+# Editing adventures with banned assets
+
+0x0750187C Noe av det som var med i dette eventyret ble forbudt.~p~Enkelte elementer blir erstattet.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Noe av det som var med i eventyret ble forbudt.~p~Poengene dine ble ikke delt.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Fremdrift for nedlasting
+0x00000004 Nedlasting mislyktes
+0x00000005 Du må logge deg inn for å laste ned det som brukes i dette eventyret.
+0x00000002 Laster ned eventyr
+0x00000006 Kunne ikke publisere.
+0x00000003 Avbryt
+0x00000008 Publiserer ...
+0x00000007 Fremdrift for publisering
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Nedlasting mislyktes Vi du fortsette?~p~Noen elementer blir erstattet og poengsummen din blir ikke registrert.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Noen av skapningene i dette eventyret inneholder deler du ikke har.~p~Disse vil bli erstattet.
+

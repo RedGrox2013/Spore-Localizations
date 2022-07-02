@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000097 En cours
+0x00000098 Terminée
+0x000000B2 Rentrez vers la planète ~mission_source_planet~.
+0x00000093 Destination : constellation ~mission_source_star~.
+0x00000099 Bravo ! Rentrez vers la constellation ~mission_source_star~.
+0x00000092 Récupérez le Lama d'Or dans la constellation ~mission_target_star~. Ne vous faites pas voir par le Gardien.
+0x000000B1 Ramenez le Lama d'Or sur la planète ~mission_target_planet~.
+0x00000041 Oui ! Le Lama d'Or est à moi, à moi ! Il sera parfait dans ma collection dorée. Ou peut-être... dans ma collection de lamas ?~p~~ep1_captain_full_name~, je vous remercie d'avoir risqué votre vie pour ~mission_rewards~ Sporeflouz. Je vous ferai savoir si j'ai besoin d'un nouveau trésor.
+0x00000094 Récupérez le Lama d'Or sur la planète ~mission_target_planet~ de la constellation ~mission_target_star~. Ne vous faites pas voir par le Gardien.
+0x00000081 La chasse aux trésors est un sport assez extrême parfois.~p~Trop extrême pour moi en tout cas. C'est pourquoi j'ai besoin de vous !
+0x00000095 Le Lama d'Or a été récupéré. Revenez sur la planète ~mission_source_planet~ dans la constellation ~mission_source_star~.
+0x0000004E Si vous avez du mal à localiser le Lama d'Or, jetez donc un oeil à votre Journal de mission pour ses coordonnées précises.
+0x00000064 Le Lama d'Or se trouve à l'air libre. Il suffit de traverser un labyrinthe rempli de créatures sanguinaires pour l'atteindre.~p~Hé, pourquoi croyez-vous que je vous ai engagé ?
+0x00000000 Vous aimez les trésors ~ep1_captain_full_name~ ? Les reliques ? Les idoles et les pierres précieuses ? Bien sûr, qui n'aime pas tout cela ?~p~Bien, écoutez-moi. Si vous acceptez d'aller le chercher pour moi, je vous dirais où se trouve le légendaire Lama d'Or.~p~En échange, je vous offre ~mission_rewards~ Sporeflouz.~p~Marché conclu ?
+0x00000071 Quel est le mot que vous n'avez pas compris dans "Lama d'Or" ?
+

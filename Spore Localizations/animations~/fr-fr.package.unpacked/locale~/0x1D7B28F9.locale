@@ -1,0 +1,63 @@
+﻿0x051414BE @10550,10551;1;0;;0,128,128   ~IDS__DialogId_10105_ControlId_1200~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x45EF8DC8 InstallShield Wizard~IDS__DialogId_10105~
+0x689470D4 Feature~ID_STRING1~
+0x4782CCA0 Option 8~IDS__DialogId_10105_ControlId_608~
+0x4E1203F5 Voulez-vous installer EA Download Manager ? Si vous n'installez pas EA Download Manager, les mises à jour ainsi que certaines options ne pourront pas être transmises à votre ordinateur.~EADM_INSTALL~
+0x303D349E Fichier : ~string~~br~Erreur : ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Cochez les fonctions à installer et décochez celles dont vous ne voulez pas. Cliquez sur Suivant pour continuer.~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Compte administrateur requis pour procéder à l'installation.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Raccourci Bureau~DESKTOP_SHORTCUT~
+0x7E8BB5FD L'installation est terminée~INSTALLATION_COMPLETE~
+0x4DE32707 Arrêtez ~string~ pour continuer.~GAME_RUNNING_STRING~
+0x2BF6EA98 Espace disque insuffisant sur le volume choisi. Supprimez des fichiers sur ce volume ou choisissez-en un autre.~NO_SPACE_MSG~
+0x05082CC9 Complète~IDPROP_SETUPTYPE_COMPLETE~
+0x4782CC92 Option 6~IDS__DialogId_10105_ControlId_606~
+0x4782CC91 Option 7~IDS__DialogId_10105_ControlId_607~
+0x7D4A4E2F Personnalisée~CUSTOM~
+0x3017EF99 Supprimer toutes les données utilisateur générées par ~string~ ?~REMOVE_USERDATA~
+0x1F726BCA Jouer à~PLAY_SPORE~
+0x4782CC93 Option 5~IDS__DialogId_10105_ControlId_605~
+0x4782CC96 Option 2~IDS__DialogId_10105_ControlId_602~
+0x4782CC9F Option 9~IDS__DialogId_10105_ControlId_609~
+0x4782CC97 Option 1~IDS__DialogId_10105_ControlId_601~
+0x4782CC95 Option 3~IDS__DialogId_10105_ControlId_603~
+0x4782CC94 Option 4~IDS__DialogId_10105_ControlId_604~
+0x64A17D06 Une erreur est survenue. L'installation ne peut se terminer correctement.~GENERAL_ERROR~
+0x7CF6B4E8 Personnalisée~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x166E669A Impossible d'installer dans ~string~~br~Choisissez un autre répertoire.~DANGEROUS_DIRECTORY_ERROR~
+0x0537CFA1 Désintaller ~string~~UNINSTALL~
+0x16FBAEAF Vous pouvez désormais jouer à ~string~~READY_TO_PLAY~
+0x02699E57 Réglages~SETUP_TYPE_TITLE~
+0x16741C9F Lancer ~string~ à l'issue de l'installation~LAUNCH_SPORE~
+0x0AA43B92 Recommandée~RECOMMENDED~
+0x38A8F152 Bienvenue dans ~string~~WELCOME_SPORE_TITLE~
+0x39040F38 LisezMoi~README~
+0x15538FF6 Type d'installation~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Sélectionnez le type d'installation adapté à vos besoins.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Régler~IDPROP_SETUPTYPE_CUSTOM~
+0x74C9257A Complète~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Prêt à installer !~READY_TO_INSTALL~
+0x59450AC4 Type d'installation~br~Choisissez votre type d'installation~SETUP_TYPE_MESSAGE~
+0x2A8D9AF3 Aide EA~EA_HELP~
+0x7E9C7ECF Annuler~IDS__DialogId_10105_ControlId_9~
+0x03BCF887 Choisissez ci-dessous.~SELECT_OPTIONS~
+0x40D6F8BD Consultez LisezMoi.txt à l'issue de l'installation~VIEW_README~
+0x01FCAF57 Mes Créations~SAVE_FOLDER~
+0x0D849C4A Cliquez sur Terminer pour quitter et commencer~CLICK_FINISH~
+0x7E9C7EC7 &Suivant >~IDS__DialogId_10105_ControlId_1~
+0x159098E0 < &Précédent~IDS__DialogId_10105_ControlId_12~
+0x27D33671 Le chemin du fichier est trop long. Veuillez en choisir un plus court.~DIR_TOO_LONG~
+0x15CC67E6 ~string~ sera installé dans~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x46A61B9B Impossible de trouver ~string~.~MISSING_FILES~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x06220BA5 Cliquez sur "Suivant" pour installer ~string~ sur votre ordinateur !~WELCOME_SPORE_MESSAGE~
+0x6CD070E6 Des informations nécessaires à la désinstallation n'ont pas été trouvées. Il se peut qu'une erreur se soit produite durant l'installation. Vous devrez peut-être effacer certains fichiers et répertoires manuellement.~MISSING_UNINSTALL~
+0x23FD0D11 Spore™ : L'atelier des créatures~SCC_NAME~
+0x151DEC2F Sans DirectX, Spore™ ne fonctionnera pas correctement.~DIRECTX_WARNING~
+0x4950A450 Spore™ : L’Atelier des créatures – version d’évaluation~SCC_TRIAL_NAME~
+0x494AA82F L'assistant a été interrompu avant la fin de la désinstallation de ~string~.~br~~br~Relancez la désinstallation plus tard.~UNINSTALL_INCOMP~
+0x144073D1 ~string~ sera installé dans le répertoire de votre choix.~CUSTOM_SPORE_SETUP~
+0x7B152168 Cliquez sur Installer pour démarrer l'installation.~br~~br~Cliquez sur Précédent pour modifier les paramètres ou sur Annuler pour quitter.~BEGIN_INSTALLATION~
+0x353F37C7 Vous devez désinstaller le programme ~string~. Cliquez sur Oui pour désinstaller. SPORE™ reprend tous les éléments de l'atelier des Créatures et toutes vos créations seront conservées.~SPORE_REMOVE_CSA_WARNING~
+

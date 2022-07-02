@@ -1,0 +1,43 @@
+﻿0x000001A1 ~guide: -h1~ Komplexität und Budget
+0x000000F1 ~guide: -h3~ Raumschiffdurchmesser und -höhe
+0x00000071 ~guide: -h2~ Dein Raumschiff ist auf den Pfeil auf dem Podest ausgerichtet.
+0x000000C1 ~guide: -h2~ Rumpf- und Cockpit-Teile von Raumschiffen werden automatisch am Mittelpunkt des Podestes ausgerichtet.
+0x00000021 ~guide: -h3~ Die Teile-Palette
+0x000001E1 ~guide: -h3~ Komplexitätsanzeige
+0x00000111 ~guide: -h1~ Bearbeitung von Teilen mit Griffen
+0x00000051 ~guide: -h2~ Am oberen Rand der Teile-Palette werden die verfügbaren Teilekategorien angezeigt. Du hast die Wahl zwischen Cockpits, Körpern, Fortbewegungsarten, Spezialwaffen, Details und Effekten. Möchtest du eine Kategorie auswählen, klicke auf das entsprechende Register.
+0x00000091 ~guide: -h2~ Möchtest du ein Teil auswählen, klicke in der Teile-Palette auf das gewünschte Teil und ziehe es von der Palette auf das Podest oder dein Raumschiff.
+0x00000121 ~guide: -h2~ Hast du deinem Raumschiff ein Teil hinzugefügt, kannst du Letzteres mit den Bearbeitungsgriffen bearbeiten.
+0x00000061 ~guide: -h3~ Wie ist mein Raumschiff ausgerichtet?
+0x00000041 ~guide: -h3~ Teile-Kategorien
+0x000000A1 ~guide: -h2~ Klicke auf ein an deinem Raumschiff angebrachtes Teil, bis es blau markiert wird, um es auszuwählen.
+0x000001B1 ~guide: -h3~ Das Teile-Budget
+0x00000151 ~guide: -bullet~ Anpassungspfeil: Ändert die Höhe, Breite, Länge oder Krümmung eines Teils.
+0x000000B1 ~guide: -h3~ Symmetrie zentrieren
+0x000000D1 ~guide: -h3~ Überkreuzte Teile
+0x00000171 ~guide: -bullet~ Positionsball: Ändert die Richtung eines Teils.
+0x000000E1 ~guide: -h2~ Raumschiffteile dürfen sich überkreuzen. Platziere sie, wie du möchtest.
+0x00000161 ~guide: -bullet~ Rotationsring: Ändert die Ausrichtung von Teilen.
+0x00000031 ~guide: -h2~ Im Baumodus öffnet sich auf der linken Seite des Raumschiff-Designers die Teile-Palette.
+0x000001D1 ~guide: -h2~ Jedes, in dein Raumschiff eingebaute, Teil kostet einige Teile-Punkte. Hast du alle Punkte verbraucht, kannst du keine weiteren Teile hinzufügen.
+0x00000131 ~guide: -bullet~ Klicke auf das Teil, das du bearbeiten möchtest, um es auszuwählen. Nun werden seine Teile-Griffe angezeigt.
+0x00000081 ~guide: -h3~ Auswahl und Hinzufügen von Teilen
+0x00000103 ~guide: -h2~ Möchtest du ein Teil entfernen, wähle es aus und drücke "Entfernen" oder ziehe es einfach vom Raumschiff oder Podest.
+0x00000102 ~guide: -h3~ Entfernung von Teilen
+0x00000231 ~guide: -h2~ Deine Raumschifffähigkeiten werden von den Werkzeugen bestimmt, die du dir während der Weltraumphase verdienst.
+0x000002A1 ~guide: -h3~ Zugriff auf erweiterte Teile-Griffe
+0x000002C1 ~guide: -h3~ Kopieren von Teilen
+0x00000211 ~guide: -h2~ Wird dein Raumschiff zu komplex, kannst du keine weiteren Teile hinzufügen.
+0x00000291 ~guide: -h1~ Erweiterte Funktionen
+0x000002B1 ~guide: -bullet~ Wähle ein Teil deines Raumschiffes mit gedrückter Tab-Taste aus, um zusätzliche Teile-Griffe zu aktivieren, mit denen du die Platzierung von Teilen besser steuern kannst
+0x00000221 ~guide: -h1~ Raumschifffähigkeiten
+0x00000101 ~guide: -h2~ Der maximale Durchmesser und die maximale Höhe deines Raumschiffs sind begrenzt.  Überschreitest du die jeweilige Grenze, haftet das entsprechende Teil nicht Außerdem wird es rot markiert.  Teile, die nicht platziert werden können, verursachen keine Kosten.
+0x000001C1 ~guide: -h2~ Dein Teile-Budget erscheint in der linken unteren Ecke des Raumschiff-Designers.
+0x000002E1 ~guide: -h3~ Richtungsplatzierung
+0x00000201 ~guide: -h2~ Die Komplexitätsanzeige misst die strukturelle Komplexität deines Raumschiffs.
+0x00000141 ~guide: -h3~ Die Bearbeitungsgriffe:
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Baumodus
+0x000002F1 ~guide: -bullet~ Möchtest du das ganze Raumschiff bewegen, halte "Shift" gedrückt, klicke auf dein Raumschiff und bewege es in die gewünschte Richtung.
+0x000002D1 ~guide: -bullet~ Möchtest du ein Teil kopieren, das dein Raumschiff bereits hat, halte "ALT" gedrückt, klicke auf das Teil, das du kopieren möchtest, und bewege die Kopie dann an eine andere Position auf deinem Raumschiff.
+

@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 確定
+0x06162C22 製作新的Spore網路播客
+0x06162C24 新的
+0x34F8116D 這項特徵將解開：
+0x06162C1E 增加至Spore網路播客
+0x74BF153E 進行遊戲時找出它，將它納入Spore百科！
+0x06162C1F 選擇Spore網路播客：
+0x74BF153F 你可能會遇到...
+
+# ProfileView.layout
+
+0x062EE735 設定檔頁面
+
+# vehicle stats (specific)
+
+0x058B5C25 宗教能力
+0x058B5C24 軍事力量
+0x058B5C26 經濟力量
+
+# AssetViewLarge.layout
+
+0x058B60F2 說明： 
+0x058B60F4 作品名稱 
+0x058B60F5 作品作者  
+0x058B60F6 由
+0x058B60F3 標籤：
+0xD4AF63E8 請稍候...
+0x058B60F8 上一頁
+0x058B60F7 下一頁
+
+# creature stats
+
+0x058B5C21 攻擊
+0x058B5C1E 雜食生物
+0x058B5C22 社交
+0x058B5C1F 葷食生物
+0x058B5C20 素食生物
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175E8 星期日
+0x05B175E9 星期一
+0x05B175EA 星期二
+0x05B175EB 星期三
+0x05B175EC 星期四
+0x05B175ED 星期五
+0x05B175EE 星期六
+0x05B175F0 ~seconds~秒鐘前
+0x05B175F1 ~minutes~分鐘前
+0x05B175F2 ~hours~小時前
+0x05B175EF 上個 ~day_of_week~
+0x05B175F6 <Missing>
+
+# vehicle stats
+
+0x058B5C1D 速度
+0x058B5C1B 耐久度
+0x058B5C1C 力量
+
+# AssetBrowser.layout
+
+0x05B1A59C 搜尋
+0x05B1A59D Spore百科
+0x05B1A59E 歡迎~username~
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 排序方式： 
+0x058B5C12 標題 
+0x058B5C14 類型 
+0x058B5C16 只有登入後才能取用線上內容 
+0x058B5C17 只有登入後才能取用線上內容 
+0x058B5C19 返回 
+0x058B5C13 作者  
+0x058B5C15 已分享
+0x058B5C1A 關係
+0x058B5C11 創造時間
+0x058B5C18 創造屬於你自己的創造物
+0x058B5C27 下載時間
+0x058B5C28 驚悚&卡通
+

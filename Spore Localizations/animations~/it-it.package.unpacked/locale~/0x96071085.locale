@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Le seguenti creazioni utilizzate in questa avventura sono state eliminate dal server. Vuoi ripubblicarle per consentire ad altri di affrontare l'avventura?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Le seguenti creazioni utilizzate in questa avventura non sono state ancora pubblicate. Vuoi pubblicarle per consentire ad altri di affrontare la tua avventura?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Alcune creazioni di questa avventura sono state bandite.~p~Il tuo punteggio non verrà registrato.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Alcune creazioni di questa avventura sono state eliminate.~p~Vuoi scaricarle nuovamente?
+
+# Editing adventures offline
+
+0x07AA5B67 Annulla
+0x07AA5B66 Sostituisci
+0x07AA5B64 Devi accedere per scaricare delle creazioni per questa avventura. Se modifichi questa avventura, le creazioni saranno sostituite.
+0x07AA5B65 Accedi
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Questa avventura contiene creazioni bandite e creazioni con parti che non possiedi.~p~Alcune creazioni saranno sostituite.
+
+# Editing adventures with banned assets
+
+0x0750187C Alcune creazioni di questa avventura sono state bandite.~p~Alcune creazioni saranno sostituite.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Alcune creazioni di questa avventura sono state bandite.~p~Il tuo punteggio non è stato condiviso.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Progresso download creazioni
+0x00000004 Download creazioni fallito
+0x00000005 Devi accedere per scaricare le creazioni utilizzate in questa avventura.
+0x00000002 Download creazioni avventura in corso...
+0x00000006 Pubblicazione creazioni fallita.
+0x00000003 Annulla
+0x00000008 Pubblicazione in corso...
+0x00000007 Progresso pubblicazione
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Download creazioni fallito. Vuoi continuare?~p~Alcuni elementi saranno sostituiti e il tuo punteggio non verrà registrato.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Alcune creazioni di questa avventura contengono parti che non possiedi.~p~Alcune creazioni saranno sostituite.
+

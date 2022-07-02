@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 おめでとうございます！　ミスター・パズルはあなたの頭脳に感心したようです。彼は次にあなたにパズルを出す時を楽しみにしています。
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 色のついたカードは、同じ色の扉を開きます。謎の鍵に通じる扉は1つだけです。
+
+# Adventure name
+
+0x00000002 ミスター・パズルの魔法のゲート
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 謎の鍵
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 謎のテントは最高ですよ。中に入って、あなたの頭脳を試してみませんか。
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE ミスター・パズル
+
+# Act 3 description
+
+0x00000025 鍵を発見しました！ 魔法の転送装置を使ってミスター・パズルに渡しにいきましょう。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 私の名前はミスター・パズルです。お客様にパズルをお出しています。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 やあ、ようこそいらっしゃいました！　わが一座へようこそ。
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 お手上げにならないように！がんばっていってみましょう！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 賢い方なら、私の鍵を手に入れられるでしょう。そうでないなら…　まずは様子を見てください。
+
+# Act 1 name
+
+0x00000020 ミスター・パズルに会う
+
+# 'Adventure lost' message
+
+0x00000012 あきらめないでください。両手を使ってみましたか？
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 きっとまたお会いするでしょう！えぇ、是非またお会いしたいですな。
+
+# Act 3 name
+
+0x00000024 見つけた！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 た い へ ん 賢 い ！ ！
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 （否定はしないでしょうね…）
+
+# Adventure description
+
+0x00000003 ミスター・パズルがあなたの頭脳に挑戦してきました。謎の鍵を入手できるでしょうか？
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 パズル、ミスター・パズル、ゲート、鍵
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 鍵だ！　鍵だ！　判定しましょう…あなたは
+
+# Act 4 name
+
+0x00000102 すばらしい！
+
+# Act 1 description
+
+0x00000021 ミスター・パズルの出し物は予想がつきません。謎のテントの中に、今日は何があるのでしょうか？
+
+# Act 4 description
+
+0x00000103 ミスター・パズルはとても感心しています！
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 このパズルはそう難しくないでしょう…
+
+# 'Adventure start' message
+
+0x00000010 ミスター・パズルは銀河を旅し、老人にも子供にも謎をかけています。この荒れた惑星に、彼はどんな謎を持ち込んだのでしょうか？
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 お手上げなら、両方の手を使ってみましょう。
+
+# Act 2 name
+
+0x00000100 謎の鍵
+

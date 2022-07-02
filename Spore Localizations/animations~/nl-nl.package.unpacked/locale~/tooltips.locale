@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE7B Standhouden
+0x0567AE82 Agressief
+0xF67C278E Algemene vaardigheden
+0x0568AE91 Steekpenningen en verwarring
+0x0568AE92 Advertentiecampagne
+0x0568AE70 Militaire wapens
+0x0568AE71 Napalmbom
+0x0568AE72 Nucleaire bom
+0x0568AE80 Religieuze krachten
+0x0568AE81 Gebedsgenezing
+0x0568AE82 Beestenregen
+0x0568AE83 Verrijzenis van de Messias
+0x0568AE90 Economische manipulatoren
+0x0568AE93 Wereldwijde advertentiecampagne
+0xF47C278E Sociale houding
+0xF57C276F Sociale houding
+0xF57C278E Aanvalshouding
+0xF57C279A Aanvalshouding
+0x0568AE73 Intercontinentale raketaanval
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+
+### Global UI specific ###
+
+0x04BC1A80 DNA-punten. Haal DNA-punten uit voedsel, en geef ze uit aan onderdelen.
+0xF27C278D Ga naar land. Eet om te groeien.
+0xF57C278D DNA-punten
+0xF77C278D Vergroot de bevolking door te paren en te rekruteren, zo WIN je!
+0xF87C278D Verzameld eten
+0x04CAC3C1 Overwin of word bondgenoten met andere stammen om voortgang te boeken
+0x04CAC3C2 Overwin of word bondgenoten met andere stammen om voortgang te boeken
+0x04CAC3C3 Overwin of word bondgenoten met andere stammen om voortgang te boeken
+0xF47C279B Onderdelen beschikbaar gemaakt
+0xF47C279A Missielijst
+0xF47C279D Voltooide missies
+0xF47C279C Lopende missies
+0x0643EDBE Je hebt ruimtereizen uitgevonden
+0x0643EDB7 Je hebt luchtvoertuigen uitgevonden
+0xF47C278D Je moet vijf steden in je macht hebben om ruimtereizen te kunnen uitvinden
+0x0643ED9B Je hebt zeevoertuigen uitgevonden
+0x04CAC3C4 Je moet de macht hebben over twee steden om zeevoertuigen te kunnen uitvinden
+0x062EABDE Vereist 1 stad
+0x062E9EC2 Vereist 2 steden
+0x062E9ECA Vereist 6 steden
+0xF67C278D Verdien DNA om vooruitgang te boeken
+0x04CAC3D4 Draaien
+0x04CAC3D5 Draaien
+0x064A7064 Koop landvoertuig ($ 1000)
+0x064A7057 Koop luchtvoertuig ($ 3000)
+0x064A705D Koop zeevoertuig ($ 1500)
+0x065FC365 Stamplanner
+0x06565205 Kolonieplanner
+0x064A7050 Stadsplanner
+0x062E9EC6 Vereist 4 steden
+0xF17C278D Geschiedenis
+0x04CAC3C5 Je moet vier steden in je macht hebben om luchtvoertuigen te kunnen uitvinden
+0x04CAC3D6 Inzoomen
+0x04CAC3D7 Uitzoomen
+0x065FC366 Voeg jonkie toe (~tribe_food_required_for_baby~ stuks voedsel)
+0x062DACA9 Voltooi de wezenfase om deze vaardigheid vrij te spelen.
+0x062DACAD Voltooi de stamfase om deze vaardigheid vrij te spelen.
+0x062DAC92 Voltooi de celfase om deze vaardigheid vrij te spelen.
+0x062E98FB Gevolgvaardigheden
+0x06453852 Doorgaan naar ruimte
+0x0645384B Doorgaan naar stam
+0x06453842 Doorgaan naar wezen
+0x0645384F Doorgaan naar beschaving
+0x04CAC3D8 Sporedollars
+0x065767B3 - Moet een zeestad zijn
+0x065767B7 - Vereist 2 steden
+0x06562784 - Vereist meer huizen
+0x0657690C - Creëer een zeevoertuig in de stadsplanner
+0x0657690D - Creëer een luchtvoertuig in de stadsplanner
+0x065767BB - Vereist 4 steden
+0x0657690B - Creëer een landvoertuig in de stadsplanner
+0x065CD6F2 - Totale voertuigencapaciteit bereikt
+0x065F79F0 Inkomen: + $ ~civ_income~/min
+0x065FC369 - Stam is vol
+0x0671FB71 - Niet genoeg Sporedollars
+0x065FC367 - Niet genoeg voedsel
+0x065FC368 - Grotere hut vereist
+
+#### CSA Spore Guide ###
+
+0x04F65BBB Welkom bij Spore
+0x04F65BBC Beginnen
+0x04F65BBD Bouwmodus
+0x04F65BBE Proefrit
+0x04F65BBF Verfmodus
+0x063C34EB Nieuwe creatie laden
+
+### Consequence Timeline ###
+
+0x06131BB0 Kijkje op de tijdslijn
+0x06131BB1 Kijkje in de gevolgen
+0x06131BB2 Evolutieklok
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Kopen
+0xF47C273B Volgende pagina
+0xF57C273B Vorige pagina
+0xF67C273B Vanaf de grond opbouwen
+0xF87C273B Verkopen
+0xF27C273B Delen
+0xF17C273B Bewerken
+0xF77C273B Sorteren:
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Hulp bij wezen
+0xF81C283C Hulp bij stam
+0xF81C284C Hulp bij beschaving
+0xF81C286C Hulp bij ruimte
+0x05B5517E Celhulp
+0xF81C287C Hoofdmenu helpsectie
+0xF81C285C Hulp bij schepper
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Alles selecteren
+0xF87C278E Selecteer een vriend
+0x05D298AC Vraag een bondgenoot om een ruimteschip
+0xF97C278E Gebruik je sociale vaardigheden om een bondgenoot aan je troep toe te voegen
+0x0614906C Klik om een jonkie toe te voegen
+
+#### Global UI Space ####
+
+0xF57C270A Aardvormend gereedschap
+0x93CF382F Planeet volgen
+
+#### Planners -- Global ### (not CSA)
+
+0x04BAFA06 Limiet religieuze voertuigen
+0x0F1C278E Limiet gebouwen en torens
+0x04BAFA05 Limiet militaire voertuigen
+0x04BAFA07 Limiet economische voertuigen
+0xF27C278E Limiet oogstvoertuigen
+0xF57C278F Bevolking
+0xF58C278F Geluk
+0xF59C278F Verdediging
+0xF60C278F Economie
+0xF70C278F Outfit aanpassen
+0x0626EA63 Religieuze steden die je bezit
+0x0626EA64 Economische steden die je bezit
+0x0626EA62 Militaire steden die je bezit
+0xF71C278F Saai level
+0xF72C278F Uitgeput level
+0x06381A16 Voertuigenoverzicht
+0x06381A13 Het inkomen van de natie per minuut
+0x06381A1B Het inkomen van de planeet per minuut
+0x06381A17 Gebouwenoverzicht
+0x06381A18 Je stamnaam
+0x06381A19 Je natienaam
+0x06381A1A Je rijksnaam
+0x0653C13C Vorige stad
+0x0653C13B Volgende stad
+0x0653C13E Vorige kolonie
+0x0653C13D Volgende kolonie
+0x05342949 Verbeter de terrascore om toegang te krijgen tot meer structuren
+
+#### Playmode.layout (not CSA)
+
+0x05B04FE7 Maya Export
+0x058B867E Geanimeerde avatar opnemen
+
+## cell ##
+
+0x03000000 Partner roepen
+0x03000002 Roep een partner om naar de celschepper te gaan!
+0x03000001 Roep een partner om naar de celschepper te gaan!
+0x03000003 Ontwikkel benen en ga aan land!
+
+## Lock Icon##
+
+0x0679F344 Kan niet bewerken
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Opslaan
+0xF81C238B Naar hoofdmenu
+0xF81C248B Content uitsluiten
+0xF81C25AB Opnieuw doen
+0xF81C25CB Ongedaan maken
+0xF81C26CB Accepteren
+0xF81C276B Spore-gids
+0xF81C277B Opties
+0xF81C27CB Wissen
+0xF81C28CB Sluiten
+0xF81C292C Versturen
+0xF81C304C Annuleren
+0xF81C305C Ontwikkel je tot landbewoner!
+0xF81C306C Terug
+0xF81C307C Info
+0xF81C309C Versturen
+0xF81C308C Afmelden
+0x0615FFA4 Outfit
+0x0615FFA5 Spel spelen
+0xF81C228B Spel afsluiten
+0xF81C312C Details bekijken
+0xF81C313C Zoekresultaten wissen
+0xF81C310C Annuleren - Niet opslaan
+0x0615DD1B Al gedeeld
+0x0615DD1C Je moet opslaan voor je kunt delen
+0x0615FFA9 Gezondheid
+0x0615FFA8 Verbergen
+0x0615FFA7 Tonen
+0x0615FFB0 Honger
+0xF81C258B Instellingen
+0x0612F6B6 Delen
+0x0655200D Spelen
+0xF81C278B Pauze
+0xF81C281C Verbergen
+0xF81C311C Creatie verbannen
+0x0615FFA6 Mijn verzamelingen
+0xF81C303C Herladen
+0xF81C314C Maatje toevoegen
+0xF81C28CC Opslaan en Afsluiten
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Aantal kolonies op deze planeet
+0xF72C27AA Bevolking
+0xF72C27BB Geluk
+0xF72C27CC Inkomen
+0xF72C27DD Verdediging
+0x06381A14 Planeetterrascore
+
+### Options Panel###
+
+0xF57C775E Instellingen
+0xF57C777E Spore afsluiten
+0xF57C776E Spel hervatten
+0xF57C778E Editing Hervatten
+0xF57C674D Verbannen
+0x0678C049 Verlaat de schepper voor je Spore afsluit
+0x0678C04B Uitsluitingsmodus niet beschikbaar in celfase
+0xF57C573C Vergrootglas
+0x0678C04A Kijkmodus niet beschikbaar in celfase
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Onderdelen beschikbaar gemaakt
+0x05837B77 Onderdelen beschikbaar
+
+#### CSA ### 
+
+0x04E404FA Help
+0x04E404FC Sporepedia
+0x04E404F9 Opties
+0x04E404FB Opties
+0x04E404FE Wezen opslaan
+0x04E404FF Instellingen
+0x04E404FD Nieuwe creatie
+0x04E404F8 Spore-nieuws
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08851 Kies een willekeurige naam
+0x05B08862 Kies een willekeurig object
+0x05B08754 Selecteer een cel
+0x05B08755 Selecteer een wezen
+0x05B08756 Selecteer een stamwezen
+0x05B08757 Selecteer een beschavingswezen
+0x05B08758 Selecteer een ruimtewezen
+0x05B08759 Selecteer een stadhuis
+0x05B08760 Selecteer een ruimteschip
+0x05B08863 Blokkeer object
+
+### Editor Camera instructions ###
+
+0x05013A32 Draaien
+0x05013A31 Draaien
+0x05013A33 Inzoomen
+0x05013A34 Uitzoomen
+
+#### Editors -- Global ###
+
+0xF37C273B Budget
+0xF37C275B Bouwmodus
+0xF37C277B Proefrit
+0xF37C278C Geef me een naam
+0x05AF4A02 Meer categorieën
+0x05AF4A03 Meer categorieën
+0xF37C274B Complexiteitsmeter
+0xF37C276B Verfmodus
+0x05AF4A06 Nieuwe standaardkleur
+0x064D2883 Budget
+0x064D2882 Budget
+0x064D2885 Budget
+0x064D2884 Budget
+0x05AF4A05 Verven als '~newmodelname~'
+0x05AF4A04 Verven als…
+0xF37C278D Verbergen
+
+#### GGE #####
+
+0xF18C213B Sporepedia
+0xF36C273B Spore.com
+0xF45C273B Inloggen & registreren
+0xF82C275B Spel spelen
+0xF81C275B Ruimteschipschepper
+0x0577BFC5 Naam genereren
+0xF54C273B Scheppers
+0xF63C273B Celschepper
+0xF72C273B Wezenschepper
+0xF81C271B Gebouwenschepper
+0x063AEAA9 Groot uitzicht
+0xF27C223B Spore-catalogus
+0xF81C2A3B Aankleder
+0x0609BC40 Ruimte-aankleder
+0x0609BC3D Beschavingsaankleder
+0x0609BC24 Stamaankleder
+0xF81C274B Voertuigschepper
+0xF81C273B Voertuigschepper
+0xF81C272B Voertuigschepper
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/uur
+
+##GGE General##
+
+0x05B08744 Annuleren
+0x05B08745 Informatie
+0x05B08747 Terug
+0x05B08748 Sporecastthema
+0x05B08749 Voorbeeldobjecten
+0x05B08750 Identiteitskleur
+0x05B08751 Vrijgespeeld
+0x05B08752 Geblokkeerd
+0x05B08753 Willekeurig
+0x05B08746 Verder
+

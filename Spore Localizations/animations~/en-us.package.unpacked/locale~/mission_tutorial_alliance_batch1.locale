@@ -1,0 +1,39 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000003 Our strategists are nervous. They've heard some rumors about the Grox, and they're concerned that we might be headed for a confrontation. They are probably right.~p~You've done a great job of expanding our empire. But if it comes to an interstellar fight with the Grox, we're just not ready. We don't have the economy to support it, and we don't have the military force to fight it.~p~We need to make some allies.
+0x00000007 Tell me more. I'm fascinated!
+0x0000000B I'm not interested right now. Maybe later.
+0x00000002 All right, it's time to start negotiating. Head over to star systems controlled by other empires and use your comm screen to ask about an alliance.~p~You might not get a positive response at first, but don't give up! Do whatever you can to win over the hearts and minds of other species. We need at least ~mission_badge_needed_total~ other empires on our side.~p~You've managed our expansion, now it's time to manage our diplomacy. Head out into the galaxy and forge ~mission_badge_needed_total~ alliances!
+0x00000022 I'll do it.
+0x00000029 Reject
+0x00000033 Excellent! With the backing of our new allies, there's nothing in the galaxy that we can't handle.~p~As an empire, we're finally big enough and strong enough to do whatever we want. There's a whole galaxy out there to explore! Get to it, and don't let anybody -- not even the Grox -- stand in your way.
+0x00000034 Yippee! Before I go...
+0x0000003A I'm off to try my Soothing Song!
+0x00000004 No luck so far? Well, you're not going to make any allies by sitting around!~p~Head back out into the galaxy and negotiate alliances with at least ~mission_badge_needed_total~ other ~^p^mission_badge_needed_total^empire^empires~.
+0x0000004A Got it. One other thing...
+0x0000004E Keep the training fee...but I'm dropping out.
+0x00000053 Now you see me, now you don't.
+0x0000000E Thanks Captain! The fate of the ~player_species~ rests on your shoulders.
+0x00000005 I'd like to ask you about something else...
+0x0000005F Now you see me, now you don't.
+0x0000000F Rejecting this mission will leave us vulnerable to Grox attacks.~p~This is truly a sad day.  
+0x0000006B I'd like to ask you about something else...
+0x00000071 Now you see me, now you don't.
+0x00000010 Giving up so soon?~p~But we already started planning the parade.  
+0x00000006 I'd like to ask you about something else...
+0x0000007E Now you see me, now you don't.
+0x00000084 ...
+0x00000008 I'm supposed to do what, now?
+0x00000009 I'd like to ask you about something else...
+0x00000085 Now you see me, now you don't.
+0x00000011 Make ~mission_badge_needed_left~ more ~^p^mission_badge_needed_left^alliance^alliances~.
+0x00000012 Return home to complete mission.
+0x00000013 Raise your relationship with other species to form alliances.
+0x00000014 Mission Control is looking forward to the good news.  
+0x00000016 Make alliances with ~mission_badge_needed_total~ other ~^p^mission_badge_needed_total^Empire^Empires~.~p~Make alliances by raising your relationship with other species. You can raise your relationship by completing missions, giving gifts, or trade routes.~p~Once you've completed your mission, return to your homeworld.~p~Completing this mission will earn you ~mission_rewards~ Sporebucks.  
+0x00000017 Congratulations! Return home to complete your mission.

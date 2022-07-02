@@ -1,0 +1,25 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000001F You've accomplished the mission on ~mission_target_planet~. Report back to your home planet ~mission_source_planet~ in system ~mission_source_star~.
+0x00000007 Our scientists have fitted your ship with a teleportation device that will beam you and your crew down to the planet's surface to perform planetary missions.~p~All the cool Captains have them.~p~Are you ready to visit Vat Tego?
+0x00000005 Beam Down?
+0x00000008 An Adventure!  Count me in.
+0x0000000D Have you checked your Mission Log lately?! ~p~You need to get to Vat Tego Spaceport on planet ~mission_target_planet~, right away.  This could be the most important mission of your career.
+0x00000001 Mission Control has an exciting new mission instore for you.~p~We want you to travel to the planet ~mission_target_planet~ and perform a reconnaissance mission at the Vat Tego Spaceport.
+0x0000001A Visit Vat Tego on planet ~mission_target_planet~.
+0x0000001B Report back to home planet ~mission_source_planet~.
+0x0000000A Welcome back Captain!  Data from your Ship's log says you've aquired all the information needed about becoming a skilled Space Captain.~p~ Let's recap shall we?~p~First, you'll need to perform Adventure missions to raise your Captain experience.  As you rise in ranks, you'll aquire new accessories and abilitites for you to equip.  Aquiring crew members from your fleet will only make missions easier when planetside.~p~Piece-o-cake!  Now get out there, your saga is waiting to begin.
+0x00000004 Commanding a Spacecraft is only half of the responsibilities of a Space Captain.  The other half requires planetside tactical skills, where you and your crew will need to leave your Spaceship and beam down to planets.
+0x00000011 Super!  Once you get to planet ~mission_target_planet~ just fly down into the planet as usual to start the beam-down sequence.~p~Look for the Head Bot when you get to Vat Tego.  He'll have more information on where to go and who to see once at the Spaceport.~p~Safe journeys Captain.
+0x00000020 In Progress
+0x00000022 Success! Report to the ~mission_source_star~ star system.
+0x0000001D Heading: ~mission_source_star~ system.
+0x00000002 Tell me more...
+0x0000001C Travel to ~mission_target_star~ star system. Talk to the Head Bot to learn more about the mission.
+0x00000021 Completed
+0x0000001E Travel to ~mission_target_star~ star system.  Beam down to Vat Tego Spaceport on the planet ~mission_target_planet~.  Talk to the Head Bot to learn more about the mission.
+

@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x071877C5 ~ep1_adventure_name~ saved.
+0x0757671A Start
+0x071877BA Her kommer det tekst generert av opphavspersonen om fullført eventyr.
+0x07186066 Poengsum for ~ep1_adventure_lose~ ~br~: ~ep1_score~ ~br~ time: ~ep1_time~
+0x070B1805 Start på nytt
+0x070B17F3 Her kommer det tekst generert av opphavspersonen om mislykket eventyr.
+0x070B1800 Avslutt
+0x07959A07 Eventyret trenger en kaptein i verden, på et gyldig sted, før det kan lagres.
+0x071877AD Poengsum for ~ep1_adventure_win~ ~br~: ~ep1_score~ ~br~ time: ~ep1_time~
+0x071877C1 Forfatteren av dette eventyret har så langt ikke gitt eventyret en introduksjon.~p~Klikk på Intro-knappen i aktpanelet i eventyrskaperen for å skrive inn en introduksjon.
+0x07CCEEFC Mannskap
+0x07B4DD6E Eventyret trenger en kaptein på et gyldig sted, før det kan lagres.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Målet har en uidentifisert parameter.
+0x07D91076 Målet er ugyldig.
+
+# instance checks
+
+0x07D910E4 Målet kan ikke gjelde noe som er satt til territoriell eller aggressiv for akten.
+0x07D910E6 Målet kan ikke gjelde storslagne skapninger.
+0x07D910E8 Målet kan ikke gjelde noe som er fiendtlig i akten.
+0x07D910E1 Målet er på et ugyldig sted.
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Alt
+
+# Second, for buildings and vehicles
+
+0x07B51559 Bring...
+0x07B5154F Ødelegg
+0x07B51562 Gi...
+0x07B5155C Samle
+0x07B5154C Undersøk
+0x07B51549 Gå til
+0x07B51564 Blokker...
+0x07B51567 Forsvar
+0x07B55060 Undersøk ~ep1_goal_target_name~
+0x07B55063 Ødelegg ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ ødelagt)
+0x07B5505D Dra til ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ fullført).
+0x07B5506A Bring ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B55076 Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x07B55079 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Finn og ta med deg ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ tatt med)
+0x07B55073 Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A47 Bring ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A49 Samle ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Undersøk ~ep1_goal_target_name~
+0x07B52A44 Ødelegg ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A4E Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x07B52A3A Beveg To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Målets helse er satt til usårbar for denne akten.
+0x07D910C4 Målets helse er satt til null for denne akten.
+0x07D910C0 Målet er satt til usynlig for denne akten.
+0x07D910CB Målet gjelder ikke skapninger.
+0x07D910CD Målet gjelder ikke fremkomstmidler.
+0x07D910DA Målet gjelder ikke avataren.
+0x07D910DD Minst ett av målene må være flyttbare.
+0x07D910D8 Målet gjelder ikke spillgjenstander.
+0x07D910CF Målet gjelder ikke bygninger.
+0x07D910D3 Målet gjelder ikke stasjonære gjenstander.
+0x07D910D5 Målet gjelder ikke ikke-håndholdte gjenstander.
+
+# Special first half of give goal:
+
+0x079E8291 Finn ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Vannfremkomstmidler kan ikke plasseres på land.
+0x07D8B21E Landfremkomstmidler kan ikke plasseres på vann.
+0x07D8C654 Skapninger kan ikke plasseres på vann.
+0x07D8C658 Gjenstanden er for langt over planetens overflate.
+
+# Goal strings used for mission cards
+
+0x0727D37F Feil: Du har ikke bestemt et mål
+
+# Sculpt panel UI
+
+0x07316C08 Flora
+0x07316C07 Flora
+0x07316C0A Planetfarger
+0x07316C09 Vær
+0x07316C0D Enkle verktøy
+0x07316C0E Veier
+0x07316C00 Terreng
+0x07316C04 Vann
+0x07316C05 Terraforming
+0x07316C02 Atmosfære
+0x0768A3E9 Kontinenter og øyer
+0x0768A339 Hav og innsjøer
+0x07316C03 Temaer
+0x079EDFB9 Spesial
+0x07316C01 Planettemaer
+0x07316C0C Elver
+0x07316C0B Terrengfarger
+0x07316C06 Fjell
+0x07316C10 Strender #REMOVED?
+0x07316C0F Canyons #REMOVED?
+0x07B2739C Daler
+0x07B280CB Åser
+0x07B278FF Brolagte veier
+0x07B27900 Teknoveier
+0x07B27901 Torg
+0x07B278FD Grusstier
+0x07B278FE Brolagte veier
+
+# Third, for all other (tools)
+
+0x07968DE4 [Mål ikke satt]
+0x07B51633 Hold
+0x07B52A61 Hold ~ep1_goal_target_name~
+0x07B5508D Hold ~ep1_goal_target_name~
+0x07B51644 Forsvar
+0x07B5163F Blokker...
+0x07B51611 Undersøk
+0x07B5160C Gå til
+0x07B51628 Bring til...
+0x07B51637 Gi...
+0x07B5162D Samle
+0x07B52A65 Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x07B52A68 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A63 Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A59 Bring ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A5E Samle ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Undersøk ~ep1_goal_target_name~
+0x07B55092 Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x07B55095 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508F Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B55088 Bring ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B5508A Finn og ta med deg ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ tatt med)
+0x07B5507B Dra til ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ fullført).
+0x07B5507E Undersøk ~ep1_goal_target_name~
+0x07B52A52 Beveg To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 Mål 2 fullført
+0x07292A93 Mål 3 fullført
+0x07292A8D Mål 1 fullført
+0x07290AF0 Mål 1-økning
+0x07290AF5 Mål 2-økning
+0x07290AF8 Mål 3-økning
+0x074BB7EC Akt ~ep1_current_act~ av ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07DA2A90 Gjenstandene er for nær hverandre, i og med at begge nå er synlige i akten ~ep1_visibility_intersect_act~
+0x07D8FA97 Fremkomstmidler kan ikke være for nær håndholdte gjenstander.
+0x07D8FA93 Fremkomstmidler kan ikke være for nær statiske ornamenter.
+0x07D8FA90 Fremkomstmidler kan ikke være for nær skapninger.
+0x07D8FA99 Fremkomstmidler kan ikke være for nær steiner.
+0x07D8FAA1 Statiske ornamenter kan ikke være for nær fremkomstmidler.
+0x07D8FA9E Fremkomstmidler kan ikke være for nær spillgjenstander.
+0x07D8FA8D Fremkomstmidler kan ikke være for nær bygninger.
+0x07D8FA7C Skapninger kan ikke være for nær steiner.
+0x07D8FA79 Skapninger kan ikke være for nær statiske ornamenter.
+0x07D8FA77 Skapninger kan ikke være for nær hverandre.
+0x07D8FA87 Fremkomstmidler kan ikke være for nær hverandre.
+0x07D8FA85 Bygninger kan ikke være for nær fremkomstmidler.
+0x07D8FA82 Bygninger kan ikke plasseres under storslagne skapninger.
+0x07D8FABB Spillgjenstander kan ikke være for nær fremkomstmidler.
+0x07D8FAA8 Håndholdte gjenstander kan ikke være for nær hverandre.
+0x07D8FAA5 Håndholdte gjenstander kan ikke være for nær fremkomstmidler.
+0x07D8FAA3 Statiske ornamenter kan ikke være for nær skapninger.
+0x07D8FAAA Håndholdte gjenstander kan ikke være for nær steiner.
+0x07D8FAB2 Steiner kan ikke være for nær håndholdte gjenstander.
+0x07D8FAAF Steiner kan ikke være for nær skapninger.
+0x07D8FAAD Steiner kan ikke være for nær fremkomstmidler.
+0x07D8FA75 Storslagne skapninger kan ikke stå på bygninger.
+0x07D8FA72 Skapninger kan ikke være for nær fremkomstmidler.
+0x07ECC0AB Steiner kan ikke være for nær hverandre.
+0x07D8FA7F Skapninger kan ikke være for nær flora.
+0x07D8FA6F Disse gjenstandene kan ikke være for nær hverandre.
+0x07D8FAB5 Flora kan ikke være for nær skapninger.
+0x07D8FAB8 Flora kan ikke være for nær fremkomstmidler.
+0x07D8FA9C Fremkomstmidler kan ikke være for nær flora.
+
+# Goal string for goal count combo box:
+
+0x07C53729 Alt
+
+# inter-act checks
+
+0x07D91134 Bring- og Blokker-mål i samme akt kan ikke ha samme mål.
+0x07D91132 Måltallet er i konflikt med et annet mål i akten.
+0x07D91130 Målet er et duplikat av et annet mål i akten.
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B4 Samle
+0x073C19B1 Bli venn med
+0x073C19B8 Forsvar
+0x073C19AE Gå til
+0x073C19AF Snakk med
+0x073C19B3 Ta med...
+0x073C19B6 Gi...
+0x073C19B7 Blokker...
+0x073C19B2 Allier deg med...
+0x073C19B0 Drep!
+
+# goal count checks
+
+0x07D91125 Det må være minst et mål som kan brukes.
+0x07D91128 Det må være minst to mål som kan brukes.
+0x07D9112B Måltallet er "alle", men det finnes ingen mål som kan brukes.
+0x07D91122 Måltallet er større enn antall mulige mål.
+0x07D9112E Ikke tilstrekkelig antall plasser i gjengen.
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 Du greide ikke å holde ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~.
+0x0796CEE4 Du døde.
+0x0796CFDD Du slapp opp for tid.
+0x0796CFE5 Du greide ikke å forsvare ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796D599 Du kan ikke lenger fullføre dette målet: ~ep1_goal_description~
+0x0796D59A Du fullførte ikke dette målet: ~ep1_goal_description~
+0x07C50B5F Denne akten har to like mål.
+
+# First, for creatures
+
+0x07311C75 Forsvar ~ep1_goal_total~ ~ep1_goal_target_name~
+0x072AA965 Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07311C6E Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x0727D387 Snakk med ~ep1_goal_target_name~
+0x0727D38E Bli alliert med ~ep1_goal_target_name~ (blitt alliert med ~ep1_goal_progress~ av ~ep1_goal_total~)
+0x0727D38B Bli venn med ~ep1_goal_target_name~ (blitt venn med ~ep1_goal_progress~ av ~ep1_goal_total~)
+0x0727D391 Ta med ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x0727D384 Dra til ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ fullført).
+0x0727D389 Drep ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ drept)
+0x072AA963 Finn og ta med deg ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ tatt med)
+0x07B52A25 Snakk med ~ep1_goal_target_name~
+0x07B52A21 Beveg To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Drep ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Bli alliert med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Bli venn med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E Bring ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A36 Hold ~ep1_goal_target_name~ unna ~ep1_goal2_target_name~
+0x07B52A31 Samle ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A34 Gi ~ep1_goal_target_name~ til ~ep1_goal2_target_name~
+0x07B52A38 Forsvar ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Eventyret ~timelinePlanetName~ er fullført.
+0x076B2671 ~timelineMySpeciesName~ oppdaget delen ~timelinePartName~.
+0x076B2675 ~ep1_captain_name~ har blitt forfremmet til ~ep1_captain_primary_title~.
+0x076B2674 Forfremmet
+
+# Used for palette
+
+0x079C4769 Spillgjenstander
+0x0710310C Rollefigurer som brukes
+0x07103108 Skapninger
+0x07103109 Stasjonære gjenstander
+0x0710310A Lyd
+0x07103106 Bygninger
+0x07103107 Fremkomstmidler
+0x0710310B Effekter
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Gi eventyret et navn
+0x075E40EF Scenarioovergang, undertittel 3
+0x075E40EE Scenarioovergang, undertittel 2
+0x075E40ED Scenarioovergang, undertittel 1
+
+# other
+
+0x07D91140 Reservert hjelpehint 5
+0x07D9113E Reservert hjelpehint 4
+0x07D9113B Reservert hjelpehint 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

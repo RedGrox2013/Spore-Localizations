@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000098 完了
+0x00000097 進行中
+0x000000B1 ~mission_target_planet~で、調査施設に侵入しましょう。
+0x000000B2 ~mission_source_planet~へ報告に戻りましょう。
+0x00000099 成功です！　~mission_source_star~へ報告しましょう。
+0x00000093 ~mission_source_star~へ向かいましょう。
+0x0000004E ミッションログには必要な情報が全て記録されています。~p~いいですか、あなたの仕事は科学的なデータを集めることです。何も壊さないでくださいね。
+0x00000064 私たちのスパイ、ベンチュイがすでに基地へ潜入しています。警備を潜り抜け、彼と会ってください。その後の指示をしてくれます。~p~~ep1_captain_full_name~、これは戦闘ミッションではありません！　隠密行動と忍耐が鍵になります。~p~がんばってください！
+0x00000081 燃え上がるパルサー兵器に突入してくれ、と頼んでいるわけではありません。TX-5000技術のちょっとしたサンプルが欲しいだけなのです。~p~近づき過ぎなければ、蒸発させられる可能性はとても低いですよ。
+0x00000071 私たちの分析によれば、あなたの成功確率は92.3%です。これをお伝えすれば、考えを変えていただけるでしょうか？
+0x00000094 ~mission_target_star~にある~mission_target_planet~で、調査施設に侵入しましょう。隠れて行動し、衝突は避けてください。
+0x00000092 ~mission_target_star~で、調査施設に侵入してください。隠れて行動し、衝突は避けてください。
+0x00000000 実はですね、~ep1_captain_full_name~。さきほど恐ろしい知らせが届きました。シー・サボイドの科学者たちが、~mission_target_planet~に巨大兵器を建設しています。~p~現地へ転送降下し、彼らの技術を調査する必要があります。やっていただけませんか？
+0x00000095 TX-5000の兵器プログラムは停止しました。~mission_source_star~にある、~mission_source_planet~へ報告に戻りましょう。
+0x00000041 TX-5000が爆発してしまうとは。運が良ければ、残骸から動力源を解析できるでしょう。~p~もちろん、技術を武器に使ったりはしませんよ。私たちが興味を持っているのは…　ええと…　クリーンで再生可能なエネルギーの可能性です。~p~いずれにせよ、ありがとうございました。~mission_rewards~スポアバックスはあなたのものです。
+

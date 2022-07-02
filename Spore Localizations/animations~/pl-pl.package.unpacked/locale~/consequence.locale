@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x0001003F Czarna chmura
+0x00010040 Ta umiejętność wyłącza budynki rozrywkowe i wieżyczki, co powoduje ~br~niezadowolenie mieszkańców miasta.
+
+# CLG_Plant
+
+0x00000042 Roślinożerca
+0x00000043 Roślinożerne komórki odżywiają się materią roślinną.
+
+# CRG_CLG_Plant
+
+0x00010022 Syreni śpiew
+0x00010023 Ta umiejętność spowoduje, że stwory znajdujące się w pobliżu będą Tobą~br~zauroczone przez jakiś czas. Dzięki temu łatwiej będzie zaznajomić się z nimi.
+
+# SPG_CRG_Mix
+
+0x0001004E Ta umiejętność zwiększa szybkość podróży międzygwiezdnych.
+0x0001004D Demon szybkości
+
+# CVG_CRG_Attack
+
+0x00010037 Superbomba
+0x00010038 Ta umiejętność uszkadza wszystkie budynki i pojazdy znajdujące się w ~br~zasięgu eksplozji.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Fanatyczna gorączka
+0x0001006C Nawraca wszystkie miasta.
+
+# SPG_Wanderer_Tool
+
+0x00010067 Magik gatunkowy NOT IN USE
+0x00010068 Dobiera losowo gatunki na planecie. NOT IN USE
+
+# CVG_Religious
+
+0x00000056 Religijne cywilizacje czerpią moc ze słów i idei, aby nawracać inne narody na swoją wiarę.
+0x00000055 Religijne
+
+# SPG_TRG_Social
+
+0x00010052 Ta umiejętność poprawia początkowe stosunki z obcymi cywilizacjami.
+0x00010051 Uprzejme powitanie
+
+# TRG_Mix
+
+0x0000004F Przedsiębiorcze
+0x00000050 Przedsiębiorcze plemiona wykorzystują okazję, atakując lub tworząc sojusze, gdy to konieczne. Świetni z nich sojusznicy, ale lepiej mieć na nich oko.
+
+# CVG_CRG_Mix
+
+0x0001003B Korupcjonizator
+0x0001003C Ta umiejętność powoduje, że nieprzyjacielskie pojazdy znajdujące się w ~br~zasięgu eksplozji zaczynają się wzajemnie atakować.
+
+# CVG_TRG_Mix
+
+0x00010042 Ta umiejętność umożliwia szybsze wykupienie miasta.
+0x00010041 Agresywna kampania reklamowa
+
+# SPG_CRG_Social
+
+0x0001004B Ułagodzenie
+0x0001004C Ta umiejętność wywołuje zadowolenie we wszystkich koloniach i zmniejsza ~br~prawdopodobieństwo buntu.
+
+# SPG_CVG_Military
+
+0x00010055 Piraciwon
+0x00010056 Ta umiejętność odstrasza piratów, zmniejszając prawdopodobieństwo ~br~napadu.
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Mięsożerca
+0x00000041 Mięsożerne komórki odżywiają się mięsem.
+
+# TRG_CLG_Mix
+
+0x00010029 Latające ryby
+0x0001002A Ta umiejętność umożliwia wodzowi przywołanie węża morskiego ~br~straszącego ryby, które same wyskoczą na brzeg.
+
+# SPG_TRG_Attack
+
+0x00010050 Ta umiejętność zapewnia zniżkę na wszystkie narzędzia bojowe.
+0x0001004F Handlarz bronią
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Dostępne w fazie stwora
+0x067775FA Dostępne w fazie kosmosu
+0x067775E7 Dostępne w fazie cywilizacji
+0x067775D9 Dostępne w fazie plemienia
+
+# SPG_Trader
+
+0x00000061 Kupiec
+0x00000062 Kupcy żyją dla zysku. Podporządkowują się tylko wszechpotężnemu sporylionowi.
+
+# SPG_Bard
+
+0x00000057 Bard
+0x00000058 Bardowie są towarzyskimi, otwartymi zabawiaczami kosmosu. Galaktyka to ich osobisty plac zabaw.
+
+# SPG_Warrior_Tool
+
+0x00010065 Piracki zew
+0x00010066 Otwiera tajemniczy portal dla piratów, którzy wywołują chaos na planecie.
+
+# SPG_Diplomat
+
+0x0000005D Dyplomata
+0x0000005E Dyplomaci są negocjatorami i rozwiązują problemy. Pokój zapanuje w galaktyce tylko dzięki otwartej komunikacji między gatunkami.
+
+# CVG_Economic
+
+0x00000053 Gospodarcze
+0x00000054 Gospodarcze cywilizacje używają gotówki i szlaków handlowych, aby wpływać na inne narody. Tworzą sojusze, ale zwykle same na tym bardziej korzystają.
+
+# CLG2_Discoverer
+
+0x00000103 Opis eksploratora
+0x00000102 Eksplorator
+
+# SPG_Knight_Tool
+
+0x00010069 Mini-Ty
+0x0001006A Przywołuje miniaturową kopię statku kosmicznego, która pomaga podczas ~br~eksploracji galaktyki.
+
+# CLG2_Killer
+
+0x00000100 Zabójca
+0x00000101 Opis zabójcy
+
+# SPG_Warrior
+
+0x00000065 Wojownik
+0x00000066 Wojownicy biorą to, co chcą, i nigdy nie pytają o pozwolenie. Galaktyka to nagroda, którą weźmie najsilniejszy.
+
+# SPG_Wanderer
+
+0x00000067 Odkrywca
+0x00000068 Odkrywcy pragną spróbować po trosze wszystkiego. Galaktyka jest wielka, a oni chcą poznać ją całą.
+
+# CVG_CRG_Social
+
+0x00010039 Dyploderwisz
+0x0001003A Ta umiejętność poprawia stosunki z wybranym narodem.
+
+# CRG_Attack
+
+0x00000047 Drapieżne stwory spędzają swoje życie na poszukiwaniu ofiar. Szybciej wybiją cały gatunek niż skorzystają z umiejętności „tańca” czy „uroku”.
+0x00000046 Drapieżnik
+
+# TRG_CRG_Mix
+
+0x0001002F Władca zwierząt
+0x00010030 Ta umiejętność umożliwia wodzowi rzucanie uroku na zwierzęta znajdujące ~br~się w pobliżu, które następnie pomogą ci w walce i zaznajamianiu się.
+
+# CVG_CLG_Meat
+
+0x00010031 Niezniszczalność
+0x00010032 Ta umiejętność sprawia, że przez określony czas Twoje pojazdy nie będą ~br~odnosić uszkodzeń.
+
+# TRG_CLG_Meat
+
+0x00020025 Pułapki
+0x00020026 Ta umiejętność umożliwia wodzowi zakładanie pułapek, w które~br~mogą wpadać dzikie zwierzęta.
+
+# SPG_CLG_Meat
+
+0x00010043 Superakumulator
+0x00010044 Ta umiejętność zwiększa skuteczność całego uzbrojenia.
+
+# SPG_CLG_Mix
+
+0x00010047 Spec od wszystkiego
+0x00010048 Ta umiejętność zapewnia zniżkę na całe wyposażenie standardowe.
+
+# SPG_TRG_Mix
+
+0x00010053 Gorączka kolonizacyjna
+0x00010054 Ta umiejętność zapewnia zniżkę na wszystkie narzędzia kolonizacyjne.
+
+# Zero
+
+0x06941DC3 Lat(a)
+0x06941DC0 Mld
+0x06941DC2 Tys.
+0x06941DC1 Mln
+
+# SPG_CVG_Religious
+
+0x00020059 Ekostrażnik
+0x0002005A Ta umiejętność zmniejsza częstotliwość występowania katastrof ~br~ekologicznych we wszystkich koloniach.
+
+# CLG_Mix
+
+0x00000044 Wszystkożerca
+0x00000045 Wszystkożerne komórki zjadają dowolny rodzaj dostępnej żywności.
+
+# SPG_Bard_Tool
+
+0x00010058 Służy do uspokajania obcych cywilizacji, co tymczasowo poprawia stosunki.
+0x00010057 Kojąca pieśń
+
+# CRG_Social
+
+0x00000048 Towarzyskie stwory stale szukają nowych przyjaciół i sojuszników. Napotkanie nowego gatunku to dla nich radosne przeżycie.
+0x00000147 Towarzyskie
+
+# CRG_Mix
+
+0x00000049 Zmienne
+0x0000004A Stworzenia zmienne mają wielu przyjaciół i wielu wrogów. Dokonują wyborów na podstawie bieżącej sytuacji.
+
+# SPG_CLG_Plant
+
+0x00010045 Mistrz uprzejmości
+0x00010046 Ta umiejętność zapewnia natychmiastową zniżkę przy negocjacjach ~br~związanych z narzędziami towarzyskimi.
+
+# CRG_CLG_Meat
+
+0x00010020 Wściekły ryk
+0x00010021 Ta umiejętność spowoduje, że stwory znajdujące się ~br~w pobliżu będą przez jakiś czas uciekać w przerażeniu.
+
+# CVG_CLG_Plant
+
+0x00010033 Aura remontowa
+0x00010034 Ta umiejętność naprawia wszystkie pojazdy i budynki.
+
+# SPG_Shaman
+
+0x00000064 Szamani rozumieją, że całe życie łączy wspólna więź. Cała galaktyka istnieje we wnętrzu nas wszystkich.
+0x00000063 Szaman
+
+# SPG_Ecologist
+
+0x00000059 Ekolog
+0x0000005A Ekolodzy to obrońcy przyrody. Gatunki, które próbują wykorzystać i zepsuć galaktykę, muszą zostać eksterminowane.
+
+# CVG_TRG_Attack
+
+0x0001003D Bomba gadżetowa
+0x0001003E Ta umiejętność powoduje uszkodzenie budynków i pojazdów i może ułatwić ~br~zdobywanie miast.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Zoodkurzacz
+0x0001005A Natychmiast napełnia ładownię wszystkimi gatunkami z danej planety.
+
+# SPG_Zealot
+
+0x0000005B Gorliwiec
+0x0000005C Gorliwcy są przekonani, że ich przekonania to jedyna prawda, jaka istnieje. Ci którzy nie podzielają tego przeświadczenia, nie są godni istnieć w tej galaktyce.
+
+# SPG_Trader_Tool
+
+0x00010061 Dopływ gotówki
+0x00010062 Sprawia, że natychmiast można zakupić układ, z którymi prowadzony ~br~jest handel.
+
+# SPG_CRG_Attack
+
+0x00010049 Superokaz
+0x0001004A Ta umiejętność zwiększa całkowitą wytrzymałość statku kosmicznego.
+
+# CRG_CLG_Mix
+
+0x00010024 Wezwij stado
+0x00010025 Ta umiejętność spowoduje wezwanie stada stworów, które ~br~przez jakiś czas będą pomagały ci w zaznajamianiu się i walce.
+
+# TRG_Attack
+
+0x0000004B Agresywne
+0x0000004C Agresywne plemiona usiłują wyeliminować konkurencję. Bezlitośnie atakują i gromadzą wszystkie zasoby dla siebie.
+
+# SPG_Knight
+
+0x0000006A Rycerze to szlachetni wojownicy, którzy walczą za słuszną sprawę, a nie dla zysków osobistych. Pokój nadejdzie do galaktyki tylko wtedy, gdy zło zostanie unicestwione.
+0x00000069 Rycerz
+
+# SPG_Scientist
+
+0x00000060 Naukowcy są istotami o logicznych i ścisłych umysłach. Ich zdaniem galaktyka istnieje po to, aby mogła być przebadana i zrozumiana.
+0x0000005F Naukowiec
+
+# SPG_Shaman_Tool
+
+0x00010063 Bilet powrotny
+0x00010064 Przenosi cię za jednym zamachem do Twojego układu macierzystego.
+
+# SPG_Zealot_Tool
+
+0x0001005B Fanatyczny szał
+0x0001005C Nawraca układy słoneczne obcych cywilizacji i wciela je do Twojego ~br~imperium.
+
+# SPG_CVG_Economic
+
+0x00020058 Ta umiejętność zwiększa wydobycie przyprawy we wszystkich koloniach.
+0x00020057 Znawca przyprawy
+
+# CVG_TRG_MixWin
+
+0x0001006D Spółka globalna
+0x0001006E Powoduje wykupienie wszystkich miast.
+
+# Singular
+
+0x55496324 Lat(a)
+0x55496322 Mln
+0x55496321 Mld
+0x55496323 Tys.
+
+# TRG_CLG_Plant
+
+0x00010027 Odświeżająca burza
+0x00010028 Ta umiejętność umożliwia wodzowi przywołanie burzy. Drzewa będą ~br~rodzić nowe owoce, które pospadają na ziemię.
+
+# CVG_TRG_AttackWin
+
+0x0001006F Atak balistyczny
+0x00010070 Niszczy wszystkie miasta.
+
+# CVG_Military
+
+0x00000052 Wojskowe cywilizacje polegają na broni i sile. Używają wszelkich dostępnych zasobów, aby niszczyć inne narody.
+0x00000051 Wojskowe
+
+# TRG_CRG_Social
+
+0x0001002D Fajerwerki
+0x0001002E Ta umiejętność umożliwia wodzowi wystrzeliwanie fajerwerków, które~br~poprawiają stosunki z sąsiadami.
+
+# TRG_Social
+
+0x0000004E Przyjazne plemiona rozumieją znaczenie pracy zespołowej. Tworzą sojusze, aby dzielić się zasobami i rozwijać wraz z innymi plemionami.
+0x0000004D Przyjazne
+
+# Plural
+
+0x0694179E Mld
+0x069417A0 Tys.
+0x0694179F Mln
+0x069417A1 Lat(a)
+
+# CVG_CLG_Mix
+
+0x00010036 Ta umiejętność chwilowo unieruchamia pojazdy, wieżyczki i budynki.
+0x00010035 Bomba statyczna
+
+# TRG_CRG_Attack
+
+0x0001002B Bomby zapalające
+0x0001002C Ta umiejętność umożliwia wodzowi rzucanie bombami zapalającymi, które~br~ zadają obrażenia wrogom i uszkadzają budynki.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Unieruchamia wszystkie statki i wieżyczki wroga na planecie.
+0x0001005D Pole statyczne
+
+# SPG_Scientist_Tool
+
+0x00010060 Cofa cywilizacje i budynki do epoki kamienia łupanego.
+0x0001005F Fala grawitacyjna
+
+# Timeline GUIDS
+
+0x55496320 Historia
+

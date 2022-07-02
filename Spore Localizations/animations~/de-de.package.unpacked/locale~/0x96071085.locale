@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Die folgenden in diesem Abenteuer enthaltenen Kreationen wurden vom Server gelöscht. Möchtest du sie erneut veröffentlichen, damit das Abenteuer auch von anderen gespielt werden kann?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Die folgenden Kreationen dieses Abenteuers sind bisher noch unveröffentlicht. Möchtest du sie veröffentlichen, damit das Abenteuer auch von anderen gespielt werden kann?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Einige Kreationen in diesem Abenteuer wurden gebannt.~p~ Dein Score wird nicht gewertet.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Einige Kreationen in diesem Abenteuer wurden gelöscht.~p~ Möchtest du sie erneut herunterladen?
+
+# Editing adventures offline
+
+0x07AA5B66 Ersetzen
+0x07AA5B64 Du musst dich anmelden, bevor du Kreationen für dieses Abenteuer herunterladen kannst. Wenn du diese Abenteuer bearbeitest, werden diese Kreationen ersetzt.
+0x07AA5B65 Anmeldung
+0x07AA5B67 Beenden
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Dieses Abenteuer enthält gebannte Kreationen und Kreationen mit Teilen, die du nicht hast.~p~ Einige Kreationen werden ersetzt.
+
+# Editing adventures with banned assets
+
+0x0750187C Einige Kreationen in diesem Abenteuer wurden verbannt.~p~ Einige Kreationen werden ersetzt.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Einige Kreationen in diesem Abenteuer wurden gebannt.~p~ Dein Score wird nicht bereitgestellt.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Fortschritt des Kreations-Downloads
+0x00000004 Kreations-Download fehlgeschlagen
+0x00000005 Du musst dich anmelden, um in diesem Abenteuer verwendete Kreationen herunterzuladen.
+0x00000002 Abenteuer-Kreationen werden heruntergeladen
+0x00000006 Veröffentlichen von Kreationen fehlgeschlagen.
+0x00000008 Veröffentliche ...
+0x00000007 Fortschritt beim Veröffentlichen
+0x00000003 Beenden
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Kreations-Download fehlgeschlagen. Trotzdem fortfahren? ~p~Einige Objekte werden ersetzt, und dein Score wird nicht gewertet.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Einige Kreationen in diesem Abenteuer enthalten Teile, die du nicht hast.~p~ Einige Kreationen werden ersetzt.
+

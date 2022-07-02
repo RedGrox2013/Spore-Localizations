@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE7B Difendi la posizione
+0xF67C278E Abilità generali
+0x0568AE91 Corruzione e confusione
+0x0568AE92 Campagna pubblicitaria
+0x0568AE70 Armi militari
+0x0568AE71 Bomba al napalm
+0x0568AE72 Carica nucleare tattica
+0x0568AE73 Attacco globale con missili balistici
+0x0568AE80 Poteri religiosi
+0x0568AE81 Guarigione fideistica
+0x0568AE82 Pioggia di bestie
+0x0568AE83 Avvento del Messia
+0xF57C278E Atteggiamento bellico
+0xF57C276F Atteggiamento socievole
+0xF47C278E Atteggiamento socievole
+0x0568AE90 Manipolatori commerciali
+0xF57C279A Atteggiamento bellico
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0567AE82 Aggressivo
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+0x0568AE93 Blitz pubblicitario globale
+
+### Global UI specific ###
+
+0x04BC1A80 Punti DNA. Li guadagni grazie al cibo e li puoi spendere per comprare parti.
+0x04CAC3D6 Zoom avanti
+0x04CAC3D7 Zoom indietro
+0xF27C278D Progresso verso la terraferma. Mangia per crescere.
+0xF57C278D Punti DNA
+0xF77C278D Aumenta la popolazione riproducendoti e reclutando per VINCERE!
+0xF87C278D Cibo raccolto
+0x04CAC3C1 Conquista le altre tribù o alleati con loro per fare progressi
+0x04CAC3C2 Conquista le altre tribù o alleati con loro per fare progressi
+0x04CAC3C3 Conquista le altre tribù o alleati con loro per fare progressi
+0xF47C279B Parti sbloccate
+0x04CAC3D8 Sporecrediti
+0xF47C279A Elenco delle missioni
+0xF47C279D Missioni completate
+0xF47C279C Missioni in corso
+0xF47C278D Controlla 10 città per inventare il viaggio spaziale
+0x0643EDBE Hai inventato il viaggio spaziale
+0x0643EDB7 Hai inventato i veicoli aerei
+0x062E9ECA Richiede 6 città
+0x062EABDE Richiede 1 città
+0x062E9EC2 Richiede 2 città
+0xF67C278D Ottieni DNA per progredire
+0x0643ED9B Hai inventato i veicoli marini
+0x04CAC3D4 Ruota
+0x04CAC3C4 Controlla 2 città per inventare i veicoli marini
+0x04CAC3D5 Ruota
+0x06562784 --Più case richieste
+0x065FC365 Pianificatore della tribù
+0x065767B7 --Richiede 2 città
+0x065767BB --Richiede 4 città
+0x06565205 Pianificatore della colonia
+0x065767B3 --Dev'essere una città marina
+0x0657690D --Crea un velivolo nel pianificatore della città
+0x065CD6F2 --Limite massimo veicoli raggiunto
+0x0657690B --Crea un veicolo terrestre nel pianificatore della città
+0x0657690C --Crea un veicolo marino nel pianificatore della città
+0xF17C278D Storia
+0x065FC367 --Cibo insufficiente
+0x065F79F0 Introiti: +$~civ_income~/min
+0x065FC369 --Tribù piena
+0x062E9EC6 Richiede 4 città
+0x062E98FB Abilità ereditarie
+0x06453852 Avanza alla fase Spazio
+0x064A7050 Pianificatore della città
+0x0645384B Avanza alla fase Tribù
+0x06453842 Avanza alla fase Creatura
+0x0645384F Avanza alla fase Civiltà
+0x0671FB71 --Sporecrediti insufficienti
+0x04CAC3C5 Controlla 4 città per inventare i veicoli aerei
+0x062DACA9 Completa la fase Creatura per sbloccare questa abilità.
+0x062DACAD Completa la fase Tribù per sbloccare questa abilità.
+0x062DAC92 Completa la fase Cellula per sbloccare questa abilità.
+0x065FC366 Aggiungi piccolo (~tribe_food_required_for_baby~ unità di cibo)
+0x064A7064 Acquista veicolo terrestre ($ 1.000)
+0x064A7057 Acquista veicolo aereo ($ 3.000)
+0x064A705D Acquista veicolo marino ($ 1.500)
+0x065FC368 --Richiesta una capanna più grande
+
+#### CSA Spore Guide ###
+
+0x04F65BBC Per iniziare
+0x04F65BBD Modalità Costruisci
+0x04F65BBE Modalità Prova
+0x04F65BBF Modalità Colora
+0x04F65BBB Benvenuto a Spore
+0x063C34EB Carica nuova creazione
+
+### Consequence Timeline ###
+
+0x06131BB0 Visuale cronologia
+0x06131BB1 Visuale eredità
+0x06131BB2 Orologio evolutivo
+
+#### Shopping ##### (not CSA)
+
+0xF17C273B Modifica
+0xF47C273B Pagina seguente
+0xF57C273B Pagina precedente
+0xF67C273B Crea da zero
+0xF77C273B Ordina per
+0xF87C273B Vendi
+0xF27C273B Condividi
+0xF07C273B Acquista
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Guida alle creature
+0xF81C283C Guida alle tribù
+0xF81C284C Guida alle civiltà
+0xF81C286C Guida allo spazio
+0xF81C287C Guida principale
+0x05B5517E Guida alle cellule
+0xF81C285C Guida al creatore
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Seleziona tutto
+0xF87C278E Scegli un amico
+0x0614906C Clicca per aggiungere un piccolo
+0x05D298AC Parla con un alleato per ottenere un'astronave
+0xF97C278E Socializza con un alleato per aggiungerlo al tuo gruppo
+
+#### Global UI Space ####
+
+0xF57C270A Strumenti di terraformazione
+0x93CF382F Segui pianeta
+
+#### Planners -- Global ### (not CSA)
+
+0x04BAFA06 Limite di veicoli religiosi
+0x04BAFA05 Limite di veicoli militari
+0x0F1C278E Limite di edifici e torrette
+0xF27C278E Limite di veicoli raccoglitori
+0xF57C278F Popolazione
+0xF58C278F Felicità
+0xF59C278F Difesa
+0xF60C278F Economia
+0xF70C278F Modifica l'abito
+0xF71C278F Livello di noia
+0xF72C278F Livello di stanchezza
+0x0626EA63 Città religiose possedute
+0x0626EA64 Città commerciali possedute
+0x0626EA62 Città militari possedute
+0x04BAFA07 Limite di veicoli commerciali
+0x0653C13C Città precedente
+0x0653C13B Città successiva
+0x06381A1B Introiti del pianeta al minuto
+0x06381A1A Nome del tuo impero
+0x06381A19 Nome della tua nazione
+0x06381A18 Nome della tua tribù
+0x06381A16 Riepilogo veicoli
+0x06381A17 Riepilogo edifici
+0x06381A13 Introiti della nazione al minuto
+0x0653C13E Colonia precedente
+0x0653C13D Colonia successiva
+0x05342949 Aumenta i PuntiTerra per sbloccare nuove strutture.
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Acquisisci un avatar animato
+0x05B04FE7 Esportazione in Maya
+
+## cell ##
+
+0x03000000 Chiama partner
+0x03000003 Fai evolvere le gambe e procedi sulla terra!
+0x03000002 Chiama partner: vai al Creatore di cellule!
+0x03000001 Chiama partner: vai al Creatore di cellule!
+
+## Lock Icon##
+
+0x0679F344 Impossibile modificare
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Salva
+0xF81C228B Esci dalla partita
+0xF81C238B Torna al menu principale
+0xF81C248B Bandisci il contenuto
+0xF81C25AB Ripristina
+0xF81C25CB Annulla
+0xF81C26CB Accetta
+0xF81C276B Guida di Spore
+0xF81C277B Opzioni
+0xF81C27CB Elimina
+0xF81C28CB Chiudi
+0xF81C292C Sottoponi
+0xF81C303C Ricarica
+0xF81C304C Annulla
+0xF81C305C Evolviti sulla terraferma!
+0xF81C306C Indietro
+0xF81C307C Info
+0xF81C28CC Salva ed esci
+0xF81C310C Annulla-Non salvare
+0xF81C309C Invia
+0xF81C308C Revoca l'iscrizione
+0x0615FFA4 Abito
+0x0615FFA5 Gioca
+0xF81C311C Bandisci creazione
+0xF81C312C Guarda i dettagli
+0xF81C313C Azzera la ricerca
+0xF81C314C Aggiungi amico
+0xF81C278B Pausa
+0xF81C258B Impostazioni
+0x0612F6B6 Condividi
+0x0615FFB0 Fame
+0x0615FFA9 Salute
+0x0615DD1B Già condiviso
+0x0615DD1C Devi salvare prima di condividere
+0x0615FFA7 Mostra
+0x0615FFA8 Nascondi
+0x0655200D Gioca
+0xF81C281C Nascondi
+0x0615FFA6 La mia collezione
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Numero di colonie su questo pianeta
+0xF72C27AA Popolazione
+0xF72C27CC Introiti
+0xF72C27BB Felicità
+0xF72C27DD Difesa
+0x06381A14 PuntiTerra del pianeta
+
+### Options Panel###
+
+0xF57C573C Cannocchiale
+0xF57C674D Bandisci
+0xF57C775E Impostazioni
+0xF57C777E Esci da Spore
+0xF57C776E Riprendi la partita
+0xF57C778E Riprendi la modifica
+0x0678C049 Esci dal creatore prima chiudere Spore
+0x0678C04A Modalità Cannocchiale non disponibile nella fase Cellula
+0x0678C04B Modalità Bandisci non disponibile nella fase Cellula
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Parti sbloccate
+0x05837B77 Parti sbloccate disponibili
+
+#### CSA ### 
+
+0x04E404FC Sporepedia
+0x04E404F9 Opzioni
+0x04E404FA Guida
+0x04E404FB Opzioni
+0x04E404FE Salva la creatura
+0x04E404FF Impostazioni
+0x04E404FD Nuova creazione
+0x04E404F8 Notizie di Spore
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08851 Scegli un nome casuale
+0x05B08862 Scegli una risorsa casuale
+0x05B08754 Seleziona una cellula
+0x05B08755 Seleziona una creatura
+0x05B08756 Seleziona una creatura della tribù
+0x05B08757 Seleziona una creatura della civiltà
+0x05B08758 Seleziona una creatura dello spazio
+0x05B08759 Seleziona un municipio
+0x05B08760 Seleziona un'astronave
+0x05B08863 Blocca la risorsa
+
+### Editor Camera instructions ###
+
+0x05013A33 Zoom avanti
+0x05013A34 Zoom indietro
+0x05013A32 Ruota
+0x05013A31 Ruota
+
+#### Editors -- Global ###
+
+0xF37C273B Budget
+0xF37C275B Modalità Costruisci
+0xF37C276B Modalità Colora
+0xF37C277B Modalità Prova
+0xF37C278C Dammi un nome
+0x05AF4A02 Altre categorie
+0x05AF4A03 Altre categorie
+0xF37C274B Indicatore di complessità
+0x05AF4A04 Colora come...
+0x05AF4A05 Colora come "~newmodelname~"
+0x05AF4A06 Nuovo colore predefinito
+0x064D2883 Budget
+0x064D2882 Budget
+0x064D2885 Budget
+0x064D2884 Budget
+0xF37C278D Nascondi
+
+#### GGE #####
+
+0xF18C213B Sporepedia
+0x0577BFC5 Genera un nome
+0xF36C273B www.spore.com
+0xF45C273B Accesso e registrazione
+0xF82C275B Gioca
+0xF54C273B Creatori
+0xF63C273B Creatore di cellule
+0xF72C273B Creatore di creature
+0xF81C271B Creatore di edifici
+0xF81C275B Creatore di astronavi
+0x063AEAA9 Visuale ampia
+0xF27C223B Catalogo Spore
+0xF81C274B Creatore di veicoli
+0xF81C273B Creatore di veicoli
+0xF81C272B Creatore di veicoli
+0xF81C2A3B Emporio
+0x0609BC40 Emporio spaziale
+0x0609BC3D Emporio della civiltà
+0x0609BC24 Emporio tribale
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/ora
+
+##GGE General##
+
+0x05B08744 Annulla
+0x05B08745 Informazioni
+0x05B08746 Avanti
+0x05B08747 Indietro
+0x05B08751 Sbloccato
+0x05B08752 Bloccato
+0x05B08749 Risorse campione
+0x05B08750 Colore di identità
+0x05B08753 Genera a caso
+0x05B08748 Tema della Sporevisione
+

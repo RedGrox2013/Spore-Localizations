@@ -1,0 +1,18 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000004 Workers on planet ~mission_target_planet~ are on strike!
+0x00000091 Success! Spice production resumes!
+0x00000090 Spice production is suspended and at risk of being redistributed. Travel to the ~mission_target_star~ system at once.
+0x00000001 The colony on planet ~mission_target_planet~ has reinstated their Spice Program.
+0x00000002 The citizens of planet ~mission_target_planet~ in the star system ~mission_target_star~ are on strike and refuse to produce more Spice. Furthermore, they are threatening to reallocate the current Spice storage out of the Space Program and into more terrestrial pursuits.~p~It seems they have gone so long without a visit from you that they are failing to realize how the Space Program benefits them. A simple visit from you would be the key to motivating them.~p~Set course for planet ~mission_target_planet~ at once.~p~Remember, visit your colonies regularly or they will discontinue their contributions to your Galactic Exploration.
+0x00000005 Success! The workers on planet ~mission_target_planet~ are returning to work and Spice production has resumed.~p~Remember, visit your colonies regularly or they will discontinue their contributions to your Galactic Exploration.
+0x00000006 Spice production stopped! Due to neglect, the citizens of planet ~mission_target_planet~ are on strike!
+0x00000007 Financial bust! Spice on planet ~mission_target_planet~ reallocated!
+0x00000009 Success! Workers on planet ~mission_target_planet~ resume Spice Program.
+0x0000000A Captain. We regret to inform you that the citizens of planet ~mission_target_planet~ are on strike and refuse to produce more Spice. Furthermore, they are threatening to reallocate the current Spice storage out of the Space Program and into more terrestrial pursuits.~p~It seems they have gone so long without a visit from you that they are failing to realize how the Space Program benefits them. I'm sure a simple visit from you would be the key to motivating them.~p~We hope to see you soon before the Spice is reallocated.~p~Planet ~mission_target_planet~ Out.
+0x00000013 Close Transmission

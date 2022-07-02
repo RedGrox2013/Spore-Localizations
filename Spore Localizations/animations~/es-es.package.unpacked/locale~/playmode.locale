@@ -1,0 +1,188 @@
+﻿# capture GIF
+
+0x058B90F2 Tu avatar animado se ha guardado en~br~~gif_name~~mac_save_append~.
+
+# move one done
+
+0x0458342D Tu foto se ha archivado en: ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# email message
+
+0x056BCE10 ¡Mira la impresionante criatura que he creado con Spore!
+0x056BCDCA ¡Mira el vídeo que he creado con Spore!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+# email
+
+0x04585F1F Tu dirección de correo no es válida.
+0x04585F49 La dirección de correo del destinatario no es válida.
+0x045AD62F Tu correo
+0x05B5B8C4 Avisa a un amigo de tu vídeo
+0x0583897C Haz clic para enviar una postal por correo
+0x045AD634 Correo del destinatario
+0x04588BEF Se ha enviado tu postal.
+0x045AD5B9 Enviar una postal por correo
+
+# too many photos
+
+0x047FF0E4 Tienes demasiadas fotos. Archiva algunas fotos.
+
+# move all done
+
+0x04583295 Tus fotos se han archivado en: ~play_photo_back~.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ de ~bg_page_count~
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animación
+
+# YouTube
+
+0x0549366C No
+0x0549366D Transferir
+0x05496B24 Iniciando sesión en YouTube...
+0x055AA305 Transfiriendo vídeo a YouTube...
+0x05600488 Debes iniciar sesión en Spore para usar esta característica. ¿Quieres iniciar sesión?
+0x0563C623 Debes registrarte con Spore para usar esta característica. ¿Quieres registrarte?
+0x056691B0 Comprobando registro en YouTube...
+0x056D0627 Transferencia conseguida. Envíale la URL del vídeo a un amigo.
+0x05498DCB Tu vídeo se ha transferido. ¿Te gustaría avisar a tus amigos?
+0x05496510 No se ha conseguido iniciar sesión en YouTube.~br~~br~Utiliza un nombre de usuario y una contraseña válidos o regístrate en YouTube antes de continuar la transferencia.
+0x05B5AC4C Condiciones de YouTube
+0x054C1E63 Tu película se ha guardado en ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05498D58 Se ha producido un error de transferencia con YouTube.~br~~br~Revisa la conexión de Internet o vuelve a intentarlo más tarde.
+0x05498260 Se ha producido un error al entrar en YouTube.~br~~br~Revisa la conexión de Internet o vuelve a intentarlo más tarde.
+0x05B5FD1E ¿Quieres transferir ahora?
+0x05D2C767 Se ha cancelado la transferencia.
+0x05D54AF7 La página web asociada está en inglés. Elige tu país de origen en el selector para verla en tu idioma.
+0x05E501EB <youtubeicon>Transferir
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Inicio de sesión fallido
+0x05CBDEDA Error de transferencia
+
+# tool tips
+
+0x04598E97 Enviar correo
+0x046286E7 Girar
+0x046286F4 Sentarse
+0x046286F8 Rugir
+0x04628717 Puñetazo
+0x04628719 ¡Tachán!
+0x04628722 Monada
+0x04628724 Sumo
+0x04628726 Eh
+0x04628737 El punto
+0x04628749 El pisotón
+0x04628798 Feliz
+0x0462879C Triste
+0x046287A0 Asustado
+0x046287A1 Enojado
+0x046287A2 Risa
+0x046287A4 Visor de fotos
+0x046287A5 Sacar fotos
+0x046287D8 Fondos
+0x046287ED Guardar
+0x0462932D Ayuda
+0x0462873F Me quemo
+0x046287A6 Grabar película
+0x0474E80D Borrar foto
+0x0474E80E Archivar foto
+0x04628733 ¡Chati!
+0x046287DA Crias
+0x04628729 Cachas
+0x04628739 Caminar en el lugar
+0x04628745 Paso saltarín
+0x0462874E Puño de buen rollo
+0x046287A3 Enamorado
+0x04628713 Llamada
+0x046286F2 Vuelta de campana
+0x0473F903 Opciones de fotos
+0x046287D6 Acciones
+
+# Are you sure: Yes
+
+0x04583FFB Sí
+
+# delete all done
+
+0x0458334E Tus fotos se han borrado.
+
+# photobackuppath
+
+0x06305594 Mis documentos
+0x06305593 Mis Creaciones Spore/Fotos/BackUp
+
+#continue
+
+0x0549656C Continuar
+
+# delete one done
+
+0x04583433 Tu foto se ha borrado.
+
+# Maya export
+
+0x05B04EF5 Tus archivos de exportación de Maya se han guardado en ~br~~maya_export_path~~maya_export_name~*.
+
+# move all
+
+0x04583A4E Archivar todas
+
+# photo actions
+
+0x045C2025 ¿Qué te gustaría hacer con estas fotos?
+0x045C206E ¿Seguro que quieres borrar esta foto?
+0x045C208A ¿Seguro que quieres borrar todas las fotos?
+0x045C2094 ¿Seguro que quieres archivar esta foto?
+0x045C2098 ¿Seguro que quieres archivar todas las fotos?
+0x04613ED0 Si sales, se cancelarán todos los guardados de fotos pendientes. ¿Aún quieres salir?
+
+# photo count
+
+0x04587552 ~photo_current~ de ~photo_count~
+
+# your message
+
+0x045AD63A Tu mensaje
+
+# delete all
+
+0x04583A36 Borrar todas
+
+# photo page count
+
+0x0456F912 ~page_current~ de ~page_count~
+
+# cancel
+
+0x04583AFB Cancelar
+
+# Are you sure: No
+
+0x0458400E No
+
+#drag and drop fail message
+
+0x05889A21 Prueba de movimiento
+0x05889A4C En una prueba de movimiento no puedes arrastrar y soltar. Pasa al Modo Construcción o Modo Pintura.
+
+#ok
+
+0x045C2917 Aceptar

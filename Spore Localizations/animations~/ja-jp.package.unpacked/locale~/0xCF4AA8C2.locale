@@ -1,0 +1,161 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E 他のミッションをやってもいいかも。
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B もちろんやるさ、アドベンチャーは大好きなんだ。
+0xFADED019 アドベンチャーの話ならいつでも歓迎だ！
+0xFADED01A 面白いアドベンチャーになりそうだ。やってみる。
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D 今は興味がない。また後で。
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C 理由は話せないけど、お断りするよ。
+0xFADED018 申し出はうれしいけどお断りするよ。
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E どうか分かってほしいんだけど。
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A ちょっと時間がかかりそうだね。さようなら。
+0xFADED009 またの機会にでも。それじゃあ。
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED016 お安いご用だ。それじゃあ。
+0xFADED011 どういたしまして。それじゃあ。
+0xFADED015 役に立ててよかった。それじゃあ。
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 この仕事から解放してくれないかな。
+0xFADED022 他の事でもした方がましだよ。
+0xFADED020 この仕事は引き受けられないなあ。
+0xFADED021 この仕事はもうスケジュールに合わないよ。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 行く前に、まだ聞きたいことがあるんだけど。
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED005 わかった。それじゃ。
+0xFADED00C そうするよ。じゃあ！
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 了解！
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 他に聞きたいことがあるんだけど…
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A また話をする時まで、さようなら。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 もう一つだけ…
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 ああ、もちろん！　ミッションログだよね。見てみる！
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ？
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 ミッションは何だっけ？
+0xFADED028 ミッションに注意を払っていなかった。何だっけ？
+0xFADED027 ええと…何をするんだっけ？
+0xFADED01F ミッションについて、もう一度教えてもらえないかな…
+0xFADED024 何をしていたか、忘れちゃった。ミッションは何だっけ？
+
+# mission_incomplete -> do exit
+
+0xFADED010 わかった。すぐに戻る。
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 邪魔しちゃってごめん。さようなら。
+0xFADED00B 忙しそうだから、また後で。
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 理由は色々あるんだけど、やっぱりやめようと思う。
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F どうも違和感がぬぐえないもので。
+0xFADED00D 権力の手駒になるのはごめんだ。断る！
+0xFADED014 断るよ！　暴力は大嫌いなんだ。
+0xFADED012 断る。何だか話そのものが…　まっとうなものに思えない。
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 わかった。じゃあ。
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 他のことだけど…
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 行く前に、まだ聞きたいことがあるんだけど。
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED034 分かりました、~player_title~：~player_creature_name~。あなたの礼節に感謝します。~p~これで少し書類の処理が減ります。惑星間のクリーチャー輸送に関する下請けの承認過程には、署名と印鑑が3ヵ所必要とする362枚の書類だけあれば終わります。~p~もちろん、基本的な作業過程で決められたガイドラインよりもずっと少ないんですが…　発酵させたスパイスの輸送には、もっといろんな書類が必要なんですから。
+0xFADED02D もちろん、もちろん。このようなささいな問題をあなた様のような大人物に提示しても無駄なことは十分承知しておりました。ブティックで少しお金を使っていただいて、私を元気づけてくれませんでしょうか？
+0xFADED030 ~race~は、汝の優柔不断さに疑問を抱いている。汝が決断をする強い力に欠けているのは明らかだ。残念なことよ。
+0xFADED033 そうかい…そうですかい。別に傷ついたりはしないのさ。~p~そう…それほどには。
+0xFADED02C ああ…　オーケー…　うん、構わないよ。~p~興味がないんなら…　別の生態系と交流させるつもりはないから…~p~
+0xFADED032 そなた自身の道を歩むのじゃ。~p~元気でな、我が友よ。
+0xFADED02B 興味深い選択ですね、~player_title~：~player_creature_name~。おそらくあなたは私たちの知らない情報を持っているのでしょうね。そうは考え難いのですが。
+0xFADED02F ~race~には、やめるということは理解できん。~player_creature_name~は、~race~ではない。
+0xFADED031 グロックスノ約束ヲ破ルトハ！　無礼ナ愚者メ！
+0xFADED02E どうやら、伝説の艦長になる方法は苦労をしながら、自分自身で探す必要があるみたいだね…~p~幸運を祈ります。
+

@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Met deze vaardigheid worden entertainmentgebouwen en geschutkoepels gesloten, wat leidt tot droefheid.
+0x0001003F Zwarte wolk
+
+# CLG_Plant
+
+0x00000042 Herbivoor
+0x00000043 Plantenetende cellen leven op plantaardig materiaal.
+
+# CRG_CLG_Plant
+
+0x00010022 Sirenengezang
+0x00010023 Met deze vaardigheid kun je tijdelijk alle wezens in de buurt in je ban laten raken. Dit maakt het voor jou eenvoudiger om met ze om te gaan.
+
+# SPG_CRG_Mix
+
+0x0001004E Met deze vaardigheid wordt interstellair reizen flitsender.
+0x0001004D Snelheidsduivel
+
+# CVG_CRG_Attack
+
+0x00010037 Machtige bom
+0x00010038 Met deze vaardigheid beschadig je alle gebouwen en voertuigen binnen bereik.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Waanzinnige opstand
+0x0001006C Bekeert alle steden
+
+# SPG_Wanderer_Tool
+
+0x00010068 Randomizes the species on a planet. NOT IN USE
+0x00010067 Species Shuffler NOT IN USE
+
+# CVG_Religious
+
+0x00000056 Religieuze beschavingen benutten de kracht van woorden en ideeën om andere naties te bekeren.
+0x00000055 Religieus
+
+# SPG_TRG_Social
+
+0x00010052 Met deze vaardigheid krijgt je beginnende relatie met buitenaardse rassen een oppepper.
+0x00010051 Gracieuze groet
+
+# TRG_Mix
+
+0x0000004F Hardwerkend
+0x00000050 Hardwerkende stammen zijn opportunistisch, ze vallen aan of vormen bondgenootschappen als dat zo uitkomt. Ze zijn geweldige bondgenoten, maar pas op.
+
+# CVG_CRG_Mix
+
+0x0001003C Met deze vaardigheid zullen vijandige voertuigen binnen het bereik van de bom elkaar aanvallen.
+0x0001003B Confrontatiebom
+
+# CVG_TRG_Mix
+
+0x00010042 Met deze vaardigheid kun je sneller steden uitkopen.
+0x00010041 Advertentiecampagne
+
+# SPG_CRG_Social
+
+0x0001004C Met deze vaardigheid worden al je kolonies gelukkig en wordt de kans op een opstand kleiner.
+0x0001004B Prettige prestatie
+
+# SPG_CVG_Military
+
+0x00010056 Met deze vaardigheid kun je piraten op afstand houden, wat de kans op overvallen verkleint.
+0x00010055 Anti-piratenmiddel
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Carnivoor
+0x00000041 Vleesetende cellen leven op vlees.
+
+# TRG_CLG_Mix
+
+0x0001002A Met deze vaardigheid kan het stamhoofd een slang oproepen om vissen uit de zee te jagen.
+0x00010029 Vliegende vissen
+
+# SPG_TRG_Attack
+
+0x00010050 Met deze vaardigheid krijg je korting op alle handel in gevechtsgereedschap.
+0x0001004F Wapenhandelaar
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Beschikbaar in de wezenfase
+0x067775FA Beschikbaar in de ruimtefase
+0x067775E7 Beschikbaar in de beschavingsfase
+0x067775D9 Beschikbaar in de stamfase
+
+# SPG_Trader
+
+0x00000062 Handelaars doen het voor het geld. De almachtige Sporedollar is hun enige heer en meester.
+0x00000061 Handelaar
+
+# SPG_Bard
+
+0x00000058 Minstrelen zijn de sociale, extraverte entertainers van de kosmos. De Melkweg is hun speeltuin.
+0x00000057 Minstreel
+
+# SPG_Warrior_Tool
+
+0x00010065 Overvaloffensief
+0x00010066 Opent een raadselachtige piratenpoort die chaos op de planeet teweegbrengt.
+
+# SPG_Diplomat
+
+0x0000005D Diplomaat
+0x0000005E Diplomaten zijn onderhandelaars en probleemoplossers. Het melkwegstelsel zal alleen door middel van open communicatie tussen soorten vrede kennen.
+
+# CVG_Economic
+
+0x00000054 Economische beschavingen gebruiken geld en handelsroutes om andere landen te beïnvloeden. Ze sluiten wel bondgenootschappen, maar meestal hebben vooral zij daar baat bij.
+0x00000053 Economisch
+
+# CLG2_Discoverer
+
+0x00000102 Ontdekkingsreiziger
+0x00000103 Omschrijving ontdekkingsreiziger
+
+# SPG_Knight_Tool
+
+0x00010069 Mini-U oproepen
+0x0001006A Roept een miniatuurkloon op van je ruimteschip om je te helpen bij je avonturen.
+
+# CLG2_Killer
+
+0x00000100 Moordenaar
+0x00000101 Omschrijving moordenaar
+
+# SPG_Warrior
+
+0x00000065 Krijger
+0x00000066 Krijgers pakken wat ze willen en vragen niemand om toestemming. Het melkwegstelsel is een trofee die de sterkste voor zich op eist.
+
+# SPG_Wanderer
+
+0x00000068 Dwalers willen van alles iets proberen. Het melkwegstelsel is groot en ze willen het allemaal beleven.
+0x00000067 Dwaler
+
+# CVG_CRG_Social
+
+0x00010039 Diploderwisj
+0x0001003A Met deze vaardigheid bouw je een relatie op met een natie waarop je je richt.
+
+# CRG_Attack
+
+0x00000046 Roofdier
+0x00000047 Roofdieren zoeken hun leven lang naar prooi. Ze roeien liever een hele soort uit dan dat ze dansen of charmeren.
+
+# TRG_CRG_Mix
+
+0x0001002F Meester der dieren
+0x00010030 Met deze vaardigheid kan het stamhoofd dieren in de buurt betoveren om je te helpen bij de sociale omgang of gevechten.
+
+# CVG_CLG_Meat
+
+0x00010032 Met deze vaardigheid kunnen je voertuigen een beperkte tijd niet worden beschadigd.
+0x00010031 Onkwetsbaarheid
+
+# TRG_CLG_Meat
+
+0x00020025 Vallen
+0x00020026 Met deze vaardigheid kan het stamhoofd vallen zetten voor wilde dieren.
+
+# SPG_CLG_Meat
+
+0x00010043 Krachtverspreider
+0x00010044 Met deze vaardigheid vergroot je de doeltreffendheid van alle wapens.
+
+# SPG_CLG_Mix
+
+0x00010047 Gematigde generalist
+0x00010048 Met deze vaardigheid krijg je korting op alle standaarduitrusting.
+
+# SPG_TRG_Mix
+
+0x00010053 Koloniewaanzin
+0x00010054 Met deze vaardigheid krijg je korting op alle handel in kolonisatiegereedschap.
+
+# Zero
+
+0x06941DC3 Jaar
+0x06941DC2 Duizend
+0x06941DC1 Miljoen
+0x06941DC0 Miljard
+
+# SPG_CVG_Religious
+
+0x0002005A Met deze vaardigheid vermindert het aantal biorampen in al je kolonies.
+0x00020059 Groene hoeder
+
+# CLG_Mix
+
+0x00000045 Allesetende cellen eten al het eten dat voor handen is.
+0x00000044 Omnivoor
+
+# SPG_Bard_Tool
+
+0x00010058 Gebruik dit voor een kalmerend effect op buitenaardse rassen, wat jullie relatie tijdelijk een oppepper geeft.
+0x00010057 Lieflijk liedje
+
+# CRG_Social
+
+0x00000147 Sociaal
+0x00000048 Sociale wezens zijn constant op zoek naar nieuwe vrienden en bondgenoten. Een nieuwe soort ontmoeten maakt hun hele dag goed.
+
+# CRG_Mix
+
+0x00000049 Aanpasbaar
+0x0000004A Aanpasbare wezens hebben veel vrienden en evenveel vijanden. Ze baseren hun keuzes op de situatie van dat moment.
+
+# SPG_CLG_Plant
+
+0x00010045 Sociale hoffelijkheid
+0x00010046 Met deze vaardigheid krijg je direct onderhandelingskorting op alle sociale gereedschappen.
+
+# CRG_CLG_Meat
+
+0x00010020 Donderend Gebrul
+0x00010021 Met deze vaardigheid kun je alle wezens in de buurt bang op de vlucht laten slaan.
+
+# CVG_CLG_Plant
+
+0x00010033 Genezende aura
+0x00010034 Met deze vaardigheid repareer je al je voertuigen en gebouwen.
+
+# SPG_Shaman
+
+0x00000063 Sjamaan
+0x00000064 Sjamaans begrijpen dat al het leven met elkaar verbonden is. Een ieder voert het hele melkwegstelsel in zich mee.
+
+# SPG_Ecologist
+
+0x00000059 Ecoloog
+0x0000005A Ecologen zijn natuurbeschermers. Soorten die het melkwegstelsel willen uitbuiten en corrupt maken, moeten vernietigd worden.
+
+# CVG_TRG_Attack
+
+0x0001003D Gadgetbom
+0x0001003E Met deze vaardigheid kun je gebouwen en voertuigen beschadigen en steden veroveren.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safarivacuüm
+0x0001005A Vult direct je vracht aan met alle soorten van een planeet.
+
+# SPG_Zealot
+
+0x0000005B Fanaat
+0x0000005C Fanaten zijn ervan overtuigd dat hun waarheid de enige is die telt. Wie er niet hetzelfde over denkt, is een bestaan in dit melkwegstelsel niet waardig.
+
+# SPG_Trader_Tool
+
+0x00010062 Maakt handelsstelsels direct beschikbaar voor aankoop.
+0x00010061 Geldaanvulling
+
+# SPG_CRG_Attack
+
+0x00010049 Topexemplaar
+0x0001004A Met deze vaardigheid wordt de totale gezondheid van je ruimteschip vergroot.
+
+# CRG_CLG_Mix
+
+0x00010025 Met deze vaardigheid kun je een groep volgelingen oproepen om je te helpen bij de sociale omgang of gevechten.
+0x00010024 Kudde roepen
+
+# TRG_Attack
+
+0x0000004C Agressieve stammen proberen de concurrentie uit te schakelen. Ze vallen genadeloos aan en eisen alle bronnen voor zichzelf op.
+0x0000004B Agressief
+
+# SPG_Knight
+
+0x00000069 Ridder
+0x0000006A Ridders zijn edele krijgers die vechten voor rechtvaardigheid, niet voor het geld. Het melkwegstelsel zal pas vrede kennen als het kwaad overwonnen is.
+
+# SPG_Scientist
+
+0x00000060 Wetenschappers zijn rationeel en berekenend. Het melkwegstelsel is er om bestudeerd en doorgrond te worden.
+0x0000005F Wetenschapper
+
+# SPG_Shaman_Tool
+
+0x00010063 Retourtje
+0x00010064 Laat je in één sprong terugkeren naar je thuisstelsel
+
+# SPG_Zealot_Tool
+
+0x0001005B Woedende waanzin
+0x0001005C Bekeert buitenlandse stelsels tot jouw rijk.
+
+# SPG_CVG_Economic
+
+0x00020058 Met deze vaardigheid worden er in al je kolonies meer specerijen geproduceerd.
+0x00020057 Specerijengeleerde
+
+# CVG_TRG_MixWin
+
+0x0001006D Wereldwijde fusie
+0x0001006E Hiermee koop je alle steden
+
+# Singular
+
+0x55496324 Jaar
+0x55496321 Miljard
+0x55496323 Duizend
+0x55496322 Miljoen
+
+# TRG_CLG_Plant
+
+0x00010028 Met deze vaardigheid kan het stamhoofd een storm oproepen, zodat er fruit uit de bomen valt.
+0x00010027 Verfrissende storm
+
+# CVG_TRG_AttackWin
+
+0x0001006F Intercontinentale ballistische raket
+0x00010070 Vernietigt alle steden
+
+# CVG_Military
+
+0x00000052 Militaire beschavingen leven van wapens en geweld. Ze zetten alle beschikbare middelen in om andere naties te vernietigen.
+0x00000051 Militair
+
+# TRG_CRG_Social
+
+0x0001002D Vuurwerk
+0x0001002E Met deze vaardigheid kan het stamhoofd vuurwerk afsteken om de band met buren te versterken.
+
+# TRG_Social
+
+0x0000004D Vriendelijk
+0x0000004E Vriendelijke stammen weten hoe belangrijk teamwork is. Ze vormen bondgenootschappen om rijkdommen te delen en samen met andere stammen successen te behalen.
+
+# Plural
+
+0x0694179E Miljard
+0x0694179F Miljoen
+0x069417A0 Duizend
+0x069417A1 Jaar
+
+# CVG_CLG_Mix
+
+0x00010036 Met deze vaardigheid schakel je tijdelijk voertuigen, geschutkoepels en gebouwen uit.
+0x00010035 Statische bom
+
+# TRG_CRG_Attack
+
+0x0001002B Vuurbommen
+0x0001002C Met deze vaardigheid kan het stamhoofd vuurbommen gooien om tegenstanders en gebouwen in de buurt te beschadigen.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Zet alle vijandige schepen en geschutkoepels op een planeet stil.
+0x0001005D Statische kleefkracht
+
+# SPG_Scientist_Tool
+
+0x00010060 Brengt culturen en gebouwen terug tot het niveau van het stenen tijdperk.
+0x0001005F Gravitatiegolf
+
+# Timeline GUIDS
+
+0x55496320 Geschiedenis
+

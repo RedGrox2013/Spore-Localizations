@@ -1,0 +1,337 @@
+﻿#### Verb Tray ### (not CSA)
+
+0x0567AE7B Hold stillingen
+0x0567AE82 Aggressiv
+0xF67C278E Generelle evner
+0x0568AE90 Økonomiske manipulatorer
+0x0568AE91 Bestikkelse og forvirring
+0x0568AE92 Reklameblitz
+0xF47C278E Social attitude
+0xF57C276F Social attitude
+0xF57C278E Kampattitude
+0xF57C279A Kampattitude
+0x0568AE70 Militærvåben
+0x0568AE71 Napalmbombe
+0x0568AE72 Taktisk atombombe
+0x0568AE73 Global ICMB-angreb
+0x0568AE80 Religiøse kræfter
+0x0568AE81 Troshealing
+0x0568AE82 Bæstregn
+0x0568AE93 Global reklameblitz
+0x0681D202 ~local_ability_name~ [~local_hotkey~]
+0x0681D203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~
+0x0568AE83 Messiahs genopstandelse
+
+### Global UI specific ###
+
+0x04CAC3D8 Sporebucks
+0x04BC1A80 DNA-point. Tjen DNA fra mad og brug det på dele.
+0x04CAC3D6 Zoom ind
+0x04CAC3D7 Zoom ud
+0xF27C278D Begiv dig mod land. Spis for at vokse.
+0xF57C278D DNA-point
+0xF77C278D Vind ved at forøge befolkningsantal gennem parring og rekruttering.
+0xF87C278D Indsamlet mad
+0x04CAC3C1 Du skal erobre eller blive allierede med andre stammer for at fortsætte
+0x04CAC3C2 Du skal erobre eller blive allierede med andre stammer for at fortsætte
+0x04CAC3C3 Du skal erobre eller blive allierede med andre stammer for at fortsætte
+0xF47C279B Dele låst op
+0xF47C279A Missionsliste
+0xF47C279D Missioner gennemført
+0xF47C279C Missioner i gang
+0x062E9EC2 Kræver to byer
+0x0643EDB7 Du har opfundet luftfartøjer
+0x0643EDBE Du har opfundet rumfart
+0x0643ED9B Du har opfundet havfartøjer
+0x062EABDE Kræver en by
+0x062E9ECA Kræver seks byer
+0x04CAC3D4 Rotér
+0x04CAC3C4 Kontrollér 2 byer for at opfinde havfartøjer
+0x04CAC3D5 Rotér
+0xF47C278D Opfind rumrejser ved at kontrollere ti byer mere
+0xF67C278D Tjen DNA for at udvikle dig
+0x065FC365 Stammeplanlægger
+0x06562784 --Kræver flere huse
+0x065767B7 --Kræver to byer
+0x065767BB --Kræver fire byer
+0x06565205 Koloniplanlægger
+0x065767B3 --Skal være en havneby
+0x0657690D --Byg et luftfartøj i Byplanlæggeren
+0x065CD6F2 --Nåede fartøjsgrænsen
+0x0657690B --Byg et landfartøj i Byplanlæggeren
+0x0657690C --Byg et havfartøj i Byplanlæggeren
+0xF17C278D Historie
+0x062E9EC6 Kræver fire byer
+0x064A7050 Byplanlægger
+0x04CAC3C5 Du skal kontrollere fire byer for at opfinde luftfartøjer.
+0x065FC366 Tilføj baby (~tribe_food_required_for_baby~ mad)
+0x062DACA9 Gennemfør Væsensfasen for at låse op for denne færdighed.
+0x062DACAD Gennemfør Stammefasen for at låse op for denne færdighed.
+0x062DAC92 Gennemfør Cellefasen for at låse op for denne færdighed.
+0x065FC368 --Kræver større hytte
+0x065FC369 --Stamme er fuld
+0x062E98FB Konsekvensfærdigheder
+0x06453852 Gå til Rumalderfasen
+0x0645384B Gå til Stammefasen
+0x06453842 Gå til Væsensfasen
+0x0645384F Gå til Civilisationsfasen
+0x0671FB71 --Ikke nok Sporebucks!
+0x065F79F0 Indtægt: +$~civ_income~/min
+0x065FC367 -- ikke nok mad
+0x064A705D Køb havfartøj ($1.500)
+0x064A7064 Køb landfartøj ($1.000)
+0x064A7057 Køb luftfartøj ($3.000)
+
+#### CSA Spore Guide ###
+
+0x04F65BBB Velkommen til Spore
+0x04F65BBC Kom godt i gang
+0x04F65BBE Prøvetur
+0x04F65BBF Mal
+0x04F65BBD Byg
+0x063C34EB Indlæs ny kreation
+
+### Consequence Timeline ###
+
+0x06131BB0 Tidslinje-vinkel
+0x06131BB1 Konsekvens-vinkel
+0x06131BB2 Evolutionsklokke
+
+#### Shopping ##### (not CSA)
+
+0xF07C273B Køb
+0xF17C273B Tilpas
+0xF47C273B Næste side
+0xF57C273B Forrige side
+0xF67C273B Skab fra bunden
+0xF77C273B Sortér efter
+0xF87C273B Sælg
+0xF27C273B Del
+
+### Spore Guide ##### (not ALL CSA)
+
+0xF81C282C Væsen - Hjælp
+0xF81C283C Stamme - Hjælp
+0xF81C284C Civilisation - Hjælp
+0xF81C286C Rummet - Hjælp
+0xF81C287C Generelt - Hjælp
+0x05B5517E Cellehjælp
+0xF81C285C Skaberhjælp
+
+#### Posse UI ### (not CSA)
+
+0xF77C278E Vælg alle
+0xF87C278E Vælg en ven
+0x0614906C Klik for at tilføje en baby
+0x05D298AC Snak med en allieret for at få et rumskib
+0xF97C278E Socialisér med allierede for at tilføje dem til din flok
+
+#### Global UI Space ####
+
+0xF57C270A Terraforming-værktøjer
+0x93CF382F Spor planet
+
+#### Planners -- Global ### (not CSA)
+
+0x0F1C278E Bygninger og kanontårne - grænse
+0x04BAFA06 Religiøse fartøjer - grænse
+0x04BAFA05 Militærfartøj - Grænse
+0x04BAFA07 Økonomifartøj - grænse
+0xF27C278E Høstfartøjer-grænse
+0xF57C278F Befolkning
+0xF58C278F Lykke
+0xF59C278F Forsvar
+0xF60C278F Økonomi
+0xF70C278F Tilpas udseende
+0xF71C278F Kedsomhed-niveau
+0xF72C278F Træthed-niveau
+0x0626EA63 Religiøse byer ejet
+0x0626EA64 Økonomiske byer ejet
+0x0626EA62 Militærbyer ejet
+0x06381A18 Din stammes navn
+0x06381A17 Bygningsoversigt
+0x06381A16 Fartøjsoversigt
+0x06381A1A Dit imperiums navn
+0x06381A1B Planetens indtægt pr. minut
+0x06381A19 Din nations navn
+0x06381A13 Nationens indtægt pr. minut
+0x0653C13E Forrige koloni
+0x0653C13D Næste koloni
+0x0653C13C Forrige by
+0x0653C13B Næste by
+0x05342949 Du skal forbedre TerraScore for at låse op for flere bygninger.
+
+#### Playmode.layout (not CSA)
+
+0x058B867E Film animeret avatar
+0x05B04FE7 Maya-eksport
+
+## cell ##
+
+0x03000000 Kald på mage
+0x03000002 Kald på en mage for at gå til Celleskaberen!
+0x03000001 Kald på en mage for at gå til Celleskaberen!
+0x03000003 Udvikl ben og kravl op på landjorden!
+
+## Lock Icon##
+
+0x0679F344 Kan ikke tilpasse
+
+# Tool Tip Text
+#### Global UI - Generic #####
+
+0xF81C218B Gem
+0xF81C228B Afslut spil
+0xF81C238B Afslut til hovedmenu
+0xF81C248B Bandlys indhold
+0xF81C25AB Gentag
+0xF81C25CB Fortryd
+0xF81C26CB Acceptér
+0xF81C276B Spore-guide
+0xF81C277B Indstillinger
+0xF81C27CB Slet
+0xF81C28CB Luk
+0xF81C292C Indsend
+0xF81C303C Indlæs igen
+0xF81C304C Annullér
+0xF81C305C Evolution på land!
+0xF81C306C Tilbage
+0xF81C309C Send
+0xF81C28CC Gem og afslut
+0xF81C310C Annullér-Gem ikke
+0xF81C307C Information
+0xF81C308C Abonnér ikke
+0x0615FFA4 Udstyr
+0x0615FFA5 Spil
+0xF81C311C Bandlys kreation
+0xF81C312C Se information
+0xF81C313C Ryd søgning
+0xF81C314C Tilføj ven
+0x0615DD1B Allerede delt
+0x0615DD1C Du skal gemme før du deler
+0x0612F6B6 Del
+0x0615FFB0 Sult
+0x0615FFA9 Helbred
+0x0615FFA7 Vis
+0x0615FFA8 Skjul
+0xF81C258B Indstillinger
+0x0655200D Spil
+0xF81C278B Pause
+0xF81C281C Skjul
+0x0615FFA6 Mine samlinger
+
+#### Planners -- City Stats ### (not CSA)
+
+0x06381A15 Antal kolonier på denne planet
+0xF72C27BB Glæde
+0xF72C27CC Indtægt
+0xF72C27DD Forsvar
+0xF72C27AA Befolkning
+0x06381A14 Planet-TerraScore
+
+### Options Panel###
+
+0xF57C674D Bandlys
+0xF57C775E Indstillinger
+0xF57C573C Kikkert
+0xF57C778E Genoptag redigering
+0xF57C777E Afslut Spore
+0xF57C776E Fortsæt spil
+0x0678C049 Afslut skabelsesværktøjet før du afslutter Spore
+0x0678C04A Kikkert-tilstanden er ikke tilgængelig i Cellefasen
+0x0678C04B Bandlys-funktionen er ikke tilgængelig i Cellefasen
+
+#### Part Unlock ### (not CSA)
+
+0x05837B76 Dele låst op
+0x05837B77 Nye dele tilgængelige
+
+#### CSA ### 
+
+0x04E404FC Sporepedia
+0x04E404F9 Indstillinger
+0x04E404FA Hjælp
+0x04E404FB Indstillinger
+0x04E404FE Gem væsen
+0x04E404FF Indstillinger
+0x04E404FD Ny kreation
+0x04E404F8 Spore-nyheder
+
+##GGE Asset Selection## (not CSA)
+
+0x05B08754 Vælg celle
+0x05B08755 Vælg væsen
+0x05B08756 Vælg stammevæsen
+0x05B08757 Vælg civilisationsvæsen
+0x05B08758 Vælg rumvæsen
+0x05B08759 Vælg rådhus
+0x05B08760 Vælg rumskib
+0x05B08851 Vælg et tilfældigt navn
+0x05B08862 Vælg et tilfældigt aktiv
+0x05B08863 Lås aktiv
+
+### Editor Camera instructions ###
+
+0x05013A33 Zoom ind
+0x05013A34 Zoom ud
+0x05013A32 Rotér
+0x05013A31 Rotér
+
+#### Editors -- Global ###
+
+0xF37C273B Budget
+0xF37C276B Mal
+0xF37C277B Prøvetur
+0xF37C278C Giv mig et navn
+0x05AF4A02 Flere kategorier
+0x05AF4A03 Flere kategorier
+0xF37C274B Måler for indviklethed
+0x05AF4A04 Farvelæg som ...
+0x05AF4A05 Farvelæg som "~newmodelname~"
+0x05AF4A06 Ny standardfarve
+0x064D2883 Budget
+0x064D2882 Budget
+0x064D2885 Budget
+0x064D2884 Budget
+0xF37C275B Byg
+0xF37C278D Skjul
+
+#### GGE #####
+
+0xF18C213B Sporepedia
+0xF36C273B Spore.com
+0xF82C275B Spil spillet
+0xF54C273B Skabere
+0xF63C273B Celleskaber
+0xF72C273B Væsensskaber
+0xF81C271B Bygningsskaber
+0xF81C275B Rumskibseditor
+0x0577BFC5 Tilfældigt navn
+0x0609BC40 Udstyrsskaber - Rumalder
+0x063AEAA9 Det store billede
+0xF27C223B Spore-katalog
+0xF81C2A3B Udstyrer
+0x0609BC3D Civilisationsudstyrer
+0x0609BC24 Stammeudstyrer
+0xF81C274B Fartøjsskaber
+0xF81C273B Fartøjsskaber
+0xF81C272B Fartøjsskaber
+0xF45C273B Log på og Registrering
+
+### Global UI specific ###
+
+0x065F79F1 +~civ_income~/time
+
+##GGE General##
+
+0x05B08745 Information
+0x05B08744 Annullér
+0x05B08746 Fremad
+0x05B08747 Tilbage
+0x05B08748 Sporecast-tema
+0x05B08749 Prøveaktiver
+0x05B08751 Låst op
+0x05B08752 Låst
+0x05B08753 Tilfældig
+0x05B08750 Identitetsfarve
+

@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Sociale omgang
+0x01020007 Verkenning
+0x01020003 Geen genre
+0x01020004 Aanval
+0x01020005 Verdediging
+0x0102000A Verzamelen
+0x01020009 Verhaal
+0x01020008 Queeste
+0x0102000D Sjabloon
+0x0102000C Planeten
+0x0102000B Puzzelen
+
+#######################################
+# Filter Names
+
+0x01020001 Avonturen
+0x01020002 Speelbare avonturen
+0x07200107 Kapitein
+0x07200108 Mijn kapiteins
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ keer gespeeld
+
+### Difficulty Descriptions
+
+0x07D86C49 Moeilijkheidsgraad: ~ep1_adventure_difficulty~
+0x07D86C6A Heel makkelijk
+0x07D86C87 Gemiddeld
+0x07D86C7C Makkelijk
+0x07D86CA8 Heel moeilijk
+0x07D86C9F Moeilijk
+
+# Unpublish
+
+0x07D9CFD7 Wil je deze creatie niet meer delen? Hij wordt van de server verwijderd.
+0x07D9CFB6 Stoppen met delen
+
+#######################################
+# Misc
+
+0x02000002 ~num_selected_items~ voorwerp(en) geselecteerd
+0x02000001 Het geselecteerde voorwerp wordt momenteel bewerkt. Je kunt het nu niet verwijderen.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Objecten
+
+# Audio filters
+
+0x01021007 Menigte
+0x01021006 Geluid
+0x01021008 Omgeving
+0x0102100A Muziek
+0x01021009 Mechanisch
+0x0102100C Eenmalig
+0x0102100B Noot
+
+### Ratings
+
+0xC7647889 Beoordeling
+
+# Download adventure
+
+0x02200002 Wil je dit avontuur openen?
+0x02200001 Avontuur downloaden
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ punten
+
+#######################################
+# Category Names
+
+0x00000001 Avonturenvoorwerpen
+
+# Fixed object filters
+
+0x01021004 Stenen
+0x01021003 Gameplay-objecten
+0x01021002 Handvoorwerpen
+0x01021005 Vaste ornamenten
+0x01021001 Vaste objecten
+
+# Effects filters
+
+0x01022003 Natuureffecten
+0x01022002 Lichteffecten
+0x01022006 Eenmalige effecten
+0x01022005 Eigenaardige effecten
+0x01022004 Sciencefiction-effecten
+0x01022001 Effecten
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Kies een planeet
+0x07B24B83 Je moet ingelogd zijn om de scoreborden en beoordelingen voor dit avontuur te kunnen bekijken
+0x079EDCD5 Creëer of kies je kapitein
+0x072925B0 Kies een avontuur
+0x072000E3 Creëer of kies een kapitein
+0x072925BB Kies één of meerdere effecten
+0x072925BA Kies één of meerdere ruimteschepen
+0x072925B9 Kies één of meerdere voertuigen
+0x07B67C69 Kies één of meerdere gameplay-objecten
+0x072925BD Kies een object
+0x072925BC Kies één of meerdere geluidsobjecten
+0x072925B8 Kies één of meerdere gebouwen
+0x072925B4 Kies een geluidsobject
+0x072925B3 Kies één of meerdere objecten
+0x072925B2 Creëer of kies een castlid
+0x072925B7 Kies één of meerdere wezens
+0x072925B6 Kies de cast voor je avontuur
+0x072925B5 Kies flora
+

@@ -1,0 +1,40 @@
+﻿0x00000041 ~guide: -h3~ Categorias dos Blocos
+0x00000081 ~guide: -h2~ Para seleccionar um bloco que já está no seu edifício, basta fazer clique até ficar de cor azul.
+0x00000101 ~guide: -h1~ Editar Blocos
+0x00000111 ~guide: -h3~ Editar Blocos Com Pegas
+0x00000131 ~guide: -bullet~ Seleccione o bloco que pretende editar fazendo clique sobre o mesmo. Quando o selecciona, o bloco aparece a azul.
+0x00000121 ~guide: -h2~ Depois de acrescentar um bloco ao seu edifício, pode editá-lo com as pegas de edição.
+0x000001A1 ~guide: -h3~ Orçamento para Blocos
+0x000001D1 ~guide: -h3~ Indicador de Complexidade
+0x00000051 ~guide: -h2~ No topo da Palete de Blocos estão as Categorias de Blocos que pode escolher; corpos estruturais, telhados, ligações, portas, janelas, função, e pormenores. Para seleccionar a Categoria de Blocos que pretende utilizar, basta fazer clique sobre o separador.
+0x00000191 ~guide: -h1~ Complexidade e Orçamento
+0x000000A1 ~guide: -bullet~ Se colocar os dois blocos no pedestal, estes são cruzados automaticamente à medida que os aproxima um do outro.
+0x000000B1 ~guide: -bullet~ Se colocar um bloco sobre o outro ele vai ser automaticamente empilhado.
+0x00000091 ~guide: -h3~ Empilhar ou Cruzar Telhados e Partes Estruturais
+0x00000021 ~guide: -h1~ Paleta de Blocos
+0x000000E1 ~guide: -h3~ Diâmetro e Altura do Edifício
+0x000000D1 ~guide: -h2~ Embora possa colocar um bloco em qualquer local no edifício, as janelas, portas e pormenores têm todos "pontos de ajuste" que o ajudam a fazer o alinhamento. Quando arrasta estes blocos para o edifício, é apresentado um ligeiro ajustar e manter.
+0x00000061 ~guide: -h3~ Seleccionar e Adicionar Blocos
+0x000000C1 ~guide: -h3~ Ajustar a
+0x00000071 ~guide: -h2~ Para seleccionar um bloco, clique no mesmo na paleta de blocos e depois arraste-o da paleta para o pedestal ou para o edifício.
+0x000000F1 ~guide: -h2~ Os edifícios têm um limite de diâmetro e de altura. Se exceder estes limites ao tentar colocar um bloco, o bloco não encaixa, permanecendo a vermelho. Não terá de pagar pelos blocos que não possam ser colocados.
+0x00000141 ~guide: -h4~ Pegas do bloco:
+0x00000151 ~guide: -bullet~ Setas de Ajuste: Modifique a altura, a largura, o comprimento ou enrole um bloco. Basta puxar para ver o que acontece.
+0x00000201 ~guide: -h1~ Funções de Construção Avançadas
+0x00000161 ~guide: -bullet~ Anel de Rotação: Roda o sentido dos blocos.
+0x00000271 ~guide: -bullet~ Para mover um bloco para a esquerda e para a direita, sem ajustar a altura automaticamente, mantenha premida a tecla Shift enquanto selecciona um bloco, continue a manter a tecla Shift enquanto reposiciona o bloco com o seu rato.
+0x00000251 ~guide: -h3~ Colocação Direccional
+0x000001B1 ~guide: -h2~ O seu orçamento para os blocos é apresentado no canto inferior esquerdo do Criador de Edifício.
+0x000001E1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000221 ~guide: -bullet~ Mantenha premida a tecla tab enquanto selecciona um bloco no seu edifício. Vai ver pegas de elementos adicionais que lhe permitem controlar a colocação de cada peça de forma mais alargada.
+0x000000F2 ~guide: -h3~ Remover Blocos
+0x00000031 ~guide: -h2~ No Modo de Construção, a Paleta de Blocos encontra-se aberta no lado esquerdo do ecrã Criador de Edifício.
+0x000000F3 ~guide: -h2~ Para retirar um bloco, seleccione-o e prima Delete ou Backspace no teclado, ou clique e arraste-o para fora do edifício ou do pedestal.
+0x000001F1 ~guide: -h2~ O indicador de complexidade avalia a complexidade do seu edifício. Se o seu edifício se tornar demasiado complexo, deixa de poder adicionar mais blocos.
+0x00000211 ~guide: -h3~ Pegas de Elementos Avançadas
+0x00000261 ~guide: -bullet~ Para mover um bloco para cima e para baixo (sim, mesmo assim evaporam-se!) mantenha premida a tecla Control enquanto selecciona um bloco, continue a manter premida a tecla CTRL enquanto reposiciona o bloco com o rato.
+0x00000231 ~guide: -h3~ Copiar Elementos
+0x00000241 ~guide: -bullet~ Para copiar um elemento que já tem no seu edifício, mantenha premida a tecla ALT enquanto faz clique sobre esse elemento e, em seguida, arraste a cópia para outra zona do seu edifício.
+0x000001C1 ~guide: -h2~ Cada bloco que coloca na criatura custa pontos ADN. Quando esgotar os pontos, já não pode acrescentar mais blocos.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Modo de Construção
+

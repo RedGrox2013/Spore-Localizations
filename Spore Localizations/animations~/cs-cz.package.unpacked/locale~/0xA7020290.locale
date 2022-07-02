@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gratulujeme! Váš úžasný mozek udělal na pana Hádanku dojem. Už se těší, až vám zase zamotá hlavu.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 1
+
+0x20000001 Tenhle rébus není náročný…
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 2, Variation 2
+
+0x20000002 Když se zaseknete, použijte obě ruce.
+
+# Act 2 description
+
+0x00000101 Každá kartička otevírá dveře příslušné barvy. Pouze jedny dveře vedou k záhadnému klíči.
+
+# Adventure name
+
+0x00000002 Kouzelné brány pana Hádanky
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Záhadný klíč
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Můj záhadný stan je nejlepší široko daleko. Jen račte dál a otestujte svůj důvtip.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Pan Hádanka
+
+# Act 3 description
+
+0x00000025 Našel jsi klíč! Teď klíč pomocí kouzelného teleportu dones panu Hádankovi
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Pan Hádanka jméno mé. Já zamotám vám hlavy zde.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Zdravím velevážené publikum! Vítejte na mé putovní show.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Neškobrtněte. Hodně štěstí!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Jestliže máte Filipa, ,můj klíč najdete. Jestli ho nemáte…inu počkejme a uvidíme.
+
+# Act 1 name
+
+0x00000020 Setkejte se s panem Hádankou
+
+# 'Adventure lost' message
+
+0x00000012 Nevzdávejte to. Co takhle použít obě ruce?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Zase se setkáme, buďte si jist!
+
+# Act 3 name
+
+0x00000024 Mám ho!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Vy jste ale rozumbrada!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Vy s tím určitě souhlasíte.)
+
+# Adventure description
+
+0x00000003 Pan Hádanka vás vyzývá k otestování vašeho důvtipu. Dokážete získat jeho záhadný klíč?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 hádanka, pan Hádanka, brány, klíče
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Můj klíč! Můj klíč! Já chci ho víc…
+
+# Act 4 name
+
+0x00000102 Vynikající práce!
+
+# Act 1 description
+
+0x00000021 Jeden nikdy neví, co pan Hádanka předvede. Copak se asi v jeho záhadném stanu ukrývá dnes?
+
+# Act 4 description
+
+0x00000103 Pan Hádanka je celkem ohromen!
+
+# 'Adventure start' message
+
+0x00000010 Pan Hádanka se potuluje po galaxii a motá hlavy mladým i starým. Jaké výzvy asi přináší na tuto holou planetu?
+
+# Act 2 name
+
+0x00000100 Záhadný klíč
+

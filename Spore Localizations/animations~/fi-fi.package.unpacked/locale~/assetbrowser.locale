@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C24 Uusi
+0x34F8116D Piirteen avaamat kohteet:
+0x06162C25 OK
+0x06162C1F Valitse Sporelma:
+0x06162C22 Luo uusi Sporelma
+0x06162C1E Lisää Sporelmaan
+0x74BF153F Saatat kohdata vaikka ketä:
+0x74BF153E Etsi kohde pelistä ja lisää se Spore-keskukseen!
+
+# ProfileView.layout
+
+0x062EE735 Profiilisivu
+
+# vehicle stats (specific)
+
+0x058B5C24 Sotilasvoima
+0x058B5C26 Talousvoima
+0x058B5C25 Uskonvoima
+
+# AssetViewLarge.layout
+
+0x058B60F2 Kuvaus:
+0x058B60F4 Kohteen nimi
+0x058B60F5 Kohde-editori
+0x058B60F6 - Tekijä
+0x058B60F7 Seuraava
+0x058B60F8 Edellinen
+0x058B60F3 Hakusanat:
+0xD4AF63E8 Odota hetki...
+
+# creature stats
+
+0x058B5C1F Lihansyöjä
+0x058B5C21 Hyökkäys
+0x058B5C22 Seurustelu
+0x058B5C20 Kasvinsyöjä
+0x058B5C1E Kaikkiruokainen
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175F6 <Missing>
+0x05B175EF Viime ~day_of_week~na
+0x05B175F0 ~seconds~ s sitten
+0x05B175F1 ~minutes~ min sitten
+0x05B175F2 ~hours~ h sitten
+0x05B175E9 maanantai
+0x05B175EB keskiviikko
+0x05B175EC torstai
+0x05B175EE lauantai
+0x05B175EA tiistai
+0x05B175ED perjantai
+0x05B175E8 sunnuntai
+
+# vehicle stats
+
+0x058B5C1B Kunto
+0x058B5C1C Voima
+0x058B5C1D Nopeus
+
+# AssetBrowser.layout
+
+0x05B1A59C Hae
+0x05B1A59D Spore-keskus
+0x05B1A59E Tervetuloa ~username~
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C14 Tyyppi
+0x058B5C16 Jos haluat käyttää verkkosisältöä, sinun on kirjauduttava sisään.
+0x058B5C17 Jos haluat käyttää verkkosisältöä, sinun on kirjauduttava sisään.
+0x058B5C19 Palaa
+0x058B5C13 Tekijä
+0x058B5C12 Nimi
+0x058B5C15 Jaetut
+0x058B5C11 Luontiaika
+0x058B5C1A Suhde
+0x058B5C18 Luo oma
+0x058B5C10 Järjestys
+0x058B5C27 Latausaika
+0x058B5C28 Ihkut ja iljetykset
+

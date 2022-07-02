@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 相當好   
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 教學  
+0x058B62B1 遊戲提示  
+0x058B62B2 邊緣捲動  
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 預設   
+0x0474E6B5 畫面設定  
+0x0474E6B6 低   
+0x0474E6C2 中   
+0x0474E6C6 高   
+0x0474E6CC 陰影   
+0x0474E6D0 材質精細度   
+0x0474E6D6 圖形效果   
+0x0474E6DE 玩家模型品質   
+0x0474E6E4 星球品質   
+0x0474E6E5 打光品質   
+0x0474E6E9 畫面大小   
+0x0474E6ED 圖形暫存容量（MB）  
+0x0474E6F0 設定檔   
+0x058A2A2B 改變畫面大小必須重新啟動，同時可能會影響你的執行效率。  
+0x058B6240 全螢幕模式  
+0x058B624C 視窗模式  
+0x066A4BC8 反鋸齒
+0x0674D28F 畫面豐富度
+0x0695A585 按Command-Return鍵可以在視窗和全螢幕模式之間切換。
+0xBBFC7687 景深
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A30B4 矩形選擇部落成員
+0x090A30B5 矩形選擇載具
+0x090A50A1 使用 W, A, S, D 鍵
+0x090A29A7 移動細胞
+0x090A26A9 旋轉和傾斜攝影機
+0x090A28A6 選擇一個部落成員
+0x090A28A7 選擇一輛載具
+0x090A50A4 點擊滑鼠右鍵
+0x090A50A5 點擊滑鼠右鍵並拖曳
+0x090A50A6 滾動滑鼠滾輪
+0x080B23B2 文明階段
+0x090A50A2 點擊滑鼠左鍵
+0x090A50A3 點擊滑鼠左鍵並拖曳
+0x080B23B3 選擇目標
+0x090A24A7 移動攝影機
+0x088B63B4 點擊這裡開啟滑鼠游標自動跟隨
+0x088B63B5 停留在圖示上看它如何作用
+0x088B63B6 生物階段
+0x080B23B7 旋轉和傾斜攝影機
+0x080B23B8 改變太空船高度
+0x080B23B9 太空
+0x088B63B3 細胞階段
+0x080B23B4 啟動工具
+0x090A23A3 移動生物
+0x090A23A4 縮放
+0x090A21A6 給予方向
+0x088B63B9 部落階段
+0x080B23B6 移動太空船
+0x090A50AA 點擊滑鼠按鍵並拖曳，或使用W, A, S, D 鍵
+0x090A50A7 點擊滑鼠按鍵並拖曳
+0x090A50A8 點擊滑鼠右鍵並拖曳，或使用W, A, S, D 鍵
+0x090A50A9 創造物跟隨滑鼠游標
+0x088B63B7 點擊這裡，用滑鼠右鍵來旋轉地圖
+0x090A50AB 同時按住Command，Option和滑鼠左鍵
+0x090A50AC 按住滑鼠中鍵
+
+#### profile - user selects ####
+
+0x0474E6FC 使用者自選   
+
+#### profile - performance ####
+
+0x0474E6F1 效能   
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D 登出  
+0x0565289E 登入  
+0x0565289F 註冊  
+0x056528A0 伺服器連線  
+0x056528A1 狀態：   
+0x056528A3 啟動時提示   
+0x056528A4 未註冊  
+0x056528A6 離線  
+0x056528A8 ~generic0~ 已連線  
+0x058B63D4 華麗匹配  
+0x056528A5 建立一個帳號與《Spore》連線。
+0x056528A9 與《Spore》中斷連線或變更使用者。
+0x056528A7 與《Spore》連線。
+0x0626E390 刪除舊有的下載
+0x0626E391 數天之後刪除
+0x058B63D3 限好友內容
+0x056528A2 線上選項
+0x0626E392 複製刪除的內容至歸檔資料夾
+0x05E39554 正在更新內容資料庫...
+0x067A21D7 下載的暫存大小（MB）
+0x067A21D8 只下載近幾天內的訂閱內容：
+0x067A21D9 天。
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B 聲音設定  
+0x0473EF2C 畫面設定  
+0x0473EF2D 遊戲設定  
+0x0473EF2E 拍攝設定  
+0x0473EF2F 線上設定  
+0x0473EF30 製作群  
+0x0473EF31 儲存你的設定  
+0x0473EF32 不儲存並關閉選項  
+0x0473EF33 設定  
+0x0473EF34 控制設定
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 自動幫我登入YouTube  
+0x0589E518 影片大小  
+0x0589E519 160x120  
+0x0589E51A 320x240  
+0x0589E51B 640x480  
+0x0589E51C 照片大小  
+0x0589E51D 小  
+0x0589E51E 中  
+0x0589E51F 大  
+0x058B6381 遊戲與拍攝設定  
+0x058B63A0 拍攝無聲影片  
+0x05D1185C 遊戲與說明選項
+0x0631825F 如果你採用預設的安裝位置，你可以在~generic0~（依類別）找到你的照片和影片
+
+#### profile - image quality ####
+
+0x0474E6F5 照片品質   
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 主音量
+0x0431D893 語音
+0x0431D894 音效
+0x0431D895 音樂
+0x0431D896 全部靜音  
+0x0431D897 混音
+0x0431D898 喇叭設定  
+0x0431D89C 聲音品質
+0x0431D89D 所有聲音音量
+0x0431D89E 遊戲音樂音量
+0x0431D89F 生物語音音量
+0x0431D8A0 音效音量
+0x0431D8A1 玩家必須在「Spore銀河畫面」中才能變更「喇叭設定」
+0x0431D89B 5.1環繞聲道
+0x0431D89A 四聲道
+0x0431D899 立體聲
+
+## Mac version
+
+0x06318D68 如果你採用預設的安裝位置，你可以在你的母目錄中的文件資料夾下的My Spore Creations/（依類別）找到你的照片和影片。
+

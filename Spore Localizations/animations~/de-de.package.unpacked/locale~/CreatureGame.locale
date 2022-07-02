@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4E Paaren
+0x0524D329 Finde deinen Partner!
+0x0509FC4F Rufe, um deinen Partner zu finden und klicke dann auf ihn, um den Kreaturen-Designer zu öffnen!
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 Klicke auf <hinticon> , um das Angreifen zu lernen
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0546ABA4 Gründe einen Stamm!
+0x0514F98E Umzug
+0x0524D32C Ziehe in ein neues Nest um!
+0x0514F993 Deine Spezies ist in ein anderes Nest umgezogen. Setze deinen Ruf ein und folge ihren Spuren, um sie zu finden!
+0x0546AB9A Entwickle dich weiter
+0x0546AB9E Klicke auf den Weiterentwickeln-Button, um einen Stamm zu gründen und deine Spezies in die Zivilisation zu führen.
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 Rudel
+
+# Find_NPC Goal Card
+
+0x0509FB93 Klicke auf ein Mitglied einer anderen Spezies!
+0x0509FB92 Kreaturen
+0x0524D328 Triff eine andere Spezies.
+
+# crg-lowhealth.prop
+
+0x91A0449F Du bist verletzt! Kehre zu deinem Nest zurück, um dich zu heilen
+
+# Combat text messages
+
+0xD39A5768 Diese Fähigkeit ist noch nicht bereit
+0x739A4E05 Du bist zu nahe dran
+0x3538B712 Diese Fähigkeit kannst du nur während einer Vorstellung einsetzen
+0xF538B6FD Du musst dich im Kampf befinden, um diese Fähigkeit einsetzen zu können.
+0x06778BAC Du hast diese Kreatur bereits beeindruckt
+
+# Combat Card - Mini Boss
+
+0x064D4054 Jagen
+0x064D4053 Jage ~target_species_crg~
+0x064D4056 Diese einzigartige Kreatur ist viel größer und stärker als die meisten anderen Spezies.
+0x067394F7 Diese einzigartige Kreatur ist viel größer und stärker als die meisten anderen Spezies.
+0x064D4055 Jage ~target_species_crg~ Exemplare für einen großen DNA-Bonus!
+
+# Eating_Herbivore Goal Card
+
+0x0524D325 Du bist ein Pflanzenfresser. Friss eine Frucht!
+0x0509F9DB Fressen
+0x0509F9DC Pflanzenfresser fressen Früchte, um zu überleben. Finde Früchte auf Bäumen oder Büschen und klicke sie an, um sie zu fressen
+
+# crg-verbcharge.prop
+
+0x6859AEDE Diese Fähigkeit ist nicht bereit
+
+# crg-spitclose.prop
+
+0x30A611E9 Du bist zu nahe dran
+
+# Social Card - Mini Boss
+
+0x064D4046 Beeindrucke dieses ~target_species_crg~-Exemplar, um einen mächtigen Verbündeten zu gewinnen.
+0x064D4045 Beeindrucken
+0x064D4044 Beeindrucke ~target_species_crg~
+0x064D4047 Diese einzigartige Kreatur ist viel größer und stärker als die meisten anderen Spezies.
+0x064D4048 Diese einzigartige Kreatur ist viel größer und stärker als die meisten anderen Spezies.
+
+# Find Unlocks Card
+
+0x54D958AC Um neue Teile freizuschalten, musst du Alpha-Kreaturen jagen oder dich mit ihnen anfreunden. In Skeletten findest du übrigens auch Teile.
+0x54D958AB Sammeln
+0x54D958AD Finde neue Teile, um dich weiterzuentwickeln!
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D0 Heimatnest
+0x0658F2D1 Neues Nest
+0x0658F2D2 Altes Nest
+0x0658F2D3 Unbekannte Spezies
+
+# CELL Find Unlocks Card
+
+0xF4DAF5CB Zellenteile freischalten
+0xF4DAF5C9 Sammeln
+0xF4DAF5CA Jage Alpha-Zellen oder brich Meteoritenreste auf, um neue Teile freizuschalten!
+
+# Build Artifact
+
+0x064D4064 Du hast Objekte entdeckt, die eine seltsame mystische Aura haben, die deine Spezies wahrnimmt. Sammle sie alle, um ein Symbol daraus zu bauen!
+0x064D4063 Du hast Objekte entdeckt, die eine seltsame mystische Aura haben, die deine Spezies wahrnimmt. Sammle sie alle, um ein Symbol daraus zu bauen!
+0x064D4062 Sammle alle Teile des geheimnisvollen Artefaktes!
+0x064D4060 Baue das Artefakt!
+0x064D4061 Baue das Artefakt!
+
+# Claim Nest
+
+0xD538B78F Möchtest du dieses Nest zu deiner Heimat machen? Wenn du stirbst, wirst du dann hier wiedergeboren.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 Klicke auf <hinticon> , um das Bezaubern zu lernen
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC Klicke auf <hinticon>, um das Spucken zu lernen
+
+# Combat - Extinct
+
+0x064D4059 Die Spezies "~target_species_crg~" ist ausgestorben!
+0x064D4058 Jagen
+0x064D4057 Jage ~target_species_crg~
+0x064D405B Die Spezies "~target_species_crg~" ist ausgestorben!
+0x064D405A Die Spezies "~target_species_crg~" ist ausgestorben!
+
+# Eating_Carnivore Goal Card
+
+0x0524D324 Du bist ein Fleischfresser. Jage Beute, um zu fressen!
+0x0509F9DA Fleischfresser fressen Fleisch, um zu überleben. Mache Jagd auf Beute oder klicke auf Kadaver, um diese zu fressen.
+0x0509F9D9 Fressen
+
+# Add_Posse Goal Card
+
+0x0509FC96 Rudelmitglieder
+0x0524D32A Füge ein Rudelmitglied hinzu.
+0x0509FC97 Nimm ein Mitglied deiner oder einer Verbündeten Spezies in dein Rudel auf, indem du es beeindruckst.
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 Klicke auf <hinticon> , um das Schlagen zu lernen
+
+# First time socializing
+
+0xF4211909 Ahme die andere Kreatur nach, um sie zu beeindrucken
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB Klicke auf <hinticon> , um das Singen zu lernen
+
+# Find Unlocks Card - First Part
+
+0x06035A51 Ein Teil sammeln
+0x06035A53 Finde ein neues Teil, um dich weiterzuentwickeln.
+0x06035A52 Um neue Teile freizuschalten, musst du Alpha-Kreaturen jagen oder dich mit ihnen anfreunden. In Skeletten findest du übrigens auch Teile.
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 Klicke auf <hinticon>, um das Tanzen zu lernen
+
+# Social Card - Hostile Species
+
+0x064D403B Beeindrucken
+0x064D403A Beeindrucke ~target_species_crg~
+0x064D403C Du kannst die ~target_species_crg~ nicht beeindrucken!
+0x064D403D Manche Spezies sind von Natur aus feindselig, oder dein Verhalten hat sie für immer zu deinem Feind gemacht. Also Vorsicht!
+0x064D403E Manche Spezies sind von Natur aus feindselig, oder dein Verhalten hat sie für immer zu deinem Feind gemacht. Also Vorsicht!
+
+# Hints
+
+0x142CD4F2 Denke daran, dass Fleischfresser nur Fleisch, Pflanzenfresser nur Früchte fressen sollten!
+0x057736C3 Klicke auf <hinticon>, um einen Stamm zu gründen
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4036 Beeindrucken
+0x064D4035 Beeindrucke ~target_species_crg~
+0x064D4037 Beeindrucke ~mission_remaining_crg~ ~target_species_crg~, um dich mit ihnen zu verbünden.
+0x064D4038 Sobald du mit dieser Spezies ein Bündnis hast, kannst du dich in ihrem Nest heilen.
+0x064D4039 Sobald du mit dieser Spezies ein Bündnis hast, kannst du dich in ihrem Nest heilen.
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 Klicke auf eine Kreatur, um mit ihr sozial zu interagieren
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4031 Beeindrucken
+0x064D4030 Beeindrucke ~target_species_crg~
+0x064D4034 Bist du mit dieser Spezies verbündet, kannst du dich in ihrem Nest heilen und sie eines Tages deinem Rudel hinzufügen.
+0x064D4032 Beeindrucke ~mission_remaining_crg~ ~target_species_crg~, um dich mit ihnen zu verbünden.
+0x064D4033 Bist du mit dieser Spezies verbündet, kannst du dich in ihrem Nest heilen und sie eines Tages deinem Rudel hinzufügen.
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 Klicke auf <hinticon>, um das Beißen zu lernen
+
+# Reward text for all cards
+
+0x050A34CA Belohnung: ~reward_evo_crg~ DNA
+
+# Save Baby
+
+0x064D405F Ein ~target_species_crg~ hat ein Baby deiner Spezies gefangen!
+0x064D405E Bring das Baby sicher in dein Nest zurück, um es zu retten!
+0x064D405D Rette das Baby!
+0x064D405C Rette das Baby!
+0x06739532 Ein ~target_species_crg~ hat ein Baby deiner Spezies gefangen!
+
+# Combat Card
+
+0x064D404E Jage ~target_species_crg~
+0x064D404F Jagen
+0x064D4050 Jage ~mission_remaining_crg~ ~target_species_crg~
+0x064D4051 Jage diese Spezies, um sie eines Tages auszurotten.
+0x064D4052 Jage die ~target_species_crg~, um sie zu beherrschen und letztlich auszurotten!
+
+# crg-notarget.prop
+
+0x79E8F4C5 Du hast kein Ziel
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE Allesfresser haben eine abwechslungsreiche Ernährung. Klicke auf Kadaver oder Früchte, um diese zu fressen.
+0x0524D326 Du bist ein Allesfresser. Friss Früchte oder Fleisch!
+0x0509F9DD Fressen
+
+# Species creator
+
+0xB3DAED77 Von ~creator~
+0x73DB4258 Von SporeTeam
+
+# crg-useabilityposture.prop
+
+0x8693A0FC Klicke auf <hinticon>, um das Posieren zu lernen
+
+# con
+
+0x0595B72B Epische ~local_creature_name~-Kreatur
+0x0564E650 Haustier ~local_creature_name~
+0xF32FE51B Alpha ~local_creature_name~
+0x94ACB6F7 Schurke ~local_creature_name~
+0xB32FE522 Baby ~local_creature_name~
+
+# crg-locatemate.prop
+
+0x200AFD34 Klicke auf <hinticon>, um deinen Partner ausfindig zu machen
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404D Du kannst ihr Nest für Heilungen verwenden!
+0x064D404C Du kannst ihr Nest für Heilungen verwenden!
+0x064D404B Die ~target_species_crg~ sind deine Verbündeten!
+0x064D4049 Beeindrucke ~target_species_crg~
+0x064D404A Beeindrucken
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D4043 Du kannst ihr Nest nun für Heilungen verwenden oder sie deinem Rudel hinzufügen!
+0x064D4042 Du kannst ihr Nest nun für Heilungen verwenden oder sie deinem Rudel hinzufügen!
+0x064D4041 Die ~target_species_crg~ sind deine Verbündeten!
+0x064D4040 Beeindrucken
+0x064D403F Beeindrucke ~target_species_crg~
+

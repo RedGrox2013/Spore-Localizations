@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Suojele Puhmunkkia planeetalla ~mission_target_planet~.
+0x00000095 Puhmunkki on saavuttanut planeetalla ~mission_target_planet~ olevan temppelin. Palaa takaisin tähtijärjestelmään ~mission_source_star~ ja ilmoittaudu planeetalla ~mission_source_planet~.
+0x00000092 Suojele Puhmunkkia tämän matkatessa tähden ~mission_target_star~ järjestelmässä.
+0x00000093 Suuntaa järjestelmään ~mission_source_star~.
+0x000000B2 Palaa takaisin planeetalle ~mission_source_planet~.
+0x00000098 Valmis
+0x00000099 Onnistuit! Anna raportti tähtijärjestelmässä ~mission_source_star~.
+0x00000097 Kesken
+0x0000004E Puhmunkki odottaa sinua planeetalla ~mission_target_planet~. Tarkista tarkka sijainti tehtävälokistasi.~p~Toimi nopeasti! Sinusta ei ole kenellekään apua, jos Puhmunkki tulee syödyksi ennen saapumistasi.
+0x00000000 Tervetuloa, ~ep1_captain_full_name~. On aina hienoa tavata toinen uskonopin seuraaja... Sellainenhan sinä kai olet, eikö vain? ~p~Planeetalla ~mission_target_planet~ on suojelua kaipaava Puhmunkki. ~p~Hän kaipaa apua päästäkseen Paten temppelille. Kiinnostaisiko tällainen saattokeikka?
+0x00000041 Miksi mustakynnet ovat niin raivoissaan? Niidenhän pitäisi arvostaa heille rakentamaamme temppeliä.~p~Miksi ne eivät vain luovu aseistaan ja hyväksy Paten sanaa?~p~Onneksi sinä olet uskollinen palvelija. Siitä saat palkinnoksi ~mission_rewards~. Kulkekoon Pate rinnallasi.
+0x00000081 Oletko pyytänyt johdatusta Patelta? Uskovien toiveet toteutetaan.
+0x00000071 Ei auta kuin rukoilla, että Paten pyhyys suojaa Puhmunkkia. Täytynee etsiä vauhdilla toinen henkivartija.
+0x00000094 Suojele Puhmunkkia tähden ~mission_target_star~ järjestelmässä. Suojaa häntä koko pitkän matkan ajan. Hän odottaa sinua planeetalla ~mission_target_planet~.
+0x00000064 Pate olkoon ylistetty! Puhmunkki odottaa sinua rannalla.~p~Olkoon matkasi nopea ja rauhallinen.
+

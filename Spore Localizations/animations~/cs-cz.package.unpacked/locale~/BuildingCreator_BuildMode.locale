@@ -1,0 +1,40 @@
+﻿0x00000041 ~guide: -h3~ Kategorie bloků
+0x00000081 ~guide: -h2~ Jakmile je blok umístěn na vaší budově, můžete ho vybrat kliknutím na něj - zvýrazní se modře.
+0x00000031 ~guide: -h2~ V Režimu tvorby je Paleta bloků otevřená v levé části obrazovky Tvoření budov.
+0x00000161 ~guide: -bullet~ Rotační kroužek: Měňte nasměrování bloků.
+0x00000101 ~guide: -h1~ Upravování bloků
+0x00000111 ~guide: -h3~ Dodatečné upravování bloků
+0x00000131 ~guide: -bullet~ Blok, který chcete upravovat, vyberete kliknutím na něj - zvýrazní se modře.
+0x00000121 ~guide: -h2~ Jakmile na budovu umístíte blok, můžete ho díky pomocnému ovládání upravovat.
+0x000001A1 ~guide: -h3~ Rozpočet na bloky
+0x000001D1 ~guide: -h3~ Ukazatel vývoje
+0x00000051 ~guide: -h2~ V horní části Palety bloků si můžete vybírat kategorie bloků - konstrukce, střechy, konektory, dveře, okna, funkce a detaily. Kategorii bloku, kterou chcete použít, vyberete kliknutím na její záložku.
+0x00000191 ~guide: -h1~ Vývoj a rozpočet
+0x000000A1 ~guide: -bullet~ Pokud na podstavec umístíte dvě části a přiblížíte je k sobě, automaticky se protnou.
+0x00000091 ~guide: -h3~ Střechy a místnosti, které jsou na sobě nebo se protínají
+0x00000021 ~guide: -h1~ Paleta bloků
+0x00000071 ~guide: -h2~ Blok vyberete kliknutím na něj v Paletě bloků, poté ho z palety přetáhněte na podstavec nebo na budovu.
+0x000000E1 ~guide: -h3~ Průměr a výška budovy
+0x00000061 ~guide: -h3~ Výběr a přidávání bloků
+0x000000C1 ~guide: -h3~ Přichytávat k
+0x000000F1 ~guide: -h2~ Existují omezení možného průměru a výšky vašich budov. Pokud při umísťování bloku toto omezení přesáhnete, daný blok se jednoduše nepřipojí a namísto toho zůstane červeně označený. Za nepřipojitelné bloky nebudete nic platit.
+0x000000D1 ~guide: -h2~ Bloky sice můžete na budovu umísťovat kam chcete, ale okna, dveře a detaily mají na sobě body pro přitahování, aby pro vás bylo snazší je umístit. Pokud tyto bloky přetáhnete na budovu, všimnete si jejich nepatrného doskočení a přichycení.
+0x000001C1 ~guide: -h2~ Každý blok, který na svoji budovu umístíte, vás stojí určité body. Jakmile vám body dojdou, už nebudete moci umísťovat žádné další bloky.
+0x00000141 ~guide: -h4~ Ovládací prvky bloku:
+0x00000151 ~guide: -bullet~ Upravovací šipky: Měňte výšku, šířku, délku nebo stočení bloku. Jednoduše zatáhněte a uvidíte.
+0x00000271 ~guide: -bullet~ Pokud chcete blok přesouvat do stran bez toho, aby se automaticky přizpůsobovala výška, podržte během vybírání bloku a následného přesouvání bloku myší stisknutou klávesu Shift.
+0x00000251 ~guide: -h3~ Směrové umístění
+0x00000241 ~guide: -bullet~ Pro zkopírování části, kterou jste již na svou budovu přidali, podržte zmáčknutou klávesu Alt, na danou část klikněte a vzniklou kopii poté přetáhněte na jiné místo na budově.
+0x000001E1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000000F2 ~guide: -h3~ Odstraňování bloků
+0x000000F3 ~guide: -h2~ Blok odstraníte tak, že na něj kliknete a stisknete Delete či Backspace na klávesnici nebo tak, že ho přetáhnete mimo budovu či podstavec.
+0x000001F1 ~guide: -h2~ Ukazatel vývoje měří konstrukční složitost vaší budovy. Když bude vaše budova přespříliš složitá, nebudete už moci přidávat žádné další bloky.
+0x00000211 ~guide: -h3~ Ovládací prvky částí
+0x00000261 ~guide: -bullet~ Pohybovat blokem nahoru a dolů (ano, i když ho odsunete do vzduchu) můžete tak, že při jeho výběru a následném posouvání pomocí myši podržíte stisknutou klávesu Ctrl.
+0x00000231 ~guide: -h3~ Kopírování částí
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Režim tvorby
+0x00000221 ~guide: -bullet~  Když při výběru bloku budovy podržíte stisknutou klávesu Tab, objeví se pomocné ovládání, pomocí kterého můžete každou část daleko lépe umisťovat.
+0x000001B1 ~guide: -h2~ Váš rozpočet na bloky se zobrazuje v levém dolním rohu Tvoření budov.
+0x000000B1 ~guide: -bullet~ Pokud umístíte blok přímo na jiný blok, automaticky se poskládají.
+0x00000201 ~guide: -h1~ Pokročilé funkce budov
+

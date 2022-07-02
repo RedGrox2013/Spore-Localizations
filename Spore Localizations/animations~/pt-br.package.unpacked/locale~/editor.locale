@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA Sporetástico
+0x045882FB Sporeziano
+
+#Default Creation name
+
+0x04D93065 Objeto Sem Nome
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC O modificador de controle agora seleciona todos os blocos.
+0x0450C9DD O modificador de controle agora seleciona os blocos do mesmo tipo.
+0x0450C9DE O conta-gotas agora seleciona cores e texturas.
+0x0450C9DF O conta-gotas agora seleciona apenas cores.
+0x0450C9E0 O conta-gotas agora seleciona apenas texturas.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x047E7E84 O conteúdo "~newmodelname~" foi compartilhado com sucesso!
+0x047E7E85 O conteúdo "~newmodelname~" já foi compartilhado!
+0x047E7E83 Tem certeza de que deseja compartilhar "~newmodelname~" no Spore.com?~br~Você está compartilhando esse conteúdo como: ~username~
+0x061349C1 O conteúdo "~newmodelname~" não foi compartilhado com sucesso.
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Tem certeza de que deseja sair do Criador de Criaturas do Spore?
+
+#paint mode paint buddy
+
+0x05BD6E0D Exclua-me
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD Esse modelo não é válido.
+0x053740AE Você pode jogar com essa criação, mas ela não será compartilhada pelas seguintes razões:
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x0563D473 O conteúdo "~modelname~" não foi compartilhado com sucesso.
+0x045700B6 Tem certeza de que deseja compartilhar "~modelname~" no Spore.com?~br~Você está compartilhando esse conteúdo como: ~username~
+0x045921AD O conteúdo "~modelname~" foi compartilhado com sucesso!
+0x04592638 Clique aqui para conectar-se
+
+#paint mode color chicklets
+
+0x05BF125F Clique e mantenha o botão pressionado para ver outras opções de cores
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------
+0x0535B1AE Tudo
+0x0535B1B1 Sugestões
+0x0535B1B2 Outras Criações
+0x0535B1AF Jogo Spore
+0x0535B1B0 Minhas Criações
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA015 Avaliação de Pintura CCS
+0xB4CEA016 Registro de Pintura CCS
+0xB4CEA017 Parceiro de Pintura CCS 1
+0xB4CEA010 Avaliação de Partes CCS
+0xB4CEA014 Partes CCS Concluídas
+0xB4CEA011 Registro de Partes CCS
+0xB4CEA013 Parceiro de Partes CCS 2
+0xB4CEA012 Parceiro de Partes CCS 1
+0xB4CEA019 Pinturas CCS Concluídas
+0xB4CEA018 Parceiro de Pintura CCS 2
+0x9F3415A4 Núcleo Spore
+
+### this text goes in CSA###
+
+0x00000001 Copiar Para
+0x00000002 Vender Para
+0x00000007 Vender Para
+0x00000003 Estilos Parciais
+0x00000101 Caro Demais
+0x00000102 Partes Demais
+0x00000105 Já Possui Esta Ferramenta
+0x0000020D (NOT IN USE)
+0x0000010B Bloqueado
+0x0000010C Limite geral de veículos atingido
+0x00000104 Limite atingido para veículos deste tipo
+0x00000106 Não é possível adquirir veículos no estágio espacial
+0x00000107 Adquira esta ferramenta com outras tribos
+0x00000108 Nível-T muito baixo
+0x00000109 Apenas 1 Prefeitura por cidade
+0x0000010A Sem mais espaço para torres
+0x00000103 Sem Mais espaço para estruturas
+0x0000010D Crie, modifique ou selecione uma nave.
+0x00000206 Os veículos são construídos automaticamente para você.
+0x00000005 Contagem de Estruturas
+0x00000008 Fazer Assimétrico
+0x00000201 Este item é muito caro e não pode ser comprado agora.
+0x00000208 Este planeta precisa de um nível de terraformação maior para poder suportar mais estruturas.
+0x00000207 Para poder usar esta ferramenta, alie-se ou Conquiste uma tribo que a possua.
+0x0000020C Você já adquiriu a quantidade máxima permitida para veículos deste tipo.
+0x0000020A Não há mais locais para a construção de torres.
+0x00000209 A prefeitura é o ponto central para todas as outras estruturas de uma cidade. Então, construa outras estruturas para expandir sua cidade!
+0x00000202 Sua criação já está usando partes demais. Remova algumas delas para liberar um pouco de espaço.
+0x00000205 Sua tribo precisa de apenas 1 ferramenta de cada tipo.
+0x00000204 Você já adquiriu a quantidade máxima permitida para veículos deste tipo.
+0x00000203 Não existem mais locais para a construção de estruturas. Remova uma estrutura para liberar um pouco de espaço.
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Criador
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Essa parte se tornará disponível ao comprar o Spore.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D286 Tem certeza de que deseja excluir esse objeto do jogo permanentemente? Seu jogo será salvo e reiniciado antes que o objeto seja excluído.
+0x0450D285 Tem certeza de que deseja excluir isso do jogo permanentemente?
+0x0450D284 Deseja excluir esse objeto de todos os jogos salvos?
+0x063AB852 Este item é um avatar em algum de seus jogos. Você deve excluir aquele jogo para poder remover este item.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Essa criação utiliza partes do Spore que não estão instaladas.
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C Conteúdo ~newmodelname~ foi salvo. Verifique ~newmodelname~ na seção “Minhas Criações” na Sporepédia.
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000008 Salvar alterações em “~newmodelname~” antes de continuar?
+0x10000018 Salvar alterações em “~newmodelname~” antes de carregar?
+0x10000028 Salvar alterações em “~newmodelname~” antes de iniciar uma nova criação?
+0x10000029 Sua criação atual não pode ser salva pelo seguinte motivo:~br~~br~~generic0~~br~~br~Tem certeza de que deseja iniciar uma nova criação e perder suas alterações atuais?
+0x10000038 Salvar alterações em “~newmodelname~” antes de sair?
+0x10000039 Sua criação atual não pode ser salva pelo seguinte motivo:~br~~br~~generic0~~br~~br~Tem certeza de que deseja sair e perder sua criação atual?
+0x10000019 Sua criação atual não pode ser salva pelo seguinte motivo:~br~~br~~generic0~~br~~br~Deseja continuar a carregar e perder as mudanças feitas à criação que está editando no momento?
+0x10000009 Sua criação atual não pode ser salva pelo seguinte motivo:~br~~br~~generic0~~br~~br~Deseja continuar a carregar e perder as mudanças feitas à criação que está editando no momento?
+0x1000002A Salvar "~newmodelname~" como uma nova criação ou substituir "~oldmodelname~" antes de iniciar uma nova criação?
+0x1000001A Salvar "~newmodelname~" como uma nova criação ou substituir "~oldmodelname~" antes de continuar?
+0x1000003A Salvar "~newmodelname~" como uma nova criação ou substituir "~oldmodelname~" antes de continuar?
+0x1000000B Salvar "~newmodelname~" como uma nova criação ou substituir "~oldmodelname~"?
+0x1000000A Salvar "~newmodelname~" como uma nova criação ou substituir "~oldmodelname~" antes de continuar?
+0x1000000D Sair agora causará a perda das suas mudanças. Você tem certeza de que deseja sair?
+0x1000000C O Criador está executando o processo de salvar "~newmodelname~". Se você sair agora, "~newmodelname~" será definitivamente perdido. Tem certeza de que deseja sair?
+0x10000040 Você não poderá mais editar sua criatura depois de começar a equipá-la com acessórios. Você deseja continuar?
+

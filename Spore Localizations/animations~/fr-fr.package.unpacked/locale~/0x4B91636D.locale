@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Infiltrez le Complexe de Recherches de la planète ~mission_target_planet~.
+0x00000093 Destination : constellation ~mission_source_star~.
+0x00000099 Bravo ! Rentrez vers la constellation ~mission_source_star~.
+0x00000097 En cours
+0x000000B2 Rentrez sur la planète ~mission_source_planet~.
+0x00000098 Terminée
+0x00000000 Salutations ~ep1_captain_full_name~. Les nouvelles sont mauvaises. D'après nos informations, des scientifiques construisent une arme dévastatrice sur la planète ~mission_target_planet~.~p~Nous avons besoin de quelqu'un pour aller jeter un oeil à leur technologie. Qu'en dites-vous ?
+0x00000071 Puis-je préciser que d'après nos calculs scientifiques, vos chances de succès sont de l'ordre de 92,3 % ?
+0x0000004E Votre Journal de mission contient tout ce que vous devez savoir.~p~Vous êtes ici pour rassembler des données scientifiques, alors pas d'explosion, d'accord ?
+0x00000081 On ne vous demande pas de mener la charge de la brigade légère. Nous voulons juste un échantillon de la technologie TX-5000.~p~Cela étant, cette mission comporte son lot d'aléas scientifiques.
+0x00000094 Infiltrez le Complexe de Recherches sur la planète ~mission_target_planet~ de la constellation ~mission_target_star~. Restez discret et évitez toutes confrontations.
+0x00000095 Le programme d'armement TX-5000 a été stoppé. Revenez sur la planète ~mission_source_planet~ de la constellation ~mission_source_star~.
+0x00000041 Quel dommage que le TX-5000 ait explosé. Peut-être qu'en analysant les débris nous pourrons comprendre son fonctionnement.~p~Bien sûr nous n'utiliserons jamais cette technologie à des fins militaires. Mais pensez à tout le potentiel pour, euh... l'environnement, créer des énergies renouvelables, tout ça.~p~Hum, bref, merci à vous. Vous avez bien mérité ces ~mission_rewards~ Sporeflouz.
+0x00000064 Notre espion Bathouille est déjà sur place. Infiltrez-vous dans la base et trouvez-le. Il vous en dira plus.~p~Pas de zèle ~ep1_captain_full_name~ ! Restez discret.~p~Bonne chance !
+0x00000092 Infiltrez le Complexe de Recherches de la constellation ~mission_target_star~. Restez discret et évitez toute confrontation.
+

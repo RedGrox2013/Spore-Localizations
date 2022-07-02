@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Bra nog
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Handledningar
+0x058B62B1 Speltips
+0x058B62B2 Kantrullning
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Standardvärden
+0x0474E6B5 Grafikinställningar
+0x0474E6B6 Låg
+0x0474E6C6 Hög
+0x0474E6CC Skuggor
+0x0474E6D0 Texturdetaljer
+0x0474E6D6 Grafiska effekter
+0x0474E6DE Kvalitet på spelarmodeller
+0x0474E6E4 Kvalitet på planeter
+0x0474E6E5 Kvalitet på ljussättning
+0x0474E6E9 Skärmupplösning
+0x0474E6ED Grafik-cache (MB)
+0x0474E6F0 Profiler
+0x058A2A2B Att ändra skärmupplösningen kommer att kräva en omstart och kan påverka spelets prestanda.
+0x058B6240 Fullskärmsläge
+0x058B624C Fönsterläge
+0x066A4BC8 Anti-Aliasing
+0x0674D28F Skärmöverstrålning
+0x0474E6C2 Medel
+0x0695A585 Kommando-Retur växlar mellan fönster- och fullskärmsläge.
+0xBBFC7687 Perspektivdjup
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x088B63B3 Cell
+0x080B23B6 Flytta rymdskepp
+0x080B23B7 Luta och rotera kamera
+0x080B23B2 Civilisation
+0x080B23B3 Välj mål
+0x080B23B4 Aktivera verktyg
+0x090A24A7 Flytta kamera
+0x090A23A4 Zooma
+0x090A23A3 Flytta varelse
+0x090A28A7 Markera ett fordon
+0x090A28A6 Markera en stammedlem
+0x090A26A9 Luta och rotera kamera
+0x088B63B6 Varelse
+0x090A21A6 Ge instruktioner
+0x088B63B9 Stam
+0x088B63B7 Klicka här för att koppla rotera till höger musknapp
+0x090A29A7 Flytta cell
+0x090A50AA Vänsterklicka och dra eller använd tangenterna W, A, S, D.
+0x090A50A6 Rulla med mushjulet
+0x090A50A5 Högerklicka och dra
+0x090A50A7 Klicka och dra med båda musknapparna
+0x090A50A8 Högerklicka och dra eller använd tangenterna W, A, S, D.
+0x090A50A9 Varelse följer markören
+0x090A50A1 Använd tangenterna W, A, S, D
+0x090A30B5 Rektangelmarkera fordon
+0x090A30B4 Rektangelmarkera stammedlemmar
+0x090A50A4 Högerklicka
+0x090A50A3 Vänsterklicka och dra
+0x090A50A2 Vänsterklicka
+0x080B23B9 Rymd
+0x088B63B4 Klicka här för att automatiskt följa markören
+0x088B63B5 Placera markören över ikonerna nedan för att se hur de fungerar
+0x080B23B8 Ändra rymdskeppets höjd.
+0x090A50AB Håll ner Command, Option och vänster musknapp
+0x090A50AC Håll ned musknappen i mitten
+
+#### profile - user selects ####
+
+0x0474E6FC Användarval
+
+#### profile - performance ####
+
+0x0474E6F1 Prestanda
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Logga ut
+0x0565289E Logga in
+0x0565289F Registrera
+0x056528A0 Serveranslutning
+0x056528A5 Skapa ett konto för att ansluta till Spore.
+0x056528A7 Anslut till Spore.
+0x058B63D4 Estetisk matchning
+0x056528A3 Påminn vid start
+0x056528A4 Ej registrerad
+0x0626E390 Ta bort gamla hämtningar
+0x0626E391 Borttagning efter antal dagar
+0x056528A2 Online-alternativ
+0x058B63D3 Endast kompismaterial
+0x056528A1 Status:
+0x056528A8 ~generic0~ ansluten
+0x056528A9 Koppla ner från Spore eller byt användare.
+0x056528A6 Offline
+0x0626E392 Kopiera borttaget till arkivmapp
+0x067A21D9 Dagar.
+0x067A21D8 Hämta endast material från prenumerationer som är nyare än så här många dagar:
+0x067A21D7 Cache-storlek för hämtning (MB)
+0x05E39554 Uppdaterar innehållsdatabasen ...
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Ljudinställningar
+0x0473EF2C Grafikinställningar
+0x0473EF2D Spelinställningar
+0x0473EF2F Online-inställningar
+0x0473EF30 Medverkande
+0x0473EF31 Spara dina inställningar
+0x0473EF32 Stäng Alternativ utan att spara
+0x0473EF33 Inställningar
+0x0473EF2E Inspelningsinställningar
+0x0473EF34 Kontrollinställningar
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 Logga in mig på YouTube automatiskt
+0x0589E518 Filmupplösning
+0x0589E51C Bildupplösning
+0x0589E51D Liten
+0x0589E51F Stor
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x0631825F Om du accepterade standardmapparna vid installationen finns bilder och filmer i ~generic0~(tillgångstyp)
+0x05D1185C Spel- och hjälpalternativ
+0x058B63A0 Spela in film utan ljud
+0x058B6381 Spel- och inspelningsinställningar
+0x0589E51E Medel
+
+#### profile - image quality ####
+
+0x0474E6F5 Bildkvalitet
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Huvudvolym
+0x0431D893 Röster
+0x0431D894 Effekter
+0x0431D896 Inget ljud
+0x0431D898 Högtalarkonfiguration
+0x0431D899 2 högtalare (stereo)
+0x0431D89A 4 högtalare (quad)
+0x0431D89B 5.1 högtalare (surround)
+0x0431D895 Musik
+0x0431D89C Ljudkvalitet
+0x0431D8A1 Spelaren måste vara på Spores galaxskärm för att ändra högtalarkonfiguration.
+0x0431D897 Mixer
+0x0431D89D Volym för alla ljud
+0x0431D89F Volym för varelsers röster
+0x0431D89E Volym för spelmusiken
+0x0431D8A0 Volym för ljudeffekter
+
+## Mac version
+
+0x06318D68 Om du accepterade standardmapparna vid installationen finns filmer och videoklipp i Mina Sporeskapelser/(tillgångstyp) i mappen Mina dokument.
+

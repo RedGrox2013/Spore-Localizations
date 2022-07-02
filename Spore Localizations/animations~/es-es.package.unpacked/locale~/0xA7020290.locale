@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 ¡Felicidades! Tu maravilloso cerebro ha impresionado al Sr. Puzzle. Está deseando volver a retarte.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Cada tarjeta coloreada abre la puerta correspondiente. Solo una puerta conduce a la llave del misterio.
+
+# Adventure name
+
+0x00000002 Las puertas mágicas del señor Puzzle
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Llave del misterio
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mi tienda del misterio no tiene igual. Entra y demuestra tu ingenio natural.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Señor Puzzle
+
+# Act 3 description
+
+0x00000025 ¡Has encontrado la llave! Ahora utiliza el teletransportador mágico para dársela al señor Puzzle.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Señor Puzzle me hago llamar, y a los visitantes suelo desconcertar.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 ¡Saludos cordiales, visitante! Te doy la bienvenida a mi espectáculo ambulante.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 No te quedes atrás. Suerte, ¡la necesitarás!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Si eres listo, mi llave encontrarás. Y si no... espera y ya verás.
+
+# Act 1 name
+
+0x00000020 Te presentamos al Sr. Puzzle
+
+# 'Adventure lost' message
+
+0x00000012 No te rindas. ¿Probaste a usar ambas manos?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 Nos volveremos a ver, ¡te lo prometo!
+
+# Act 3 name
+
+0x00000024 ¡La has encontrado!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 ¡que eres un ser de gran intelecto!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Seguro que estás de acuerdo.)
+
+# Adventure description
+
+0x00000003 El Sr. Puzzle te reta a probar tu ingenio. ¿Puedes recuperar su llave del misterio?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 puzzle, Sr. Puzzle, puertas, llaves
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 ¡Mi llave! ¡Mi llave! Yo decreto...
+
+# Act 4 name
+
+0x00000102 ¡Un trabajo colosal!
+
+# Act 1 description
+
+0x00000021 Nunca se sabe qué se sacará de la manga el Sr. Puzzle. ¿Qué ocultará hoy su tienda del misterio?
+
+# Act 4 description
+
+0x00000103 ¡El Sr. Puzzle está impresionado!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 Este puzzle puede resultar extraño...
+
+# 'Adventure start' message
+
+0x00000010 El Sr. Puzzle deambula por la galaxia asombrando a grandes y pequeños por igual. ¿Qué reto traerá a este desolado planeta?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 Si te atascas, usa ambas manos.
+
+# Act 2 name
+
+0x00000100 La llave del misterio
+

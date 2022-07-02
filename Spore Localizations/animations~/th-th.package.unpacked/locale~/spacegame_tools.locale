@@ -1,0 +1,1698 @@
+﻿# sculpt_crystal_canyon.prop - spaceToolDetailDescription
+
+0x240126E6 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างคริสตัลแคนยอน
+
+# colorterraincyan.prop - spaceToolDescription
+
+0x4F4C2EDD สีฟ้า
+
+# sculpt_gear_hills.prop - spaceToolDescription
+
+0x8551F9C8 เนินเขารูปเกียร์
+
+# coloratmoorange.prop - spaceToolDescription
+
+0x1D57B204 สีส้ม
+
+#######################################
+# Tool target fail messages
+
+0x061AB566 คุณจะต้องเลือกเป้าหมายบนพื้นดินให้ถูกต้องเพื่อยิงอาวุธนี้
+0x061AF4B2 อาวุธชิ้นนี้ใช้สำหรับยิงใส่ยานอวกาศและยานพาหนะ
+0x05E62DE4 คุณสามารถตั้งเป้าหมายด้วยอาวุธนี้กับสิ่งมีชีวิตเท่านั้น
+
+# planetscan.prop - spaceToolLockedDescription
+# portal.prop - spaceToolDescription
+
+0x06005E75 ตั๋วกลับในพริบตา
+
+# energymegapotion.prop - spaceToolDetailDescription
+
+0x51CE942A เติมพลังงานให้กับยานอวกาศจนเต็ม
+
+# droughtgenerator.prop - spaceToolDetailDescription
+
+0x5EEB2EEF วางบนดาวเคราะห์เพื่อลดระดับสภาพบรรยากาศ
+
+# sculpt_terra_mountains.prop - spaceToolLockedDescription
+# sculpt_terra_plateau.prop - spaceToolDescription
+
+0x473606D1 ที่ราบสูง
+
+# icecapseeder.prop - spaceToolLockedDescription
+# icecomet.prop - spaceToolDescription
+
+0x50016B43 ดาวหางน้ำแข็ง
+
+# sculpt_crystal_seas.prop - spaceToolDescription
+
+0x58D2F45F ทะเลคริสตัล
+
+# coloratmocyan.prop - spaceToolDetailDescription
+
+0x23400F14 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีฟ้า
+
+# cropcircles.prop - spaceToolDetailDescription
+
+0x40052AF6 สร้างวงกลมปริศนาใกล้ๆ เมืองหรือเผ่าเพื่อทำให้พวกเขาแปลกใจ
+
+# colorterraingreen.prop - spaceToolDescription
+
+0xAFB4F707 สีเขียว
+
+# sculpt_basic_raise_medium.prop - spaceToolDetailDescription
+# sculpt_basic_raise_medium.prop - spaceToolLockedDescription
+# sculpt_basic_raise_small.prop - spaceToolDescription
+
+0xA7A60EBF ยกระดับผิวดิน (เล็ก)
+
+# sculpt_cute_wall.prop - spaceToolDescription
+
+0x62E92AFA แนวเขาสไตล์น่ารัก
+
+# protonmissile.prop - spaceToolDescription
+
+0x2B48B650 ขีปนาวุธโปรตอน
+
+# placeloyaltybooster.prop - spaceToolLockedDescription
+# placespicestorage.prop - spaceToolDescription
+
+0x2A366760 โรงเก็บเครื่องเทศ
+
+# cloudvacuum.prop - spaceToolDetailDescription
+
+0x58F17547 ใช้บนดาวเคราะห์เพื่อลดระดับสภาพบรรยากาศ
+
+# energyupgrade5.prop - spaceToolDetailDescription
+
+0x577558B4 เพิ่มความจุพลังงานของยานอวกาศจนมากที่สุด
+
+# globalminderase.prop - spaceToolLockedDescription
+# gravitationwave.prop - spaceToolDescription
+
+0x06036020 คลื่นโน้มถ่วง
+
+# sculpt_gear_seas.prop - spaceToolDescription
+
+0x34B2EA82 ทะเลรูปเกียร์
+
+# monolith.prop - spaceToolLockedDescription
+# mutation.prop - spaceToolDescription
+
+0x06006CE8 เครื่องผสมสปีชีส์
+
+# laserlevel2.prop - spaceToolDescription
+# laserlevel2.prop - spaceToolDetailDescription
+
+0xF561B166 ใช้กับเป้าหมายภาคพื้น  อาวุธร้ายแรงปานกลางแต่แม่นยำ
+
+# dumbbomblevel3.prop - spaceToolLockedDescription
+# enemylaser1.prop - spaceToolDescription
+# enemylaser2.prop - spaceToolDescription
+# enemylaser3.prop - spaceToolDescription
+# enemyminipulse1.prop - spaceToolDescription
+
+0x8BC5AF07 คลื่นพิฆาตขนาดจิ๋วของศัตรู
+
+# epicize.prop - spaceToolDetailDescription
+
+0x7472D9F8 ขยายสิ่งมีชีวิตให้มีขนาดยักษ์
+
+# wormhole.prop - spaceToolDetailDescription
+
+0x2B657392 ช่วยให้คุณบินผ่านหลุมดำโดยไม่บาดเจ็บ
+
+# sculpt_terra_canyon.prop - spaceToolDescription
+
+0x7621817B แคนยอน
+
+# colorterrainblue.prop - spaceToolDescription
+
+0xFADE51D2 สีน้ำเงิน
+
+# torpedogalaxy1.prop - spaceToolDescription
+
+0x12673EB4 ป้อมปืนอัตโนมัติขนาดจิ๋ว
+
+# cloak.prop - spaceToolDetailDescription
+
+0xB62407BD คลุมยานอวกาศของคุณเพื่อไม่ให้ผู้อื่นมองเห็น
+
+# fireworks.prop - spaceToolLockedDescription
+# genesisdevice.prop - spaceToolDescription
+
+0x0C7C683C ไม้เท้าแห่งชีวิต
+
+# eradicate.prop - spaceToolDetailDescription
+
+0x8EFB418B กำจัดสปีชีส์สิ่งมีชีวิตทั้งหมดเพื่อเปิดทางให้กับสิ่งใหม่ๆ
+
+# scan.prop - spaceToolDescription
+
+0xF30993C7 สแกน
+
+# colorwaterred.prop - spaceToolDetailDescription
+
+0xB9AC2498 เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีแดง
+
+# sculpt_terra_hills.prop - spaceToolDetailDescription
+
+0xCCF5236E ใช้บนดาวเคราะห์เพื่อสร้างเนินเขา
+
+# cropcircles.prop - spaceToolLockedDescription
+# cultureshocker.prop - spaceToolDescription
+
+0xACA3549D ผู้เปลี่ยนวัฒนธรรม
+
+# torpedogalaxy3.prop - spaceToolLockedDescription
+# torpedosolar1.prop - spaceToolDescription
+# torpedosolar1.prop - spaceToolDetailDescription
+# torpedosolar1.prop - spaceToolLockedDescription
+# torpedosolar2.prop - spaceToolDescription
+# torpedosolar2.prop - spaceToolDetailDescription
+# torpedosolar2.prop - spaceToolLockedDescription
+# torpedosolar3.prop - spaceToolDescription
+# torpedosolar3.prop - spaceToolDetailDescription
+# torpedosolar3.prop - spaceToolLockedDescription
+# turret_at_ecn.prop - spaceToolDescription
+
+0x5446F467 หอคอยต่อต้านรถถัง
+
+# sculpt_crystal_mesas.prop - spaceToolDetailDescription
+
+0x37587D89 ใช้บนดาวเคราะห์เพื่อสร้างภูเขาคริสตัลยอดตัด
+
+# sculpt_chocolate_squares.prop - spaceToolDetailDescription
+
+0xFA1353BE ใช้บนดาวเคราะห์เพื่อสร้างช็อคโกแลตสี่เหลี่ยม
+
+# placeembassy.prop - spaceToolDescription
+
+0xFF2BA023 สถานฑูต
+
+# placeembassy.prop - spaceToolDetailDescription
+
+0x5134BCBA วางสถานฑูตลงบนดาวเคราะห์ของเผ่าพันธ์ต่างดาว  กระชับไมตรีกับอาณาจักรของพวกเขาบ้างเป็นครั้งคราว
+
+# icecomet.prop - spaceToolLockedDescription
+# interplanetarydrive.prop - spaceToolDescription
+
+0x6514F8EE พลังขับเคลื่อนระหว่งดาวเคราะห์
+
+# dumbbomblevel2.prop - spaceToolDetailDescription
+
+0x8C775DBB ระเบิดพลังปานกลาง ใช้ทำลายยานพาหนะและสิ่งปลูกสร้าง
+
+# colorterraingreen.prop - spaceToolDetailDescription
+
+0x6858A61E เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีเขียว
+
+# cloudray.prop - spaceToolDetailDescription
+
+0xC3574828 ใช้บนดาวเคราะห์เพื่อเพิ่มระดับบรรยากาศ
+
+# colorterraincyan.prop - spaceToolDetailDescription
+
+0xB6D7BA7C เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีฟ้า
+
+# hotcloudray.prop - spaceToolLockedDescription
+# hotcloudvacuum.prop - spaceToolDescription
+
+0x3250FA19 กลุ่มสุญญากาศร้อน
+
+# sculpt_crystal_plateau.prop - spaceToolDescription
+
+0x1F26A005 ที่ราบสูงคริสตัล
+
+# getoutofufo.prop - spaceToolDetailDescription
+
+0x90A55BBE ส่งภาพสามมิติไปยังดาวเคราะห์เพื่อทำการสำรวจโดยละเอียด
+
+# sculpt_crystal_crack.prop - spaceToolDescription
+
+0xC4B0FE45 รอยแยกคริสตัล
+
+# sculpt_gear_walls.prop - spaceToolDetailDescription
+
+0xB941E794 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแนวเขารูปเกียร์
+
+# sculpt_chocolate_hill.prop - spaceToolDescription
+
+0x06CFA173 เนินเขาช็อคโกแลต
+
+# sculpt_terra_craters.prop - spaceToolDetailDescription
+
+0xFB2634DA ใช้บนดาวเคราะห์เพื่อสร้างปล่องภูเขา
+
+# energyupgrade5.prop - spaceToolLockedDescription
+# epicize.prop - spaceToolDescription
+
+0xD2936CB9 เครื่องขยายขนาด
+
+# cargoupgrade1.prop - spaceToolDescription
+
+0x52145143 พื้นที่เก็บของขนาดพื้นฐาน
+
+# zoo.prop - spaceToolDetailDescription
+
+0x45795585 ทำให้ดาวเคราะห์กลายเป็นเป็นเขตสงวนพันธุ์สัตว์ป่า  คุณสามารถนำสิ่งมีชีวิตต่างๆ ที่ลักพาตัวมาปล่อยไว้ที่นี่ได้อย่างปลอดภัย
+
+# eradicate.prop - spaceToolLockedDescription
+# fireworks.prop - spaceToolDescription
+
+0x8B0B75DE ดอกไม้ไฟ
+
+# sculpt_cute_wall.prop - spaceToolDetailDescription
+
+0x55F869A3 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแนวเขาสไตล์น่ารัก
+
+# portal.prop - spaceToolDetailDescription
+
+0x06005E79 เดินทางกลับไปยังดาวบ้านเกิดในหนึ่งการกระโดด
+
+# monolith.prop - spaceToolDetailDescription
+
+0x870C8C43 วางบนดาวเคราะห์ที่เป็นเผ่าหรือมีอารยธรรมเพื่อยกระดับสปีชีส์บนดาวเคราะห์นั้น
+
+# healthupgrade5.prop - spaceToolLockedDescription
+# heatray.prop - spaceToolDescription
+
+0x5F83F79E รังสีความร้อน
+
+# dumbbomblevel1.prop - spaceToolDetailDescription
+
+0x2E4A83A6 ระเบิดอานุภาพต่ำ สามารถทำความเสียหายให้กับพาหนะและสิ่งปลูกสร้างได้เป็นอย่างดี
+
+# colorterrainorange.prop - spaceToolDescription
+
+0x9A0CB36C สีส้ม
+
+# sculpt_terra_river.prop - spaceToolLockedDescription
+# sculpt_terra_seas.prop - spaceToolDescription
+
+0xC814C0FB ทะเล
+
+# coldray.prop - spaceToolDetailDescription
+
+0x8641E41B ใช้บนดาวเคราะห์เพื่อลดอุณหภูมิ
+
+# colorterrainblue.prop - spaceToolDetailDescription
+
+0x565F681B เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีน้ำเงิน
+
+# sculpt_chocolate_squares.prop - spaceToolDescription
+
+0x68A2D1A7 ช็อคโกแลตสี่เหลี่ยม
+
+# happyraylevel2.prop - spaceToolDetailDescription
+# happyraylevel2.prop - spaceToolLockedDescription
+# happyraylevel3.prop - spaceToolDescription
+
+0xBBD737AF ลำแสงความสุขพลังสูง
+
+# protonmissile.prop - spaceToolDetailDescription
+
+0x8555D2F1 ยิงขีปนาวุธตรงไปยังเป้าหมาย  มีประสิทธิภาพในการทำลายยานอวกาศอื่น
+
+# creaturecreate.prop - spaceToolLockedDescription
+# creatureedit.prop - spaceToolDescription
+
+0x0DC3BACB เครื่องดัดแปลงสิ่งมีชีวิต
+
+# laserlevel2.prop - spaceToolLockedDescription
+# laserlevel3.prop - spaceToolDescription
+
+0xB745C2F0 เมก้าเลเซอร์
+
+# sculpt_crystal_hills.prop - spaceToolDescription
+
+0x1A33DE3B เนินเขาคริสตัล
+
+# healthupgrade1.prop - spaceToolDetailDescription
+
+0x852C73AE เพิ่มพลังชีวิตให้แก่ยานอวกาศของคุณ
+
+# planetbusterbomb.prop - spaceToolLockedDescription
+# planetconversion.prop - spaceToolDescription
+
+0x06089937 บทสวดล้างสมอง
+
+# sculpt_gear_river.prop - spaceToolDetailDescription
+
+0xE23FE947 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำรูปเกียร์
+
+# creatureedit.prop - spaceToolDetailDescription
+
+0x4F4D0BC2 เลือกเครื่องมีอนี้และคลิกสิ่งมีชีวิตบนดาวเคราะห์ที่ต้องการแก้ไขร่างกาย
+
+# protonmissilelevel1.prop - spaceToolDescription
+
+0x79813159 ขีปนาวุธโปรตอนขนาดเล็ก
+
+# sculpt_basic_level_large.prop - spaceToolLockedDescription
+# sculpt_basic_level_medium.prop - spaceToolDescription
+
+0xE3BE7553 เกลี่ยพื้นดิน (กลาง)
+
+# allytorpedogalaxy2.prop - spaceToolDescription
+
+0xB71C33EB ตอร์ปิโดแห่งกาแล็กซี
+
+# sculpt_tentacle_mouth.prop - spaceToolDescription
+
+0xAAAC5A5E ปากดูดหนวดปลาหมึก
+
+# callforbackup.prop - spaceToolDetailDescription
+
+0x0601AA80 เรียกยานอวกาศจำลองขนาดจิ๋วของคุณมาช่วยในการเดินทาง
+
+# sculpt_gear_fissure.prop - spaceToolDetailDescription
+
+0x26F6797E คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างรอยแยกรูปเกียร์
+
+# planetconversion.prop - spaceToolDetailDescription
+
+0x0608993B ใช้บนดาวเคราะห์เพื่อเปลี่ยนความเชื่อของประชากรให้เป็นตามที่คุณต้องการ
+
+# sculpt_tentacle_seas.prop - spaceToolDetailDescription
+
+0x60AF5EC0 ใช้บนดาวเคราะห์เพื่อสร้างทะเลหนวดปลาหมึก
+
+# energyupgrade2.prop - spaceToolDescription
+
+0xAAF21EE8 เซลล์เชื้อเพลิงขนาดเล็ก
+
+# zoo.prop - spaceToolLockedDescription
+# autoblaster.prop - spaceToolDescription
+# autoblaster.prop - spaceToolDetailDescription
+
+0x061C69FE ป้องกันยานของคุณจากการคุกคามต่างๆ
+
+# torpedogalaxy1.prop - spaceToolDetailDescription
+
+0xB1177EB5 อาวุธป้องกันที่ยิงหอคอยและยานอวกาศโดยอัตโนมัติเมื่อโดนโจมตี  สามารถเปิดปิดสลักได้
+
+# coldcloudray.prop - spaceToolLockedDescription
+# coldcloudvacuum.prop - spaceToolDescription
+
+0x2EE4F934 เครื่องดูดเมฆความเย็น
+
+# rallycall.prop - spaceToolDetailDescription
+
+0x84FD3B8D เรียกระดมยานอวกาศพันธมิตรและเพิ่มอำนาจการโจมตีให้ชั่วกับทั้งหมดระยะเวลาหนึ่ง
+
+# coloratmored.prop - spaceToolDescription
+
+0xAC0E9EAF สีแดง
+
+# allylaser2.prop - spaceToolDescription
+# allylaser3.prop - spaceToolDescription
+# allyminipulse1.prop - spaceToolDescription
+
+0xD4795323 คลื่นพิฆาตขนาดจิ๋วของพันธมิตร
+
+# sculpt_gear_canyon.prop - spaceToolDetailDescription
+
+0x4E6F3B03 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแคนยอนรูปเกียร์
+
+# sculpt_tentacle_plateau.prop - spaceToolDescription
+
+0x481CA11B สร้างที่ราบสูงหนวดปลาหมึก
+
+# sculpt_crystal_mountains.prop - spaceToolDescription
+
+0xDAE9C56F ภูเขาคริสตัล
+
+# sculpt_cute_hills.prop - spaceToolDescription
+
+0x3F34BBDC เนินเขาสไตล์น่ารัก
+
+# sculpt_gear_craters.prop - spaceToolDetailDescription
+
+0xF0D70899 ใช้บนดาวเคราะห์เพื่อสร้างปล่องภูเขารูปเกียร์
+
+# tooltemplate.prop - spaceToolDetailDescription
+
+0xE90E6027 ฉันต้องการคำบรรยายเครื่องมือ!
+
+# shield.prop - spaceToolDescription
+
+0xDAB0AE3F เกราะกำบัง
+
+# sculpt_crystal_hills.prop - spaceToolDetailDescription
+
+0x511C7392 ใช้บนดาวเคราะห์เพื่อสร้างเนินเขาคริสตัล
+
+# colorterrainpink.prop - spaceToolDetailDescription
+
+0x930BED1F เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีชมพู
+
+# sculpt_terra_hills.prop - spaceToolLockedDescription
+# sculpt_terra_lavaflow.prop - spaceToolDescription
+
+0x63D11771 ทางลาวา
+
+# cloak.prop - spaceToolDescription
+
+0x1A266B7C อุปกรณ์อำพรางตัว
+
+# sculpt_basic_raise_large.prop - spaceToolLockedDescription
+# sculpt_basic_raise_medium.prop - spaceToolDescription
+
+0x5A121151 ยกระดับ (ขนาดกลาง)
+
+# repairpotion.prop - spaceToolDetailDescription
+
+0x013131F9 ซ่อมแซมความเสียหายบางส่วนให้ยานอวกาศของคุณ
+
+# placebiostabilizer.prop - spaceToolDetailDescription
+
+0xB1D9ABFD วางบนดาวเคราะห์เพื่อลดโอกาสเกิดหายนะทางชีวภาพ
+
+# colorwaterpink.prop - spaceToolDescription
+
+0xE65F9298 สีชมพู
+
+# sculpt_chocolate_spirals.prop - spaceToolDescription
+
+0xC0FB0C49 ช็อคโกแลตเกลียว
+
+# rainoffire.prop - spaceToolDescription
+
+0xF696A88D ฝนดาวตก
+
+# sculpt_gear_canyon.prop - spaceToolDescription
+
+0xE56A9D5A แคนยอนรูปเกียร์
+
+# placespicestorage.prop - spaceToolDetailDescription
+
+0x4C23A6E1 วางบนดาวเคราะห์เพื่อเพิ่มปริมาณเครื่องเทศที่สามารถเก็บสะสมได้
+
+# seti.prop - spaceToolDetailDescription
+
+0x04EBC561 ตรวจจับสิ่งมีชีวิตที่ชาญฉลาดในระบบดาวอื่นๆ อัตโนมัติ  ลองดูสัญลักษณ์คลื่นวิทยุที่ส่งออกมาในมุมมองกาแล็กซี่ดีๆ ล่ะ
+
+# sculpt_cute_holes.prop - spaceToolDescription
+
+0x25609C87 รอยประทับสไตล์น่ารัก
+
+# colorterrainorange.prop - spaceToolDetailDescription
+
+0x0D775C0D เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีส้ม
+
+# enemypulse2.prop - spaceToolDescription
+# enemypulse3.prop - spaceToolDescription
+# enemytorpedogalaxy1.prop - spaceToolDescription
+# enemytorpedogalaxy2.prop - spaceToolDescription
+# enemytorpedogalaxy3.prop - spaceToolDescription
+# enemytorpedosolar1.prop - spaceToolDescription
+# enemytorpedosolar2.prop - spaceToolDescription
+# enemytorpedosolar3.prop - spaceToolDescription
+# energymegapotion.prop - spaceToolDescription
+
+0xDD6D2133 พลังงานสำรองขนาดใหญ่
+
+# coloratmopink.prop - spaceToolDescription
+
+0x637C64AE สีชมพู
+
+# sculpt_cute_plateau.prop - spaceToolDescription
+
+0x42E6CF2E ที่ราบสูงสไตล์น่ารัก
+
+# colorterrainyellow.prop - spaceToolDetailDescription
+
+0x249781EB เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีเหลือง
+
+# sculpt_gear_river.prop - spaceToolDescription
+
+0x3B39E3EE แม่น้ำรูปเกียร์
+
+# getoutofufo.prop - spaceToolLockedDescription
+# globalminderase.prop - spaceToolDescription
+
+0xBE68817F คลื่นล้างสมองวิถีกว้าง
+
+# sculpt_tentacle_mountains.prop - spaceToolDetailDescription
+
+0x1E7ACC8C คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างภูเขาหนวดปลาหมึก
+
+# hotcloudvacuum.prop - spaceToolLockedDescription
+# icecapseeder.prop - spaceToolDescription
+
+0x3A437B21 เครื่องเก็บสภาพบรรยากาศ
+
+# sculpt_basic_lower_medium.prop - spaceToolLockedDescription
+# sculpt_basic_lower_small.prop - spaceToolDescription
+
+0xE90E8BEA พื้นดินระดับน้ำทะเล (เล็ก)
+
+# interstellardrive_upgrade1.prop - spaceToolDetailDescription
+
+0x9F22E5E2 เพิ่มระยะในการเดินทางของยานอวกาศ
+
+# healthupgrade4.prop - spaceToolDetailDescription
+# healthupgrade4.prop - spaceToolLockedDescription
+# healthupgrade5.prop - spaceToolDescription
+
+0xA7F72A5B เกราะเสริมขนาดใหญ่พิเศษ
+
+# sculpt_gear_plateau.prop - spaceToolDetailDescription
+
+0x39192F03 ใช้บนดาวเคราะห์เพื่อสร้างที่ราบสูงรูปเกียร์
+
+# dumbbomblevel1.prop - spaceToolLockedDescription
+# dumbbomblevel2.prop - spaceToolDescription
+
+0x6AA2F972 ระเบิด
+
+# sculpt_cute_seas.prop - spaceToolDetailDescription
+
+0xE06B17CF ใช้บนดาวเคราะห์เพื่อสร้างทะเลสไตล์น่ารัก
+
+# sculpt_gears.prop - spaceToolDescription
+
+0xC5033606 สร้างเกียร์
+
+# sculpt_terra_plateau.prop - spaceToolDetailDescription
+
+0xCB4D3F70 ใช้บนดาวเคราะห์เพื่อสร้างที่ราบสูง
+
+# sculpt_gear_fissure.prop - spaceToolDescription
+
+0x4BF5B267 รอยแยกรูปเกียร์
+
+# coloratmoyellow.prop - spaceToolDetailDescription
+
+0xEA93BE23 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีฟ้า
+
+# pulselevel3.prop - spaceToolDetailDescription
+
+0x68FD0B1F ยิงระเบิดพลังทำลายสูงเป็นแนวเส้นตรง  ใช้ได้ผลดีกับเป้าหมายที่อยู่พื้นดิน
+
+# antimatterbomb.prop - spaceToolLockedDescription
+
+0xA0BB7099 ต้องการ ~commodity_requirements~
+
+# repairmegapotion.prop - spaceToolDetailDescription
+
+0xE956DB67 ซ่อมแซมยานอวกาศของคุณให้อยู่สภาพดีเยี่ยมในทันที
+
+# sculpt_chocolate_valley.prop - spaceToolDescription
+
+0xAEE738C4 หุบเขาช็อคโกแลต
+
+# dumbbomblevel2.prop - spaceToolLockedDescription
+# dumbbomblevel3.prop - spaceToolDescription
+
+0x39F568F9 ระเบิดพลังสูง
+
+# asteroid.prop - spaceToolDetailDescription
+
+0x6B0D4AE6 ใช้เหนือผิวดาวเพื่อเรียกอุกาบาตมาพุ่งชน  มีผลให้อุณหภูมิเพิ่มสูงขึ้นและชั้นบรรยากาศเบาบางลง
+
+# heatray.prop - spaceToolLockedDescription
+# hotcloudray.prop - spaceToolDescription
+
+0xF1C68BAC เครื่องผลิตเมฆร้อน
+
+# placeloyaltybooster.prop - spaceToolDetailDescription
+
+0x36055134 วางลงบนดาวเคราะห์เพื่อให้ได้มาซึ่งความจงรักภักดีสูงสุด
+
+# sculpt_gear_mountains.prop - spaceToolDetailDescription
+
+0x440BEC05 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างภูเขารูปเกียร์
+
+# protonmissilelevel2.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolLockedDescription
+# antimattermissile.prop - spaceToolDescription
+
+0x84E3B697 จรวดปฏิสสาร
+
+# sculpt_chocolate_river.prop - spaceToolDetailDescription
+
+0x6A5B2854 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำช็อคโกแลต
+
+# happyraylevel3.prop - spaceToolDetailDescription
+# happyraylevel3.prop - spaceToolLockedDescription
+# healthupgrade1.prop - spaceToolDescription
+
+0xEA7290F7 เกราะพื้นฐาน
+
+# enemyminipulse2.prop - spaceToolDescription
+# enemyminipulse3.prop - spaceToolDescription
+# enemypulse1.prop - spaceToolDescription
+
+0x20C6731C คลื่นพิฆาตของศัตรู
+
+# placebioprotector.prop - spaceToolDescription
+
+0xE5B083EF เครื่องปกป้องชีวภาพ
+
+# sculpt_chocolate_pond.prop - spaceToolDescription
+
+0x1C9426E0 บ่อช็อคโกแลต
+
+# sculpt_tentacle_river.prop - spaceToolDetailDescription
+
+0xF7726B4E คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำหนวดปลาหมึก
+
+# atmospheregenerator.prop - spaceToolDetailDescription
+
+0x3E1F0150 วางลงบนดาวเคราะห์เพื่อเพิ่มระดับบรรยากาศ
+
+# pulselevel1.prop - spaceToolDetailDescription
+
+0x0B3B46B5 ยิงลำแสงขนาดเล็กเป็นเส้นตรง ใช้ได้ผลดีกับเป้าหมายบนพื้นดิน
+
+# torpedogalaxy1.prop - spaceToolLockedDescription
+# torpedogalaxy2.prop - spaceToolDescription
+
+0x0B5F32ED ป้อมปืนอัตโนมัติ
+
+# callforbackup.prop - spaceToolDescription
+
+0x0601AA7B เรียกกองหนุน
+
+# defenderlaser2.prop - spaceToolDescription
+# defenderlaser3.prop - spaceToolDescription
+# dropcargo.prop - spaceToolDescription
+
+0xF5CFF647 ลำแสงลำเลียง
+
+# cargoupgrade2.prop - spaceToolDetailDescription
+
+0x0D904F3F เพิ่มความจุห้องสัมภาระของยานอวกาศ
+
+# sculpt_cute_canyon.prop - spaceToolDescription
+
+0x7EF722AE แคนยอนสไตล์น่ารัก
+
+# protonmissilelevel1.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolDescription
+
+0x29C9E40F ขีปนาวุธเมก้าโปรตอน
+
+# colorreset.prop - spaceToolDetailDescription
+
+0xF61E6831 เปลี่ยนสีดาวเคราะห์กลับสู่แบบดั้งเดิม
+
+# colorterrainpink.prop - spaceToolDescription
+
+0x565CA906 สีชมพู
+
+# coloratmocyan.prop - spaceToolDescription
+
+0xE5671F75 สีฟ้า
+
+# antimattermissile.prop - spaceToolLockedDescription
+# laserlevel1.prop - toolTargetFlagsFailMessage
+
+0x7DF2ECCF ในการใช้เครื่องมือนี้ คุณต้องเลือกเป้าหมาย
+
+# interstellardrive_upgrade1.prop - spaceToolLockedDescription
+# interstellardrive_upgrade2.prop - spaceToolDescription
+
+0xD1160A0E พลังขับเตลื่อนระหว่างดาวเคราะห์ 3
+
+# sculpt_crystal_plateau.prop - spaceToolDetailDescription
+
+0x127A7C84 ใช้บนดาวเคราะห์เพื่อสร้างที่ราบสูงคริสตัล
+
+# placebioprotector.prop - spaceToolLockedDescription
+# placebiostabilizer.prop - spaceToolDescription
+
+0xE45CD1BC เครื่องรักษาสมดุลชีวภาพ
+
+# sculpt_gear_mountains.prop - spaceToolDescription
+
+0x12FB4124 ภูเขารูปเกียร์
+
+# sculpt_crystal_mountains.prop - spaceToolDetailDescription
+
+0xC62709E6 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างภูเขาคริสตัล
+
+# coloratmogreen.prop - spaceToolDetailDescription
+
+0xBF0DC136 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีเขียว
+
+# coloratmoorange.prop - spaceToolDetailDescription
+
+0x8118D7E5 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีส้ม
+
+# colorwaterblue.prop - spaceToolDetailDescription
+
+0x75DCC909 เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีน้ำเงิน
+
+# interstellardrive_upgrade1.prop - spaceToolDescription
+
+0xDA5D06EB พลังขับเคลื่อนระหว่างดาว 2
+
+# pulselevel1.prop - spaceToolLockedDescription
+# pulselevel2.prop - spaceToolDescription
+
+0xC9E33AED คลื่นพิฆาต
+
+# coloratmopink.prop - spaceToolDetailDescription
+
+0xAB570E07 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีฟ้า
+
+# laserlevel1.prop - spaceToolDetailDescription
+
+0x7F2E2C7B ใช้กับเป้าหมายภาคพื้น  อาวุธนี้ไม่ร้ายแรงแต่แม่นยำ
+
+# colorwaterpink.prop - spaceToolDetailDescription
+
+0xA2173559 เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีชมพู
+
+# allyminipulse2.prop - spaceToolDescription
+# allyminipulse3.prop - spaceToolDescription
+# allytorpedogalaxy1.prop - spaceToolDescription
+
+0xADD5370E ตอร์ปิโดแห่งกาแล็กซีขนาดเล็ก
+
+# healthupgrade2.prop - spaceToolDescription
+
+0x9172205A เกราะเสริมขนาดเล็ก
+
+# sculpt_chocolate_beads.prop - spaceToolDetailDescription
+
+0x421261AB คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างเส้นช็อคโกแลต
+
+# dropcargo.prop - spaceToolDetailDescription
+
+0xD46D8B5E ระบายสินค้าจากคลังสินค้าไปยังดาวเคราะห์ หยุดเพื่อปล่อยสิ่งมีชีวิตลงช้าๆ
+
+# sculpt_tentacle_seas.prop - spaceToolDescription
+
+0x08F51D41 ทะเลหนวดปลาหมึก
+
+# pulselevel1.prop - toolTargetFlagsFailMessage
+
+0xB5F45E41 อาวุธนี้ใช้เล็งเป้าได้เฉพาะยานอวกาศ หอคอย และยานพาหนะอื่นๆ
+
+# colorwatercyan.prop - spaceToolDescription
+
+0x42F9F1D7 สีฟ้า
+
+# torpedogalaxy2.prop - spaceToolDetailDescription
+
+0xE470C7AC ยิงใส่ป้อมและยานอวกาศโดยอัตโนมัติเมื่อถูกโจมตี  สามารถเปิดปิดสลักได้
+
+# icecapseeder.prop - spaceToolDetailDescription
+
+0x9D67C0A0 วางบนดาวเคราะห์เพื่อลดอุณหภูมิและระดับสภาพบรรยากาศ
+
+# creaturecreate.prop - spaceToolDescription
+
+0x3E295EE3 สร้างสิ่งมีชีวิต
+
+# coldcloudray.prop - spaceToolDetailDescription
+
+0x0734B94E ใช้บนดาวเคราะห์เพื่อลดอุณหภูมิและเพิ่มระดับบรรยากาศของดาว
+
+# sculpt_cute_mountains.prop - spaceToolDescription
+
+0x018123C8 ภูเขาสไตล์น่ารัก
+
+# sculpt_basic_lower_medium.prop - spaceToolDetailDescription
+
+0xD03592C3 ใช้บนดาวเคราะห์เพื่อทำพื้นผิวให้ต่ำลง
+
+# interstellardrive_upgrade4.prop - spaceToolDetailDescription
+
+0x2A165F89 เพิ่มความสามารถในการเดินทางของยานอวกาศถึงจุดสูงสุด
+
+# sculpt_tentacle_mountains.prop - spaceToolDescription
+
+0x9A5735CD ภูเขาหนวดปลาหมึก
+
+# sculpt_chocolate_seas.prop - spaceToolDetailDescription
+
+0x042C3086 คลิกที่ดาวเคราะห์เพื่อสร้างทะเลช็อคโกแลต
+
+# sculpt_basic_raise_large.prop - spaceToolDetailDescription
+
+0x06D08B5A ใช้บนดาวเคราะห์เพื่อยกพื้นผิวของดาว
+
+# coldcloudvacuum.prop - spaceToolDetailDescription
+
+0xA2D36535 ใช้บนดาวเคราะห์เพื่อลดอุณหภูมิและลดระดับสภาพบรรยากาศ
+
+# raiderrally.prop - spaceToolDetailDescription
+
+0x06087E9E ชักชวนให้โจรสลัดโจมตีดาวเคราะห์
+
+# sculpt_chocolate_truffles.prop - spaceToolDescription
+
+0xC2CB4C2C ช็อคโกแลตทรัฟเฟิล
+
+# sculpt_gear_craters.prop - spaceToolDescription
+
+0x96B6B5D8 ปล่องภูเขารูปเกียร์
+
+# cargoupgrade2.prop - spaceToolLockedDescription
+# cargoupgrade3.prop - spaceToolDescription
+
+0xEBA16D0D พื้นที่เก็บของขนาดใหญ่
+
+# sculpt_basic_lower_large.prop - spaceToolDetailDescription
+
+0x8650A33B ใช้บนดาวเคราะห์เพื่อลดระดับพื้นผิวดาวเคราะห์
+
+# sculpt_cute_seas.prop - spaceToolDescription
+
+0x483A5096 ทะเลสไตล์น่ารัก
+
+# hotcloudray.prop - spaceToolDetailDescription
+
+0x8D982D4D ใช้บนดาวเคราะห์เพื่อเพิ่มอุณหภูมิและระดับบรรยากาศ
+
+# sculpt_basic_lower_small.prop - spaceToolDetailDescription
+# sculpt_basic_lower_small.prop - spaceToolLockedDescription
+# sculpt_basic_raise_large.prop - spaceToolDescription
+
+0xBE9E44C3 ยกระดับผิวดิน (ใหญ่)
+
+# sculpt_gear_walls.prop - spaceToolDescription
+
+0x8E6ADBF5 แนวเขารูปเกียร์
+
+# sculpt_basic_level_medium.prop - spaceToolDetailDescription
+# sculpt_basic_level_medium.prop - spaceToolLockedDescription
+# sculpt_basic_level_small.prop - spaceToolDescription
+
+0xF4BFDB49 พื้นผิวระดับน้ำทะเล (เล็ก)
+
+# creatureedit.prop - spaceToolLockedDescription
+# cropcircles.prop - spaceToolDescription
+
+0x14BE5FDF วงกลมปริศนา
+
+# sculpt_tentacle_river.prop - spaceToolDescription
+
+0x0B88D097 แม่น้ำหนวดปลาหมึก
+
+# hotcloudvacuum.prop - spaceToolDetailDescription
+
+0xBBF76458 ใช้บนดาวเคราะห์เพื่อเพิ่มอุณหภูมิและลดระดับสภาพบรรยากาศ
+
+# globalminderase.prop - spaceToolDetailDescription
+
+0xD4F93796 ทำให้สิ่งมีชีวิตบนดาวทั้งหมดสงบลงและไม่โจมตี
+
+# colorwatercyan.prop - spaceToolDetailDescription
+
+0x3401798E เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีฟ้า
+
+# sculpt_tentacle_hills.prop - spaceToolDescription
+
+0x0E49D3F5 เนินเขาหนวดปลาหมึก
+
+# colorwaterpurple.prop - spaceToolDescription
+
+0x3A2C7D32 สีม่วง
+
+# coloratmoyellow.prop - spaceToolDescription
+
+0xE849437A สีเหลือง
+
+# placehappinessbooster.prop - spaceToolLockedDescription
+# placeloyaltybooster.prop - spaceToolDescription
+
+0x8C4FB895 เครื่องเพิ่มความจงรักภักดี
+
+# coloratmopurple.prop - spaceToolDetailDescription
+
+0x6C54E325 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีม่วง
+
+# droughtgenerator.prop - spaceToolLockedDescription
+# dryice.prop - spaceToolDescription
+
+0xDAB82A46 พายุน้ำแข็ง
+
+# sculpt_cute_holes.prop - spaceToolDetailDescription
+
+0x6C7B1F9E ใช้บนดาวเคราะห์เพื่อสร้างรอยประทับสไตล์น่ารัก
+
+# coldray.prop - spaceToolLockedDescription
+# coloratmoblue.prop - spaceToolDescription
+
+0x0379D01A สีน้ำเงิน
+
+# sculpt_tentacle_suckers.prop - spaceToolDescription
+
+0xAFFA4857 ตัวดูดหนวดปลาหมึก
+
+# antimatterbomb.prop - spaceToolDetailDescription
+
+0xC2B26356 อาวุธอานุภาพร้ายแรง สามารถทำลายเมืองทั้งเมืองได้
+
+# sculpt_tentacle_mouth.prop - spaceToolDetailDescription
+
+0x06BE0997 ใช้บนดาวเคราะห์เพื่อสร้างปากดูดหนวดปลาหมึก
+
+# sculpt_terra_mesas.prop - spaceToolLockedDescription
+# sculpt_terra_mountains.prop - spaceToolDescription
+
+0xDCBD610B ภูเขา
+
+# mutation.prop - spaceToolDetailDescription
+
+0x06006CEB ทำการสุ่มสปีชีส์บนดาวเคราะห์
+
+# coldcloudvacuum.prop - spaceToolLockedDescription
+# coldray.prop - spaceToolDescription
+
+0x4F0BADD2 รังสีความเย็น
+
+# sculpt_chocolate_hill.prop - spaceToolDetailDescription
+
+0x5B72E9CD ใช้บนดาวเคราะห์เพื่อสร้างช็อคโกแลตทรัฟเฟิล
+
+# sculpt_tentacle_arm.prop - spaceToolDetailDescription
+
+0x49DFB926 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างหุบเขาหนวดปลาหมึก
+
+# pulselevel2.prop - spaceToolDetailDescription
+
+0x3E948FAC ยิงระเบิดอานุภาพปานกลางไปเป็นเส้นตรง  ใช้ได้ดีกับเป้าหมายภาคพื้น
+
+# repairmegapotion.prop - spaceToolLockedDescription
+# repairpotion.prop - spaceToolDescription
+
+0x6208F338 ชุดซ่อมแซม
+
+# energyupgrade2.prop - spaceToolDetailDescription
+# energyupgrade2.prop - spaceToolLockedDescription
+# energyupgrade3.prop - spaceToolDescription
+
+0x539B1AC7 เซลล์เชื้อเพลิงขนาดกลาง
+
+# defenderlaser1.prop - spaceToolDescription
+
+0xC5C6DA6F เลเซอร์
+
+# heatray.prop - spaceToolDetailDescription
+
+0x63EE95D7 ใช้บนดาวเคราะห์เพื่อเพิ่มอุณหภูมิ
+
+# sculpt_cute_canyon.prop - spaceToolDetailDescription
+
+0xE90BDC07 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแคนยอนสไตล์น่ารัก
+
+# sculpt_crystal_canyon.prop - spaceToolDescription
+
+0x860E0A6F คริสตัลแคนยอน
+
+# sculpt_chocolate_truffles.prop - spaceToolDetailDescription
+
+0x2E3BBDD5 ใช้บนดาวเคราะห์เพื่อสร้างกองช็อคโกแลตทรัฟเฟิล
+
+# antimattermissile.prop - spaceToolDetailDescription
+
+0x12C6214E ยิงขีปนาวุธนำวิถีอำนาจทำลายล้างสูงไปที่เป้าหมาย สามารถทำลายเครื่องบินได้หลายเครื่อง
+
+# asteroid.prop - spaceToolLockedDescription
+# atmospheregenerator.prop - spaceToolDescription
+
+0xDA2C0FB1 เครื่องกำเนิดบรรยากาศ
+
+# coloratmopurple.prop - spaceToolDescription
+
+0x22770D44 สีม่วง
+
+# sculpt_crystal_river.prop - spaceToolDetailDescription
+
+0xA8CD2744 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำคริสตัล
+
+# healthupgrade5.prop - spaceToolDetailDescription
+
+0xBE9C35B2 เพิ่มพลังชีวิตยานอวกาศของคุณจนเต็ม
+
+# sculpt_chocolate_spirals.prop - spaceToolDetailDescription
+
+0x8BB57E68 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างช็อคโกแลตเกลียว
+
+# colorwaterpurple.prop - spaceToolDetailDescription
+
+0xC895ED7B เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีม่วง
+
+# placespicestorage.prop - spaceToolLockedDescription
+# placeuberturret.prop - spaceToolDescription
+
+0x01D75D45 ป้อมปืนใหญ่พลังสูง
+
+# happyraylevel1.prop - spaceToolDescription
+
+0x134E9479 ลำแสงความสุขขนาดจิ๋ว
+
+# sculpt_cute_mesas.prop - spaceToolDescription
+
+0x4D29A8CB ภูเขายอดตัดสไตล์น่ารัก
+
+# cargoupgrade1.prop - spaceToolLockedDescription
+# cargoupgrade2.prop - spaceToolDescription
+
+0xF87F7426 พื้นที่เก็บของขนาดกลาง
+
+# pulselevel2.prop - spaceToolLockedDescription
+# pulselevel3.prop - spaceToolDescription
+
+0x8B2A3706 คลื่นพิฆาตพลังสูง
+
+# sculpt_crystal_seas.prop - spaceToolDetailDescription
+
+0xA1D11B76 ใช้บนดาวเคราะห์เพื่อสร้างทะเลคริสตัล
+
+# energypotion.prop - spaceToolLockedDescription
+# energyupgrade1.prop - spaceToolDescription
+
+0x3F3C2A71 เซลล์เชื้อเพลิงพื้นฐาน
+
+# interstellardrive_upgrade4.prop - spaceToolLockedDescription
+# laserlevel1.prop - spaceToolDescription
+
+0x0CFC7432 มินิเลเซอร์
+
+# sculpt_gear_plateau.prop - spaceToolDescription
+
+0x96A9315A ที่ราบสูงรูปเกียร์
+
+# cargoupgrade3.prop - spaceToolDetailDescription
+
+0x4CC4DCCC เพิ่มความจุห้องสัมภาระของยานอวกาศ
+
+# sculpt_terra_craters.prop - spaceToolLockedDescription
+# sculpt_terra_hills.prop - spaceToolDescription
+
+0xD0EDFCB7 เนินเขา
+
+# sculpt_terra_canyon.prop - spaceToolDetailDescription
+
+0xCC7BC8D2 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแคนยอน
+
+# cashinfusion.prop - spaceToolDetailDescription
+
+0x05FB7F84 ทำให้มาตรวัดการยึดครองทางเศรษฐกิจเต็มทันที
+
+# placeuberturret.prop - spaceToolLockedDescription
+# planetbusterbomb.prop - spaceToolDescription
+
+0xDCF0CDB9 ระเบิดทำลายดาวเคราะห์
+
+# sculpt_chocolate_valley.prop - spaceToolDetailDescription
+
+0xB0E7B2A5 คลิกและลากไปบนดาวเคราะห์เพื่อเริ่มต้นและกำหนดทิศทางกล่องช็อกโกแลต
+
+# interstellardrive.prop - spaceToolDetailDescription
+
+0x5C796CC8 พลังพื้นฐานระหว่งดวงดาวของคุณช่วยให้คุณออกจากระบบดาวเคราะห์ได้
+
+# placecolony.prop - spaceToolDetailDescription
+
+0x567E312C วางอาณานิคมบนดาวเคราะห์
+
+# cargoupgrade3.prop - spaceToolLockedDescription
+# cashinfusion.prop - spaceToolDescription
+
+0x05FB7F80 การอัดฉีดเงินสด
+
+# sculpt_gear_mesas.prop - spaceToolDetailDescription
+
+0x4ACDB00E ใช้บนดาวเคราะห์เพื่อสร้างภูเขายอดตัดรูปเกียร์
+
+# colorwaterorange.prop - spaceToolDescription
+
+0x2D389FBE สีส้ม
+
+# sculpt_terra_river.prop - spaceToolDetailDescription
+
+0xDF51A150 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำ
+
+# planetscan.prop - spaceToolDescription
+
+0xC9433E6D สแกนดาวเคราะห์
+
+# sculpt_tentacle_hills.prop - spaceToolDetailDescription
+
+0x92691F94 ใช้บนดาวเคราะห์เพื่อสร้างเนินเขาหนวดปลาหมึก
+
+# torpedogalaxy2.prop - spaceToolLockedDescription
+# torpedogalaxy3.prop - spaceToolDescription
+
+0xCCA62F06 ป้อมปืนอัตโนมัติขนาดยักษ์
+
+# placebiostabilizer.prop - spaceToolLockedDescription
+# placecolony.prop - spaceToolDescription
+
+0x6569486D อาณานิคมสำเร็จรูป
+
+# coloratmored.prop - spaceToolDetailDescription
+
+0x5DC28226 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีแดง
+
+# interstellardrive_upgrade3.prop - spaceToolDetailDescription
+# interstellardrive_upgrade3.prop - spaceToolLockedDescription
+# interstellardrive_upgrade4.prop - spaceToolDescription
+
+0xCABB71E8 พลังขับเคลื่อนระหว่างดวงดาว 5
+
+# healthupgrade3.prop - spaceToolDetailDescription
+# healthupgrade3.prop - spaceToolLockedDescription
+# healthupgrade4.prop - spaceToolDescription
+
+0x49BBD1AC เกราะเสริมขนาดใหญ่
+
+# sculpt_terra_plateau.prop - spaceToolLockedDescription
+# sculpt_terra_river.prop - spaceToolDescription
+
+0x15DBAFB1 แม่น้ำ
+
+# aoe_repair.prop - spaceToolDetailDescription
+
+0xFDA6C622 ซ่อมแซมยูนิตที่เป็นมิตรทั้งหมดที่อยู่ใกล้ๆ
+
+# aoe_repair.prop - spaceToolLockedDescription
+# artillery.prop - spaceToolDescription
+
+0xC801CB3E ปืนใหญ่
+
+# colorwateryellow.prop - spaceToolDetailDescription
+
+0x92544BFD เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีเหลือง
+
+# colorterrainpurple.prop - spaceToolDescription
+
+0xEB0E341C สีม่วง
+
+# sculpt_chocolate_pond.prop - spaceToolDetailDescription
+
+0x12976A61 ใช้บนดาวเคราะห์เพื่อสร้างบ่อช็อคโกแลต
+
+# colorwatergreen.prop - spaceToolDescription
+
+0xFE6CF7A9 สีเขียว
+
+# abduct.prop - spaceToolDescription
+
+0x59C7B725 ลำแสงลักพา
+
+# cloak.prop - spaceToolLockedDescription
+# cloudray.prop - spaceToolDescription
+
+0x914B2B09 เครื่องเก็บเมฆ
+
+# placehappinessbooster.prop - spaceToolDetailDescription
+
+0x69B97931 วางบนดาวเคราะห์เพื่อให้สิ่งมีชีวิตมีความสุข
+
+# sculpt_terra_seas.prop - spaceToolDetailDescription
+
+0x49D90C52 ใช้บนดาวเคราะห์เพื่อสร้างทะเล
+
+# epicize.prop - spaceToolLockedDescription
+# eradicate.prop - spaceToolDescription
+
+0xCC7CDDE2 เครื่องกำจัดสปีชีส์
+
+# sculpt_gears.prop - spaceToolDetailDescription
+
+0xB616121F ใช้บนดาวเคราะห์เพื่อสร้างเกียร์
+
+# peacebomb.prop - spaceToolDescription
+
+0x0602FACC สนามแม่เหล็ก
+
+# protonmissilelevel1.prop - spaceToolDetailDescription
+
+0xE0AE0C98 ยิงขีปนาวุธขนาดเล็กตรงไปที่เป้าหมาย  มีประสิทธิภาพในการกำจัดยานอวกาศศัตรู
+
+# sculpt_chocolate_seas.prop - spaceToolDescription
+
+0xAB531E0F ทะเลช็อคโกแลต
+
+# creatureedit.prop - toolTargetFlagsFailMessage
+
+0x385928DE อาวุธนี้ถูกจำกัดไว้ใช้เฉพาะกับสิ่งมีชีวิตเท่านั้น
+
+# happyraylevel1.prop - spaceToolLockedDescription
+# happyraylevel2.prop - spaceToolDescription
+
+0x9BAEB0B0 ลำแสงความสุข
+
+# colorreset.prop - spaceToolDescription
+
+0x5ADBC090 สีดาวเคราะห์ดั้งเดิม
+
+# energypotion.prop - spaceToolDetailDescription
+
+0x1834B2DC บรรจุพลังงานส่วนนึงให้ยานอวกาศของคุณ
+
+# sculpt_terra_canyon.prop - spaceToolLockedDescription
+# sculpt_terra_craters.prop - spaceToolDescription
+
+0xD5C29A43 ปล่องภูเขา
+
+# happyraylevel1.prop - spaceToolDetailDescription
+
+0x6ACCABB8 พัฒนาความสัมพันธ์กับเผ่าพันธุ์อื่นที่อาศัยอยู่บนดาวเคราะห์
+
+# peacebomb.prop - spaceToolDetailDescription
+
+0x0602FAD1 ทำให้ยานอวกาศและป้อมปืนบนดาวหยุดทำงานชั่วขณะ
+
+# sculpt_crystal_holes.prop - spaceToolDescription
+
+0x7784ED60 หลุมคริสตัล
+
+# allylaser1.prop - spaceToolDescription
+
+0xC17A9892 ลำแสงพันธมิตร
+
+# droughtgenerator.prop - spaceToolDescription
+
+0xC1B1ADB6 เครื่องทำให้แห้ง
+
+# sculpt_gear_mesas.prop - spaceToolDescription
+
+0x293E7C57 ภูเขายอดตัดรูปเกียร์
+
+# sculpt_cute_hills.prop - spaceToolDetailDescription
+
+0xD4738A1D ใช้บนดาวเคราะห์เพื่อสร้างเนินเขาสไตล์น่ารัก
+
+# sculpt_basic_level_large.prop - spaceToolDetailDescription
+
+0x8827B2E0 ใช้บนดาวเคราะห์เพื่อปรับระดับพื้นผิวดาวเคราะห์
+
+# repairpotion.prop - spaceToolLockedDescription
+# safarivacuum.prop - spaceToolDescription
+
+0x05FF2F99 เครื่องดูดซาฟารี
+
+# dryice.prop - spaceToolLockedDescription
+# dumbbomblevel1.prop - spaceToolDescription
+
+0xE27E0C2F ระเบิดจิ๋ว
+
+# planetscan.prop - spaceToolDetailDescription
+
+0x6FD8772C ใช้บนดาวเคราะห์เพื่อตรวจสอบพืชและสัตว์
+
+# dryice.prop - spaceToolDetailDescription
+
+0x4AEAE75F วางบนดาวเคราะห์เพื่อลดอุณหภูมิ
+
+# sculpt_tentacle_arm.prop - spaceToolDescription
+
+0x9AF94DAF หุบเขาหนวดปลาหมึก
+
+# sculpt_terra_lavaflow.prop - spaceToolDetailDescription
+
+0xECB20810 ใช้บนดาวเคราะห์เพื่อสร้างทางลาวา
+
+# sculpt_crystal_holes.prop - spaceToolDetailDescription
+
+0xBECDFCE1 ใช้บนดาวเคราะห์เพื่อสร้างหลุมคริสตัล
+
+# wormhole.prop - spaceToolLockedDescription
+# zoo.prop - spaceToolDescription
+
+0x0F6556A4 เขตสงวนพันธุ์สัตว์ป่า
+
+# creaturecreate.prop - spaceToolDetailDescription
+
+0xD974877A สร้างสิ่งมีชีวิตและเก็บตัวอย่าง 5 ตัวไว้ในห้องสัมภาระ
+
+# sculpt_crystal_crack.prop - spaceToolDetailDescription
+
+0x85B169C4 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างรอยแยกคริสตัล
+
+# sculpt_terra_mesas.prop - spaceToolDetailDescription
+
+0xB0F79FC5 ใช้บนดาวเคราะห์เพื่อสร้างภูเขายอดตัด
+
+# energyupgrade3.prop - spaceToolDetailDescription
+# energyupgrade3.prop - spaceToolLockedDescription
+# energyupgrade4.prop - spaceToolDescription
+
+0xB14CB70E เซลล์เชื้อเพลิงขนาดใหญ่
+
+# sculpt_basic_lower_large.prop - spaceToolLockedDescription
+# sculpt_basic_lower_medium.prop - spaceToolDescription
+
+0x8F215D1A พื้นที่ต่ำ (ปานกลาง)
+
+# sculpt_terra_mountains.prop - spaceToolDetailDescription
+
+0x1E8C7B02 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างภูเขา
+
+# soothingsong.prop - spaceToolDetailDescription
+
+0x0600B62E ลดความตึงเครียดทางการฑูตระหว่างจักรวรรดิลง
+
+# laserlevel3.prop - spaceToolLockedDescription
+# minderase.prop - spaceToolDescription
+
+0x8B3EDF92 คลื่นล้างสมอง
+
+# fireworks.prop - spaceToolDetailDescription
+
+0x28484917 ใช้ใกล้อาณานิคมเพื่อทำให้อาณานิคมมีความสุขมากขึ้น
+
+# atmospheregenerator.prop - spaceToolLockedDescription
+# bribe.prop - spaceToolDescription
+
+0xB5B2991E ติดสินบน
+
+# sculpt_crystal_river.prop - spaceToolDescription
+
+0x745907C5 แม่น้ำคริสตัล
+
+# asteroid.prop - toolTargetFlagsFailMessage
+
+0xFDD8CC2A ในการใช้เครื่องมือนี้ คุณต้องเลือกเป้าหมายภาคพื้น
+
+# colorwatergreen.prop - spaceToolDetailDescription
+
+0x279BF3C8 เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีเขียว
+
+# placeuberturret.prop - spaceToolDetailDescription
+
+0x90ACD0C4 วางบนดาวเคราะห์เพื่อป้องกันอาณาจักร
+
+# icecomet.prop - spaceToolDetailDescription
+
+0xE2E67DDA ใช้บนดาวเคราะห์เพื่อขว้างดาวหางน้ำแข็งไปใส่มัน ลดอุณหภูมิและเพิ่มระดับบรรยากาศ
+
+# sculpt_tentacle_canyon.prop - spaceToolDetailDescription
+
+0x8D0F1A68 คลิกและลากบนดาวเคราะห์เพื่อเริ่มต้นและกำหนดทิศทางของแคนยอนหนวดปลาหมึก
+
+# sculpt_basic_level_small.prop - spaceToolDetailDescription
+# sculpt_basic_level_small.prop - spaceToolLockedDescription
+# sculpt_basic_lower_large.prop - spaceToolDescription
+
+0xBE26CAF2 พื้นที่ต่ำ (ใหญ่)
+
+# colorterrainred.prop - spaceToolDescription
+
+0x47944327 สีแดง
+
+# colorwaterblue.prop - spaceToolDescription
+
+0x04868768 สีน้ำเงิน
+
+# planetbusterbomb.prop - spaceToolDetailDescription
+
+0xD6DD32F8 อาวุธมหาประลัยที่สามารถทำลายดาวเคราะห์ทั้งดวงและเป็นที่เกรงกลัวของสิ่งมีชีวิตทั้งมวล
+
+# volcano.prop - spaceToolLockedDescription
+# wormhole.prop - spaceToolDescription
+
+0xC304DE3B กุญแจรูหนอน
+
+# sculpt_terra_lavaflow.prop - spaceToolLockedDescription
+# sculpt_terra_mesas.prop - spaceToolDescription
+
+0x6A34E8E4 ภูเขายอดตัด
+
+# sculpt_crystal_mesas.prop - spaceToolDescription
+
+0xFFA1FFE8 ภูเขาคริสตัลยอดตัด
+
+# scan.prop - spaceToolDetailDescription
+
+0x03EE3CDE คลิกบนสัตว์หรือพืชเพื่อแสดงข้อมูลเพิ่มเติม
+
+# sculpt_cute_plateau.prop - spaceToolDetailDescription
+
+0x031A2487 ใช้บนดาวเคราะห์เพื่อสร้างที่ราบสูงสไตล์น่ารัก
+
+# colorterrainred.prop - spaceToolDetailDescription
+
+0x76ED393E เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีแดง
+
+# shield.prop - spaceToolDetailDescription
+
+0xFAE06456 ป้องกันยานคุณจากความเสียหายชั่วครู่
+
+# sculpt_tentacle_plateau.prop - spaceToolDetailDescription
+
+0x305D0B72 ใช้บนดาวเคราะห์เพื่อสร้างที่ราบสูงหนวดปลาหมึก
+
+# protonmissile.prop - spaceToolLockedDescription
+# pulselevel1.prop - spaceToolDescription
+
+0xD0EB46B4 คลื่นพิฆาตขนาดจิ๋ว
+
+# dumbbomblevel3.prop - spaceToolDetailDescription
+
+0x8898DC38 ระเบิดอานุภาพร้ายแรง สามารถทำลายยานพาหนะและสิ่งปลูกสร้างได้มากมาย
+
+# sculpt_basic_raise_small.prop - spaceToolDetailDescription
+# sculpt_basic_raise_small.prop - spaceToolLockedDescription
+# sculpt_chocolate_beads.prop - spaceToolDescription
+
+0xE301CB02 เส้นช็อคโกแลต
+
+# genesisdevice.prop - spaceToolDetailDescription
+
+0x2B488E7D ใช้บนดาวเคราะห์เพื่อปรับสภาพดาวเคราะห์โดยทันที
+
+# colorwateryellow.prop - spaceToolDescription
+
+0x7B9471BC สีเหลือง
+
+# sculpt_cute_mesas.prop - spaceToolDetailDescription
+
+0x581389C2 ใช้บนดาวเคราะห์เพื่อสร้างภูเขายอดตัดสไตล์น่ารัก
+
+# energyupgrade1.prop - spaceToolDetailDescription
+
+0xF62C8310 เพิ่มพลังให้ยานอวกาศของคุณ
+
+# radar.prop - spaceToolDetailDescription
+
+0x0E084571 ให้สัญญาณเมื่อคุณเข้าใกล้ดาวเคราะห์ที่เป็นเป้าหมายสำคัญ สลับไปมาระหว่างเปิดและปิด
+
+# sculpt_tentacle_suckers.prop - spaceToolDetailDescription
+
+0x454B1C0E ใช้บนดาวเคราะห์เพื่อสร้างตัวดูดหนวดปลาหมึก
+
+# sculpt_tentacle_canyon.prop - spaceToolDescription
+
+0x89608849 แคนยอนหนวดปลาหมึก
+
+# turret_at_mil.prop - spaceToolDescription
+# turret_at_rel.prop - spaceToolDescription
+# turretlaser1.prop - spaceToolDescription
+# turretlaser2.prop - spaceToolDescription
+# turretlaser3.prop - spaceToolDescription
+# volcano.prop - spaceToolDescription
+
+0x2F61FCB6 ภูเขาไฟ
+
+# allytorpedosolar1.prop - spaceToolDescription
+# allytorpedosolar2.prop - spaceToolDescription
+# allytorpedosolar3.prop - spaceToolDescription
+# antimatterbomb.prop - spaceToolDescription
+
+0x3478653F ระเบิดปฏิสสาร
+
+# interstellardrive_upgrade2.prop - spaceToolDetailDescription
+# interstellardrive_upgrade2.prop - spaceToolLockedDescription
+# interstellardrive_upgrade3.prop - spaceToolDescription
+
+0x434E2F15 พลังขับเคลื่อนระหว่างดวงดาว 4
+
+# cloudvacuum.prop - spaceToolLockedDescription
+# coldcloudray.prop - spaceToolDescription
+
+0xEBDD0E97 เครื่องปรับอากาศ
+
+# safarivacuum.prop - spaceToolDetailDescription
+
+0x05FF2F9F ใช้บนดาวเคราะห์เพื่อเก็บตัวอย่างสิ่งมีชีวิตจากสปีชีส์ต่างๆ ที่อยู่บนดาวได้ในทันที
+
+# shield.prop - spaceToolLockedDescription
+# soothingsong.prop - spaceToolDescription
+
+0x0601FD86 เพลงกล่อมอารมณ์
+
+# sculpt_gear_seas.prop - spaceToolDetailDescription
+
+0x123E852B ใช้บนดาวเคราะห์เพื่อสร้างทะเลรูปเกียร์
+
+# torpedogalaxy3.prop - spaceToolDetailDescription
+
+0x0ED9431F อาวุธสำหรับป้องกันชนิดหนึ่งซึ่งเมื่อถูกโจมตี จะยิงตอบโต้โดยอัตโนมัติไปที่ป้อมปืนและยานอวกาศของศัตรู สามารถสลับไปมาระหว่างเปิดและปิดได้
+
+# sculpt_cute_mountains.prop - spaceToolDetailDescription
+
+0x33441B69 คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างภูเขาสไตล์น่ารัก
+
+# coloratmoblue.prop - spaceToolDetailDescription
+
+0x80326DC3 เปลี่ยนสีของชั้นบรรยากาศบนดาวเคราะห์ให้เป็นสีน้ำเงิน
+
+# volcano.prop - spaceToolDetailDescription
+
+0x66A105EF วางบนดาวเคราะห์เพื่อเพิ่มระดับอุณหภูมิและบรรยากาศ
+
+# interplanetarydrive.prop - spaceToolDetailDescription
+
+0xF29A5647 พลังขับเคลื่อนระหว่างดวงดาวพื้นฐานช่วยให้คุณออกจากวงโคจรดาวเคราะห์ได้
+
+# rallycall.prop - spaceToolLockedDescription
+# repairmegapotion.prop - spaceToolDescription
+
+0xAD0AA50E ชุดซ่อมแซมขนาดใหญ่
+
+# aoe_repair.prop - spaceToolDescription
+
+0xB9121D2B ซ่อมแซมยานพันธมิตร
+
+# gravitationwave.prop - spaceToolDetailDescription
+
+0x06036023 ทำลายสิ่งปลูกสร้างทั้งหมดบนดาวเคราะห์
+
+# placeembassy.prop - spaceToolLockedDescription
+# placehappinessbooster.prop - spaceToolDescription
+
+0x56CD9990 เครื่องเพิ่มความสุข
+
+# colorterrainyellow.prop - spaceToolDescription
+
+0xFDA80542 สีเหลือง
+
+# sculpt_cute_river.prop - spaceToolDescription
+
+0x178D4372 แม่น้ำสไตล์น่ารัก
+
+# energymegapotion.prop - spaceToolLockedDescription
+# energypotion.prop - spaceToolDescription
+
+0x5209643D พลังงานสำรอง
+
+# placebioprotector.prop - spaceToolDetailDescription
+
+0x43C3D466 วางลงบนดาวเคราะห์เพื่อชะลอหายนะทางชีวภาพ
+
+# rainoffire.prop - spaceToolLockedDescription
+# rallycall.prop - spaceToolDescription
+
+0xAD6C6EEC เรียกระดมพล
+
+# cargoupgrade1.prop - spaceToolDetailDescription
+
+0x813233DA เพิ่มความจุห้องสัมภาระของยานอวกาศ
+
+# interstellardrive.prop - spaceToolDescription
+
+0x5CDE78A9 พลังขับเคลื่อนระหว่างดวงดาว 1
+
+# sculpt_terra_seas.prop - spaceToolLockedDescription
+# seti.prop - spaceToolDescription
+
+0xD90BAFCD ตรวจจับสัญญาณสิ่งมีชีวิตต่างดาว
+
+# pulselevel3.prop - spaceToolLockedDescription
+# radar.prop - spaceToolDescription
+
+0x5A4C5CD0 เรดาร์
+
+# colorterrainpurple.prop - spaceToolDetailDescription
+
+0x30AD9F5D เปลี่ยนสีของพื้นดินบนดาวเคราะห์ให้เป็นสีม่วง
+
+# raiderrally.prop - spaceToolDescription
+
+0x06087E97 ระดมโจรสลัด
+
+# asteroid.prop - spaceToolDescription
+
+0x782C4E6F ปุ่มเรียกดาวหาง
+
+# minderase.prop - spaceToolLockedDescription
+# monolith.prop - spaceToolDescription
+
+0xCF45829A เสาหินยักษ์
+
+# allytorpedogalaxy3.prop - spaceToolDescription
+
+0x26E247FC เมก้ากาแล็กติกตอร์ปิโด
+
+# cloudray.prop - spaceToolLockedDescription
+# cloudvacuum.prop - spaceToolDescription
+
+0x1812CFEE เครื่องดูดเมฆ
+
+# rainoffire.prop - spaceToolDetailDescription
+
+0x53343C4C ขว้างดาวตกไปที่ดาวเคราะห์เพื่อเพิ่มอุณหภูมิ
+
+# coloratmogreen.prop - spaceToolDescription
+
+0x1657CA1F สีเขียว
+
+# sculpt_chocolate_river.prop - spaceToolDescription
+
+0x866B92B5 แม่น้ำช็อคโกแลต
+
+# energyupgrade4.prop - spaceToolDetailDescription
+# energyupgrade4.prop - spaceToolLockedDescription
+# energyupgrade5.prop - spaceToolDescription
+
+0x2384DC15 เซลล์เชื้อเพลิงขนาดใหญ่พิเศษ
+
+# laserlevel3.prop - spaceToolDetailDescription
+
+0xC1BFF091 ใช้กับเป้าบนพื้น  อาวุธที่รุนแรงและแม่นยำ
+
+# minderase.prop - spaceToolDetailDescription
+
+0xAF7570DB ใช้กับพลเมืองที่ตกใจเพื่อช่วยให้พวกเขาสงบลงและป้องกันการทำร้าย
+
+# sculpt_gear_hills.prop - spaceToolDetailDescription
+
+0xF5DE4169 ใช้บนดาวเคราะห์เพื่อสร้างเนินเขารูปเกียร์
+
+# colorwaterred.prop - spaceToolDescription
+
+0x20660959 สีแดง
+
+# genesisdevice.prop - spaceToolLockedDescription
+# getoutofufo.prop - spaceToolDescription
+
+0xD51719A7 สปายสามมิติ
+
+# healthupgrade2.prop - spaceToolDetailDescription
+# healthupgrade2.prop - spaceToolLockedDescription
+# healthupgrade3.prop - spaceToolDescription
+
+0xD770F4A1 เกราะเสริมขนาดกลาง
+
+# protonmissilelevel3.prop - spaceToolDetailDescription
+
+0x5CBCC686 ยิงขีปนาวุธโปรตอนอันทรงพลังสู่เป้าหมาย  ใช้ได้ผลดีกับยานอวกาศศัตรู
+
+# sculpt_cute_river.prop - spaceToolDetailDescription
+
+0x5BBF57BB คลิกที่ดาวเคราะห์แล้วลากเพื่อกำหนดจุดเริ่มต้นและทิศทางในการสร้างแม่น้ำสไตล์น่ารัก
+
+# sculpt_basic_level_large.prop - spaceToolDescription
+
+0x1F00A761 ปรับระดับ (ขนาดใหญ่)
+
+# abduct.prop - spaceToolDetailDescription
+
+0xF509A6A4 ใช้เพื่อลักพืช สัตว์ หรือของหายากและเก็บไว้ในคลังสินค้า
+
+# colorwaterorange.prop - spaceToolDetailDescription
+
+0xEA6DB0F7 เปลี่ยนสีของน้ำทะเลบนดาวเคราะห์ให้เป็นสีส้ม
+

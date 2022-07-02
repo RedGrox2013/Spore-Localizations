@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Chefe Tribal
+0x067213A6 O chefe Tribal é o grande líder da tribo. Sua tribo pode ir à guerra sem o seu chefe, mas ele é necessário para o sucesso de qualquer encontro social com outras tribos.~p~O chefe também é o responsável por invocar as habilidades conseqüenciais de sua tribo. Para usar uma habilidade conseqüencial, primeiro selecione o chefe Tribal e, em seguida, clique na habilidade que deseja usar.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 Use o Painel de Comércio para comprar e vender ferramentas, especiaria e raridades. Os itens no seu compartimento de carga que podem ser vendidos aparecerão na base do painel de comércio.~p~Clique nos itens que deseja comprar e vender.
+0x0670C6DB Painel de Comércio
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Você formou uma Tribo!
+0x06281000 Agora, você controla uma pequena tribo em expansão, composta por três indivíduos.~p~Você pode selecionar membros específicos, ou um grupo inteiro, para que executem suas ordens.~p~Você deve interagir com outras tribos para preencher a sua barra de progresso.~p~Vamos dar uma olhada...~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Habilidade Conseqüencial
+0x06721404 Completar o estágio de célula deu a você uma habilidade especial. Clique neste botão para usá-la.
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Avançando
+0x06271001 Esta barra mostra o seu progresso neste estágio.~p~Preencha esta barra criando e formando relacionamentos com outras espécies, ou fazendo que elas sejam extintas.~p~Agora, vamos dar uma olhada em seu primeiro objetivo...~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Esta é a sua barra de progresso.~p~Ao comer, você ganhará pontos de DNA. Você pode gastar estes pontos em novas partes, se quiser evoluir sua célula.~p~Conforme progride, você se torna maior e o mundo se expande.~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Seus dias de evolução ficaram para trás. Entretanto, a moda é sempre um assunto atual. Personalize sua espécie com novos visuais, vestimentas e acessórios.
+0x063976F0 [NOT IN USE]
+0x0668AF4D Fornecedor
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Pouca Energia
+0x06627B5D A energia alimenta sua nave e ferramentas, permitindo que você viaje pela galáxia.~p~A energia é gratuita no seu planeta de origem, mas aliados e colônias cobrarão pelas recargas. Use seu painel Comunicações para recarregar.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Bem-vindo à Civilização
+0x0625E9BE Agora, você comanda os veículos e as cidades de sua nação.~p~Você deve interagir com outras nações, quando surgirem, para iniciar sua jornada rumo à dominação global.~p~Vamos dar uma olhada na sua barra de progresso...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06290007 O botão Minha Coleção dá acesso ao registro da missão, coleção de emblemas, coleção de ferramentas e coleção de raridades.
+0x06638D3E Minhas Coleções
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Você forçou a última colônia deste sistema a se render. Pressione o botão Capturar no topo da tela se quiser capturar este sistema estelar.~p~Se não quiser ser o dono do sistema, continue atacando as colônias para eliminar completamente os seus inimigos.
+0x06627A27 Captura de Sistemas
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA2 Histórico
+0x1535ABA3 Suas táticas tribais estabeleceram seu primeiro traço cultural. Este traço define qual será a especialidade de sua nação e também a sua árvore tecnológica. À medida que sua nação cresce, seus cidadãos desenvolverão ferramentas únicas que ajudarão sua civilização a alcançar a dominação global. Use-as com sabedoria.
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Minimapa
+0x06721419 Use o minimapa para auxiliá-lo enquanto navega pelo mundo. Nele você poderá encontrar comida, um ninho ou um caminho migratório.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Ferramentas
+0x065E5ECE Novas ferramentas são destravadas quando você ganha emblemas. Quando uma ferramenta for destravada, você poderá comprá-la no seu Planeta de Origem.~p~Algumas ferramentas são Consumíveis e devem ser reestocadas após o uso. Outras ferramentas são Permanentes e podem consumir energia quando são usadas.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06280004 Você Deveria Saber...
+0x06281004 Os filhotes crescerão e, em breve, serão membros produtivos de sua tribo.~p~Mas, até lá, você deve cuidar deles aqui.
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06280010 Bom trabalho!
+0x06281010 Agora que você já sabe o básico, vamos começar, procurando por comida.
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Parabéns!
+0x06281006 Sua tribo reina suprema!~p~Quando estiver pronto para a civilização, clique no botão Evoluir!
+
+# Callout_SPG_ProgressBar.prop
+
+0x06290001 Esta barra indica o seu progresso com relação aos Emblemas que você ganhou, e também com a sua proximidade do centro da galáxia.~p~O controle da missão, na superfície do planeta, está ansioso para falar com você. Vamos aprender a usar o comunicador.~p~
+0x06638D71 Barra de Progresso
+
+#######################################
+# City Planner
+
+0x0639783F Estas guias ajudarão você a navegar pelo planejador de cidades. Adquira veículos, estruturas ou objetos cívicos, crie um hino para sua nação ou escolha novas vestimentas para seus cidadãos.
+0x06397840 Estas guias ajudarão você a navegar pelo planejador de cidades. Adquira veículos, estruturas ou objetos cívicos, crie um hino para sua nação ou escolha novas vestimentas para seus cidadãos.
+0x06280005 Planejador de Cidades
+0x0665E829 Planejador de Cidades
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Objetivos
+0x06550888 As metas da sua nação vão aparecer aqui.~p~Sua primeira meta é conquistar uma fonte de especiaria e iniciar as operações de mineração.~p~Controle as fontes de especiaria para aumentar a produção da sua nação.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Por que andar se você pode dirigir?!~p~Use o Botão Esquerdo do Mouse para selecionar seus veículos ou arraste uma caixa de seleção para criar uma frota. O Botão Direito ordena que eles avancem contra o alvo.~p~
+0x0626F434 Seleção
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Você deveria saber...
+0x00000005 Este é o botão Evoluir. Clique aqui para entrar no Estágio de Criatura.~p~No caminho, você poderá fazer uma última parada evolutiva e preparar sua célula para a vida na superfície.
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Parabéns!
+0x062EFB85 Você conquistou a dominação global!~p~Quando estiver pronto para explorar os segredos que esperam por sua espécie, além de seu planeta natal, clique no botão Evoluir e prepare-se para levantar vôo!
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Reconhecimento
+0x06627BE0 Seu Batedor Holográfico apareceu na superfície do planeta. Fique à vontade para explorar.~p~Recolha o batedor, clicando no botão 'Guardar Holograma' na janela do avatar.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x063971E5 [NOT IN USE]
+0x0668ACDF Criador de Células
+0x06397215 Você pode alternar entre os diferentes modos do criador em qualquer momento, clicando nos botões dos modos acima.~p~Antes de voltar para a poça primordial, não se esqueça de cuidar de sua aparência, lançando mão de uma bela pintura!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3C4 Este é o seu Minimapa, uma representação do planeta. Nele, você pode ver cidades, fontes de especiaria e veículos. Este compacto sistema de navegação ajudará você a não se perder!
+0x0626F3BF Você deveria saber...
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Desastre!
+0x06628758 O planeta ~planet_name~ (no sistema ~star_name~) está sofrendo uma catástrofe!~p~Você será notificado por um Registro de Evento sempre que um desastre ocorrer em um planeta do seu império ou de um aliado.~p~Eles podem ser vistos na visão galáctica por meio de indicadores vermelhos, normalmente acompanhados por uma transmissão.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06281002 Você pode consultar os níveis de saúde e fome dos membros de sua tribo, bem como a atividade que eles estão desenvolvendo no momento.~p~Clique em seus retratos para selecioná-los.
+0x06280002 Você Deveria Saber...
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Monitor da Cadeia Alimentar
+0x0662811B Esse botão alterna a exibição do Minimapa e do Monitor da Cadeia Alimentar.~p~O indicador à esquerda mostra os níveis de atmosfera e temperatura do planeta, também chamado de Nível de Terraformação.~p~Use suas ferramentas de Terraformação para melhorar o Nível de Terraformação do planeta, movendo o ponto em direção ao centro do anel. O ponto central representa um planeta nível T3 ideal.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Mapas Estelares
+0x0664AACD Use os filtros do mapa estelar para navegar pela galáxia.~p~O filtro "Meu Império" mostrará todas as estrelas que o seu império possui no momento.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D3 Estabilizando o nível-T
+0x066281D9 Parabéns, você melhorou o Nível-T deste planeta! Agora, coloque uma planta de cada tipo, pequena, média e grande, para estabilizar a atmosfera e a temperatura.~p~Se você não fizer isso rapidamente, o nível-T do planeta diminuirá.
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Painel de Comunicações
+0x062EFB67 Qualquer nação que ganhar mais de uma única cidade aparecerá no seu painel de comunicações.~p~Passe o mouse sobre o ícone de uma nação para ver o estado do seu relacionamento e o motivo da atitude atual, ou faça contato com eles por meio do seu dispositivo de comunicação.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 Os membros de seu bando irão ajudar você a atacar ou a fazer novas amizades.~p~Note que você tem espaço para um membro em seu bando.~p~Socialize com um aliado e faça que ele se junte à você.
+0x06270004 Criar um Bando
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Você sofreu danos e precisa de reparos. ~p~Os reparos são gratuitos no seu planeta de origem, mas aliados e colônias cobrarão uma taxa. Use seu painel Comunicações para solicitar reparos.
+0x06627DBE Reparos Necessários
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06290006 O painel Armas contém todas as suas ferramentas de destruição e de defesa.~p~Equipe seu minilaser clicando nele.
+0x06638D98 Painel Armas
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E Metas
+0x0626F429 Talvez você precise de uma ajudinha para ter sucesso em sua busca pela dominação global. Estas dicas mostrarão a você o caminho a seguir!
+
+# Callout_SPG_ActiveTool.prop
+
+0x06290008 Sua ferramenta ativa é mostrada no retrato da nave. Para desativar uma ferramenta, aperte a tecla ESC.
+0x06638C6B Ferramenta Ativa
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Clique aqui para fundar sua primeira Cidade!~p~Você irá aos criadores para projetar sua Prefeitura e veículos.
+0x06280007 Evoluir para Civilização
+
+# Callout_TRG_FirstGoals.prop
+
+0x06281003 Essas metas vão guiar você pela sua vida tribal.~p~Sua primeira tarefa é vestir a tribo com o novo Planejador Tribal!~p~Clique na sua cabana...
+0x06280003 Objetivos
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Colocando Animais
+0x06628274 Você estabilizou a atmosfera e a temperatura! Note que as plantas inseridas no planeta foram adicionadas à sua Cadeia Alimentar. Este planeta está pronto para receber vida animal.~p~Insira criaturas herbívoras e carnívoras ao bioma para completar a Cadeia Alimentar.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06270000 Bem-vindo à Terra Firme!
+0x06271000 Agora, você é uma criatura, vivendo ao lado de seus companheiros de ninho!~p~Para evoluir, será preciso conhecer as outras espécies que vivem neste planeta, e coletar DNA!~p~Coletar pontos de DNA preenche sua barra de progresso. Vamos ver quais são as novidades que temos aqui...~p~
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 As rotas comerciais eventualmente oferecerão a opção de comprar um sistema estelar. Vá até a estrela do parceiro comercial e clique no botão Comprar Sistema, no topo da tela. O painel Comunicações será aberto, com a opção de comprar o sistema.
+0x06627F31 Compra de Sistemas
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359775 Histórico
+0xD5359776 Esta linha do tempo mostra um histórico de suas ações durante sua vida como uma célula.~p~Você estabeleceu um traço que garante habilidades únicas para as futuras gerações de sua espécie.~p~Que caminho você escolheu?
+
+# Tribe Planner
+
+0x06397802 Clique no ícone do Chapéu para ir até a página Membro da Tribo.~p~Selecione o membro da tribo desejado e, então, clique no botão "Editar" para acessar o Fornecedor da Tribo.
+0x0668B06F Planejador Tribal
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Bem-vindo ao Espaço Sideral!
+0x06291000 Bem-vindo ao ponto máximo da exploração em busca do desconhecido, a fronteira final: O espaço!~p~Você controla a nave e, desta posição, vai liderar sua raça no avanço da civilização planetária para um vasto império galáctico.~p~Vamos ver como você progride...
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x06397261 Um novo modo para se divertir... o Modo Teste! Conheça as novas habilidades de sua criatura antes de voltar ao mundo de jogo.
+
+# Callout_SPG_CargoBin.prop
+
+0x06290005 Este é o seu painel de carga. Selecione o Raio Abdutor e, então, clique e mantenha pressionado o botão esquerdo do mouse sobre uma planta ou um animal, para adicioná-lo ao seu compartimento de carga. ~p~Para descarregar um item de sua nave, selecione-o no painel de Carga e, então, clique e mantenha pressionado o botão esquerdo do mouse na superfície do planeta.
+0x06638CAC Painel Carga
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Registro da Missão
+0x065E5F30 Este texto é um erro. Reporte-o como um bug.
+
+######################################## Creature Editor
+
+0x0668B8D1 Criador de Criaturas
+
+# cell opening
+
+0x00000002 Parabéns!
+0x00000001 Bem-vindo à Poça Primordial
+0x00000000 As escolhas que você faz durante sua aventura no Spore afetam o seu futuro.~p~Por ser uma célula, sua missão é se alimentar, crescer e evoluir. Seu crescimento é medido de acordo com a barra de progresso abaixo.
+0x00000003 Quando o assunto é nadar na lama, você é o maioral!~p~Quando estiver pronto para esticar as pernas em terra firme, clique no botão Evoluir.
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Histórico
+0x1535ABA5 As escolhas feitas durante sua história evolutiva culminaram na formação da identidade de sua raça e em sua conquista do espaço. Seus traços não afetam apenas suas habilidades inatas, mas também garantem a você uma ferramenta única para o arsenal de sua nave.
+
+# Callout_TRG_UICameraControls.prop
+
+0x06281009 Estes controles permitem que você defina os níveis de aproximação e rotação da câmera.~p~A roda do mouse também pode ser usada para aproximar, afastar e girar a câmera. Vamos tentar movimentar a câmera...
+0x0665EE03 Zoom e Giro
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Minimapa
+0x06550367 Note que a fonte de especiaria que você conquistou agora tem a cor da sua nação.~p~Clique na sua prefeitura, no minimapa, para levar sua câmera até lá. Agora, você pode começar a construir sua capital.
+
+# Callout_SPG_FirstGoals.prop
+
+0x06290003 Seus objetivos imediatos são mostrados aqui, no registro da missão em miniatura. Você pode ver até três missões neste formato.~p~Abra o registro da missão completo a qualquer momento, apertando a tecla "L".
+0x06638CED Objetivos
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Barras de Estado
+
+# CalloutSample.prop
+
+0x0615824E Título de Chamada
+0x06158262 Texto de Chamada
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Mapas Estelares
+0x0677176A O filtro "Amigos e Inimigos" mostrará as regiões do espaço controladas por amigos e inimigos.~p~O filtro "Império" mostrará todas as estrelas ocupadas por impérios alienígenas.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06290004 Seu painel Ferramentas é organizado por tipo. Sua ferramenta Sensor fica no painel principal de Ferramentas. Equipe sua ferramenta Sensor clicando nela.
+0x06638D0B Painel Ferramentas Principais
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Completando a Terraformação
+0x066282BD Você completou uma linha do ecossistema! Se você colocou uma colônia neste planeta, agora poderá adicionar estruturas a ela, clicando na prefeitura.~p~Para poder colocar mais colônias, aumente o Nível de Terraformação e complete a Cadeia Alimentar.~p~Clique no ponto de um animal na Cadeia Alimentar para rastreá-lo utilizando o radar.
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB33 Habilidades Conseqüenciais
+0x062EFB38 Estas são as super-habilidades únicas de sua nação.~p~Seus cidadãos vão desenvolver essas tecnologias conforme a sua nação cresce.
+
+# Callout_CRG_Stance.prop
+
+0x06270003 Postura
+0x06271003 Sua Postura define qual será a sua atitude com relação a outras criaturas.~p~Antes de interagir com uma criatura, clique no botão Verde para tentar fazer amizade, ou no botão Vermelho para conseguir uma refeição. Em seguida, use as habilidades específicas de cada grupo.
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Raridades
+0x065E5F4E Este texto é um erro. Reporte-o como um bug.
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Avançando
+0x0626F40D Esta é a sua barra de progresso.~p~Cada cidade que você conquistar, converter ou comprar ajudará você a alcançar sua meta de controlar todo o planeta.~p~Sua nação começa com uma única especialidade, mas você pode adicionar outras, conquistando mais cidades.~p~
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 Chefe Tribal
+0x0678787A O chefe Tribal é o grande líder da tribo. Sua tribo pode ir à guerra sem o seu chefe, mas a sua presença será necessária para o sucesso de qualquer encontro social com outras tribos
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Mapas Estelares
+0x06771767 Use o filtro "Missão" para ver as estrelas relevantes às missões em que você está trabalhando.~p~Os filtros "Rastro de Viagem" e "Visitados" são úteis quando você quer saber por onde passou.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Lista de Frota
+0x0626F457 Você também pode clicar nos veículos aqui, na lista da sua frota, para selecioná-los ou ver sua atividade atual.~p~Clique duas vezes no ícone de um veículo para selecionar todos os veículos do mesmo tipo.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Clique aqui para formar uma Tribo!~p~Você passará uma última vez pelo Criador para finalizar sua aparência de forma definitiva! Esta é a sua última chance de adicionar braços, eles são muito úteis para usar ferramentas!
+0x06270005 Evoluir para Tribo
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCE9 Tutorial de Câmera
+0x0671FCED Você pode mover a câmera livremente pelo mundo. Isso ajuda você a verificar as cidades ou veículos aos quais tenha dado ordens.~p~Vamos fazer uma pausa para aprender os controles básicos da câmera e como selecionar um veículo...~p~
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Objetivos
+0x06271002 É aqui que você encontra seus objetivos.~p~Como este Objetivo sugere, o alimento é um fator crítico para a sua sobrevivência.~p~Vamos aprender como encontrar comida por aqui.
+
+# Callout_SPG_CommButton.prop
+
+0x06290002 Este Comunicador de Vídeo de Curto Alcance permite que você entre em contato com os habitantes do mundo abaixo.~p~Você precisa estar orbitando o planeta para abrir o canal de comunicação.~p~O sinal luminoso indica que você está recebendo uma transmissão.~p~
+0x06638CCE Painel Comunicações
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06280001 Avançando
+0x06281001 Esta é a sua barra de progresso.~p~Forme alianças ou conquiste outras tribos para avançar a sua tribo.
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Clique aqui para iniciar o seu Programa de Exploração Espacial!~p~Você será levado até o criador para criar uma nave digna de sua viagem inaugural.~p~Mais tarde, você poderá fazer modificações, em qualquer cidade ou colônia do seu império.
+0x062EFB73 Evoluir para Espaço
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Chamado de Acasalamento
+0x067213F5 Clique no botão Chamado de Acasalamento para encontrar seu parceiro e abrir o Criador de Criaturas. É aqui que você vai mudar sua aparência e adicionar as partes que encontrou no mundo.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Tutorial de Câmera
+0x06281008 Agora, você pode mover a câmera livremente pelo mundo. Isso ajuda a verificar os membros da tribo ou grupos a quem você deu ordens.~p~Vamos fazer uma pausa e aprender os controles básicos da câmera...
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Emblemas
+0x065E5D6C Você ganha emblemas durante suas ações e aventuras no Espaço.~p~Conforme ganha mais emblemas, você terá postos melhores, com novos títulos, habilidades ferramentas desbloqueadas.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Algumas ferramentas, como o Minilaser, consomem Energia quando são usadas.~p~Recarregue sua Energia e sua Saúde por meio da tela de Comunicações. Este é um serviço gratuito quando realizado em seu mundo de origem.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Histórico
+0x1535ABA1 Suas ações como criatura garantiram mais um traço específico para a sua espécie. Novas habilidades esperam por você no Estágio Tribal.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Parabéns!
+0x06271006 Você chegou ao topo da cadeia alimentar!~p~Quando estiver pronto para experimentar a vida tribal, clique no botão Evoluir.~p~
+

@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Sulkee kaikki viihderakennukset ja tykit aiheuttaen tyytymättömyyttä kaupungissa.
+0x0001003F Synkkyyden pilvi
+
+# CLG_Plant
+
+0x00000042 Kasvinsyöjä
+0x00000043 Kasvinsyöjäsolujen ruokavalio koostuu kasvinosista.
+
+# CRG_CLG_Plant
+
+0x00010022 Seireeninlaulu
+0x00010023 Ominaisuuden avulla voit väliaikaisesti lumota lähistön otukset. Näin niiden kanssa seurustelusta tulee helpompaa.
+
+# SPG_CRG_Mix
+
+0x0001004E Tekee tähtienvälisestä matkustamisesta huimasti nopeampaa.
+0x0001004D Vinhapiru
+
+# CVG_CRG_Attack
+
+0x00010037 Mahtipommi
+0x00010038 Vahingoittaa kaikkia vaikutusalueellaan olevia rakennuksia ja kulkuneuvoja.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Messiaan nousu
+0x0001006C Käännyttää kaikki kaupungit
+
+# SPG_Wanderer_Tool
+
+0x00010067 Lajisekoitin NOT IN USE
+0x00010068 Arpoo planeetan lajit. NOT IN USE
+
+# CVG_Religious
+
+0x00000055 Uskonnollinen
+0x00000056 Uskonnolliset sivilisaatiot käännyttävät muita kansakuntia omalle kannalleen sanojensa ja sanomansa voimin.
+
+# SPG_TRG_Social
+
+0x00010052 Parantaa aloitussuhdetta uuteen lajiin.
+0x00010051 Lämmin tervehdys
+
+# TRG_Mix
+
+0x00000050 Tilannetajuiset heimot tarttuvat tilaisuuteen ja hyökkäävät tai liittoutuvat tarpeidensa mukaan muiden heimojen kanssa. Ne ovat hyviä liittolaisia, mutta pidä varasi niiden kanssa.
+0x0000004F Tilannetajuinen
+
+# CVG_CRG_Mix
+
+0x0001003C Saa vaikutusalueella olevat viholliskulkuneuvot hyökkäämään toisiaan vastaan.
+0x0001003B Lahjuspommi
+
+# CVG_TRG_Mix
+
+0x00010042 Nopeuttaa kaupungin ostoa.
+0x00010041 Mainoskampanja
+
+# SPG_CRG_Social
+
+0x0001004C Tekee kaikista siirtokunnistasi tyytyväisiä ja vähentää kapinan todennäköisyyttä.
+0x0001004B Loistoviihde
+
+# SPG_CVG_Military
+
+0x00010056 Karkottaa avaruuskaappareita ja vähentää ryöstöretkien todennäköisyyttä.
+0x00010055 Kaapparinkarkotin
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Lihansyöjä
+0x00000041 Lihansyöjäsolujen ruokavalio koostuu lihasta.
+
+# TRG_CLG_Mix
+
+0x00010029 Lentokala
+0x0001002A Ominaisuuden avulla päällikkö voi pelotella kalat merestä, jolloin ne ovat helppo saalis.
+
+# SPG_TRG_Attack
+
+0x00010050 Antaa sinulle alennuksen kaikista aseista ja taistelutarvikkeista.
+0x0001004F Asekauppias
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Saatavilla otuspelissä
+0x067775FA Saatavilla avaruuspelissä
+0x067775E7 Saatavilla sivilisaatiopelissä
+0x067775D9 Saatavilla heimopelissä
+
+# SPG_Trader
+
+0x00000062 Kauppiaat hakevat voittoa kaikesta mitä tekevät. He ovat uskollisia vain kaikkivaltiaalle käteiselle.
+0x00000061 Kauppias
+
+# SPG_Bard
+
+0x00000057 Soittaja
+0x00000058 Soittajat ovat erittäin sosiaalisia ja meneviä viihdyttäjähahmoja. He pitävät galaksia omana leikkikenttänään.
+
+# SPG_Warrior_Tool
+
+0x00010065 Kaapparikutsu
+0x00010066 Avaa salaperäisen kaappariportin, joka luo kaaosta planeetalle.
+
+# SPG_Diplomat
+
+0x0000005D Diplomaatti
+0x0000005E Diplomaatit ovat neuvottelijoita ja ongelmanratkaisijoita, jotka uskovat, että galaksi saavuttaa rauhan vain lajienvälisen avoimen keskustelun kautta.
+
+# CVG_Economic
+
+0x00000053 Talous
+0x00000054 Taloussivilisaatiot vaikuttavat muihin kansakuntiin rahan ja kaupan keinoin. He solmivat kyllä liittolaissopimuksia, mutta usein ainoastaan tilanteessa, joka on heille edullisin.
+
+# CLG2_Discoverer
+
+0x00000103 Etsijän kuvaus
+0x00000102 Etsijä
+
+# SPG_Knight_Tool
+
+0x00010069 Kutsu minialus
+0x0001006A Kutsuu esiin aluksesi pienikokoisen kloonin, joka auttaa sinua seikkailussasi.
+
+# CLG2_Killer
+
+0x00000100 Tappaja
+0x00000101 Tappajan kuvaus
+
+# SPG_Warrior
+
+0x00000066 Soturit ratkaisevat asiat voimakeinoin. He ottavat mitä haluavat lupia kyselemättä. Sotureille galaksi on palkinto, joka kuuluu voimakkaimmalle.
+0x00000065 Soturi
+
+# SPG_Wanderer
+
+0x00000068 Kulkurit haluavat kokeilla kaikkea. Galaksi on laaja ja he haluavat vierailla sen joka kolkassa.
+0x00000067 Kulkuri
+
+# CVG_CRG_Social
+
+0x00010039 Diplo-Matti
+0x0001003A Parantaa suhdetta valitsemaasi valtakuntaan.
+
+# CRG_Attack
+
+0x00000046 Saalistaja
+0x00000047 Saalistajat viettävät elämänsä etsien saalista. Ne tuhoavat mieluummin kokonaisia lajeja kuin kuluttavat aikaansa tanssimiseen tai hurmaamiseen.
+
+# TRG_CRG_Mix
+
+0x0001002F Petojen valtias
+0x00010030 Päällikkö voi lumota lähettyvillä olevat eläimet niin, että ne auttavat seurustelussa tai taistelussa.
+
+# CVG_CLG_Meat
+
+0x00010032 Kulkuneuvoistasi tulee hetken ajaksi haavoittumattomia.
+0x00010031 Haavoittumaton
+
+# TRG_CLG_Meat
+
+0x00020025 Ansat
+0x00020026 Ominaisuuden avulla päällikkö voi virittää ansoja villieläimille.
+
+# SPG_CLG_Meat
+
+0x00010043 Voimavaltti
+0x00010044 Lisää kaikkien aseiden tehokkuutta.
+
+# SPG_CLG_Mix
+
+0x00010047 Tinkijätaituri
+0x00010048 Saat alennuksen kaikista normaaleista laitteista.
+
+# SPG_TRG_Mix
+
+0x00010053 Uudisasuttaja
+0x00010054 Saat alennuksen kaikista normaaleista siirtokuntalaitteista.
+
+# Zero
+
+0x06941DC3 Vuotta
+0x06941DC0 Miljardia
+0x06941DC2 Tuhatta
+0x06941DC1 Miljoonaa
+
+# SPG_CVG_Religious
+
+0x0002005A Vähentää biologisten katastrofien määrää kaikissa siirtokunnissasi.
+0x00020059 Vihreä vartija
+
+# CLG_Mix
+
+0x00000045 Kaikkiruokaiset solut syövät kaikkea saatavilla olevaa ruokaa.
+0x00000044 Kaikkiruokainen
+
+# SPG_Bard_Tool
+
+0x00010058 Rauhoittaa vieraita lajeja ja parantaa lajien välistä suhdetta väliaikaisesti.
+0x00010057 Tuutulaulu
+
+# CRG_Social
+
+0x00000147 Seurallinen
+0x00000048 Sosiaaliset otukset etsivät kaiken aikaa uusia ystäviä ja liittolaisia. Uusien lajien kohtaaminen on aina innostavaa.
+
+# CRG_Mix
+
+0x00000049 Sopeutuva
+0x0000004A Sopeutuvilla otuksilla on paljon niin ystäviä kuin vihollisiakin. Ne tekevät päätöksiä sen hetkisen tilanteensa mukaisesti.
+
+# SPG_CLG_Plant
+
+0x00010045 Mestarineuvottelija
+0x00010046 Saat neuvoteltua välittömän alennuksen kaikista seurusteluun liittyvistä laitteista.
+
+# CRG_CLG_Meat
+
+0x00010020 Raivonkarjaisu
+0x00010021 Ominaisuuden avulla saat kaikki lähistön otukset juoksemaan kauhuissaan karkuun.
+
+# CVG_CLG_Plant
+
+0x00010033 Parantava aura
+0x00010034 Parantaa kaikki kulkuneuvosi ja rakennuksesi.
+
+# SPG_Shaman
+
+0x00000063 Samaani
+0x00000064 Samaanit näkevät kaikkia olevaisia yhdistävät elämänlangat. He tietävät, että galaksi on osa meitä kaikkia.
+
+# SPG_Ecologist
+
+0x0000005A Ekologit ovat luonnonsuojelijoita, joiden mielestä galaksia riistävät ja saastuttavat lajit täytyy tuhota.
+0x00000059 Ekologi
+
+# CVG_TRG_Attack
+
+0x0001003D EMP-pommi
+0x0001003E Pommi vahingoittaa rakennusten infrastruktuuria ja kulkuneuvojen laitteita, joten se auttaa kaupunkien valloituksessa.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Safarisieppari
+0x0001005A Siirtää lastiruumaan heti näytteen kaikista planeetan lajeista ja kasveista.
+
+# SPG_Zealot
+
+0x0000005C Fanaatikot ovat varmoja siitä, että heidän totuutensa on ainoa oikea totuus. Fanaatikkojen mielestä kaikki toisinajattelevat ovat pakanoita, joilla ei ole oikeutta elämään.
+0x0000005B Fanaatikko
+
+# SPG_Trader_Tool
+
+0x00010061 Raharuiske
+0x00010062 Tekee kauppareittien tähtijärjestelmistä heti ostettavia.
+
+# SPG_CRG_Attack
+
+0x00010049 Huippukunto
+0x0001004A Kasvattaa avaruusaluksesi kokonaiskestävyyttä.
+
+# CRG_CLG_Mix
+
+0x00010024 Parveilukutsu
+0x00010025 Ominaisuuden avulla voit kutsua esiin joukon apulaisia, jotka auttavat sinua seurustelemaan tai taistelemaan.
+
+# TRG_Attack
+
+0x0000004B Aggressiivinen
+0x0000004C Aggressiiviset heimot yrittävät tuhota kilpailijansa. Ne hyökkäävät armotta ja ryöstävät kaikki resurssit itselleen.
+
+# SPG_Knight
+
+0x00000069 Ritari
+0x0000006A Ritarit ovat jaloja sotureita, jotka taistelevat oikeuden puolesta omaa etuaan ajamatta. He uskovat, että rauha palaa galaksiin vasta, kun pahuus on täysin nujerrettu.
+
+# SPG_Scientist
+
+0x00000060 Tieteilijät ovat rationaalisia ja laskelmoivia. He haluavat tutkia ja ymmärtää galaksia.
+0x0000005F Tieteilijä
+
+# SPG_Shaman_Tool
+
+0x00010063 Paluulippu
+0x00010064 Siirtää sinut kotiplaneetallesi yhdessä silmänräpäyksessä.
+
+# SPG_Zealot_Tool
+
+0x0001005B Uskon valo
+0x0001005C Käännyttää vieraiden valtakuntien hallussa olevat tähtijärjestelmät valtakuntaasi.
+
+# SPG_CVG_Economic
+
+0x00020058 Lisää kaikkien siirtokuntiesi rohdontuotantoa.
+0x00020057 Rohtotaituri
+
+# CVG_TRG_MixWin
+
+0x0001006D Fuusio
+0x0001006E Ostaa kaikki kaupungit
+
+# Singular
+
+0x55496322 Miljoona
+0x55496321 Miljardi
+0x55496323 Tuhat
+0x55496324 Vuosi
+
+# TRG_CLG_Plant
+
+0x00010027 Virkistävä sade
+0x00010028 Ominaisuuden avulla päällikkö voi kutsua myrskyn, joka virkistää hedelmäpuita ja saa hedelmät putoamaan puusta.
+
+# CVG_TRG_AttackWin
+
+0x0001006F Mannertenvälinen ohjus
+0x00010070 Tuhoaa kaikki kaupungit
+
+# CVG_Military
+
+0x00000051 Sotilaallinen
+0x00000052 Sotilaalliset sivilisaatiot menestyvät aseidensa ja voimankäytön avulla. He käyttävät kaikki mahdolliset keinot tuhotakseen toiset kansakunnat.
+
+# TRG_CRG_Social
+
+0x0001002D Ilotulitus
+0x0001002E Päällikkö voi ampua ilotulitteita, jotka parantavat suhteita naapureihin.
+
+# TRG_Social
+
+0x0000004D Ystävällinen
+0x0000004E Ystävälliset heimot ymmärtävät kyllä ryhmätyön päälle. Ne muodostavat liittoutumia, jotta voivat jakaa resursseja ja menestyä yhdessä muiden heimojen kanssa.
+
+# Plural
+
+0x069417A1 Vuotta
+0x0694179E Miljardia
+0x069417A0 Tuhatta
+0x0694179F Miljoonaa
+
+# CVG_CLG_Mix
+
+0x00010036 Pysäyttää kulkuneuvojen, tykkien ja rakennusten toiminnan hetken ajaksi.
+0x00010035 Staattinen pommi
+
+# TRG_CRG_Attack
+
+0x0001002B Tulipommit
+0x0001002C Päällikkö voi heittää tulipommeja, jotka vahingoittavat lähistön vihollisia ja rakennuksia.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Tainnuttaa planeetan kaikki vihollisalukset ja tykit.
+0x0001005D Staattinen lukko
+
+# SPG_Scientist_Tool
+
+0x00010060 Räjäyttää kulttuurit ja rakennukset takaisin kivikaudelle.
+0x0001005F Gravitaatioaalto
+
+# Timeline GUIDS
+
+0x55496320 Historia
+

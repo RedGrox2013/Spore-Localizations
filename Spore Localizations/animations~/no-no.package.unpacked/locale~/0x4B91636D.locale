@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Infiltrer forskningsanlegget på planeten ~mission_target_planet~.
+0x00000093 Kurs: ~mission_source_star~-systemet.
+0x00000099 Suksess! Meld fra i ~mission_source_star~-systemet.
+0x00000097 Pågår
+0x000000B2 Meld fra på planeten ~mission_source_planet~.
+0x00000098 Fullført
+0x00000000 Vær hilset, ~ep1_captain_full_name~. Vi har akkurat fått grusomme nyheter. Vi har grunn til å tro at servoideforskerne konstruerer et kjempevåpen på planeten ~mission_target_planet~.~p~Vi trenger noen vi kan teleportere ned for å ta en nærmere titt på teknologien deres. Er du interessert?
+0x00000071 Kunne du vurdert å ombestemme deg hvis vi forteller deg at du i følge våre beregninger har 92,3 % sjanse til å lykkes?
+0x0000004E Alt du trenger å gjøre vises i oppdragsloggen din.~p~Husk, du er der for å samle vitenskapelige data. Prøv å ikke sprenge noe.
+0x00000081 Vi ber deg ikke om å dundre inn med avtrekkeren i bånn. Vi vil bare ha en liten prøve av TX-5000-teknologien.~p~Hvis du holder deg skjult, er faktisk oddsene for at du blir tilintetgjort ganske små.
+0x00000094 Infiltrer forskningsstasjonen på planeten ~mission_target_planet~ i ~mission_target_star~-systemet. Hold deg skjult og unngå direkte konfrontasjon.
+0x00000095 Våpenprogrammet TX-5000 er stoppet. Meld fra på planeten ~mission_source_planet~ i ~mission_source_star~-systemet.
+0x00000092 Infiltrer forskningsstasjonen i ~mission_target_star~-systemet. Hold deg skjult og unngå direkte konfrontasjon.
+0x00000064 Spionen vår, Bantuii, er allerede inne i basen. Snik deg forbi vaktene og finn ham. Han gir deg nærmere instruksjoner .~p~Dette er ikke et kampoppdrag, ~ep1_captain_full_name~! Her er det diskré tålmodighet som gjelder.~p~Lykke til!
+0x00000041 Synd at TX-5000 eksploderte. Med litt flaks kan vi analysere det som er igjen og reverseengineere det for å gjenskape kraftkilden.~p~Det er klart, VI kommer aldri til å bruke teknologien som våpen. Vi er bare interessert i ... øh ... potensialet for å lage ren, fornybar energi, hehe.~p~Uansett, takk for hjelpen. Du har definitivt fortjent ~mission_rewards~ Sporespenn.
+

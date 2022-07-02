@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA スポアタスティック  
+0x045882FB スポアジアン  
+
+#Default Creation name
+
+0x04D93065 無題オブジェクト  
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC Ctrlキーで似たタイプの部位を選択できます。
+0x0450C9DE Altキーで色とテクスチャを抽出できます。
+0x0450C9DD Ctrlキーで同じ部位を選択できます。
+0x0450C9E0 Altキーでテクスチャのみ抽出できます。
+0x0450C9DF Altキーで色のみ抽出できます。
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x047E7E84 “~newmodelname~”の共有に成功しました！
+0x047E7E85 “~newmodelname~”は、すでに共有されています！
+0x047E7E83 “~newmodelname~”をSpore.comで共有してもよろしいですか？~br~共有するユーザーネームは~username~となります。
+0x061349C1 “~newmodelname~”の共有に失敗しました。
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Spore クリーチャークリエイターを終了しますか？
+
+#paint mode paint buddy
+
+0x05BD6E0D スタイルを削除
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD このクリエーションは使用できません。  
+0x053740AE このクリエーションでプレイすることはできますが、次の理由によって共有されません：
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x04592638 <ここをクリックしてログインしよう>  
+0x0563D473 “~modelname~”の共有に失敗しました。
+0x045921AD “~modelname~”の共有に成功しました！
+0x045700B6 「~modelname~」をSpore.comで共有してもよろしいですか？~br~共有するユーザーネームは~username~となります。
+
+#paint mode color chicklets
+
+0x05BF125F クリックホールドすると、色の選択肢がさらに増えます
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------  
+0x0535B1B1 提案
+0x0535B1AE すべて
+0x0535B1AF SPOREゲーム
+0x0535B1B0 マイ・クリエーション
+0x0535B1B2 他のプレイヤーのクリエーション
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA018 Sporeクリーチャークリエイター：ペイントパートナー2
+0xB4CEA019 Sporeクリーチャークリエイター：完成したペイント
+0xB4CEA013 Sporeクリーチャークリエイター：パーツパートナー3
+0xB4CEA017 Sporeクリーチャークリエイター：ペイントパートナー1
+0xB4CEA014 Sporeクリーチャークリエイター：完成したパーツ
+0xB4CEA015 Sporeクリーチャークリエイター：ペイントのトライアル
+0xB4CEA016 Sporeクリーチャークリエイター：ペイントの登録
+0xB4CEA012 Sporeクリーチャークリエイター：パーツパートナー1
+0xB4CEA011 Sporeクリーチャークリエイター：パーツの登録
+0xB4CEA010 Sporeクリーチャークリエイター：パーツのトライアル
+0x9F3415A4 コア スポア
+
+### this text goes in CSA###
+
+0x00000001 コピー：  
+0x00000002 売却：  
+0x00000003 テーマ（一部）   
+0x00000007 売却  
+0x0000020A (NOT IN USE) There are no more slots to place turrets in.
+0x00000209 (NOT IN USE) The city hall is the hub for all other buildings in each city.  Build other buildings to expand the city!
+0x00000206 (NOT IN USE) Vehicles are automatically built for you.
+0x00000205 (NOT IN USE) Only 1 of each tool is needed for your tribe.
+0x00000207 (NOT IN USE) Befriend or Conquer a tribe that has this tool in order to gain access to it.
+0x00000202 (NOT IN USE) Your creation is using too many parts already. Remove some in order to free up space.
+0x00000201 (NOT IN USE) This item is too expensive and cannot be puchased now.
+0x00000203 (NOT IN USE) There are no more slots to place buildings in.  Remove a building to free up space.
+0x00000208 (NOT IN USE) This planet needs a higher terraforming score in order to support more buildings.
+0x00000204 (NOT IN USE) The maximum number of vehicles of this type has already been purchased.
+0x0000020D (NOT IN USE)
+0x0000010B ロックされています
+0x00000102 パーツが多すぎます
+0x00000103 建物が多すぎます
+0x00000005 繁殖中
+0x00000104 このタイプのビークルが多すぎます
+0x00000008 非対称にする
+0x00000109 シティホールは都市に1つしか設置できません
+0x0000020C (NOT IN USE)既に全種類のビークルの最大数を購入済みです。
+0x0000010C ビークルの合計数が上限に到達しました。
+0x00000101 コストが不足しています
+0x00000105 この道具小屋はすでに持っています
+0x00000107 他の集落からこの道具小屋を入手してください
+0x00000108 T-スコアが低すぎます
+0x0000010A 砲塔を建てるスペースがありません
+0x0000010D 宇宙船を作成、変更、もしくは選択します
+0x00000106 コロニーはビークルを自動的に購入します
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 クリエイター
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B このパーツを使用するには、「SPORE」ゲームを購入しなければなりません。
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D284 すべてのセーブゲームからこのオブジェクトを消去しますか？  
+0x0450D285 ゲームからこのオブジェクトを完全に消去してもよろしいですか？  
+0x0450D286 ゲームからこのオブジェクトを完全に消去してもよろしいですか？　オブジェクトが消去される前にゲームはセーブされ、再起動されます。  
+0x063AB852 このオブジェクトは、ゲームの中の1つのアバターです。これを削除する前に、ゲームを削除しなくてはなりません。
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 このクリエーションはインスールされていないSporeパーツを使用しています。
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C ~newmodelname~はセーブされました。スポアペディアの「マイ・クリエーション」で、~newmodelname~が確認できます。
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x10000008 続ける前に、変更を「~newmodelname~」としてセーブしますか？
+0x10000018 ロードする前に、変更を「~newmodelname~」としてセーブしますか？
+0x10000038 終了する前に、変更を「~newmodelname~」としてセーブしますか？
+0x10000040 You won't be able to edit your creature once you start accessorizing.  Do you want to continue? [NOT IN USE]
+0x1000000D ここで終了すると、変更が失われます。終了してもよろしいですか？
+0x1000001A ロードする前に、「~newmodelname~」を新規でセーブしますか？　もしくは、「~oldmodelname~」に上書きしますか？
+0x1000002A 新規で作成する前に、「~newmodelname~」を新規セーブしますか？　もしくは、「~oldmodelname~」に上書きしますか？
+0x10000019 次の理由により、作成したものをセーブできません：~br~~br~~generic0~~br~~br~ロードを続けて、作成中の変更をすべて失ってもよろしいですか？
+0x10000028 新規で作成する前に、変更を「~newmodelname~」としてセーブしますか？
+0x10000029 次の理由により、作成したものをセーブできません：~br~~br~~generic0~~br~~br~新規作成をすると、作成中の変更はすべて失われます。よろしいですか？
+0x10000039 次の理由により、作成したものをセーブできません：~br~~br~~generic0~~br~~br~終了して、作成した内容をすべて失ってもよろしいですか？
+0x1000000B 「~newmodelname~」を新しいクリエーションとしてセーブしますか？　もしくは、「~oldmodelname~」に上書きしますか？
+0x1000000A 続行する前に、「~newmodelname~」を新しいクリエーションとしてセーブしますか？　もしくは、「~oldmodelname~」に上書きしますか？
+0x1000003A 終了する前に、「~newmodelname~」を新規セーブしますか？　もしくは、「~oldmodelname~」に上書きしますか？
+0x10000009 次の理由により、作成されたクリエーションはセーブされません：~br~~br~~generic0~~br~~br~ロードを続けて、作成中のクリエーションへの変更をすべて失ってもよろしいですか？
+0x1000000C クリエイターは“~newmodelname~”を保存中です。今終了すると、“~newmodelname~”は永久に失われます。本当に終了してもよろしいですか？
+

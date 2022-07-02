@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000900 Du hast diese religiöse Stadt mit militärischen Mitteln erobert. Möchtest du diese Spezialisierung beibehalten, solltest du Städte mit geringer Zufriedenheit ins Visier nehmen, um ihre Einwohner zu konvertieren.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000905 Du hast diese religiöse Stadt gekauft. Wenn du diese Spezialisierung beibehältst, solltest du Städte mit geringer Zufriedenheit ins Visier nehmen, um ihre Einwohner zu konvertieren.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000901 Du hast diese Wirtschaftsstadt mit militärischen Mitteln erobert. Wirtschaftsstädte können Handelsrouten einrichten, um deine Beziehungen zu pflegen und schließlich andere Städte zu kaufen. Wähle das Spezialgebiet dieser Stadt.
+0x00000904 Du hast diese militärische Stadt gekauft. Wenn du diese Spezialisierung beibehältst, kannst du Militärfahrzeuge bauen und andere Städte erobern. Wähle das Spezialgebiet dieser Stadt.
+0x00000903 Du hast diese Wirtschaftsstadt mit religiösen Mitteln konvertiert. Wirtschaftsstädte können Handelsrouten einrichten, um deine Beziehungen zu pflegen und schließlich andere Städte zu kaufen. Wähle das Spezialgebiet dieser Stadt.
+0x00000902 Du hast diese militärische Stadt mit religiösen Mitteln konvertiert. Wenn du diese Spezialisierung beibehältst, kannst du Militärfahrzeuge bauen und andere Städte erobern. Wähle das Spezialgebiet dieser Stadt.
+
+# capture - not first, change
+
+0x00000300 Militärisch
+0x00000301 Religiös
+0x00000305 Wirtschaftlich
+0x00000302 Wirtschaftlich
+0x00000303 Militärisch
+0x00000304 Religiös
+0x00000909 Du hast diese Wirtschaftsstadt mit religiösen Mitteln konvertiert.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000910 Du hast diese militärische Stadt gekauft.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000911 Du hast diese religiöse Stadt gekauft.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000908 Du hast diese militärische Stadt mit religiösen Mitteln konvertiert.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000906 Du hast diese religiöse Stadt mit militärischen Mitteln erobert.~br~Wähle das Spezialgebiet dieser Stadt!
+0x00000907 Du hast diese Wirtschaftsstadt mit militärischen Mitteln erobert.~br~Wähle das Spezialgebiet dieser Stadt!
+
+# Upgrades
+
+0x00000601 Deine fleißigen Wissenschaftler haben das Wasserrad und das mechanische Förderband entwickelt! Wir können jetzt Schiffe bauen und die Meere erobern!
+0x00000603 Erfolg! Sogar der mächtige Wind gehorcht nun unserer Technologie! Der Lufttrichter und die Wirbelröhre ermöglichen dir den Bau von Fahrzeugen, die kilometerweit über der Planetenoberfläche schweben und manövrieren können!
+0x00000605 Erstaunliche Neuigkeiten! Wir haben endlich die Schwerkraft besiegt. Die Raumfahrt ist jetzt Realität. Wir brauchen nur deine Hilfe beim Entwurf des neuen Fahrzeugs.
+
+##############################
+#########
+# Tutorial cinematics
+
+0x00000213 Suche in der Nähe nach einem Gewürzgeysir wie diesem, klicke ihn an und schicke dann dein Fahrzeug zu ihm, um ihn in Besitz zu nehmen! Gewürz ist ein wertvolles Handelsgut geworden. Wenn du es abbaust, klingelt die Staatskasse.
+0x0000010A Dein Stamm beherrscht nun diesen Kontinent und kann vor allen anderen die Entwicklung vom einfachen Dorf zum zivilisierten Stadtleben vollziehen.
+0x00000108 Deine einzige Stadt wurde eingenommen.
+0x00000710 Deine Stadt wird angegriffen! Verteidige sie, indem du Geschütze aufstellst, neue Gebäude errichtest und für mehr Zufriedenheit sorgst!
+0x00000403 Glückwunsch! Du hast deinen ersten Gewürzgeysir erobert.~br~Der Gewürzbohrturm wird eine ständige Einkommensquelle für deine Nation sein.
+0x0000010D Das Zeitalter der Technologie und des Transportwesen ist angebrochen! Deine Stadt ist die erste auf dem Planeten, aber deine Spezies folgt nicht mehr nur dir ... schon bald werden andere Städte entstehen, erbaut von Vertretern deiner eigenen Spezies. Du musst sie einen, um den Fortschritt voranzutreiben.
+0x0653ADAD Du trittst jetzt in die Zivilisationsphase ein.
+0x00000400 Eine weiterer Stamm deiner Spezies hat auf deinem Kontinent eine Stadt errichtet! Du solltest sie erobern, solange sie noch schwach ist, oder zum Verbündeten machen.
+
+# Not In use
+
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000103 [[[[[NOT IN USE]]]]] Deine Stadt ist gewachsen! Neue Fahrzeugtypen stehen zum Kauf bereit!
+0x00000401 [[[[[NOT IN USE]]]]] Wähle das Spezialgebiet dieser Stadt:
+0x00000104 [[[[[NOT IN USE]]]]] Deine Stadt ist gewachsen! Neue Fahrzeugtypen stehen zum Kauf bereit!
+0x0000011E [[[[[NOT IN USE]]]]] Die Stadt gehört jetzt dir, und du kannst sie hier umbenennen, wenn du willst.
+0x00000120 [[[[[NOT IN USE]]]]] Du hast eine Stadt erobert!
+0x00000109 [[[[[NOT IN USE]]]]] Glückwunsch! Du hast deinen Planeten erobert! Klicke auf dein Rathaus, um ein Raumschiff zu starten und den Weltraum zu erforschen!
+0x00000503 [[[[[NOT IN USE]]]]] Deine Zivilisation ist wirtschaftlich spezialisiert! Da deine Bevölkerung nun 40 beträgt, kannst du dein erstes Wirtschafts-Fahrzeug bauen. Lege Handelswege an, pflege deine Beziehungen und kaufe andere Städte, um Fortschritte zu machen!
+0x00000502 [[[[[NOT IN USE]]]]] Deine Zivilisation ist religiös spezialisiert! Da deine Bevölkerung nun 40 beträgt, kannst du dein erstes religiöses Fahrzeug bauen. Ziele auf unzufriedene Städte, um sie zu konvertieren!
+0x00000501 [[[[[NOT IN USE]]]]] Deine Zivilisation ist militärisch spezialisiert! Da deine Bevölkerung nun 40 beträgt, kannst du dein erstes Militärfahrzeug bauen.
+0x00000602 [[[[[NOT IN USE]]]]] Wir glauben außerdem, dass diese Technik Anwendungsmöglichkeiten hat, die unserer Nation irgendwann den Schritt in den Weltraum ermöglicht. Setze deine Anstrengungen fort!
+0x00000606 [[[[[NOT IN USE]]]]] Du solltest so rasch wie möglich ein Schiff bauen, das deiner Spezies würdig ist, und es hinaus ins All schicken, um das Universum zu erforschen.
+0x00000604 [[[[[NOT IN USE]]]]] Es kommt noch besser! Diese Technologie hat uns den Sternen wieder einen Schritt näher gebracht, aber um Erfolg zu haben, müssen wir mehr Städte erobern oder zu unseren Verbündeten machen. Setz deinen Vormarsch fort!
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet.~br~Your first task is to send it to claim a spice node.
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet.~br~Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent!~br~You may want to conquer them while they are still weak or choose to make them an ally.
+
+# capture - keep
+
+0x00000803 Du hast diese militärische Stadt mit militärischen Mitteln erobert.~br~Sie bleibt eine militärische Stadt.
+0x00000804 Du hast diese religiöse Stadt zu deiner Religion konvertiert.~br~Sie bleibt eine religiöse Stadt.
+0x00000805 Du hast diese Wirtschaftsstadt mit wirtschaftlichen Mitteln gekauft.~br~Sie bleibt eine Wirtschaftsstadt.
+
+# Deleted
+
+0x00000100 GELÖSCHT
+0x00000101 GELÖSCHT
+0x00000113 GELÖSCHT
+0x00000112 GELÖSCHT
+0x00000114 GELÖSCHT
+0x0000011F GELÖSCHT
+0x00000600 GELÖSCHT
+0x00000500 GELÖSCHT
+
+# superweapons
+
+0x00000700 Deine Interkontinentalraketen haben die Welt erobert.
+0x00000701 Dein Heiland hat die Welt erobert.
+0x00000702 Deine Globale Fusion hat die Welt erobert.
+

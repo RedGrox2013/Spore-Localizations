@@ -1,0 +1,25 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000022 任務成功！向<~mission_source_star~> 星系回報。
+0x0000001F 你完成了<~mission_target_planet~>上的任務。返回位在<~mission_source_star~>星系的母星<~mission_source_planet~>。
+0x0000001C 前往<~mission_target_star~>星系。與首席機械人交談，對任務有更近一步的了解。
+0x0000001D 前往：<~mission_source_star~>星系。
+0x00000008 冒險耶！算我一份。
+0x0000000A 歡迎歸來，艦長！根據你船艦上的日誌指出，你取了得成為優秀太空艦長所需的一切資訊。~p~我們就扼要重述一下吧？~p~首先，你得執行冒險任務，提升你的艦長經驗。隨著你的階級提升，你會獲得能夠裝備的新配件與能力。替你的艦隊招募新血，能讓你在星球上的任務變得更容易些。~p~輕鬆愉快啦！現在，快出發吧，你的傳奇即將展開。
+0x00000005 傳送下去？
+0x00000020 進行中
+0x00000004 操控太空船，只是太空艦長的一半職責。要完成其他職責，需要星球戰略技巧，你和你的船員得離開太空船，傳送到星球上。
+0x00000002 我想多知道一點…
+0x00000021 已完成
+0x0000001B 向母星<~mission_source_planet~>回報。
+0x0000001A 造訪<~mission_target_planet~>上的天狗太空港。
+0x00000001 任務控制中心有件有趣的新任務讓你去辦。~p~我們希望你前往<~mission_target_planet~>的天狗太空站執行偵察任務。
+0x0000001E 前往<~mission_target_star~>星系。傳送至<~mission_target_planet~>上的天狗太空港。與首席機械人交談，對任務有更近一步的了解。
+0x00000007 我們的科學家為你的船艦裝備了一具傳送裝置，能把你和你的船員傳送到星球表面執行星球任務。~p~所有優秀的艦長都有這種裝置。~p~你準備好造訪天狗太空站了嗎？
+0x0000000D 你最近察看過你的任務日誌嗎？！~p~你必須馬上動身前往<~mission_target_planet~>上的天狗太空港。這是你生涯中最重要的任務。
+0x00000011 太好了！一旦你抵達<~mission_target_planet~>，如往常一般飛到星球表面，然後開始傳送作業。~p~當你抵達天狗太空站時，尋找首席機械人。他會告訴你剛上哪兒去，以及在太空港該見什麼人。~p~祝你旅途平安，艦長。
+

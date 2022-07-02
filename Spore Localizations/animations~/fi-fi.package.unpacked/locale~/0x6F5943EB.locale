@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Sosiaalisuus
+0x01020007 Tutkimus
+0x01020003 Ei tyylilajia
+0x01020004 Hyökkäys
+0x01020005 Suojaus
+0x0102000A Keräys
+0x01020009 Tarina
+0x01020008 Tehtävä
+0x0102000D Malli
+0x0102000C Planeetat
+0x0102000B Pulma
+
+#######################################
+# Filter Names
+
+0x01020001 Seikkailut
+0x01020002 Pelattavat seikkailut
+0x07200107 Kapteeni
+0x07200108 Omat kapteenit
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 Pelikerrat: ~ep1_adventure_stats_num_plays~
+
+### Difficulty Descriptions
+
+0x07D86C49 Vaikeustaso: ~ep1_adventure_difficulty~
+0x07D86C6A Erittäin helppo
+0x07D86C87 Keskitasoinen
+0x07D86C7C Helppo
+0x07D86CA8 Erittäin vaikea
+0x07D86C9F Vaikea
+
+# Unpublish
+
+0x07D9CFD7 Haluatko keskeyttää luomuksen jakamisen? Tällöin luomus poistetaan palvelimelta.
+0x07D9CFB6 Keskeytä jakaminen
+
+#######################################
+# Misc
+
+0x02000002 Valitut esineet (~num_selected_items~ kpl)
+0x02000001 Valittu esine on muokattavana. Sitä ei voi nyt poistaa.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Kohteet
+
+# Audio filters
+
+0x01021007 Yleisö
+0x01021006 Ääni
+0x01021008 Ympäristö
+0x0102100A Musiikki
+0x01021009 Mekaniikka
+0x0102100C Yksittäiset
+0x0102100B Nuotti
+
+### Ratings
+
+0xC7647889 Arvosana
+
+# Download adventure
+
+0x02200002 Haluatko avata tämän seikkailun?
+0x02200001 Lataa seikkailu
+
+# Adventure points
+
+0x02100002 Pisteet: ~ep1_adventure_stats_num_points~
+
+#######################################
+# Category Names
+
+0x00000001 Tehtävän kohteet
+
+# Fixed object filters
+
+0x01021004 Kivenlohkareet
+0x01021003 Pelikohteet
+0x01021002 Pienet esineet
+0x01021005 Kiinteät koristeet
+0x01021001 Sijoitetut esineet
+
+# Effects filters
+
+0x01022003 Luonnontehosteet
+0x01022002 Valotehosteet
+0x01022006 Yksittäiset tehosteet
+0x01022005 Satunnaistehosteet
+0x01022004 Scifi-tehosteet
+0x01022001 Tehosteet
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Valitse planeetta
+0x07B24B83 Voit tarkastella seikkailun tulostauluja ja sijoituksia, kun olet kirjautunut sisään
+0x079EDCD5 Luo tai valitse kapteeni
+0x072925B0 Valitse seikkailu
+0x072000E3 Luo tai valitse kapteeni
+0x072925BB Valitse yksi tai useampi tehoste
+0x072925BA Valitse yksi tai useampi avaruusalus
+0x072925B9 Valitse yksi tai useampi kulkuneuvo
+0x07B67C69 Valitse vähintään yksi pelikohde
+0x072925BD Valitse kohde
+0x072925BC Valitse yksi tai useampi ääni
+0x072925B8 Valitse yksi tai useampi rakennus
+0x072925B4 Valitse ääni
+0x072925B3 Valitse yksi tai useampi esine
+0x072925B2 Luo tai valitse hahmo
+0x072925B7 Valitse yksi tai useampi otus
+0x072925B6 Valitse seikkailun hahmot
+0x072925B5 Valitse kasvi
+

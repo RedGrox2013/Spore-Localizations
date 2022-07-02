@@ -1,0 +1,1698 @@
+﻿# sculpt_crystal_canyon.prop - spaceToolDetailDescription
+
+0x240126E6 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# colorterraincyan.prop - spaceToolDescription
+
+0x4F4C2EDD Бирюзовая краска (почва)
+
+# sculpt_gear_hills.prop - spaceToolDescription
+
+0x8551F9C8 Холмы-шестеренки
+
+# coloratmoorange.prop - spaceToolDescription
+
+0x1D57B204 Оранжевое небо
+
+#######################################
+# Tool target fail messages
+
+0x061AB566 Выберите подходящую наземную цель.
+0x061AF4B2 Это оружие можно применять только против космических кораблей и техники.
+0x05E62DE4 Это оружие можно применять только против живых существ.
+
+# planetscan.prop - spaceToolLockedDescription
+# portal.prop - spaceToolDescription
+
+0x06005E75 Обратный билет
+
+# energymegapotion.prop - spaceToolDetailDescription
+
+0x51CE942A Полностью восстанавливает запас энергии космического корабля.
+
+# droughtgenerator.prop - spaceToolDetailDescription
+
+0x5EEB2EEF Снижает плотность атмосферы на планете.
+
+# sculpt_terra_mountains.prop - spaceToolLockedDescription
+# sculpt_terra_plateau.prop - spaceToolDescription
+
+0x473606D1 Земное плато
+
+# icecapseeder.prop - spaceToolLockedDescription
+# icecomet.prop - spaceToolDescription
+
+0x50016B43 Ледяная комета
+
+# sculpt_crystal_seas.prop - spaceToolDescription
+
+0x58D2F45F Кристальное море
+
+# coloratmocyan.prop - spaceToolDetailDescription
+
+0x23400F14 Окрашивает атмосферу планеты в бирюзовый.
+
+# colorterraingreen.prop - spaceToolDescription
+
+0xAFB4F707 Зеленая краска (почва)
+
+# sculpt_basic_raise_medium.prop - spaceToolDetailDescription
+# sculpt_basic_raise_medium.prop - spaceToolLockedDescription
+# sculpt_basic_raise_small.prop - spaceToolDescription
+
+0xA7A60EBF Возвышенность (малая площадь)
+
+# sculpt_cute_wall.prop - spaceToolDescription
+
+0x62E92AFA Прелестная стена
+
+# protonmissile.prop - spaceToolDescription
+
+0x2B48B650 Протонная ракета
+
+# cloudvacuum.prop - spaceToolDetailDescription
+
+0x58F17547 Снижает плотность атмосферы планеты.
+
+# monolith.prop - spaceToolLockedDescription
+# mutation.prop - spaceToolDescription
+
+0x06006CE8 Видомешалка
+
+# globalminderase.prop - spaceToolLockedDescription
+# gravitationwave.prop - spaceToolDescription
+
+0x06036020 Гравитационная волна
+
+# sculpt_gear_seas.prop - spaceToolDescription
+
+0x34B2EA82 Море-шестеренки
+
+# laserlevel2.prop - spaceToolDescription
+# laserlevel2.prop - spaceToolDetailDescription
+
+0xF561B166 Высокоточное оружие средней огневой мощи. Служит для поражения наземных целей.
+
+# dumbbomblevel3.prop - spaceToolLockedDescription
+# enemylaser1.prop - spaceToolDescription
+# enemylaser2.prop - spaceToolDescription
+# enemylaser3.prop - spaceToolDescription
+# enemyminipulse1.prop - spaceToolDescription
+
+0x8BC5AF07 Мини-импульс (противник)
+
+# coloratmopurple.prop - spaceToolDescription
+
+0x22770D44 Виноградное небо
+
+# wormhole.prop - spaceToolDetailDescription
+
+0x2B657392 Позволяет пролететь сквозь черную дыру без повреждений.
+
+# aoe_repair.prop - spaceToolLockedDescription
+# artillery.prop - spaceToolDescription
+
+0xC801CB3E Артиллерия
+
+# colorterrainblue.prop - spaceToolDescription
+
+0xFADE51D2 Синяя краска (почва)
+
+# torpedogalaxy1.prop - spaceToolDescription
+
+0x12673EB4 Малый автобластер
+
+# cloak.prop - spaceToolDetailDescription
+
+0xB62407BD Космический корабль становится невидимым.
+
+# tooltemplate.prop - spaceToolDetailDescription
+
+0xE90E6027 Нужно описание инструмента!
+
+# eradicate.prop - spaceToolDetailDescription
+
+0x8EFB418B Уничтожает целый биологический вид, чтобы освободить место для новой жизни.
+
+# scan.prop - spaceToolDescription
+
+0xF30993C7 Сканер
+
+# colorwaterred.prop - spaceToolDetailDescription
+
+0xB9AC2498 Окрашивает водные массивы планеты в красный.
+
+# sculpt_terra_hills.prop - spaceToolDetailDescription
+
+0xCCF5236E Позволяет разместить земные холмы.
+
+# protonmissile.prop - spaceToolLockedDescription
+# pulselevel1.prop - spaceToolDescription
+
+0xD0EB46B4 Мини-импульс
+
+# torpedogalaxy3.prop - spaceToolLockedDescription
+# torpedosolar1.prop - spaceToolDescription
+# torpedosolar1.prop - spaceToolDetailDescription
+# torpedosolar1.prop - spaceToolLockedDescription
+# torpedosolar2.prop - spaceToolDescription
+# torpedosolar2.prop - spaceToolDetailDescription
+# torpedosolar2.prop - spaceToolLockedDescription
+# torpedosolar3.prop - spaceToolDescription
+# torpedosolar3.prop - spaceToolDetailDescription
+# torpedosolar3.prop - spaceToolLockedDescription
+# turret_at_ecn.prop - spaceToolDescription
+
+0x5446F467 Противотанковое орудие
+
+# sculpt_crystal_mesas.prop - spaceToolDetailDescription
+
+0x37587D89 Позволяет разместить кристальное плоскогорье.
+
+# sculpt_chocolate_squares.prop - spaceToolDetailDescription
+
+0xFA1353BE Позволяет разместить шоколадные плиты.
+
+# placeembassy.prop - spaceToolDescription
+
+0xFF2BA023 Посольство
+
+# placeembassy.prop - spaceToolDetailDescription
+
+0x5134BCBA Постепенно улучшает взаимоотношения с местными жителями.
+
+# icecomet.prop - spaceToolLockedDescription
+# interplanetarydrive.prop - spaceToolDescription
+
+0x6514F8EE Межпланетный двигатель
+
+# dumbbomblevel2.prop - spaceToolDetailDescription
+
+0x8C775DBB Бомба средней мощности, способная уничтожить технику и постройки.
+
+# colorterraingreen.prop - spaceToolDetailDescription
+
+0x6858A61E Окрашивает поверхность планеты в зеленый.
+
+# cloudray.prop - spaceToolDetailDescription
+
+0xC3574828 Повышает плотность атмосферы.
+
+# colorterraincyan.prop - spaceToolDetailDescription
+
+0xB6D7BA7C Окрашивает поверхность планеты в бирюзовый.
+
+# hotcloudray.prop - spaceToolLockedDescription
+# hotcloudvacuum.prop - spaceToolDescription
+
+0x3250FA19 Поглотитель теплых воздушных потоков
+
+# sculpt_crystal_plateau.prop - spaceToolDescription
+
+0x1F26A005 Кристальное плато
+
+# getoutofufo.prop - spaceToolDetailDescription
+
+0x90A55BBE Собирает данные о планете.
+
+# sculpt_gear_walls.prop - spaceToolDetailDescription
+
+0xB941E794 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_chocolate_hill.prop - spaceToolDescription
+
+0x06CFA173 Шоколадный холм
+
+# sculpt_terra_craters.prop - spaceToolDetailDescription
+
+0xFB2634DA Позволяет разместить земные кратеры.
+
+# energyupgrade5.prop - spaceToolLockedDescription
+# epicize.prop - spaceToolDescription
+
+0xD2936CB9 Титанатор
+
+# fireworks.prop - spaceToolLockedDescription
+# genesisdevice.prop - spaceToolDescription
+
+0x0C7C683C Посох жизни
+
+# sculpt_cute_seas.prop - spaceToolDetailDescription
+
+0xE06B17CF Позволяет разместить прелестное море.
+
+# cargoupgrade1.prop - spaceToolDescription
+
+0x52145143 Базовая грузоподъемность
+
+# zoo.prop - spaceToolDetailDescription
+
+0x45795585 Превращает планету в заповедник, где можно поселить похищенных существ.
+
+# eradicate.prop - spaceToolLockedDescription
+# fireworks.prop - spaceToolDescription
+
+0x8B0B75DE Салют
+
+# sculpt_cute_wall.prop - spaceToolDetailDescription
+
+0x55F869A3 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_chocolate_hill.prop - spaceToolDetailDescription
+
+0x5B72E9CD Позволяет разместить шоколадный холм.
+
+# portal.prop - spaceToolDetailDescription
+
+0x06005E79 Позволяет мгновенно перенестись в родную систему.
+
+# monolith.prop - spaceToolDetailDescription
+
+0x870C8C43 Установка монолита, положительно влияющего на жителей планеты, будь то племя или цивилизация.
+
+# healthupgrade5.prop - spaceToolLockedDescription
+# heatray.prop - spaceToolDescription
+
+0x5F83F79E Тепловой луч
+
+# dumbbomblevel1.prop - spaceToolDetailDescription
+
+0x2E4A83A6 Малая бомба, способная повредить технику и постройки.
+
+# colorterrainorange.prop - spaceToolDescription
+
+0x9A0CB36C Оранжевая краска (почва)
+
+# sculpt_terra_river.prop - spaceToolLockedDescription
+# sculpt_terra_seas.prop - spaceToolDescription
+
+0xC814C0FB Земное море
+
+# coldray.prop - spaceToolDetailDescription
+
+0x8641E41B Снижает температуру планеты.
+
+# colorterrainblue.prop - spaceToolDetailDescription
+
+0x565F681B Окрашивает поверхность планеты в синий.
+
+# sculpt_chocolate_squares.prop - spaceToolDescription
+
+0x68A2D1A7 Шоколадные плиты
+
+# happyraylevel2.prop - spaceToolDetailDescription
+# happyraylevel2.prop - spaceToolLockedDescription
+# happyraylevel3.prop - spaceToolDescription
+
+0xBBD737AF Большой луч счастья
+
+# protonmissile.prop - spaceToolDetailDescription
+
+0x8555D2F1 Самонаводящаяся протонная ракета. Эффективна против космических кораблей.
+
+# creaturecreate.prop - spaceToolLockedDescription
+# creatureedit.prop - spaceToolDescription
+
+0x0DC3BACB Изменение существа
+
+# laserlevel2.prop - spaceToolLockedDescription
+# laserlevel3.prop - spaceToolDescription
+
+0xB745C2F0 Мегалазер
+
+# sculpt_crystal_hills.prop - spaceToolDescription
+
+0x1A33DE3B Кристальные холмы
+
+# healthupgrade1.prop - spaceToolDetailDescription
+
+0x852C73AE Повышает запас прочности космического корабля.
+
+# planetbusterbomb.prop - spaceToolLockedDescription
+# planetconversion.prop - spaceToolDescription
+
+0x06089937 Исступление
+
+# sculpt_gear_river.prop - spaceToolDetailDescription
+
+0xE23FE947 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# creatureedit.prop - spaceToolDetailDescription
+
+0x4F4D0BC2 Выберите инструмент и щелкните на существе, чтобы изменить его строение.
+
+# protonmissilelevel1.prop - spaceToolDescription
+
+0x79813159 Малая протонная ракета
+
+# sculpt_basic_level_large.prop - spaceToolLockedDescription
+# sculpt_basic_level_medium.prop - spaceToolDescription
+
+0xE3BE7553 Равнина (средняя площадь)
+
+# allytorpedogalaxy2.prop - spaceToolDescription
+
+0xB71C33EB Торпеда
+
+# sculpt_tentacle_mouth.prop - spaceToolDescription
+
+0xAAAC5A5E Устье из щупальцев
+
+# callforbackup.prop - spaceToolDetailDescription
+
+0x0601AA80 Вызывает на подмогу миниатюрную версию вашего корабля.
+
+# sculpt_gear_fissure.prop - spaceToolDetailDescription
+
+0x26F6797E Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# planetconversion.prop - spaceToolDetailDescription
+
+0x0608993B Оказывает мощное религиозное воздействие на обитателей планеты, что позволяет захватить ее.
+
+# sculpt_tentacle_seas.prop - spaceToolDetailDescription
+
+0x60AF5EC0 Позволяет разместить море из щупальцев.
+
+# energyupgrade2.prop - spaceToolDescription
+
+0xAAF21EE8 Малый топливный бак
+
+# zoo.prop - spaceToolLockedDescription
+# autoblaster.prop - spaceToolDescription
+# autoblaster.prop - spaceToolDetailDescription
+
+0x061C69FE Защищает кораль от врагов.
+
+# torpedogalaxy1.prop - spaceToolDetailDescription
+
+0xB1177EB5 Автоматически открывает огонь по вражеским башням и кораблям (отключаемый инструмент).
+
+# coldcloudray.prop - spaceToolLockedDescription
+# coldcloudvacuum.prop - spaceToolDescription
+
+0x2EE4F934 Поглотитель холодных воздушных потоков
+
+# rallycall.prop - spaceToolDetailDescription
+
+0x84FD3B8D Созывает корабли союзников и быстро увеличивает повреждения, наносимые ими.
+
+# coloratmored.prop - spaceToolDescription
+
+0xAC0E9EAF Красное небо
+
+# allylaser2.prop - spaceToolDescription
+# allylaser3.prop - spaceToolDescription
+# allyminipulse1.prop - spaceToolDescription
+
+0xD4795323 Мини-импульс (союзник)
+
+# sculpt_gear_canyon.prop - spaceToolDetailDescription
+
+0x4E6F3B03 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_tentacle_plateau.prop - spaceToolDescription
+
+0x481CA11B Плато из щупалец
+
+# sculpt_crystal_mountains.prop - spaceToolDescription
+
+0xDAE9C56F Кристальные горы
+
+# sculpt_cute_hills.prop - spaceToolDescription
+
+0x3F34BBDC Прелестные холмы
+
+# sculpt_gear_craters.prop - spaceToolDetailDescription
+
+0xF0D70899 Позволяет разместить кратеры из шестеренок.
+
+# shield.prop - spaceToolDescription
+
+0xDAB0AE3F Щит
+
+# sculpt_crystal_hills.prop - spaceToolDetailDescription
+
+0x511C7392 Позволяет разместить кристальные холмы.
+
+# colorterrainpink.prop - spaceToolDetailDescription
+
+0x930BED1F Окрашивает поверхность планеты в розовый.
+
+# sculpt_terra_hills.prop - spaceToolLockedDescription
+# sculpt_terra_lavaflow.prop - spaceToolDescription
+
+0x63D11771 Земные потоки лавы
+
+# cloak.prop - spaceToolDescription
+
+0x1A266B7C Камуфляж
+
+# sculpt_basic_raise_large.prop - spaceToolLockedDescription
+# sculpt_basic_raise_medium.prop - spaceToolDescription
+
+0x5A121151 Возвышенность (малая площадь)
+
+# repairpotion.prop - spaceToolDetailDescription
+
+0x013131F9 Частично восстанавливает запас прочности космического корабля.
+
+# placebiostabilizer.prop - spaceToolDetailDescription
+
+0xB1D9ABFD Снижает вероятность экологических катастроф на планете.
+
+# colorwaterpink.prop - spaceToolDescription
+
+0xE65F9298 Розовое море
+
+# sculpt_chocolate_spirals.prop - spaceToolDescription
+
+0xC0FB0C49 Шоколадные завитки
+
+# epicize.prop - spaceToolDetailDescription
+
+0x7472D9F8 Увеличивает существо до размера монстра.
+
+# rainoffire.prop - spaceToolDescription
+
+0xF696A88D Метеоритный дождь
+
+# sculpt_gear_canyon.prop - spaceToolDescription
+
+0xE56A9D5A Каньон-шестеренки
+
+# placespicestorage.prop - spaceToolDetailDescription
+
+0x4C23A6E1 Увеличивает максимальный объем пряности, который может храниться на планете.
+
+# seti.prop - spaceToolDetailDescription
+
+0x04EBC561 Подает сигнал при обнаружении в звездной системе разумной жизни.
+
+# sculpt_cute_holes.prop - spaceToolDescription
+
+0x25609C87 Прелестные марки
+
+# colorterrainorange.prop - spaceToolDetailDescription
+
+0x0D775C0D Окрашивает поверхность планеты в оранжевый.
+
+# enemypulse2.prop - spaceToolDescription
+# enemypulse3.prop - spaceToolDescription
+# enemytorpedogalaxy1.prop - spaceToolDescription
+# enemytorpedogalaxy2.prop - spaceToolDescription
+# enemytorpedogalaxy3.prop - spaceToolDescription
+# enemytorpedosolar1.prop - spaceToolDescription
+# enemytorpedosolar2.prop - spaceToolDescription
+# enemytorpedosolar3.prop - spaceToolDescription
+# energymegapotion.prop - spaceToolDescription
+
+0xDD6D2133 Большая батарея
+
+# healthupgrade3.prop - spaceToolDetailDescription
+# healthupgrade3.prop - spaceToolLockedDescription
+# healthupgrade4.prop - spaceToolDescription
+
+0x49BBD1AC Большой запас прочности
+
+# coloratmopink.prop - spaceToolDescription
+
+0x637C64AE Розовое небо
+
+# sculpt_cute_plateau.prop - spaceToolDescription
+
+0x42E6CF2E Прелестные плато
+
+# colorterrainyellow.prop - spaceToolDetailDescription
+
+0x249781EB Окрашивает поверхность планеты в желтый.
+
+# sculpt_gear_river.prop - spaceToolDescription
+
+0x3B39E3EE Река-шестеренки
+
+# getoutofufo.prop - spaceToolLockedDescription
+# globalminderase.prop - spaceToolDescription
+
+0xBE68817F Массовое стирание памяти
+
+# hotcloudvacuum.prop - spaceToolLockedDescription
+# icecapseeder.prop - spaceToolDescription
+
+0x3A437B21 Охладитель
+
+# sculpt_basic_lower_medium.prop - spaceToolLockedDescription
+# sculpt_basic_lower_small.prop - spaceToolDescription
+
+0xE90E8BEA Низина (малая площадь)
+
+# interstellardrive_upgrade1.prop - spaceToolDetailDescription
+
+0x9F22E5E2 Увеличивает дальность полета космического корабля.
+
+# healthupgrade4.prop - spaceToolDetailDescription
+# healthupgrade4.prop - spaceToolLockedDescription
+# healthupgrade5.prop - spaceToolDescription
+
+0xA7F72A5B Максимальный запас прочности
+
+# sculpt_gear_plateau.prop - spaceToolDetailDescription
+
+0x39192F03 Позволяет разместить плато из шестеренок.
+
+# dumbbomblevel1.prop - spaceToolLockedDescription
+# dumbbomblevel2.prop - spaceToolDescription
+
+0x6AA2F972 Бомба
+
+# sculpt_tentacle_mountains.prop - spaceToolDetailDescription
+
+0x1E7ACC8C Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_basic_lower_medium.prop - spaceToolDetailDescription
+
+0xD03592C3 Позволяет снизить уровень поверхности планеты.
+
+# sculpt_gears.prop - spaceToolDescription
+
+0xC5033606 Шестеренка
+
+# sculpt_terra_plateau.prop - spaceToolDetailDescription
+
+0xCB4D3F70 Позволяет разместить земные плато.
+
+# sculpt_gear_fissure.prop - spaceToolDescription
+
+0x4BF5B267 Расщелина-шестеренки
+
+# coloratmoyellow.prop - spaceToolDetailDescription
+
+0xEA93BE23 Окрашивает атмосферу планеты в желтый.
+
+# pulselevel3.prop - spaceToolDetailDescription
+
+0x68FD0B1F Стреляет мощным зарядом по прямой. Эффективен против наземных целей.
+
+# antimatterbomb.prop - spaceToolLockedDescription
+
+0xA0BB7099 Требования: ~commodity_requirements~
+
+# repairmegapotion.prop - spaceToolDetailDescription
+
+0xE956DB67 Мгновенно устраняет все повреждения космического корабля.
+
+# sculpt_chocolate_valley.prop - spaceToolDescription
+
+0xAEE738C4 Вихревая долина
+
+# dumbbomblevel2.prop - spaceToolLockedDescription
+# dumbbomblevel3.prop - spaceToolDescription
+
+0x39F568F9 Мегабомба
+
+# heatray.prop - spaceToolLockedDescription
+# hotcloudray.prop - spaceToolDescription
+
+0xF1C68BAC Генератор теплых воздушных потоков
+
+# placeloyaltybooster.prop - spaceToolDetailDescription
+
+0x36055134 Позволяет поддерживать у жителей выбранной планеты максимальную преданность.
+
+# sculpt_gear_mountains.prop - spaceToolDetailDescription
+
+0x440BEC05 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# protonmissilelevel2.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolLockedDescription
+# antimattermissile.prop - spaceToolDescription
+
+0x84E3B697 Ракета с зарядом антивещества
+
+# sculpt_chocolate_river.prop - spaceToolDetailDescription
+
+0x6A5B2854 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# happyraylevel3.prop - spaceToolDetailDescription
+# happyraylevel3.prop - spaceToolLockedDescription
+# healthupgrade1.prop - spaceToolDescription
+
+0xEA7290F7 Базовый запас прочности
+
+# enemyminipulse2.prop - spaceToolDescription
+# enemyminipulse3.prop - spaceToolDescription
+# enemypulse1.prop - spaceToolDescription
+
+0x20C6731C Импульс (противник)
+
+# placebioprotector.prop - spaceToolDescription
+
+0xE5B083EF Биозащита
+
+# sculpt_chocolate_pond.prop - spaceToolDescription
+
+0x1C9426E0 Шоколадный пруд
+
+# sculpt_tentacle_river.prop - spaceToolDetailDescription
+
+0xF7726B4E Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# atmospheregenerator.prop - spaceToolDetailDescription
+
+0x3E1F0150 Повышает плотность атмосферы планеты.
+
+# pulselevel1.prop - spaceToolDetailDescription
+
+0x0B3B46B5 Стреляет слабым зарядом по прямой. Эффективен против наземных целей.
+
+# torpedogalaxy1.prop - spaceToolLockedDescription
+# torpedogalaxy2.prop - spaceToolDescription
+
+0x0B5F32ED Автобластер
+
+# defenderlaser2.prop - spaceToolDescription
+# defenderlaser3.prop - spaceToolDescription
+# dropcargo.prop - spaceToolDescription
+
+0xF5CFF647 Сброс груза
+
+# cargoupgrade2.prop - spaceToolDetailDescription
+
+0x0D904F3F Повышает грузоподъемность космического корабля.
+
+# coloratmocyan.prop - spaceToolDescription
+
+0xE5671F75 Бирюзовое небо
+
+# protonmissilelevel1.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolDescription
+
+0x29C9E40F Большая протонная ракета
+
+# colorreset.prop - spaceToolDetailDescription
+
+0xF61E6831 Восстанавливает изначальную цветовую схему планеты.
+
+# colorterrainpink.prop - spaceToolDescription
+
+0x565CA906 Розовая краска (почва)
+
+# antimattermissile.prop - spaceToolLockedDescription
+# laserlevel1.prop - toolTargetFlagsFailMessage
+
+0x7DF2ECCF Укажите подходящую цель.
+
+# interstellardrive_upgrade1.prop - spaceToolLockedDescription
+# interstellardrive_upgrade2.prop - spaceToolDescription
+
+0xD1160A0E Межзвездный двигатель III
+
+# sculpt_crystal_plateau.prop - spaceToolDetailDescription
+
+0x127A7C84 Позволяет разместить кристальные плато.
+
+# placebioprotector.prop - spaceToolLockedDescription
+# placebiostabilizer.prop - spaceToolDescription
+
+0xE45CD1BC Биостабилизатор
+
+# sculpt_gear_mountains.prop - spaceToolDescription
+
+0x12FB4124 Горы-шестеренки
+
+# cloudvacuum.prop - spaceToolLockedDescription
+# coldcloudray.prop - spaceToolDescription
+
+0xEBDD0E97 Планетарный кондиционер
+
+# sculpt_crystal_mountains.prop - spaceToolDetailDescription
+
+0xC62709E6 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# coloratmogreen.prop - spaceToolDetailDescription
+
+0xBF0DC136 Окрашивает атмосферу планеты в зеленый.
+
+# coloratmoorange.prop - spaceToolDetailDescription
+
+0x8118D7E5 Окрашивает атмосферу планеты в оранжевый.
+
+# colorwaterblue.prop - spaceToolDetailDescription
+
+0x75DCC909 Окрашивает водные массивы планеты в синий.
+
+# interstellardrive_upgrade1.prop - spaceToolDescription
+
+0xDA5D06EB Межзвездный двигатель II
+
+# pulselevel1.prop - spaceToolLockedDescription
+# pulselevel2.prop - spaceToolDescription
+
+0xC9E33AED Импульс
+
+# coloratmopink.prop - spaceToolDetailDescription
+
+0xAB570E07 Окрашивает атмосферу планеты в розовый.
+
+# laserlevel1.prop - spaceToolDetailDescription
+
+0x7F2E2C7B Точное, но довольно слабое оружие для поражения наземных целей.
+
+# colorwaterpink.prop - spaceToolDetailDescription
+
+0xA2173559 Окрашивает водные массивы планеты в розовый.
+
+# allyminipulse2.prop - spaceToolDescription
+# allyminipulse3.prop - spaceToolDescription
+# allytorpedogalaxy1.prop - spaceToolDescription
+
+0xADD5370E Малая торпеда
+
+# healthupgrade2.prop - spaceToolDescription
+
+0x9172205A Малый запас прочности
+
+# sculpt_chocolate_beads.prop - spaceToolDetailDescription
+
+0x421261AB Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# dropcargo.prop - spaceToolDetailDescription
+
+0xD46D8B5E Позволяет выгрузить предметы на поверхность планеты. Осторожнее, не повредите груз!
+
+# sculpt_tentacle_seas.prop - spaceToolDescription
+
+0x08F51D41 Море из щупальцев
+
+# pulselevel1.prop - toolTargetFlagsFailMessage
+
+0xB5F45E41 Это оружие можно использовать только против космических кораблей, оборонительных башен и техники.
+
+# colorwatercyan.prop - spaceToolDescription
+
+0x42F9F1D7 Бирюзовое море
+
+# torpedogalaxy2.prop - spaceToolDetailDescription
+
+0xE470C7AC Автоматически открывает огонь по вражеским башням и кораблям (отключаемый инструмент).
+
+# icecapseeder.prop - spaceToolDetailDescription
+
+0x9D67C0A0 Снижает температуру и плотность атмосферы на планете.
+
+# creaturecreate.prop - spaceToolDescription
+
+0x3E295EE3 Создание существа
+
+# coldcloudray.prop - spaceToolDetailDescription
+
+0x0734B94E Позволяет снизить температуру и повысить плотность атмосферы на планете.
+
+# sculpt_cute_mountains.prop - spaceToolDescription
+
+0x018123C8 Прелестные горы
+
+# cropcircles.prop - spaceToolDetailDescription
+
+0x40052AF6 Рисует круги на полях вблизи городов и племенных поселений, что позволяет войти в контакт с местными жителями.
+
+# interstellardrive_upgrade4.prop - spaceToolDetailDescription
+
+0x2A165F89 Увеличивает дальность полета космического корабля до максимальной.
+
+# sculpt_tentacle_mountains.prop - spaceToolDescription
+
+0x9A5735CD Горы из щупальцев
+
+# sculpt_chocolate_seas.prop - spaceToolDetailDescription
+
+0x042C3086 Позволяет разместить шоколадное море.
+
+# sculpt_basic_raise_large.prop - spaceToolDetailDescription
+
+0x06D08B5A Позволяет поднять уровень поверхности планеты.
+
+# coldcloudvacuum.prop - spaceToolDetailDescription
+
+0xA2D36535 Снижает температуру и плотность атмосферы планеты.
+
+# sculpt_chocolate_truffles.prop - spaceToolDescription
+
+0xC2CB4C2C Шоколадный трюфель
+
+# sculpt_gear_craters.prop - spaceToolDescription
+
+0x96B6B5D8 Кратеры-шестеренки
+
+# cargoupgrade2.prop - spaceToolLockedDescription
+# cargoupgrade3.prop - spaceToolDescription
+
+0xEBA16D0D Большая грузоподъемность
+
+# sculpt_basic_lower_large.prop - spaceToolDetailDescription
+
+0x8650A33B Позволяет снизить уровень поверхности планеты.
+
+# sculpt_cute_seas.prop - spaceToolDescription
+
+0x483A5096 Прелестное море
+
+# hotcloudray.prop - spaceToolDetailDescription
+
+0x8D982D4D Повышает температуру и плотность атмосферы планеты.
+
+# sculpt_basic_lower_small.prop - spaceToolDetailDescription
+# sculpt_basic_lower_small.prop - spaceToolLockedDescription
+# sculpt_basic_raise_large.prop - spaceToolDescription
+
+0xBE9E44C3 Возвышенность (большая площадь)
+
+# sculpt_gear_walls.prop - spaceToolDescription
+
+0x8E6ADBF5 Стены-шестеренки
+
+# sculpt_basic_level_medium.prop - spaceToolDetailDescription
+# sculpt_basic_level_medium.prop - spaceToolLockedDescription
+# sculpt_basic_level_small.prop - spaceToolDescription
+
+0xF4BFDB49 Равнина (малая площадь)
+
+# creatureedit.prop - spaceToolLockedDescription
+# cropcircles.prop - spaceToolDescription
+
+0x14BE5FDF Круги на полях
+
+# sculpt_tentacle_river.prop - spaceToolDescription
+
+0x0B88D097 Река из щупальцев
+
+# hotcloudvacuum.prop - spaceToolDetailDescription
+
+0xBBF76458 Повышает температуру и снижает плотность атмосферы планеты.
+
+# globalminderase.prop - spaceToolDetailDescription
+
+0xD4F93796 Позволяет успокоить всех недовольных жителей на планете и предотвратить мятеж.
+
+# colorwatercyan.prop - spaceToolDetailDescription
+
+0x3401798E Окрашивает водные массивы планеты в бирюзовый.
+
+# sculpt_tentacle_hills.prop - spaceToolDescription
+
+0x0E49D3F5 Холмы из щупальцев
+
+# colorwaterpurple.prop - spaceToolDescription
+
+0x3A2C7D32 Виноградное море
+
+# coloratmoyellow.prop - spaceToolDescription
+
+0xE849437A Лимонное небо
+
+# placehappinessbooster.prop - spaceToolLockedDescription
+# placeloyaltybooster.prop - spaceToolDescription
+
+0x8C4FB895 Усилитель преданности
+
+# coloratmopurple.prop - spaceToolDetailDescription
+
+0x6C54E325 Окрашивает атмосферу планеты в фиолетовый.
+
+# droughtgenerator.prop - spaceToolLockedDescription
+# dryice.prop - spaceToolDescription
+
+0xDAB82A46 Ледяной дождь
+
+# sculpt_cute_holes.prop - spaceToolDetailDescription
+
+0x6C7B1F9E Позволяет разместить прелестные марки.
+
+# coldray.prop - spaceToolLockedDescription
+# coloratmoblue.prop - spaceToolDescription
+
+0x0379D01A Синее небо
+
+# sculpt_tentacle_suckers.prop - spaceToolDescription
+
+0xAFFA4857 Щупальца с присосками
+
+# antimatterbomb.prop - spaceToolDetailDescription
+
+0xC2B26356 Оружие огромной разрушительной силы, способное уничтожить целые города.
+
+# sculpt_tentacle_mouth.prop - spaceToolDetailDescription
+
+0x06BE0997 Позволяет разместить устье из щупальцев.
+
+# sculpt_terra_mesas.prop - spaceToolLockedDescription
+# sculpt_terra_mountains.prop - spaceToolDescription
+
+0xDCBD610B Земные горы
+
+# mutation.prop - spaceToolDetailDescription
+
+0x06006CEB Располагает представителей разных видов на планете случайным образом.
+
+# coldcloudvacuum.prop - spaceToolLockedDescription
+# coldray.prop - spaceToolDescription
+
+0x4F0BADD2 Луч холода
+
+# dryice.prop - spaceToolLockedDescription
+# dumbbomblevel1.prop - spaceToolDescription
+
+0xE27E0C2F Мини-бомба
+
+# sculpt_tentacle_arm.prop - spaceToolDetailDescription
+
+0x49DFB926 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# pulselevel2.prop - spaceToolDetailDescription
+
+0x3E948FAC Стреляет по прямой зарядом средней мощности. Эффективен против наземных целей.
+
+# sculpt_cute_canyon.prop - spaceToolDescription
+
+0x7EF722AE Прелестный каньон
+
+# energyupgrade2.prop - spaceToolDetailDescription
+# energyupgrade2.prop - spaceToolLockedDescription
+# energyupgrade3.prop - spaceToolDescription
+
+0x539B1AC7 Средний топливный бак
+
+# defenderlaser1.prop - spaceToolDescription
+
+0xC5C6DA6F Лазер
+
+# heatray.prop - spaceToolDetailDescription
+
+0x63EE95D7 Повышает температуру планеты.
+
+# sculpt_cute_canyon.prop - spaceToolDetailDescription
+
+0xE90BDC07 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_crystal_canyon.prop - spaceToolDescription
+
+0x860E0A6F Кристальный каньон
+
+# sculpt_chocolate_truffles.prop - spaceToolDetailDescription
+
+0x2E3BBDD5 Позволяет разместить шоколадную насыпь.
+
+# antimattermissile.prop - spaceToolDetailDescription
+
+0x12C6214E Мощная самонаводящаяся ракета. Способна поражать несколько целей.
+
+# asteroid.prop - spaceToolLockedDescription
+# atmospheregenerator.prop - spaceToolDescription
+
+0xDA2C0FB1 Генератор атмосферы
+
+# sculpt_crystal_crack.prop - spaceToolDescription
+
+0xC4B0FE45 Кристальный разлом
+
+# sculpt_crystal_river.prop - spaceToolDetailDescription
+
+0xA8CD2744 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# healthupgrade5.prop - spaceToolDetailDescription
+
+0xBE9C35B2 Повышает запас прочности космического корабля.
+
+# sculpt_chocolate_spirals.prop - spaceToolDetailDescription
+
+0x8BB57E68 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# colorwaterpurple.prop - spaceToolDetailDescription
+
+0xC895ED7B Окрашивает водные массивы планеты в фиолетовый.
+
+# abduct.prop - spaceToolDetailDescription
+
+0xF509A6A4 Позволяет похитить растение, животное или реликвию, помещая их прямиком в грузовой отсек корабля.
+
+# placespicestorage.prop - spaceToolLockedDescription
+# placeuberturret.prop - spaceToolDescription
+
+0x01D75D45 Убербашня
+
+# happyraylevel1.prop - spaceToolDescription
+
+0x134E9479 Малый луч счастья
+
+# sculpt_cute_mesas.prop - spaceToolDescription
+
+0x4D29A8CB Прелестное плоскогорье
+
+# cargoupgrade1.prop - spaceToolLockedDescription
+# cargoupgrade2.prop - spaceToolDescription
+
+0xF87F7426 Средняя грузоподъемность
+
+# pulselevel2.prop - spaceToolLockedDescription
+# pulselevel3.prop - spaceToolDescription
+
+0x8B2A3706 Мегаимпульс
+
+# sculpt_crystal_seas.prop - spaceToolDetailDescription
+
+0xA1D11B76 Позволяет разместить кристальное море.
+
+# energypotion.prop - spaceToolLockedDescription
+# energyupgrade1.prop - spaceToolDescription
+
+0x3F3C2A71 Базовый топливный бак
+
+# interstellardrive_upgrade4.prop - spaceToolLockedDescription
+# laserlevel1.prop - spaceToolDescription
+
+0x0CFC7432 Мини-лазер
+
+# sculpt_gear_plateau.prop - spaceToolDescription
+
+0x96A9315A Плато-шестеренки
+
+# cargoupgrade3.prop - spaceToolDetailDescription
+
+0x4CC4DCCC Максимально повышает грузоподъемность космического корабля.
+
+# sculpt_terra_craters.prop - spaceToolLockedDescription
+# sculpt_terra_hills.prop - spaceToolDescription
+
+0xD0EDFCB7 Земные холмы
+
+# sculpt_terra_canyon.prop - spaceToolDetailDescription
+
+0xCC7BC8D2 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# cashinfusion.prop - spaceToolDetailDescription
+
+0x05FB7F84 Позволяет мгновенно захватить звездную систему при условии налаженной торговли.
+
+# placeuberturret.prop - spaceToolLockedDescription
+# planetbusterbomb.prop - spaceToolDescription
+
+0xDCF0CDB9 Гигадетонатор
+
+# sculpt_chocolate_valley.prop - spaceToolDetailDescription
+
+0xB0E7B2A5 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# interstellardrive.prop - spaceToolDetailDescription
+
+0x5C796CC8 Базовый двигатель для межзвездных полетов. Позволяет покинуть родную звездную систему.
+
+# placecolony.prop - spaceToolDetailDescription
+
+0x567E312C Создает колонию на выбранной планете.
+
+# cargoupgrade3.prop - spaceToolLockedDescription
+# cashinfusion.prop - spaceToolDescription
+
+0x05FB7F80 Вливание капитала
+
+# sculpt_gear_mesas.prop - spaceToolDetailDescription
+
+0x4ACDB00E Позволяет разместить плоскогорье из шестеренок.
+
+# colorwaterorange.prop - spaceToolDescription
+
+0x2D389FBE Апельсиновые кристаллы
+
+# sculpt_terra_river.prop - spaceToolDetailDescription
+
+0xDF51A150 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# planetscan.prop - spaceToolDescription
+
+0xC9433E6D Планетарный сканер
+
+# sculpt_tentacle_hills.prop - spaceToolDetailDescription
+
+0x92691F94 Позволяет разместить холмы из щупальцев.
+
+# torpedogalaxy2.prop - spaceToolLockedDescription
+# torpedogalaxy3.prop - spaceToolDescription
+
+0xCCA62F06 Большой автобластер
+
+# placebiostabilizer.prop - spaceToolLockedDescription
+# placecolony.prop - spaceToolDescription
+
+0x6569486D Колония
+
+# coloratmored.prop - spaceToolDetailDescription
+
+0x5DC28226 Окрашивает атмосферу планеты в красный.
+
+# interstellardrive_upgrade3.prop - spaceToolDetailDescription
+# interstellardrive_upgrade3.prop - spaceToolLockedDescription
+# interstellardrive_upgrade4.prop - spaceToolDescription
+
+0xCABB71E8 Межзвездный двигатель V
+
+# asteroid.prop - spaceToolDetailDescription
+
+0x6B0D4AE6 Повышает температуру и снижает плотность атмосферы на планете.
+
+# sculpt_terra_plateau.prop - spaceToolLockedDescription
+# sculpt_terra_river.prop - spaceToolDescription
+
+0x15DBAFB1 Земная река
+
+# aoe_repair.prop - spaceToolDetailDescription
+
+0xFDA6C622 Позволяет восстановить запас прочности ближайших боевых единиц.
+
+# colorwateryellow.prop - spaceToolDetailDescription
+
+0x92544BFD Окрашивает водные массивы планеты в желтый.
+
+# colorterrainpurple.prop - spaceToolDescription
+
+0xEB0E341C Фиолетовая краска (почва)
+
+# sculpt_chocolate_pond.prop - spaceToolDetailDescription
+
+0x12976A61 Позволяет разместить шоколадный пруд.
+
+# colorwatergreen.prop - spaceToolDescription
+
+0xFE6CF7A9 Зеленое море
+
+# abduct.prop - spaceToolDescription
+
+0x59C7B725 Гравилуч
+
+# cloak.prop - spaceToolLockedDescription
+# cloudray.prop - spaceToolDescription
+
+0x914B2B09 Генератор облаков
+
+# placehappinessbooster.prop - spaceToolDetailDescription
+
+0x69B97931 Повышает показатель благополучия на планете.
+
+# sculpt_terra_seas.prop - spaceToolDetailDescription
+
+0x49D90C52 Позволяет разместить земное море.
+
+# epicize.prop - spaceToolLockedDescription
+# eradicate.prop - spaceToolDescription
+
+0xCC7CDDE2 Ликвидатор
+
+# sculpt_gears.prop - spaceToolDetailDescription
+
+0xB616121F Позволяет разместить шестеренку.
+
+# cropcircles.prop - spaceToolLockedDescription
+# cultureshocker.prop - spaceToolDescription
+
+0xACA3549D Культурный шок
+
+# peacebomb.prop - spaceToolDescription
+
+0x0602FACC Статический заряд
+
+# protonmissilelevel1.prop - spaceToolDetailDescription
+
+0xE0AE0C98 Малая самонаводящаяся протонная ракета. Эффективна против космических кораблей.
+
+# sculpt_chocolate_seas.prop - spaceToolDescription
+
+0xAB531E0F Шоколадное море
+
+# creatureedit.prop - toolTargetFlagsFailMessage
+
+0x385928DE Для применения этого оружия нужно выбрать существо.
+
+# happyraylevel1.prop - spaceToolLockedDescription
+# happyraylevel2.prop - spaceToolDescription
+
+0x9BAEB0B0 Средний луч счастья
+
+# colorreset.prop - spaceToolDescription
+
+0x5ADBC090 Восстановление цвета
+
+# energypotion.prop - spaceToolDetailDescription
+
+0x1834B2DC Частично восстанавливает запас энергии космического корабля.
+
+# sculpt_terra_canyon.prop - spaceToolLockedDescription
+# sculpt_terra_craters.prop - spaceToolDescription
+
+0xD5C29A43 Земные кратеры
+
+# happyraylevel1.prop - spaceToolDetailDescription
+
+0x6ACCABB8 Улучшает взаимоотношения с местными жителями.
+
+# peacebomb.prop - spaceToolDetailDescription
+
+0x0602FAD1 Выводит из строя все остальные космические корабли и башни на планете.
+
+# sculpt_crystal_holes.prop - spaceToolDescription
+
+0x7784ED60 Кристальные лазы
+
+# allylaser1.prop - spaceToolDescription
+
+0xC17A9892 Лазер (союзник)
+
+# droughtgenerator.prop - spaceToolDescription
+
+0xC1B1ADB6 Генератор засухи
+
+# sculpt_gear_mesas.prop - spaceToolDescription
+
+0x293E7C57 Плоскогорье-шестеренки
+
+# sculpt_cute_hills.prop - spaceToolDetailDescription
+
+0xD4738A1D Позволяет разместить прелестные холмы.
+
+# sculpt_basic_level_large.prop - spaceToolDetailDescription
+
+0x8827B2E0 Позволяет выровнять поверхность планеты.
+
+# sculpt_gear_hills.prop - spaceToolDetailDescription
+
+0xF5DE4169 Позволяет разместить холмы из шестеренок.
+
+# repairpotion.prop - spaceToolLockedDescription
+# safarivacuum.prop - spaceToolDescription
+
+0x05FF2F99 Массовое похищение
+
+# raiderrally.prop - spaceToolDetailDescription
+
+0x06087E9E Призывает пиратов напасть на планету.
+
+# planetscan.prop - spaceToolDetailDescription
+
+0x6FD8772C Позволяет просканировать всю флору и фауну.
+
+# dryice.prop - spaceToolDetailDescription
+
+0x4AEAE75F Снижает температуру на планете.
+
+# sculpt_tentacle_arm.prop - spaceToolDescription
+
+0x9AF94DAF Проток из щупальцев
+
+# sculpt_terra_lavaflow.prop - spaceToolDetailDescription
+
+0xECB20810 Позволяет разместить земные потоки лавы.
+
+# sculpt_crystal_holes.prop - spaceToolDetailDescription
+
+0xBECDFCE1 Позволяет разместить кристальные лазы.
+
+# wormhole.prop - spaceToolLockedDescription
+# zoo.prop - spaceToolDescription
+
+0x0F6556A4 Заповедник
+
+# creaturecreate.prop - spaceToolDetailDescription
+
+0xD974877A Создает новый биологический вид и помещает 5 его представителей в грузовой отсек.
+
+# sculpt_crystal_crack.prop - spaceToolDetailDescription
+
+0x85B169C4 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_terra_mesas.prop - spaceToolDetailDescription
+
+0xB0F79FC5 Позволяет разместить земное плоскогорье.
+
+# energyupgrade3.prop - spaceToolDetailDescription
+# energyupgrade3.prop - spaceToolLockedDescription
+# energyupgrade4.prop - spaceToolDescription
+
+0xB14CB70E Большой топливный бак
+
+# sculpt_terra_canyon.prop - spaceToolDescription
+
+0x7621817B Земной каньон
+
+# sculpt_basic_lower_large.prop - spaceToolLockedDescription
+# sculpt_basic_lower_medium.prop - spaceToolDescription
+
+0x8F215D1A Низина (средняя площадь)
+
+# sculpt_terra_mountains.prop - spaceToolDetailDescription
+
+0x1E8C7B02 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# soothingsong.prop - spaceToolDetailDescription
+
+0x0600B62E Умиротворяет другие империи.
+
+# laserlevel3.prop - spaceToolLockedDescription
+# minderase.prop - spaceToolDescription
+
+0x8B3EDF92 Стирание памяти
+
+# fireworks.prop - spaceToolDetailDescription
+
+0x28484917 Применяется рядом с колонией, повышает благополучие ее обитателей.
+
+# atmospheregenerator.prop - spaceToolLockedDescription
+# bribe.prop - spaceToolDescription
+
+0xB5B2991E Подкуп
+
+# sculpt_crystal_river.prop - spaceToolDescription
+
+0x745907C5 Кристальная река
+
+# asteroid.prop - toolTargetFlagsFailMessage
+
+0xFDD8CC2A Выберите подходящую наземную цель.
+
+# colorwatergreen.prop - spaceToolDetailDescription
+
+0x279BF3C8 Окрашивает водные массивы планеты в зеленый.
+
+# placeuberturret.prop - spaceToolDetailDescription
+
+0x90ACD0C4 Мощнейшее орудие обороны планеты.
+
+# icecomet.prop - spaceToolDetailDescription
+
+0xE2E67DDA Снижает температуру и повышает плотность атмосферы.
+
+# sculpt_tentacle_canyon.prop - spaceToolDetailDescription
+
+0x8D0F1A68 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_basic_level_small.prop - spaceToolDetailDescription
+# sculpt_basic_level_small.prop - spaceToolLockedDescription
+# sculpt_basic_lower_large.prop - spaceToolDescription
+
+0xBE26CAF2 Низина (большая площадь)
+
+# colorterrainred.prop - spaceToolDescription
+
+0x47944327 Красная краска (почва)
+
+# colorwaterblue.prop - spaceToolDescription
+
+0x04868768 Глубокое синее море
+
+# planetbusterbomb.prop - spaceToolDetailDescription
+
+0xD6DD32F8 Грозное оружие. Позволяет уничтожить целую планету.
+
+# volcano.prop - spaceToolLockedDescription
+# wormhole.prop - spaceToolDescription
+
+0xC304DE3B Червоточина
+
+# sculpt_terra_lavaflow.prop - spaceToolLockedDescription
+# sculpt_terra_mesas.prop - spaceToolDescription
+
+0x6A34E8E4 Земное плоскогорье
+
+# sculpt_crystal_mesas.prop - spaceToolDescription
+
+0xFFA1FFE8 Кристальное плоскогорье
+
+# scan.prop - spaceToolDetailDescription
+
+0x03EE3CDE Чтобы просмотреть сведения о представителе флоры или фауны, щелкните на нем.
+
+# sculpt_cute_plateau.prop - spaceToolDetailDescription
+
+0x031A2487 Позволяет разместить прелестное плато.
+
+# colorterrainred.prop - spaceToolDetailDescription
+
+0x76ED393E Окрашивает поверхность планеты в красный.
+
+# shield.prop - spaceToolDetailDescription
+
+0xFAE06456 Ненадолго защищает корабль от повреждений, наносимых вражеским оружием.
+
+# sculpt_tentacle_plateau.prop - spaceToolDetailDescription
+
+0x305D0B72 Позволяет разместить плато из щупальцев.
+
+# dumbbomblevel3.prop - spaceToolDetailDescription
+
+0x8898DC38 Мощная бомба, способная уничтожить несколько построек и единиц техники.
+
+# sculpt_basic_raise_small.prop - spaceToolDetailDescription
+# sculpt_basic_raise_small.prop - spaceToolLockedDescription
+# sculpt_chocolate_beads.prop - spaceToolDescription
+
+0xE301CB02 Шоколадное взморье
+
+# genesisdevice.prop - spaceToolDetailDescription
+
+0x2B488E7D Позволяет мгновенно сбалансировать экосистему на выбранной планете.
+
+# colorwateryellow.prop - spaceToolDescription
+
+0x7B9471BC Лимонадное море
+
+# sculpt_cute_mesas.prop - spaceToolDetailDescription
+
+0x581389C2 Позволяет разместить прелестное плоскогорье.
+
+# energyupgrade1.prop - spaceToolDetailDescription
+
+0xF62C8310 Повышает емкость аккумулятора космического корабля.
+
+# radar.prop - spaceToolDetailDescription
+
+0x0E084571 Сообщает о приближении к значимым объектам (отключаемый инструмент).
+
+# sculpt_tentacle_suckers.prop - spaceToolDetailDescription
+
+0x454B1C0E Позволяет разместить щупальца с присосками.
+
+# sculpt_tentacle_canyon.prop - spaceToolDescription
+
+0x89608849 Каньон из щупальцев
+
+# turret_at_mil.prop - spaceToolDescription
+# turret_at_rel.prop - spaceToolDescription
+# turretlaser1.prop - spaceToolDescription
+# turretlaser2.prop - spaceToolDescription
+# turretlaser3.prop - spaceToolDescription
+# volcano.prop - spaceToolDescription
+
+0x2F61FCB6 Вулкан
+
+# allytorpedosolar1.prop - spaceToolDescription
+# allytorpedosolar2.prop - spaceToolDescription
+# allytorpedosolar3.prop - spaceToolDescription
+# antimatterbomb.prop - spaceToolDescription
+
+0x3478653F Бомба с зарядом антивещества
+
+# interstellardrive_upgrade2.prop - spaceToolDetailDescription
+# interstellardrive_upgrade2.prop - spaceToolLockedDescription
+# interstellardrive_upgrade3.prop - spaceToolDescription
+
+0x434E2F15 Межзвездный двигатель IV
+
+# repairmegapotion.prop - spaceToolLockedDescription
+# repairpotion.prop - spaceToolDescription
+
+0x6208F338 Ремонтный набор
+
+# safarivacuum.prop - spaceToolDetailDescription
+
+0x05FF2F9F Позволяет похитить нескольких представителей различных видов с выбранной планеты.
+
+# shield.prop - spaceToolLockedDescription
+# soothingsong.prop - spaceToolDescription
+
+0x0601FD86 Задушевная песня
+
+# sculpt_gear_seas.prop - spaceToolDetailDescription
+
+0x123E852B Позволяет разместить море из шестеренок.
+
+# torpedogalaxy3.prop - spaceToolDetailDescription
+
+0x0ED9431F Автоматически открывает огонь по вражеским башням и кораблям (отключаемый инструмент).
+
+# sculpt_cute_mountains.prop - spaceToolDetailDescription
+
+0x33441B69 Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# coloratmoblue.prop - spaceToolDetailDescription
+
+0x80326DC3 Окрашивает атмосферу планеты в синий.
+
+# volcano.prop - spaceToolDetailDescription
+
+0x66A105EF Повышает температуру и плотность атмосферы на планете.
+
+# interplanetarydrive.prop - spaceToolDetailDescription
+
+0xF29A5647 Базовый двигатель для межпланетных полетов. Позволяет покинуть родную планету.
+
+# rallycall.prop - spaceToolLockedDescription
+# repairmegapotion.prop - spaceToolDescription
+
+0xAD0AA50E Большой ремонтный набор
+
+# aoe_repair.prop - spaceToolDescription
+
+0xB9121D2B Массовый ремонт
+
+# gravitationwave.prop - spaceToolDetailDescription
+
+0x06036023 Уничтожает все постройки на планете.
+
+# placeembassy.prop - spaceToolLockedDescription
+# placehappinessbooster.prop - spaceToolDescription
+
+0x56CD9990 Усилитель счастья
+
+# colorterrainyellow.prop - spaceToolDescription
+
+0xFDA80542 Желтая краска (почва)
+
+# sculpt_cute_river.prop - spaceToolDescription
+
+0x178D4372 Прелестная река
+
+# energymegapotion.prop - spaceToolLockedDescription
+# energypotion.prop - spaceToolDescription
+
+0x5209643D Батарея
+
+# placebioprotector.prop - spaceToolDetailDescription
+
+0x43C3D466 Снижает вероятность экологических катастроф на планете.
+
+# rainoffire.prop - spaceToolLockedDescription
+# rallycall.prop - spaceToolDescription
+
+0xAD6C6EEC Призыв к оружию
+
+# cargoupgrade1.prop - spaceToolDetailDescription
+
+0x813233DA Повышает грузоподъемность космического корабля.
+
+# interstellardrive.prop - spaceToolDescription
+
+0x5CDE78A9 Межзвездный двигатель I
+
+# sculpt_terra_seas.prop - spaceToolLockedDescription
+# seti.prop - spaceToolDescription
+
+0xD90BAFCD Поиск инопланетных цивилизаций
+
+# pulselevel3.prop - spaceToolLockedDescription
+# radar.prop - spaceToolDescription
+
+0x5A4C5CD0 Радар
+
+# colorterrainpurple.prop - spaceToolDetailDescription
+
+0x30AD9F5D Окрашивает поверхность планеты в фиолетовый.
+
+# raiderrally.prop - spaceToolDescription
+
+0x06087E97 Призыв к бою
+
+# asteroid.prop - spaceToolDescription
+
+0x782C4E6F Астероид
+
+# minderase.prop - spaceToolLockedDescription
+# monolith.prop - spaceToolDescription
+
+0xCF45829A Монолит
+
+# allytorpedogalaxy3.prop - spaceToolDescription
+
+0x26E247FC Большая торпеда
+
+# cloudray.prop - spaceToolLockedDescription
+# cloudvacuum.prop - spaceToolDescription
+
+0x1812CFEE Поглотитель облаков
+
+# rainoffire.prop - spaceToolDetailDescription
+
+0x53343C4C Повышает температуру на планете.
+
+# coloratmogreen.prop - spaceToolDescription
+
+0x1657CA1F Зеленое небо
+
+# sculpt_chocolate_river.prop - spaceToolDescription
+
+0x866B92B5 Шоколадная река
+
+# energyupgrade4.prop - spaceToolDetailDescription
+# energyupgrade4.prop - spaceToolLockedDescription
+# energyupgrade5.prop - spaceToolDescription
+
+0x2384DC15 Максимально емкий топливный бак
+
+# laserlevel3.prop - spaceToolDetailDescription
+
+0xC1BFF091 Мощное высокоточное оружие для поражения наземных целей.
+
+# minderase.prop - spaceToolDetailDescription
+
+0xAF7570DB Позволяет успокоить недовольных жителей и предотвратить мятеж.
+
+# callforbackup.prop - spaceToolDescription
+
+0x0601AA7B Вызов мини-клона
+
+# colorwaterred.prop - spaceToolDescription
+
+0x20660959 Малиновое море
+
+# genesisdevice.prop - spaceToolLockedDescription
+# getoutofufo.prop - spaceToolDescription
+
+0xD51719A7 Голограмма-разведчик
+
+# healthupgrade2.prop - spaceToolDetailDescription
+# healthupgrade2.prop - spaceToolLockedDescription
+# healthupgrade3.prop - spaceToolDescription
+
+0xD770F4A1 Средний запас прочности
+
+# protonmissilelevel3.prop - spaceToolDetailDescription
+
+0x5CBCC686 Мощная самонаводящаяся протонная ракета. Эффективна против космических кораблей.
+
+# sculpt_cute_river.prop - spaceToolDetailDescription
+
+0x5BBF57BB Чтобы разместить объект, щелкните на участке планеты, удерживайте кнопку мыши нажатой и переместите курсор.
+
+# sculpt_basic_level_large.prop - spaceToolDescription
+
+0x1F00A761 Равнина (большая площадь)
+
+# placeloyaltybooster.prop - spaceToolLockedDescription
+# placespicestorage.prop - spaceToolDescription
+
+0x2A366760 Хранилище пряности
+
+# energyupgrade5.prop - spaceToolDetailDescription
+
+0x577558B4 Полностью заряжает аккумулятор космического корабля.
+
+# colorwaterorange.prop - spaceToolDetailDescription
+
+0xEA6DB0F7 Окрашивает водные массивы планеты в оранжевый.
+

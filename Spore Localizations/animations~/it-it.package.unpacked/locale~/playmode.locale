@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 I tuoi file di esportazione in Maya sono stati salvati in~br~~maya_export_path~~maya_export_name~*.
+
+# YouTube
+
+0x0549366C No
+0x0549366D Trasmetti
+0x05496B24 Accesso a YouTube in corso...
+0x055AA305 Invio del filmato a YouTube in corso...
+0x056691B0 Verifica della registrazione su YouTube in corso...
+0x056D0627 Invio completato! Invia l'URL del filmato a un amico!
+0x05496510 Impossibile accedere a YouTube.~br~~br~ Usa un nome utente e una password validi, oppure registrati su YouTube prima di procedere con la trasmissione.
+0x05498DCB Il tuo filmato è stato trasmesso. Vuoi dirlo a un amico?
+0x05B5AC4C Condiz. servizio YouTube
+0x05498260 Si è verificato un errore di accesso a YouTube.~br~~br~Controlla la tua connessione Internet o riprova più tardi.
+0x05B5FD1E Vuoi trasmettere ora?
+0x05D2C767 La trasmissione è stata annullata.
+0x05D54AF7 Il relativo sito web è in inglese. Per visualizzare la tua lingua, scegli il tuo paese d'origine nel selettore del sito.
+0x05E501EB Trasmetti a <youtubeicon>
+0x0563C623 Per usare questa funzione, devi aver effettuato la registrazione con Spore. Desideri effettuare la registrazione?
+0x05600488 Per usare questa funzione, devi aver effettuato l'accesso a Spore con il tuo profilo. Desideri accedere?
+0x05498D58 Si è verificato un errore di trasmissione a YouTube.~br~~br~Controlla la tua connessione Internet o riprova più tardi.
+0x054C1E63 Il filmato è stato salvato in ~movie_pathname~~movie_name~.avi,~mac_save_append~.
+
+# email
+
+0x04585F1F L'indirizzo e-mail non è valido.
+0x04585F49 L'indirizzo e-mail del destinatario non è valido.
+0x045AD62F La tua e-mail
+0x045AD634 E-mail del destinatario
+0x0583897C Clicca per inviare una cartolina tramite e-mail
+0x05B5B8C4 Annuncia il tuo filmato a un amico
+0x04588BEF La cartolina è stata inviata.
+0x045AD5B9 Invia una cartolina
+
+# capture GIF
+
+0x058B90F2 Il tuo avatar animato è stato salvato qui:~br~~gif_name~,~mac_save_append~.
+
+# tool tips
+
+0x046286E7 Avvitamento
+0x046286F4 Siediti
+0x046286F8 Ruggito
+0x04628713 Richiamo
+0x04628717 Pugno
+0x04628719 Ta-dah!
+0x04628722 Tenerezza
+0x04628724 Sumo
+0x04628726 Ehi!
+0x04628729 Flessione
+0x04628733 Ehi tesoro!
+0x04628745 Salta saltello
+0x04628749 Pestone
+0x04628798 Felice
+0x0462879C Triste
+0x046287A0 Spavento
+0x046287A1 Rabbia
+0x046287A2 Risata
+0x046287D8 Sfondi
+0x046287ED Salva
+0x0462932D Guida
+0x0473F903 Gestisci le immagini
+0x046287A6 Registra un filmato
+0x0474E80D Elimina l'immagine
+0x0474E80E Archivia l'immagine
+0x04598E97 Invia l'e-mail
+0x04628737 Indica là
+0x04628739 Cammina sul posto
+0x0462873F Terra che scotta
+0x0462874E Pugni in aria
+0x046287A4 Visualizzatore di immagini
+0x046286F2 Capriola
+0x046287A3 Estasi
+0x046287D6 Azioni
+0x046287DA Piccoli
+0x046287A5 Scatta foto
+
+# move all
+
+0x04583A4E Archivia tutto
+
+#continue
+
+0x0549656C Continua
+
+# delete one done
+
+0x04583433 L'immagine è stata eliminata.
+
+# delete all done
+
+0x0458334E Le immagini sono state eliminate.
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D La tua immagine è stata archiviata in ~play_photo_back~.
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~
+
+# move all done
+
+0x04583295 Le tue immagini sono state archiviate in ~play_photo_back~.
+
+# Are you sure: Yes
+
+0x04583FFB Sì
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD animazione
+
+# photobackuppath
+
+0x06305594 Documenti
+0x06305593 Creazioni Spore/Immagini/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~
+0x05BAF944 Accesso fallito
+0x05CBDEDA Trasmissione fallita
+
+# your message
+
+0x045AD63A Il tuo messaggio
+
+#drag and drop fail message
+
+0x05889A21 Modalità Prova
+0x05889A4C Nella Modalità Prova, non si può trascinare nulla. Se vuoi farlo, seleziona Modalità Costruisci o Modalità Colora.
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~
+
+# too many photos
+
+0x047FF0E4 Hai troppe immagini. Archiviane qualcuna.
+
+# photo actions
+
+0x045C2025 Cosa desideri fare delle immagini?
+0x045C208A Vuoi davvero eliminare tutte le immagini?
+0x045C2098 Vuoi davvero archiviare tutte le immagini?
+0x04613ED0 Uscendo adesso, annullerai tutte le archiviazioni di immagini ancora in sospeso. Uscire comunque?
+0x045C206E Vuoi davvero eliminare l'immagine?
+0x045C2094 Vuoi davvero archiviare l'immagine?
+
+# delete all
+
+0x04583A36 Elimina tutto
+
+# cancel
+
+0x04583AFB Annulla
+
+# Are you sure: No
+
+0x0458400E No
+
+# email message
+
+0x056BCE10 Guarda la fantastica creatura che ho creato con Spore!
+0x056BCDCA Guarda il fantastico filmato che ho creato con Spore!~br~~video_url~
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 OK

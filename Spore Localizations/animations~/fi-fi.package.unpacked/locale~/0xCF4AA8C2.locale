@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Ottaisin kyllä mielelläni uuden toimeksiannonkin.
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B Sopii minulle, seikkailut tekevät hyvää.
+0xFADED01A Kuulostaa kunnon seikkailulta.  Sopii.
+0xFADED019 Kyllä minulle seikkailu kelpaa!
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C Joudun kieltäytymään, mutta syytä en voi kertoa.
+0xFADED018 Kiitos tarjouksesta, mutta valitettavasti minun täytyy kieltäytyä.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Toivon ymmärrystä.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Haluat näköjään harkita tilannetta hetken. Näkemiin.
+0xFADED009 Ehkä joskus toiste. Hei vaan.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Otetaan pian uusiksi. Näkemisiin.
+0xFADED016 Eipä mitään. Näkemiin.
+0xFADED015 Oli mukava auttaa. Hei vaan.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Pyydän vapautusta tästä tehtävästä.
+0xFADED021 Tämä tehtävä ei sovi enää aikatauluuni.
+0xFADED020 Minun on luovuttava tästä tehtävästä.
+0xFADED022 Tekisin mieluummin jotakin ihan muuta.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Minulla olisi vielä pari kysymystä.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED005 Ymmärrän. Ei tässä muuta.
+0xFADED00C Totta kai. Otahan rennosti.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Kuitti.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Haluaisin kysyä vielä jotakin.
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Ensi kertaan. Nähdään taas.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Vielä yksi juttu.
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 No, mutta tietysti. Tehtävälokistahan sen voi tarkistaa.
+
+# mission_assign -> goto mission_more
+
+0xFADED017 Mitä?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D En ole kiinnostunut juuri nyt. Ehkä joskus toiste.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Saisinko muistutuksen tehtävästäni?
+0xFADED028 Aivoissani on aukko tämän tehtävän kohdalla. Miten se nyt menikään?
+0xFADED027 Öh. Mitäs minun pitikään tehdä?
+0xFADED024 Unohdin, mitä piti tehdä. Mikä tehtäväni olikaan?
+0xFADED01F Tarvitsen muistutuksen tehtävästäni.
+
+# mission_incomplete -> do exit
+
+0xFADED010 Ymmärrän. Palaan pian.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 Anteeksi vaan, että häiritsin. Morjens!
+0xFADED00B Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 On parikin syytä, miksi en suostu tähän.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00D En tee töitä suuryrityksille. Ei onnistu.
+0xFADED00F Tämä ei nyt vain tunnu oikein hyvältä idealta. Ei.
+0xFADED012 Ei. Koko homma tuntuu jotenkin... epäreilulta.
+0xFADED014 Ei onnistu! En voi sietää väkivaltaa.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Ymmärrän. Hei vaan.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 Hetki, yksi juttu vielä.
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Minulla olisi vielä pari kysymystä.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 ~race~ alkaa väsyä päättämättömyyteesi. Et selvästikään tiedä, mitä haluat elämälläsi tehdä. Se on kovin ikävää.
+0xFADED02D Tietysti, tietysti. Aavistinkin, että on turha tuoda näin vähäpätöistä asiaa kaltaisesi suuruuden eteen. Voisitko silti lohduttaa minua kuluttamalla rahaa putiikissani?
+0xFADED02E Kaipa sinun sitten täytyy opetella itseksesi, miten avaruuskapteenit keräävät mainetta.~p~Onnea matkaan vain.
+0xFADED02F ~race~ ei luovuta koskaan. ~player_creature_name~ ei aavistakaan, miten mahtava ~race~ on.
+0xFADED034 Ymmärrämme, ~player_title~ ~player_creature_name~. Arvostamme suuresti tahdikkuuttanne.~p~Vältymme nyt paljolta paperityöltä. Planeettojenvälisen yksityisen otuskuljetuksen hyväksymiseen nimittäin tarvitaan 362 erillistä lomaketta, jotka on allekirjoitettu ja leimattu kolmesti. ~p~Tosin lomakkeiden määrä on huomattavasti pienempi kuin galaksin standardien toimintakäytäntöjen mukaisesti toimittaessa. Tietäisittepä vain, mitä kaikkea tarvitaan hapatetun rohdon kuljetukseen.
+0xFADED033 Siitä vaan, tee miten tahdot. Ei paljon kiinnosta.~p~Äh, kyllä tämä vähän nyppii.
+0xFADED032 Sinun täytyy seurata omaa tietäsi.~p~Onnea matkaan, ystävä.
+0xFADED031 Kuinka kehtaat pettää kropoille antamasi lupauksen! Sinä tottelematon hölmö!
+0xFADED02B Mielenkiintoinen valinta, ~player_title~ ~player_creature_name~. Ehkä toimiesi takana on meiltä puuttuva ymmärrys, mutta jotenkin en jaksa uskoa moiseen.
+0xFADED02C No, selvä on sitten. Ymmärrän kyllä.~p~Jos et ole mukana koko sydämestäsi, emme toki halua sinun ryhtyvän toimeen.~p~
+

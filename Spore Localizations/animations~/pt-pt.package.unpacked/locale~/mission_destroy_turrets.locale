@@ -1,0 +1,274 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000F8 ...
+0x00000009 Os piratas de genes ilegais apoderaram-se da rede de defesa do planeta ~mission_target_planet~. Os nossos próprios cidadãos estão a ser usados como sujeitos de teste para experiências ilegais! Pode ajudar a salvá-los?
+0x00000003 Sim, pode fazer algo por nós, mas é complicado...~p~Não pergunte porquê, mas precisamos que destrua todas as torres no planeta ~mission_target_planet~. Mas não pode provocar danos nos edifícios nem sequer nos cidadãos.~p~Este é um ataque cirúrgico.~p~Acha que consegue?
+0x00000008 Reinou uma paz próspera e duradoura em toda a nossa civilização. Agora, terroristas apoderaram-se dos sistemas de defesa do planeta ~mission_target_planet~. Pode ajudar-nos a restabelecer a ordem?
+0x0000000E Lamentamos ter de admitir a existência de falsos profetas entre os Fiéis de Spode. Um grupo separatista, denominado Irmandade de Spode (Reformada) assumiu o controlo do planeta ~mission_target_planet~ e anda a perseguir os fiéis! Ajuda-nos a derrotá-los?
+0x0000000F Membros de um culto irracional que adoram algo chamado Deus Desconhecido tentaram levar a cabo um golpe no planeta ~mission_target_planet~. Pode ajudar-nos a derrotá-los e a devolver o planeta  ~mission_target_planet~ a um controlo racional?
+0x00000010 Uma cooperativa de artistas renegados, denominada Culto Anti-Razão, tomou o poder no planeta ~mission_target_planet~. Pode ajudar-nos a derrotá-los e a restaurar a ordem no nosso mundo?
+0x0000000A O planeta ~mission_target_planet~ foi atacado por piratas, que assumiram o controlo dos sistemas de defesa ao mesmo tempo que saqueiam a economia local e os cidadãos. Pode intervir?
+0x0000000C Devotos do falso Deus que Não Vai Chegar conspiraram para contrariar a Vontade de Spode! Estes conspiradores estão a perseguir os fiéis no planeta ~mission_target_planet~. Pode ajudar a derrotar os opressores e devolver o planeta ~mission_target_planet~ aos Desígnios de Spode?
+0x00000001 Tem uma super-oportunidade de ajudar uma espécie em apuros.~p~O planeta ~mission_target_planet~ está nas mãos de um Imperador Louco!~p~Ele isolou todas as cidades com torres, que usa para controlar a população! Tem de destruir estas torres!~p~Mas há uma coisa, amigo - não pode magoar ninguém nem destruir quaisquer edifícios. Isso só iria piorar as coisas.~p~Aceita?
+0x00000000 Esta próxima missão requer precisão militar e um autêntico espírito guerreiro.~p~Houve um golpe militar no planeta ~mission_target_planet~.~p~Os novos líderes não nos são favoráveis, e têm de ser neutralizados sem provocar danos aos edifícios ou aos cidadãos.~p~Pensamos que a abordagem mais simples será concentrarmo-nos apenas na destruição das torres. Destrua todas as torres no planeta!
+0x0000000B Um cientista louco chamado Garb espalhou uma praga entre os nossos cidadãos que os tornou paranóicos e militaristas! Apoderaram-se da grelha de defesa do planeta ~mission_target_planet~. Pode suprimir as defesas do planeta, para que possamos enviar pacificadores e pessoal médico, para tratar as vítimas das pragas?
+0x00000004 Já viu as cidades do planeta ~mission_target_planet~?~p~Será que uma sociedade poderia tomar decisões estéticas *piores*? Aquelas torres com aquela Câmara Municipal? Não me parece!~p~Nós, a autonomeada Polícia da Moda do Universo, não iremos permitir que este atentado arquitectónico se mantenha por mais tempo!~p~Elimine...ah... destrua todas as torres do planeta ~mission_target_planet~, para que não sejam uma afronta para a vista!~p~Mas lembre-se - somos estetas, não bárbaros! Não serão permitidos danos desagradáveis de qualquer outro tipo!
+0x0000000D Os nossos esforços para converter os habitantes do planeta ~mission_target_planet~ foram bem-sucedidos. Mas agora, meia dúzia de renegados e hereges apoderaram-se da grelha de defesa do mundo e estão a perseguir os Fiéis de Spode. Pode ajudar-nos a derrotar estes seres cruéis?
+0x000000AD Pode relembrar-me qual é a minha missão?
+0x0000003B Não. Acho que deviam arranjar outra pessoa.
+0x000000F0 Actua intencionalmente de forma aleatória ou não tem qualquer método? Adeus.
+0x00000093 Vá imediatamente até ao planeta ~mission_target_planet~, no sistema estelar ~mission_target_star~, onde terá ~mission_time~ sectons para destruir todas as torres! Tenha cuidado para não magoar nenhum dos Devotos de Spode!
+0x0000006C De certeza que tinha as melhores intenções, mas criou, inadvertidamente, uma crise intergaláctica!~p~A ideia era depor este governo malvado, sem prejudicar estruturas nem civis.~p~Por mais divertido e satisfatório que isto seja, não pode andar por aí a rebentar com coisas à vontade!~p~Pelo menos, não sem parar.
+0x0000002B ÂMBITO PLANETÁRIO DA MISSÃO: Planeta ~mission_target_planet~.~p~SISTEMA ESTELAR: ~mission_target_star~.~p~PAGAMENTO: ~mission_rewards~ Sporecoroas.~p~OBJECTIVO: Eliminar o ruído EM para retomar a telemetria da superfície.
+0x0000010D Imploro que me afastem desta tarefa.
+0x00000048 Devolvemos um brilho rosado às auras do povo do planeta ~mission_target_planet~. Para o compensar em parte pelo trauma de recorrer à violência, oferecemos-lhe ~mission_rewards~ Sporecoroas.
+0x00000099 Obrigado. Tem ~mission_time~ sectons no planeta ~mission_target_planet~ para destruir todas as torres. Por favor, não faça mal a pessoas inocentes, plantas ou animais no decorrer das suas acções. Depressa, antes que a situação piore!
+0x000000F1 A minha mente fraca não consegue compreender a sua recusa em completar a sua missão. Vou entrar em reclusão, até iluminar as ideias. Adeus.
+0x0000010C Esta tarefa já não se encaixa na minha agenda.
+0x00000092 Esta acção irá valer-lhe gratidão. Por favor, viaje até ao planeta ~mission_target_planet~, que orbita à volta do sistema ~mission_target_star~, e esmague as torres. Faça-o em ~mission_time~ sectons, para impedir o inimigo de se entrincheirar.
+0x00000086 Não conseguiu derrotar os nossos inimigos no tempo disponível. Iremos nós próprios acabar a tarefa... e, ao contrário de si, não iremos mandriar.
+0x0000009F Oh.~p~Não estávamos a contar com esta reacção da sua parte.~p~Os nossos psiquiatras garantiram-nos que era o ser certo para o trabalho.~p~É uma pena vê-lo a opor-se à liberdade desta forma. E logo agora, que está já em marcha! Que vergonha!
+0x0000006E Oh, não! Oh, Goolp!~p~Se eu não fosse um pacifista com problemas nas articulações e hemofílico, dizia-lhe.~p~Se o seu desprezo pela segurança dos outros prejudicou Goolp de alguma forma, eu... eu...~p~*CHORA*~p~Oh, Goolp!
+0x000000B4 Fica para a próxima. Adeus.
+0x0000006D Ooooh, amigo. Não podemos tolerar uma destruição injustificada.~p~Pedimos-lhe com delicadeza para, por favor, não destruir edifícios nem cidadãos.~p~Não era propriamente um pedido, espertinho. Não estávamos a brincar.~p~Toda esta  situação do Imperador Louco é uma bomba-relógio. É como uma engrenagem dentro de uma engrenagem, amigo.~p~Estamos muito desiludidos consigo, amigo.
+0x00000042 Parabéns! O Grande Conselho autorizou-me a oferecer-lhe um Certificado de Louvor, Primeira Classe, e ~mission_rewards~ Sporecoroas.
+0x00000025 Lamento ter de recusar.
+0x000000BD Longo é o alcance da vingança de Spode. Adeus.
+0x000000DC Destruiu todas as torres. Boa! Volte ao planeta ~mission_source_planet~, no sistema estelar ~mission_source_star~, para receber a sua recompensa.
+0x00000087 Desculpe. Podemos falar sobre outro assunto...
+0x00000049 Conseguiu eliminar os nossos inimigos. O seu profissionalismo foi registado. Dado que é tão motivado por recompensas materiais como pela honra, oferecemos-lhe ~mission_rewards~ Sporecoroas.
+0x00000066 Acho que acabei. Iep. Desisto.
+0x0000009D Tenho de me despachar. Adeus.
+0x00000059 Os nossos cidadãos continuam em perigo no planeta ~mission_target_planet~! Todos os pormenores estão no seu Registo de Missão. Pode ir até ao planeta ~mission_target_planet~ e libertá-los?
+0x000000D6 Vai desistir? Para que é que lhe demos um laser?
+0x000000F7 Peço imensa desculpa pelo incómodo. Adeus.
+0x0000008A Isso é fabulástico, amigo!~p~Está a fazer uma coisa espectacular. A ajudar quem precisa.~p~Mostre ao Imperador Louco que ninguém gosta dos engodos dele. Não nesta galáxia.~p~Faça isso, parceiro.
+0x000000F6 Mais uma coisa...
+0x00000067 Imploro que me afastem desta tarefa.
+0x00000016 Este ser desprezível está corroído por maus pensamentos e autoflagelação! Uma conspiração de clientes insatisfeitos tomou o controlo das defesas do planeta ~mission_target_planet~ e exige um reembolso! Claro que não podemos violar a santidade de um contrato para lhes fazer a vontade.~p~Estaria disposto a rectificar esta questão em nosso nome, em troca de uma soma generosa?
+0x000000AA Pobres dos nossos infelizes cidadãos! A nossa espécie vai já fazer luto por eles. Adeus.
+0x000000DA O planeta fica no sistema estelar ~mission_source_star~, volte lá e dê as más notícias.
+0x0000004B Gostaria de falar consigo sobre outra coisa...
+0x00000030 Fazer explodir as torres deve ser suficiente para chamar à razão estes infelizes. Faça o que fizer, não destrua mais nada e não mate nenhuma das pessoas que vir a gritar e a procurar abrigo. É que isso é muito fácil.
+0x00000064 Desisto. Esta missão é difícil.
+0x00000034 Está bem, entendido. Eu trato disso.
+0x0000003A Não, obrigado. Não estou interessado.
+0x000000F9 Fica para a próxima. Adeus.
+0x000000D2 Depressa, Comandante! Estamos a contar consigo! Quando chegar ao planeta ~mission_target_planet~, terá apenas ~mission_time~ sectons para destruir todas as torres.
+0x00000065 Esta missão não está a funcionar.
+0x0000008B Sabíamos que acabaríamos por encontrar alguém que nos ajudasse. Obrigado! Obrigado!~p~E, se por acaso vir o meu correspondente, Goolp, diga-lhe que tenho tido muitas saudades das nossa cartas durante este mau momento.~p~Mas não perca demasiado tempo à procura do meu correspondente. Só tem ~mission_time~ sectons no planeta ~mission_target_planet~ para destruir todas as torres.
+0x00000011 Um cientista renegado, que lidera uma coisa chamada Culto do Meu Ego Glorioso, interferiu com os computadores que controlam os sistemas de defesa no planeta ~mission_target_planet~. Pode ajudar-nos a derrotar este louco?
+0x000000AC Não nos tínhamos apercebido de que era tão fraco em termos militares.
+0x0000009A Vá ao planeta ~mission_target_planet~, que faz parte do sistema estelar ~mission_target_star~, e destrua todas torres nos ~mission_time~ sectons disponíveis. Gostamos de eficácia, portanto, vá depressa, se quiser preservar a nossa estima.
+0x00000022 Nunca disparo contra coisas que podem ripostar.
+0x000000F3 Tenta-nos a recorrer à violência.
+0x0000009E Peço a vossa compreensão.
+0x000000C9 A grelha de defesa do planeta ~mission_target_planet~ não foi eliminada. Todas as informações relevantes estão disponíveis no seu Registo de Missão. Destrua todas as torres.
+0x0000006A Certo. Obrigado.
+0x00000089 Excelente. Sabíamos que podíamos contar consigo.~p~Volte cá assim que acabar, para que possamos informar a Galáxia de que foi concretizada uma importante missão.~p~Também vai receber as suas ~mission_rewards~ Sporecoroas. Mas lembre-se: só tem ~mission_time~ sectons no planeta ~mission_target_planet~ para destruir todas as torres.
+0x00000027 Claro, amigo. Com competências como as suas, vai conseguir encontrá-lo, sem problemas.~p~O planeta ~mission_target_planet~ encontra-se no sistema estelar ~mission_target_star~.~p~E amigo, tem imensa sorte, vamos até pagar-lhe pela sua boa acção! O que acha de ~mission_rewards~ Sporoas?~p~Agora, toca a atacar aquelas torres, tigre!
+0x0000010B Tenho de recusar esta tarefa.
+0x000000F2 Não vai salvar o nosso povo? Teremos de enviar então energia curativa.
+0x000000B5 Tem sorte em não considerarmos isto uma obstrução à justiça!~p~Uma coisa é recusar esta missão, mas desistir dela a meio é inaceitável. Está a privar o povo do planeta ~mission_target_planet~ da liberdade que eles não podem nem sequer nos pediram para ter.~p~Que vergonha! Devia ter vergonha! QUE VERGONHA!!!
+0x00000088 Sim, houve alguns problemas...
+0x00000050 É sempre um prazer...
+0x000000CE Partilhamos do seu desgosto perante o fracasso desta missão difícil. Para compensar o seu incómodo, o Grande Conselho autorizou-me a oferecer-lhe um Certificado de Louvor, Segunda Classe.
+0x0000006B Está bem. Vou rebentar com umas coisas.
+0x000000F4 Antes de ir, queria fazer outras perguntas.
+0x000000B6 Oh, amigo. Amigo, amigo, amigo, amigo.~p~Desiludiu-nos mesmo, amigo. Sabia?~p~Afinal, todo este tempo que passou a *não* rebentar com as torres foi tempo que outro contratado podia ter passado a *rebentar* com as torres. Percebe?~p~Esperávamos mesmo mais de si, amigo.
+0x00000109 Mais uma coisa...
+0x00000068 Certo. Volto num instante.
+0x000000BC Vai desistir, perante este crime hediondo? Adeus.
+0x0000004A Mais uma coisa antes de partir...
+0x0000002F Os seguidores do culto apoderaram-se do sistema de defesa do planeta. Destrua as torres do planeta ~mission_target_planet~. Não danifique outros edifícios nem faça mal a civis inocentes.
+0x0000010A Preferia fazer outra coisa.
+0x000000F5 Além disso...
+0x00000069 Ah... Estou a ver. Está bem.
+0x00000057 ESTADO DA MISSÃO: Em curso; O contratado requer a recapitulação dos factos.~p~DESCRIÇÃO GERAL DA MISSÃO: Destruir as torres no planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~PARÂMETROS ADICIONAIS: Não destruir outros edifícios. Não matar cidadãos!
+0x000000C3 Estão com problemas no planeta ~mission_target_planet~. Gostaríamos que os salvasse!
+0x0000007B Bolas. Bem, tenho mais outra pergunta.
+0x00000114 Além disso...
+0x00000023 Torres? Nem pensar!
+0x0000001B Seguidores violentos de um culto que venera algo denominado Deus Desconhecido apoderaram-se dos sistemas de defesa do planeta ~mission_target_planet~. Estaríamos muito interessados em descobrir se conseguirá enfrentar isto.
+0x0000002D Os filhos de Spode poderiam viver em harmonia se as torres dos opressores, no planeta ~mission_target_planet~, fossem destruídas. Que o fogo sagrado purifique o planeta ~mission_target_planet~! O tempo é fundamental, por isso, parta imediatamente!
+0x000000CB A sua capacidade de controlo de disparos é fraca e provocou uma destruição desnecessária. Vamos corrigir esta tendência no futuro.
+0x000000E0 Já percebi que precisa de estar sozinho. Adeus.
+0x0000007C Diabos. Bem, gostaria de falar de uma coisa.
+0x00000082 Não conseguiu destruir as torres a tempo. Que pena.
+0x000000C5 O planeta ~mission_target_planet~ está em órbita no sistema ~mission_target_star~. Destrua todas as torres. Não danifique outros edifícios nem os nossos futuros escravos.
+0x00000113 Antes de ir, queria fazer outras perguntas...
+0x0000007A Raios. Bem, deixe-me perguntar outra coisa.
+0x000000AF Gostaria de perguntar outra coisa...
+0x00000079 Os seus disparos indiscriminados indicam um fraco controlo de armamento, se não mesmo o pânico total. Está convidado a deixar a nossa zona de segurança.
+0x000000BF É necessário fazer uma demonstração militar no planeta ~mission_target_planet~.  Irá ficar encarregado disso.
+0x00000097 Já referimos o quanto gostamos do seu estilo pessoal de não-fazer-prisioneiros? Dirija-se ao planeta ~mission_target_planet~, que orbita no sistema ~mission_target_star~, e faça explodir todas as torres que vir! E faça-o em ~mission_time~ sectons, antes que as coisas fiquem realmente descontroladas!
+0x000000D1 O tempo é crucial nesta missão, portanto, parta imediatamente. Tem ~mission_time~ sectons para ir até ao planeta ~mission_target_planet~ e destruir todas as torres.
+0x0000007F Tive um dia complicado. A culpa é minha.
+0x00000024 Parece perigoso. Acho que vou recusar.
+0x000000D3 O desafio a Grox foi a causa de todo o problema.
+0x00000118 Eu volto em breve. Adeus.
+0x000000E2 Gostaria de perguntar outra coisa...
+0x00000043 Os seus esforços para proteger o nosso povo são reconhecidos. Por favor, aproveite bem as suas ~mission_rewards~ Sporoas.
+0x00000081 As minhas sinceras desculpas.
+0x00000117 Obrigado pela oportunidade. Adeus.
+0x00000116 Tenho de ir. Adeus!
+0x00000080 Acho que não estava concentrado.
+0x000000B0 Antes de ir, queria fazer outras perguntas.
+0x00000044 Spode salvou realmente os seus filhos do demoníaco Deus Que Não Vai Chegar! Verdadeiramente, merecestes as vossas ~mission_rewards~ Sporecoroas. E, se tiverdes um momento, um missionário ficaria muito grato se pudesse falar-vos.
+0x00000115 Mais uma coisa...
+0x00000119 A tarefa está aceite. Adeus.
+0x000000E1 Peço a vossa compreensão.
+0x0000007D C'um raio! Bem...
+0x000000CC Agradecemos o esforço que fez por nós. Teremos de mobilizar as nossas próprias forças para lidar com esta crise.
+0x0000007E O brilho da estrela deles impediu-me de acertar a pontaria.
+0x000000B1 Além disso...
+0x000000D0 Excedeu o tempo necessário para a sua missão no planeta ~mission_target_planet~. As suas capacidades são insuficientes.
+0x00000098 Estamos boquiabertos com a sua determinação e capacidade marcial! Por favor, vá até ao planeta ~mission_target_planet~, que se encontra no sistema ~mission_target_star~, e destrua todas as torres. Uma vez lá, tem ~mission_time~ sectons para as reduzir todas a pó!~p~Em circunstância alguma faça mal aos nossos cidadãos ou aos seus bens.
+0x000000A3 Não, diz você?~p~Oh, então, para quê darmo-nos ao trabalho de explicar as violações criminosas sobre o planeta ~mission_target_planet~ e os seus cidadãos, hmmm?~p~Está a gozar com a nossa atitude sempre crítica? Está a troçar da... Polícia da Moda!?!
+0x00000110 Já percebi que está ocupado. Depois falamos.
+0x0000003C Muito bem! Sabíamos que tínhamos de pôr o nosso melhor homem nesta missão. Aqui tem as suas ~mission_rewards~ Sporecoroas, como prometido.~p~Ainda bem que o meu instinto estava certo a seu respeito! De certeza que vou ser promovido por isto!~p~Os cidadãos do planeta ~mission_target_planet~ estão agora livres para seguirem uma governação mais do nosso agrado.~p~Viva! A Liberdade venceu!
+0x00000051 Cuide-se.
+0x00000020 Como é que chego até lá?
+0x00000047 Sinto-me inundado por uma onda de satisfação! Regale-se com a glória das suas ~mission_rewards~ Sporecoroas.
+0x000000B2 Mais uma coisa...
+0x000000A9 Não vai ajudar-nos? Mas as nossas torres estão mortinhas por sentir o beijo dos seus lasers!
+0x000000DE A sua missão fracassou. Regresse ao planeta ~mission_source_planet~, no sistema estelar ~mission_source_star~, para lhes dar as más notícias.
+0x0000002E Os dissidentes violentos estão a erguer torres de defesa nas principais cidades do planeta ~mission_target_planet~. Viaje até ao sistema ~mission_target_star~, localize o planeta ~mission_target_planet~ e destrua todas a torres, para que as nossas forças pacificadoras possam aterrar. Não ponha em perigo cidadãos pacíficos durante o seu ataque.
+0x000000AE Ah, claro que sim! O registo da missão. Vou lá ver!
+0x000000C0 Outra raça decide desafiar Grox. Irá destruir as defesas deles.
+0x0000010F Até à próxima. Adeus.
+0x000000B3 Peço imensa desculpa pelo incómodo. Adeus.
+0x0000010E Peço imensa desculpa pelo incómodo. Adeus.
+0x00000094 Uma vez destruídas as torres no planeta ~mission_target_planet~, deverá prevalecer a ortodoxia religiosa! Viaje imediatamente até ao sistema ~mission_target_star~, onde terá ~mission_time~ sectons para purificar as torres com fogo sagrado! Certifique-se de que não magoa nenhum dos devotos filhos de Spode.
+0x000000A0 Ohhh, amigo. Que grande chatiiiice, pá.~p~É por ter medo do Imperador Louco? É?~p~Não se preocupe. Não faz mal. Ele é um homem muito intimidativo. Afinal, é um pouco louco.~p~É uma reacção comum, mas, mesmo assim, estamos desapontados.
+0x000000D5 Raramente vimos uma espécie que insistisse tanto na sua própria extinção.
+0x00000085 Não conseguiu salvar o nosso povo a tempo! Obrigado por tentar, mas achamos que, se adoptasse práticas de meditação, talvez limpasse melhor as ideias e se concentrasse no que tem para fazer.
+0x000000C2 Temos uma missão para si, Comandante! Envolve disparos!
+0x00000083 Não tirámos os olhos do quadro de resultados, e não fez explodir as torres antes do sinal! Para a próxima, talvez tenha mais sorte.
+0x00000095 Os seres cruéis abrigam-se nas torres do planeta ~mission_target_planet~ e atrevem-se a disparar contra os devotos de Spode. Vá até ao sistema estelar ~mission_target_star~, onde terá ~mission_time~ sectons para destruir as torres e abrir o planeta à Luz de Spode! Não permita que nenhum dos seguidores sagrados de Spode seja purificado por acidente.
+0x000000A1 Oh, isto é terrível. Que grande desilusão!~p~Pobre Goolp! É tão difícil... não saber o que o velho e querido Goolp está a fazer. Somos amigos e correspondentes há tanto tempo...~p~Oh, Goolp!
+0x00000046 A destruição que deixa para trás possui um certo patos  austero que consideramos muito comovente! Só por isso, damos-lhe ~mission_rewards~ Sporoas.
+0x00000077 Usou as armas com demasiado entusiasmo! Muitos são os nossos lamentos perante a destruição por si provocada.
+0x00000112 Gostaria de perguntar outra coisa...
+0x000000DF Não conseguiu destruir as torres a tempo. Volte ao planeta ~mission_source_planet~, no sistema estelar ~mission_source_star~, para lhes dar as más notícias.
+0x000000CA Vemos que a grelha de defesa do planeta ~mission_target_planet~ não foi destruída. Tem de ajudar as pessoas destruindo as torres. Toda a informação está disponível no seu Registo de Missão
+0x00000076 Embora valorizemos o seu vigor austero, achamos que foi longe de mais. Fez explodir as coisas erradas, e não estávamos a pensar fazer remodelações este ano.
+0x00000041 ESTADO DA MISSÃO: Completada com sucesso pelo Contratado.~p~PAGAMENTO: ~mission_rewards~ Sporecoroas.~p~DECLARAÇÃO DE SATISFAÇÃO: Bom trabalho, amigo. Devíamos ir almoçar um dia destes.
+0x000000A6 Trememos só de pensar nas criações que estes criminosos irão lançar. Adeus.
+0x00000029 O quê? Não tem maquinetas todas avançadas na sua nave para lhe indicar o caminho? Não importa. Oiça:~p~O planeta ~mission_target_planet~ orbita à volta de uma bola de gás, no sistema ~mission_target_star~. É impossível não ver.~p~Em troca, recebe ~mission_rewards~ Sporoas.~p~Interessa-lhe?
+0x00000073 Infligiu uma destruição cruel ao nosso mundo! Não temos mais tempo para si... temos de reconstruir tudo e chorar os nossos mortos. Adeus.
+0x00000074 Infelizmente, a mão de Spode não o guiou! O planeta não foi libertado a tempo de evitar uma grave opressão do nosso povo. Quando chegar a altura determinada por Spode, vingaremos os nossos mártires.
+0x000000A8 Compreendemos a sua relutância. As nossas próprias forças de segurança irão resolver o assunto.
+0x000000BE Estas acções irracionais raramente produzem resultados satisfatórios. Adeus.
+0x00000084 Pobre ~mission_source_empire~! Porém, apesar da opressão dos nossos, vamos deixá-lo ainda assim visitar o nosso bazar.
+0x000000D4 Não vai ajudar? A sério?
+0x00000111 Peço a vossa compreensão.
+0x00000063 Tenho mais outra pergunta.
+0x0000009B Esta não foi a minha melhor tarefa...
+0x0000009C Vamos concentrar-nos no futuro...
+0x00000091 Que a paz e a prosperidade o recompensem. Vá imediatamente ao planeta ~mission_target_planet~ e destrua todas as torres. Se fracassar, por favor, tente manter uma negação credível.
+0x000000B8 COMO SE ATREVE A ABANDONAR ESTA MISSÃO!!!~p~É... Bem, esta é realmente uma missão muito, muito importante para nós.~p~E VOCÊ ANDOU A DESPERDIÇAR TEMPO PRECIOSO!!!! DEVÍAMOS FAZER A SUA NAVE DESAPARECER DO CÉU!!!~p~Mas temos de encontrar outro atirador adequado, e depressa!~p~Esta missão... Era mais importante do que pensa.~p~Oh, Sr. Risos!~p~*Chora!!!*
+0x0000001D Os computadores de defesa do planeta ~mission_target_planet~ foram corrompidos por um inimigo astuto. Embora pudéssemos resolver a situação nós próprios, preferíamos mostrar ao nosso inimigo que podemos contar com outras espécies para nos ajudar. Estaria interessado?
+0x0000008D Trouxe alegria aos nossos corações, sabendo que esta emergência estilística será resolvida de forma célere e implacável! Obrigado!~p~Agora, vá! Que os ventos solares o levem até ao seu destino. Use as armas apenas para os alvos pretendidos. Haverá paparazzi a postos para o fotografar em acção. Depressa! Tem apenas ~mission_time~ sectons no planeta ~mission_target_planet~ para destruir aquelas torres horrorosas.
+0x000000D8 Volte ao planeta ~mission_source_planet~ no sistema ~mission_source_star~ para receber a sua recompensa.
+0x0000001F Como posso encontrar este planeta?
+0x0000005C Não gostamos de ser  os 'lembretes' oficiais da galáxia, portanto, detestamos relembrar-lhe o seu acordo para rebentar com as torres no planeta ~mission_target_planet~. Se duvida de nós, verifique o seu Registo de Missão!
+0x00000101 Antes de ir, queria fazer outras perguntas...
+0x00000103 Destruiu todas as torres no planeta ~mission_target_planet~.
+0x000000FB Já percebi que precisa de estar sozinho. Adeus.
+0x00000037 OK, cá vou eu
+0x000000CD Os dados provenientes do planeta ~mission_target_planet~ sugerem que as suas armas não são tão poderosas como suspeitávamos. Vamos devolver nós mesmos o planeta a um controlo racional.
+0x000000B9 Ficou muito mal visto. Já viu? Enganou completamente a Polícia da Moda! Não vamos esquecer isto!~p~E há outra coisa que também não esqueceremos tão cedo: a sua indiferença gritante por acessórios, mesmo os mais básicos!~p~A Polícia da Moda pode decidir agir nesta questão. Daremos notícias.
+0x0000004D Mais uma coisa. Peço desculpa por incomodar...
+0x000000D9 A sua missão fracassou. Regresse ao sistema estelar ~mission_source_star~ para lhes dar as más notícias.
+0x0000008F O Grande Conselho agradece-lhe. Viaje de imediato até ao planeta ~mission_target_planet~, onde terá ~mission_time~ sectons para destruir todas as torres.
+0x000000C1 Tem de destruir a rede de defesa no planeta ~mission_target_planet~. Irá fazer isto imediatamente.
+0x000000A7 Os nossos mártires irão acusá-lo directamente da campa! Que o amor de Spode o leve para uma morte precoce. Adeus.
+0x0000005A Por que razão deixa incompleta a libertação do planeta ~mission_target_planet~? O seu compromisso é bem visível no seu Registo da Missão! Honrará a sua palavra?
+0x0000005E Sabemos que a tarefa é difícil, mas a paz ainda não foi alcançada no planeta ~mission_target_planet~. Pode ajudar-nos? Toda a informação deve estar no seu Registo de Missão.
+0x00000038 Parece uma seca. Dispenso.
+0x00000102 Além disso...
+0x00000104 Destruiu todas as torres. Iupi! Agora, volte para o sistema ~mission_source_star~ para receber o pagamento.
+0x00000062 Posso perguntar uma coisa?
+0x00000100 Esqueci-me do que estava a fazer. Qual é a minha missão?
+0x000000C8 Óptima pontaria, Comandante! É com prazer que lhe oferecemos ~mission_rewards~ Sporecoroas.
+0x000000C6 O planeta ~mission_target_planet~ está em órbita no sistema ~mission_target_star~. Para ajudar as pessoas contra os opressores, tem de destruir todas as torres. Não danifique edifícios nem faça mal à população.
+0x00000021 Onde se encontram?
+0x000000FF Esqueci-me qual é a missão. Qual é?
+0x00000013 Algumas pessoas sem o mínimo sentido de humor souberam desta filosofia 'militarista' através de um dos nossos vizinhos e agora, apoderaram-se de um dos nossos mundos! Pode dar-lhes uma lição com o laser?
+0x00000035 Bem, tenho de fazer explodir umas coisas...
+0x0000004E Foi divertido.  Obrigado.
+0x000000CF Não conseguiu destruir as torres suficientemente depressa, Comandante! Já pode parar de disparar.
+0x0000004F A destruição agrada-me sempre. Obrigado.
+0x0000005B O planeta ~mission_target_planet~ ainda está controlado pelos seguidores do culto, que continuam a manipular os sistemas de defesa. Pode ir até ao sistema estelar ~mission_target_star~ e destruir as torres? Tem toda a informação relevante no seu Registo de Missão.
+0x000000FE Uhh... Diga-me lá outra vez, o que é que tenho de fazer?
+0x0000004C Posso perguntar mais uma coisa?
+0x000000FC Peço a vossa compreensão.
+0x000000BB Muitos dos nossos cidadãos irão morrer devido a esta recusa da sua parte. É um inimigo da civilização. Adeus.
+0x00000039 Respeitosamente, recuso.
+0x00000105 Falhou. Regresse ao planeta ~mission_source_planet~.
+0x00000036 Acho que vou andando...
+0x00000106 Não conseguiu destruir todas as torres a tempo. Volte ao planeta ~mission_source_planet~.
+0x0000005F As defesas do planeta ~mission_target_planet~ continuam subvertidas. Tem um compromisso de honra para resolver isto, tal como atesta o seu Registo de Missão. Esperamos que regresse vitorioso ou esperamos ver a sua nave estilhaçada na margem.
+0x000000FD Preciso de verificar novamente a missão...
+0x0000001E Pode dizer-me um pouco mais?
+0x000000A2 Bah! Seu saco de carne inútil!~p~Tanto trabalho a falar-lhe desta missão tão urgente e você diz-nos que não? Assim?~p~É bom que se ponha a andar depressa, se sabe o que é bom para si.~p~Então? Sabe?
+0x0000005D Ouvimos os lamentos dos nossos amigos, no planeta ~mission_target_planet~. Pode completar a libertação deles? Toda a informação necessária deverá ter sido carregada no seu Registo de Missão.
+0x000000A5 O Grande Conselho não vai obrigar nenhuma espécie a recorrer à violência contra a sua vontade. Que a paz vá consigo.
+0x00000061 Gostaria de falar de outra coisa.
+0x000000D7 Já percebi que está ocupado. Depois falamos.
+0x000000FA Já percebi que está ocupado. Depois falamos.
+0x000000AB Se quiser dar uma oportunidade à paz, nós entendemos.
+0x00000060 Está bem. Muito depressa. Mais uma coisa...
+0x00000033 Os que dependem da defesa estática são como os que edificam uma muralha de palha para impedir o avanço do oceano...~p~Demonstre este princípio destruindo as torres do planeta ~mission_target_planet~. Não danifique outros edifícios nem cidadãos leais.
+0x00000007 Todos os seres inteligentes têm o direito de viver em paz e liberdade. Porém, houve uma revolta de separatistas no planeta ~mission_target_planet~, que preparam posições armadas que ameaçam a política de paz da galáxia. ~player_creature_name~ poderia ajudar-nos a enfrentar esta ameaça?
+0x00000090 ~player_creature_name~ mostrou-se um verdadeiro amigo da civilização. Viaje até ao planeta ~mission_target_planet~, onde só terá ~mission_time~ sectons para libertar os seus cidadãos, destruindo todas as torres.
+0x0000008E ESTADO DA MISSÃO: Aceite pelo Contratado. Em curso.~p~PALAVRAS DE AFIRMAÇÃO: Obrigado, amigo.~p~PALAVRAS DE DESPEDIDA: Uma vez no planeta ~mission_target_planet~, terá apenas ~mission_time~ sectons para destruir todas as torres. Adeusinho!
+0x00000040 Que notícias maravilhosas! Aqui tem a sua compensação - ~mission_rewards~ Sporecoroas, como prometido.~p~É sempre muito gratificante levar algumas noções de estilo a um mundo ao qual tão claramente falta bom gosto e requinte.~p~A Polícia da Moda fez aqui um bom trabalho hoje. Todos fizemos.~p~Agora, vamos ao que interessa: Acerca dessa sua nave...
+0x0000001A Um grupo de militantes defensores dos direitos dos animais tomou o poder no planeta ~mission_target_planet~ e mantém os cidadãos reféns até que abdiquemos do consumo de proteínas animais! Não podemos fazer isso, pois deixamos totalmente à consideração de cada um se preferem comer carne de animais criados ao ar livre, sem antibióticos, ou deixá-los ter uma morte natural.~p~Abominamos o uso da força, mas, neste caso, a violência parece-nos estranhamente apelativa. Usaria os seus lasers em nome da liberdade alimentar?
+0x000000A4 ESTADO DA MISSÂO: Contrato não cumprido. Recusado pelo contratado.~p~ESTADO DO CONTRATADO: Já Não é Preferencial. Procurar substituto.
+0x00000045 ~player_title~ ~player_creature_name~. O planeta ~mission_target_planet~ voltou a ter uma governação racional. O nosso agradecimento. Para o incentivar cooperações futuras, oferecemos ~mission_rewards~ Sporecoroas.
+0x00000056 Oiça! É uma ordem da Polícia da Moda!~p~Vá ao sistema estelar ~mission_target_star~ e destrua todas as torres que encontrar no planeta ~mission_target_planet~.~p~Mas lembre-se: Só queremos recorrer a uma força esmagadora para corrigir os crimes de mau gosto deles - aquelas torres com aquela Câmara Municipal... É horrível!~p~Não queremos fazer-lhes mal - nada de danos nos edifícios ou cidadãos, por favor.
+0x00000055 O que faz aqui, seu idiota?!~p~Devia estar a salvar o Sr. Risos! --~p~Quer dizer... ehhh...~p~Tem de destruir todas as torres no planeta ~mission_target_planet~, no sistema estelar ~mission_target_star~.~p~Esta próxima parte é importante: Não destrua *nenhum* outro edifício e, sobretudo, não faça mal *a ninguém*!~p~Porquê? Meta-se na sua vida!
+0x00000053 Amigo? O que faz aqui, hã?~p~A nossa conquista...~p~Errrr....Quero dizer, a nossa luta para pôr fim ao reinado de terror do Imperador Louco, tem de ser rápida, amigo. Toca a andar.~p~Eis o que tem de fazer:~p~Vá ao planeta ~mission_target_planet~ , no sistema ~mission_target_star~. Destrua todas as torres, sem danificar os outros edifícios e sem magoar ninguém. Simples. É canja!
+0x00000054 Voltou! Viu Goolp? Não?~p~Oh, estou tão desanimado! Pensei que já tivesse ido ao sistema ~mission_target_star~ e destruído todas as torres no planeta ~mission_target_planet~ sem danificar *nenhum* edifício e sem magoar *ninguém*.~p~Ninguém, como o meu querido correspondente, Goolp. Ficaria de rastos se alguma coisa acontecesse a Goolp. Oh, Goolp. Tenho saudades tuas!
+0x0000001C Militaristas fanáticos que exigem uma Guerra Contra Todos tomaram o poder no planeta ~mission_target_planet~. A melhor forma de lhes baixar a crista seria que uma espécie alienígena neutralizásse as suas posições defensivas. Está disposto a isso?
+0x00000058 O Grande Conselho ouviu os gritos angustiados dos seus cidadãos e lamenta o fracasso da sua acção. ~player_creature_name~ já aceitaram esta missão, como se pode ver nas instruções do seu Registo da Missão. Irá completá-la?
+0x0000003D Fogo, amigo...! Aquilo é que foi precisão de manobra!~p~Mereceu bem aquelas ~mission_rewards~ Sporoas. Faça bom proveito delas, com os nossos agradecimentos, amigo.~p~E agora, que derrotou o Imperador Louco, podemos abrir um Acordo Comercial Livre com ~mission_target_planet~, recentemente libertado.Que as trocas de bens e serviços comece!
+0x0000008C Heh heh heh. Fantástico, parceiro. Sabemos que podemos contar consigo!~p~Mas não se esqueça: nada de danos! Nem aos edifícios. Nem aos civis. Nem às plantas. Nem aos animais. E, apenas com ~mission_time~ sectons no planeta ~mission_target_planet~ para destruir todas as torres, é bom que aja depressa. E não falhe!
+0x00000052 Esquecimento? Esperamos mais de si...~p~Preste atenção: Destrua todas as torres no planeta ~mission_target_planet~, no sistema ~mission_target_star~.~p~MAS - Não destrua *nenhum* edifício. Não mate *nenhum* cidadão.~p~A Liberdade está a caminho. Não podemos permitir nenhuma crise de RP!
+0x00000012 Tentámos reprogramar as torres no planeta ~mission_target_planet~ para podermos lançar fogo-de-artifício no Festival Relaxar e Ser Feliz, que se aproxima, mas ... ups!... Agora, eles estão a disparar contra nós! Estamos fartos de nos esconder e de fugir para não morrer! Pode rectificar o nosso pequeno erro?
+0x000000BA ESTADO DA MISSÃO: Contrato não cumprido. Recusado pelo contratado.~p~ESTADO DO CONTRATADO: Já Não Preferencial. Desistir de contratos futuros.
+0x00000002 O planeta ~mission_target_planet~ é nosso correspondente interplanetário.~p~Soubermos há pouco tempo que um poderoso déspota assumiu o controlo do planeta, está a proibir a comunicação além-fronteiras e está a ser, basicamente, mesmo mau.~p~Precisamos que destrua todas as torres do planeta, para que a população possa retomar o controlo e possa voltar a escrever-nos!~p~Mais uma coisa: não serão tolerados danos nos edifícios ou aos cidadãos.
+0x00000075 ~player_title~ ~player_creature_name~. Os dados provenientes do planeta ~mission_target_planet~ sugerem que as suas armas não são tão poderosas como suspeitávamos. Vamos devolver nós mesmos o planeta a um controlo racional.
+0x00000078 Meu Deus! ~player_title~ ~player_creature_name~. Provocou destruição em massa no nosso mundo! Agora, teremos de realizar uma cerimónia fúnebre conjunta. Se calhar, a sua presença não seria de bom tom.
+0x00000032 Vá ao planeta ~mission_target_planet~, no sistema estelar ~mission_target_star~, e destrua todas as torres. Depois disso, as vítimas desta tragédia podem começar a esquecer o que se passou.
+0x000000B7 Oh! Nunca questionaria obviamente o seu julgamento superior nestes assuntos, mas não seria melhor para si se desempenhasse esta missão?~p~Não sei. Só estou a comentar. Não interessa.~p~Acho que, agora, nunca mais vou saber nada de Goolp.~p~*Suspiro*!~p~Oh, Goolp!
+0x00000070 Oh, rejubile, ~player_title~ ~player_creature_name~.~p~O seu desprezo pelas nossas instruções fizeram-nos sair do reino do desastre estilístico e lançaram-nos abruptamente para o domínio de uma  *verdadeira* catástrofe. Esperamos que esteja contente.
+0x000000C4 Um culto que adora alguém denominado 'Deus Desconhecido' assumiu o controlo do planeta ~mission_target_planet~. Precisamos que ajude a libertá-los!
+0x0000002C Viaje até ao planeta ~mission_target_planet~ no sistema ~mission_target_star~ e destrua as torres, para que os nossos pacificadores possam aterrar e restaurar a ordem.
+0x000000C7 ~player_creature_name~. As suas capacidades militares demonstraram ser suficientes. Para incentivar uma cooperação ainda maior, oferecemos ~mission_rewards~ Sporecoroas.
+0x00000071 ESTADO DA MISSÃO: Fracassada.~p~MOTIVO/OUTRO: O contratado provocou danos supérfluos a estruturas ou a pessoas.~p~ESTADO DO CONTRATADO: Desfavorável.
+0x00000014 Receamos que a Sociedade de Arte Explosiva se tenha descontrolado um pouco no planeta ~mission_target_planet~. Apoderaram-se do nosso arsenal defensivo e agora, estão a disparar contra tudo! Acha que pode fazer uma crítica incisiva e merecida ao trabalho artístico deles?
+0x00000072 ~player_title~ ~player_creature_name~. Partilhamos do seu desgosto perante o fracasso desta missão difícil. Para compensar o seu incómodo, o Grande Conselho autorizou-me a oferecer-lhe um Certificado de Louvor, Segunda Classe.
+0x00000019 As defesas do planeta ~mission_target_planet~ caíram nas mãos de uma entidade maléfica vinda de uma dimensão das trevas. Ou talvez de um hacker patife. Seja como for, pode salvar os nossos cidadãos?
+0x00000096 Obrigado. Vá imediatamente para o planeta ~mission_target_planet~, que orbita no sistema ~mission_target_star~, e destrua todas as torres. Ataque rapidamente, antes que o tempo se esgote!
+0x0000003F Oh, ~player_creature_name~, obrigado! Aqui tem as suas ~mission_rewards~ Sporoas.~p~Com aquelas torres derrubadas, o nosso pequenino e amoroso Sr. Risos está a salvo!~p~Bolas! Disse isto em voz alta!?! Não deveria saber do Sr. Risos, o nosso mini-Oogie de estimação. Gostamos tanto daquele pequenote!~p~*Sniff*~p~Os do ~mission_target_empire~ apanharam-no, mas agora, que destruiu eficazmente as defesas deles, podemos recuperar o Sr. Risos.~p~E depois, o planeta ~mission_target_planet~ irá colher uma terrível tempestade!
+0x0000006F O QUÊ?!!! COMO SE ATREVE A DESAFIAR AS NOSSAS ORDENS?!!!~p~O Sr. Risos, o nosso querido mini-Oogie pequenino, fofinho, pequerruchinho foi feito refém pelo ~mission_target_empire~!!~p~Se fez algum mal ao Sr. Risos...~p~VAMOS DEVORAR A SUA CARNE!!!~p~Mas está com sorte. Não há tempo para vingançazinhas. Não quando o Sr. Risos pode estar em perigo. Temos de canalizar todos os nossos esforços para o encontrar!!!~p~FORA!!!
+0x0000003E Oh, mal posso esperar para retomar a minha correspondência com Goolp, e de certeza que todos os outros estão igualmente felizes por ter de volta os seus correspondentes de ~mission_target_planet~!~p~Aqui tem a sua recompensa, como prometido: ~mission_rewards~ Sporoas. A sério, nem sabemos como agradecer.~p~Agora, se me der licença, tenho de começar a escrever uma longa carta para o meu querido amigo Goolp.
+0x00000018 Detestamos fazer juízos de valor, mas, em nossa opinião, os membros do Culto Maníaco Suicida, que se apoderaram da rede de defesa do planeta ~mission_target_planet~, começaram a ultrapassar os limites da nossa tolerância. Talvez aceite fazer alguma coisa para os desencorajar?
+0x00000026 O planeta ~mission_target_planet~ encontra-se no sistema estelar ~mission_target_star~.~p~Resolver rapidamente esta nova mudança de poder irá permitir-nos manter a nossa relação com ~mission_target_empire~. Em troca, dar-lhe-emos ~mission_rewards~ Sporecoroas.
+0x0000002A Pode localizar estes criminosos da moda brutos e sem classe no planeta ~mission_target_planet~, que orbita à volta do plano eclíptico de um corpo celeste, no sistema ~mission_target_star~.~p~Se nos ajudar a erradicar pacificamente estas aberrações da moda desta zona da galáxia, ficar-lhe-íamos gratos para sempre.~p~Além disso, podemos dar-lhe ~mission_rewards~ Sporoas, como remuneração.~p~Poderia isto por acaso interessar-lhe?
+0x00000015 A frustração e a ira reinam no ~mission_source_empire~. Alguns dos nossos infelizes cidadãos estão a ser oprimidos pela espécie militarista do planeta ~mission_target_planet~. Serão oferecidas grandes recompensas a quem conseguir libertá-los!
+0x00000107 As torres do ~mission_target_empire~ situam-se no planeta no sistema ~mission_target_star~.
+0x000000DB Destrua todas as torres do ~mission_target_empire~. O ~mission_target_empire~ situa-se no planeta ~mission_target_planet~, no sistema ~mission_target_star~.
+0x00000031 Os seres do ~mission_source_empire~ poderiam viver em liberdade se as torres dos nossos opressores, no planeta  ~mission_target_planet~, fossem destruídas. Infelizmente, somos uma espécie pacífica,e não podemos fazer isto nós mesmos.
+0x00000017 Infelizmente, a malvadez invade o universo! Industrialistas que tentam obrigar a um aumento dos preços ocuparam as torres do planeta ~mission_target_planet~ e estão a ameaçar bloquear as nossas importações baratas e amigáveis do consumidor! Pode ajudar-nos, em troca de uma soma bastante simpática?
+0x00000006 O acordo do planeta ~mission_source_empire~ garante aos nossos cidadãos liberdade contra os tiranos. Uma minoria dissidente controlou o planeta ~mission_target_planet~ e está a fortificar as cidades. Ajuda-nos a reprimir esta revolta e a libertar os cidadãos de ~mission_target_planet~?
+0x00000005 O ruído electromagnético das torres de defesa do planeta ~mission_target_planet~ está a interferir com os nosso instrumentos delicados. Precisamos que as desactive completamente, para podermos terminar as nossas análises. O ~mission_target_empire~ não parece compreender, mas é para bem deles.
+0x00000028 Ai, desculpe! O planeta ~mission_target_planet~ encontra-se no sistema estelar ~mission_target_star~. Deve ser fácil encontrá-lo.~p~Em troca, damos-lhe ~mission_rewards~ Sporecoroas.~p~Oh, mal posso esperar para voltar a escrever aos meus correspondentes do planeta ~mission_target_planet~. Oh, que diálogo mantínhamos! Mal posso esperar para publicar a colecção. Bem, eram um pouco vulgares. Um tanto de mau gosto. Ligeiramente altivos. Um pouco marotos. Resumindo, uma festa!~p~Ho! Ho! Ho! Ho! Ho!
+

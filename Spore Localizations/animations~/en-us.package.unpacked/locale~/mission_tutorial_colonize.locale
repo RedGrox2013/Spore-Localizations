@@ -1,0 +1,76 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000000E We need to expand our Empire and our wealth by building colonies on other planets, for mining resources.~p~We've drafted a few volunteers to be part of the Colony Incredi-Pak, which we've placed in your Colonization bin. Our astronomers have been observing the heavens and have identified a hospitable planet, ~mission_target_planet~.
+0x00000016 Okay. How do I establish a colony?
+0x00000017 I'll explore space on my own.
+0x0000001B Excellent! Placing a colony is easy.~p~After flying to planet ~mission_target_planet~, select the colony tool that has been added to your Colonization tool bin and place the colony on land, near a spice geyser.~p~It will instantly unpack, creating a colony. No assembly required.~p~You might want to make contact with the colony to make sure the citizens we packed in there, unpacked safely.
+0x0000000F One more thing before I go...
+0x00000010 Oh, one more thing...
+0x00000011 Hey, one other thing...
+0x0000001C I will make the Empire proud! So long!
+0x0000001D I won't return until planet ~mission_target_planet~ has been colonized!
+0x0000001E I won't fail you! Farewell!
+0x0000001F Totally! I'm just the dude for the job!
+0x00000020 Once again, excellent work, Captain!~p~Our empire will one day dominate the galaxy.~p~We'll be counting on you to visit this colony frequently to collect the spice it produces.~p~Our scientists are busy researching new technologies to improve the Terrascores of planets, which will one day help to improve conditions on our new colony planet.~p~In the meantime, we have more pressing matters to attend to. Are you ready to continue?
+0x0000002C I'm in.
+0x00000028 Captain ~player_creature_name~! Have you lost your marbles?~p~We must colonize planet ~mission_target_planet~.~p~Place a colony, ideally in an area that is on land and near Spice geysers.
+0x00000029 Okay, Okay. One more thing before I go...
+0x0000002A And another thing...
+0x0000002B There was one other thing...
+0x00000030 I got it! Wish me luck!
+0x00000031 Okay, I think I understand!
+0x00000032 Colonize near Spice geysers. Got it.
+0x00000033 Of course!
+0x00000034 Oh I knew THAT! I was just kidding!
+0x00000001 Are you sure? Expansion of our empire will be an economic boon for our society, and the cost of space flight will drop as well.~p~At the same time, leg-room and the in-flight beverage selections will increase!
+0x00000012 I'd like to discuss something else...
+0x00000002 Maybe later.
+0x00000003 Not now, I'm busy.
+0x00000004 Maybe in a bit.
+0x00000005 I'll be back when I'm ready to colonize.
+0x00000035 No luck Captain...? That's disappointing, but don't despair.~p~Better luck next time.
+0x00000039 I'd like to discuss something else...
+0x0000003C Sorry. I'll be back.
+0x0000003D Yes, I was a bit distracted. So long for now
+0x0000003F Goodbye, for now.
+0x00000040 The Empire does not favor those who lack the mettle to do its bidding. Your failings of tenacity shall be noted. Our people will talk of your shortcomings.
+0x00000013 I'd like to discuss something else...
+0x00000041 I can take it.
+0x00000042 Nothing I haven't heard before.
+0x00000043 Maybe you should get over it.
+0x00000044 Next time, try a little respect!
+0x00000045 ...
+0x00000046 What am I supposed to do again?
+0x00000047 What's the purpose of this assignment?
+0x00000048 Unexpected graviton turbulence scrambled our mission planning.
+0x00000049 The exact goals of this mission were erased from our uh... systems.
+0x0000000D Ah, of course! The Mission Log. I will look there!
+0x0000006A Before I go, I have other questions...
+0x0000007B Also...
+0x0000007C One more thing...
+0x0000007D I'd rather do something else.
+0x0000007F This task no longer fits into my schedule.
+0x00000092 Very sorry to have bothered you. So long.
+0x00000093 Until we speak again. So long.
+0x00000094 I can see you are busy. We'll speak later.
+0x0000001A Okay. Here is another one that you can use to install a colony. This is going to cost you ~tool_cost~ Sporebucks.~p~This time be more careful.
+0x00000021 We'd give you another Colony Incredi-Pak, but it costs ~tool_cost~ Sporebucks and you don't seem to have enough.~p~Come back when you have enough Sporebucks.
+0x00000022 One more thing before I go...
+0x00000023 Oh, one more thing...
+0x00000024 Hey, one other thing...
+0x00000025 Understood. Thanks!
+0x0000004B Place a colony on planet ~mission_target_planet~.
+0x0000000A You are in the right star system. Fly to planet ~mission_target_planet~.
+0x0000000B You are at planet ~mission_target_planet~. Fly closer to place your colony.
+0x0000000C Use your colony tool to create a colony.
+0x00000091 Report back to your Homeworld for glory!
+0x00000090 This planet is found in the ~mission_target_star~ system.~p~Place the colony in an area that is on land and near spice geysers.
+0x00000006 You have successfully colonized a planet.~p~Report back to your Homeworld for glory!
+0x00000007 Colonize planet ~mission_target_planet~ in the ~mission_target_star~ system.~p~Place a colony, ideally in an area that is on land and near spice geysers.~p~Do this successfully, and we'll give you ~mission_rewards~ Sporebucks.
+0x00000008 You have successfully colonized a planet.~p~Report back to your Homeworld for glory and collect ~mission_rewards~ Sporebucks!
+0x0000004C Success! Planet ~mission_target_planet~ has been colonized!

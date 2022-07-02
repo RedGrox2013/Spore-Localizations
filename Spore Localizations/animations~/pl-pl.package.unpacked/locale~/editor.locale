@@ -1,0 +1,162 @@
+﻿### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882EA Sporetastycznie
+0x045882FB Sporezian
+
+#Default Creation name
+
+0x04D93065 Obiekt bez nazwy
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+
+0x0450C9DC Modyfikator sterowania uaktywnia wszystkie bloki.
+0x0450C9DD Modyfikator sterowania uaktywnia podobne bloki.
+0x0450C9DE Pipeta wybiera zarówno kolor, jak i teksturę.
+0x0450C9DF Pipeta wybiera tylko kolor.
+0x0450C9E0 Pipeta wybiera tylko teksturę.
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+
+0x061349C1 Nie udało się opublikować obiektu „~newmodelname~”.
+0x047E7E84 Element „~newmodelname~” został opublikowany!
+0x047E7E83 Czy na pewno chcesz opublikować „~newmodelname~” w serwisie Spore.com?~br~Publikujesz jako ~username~.
+0x047E7E85 Element „~newmodelname~” jest już opublikowany!
+
+### this text goes in CSA###
+#exiting game
+
+0x0488F60D Czy na pewno chcesz wyjść z narzędzia SPORE: Fabryka stworów?
+
+#paint mode paint buddy
+
+0x05BD6E0D Skasuj mnie [NOT IN USE]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+
+0x053740AD To dzieło jest nieprawidłowe.
+0x053740AE Możesz grać z użyciem tego dzieła, ale nie zostanie ono opublikowane, ponieważ:[NOT IN USE]
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+
+0x04592638 <Kliknij tu, aby się zalogować>
+0x0563D473 Element „~modelname~” nie został opublikowany.
+0x045921AD Element „~modelname~” został opublikowany!
+0x045700B6 Czy na pewno chcesz opublikować „~modelname~” na Spore.com?~br~Publikujesz jako ~username~.
+
+#paint mode color chicklets
+
+0x05BF125F Kliknij i przytrzymaj wciśnięty lewy przycisk myszy, aby wyświetlić więcej kolorów.
+
+### this text goes in CSA###
+# Strings for palette filters
+
+0x0535B1AD -----------
+0x0535B1B0 Moje dzieła [NOT IN USE]
+0x0535B1B1 Sugestie [NOT IN USE]
+0x0535B1AE Wszystko [NOT IN USE]
+0x0535B1B2 Dzieła innych [NOT IN USE]
+0x0535B1AF Gra SPORE [NOT IN USE]
+
+# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+### The name of the main set ####
+
+0xB4CEA015 Farby S:FS (wersja próbna)
+0xB4CEA016 Farby S:FS (rejestracja)
+0xB4CEA017 Farby S:FS (partner 1)
+0xB4CEA010 Elementy S:FS (wersja próbna)
+0xB4CEA014 Elementy S:FS (komplet)
+0xB4CEA011 Elementy S:FS (rejestracja)
+0xB4CEA013 Elementy S:FS (partner 2)
+0xB4CEA012 Elementy S:FS (partner 1)
+0xB4CEA019 Farby S:FS (komplet)
+0xB4CEA018 Farby S:FS (partner 2)
+0x9F3415A4 Podstawa SPORE
+
+### this text goes in CSA###
+
+0x00000001 Kopiuj za
+0x00000002 Sprzedaj za
+0x00000005 Liczba budynków
+0x00000007 Sprzedaj za
+0x00000003 Style częściowe
+0x00000101 Za drogo
+0x00000102 Za dużo elementów
+0x00000105 Stwór ma już to narzędzie
+0x0000010B Zablokowane
+0x00000109 Możliwy tylko 1 ratusz w mieście
+0x00000107 Zdobądź to narzędzie od innych plemion
+0x00000008 Asymetryczne [NOT IN USE]
+0x0000010C Osiągnięto ogólny limit pojazdów
+0x0000020C (NIEUŻYWANE) Zakupiono już maksymalną liczbę pojazdów wszystkich rodzajów.
+0x00000201 (NIEUŻYWANE) Ten obiekt jest za drogi, w tej chwili nie możesz go kupić.
+0x00000208 (NIEUŻYWANE) Aby móc wybudować więcej budynków na tej planecie, należy poprawić jej typ.
+0x00000207 (NIEUŻYWANE) Aby uzyskać dostęp do tego narzędzia, zaprzyjaźnij się z plemieniem, które nim dysponuje, lub podbij je.
+0x00000206 (NIEUŻYWANE) Pojazdy są budowane automatycznie.
+0x00000209 (NIEUŻYWANE) Ratusz umożliwia wznoszenie wszystkich pozostałych budynków każdego miasta. Aby rozwijać miasto, wznoś inne budynku!
+0x0000020D (NIEUŻYWANE)
+0x0000020A (NIEUŻYWANE) Brak wolnych miejsc pod wieżyczki.
+0x00000202 (NIEUŻYWANE) Twoje dzieło zawiera już zbyt wiele elementów. Usuń część z nich, aby zwolnić miejsce.
+0x00000205 (NIEUŻYWANE) Twoje plemię potrzebuje tylko 1 egzemplarza każdego narzędzia.
+0x00000204 (NIEUŻYWANE) Zakupiono już maksymalną liczbę pojazdów tego typu.
+0x00000203 (NIEUŻYWANE) Brak wolnych miejsc pod budynki. Usuń jakiś budynek, aby zwolnić miejsce.
+0x00000108 Za niski typ planety
+0x00000106 Kolonie kupują własne pojazdy
+0x0000010A Brak miejsca na więcej wieżyczek
+0x00000104 Masz maks. liczbę pojazdów danej specjalizacji
+0x00000103 Brak miejsca na więcej budynków
+0x0000010D Stwórz, zmodyfikuj lub wybierz statek kosmiczny.
+
+### this text goes in CSA###
+#Generic Editor name
+
+0x04D94893 Twórca
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+
+0x0538602B Aby uzyskać dostęp do tego elementu, kup grę SPORE.
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+
+0x0450D286 Czy na pewno chcesz usunąć obiekt z gry na stałe? Gra zostanie zapisana i uruchomiona ponownie, aby obiekt został prawidłowo usunięty.
+0x0450D285 Czy na pewno chcesz usunąć obiekt z gry na stałe?
+0x0450D284 Czy chcesz usunąć wszystkie elementy związane z tym obiektem z zapisanych gier?
+0x063AB852 Ten obiekt jest awatarem w jednej z Twoich gier. Aby go usunąć, musisz najpierw skasować tę grę.
+
+### this text goes in CSA###
+# Other strings used in shopping
+
+0x046D0F59 Niniejsze dzieło wykorzystuje niezainstalowane elementy SPORE. Rusz na zakupy!
+
+### this text goes in CSA###
+#CSA
+
+0x0563EF7C Zapisano ~newmodelname~. Możesz oglądać ~newmodelname~ w sekcji „Moje dzieła” w Sporpedii.
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+
+0x1000000B Zapisać dzieło „~newmodelname~” jako nowe dzieło, czy zastąpić dzieło „~oldmodelname~”?
+0x1000000C Aktualnie zapisywane jest dzieło „~newmodelname~”. Jeżeli zdecydujesz się wyjść teraz, dzieło „~newmodelname~” zostanie bezpowrotnie utracone. Czy na pewno chcesz wyjść?
+0x10000019 Twoje dzieło nie może zostać zapisane. Powód: ~br~~br~~generic0~~br~~br~Czy chcesz kontynuować wczytywanie? Spowoduje to utracenie wszystkich zmian dokonanych w aktualnie edytowanym dziele.
+0x1000001A Zapisać przed wczytaniem dzieło „~newmodelname~” jako nowe dzieło, czy zastąpić dzieło „~oldmodelname~”?
+0x10000029 Twoje dzieło nie może zostać zapisane. Powód:~br~~br~~generic0~~br~~br~Czy na pewno chcesz utworzyć nowe dzieło? Spowoduje to utracenie wszystkich zmian dokonanych w aktualnie edytowanym dziele.
+0x1000002A Czy przed utworzeniem nowego dzieła chcesz zapisać dzieło „~newmodelname~” jako nowe dzieło, czy zastąpić dzieło „~oldmodelname~”?
+0x1000003A Zapisać przed wyjściem dzieło „~newmodelname~” jako nowe dzieło, czy zastąpić dzieło „~oldmodelname~”?
+0x10000039 Twoje dzieło nie może zostać zapisane. Powód:~br~~br~~generic0~~br~~br~Nie zapisując gry, utracisz swoje dzieło.
+0x10000040 Gdy zaczniesz przydzielać dodatki, stracisz możliwość modyfikowania stwora. Czy chcesz kontynuować? [NIEUŻYWANE]
+0x1000000D Jeśli teraz wyjdziesz, wszystkie zmiany zostaną utracone. Czy na pewno chcesz wyjść?
+0x10000038 Zapisać zmiany w dziele ” ~newmodelname~” przed wyjściem?
+0x10000028 Zapisać zmiany w „~newmodelname~” przed utworzeniem nowego dzieła?
+0x10000008 Zapisać zmiany w dziele „~newmodelname~” przed kontynuowaniem?
+0x10000018 Zapisać zmiany w dziele „~newmodelname~” przed wczytaniem?
+0x1000000A Zapisać najpierw dzieło „~newmodelname~” jako nowe dzieło, czy zastąpić dzieło „~oldmodelname~”?
+0x10000009 Twoje dzieło nie może zostać zapisane. Powód: ~br~~br~~generic0~~br~~br~Czy chcesz kontynuować wczytywanie (spowoduje to utracenie wszystkich zmian dokonanych w aktualnie edytowanym dziele)?
+

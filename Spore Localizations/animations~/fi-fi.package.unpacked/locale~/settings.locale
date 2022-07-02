@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Riittävä 
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Harjoituspelit
+0x058B62B1 Pelivinkit
+0x058B62B2 Ruudunvieritys
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Oletusarvot
+0x0474E6B5 Kuva-asetukset
+0x0474E6B6 Matala
+0x0474E6C2 Keskiverto
+0x0474E6C6 Korkea
+0x0474E6D0 Pintojen tarkkuus
+0x0474E6DE Pelaajamallin laatu
+0x0474E6E4 Planeetan laatu
+0x0474E6E5 Valaistuksen laatu
+0x0474E6E9 Kuvan koko
+0x0474E6ED Näytön välimuistin koko (Mt)
+0x0474E6F0 Profiilit
+0x058A2A2B Kuvakoon muuttaminen edellyttää pelin uudelleenkäynnistämistä. Muutos saattaa vaikuttaa järjestelmän suorituskykyyn.
+0x058B6240 Koko näyttö
+0x058B624C Ikkunatila
+0x0474E6CC Varjojen taso
+0x0474E6D6 Kuvatehosteiden taso
+0xBBFC7687 Kentän syvyys
+0x0674D28F Valotehoste
+0x066A4BC8 Reunojenpehmennys
+0x0695A585 KOMENTO- ja RETURN-näppäimiä painamalla voit vaihtaa ikkunatilaan ja takaisin.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B6 Liikuta avaruusalusta
+0x080B23B7 Kallista ja käännä kuvakulmaa
+0x080B23B2 Sivilisaatio
+0x080B23B3 Valitse kohde
+0x080B23B4 Käytä laitetta
+0x090A24A7 Liikuta kuvakulmaa
+0x090A23A4 Lähennä/loitonna
+0x090A23A3 Liikuta otusta
+0x090A28A7 Valitse kulkuneuvo
+0x090A28A6 Valitse heimon jäsen
+0x090A26A9 Kallista ja käännä kuvakulmaa
+0x088B63B6 Otus
+0x090A21A6 Ohjaa
+0x088B63B9 Heimo
+0x088B63B7 Napsauta tätä, niin kartta siirtyy aina kohtaan, jossa napsautat hiiren oikeaa painiketta
+0x090A29A7 Liikuta solua
+0x090A50AA Pidä hiiren vasen painike alhaalla ja liikuta kohdistinta, tai käytä W-, A-, S- ja D-näppäimiä
+0x090A50A6 Pyöritä hiiren rullaa
+0x090A50A5 Pidä hiiren oikea painike alhaalla ja liikuta kohdistinta
+0x090A50A7 Pidä hiiren molemmat painikkeet alhaalla ja liikuta kohdistinta
+0x090A50A8 Pidä hiiren oikea painike alhaalla ja liikuta kohdistinta, tai käytä W-, A-, S- ja D-näppäimiä
+0x090A50A9 Otus seuraa kohdistinta
+0x090A50A1 Käytä W-, A-, S- ja D-näppäimiä
+0x090A30B5 Valitse rajaamalla haluamasi kulkuneuvot
+0x090A30B4 Valitse rajaamalla haluamasi heimon jäsenet
+0x090A50A4 Napsauta hiiren oikeaa painiketta
+0x090A50A3 Pidä hiiren vasen painike alhaalla ja liikuta kohdistinta
+0x090A50A2 Napsauta hiiren vasenta painiketta
+0x088B63B3 Solu
+0x080B23B9 Avaruus
+0x088B63B4 Napsauta tässä, niin otus seuraa kohdistinta automaattisesti
+0x088B63B5 Vie kohdistin kuvakkeiden päälle, niin näet mitä ne merkitsevät
+0x090A50AB Pidä alhaalla KOMENTO- ja OPTIO-näppäin sekä hiiren vasen painike
+0x080B23B8 Avaruusaluksen korkeus
+0x090A50AC Pidä hiiren keskimmäinen painike alhaalla
+
+#### profile - user selects ####
+
+0x0474E6FC Käyttäjän valinta
+
+#### profile - performance ####
+
+0x0474E6F1 Suorituskyky
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Kirjaudu ulos 
+0x0565289E Kirjaudu sisään
+0x0565289F Rekisteröidy
+0x056528A0 Palvelinyhteys
+0x056528A1 Tila:
+0x056528A4 Rekisteröitymätön
+0x056528A5 Luo tili, niin voit avata Spore-yhteyden.
+0x056528A6 Ei verkkoa
+0x056528A7 Avaa Spore-yhteys.
+0x056528A8 ~generic0~ Yhdistetty
+0x056528A9 Katkaise Spore-yhteys tai vaihda käyttäjää.
+0x058B63D4 Ulkonäöllinen vastaavuus
+0x056528A3 Rekisteröitymis- ja kirjautumiskehote
+0x05E39554 Päivitetään sisältöä...
+0x058B63D3 Vain kaverien luoma sisältö
+0x0626E391 Päiväraja, jonka jälkeen kohteet poistetaan
+0x0626E392 Kopioi poistetut kohteet arkistoon
+0x0626E390 Poista vanhat lataukset
+0x056528A2 Verkkoasetukset
+0x067A21D9 pv
+0x067A21D8 Lataa sisältöä vain tilauksista, jotka on julkaistu enintään näin monta päivää sitten:
+0x067A21D7 Latausmuistin koko (Mt)
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Ääniasetukset
+0x0473EF2C Kuva-asetukset
+0x0473EF2D Peliasetukset
+0x0473EF2E Tallennusasetukset
+0x0473EF2F Verkkoasetukset
+0x0473EF30 Tekijät
+0x0473EF31 Tallenna asetuksesi
+0x0473EF32 Sulje asetusvalikko tallentamatta muutoksia
+0x0473EF33 Asetukset
+0x0473EF34 Ohjausasetukset
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 Kirjaudu automaattisesti sisään YouTubeen
+0x0589E518 Videon koko
+0x0589E519 160 x 120
+0x0589E51A 320 x 240
+0x0589E51B 640 x 480
+0x0589E51C Kuvan koko
+0x0589E51D Pieni
+0x0589E51F Suuri
+0x058B6381 Peli- ja tallennusasetukset
+0x058B63A0 Nauhoita video ilman ääniä
+0x0589E51E Kohtuullinen
+0x05D1185C Peli- ja ohjeasetukset
+0x0631825F Mikäli käytit asennettaessa oletuskansiota, kuvat ja videot on tallennettu kansioon ~generic0~ (sisällön tyyppi)
+
+#### profile - image quality ####
+
+0x0474E6F5 Kuvanlaatu
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Yleisvoimakkuus
+0x0431D896 Vaienna kaikki
+0x0431D897 Erillisvoimakkuudet
+0x0431D898 Kaiutinasetukset
+0x0431D899 2 kaiutinta (stereo)
+0x0431D89A 4 kaiutinta (nelikanavainen)
+0x0431D89B 5.1-kaiutinjärjestelmä (tilaääni)
+0x0431D894 Tehosteet
+0x0431D895 Musiikki
+0x0431D89C Äänenlaatu
+0x0431D89D Kaikkien äänten voimakkuus
+0x0431D89E Pelimusiikin voimakkuus
+0x0431D89F Puheen voimakkuus
+0x0431D8A0 Tehosteiden voimakkuus
+0x0431D8A1 Sinun on oltava Spore-galaksiruudussa, jotta kaiutinasetuksia voi muuttaa.
+0x0431D893 Puhe
+
+## Mac version
+
+0x06318D68 Mikäli käytit asennettaessa oletuskansiota, kuvat ja videot on tallennettu käyttäjätunnuksesi kansioon Documents/Omat Spore-luomukset/(sisällön tyyppi).
+

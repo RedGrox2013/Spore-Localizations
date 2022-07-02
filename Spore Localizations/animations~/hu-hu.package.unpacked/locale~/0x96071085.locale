@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 A kaland által felhasznált következő kreációkat a szerver törölte. Szeretnéd ismét publikálni, őket, hogy más is játszhassa a kalandot?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 A kalandban szereplő alábbi alkotások még nem kerültek a közösség elé. Kívánod ezeket publikálni, hogy a kalandot mások is játszhassák?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A A kalandban szereplő bizonyos alkotások tiltás alatt állnak.~p~ Pontszámod nem kerül féltüntetésre.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B A kalandban szereplő bizonyos alkotások törlésre kerültek.~p~ Letöltöd őket ismét?
+
+# Editing adventures offline
+
+0x07AA5B67 Törlés
+0x07AA5B66 Helyettesítés
+0x07AA5B64 Mielőtt alkotásokat tölthetnél le ehhez a kalandhoz, be kell jelentkezned. Ha szerkeszted ezt a kalandot, ezek az alkotások helyettesítésre kerülnek.
+0x07AA5B65 Bejelentkezés
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E A kalandban szereplő egyes alkotások tiltás alatt állnak, illetve olyan elemeket tartalmaznak, amelyekkel nem rendelkezel.~p~ Egyes kreációk helyére más kerül majd.
+
+# Editing adventures with banned assets
+
+0x0750187C A kalandban szereplő bizonyos alkotások tiltás alatt állnak.~p~ Egyes elemeket más fog helyettesíteni.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 A kaland bizonyos alkotása tiltás alatt állnak- ~p~ Pontszámod nem került megosztásra.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 A kalandban használt alkotások letöltéséhez be kell jelentkezned.
+0x00000004 Az alkotás letöltése sikertelen
+0x00000002 Kalandban szereplő alkotások letöltése
+0x00000008 Közzététel...
+0x00000001 Alkotás letöltése
+0x00000006 Az alkotások közzététele sikertelen
+0x00000007 Közzététel folyamatban
+0x00000003 Mégse
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Alkotás letöltése sikertelen. Folytatod?~p~Egyes elemeket más fog helyettesíteni és pontszámod nem kerül megjelenítésre.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D A kalandban szereplő egyes alkotások olyan elemeket tartalmaznak, amelyekkel nem rendelkezel.~p~ Bizonyos alkotások helyére más kerül majd.
+

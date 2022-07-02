@@ -1,0 +1,123 @@
+﻿# Genre filters
+
+0x01020006 Socializza
+0x01020007 Esplora
+0x01020003 Nessun genere
+0x01020005 Difendi
+0x0102000A Raccogli
+0x01020009 Storia
+0x01020008 Missione
+0x0102000D Modello
+0x0102000C Pianeti
+0x0102000B Enigma
+0x01020004 Attacca
+
+#######################################
+# Filter Names
+
+0x01020001 Avventure
+0x01020002 Avventure giocabili
+0x07200107 Capitano
+0x07200108 I miei Capitani
+
+#
+# Adventure large card
+#
+# Adventure statistics: Displays how many times an adventure has been played
+
+0x02100001 ~ep1_adventure_stats_num_plays~ partite
+
+### Difficulty Descriptions
+
+0x07D86C49 Difficoltà: ~ep1_adventure_difficulty~
+0x07D86C6A Molto facile
+0x07D86C87 Intermedia
+0x07D86C7C facile
+0x07D86CA8 Molto difficile
+0x07D86C9F difficile
+
+# Unpublish
+
+0x07D9CFD7 Vuoi smettere di condividere questa creazione? La creazione sarà rimossa dal server.
+0x07D9CFB6 Interrompi condivisione
+
+#######################################
+# Misc
+
+0x02000002 Oggetti selezionati: ~num_selected_items~
+0x02000001 L'oggetto selezionato è attualmente in fase di modifica. Ora non puoi rimuoverlo.
+
+#######################################
+# Category Names
+#######################################
+# Feed Item Names
+
+0x00000002 Oggetti
+
+# Audio filters
+
+0x01021007 Folla
+0x01021006 Audio
+0x01021008 Ambiente
+0x0102100A Musica
+0x01021009 Meccanici
+0x0102100C Suoni unici
+0x0102100B Note
+
+### Ratings
+
+0xC7647889 Valutazione
+
+# Download adventure
+
+0x02200002 Vuoi aprire questa avventura?
+0x02200001 Scarica avventura
+
+# Adventure points
+
+0x02100002 ~ep1_adventure_stats_num_points~ pti
+
+#######################################
+# Category Names
+
+0x00000001 Oggetti avventura
+
+# Fixed object filters
+
+0x01021004 Rocce
+0x01021003 Oggetti dinamica di gioco
+0x01021002 Oggetti portatili
+0x01021005 Decorazioni statiche
+0x01021001 Oggetti fissi
+
+# Effects filters
+
+0x01022003 Effetti naturali
+0x01022002 Effetti di luce
+0x01022006 Effetti unici
+0x01022005 Effetti bizzarri
+0x01022004 Effetti futuristici
+0x01022001 Effetti
+
+#######################################
+# Call To Action Messages
+
+0x072925B1 Scegli un pianeta
+0x07B24B83 Devi accedere per visualizzare le classifiche e le valutazioni per questa avventura.
+0x079EDCD5 Crea o scegli il tuo Capitano
+0x072925B0 Scegli un'avventura
+0x072000E3 Crea o scegli un Capitano
+0x072925BB Scegli uno o più effetti
+0x072925BA Scegli una o più astronavi
+0x072925B9 Scegli uno o più veicoli
+0x07B67C69 Scegli uno o più oggetti dinamica di gioco
+0x072925BD Scegli un oggetto
+0x072925BC Scegli uno o più oggetti audio
+0x072925B8 Scegli uno o più edifici
+0x072925B4 Scegli un oggetto audio
+0x072925B3 Scegli uno o più oggetti
+0x072925B2 Crea o scegli un membro del cast
+0x072925B7 Scegli una o più creature
+0x072925B5 Scegli la flora
+0x072925B6 Scegli il tuo cast per l'avventura
+

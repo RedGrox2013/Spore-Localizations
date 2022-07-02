@@ -1,0 +1,170 @@
+﻿### profile - middle ground ###
+
+0x0474E6F8 Elég jó
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Segédanyagok
+0x058B62B1 Játéktippek
+0x058B62B2 Görgetősáv
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Alapbeállítások
+0x0474E6B5 Grafikus beállítások
+0x0474E6B6 Alacsony
+0x0474E6C2 Közepes
+0x0474E6C6 Magas
+0x0474E6CC Árnyékok
+0x0474E6D0 Minta részletesség
+0x0474E6E4 Bolygó minősége
+0x0474E6E5 Fény minősége
+0x0474E6E9 Képernyő mérete
+0x0474E6ED Grafikai tárhely mérete (MB)
+0x0474E6F0 Profilok
+0x058B6240 Teljes képernyő
+0x0474E6DE Lény részletessége
+0x058B624C Ablakos mód
+0x058A2A2B A képernyőméret megváltoztatása újraindítást igényel, és befolyással lehet a teljesítményre.
+0xBBFC7687 Látótávolság
+0x0674D28F Virágzó kép
+0x066A4BC8 Élsimítás
+0x0695A585 A Parancs-Visszatérés segítségével válthatsz ablakos, illetve teljes képernyős mód között.
+0x0474E6D6 Grafikai hatások
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x080B23B6 Űrhajó mozgatása
+0x080B23B2 Civilizáció
+0x080B23B3 Cél választása
+0x080B23B4 Eszköz aktiválása
+0x090A24A7 Kamera mozgatása
+0x090A23A4 Kamera közelítése/távolítása
+0x090A23A3 Lény mozgatása
+0x090A28A7 Jármű kiválasztása
+0x090A28A6 Törzstag kiválasztása
+0x088B63B6 Lény
+0x088B63B9 Törzs
+0x088B63B7 Kattints ide, hogy a térkép forgatható legyen az egér jobb gombjának megnyomása után
+0x090A29A7 Sejt mozgatása
+0x090A50AA Kattints a jobb egérgombbal, majd húzd arrébb a kurzort vagy használd a W, A, S, D, gombokat.
+0x090A50A6 Görgess a görgővel
+0x090A50A5 Kattints a jobb egérgombbal, majd húzd arrébb a kurzort
+0x090A50A7 Kattints mindkét egérgombbal, majd húzd arrébb a kurzort
+0x090A50A8 Kattints a jobb egérgombbal, majd húzd arrébb a kurzort vagy használd a W, A, S, D, gombokat.
+0x090A50A9 A lény a kurzort követi
+0x090A50A1 W, A, S, D gombok használata
+0x090A30B5 Téglalap húzásával válaszd ki a járműveket
+0x090A30B4 Téglalap húzásával válaszd ki a törzstagokat
+0x090A50A4 Kattints a jobb egérgombbal
+0x090A50A3 Kattints a bal egérgombbal, majd húzd arrébb
+0x090A50A2 Kattints a bal egérgombbal
+0x088B63B3 Sejt
+0x088B63B4 Kattints ide a kurzor automatikus követéséhez
+0x080B23B9 Űr
+0x080B23B8 Magasságváltoztatás
+0x090A26A9 Kamera billentése és forgatása
+0x090A50AB Tartsd lenyomva a Command és Option billentyűket, valamint a bal egérgombot
+0x080B23B7 Kamera billentése és forgatása
+0x088B63B5 Vidd a kurzort az ikonok fölé, hogy lásd, hogyan működnek
+0x090A21A6 Utasítások
+0x090A50AC Tartsd lenyomva a középső egérgombot
+
+#### profile - user selects ####
+
+0x0474E6FC Felhasználó választása
+
+#### profile - performance ####
+
+0x0474E6F1 Teljesítmény
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289D Kijelentkezés
+0x0565289E Bejelentkezés
+0x0565289F Regisztráció
+0x056528A0 Kapcsolódás a szerverhez
+0x056528A4 Nem regisztrált
+0x056528A7 Csatlakozás a Spore-hoz.
+0x058B63D4 Esztétikai párosítás
+0x056528A3 Indításkor figyelmeztessen
+0x056528A8 ~generic0~ kapcsolódva
+0x056528A2 Online beállítások
+0x058B63D3 Csak baráti tartalom
+0x0626E392 Töröltek másolása az archív mappába
+0x0626E391 Napok száma, melyek után törlendő
+0x0626E390 Régi letöltések törlése
+0x05E39554 Tartalomadatbázis frissítése…
+0x067A21D9 Nap
+0x067A21D8 Csak az alábbi napnál újabb feliratkozások tartalmainak letöltése:
+0x067A21D7 Letöltési tár mérete (MB)
+0x056528A5 Hozz létre egy fiókot, hogy csatlakozhass a Spore-hoz!
+0x056528A1 Állapot:
+0x056528A9 Lekapcsolódás a Spore-ról vagy felhasználóváltás
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Hangbeállítások
+0x0473EF2C Grafikus beállítások
+0x0473EF2D Játékbeállítások
+0x0473EF2E Felvétel beállítások
+0x0473EF2F Online beállítások
+0x0473EF30 Stáblista
+0x0473EF31 Beállítások mentése
+0x0473EF32 Opciók bezárása mentés nélkül
+0x0473EF33 Beállítások
+0x0473EF34 Irányítás
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 160x120
+0x0589E51A 320x240
+0x0589E51B 640x480
+0x05664D28 Automatikus bejelentkezés a YouTube-ra
+0x0589E518 Klipméret
+0x0589E51C Képméret
+0x0589E51D Kicsi
+0x0589E51E Közepes
+0x0589E51F Nagy
+0x058B6381 Játék és felvétel beállítások
+0x058B63A0 Klip felvétele hang nélkül
+0x05D1185C Játék- és Súgóbeállítások
+0x0631825F Ha elfogadtad az alapértelmezett helyeket telepítéskor, képeidet és filmjeidet itt találod: ~generic0~(típus)
+
+#### profile - image quality ####
+
+0x0474E6F5 Képminőség
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D893 Hangok
+0x0431D897 Mix
+0x0431D898 Hangszóró beállítása
+0x0431D89A 4 hangszóró (quad)
+0x0431D89B 5.1 hangszóró (surround)
+0x0431D892 Fő
+0x0431D894 Effektek
+0x0431D896 Elnémítás
+0x0431D899 2 hangszóró (sztereó)
+0x0431D895 Zene
+0x0431D89C Hangminőség
+0x0431D89D Minden hang hangereje
+0x0431D89E Játékzene hangereje
+0x0431D89F Teretmények hangjainak hangereje
+0x0431D8A0 Hangeffektek hangereje
+0x0431D8A1 A hangszóróbeállítás csak a Spore Galaxis képernyőről érhető el.
+
+## Mac version
+
+0x06318D68 Ha elfogadtad az alapértelmezett helyeket telepítéskor, képeidet és filmjeidet a Spóralkotások\(típus) almappában találod a Dokumentumok mappában.
+

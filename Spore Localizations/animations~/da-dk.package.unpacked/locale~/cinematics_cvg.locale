@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000900 Du har erobret denne religiøse by med militære midler. Hvis du beholder denne specialitet, skal du angribe byer med lav glæde for at omvende borgerne.~br~Vælg byens specialitet.
+0x00000905 Du har opkøbt denne religiøse by. Hvis du beholder denne specialitet, skal du angribe byer med lav glæde for at omvende borgerne.~br~Vælg byens specialitet.
+0x00000903 Du har omvendt denne økonomiske by med religiøse midler. Økonomiske byer kan etablere handelsruter for at forbedre dine forhold og med tiden købe andre byer op. Vælg byens specialitet.
+0x00000904 Du har opkøbt denne militante by. Hvis du beholder denne specialitet, kan du bygge militærfartøjer, der kan erobre andre byer. Vælg byens specialitet.
+0x00000902 Du har omvendt denne militante by med religiøse midler. Hvis du beholder denne specialitet, kan du bygge militærfartøjer, der kan erobre andre byer. Vælg byens specialitet.
+0x00000901 Du har erobret denne økonomiske by med militære midler. Økonomiske byer kan etablere handelsruter for at forbedre dine forhold og med tiden købe andre byer op. Vælg byens specialitet.
+
+# capture - not first, change
+
+0x00000301 Religiøs
+0x00000302 Økonomisk
+0x00000300 Militant
+0x00000304 Religiøs
+0x00000305 Økonomisk
+0x00000303 Militant
+0x00000906 Du har erobret denne religiøse by med militære midler.~br~Vælg byens specialitet.
+0x00000909 Du har omvendt denne økonomiske by med religiøse midler.~br~Vælg byens specialitet.
+0x00000911 Du har opkøbt denne religiøse by.~br~Vælg byens specialitet.
+0x00000910 Du har opkøbt denne militante by.~br~Vælg byens specialitet.
+0x00000908 Du har omvendt denne militante by med religiøse midler.~br~Vælg byens specialitet.
+0x00000907 Du har erobret denne økonomiske by med militære midler.~br~Vælg byens specialitet.
+
+# Upgrades
+
+0x00000603 Succes! Selv den mægtigste vind lystrer nu vores teknologi! Lufttunnellen og turbinen gør dig i stand til at bygge fartøjer, der kan svæve og flyve langt over overfladen på vores planet!
+0x00000605 Fantastisk nyt! Vi har omsider slået tyngdekraften! Nu er det muligt at rejse i rummet. Det eneste, det kræver, er din hjælp til at designe det nye rumfartøj.
+0x00000601 Din virksomme stab af forskere har opfundet vandhjulet og det mekanisme transportbånd! Nu kan vi bygge fartøjer, der kan sejle på vand!
+
+##############################
+#########
+# Tutorial cinematics
+
+0x00000710 Din by er under angreb!  Du forsvarer din by ved at placere kanontårne, tilføje bygninger og forøge borgernes glæde.
+0x0000010A Din stamme dominerer dette kontinent, og er derfor klar til at fortsætte den evolutionære rejse fra stammeliv til civiliseret by!
+0x00000108 Din eneste by er blevet overtaget.
+0x00000403 Tillykke!  Du har gjort krav på din første krydderigejser.~br~Dette boretårn vil forsyne din nation med en fast indtægt.
+0x0653ADAD Du starter nu på Civilisationsfasen.
+0x00000400 En anden stamme fra din art har bygget en by på dit kontinent! Du kan erobre dem, mens de stadig er svage, eller forsøge at gøre dem til allierede.
+0x00000213 Hold udkig efter krydderigejsere i nærheden som denne her. Klik på den for at sende dit fartøj hen til den. Krydderi er så eftertragtet, at du tjener godt ved at grave efter det.
+0x0000010D Teknologiens og transportens æra er begyndt!  Din by er planetens første, men din art er ikke længere en fælles enhed ... inden længe vil andre byer dukke op, etableret af fraktioner fra din egen art. Du skal skabe samling for at fortsætte evolutionens gang.
+
+# Not In use
+
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet!  Click on your city hall to launch a spaceship and explore space!
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city!
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances!
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests!
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet. ~br~Your first task is to send it to claim a spice node.
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet. ~br~ Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent!~br~ Du kan erobre dem, mens de stadig er svage, eller vælge at gøre dem til allierede.
+
+# capture - keep
+
+0x00000805 Du har købt denne økonomiske by med økonomiske midler.~br~Den vil fortsat være en økonomisk by.
+0x00000803 Du har erobret denne militante by med militære midler.~br~Den vil fortsat være en militant by.
+0x00000804 Du har omvendt denne religiøse by til din religion.~br~Den vil fortsat være en religiøs by.
+
+# Deleted
+
+0x0000011F SLETTET
+0x00000112 SLETTET
+0x00000114 SLETTET
+0x00000113 SLETTET
+0x00000100 SLETTET
+0x00000101 SLETTET
+0x00000500 SLETTET
+0x00000600 SLETTET
+
+# superweapons
+
+0x00000701 Din Messias har erobret verdenen.
+0x00000702 Din Reklamekampagne har erobret verden.
+0x00000700 Din ICBM har erobret verdenen.
+

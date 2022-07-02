@@ -1,0 +1,121 @@
+﻿#######################################
+# Filter Names
+
+0x00020001 Aereo
+0x00020002 Edifici
+0x00020003 Cellule
+0x00020004 Municipio
+0x00020005 Coloniale
+0x00020006 Animali
+0x00020007 Nazioni
+0x00020008 Creature
+0x00020009 Imperi
+0x0002000A Religioso
+0x0002000B Commerciale
+0x0002000D Fabbrica
+0x0002000E Flora
+0x0002000F Albero alto
+0x00020010 Albero basso
+0x00020011 Arbusto
+0x00020013 Casa
+0x00020014 Terrestre
+0x00020015 Militare
+0x00020016 Musica
+0x00020017 Marino
+0x00020019 Veicoli
+0x0002001A Tribù
+0x0002001B Creature consigliate
+0x0002000C Intrattenimento
+0x00020012 Tutto
+0x0002001C Pianeti
+0x00020018 Astronavi
+
+#######################################
+# Misc
+
+0x00030001 Ordina per
+0x00030002 o crea da zero
+0x00030004 Non sono visualizzate ~num_items_invalid~ voci non valide.
+0x00030003 ~num_items~ elementi visibili
+0x00030005 Sono visibili ~num_filtered_items~ elementi su ~num_items~
+0x00030007 Cambia il tuo criterio di ordinamento o seleziona Tutto per visualizzare più creazioni. Ci sono ~num_items~ creazioni che non corrispondono al criterio attuale.
+0x00030006 Caricamento... ~loading_percent~%
+
+#######################################
+# Category Names
+#######################################
+# Category Names
+
+0x00000001 Amici
+0x00000002 Sporevisioni
+0x00000003 Creazioni
+0x00000004 Varie
+0x00000006 Comunità
+0x00000007 Etichette
+0x00000008 I miei contenuti
+0x00000005 ~my_game_name~
+
+#######################################
+# SPUIFeedListItem.cpp
+
+0xF4C87CF6 ~num_subscribers~ Iscritto
+0xF4C87CF7 ~num_subscribers~ Iscritti
+
+#######################################
+# Call To Action Messages
+
+0x00040002 Scegli una musica per la tua città
+0x00040003 Scegli un municipio
+0x0004000A Scegli un edificio d'intrattenimento
+0x0004000B Scegli una fabbrica
+0x0004000C Scegli una casa
+0x00040011 Scegli una creatura
+0x00040015 Scegli una creatura
+0x00040001 Il tuo selettore polivalente di materiale
+0x00040004 Scegli un veicolo aereo religioso
+0x00040005 Scegli un veicolo terrestre religioso
+0x00040006 Scegli un veicolo marino religioso
+0x00040008 Scegli un veicolo terrestre commerciale
+0x00040009 Scegli un veicolo marino commerciale
+0x0004000D Scegli un veicolo aereo militare
+0x0004000E Scegli un veicolo terrestre militare 
+0x0004000F Scegli un veicolo marino militare
+0x00040012 Scegli un veicolo aereo coloniale
+0x00040013 Scegli un veicolo terrestre coloniale
+0x00040014 Scegli un veicolo marino coloniale
+0x00040010 Scegli un'astronave
+0x00040017 Crea o scegli una creatura Spazio
+0x00040016 Crea o scegli una creatura Civiltà
+0x00040018 Crea o scegli una creatura Tribù
+0x0004001A Scegli una cellula
+0x00040019 Crea o scegli una creatura
+0x00040007 Scegli un veicolo commerciale aereo
+
+#######################################
+# Feed Item Names
+
+0x00010001 Tutto
+0x00010002 Le mie creazioni
+0x00010003 Maxis
+0x00010009 Opzioni
+0x0001000A Esci dalla partita
+0x0001000B Torna al menu principale
+0x0001000C Salva la partita
+0x0001000D Relazioni
+0x0001000E Cronologia
+0x0001000F Scansioni
+0x00010005 Trova un amico
+0x00010008 Catalogo Spore
+0x00010007 Pagina MioSpore
+0x00010018 Download recenti
+0x00010017 Download
+0x00010016 Ricerca online
+0x00010013 Fase Tribù
+0x00010012 Fase Creatura
+0x00010014 Fase Civiltà
+0x00010015 Fase Spazio
+0x00010011 Fase Cellula
+0x00010010 Obiettivi
+0x00010006 Trova Sporevisione
+0x00010004 Effettua Sporevisione
+

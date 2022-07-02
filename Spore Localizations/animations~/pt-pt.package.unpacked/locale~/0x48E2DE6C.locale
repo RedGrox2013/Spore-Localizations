@@ -1,0 +1,83 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000009B Destino: sistema ~mission_source_star~.
+0x0000009C Viaje até ao sistema estelar ~mission_target_star~. Faça-se teletransportar até ao planeta ~mission_target_planet~ e complete a sua missão com sucesso.~p~Irá receber ~mission_rewards~ Sporecoroas por concluir a missão.
+0x0000009A Quando chegar ao planeta, terá de se teletransportar e à sua tripulação para a superfície do planeta.
+0x00000099 Regresse ao planeta ~mission_source_planet~.
+0x00000003 Tempos tão conturbados e mal temos recursos para patrulhar as estrelas, quanto mais ir visitar todos os planetas. Os serviços secretos referem a necessidade de envio de um embaixador a ~mission_target_planet~.~p~Podemos convencê-lo a ir em nosso nome?
+0x000000A0 Sucesso! Regresse ao sistema ~mission_source_star~.
+0x0000009D A sua missão no planeta ~mission_target_planet~ está completa. Regresse ao planeta ~mission_source_planet~, no sistema ~mission_source_star~.
+0x0000009E Em Progresso
+0x00000054 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Ser-lhe-ão concedidas riquezas, após o seu regresso em segurança.
+0x00000053 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Quando regressar, esperam-no Dinheiro, Canções e Danças.
+0x00000051 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Volte aqui quando terminar a sua tarefa, e iremos certamente recompensá-lo.
+0x00000055 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Teremos o seu pagamento pronto para quando terminar.
+0x00000005 Somos membros activos do 'Mantenham o Ar Limpo'. No MAL, tentamos investigar todos os planetas da galáxia. Pode ir até ~mission_target_planet~ e investigar?
+0x00000052 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~O seu pagamento ficará a aguardar o seu regresso.
+0x00000004 Quer ver a vida selvagem em ~mission_target_planet~? Ouvimos dizer que é muito bonita nesta altura do ano, e pedimos-lhe que vá com urgência até ao planeta para se certificar de que é seguro.
+0x00000050 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Por favor, volte quando terminar, para que possamos banhá-lo em riquezas.
+0x00000057 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Talvez decidamos pagar-lhe, SE regressar.
+0x00000098 Viaje até ao planeta ~mission_target_planet~.
+0x00000056 Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Depois de concluída a sua viagem, o seu dinheiro irá fluir como o Rio Rápido.
+0x00000046 Peço desculpa, mas tenho de recusar continuar neste projecto.
+0x0000004E Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Volte aqui quando terminar, para ser pago pelos serviços prestados.
+0x00000001 Recebemos relatórios do Grande Conselho de que existe actividade desconhecida em ~mission_target_planet~. Pode viajar até ao planeta e ver o que se passa?
+0x0000005F Compreendo. Volto em breve.
+0x00000002 O Grande Conselho soube pelos seus embaixadores em ~mission_target_planet~ que é necessária ajuda. Gostaríamos de contratá-lo para a tarefa. Está interessado em trabalho extra, que pode envolver descer até à superfície do planeta?
+0x00000072 Peço a vossa compreensão.
+0x00000040 Apesar dos dados no seu Registo de Missão, não concluiu a sua tarefa no planeta ~mission_target_planet~. Vai agir com honra ou cobardia?
+0x0000000B Os nossos cientistas em ~mission_target_planet~ informaram-nos de que pode haver algo de interessante na superfície do planeta para alguém do seu estilo.~p~Está interessado?
+0x00000027 Fez um bom trabalho! É com prazer que lhe oferecemos ~mission_rewards~ Sporecoroas e o título de Amigo do Cosmo!
+0x00000026 Prestou um bom serviço à nossa galáxia. Em nome do Grande Conselho, estou autorizado a oferecer-lhe ~mission_rewards~ e este Certificado de Louvor, Segunda Classe.
+0x0000000D Esta é boa...~p~O que é teletransportado até ao planeta ~mission_target_planet~ e ainda é pago por isso?~p~Desiste?~p~Você! Está interessado?
+0x0000000C Se os nossos cálculos estiverem certos, passa-se sem dúvida alguma coisa de importante na superfície de ~mission_target_planet~.~p~Se não for muito incómodo, pode ir até lá e investigar?
+0x0000000A O nosso feixe de pesquisa registou dados interessantes em ~mission_target_planet~. Vai ter de ser teletransportado para ~mission_target_planet~ e investigar.~p~Aceita realizar essa tarefa em nosso nome?
+0x00000007 Há indicação de que tem de ir a ~mission_target_planet~ em nome de Spode. Por enquanto, desconhecem-se os pormenores, mas envolve uma grande viagem no planeta.
+0x0000001E As nossas sondas de reconhecimento registaram actividade no planeta ~mission_target_planet~. Houve problemas na transmissão, mas parecia indicar a necessidade de uma investigação urgente. Gostaríamos de poder dizer-lhe mais... Apresentámos um pedido de informação ao Gabinete de Suporte.~p~Aceita ir?
+0x00000041 Apesar dos dados transferidos para o seu Registo de Missão, não concluiu a sua missão no planeta ~mission_target_planet~. Vai obedecer?
+0x00000028 Demonstrou ser um Amigo de Spode. Aceite ~mission_rewards~ Sporecoroas em nome de Spode, assim como um exemplar da Palavra de Spode.
+0x00000009 O Grandioso falou. Temos de enviar um herói a ~mission_target_planet~ e espalhar a palavra. Aceita ser esse herói?
+0x00000008 Esperam-no grandes aventuras em ~mission_target_planet~. É o desejo de uma força maior.~p~Acha que consegue?
+0x0000000E Estamos demasiado ocupados a celebrar a 'Celebração da Celebração', uma festa do nosso planeta que dura um ano. Quer ter a gentileza de ir ao planeta ~mission_target_planet~ e investigar?~p~Pagamos-lhe bem e ainda leva uma piscadela de olhos de graça.
+0x0000003C Apesar dos dados no seu Registo de Missão, parece ter deixado a sua tarefa no planeta ~mission_target_planet~ incompleta. Isto não parece ter lógica.
+0x0000003D Até o convidávamos para a nossa festa, mas parece que não completou a sua missão em ~mission_target_planet~. Não seja desmancha-prazeres... acabe o trabalho!
+0x0000003E Não querendo ser mal-educado... mas... mas ainda não concluiu a sua expedição a ~mission_target_planet~. Seria vantajoso para todas as partes se concluísse a sua tarefa.
+0x0000003B O Iluminado não vai ficar contente. Tem de ir imediatamente a ~mission_target_planet~ e mostrar o que vale.
+0x0000003A Uau, ainda não foi teletransportado para ~mission_target_planet~? Devia, sei lá... ir... e tratar dos assuntos.
+0x00000039 A sua missão diplomática ainda não terminou. Por favor, vá até ~mission_target_planet~ e teletransporte-se para o planeta.
+0x00000010 Que simpático, alguém da sua importância visitar alguém tão insignificante como nós. Se não for muito incómodo, queremos pedir um favor.~p~Pode ir ao planeta ~mission_target_planet~ e ver que oportunidades podemos lá encontrar? Mas só se não for grande incómodo.
+0x0000003F Viaje até ~mission_target_planet~ e complete a tarefa que aceitou. Somos pacientes, e aguardamos o seu regresso em segurança.
+0x0000000F 1, 2, 3... pode ajudar-me uma vez?~p~4, 5, 6... vá ao planeta ~mission_target_planet~ no Dia de Reis.~p~7, 8, 9... veja se nada o demove.~p~O que vem a seguir ao 9?
+0x00000025 Lamento ter de recusar.
+0x00000011 Não quero incomodar, mas pode fazer-nos um favor? Por favor, por favor, pode viajar até ao planeta ~mission_target_planet~.~p~Um dos nossos cargueiros refere que pode haver grandes oportunidades para alguém com a sua coragem.~p~Vamos pagar-lhe, claro.
+0x00000017 Já vimos muitos aventureiros passarem por aqui. O que o torna diferente?~p~Viaje até ao planeta ~mission_target_planet~. O risco pode ser grande, mas a recompensa é ainda maior.
+0x00000016 Acha-se mais forte do que ~race~? Prove-o.~p~Vá ao planeta ~mission_target_planet~ e enfrente os perigos que possam lá existir. Vai lucrar com isso.
+0x00000015 Quando a Estrela de Pedra se alinha com as Portas da Ira, acontecem coisas mágicas. Essa magia espera por si no planeta ~mission_target_planet~.~p~Vai lá?
+0x0000002C Pelos Grandes Ventos Solares... conseguiu! Aceite ~mission_rewards~ Sporecoroas e iremos, sem dúvida, ajustar o feng shui da sua nave antes de partir!
+0x0000002D Ajudou-nos, e verá que não somos ingratos. Aceite ~mission_rewards~ Sporecoroas.
+0x00000018 ~race~ respeitam os que são corajosos e se riem do perigo.~p~Viaje até ao planeta ~mission_target_planet~ e investigue. Não sabemos bem o que o espera, mas vai ser perigoso.~p~Está a postos?
+0x00000014 As Grandes Águas falam de experiências fantásticas, que aguardam os que se atrevem. Vá ao planeta ~mission_target_planet~ sem demoras.~p~Que o Guardião dos Espíritos o proteja.
+0x00000037 Que generosidade.
+0x00000006 Por muito que nos custe desperdiçar energia para viajar até outro planeta, precisamos que vá até ~mission_target_planet~.~p~Os nossos conservadores no local referem alguma actividade estranha.
+0x00000013 Os ventos sussurraram-nos que chegaria um herói em busca de aventuras. É esse herói?~p~Se for, vá ao planeta ~mission_target_planet~, a sua aventura espera-o.
+0x00000012 É uma honra estar na presença de um herói tão grandioso. O planeta ~mission_target_planet~ precisa dos seus serviços.~p~Ficar-lhe-emos eternamente gratos e pagar-lhe-emos uma soma considerável.
+0x0000002E Concluiu satisfatoriamente a sua missão. Estas ~mission_rewards~ Sporecoroas são inúteis para nós, mas podem ser-lhe úteis.
+0x0000001B Deverá partir já para o planeta ~mission_target_planet~, sob pena de sofrer um castigo.
+0x00000029 No passado, descobrimos que uma boa recompensa é bastante útil para obter a cooperação de outra espécie. Portanto, oferecemos-lhe ~mission_rewards~ Sporecoroas.
+0x0000002A Que dias gloriosos estes, amigo! Conseguiu... o que foi que fez, mesmo?~p~Não importa... vamos cantar e fazer tolices. Como prometido, ~mission_rewards~ Sporecoroas.
+0x00000019 Forma de vida insignificante, vá ao planeta ~mission_target_planet~. Não questione a nossa autoridade.
+0x0000002B O Grandioso regressa triunfante! Gritamos e saltamos de alegria! Aceite ~mission_rewards~ Sporecoroas e uma visita gratuita à nossa excelente loja.
+0x0000001A Parta de imediato para o planeta ~mission_target_planet~. É tudo.
+0x0000001C A Sede tem uma missão ultra-secreta para si no planeta ~mission_target_planet~.~p~Aceita esta missão, Capitão?
+0x0000004F Quando chegar a ~mission_target_planet~, terá de ser teletransportado para o planeta. Terá oportunidade de se equipar antes de ser teletransportado.~p~Algumas aventuras permitem-lhe teletransportar membros da sua Equipa de Bordo.~p~Volte aqui quando terminar, Capitão, e processaremos o pagamento pela sua missão.
+0x00000038 Ainda não completou a sua missão, Capitão. Tem de ir imediatamente a ~mission_target_planet~, antes que, na Sede, se descontrolem.
+0x00000060 É perfeitamente compreensível, Capitão.~p~Desculpe incomodá-lo com estas questões.~p~
+0x0000002F Capitão, o seu registo de missão indica SUCESSO! Estamos muito bem impressionados!~p~Aceite ~mission_rewards~ Sporecoroas e a nossa total gratidão!
+0x00000073 É perfeitamente compreensível, Capitão.~p~Desculpe incomodá-lo com estas questões.
+0x0000001D Os pormenores são poucos, Capitão, mas os serviços secretos referem a necessidade de que viaje imediatamente para o planeta ~mission_target_planet~ e veja o que se está a passar.~p~Está interessado?
+0x0000009F Concluído
+

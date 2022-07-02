@@ -1,0 +1,48 @@
+﻿0x000001B1 ~guide: -h3~ Dele-budgettet
+0x000000B1 ~guide: -h3~ Centersymmetri
+0x000000D1 ~guide: -h3~ Hæft dele
+0x00000171 ~guide: -bullet~ Positionsbold: Tilpas delens retning.
+0x00000021 ~guide: -h3~ Dele-palet
+0x00000081 ~guide: -h3~ Valg og tilføjelse af dele
+0x000001E1 ~guide: -h3~ Kompleksitetsmåler
+0x00000071 ~guide: -h2~ Dit fartøj peger mod pilen på podiet.
+0x000000E1 ~guide: -h2~ Fartøjsdele kan overlappe hinanden. Du kan placere dem, hvor du ønsker.
+0x00000101 ~guide: -h2~ Der er begrænsninger for diameter og højde for dit fartøj.  Hvis du overskrider disse grænser, når du prøver at placere en del, vil delen ikke hæfte. I stedet bliver den markeret med rødt, selv om det ser ud til, at den kan sidde der.   Dette koster ikke noget.
+0x000000A1 ~guide: -h2~ Hvis du vælge en del, når den er på dit fartøj, skal du klikke på den. Den markeres med blåt, når den er valgt.
+0x00000121 ~guide: -h2~ Når du har tilføjet en del til dit fartøj, kan du tilpasse det ved at justere dets tilpasningsgreb.
+0x00000131 ~guide: -bullet~ Vælg den del, du vil tilpasse, ved at klikke på den.  Dens delegreb bliver derved vist.
+0x00000111 ~guide: -h1~ Tilpasning af dele med greb
+0x000000F1 ~guide: -h3~ Fartøjsdiameter og -højde
+0x00000061 ~guide: -h3~ Hvilken retning peger mit fartøj?
+0x00000161 ~guide: -bullet~ Rotationsring: Roterer retningen af dele.
+0x00000151 ~guide: -bullet~ Tilpasningspil: Skift højden, bredden, længden eller bøjningen på en del.
+0x000001A1 ~guide: -h1~ Kompleksitet og budget
+0x00000041 ~guide: -h3~ Dele-kategorier
+0x00000091 ~guide: -h2~ Hvis du vil vælge en del, skal du klikke på den i del-paletten, og trække den fra paletten og over på podiet og dit fartøj.
+0x00000031 ~guide: -h2~ I spildelen Byg er Dele-paletten tilgængelig i venstre side af skærmen Fartøjsskaber.
+0x00000102 ~guide: -h3~ Fjerner dele
+0x000002F1 ~guide: -bullet~ Hold Skift nede for at flytte hele fartøjer, klik på fartøjet og flyt det i den retning, du ønsker.
+0x00000051 ~guide: -h2~ Øverst i dele-paletten er de dele-kategorier, som du kan vælge mellem: hovedstruktur, cockpits, fremdrift, specialvåben, effekter og detaljer. Du vælger en kategori ved at klikke på dens faneblad.
+0x000000C1 ~guide: -h2~ Dele til hovedstruktur og cockpittet på et fartøj vil rette sig på linje med centrum af podiet helt automatisk.
+0x00000211 ~guide: -h2~ Hvis dit fartøj bliver for kompliceret, kan du ikke tilføje flere dele.
+0x00000281 ~guide: -bullet~ Fart - jo højere nummeret er, desto hurtigere bevæger dit fartøj sig.
+0x00000221 ~guide: -h1~ Færdigheder for fartøjer
+0x00000231 ~guide: -h2~ Hver del, du tilføjer dit fartøj, forbedrer dets fart, holdbarhed og styrke. Brug dit fartøjs delebudget med omhu, så du opnår det resultat, du ønsker.
+0x000002A1 ~guide: -h3~ Avancerede delegreb
+0x00000271 ~guide: -bullet~ Styrke - jo højere nummeret er, desto mere skade kan dit fartøj uddele i en kamp.
+0x000002B1 ~guide: -bullet~ Hold TAB-tasten nede, mens du vælger en del på dit fartøj; derved får du adgang til ekstra delegreb, så du kan manipulere delene yderligere.
+0x00000261 ~guide: -bullet~ Helbred - jo højere nummeret er, desto mere skade kan dit fartøj uddele i en kamp.
+0x00000251 ~guide: -h2~ Dit fartøjs statistik kan ses i opsummeringen i øverste, højre hjørne på skærmen Fartøjsskaber.
+0x00000141 ~guide: -h3~ Delegreb:
+0x000002D1 ~guide: -bullet~ For at kopiere en del, du allerede har placeret på dit fartøj, skal du klikke på delen, mens du holder ALT nede, og derefter trække kopien over til et andet sted på dit fartøj.
+0x00000241 ~guide: -h3~ Fartøjsstatistik - oversigt
+0x00000291 ~guide: -h1~ Avancerede features
+0x000002C1 ~guide: -h3~ Kopiering af dele
+0x000002E1 ~guide: -h3~ Retning
+0x000001C1 ~guide: -h2~ Dit budget til dele bliver vist nederst til venstre i Fartøjsskaberen.
+0x00000103 ~guide: -h2~ Vælg enten delen og tryk Delete eller klik og træk delen væk fra fartøjet eller podiet for at fjerne en del.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Byg
+0x000001F1 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000001D1 ~guide: -h2~ Hver del, som du sætter på dit fartøj, koster delpoint. Når du ikke har flere point, kan du ikke tilføje flere dele.
+0x00000201 ~guide: -h2~ Kompleksitetsmåleren måler, hvor indviklet dit fartøj er.
+

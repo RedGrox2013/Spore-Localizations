@@ -1,0 +1,63 @@
+﻿0x4782CC92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782CC94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782CC95 Option3~IDS__DialogId_10105_ControlId_603~
+0x4782CC93 Option5~IDS__DialogId_10105_ControlId_605~
+0x051414BE @10550,10551;1;0;;0,128,128   ~IDS__DialogId_10105_ControlId_1200~
+0x4782CC96 Option2~IDS__DialogId_10105_ControlId_602~
+0x4782CC91 Option7~IDS__DialogId_10105_ControlId_607~
+0x4782CC97 Option1~IDS__DialogId_10105_ControlId_601~
+0x7E9C7EC6 C~IDS__DialogId_10105_ControlId_2~
+0x4782CC9F Option9~IDS__DialogId_10105_ControlId_609~
+0x4782CCA0 Option8~IDS__DialogId_10105_ControlId_608~
+0x45EF8DC8 Программа установки~IDS__DialogId_10105~
+0x4E1203F5 Установить последнюю версию приложения EA Download Manager? Без этой программы обновления и некоторые компоненты игры будут недоступны.~EADM_INSTALL~
+0x303D349E Файл: ~string~~br~Ошибка: ~string~~COMP_ERROR_MSG~
+0x72AA3BC2 Выберите только те компоненты, которые хотите установить. Затем щелкните на кнопке "Далее".~IDS__DialogId_10105_ControlId_901~
+0x44CA6AE6 Для установки требуются права администратора.~ADMINISTRATOR_ACCOUNT~
+0x7426EAA1 Ярлык на Рабочем столе Windows~DESKTOP_SHORTCUT~
+0x7E8BB5FD Установка завершена~INSTALLATION_COMPLETE~
+0x4DE32707 Для продолжения завершите программу ~string~.~GAME_RUNNING_STRING~
+0x2BF6EA98 Недостаточно свободного места на выбранном диске. Вы можете удалить часть файлов или указать другой диск.~NO_SPACE_MSG~
+0x05082CC9 Полная~IDPROP_SETUPTYPE_COMPLETE~
+0x3017EF99 Удалить все данные, созданные с помощью ~string~?~REMOVE_USERDATA~
+0x1F726BCA Начать игру~PLAY_SPORE~
+0x6CD070E6 Не найдены некоторые данные, необходимые для удаления игры. Возможно, во время установки произошла ошибка. Необходимо удалить некоторые файлы и папки вручную.~MISSING_UNINSTALL~
+0x64A17D06 Произошла ошибка. Установка прервана.~GENERAL_ERROR~
+0x7CF6B4E8 Нестандартная~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x23FD0D11 Лаборатория существ SPORE™~SCC_NAME~
+0x166E669A Невозможно выполнить установку в папке ~string~~br~Выберите другую папку.~DANGEROUS_DIRECTORY_ERROR~
+0x15CC67E6 ~string~ будет установлена в следующую папку:~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x02699E57 Тип установки~SETUP_TYPE_TITLE~
+0x16741C9F Запустить ~string~ после завершения установки.~LAUNCH_SPORE~
+0x0AA43B92 Рекомендуемая~RECOMMENDED~
+0x0D849C4A Чтобы выйти из программы установки и начать игру, щелкните на кнопке "Готово".~CLICK_FINISH~
+0x38A8F152 Добро пожаловать в ~string~!~WELCOME_SPORE_TITLE~
+0x39040F38 Файл Read Me~README~
+0x15538FF6 Тип установки~IDS__DialogId_10105_ControlId_50~
+0x15538FF7 Выберите подходящий тип установки.~IDS__DialogId_10105_ControlId_51~
+0x537FD947 Нестандартная~IDPROP_SETUPTYPE_CUSTOM~
+0x06220BA5 Выберите "Далее" для установки ~string~ на ваш компьютер.~WELCOME_SPORE_MESSAGE~
+0x74C9257A Полная~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x1498EC13 Подготовка к установке завершена!~READY_TO_INSTALL~
+0x144073D1 Игра ~string~ будет установлена в выбранную вами папку.~CUSTOM_SPORE_SETUP~
+0x59450AC4 Тип установки~br~Выберите тип установки~SETUP_TYPE_MESSAGE~
+0x7E9C7EC7 Далее >~IDS__DialogId_10105_ControlId_1~
+0x2A8D9AF3 Справочный файл EA~EA_HELP~
+0x7E9C7ECF Отмена~IDS__DialogId_10105_ControlId_9~
+0x03BCF887 Выберите один из вариантов.~SELECT_OPTIONS~
+0x40D6F8BD Открыть файл ReadMe.txt после завершения установки.~VIEW_README~
+0x7B152168 Щелкните на кнопке "Установить" для запуска процесса установки~br~~br~Для повторного просмотра или изменения параметров установки щелкните на кнопке "Назад", для отмены установки выберите пункт "Отмена".~BEGIN_INSTALLATION~
+0x01FCAF57 Мои творения~SAVE_FOLDER~
+0x27D33671 Слишком длинный путь к файлу. Выберите более короткий путь.~DIR_TOO_LONG~
+0x689470D4 Компонент~ID_STRING1~
+0x0537CFA1 Удаление ~string~~UNINSTALL~
+0x494AA82F Выполнение программы прервано, удаление игры ~string~ не завершено.~br~~br~Вы можете завершить удаление позже.~UNINSTALL_INCOMP~
+0x7D4A4E2F Нестандартная~CUSTOM~
+0x6A8319B9 Spore.com~SPORE_WEB~
+0x16FBAEAF Можно начинать игру ~string~.~READY_TO_PLAY~
+0x46A61B9B ~string~: файл не найден.~MISSING_FILES~
+0x4950A450 Лаборатория существ SPORE™: демо-версия~SCC_TRIAL_NAME~
+0x151DEC2F Для корректной работы игры Spore™ требуется DirectX.~DIRECTX_WARNING~
+0x159098E0 < &Назад~IDS__DialogId_10105_ControlId_12~
+0x353F37C7 Для продолжения требуется удалить программу "~string~". Выберите пункт "Да", чтобы подтвердить удаление. SPORE™ включает все функции "Лаборатории существ". Кроме того, все созданные вами существа будут сохранены.~SPORE_REMOVE_CSA_WARNING~
+

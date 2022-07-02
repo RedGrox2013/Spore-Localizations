@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 你的Maya輸出檔案已儲存為~br~~maya_export_path~~maya_export_name~*。
+
+# YouTube
+
+0x0549366C 否  
+0x0549366D 上傳  
+0x055AA305 正在上傳影片至YouTube...  
+0x05600488 你必須登入Spore才能使用本功能。你想要登入嗎？  
+0x0563C623 你必須註冊Spore帳號才能使用本功能。你想要註冊嗎？  
+0x056D0627 上傳成功！寄送影片URL給朋友！  
+0x05498DCB 你的影片已經上傳。你想告訴你的朋友嗎？
+0x05B5AC4C YouTube服務條款
+0x05496510 登入YouTube失敗。~br~~br~請使用一組有效的使用者名稱和密碼，或於繼續上傳之前，先註冊一組YouTube帳號。   
+0x05498D58 登入YouTube時發生錯誤。~br~~br~請檢查你的網際網路連線，或稍候再試。
+0x05498260 登入YouTube時發生錯誤。~br~~br~請檢查你的網際網路連線，或稍候再試。
+0x054C1E63 你的影片已儲存為~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05E501EB <youtubeicon>上傳
+0x05D2C767 你的上傳已取消。
+0x05B5FD1E 你想要現在上傳嗎？
+0x056691B0 正在檢查你的YouTube註冊...
+0x05496B24 正在登入YouTube...
+0x05D54AF7 關聯的網站以英文顯示。要使用你的語言來檢視，請在網站的語言選擇處，挑選你的國家。
+
+# email
+
+0x04585F1F 你的電子郵件地址無效。  
+0x04585F49 收件人的電子郵件地址無效。  
+0x045AD62F 你的電子郵件地址  
+0x045AD634 收件人的電子郵件地址  
+0x0583897C 點選以電子郵件寄送明信片  
+0x05B5B8C4 將你的影片告知朋友
+0x04588BEF 你的明信片已寄出。
+0x045AD5B9 電郵一張明信片
+
+# capture GIF
+
+0x058B90F2 你的動態化身已儲存為~br~~gif_name~~mac_save_append~。
+
+# tool tips
+
+0x04598E97 寄發電子郵件  
+0x046286E7 旋轉  
+0x046286F4 坐下  
+0x046286F8 吼叫  
+0x04628713 呼喊  
+0x04628717 擊打  
+0x04628719 躂啦！  
+0x04628722 裝可愛  
+0x04628724 相撲  
+0x04628726 嘿  
+0x04628729 作勢
+0x04628733 嘿，寶貝  
+0x0462873F 同手同腳跳舞
+0x04628798 快樂  
+0x0462879C 悲傷  
+0x046287A0 恐懼  
+0x046287A1 生氣  
+0x046287A2 大笑  
+0x046287A3 心醉神迷
+0x046287A4 照片瀏覽器  
+0x046287A5 拍攝照片 
+0x046287A6 錄製影片 
+0x046287D8 背景  
+0x046287ED 儲存  
+0x0462932D 說明  
+0x046287DA 寶寶 
+0x0473F903 管理照片 
+0x0474E80D 刪除照片 
+0x0474E80E 保存照片 
+0x046286F2 後翻
+0x046287D6 動作
+0x04628745 嘻哈舞
+0x04628737 定點舞
+0x04628739 台客舞
+0x04628749 彈踏步
+0x0462874E 跳銳舞
+
+# move all
+
+0x04583A4E 保存全部  
+
+#continue
+
+0x0549656C 繼續  
+
+# delete one done
+
+0x04583433 你的圖片已經刪除。  
+
+# delete all done
+
+0x0458334E 你的照片已經刪除。  
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D 你的照片已保存至：~play_photo_back~。
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~  
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~  
+
+# move all done
+
+0x04583295 你的照片已保存至： ~play_photo_back~。
+
+# Are you sure: Yes
+
+0x04583FFB 是  
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD 動畫
+
+# photobackuppath
+
+0x06305593 My Spore Creations/Pictures/Backup
+0x06305594 My Documents
+
+# YouTube error message
+
+0x0567C3AB ~status_message~  
+0x05BAF944 登入失敗   
+0x05CBDEDA 上傳失敗
+
+# your message
+
+0x045AD63A 你的訊息  
+
+#drag and drop fail message
+
+0x05889A21 測試模式 
+0x05889A4C 你無法在「測試模式」下拖放。請切換為「建構模式」或「上色模式」。 
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~  
+
+# too many photos
+
+0x047FF0E4 你的照片數量太多。請保存一些照片。 
+
+# photo actions
+
+0x045C2025 你想怎麼處理這張照片？ 
+0x045C206E 你確定要刪除這張照片？ 
+0x045C208A 你確定要刪除所有照片？ 
+0x045C2094 你確定要保存這張照片？ 
+0x045C2098 你確定要保存所有照片？ 
+0x04613ED0 現在離開將會取消所有尚未完成的照片儲存作業。你仍要離開嗎？ 
+
+# delete all
+
+0x04583A36 刪除全部  
+
+# cancel
+
+0x04583AFB 取消  
+
+# Are you sure: No
+
+0x0458400E 否  
+
+# email message
+
+0x056BCDCA 快來瞧瞧我在《Spore》中錄製的影片！~br~~video_url~
+0x056BCE10 快來瞧瞧我在《Spore》中創造的超酷生物！
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 確定  

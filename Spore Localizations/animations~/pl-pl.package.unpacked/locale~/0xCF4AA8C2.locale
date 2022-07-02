@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Kolejne zlecenie to dobry pomysł.
+
+# mission_assign -> goto mission_accept
+
+0xFADED019 Zawsze chętnie wyruszę na przygodę!
+0xFADED01B Wchodzę w to. Uwielbiam przygody.
+0xFADED01A Zapowiada się interesująca przygoda. Wchodzę w to.
+
+# mission_assign -> goto mission_reject
+
+0xFADED018 Doceniam propozycję, ale muszę odmówić.
+0xFADED01C Muszę odmówić, ale nie mogę wyjaśnić — dlaczego.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Proszę o zrozumienie.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Widzę, że potrzebujesz trochę czasu. Żegnaj.
+0xFADED009 Może innym razem. Na razie.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED011 Do usług. Do zobaczenia.
+0xFADED016 To żaden kłopot. Żegnaj.
+0xFADED015 Pomagam z przyjemnością. Na razie.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Proszę o zwolnienie mnie z tej misji.
+0xFADED021 Nie mam już miejsca w grafiku na to zadanie.
+0xFADED020 Muszę odmówić.
+0xFADED022 Wolę zrobić coś innego.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Przed odejściem mam jeszcze inne pytania.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Zrobi się! Spokojnie!
+0xFADED005 Jasne. Na razie.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Zrozumiałem!
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Chcę zapytać o coś innego...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Do następnego spotkania. Żegnajcie.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 Jeszcze jedno...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Oczywiście! Dziennik misji. Zaraz do niego zajrzę.
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D W tej chwili mam co innego na głowie. Może później.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Moglibyście przypomnieć mi, jaką mam misję do wypełnienia?
+0xFADED028 Wypadło mi z głowy... Jaka jest moja misja?
+0xFADED027 Eee... Możecie mi przypomnieć, co mam zrobić?
+0xFADED024 Mam sklerozę... Jaka jest moja misja?
+0xFADED01F Przydałaby się jakaś mała premia za tę misję.
+
+# mission_incomplete -> do exit
+
+0xFADED010 Rozumiem. Wkrótce wrócę.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00B Widzę, że przeszkadzam. Porozmawiamy później.
+0xFADED008 Bardzo przepraszam, że przeszkadzam. Na razie.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Nie zamierzam tego robić, z kilku powodów.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F To po prostu wydaje się złe. Nie.
+0xFADED00D Nie pracuję dla każdego! Nie da rady!
+0xFADED012 Nie. To wszystko jest takie... Nie fair.
+0xFADED014 W życiu! Naprawdę brzydzę się przemocą.
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Zrozumiano. Żegnaj.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 Ponadto...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Zanim pójdę, mam jeszcze inne pytania...
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 Rasa ~race~ martwi się twoim brakiem zdecydowania. Brakuje ci najwyraźniej siły przewodniej. Wielka szkoda.
+0xFADED02D Oczywiście. Wiedziałem, że nie zgodzisz się zająć taką błahostką. Ale może pocieszysz mnie, wydając trochę grosza w naszym butiku?
+0xFADED02E Wygląda na to, że nie chcesz naszej pomocy w uzyskaniu statusu legendarnego Kosmicznego Kapitana... Powodzenia w takim razie. ~p~Będziesz go potrzebować.
+0xFADED02F Rasa ~race~ nie rozumie słowa „zrezygnować”. Najwidoczniej ~player_creature_name~ nie należy do naszej rasy.
+0xFADED033 Dobra! Niech ci będzie! Myślisz, że nas to obchodzi?~p~Dobra! Trochę... obchodzi...
+0xFADED032 Musisz podążać własną ścieżką. ~p~Idź w zdrowiu i pokoju.
+0xFADED031 Ośmielasz się łamać słowo dane Groksom?! Ty nikczemny głupcze!
+0xFADED02C No dobra... W porządku. ~p~Nie to nie. Nie chcielibyśmy cię narażać na kontakt z innymi formami życia...~p~
+0xFADED02B ~player_title~ ~player_creature_name~. Doprawdy ciekawy wybór. Być może posiadasz informacje, których my nie mamy... Chociaż jest to wątpliwe.
+0xFADED034 ~player_title~ ~player_creature_name~ nie musi powtarzać dwa razy. Doceniamy waszą szczerość. ~p~Oszczędzi nam to papierkowej roboty. Pozwolenie na międzyplanetarny przewóz stworów wymaga wypełnienia zaledwie trzystu sześćdziesięciu dwóch formularzy w trzech kopiach, z pieczątką i parafką na każdej stronie. ~p~To o wiele mniej niż zakładają Standardowe Wytyczne Proceduralne... Cieszcie się, że nie widzieliście formularzy dotyczących przewozu sfermentowanej przyprawy!
+

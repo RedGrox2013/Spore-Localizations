@@ -1,0 +1,115 @@
+﻿# 'Adventure won' message
+
+0x00000011 Gefeliciteerd! Mr Puzzel is onder de indruk van jouw fantastisch goede stel hersenen. Hij kijkt ernaar uit om je weer voor een raadsel te stellen.
+
+# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+# Author
+
+0x00000001 Maxis
+
+# Act 2 description
+
+0x00000101 Met een gekleurde kaart open je een deur met dezelfde kleur. Slechts één deur leidt naar de mysteriesleutel.
+
+# Adventure name
+
+0x00000002 De magische poorten van Mr Puzzel
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+
+0x30000005 Mysteriesleutel
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+
+0x10000003 Mijn mysterietent is het best. Treed binnen en geef je verstand een test.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+
+0x07C7AFEE Mr Puzzel
+
+# Act 3 description
+
+0x00000025 Je hebt de sleutel gevonden! Gebruik nu de magische teleporter om het aan M. Puzzel te geven.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+
+0x10000002 Mr Puzzel is mijn naam. Aan het verwarren van bezoekers dank ik mijn faam.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+
+0x10000001 Gegroet en hallo! Welkom bij mijn rondreizende show.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+
+0x10000005 Loop niet vast. Ik wens je geluk, dat is wel zo gepast!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+
+0x10000004 Als je slim bent, vind je mijn sleutel zonder al te veel gelazer. Zo niet… dan is het afwachten geblazen.
+
+# Act 1 name
+
+0x00000020 Ontmoet Mr Puzzel
+
+# 'Adventure lost' message
+
+0x00000012 Geef niet op. Heb je al geprobeerd om beide handen te gebruiken?
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+
+0x30000004 We zien elkaar weer, dat garandeer ik eveneens!
+
+# Act 3 name
+
+0x00000024 Gevonden!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+
+0x30000002 Een slimmerd bent, en niet zo'n ei!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+
+0x30000003 (Daar ben je het vast wel mee eens.)
+
+# Adventure description
+
+0x00000003 Mr Puzzel daagt je uit tot een kennistest. Weet jij zijn mysteriesleutel terug te vinden?
+
+# Adventure tags (for searching, comma-separated)
+
+0x00000004 puzzel, Mr Puzzel, poorten, sleutels
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+
+0x30000001 Mijn sleutel! Mijn sleutel! Ik weet zeker dat jij…
+
+# Act 4 name
+
+0x00000102 Uitmuntend werk!
+
+# Act 1 description
+
+0x00000021 Je weet nooit wanneer Mr Puzzel opduikt. Wat ligt er vandaag in zijn mysterietent?
+
+# Act 4 description
+
+0x00000103 Mr Puzzel is erg onder de indruk!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+
+0x20000001 Deze puzzel stelt geen hoge eisen…
+
+# 'Adventure start' message
+
+0x00000010 Mr Puzzel zwerft door het melkwegstelsel en doet jong en oud versteld staan. Welke uitdaging heeft hij in petto voor deze dorre planeet?
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+
+0x20000002 Als je vast zit, moet je je met beide handen bewijzen.
+
+# Act 2 name
+
+0x00000100 De mysteriesleutel
+

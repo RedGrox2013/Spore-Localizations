@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 De volgende creaties die door dit avontuur zijn gebruikt, zijn van de server verwijderd. Wil je ze opnieuw publiceren, zodat het avontuur door anderen kan worden gespeeld?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 De onderstaande creaties die in dit avontuur zijn gebruikt, zijn nog niet gepubliceerd. Wil je ze publiceren zodat het avontuur ook door anderen gespeeld kan worden?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Sommige creaties in dit avontuur zijn verboden.~p~ Je score zal niet worden bijgeschreven.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Sommige creaties in dit avontuur zijn gewist.~p~ Wil je ze opnieuw downloaden?
+
+# Editing adventures offline
+
+0x07AA5B66 Vervangen
+0x07AA5B64 Je moet inloggen om creaties te kunnen downloaden voor dit avontuur. Als je dit avontuur bewerkt, zullen die creaties worden vervangen.
+0x07AA5B65 Inloggen
+0x07AA5B67 Annuleren
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Dit avontuur bevat verboden creaties en creaties met onderdelen die je niet hebt.~p~Sommige creaties zullen worden vervangen.
+
+# Editing adventures with banned assets
+
+0x0750187C Sommige creaties in dit avontuur zijn verboden.~p~ Sommige creaties zullen worden vervangen.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Sommige creaties in dit avontuur zijn verboden.~p~Je score wordt niet gedeeld.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000005 Je moet inloggen om creaties te kunnen downloaden die in dit avontuur worden gebruikt.
+0x00000004 Downloaden van creaties mislukt
+0x00000002 Bezig met het downloaden van avonturencreaties
+0x00000008 Bezig met publiceren…
+0x00000001 Voortgang downloaden van creaties
+0x00000006 Publiceren van creaties mislukt.
+0x00000007 Voortgang publiceren
+0x00000003 Annuleren
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Downloaden van creaties mislukt. Wil je verder gaan?~p~Sommige objecten zullen worden vervangen en je score wordt niet bijgeschreven.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Sommige creaties in dit avontuur bevatten onderdelen die je niet hebt.~p~Sommige creaties zullen worden vervangen.
+

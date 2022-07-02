@@ -1,0 +1,63 @@
+keys blackHoleNames
+	0x39DE2A45
+end
+key buildingNamesFallback 0x170910C0
+keys buildingNamesWordOne
+	0x475CD607
+end
+keys buildingNamesWordTwo
+	0x475CD604
+end
+key cityNamesFallback 0x35BF1600
+keys cityNamesWordOne
+	0xE2779CC7
+end
+keys cityNamesWordTwo
+	0xE2779CC4
+end
+keys compoundSpaceWord12
+	vehicle
+	0x210F4CDB
+end
+bool createRandomNames true
+key creatureNamesFallback 0x95676B15
+keys creatureNamesWordOne
+	0x2564E770
+end
+keys creatureNamesWordTwo
+	0x2564E773
+end
+keys excludedSubstrings
+	0x894C6A89
+end
+keys excludedWords
+	0x262F7123
+end
+key planetNamesFallback 0x6DE10CD2
+keys planetNamesWordOne
+	0x769882F1
+end
+keys planetNamesWordTwo
+	0x769882F2
+end
+key starNamesFallback 0x7F3B8B64
+keys starNamesWordOne
+	0xA84B4473
+end
+keys starNamesWordTwo
+	0xA84B4470
+end
+key tribeNamesFallback 0xD5BFA222
+keys tribeNamesWordOne
+	0xC2829341
+end
+keys tribeNamesWordTwo
+	0xC2829342
+end
+key vehicleNamesFallback 0x7690EBB6
+keys vehicleNamesWordOne
+	0xE63EE25D
+end
+keys vehicleNamesWordTwo
+	0xE63EE25E
+end

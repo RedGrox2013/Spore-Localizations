@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000000 ~id_color_name~ 마을
+0x00000001 ~id_color_name~ 국가
+0x00000003 ~id_color_name~ 주민
+0x00000006 ~id_color_name~ 수확자
+0x00000007 주택
+0x00000011 ~species_name~ 식민지 주민
+0x0000000B ~species_name~ 도시
+0x0000000D ~species_name~ 국가
+0x0000000E ~species_name~ 마을
+0x0000000C ~species_name~ 식민지
+0x00000009 오락 건물
+0x00000002 ~species_name~ 제국
+0x0000000F ~species_name~ 주민
+0x00000004 ~id_color_name~ 시민
+0x00000008 공장
+0x00000010 ~species_name~ 시민
+0x0000000A 자화자찬은 정신적으로 진화되지 않았단 증거라고 생각합니다.
+0x00000005 ~id_color_name~ ~species_name~식민지 주민
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCFE 보라색
+0x053DBCF3 갈색
+0x053DBCFC 숲색
+0x053DBCFD 진홍색
+0x053DBCF1 플레이어
+0x053DBCF2 뉴트럴
+0x053DBCF6 녹색
+0x053DBCF8 오렌지
+0x053DBCF7 라벤더
+0x053DBCF4 분홍색
+0x053DBCF5 청록색
+0x053DBCF9 노란색
+0x053DBCFA 빨간색
+0x053DBCFB 파란색
+

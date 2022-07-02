@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Erövra stad
+0x04D19085 Konvertera stad
+0x04D1912C Föreslå handelsväg
+0x04D19177 Handla med stad
+0x05F4FC30 Starta handelsväg
+0x0563CE86 Konvertera stad (kan inte nå)
+0x0563CE33 Erövra stad (kan inte nå)
+0x0563CEC2 Föreslå handelsväg (kan inte nå)
+0x06776CA9 Omvänd stad (sikta automatiskt på underhållning för att sänka lyckan)
+0x04D19086 Omvänd stad (För mycket lycka - sikta på underhållning först)
+
+# Tutorial Buy Sea Unit
+
+0x058C7643 Klicka på Stadsplaneraren för att skapa och köpa din första sjöfarkost.
+0x058C7644 Bygg och köp en sjöfarkost.
+0x058C7642 Köp
+
+#######################################
+# NPC city hall
+
+0x04D194FE Skänk gåva
+0x04D1956A Köp stad
+0x04D29B0C Kontakta
+0x052ECBE2 Köp stad (kräver handelsväg)
+0x052ECBE1 Köp stad (kräver mer handel)
+
+# Tutorial Claim Node
+
+0x058B486C Gör anspråk på en kryddgejser.
+0x058B486B Markera ett fordon och högerklicka på en kryddgejser för att göra anspråk på den.
+0x058B486A Gör anspråk på
+
+############################################################ pie menus
+
+0x06A56B8F Muta arbetarna
+
+# Tutorial Religious Capture
+
+0x058C968E Konvertera en motståndarstad.
+0x058C968D Bygg religiösa farkoster, klicka på en fiendestad och välj "Konvertera stad". Religiösa farkoster kan även inrikta sig på enskilda byggnader och hindra dem att stoppa din anstormning.
+0x058C968C Erövring
+
+#######################################
+# wall
+
+0x04D195B2 Reparera
+
+#######################################
+# city hall
+
+0x04D191CF Köp byggnader
+0x04D192DC Köp fordon
+0x04D19342 Övergång till rymden
+0x04D2B633 Stadsekiperare
+0x058B51F4 Napalmbomba ~currency_number~ $
+0x04E41707 Global kärnvapenattack ~currency_number~ $
+0x058B5210 Helande tro ~currency_number~ $
+0x058B5213 Annonskampanj ~currency_number~ $
+0x058B5212 Mutor och förvirring ~currency_number~ $
+0x058B5214 Global fusion ~currency_number~ $
+0x058B5211 Svart regn ~currency_number~ $
+0x056B8A99 Messiasupphöjelse ~currency_number~ $
+0x05763FE4 Taktiskt kärnvapen ~currency_number~ $
+
+# Tutorial Economic Capture
+
+0x058C96A4 Köp en motståndarstad.
+0x058C96A2 Erövring
+0x058C96A3 Bygg ekonomiska farkoster, klicka på en fiendestad och välj "Föreslå handelsväg". Efter att tillräckligt med handel har skett kommer staden att annonsera ut sig för uppköp.
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Demontera
+0x04D960BB Vill du demontera de markerade fordonen?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Bygg ditt rymdskepp
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Militär
+0x04D175CB Religiös
+0x04D175CC Ekonomisk
+0x04D175CD Skördemaskin
+
+# Tutorial Happy City
+
+0x058C75FF Designa en lycklig stad.
+0x058C75FE Klicka på Stadsplaneraren för att lägga till underhållningsbyggnader kopplade till hus.
+0x058C75FD Designa
+
+#######################################
+# building menu
+
+0x04D1A21D Riv
+0x04E50472 Sälj byggnaden för ~currency_number~ $
+
+# Tutorial Military Capture
+
+0x058C9724 Erövra en motståndarstad.
+0x058C9723 Bygg militära farkoster, klicka på en fiendestad och välj "Erövra stad". Ju större styrkan är, desto större är chansen för framgång.
+0x058C9722 Erövring
+
+#######################################
+# vehicle limit
+
+0x04D1A4A7 Flottgränsen har nåtts
+0x04D1A4AE Du har nått ditt tak för den här farkoststypen. Du kan höja taket genom att erövra fler städer av samma typ.~br~Tips: Du kan demontera fordon genom att trycka på DELETE-tangenten när du har markerat en eller flera farkoster.
+
+# Tutorial Profitable City
+
+0x058B71B5 Klicka på Stadsplaneraren i ditt stadshus för att lägga till sammanlänkade hus och fabriker så att din stad går med vinst.
+0x058B71B6 Designa en lönsam stad.
+0x058B71B4 Designa
+
+# Tutorial Capture All
+
+0x0590C22A Erövra alla städer.
+0x0590C229 Om du lyckas erövra alla städer på planeten har du vunnit!
+0x0590C228 Erövra
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Köp ditt första fordon.
+0x05C18512 Köp din första farkost genom att klicka på Stadsplaneraren.
+0x05C18502 Köp
+
+# Tutorial Buy Land Unit
+
+0x058C7628 Köp ett landfordon till.
+0x058C7627 Klicka på Stadsplaneraren för att köpa en ny landfarkost.
+0x058C7626 Köp
+
+# Tutorial Buy Air Unit
+
+0x058C765C Klicka på Stadsplaneraren för att skapa din första luftfarkost.
+0x058C765D Bygg och köp en flygfarkost.
+0x058C765B Köp
+
+#######################################
+# player lost
+
+0x04D1A8A8 Du har förlorat din sista stad till en motståndare!
+

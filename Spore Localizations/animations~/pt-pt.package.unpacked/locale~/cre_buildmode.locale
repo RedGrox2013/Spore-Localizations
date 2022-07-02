@@ -1,0 +1,69 @@
+﻿0x000002F1 ~guide: -h3~ Indicador de Complexidade
+0x00000291 ~guide: -h2~ Pode aceder a mais pegas de elementos depois de ter aplicado um elemento na criatura, seleccionando-o e mantendo premida a tecla tab. Vai ver pegas de elementos adicionais que lhe permitem controlar a colocação de cada peça de forma mais alargada.
+0x00000231 ~guide: -h1~ Membros
+0x00000061 ~guide: -h3~ Seleccionar e Adicionar Elementos
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Editar Membros
+0x000000F1 ~guide: -bullet~ Anel de Rotação: Roda os elementos
+0x00000181 ~guide: -bullet~ Desloque a roda do rato ou utilize as teclas de setas para cima ou para baixo no teclado para aumentar ou diminuir o tamanho do tronco nessa vértebra.
+0x00000281 ~guide: -h1~ Aceder a Pegas de Elementos Avançadas
+0x000000D1 ~guide: -bullet~ Seta de Ajuste: Modifique a altura, a largura, o comprimento, ou enrole um elemento. Basta puxar para ver o que acontece.
+0x000002E1 ~guide: -h1~ Complexidade e Orçamento
+0x00000081 ~guide: -h3~ Remover Elementos
+0x000000E1 ~guide: -bullet~ Bola de Posicionamento: Reposicione os elementos ou, no caso de chifres, hastes, etc., altere a sua orientação
+0x00000221 ~guide: -h2~ Para dobrar a espinha, clique e arraste uma vértebra. O melhor método é fazer pequenos ajustes em cada vértebra.
+0x000001F1 ~guide: -h2~ Desloque o rato sobre o tronco para mostrar a espinha da criatura. Faça clique no tronco, vai ver setas em ambas as extremidades da espinha. Faça clique numa das setas e arraste para o exterior para acrescentar vértebras ou para o interior para eliminar vértebras.
+0x00000261 ~guide: -h3~ Adicionar Pinças ou Pés
+0x00000251 ~guide: -h2~ Nos membros, as articulações funcionam como bolas de posicionamento, podendo deslocá-las ou dimensioná-las. Rodar a criatura de forma a virá-la para si pode ajudar a manipular os membros. Mova os membros para a frente e para trás com a criatura de perfil, desloque os membros para cima e para baixo com a criatura virada para si ou afastada. Por vezes, pode ser necessário mover ligeiramente o tronco da criatura para cima para organizar espaço para os membros. Basta fazer clique e manter premido o Botão Esquerdo do Rato na zona do tronco da sua criatura e mover o tronco para a posição pretendida.
+0x00000051 ~guide: -h2~ Durante a Etapa Criatura, começa com um conjunto predefinido de elementos baseados nas suas acções como célula. Cada novo elemento que descobrir e recolher será desbloqueado no Criador de Criatura e poderá acrescentar esses elementos quando decidir evoluir a sua criatura.
+0x00000161 ~guide: -bullet~ Desloque o rato sobre o tronco da criatura para mostrar a sua espinha.
+0x000000C1 ~guide: -h3~ Controlos dos elementos
+0x00000271 ~guide: -h2~ A extremidade de um membro é o único local numa criatura onde pode colocar um pé ou uma pinça. Cada membro inclui inicialmente um pé ou uma pinça, podendo substituí-los por novos pés ou pinças.
+0x00000201 ~guide: -h2~ NOTA: Se diminuir a espinha da sua criatura (e logo, o corpo) quando forem colocados elementos no corpo, alguns elementos podem ficar vermelhos. Isto indica que não pode diminuir tanto a espinha porque os elementos "vivem" nessa secção do corpo.
+0x00000121 ~guide: -h1~ Elementos de Clonagem
+0x00000151 ~guide: -h3~ Tronco
+0x000000B1 ~guide: -h2~ Faça clique sobre um elemento da sua criatura para mostrar as pegas que permitem manipular apenas esse elemento.
+0x000000A1 ~guide: -h3~ Editar Elementos com Pegas
+0x00000041 ~guide: -h3~ Desbloquear Elementos
+0x000001E1 ~guide: -h1~ Adicionar Comprimento à Espinha
+0x000002C1 ~guide: -h3~ Controlos Avançados dos Membros
+0x00000211 ~guide: -h3~ Dobrar o corpo
+0x00000431 ~guide: -h2~ Apresenta a saúde da sua criatura. Quanto maior for o valor, mais golpes a criatura pode aguentar durante a batalha antes de morrer.
+0x000003F1 ~guide: -h2~ Apresenta as habilidades e o nível social da sua criatura.
+0x00000351 ~guide: -h2~ Quando esgotar os pontos, já não pode acrescentar mais elementos.
+0x00000092 ~guide: -h1~ Elementos de Modificação
+0x00000441 ~guide: -h4~ Dieta
+0x00000371 ~guide: -h2~ Cada elemento que adiciona à sua criatura melhora as respectivas habilidades. A informação apresentada em cada elemento apresenta pormenores sobre as respectivas capacidades.
+0x000003C1 ~guide: -h4~ Combater
+0x000003A1 ~guide: -h3~ Habilidades
+0x00000381 ~guide: -h3~ Resumo das Habilidades da Criatura
+0x000003E1 ~guide: -h4~ Social
+0x00000361 ~guide: -h1~ Habilidades da Criatura
+0x00000331 ~guide: -h3~ O Orçamento de ADN
+0x00000451 ~guide: -h2~ A história evolucionária da sua célula gravou na pedra se vai sobreviver com uma dieta carnívora, herbívora ou omnívora. Os tipos de boca que estão disponíveis no Criador de Criatura limitam-se ao tipo de dieta que pode escolher.
+0x00000411 ~guide: -h2~ Apresenta o nível de velocidade da sua criatura.
+0x000000F5 ~guide: -bullet~ Desloque a roda do rato ou utilize as setas para cima e para baixo para dimensionar esse elemento.
+0x000000F3 ~guide: -h4~ Para aumentar ou diminuir o tamanho de um elemento que adicionou à sua criatura,
+0x000000F4 ~guide: -bullet~ seleccione o elemento fazendo clique sobre ele.
+0x000000F2 ~guide: -h3~ Elementos de Dimensionamento
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x000002D2 ~guide: -bullet~ Mantenha a tecla CTRL premida e arraste um novo membro para o juntar às restantes articulações do outro membro.
+0x00000131 ~guide: -h2~ Para copiar um elemento que já tenha adicionado à sua criatura, clique nesse elemento mantendo premida a tecla ALT no teclado e depois arraste a cópia para outro local na sua criatura. Terá de pagar pontos ADN por estas cópias.
+0x00000321 ~guide: -h2~ Se a sua criatura se tornar demasiado complexa, deixa de poder adicionar mais elementos.
+0x00000341 ~guide: -h2~ Cada elemento que adiciona à sua criatura custa pontos de ADN.
+0x00000391 ~guide: -h2~ O conjunto das habilidades das suas criaturas pode ser consultado no canto superior direito na área de resumo de habilidades.  Pode fazer clique sobre os botões de habilidade para ver a sua criatura a realizar essas habilidades.
+0x00000311 ~guide: -h2~ O indicador de complexidade avalia a complexidade da anatomia da sua criatura.
+0x00000071 ~guide: -h2~ Para seleccionar um elemento, clique no mesmo na paleta de elementos, arraste-o da paleta para a sua criatura e coloque-o no local pretendido.
+0x00000171 ~guide: -bullet~ Destaque uma vértebra específica colocando o rato sobre a mesma.
+0x00000401 Velocidade ~guide: -h4~
+0x00000421 Saúde ~guide: -h4~
+0x00000461 ~guide: -h2~ Nota: Se entrou no Criador de Criatura a partir da opção Criar vai poder seleccionar a boca e a dieta da sua criatura.
+0x00000021 ~guide: -h3~ Paleta de Elementos
+0x00000141 ~guide: -h1~ Moldar o Tronco
+0x000002D1 ~guide: -bullet~ Mantenha premida a tecla CTRL e clique entre duas articulações de um membro para remover uma secção (não pode remover o segmento do ombro nem da anca).
+0x00000191 ~guide: -bullet~ Faça clique e mantenha premido o botão esquerdo do rato sobre essa vértebra para dobrar a espinha nesse ponto.
+0x00000031 ~guide: -h2~ A Paleta de Elementos da criatura encontra-se à esquerda do ecrã ao entrar no Criador de Criatura. Existem várias categorias de elementos: bocas, sentidos, membros, etc. Seleccione o separador de categoria do elemento para o qual pretende ver todos os elementos desse grupo.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Modo de Construção
+0x000003D1 ~guide: -h2~ Apresenta as habilidades de ataque, e o respectivo nível, da sua criatura.
+0x000003B1 ~guide: -h2~ Apresenta habilidades como: chamar, esgueirar, saltar, ou planar e o respectivo nível de cada uma.
+0x00000091 ~guide: -h2~ Pode retirar elementos ou adicioná-los à sua criatura. Basta fazer clique no elemento que pretende remover, manter premido o botão esquerdo do rato e arrastar o elemento da célula, ou premir a tecla de retrocesso no teclado para removê-lo. O valor dos pontos ADN desse elemento é reposto no seu orçamento ADN.
+

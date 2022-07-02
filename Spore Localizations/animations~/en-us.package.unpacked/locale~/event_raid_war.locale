@@ -1,0 +1,17 @@
+﻿
+# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000001 Captain! We need your immediate help! ~p~Our enemy, ~mission_attacker_empire~, has sent an alien fleet to attack us!!! Make your way to planet ~mission_target_planet~ in the star system ~mission_target_star~ as quickly as you can or we are sure to suffer heavy losses.~p~Please hurry! 
+0x00000002 Close Transmission
+0x00000004 ~mission_attacker_empire~ is attacking ~mission_target_planet~!!
+0x00000003 ~mission_attacker_empire~ is no longer attacking ~mission_target_planet~!!
+0x00000005 Your enemy has sent a fleet to destroy your civilization in the ~mission_target_star~ system.
+0x00000006 The enemy fleet is no longer in the ~mission_target_star~ system.
+0x00000007 Your enemy, ~mission_attacker_empire~, is attacking your civilization on planet ~mission_target_planet~ in star system ~mission_target_star~.
+0x00000008 Your enemy, ~mission_attacker_empire~, is no longer attacking your civilization on planet ~mission_target_planet~ in star system ~mission_target_star~.
+0x0000000B Battle stations! ~mission_attacker_empire~ is attacking planet ~mission_target_planet~!!
+0x0000000C Conflict with ~mission_attacker_empire~ has subsided.

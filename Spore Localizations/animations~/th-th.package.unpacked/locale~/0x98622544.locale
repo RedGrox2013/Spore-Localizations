@@ -1,0 +1,27 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x0000000E พวกกร็อกซ์ถอนกำลังจากดาว ~mission_target_planet~ แล้ว
+0x00000005 พวกกร็อกซ์กำลังโจมตีเราที่ดาว ~mission_target_planet~!  ถ้าสินค้าของพวกเราเสียหายหมดคงขาดทุนย่อยยับเป็นแน่!  ช่วยเราด้วย!
+0x00000091 พวกกร็อกซ์ถอนกำลังจากดาว ~mission_target_planet~ แล้ว!
+0x0000000B พวกกร็อกซ์กำลังโจมตีดาว ~mission_target_planet~!!
+0x00000015 กัปตัน เราต้องการความช่วยเหลือด่วน!~p~พวกกร็อกซ์กำลังโจมตีดาว ~mission_target_planet~!  ได้โปรดโจมตีและกำจัดพวกมันในทันที!~p~~mission_target_planet~ เลิกการติดต่อ!
+0x00000013 ตรวจพบข้าศึก!  ยานรบของศัตรูกำลังมุ่งหน้าไปทางดาว ~mission_target_planet~!
+0x00000004 ด้วยความเคารพ ~player_title~ ~player_creature_name~~p~พวกกร็อกซ์กำลังโจมตีดาว ~mission_target_planet~ ของเรา! สนธิสัญญาพันธมิตรระบุว่าท่านจะต้องส่งยานมาช่วยเหลือในสงครามในครั้งนี้ ได้โปรดมาช่วยพวกเราในทันที!
+0x00000009 เลิกการติดต่อ
+0x00000002 เตือน ~player_title~ ~player_creature_name~! เรากำลังถูกพวกกร็อกซ์โจมตีที่ดาว ~mission_target_planet~!!  ช่วยพวกเราด้วย!!
+0x0000000D พวกกร็อกซ์โจมตีดาว ~mission_target_planet~!!
+0x00000008 ~player_creature_name~ ทหารของพวกข้าบน ~mission_target_planet~ กำลังตั้งรับการโจมตีของพวกกร็อกซ์!~p~~player_creature_name~ เจ้าเคยสาบานว่าจะช่วยข้า ได้โปรดรักษาสัญญานั้นด้วยเถิด
+0x00000012 ดาว ~mission_target_planet~  ได้รับความเสียหายอย่างหนัก  เราไม่สามารถต่อต้านการรุกรานของพวกกร็อกซ์ได้สำเร็จ
+0x00000003 ~player_title~ ~player_creature_name~~p~พวกกร็อกซ์กำลังกวาดล้างดาว ~mission_target_planet~ อยู่!!~p~ด้วยเมตตาแห่งเทพเจ้า Spode  ได้โปรดมาช่วยพวกเราด้วย!
+0x00000007 สหาย ~player_title~ ~player_creature_name~~p~เรากำลังต้องการความช่วยเหลือจากท่านอย่างมาก พวกกร็อกซ์บุกมาถึงถิ่นเราแล้ว!  เราไม่สามารถจะสะกดจิตพวกมันให้กลับไปได้เพราะพวกมันเป็นเครื่องจักร!~p~ได้โปรดรีบมาที่ดาว ~mission_target_planet~ ด้วยเถิด!
+0x00000090 เดินทางไปที่ระบบดาว ~mission_target_star~ เพื่อขับไล่ศัตรูชั่วร้ายนี้
+0x00000001 ช่วยด้วย! ~player_title~ ~player_creature_name~!~p~ดาว ~mission_target_planet~ กำลังถูกกองทัพจักรกลของพวกกร็อกซ์โจมตี!  ลำพังพวกเราเองคงไม่สามารถเอาชนะมันได้แน่ โปรดช่วยเราด้วยเถอะ!
+0x0000000C พวกมันถอนกำลังจากระบบดาว ~mission_target_star~ แล้ว... แต่อย่าเพิ่งตายใจล่ะ!
+0x00000011 พวกกร็อกซ์ถอนกำลังจากดาว ~mission_target_planet~ แล้ว
+0x00000006 อ๊ากกกก! ฉันกำลังถูกพวกกร็อกซ์โจมตี!~p~สหาย ~player_title~ ~player_creature_name~ ฉันสาบานว่าฉันไม่ได้ไปทำอะไรพวกมันเลยจริงๆ นะ!~p~ช่วยด้วย เร็วเข้า!
+0x00000010 พวกกร็อกซ์กำลังโจมตีดาว ~mission_target_planet~!!
+

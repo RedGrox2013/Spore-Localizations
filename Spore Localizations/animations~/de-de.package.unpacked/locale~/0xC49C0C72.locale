@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Verwalte Ziele und die Geschichte im Akt-Menü
+0x079A7CE1 Akt-Beschreibung
+0x079A7B8E Gib hier die Einführung des Aktes ein. Sie wird den Spielern zu Beginn des Aktes angezeigt.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosphäre
+0x07639100 Bestimme die Dichte der Atmosphäre. Schwere Wolken führen zu Blitzschlag, eine dünne Atmosphäre führt zu Meteoritenhageln!
+
+# EP1-TerraThemes
+
+0x0771EF15 Wähle ein Thema für deinen Planeten aus.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Ziele hinzufügen
+0x07BB8BDE Jeder Akt kann maximal drei Ziele haben.  Bitte lösche ein Ziel, indem du auf den Papierkorb daneben linksklickst, und starte dieses Tutorial aus der Liste erneut.
+
+# EP1-WinLoseText
+
+0x0771E83A Gib den Text ein, der erscheinen soll, wenn jemand bei deinem Abenteuer gewinnt oder verliert.
+0x07763B90 Text bei Gewinnen/Verlieren
+
+# EP1-ClickGoalButton
+
+0x0762251C Zielmenü
+0x0762251D Lege Ziele für den Kapitän fest. Jeder Akt kann bis zu drei Ziele haben, die in beliebiger Reihenfolge erreicht werden können.~p~Akte brauchen Ziele, damit Spieler bei deinem Abenteuer gewinnen oder verlieren können.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Stelle als Ziel "Sprechen mit" oder "Untersuchen" ein. Charakteren, Fahrzeugen und Objekten kann pro Akt ein "Sprechen mit"- oder "Untersuchen"-Ziel zugewiesen werden.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Stelle die Persönlichkeit des Gegenspielers auf "Aggressiv" ein.
+0x07621DD7 Verhalten
+0x0797266C Probiere deine Änderungen im Test-Modus aus.
+0x077AD33C Stelle die Wahrnehmung des Gegenspielers auf Maximalreichweite, damit er den Kapitän sehen kann.
+0x0779D3EF Persönlichkeit
+0x0779B5E7 Verhaltensmenü
+0x077AC9A2 Platziere diese Markierung auf einem Besetzungsmitglied, damit er folgt.
+0x077AC9A1 Folgen-Markierung
+0x077AC9D4 Ziehe die Folgen-Markierung auf den Kapitän in der Welt.
+0x077AD164 Er bestimmt, bis zu welcher Entfernung ein Besetzungsmitglied andere Objekte wahrnimmt und darauf reagiert.
+0x077AD163 Wahrnehmungsradius
+0x0779DB81 Wähle den Bewegen-Button aus und drücke dann den Folgen-Button.
+0x0775CE3E Besetzungsmitglied hinzufügen
+0x0779D3F0 Lege durch Drücken des entsprechenden Buttons die Persönlichkeit eines Besetzungsmitglieds fest. Persönlichkeiten reichen von Friedlich bis Aggressiv.
+0x0779DB5F Mit diesem Button kannst du die Bewegungsmöglichkeiten des Besetzungsmitglieds festlegen. Dazu gehören Wandern, Patrouillieren, Folgen und Stationär.
+0x0779DB5E Bewegung
+0x0779C5B4 Linksklicke auf den Verhaltensmenü-Button
+0x078D7B6F Sobald du den Kapitän platziert hast, rechtsklicke auf das Heldenmenü, um die Kamera auf den Kapitän in der Welt zu zentrieren.
+0x0775CE3F Wenn nicht bereits geschehen, füge deiner Besetzungspalette hier eine Kreatur hinzu. Ziehe diese Kreatur von der Besetzungspalette in die Welt, um sie dort zu platzieren.
+0x07621DD8 Gib deinem Kapitän mit dem Verhaltensmenü einen Gegenspieler. Hier kannst du Persönlichkeit, Bewegung, Wahrnehmung und Teamzugehörigkeit festlegen.
+0x07B4EC8D Um ein Besetzungsmitglied zu kopieren, halte ALT gedrückt und linksklicke darauf. So kannst du die Kopie in die Welt ziehen.
+0x07C74109 Änderungen wirken sich auf alle Akte aus. Linksklicke auf den Global-Button, um diese Funktion auszuschalten. Künftige Änderungen an diesem Besetzungsmitglied wirken sich nur auf den aktuellen Akt aus.
+0x07D23C43 Gut! Du hast dieser Kreatur eine aggressive Persönlichkeit zugewiesen.
+0x07C743A7 Globales Verhalten
+0x07C742C5 Linksklicke auf den Button "Global anwenden". In diesem Fall gelten alle Einstellungen dieses Besetzungsmitglieds im aktuellen Akt für sämtliche Akte.
+0x0779B5E8 Bewege den Mauszeiger über die Besetzungspalette, um das Verhaltensmenü aufzudecken.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Pflanzenwelt-Palette
+0x076390FE Mit der Pflanzenwelt-Palette veränderst du den Pflanzenbewuchs auf deinem Planeten. Pflanzen wachsen nur auf lebendigem Gelände und bei geeigneten Temperaturen. Es gibt große, mittlere und kleine Pflanzen.
+
+# EP1-TerraMood
+
+0x0771F108 Du kannst die Zeit anhalten oder normal ablaufen lassen.
+0x0771EFA4 Drehe die Tageszeit-Scheibe nach deinem Belieben.
+0x0771F133 Mit dem Atmosphäre-Regler stellst du die Wolkendichte ein. In dünner Atmosphäre kommt es zu Meteoritenhageln, in dichter zu Gewittern.
+0x0796DD5B Stimmungspalette
+0x0796DE16 Wähle die Stimmungspalette aus, um Tageszeit, Temperatur, Atmosphäre und den Wasserstand des Planeten einzustellen.
+0x079732F0 Atmosphäre
+0x079732D9 Tageszeit
+0x07A0112B Zeit anhalten
+0x07957E9C Planetentemperatur
+0x07957EAD Mit dem Regler kannst du die Temperatur deines Planeten einstellen.
+
+# Complexity Meter
+
+0x07957630 Die Komplexitätsanzeige gibt an, wie weit der Planet noch verändert werden kann
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Linksklicke auf den Button 'Freie Kamera', um den Modus 'Freie Kamera' ein-/auszuschalten.
+0x079709BB Freie Kamera
+
+### Checklist UI ###
+
+0x07735BDC Checkliste ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 In Abenteuern können Fahrzeuge vorkommen
+0x07621438 Fahrzeuge sind Besetzungsmitglieder. Wie bei Kreaturen kannst du Persönlichkeit und Verhalten festlegen.
+
+### Tutorial Checklist
+
+0x079C1550 Ein Dorf errichten
+0x079C1527 Eine Welt erstellen
+0x079C1570 Persönlichkeit hinzufügen
+0x079C1523 Speichern
+0x079C1531 Grundlegende Steuerung
+0x079C152C Willkommen
+0x0797355A Kamerasteuerung
+0x07970BD9 Akt-Menü
+0x079712E5 Multi-Objekt-Ziele
+0x07733143 Dem Kapitän ein Ziel zuweisen
+0x07733140 Einen Kapitän platzieren
+0x079692E4 Geräusche hinzufügen
+0x07733141 Eine Besetzung auswählen
+0x07733144 Verhalten zuweisen
+0x0796B1E0 Fahrzeugverhalten einstellen
+0x07C7ABAA Einführung
+0x079C1586 Spiel erstellen
+0x079C1565 Gebäude platzieren
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kapitänsausstatter
+0x079E7D0F Die Energieanzeige gibt an, wie viel Energie einzelne Fähigkeiten verbrauchen, und wie viel von Batterien und Generatoren gespeichert und wiederaufgeladen wird. ~p~Wenn dir die Energie ausgeht, kannst du deine Fähigkeiten nicht mehr einsetzen. ~p~Zieh den Energiehebel an jedem Accessoire, das einen hat, um seine Fähigkeitsstufe und den Energieverbrauch zu erhöhen.
+0x079E7D0E Energieanzeige
+0x07A8F04B Willkommen beim Kapitänsausstatter. ~p~Meisterst du Abenteuer im Schnellen Spiel bzw. Weltraumspiel, werden neue Accessoires für deinen Kapitän freigeschaltet. ~p~Sie erscheinen im Register "Kapitäns-Accessoires".
+
+# EP1- ShowActUI
+
+0x07635ED1 Akt-Menü
+0x07972881 Hier legst du für jeden Akt deine Musik fest.
+0x07972865 Akt-Musik
+0x07635ED2 Im Akt-Menü gibst du den einzelnen Akten deines Abenteuers einen Namen und eine Beschreibung.~p~Abenteuer können bis zu acht Akte haben.~p~Du kannst hier auch die Musik für die Akte des Abenteuers festlegen.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Nimm einen Stock aus der Objekt-Palette
+0x0771EAE0 Jetzt geben wir den Kapitän etwas zu tun
+0x0771EB72 Ziehe ein neues Ziel für Akt II auf den Stock
+0x0771EB1C Lege den Stock neben dem Kapitän auf den Boden
+0x0771EAC0 Linksklicke hier, um einen zweiten Akt hinzuzufügen. Damit das möglich ist, muss der aktuelle Akt ein Ziel haben.
+0x0771EC65 Stelle als Zieltyp "Geben" ein
+0x0771ECB5 Gib Text für die Zielkarte ein, der dem Spieler das Geben-Ziel erklärt
+0x0771EC85 Weise der zweiten Geben-Markierung eine Kreatur in der Welt zu
+0x0771ED0B Durch Linksklick auf den Speichern-Button kannst du deine Arbeit jederzeit speichern
+0x078DB94B Linksklicke auf die Palette für feste Objekte.
+0x078DB6DF Feste Objekte
+0x078DB94A Feste Objekte
+0x078DB6E0 Linksklicken und Ziehen eines festen Objekts in die Welt ist der erste Schritt.
+0x07763A67 Akt hinzufügen
+0x07B4E966 Abenteuer speichern
+
+# Checklist
+
+0x07A3CFA7 Du kannst die Tutorials im Optionen-Menü wieder aktivieren.
+0x07912CD1 Checkliste
+0x07912D11 Linksklicke auf die Elemente in der Checkliste. Sie helfen dir beim Erstellen eines Abenteuers.~p~Tutorials werden freigeschaltet, wenn du die Liste abarbeitest.~p~Öffne sie und linksklicke auf ein beliebiges verfügbares Element.
+
+# EP1-ShowMinimap
+
+0x0775F221 Übersichtskarte
+0x0771E3F9 Die Übersichtskarte ist für die Orientierung innerhalb deines Abenteuers sehr nützlich. Hier sind neben der Position des Kapitäns deine Ziele und deine Startposition verzeichnet.
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Willkommen im Abenteuer-Designer
+0x0761D564 Erstelle Abenteuer als Herausforderung für Spore-Spieler auf der ganzen Welt. Nimm dir Zeit, um dich mit den verfügbaren Werkzeugen vertraut zu machen. ~p~Gestalte deine Welt, bevölkere sie mit Kreaturen aller Art, lege Ziele fest und erzähle eine Geschichte, an der Spore-Spieler Spaß haben.
+
+# Hint
+
+0x0771DE1F Gib hier den Text ein, den das Besetzungsmitglied im Abenteuer sagen soll.
+0x078D93DA Text für 'Sprechen mit'
+0x0771D3CF Linksklicke auf "Name des Abenteuers", um deinem Abenteuer einen Titel zu geben.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Wähle deinen Kapitän aus!
+0x07D087E0 Erstelle einen brandneuen Kapitän, oder wähle eine bereits erstellte Kreatur aus, indem du auf den Filter "Alle" klickst. ~p~Dein Kapitän bekommt Erfahrung (Abenteuerpunkte), wenn du ein Abenteuer erfolgreich abschließt. ~p~Erfahrene Kapitäne erhalten Zugriff auf neue Ausrüstung und Accessoires.~p~Wähle einen Kapitän aus, um deine Reise zu beginnen.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Übersichtskarte
+0x079E8124 Die Übersichtskarte ist für die Orientierung auf dem Planeten sehr nützlich. ~p~Position deines Kapitäns, Ziele und Startposition sind alle hier verzeichnet.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Teste jetzt dein Abenteuer erneut
+0x07763C47 Noch mal Test-Modus
+
+# EP1-Audio
+
+0x0796A67A Falls noch nicht geschehen, wähle ein Audio-Objekt aus der Sporepädie aus und ziehe es in die Welt. Bewege die Maus darüber, um es dir anzuhören.
+0x0796A679 Audio-Objekte
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Palette für feste Objekte
+0x0762143E Feste Objekte können zur Dekoration oder als Orientierungshilfe für den Spieler eingesetzt werden. Werkzeuge und Objekte, die man aufheben, bewegen, als Geschenk überreichen oder umwerfen kann, gehören auch hierher.
+
+# EP1-PaintModeIntro
+
+0x076756BA Gelände-Modus
+0x076756BB Im Gelände-Modus stehen dir Themen und Werkzeuge zur Farbgestaltung deines Abenteuerplaneten zur Verfügung.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F1F1 Platziere das ausgewählte Geräusch in der Welt.
+0x0795826C Verändere die Neigung, indem du das Objekt auswählst und den Rotationsring verschiebst.
+0x0771F201 Du kannst die Hörweite des Geräuschs verändern, indem du den Mauszeiger über das Objekt bewegst, Shift gedrückt hältst und das Mausrad drehst.
+0x07972C1C Verändere die Lautstärke, indem du das Objekt auswählst und den Lautstärkeregler verschiebst.
+
+# Add a building
+
+0x079AC52F Gebäude hinzufügen
+0x07C7361C Arbeiten mit Gebäuden
+0x07C73644 Halte die Tab-Taste gedrückt und bewege die Maus über das Gebäude, um Griffe anzuzeigen, mit denen du es drehen und die Neigung einstellen kannst. Mit gedrückter Alt-Taste kannst du das Gebäude ziehen und kopieren.~p~Kreaturen und Fahrzeuge können nicht zwischen Gebäuden hindurch, die zu dicht nebeneinanderstehen.
+0x07BB5926 Gebäude platzieren
+0x079AC7EF Wenn nicht bereits geschehen, wähle ein Gebäude aus der Sporepädie aus. Ziehe es an einen Ort in der Welt.
+0x079AC545 Um ein Dorf zu erstellen, wähle zunächst die Gebäudepalette aus.
+
+# EP1-DragCreature
+
+0x075E4E54 Linksklicke auf die Kreatur und ziehe sie auf die Welt, in die Nähe des Kapitäns
+
+# EP1-DragHero
+
+0x07577C95 Linksklicke auf das Heldenmenü und ziehe den Kapitän auf die Welt.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Mit den Reglern veränderst du die Farben des lebendigen und des unbelebten Geländes. Nicht immer ist der Unterschied klar zu erkennen.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Du kannst die Welt durch Linksklick auf diese Buttons schneller ablaufen lassen.
+0x0771E683 Was du über das Ziel schreibst, erscheint auf der Zielkarte
+0x07763BB6 Tempo-Buttons
+0x0771E735 Linksklicke auf den Baumodus, um mit dem Bearbeiten fortzufahren.
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Halte die rechte Maustaste gedrückt und bewege die Maus über den Planeten, um dich umzusehen.
+
+# EP1-Teams
+
+0x0771F3ED Weise einer Kreatur Team A zu, um sie im Team des Kapitäns zu haben
+0x0771F410 Team B ist immer der Gegner des Kapitäns
+0x0771F426 Wenn kein Team eingestellt wird, ist die Figur neutral
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planeten bemalen
+0x076390FC Gelände kann mit dem Geländehöheneinfärber je nach Geländehöhe unterschiedlich eingefärbt werden. Die aktuellen Farben passen zu dem Thema deines Planeten.
+0x07BBAF6C Um die Farbe für Wasser, Atmosphäre, Strände und Klippen zu bestimmen, linksklicke auf das entsprechende Symbol und wähle eine Farbe aus der Palette aus.
+0x07BBAF80 Verändere ruhig mal die Farben des Planeten, bis er deinen Vorstellungen entspricht.
+0x07BBAF62 Klippen, Strände, Atmosphäre, Wasser
+0x07D2278E Schiebe eine Höhenmarkierung bis zu der Höhe, die du einfärben möchtest.
+0x07973230 Farbe nach Geländehöhe
+0x079731E7 Wähle die Planetenbemalung-Palette aus.
+0x07DB8058 Erstelle mit einem Linksklick auf den Geländehöhe-Balken eine neue Farbschicht.
+0x07D2274B Wähle eine Farbe für diese Markierung aus der Farbpalette aus. Du kannst sie später löschen, indem du sie von der Palette ziehst.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Abenteuer-Missionskarten
+0x07634DAD Missionskarten informieren den Spieler über das aktuelle Ziel.
+
+# EP1-CamZoom
+
+0x07563B2B Drehe das Mausrad, um den Zoomfaktor der Kamera zu ändern.
+
+# EP1-FirstAdventure
+
+0x07D087E1 Willkommen zu deinem ersten Abenteuer!
+0x07D087E2 Dein Kapitän gewinnt an Erfahrung, sobald du dieses Abenteuer erfolgreich abgeschlossen hast. ~p~Du kannst die Fortschritte deines Kapitäns in der Sporepädie verfolgen. ~p~Auf einem Planeten kontrollierst du deinen Kapitän genauso, wie du in der Kreaturenphase deine Kreatur kontrolliert hast. ~p~Mal sehen, was es alles Neues gibt ...
+
+##Terrain Mode items
+
+0x0762143F Verfügbare Besetzung
+0x07621440 Alle Besetzungsmitglieder, die in der Sporepädie zum Einsatz in deinem Abenteuer ausgewählt wurden, erscheinen hier.
+0x0791911C Pflanzenwelt
+0x07919119 Terraforming
+0x0791911B Wetter
+0x0791911A Wahl eines Themas
+0x079C153A Geländefarben
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Achte darauf, immer genug Energie zu haben, sonst kannst du einige deiner Fähigkeiten womöglich nicht einsetzen. ~p~Rüste deinen Kapitän mit Batterien und Generatoren aus, um deinen Energievorrat zu erhöhen.
+0x079E7E25 Energie
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Linksklicke erneut auf den Baumodus-Button.
+0x07763AD7 Noch mal Baumodus
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Rechtsklicke auf den Gegenspieler in der Besetzungspalette, um die Kamera auf ihn zu richten.
+0x075E5364 Halte Shift gedrückt und bestimme mit dem Mausrad die Größe des Besetzungsmitglieds.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Test-Modus
+0x075F5A4F Linksklicke auf den Test-Modus-Button, um dein Abenteuer während des Erstellens zu testen.
+
+# New Join with Sword
+
+0x07A81511 Ziele mit zwei Objekten
+0x078E92E3 Wähle als Zieltyp "Bringen zu" aus.
+0x07A81521 Nimm eine Zielmarkierung und weise sie dem ersten von zwei Objekten zu, die zusammengebracht werden sollen.
+0x07A81620 Platziere die zweite Markierung des "Bringen zu"-Ziels auf einem Objekt oder einer Kreatur, das oder die mit dem ersten Objekt in Kontakt kommen kann.
+0x07A814D8 "Bringen zu"- und "Blockieren"-Ziele erfordern zwei Objekte, um zu funktionieren. Eines oder beide müssen beweglich sein oder sich unabhängig voneinander bewegen können. Bei "Bringen zu" muss der Kapitän beide Objekte zusammenbringen. Bei "Blockieren" muss der Kapitän sie voneinander getrennt halten.
+0x07BA7CC2 Ziele mit zwei Objekten (Teil 2)
+0x07BA7DAE Finde oder platziere das zweite Objekt für dieses Ziel und ziehe die zweite Zielmarkierung darauf, um die Aufgabe zu vervollständigen.
+
+# EP1-NameAdventure
+
+0x0771D3CE Abenteuertitel
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Das ist das Menü 'Benutzte Besetzung'
+0x076214A1 Alles, was dem Abenteuer hinzugefügt wurde, erscheint hier.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Besetzungspalette Kreaturen
+0x075E079E Mit einem Linksklick wählst du die Besetzungspalette "Kreaturen" aus.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Die Fortschrittsleiste zeigt an, wie viele Ziele schon erreicht wurden und welche du noch vor dir hast. ~p~Sobald die Leiste voll ist, hast du das Abenteuer erfolgreich abgeschlossen.
+0x079E8180 Fortschrittsleiste
+
+# EP1-Vehicles
+
+0x0796C959 Wähle das Verhaltensmenü des Fahrzeugs aus.
+0x0796B4AC Fahrzeug-Palette
+0x0796B4AD Wähle die Fahrzeug-Palette aus, um deinem Abenteuer Fahrzeuge hinzuzufügen.
+0x0796C41E Fahrzeugverhalten
+0x0796B623 Fahrzeug hinzufügen
+0x0771F308 Stelle das Fahrzeugverhalten ein
+0x0771F399 Ziehe die Patrouillen-Markierung auf den zweiten Punkt in der Patrouillenroute des Fahrzeugs.
+0x0771F293 Füge der Besetzung ein Fahrzeug aus der Sporepädie hinzu. Platziere es dann in der Welt, indem du es von der Palette ziehst.
+0x0796CC7D Linksklicke auf den Bewegungs-Button. Wähle dann "Patrouillieren" aus.
+0x07D23877 "Bewegen zu" funktioniert so ähnlich, nur dass der Charakter bei der letzten Markierung bleibt.
+0x07D6257A Mit gedrückter Alt-Taste ziehst du die Markierung auf eine zweite Position. Das Fahrzeug fährt nun zwischen den beiden Patrouillenpunkten ständig hin und her.
+0x0796C41F Bewege den Mauszeiger über das neue Besetzungsmitglied, um das Verhaltensmenü aufzudecken.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Audiomenü
+0x079694A7 Wähle diese Palette aus, um deinem Abenteuer Geräusche und Musik hinzuzufügen.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Die Missionskarte verrät dir deine aktuellen Ziele. ~p~Um zum nächsten Akt zu kommen, musst du alle Ziele erreichen.
+0x079E8049 Missionskarte
+
+# EP1-SelectHero
+
+0x07578A4F Kapitän platzieren
+0x07578A50 Der Kapitän ist der Star des Abenteuers. Er ist die Figur des Spielers.
+
+# EP1-TestModeIntro
+
+0x07632EEC Willkommen im Test-Modus
+0x07632EED Der Test-Modus ermöglicht es dir, das derzeit von dir erstellte Abenteuer auf Fehler zu überprüfen und einen Eindruck zu bekommen, wie es sich spielt.~p~Kehre in den Baumodus zurück, wenn du etwas im Abenteuer verändern möchtest.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Linksklicke auf den Baumodus-Button, um zum Bearbeiten zurückzukehren.
+0x075F5A50 Baumodus
+
+# EP1-Flora
+
+0x0771F197 Wähle neue Pflanzen für deinen Planeten aus. Pflanzen wachsen auf lebendigem Gelände bei geeigneten Temperaturen.
+
+# EP1-DragGoal
+
+0x075F39B9 Weise einem Besetzungsmitglied in der Welt eine Zielmarkierung zu, um Ziele für den Kapitän einzurichten.
+0x07971E8D Zielmarkierungen dienen dazu, dem Kapitän in einem Abenteuer Ziele zuzuweisen. Dazu gehören 'Reden mit', 'Geschenk überreichen', 'Zerstören' und 'Anfreunden mit'.
+0x07971D33 Ein Ziel zuweisen
+
+##End
+
+0x0762407B Füge deinem Abenteuer Geräusche hinzu, indem du sie in die Welt ziehst. An den Reglern stellst du ein, wie weit ein Geräusch zu hören ist und wodurch es ausgelöst wird.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Wähle die Themenpalette aus.
+0x076390FA Themen geben deinem Planeten einen neuen farbenfrohen Stil.
+0x079207E3 Themen-Palette
+0x07920810 Themen
+
+#Test Mode Goal Cards
+
+0x07A80599 Im Test-Modus kannst du Ziele überspringen, indem du auf die Markierung neben dem Ziel linksklickst.
+0x07A805ED Ziele überspringen
+0x07A805F9 Akte überspringen
+0x07A805FE Du kannst mit einem Linksklick auf die Pfeile am oberen Rand der Zielkarte zwischen Akten wechseln.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Mit den Griffen kannst du Größe, Intensität und Ausrichtung verändern.
+
+# EP1-SelectCreature
+
+0x075E2C84 Kreatur hinzufügen
+0x075E2C85 Linksklicke auf eine Kreatur und ziehe sie mit gedrückter Maustaste an die gewünschte Position in deinem Abenteuer.~p~Öffne die Sporepädie, um eine Kreatur auszuwählen, falls keine verfügbar ist.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Willkommen im Terraforming-Modus.
+0x0791F5B7 Gelände-Palette
+0x07959720 Mit diesen Formen kannst du ein gebirgiges und zerklüftetes Gelände erstellen.
+0x07958D39 Wähle ein beliebiges Gelände aus und ziehe es auf den Planeten.
+0x0791F5B8 Berge
+0x07639102 Hier veränderst du das Gelände, wählst den Pflanzenbewuchs aus und bestimmst den Hintergrund des Planeten.
+0x07B3A935 Wähle die Gelände-Palette aus, um Zugriff auf die Geländetypen zu erhalten.
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Mit dem Spawnen-Verhalten legst du fest, ob sich Kreaturen regenerieren und vermehren.
+0x07A032FB Spawnen
+0x07A03396 Die Frequenz legt fest, wie oft es zu einem Spawn kommt, und die Grenze bestimmt, wie viele davon es gleichzeitig in der Welt geben soll.
+0x07A034A1 Gameplay-Objekte sollten getestet werden. Verwende den Test-Modus regelmäßig!
+0x07A033EF Gameplay-Objekte machen ein Abenteuer schwieriger und aufregender.~p~Such dir eins aus der Sporepädie aus und platziere es in der Welt.
+0x07A033E5 Gameplay-Objekte
+0x07A02DE0 Wähle ein tragbares Objekt aus der Sporepädie aus und ziehe es in die Welt.
+0x07A02DD5 Tragbares Objekt
+0x07A02E13 Tragbare Objekte können aufgehoben, herumgetragen und Kreaturen als Geschenk überreicht werden.
+0x07A03149 Akt-Zeituhr
+0x07A02FFC Abenteuercovermotiv
+0x07A03553 Mach im Test-Modus ein Covermotiv, indem du auf das Kamera-Symbol linksklickst.~p~Es erscheint dann im Feld für Name und Beschreibung.
+0x07A0304F Um ein Cover für dein Abenteuer zu erstellen, das Spieler in der Sporepädie sehen können, stelle die Kamera an einem Ort deiner Wahl auf.~p~Öffne dann das Feld für Name und Beschreibung und linksklicke auf das Kamera-Symbol.~p~Wähle ein Bild, das möglichst viel über dein Abenteuer aussagt.
+0x07A03155 Um einem Akt eine Zeitbegrenzung zuzuweisen, linksklicke auf die Akt-Zeituhr. Anschließend kannst du die Zeit einstellen, die du Spielern geben möchtest, um die Ziele dieses Aktes zu erreichen.
+
+# EP1-CamRotate
+
+0x07563B2A Klicke mit der mittleren Maustaste und bewege die Maus, um die Kamera zu drehen und zu heben/senken. Im Handbuch findest du eine Tastenbelegungsliste.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Gebäude
+0x0762143A Deine Kreationen im Gebäude-Designer sind für Abenteuer eine wunderbare Erweiterung. Gebäude können zu einem Team gehören und dem Spieler Mitteilungen übermitteln. Außerdem können sie durch moderne Waffen beschädigt werden. Aggressive NSCs können Gebäude angreifen, die neutral sind oder zum anderen Team gehören.
+

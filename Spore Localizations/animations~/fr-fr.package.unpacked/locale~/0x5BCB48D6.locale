@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000095 La bataille a été gagnée sur ~mission_target_planet~. Revenez vers la planète ~mission_source_planet~ dans la constellation ~mission_source_star~.
+0x00000093 Destination : constellation ~mission_source_star~.
+0x00000099 Bravo ! Rentrez vers la constellation ~mission_source_star~.
+0x00000097 En cours
+0x00000098 Terminée
+0x000000B2 Revenez sur la planète ~mission_source_planet~.
+0x00000081 Alors nous mènerons ce combat sans vous ! Nous ne pouvons pas rester sans rien faire !
+0x00000094 Les Grox ont été localisés dans la constellation ~mission_target_star~. Ne les laissez pas envahir ~mission_target_planet~.
+0x00000071 Qu'est-ce qu'il vous faut ? Si les Grox envahissent ~mission_target_planet~ le reste du secteur ne tardera pas à suivre.
+0x00000092 Les Grox ont été localisés dans la constellation ~mission_target_star~. Ne les laissez pas se répandre !
+0x00000041 Beau combat ~ep1_captain_full_name~ ! Vous avez l'étoffe d'un grand guerrier, c'est évident.~p~Les Grox n'avaient aucune chance contre vous.~p~Prenez donc ces ~mission_rewards~ Sporeflouz, ça devrait suffire à couvrir vos frais.
+0x000000B1 Combattez une armée infestée sur la planète ~mission_target_planet~.
+0x0000004E En route soldat ! Les coordonnées planétaires sont déjà dans votre Journal de mission !
+0x00000000 Alerte rouge ! Un drone Grox a été repéré sur ~mission_target_planet~ ! Il semble qu'ils essaient de convertir la planète. Nous avons besoin de soldats sur place et sur le champ !~p~En serez-vous, ~ep1_captain_full_name~ ?
+0x00000064 En cas d'invasion Grox, fuyez ! La seule façon de se débarrasser de cette vermine est d'utiliser un Ruine-planète.~p~Mais il y a un inconvénient : cela vous débarrasse aussi de la planète.
+

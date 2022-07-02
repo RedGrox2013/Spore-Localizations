@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492924 都市を失った
+0x35492925 ~timelineMyCivName~は都市を失った。
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~は軍事的文明となった。
+0x060B4242 軍事の特性を獲得
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~は進化したが、~timelineAbilityName~の能力を失った。
+0x550A15C2 ~timelineAbilityName~を喪失
+
+# TRG_MeatGathered
+
+0x94F807CA ~timelineSummedCount~個の肉を集めた。
+0x05FA01B9 ~timelineSummedCount~個の肉を集めた。
+0x060B4237 ~timelineSummedCount~個の肉を集めた。
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ 年
+0x555450A5 ~timelineAbsoluteYears~年
+
+#### Time Line Title ####
+
+0x0448655A 集落の育成
+0x0448655B 覇権をこの手に
+0x0448655C 世界征服
+0x04486557 陸上での生命の進化
+0x04486556 大きくなって陸上へ
+0x04486555 生命の創世
+0x04486558 知性の獲得
+0x04486559 文明の夜明け
+0x00000006 DNAの獲得とパーツの解除
+0x00000008 集落ステージ
+0x00000010 宇宙ステージ
+0x0000000C 文明ステージ
+0x00000004 クリーチャーステージ
+0x00000000 細胞ステージ
+0x00000002 敵を倒してパーツを解除
+0x00000001 DNAの獲得と成長のために食べる
+0x00000012 ミッションをクリアして通貨を稼ぐ
+0x00000007 進化のためにつがう
+0x00000005 戦う、感心させる、あさる
+0x0448655E 宇宙を探索
+0x0448655D 宇宙時代
+0x0000000D シティホールでビークルを購入、または作成する
+0x0000000E スパイス間欠泉を採掘して通貨を稼ぐ
+0x00000009 5つのライバル集落を征服、または感心させる
+0x0000000A 狩り、漁、または収穫で通貨を稼ぐ
+0x00000011 宇宙を探索して、敵や味方に会う
+0x0000000B 作業能率を上げるため道具小屋を購入
+0x00000003 クリエイターでパーツを取り付けて進化
+0x0000000F ビークルを使用してライバルの都市を征服、転向、または買収する
+0x00000013 コロニーの建設とテラフォーム
+
+# CLG_EatMeat
+
+0x352DBDBA ~timelineMySpeciesName~は肉を食べた。
+0x352DBDB9 ~timelineEventCount~肉を食べた。
+0x352DBDBB ~timelineMySpeciesName~は肉の破片を~timelineEventCount~個食べた。
+0x75580859 細胞は肉を~timelineEventCount~個食べた。
+0x75580858 細胞は肉を食べた。
+
+# TRG_KilledEpic
+
+0x060B422F 壮大なクリーチャーを倒した
+0x05FA01B1 ~timelineMyTribeName~は壮大な~timelineTargetOTDBName~を倒した。
+
+# SPG_ColonyOnPlanet
+
+0x060B424D 惑星のコロニー
+0x05FA01CB ~timelineMyEmpireName~は~timelinePlanetName~にコロニーの建設を始めた。
+
+# CRG_AlliedSpecies
+
+0x060B4221 同盟を結んだ
+0x05FA01A3 ~timelineMySpeciesName~は~timelineTargetOTDBName~と友好関係を結んだ。
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~は~timelineTargetEmpireName~から購入した。
+0x06300C33 惑星の購入
+
+# CLG_Death
+
+0x14F7E775 ~timelineMySpeciesName~は~timelineEventCount~回、死亡した。
+0x05FA0196 ~timelineMySpeciesName~は死亡した。
+0x060B4214 死
+0x75580855 細胞は~timelineEventCount~回死んだ。
+0x75580854 細胞が死んだ。
+
+# CVG_CapturedCityEconomic
+
+0x060B423D 経済的占領
+0x06031AAB ~timelineMyCivName~は~timelineTargetCivName~の都市を経済戦略によって占領した。
+
+# SPG_PlanetDestroyed
+
+0xB54938AD ~timelineMyEmpireName~は、惑星~timelinePlanetName~を破壊した。
+0xB54938AC 破壊された惑星
+
+# SPG_EndedWar
+
+0x35493815 ~timelineMyEmpireName~は、~timelineTargetEmpireName~との戦争を終結させた。
+0x35493814 戦争終結
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 肉性を獲得
+0x05FA0198 ~timelineMySpeciesName~は肉食クリーチャーに進化した。クリーチャーステージでは肉しか食べることができない。
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 宗教系：海上
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~が新たにビークル~timelineTargetOTDBName~をデザインした。
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA839 植物の情報を転送中…
+0x064AA841 進化ベクトルを再構築中…
+0x064AA842 モーション変化値を計算中…
+0x064AA844 脊髄神経を網状に成長中…
+0x064AA838 組み換え体ベクターの進化中…
+0x064AA83E 表皮を再生中…
+0x064AA843 食物網を図化中…
+0x064AA83A 細菌を消毒中…
+0x064AA840 神経のサブシステムを初期化中…
+0x064AA83B 細胞の構造を分化中…
+0x064AA83C データの特性をランダム化する
+0x064AA83D 消化器官からガスを排泄中…
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 軍事系：陸上
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x05FA01B3 ~timelineMyTribeName~は進化して宗教都市となった。
+0x060B4231 社交の特性を獲得
+
+# TRG_KilledTribemember
+
+0xB5303DE7 ~timelineMyTribeName~は~timelineEventCount~体の集落メンバーを倒した。
+0xB5303DE6 ~timelineMyTribeName~は~timelineTargetTribeName~のメンバーを倒した。
+0xB5303DE5 集落メンバーを殺した
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~は都市を作成した！
+0x060B4238 文明ステージへ進む
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 戦争が終結した
+0x9552AA74 ~timelineMyCivName~は~timelineTargetCivName~とは、もう交戦状態にない。
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC 惑星に「テラフォーミングレベル」を追加
+0x0627E7AD テラフォームされた~timelinePlanetName~
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 ビークルが作成された
+0x35523EC1 軍事系海上ビークルを作成した。
+0x35523EC2 ~timelineEventCount~機の軍事系海上ビークルを作成した。
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 ビークルが作成された
+0xB5523D44 経済系飛行ビークルを作成した。
+0xB5523D45 ~timelineEventCount~機の経済系飛行ビークルを作成した。
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~が新たなビークル~timelineTargetOTDBName~をデザインした。
+0x060B423A ビークルを作成した
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~が新たな建物~timelineTargetOTDBName~をデザインした。
+0x060B4239 建物を作成した
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~は宗教的文明となった。
+0x060B4241 宗教の特性を獲得
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 社交性を獲得
+0x05FA01A5 種族~timelineMySpeciesName~ が文明的な種族に進化した。
+
+# CVG_AccessorizedCreature
+
+0x05FA01BD ~timelineMyCivName~は新たな衣装を導入した。
+0x060B423B 新しい服装
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~は星に到達した。
+0x060B424B 宇宙ステージへ進む
+
+# CRG_BefriendedSomething
+
+0x05FA01A9 ~timelineMySpeciesName~は~timelineTargetOTDBName~と仲良くなった。
+0x060B4227 何かと友好的になった
+0x54F7EDA3 ~timelineMySpeciesName~は~timelineEventCount~匹のクリーチャーと仲良くなった。
+
+# CRG_Migrated
+
+0x060B421F 新しい巣
+0x05FA01A1 ~timelineMySpeciesName~は新たな巣を確保した。
+
+# CRG_Death
+
+0x05FA01A7 ~timelineMySpeciesName~は死亡した。
+0x14F7EF6F ~timelineMySpeciesName~は~timelineEventCount~回、死亡した。
+0x060B4225 死
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~は~timelinePartName~のパーツを発見した。
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 攻撃の特性を獲得
+0x05FA01B2 ~timelineMyTribeName~は進化して軍事都市となった。
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~は新しく建物~timelineTargetOTDBName~を作成した。
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 経済系：陸上
+
+# CVG_SeaVehicleLost
+
+0x060B4249 ビークルを失った
+0xD4F81D00 ~timelineEventCount~機の海上ビークルを失った。
+0x05FA01C7 海上ビークルを失った。
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~は~timelinePlanetName~を破壊した。
+0x060B4251 プラネットバスター
+
+# SPG_AccessorizedCreature
+
+0xD5147CA7 ~timelineMyEmpireName~は新たな衣装を導入した。
+0xD5147CA6 新しい服装
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~は~timelineAbilityName~を創作した。
+
+# TRG_BefriendedTribe
+
+0x060B422D 集落と同盟を結んだ
+0x05FA01AF ~timelineMyTribeName~は~timelineTargetTribeName~と同盟を結んだ。
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 経済系：飛行
+
+# SPG_ColonyPlaced
+
+0x05FA01D3 ~timelineMyEmpireName~ は~timelinePlanetName~にコロニーを建設した。
+0x060B425F コロニーを建設
+
+# CVG_WarStarted
+
+0x35492926 戦争勃発
+0x35492927 ~timelineMyCivName~は~timelineTargetCivName~と交戦状態にある。
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~は宇宙の詩人となった！
+0x060B4255 吟遊詩人の特性を獲得
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D40 ビークルが作成された
+0xB5523D42 ~timelineEventCount~機の軍事系飛行ビークルを作成した。
+0xB5523D41 軍事系飛行ビークルを作成した。
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 ミックス特性を獲得
+0x05FA01B4 ~timelineMyTribeName~は進化して経済都市となった。
+
+# CRG_PackMemberAdded
+
+0x060B421D 群れのメンバーが加わった
+0x05FA019F ~timelineTargetOTDBName~は群れのメンバーを追加した。
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x06031C10 ~timelineMyEmpireName~は宇宙の科学者となった！
+0x060B4259 科学者の特性を獲得
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~は新しく建物~timelineTargetOTDBName~を作成した。
+
+# SPG_MadeAlly
+
+0x05FA01CC ~timelineMyEmpireName~は~timelineTargetEmpireName~と同盟を結んだ。
+0x060B424E 同盟国となった
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA3 ビークルが作成された
+0x15523CA4 経済系陸上ビークルを作成した。
+0x15523CA5 ~timelineEventCount~機の経済系陸上ビークルを作成した。
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x05FA01A6 種族~timelineMySpeciesName~が速い種族に進化した。
+0x060B4224 ミックス特性を獲得
+
+# CVG_CapturedCityReligious
+
+0x060B423E 宗教的占領
+0x06031AAC ~timelineMyCivName~は~timelineTargetCivName~の都市を宗教的作戦によって転向させた。
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x05FA01A4 種族~timelineMySpeciesName~が強い種族に進化した。
+0x060B4222 攻撃の特性を獲得
+
+# CVG_UsedSuperPower
+
+0x060B4244 スーパーパワーの使用
+0x05FA01C2 ~timelineMyCivName~は~timelineSuperPowerName~を使った。
+
+# CVG_EpicKilled
+
+0x3552A305 ~timelineMyCivName~は壮大な~timelineTargetOTDBName~を倒した。
+0x3552A304 壮大なクリーチャーを殺した
+
+# CRG_KilledSomething
+
+0x05FA01A8 ~timelineMySpeciesName~は~timelineTargetOTDBName~を倒した。
+0x060B4226 何かを殺した
+0xF4F7EE4B ~timelineMySpeciesName~は~timelineEventCount~匹のクリーチャーを倒した。
+
+# CVG_SpiceNodeCaptured
+
+0x15137CD5 ~timelineMyCivName~はスパイス間欠泉を~timelineEventCount~個確保した。
+0x05FA01C1 ~timelineMyCivName~はスパイス間欠泉を確保した。
+0x060B4243 スパイス拠点が確保された
+
+# CVG_LostCityByMilitary
+
+0x35492921 ~timelineMyCivName~は都市を失った。
+0x35492920 都市を失った
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~は~timelineTargetOTDBName~を全滅させた。
+0x060B4220 絶滅した。
+
+# CRG_PackMemberDied
+
+0x05FA01A0 ~timelineMySpeciesName~は群れのメンバーを1匹失った。
+0x060B421E 群れのメンバーが死亡した
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x06031C11 ~timelineMyEmpireName~は宇宙のシャーマンとなった！
+0x060B425A シャーマンの特性を獲得
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 ビークルを作成
+0x05FA01C3 陸上ビークルを作成した。
+0xB4F817E5 ~timelineEventCount~機の陸上ビークルを作成した。
+
+# CVG_LandVehicleLost
+
+0x060B4248 ビークルを失った
+0x54F81C70 陸上ビークルを~timelineEventCount~機失った。
+0x05FA01C6 陸上ビークルを失った。
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA856 ループ・ボックス粒子を伸縮中…
+0x064AA857 ミーム遷移を開始中…
+0x064AA900 ウィルスデータを受粉中…
+0x064AA855 アンビエントメロディを作曲中…
+0x064AA84E 地圧を安定中…
+0x064AA84F 炭化水素資源を測量中…
+0x064AA851 大陸の郊外に居住区を作成中…
+0x064AA852 ドップラー効果マネージャーを初期化中…
+0x064AA854 都会の力を均等化中…
+0x064AA853 技術的要因を種蒔き中…
+0x064AA850 詐欺師ミニマップを測定中…
+
+# SPG_CGQuasar
+
+0x060B4254 CQクエーサー
+0x05FA01D2 ~timelineMyEmpireName~は啓蒙を受けた。
+
+# CRG_EvolveInEditor
+
+0x05FA019D ~timelineMySpeciesName~は進化した！
+0x060B421B 第~timelineGenerationCount~世代
+
+# CVG_AirVehicleLost
+
+0x060B424A ビークルを失った
+0xF4F81D2C ~timelineEventCount~機の飛行ビークルを失った。
+0x05FA01C8 飛行ビークルを失った。
+
+# SPG_CapturedStare
+
+0x05FA01CE ~timelineMyEmpireName~は~timelineTargetEmpireName~から獲得した。
+0x060B4250 星を占領した
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 宗教系：陸上
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~は敗北した。
+0x060B4263 プレイヤーの宇宙船が破壊された
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x06031C0F ~timelineMyEmpireName~は宇宙の騎士となった！
+0x060B4258 騎士の特性を獲得
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~は進化し、~timelineAbilityName~の能力を得た。
+0x550A15C0 ~timelineAbilityName~を獲得
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 ~timelineTargetEmpireName~を発見した。
+0x060B4264 帝国と遭遇した
+
+# TRG_GiftGiven
+
+0xB5303DE3 ~timelineMyTribeName~は~timelineTargetTribeName~に贈り物を渡した。
+0xB5303DE2 贈り物が渡された
+0xB5303DE4 ~timelineMyTribeName~は~timelineEventCount~個の贈り物をした。
+
+# CVG_TradeRouteStarted
+
+0x3549292A 形成された交易ルート
+0x3549292B 交易ルートを~timelineTargetCivName~との間に開いた
+
+# SPG_EditedUFO
+
+0x05FA01CA ~timelineMyEmpireName~は新たに宇宙船をデザインした。
+0x060B424C 宇宙船を編集
+
+# CLG_DiscoverPart
+
+0x05FA0193 ~timelineMySpeciesName~は~timelinePartName~のパーツを発見した。
+0x060B4211 パーツを発見
+0x75580853 ~timelinePartName~のパーツを発見した。
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~は宇宙の戦士となった！
+0x060B425D 戦士の特性を獲得
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 ビークルを作成
+0x05FA01C4 海上ビークルを作成した。
+0x94F819B5 海上ビークルを~timelineEventCount~機作成した。
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~は~timelineTargetCivName~を倒した。
+0x35492928 戦争が終結した
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~は宇宙の放浪者となった！
+0x060B425C 放浪者の特性を獲得
+
+# TRG_UnlockedTool
+
+0xD537EA55 ~timelineAbilityName~がアンロックされた
+0xD537EA56 ~timelineAbilityName~がアンロックされた。
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x06031C0E ~timelineMyEmpireName~は宇宙のエコロジストとなった！
+0x060B4257 エコロジストの特性を獲得
+
+# TRG_DomesticatedSpecies
+
+0x05FA01B0 ~timelineMyTribeName~は~timelineTargetOTDBName~を飼いならした。
+0x060B422E 新しいペット~timelineTargetOTDBName~
+
+# SPG_UFODestroyed
+
+0x060B4260 宇宙船が破壊された
+0x356A2D21 宇宙船を~timelineEventCount~機破壊した。
+0x05FA01D4 ~timelineTargetEmpireName~が破壊された。
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 経済系：海上
+
+# TRG_TribeMemberDied
+
+0x05FA01B6 ~timelineMyTribeName~は集落メンバーを失った。
+0x060B4234 集落メンバーの死亡
+0xD4F7FE0D ~timelineMyTribeName~は~timelineEventCount~匹の集落メンバーを失った。
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 軍事系：飛行
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA0 ビークルが作成された
+0x15523CA2 ~timelineEventCount~機の軍事系地上ビークルを作成した。
+0x15523CA1 軍事系地上ビークルを作成した。
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~は宇宙の貿易商となった！
+0x060B425B 貿易商の特性を獲得
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~はグロックスと遭遇した。
+0x060B4252 グロックスと初めての遭遇
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA6 ビークルが作成された
+0x15523CA8 ~timelineEventCount~機の宗教系陸上ビークルを作成した。
+0x15523CA7 宗教系陸上ビークルを作成した。
+
+# TRG_ConqueredTribe
+
+0x060B422C 集落を征服した
+0x05FA01AE ~timelineMyTribeName~は~timelineTargetTribeName~を制圧した。
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA908 特異点を加速中…
+0x064AA90A 銀河系の回転モーメントを再設定中…
+0x064AA90C 帝国の影響地図を製造中…
+0x064AA902 質量を保存中…
+0x064AA904 重力定数を調整中…
+0x064AA901 ヒッグス場を調整中…
+0x064AA905 放射性星雲を補充中…
+0x064AA907 銀河にポリフォニーを生成中…
+0x064AA909 クエーサーの赤方偏移釣り合い中…
+0x064AA90B エントロピーを再構成中…
+0x064AA903 限定空間を拡大中…
+0x064AA906 原星系を回転中…
+
+# TRG_AccessorizedCreature
+
+0x05FA01AC ~timelineMyTribeName~は新たな衣装を導入した。
+0x060B422A 新しい服装
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~は進化した。
+0x060B4212 第~timelineGenerationCount~世代
+
+# CRG_Grow
+
+0x05FA019E ~timelineMySpeciesName~はより大きな脳を持つようになった！
+0x060B421C 脳のアップグレード
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~は宇宙の外交官となった！
+0x060B4256 外交官の特性を獲得
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A857 交易ルートで利益を稼いだ
+0x7552A859 交易ルートにより、~timelineSummedCount~のスポアバックスを稼いだ。
+0x7552A858 交易ルートにより、~timelineSummedCount~のスポアバックスを稼いだ。
+
+# CLG_KilledSomething
+
+0x05FA019B ~timelineMySpeciesName~は~timelineTargetOTDBName~を倒した。
+0x060B4219 何かを殺した
+0xF4F7C380 ~timelineMySpeciesName~は~timelineEventCount~匹の細胞を倒した。
+0x7558085B 細胞は~timelineEventCount~個の細胞を殺した。
+0x7558085A 細胞は~timelineTargetOTDBName~を殺した。
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 特性ミックスを獲得
+0x05FA0199 ~timelineMySpeciesName~は雑食クリーチャーに進化した。クリーチャーステージで果実と肉のどちらでも食べることができる。
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA848 言語システムの構築中…
+0x064AA847 モーションを調整中…
+0x064AA846 文化の象徴物を開発中…
+0x064AA849 認識論の枠組みを構築中…
+0x064AA84D 認知能力を転送中…
+0x064AA845 社会的な規制を排除中…
+0x064AA84A 表面を平坦化中…
+0x064AA84B 民族誌学的な標本を準備中…
+0x064AA84C 実例のフェーズ移行中…
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~は宇宙の狂信者となった！
+0x060B425E 狂信者の特性を獲得
+
+# TRG_SeaweedGathered
+
+0x555BD5C3 ~timelineSummedCount~本の海草を集めた。
+0x555BD5C4 ~timelineSummedCount~本の海草を集めた。
+0x555BD5C5 ~timelineSummedCount~本の海草を集めた。
+
+# SPG_SpiceTraded
+
+0x060B4261 スパイスを交易した
+0x05FA01D5 ~timelineSummedCount~のスパイスの交易をした。
+0x55564EC3 ~timelineSummedCount~個のスパイスをトレードした。
+
+# SPG_MasterBadge
+
+0x060B4253 マスターバッジを獲得
+0x05FA01D1 ~timelineMyEmpireName~はマスターバッジを得た。
+
+# CLG_GameStart
+
+0x060B4210 第~timelineGenerationCount~世代
+0x05FA0192 隕石の中から姿を現した。
+
+# CVG_EpicCharmed
+
+0x3552A306 壮大なクリーチャーを魅了した
+0x3552A307 ~timelineMyCivName~は壮大なクリーチャー~timelineTargetOTDBName~を魅了した。
+
+# CVG_CapturedCityMilitary
+
+0x060B423C 軍事的占領
+0x06031AAA ~timelineMyCivName~は~timelineTargetCivName~の都市を軍事的作戦によって占領した。
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~は、~timelineEventCount~のスパイス間欠泉を失った。
+0xD54932C1 ~timelineMyCivName~はスパイス間欠泉を失った。
+0xD54932C0 スパイス拠点を失った
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC3 ビークルが作成された
+0x35523EC4 経済系海上ビークルを作成した。
+0x35523EC5 ~timelineEventCount~機の経済系海上ビークルを作成した。
+
+# CRG_GameStart
+
+0x05FA019C ~timelineMySpeciesName~は地上に到着し、知的生命体となる旅を始めた。
+0x060B421A 第~timelineGenerationCount~世代
+
+# CLG_EatPlant
+
+0x352DBDB7 ~timelineMySpeciesName~は植物を食べた。
+0x352DBDB6 ~timelineEventCount~植物を食べた。
+0x352DBDB8 ~timelineMySpeciesName~は植物の芽を~timelineEventCount~個食べた。
+0x75580856 細胞は植物を食べた。
+0x75580857 細胞は植物の芽を~timelineEventCount~個食べた。
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~は集落を作成した。
+0x060B4229 集落ステージへ進む
+
+# SPG_StartedWar
+
+0x05FA01CD ~timelineMyEmpireName~は~timelineTargetEmpireName~と交戦状態になった。
+0x060B424F 開戦
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 軍事系：海上
+
+# TRG_TribeMemberBorn
+
+0x060B4233 集落メンバーの誕生
+0xD4F81307 ~timelineEventCount~匹の赤ちゃんが~timelineMyTribeName~に誕生した。
+0x05FA01B5 ~timelineMyTribeName~に新たな赤ちゃんが誕生した。
+
+# SPG_RareFound
+
+0x05FA01D6 レアアイテムの~timelineRareName~を発見した。
+0x060B4262 レアアイテムを発見した
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 ビークルを作成
+0x05FA01C5 飛行ビークルを作成した。
+0x34F81C5A ~timelineEventCount~機の飛行ビークルを作成した。
+
+# TRG_FruitGathered
+
+0x94F804D9 ~timelineSummedCount~個の果実を集めた。
+0x05FA01B7 ~timelineSummedCount~個の果実を集めた。
+0x060B4235 ~timelineSummedCount~個の果実を集めた。
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~は経済的文明となった。
+0x060B4240 経済の特性を獲得
+
+# TRG_FishGathered
+
+0x54F8079A ~timelineSummedCount~匹の魚を集めた。
+0x060B4236 ~timelineSummedCount~匹の魚を集めた。
+0x05FA01B8 ~timelineSummedCount~匹の魚を集めた。
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC6 ビークルが作成された
+0x35523EC7 宗教系海上ビークルを作成した。
+0x35523EC8 ~timelineEventCount~機の宗教系海上ビークルを作成した。
+
+# CVG_TradeCompleted
+
+0x3549292D ~timelineMyCivName~は、~timelineSummedCount~のスポアバックスをトレードした。
+0x3549292C トレードが発生
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D46 ビークルが作成された
+0xB5523D47 宗教系飛行ビークルを作成した。
+0xB5523D48 ~timelineEventCount~機の宗教系飛行ビークルを作成した。
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 宗教系：飛行
+
+# CVG_GiftGiven
+
+0xD54932C3 支払われた金
+0xD54932C5 ~timelineMyCivName~は、~timelineSummedCount~のスポアバックスを支払った。
+0xD54932C4 ~timelineMyCivName~は、~timelineSummedCount~のスポアバックスを支払った。
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 植物の特性を獲得
+0x05FA0197 ~timelineMySpeciesName~は草食クリーチャーに進化した。クリーチャーステージでは果実しか食べることができない。
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~個の卵を集めた。
+0x555BD5C0 ~timelineSummedCount~個の卵を集めた。
+0x555BD5C1 ~timelineSummedCount~個の卵を集めた。
+

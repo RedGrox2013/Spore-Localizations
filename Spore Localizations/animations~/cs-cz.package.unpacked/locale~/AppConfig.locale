@@ -1,0 +1,15 @@
+﻿# These strings correspond with the error ids found in SPCommonOptionIDs.h
+
+0x000007D0 Konfigurační skript selhal.
+0x000003E9 Nelze spustit vykreslování.~br~Ujistěte se prosím, že je váš monitor nastaven na 32 bitovou kvalitu barev.
+0x000003F2 Byl nalezen starší ovladač grafické karty.~br~~br~Pro zajištění správného zobrazení a hratelnosti~br~doporučujeme nainstalovat nejnovější ovladač.
+0x000003E8 Hra je již spuštěna.
+0x000003F4 Byl nalezen starší ovladač grafické karty.~br~~br~Pro zajištění správného zobrazení a hratelnosti s několika GPU~br~je potřeba buď nainstalovat nejnovější ovladač,~br~nebo musí být vypnut režim s více GPU.~br~Hra nebude spuštěna.~br~Podrobnosti naleznete v souboru CTIMNE.
+0x000003ED Bohužel musí být v ovládacím panelu grafické karty nastaveno vyhlazování na "předvolba aplikace".~br~~br~Hra nebude spuštěna.~br~Podrobnosti naleznete v souboru CTIMNE.
+0x000007D1 Bohužel vaše grafická karta nesplňuje naše minimální požadavky.~br~Hru nebude možné spustit.~br~Podrobnosti naleznete v souboru CTIMNE.
+0x000007D3 Hra může při určitých konfiguracích systému a na některých grafických kartách~br~narazit na nedostatek adresního prostoru, což způsobuje její nestabilitu.~br~~br~Doporučujeme nainstalovat nejnovější Windows Vista Service Pack~br~a sehnat si nejnovější ovladače grafické karty.~br~~br~Bližší informace naleznete v následujícím článku na stránkách Pomoci a podpory společnosti Microsoft~br~~br~ http://support.microsoft.com/default.aspx/kb/940105~br~~br~
+0x000007D2 Bohužel vaše grafická karta nesplňuje naše minimální požadavky.~br~Hra bude spuštěna, ale je možné, že poběží velmi pomalu.~br~Podrobnosti naleznete v souboru CTIMNE.
+0x000003EA Nelze vytvořit grafické zařízení.~br~Direct X není k dispozici.
+0x000003EC Hra nemůže nalézt data potřebná ke spuštění.~br~Možná bude potřeba hru přeinstalovat.
+0x000003F3 Byl nalezen starší ovladač grafické karty.~br~~br~Pro zajištění správného zobrazení a hratelnosti~br~doporučujeme nainstalovat nejnovější ovladač.
+

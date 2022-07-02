@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079817B1 Diese Kreaturen rühren sich nicht vom Fleck.
+0x079817BA Diese Kreaturen bewegen sich zwischen zwei Punkten hin und her.
+0x079817B5 Diese Kreaturen bewegen sich zufällig in der Nähe ihrer Startposition.
+0x079EDF5A Diese Fahrzeuge sind stationär.
+0x079EDF5B Diese Fahrzeuge bewegen sich zufällig in der Nähe ihrer Startposition.
+0x079EDF5C Diese Fahrzeuge bewegen sich zwischen zwei Punkten hin und her.
+0x079EDF5D Diese Fahrzeuge folgen einem anderen zugewiesenen Objekt.
+0x079817BE Diese Kreaturen folgen einem anderen zugewiesenen Objekt.
+
+# Planet Paint
+
+0xB6AFCFC0 Bodendecke
+0xB6AFCFC1 Blumen
+0xB6AFCFC2 Wolkenstil
+
+#Goals:
+
+0x07981798 Verhindere, dass ~ep1_current_cast~ zerstört werden.
+0x0798177E Halte ~ep1_current_cast~.
+0x07981785 Sammle ~ep1_current_cast~.
+0x07981764 Beweg dich in die Nähe von ~ep1_current_cast~.
+0x0798176F Zerstöre ~ep1_current_cast~.
+0x0798177B Sprich mit ~ep1_current_cast~.
+0x07981773 Freunde dich an mit ~ep1_current_cast~.
+0x0798178C Halte ~ep1_current_cast~ davon ab, mit einem anderen Objekt in Kontakt zu kommen.
+0x07981789 Bringe ~ep1_current_cast~ zu einem anderen Objekt.
+0x07981782 Gib ~ep1_current_cast~ einem anderen Objekt.
+0x07981777 Verbünde dich mit ~ep1_current_cast~, zwecks Aufnahme in deine Gruppe.
+
+# Cloud Names
+
+0x56AFCF74 Pollen
+0x56AFCF73 Netz
+0x56AFCF75 Schwamm
+0x56AFCF72 Außerirdisch
+0x56AFCF70 Standard
+0x56AFCF71 Gekrümmt
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E90 Kreaturen
+0x07981E93 Objekte
+0x07981E92 Gebäude
+0x07981E91 Fahrzeuge
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Klicke auf eine Kreatur, ein Gebäude oder ein Fahrzeug, um es permanent aus deinem Spiel zu entfernen.~br~Um das Abenteuer permanent aus deinem Spiel zu entfernen, beende das Abenteuer und öffne die Sporepädie (drücke die "B"-Taste).  Wähle in der Sporepädie das Abenteuer, das du entfernen möchtest, und klicke dann auf den Button "Kreation verbannen" rechts unten.  Dadurch wird das Abenteuer entfernt, aber nicht die darin enthaltenen Kreationen. Letztere musst du manuell löschen.~br~Ein Bericht über die Kreation wird dann an den Spore-Kundendienst gesendet.
+
+#Awareness:  
+
+0x07981DE3 Legt fest, wie weit diese Kreaturen sehen können.
+0x079EDF5E Legt fest, wie weit diese Fahrzeuge sehen können.
+
+#Stances:
+
+0x0798179D Diese Kreaturen greifen feindliche Einheiten bei Sichtkontakt an.
+0x079817A1 Diese Kreaturen warnen, bevor sie angreifen.
+0x079817AD Diese Kreaturen fliehen, wenn sie angegriffen werden.
+0x079817A9 Diese Kreaturen verteidigen sich nur, wenn sie angegriffen werden.
+0x079817A5 Diese Kreaturen lassen sich vom voreingestellten Verhalten nicht ablenken.
+0x079EDF55 Diese Fahrzeuge greifen feindliche Einheiten bei Sichtkontakt an.
+0x079EDF57 Diese Fahrzeuge lassen sich vom voreingestellten Verhalten nicht ablenken.
+0x079EDF56 Diese Fahrzeuge warnen, bevor sie angreifen.
+0x079EDF58 Diese Fahrzeuge verteidigen sich nur, wenn sie angegriffen werden.
+0x079EDF59 Diese Fahrzeuge fliehen, wenn sie angegriffen werden.
+
+#Pickup:
+
+0x079817C2 Diese Kreaturen heben jedes Werkzeug auf.
+0x079817C5 Diese Kreaturen heben ein zugewiesenes Werkzeug auf.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE7B Normale Felsen
+0x56AFCE7A Eisfelsen
+0x56AFCE7C Lavafelsen
+0x56AFCE7D Shiitake
+0x56AFCE71 Knetanimation
+0x56AFCE72 Gemischt
+0x56AFCE73 Koralle
+0x56AFCE60 Kein
+0x56AFCE79 Schweizer
+0x56AFCE75 Granit
+0x56AFCE76 Organisch
+0x56AFCE78 Sandstein
+0x56AFCE74 Kristall
+0x56AFCE77 Stacheln
+
+# posse ui
+
+0x0760B242 Mannschaft
+
+#mission ending description#
+
+0x0760B241 Ende
+
+0x0760B0F8 Akt ~ep1_current_act~ Beschreibung & Musik
+0x075E4C79 Zieltyp bestimmen
+0x0760B0F9 Einführung:
+0x075E4C78 Ziel auf Objekt ziehen
+0x0760B0FA Siegestext
+0x0760B0FB Niederlagentext
+
+#Teams:
+
+0x079EDF5F Diese Fahrzeuge greifen niemals andere Mitglieder aus ihrem Team an.
+0x07981E72 Diese Gebäude werden von Mitgliedern aus gegnerischen Teams angegriffen.
+0x07981E71 Diese Kreaturen greifen niemals andere Mitglieder aus ihrem Team an.
+
+#introduction of the mission#
+
+0x0760B240 Intro
+
+# Deep Edit
+
+0x96A94D76 Akt ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Dieses Abenteuer hat einen Akt ohne Ziele. Der Spieler kann dieses Abenteuer erst gewinnen, wenn der Akt ein Ziel hat oder es sich um den letzten Akt des Abenteuers handelt. Möchtest du es trotzdem speichern?
+
+#Give:
+
+0x079817CE Diese Kreaturen geben ein Werkzeug einem zugewiesenen Objekt.
+0x079817C9 Diese Kreaturen geben ein Werkzeug jedem Objekt.
+

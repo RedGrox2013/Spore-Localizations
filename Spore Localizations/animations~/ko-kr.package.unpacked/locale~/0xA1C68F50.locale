@@ -1,0 +1,200 @@
+﻿# Edit Sporecast Title
+
+0x061B3E6B Spore캐스트 편집
+
+##################################
+# Badge Reward Dialog Box
+
+0x0518AEC0 보상
+
+# Remove buddy confirmation title message 
+
+0x0615DBAB "~generic0~" 님을 친구에서 제외하시겠습니까?
+
+# Unsubscribe from sporecast title
+
+0x0618AEDE 신청 해제
+
+# Subscribing failed
+
+0x05A5DFA6 Spore캐스트 신청 실패
+
+# Create Sporecast Success
+
+0x059497EE Spore캐스트가 성공적으로 생성되었습니다!
+
+#####################################
+# Feed Edit Mode
+# Create Sporecast Title
+
+0x059497DF Spore캐스트 생성
+
+#Build your city Hall dialog box
+
+0x04A5B8EB 새로 생성 
+0x04A5B9EB 불러오기 
+
+# Unsubscribe from sporecast message 
+
+0x0618AEDF 이 Spore캐스트를 신청해제 하시겠습니까?
+
+# XHTML error dialog message
+
+0x0618AEDB Spore 서버에 접속하는 도중 오류가 발생했습니다.
+
+# Edit Sporecast Success
+
+0x061B3E6C Spore캐스트가 성공적으로 업데이트 되었습니다!
+
+# Already downloaded title
+
+0x066F2FEE 이미 다운로드 됨
+
+# Delete Sporecast Failure
+
+0x061B3E70 Spore캐스트를 삭제하는 부분에 문제가 발생했습니다.
+
+# login failed dialog title
+
+0x055C0E8E 로그인에 실패했습니다.
+
+#####################################
+# GGE
+
+0x051E63B8 창조기 선택
+
+# Subscribe to sporecast message 
+
+0x0618AEDD 이 Spore캐스트를 신청하시겠습니까?
+
+# Cannot open asset message 
+
+0xF4A30B07 이 항목을 열려면 설치하지 않은 기관이나 텍스처가 필요합니다.
+
+#####################################
+# login
+# playing offline warning dialog text
+
+0x0662DA05 네트워크 플레이가 해제되었습니다. 
+
+# Subscribe to sporecast title
+
+0x0618AEDC 신청
+
+#Editor warnings
+#This is filled in by the text in the hint being activated
+
+0x05399B53 ~generic0~ 게임 내에서 플레이할 수 없습니다. 정말로 저장하시겠습니까?  
+0x05399B52 ~generic0~. The creation cannot be shared. Are you sure you want to save? [NOT IN USE]
+0x05399B54 ~generic0~. The creation cannot be played in game and cannot be shared. Are you sure you want to save? [NOT IN USE]
+0x05399B51 ~generic0~(을)를 정말로 저장하시겠습니까?
+
+# Cannot open asset title
+
+0xF4A30B06 항목을 열 수 없습니다.
+
+# Delete Sporecast title
+
+0x948F6008 Spore캐스트 삭제
+
+# Dialog buttons used from Editors/Shopping
+
+0x045BEDD2 교체하기 
+0x045BEDD4 취소 
+0x045BEDD6 새로 저장하기 
+0x045BEDD8 종료 
+0x045BEDD5 공개 
+0x045BEDD7 공개물 저장  
+0x045BEDDA 저장 하지 않고 나가기
+0x045BEDDB 저장하지 않고 취소하기
+0x045BEDD1 저장하기
+0x045BEDD9 나가기
+0x045BEDD3 저장 안 함
+
+# Delete Sporecast message 
+
+0x948F6009 이 Spore캐스트를 삭제하시겠습니까?
+
+# login failed dialog text 
+
+0x055C0E8F ~generic0~ 
+
+# Delete Sporecast button option
+
+0x948F600A 삭제
+
+# Tribe game
+
+0x0518AED8 Your population has fallen below two.  You will need to restart and try again. [NOT IN USE]
+0x0518AEDA Quit [NOT IN USE]
+0x0518AED9 Restart [NOT IN USE]
+
+# Create Sporecast Failure
+
+0x059497F4 Spore캐스트를 작성하는 도중 문제가 발생했습니다.
+
+# Edit Sporecast Failure
+
+0x061B3E6D Spore캐스트를 업데이트 하는 도중 오류가 발생했습니다.
+
+# Banning content dialogs
+
+0x04519651 게임에서 "~generic0~"을(를) 제거하시겠습니까?~br~~br~변경사항이 저장되고 메인 은하계 화면으로 돌아갈 것입니다. 그 후 게임을 다시 불러올 수 있습니다.
+0x045196AD 게임 요소 제거 실패
+0x045196B0 ~generic0~은(는) Maxis에 의해 만들어진 게임의 일부분이기 때문에 제거할 수 없습니다.
+0x04519652 ~generic0~은(는) 로컬 콘텐츠입니다. 삭제하시겠습니까?~br~~br~게임은 저장되고 메인 화면으로 돌아갈 것입니다. 메인화면에서 게임을 다시 불러 올 수 있습니다.
+0x04519364 게임 요소 적용 제거
+0x045196B2 자신의 크리처는 제거할 수 없습니다. ~generic0~은(는) 제거되지 않을 것입니다.
+
+#####################################
+# Settings
+
+0x064013CC 친구 설정을 변경하려면 사용자 설정을 업데이트 해야 합니다. 화면이 잠깐 동안 정지되는 현상이 생길 수 있습니다. 지금 또는 다음에 게임을 시작할 때 적용할 수 있습니다. 지금 적용하시겠습니까?
+0x057E63B7 해상도 설정으로 적용하려면 Spore를 수동으로 재시작해야 합니다.
+
+#####################################
+# Asset browser
+# XHTML error dialog title
+
+0x0618AEDA 오류 
+
+# Remove buddy failed
+
+0x0615DBB5 친구 삭제 실패
+
+# Already downloaded message
+
+0x066F2FEF 이미 당신의 컴퓨터에 이 창조물이 있습니다. 그것을 찾으려면 “전체” 탭을 보십시오.
+
+# Add buddy confirmation title
+
+0x0615DB9D 친구 추가
+
+# Add buddy confirmation message 
+
+0x0615DBA2 "~generic0~" 님을 친구로 추가하시겠습니까?
+
+# Add buddy failed
+
+0x0615DBB1 친구 추가 실패
+
+# Delete message box
+
+0x04A5B7EB 삭제하기 
+
+# Unsubscribing failed
+
+0x05A5DFA5 Spore캐스트 신청해제 실패
+
+# Save dialog
+
+0x04D96A85 정말입니까? 모든 진행사항을 잃게 됩니다! 
+0x04D96A86 게임을 저장하시겠습니까? 
+0x04D96A87 게임 저장 실패 - Spore를 종료합니다. 재시작하면 이전에 저장된 게임을 불러올 수 있습니다.
+0x04D96A88 손상된 저장 게임 발견 - 이전에 저장된 게임을 불러오는 중입니다.
+0x04D96A84 ~generic0~이 저장되었습니다.
+
+# Remove buddy confirmation title
+
+0x0615DBA8 친구 삭제
+

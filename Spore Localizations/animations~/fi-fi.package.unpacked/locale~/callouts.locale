@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Heimopäällikkö
+0x067213A6 Heimopäällikkö johtaa heimoasi. Heimo voi kyllä taistella ilman päällikköä, mutta heimojen välisiin seurustelutoimiin päällikköä tarvitaan.~p~Päällikkö myös käyttää kaikkia heimon perimätaitoja. Kun haluat käyttää perimätaitoa, valitse ensin heimopäällikkö ja napsauta sitten haluamaasi taitoa.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 Kaupparuudusta voit ostaa ja myydä laitteita, rohtoa ja harvinaisuuksia. Lastiruumasi myyntikelpoiset esineet luetellaan kaupparuudun alareunassa.~p~Napsauta kaupparuudulla sitä esinettä, jonka haluat ostaa tai myydä.
+0x0670C6DB Kaupparuutu
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Olet muodostanut heimon!
+0x06281000 Johdat nyt mahtavaa kolmen otuksen heimoa.~p~Voit antaa komentoja yksittäisille heimon jäsenille tai ryhmälle.~p~Kun toimit muiden heimojen kanssa, edistyspalkki täyttyy.~p~Katsotaanpa...~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Perimätaidot
+0x06721404 Läpäisemällä solupelin ansaitsit erikoisominaisuuden. Voit käyttää sitä napsauttamalla tätä painiketta.
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Edistyminen
+0x06271001 Tästä palkista näet, miten olet edistynyt.~p~Voit täyttää palkkia liittoutumalla muiden lajien kanssa tai tuhoamalla muita lajeja sukupuuttoon.~p~Katsotaanpa ensimmäistä tavoitetta...~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Tämä on edistyspalkkisi.~p~Kun syöt, hankit samalla DNA-pisteitä. Voit käyttää pisteet uusiin osiin ja kehittää soluasi.~p~Kehittyessään solu kasvaa, ja pääset tutkimaan entistä isompaa maailmaa.~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Otuksesi on nyt saanut lopullisen muotonsa, mutta se voi vielä muuttaa tyyliään muodin siivittämänä. Hanki vain otuksellesi uusia asuja ja lisävarusteita.
+0x0668AF4D Asustamo
+0x063976F0 [NOT IN USE]
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Alhainen energia
+0x06627B5D Aluksesi ja sen laitteet kuluttava energiaa matkallaan.~p~Kotiplaneetalla voit aina tankata ilmaiseksi, mutta liittolaiset ja siirtokunnat veloittavat akkujen latauksesta. Akkujen lataus tilataan viestintäpaneelista.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Tervetuloa sivilisaatiopeliin!
+0x0625E9BE Käytössäsi on nyt kulkuneuvoja, ja valmistaudut luomaan kansakunnan ensimmäisen kaupungin.~p~Sinun sen sijaan on huolehdittava toimista toisten kansakuntien kanssa. Kun kohtaat toisia kansakuntia, voit aloittaa planeetanvalloituksen.~p~Katsotaanpa sitten sitä edistyspalkkia...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06638D3E Omat kokoelmat
+0x06290007 Omissa kokoelmissa voit tutkia tehtävälokia, ansiomerkkejä, laitekokoelmaa ja harvinaisuusluetteloa.
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Olet pakottanut järjestelmän viimeisen siirtokunnan antautumaan. Jos haluat vallata tämän tähtijärjestelmän, napsauta ruudun yläreunassa olevaa valtauspainiketta.~p~Vaikka et haluaisikaan vallata tähtijärjestelmää, voit toki hyökätä järjestelmässä sijaitsevien siirtokuntien kimppuun ja nöyryyttää näin vihollista.
+0x06627A27 Järjestelmän valtaus
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA2 Historia
+0x1535ABA3 Heimosi toimintatavat ovat määrittäneet sille ensimmäisen kulttuurisen piirteen. Tämä piirre määrittää kansakuntasi erikoisvahvuuden ja teknisen kehityksen suunnan. Kun kansakuntasi kasvaa, kansalaisesi kehittävät ainutlaatuisia laitteita, jotka auttavat sinua saavuttamaan koko planeetan hallinnan. Käytä niitä viisaasti.
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Pikkukartta
+0x06721419 Voit liikkua paikasta toiseen myös pikkukartan avulla. Siitä näet niin pesän, ruoan kuin muuttoreitinkin.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Laitteet
+0x065E5ECE Saat käyttöösi uusia laitteita ansaitsemalla ansiomerkkejä. Kun laite on avattu, voit ostaa sen kotiplaneetaltasi.~p~Jotkin laitteet ovat kertakäyttöisiä tai niitä voi käyttää vain muutaman kerran. Toiset laitteet taas ovat kiinteitä, ja niiden käyttö saattaa vaatia energiaa.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06280004 Tärkeää tietoa.
+0x06281004 Poikaset kasvavat nopeasti, ja niistä tulee heimosi tuotteliaita jäseniä.~p~Sitä ennen voit seurata poikasten tilannetta täällä.
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06280010 Mahtavaa!
+0x06281010 Nyt tiedät perusteet, joten siirrytäänpä etsimään ruokaa!
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Onneksi olkoon!
+0x06281006 Heimosi hallitsee ympäristöään!~p~Kun olet valmis sivistyneeseen elämään, napsauta kehityspainiketta.
+
+# Callout_SPG_ProgressBar.prop
+
+0x06638D71 Edistyspalkki
+0x06290001 Tämän palkin avulla voit seurata sitä, miten olet edistynyt saamasi ansiomerkkien kanssa ja tarkistaa etäisyytesi galaksin keskustasta.~p~Planeetan pinnalla oleva komentokeskus haluaa kovasti puhua kanssasi. Tutustutaanpa siis nykyaikaiseen viestintätekniikkaan.~p~
+
+#######################################
+# City Planner
+
+0x0639783F Näiden välilehtien avulla voit tutkia kaupunkieditorin sisältöä. Osta kulkuneuvoja, rakennuksia tai siviilikohteita, sävellä tunnusmusiikki tai vaateta kansalaisesi.
+0x06397840 Näiden välilehtien avulla voit tutkia kaupunkieditorin sisältöä. Osta kulkuneuvoja, rakennuksia tai siviilikohteita, sävellä tunnusmusiikki tai vaateta kansalaisesi.
+0x0665E829 Kaupunkieditori
+0x06280005 Kaupunkieditori
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Tavoitteet
+0x06550888 Tänne ilmestyvät kansakuntasi tavoitteet.~p~Ensimmäinen tavoite on vallata rohtoesiintymä ja aloittaa rohdonkeräys.~p~Rohtoesiintymän hallinta lisää kansakuntasi tuottavuutta.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Miksi turhaan kävellä, kun pyörät on keksitty?~p~Valitse kulkuneuvo vasemmalla hiiren painikkeella tai valitse joukko kulkuneuvoja vetämällä merkkialue niiden ympärille. Voit lähettää ne kohteeseensa napsauttamalla määränpäätä hiiren oikealla painikkeella.~p~
+0x0626F434 Selection NOT IN USE
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Tärkeää tietoa...
+0x00000005 Tämä on kehityspainike. Sitä napsauttamalla voit siirtyä otuspeliin.~p~Ennen maalle nousemista pääset kehittämään soluasi vielä kertaalleen, jotta voit valmistautua maanpäälliseen elämään.
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Onneksi olkoon!
+0x062EFB85 Koko planeetta on hallussasi!~p~Kun olet valmis ulottamaan tutkimusretkesi kotiplaneettasi ilmakehän ulkopuolelle, napsauta kehityspainiketta ja valmistaudu lähtölaskuun!
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Tiedustelu
+0x06627BE0 Holotiedustelija ilmestyi planeetan pinnalle. Tutki planeettaa mielesi mukaan.~p~Nouda hologrammi napsauttamalla hahmoikkunassa hologrammin noutopainiketta.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x0668ACDF Solueditori
+0x063971E5 [NOT IN USE]
+0x06397215 Voit siirtyä kaikissa editoreissa toiminnosta toiseen napsauttamalla yllä olevia painikkeita.~p~Ennen kuin palaat alkumereen, piipahda värittämössä ja anna otuksellesi uusi ilme!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3BF Kai tiedät, että... NOT IN USE
+0x0626F3C4 Tässä on pikkukartta, jossa näkyy koko planeetta. Karttaan on merkitty kaupungit, rohtoesiintymät ja kulkuneuvot. Sinun ei tarvitse enää eksyä, ellet sitten välttämättä halua! NOT IN USE
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Katastrofi!
+0x06628758 Tähtijärjestelmässä ~star_name~ sijaitsevalla planeetalla ~planet_name~ on meneillään suuren luokan katastrofi!~p~Tapahtumahistoriaan tulee ilmoitus aina, kun valtakuntasi tai liittolaisesi alueella tapahtuu jotain hälyttävää.~p~Näet katastrofit galaksinäkymässä punaisina merkkeinä. Usein näistä ilmoitetaan myös radiolähetyksinä.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06281002 Tästä voit tarkistaa heimosi jäsenten kunnon, nälän ja tämän hetkiset toiminnot.~p~Voit valita heimon jäsenen napsauttamalla sen kuvaa.
+0x06280002 Tärkeää tietoa.
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Ravintokartan näkymä
+0x0662811B Vaihda pikkukartalta ravintokartalle ja takaisin.~p~Vasemmalla oleva kehä näyttää planeetan ilmakehän ja lämpötilan tai maankaltaisuusluokan.~p~Maankaltaistuslaitteilla voit kohentaa planeetan maankaltaisuusluokkaa. Muokkaa planeettaa niin, että kehällä näkyvät pisteet liikkuvat kohti kehän keskustaa. Keskimmäinen kehä edustaa elämälle ihanteellista T3-luokan planeettaa.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Tähtikartat
+0x0664AACD Tähtikartan seurainten avulla voit vaivatta liikkua galaksissa.~p~Oman valtakunnan seurain näyttää sinulle kaikki valtakuntasi hallussa olevat tähdet.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D3 Maankaltaisuusluokan vakauttaminen
+0x066281D9 Onneksi olkoon, olet kohottanut planeetan maankaltaisuusluokkaa!~p~Huomaa, että T1-luokan planeetta pystyy jo ylläpitämään elämää. Sijoita planeetalle lastiruumastasi kaikenkokoisia kasveja, niin voit parantaa maankaltaisuusluokan vakautta.~p~Jos et tee tätä nopeasti, planeetan maankaltaisuusluokka laskee.
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Viestintäpaneeli
+0x062EFB67 Jos jokin kansakunta saa hallintaansa useamman kuin yhden kaupungin, kansakunta tulee näkyviin viestintäpaneeliin.~p~Vie kohdistin kansakunnan kuvakkeen ylle, niin näet kansakuntienne välisen suhteen. Tarkista kansakuntien suhteen taustat tai ota kansakuntaan yhteyttä viestintäpaneelin kautta.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 Laumasi jäsenet auttavat sinua hyökkäyksessä tai ystävyyden hieronnassa.~p~Huomaa, että laumassa on vielä tilaa yhdelle.~p~Seurustele liittolaisen kanssa, niin se liittyy laumaasi.
+0x06270004 Kokoa lauma
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Aluksesi on kärsinyt vahinkoa, ja se kaipaa korjausta. ~p~Kotiplaneetallasi korjaukset ovat ilmaisia, mutta liittolaiset ja siirtokunnat veloittavat niistä. Korjaukset tilataan viestintäpaneelista käsin.
+0x06627DBE Korjausten tarve
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06638D98 Aseet
+0x06290006 Aseista taas näet kaikki hyökkäys- ja puolustusaseesi.~p~Ota minilaser käyttöön napsauttamalla sitä.
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E GoalsNOT IN USE
+0x0626F429 Kun pyrit planeetan johtajaksi, saatat välillä tarvita hieman ohjeistusta. Nämä vinkit auttavat varmasti! NOT IN USE
+
+# Callout_SPG_ActiveTool.prop
+
+0x06638C6B Käytetty laite
+0x06290008 Käytössä oleva laite näkyy avaruusaluksesi kuvassa. Voit kytkeä laitteen pois päältä painamalla ESC-näppäintä.
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Perusta ensimmäinen kaupunkisi napsauttamalla tässä!~p~Pääset editoreihin, joissa voit suunnitella kaupungintalosi ja kulkuneuvosi.
+0x06280007 Jatka sivilisaatiopeliin
+
+# Callout_TRG_FirstGoals.prop
+
+0x06281003 Näiden tavoitteiden avulla tutustut heimoelämän perusteisiin.~p~Ensimmäinen tavoitteesi on suunnata heimon asustamoon ja vaatettaa ryhmäsi!~p~Napsauta heimon majaa.
+0x06280003 Tavoitteet
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Eläinten sijoittaminen
+0x06628274 Olet nyt vakauttanut lämpötilan ja ilmakehän. Huomaa, että sijoittamasi kasvit on lisätty planeetan ravintokarttaan. Planeetta on nyt valmis eläimille.~p~Sijoita planeetalle ensin kasvinsyöjät ja sitten lihansyöjät, niin ravintokartta täydentyy.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06270000 Tervetuloa maan kamaralle!
+0x06271000 Olet nyt kehittynyt otuksesi, ja seuranasi on pesäkumppaneita.~p~Jotta voisit jatkaa kehittymistäsi, sinun tulee etsiä planeetan muita lajeja ja kerätä DNA-pisteitä.~p~Kun saat DNA-pisteitä, edistyspalkkisi täyttyy. Katsotaanpa...~p~
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 Ennemmin tai myöhemmin kauppareitit sallivat kaupankäynnin toiselle osapuolelle mahdollisuuden ostaa kauppareitin pääpiste. Siirry kauppakumppanin tähtijärjestelmään ja napsauta ruudun yläreunassa olevaa ostopainiketta. Esiin tulee viestintäpaneeli, minkä kautta voit ostaa järjestelmän.
+0x06627F31 Järjestelmän osto
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359775 Historia
+0xD5359776 Tältä aikajanalta näet kaikki soluna tekemäsi suuret teot ja tärkeät päätökset.~p~Näiden pohjalta sinulle on määräytynyt ainutlaatuinen piirre, joka tulee hyödyttämään tulevia sukupolvia.~p~Katsotaanpa, mitä jatkossa seuraa.
+
+# Tribe Planner
+
+0x0668B06F Heimoeditori
+0x06397802 Napsauttamalla hattukuvaketta voit siirtyä heimon jäsenen sivulle.~p~Vie kohdistin heimon jäsenen ylle ja napsauta asun muokkauspainiketta, niin pääset heimon asustamoon.
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Tervetuloa avaruuteen!
+0x06291000 Tervetuloa olevaisuuden äärirajoille, sivistyksen käymättömille korpimaille: avaruuteen!~p~Ohjaat nyt avaruusalusta ja johdat lajiasi sen kotiplaneetalta kohti laajaa galaktista imperiumia.~p~Katsotaanpa edistystäsi...
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x06397261 Editorissa on nyt uusi toiminto: koekävely! Testaile otuksesi liikehdintää, ennen kuin palaat planeetalle.
+
+# Callout_SPG_CargoBin.prop
+
+0x06638CAC Lastiruuma
+0x06290005 Tässä on lastiruutu. Voit lisätä kasvin tai eläimen lastiruumaasi valitsemalla sieppaussäteen, napsauttamalla kasvia tai eläintä ja pitämällä painikkeen painettuna. ~p~Jos haluat poistaa jotakin lastiruumasta, valitse poistettava kohde, napsauta planeetan pintaa ja pidä hiiren painike painettuna.
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Tehtäväloki
+0x065E5F30 Jos näet tämän tekstin, bugaa se. Hopihopi.
+
+######################################## Creature Editor
+
+0x0668B8D1 Otuseditori
+
+# cell opening
+
+0x00000001 Tervetuloa alkumereen!
+0x00000002 Onneksi olkoon!
+0x00000000 Sporessa kaikki tekemäsi päätökset vaikuttavat omaan tulevaisuuteesi.~p~Solun elämäntehtävänä on syödä, kasvaa ja kehittyä. Kasvamistasi mittaa alla oleva edistyspalkki.
+0x00000003 Olet noussut alkuliman valtiaaksi!~p~Kun olet valmis kömpimään jaloillesi avaran taivaan alla, napsauta kehityspainiketta.
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Historia
+0x1535ABA5 Evoluution aikana tekemäsi päätökset määrittävät sen, millainen lajisi on, kun se viimein suuntaa planeetaltasi avaruuden ihmeitä tutkimaan. Lajisi luonne ei vaikuta ainoastaan perimätaitoihin, vaan myös niihin laitteisiin, joita avaruusalukseesi voi asentaa.
+
+# Callout_TRG_UICameraControls.prop
+
+0x0665EE03 Kohdista ja käännä
+0x06281009 Näiden komentojen avulla voit lähentää ja loitontaa näkymää sekä kääntää kuvakulmaa.~p~Voit myös pyörittää hiiren rullaa. Kokeillaanpa...
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Pikkukartta
+0x06550367 Huomaa, että valtaamasi rohtoesiintymä on merkitty kansakuntasi värillä.~p~Napsauta kaupungintaloa pikkukartalla, niin kuva siirtyy sen luo. Voit aloittaa pääkaupunkisi rakentamisen.
+
+# Callout_SPG_FirstGoals.prop
+
+0x06638CED Tavoitteet
+0x06290003 Tärkeimmät tehtäväsi on merkitty tänne pikkulokiin. Voit seurata enintään kolmea tehtävää pienoiskoossa.~p~Voit milloin tahansa avata kattavan tehtävälokin painamalla L-näppäintä.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Palkit
+
+# CalloutSample.prop
+
+0x0615824E Kuvatekstin otsikko
+0x06158262 Kuvateksti
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Tähtikartat
+0x0677176A Liittolaisten ja vihollisten seurain näyttää ystäviesi ja vihollistesi hallitsemat alueet.~p~Valtakuntien seurain taas näyttää kaikki vieraiden valtakuntien hallitsemat alueet.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06638D0B Yleislaitteet
+0x06290004 Laitevalikon laitteet on luokiteltu tyypeittäin. Luotain on yleislaitteiden joukossa. Ota se käyttöön napsauttamalla sitä.
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Maankaltaistamisen viimeistely
+0x066282BD Olet juuri täyttänyt yhden ekosysteemin riveistä. Jos planeetalle on jo sijoitettu siirtokunta, voit lisätä siihen rakennuksia napsauttamalla kaupungintaloa.~p~Jos haluat lisätä planeetalle siirtokuntia, kohenna planeetan maankaltaisuusluokkaa ja täytä sen ravintokartta.~p~Jos haluat jäljittää jonkin eläimen tutkan avulla, napsauta eläintä ravintokartassa.
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB33 Perimätaidot
+0x062EFB38 Tässä näkyvät oman kansakuntasi ainutkertaiset superominaisuudet.~p~Kansakuntasi kasvaessa kansalaisesi kehittävät nämä teknologiat avuksesi.
+
+# Callout_CRG_Stance.prop
+
+0x06270003 Valmiusasento
+0x06271003 Otuksesi valmius määrittää, hyökkääkö se toisen otuksen kimppuun vai toimiiko se kiltisti.~p~Ennen kuin toimit otuksen kanssa, napsauta vihreää painiketta, jos haluat uuden ystävän. Jos taas kaipaat välipalaa, napsauta punaista painiketta. Käytä sitten ominaisuuspainiketta.
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Harvinaisuudet
+0x065E5F4E Jos näet tämän tekstin, bugaa se. Hopihopi.
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Edistyminen
+0x0626F40D Tämä on edistyspalkkisi.~p~Aina kun valtaat, käännytät tai ostat kaupungin, valtasi planeetalla lisääntyy, kunnes viimein hallitset koko planeettaa.~p~Aluksi kansakunnallasi on vain yksi erikoisvahvuus, mutta saat niitä lisää, kun valloitat uusia kaupunkeja.~p~
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 Heimopäällikkö
+0x0678787A Heimopäällikkö johtaa heimoasi. Heimo voi kyllä taistella ilman päällikköä, mutta päällikköä tarvitaan heimojen välisiin seurustelutoimiin
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Tähtikartat
+0x06771767 Käytä tehtäväseurainta, niin näet tehtäviisi liittyvät tähdet.~p~Matkareitin ja käytyjen planeettojen seuraimet auttavat pitämään kirjaa kaikista niistä paikoista, joissa olet käynyt.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Kalustoluettelo
+0x0626F457 Voit myös napsauttaa ajoneuvoja kalustoluettelostasi, niin saat ne valittua tai voit tarkistaa niiden tämänhetkisen toiminnan.~p~Jos kaksoisnapsautat ajoneuvoa, saat valittua kaikki samanlaiset ajoneuvot.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Muodosta heimo napsauttamalla!~p~Voit käydä editorissa vielä kerran ja valita lopullisen ulkomuotosi. Nyt on viimeinen tilaisuutesi lisätä vaikkapa käsiä. Niillä on hyvä kantaa työkaluja.
+0x06270005 Jatka heimopeliin
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCE9 Kuvakulman ohjausharjoitus
+0x0671FCED Voit liikuttaa kuvakulmaa vapaasti. Näin voit tarkkailla kaupunkeja ja kulkuneuvoja, joille olet antanut komentoja.~p~Pysähdytäänpä hetkeksi harjoittelemaan kuvakulman liikuttelua ja kulkuneuvon valitsemista.~p~
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Tavoitteet
+0x06271002 Täältä voit tarkistaa tehtäväsi.~p~Kuten tavoitteesta näkyy, ilman ruokaa et selviä hengissä.~p~On siis paikallaan selvittää, mistä ruokaa saa.
+
+# Callout_SPG_CommButton.prop
+
+0x06638CCE Viestintäpaneeli
+0x06290002 Lyhyen kantaman videoviestimen avulla voit olla yhteydessä allasi avautuvaan maailmaan.~p~Sinun täytyy olla planeetan ilmakehässä, jotta voit avata viestintäyhteyden.~p~Jos signaali välkkyy, joku haluaa ottaa sinuun yhteyttä.~p~
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06280001 Edistyminen
+0x06281001 Tämä on edistyspalkkisi.~p~Sinun tulee kukistaa kaikki naapuriheimot tai liittoutua niiden kanssa, niin edistyt pelissä.
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Aloita avaruuden tutkiminen napsauttamalla tätä!~p~Pääset avaruusaluseditoriin, jossa voit suunnitella aluksen ensimmäistä avaruusmatkaasi varten.~p~Alusta voi myöhemmin muokata missä tahansa valtakunnan kaupungissa tai siirtokunnassa.
+0x062EFB73 Jatka avaruuspeliin
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Kutsuhuuto
+0x067213F5 Napsauta alla olevaa kutsuhuudon painiketta, niin voit etsiä lajikumppanisi ja siirtyä otuseditoriin. Otuseditorissa voit muuttaa ulkonäköäsi ja lisätä otukseesi löytämiäsi osia.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Kuvakulman ohjausharjoitus
+0x06281008 Voit liikuttaa kuvakulmaa vapaasti. Näin voit helpommin seurata heimon jäseniä tai ryhmiä, joille olet antanut käskyjä.~p~Pysähdytäänpä hetkeksi opettelemaan kuvakulman hallintaa.
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Ansiomerkit
+0x065E5D6C Ansaitset ansiomerkkejä teoillasi ja avaruusseikkailuillasi.~p~Kun ansaitset ansiomerkkejä, kohoat galaksin hierarkiassa uuteen arvoasemaan ja saat käyttöösi uusia ominaisuuksia ja laitteita.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Jotkin laitteet, kuten minilaser, tarvitsevat virtaa toimiakseen.~p~Voit tilata akkujen latauksen ja vaurioiden korjauksen viestintäruudulta käsin. Palvelu on ilmainen kotiplaneetalla.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Historia
+0x1535ABA1 Toimesi otuksena ovat kehittäneet jälleen uuden lajiasi määrittävän piirteen. Heimopelissä käytettävissäsi on uusia ominaisuuksia.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Onneksi olkoon!
+0x06271006 Pääsit ravintoketjun huipulle!~p~Kun olet valmis testaamaan elämää heimossa, napsauta alla olevaa kehityspainiketta.~p~
+

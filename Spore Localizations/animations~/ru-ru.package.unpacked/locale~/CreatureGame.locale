@@ -1,0 +1,275 @@
+﻿# Find_Mate Goal Card
+
+0x0509FC4F Найдите партнера с помощью брачного зова и щелкните на нем, чтобы открыть Редактор.
+0x0524D329 Найти партнера
+0x0509FC4E Партнер
+
+# crg-useabilitycharge.prop
+
+0x3424CE42 Выберите <hinticon> для изучения навыка "Удар с разбега".
+
+# Migrate Goal Card aka Find Your Mate
+
+0x0514F993 Собратья переселились в другое гнездо. Воспользуйтесь функцией зова, чтобы найти их!
+0x0514F98E Переселение
+0x0546AB9A Новый этап
+0x0546AB9E Щелкните на кнопке перехода на новый этап, чтобы создать племя.
+0x0546ABA4 Создать племя.
+0x0524D32C Переселиться в новое гнездо.
+
+# Goal card progress
+
+0x53B644DF ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# posse ui title
+
+0x937C25E9 Стая
+
+# Find_NPC Goal Card
+
+0x0509FB93 Найдите представителя другого вида и щелкните на нем!
+0x0509FB92 Другие виды
+0x0524D328 Встретьтесь с представителем другого вида.
+
+# crg-lowhealth.prop
+
+0x91A0449F Существо ранено! Отправляйтесь в гнездо, чтобы восстановить здоровье
+
+# Combat text messages
+
+0x739A4E05 Слишком близко
+0xD39A5768 Навык не готов к использованию
+0x3538B712 Этот навык доступен только во время представления.
+0xF538B6FD Этот навык доступен только во время боя
+0x06778BAC Вы уже подружились с этим существом.
+
+# Combat Card - Mini Boss
+
+0x064D4053 Охота: ~target_species_crg~
+0x064D4054 Охота
+0x064D4056 Это существо отличается от других созданий гигантскими размерами и недюжинной силой.
+0x067394F7 Это существо отличается от других созданий гигантскими размерами и недюжинной силой.
+0x064D4055 Цель: ~target_species_crg~. Убейте это существо и заработаете много баллов ДНК.
+
+# Eating_Herbivore Goal Card
+
+0x0509F9DC Травоядные существа поглощают растительную пищу. Найдите фрукт на дереве или кустарнике и щелкните на нем.
+0x0509F9DB Питание
+0x0524D325 Найти фрукт.
+
+# crg-verbcharge.prop
+
+0x6859AEDE Навык не готов к использованию
+
+# crg-spitclose.prop
+
+0x30A611E9 Слишком близко
+
+# Social Card - Mini Boss
+
+0x064D4047 Это существо отличается от других созданий гигантскими размерами и недюжинной силой.
+0x064D4046 ~target_species_crg~: заинтересовать существо, чтобы обрести могущественного союзника.
+0x064D4048 Это существо отличается от других созданий гигантскими размерами и недюжинной силой.
+0x064D4045 Дружба
+0x064D4044 Дружба: ~target_species_crg~
+
+# Find Unlocks Card
+
+0x54D958AC Чтобы получить новые фрагменты, отыщите скелет или подружитесь с вожаком стаи.
+0x54D958AB Поиск фрагментов
+0x54D958AD Найти новые фрагменты и усовершенствовать строение существа.
+
+# Creature Game Localized Text
+# minimap
+
+0x0658F2D1 Новое гнездо
+0x0658F2D0 Основное гнездо
+0x0658F2D2 Старое гнездо
+0x0658F2D3 Неизвестный вид
+
+# CELL Find Unlocks Card
+
+0xF4DAF5C9 Фрагменты
+0xF4DAF5CA Источником фрагментов служат другие клетки и обломки метеорита.
+0xF4DAF5CB Найти новые фрагменты.
+
+# Build Artifact
+
+0x064D4064 Ваши подопечные обнаружили таинственные предметы, излучающие особую ауру. Соберите их все.
+0x064D4063 Ваши подопечные обнаружили таинственные предметы, излучающие особую ауру. Соберите их все.
+0x064D4062 Собрать все части таинственного артефакта.
+0x064D4061 Создание артефакта
+0x064D4060 Создание артефакта
+
+# Claim Nest
+
+0xD538B78F Хотите сделать это гнездо домом для своих подопечных? Если существо погибнет, в гнезде появится новый представитель вида.
+
+# crg-useabilitygesture.prop
+
+0x7F48D101 Выберите <hinticon> для изучения навыка "Кокетство".
+
+# crg-useabilityspit.prop
+
+0xD6FD3DEC Выберите <hinticon> для изучения навыка "Плевок".
+
+# Combat - Extinct
+
+0x064D4058 Охота
+0x064D4057 Охота: ~target_species_crg~
+0x064D4059 ~target_species_crg~: вид уничтожен!
+0x064D405B ~target_species_crg~: вид уничтожен!
+0x064D405A ~target_species_crg~: вид уничтожен!
+
+# Eating_Carnivore Goal Card
+
+0x0509F9DA Плотоядные создания питаются мясом. Добудьте пропитание охотой или найдите тушу другого существа и щелкните на ней.
+0x0509F9D9 Питание
+0x0524D324 Добыть мясо.
+
+# Add_Posse Goal Card
+
+0x0509FC96 Стая
+0x0509FC97 Заинтересуйте существо своего или дружественного вида, чтобы оно вступило в стаю.
+0x0524D32A Принять новое существо в стаю.
+
+# crg-useabilitystrike.prop
+
+0x14E9F748 Выберите <hinticon> для изучения навыка "Удар".
+
+# First time socializing
+
+0xF4211909 Повторяйте действия существа, чтобы заинтересовать его.
+
+# crg-useabilitysing.prop
+
+0x7C56FDAB Выберите <hinticon> для изучения навыка "Пение".
+
+# Find Unlocks Card - First Part
+
+0x06035A51 Новый фрагмент
+0x06035A52 Чтобы получить новый фрагмент, отыщите скелет или подружитесь с вожаком стаи.
+0x06035A53 Найти новый фрагмент и усовершенствовать строение существа.
+
+# crg-useabilitydance.prop
+
+0xB6E01DE9 Выберите <hinticon> для изучения навыка "Танцы".
+
+# Social Card - Hostile Species
+
+0x064D403B Дружба
+0x064D403A Дружба: ~target_species_crg~
+0x064D403C ~target_species_crg~: с этим видом нельзя подружиться!
+0x064D403E Некоторые существа изначально настроены враждебно. Но если очень "постараться", можно серьезно разозлить и дружелюбных созданий.
+0x064D403D Некоторые существа изначально настроены враждебно. Но если очень "постараться", можно серьезно разозлить и дружелюбных созданий.
+
+# Hints
+
+0x142CD4F2 Помните: плотоядные существа должны питаться мясом, а травоядные - фруктами!
+0x057736C3 Выберите <hinticon>, чтобы создать племя.
+
+# Social Card - Player has NOT yet learned about posse
+
+0x064D4035 Дружба: ~target_species_crg~
+0x064D4036 Дружба
+0x064D4037 ~target_species_crg~: осталось заинтересовать ~mission_remaining_crg~.
+0x064D4038 Подружившись с этими существами, вы сможете лечиться в их гнезде.
+0x064D4039 Подружившись с этими существами, вы сможете лечиться в их гнезде.
+
+# Social text messages
+# Player clicks disabled social button
+
+0xF4211908 Щелкните на существе, чтобы начать общение.
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of 
+
+0x064D4030 Дружба: ~target_species_crg~
+0x064D4031 Дружба
+0x064D4033 Подружившись с этими существами, вы сможете лечиться в их гнезде.
+0x064D4032 ~target_species_crg~: заинтересовать ~mission_remaining_crg~.
+0x064D4034 Подружившись с этими существами, вы сможете лечиться в их гнезде.
+
+# crg-useabilitybite.prop
+
+0xC88F53C8 Выберите <hinticon> для изучения навыка "Укус".
+
+# Reward text for all cards
+
+0x050A34CA Награда: ~reward_evo_crg~ ДНК
+
+# Save Baby
+
+0x064D405E Отвести детеныша обратно в гнездо.
+0x064D405D Спасение детеныша
+0x064D405F Один из детенышей вашего вида в опасности! Враг - ~target_species_crg~!
+0x064D405C Спасение детеныша
+0x06739532 Один из детенышей вашего вида в опасности! Враг - ~target_species_crg~!
+
+# Combat Card
+
+0x064D4050 ~target_species_crg~: добыть охотой ~mission_remaining_crg~
+0x064D404F Охота
+0x064D404E Охота: ~target_species_crg~
+0x064D4051 Убейте всех представителей данного вида.
+0x064D4052 ~target_species_crg~: охотьтесь на представителей данного вида, чтобы подчинить его и впоследствии истребить.
+
+# crg-notarget.prop
+
+0x79E8F4C5 Не выбрана цель
+
+# Eating_Omnivore Goal Card
+
+0x0509F9DE Всеядные существа поглощают как растительную, так и животную пищу. Найдите тушу другого существа или фрукт и щелкните на нем.
+0x0509F9DD Питание
+0x0524D326 Найти фрукт или добыть мясо.
+
+# Species creator
+
+0xB3DAED77 Автор: ~creator~
+0x73DB4258 Авторы: команда разработчиков Spore
+
+# crg-useabilityposture.prop
+
+0x8693A0FC Выберите <hinticon> для изучения навыка "Позирование".
+
+# con
+
+0xB32FE522 ~local_creature_name~-детеныш
+0x0595B72B ~local_creature_name~-монстр
+0x94ACB6F7 ~local_creature_name~-отшельник
+0x0564E650 ~local_creature_name~-питомец
+0xF32FE51B ~local_creature_name~-вожак
+
+# crg-locatemate.prop
+
+0x200AFD34 Выберите <hinticon>, чтобы найти партнера.
+
+# Social Card - Allies - Player has NOT yet learned about posse
+
+0x064D404A Дружба
+0x064D4049 Общение: ~target_species_crg~
+0x064D404C Вы можете лечиться в их гнезде.
+0x064D404B Вид "~target_species_crg~" - ваши союзники!
+0x064D404D Вы можете лечиться в их гнезде.
+
+# Social Card - Allies - Player has learned about posse
+
+0x064D403F Общение: ~target_species_crg~
+0x064D4041 Вид "~target_species_crg~" - ваши союзники!
+0x064D4040 Дружба
+0x064D4042 Вы можете лечиться в их гнезде и даже призвать вступить в стаю.
+0x064D4043 Вы можете лечиться в их гнезде и даже призвать вступить в стаю.
+

@@ -1,0 +1,69 @@
+﻿0x000002F1 ~guide: -h3~ Komplexitätsanzeige
+0x00000291 ~guide: -h2~ Du kannst auf weitere Teile-Griffe zugreifen, indem du mit gedrückter TAB-Taste ein bereits montiertes Teil auswählst. Dadurch werden zusätzliche Teile-Griffe angezeigt, mit denen du die Platzierung der einzelnen Teile besser steuern kannst.
+0x00000231 ~guide: -h1~ Gliedmaßen
+0x00000061 ~guide: -h3~ Auswahl und Hinzufügen von Teilen
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Bearbeitung von Gliedmaßen
+0x000000F1 ~guide: -bullet~ Rotationsring: Dreht Teile.
+0x00000181 ~guide: -bullet~ Drehe das Mausrad oder drücke die Pfeiltasten Oben/Unten, um die Größe des Torsos an diesem Wirbel zu ändern.
+0x00000281 ~guide: -h1~ Zugriff auf erweiterte Teile-Griffe
+0x000000D1 ~guide: -bullet~ Anpassungspfeil: Ändert die Höhe, Breite, Länge oder Krümmung eines Teils. Ziehe einfach an dem Pfeil, um zu sehen, was passiert.
+0x000002E1 ~guide: -h1~ Komplexität und Budget
+0x00000081 ~guide: -h3~ Entfernung von Teilen
+0x000000E1 ~guide: -bullet~ Positionsball: Positioniere Teile neu oder ändere die Ausrichtung von Hörnern, Geweihen usw.
+0x00000171 ~guide: -bullet~ Bewege die Maus anschließend über einen Wirbel, um diesen zu markieren.
+0x00000221 ~guide: -h2~ Möchtest du die Wirbelsäule biegen, klicke auf einen Wirbel und bewege diesen auf eine Seite. Nimm am besten der Reihe nach für jeden Wirbel kleinere Anpassungen vor.
+0x000001F1 ~guide: -h2~ Bewege die Maus über den Körper der Kreatur, um ihre Wirbelsäule freizulegen. Nach einem Klick auf den Torso erscheinen an beiden Enden der Wirbelsäule Pfeile. Klicke auf einen der Pfeile und bewege diesen nach außen, um weitere Wirbel hinzuzufügen. Möchtest du die Wirbelsäule verkürzen, bewege den Pfeil nach innen.
+0x00000261 ~guide: -h3~ Greifer oder Füße hinzufügen
+0x00000071 ~guide: -h2~ Klicke in der Teile-Palette auf das gewünschte Teil und ziehe es von der Palette auf deine Kreatur, um das Teil anzubringen.
+0x00000251 ~guide: -h2~ Bei Gliedmaßen dienen die Gelenke als Positionsbälle, die du bewegen oder vergrößern kannst. Drehe deine Kreatur mit dem Gesicht zu dir, um dir die Bearbeitung der Gliedmaßen zu erleichtern. Drehe die Kreatur zu Seite, wenn du ihre Gliedmaßen nach vorne oder hinten verschieben möchtest. Willst du die Gliedmaßen nach oben oder unten bewegen, sollte dir deine Kreatur das Gesicht oder den Hinterkopf zuwenden. Möglicherweise musst du den Körper deiner Kreatur etwas nach oben verschieben, um Platz für Gliedmaßen zu schaffen. Linksklicke dazu einfach auf den Körper der Kreatur, halte die Maustaste gedrückt und verschiebe den Körper an die gewünschte Position.
+0x00000051 ~guide: -h2~ Die Teile, die dir während der Kreaturenphase zur Verfügung stehen, werden von deiner Vorgehensweise in der Zellenphase bestimmt. Jedes neue Teil, das du im Gezeitentümpel einsammelst, wird im Kreaturen-Designer freigeschaltet. Du kannst es also auswählen, um die Evolution deiner Kreatur voranzutreiben.
+0x00000161 ~guide: -bullet~ Bewege die Maus über den Körper deiner Kreatur, um ihre Wirbelsäule freizulegen.
+0x000000C1 ~guide: -h3~ Teile-Befehle
+0x00000271 ~guide: -h2~ Füße oder Greifer kannst du nur an den Enden der Gliedmaßen deiner Kreatur anbringen. Alle Gliedmaßen haben zunächst einen einfachen Fuß oder Greifer, den du durch einen neuen Fuß oder Greifer ersetzen kannst.
+0x00000201 ~guide: -h2~ HINWEIS: Verkürzt du die Wirbelsäule (und damit den Körper) deiner Kreatur, wenn diese bereits über Körperteile verfügt, färben sich einige dieser Körperteile rot. Du kannst die Wirbelsäule in diesem Fall nicht so stark verkürzen, weil die Teile in diesem Bereich des Körpers "leben".
+0x00000121 ~guide: -h1~ Teile klonen
+0x00000151 ~guide: -h3~ Körper
+0x000000B1 ~guide: -h2~ Nach einem Klick auf ein beliebiges Teil deiner Kreatur werden Griffe eingeblendet, mit deren Hilfe du das Teil bearbeiten kannst.
+0x000000A1 ~guide: -h3~ Bearbeitung von Teilen mit Griffen
+0x00000041 ~guide: -h3~ Freischalten von Teilen
+0x00000191 ~guide: -bullet~ Linksklicke auf diesen Wirbel und halte die Maustaste gedrückt, um die Wirbelsäule an dieser Stelle zu biegen.
+0x000001E1 ~guide: -h1~ Wirbelsäule verlängern
+0x000002C1 ~guide: -h3~ Erweiterte Steuerung der Gliedmaßen
+0x00000211 ~guide: -h3~ Körper verbiegen
+0x00000431 ~guide: -h2~ Zeigt die Gesundheit deiner Kreatur an. Je höher dieser Wert ist, desto mehr Treffer kann deine Kreatur im Kampf einstecken.
+0x00000401 ~guide: -h4~ Tempo
+0x000003F1 ~guide: -h2~ Zeigt die Sozialfähigkeiten deiner Kreatur sowie deren Stufe an.
+0x00000421 ~guide: -h4~ Gesundheit
+0x00000351 ~guide: -h2~ Hast du alle Punkte verbraucht, kannst du keine weiteren Teile hinzufügen.
+0x00000092 ~guide: -h1~ Teile verändern
+0x000003B1 ~guide: -h2~ Zeigt Fähigkeiten (beispielsweise Lockruf, Schleichen, Springen oder Rutschen) und deren Stufe an.
+0x00000441 ~guide: -h4~ Ernährung
+0x00000371 ~guide: -h2~ Jedes Teil, das du deiner Kreatur spendierst, verbessert ihre Fähigkeiten. Bewege die Maus über ein Teil, um Informationen über dessen Fähigkeiten einzublenden.
+0x000003C1 ~guide: -h4~ Kampf
+0x000003A1 ~guide: -h3~ Fähigkeiten
+0x00000381 ~guide: -h3~ Zusammenfassung der Kreaturenfähigkeiten
+0x000003E1 ~guide: -h4~ Sozial
+0x00000361 ~guide: -h1~ Kreaturenfähigkeiten
+0x00000331 ~guide: -h3~ Das DNA-Budget
+0x00000451 ~guide: -h2~ Deine Evolutionsgeschichte als Zelle entscheidet darüber, ob du ein Leben als Fleisch-, Pflanzen- oder Allesfresser führst. Im Kreaturen-Designer stehen daher lediglich Mundtypen zur Verfügung, die deiner Ernährungsweise entsprechen.
+0x000003D1 ~guide: -h2~ Zeigt die Angriffsfähigkeiten deiner Kreatur sowie deren Stufe an.
+0x00000411 ~guide: -h2~ Zeigt die Geschwindigkeitsstufe deiner Kreatur an.
+0x000000F5 ~guide: -bullet~ Drehe das Mausrad oder drücken die Pfeiltasten Oben/Unten, um die Größe des Teils zu ändern.
+0x000000F3 ~guide: -h4~ Größe eines Teils deiner Kreatur verändern:
+0x000000F4 ~guide: -bullet~ Klicke auf das Teil, um es auszuwählen.
+0x000000F2 ~guide: -h3~ Größe von Teilen ändern
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~
+0x00000021 ~guide: -h3~ Teile-Palette
+0x00000141 ~guide: -h1~ Modellieren des Torsos
+0x00000031 ~guide: -h2~ Die Kreaturenteile-Palette erscheint auf der linken Seite des Kreaturen-Designers. Es gibt mehrere Kategorien von Teilen: Münder, Sinnesorgane, Gliedmaßen etc. Klicke auf die Registerkarte einer bestimmten Teile-Kategorie, dann werden dir alle Teile dieser Gruppe angezeigt.
+0x00000391 ~guide: -h2~ Rechts oben siehst du eine Übersicht der Fähigkeiten deiner Kreatur. Ein Klick auf einen Fähigkeiten-Button zeigt dir kurz, wie deine Kreatur diese Fähigkeit ausführt.
+0x00000341 ~guide: -h2~ Jedes Teil, das du deiner Kreatur spendierst, kostet dich DNA-Punkte.
+0x00000321 ~guide: -h2~ Wird deine Kreatur zu komplex, kannst du keine weiteren Teile hinzufügen.
+0x00000461 ~guide: -h2~ Hinweis: Startest du den Kreaturen-Designer über die Erstellen-Option, kannst du den Mund und die Ernährungsweise deiner Kreatur bestimmen.
+0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Baumodus
+0x00000131 ~guide: -h2~ Möchtest du ein Teil kopieren, das du deiner Kreatur bereits hinzugefügt hast, halte "ALT" gedrückt, klicke auf das Teil und bewege die Kopie an einen anderen Punkt auf deiner Kreatur. Kopien kosten natürlich ebenfalls DNA-Punkte.
+0x00000091 ~guide: -h2~ Du kannst deiner Kreatur Teile hinzufügen oder Teile entfernen. Klicke dazu auf das gewünschte Teil, halte die linke Maustaste gedrückt und ziehe das Teil von deiner Zelle oder drücke die "Backspace-Taste" deiner Tastatur. Der Wert des Teils wird deinem DNA-Budget gutgeschrieben.
+0x000002D1 ~guide: -bullet~ Halte "Strg" gedrückt und klicke zwischen zwei Gelenke, um einen Abschnitt zu entfernen (das Schulter- und das Hüftsegment kannst du nicht entfernen).
+0x000002D2 ~guide: -bullet~ Halte "Strg" gedrückt und ziehe eine neue Gliedmaße an die verbleibenden Gelenke der anderen Gliedmaße.
+0x00000311 ~guide: -h2~ Die Komplexitätsanzeige misst die Komplexität der Anatomie deiner Kreatur.
+

@@ -1,0 +1,234 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000A8 ...
+0x000000B4 ...
+0x000000AD ...
+0x00000038 いいよ。やってみよう！
+0x00000087 もう一つだけ…
+0x0000005F もう一つだけ聞きたいことが…
+0x00000089 行く前に…
+0x000000E6 ありがとう。では、これにて。
+0x00000062 じゃあ、また。
+0x000000E8 もうひとつだけ質問が…
+0x000000E4 では、ちょっと戻った方がいいかな…
+0x000000E5 どうやら私はここまだね。さようなら。
+0x000000E3 さて、私はこれにて退散するよ。
+0x000000A7 何だって？　オーケー。なるほど。分かったよ。
+0x000000A4 また別の機会に。さようなら。
+0x0000009E 分かったよ。じゃあ、別のことを教えて。
+0x00000088 聞いてもいいかな？
+0x000000AB ええ、ミッションを忘れちゃいました。
+0x00000061 聞いてもいいかな？
+0x000000A9 何が？　誰が？　どこで？　何が起きてるの？
+0x000000AA もう一回お願いできないかな。
+0x00000073 他に聞きたいことがあるんだけど…
+0x000000F6 なるほど、何が問題だったのかわかったよ。ありがとう。
+0x000000E9 無駄骨だよ！　やめる！
+0x000000EA 賭けは嫌いなんだ。やめるよ。
+0x0000009F 他に聞きたいことがあるんだけど…
+0x00000075 それと…
+0x000000EF ~mission_source_planet~に戻ってください。
+0x00000065 どうか分かって欲しいんだけど。
+0x0000004C どうか分かって欲しいんだけど。
+0x000000A1 それと…
+0x000000F0 以下の場所で~mission_multi_delivery_item~を探してください：~br~~mission_multi_delivery_item_planet_list~
+0x0000016D 了解シタ。即座ニ実施セヨ。
+0x000000EC どうでもいいが、この件からは手を引く。
+0x000000EB えーと、やっぱり忙しいんでやめておきます。
+0x000000F7 移送は完了した。
+0x000000BD よおよお。~mission_multi_delivery_item~をたっぷり持って来てくれるって聞いてるんだけどよ。少なくとも~mission_multi_delivery_buyer_num_needed_items~個は来るってな。結構な数だよな、それって。で、ちゃんと持って来てるのか？
+0x00000022 星系を丸ごと探すには？
+0x0000003A その依頼には興味がない。
+0x00000020 どこから探し始めればいい？
+0x000000C5 ああ、積荷を届けに来た。
+0x00000037 わかった。早速始めよう。
+0x000000AE ~mission_source_empire~から~mission_multi_delivery_item~を届けに来た。
+0x00000026 今はタイミングが悪い。
+0x0000001F どうやって手に入れればいい？
+0x00000058 わかりました。大事な用事の数々がおありでしょうから、お引き止めしてはいけませんね。
+0x000000B5 ~mission_source_empire~の依頼で~mission_multi_delivery_item~を届けに来た。
+0x00000078 チャンスをいただきありがとうございます。今から向かいます。
+0x00000097 ~mission_multi_delivery_item_planet_list~から~mission_multi_delivery_item~を全て回収できなかったことに、私たちは失望しています。あなたがミッションログにあるパラメータを見つけられなかったとしても、私たちは驚きません。
+0x0000003B この仕事は別の誰かに頼むべきだ。
+0x0000007A そろそろ出かけなくては。戻った時にまた。
+0x00000035 ああ。それなら力になれるだろう。
+0x00000025 こういった内容は苦手なもので。
+0x0000003C いや、力になれないな。
+0x00000079 じきに戻ります。ひとまずこれで。
+0x00000036 楽しそうだな。引き受けよう。
+0x00000082 いずれまた！
+0x00000028 ~mission_multi_delivery_item~は次の場所で手に入るはずです：~mission_multi_delivery_item_planet_list~。~p~全て入手したうえで~mission_multi_delivery_buyer_planet~に届けていただければ、成功報酬として~mission_rewards~スポアバックスを確実にお渡ししましょう。
+0x000000E0 ~player_creature_name~は~mission_multi_delivery_item~を持ってきた。すばらしい。報酬を受け取りに~mission_source_empire~に戻ったほうがいい。
+0x0000007B さすがだ！　~player_creature_name~、なかなかの仕事ぶりだ。約束の~mission_rewards~スポアバックスを渡そう。
+0x000000F2 以下の場所から~mission_multi_delivery_item~を回収してください：~br~~mission_multi_delivery_item_planet_list~~p~~mission_multi_delivery_item~を~mission_multi_delivery_buyer_planet~に届けてください。
+0x00000052 やらないのか？　~player_creature_name~は予想よりも貧弱だな。次回は報酬を提供する必要はなさそうだな。ひ弱な者たちに渡す見返りなどない。
+0x00000002 何か匂いがしませんか？　もちろんしますよね。私にはわかりますし、あなたが私に劣らず頭がきれるのはお互いわかっていることですから！　ひともうけの匂いですよ、これは。でもって~mission_multi_delivery_buyer_planet~こそ、そのもうけ話の舞台となるはずです。こっちはスポアバックス、そちらは宇宙の塵で賭けをしてもいいくらいです。~p~といいますのは、~mission_multi_delivery_buyer_planet~では珍しい物の需要が非常に強いわけです。具体的には、~mission_multi_delivery_item~ですね。でもって上手い具合に、この星系にあるわけですよ、そいつが。~p~そこで取り引きといきませんか。書類関連はこちらで処理しますので、出かけていって~mission_multi_delivery_item~を集めてきてもらいたいわけです。
+0x0000002A ~player_creature_name~は~mission_multi_delivery_item~を以下の惑星上で発見できるだろう：~mission_multi_delivery_item_planet_list~。~p~全部~mission_multi_delivery_buyer_planet~に持ち帰ったら、~mission_rewards~スポアバックスを受け取りに来るがいい。
+0x0000000E 消滅した種族に関する古文書が、最近になって発見されました。近くの惑星に保管されているという複数の~mission_multi_delivery_item~に関する言及が、その中にあります。私たち連邦の内規により、これらの遺物を回収し、分類して~mission_multi_delivery_buyer_planet~上のしかるべき保管場所にしまわなければなりません。お願いできませんか？
+0x0000006E あなたが頼りにならないことは、私たち連邦中に知られることになります。
+0x000000CC ~mission_multi_delivery_item~が~mission_multi_delivery_buyer_num_needed_items~個。~player_creature_name~は~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個持ってきていない。~mission_multi_delivery_buyer_num_needed_items~個持ってこないかぎり、戻ってくるな。
+0x000000C9 まさかその、もう終わったんですか？　素晴らしい！　あなたのように、えー、宇宙と調和した方と一緒に仕事ができるなんて。~p~~mission_rewards~スポアバックスを受け取ってください。大事に使ってくださいよ？
+0x0000000F グロックスによって全滅させられたと思われる古代文明の痕跡に遭遇しました。グロックスに関する情報を含んでいるかもしれない、~mission_multi_delivery_item~に言及した記述がそこにはあります。~p~連邦法の第52小区、第7段に明示されているように、グロックスに関する情報は全て最大保安度の施設に保管しなければなりません。それらの遺物を発見して回収し、~mission_multi_delivery_buyer_planet~にある施設に届けてくれますか。
+0x00000091 ~player_creature_name~は依頼を達成していない！　~mission_multi_delivery_item~を手に入れるために、次の惑星に行くんだ：~mission_multi_delivery_item_planet_list~。~p~その後~mission_multi_delivery_buyer_planet~に届ける。届けたうえで、スポアバックスを受け取りにここに戻ってこい。
+0x0000008D あなたは全ての~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個発見しました。これを~mission_multi_delivery_buyer_planet~まで届けましょう。
+0x0000008F どうしたんです？　また契約の内容を思い出せなくなったとかでしょうか？　以下の惑星から~mission_multi_delivery_item~を集めるんですよ：~mission_multi_delivery_item_planet_list~。~p~回収できたら、~mission_multi_delivery_buyer_planet~に届けてください。それが終わればそちら側でやっていただく内容は完了です。ミッションログに記録されているはずですよ。
+0x00000011 絶滅した異星種族の文書を解読してみたところ、様々な惑星に散らばった~mission_multi_delivery_item~の情報が分かりました。それを分析すれば、この古代の種族に関する事柄だけではなく、解明されていないそれ以外の謎も明らかになるかもしれません。分析に最適な施設は~mission_multi_delivery_buyer_planet~上にあります。~p~それらの物品を集めて、~mission_multi_delivery_buyer_planet~に届けていただけますか？
+0x00000069 ~player_creature_name~は約束したはずだ！　~player_creature_name~は依頼を受けたはずだ！　約束を破るなど、骨がない腰抜けがすることだ。今日から~player_creature_name~は骨なしだ。
+0x000000D6 ~mission_multi_delivery_item~が~mission_multi_delivery_buyer_num_needed_items~個。~player_creature_name~は~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個持ってきていない。~mission_multi_delivery_buyer_num_needed_items~個持ってこないかぎり、戻ってくるな。
+0x0000004B ああ、なるほど。主幹配布センター名義の前回分の書類送信に、この件に関して何か含まれていた気がします。誰かが~mission_multi_delivery_item~を届けに来るという話でした。でも、あなたはお持ちじゃないようですよね。責任を追及したりする気はありませんが、問題は私たちの側にあるわけではないんですよね。　わかります？
+0x00000045 連邦の評議会が感謝の意を述べています。迅速にお願いします。
+0x0000004A よし。我々~race~は君の助力をありがたく思う。
+0x0000002D 後でまた来くるよ。それじゃあ。
+0x000000A2 もう一つだけ…
+0x000000D9 他に聞きたいことがあるんだけど…
+0x0000004E ようこそようこそ、~player_title~~player_creature_name~！　またしても仕事をやりとげましたか！　あなたの実力を考えれば、驚くことでもありませんけどね。~p~契約で指定されていた、~mission_rewards~スポアバックスをお渡ししましょう。~p~商談を楽しく感じるのは稀なことですが、あなたほどの実力者と取り引きができるのはいつでも喜ばしいことなのです。
+0x00000032 後でまた来ます。それじゃあ。
+0x00000004 ~mission_multi_delivery_buyer_planet~の人々は物を欲しがっている。~mission_multi_delivery_item~に金を払うと言っている。この星系には~mission_multi_delivery_item~がある。誰かが見つけて届ける必要がある。~player_creature_name~ならできるだろう。
+0x000000ED オーケー。理解したよ。
+0x00000067 重大な契約違反ですよ！　もし私たちがもっと卑しい種族であれば、訴訟してスポアバックスをありったけふんだくってやりたいところです！~p~私たちが寛大で理解のある、価格設定も良心的な種族で幸いでしたね。~p~銀河系各地の産物を集めたお店には寄っていただけましたか？
+0x00000031 他に聞きたいことがあるんだけど…
+0x00000017 名声をもっていると、時に幸運がたなぼたで降ってくるんです。スペースヴァイン経由で入った情報によると、~mission_multi_delivery_buyer_planet~で~mission_multi_delivery_item~の需要があるらしいです。あなたみたいな賢い~player_creature_name~なら、あれがどれだけ珍しいものなのか、わかるでしょう？~p~私たちは既に現在の受注分で手一杯なので、代わりに対応してもらえないでしょうか？　飛びまわって~mission_multi_delivery_item~をある程度集めたら、~mission_multi_delivery_buyer_planet~に届けてください。その後ここに戻ってくれれば取り分を支払います。
+0x000000A3 邪魔しちゃってごめん。さようなら。
+0x00000051 ああ、なるほど。いや、仕方ないな。~br~気が進まないのであれば、別の生命体と関わりをもって欲しくは無いしね。
+0x00000029 ~mission_multi_delivery_item~のありかは記録してあるから心配するな：~mission_multi_delivery_item_planet_list~~p~これを全て集めたら~mission_multi_delivery_buyer_planet~に届けてもらえば、~mission_rewards~スポアバックスの報酬を渡すよ。
+0x00000012 理性の支配の百周年にて事故が発生し、多数の~mission_multi_delivery_item~が近くの惑星に散ってしまったのです。以後、その一部を除いた大半が回収され、~mission_multi_delivery_buyer_planet~にある私たちの博物館に収蔵されています。未回収のものを探し出していただけないでしょうか？　残りの石板はいずれもこの星系内にあるのです。
+0x00000063 じゃあね。
+0x00000050 もちろんです、もちろんです。あなたのような栄光あるお方にこのような些細な問題をお願いするなど、元から絶望的な試みでしたので。ブティックにお金を落としていってでもいただければ、少しは気晴らしになるかもしれませんけどね。
+0x000000A0 行く前に、まだ聞きたいことがあるんだけど…
+0x0000005B おっと。すぐに戻るよ！
+0x000000F5 ああ。オーケー。もう大丈夫だよ。
+0x00000064 力になれなくてごめん。それじゃあ。
+0x00000086 もう一つだけ…
+0x000000CA 契約書は読めますよね？　いいですか、~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個と、はっきり約束したわけです。少なくても多くてもだめですよ。万が一~mission_multi_delivery_item~が~mission_multi_delivery_buyer_num_needed_items~個ないというのなら、もう一度出かけて行って調達してきてください。
+0x00000090 何をすべきか忘れたのか？　失念してしまったとか？　別にいいけどね、誰にでも起こることだし。次はまず最初に君のミッションログで確認するといいよ。~p~~mission_multi_delivery_item_planet_list~から~mission_multi_delivery_item~を全て集めて、~mission_multi_delivery_buyer_planet~に届けてくれよ。
+0x0000006F あなたの種族は成功を収めること自体、可能なのですか？　~player_creature_name~に関する私たちの見解にも疑問が生じつつあります。
+0x000000CF 他に聞きたいことがあるんだけど…
+0x000000AC ミッションは何だっけ？
+0x00000043 君のおかげで、この宇宙がよりよい場所になるだろう。ありがとう。
+0x00000007 ネイチャーだよ、~player_creature_name~。ボクたちを取り巻いていて、万物の中にあり、万物もまた自然の一部なんだ。たとえ~mission_multi_delivery_item~のような動かない物であってもだよ。自然の一部という意味ではあれらもまたボクたちのブラザーで、トーキングしてくるのがわかるよ。いいえ、ボクは正気さ。本当にあれらのボイスが聞こえるんだ。ボクたちが探し出して、~mission_multi_delivery_buyer_planet~へと届けるように望んでる。~p~迎えに行ってやってくれないかな？
+0x00000074 行く前に、まだ聞きたいことがあるんだけど…
+0x0000001E 他に聞きたいことがあるんだけど…
+0x0000003D 後でまた来ます。それじゃあ。
+0x000000D4 契約書は読めますよね？　いいですか、~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個と、明確に、はっきりと約束したわけです。少なくても多くてもだめですよ。万が一~mission_multi_delivery_item~が~mission_multi_delivery_buyer_num_needed_items~個ないというのなら、もう一度出かけて行って調達してきてください。
+0x00000010 私たちの種族のDNAの完全な記録がいくつかの~mission_multi_delivery_item~に暗号状態で記録され、~mission_multi_delivery_buyer_planet~行きの積荷に入れられたのですが、あいにく輸送部隊が宇宙海賊の襲撃にあい、積荷が失われてしまったのです。~p~捕らえた宇宙海賊を私たちの異星人類学者たちが尋問したところ、~mission_multi_delivery_item~はまだ問題の星系内にあることが判明しました。回収したうえで移送を完了していただけませんか？
+0x00000048 素晴らしいです！　~player_creature_name~なら適任だろうと思っていましたよ。
+0x0000009D わかった。でも、もう一つ質問があるんだけど。
+0x00000013 ありがとう。それじゃあ。
+0x0000009C わかった。じゃあもう一つだけ…
+0x000000A6 ちょっと時間がかかりそうだね。さようなら。
+0x00000034 他に聞きたいことがあるんだけど…
+0x000000A5 忙しそうだから、また後で聞くよ。
+0x00000068 諦めるって？　頼りにしていたのに！　薄情者だな、あてにされている時にあきらめるなんて。冗談抜きでひどくね？　今後は他人を失望させないでもらいたいものだよ。
+0x00000076 もう一つだけ…
+0x0000008C 他に聞きたいことがあるんだけど…
+0x00000053 ~player_title~~player_creature_name~、移送対象物を特定する前に移送対象先を確認するのが効率的と判断したようですね。興味深い発想です。いずれその論拠を説明してもらいたいものです。~p~ひとまず私たちは~mission_multi_delivery_item~ ~mission_multi_delivery_buyer_num_needed_items~ 個の到着を待つことにします。
+0x000000D3 ありがとう、艦長！~p~まだ~mission_multi_delivery_item~~mission_multi_delivery_buyer_num_needed_items~~^p^mission_multi_delivery_buyer_num_needed_items^個^個~が配達予定になってるね。~p~待ってるから、調達できたらまた戻ってきてね。
+0x000000EE ~mission_multi_delivery_buyer_num_needed_items~~^p^mission_multi_delivery_buyer_num_needed_items^個^個~の~mission_multi_delivery_item~を見つけて~mission_multi_delivery_buyer_planet~に届けてください。
+0x000000DD 素晴らしい！　~mission_multi_delivery_item~の移送が完了したよ。~mission_source_empire~に戻って報酬を受け取ってね。
+0x00000030 ~player_title~：~player_creature_name~、~mission_multi_delivery_item~は以下の惑星で存在が確認されています：~mission_multi_delivery_item_planet_list~。~p~全て集めたうえで~mission_multi_delivery_buyer_planet~に移送し、~mission_rewards~スポアバックスの支払いを受け取りにここに戻ってください。
+0x0000006A でも…でも…でも…でも…でも…でも…でも…~p~わかった。
+0x000000CD 誰だって言ってたっけ？　~player_creature_name~？　~player_creature_name~か…　いや、契約はしていないな。そのヘンテコな宇宙船なら、忘れるわけないからな！　はっはっは！~p~~mission_source_empire~となら契約があるけどな。え、連中の代理で来てるって？~p~そうならそうと、さっさと言ってくれよ！　それとも言ったのか？　忘れちまったよ。まぁいい、まぁいい。~p~~mission_source_empire~の依頼で動いてるなら、~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個集めて我々んとこに届けてもらうことになってる。~p~もし人違いなら、彼らと話すといい。木曜日さえ避ければ、とっても感じのいい連中だ。
+0x00000072 全能なる者の大いなる計画の中では、そなたにも役まわりがあるのじゃろう。しかし我々のような下等な存在には、そなたのような失敗例がどのような役割を果たせるのか想像もつかん。
+0x00000081 ~player_title~：~player_creature_name~の再訪を歓迎します。私たちの~mission_multi_delivery_item~の返却に際したそちらの洞察力は嬉しい発見となっています。~p~是非とも~mission_rewards~スポアバックスを受け取ってください。
+0x00000084 優しき旅人よ。~player_title~：~player_creature_name~の助力に感謝する。~p~我々の導き手たちいわく、我々全員が以後の転生時は秘密の守人になれるそうじゃ。そなたもいつの日かなれるかもしれん。じゃが物欲を捨て去るまでは、~mission_rewards~スポアバックスを喜んで進呈しよう。
+0x00000046 素晴らしい。あなたの助力により、~player_title~：~player_creature_name~の習性に関する私たちの仮説が説得力を増しつつあります。
+0x00000060 もう一つ聞きたいんだけど。
+0x00000033 ~mission_multi_delivery_item~は次の場所で見つかると考えられておる：~mission_multi_delivery_item_planet_list~。回収して~mission_multi_delivery_buyer_planet~に届けたうえで戻ってくれば、~mission_rewards~スポアバックスを進呈しよう。
+0x00000027 幸い、~mission_multi_delivery_item~の大まかな位置はわかってるんだ：~mission_multi_delivery_item_planet_list~。~p~問題のものを集めて~mission_multi_delivery_buyer_planet~に届けてくれれば、戻った時に~mission_rewards~スポアバックスを渡すよ。
+0x0000002B 楽しい宝探しだよ。残り物には福があるってね！　~mission_multi_delivery_item~は次の場所で見つかるはずさ：~mission_multi_delivery_item_planet_list~。~p~見つけて、確保して、まとめて~mission_multi_delivery_buyer_planet~に届けたら報酬を受け取ってね。で、その報酬だけど、~mission_rewards~スポアバックスだったりするかも！
+0x0000016E 素晴らしい！　あなたなら見事こなしてくれると確信してたよ！
+0x00000005 ~mission_multi_delivery_buyer_planet~では~mission_multi_delivery_item~ほど洗練されたものもないって言われてるようだけどさ、本当かな？そうかもしれないし、違うかもしれない。でも連中がそれを欲しがっている限り、真相はどっちでもいいのさ！~p~この星系内に~mission_multi_delivery_item~があるはずなんだ。集めたうえで~mission_multi_delivery_buyer_planet~に届けてくれないかい？
+0x00000047 なんて最高なんだろ！　歌を歌ってあげたいところだけど、引き止めるわけにはいかないからさ。
+0x00000019 ~mission_multi_delivery_item~には宇宙の秘密が記されているということを伝える、古代の巻物を発見したのじゃ！　それらは「時が始まる以前」に滅びた種族によって隠された物じゃが、そのありかの見当ならつく。それらを集めて、研究できるように~mission_multi_delivery_buyer_planet~に届けてくれんか？
+0x00000096 私たちは~mission_multi_delivery_item~の回収、および~mission_multi_delivery_buyer_planet~への提出がまだだと聞きました。続行するのに必要な情報はあなたのミッションログに記録されているはずです。~p~お忘れの場合、念のため。例のものは以下の惑星で見つかるはずです：~mission_multi_delivery_item_planet_list~。移送が完了したらここに戻ってきてもらえますか。
+0x00000080 ようこそ、~player_title~：~player_creature_name~。移送が無事に完了したと報告を受けた評議会は感謝を表明しています。~p~あなたにセカンド・クラスの表彰状と、~mission_rewards~スポアバックスをお渡しするよう許可を受けています。
+0x0000003E ようこそ、~player_title~：~player_creature_name~。~p~私たちの惑星に~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個届けてもらえると聞いたのですが。間違いありませんね？
+0x0000001A 毎年恒例の定義の儀式のために、~mission_multi_delivery_item~が必要なのじゃ。儀式そのものは~mission_multi_delivery_buyer_planet~で行われる。~mission_multi_delivery_item~を見つけて、儀式用に定義のアカデミーに届けてもらえんか？
+0x00000049 おかげで助かった、すまんのぉ！
+0x00000044 スポードの御意志のままに！　すぐにとりかかってもらえまいか！
+0x00000054 でも…でも…でも…でも…でも…でも…でも…~p~わかった。
+0x000000E1 喜びと悦びを！　移送の成功は心に歌を宿らせ、足取りを軽くする。~mission_source_empire~に戻ってしかるべき報酬を受け取ってくれ。
+0x0000004F それは残念だよ。この件で一緒に仕事ができればと考えてたのに。またの機会によろしくね。
+0x00000008 ~mission_multi_delivery_buyer_planet~の住民たちが騒ぎ始めてる。~mission_multi_delivery_item~を探しているんだけど、見つからないらしくて。この星系にはいくらでもあるんだけどね。状況を打開してやるべきだろうな。~p~~mission_multi_delivery_item~をいくつか手に入れて、~mission_multi_delivery_buyer_planet~に届けて連中を落ち着かせてやってくれない？
+0x00000071 すまんのぉ、優しき旅人よ。~p~我々は残り~mission_multi_delivery_buyer_num_needed_items~個の~mission_multi_delivery_item~の到着を心待ちにしておる。~p~集めたうえで戻ってきてくれんか。待っておるでの。
+0x000000BE ~player_creature_name~は~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個持ってくる。いいか？
+0x0000001B 「先人たちは、先んじた品々を、未だ消え去っていない星に置いた」と言われておるのじゃが、問題の品々とは我々の星系内にある~mission_multi_delivery_item~のことだと確信しておる。あれらを集めたうえで、~mission_multi_delivery_buyer_planet~で「油を売っている導き手」の皆に届けてもらえんか？
+0x00000015 ~mission_multi_delivery_item~狩りに出かける気はないかい？　~mission_multi_delivery_buyer_planet~の市民が、何としてでも~mission_multi_delivery_item~を手に入れたいって思ってるみたいなんだ。手間賃は払うけど、言うほどの手間にはならないはずさ。むしろ楽しいくらいだよ！
+0x0000005C 自分の道を進むのじゃ。~p~元気でな、我が友よ。
+0x0000006C ~player_title~：~player_creature_name~、移送予定物を分割して届けるのが効率的と判断したようですね。興味深い発想です。いずれその論拠を説明してもらいたいものです。~p~ひとまず私たちは残り~mission_multi_delivery_buyer_num_needed_items~個の到着を待つことにします。
+0x00000177 銀河系ってのは狭い場所だね、艦長。あなたが~mission_multi_delivery_buyer_num_needed_items~個の~mission_multi_delivery_item~を届けるように頼まれてたなんて。~p~スポアバックスはスポアバックスだし。ブツを見つけたらまた来てよ。
+0x00000014 かつてボクたちの文明において、~mission_multi_delivery_item~が熱狂的に流行したことがあったのさ。だけどその後飽きられて、人々は恥ずかしさのあまり遠く離れた場所に隠してしまったみたい。ところが今になってブームが再燃し、~mission_multi_delivery_buyer_planet~の市民たちは手に入れようとやっきになってるのさ！　オリジナリティを欠いた、流行の奴隷たちほど気の毒なものはないよね。とはいえ、ボクにはそんなことを言う権利もないけどね。~p~~mission_multi_delivery_item~を見つけて~mission_multi_delivery_buyer_planet~に届けてくれないかい？
+0x00000092 ちょっとちょっと！　まだ終わってないってのはさすがにわかるよね？　よく聞いてね！~p~次の場所にある~mission_multi_delivery_item~を集めるのさ：~mission_multi_delivery_item_planet_list~。~p~対象を集め終わったら、~mission_multi_delivery_buyer_planet~に届ける。でもって、最後にここに戻ってくる。無事に届け終わって初めて、労力に対する報酬を渡すからね。
+0x00000083 ~player_title~：~player_creature_name~、移送物は無事に受領しました。~mission_source_star~の~mission_source_empire~に戻って報酬を受け取ってください。
+0x0000007C 見事、お見事、仕事をこなす！　今宵はキミをたたえよう、喜び賑わい祭りの歌で、キミの偉業を語りあかそう！~p~これが約束の~mission_rewards~スポアバックスさ。
+0x0000008A 実に素晴らしい手際じゃの、~player_title~：~player_creature_name~。~p~移送は完了じゃ。~mission_source_star~の~mission_source_empire~に戻って、感謝の気持ちを受け取ってくれんか。
+0x000000D5 移送失敗理由：~player_creature_name~ノ無能。~p~推奨サレル行動：~mission_multi_delivery_item~ヲ~mission_multi_delivery_buyer_num_needed_items~個入手後ニ再訪。
+0x00000059 興味深い選択ですね、~player_title~：~player_creature_name~。おそらくあなたは私たちの知らない情報を持っているのでしょうね。そうでもなさそうですが。
+0x000000D7 ~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個と言いつつ、数が足りないまま現れるとは。不届きこの上ない行為だ！~p~~mission_multi_delivery_item~がちゃんと~mission_multi_delivery_buyer_num_needed_items~個そろった時点で出直してきてくれ。
+0x0000006D スポードがお聞きになり、ご覧になっていたにも関わらず、汝は我々に助力するという約束を反古にした。汝の魂の背負う罪は、宗教裁判により検討されるだろう。
+0x0000005E 待って。もう一つだけ。
+0x0000002F 最も確度の高い情報では、~mission_multi_delivery_item~は次の場所で見つかるそうです：~mission_multi_delivery_item_planet_list~。~p~これらを全て集めて、~mission_multi_delivery_buyer_planet~に届けたうえでここに戻ってきてもらえますか。~mission_rewards~スポアバックスの報酬をお渡しします。
+0x00000169 自動データプローブ群がこの星系内に驚くべき数の~mission_multi_delivery_item~のアーティファクトを検出してるんだ。それが何を意味するのか分からないけど、~mission_multi_delivery_buyer_planet~の専門家であれば判断できるかもしれない。集めて届けてもらえないかな？
+0x000000F1 ~mission_multi_delivery_item~を全て届け終わりました。~mission_source_star~に戻って報酬を受け取りましょう。
+0x00000003 ~mission_multi_delivery_buyer_planet~は見たことあるかい？　惑星全体の雰囲気が息をのむほど美しいんだよね。あそこの住民に何かを贈ってあげようと思ったんだけどさ。それで~mission_multi_delivery_item~をいくつか集めて贈ろうとしたんだ。~p~でね…、えーと…、一つだけ問題があってね。今一つも持ってないんだ。だから見つけてきてくれないかな。
+0x0000007E 汝は約束より少ない数の~mission_multi_delivery_item~をもって現われ、強大なる~race~をからかうというのか？~p~我々が信心の理念を強固に信ずる種族でなければ、規定の数を提出できるのかどうかを疑いたくなるところだ。だが信心をもって、汝が約束どおりの数を持ってくるだろうと確信している。
+0x00000024 やりたくない。
+0x0000005A 誰だって言ってたっけ？　~player_creature_name~？　うーん、なんとなく思い出してきたような…~mission_source_empire~から派遣されてるんだろ？　~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個持ってきてくれるって話だったけど、数が足りないみたいだな。~p~妙だな、そいつは。そろえてから来るのが筋ってもんだよな。
+0x00000070 おっ、これはこれは。~p~積荷は喜んで受け取りたいとこだけど、えー、どうやらあと~mission_multi_delivery_buyer_num_needed_items~個足りないみたいだ。~p~ってなわけで、ここで待ってるよ。カッコつけつつ。
+0x0000007F 会えて光栄だ、~player_title~：~player_creature_name~。汝の成功は予言されていた。汝を信じて正解だった…　我々は常に正解を選んでいる故。~p~~mission_rewards~スポアバックスを喜んで施そう。ついでに聖典も一部。
+0x00000056 ~player_title~：~player_creature_name~殿が我々に~mission_multi_delivery_buyer_num_needed_items~個の~mission_multi_delivery_item~をもたらすと記録されている。~p~この契約書にそのように書かれている以上、その結果は実現せざるを得ない。
+0x0000007D ミッションの状況：完了。~p~激励文：模範的、他ノ生物種モ 見習ウベキ。~p~報酬送付：~mission_rewards~スポアバックス。
+0x00000095 ~mission_multi_delivery_item~はまだ全て回収されたわけじゃない！　残っているのがある！　ミッションログに情報が記録されているはずなのだが。~p~次の惑星を捜索：~mission_multi_delivery_item_planet_list~。そのうえで集めた物品を~mission_multi_delivery_buyer_planet~に届けるように。この聖なる試練を続けてもらえまいか？
+0x0000000B 「やがて来る神」という邪教の信者たちが~mission_multi_delivery_item~を作り、この星系の他の惑星に隠した！　スポードのおかげでその存在に気づくことができた。あれらをまとめて破壊できるように、回収して~mission_multi_delivery_buyer_planet~に届けてもらえまいか？
+0x000000E7 ~p~%sは%s内に存在
+0x0000002E ~mission_multi_delivery_item~は以下の場所にある：~mission_multi_delivery_item_planet_list~~p~~mission_multi_delivery_buyer_planet~に届けてからここに戻ってもらえば、スポードの名のもとに~mission_rewards~スポアバックスの施しを差し上げよう。
+0x000000DE どれどれ…よし、よし、~mission_multi_delivery_item~は全部そろってますね。上出来です。素晴らしい！~p~あなたのような偉大な~player_creature_name~なら問題ないとわかってはいるんですが、念のため確認しないとね。ここだけの話、正しい数の数え方すらおぼえない種族が多いこと、多いこと。~p~報酬は~mission_source_empire~に戻って受け取ってくださいね。
+0x0000004D 素晴らしい手際だね、艦長！　あなたなら安心だと確信してたよ。~p~約束の報酬、~mission_rewards~スポアバックス。受け取ってよ！
+0x0000000C 遥か昔、我々の種族の歴史上、~mission_multi_delivery_item~は聖なる遺物とみなされていた。そのことがまだスポードの御言葉に反していないか、確認しなければならない！~p~~mission_multi_delivery_item~を我らの星系内で入手し、詳しい調査のために~mission_multi_delivery_buyer_planet~に届けてもらえまいか。
+0x0000009A まだ~mission_multi_delivery_item~を全部見つけてないのか？　集められるかどうかはそなた次第じゃ！　見つかりそうな惑星の一覧も送ったはずじゃ：~mission_multi_delivery_item_planet_list~。全部集め終わったら~mission_multi_delivery_buyer_planet~に届けたうえで、ここに戻ってくるのじゃ。~p~以上の内容は全てミッションログにも記録されておるはずじゃ。
+0x00000021 それってかなり難しくない？
+0x00000077 もう行かなきゃ。じゃあね！
+0x00000016 ~mission_multi_delivery_buyer_planet~の誰かが~mission_multi_delivery_item~を本格的に集めているらしいです。誰かが本気になった時こそ、スポアバックスの稼ぎどころってわけですね！~p~この星系内にもあることがわかっています。そこで取り引きしませんか？　基本的な回収・提出契約ってやつです。出かけてってブツを見つけて、お客さんの惑星に届けてもらって、~mission_multi_delivery_buyer_planet~に戻ってきて報酬を受け取ってもらう、と。
+0x00000006 ミッションの種類：回収オヨビ移送。~p~ミッションの詳細：~mission_multi_delivery_item~ヲ回収、~mission_multi_delivery_buyer_planet~ニ移送。~p~開始地点：~mission_multi_delivery_item~ハ本星系内ニ存在。
+0x00000057 ~player_title~：~player_creature_name~は、スポードの道には不適のようである。用件は以上だ。
+0x000000DF 移送完了。~p~推奨される行動：~mission_source_empire~再訪後、報酬ノ受領。
+0x0000000A スポードは自らの聖なる手足でいくつかの~mission_multi_delivery_item~をお作りになられた。しかしそれらはスポード化戦争の混乱の中で失われてしまった。~p~スポードの聖なるお導きにより、我々は~mission_multi_delivery_item~の一部を検出することができた。回収して~mission_multi_delivery_buyer_planet~に届けてもらえまいか？　住民たちが崇拝してひれ伏せるように。
+0x00000055 ミッション拒否理由：~player_creature_name~ハ下等ナ種族デアル故。
+0x00000041 ようこそ、~player_title~：~player_creature_name~。~p~我々の惑星に~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個届けてもらえると聞いたのじゃが。~p~貨物室ともども、受け入れ準備は整っておる。
+0x0000000D 私たち連邦の成立記念を祝して一連の~mission_multi_delivery_item~が作られましたが、そのうちいくつかが宇宙海賊の襲撃によって奪われてしまいました。評議会が最近仕入れた情報では、奪取されたアーティファクトは他の惑星上に隠されているそうなのです。~p~連邦記念日に間に合うようにそれらを回収し、~mission_multi_delivery_buyer_planet~に届けていただけますか。
+0x000000F3 ミッション完了、~mission_multi_delivery_item~を全て届け終わりました。~mission_source_star~にある~mission_source_planet~に戻って報酬を受け取りましょう。
+0x000000E2 ~player_title~~player_creature_name~に歓迎と敬意を。~p~~mission_multi_delivery_item~は無事に全て受け取りました。書類関連も問題なさそうです。ご苦労様でした。~p~あなたは~mission_source_star~にある~mission_source_empire~に戻ってきて報酬を受け取ってくれますか。
+0x000000BC 予定移送内容：~mission_multi_delivery_item~~mission_multi_delivery_buyer_num_needed_items~個。~p~予定到着時刻：昨日。~p~移送完了ノ是非：ハイ／イイエ
+0x0000001C 遥か昔、我々は他の惑星に~mission_multi_delivery_item~を残してきた。今では宇宙海賊がそれを盗もうとしている。~player_creature_name~は集めて、海賊たちの手の届かない~mission_multi_delivery_buyer_planet~に届けてくれ。~player_creature_name~にはもちろん報酬を支払う。
+0x00000039 このミッションに適任とは思えない。
+0x000000CE ~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個届けてくれるのを心待ちにしておるんじゃが。~p~集めた見返りを手にしてもらえるんじゃろうか？~p~皆、心待ちしておる。
+0x00000042 ~player_title~：~player_creature_name~、我々は汝が~mission_multi_delivery_buyer_num_needed_items~個の~mission_multi_delivery_item~を届けてくれたと信じておる！~p~左様であろう？
+0x000000BB ようこそ、艦長！~p~~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個届けに来ると聞いてるけど、数はそろってる？
+0x0000008B 実に素晴らしい。正しく強大な我々~race~はその際限なき識見にて~player_title~：~player_creature_name~を信じることを決断し、またしてもその判断の正しさが証明された。~p~移送は完了した。~mission_source_star~の~mission_source_empire~に戻って施しを受け取ってください。
+0x00000066 よく分かったよ、艦長。~p~こんなことで手をわずらわせて、申し訳ない。
+0x00000168 近くの惑星にある~mission_multi_delivery_item~について書かれた古文書を解読できたよ。宇宙の起源に関する手がかりが秘められているかもしれない！　さらなる研究にまわせるように、集めてくれないかな？
+0x00000167 要求事項2点~p~要求事項１：複数ノ~mission_multi_delivery_item~ヲ発見~p~要求事項２：~mission_multi_delivery_item~ヲ、~mission_multi_delivery_buyer_planet~ニ移送
+0x00000166 初期化実行中~p~スプラインノ網状化中、待テ~p~ミッション準備完了~p~内容：~mission_multi_delivery_item~ ヲ入手、~mission_multi_delivery_buyer_planet~ ニ移送
+0x000000BF 天は分かれ、そして見よ、運命の矢は翼の上に生まれる…~p~おっと、続きが思いつかない。~mission_multi_delivery_item~が~mission_multi_delivery_buyer_num_needed_items~個、届いていないとなれば、なおさらだよ！　もちろん持ってきてくれたんだよな？
+0x00000001 私たちは~mission_multi_delivery_buyer_planet~の住民たちと交渉を始めてるんだ。彼らへの贈り物として、協定をより魅力的に見せるものをいくつか届けてもらいたいんだけど。~p~~mission_multi_delivery_item~をいくつか見つけて、~mission_multi_delivery_buyer_planet~に届けてくれないかな。
+0x00000165 依頼内容：星系カラ~mission_multi_delivery_item~ヲ回収シ、~mission_multi_delivery_buyer_planet~ニ届ケルコト。~p~論拠：該当セズ。本情報ハ依頼遂行ニ不必要。~p~以下ニ詳述。
+0x0000002C 捜索対象：~mission_multi_delivery_item~~p~捜索範囲：~mission_multi_delivery_item_planet_list~~p~提出先：~mission_multi_delivery_buyer_planet~~p~報酬：帰還時ニ~mission_rewards~スポアバックス~p~承諾／辞退？
+0x000000CB 移送失敗理由：~player_creature_name~ノ無能。~p~推奨される行動：~mission_multi_delivery_item~ヲ~mission_multi_delivery_buyer_num_needed_items~個入手後ニ再訪。
+0x0000016A 宇宙海賊たちが~mission_multi_delivery_item~を他の惑星から密輸してるんだけど、私たちの星系が通り道になってるようなんだ！　海賊たちが~mission_multi_delivery_item~を一時的に保管するのに使っている、隠し場所を何箇所か発見したから。~p~密輸品を回収したうえで、~mission_multi_delivery_buyer_planet~にいる正当なる持ち主に、返しに行ってもらえないかな。
+0x00000009 ~mission_multi_delivery_buyer_planet~の誰かによると、~mission_multi_delivery_item~には自然と宇宙の大いなる秘密に関する手がかりが秘められてるらしい。ボクたちの星系にもいくつかあるんだけど、まだ解明できていないんだ。その秘密とやらは相当深い、重い話なんだろうな。~p~~mission_multi_delivery_item~を見つけて、~mission_multi_delivery_buyer_planet~に届けてもらいたいんだよね。彼らなら意味を解析してくれるかもしれない。
+0x00000018 ~mission_multi_delivery_item~についてはどんな印象ですか？　好きですか嫌いですか？　何のことかわかりませんか？　それでも問題ありません。近くの惑星から集めてもらうだけでいいですから。~p~ついさっき、~mission_multi_delivery_buyer_planet~にいくつか届ける発注を勝ち取ったんです。誰かに行って見つけてもらう必要があるんですが、~player_creature_name~ならちょうど適任なんじゃないかってね！
+0x00000023 悪いけど、今日は使いっ走りをする気分じゃないんだ。
+0x0000003F ようこそ、~player_title~：~player_creature_name~。~p~あなたの宇宙船をスキャンした限り、~mission_multi_delivery_item~のアーティファクトをいくつか積んでいるようですね。この分析に間違いはありませんか？
+0x00000040 ようこそ、ようこそ、~player_title~：~player_creature_name~。~p~~mission_multi_delivery_item~を~mission_multi_delivery_buyer_num_needed_items~個届けに、この惑星に立ち寄るはずだと聞いていますが、間違いありませんか？
+0x000000B6 ~mission_source_empire~に言われて来た。何かを届けろって話だったと思う…
+0x00000085 ~player_title~：~player_creature_name~、歓迎する。~p~~mission_multi_delivery_item~は受け取ったよ。~p~~mission_source_star~にある~mission_source_empire~に戻って報酬を受け取ってくれ。あるいはしばらくそのまま浮かぶのをオススメするよ。浮かぶって楽しいよな。
+0x0000001D 近くの惑星のいくつかに~mission_multi_delivery_item~がある。我々はかつて、戦いに負けた場所を記し、恥を思い起こさせるためにそれらを残した。だが我々はもう恥から学んだので、それらは無用になってしまった！　それらを見つけて撤去してもらいたい。~mission_multi_delivery_buyer_planet~が欲しがっているという話を聞いた。そこに持っていってくれ。
+0x0000005D なるほど、分納ということですか。~p~基本原則から外れたやり方ですので、受領担当部門が混乱しそうですが、~mission_multi_delivery_item~のアーティファクトをできるだけ早く手に入れたいのも事実です。~p~これらはこちらで預かりますので、残りの~mission_multi_delivery_buyer_num_needed_items~個を手に入れてできるだけ早くお戻りください。
+0x0000008E ねえ、仕事がまだ終わってないよ！　ミッションログをちゃんと読んでよ。~p~以下の惑星で~mission_multi_delivery_item~を見つけるんだ：~p~~mission_multi_delivery_item_planet_list~~p~集め終わったらまとめて~mission_multi_delivery_buyer_planet~に届けてよ。それが終わったらここへ戻ってきてね。
+0x0000006B ミッション失敗理由：~player_creature_name~ニヨリ中止。~p~大量ナ不満ノ表明。
+0x00000093 ミッションの状況：未達成。~p~再掲：次ノ惑星カラ ~mission_multi_delivery_item~ ヲ回収：~mission_multi_delivery_item_planet_list~。~mission_multi_delivery_buyer_planet~ ニ移送。~p~備考：詳細ハ 個人用ミッションログ ヲ参照。
+

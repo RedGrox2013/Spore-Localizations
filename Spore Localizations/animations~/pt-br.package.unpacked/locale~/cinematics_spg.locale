@@ -1,0 +1,84 @@
+﻿# Space 201
+
+0x00000028 A varredura deve ter disparado as defesas da colônia. Esses robôs não parecem amigos... Espere, estamos recebendo uma transmissão...
+0x0663A00A O motor interestelar da nave acidentada está respondendo a um sinalizador de uma estrela próxima, que combina com as coordenadas na memória. Deve ser o planeta de origem dele, que talvez ainda precise de ajuda...
+0x0000001A É uma nave acidentada! E está emitindo um sinal de rádio estranho. Voe até lá e use a ferramenta de análise para investigar o local do acidente.
+0x0000001D A pesquisa não mostrou resultados, mas parece ter provocado uma resposta... o radar mostra alguma atividade...
+0x00000004 Tem algo aparecendo no radar da nave...
+0x06304FA8 Mísseis e um propulsor interestelar, que parece ter coordenadas estelares programadas e os danos parecem indicar que houve uma luta.~br~Essa nave deve ter sido enviada por outro planeta em busca de ajuda, mas não conseguiu.
+0x0000001C Tarde demais! Essas ruínas devem ser o que sobrou da colônia dos alienígenas após o acidente~br~Uma análise das ruínas pode revelar pistas sobre o que aconteceu aqui.
+0x0000001B Alienígenas! Mas nenhum sinal de vida. Parece que eles desenharam algum tipo de mapa antes de morrer. Espere!~br~O acidente disparou um raio de transferência! Alguns itens estão aparecendo a bordo!
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x067B778C ~br~~br~Saudações, amigo!~br~~br~Você chegou muito longe ~br~e superou muitos obstáculos.~br~~br~Ao longo do caminho, você encontrou muitos dos nossos vários irmãos--~br~~br~~br~poucos deles chegarão tão longe.~br~~br~seus heróicos esforços provam que você é merecedor para avançar ao próximo nível da sua existência.~br~~br~~br~o universo que você habita é um de muitos~br~~br~incontáveis mundos, desconhecidos, mas conectados.~br~~br~~br~Seus esforços criativos foram percebidos;~br~~br~De fato, eles se espalharam por esses outros mundos desconhecidos~br~~br~~br~enriquecendo-os da mesma forma que o seu próprio mundo.~br~~br~~br~Este é o momento em que você se juntará a nós--~br~~br~~br~Venha! Hahahaha!!~br~~br~~br~Estamos brincando. Isso não é apavorante.~br~De fato. O futuro será bom.~br~~br~Muito, muito bom.~br~Alguns de vocês podem perguntar de quem é essa voz misteriosa que~br~sabe tudo e tem poderes tão grandes?~br~~br~~br~~br~~br~É uma boa pergunta...~br~
+0x067B7833 ~br~~br~ Eu sou Steve.~br~~br~~br~Você está prestes a receber o poder.~br~~br~Sim, isso mesmo, O PODER.~br~~br~ O poder de criar e espalhar a vida, a inteligência e a compreensão pelo universo.~br~~br~~br~~br~ Use este poder com sabedoria.~br~ Use-o para que um dia estejamos TODOS JUNTOS...~br~~br~~br~bem... quero dizer...~br~no sentido figurado, é claro.~br~~br~~br~Oh… só mais uma coisa.~br~~br~Estamos com as últimas unidades de uma maravilhosa oportunidade em uma das nossas maiores estrelas... e temos um planeta raro em órbita.~br~~br~~br~~br~Se você passar por lá, adoraríamos recebê-lo para um café-da-manhã grátis e uma breve apresentação.~br~~br~~br~Procure o terceiro planeta a partir do Sol.~br~
+
+# Terraform
+
+0x05FA8A51 Parabéns! Você terraformou e colonizou, ampliando seu império. As especiarias da sua colônia podem ser negociadas com outras raças.
+
+################
+
+0x0601FE99 Com a destruição da ~ufo_name~, seus aliados voltaram aos seus mundos de origem, enquanto você providencia outra nave. Para reconstruir sua frota, visite seus aliados e requisite os serviços deles novamente.
+0x05B1568D Piratas Espaciais! Esses caras vão criar problemas, é melhor você ir para o planeta e expulsá-los.
+0x05B1A752 É uma armadilha! Os piratas estavam falsificando o sinal para atrair você a uma emboscada. Prepare-se para a batalha!
+0x05B15258 Seu dispositivo SETI revelou estranhos sinais de rádio, emitidos dessa estrela. Voe até lá e explore!
+0x063BB6D6 Parabéns, você ganhou o título de Comodoro! Sua frota aliada agora tem lugar para mais uma nave.
+0x063ABD3D Parabéns, você ganhou o emblema e o título de Capitão!
+0x05B1CB68 Um padrão de varredura incomum foi detectado neste planeta. Voe até lá e explore!
+0x05F9E801 Agora que você estabeleceu uma rota comercial, vai mandar automaticamente as especiarias entre os impérios. Essa parceria abre caminho para a compra do sistema.
+0x05FA2A28 Seus atos ganharam a simpatia deste império. Estabeleça comunicações e use suas habilidades diplomáticas para propor uma aliança com eles.
+0x05F776D6 Conforme você se aproxima do núcleo galáctico, fica mais difícil traçar um curso pelos poços gravitacionais dos densos grupos de estrelas. Seu alcance de viagem foi diminuído para aumentar a precisão.
+0x05FA70DA É hora de Guerra! Use suas armas para destruir todas as colônias neste planeta, para forçar a rendição e, então, escolha eliminar ou capturar as cidades.
+0x05FA8A4D Os planetas em órbitas verdes são mais fáceis de terraformar e colonizar do que os planetas em órbitas vermelhas ou azuis.
+0x00000020 Você designou o planeta ~planet_name~ como um Santuário da Vida Selvagem. Você pode recolher até ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ animais e colocá-los para habitar este planeta em segurança.
+0x00000010 Graças aos avanços na tecnologia de clonagem e da transferência emergencial de consciências, você não morreu. Em vez disso, você voltou para o seu planeta de origem, onde o seu império está construindo uma nova ~ufo_name~ para você.
+0x063BB6F6 Parabéns, você ganhou o título exclusivo de Ser Supremo!
+0x063BB6DA Parabéns, você ganhou o título de Almirante!
+0x0000002C Sua ~ufo_name~ recebeu tantos danos e acabou sendo destruída. Graças aos avanços nas tecnologias de clonagem, você não morreu. Em vez disso, você voltou para o seu planeta de origem, onde há uma nova nave espacial sendo preparada.
+0x063BB6E3 Parabéns, você foi promovido para o título de O Renomado!
+0x063BB6DF Parabéns, você ganhou o título de O Celebrado! Essa promoção significa que você agora pode liderar uma frota aliada maior.
+0x063BB6F2 Parabéns, você foi promovido para o título de Todo-Poderoso!
+0x063BB6EE Parabéns, você ganhou o título de O Lendário!
+0x063BB6E8 Parabéns, você ganhou o título de O Grande! Essa promoção significa que você agora pode liderar uma frota aliada maior.
+0x0000002F Este território é controlado pela raça desta estrela de origem. Eles consideram a sua presença como um ato de agressão.
+0x064E8373 Nós construímos uma nova nave para você. Tente não destruí-la desta vez!
+0x00000014 Será que é uma colônia dos Grox? Em toda a galáxia, os Grox têm a reputação de serem impiedosos. Mas tenha cuidado!
+0x00000030 Este é um território inimigo. Essa raça continuará atacando enquanto você estiver no território deles. Você precisa decidir. Fugir, lutar ou fazer a paz. O que vai ser?
+0x063BB6FA Parabéns! Você atingiu o mais alto nível de conquista. Você ganhou o título de Onipotente! Muito bem!
+0x05FA8A4F Parabéns! Você ampliou seu império. A produtividade de cada colônia é vinculada ao seu tamanho, que é limitado pelo Nível-T do planeta. Invista na terraformação e adicione colônias e estruturas para obter os melhores lucros.
+0x0000002B Você descobriu um planeta estéril. Planetas estéreis podem suportar uma colônia limitada, ou você pode melhorar seu nível de Terraformação (Nível-T) e estabelecer um movimentado espaçoporto para o seu império.
+0x00000001 Pode decolar! Você conseguiu desenvolver uma nave capaz de voar pelo espaço!~br~Os céus chamam, a galáxia espera, o universo está ao seu alcance.~br~Desde que você consiga pilotar essa coisa...
+0x05FA8A4E As colônias podem ser estabelecidas em qualquer planeta, de luas estéreis a oásis verdejantes de Nível-T 3.~br~As colônias produzem especiarias que podem ser comercializadas.
+0x063BB6D0 Parabéns, você recebeu o título de Comandante!
+0x00000007 A equação de Drake estava correta... uma raça de alienígenas vivos! Nós não estamos sozinhos! Parece que eles mandaram um emissário para cumprimentá-lo. Você deveria falar com eles. Abra o seu Painel de Comunicações.
+0x0000000F Sua nave ~ufo_name~ recebeu muitos danos e acabou sendo destruída.
+0x060C72DC Você coletou especiarias! A especiaria é uma mercadoria valiosa.~br~Colete-a nas suas colônias e no seu planeta de origem toda vez que visitá-los.
+0x00000029 Você descobriu um planeta selvagem, cheio de criaturas e plantas disponíveis para propagar a vida em outros planetas. Planetas selvagens também têm muitas especiarias e podem abrigar colônias.
+0x064BD3E4 Nenhum objeto detectado neste planeta.~br~Tem algo errado aqui...
+0x0000000B O ecossistema deste planeta está em perigo. Elimine os animais doentes antes que eles infectem o resto da espécie, causando um efeito dominó e levando ao colapso da cadeia alimentar no planeta.
+0x0000002E Você entrou no território do ~race~. Suas relações são ruins, portanto eles consideram isso como um ato hostil e vão atacar você.
+
+# Uplift Game
+
+0x00000022 O monólito fará que este planeta evolua… volte depois para descobrir qual foi o resultado desta evolução!
+
+#System Capture
+
+0x06610F0E Parabéns! Usando meios diplomáticos para formar uma forte aliança comercial, você conseguiu negociar um bom acordo e comprou o sistema deles.
+0x06610F0C Parabéns! Usando o poderio militar, você forçou seus inimigos à rendição e capturou o sistema deles.
+0x06610F0B Parabéns! Usando o poderio militar, você forçou seus inimigos à rendição e capturou o sistema deles.
+0x06610F0D Parabéns! Usando meios diplomáticos para formar uma forte aliança comercial, você conseguiu negociar um bom acordo e comprou o sistema deles.
+
+#Center Of Galaxy -- DO NOT TOUCH THE TIMING ON THIS.  IF YOU WANT TO CHANGE IT, ASK ME (LYDIA)
+
+0x06526580 Você foi premiado com o Cajado da Vida.
+
+# Rares
+
+0x0000000C O radar da nave detectou um objeto interessante neste planeta!
+0x0643D130 Uma ferramenta de modelagem planetária! Crie planetas exclusivos, usando esta ferramenta.
+0x0000000D A galáxia está cheia de objetos raros, estátuas e fósseis. Uma dessas raridades está bem aqui! Abduza-a e venda-a por umas boas Sporegranas, ou tente juntar conjuntos completos e cobrar ainda mais caro.
+0x0000001E O radar da nave captou uma assinatura diferente. Diferente de qualquer outra detectada até agora.
+

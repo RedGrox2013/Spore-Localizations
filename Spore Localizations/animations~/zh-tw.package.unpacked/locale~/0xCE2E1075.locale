@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000098 已完成
+0x000000B2 向<~mission_source_planet~>回報。
+0x00000099 任務成功！向<~mission_source_star~> 星系回報。
+0x00000093 前往：<~mission_source_star~>星系。
+0x00000095 <~mission_target_planet~>的調查已經完成。向<~mission_source_star~>星系的<~mission_source_planet~>回報。
+0x00000097 進行中
+0x00000081 你確定你不想接觸到有致命可能性的外星傳染病？~p~我們的白老鼠名單越來越短了…
+0x00000092 調查<~mission_target_star~>星系。嘗試與研究中心聯繫。
+0x00000071 老實說，我們也不想下去危險的星球調查致命的外星傳染病。~p~你這個種族比看上去聰明得多。
+0x00000094 調查<~mission_target_star~>星系。嘗試與<~mission_target_planet~>上的研究中心聯繫。
+0x0000004E 星球座標已經上傳至你的任務日誌。在傳染病擴散之前，快點趕去那裡。
+0x000000B1 調查<~mission_target_planet~>上的墜毀太空船。
+0x00000064 我就知道我們可以仰賴你。去察看研究中心的情況，並且立刻回報。~p~在傳染病擴散之前，快點趕去那裡，~ep1_captain_full_name~。
+0x00000000 ~ep1_captain_full_name~，我們剛剛接獲一起生物災難的消息！一艘不明外星太空船墜毀在我們遙遠的生態研究中心附近。~p~我們與該中心失去了聯繫。~p~我們擔心外星太空船上帶有某種傳染病。~p~你能替我們去瞧一瞧嗎？
+0x00000041 正如我們擔心的。整個中心都已遭到感染，只有一名小女孩例外。希望她的免疫系統能夠提供線索，幫助我們日後避免這類災難再次發生。~p~我們致贈~mission_rewards~Spore幣給你，雖然不多，但代表我們對你的謝意。
+

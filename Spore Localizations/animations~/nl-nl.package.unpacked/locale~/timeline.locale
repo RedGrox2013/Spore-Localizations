@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~ heeft een stad verloren.
+0x35492924 Stad verloren
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D ~timelineMyCivName~ is geëindigd als een militaire beschaving.
+0x060B4242 Eigenschap 'militair' verdiend
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ is geëvolueerd, maar heeft de vaardigheid ~timelineAbilityName~ verloren.
+0x550A15C2 ~timelineAbilityName~ verloren
+
+# TRG_MeatGathered
+
+0x060B4237 ~timelineSummedCount~ stukken vlees verzameld.
+0x05FA01B9 ~timelineSummedCount~ vlees verzameld.
+0x94F807CA ~timelineSummedCount~ stukken vlees verzameld.
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ jaar
+0x555450A5 ~timelineAbsoluteYears~ jaar
+
+#### Time Line Title ####
+
+0x0448655A Een stam vormen
+0x0448655B De verovering van de wereld
+0x0448655E Verken het universum
+0x0448655D Het ruimtetijdperk
+0x0448655C De wereld veroveren
+0x04486557 De evolutie van het leven op het land
+0x04486556 Word groot genoeg om land te bereiken
+0x04486555 Het ontstaan van leven
+0x04486558 Intelligentie ontwikkelen
+0x04486559 Het ontstaan van een beschaving
+0x00000000 Celfase
+0x00000009 Verover of imponeer 5 vijandelijke stammen
+0x0000000A Jagen, vissen of oogsten om geld te verdienen
+0x00000012 Missies afronden om geld te verdienen
+0x00000013 Planeten koloniseren en terravormen
+0x00000005 Strijden, indruk maken of zoeken
+0x00000001 Eet om DNA te verdienen en te groeien
+0x00000008 Stamfase
+0x00000004 Wezenfase
+0x00000007 Paren om te evolueren
+0x00000011 Onderzoek het luchtruim om vriend en vijand te ontmoeten
+0x0000000E Delf specerijen in specerijengeisers om geld te verdienen
+0x0000000F Voertuigen gebruiken om vijandelijke steden te veroveren, te bekeren of uit te kopen
+0x00000010 Ruimtefase
+0x0000000D Voertuigen kopen en maken vanuit het stadhuis
+0x0000000C Beschavingsfase
+0x0000000B Gereedschap kopen om de efficiëntie te verhogen
+0x00000006 DNA verdienen en onderdelen vrijspelen
+0x00000002 Versla vijanden om onderdelen vrij te spelen
+0x00000003 Onderdelen toevoegen in de schepper en laten evolueren
+
+# CLG_EatMeat
+
+0x352DBDB9 ~timelineEventCount~ vlees gegeten
+0x352DBDBA ~timelineMySpeciesName~ heeft een stuk vlees gegeten.
+0x75580858 Je cel heeft een stuk vlees opgegeten.
+0x75580859 Je cel heeft ~timelineEventCount~ stukken vlees opgegeten.
+0x352DBDBB ~timelineMySpeciesName~ heeft ~timelineEventCount~ stukken vlees opgegeten.
+
+# TRG_KilledEpic
+
+0x060B422F Epicus gedood
+0x05FA01B1 ~timelineMyTribeName~ heeft de Epicus ~timelineTargetOTDBName~ gedood.
+
+# SPG_ColonyOnPlanet
+
+0x060B424D Kolonie op planeet
+0x05FA01CB ~timelineMyEmpireName~ zijn begonnen met de kolonisatie van ~timelinePlanetName~.
+
+# CRG_AlliedSpecies
+
+0x05FA01A3 ~timelineMySpeciesName~ heeft een bondgenootschap gesloten met de ~timelineTargetOTDBName~.
+0x060B4221 Bondgenootschap gesloten
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ heeft van ~timelineTargetEmpireName~ gekocht.
+0x06300C33 Ster kopen
+
+# CLG_Death
+
+0x060B4214 Dood
+0x14F7E775 ~timelineMySpeciesName~ is ~timelineEventCount~ keer gestorven.
+0x05FA0196 ~timelineMySpeciesName~ gestorven.
+0x75580854 Je cel is gestorven.
+0x75580855 Je cel is ~timelineEventCount~ keer gestorven.
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Economische verovering
+0x06031AAB ~timelineMyCivName~ heeft met economische middelen een stad van ~timelineTargetCivName~ veroverd.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planeet vernietigd
+0xB54938AD ~timelineMyEmpireName~ heeft de planeet ~timelinePlanetName~ vernietigd.
+
+# SPG_EndedWar
+
+0x35493814 Oorlog beëindigd
+0x35493815 ~timelineMyEmpireName~ heeft oorlog met ~timelineTargetEmpireName~ beëindigd.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Eigenschap 'vlees' verdiend
+0x05FA0198 ~timelineMySpeciesName~ is geëvolueerd tot carnivoor. In de wezenfase kunnen ze alleen vlees eten.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Religieus-zee
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E2 ~timelineTargetOTDBName~
+0xF54928E3 ~timelineMyCivName~ heeft een nieuw voertuig ontwikkeld: ~timelineTargetOTDBName~.
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA842 Animatieverschillen berekenen
+0x064AA841 Evolutievectoren hercombineren
+0x064AA83E Epidermale lagen inpakken
+0x064AA840 Neurale subsystemen initialiseren
+0x064AA83D Maagslijmvlies afscheiden
+0x064AA838 Hercombinatievectoren ontwikkelen
+0x064AA83B Cellulaire bibliotheek differentiëren
+0x064AA83C Willekeurige gegevens archetypen
+0x064AA839 Metaphyta verspreiden
+0x064AA83A Bacteriecellen desinfecteren
+0x064AA844 Bezig met splines reticuleren
+0x064AA843 Voedselweb in kaart brengen
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Militair-land
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Eigenschap 'sociaal' verdiend
+0x05FA01B3 ~timelineMyTribeName~ is tot een religieuze stad geëvolueerd.
+
+# TRG_KilledTribemember
+
+0xB5303DE5 Stamlid gedood
+0xB5303DE7 ~timelineMyTribeName~ heeft ~timelineEventCount~ stamleden gedood.
+0xB5303DE6 ~timelineMyTribeName~ heeft een lid gedood van de ~timelineTargetTribeName~.
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ hebben een stad gevormd.
+0x060B4238 Overgaan naar beschaving
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Oorlog beëindigd
+0x9552AA74 ~timelineMyCivName~ voert niet langer oorlog met ~timelineTargetCivName~.
+
+# TRG_EggGathered
+
+0x555BD5C2 ~timelineSummedCount~ eieren verzameld.
+0x555BD5C1 ~timelineSummedCount~ eieren verzameld.
+0x555BD5C0 ~timelineSummedCount~ eieren verzameld
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Voertuig gebouwd
+0x35523EC1 Militair zeevoertuig gebouwd.
+0x35523EC2 ~timelineEventCount~ militaire zeevoertuigen gebouwd.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Voertuig gebouwd
+0xB5523D44 Economisch luchtvoertuig gebouwd.
+0xB5523D45 ~timelineEventCount~ economische luchtvoertuigen gebouwd.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ heeft een nieuw voertuig ~timelineTargetOTDBName~ ontworpen.
+0x060B423A Voertuig gecreëerd
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ heeft een nieuw gebouw ontworpen: ~timelineTargetOTDBName~.
+0x060B4239 Gebouw gecreëerd
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C ~timelineMyCivName~ is geëindigd als een religieuze beschaving.
+0x060B4241 Eigenschap 'religieus' verdiend
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Eigenschap 'sociaal' verdiend
+0x05FA01A5 Soort ~timelineMySpeciesName~ is geëvolueerd tot een sociaal ras.
+
+# CVG_AccessorizedCreature
+
+0x060B423B Nieuwe outfit
+0x05FA01BD ~timelineMyCivName~ hebben een nieuwe kledingstijl aangenomen.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ hebben de sterren bereikt.
+0x060B424B Overgaan naar ruimte
+
+# CRG_BefriendedSomething
+
+0x060B4227 Ergens vriendschap mee gesloten
+0x54F7EDA3 ~timelineMySpeciesName~ heeft vriendschap gesloten met ~timelineEventCount~ wezens.
+0x05FA01A9 ~timelineMySpeciesName~ heeft vriendschap gesloten met een ~timelineTargetOTDBName~.
+
+# CRG_Migrated
+
+0x060B421F Nieuw nest
+0x05FA01A1 ~timelineMySpeciesName~ heeft een nieuw nest opgeëist.
+
+# CRG_Death
+
+0x060B4225 Dood
+0x14F7EF6F ~timelineMySpeciesName~ is ~timelineEventCount~ keer gestorven.
+0x05FA01A7 ~timelineMySpeciesName~ is gestorven.
+
+# CRG_DiscoverPart
+
+0x060B4228 ~timelinePartName~
+0x05FA01AA ~timelineMySpeciesName~ heeft het ~timelinePartName~ onderdeel ontdekt.
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Eigenschap 'aanval' verdiend
+0x05FA01B2 ~timelineMyTribeName~ is tot een militaire stad geëvolueerd.
+
+# SPG_EditedBuilding
+
+0x35493810 ~timelineTargetOTDBName~
+0x35493811 ~timelineMyEmpireName~ heeft een nieuw gebouw ontworpen: ~timelineTargetOTDBName~.
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Economisch-land
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Voertuig verloren
+0xD4F81D00 ~timelineEventCount~ zeevoertuigen kwijt.
+0x05FA01C7 Een zeevoertuig verloren.
+
+# SPG_PlanetBuster
+
+0x060B4251 Planeet verwoest
+0x05FA01CF ~timelineMyEmpireName~ heeft ~timelinePlanetName~ vernietigd.
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Nieuwe outfit
+0xD5147CA7 ~timelineMyEmpireName~ heeft een nieuwe garderobe aangeschaft.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ heeft ~timelineAbilityName~ uitgevonden.
+
+# TRG_BefriendedTribe
+
+0x060B422D Bondgenootschap
+0x05FA01AF ~timelineMyTribeName~ heeft een bondgenootschap gesloten met ~timelineTargetTribeName~.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Economisch-lucht
+
+# SPG_ColonyPlaced
+
+0x060B425F Kolonie gesticht
+0x05FA01D3 ~timelineMyEmpireName~ heeft ~timelinePlanetName~ gekoloniseerd.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ voert oorlog met ~timelineTargetCivName~.
+0x35492926 Oorlog begonnen
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ is een ruimteminstreel geworden!
+0x060B4255 Eigenschap 'minstreel' verdiend
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 ~timelineEventCount~ militaire luchtvoertuigen gebouwd.
+0xB5523D41 Militair luchtvoertuig gebouwd.
+0xB5523D40 Voertuig gebouwd
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC T-niveau toegevoegd aan planeet
+0x0627E7AD ~timelinePlanetName~ geterravormd.
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Eigenschap 'gemengd' verdiend
+0x05FA01B4 ~timelineMyTribeName~ is tot een economische stad geëvolueerd.
+
+# CRG_PackMemberAdded
+
+0x060B421D Troeplid toegevoegd
+0x05FA019F ~timelineTargetOTDBName~ toegevoegd aan je troep.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x060B4259 Eigenschap 'wetenschapper' verdiend
+0x06031C10 ~timelineMyEmpireName~ is een ruimtewetenschapper geworden!
+
+# SPG_EditedVehicle
+
+0x35493812 ~timelineTargetOTDBName~
+0x35493813 ~timelineMyEmpireName~ heeft een nieuw voertuig ontworpen: ~timelineTargetOTDBName~.
+
+# SPG_MadeAlly
+
+0x060B424E Bondgenoot gemaakt
+0x05FA01CC ~timelineMyEmpireName~ hebben een bondgenootschap gesloten met ~timelineTargetEmpireName~.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Economisch landvoertuig gebouwd.
+0x15523CA3 Voertuig gebouwd
+0x15523CA5 ~timelineEventCount~ economische landvoertuigen gebouwd.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Eigenschap 'gemengd' verdiend
+0x05FA01A6 Soort ~timelineMySpeciesName~ is geëvolueerd tot een snel ras.
+
+# CVG_CapturedCityReligious
+
+0x060B423E Religieuze verovering
+0x06031AAC ~timelineMyCivName~ heeft met godsdienstige middelen een stad van ~timelineTargetCivName~ veroverd.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Eigenschap 'aanval' verdiend
+0x05FA01A4 Soort ~timelineMySpeciesName~ is geëvolueerd tot een sterk ras.
+
+# CVG_UsedSuperPower
+
+0x060B4244 Superkracht gebruikt
+0x05FA01C2 ~timelineMyCivName~ heeft ~timelineSuperPowerName~ gebruikt.
+
+# CVG_EpicKilled
+
+0x3552A304 Epicus gedood
+0x3552A305 ~timelineMyCivName~ heeft de Epicus ~timelineTargetOTDBName~ gedood.
+
+# CRG_KilledSomething
+
+0x060B4226 Iets gedood
+0x05FA01A8 ~timelineMySpeciesName~ heeft een ~timelineTargetOTDBName~ gedood.
+0xF4F7EE4B ~timelineMySpeciesName~ heeft ~timelineEventCount~ wezens gedood.
+
+# CVG_SpiceNodeCaptured
+
+0x060B4243 Specerijenbron veroverd
+0x15137CD5 ~timelineMyCivName~ heeft ~timelineEventCount~ specerijengeisers veroverd.
+0x05FA01C1 ~timelineMyCivName~ heeft een specerijengeiser veroverd.
+
+# CVG_LostCityByMilitary
+
+0x35492920 Stad verloren
+0x35492921 ~timelineMyCivName~ heeft een stad verloren.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ heeft de ~timelineTargetOTDBName~ gedood.
+0x060B4220 Uitgestorven
+
+# CRG_PackMemberDied
+
+0x060B421E Troeplid overleden
+0x05FA01A0 ~timelineMySpeciesName~ heeft een troepslid verloren.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x060B425A Eigenschap 'sjamaan' verdiend
+0x06031C11 ~timelineMyEmpireName~ is een ruimtesjamaan geworden!
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Voertuig gebouwd
+0x05FA01C3 Landvoertuig gebouwd.
+0xB4F817E5 ~timelineEventCount~ landvoertuigen gebouwd.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Voertuig verloren
+0x54F81C70 ~timelineEventCount~ landvoertuigen verloren.
+0x05FA01C6 Een landvoertuig verloren.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA84F Waterkoolstofbronnen onderzoeken
+0x064AA850 Bedriegers mipmaps aanpassen
+0x064AA84E Geostatische grenzen stabiliseren
+0x064AA851 Continentale subsystemen bevolken
+0x064AA854 Stedelijke dynamiek afvlakken
+0x064AA855 Omgevingsmuziek componeren
+0x064AA853 Technologische factoren zaaien
+0x064AA852 De Dopplereffectbeheerder initialiseren
+0x064AA856 Loopbox-partikels uitrekken
+0x064AA857 Memetische overdracht gestart
+0x064AA900 Virale gegevens uitzaaien
+
+# SPG_CGQuasar
+
+0x060B4254 CQ Quasar
+0x05FA01D2 ~timelineMyEmpireName~ heeft verlichting bereikt.
+
+# CRG_EvolveInEditor
+
+0x060B421B Generatie ~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~ is geëvolueerd.
+
+# CVG_AirVehicleLost
+
+0x060B424A Voertuig verloren
+0xF4F81D2C ~timelineEventCount~ luchtvoertuigen kwijt.
+0x05FA01C8 Een luchtvoertuig verloren.
+
+# SPG_CapturedStare
+
+0x060B4250 Ster veroveren
+0x05FA01CE De ~timelineMyEmpireName~ hebben ~timelineTargetEmpireName~ veroverd.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Religieus-land
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 ~timelineTargetOTDBName~ verloren.
+0x060B4263 Speler ruimteschip vernietigd
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x060B4258 Eigenschap 'ridder' verdiend
+0x06031C0F ~timelineMyEmpireName~ is een ruimteridder geworden!
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ is geëvolueerd en heeft de vaardigheid ~timelineAbilityName~ verkregen.
+0x550A15C0 ~timelineAbilityName~ verkregen
+
+# SPG_EncounteredEmpire
+
+0x060B4264 Rijk aangetroffen
+0x05FA01D8 Het ~timelineTargetEmpireName~ ontdekt.
+
+# TRG_GiftGiven
+
+0xB5303DE2 Geschonken geschenk
+0xB5303DE3 ~timelineMyTribeName~ heeft een geschenk aan ~timelineTargetTribeName~ gegeven.
+0xB5303DE4 ~timelineMyTribeName~ heeft ~timelineEventCount~ geschenken gegeven.
+
+# CVG_TradeRouteStarted
+
+0x3549292A Handelsroute gevormd
+0x3549292B Handelsroute begonnen met ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x060B424C Ruimteschip bewerkt
+0x05FA01CA ~timelineMyEmpireName~ hebben een nieuw ruimteschip ontworpen.
+
+# CLG_DiscoverPart
+
+0x060B4211 Onderdeel ontdekken
+0x05FA0193 ~timelineMySpeciesName~ heeft ~timelinePartName~-onderdeel ontdekt.
+0x75580853 ~timelinePartName~-onderdeel ontdekt.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ is een ruimtekrijger geworden!
+0x060B425D Eigenschap 'krijger' verdiend
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Voertuig gebouwd
+0x94F819B5 Bouw ~timelineEventCount~ zeevoertuigen.
+0x05FA01C4 Zeevoertuig gebouwd.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ heeft ~timelineTargetCivName~ verslagen.
+0x35492928 Oorlog beëindigd
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x060B425C Eigenschap 'dwaler' verdiend
+0x06031C13 ~timelineMyEmpireName~ is een ruimtedwaler geworden!
+
+# TRG_UnlockedTool
+
+0xD537EA55 ~timelineAbilityName~ vrijgespeeld
+0xD537EA56 ~timelineAbilityName~ vrijgespeeld.
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x060B4257 Eigenschap 'ecoloog' verdiend
+0x06031C0E ~timelineMyEmpireName~ is een ruimte-ecoloog geworden!
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Nieuw huisdier ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ heeft een huisdier ~timelineTargetOTDBName~ getemd.
+
+# SPG_UFODestroyed
+
+0x060B4260 Ruimteschip vernietigd
+0x05FA01D4 ~timelineTargetEmpireName~ ruimteschip vernietigd.
+0x356A2D21 ~timelineEventCount~ ruimteschepen vernietigd
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Economisch-zee
+
+# TRG_TribeMemberDied
+
+0x060B4234 Stamlid overleden
+0xD4F7FE0D De ~timelineMyTribeName~ hebben ~timelineEventCount~ stamleden verloren.
+0x05FA01B6 ~timelineMyTribeName~ heeft een stamlid verloren.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Militair-lucht
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 ~timelineEventCount~ militaire landvoertuigen gebouwd.
+0x15523CA1 Militair landvoertuig gebouwd.
+0x15523CA0 Voertuig gebouwd
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ is een ruimtehandelaar geworden!
+0x060B425B Eigenschap 'handelaar' verdiend
+
+# SPG_FirstGrobEncounter
+
+0x060B4252 Eerste ontmoeting met de Grox
+0x05FA01D0 ~timelineMyEmpireName~ hebben de Grox ontmoet.
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 ~timelineEventCount~ religieuze landvoertuigen gebouwd.
+0x15523CA7 Religieus landvoertuig gebouwd.
+0x15523CA6 Voertuig gebouwd
+
+# TRG_ConqueredTribe
+
+0x060B422C Stam veroverd
+0x05FA01AE ~timelineMyTribeName~ heeft ~timelineTargetTribeName~ veroverd.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Entropische herkalibratie
+0x064AA90C Rijksinvloedkaart verwerken
+0x064AA905 Uitstralende nevels laden
+0x064AA906 Protoplanetaire systemen laten draaien
+0x064AA904 Zwaartekrachtconstante aanpassen
+0x064AA903 Lokale ruimte uitbreiden
+0x064AA907 Galactische polyfonie genereren
+0x064AA909 Roodverschuiving van quasars in evenwicht brengen
+0x064AA90A Galactische torsie opnieuw instellen
+0x064AA908 Bijzonderheden accelereren
+0x064AA902 Massa conserveren
+0x064AA901 Higgs-veld bepalen
+
+# TRG_AccessorizedCreature
+
+0x060B422A Nieuwe outfit
+0x05FA01AC ~timelineMyTribeName~ heeft een nieuwe kledingstijl aangenomen.
+
+# CLG_EvolveInEditor
+
+0x060B4212 Generatie ~timelineGenerationCount~
+0x05FA0194 ~timelineMySpeciesName~ evolueerde.
+
+# CRG_Grow
+
+0x060B421C Hersenopwaardering
+0x05FA019E ~timelineMySpeciesName~ heeft nu een groter brein!
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ is een ruimtediplomaat geworden!
+0x060B4256 Eigenschap 'diplomaat' verdiend
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 ~timelineSummedCount~ Sporedollars verdiend met handelsroutes.
+0x7552A857 Handelsroute heeft geld opgeleverd
+0x7552A858 ~timelineSummedCount~ Sporedollars verdiend met handelsroutes.
+
+# CLG_KilledSomething
+
+0x060B4219 Iets gedood
+0x05FA019B ~timelineMySpeciesName~ heeft een ~timelineTargetOTDBName~ gedood.
+0x7558085A Je cel heeft een ~timelineTargetOTDBName~ gedood.
+0x7558085B Je cel heeft ~timelineEventCount~ cellen gedood.
+0xF4F7C380 ~timelineMySpeciesName~ heeft ~timelineEventCount~ cellen gedood.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Eigenschap 'gemengd' verdiend
+0x05FA0199 ~timelineMySpeciesName~ is geëvolueerd tot omnivoor. In de wezenfase kunnen ze vlees of vruchten eten.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84B Etnografisch exemplaar voorbereiden
+0x064AA849 Epistemologisch kader aanmaken
+0x064AA848 Taalsystemen structureren
+0x064AA84C Faseverschuivingsregels
+0x064AA84D Cognitieve mogelijkheden verspreiden
+0x064AA847 Animaties schrappen
+0x064AA846 Culturele abstracties ontwikkelen
+0x064AA845 Sociale beperkingen filteren
+0x064AA84A Gezichtsnormalen afvlakken
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~ is een ruimtezeloot geworden!
+0x060B425E Eigenschap 'zeloot' verdiend
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 ~timelineSummedCount~ zeewieren verzameld.
+0x555BD5C3 ~timelineSummedCount~ zeewieren verzameld
+0x555BD5C4 ~timelineSummedCount~ zeewieren verzameld.
+
+# SPG_SpiceTraded
+
+0x060B4261 Specerijen verhandeld
+0x55564EC3 ~timelineSummedCount~ specerijen verhandeld
+0x05FA01D5 ~timelineSummedCount~ specerijen verhandeld.
+
+# SPG_MasterBadge
+
+0x060B4253 Meesterbadge verdiend
+0x05FA01D1 ~timelineMyEmpireName~ hebben een meesterbadge verdiend.
+
+# CLG_GameStart
+
+0x060B4210 Generatie ~timelineGenerationCount~
+0x05FA0192 Te voorschijn gekomen uit de meteoor.
+
+# CVG_EpicCharmed
+
+0x3552A306 Epicus gecharmeerd
+0x3552A307 ~timelineMyCivName~ heeft de Epicus ~timelineTargetOTDBName~ gecharmeerd.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Militaire verovering
+0x06031AAA ~timelineMyCivName~ heeft met militaire middelen een stad van ~timelineTargetCivName~ veroverd.
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ heeft ~timelineEventCount~ specerijengeisers verloren.
+0xD54932C1 ~timelineMyCivName~ heeft een specerijengeiser verloren.
+0xD54932C0 Specerijenbron verloren
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 ~timelineEventCount~ economische zeevoertuigen gebouwd.
+0x35523EC3 Voertuig gebouwd
+0x35523EC4 Economisch zeevoertuig gebouwd.
+
+# CRG_GameStart
+
+0x060B421A Generatie ~timelineGenerationCount~
+0x05FA019C ~timelineMySpeciesName~ is aan land gekomen om de reis naar een bewustzijn te beginnen.
+
+# CLG_EatPlant
+
+0x352DBDB7 ~timelineMySpeciesName~ heeft een plant gegeten.
+0x352DBDB6 ~timelineEventCount~ planten gegeten
+0x75580856 Je cel heeft een plant opgegeten.
+0x75580857 Je cel heeft ~timelineEventCount~ plantenknoppen opgegeten.
+0x352DBDB8 ~timelineMySpeciesName~ heeft ~timelineEventCount~ plantenknoppen opgegeten.
+
+# TRG_GameStart
+
+0x05FA01AB ~timelineMySpeciesName~ heeft een stam opgericht.
+0x060B4229 Overgaan naar stam
+
+# SPG_StartedWar
+
+0x060B424F Oorlog begonnen
+0x05FA01CD ~timelineMyEmpireName~ voeren nu oorlog met ~timelineTargetEmpireName~.
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Militair-zee
+
+# TRG_TribeMemberBorn
+
+0x060B4233 Stamlid geboren
+0x05FA01B5 Er is een nieuw jonkie geboren bij de ~timelineMyTribeName~.
+0xD4F81307 ~timelineEventCount~ jonkies zijn geboren bij de ~timelineMyTribeName~.
+
+# SPG_RareFound
+
+0x05FA01D6 Zeldzame gevonden: ~timelineRareName~
+0x060B4262 Zeldzame gevonden
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Voertuig gebouwd
+0x34F81C5A Bouw ~timelineEventCount~ luchtvoertuigen.
+0x05FA01C5 Luchtvoertuig gebouwd.
+
+# TRG_FruitGathered
+
+0x060B4235 ~timelineSummedCount~ vruchten verzameld.
+0x05FA01B7 ~timelineSummedCount~ vruchten verzameld.
+0x94F804D9 ~timelineSummedCount~ vruchten verzameld.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B ~timelineMyCivName~ is geëindigd als een economische beschaving.
+0x060B4240 Eigenschap 'economisch' verdiend
+
+# TRG_FishGathered
+
+0x060B4236 ~timelineSummedCount~ vissen verzameld.
+0x05FA01B8 ~timelineSummedCount~ vis gevangen.
+0x54F8079A ~timelineSummedCount~ vis gevangen.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 ~timelineEventCount~ religieuze zeevoertuigen gebouwd.
+0x35523EC6 Voertuig gebouwd
+0x35523EC7 Religieus zeevoertuig gebouwd.
+
+# CVG_TradeCompleted
+
+0x3549292C Handel heeft plaatsgevonden
+0x3549292D ~timelineMyCivName~ heeft ~timelineSummedCount~ Sporedollars verhandeld.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Religieuze luchtvoertuigen gebouwd.
+0xB5523D48 ~timelineEventCount~ religieuze luchtvoertuigen gebouwd.
+0xB5523D46 Voertuig gebouwd
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Religieus-lucht
+
+# CVG_GiftGiven
+
+0xD54932C3 Geld betaald
+0xD54932C4 ~timelineMyCivName~ heeft ~timelineSummedCount~ Sporedollars betaald.
+0xD54932C5 ~timelineMyCivName~ heeft ~timelineSummedCount~ Sporedollars betaald.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Eigenschap 'plant' verdiend
+0x05FA0197 ~timelineMySpeciesName~ is geëvolueerd tot herbivoor. In de wezenfase kan dit wezen alleen vruchten eten.
+

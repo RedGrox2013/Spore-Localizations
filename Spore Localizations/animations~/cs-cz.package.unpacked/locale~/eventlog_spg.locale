@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 Planeta ~planet_name~ ze soustavy hvězdy ~star_name~ se vyvinula do Fáze civilizace!
+0x06771171 Planeta ~planet_name~ ze soustavy hvězdy ~star_name~ se vyvinula do Vesmírné fáze!
+0x067710B2 Planeta ~planet_name~ ze soustavy hvězdy ~star_name~ se vyvinula do Kmenové fáze!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Odznak zpřístupněn
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Abyste tento nástroj mohli použít, musí být poblíž nějaké zvíře.
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Vydobyli jste si právo přidat ke svému loďstvu spojeneckou loď.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Tento nástroj je možno použít pouze na planety impérií.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD Kolonie bude příliš daleko od koření.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Tento nástroj nelze použít nad vodou.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Nasbírané koření.
+
+#standard....
+
+0x00000017 All tribes on ~planet_name~ worship you! [not in use]
+0x0000000B Your expedition has gone bankrupt. Better wait for a tow. [not in use]
+0x00000005 Your worshippers in ~planet_name~ has become a technological civilization.  [not in use]
+0x0000003C You've failed at getting this city to worship you. Try another. [not in use]
+0x0000003B Every city on this planet now worships you!  [not in use]
+0x00000039 ~count~ of ~city_count~ ~^p^count^city^cities~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x0000001F ~generic_name~ became extinct. You are placing things too close to each other. Try placing on the other side of the planet. [not in use]
+0x00000001 Na svůj domovský svět nemůžete tento nástroj použít.
+0x00000003 Váš spojenec poslal novou loď, aby se připojila k vaší flotile.
+0x00000004 Impérium rasy ~race~ ti vyhlásilo válku. Připrav se na boj.
+0x00000002 Jedna ze spojeneckých lodí odcestovala zpět domů, když viděla že máte dostatek pomocníků.
+0x0000000D T-Skóre planety ~planet_name~ je teď ~terraform_level~.
+0x0000000E Váš průzkum byl úspěšný. Veškerá data se zaznamenávají do Sporepedie.
+0x0000000C Kosmickou loď můžete opravit na kterékoli vaší bezpečné kolonii.
+0x0000000F Planeta nedokáže podporovat další kolonie, dokud nezlepšíte T-Skóre.
+0x00000031 Tato planeta je již zabrána.
+0x00000044 Váš tachometr povědomí o Hrubeších právě stoupl na "Tak nějak více méně strach"
+0x0000002F Kolonie pod vodou nepřežijí. Umístěte ji na souš.
+0x00000023 Nepřátelská kosmická loď byla zničena!
+0x00000042 Váš tachometr povědomí o Hrubeších právě stoupl na "Nebojíme se, měli bychom?"
+0x00000043 Váš tachometr povědomí o Hrubeších právě klesl na "Nebojíme se, měli bychom?"
+0x00000019 Vraťte se na domovský svět. Čeká na vás další úkol.
+0x0000004A Příliš toxické pro náš zavazadlový prostor. Zpopelňujeme…
+0x0000002E Zvířata na lávě nepřežijí. Umístěte je na zem.
+0x00000046 Váš tachometr povědomí o Hrubeších právě stoupl na "Šílený strach"
+0x00000034 Na použití tohoto nástroje nemáte dost peněz.
+0x00000041 Impérium rasy ~race~ bylo zničeno.
+0x0000001A Vaše spojenectví s rasou ~race~ bylo zpřetrháno.
+0x0000001B Selhání podpory života!
+0x00000022 Druh ~generic_name~ vyhynul hlady.
+0x065BCDA0 Pozor: Kradení předmětů z cizích planet rozzuří jejich impérium.
+0x00000016 Ničíte své vlastní budovy.
+0x06527A66 Rasa ~race~ ztrácí zájem o obchodní cestu k vám. Zlepšete vztahy s ní.
+0x00000037 Pokud na ně budete pořád střílet, budou na vás střílet také.
+0x00000048 Váš tachometr povědomí o Hrubeších hlásí "Šílený strach"
+0x04BD78A0 Vaši spojenci vám již pomáhají!
+0x0000002D Pokud příšerky upustíte z výšky, zabijí se. Spouštějte je paprskem pěkně pomalu.
+0x05790C96 Příchozí volání od rasy ~race~!
+0x00000047 Váš tachometr povědomí o Hrubeších ukazuje "Tak nějak více méně strach"
+0x0000002C Tento býložravec na planetě nepřežije. Přidejte více rostlin.
+0x00000036 Byl nalezen nový, úžasný artefakt.
+0x04F77C3E Tento druh se již na tomto místě nachází.
+0x00000018 Na planetě jménem ~planet_name~ jste založili kolonii!
+0x057F4C52 Pro použití tohoto nástroje nemáte dostatek energie.
+0x04BD7870 Nemáte žádné spojence, kteří by přišli na pomoc.
+0x04BD78A5 Na této planetě nejsou žádní nepřátelé, se kterými by vám vaši spojenci pomohli.
+0x0567757C Vaši obchodní partneři ze soustavy ~star_name~ o vás smýšlejí dobře. Rasa ~race~ by možná mohla být otevřená dalším diplomatickým požadavkům.
+0x00000045 Váš tachometr povědomí o Hrubeších právě klesl na "Tak nějak více méně strach"
+0x00000035 Jedna z lodí našich spojenců byla zničena!
+0x00000049 Impérium rasy ~race~ zrušilo misi, protože naše vztahy k nim se ochladily.
+0x06527A69 Obchodní cesta k rase ~race~ byla přerušena.
+0x00000028 Rostliny pod vodou nepřežijí. Umístěte je na souš.
+0x04E3AB1A Nelze umísit do kolonie.
+0x00000024 Rasa ~race~, její impérium, ztratila kontrolu nad soustavou ~star_name~.
+0x0000001D Našli jste ~count~ použití nástroje ~tool_name~!
+0x0000003A Zde se nemůžete usadit. Soustava ~star_name~ je již osídlena jiným druhem.
+0x04E3AAFD Tento objekt je třeba umístit na zem.
+0x00000025 Impérium rasy ~race~ získalo kontrolu nad soustavou hvězdy ~star_name~ a zkolonizovalo novou planetu!
+0x0000001E Něco na planetě vyhynulo, protože se snížilo T-skóre.
+0x04D28917 K dispozici jsou nové nástroje.
+0x06159AE6 Rasa ~race~ ztrácí o spojenectví s vámi zájem. Měli byste ji navštívit.
+0x0000001C Nákladový prostor je plný. Je třeba uvolnit nějaké pole v něm.
+0x0000003D Impérium rasy ~race~ vyhlásilo válku impériu rasy ~race2~.
+0x0546A708 Tato přírodní rezervace už nepojme žádná další zvířata.
+0x00000020 Druh ~generic_name~ vyhynul kvůli nedostatku rostlin.
+0x05483AB4 Přidali jste příšerku s názvem ~creature_name~ do vaší rezervace. Rezervace obsahuje ~animal_count~ z ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ možných zvířat.
+0x00000026 Rozšiřujte tu informaci, ale vždy jen planetu po planetě.
+0x00000011 Přestaň! Planetu ~planet_name~ rabují piráti.
+0x00000021 Tvor ~generic_name~ byl vyhuben.
+0x00000027 Pokud unesené bytůstky upustíte, zabijí se. Spouštějte je paprskem pěkně pomalu.
+0x0541A247 Dokončili jste část ekosystému, která umožňuje rozšíření kolonií.
+0x0541A219 Stabilizovali jste T-skóre planety.
+0x06037BB6 Díky zvýšené hladině moří na této planetě něco vyhynulo.
+0x04E39F9A Pouze jeden na planetu!
+0x04E38CF9 Tento nástroj je možno použít pouze na kolonizované planety.
+0x0000003E Rasy ~race~ a ~race2~ uzavřely mírovou smlouvu.
+0x065BCDA7 Pozor: unášení občanů rozzuří jejich impérium.
+0x061DBC92 Cíl je mimo dosah.
+0x0580C3FA Tento nástroj je možno použít pouze na planety ostatních impérií.
+0x05C2BC26 Musíte naplnit alespoň jednu řadu rostlin či zvířat, abyste mohli planetu pozvednout.
+0x06170F80 Tento nástroj vystřelí pouze na cíl.
+0x04EA4FD8 Na této planetě jste zabili Hrubeše tím, že jste ji terraformovali na T1!
+0x04F7B030 Masožravec nemůže na této planetě přežít. Přidejte více býložravců.
+0x04ED0A12 Získáváte 42 fantastických nástrojů a navíc jste objevili vzácný galaktický útvar.
+0x04EA4FD9 Vaše průzkumy nedokázali odhalit obyvatele této planety. Vraťte se to oznámit na domovský svět.
+0x0591CCD5 Objevili jste vzácný galaktický útvar.
+0x0591CCD6 Objevili jste jedinečnou planetu.
+0x0637C896 Je to past! Byli jste přepadeni piráty!
+0x00000040 Aliance mezi rasou ~race~ a ~race2~ se rozpadla.
+0x04F615F5 Uložit hru je možno až po opuštění planety.
+0x0000002B Tento druh pod vodou nepřežije. Dejte ho na souš.
+0x00000032 Přidáním budovy vylepšíte svou kolonii.
+0x0000003F Rasa ~race~ a ~race2~ jsou nyní spojenci.
+0x0000002A Rostliny na lávě nepřežijí. Umístěte je na zem.
+0x04F7B80D Aby to tu mohlo přežít, musíte zlepšit T-skóre planety ~planet_name~.
+0x05807D8E Impérium rasy ~race~ zastavilo válku, kterou vůči vám vedlo.
+0x00000029 Tato rostlina je pro místní ekosystém příliš veliká, zkuste jinou velikost.
+0x06707FAA Ekologická nika je zaplněna, nelze přidat další druh.
+0x066F10AB Příchozí spojení z vašeho domovského světa!
+0x066F10B8 Příchozí spojení z vaší kolonie!
+0x00000010 Našli jste předmět zvaný ~rare_name~ ze sbírky ~rare_count~ předmětů zvaných ~rare_group~.
+0x00000008 ~count~ of ~tribe_count~ ~^p^count^tribe^tribes~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000006 False Prophet! This tribe thinks you're religion is for wussies. [not in use]
+0x0637C897 Získáváte: ~tool_name~.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Tento nástroj není možno použít na planety impérií.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 Kolonie musí být poblíž zdroje koření.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Tento nástroj nelze použít na planetu, která je přírodní rezervací.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Tento nástroj lze použít pouze na divoké planety.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Sem napište text>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Tento nástroj nelze použít nad městem.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x064C024E You must raise the T-Score on the planet to enter the Colony Planner. [not in use]
+0x065BAC9F Tento nástroj nelze použít na obří příšerky.
+0x0654CA48 Město se vám vzdalo.
+0x0654C9DF Planeta se vzdala, ale v této sluneční soustavě jdou i další.
+0x065BFFFA Na další koření již nemáte dostatek místa.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Sem vepište text o postupu v misi>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Mini-U již máte.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Pro další loď nemáte ve svém vozovém parku místo.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Sem vepište text o postupu v misi>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Jste pro použití tohoto nástroje příliš vysoko.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Tento nástroj lze použít pouze v systémech s obchodní cestou.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA T-Skóre planety je pro použití tohoto nástroje příliš nízké.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 Kolonie je příliš blízko koření.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Tento nástroj nelze použít. Planeta je na nejvyšší úrovni.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Sem vepište text o stavu mise>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 Vozidlo s názvem ~vehicle_name~ již bylo objeveno.
+0x04374125 Budova s názvem ~building_name~ již byla objevena.
+0x04374114 Byla objevena nová budova jménem ~building_name~. Je zaznamenána ve  Sporepedii.
+0x04377191 Bylo objeveno nové vozidlo jménem ~vehicle_name~. Je zaznamenáno ve  Sporepedii.
+0x043AD9F2 Kosmická loď s názvem ~ufo_name~ již byla objevena.
+0x043AD9E0 Byla objevena nová kosmická loď jménem ~ufo_name~. Je zaznamenána ve  Sporepedii.
+0x03FFE77B Byla objevena nová rostlina jménem ~game_plant_name~. Je zaznamenána ve  Sporepedii.
+0x03FFE7FB Rostlina s názvem ~game_plant_name~ již byla objevena.
+0x03FFE7FF Byla objevena nová příšerka jménem ~creature_name~. Je zaznamenána ve  Sporepedii.
+0x03FFE803 Příšerka s názvem ~creature_name~ již byla objevena.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Na této planetě nelze použít monolit.
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Tento nástroj nelze použít tak blízko stavby.
+

@@ -1,0 +1,172 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000AD ~city_name_7~
+0x000000AE ~city_name_8~
+0x000000B0 ~city_name_10~
+0x000000AF ~city_name_9~
+0x000000AC ~city_name_6~
+0x000000A8 ~city_name_2~
+0x000000A7 ~city_name_1~
+0x000000A9 ~city_name_3~
+0x000000AA ~city_name_4~
+0x000000AB ~city_name_5~
+0x00000003 Notre armée a pour mission de faire face à des comportements comme le vôtre. Nous mettons fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x00000006 Notre armée n'a plus besoin d'une capitale. Nous mettons fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x00000004 Foi est synonyme de tolérance, mais il y a des limites. Nous mettons fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x00000020 Nous n'avons rien à nous dire. Allez droit au but.
+0x00000005 Tant pis pour le business, votre comportement est intolérable. Nous mettons fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x00000023 Vous êtes un précieux allié. De quoi voulez-vous discuter ?
+0x00000024 Vous avez sali nos croyances et notre peuple avec. Que voulez-vous ?
+0x00000025 La Source ne voit pas votre peuple ni vos créations d'un très bon oeil. Pourquoi nous contactez-vous ?
+0x00000021 Votre civilisation nous laisse perplexe. Quelles sont vos intentions ?
+0x00000022 Nos relations sont bonnes. Pouvons-nous vous être utiles ?
+0x00000018 La Source reconnaît votre sagesse. Puissent nos villes être liées pour toujours.
+0x00000017 Génial ! Plus qu'un ami, vous êtes devenu un partenaire de choix et nous souhaitons que nos échanges s'inscrivent dans la durée.
+0x0000000E Pas question de faire affaire avec une civilisation sans importance comme la vôtre. C'est non.
+0x0000000D Super !
+0x00000019 Excellent. Cet accord sera hautement bénéfique pour nos deux villes.
+0x00000010 Nous croulons sous les propositions, donc ça ira très bien comme ça. Désolé.
+0x0000000F Nous avons pesé le pour et le contre, mais tout bien réfléchi, c'est non.
+0x00000014 La croissance de nos villes passe par la croissance économique. Nous voulons ouvrir un axe commercial avec ~target_city_name~. Nos véhicules viendront livrer des marchandises contre versement d'une taxe à votre ville à chaque voyage.
+0x00000016 Offre rejetée ! Gardez-la, votre camelote.
+0x00000013 La Bonne Parole ne peut se répandre sans de sains échanges commerciaux. Ouvrons un axe commercial avec ~target_city_name~. Chaque voyage vous rapportera gros.
+0x00000012 Nos armées auraient besoin de marchandises qu'on ne trouve qu'à ~target_city_name~. Ouvrons un axe commercial. Chaque transaction vous rapportera gros.
+0x0000001D Nous avons du mal à vous suivre. Tant pis, nous ferons nos affaires ailleurs.
+0x00000009 Pas grave, on se passera de votre argent.
+0x0000000A Le Commerce nous rendra plus fort. Nous acceptons.
+0x0000000B Grâce à ce partenariat, nous répandrons la bonne parole. Nous acceptons.
+0x0000001F Notre armée s'est massée à vos frontières. Vous n'êtes digne que de nos moqueries.
+0x00000007 Nous avons communié avec la Source et Elle s'est exprimée. Nous devons mettre fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x00000008 Nos relations ne rapportent plus rien à personne. Nous mettons fin aux échanges entre ~source_city_name~ et ~target_city_name~.
+0x0000001B Nos généraux sont mécontents. Ne comptez pas sur une nouvelle offre de sitôt.
+0x0000000C Le Commerce ne peut que nous enrichir. Votre offre est acceptée.
+0x000000A2 Parfait. Content de vous avoir à nos côtés.
+0x00000093 Très bien. Nous allons les affaiblir.
+0x000000A3 Allez !
+0x00000096 Merci. Votre soutien nous touche beaucoup.
+0x00000046 Votre peuple descend de limaces spatiales sans membres.
+0x00000039 Vous nous avez peut-être racheté ~source_captured_npc_city_name~, mais ceci n'entame pas nos ambitions.
+0x00000082 Oups...
+0x00000080 Oups...
+0x00000042 Notre peuple envie vos vastes étendues.
+0x000000B1 Pas grave.
+0x00000090 Ceci ne nous plaît pas.
+0x000000A1 Hourra !
+0x0000007D Vous savez négocier. Nous acceptons.
+0x0000007E Chouette !
+0x0000007F Après examen scrupuleux, nous vous informons que votre offre a été rejetée.
+0x0000009A Cette réponse nous déçoit.
+0x000000A0 Excellent ! Que nos ennemis mordent la poussière !
+0x00000051 Nous ne venons pas les mains vides. Acceptez-vous nos cadeaux ?
+0x00000081 Votre offre est une véritable insulte à mes parents et grands-parents. Hors de question.
+0x000000A4 Ces mots me désolent.
+0x00000030 Vous avez souillé ~source_lost_city_to_player_name~, ce qui n'est qu'une erreur parmi d'autres. Nous vous mènerons la vie dure pour la reprendre.
+0x00000092 Vos échanges avec ~npc1_name_nation~ nous dérangent fortement. Arrêtez tout immédiatement !
+0x00000038 Vous nous avez trahis et vous avez décidé de faire la guerre à notre peuple. Nous ne le tolèrerons pas. Préparez-vous à la guerre.
+0x000000B4 Désolé mais c'est beaucoup trop.
+0x0000007C Chouette !
+0x00000086 Il est temps de conquérir cette planète.
+0x000000B2 On peut vous aider, mais ça aura un prix. Que dites-vous de ~offer_1~ Sporeflouz ?
+0x0000008F Hé ! Faut pas pousser, là...
+0x000000B3 OK, marché conclu.
+0x0000008D L'argent, vous devrez nous le prendre. Nous ne vous donnerons rien.
+0x0000008E Vous avez fait le bon choix.
+0x00000033 Vous nous attaquez, et chez nous ! Qu'est-ce qui motive tant d'inconscience ? Vous savez que nous ne saurons tolérer cela.
+0x000000BA un
+0x00000089 Nous avons gagné ! Soyons alliés, pour que le monde soit uni à jamais.
+0x0000002A Vous représentez une menace peu commune. Mais êtes-vous une force du bien ou du mal ?
+0x00000084 Il est temps de contrôler cette planète.
+0x0000002D Une grande alliance comme la nôtre défiera le temps ! Nous vous écoutons, cher voisin.
+0x00000059 Le plaisir est pour moi
+0x00000078 Pas grave...
+0x0000005A Oui, volontiers. Merci d'avance !
+0x000000B7 Merci pour l'argent !
+0x00000064 OK, OK. Nous nous rendons. En espérant que la pagaille qui règne à ~target_city_name~ vous plaît.
+0x00000063 Pardon, vous avez dit quelque chose ?
+0x000000A6 Quelle ville ?
+0x000000BB deux
+0x00000067 Bye.
+0x00000074 ~offer_2~ Sporeflouz
+0x00000057 Moi qui ai toujours compté sur la bonté de mon prochain…
+0x00000065 Bye.
+0x0000002C Nous vous saluons ! Dans le monde des affaires, mieux vaut agir que causer, et nous souhaitons conserver nos bonnes relations de voisinage. Que vous faut-il ?
+0x00000066 Votre religion a gagné en popularité à ~target_city_name~ ! Aussi allons-nous nous convertir. Faites passer la bonne nouvelle aux autres villes !
+0x00000058 Nous apprécions votre volonté d'améliorer les relations.
+0x000000BC trois
+0x0000009D Absolument. Nous sommes ravis de vous rejoindre.
+0x00000076 ~offer_4~ Sporeflouz
+0x0000002B Quel est votre but ?
+0x00000075 ~offer_3~ Sporeflouz
+0x0000005E Voici 1 000 Sporeflouz...
+0x0000003E Le conflit armé n'est jamais une solution, mais vous avez décidé d'attaquer notre ville. Vous n'avez pas idée de notre déception.
+0x0000005B Bien... Qu'allez-vous nous donner ?
+0x00000077 ~offer_5~ Sporeflouz
+0x0000005C Voici 4 000 Sporeflouz...
+0x0000005F Pas grave
+0x0000005D Voici 2 000 Sporeflouz...
+0x00000062 L'époque où nous communiquions et nous commercions est révolue. Préparez-vous à la guerre.
+0x00000098 C'est faisable. Content de nous voir parvenus à un accord.
+0x0000007A Désolé.
+0x00000052 Au revoir
+0x00000028 La Source se réjouit de notre alliance et de sa puissance. Parlez librement, mon ami.
+0x000000B8 C'est un plaisir…
+0x0000006B Bye.
+0x00000073 ~offer_1~ Sporeflouz
+0x0000006C Super, nous avons conquis ~target_city_name~ ! Ouais !
+0x0000006E ~target_city_name~ sera une belle conquête pour notre empire !
+0x0000006D Préparez-vous à nous voir débarquer. ~target_city_name~ est à nous.
+0x00000070 Tant mieux.
+0x0000007B Quelle générosité. Nous acceptons votre offre bien volontiers.
+0x00000026 Malgré des heures de réflexion, nous n'arrivons pas à vous cataloguer ami ou ennemi. Que voulez-vous ?
+0x00000072 Nous comprenons votre attachement à ~target_city_name~ ! Combien en voulez-vous ?
+0x0000006F ~target_city_name~ n'aura pas résisté longtemps !
+0x0000003F Votre puissance nous serait bien utile. Etes-vous prêts à combattre pour nous ?
+0x00000027 Nous vous percevons comme une force du bien. Que vous faut-il ?
+0x00000055 Je vous verrais bien décorer ma cheminée…
+0x000000B5 Très bien. On y va !
+0x000000A5 Une prochaine fois, peut-être...
+0x00000069 Bye.
+0x00000068 La prise de ~target_city_name~ fut une formalité. Tâchez de vous défendre la prochaine fois !
+0x00000056 Pas grave.
+0x0000008A J'espérais qu'un jour vous nous rejoindriez.
+0x0000008B Nous voulons avant tout être respectés. Aussi demandons-nous ~offer_1~ Sporeflouz.
+0x000000B6 Merci pour votre aide…
+0x00000029 Votre existence menace celle de cette planète. Que nous voulez-vous ?
+0x00000071 Nous vous rachetons ~target_city_name~ pour ~offer_1~ Sporeflouz. Alors ?
+0x00000079 Merci pour la perte de temps.
+0x00000060 Cette planète tremble face à notre armada. Vous n'y survivrez pas. Préparez-vous à la guerre.
+0x0000009E Hum... Allez, 2 000 Sporeflouz et c'est d'accord.
+0x00000054 A plus...
+0x0000009F Désolé. Cela ne nous paraît pas prudent en ce moment.
+0x0000009B C'est notre dernier mot. Au revoir.
+0x00000088 Nous acceptons avec bonheur votre reddition.
+0x00000015 Marché conclu ! Envoyez vite la marchandise !
+0x00000091 Vous gaspillez votre salive.
+0x0000008C Très bien. Nous tenons beaucoup à cette alliance.
+0x00000095 Désolé. Cela ne nous paraît pas prudent en ce moment.
+0x00000099 Merci. Au revoir.
+0x00000097 Excellent. Au revoir.
+0x00000085 Il est temps que cette planète connaisse La Vérité.
+0x00000087 Nous mesurons la gravité de la situation. Il est peut-être temps d'oublier l'emploi de la force.
+0x000000B9 Test du canal de communication, test...
+0x00000094 Vous pourriez couvrir nos pertes avec 4 000 Sporeflouz...
+0x00000083 Bonjour, ici ~target_city_name~ de la nation ~player_name_nation~. Alors, quoi de neuf ?
+0x00000053 Vos paroles illustrent votre sagesse.
+0x00000011 Très bien.
+0x00000061 Le monde doit s'unir autour d'une seule et même Foi. Vous apprendrez la Vérité comme tous ceux qui vous ont précédé.
+0x0000001E C'est noté. Au revoir.
+0x0000001C Vous êtes un dirigeant trop fantasque. Votre empire ne s'enrichira jamais.
+0x0000001A D'accord. A plus tard.
+0x00000035 Notre influence s'étoffe, encore et encore ! Dans notre croisade, nous avons conquis ~source_captured_npc_city_name~. Cette ville a rejoint notre nation.
+0x00000034 Nous avons conquis, cette triste ville, ~source_captured_player_city_name~. Mais elle aussi comprendra bientôt le sens véritable du mot "foi".
+0x0000006A C'est quoi, la chanson ? La musique ? Difficile à dire, mais vos citoyens l'ont décidé : ~target_city_name~ va rejoindre notre nation. Franchement, c'est trop de bonheur !
+0x0000002E Nos forces irrésistibles ont vaincu une de vos villes ! Etes-vous venu nous demander la restitution de ~source_captured_player_city_name~ ?
+0x00000036 Vous voulez nous briser le moral ? Sachez que si vous nous avez pris ~source_lost_city_to_player_name~, nous la reprendrons encore plus vite.
+0x0000002F Notre nation continue de s'étendre, puisque ~source_captured_npc_city_name~ nous a rejoints. Que nous voulez-vous exactement ?
+0x0000003A Nous avons racheté ~source_captured_npc_city_name~. Comme quoi notre nation peut conquérir autrement que par le fer.
+0x0000009C Nous sollicitons votre aide. Pouvez-vous déclarer la guerre à la ~npc1_name_nation~ ?
+

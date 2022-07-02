@@ -1,0 +1,89 @@
+﻿# capture - first, change
+
+0x00000900 Toto náboženské město jste získali vojenským způsobem. Pokud si jeho specializaci ponecháte, měli byste se zaměřit na města s nízkou spokojeností - jejich obyvatele jdou nejsnáze konvertovat.~br~Vyberte specializaci města.
+0x00000905 Koupili jste náboženské město. Pokud si jeho specializaci ponecháte, měli byste se zaměřit na města s nízkou spokojeností - jejich obyvatele jdou nejsnáze konvertovat.~br~Vyberte specializaci města.
+0x00000903 Toto obchodní město jste konvertovali náboženskými prostředky. Obchodní města mohou budovat obchodní cesty, jejichž prostřednictvím můžete spravovat vztahy a nakonec cizí města koupit. Vyberte specializaci města.
+0x00000904 Koupili jste vojenské město. Pokud mu ponecháte jeho specializaci, budete moci stavět vojenská vozidla na dobývání dalších měst. Vyberte specializaci města.
+0x00000902 Toto vojenské město jste konvertovali náboženskými prostředky. Pokud mu ponecháte jeho specializaci, budete moci stavět vojenská vozidla na dobývání dalších měst. Vyberte specializaci města.
+0x00000901 Toto obchodní město jste získali vojenským způsobem. Obchodní města mohou budovat obchodní cesty, jejichž prostřednictvím můžete spravovat vztahy a nakonec cizí města koupit. Vyberte specializaci města.
+
+# capture - not first, change
+
+0x00000304 Náboženské
+0x00000910 Koupili jste vojenské město.~br~Vyberte jeho specializaci.
+0x00000909 Toto obchodní město jste konvertovali náboženskými prostředky.~br~Vyberte specializaci města.
+0x00000303 Vojenské
+0x00000911 Koupili jste náboženské město. ~br~Vyberte jeho specializaci.
+0x00000305 Obchodní
+0x00000908 Toto vojenské město jste konvertovali náboženskými prostředky.~br~Vyberte specializaci města.
+0x00000300 Vojenské
+0x00000906 Toto náboženské město jste dobyli vojenskými prostředky.~br~Vyberte specializaci města.
+0x00000907 Toto obchodní město jste dobyli vojenskými prostředky.~br~Vyberte specializaci města.
+0x00000301 Náboženské
+0x00000302 Obchodní
+
+# Upgrades
+
+0x00000605 Fascinující novinka! Konečně se nám podařilo překonat gravitaci! Cestování vesmírem se stává skutečností. Stačí jen zanést ji do plánu nové lodi.
+0x00000601 Vaši průmyslově-vědečtí zaměstnanci ovládli vodní kolo a mechanický dopravník! S nimi můžeme stavět lodi a podmanit si moře!
+0x00000603 Úspěch! I nezkrotný vítr je nyní spoután naší technologií! Vzduchová tryska a větrubice nám umožní stavět vozidla, která se vznesou kilometry nad povrch naší planety!
+
+##############################
+#########
+# Tutorial cinematics
+
+0x0000010A Váš kmen vládne tomuto kontinentu a je připraven postoupit z prostého vesnického života do civilizovaného města a tím všechny předstihnout!
+0x00000108 Vaše jediné město bylo dobyto.
+0x00000710 Na vaše město útočí. Posilte obranu stavbou obranných věží, přidáváním budov a zvyšováním spokojenosti obyvatel.
+0x00000400 Jiný kmen vašeho druhu postavil na vašem kontinentu město! Můžete je přemoci, dokud jsou ještě slabí, nebo se s nimi pokusit navázat spojenectví.
+0x00000403 Gratulujeme!~br~Zabrali jste svůj první gejzír koření.~br~Tato těžební věž bude pro váš národ pravidelným zdrojem příjmu.
+0x0000010D Věk technologie a přepravy právě začal!~br~Vaše město se na planetě objevilo jako první, ale váš druh již není tak kompaktní…brzy se objeví další města, vybudovaná frakcemi vašeho vlastního druhu. Abyste mohli postoupit dál, musíte všechny zase sjednotit.
+0x0653ADAD Za chvíli se stanete součástí civilizace.
+0x00000213 Hledejte blízké gejzíry koření, jako je tento. Pak na něj klikněte a pošlete vozidlo, aby jej zabralo. Koření je cennou komoditou, jeho těžba naplní pokladnice vaší země.
+
+# Not In use
+
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet!  Click on your city hall to launch a spaceship and explore space!
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city!
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances!
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests!
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet.~br~Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000402 Jiný kmen postavil město na vašem kontinentu!~br~Možná mu budete chtít vládnout dokud je stále slabý nebo si vyberete spřátelení se a stanete se spojenci.
+0x0000010E ~blank text~
+0x0000010F ~blank text~
+0x00000110 ~blank text~
+0x00000212 [[[[[NOT IN USE]]]]] Toto je první vozidlo vaší flotily.~br~Vaším prvním úkolem je poslat toto vozidlo, aby zabralo gejzír koření.
+0x0000010C ~blank text~
+0x00000111 ~blank text~
+
+# capture - keep
+
+0x00000803 Toto vojenské město jste dobyli vojenskými prostředky.~br~Zůstává tedy vojenským městem.
+0x00000804 Toto náboženské město jste konvertovali prostřednictvím náboženství.~br~Zůstává tedy náboženským městem.
+0x00000805 Toto obchodní město jste získali obchodními prostředky.~br~Zůstává tedy obchodním městem.
+
+# Deleted
+
+0x0000011F DELETED
+0x00000100 DELETED
+0x00000101 DELETED
+0x00000112 DELETED
+0x00000114 DELETED
+0x00000113 DELETED
+0x00000600 DELETED
+0x00000500 DELETED
+
+# superweapons
+
+0x00000700 Váš útok ICBM dobyl svět.
+0x00000702 Vaše celosvětová fúze dobyla svět
+0x00000701 Váš mesiáš dobyl svět.
+

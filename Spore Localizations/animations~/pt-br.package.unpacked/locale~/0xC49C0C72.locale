@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Gerencie os objetivos e o enredo no Painel do Ato
+0x079A7CE1 Descrição do Ato
+0x079A7B8E Apresente o ato digitando aqui. Os jogadores verão isto no início de cada ato.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfera
+0x07639100 Defina a densidade da atmosfera. Nuvens pesadas produzem raios. Uma atmosfera de baixa densidade causará chuvas de meteoros!
+
+# EP1-TerraThemes
+
+0x0771EF15 Escolha um tema para o planeta.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Adicionando Objetivos
+0x07BB8BDE Cada Ato suporta no máximo três Objetivos. Remova um objetivo clicando na lata de lixo perto dele e reinicie este Tutorial a partir da lista de verificação.
+
+# EP1-WinLoseText
+
+0x0771E83A Digite o texto para as mensagens de derrota e vitória da sua aventura.
+0x07763B90 Texto de Vitória/Derrota
+
+# EP1-ClickGoalButton
+
+0x0762251C Painel de Objetivos
+0x0762251D Defina objetivos para o Capitão. Cada ato pode ter até três objetivos, que podem ser completados em qualquer ordem.~p~Os atos devem ter objetivos para que os jogadores possam vencer ou perder na sua aventura.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Defina o objetivo como “Falar Com” ou "Examinar". Personagens, Veículos e objetos podem ter um objetivo Falar Com ou Examinar cada, por ato.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Defina a personalidade do adversário para Agressiva.
+0x07621DD7 Comportamentos
+0x0797266C Experimente suas mudanças indo para o Modo de Teste
+0x077AD33C Defina a percepção do adversário para alcance máximo, para que ele possa ver o Capitão.
+0x0779D3EF Personalidades
+0x0779B5E8 Mova o cursor sobre a paleta do elenco para revelar o botão Painel de Comportamento.
+0x0779B5E7 Painel de Comportamento
+0x077AC9A2 Coloque este marcador em um membro do elenco para seguir.
+0x077AC9A1 Marcador Seguir
+0x077AC9D4 Arraste o marcador seguir e coloque-o no Capitão, no mundo.
+0x077AD164 Isso determina a distância em que este membro do elenco percebe e reage a outros objetos.
+0x077AD163 Raio de Percepção
+0x0779DB81 Selecione o botão movimento e então clique no botão Seguir.
+0x0775CE3E Adicione um Membro do Elenco
+0x0779D3F0 Defina a personalidade de um membro do elenco clicando no botão adequado. As personalidades vão de Pacífica a Agressiva.
+0x0779DB5F Este botão permite que você defina as opções de movimento do membro do elenco. Os tipos de movimento incluem Vaguear, Patrulhar, Seguir e Estacionário.
+0x0779DB5E Movimentação
+0x0779C5B4 Clique no botão do Painel de Comportamento
+0x078D7B6F Quando tiver colocado o capitão, clique com o botão direito no Painel do Herói para centralizar a câmera no Capitão, no mundo.
+0x0775CE3F Se ainda não tiver feito isso, adicione uma criatura à sua paleta do Elenco aqui. Arraste a criatura da paleta do elenco para colocar uma nova cópia no mundo.
+0x07621DD8 Ofereça um adversário ao seu Capitão usando o Painel de Comportamento. Aqui você pode definir Personalidade, Movimento, Percepção e Times.
+0x07B4EC8D Para copiar qualquer Membro do Elenco no mundo, clique e arraste a cópia enquanto segura ALT.
+0x07C74109 As mudanças feitas por você se aplicam a todos os Atos. Clique no botão Aplicação Global para desativá-lo. As futuras mudanças neste Membro do Elenco só serão aplicadas no Ato atual.
+0x07D23C43 Bom! Você deu a esta criatura uma personalidade Agressiva.
+0x07C743A7 Comportamentos Globais
+0x07C742C5 Clique no botão Aplicação Global e todas as configurações para este membro do elenco no ato atual serão aplicadas a todos os Atos.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paleta da Flora
+0x076390FE Selecione a paleta da flora para alterar a flora do seu planeta. A flora só é encontrada no terreno fértil e quando a temperatura for favorável. Há categorias de plantas grandes, médias e pequenas.
+
+# EP1-TerraMood
+
+0x0771F108 Você pode travar o tempo ou deixá-lo avançar normalmente.
+0x0771EFA4 Gire o ponteiro da Hora do Dia para a sua preferência.
+0x0771F133 Mova o controle da atmosfera para definir a densidade das nuvens. Atmosferas de baixa densidade causam chuvas de meteoros. Alta densidade causa tempestades de raios.
+0x0796DD5B Paleta do Humor
+0x0796DE16 Selecione a Paleta do Humor para definir a hora do dia, temperatura, atmosfera e o nível de água do planeta.
+0x079732F0 Atmosfera
+0x079732D9 Hora do Dia
+0x07A0112B Travar Tempo
+0x07957E9C Temperatura Planetária
+0x07957EAD Mova a barra deslizante para definir a temperatura do seu planeta.
+
+# Complexity Meter
+
+0x07957630 O medidor de complexidade mostra quantas mudanças ainda podem ser feitas no planeta
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Clique no botão Câmera Livre para entrar ou sair do Modo Câmera Livre.
+0x079709BB Câmera Livre
+
+### Checklist UI ###
+
+0x07735BDC Lista de verificação ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Aventuras podem ter Veículos
+0x07621438 Os veículos são membros do elenco. Como as criaturas, eles têm personalidade e comportamento definidos por você.
+
+### Tutorial Checklist
+
+0x079C1550 Criar uma Vila
+0x079C1527 Criar um Mundo
+0x079C1570 Adicionando Personalidade
+0x079C1523 Salvando
+0x079C1531 Controles Básicos
+0x079C152C Boas-vindas
+0x0797355A Controles de Câmera
+0x07970BD9 Painel do Ato
+0x079712E5 Objetivos com vários objetos
+0x07733143 Defina um objetivo para o Capitão
+0x07733140 Coloque um Capitão
+0x079692E4 Adicionar Sons
+0x07733141 Selecione um Elenco
+0x07733144 Definir Comportamentos
+0x0796B1E0 Definir Comportamentos do Veículo
+0x07C7ABAA Introdução
+0x079C1586 Faça um Jogo
+0x079C1565 Insira uma estrutura
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Fornecedor do Capitão
+0x079E7D0F O medidor de energia registra quanta energia é usada por algumas das habilidades e a quantidade armazenada e recarregada pelas baterias e geradores. ~p~Se ficar sem energia, você não poderá usar as suas habilidades. ~p~Puxe a alça de energia em qualquer acessório que a tenha para aumentar o seu nível de habilidade e o consumo de energia.
+0x079E7D0E Medidor de Energia
+0x07A8F04B Bem-vindo ao Fornecedor do Capitão. ~p~Complete Aventuras no modo Jogo Rápido e na Fase Espacial a fim de destravar novos acessórios para os seus Capitães. ~p~Eles aparecerão na guia Acessórios do Capitão.
+
+# EP1- ShowActUI
+
+0x07635ED1 Painel do Ato
+0x07972881 Defina a música para cada ato aqui.
+0x07972865 Música do Ato
+0x07635ED2 O painel do ato é o local em que você coloca o nome e a descrição dos atos individuais da sua aventura.~p~Elas podem ter até oito atos.~p~Você também pode selecionar aqui a música do ato para a aventura.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Pegue um bastão na paleta de Objetos do Elenco
+0x0771EAE0 Vamos dar ao Capitão alguma coisa para fazer
+0x0771EB72 Arraste um novo objetivo do ato II para o bastão
+0x0771EB1C Coloque o bastão no chão, perto do Capitão
+0x0771EC65 Defina o tipo de objetivo para Dar
+0x0771ECB5 Digite o texto para o cartão de objetivo, explicando-o para o jogador
+0x0771EC85 Coloque o segundo marcador em uma criatura no mundo
+0x0771ED0B Salve o seu trabalho clicando no botão Salvar a qualquer momento
+0x078DB94B Clique na paleta de objetos fixos.
+0x078DB6DF Objetos Fixos
+0x078DB94A Objetos Fixos
+0x078DB6E0 Clique e arraste qualquer objeto fixo até o mundo para começar.
+0x07763A67 Adicionar Ato
+0x0771EAC0 Para adicionar um segundo ato, clique aqui. O atual deve possuir um objetivo antes que você possa adicionar um novo.
+0x07B4E966 Salvando Aventuras
+
+# Checklist
+
+0x07A3CFA7 Você pode reativar os tutoriais no menu de Opções
+0x07912CD1 Lista de verificação
+0x07912D11 Clique nos itens da Lista de Verificação para se orientar durante a criação de uma Aventura.~p~Os tutoriais são destravados conforme você avança pela lista.~p~Abra-a e clique em qualquer item disponível.
+
+# EP1-ShowMinimap
+
+0x0775F221 Minimapa
+0x0771E3F9 O minimapa é útil para orientação nas suas aventuras. A posição do Capitão, Objetivos e Local Inicial são mostrados nele.
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Bem-vindo ao Criador de Aventuras
+0x0761D564 Crie aventuras para desafiar os jogadores de Spore em todo o mundo. Gaste algum tempo para se familiarizar com as ferramentas disponíveis.~p~Crie o seu mundo, povoe-o com criaturas de todos os tipos, estabeleça objetivos e conte uma história para divertir os jogadores do Spore.
+
+# Hint
+
+0x0771DE1F Digite o texto aqui para definir a fala do membro do elenco, que aparecerá na aventura.
+0x078D93DA Texto para Falar
+0x0771D3CF Para dar um título à sua aventura, clique na caixa nome e descrição.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Escolha o seu Capitão!
+0x07D087E0 Crie um novo Capitão ou selecione qualquer criatura que você tenha feito clicando no filtro "Todos". ~p~Seu capitão ganhará experiência (Pontos de Aventura) cada vez que você completar uma Aventura com sucesso. ~p~Capitães experientes ganham acesso a novos equipamentos e acessórios.~p~Escolha um capitão para começar a sua jornada.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minimapa
+0x079E8124 O minimapa é útil para se orientar no planeta. ~p~A posição do Capitão, os Objetivos e o Local Inicial aparecem no minimapa.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Agora teste a sua aventura novamente
+0x07763C47 Modo de Teste Novamente
+
+# EP1-Audio
+
+0x0796A67A Se ainda não tiver feito isso, selecione um objeto de áudio na Sporepédia e arraste-o até o mundo. Passe o mouse sobre ele para ouvir o som.
+0x0796A679 Objetos de Áudio
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paleta de Objetos Fixos
+0x0762143E Objetos fixos podem ser usados para decoração, ajudando os jogadores a se orientar. Ferramentas e objetos que podem ser pegos, movidos, dados como presentes ou derrubados também aparecem aqui.
+
+# EP1-PaintModeIntro
+
+0x076756BA Modo Terreno
+0x076756BB O Modo Terreno oferece temas e ferramentas para colorir o planeta da sua aventura.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Mude o alcance do som movendo o cursor sobre o objeto, segurando Shift e girando a roda do mouse.
+0x0771F1F1 Coloque o som selecionado no mundo.
+0x0795826C Mude a orientação selecionando o objeto e arrastando o anel de rotação.
+0x07972C1C Altere o volume selecionando o objeto e movendo a alça de volume.
+
+# Add a building
+
+0x079AC52F Adicionar Estruturas
+0x07C7361C Trabalhando com Estruturas
+0x07C73644 Segure a tecla Tab e passe o cursor do mouse sobre a estrutura para revelar as alças de modificação da rotação e ângulo. Segure Alt e arraste para copiar.~p~Criaturas e veículos podem não conseguir passar entre estruturas que estiverem próximas demais.
+0x07BB5926 Coloque Estruturas
+0x079AC7EF Se ainda não tiver feito isso, selecione uma estrutura na Sporepédia. Arraste-a até um local no mundo.
+0x079AC545 Para começar a criar uma vila, escolha a Paleta de Construção.
+
+# EP1-DragCreature
+
+0x075E4E54 Clique na criatura e arraste-a até um lugar no mundo próximo ao Capitão.
+
+# EP1-DragHero
+
+0x07577C95 Clique com o botão esquerdo no painel do herói e arraste o capitão até o mundo.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Use as barras deslizantes para mudar as cores dos terrenos férteis e estéreis. Nem sempre é possível ver a diferença.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Você pode acelerar o mundo clicando nestes botões
+0x0771E683 O que você escreve sobre o objetivo aparece no Cartão de Objetivo
+0x07763BB6 Botões de Velocidade
+0x0771E735 Para continuar editando, clique no botão Modo Construção.
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Segure o botão direito do mouse e mova o cursor sobre o planeta para olhar em volta
+
+# EP1-Teams
+
+0x0771F3ED Defina uma criatura para o time A para colocá-la no time do Capitão.
+0x0771F410 O time B é sempre contra o Capitão
+0x0771F426 Nenhum time definido significa que o personagem será neutro
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Pintura Planetária
+0x076390FC O terreno pode ser colorido por elevação, utilizando-se o Colorizador de Elevação de Terreno. As cores atuais combinam com o tema do seu planeta.
+0x07BBAF6C Para definir a cor da Água, da Atmosfera, das Praias e dos Penhascos, clique no ícone correspondente e selecione a cor na paleta de cores.
+0x07BBAF80 Para alcançar o visual desejado, tente mudar as cores do planeta.
+0x07BBAF62 Penhascos, Praias, Atmosfera, Água
+0x07D2278E Arraste um Marcador de Elevação até a elevação que deseja pintar.
+0x07973230 Pintar por Elevação
+0x079731E7 Selecione a paleta de Pintura Planetária
+0x07DB8058 Crie uma nova camada de cor clicando na barra de elevação do terreno.
+0x07D2274B Selecione uma cor para o marcador no Seletor de Cores. Depois, você pode removê-la, arrastando-a para fora da paleta.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Cartões de Missão da Aventura
+0x07634DAD Os cartões de missão mostram ao jogador qual é o objetivo atual.
+
+# EP1-CamZoom
+
+0x07563B2B Use a roda do mouse para aproximar ou afastar a câmera
+
+# EP1-FirstAdventure
+
+0x07D087E1 Bem-vindo à sua primeira Aventura!
+0x07D087E2 O seu Capitão ganhará experiência quando tiver completado esta aventura com sucesso. ~p~Você pode acompanhar o progresso do seu Capitão na Sporepédia. ~p~Quando estiver no planeta, controlará o Capitão da mesma forma que fazia com sua criatura no Estágio da Criatura. ~p~Vamos ver o que há de novo...
+
+##Terrain Mode items
+
+0x0762143F Elenco Disponível
+0x07621440 Todos os membros do elenco adicionados da Sporepédia para ser usados na sua aventura aparecem aqui.
+0x0791911C Flora
+0x07919119 Terraformação
+0x0791911B Clima
+0x0791911A Escolhendo um Tema
+0x079C153A Cores Planetárias
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Cuidado para manter o seu nível de energia alto o suficiente ou você não poderá usar algumas das suas habilidades. ~p~Equipe o seu Capitão com baterias e geradores para aumentar a sua energia.
+0x079E7E25 Energia
+
+# EP1-ClickButtonAgain
+
+0x07763AD7 Modo Construção Novamente
+0x07763AD8 Clique outra vez no botão Modo Construção
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Clique com o botão direito no adversário na paleta do elenco para centralizar a câmera nele.
+0x075E5364 Segure a tecla Shift e gire a roda do mouse sobre o membro do elenco para alterar seu tamanho.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Modo de Teste
+0x075F5A4F Clique no botão Modo de Teste para testar a sua aventura, enquanto estiver criando.
+
+# New Join with Sword
+
+0x07A81511 Objetivos com Dois Objetos
+0x078E92E3 Selecione o tipo de objetivo Levar para.
+0x07A81521 Pegue um Marcador de Objetivo e solte-o no primeiro de dois objetos que você deseja juntar.
+0x07A81620 Coloque o segundo marcador no objetivo Levar Para em um objeto ou criatura que possa fazer contato com o primeiro objeto.
+0x07A814D8 Os objetivos Levar para e Bloquear exigem dois objetos para serem completados. Um ou ambos precisam ser movíveis ou capazes de se moverem de forma independente. Levar para exige que o Capitão junte os objetos. Bloquear exige que o Capitão os mantenha separados.
+0x07BA7CC2 Objetivos com Dois Objetos (Parte 2)
+0x07BA7DAE Encontre ou coloque o segundo Objeto para este objetivo e arraste o segundo Marcador de Objetivo sobre ele para completar a sentença.
+
+# EP1-NameAdventure
+
+0x0771D3CE Nome da Aventura
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Este é o Painel do Elenco Utilizado
+0x076214A1 Tudo o que for adicionado à aventura aparece aqui.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paleta do Elenco de Criaturas
+0x075E079E Para selecionar a paleta do elenco de criaturas, clique com o botão esquerdo.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 A barra de progresso registra quantos objetivos foram cumpridos e quantos ainda faltam. ~p~Quando a barra estiver cheia, a aventura será completada com sucesso.
+0x079E8180 Barra de Progresso
+
+# EP1-Vehicles
+
+0x0796C959 Selecione o botão Comportamento do Veículo
+0x0796B4AC Paleta de Veículos
+0x0796C41F Mova o cursor sobre o novo membro do elenco para revelar o botão Comportamento.
+0x0796C41E Comportamento do Veículo
+0x0796B623 Adicionar um Veículo
+0x0771F308 Defina o Comportamento do Veículo
+0x0771F399 Para definir o segundo ponto na rota de patrulha do veículo, arraste o Marcador de Patrulha.
+0x0771F293 Adicione um veículo da Sporepédia ao Elenco. Então, coloque-o no mundo arrastando-o da paleta.
+0x0796CC7D Clique no Botão Movimento. Então, selecione a opção Patrulhar.
+0x0796B4AD Para adicionar veículos à sua aventura, selecione a paleta de veículos.
+0x07D23877 Ir-Para é similar, com a diferença que o personagem fica no último marcador.
+0x07D6257A Segure Alt e arraste o marcador para definir outro ponto além do primeiro. O veículo se moverá de uma ponta a outra do caminho de patrulha, fazendo a ida e volta do trajeto.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Painel de Áudio
+0x079694A7 Selecione essa paleta para adicionar sons e música à sua aventura.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A O cartão da missão mostra quais são os objetivos atuais. ~p~Complete todos os objetivos para avançar até o próximo Ato.
+0x079E8049 Cartão da Missão
+
+# EP1-SelectHero
+
+0x07578A4F Colocar Capitão
+0x07578A50 O Capitão é o astro da aventura. Este será o personagem do jogador.
+
+# EP1-TestModeIntro
+
+0x07632EEC Bem-vindo ao Modo de Teste
+0x07632EED O modo de teste oferece um meio de testar e jogar a aventura que você está criando.~p~Volte para o Modo Construção quando encontrar alguma coisa que queira mudar na sua aventura.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A50 Modo Construção
+0x075F5A51 Para retornar à edição, clique no botão Modo Construção.
+
+# EP1-Flora
+
+0x0771F197 Escolha uma nova flora para colocar no planeta. A flora é encontrada no terreno fértil, quando a temperatura for favorável.
+
+# EP1-DragGoal
+
+0x075F39B9 Coloque um Marcador de Objetivo em um membro do elenco no mundo para definir objetivos para o Capitão.
+0x07971E8D Os marcadores de objetivo são usados para definir objetivos para o Capitão em uma aventura. Os objetivos incluem Falar Com, Dar Presente, Destruir e Fazer Amizade.
+0x07971D33 Definir um Objetivo
+
+##End
+
+0x0762407B Coloque sons na Aventura arrastando-os para o mundo. Ajuste as alças para definir a distância em que os sons podem ser ouvidos e ativados.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Selecione a Paleta de Temas.
+0x076390FA Os temas dão ao seu planeta um novo estilo colorido e completo.
+0x079207E3 Paleta de Temas
+0x07920810 Temas
+
+#Test Mode Goal Cards
+
+0x07A80599 O Modo de Teste permite que você pule objetivos, clicando no marcador próximo ao objetivo.
+0x07A805ED Pulando Objetivos
+0x07A805F9 Pulando Atos
+0x07A805FE Você pode pular os atos clicando nas setas, no topo do cartão de objetivo.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Use as Alças do Carimbo para mudar o tamanho, a intensidade e a orientação.
+
+# EP1-SelectCreature
+
+0x075E2C84 Adicionar uma Criatura
+0x075E2C85 Para colocar uma criatura em sua aventura, clique com o botão esquerdo e arraste-a.~p~Se nenhuma estiver presente, abra a Sporepédia para selecionar alguma.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Bem-vindo ao Modo de Terraformação.
+0x0791F5B7 Paleta de Terreno
+0x07959720 Use esses carimbos para tornar o terreno montanhoso e irregular.
+0x07958D39 Selecione qualquer Carimbo de Terreno, arraste-o e solte-o no planeta.
+0x0791F5B8 Montanhas
+0x07639102 Aqui, você aplica mudanças no terreno, seleciona a Flora e define o ambiente do planeta.
+0x07B3A935 Para acessar os Carimbos de Terreno, selecione a Paleta de Terreno.
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Use o comportamento Nascendo para fazer as criaturas se multiplicarem e regenerarem.
+0x07A032FB Nascendo
+0x07A03155 Para definir um limite de tempo em um ato, clique no botão Relógio do Ato. Então, defina o tempo que você deseja dar aos jogadores para cumprirem os objetivos naquele ato.
+0x07A03396 A frequência define a taxa em que os nascimentos ocorrem. O limite define quantas podem existir no mundo ao mesmo tempo.
+0x07A034A1 Os objetos do jogo devem ser testados. Assegure-se de usar o modo de testes com frequência.
+0x07A033EF Os objetos do jogo podem ser usados para tornar uma aventura mais desafiadora e divertida.~p~Escolha um na Sporepédia e coloque-o no mundo.
+0x07A033E5 Objetos do Jogo
+0x07A02DE0 Selecione um objeto portátil na Sporepédia e arraste-o até o mundo.
+0x07A02DD5 Objeto Portátil
+0x07A02E13 Você pode pegar, carregar ou dar objetos portáteis para outras criaturas.
+0x07A03149 Relógio do Ato
+0x07A02FFC Imagem da Capa da Aventura
+0x07A03553 Tire uma foto para a capa no Modo de Teste clicando no botão Câmera.~p~Ele aparecerá no painel Nome e Descrição
+0x07A0304F Para criar a capa da sua aventura, que será mostrada na Sporepédia, posicione a câmera no local desejado.~p~Abra o painel Nome e Descrição e clique com o botão esquerdo no botão Câmera.~p~Você pode escolher a opção que melhor representa a sua Aventura.
+
+# EP1-CamRotate
+
+0x07563B2A Para girar e mover a câmera, clique no botão central do mouse e mova o cursor. O manual oferece uma lista de teclas que você pode usar.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Estruturas
+0x0762143A Suas criações feitas no Criador de Estruturas são boas adições às aventuras. As estruturas podem pertencer a um time e falar mensagens para o jogador. Elas também podem ser danificadas por armas avançadas. NPCs agressivos podem atacar uma estrutura neutra ou que pertença ao outro time.
+

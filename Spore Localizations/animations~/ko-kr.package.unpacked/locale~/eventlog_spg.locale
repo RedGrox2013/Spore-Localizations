@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 천체 ~star_name~의 행성 ~planet_name~은 문명 단계로 진화했습니다!
+0x06771171 천체 ~star_name~의 행성 ~planet_name~은 우주 단계로 진화했습니다!
+0x067710B2 천체 ~star_name~의 행성 ~planet_name~은 부족 단계로 진화했습니다!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 잠금 해제된 배지
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 당신이 이 도구를 사용하려면 반드시 동물이 존재해야 합니다!
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 동맹의 우주선을 함대에 추가할 수 있는 권한을 얻었습니다.
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A 제국 행성에만 이 도구를 사용할 수 있습니다.
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD 식민지가 스파이스에서 너무 멀리 떨어져 있습니다.
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 물 위에서 이 도구를 사용할 수 없습니다.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 채굴한 스파이스.
+
+#standard....
+
+0x0000000B 탐험에 실패했습니다. 예인선을 기다리는 편이 좋습니다.
+0x00000016 자신 소유의 건물을 부수고 있군요.
+0x0000003F ~race~와(과) ~race2~이(가) 동맹을 형성했습니다.
+0x00000035 동맹 함대의 우주선 한 대가 파괴되었습니다!
+0x00000003 당신의 동맹이 함대에 합류할 우주선을 새로 보내왔습니다.
+0x0000001A ~race~와(과) 동맹이 끝났습니다.
+0x04D28917 이제 새로운 도구를 사용할 수 있습니다.
+0x04E3AB1A 식민지 안에 그것을 놓을 수 없습니다.
+0x00000034 그 도구를 사용할 돈이 충분하지 않습니다.
+0x00000006 예언이 틀렸습니다! 이 부족은 당신의 신앙심이 약하다고 생각합니다.
+0x06159AE6 ~race~이(가) 동맹에 대한 흥미를 잃고 있습니다. 방문해 주십시오.
+0x00000040 ~race~와(과) ~race2~ 사이의 동맹이 결렬됐습니다.
+0x00000002 당신이 도움을 충분히 받은 것을 보고 당신의 동맹 함대가 고향으로 떠났습니다.
+0x00000037 그들을 쏘면 그들도 당신을 쏠 겁니다.
+0x0000001C 카고 홀드가 꽉 찼습니다. 슬롯 몇 개를 빼야 합니다.
+0x0000000C 안전한 식민지 중 하나로 날아가서 당신의 우주선을 수리하십시오.
+0x00000022 ~generic_name~ 종족이 굶어서 멸종했습니다.
+0x06170F80 이 도구에는 발사할 대상이 필요합니다.
+0x00000045 그록스 인지 미터가 방금 내려가서 '좀 무서움'을 가리켰습니다.
+0x00000036 굉장한 유물이 새로 발견되었습니다.
+0x0000003E ~race~와(과) ~race2~이(가) 평화 협정에 서명을 했습니다.
+0x00000019 고향으로 돌아가십시오. 새로운 임무가 있습니다.
+0x061DBC92 대상이 범위 밖에 있습니다.
+0x04E39F9A 행성마다 하나씩만 보유할 수 있습니다!
+0x00000017 ~planet_name~의 모든 부족이 당신을 숭배하고 있습니다!
+0x04EA4FD8 행성을 T1으로 개발하여 행성에 있는 그록스를 없앴습니다!
+0x0541A247 식민지를 향상할 생태계 일부를 완성했습니다.
+0x04F615F5 저장하려면 행성을 떠나야 합니다.
+0x04ED0A12 42가지의 환상적인 도구를 받아서 희귀한 은하계 형성을 발견했습니다.
+0x04EA4FD9 감지기가 행성의 거주자를 파악하는 데 실패했습니다.
+0x00000041 ~race~ 제국이 파괴되었습니다.
+0x00000047 그록스 인지 미터가 '좀 무서움'을 가리키고 있습니다.
+0x00000004 ~race~제국이 당신에게 전쟁을 선언했습니다. 전투 준비를 하십시오.
+0x065BCDA0 조심: 다른 행성에서 오브젝트를 훔치면 그 지역의 제국이 노하게 됩니다.
+0x00000042 그록스 인지 미터가 방금 올라가서 '그렇게 무섭지 않죠. 무섭습니까?'를 가리켰습니다.
+0x00000048 그록스 인지 미터가 '매우 무서움'을 가리키고 있습니다.
+0x0000001F ~generic_name~은(는) 멸종했습니다. 서로 너무 가까이 두고 있군요. 행성의 다른 쪽에 놓아보십시오.
+0x0000001B 생명 유지는 중요합니다!
+0x00000020 ~generic_name~ 종족이 식물 부족으로 멸종했습니다.
+0x0546A708 이 야생 보호 구역에서는 동물이 살 수 없습니다.
+0x00000032 식민지를 업그레이드하려면 건물을 추가하십시오.
+0x05C2BC26 식물을 키우기 전에 적어도 한 줄을 식물과 동물로 채워야 합니다.
+0x04F77C3E 그 종족이 이미 이곳에 나타났습니다.
+0x04F7B030 육식 크리처는 이 행성에서 살 수 없습니다. 초식 크리처를 더 추가하십시오.
+0x06527A69 ~race~과의 무역로가 단절됐습니다.
+0x06527A66 ~race~이(가) 당신의 무역로에 관심을 잃고 있습니다. 관계를 개선하십시오!
+0x06037BB6 수면 상승으로 이 행성에서 멸종한 것이 있습니다.
+0x00000021 ~generic_name~이(가) 멸종했습니다.
+0x00000011 그만! 해적들이 ~planet_name~을(를) 약탈하고 있습니다.
+0x04BD78A5 이 행성에는 적대감이 없으므로 당신을 도울 수 있습니다.
+0x00000049 관계가 나빠져서 ~race~ 제국이 임무를 취소했습니다.
+0x04BD7870 당신을 도와줄 동맹이 없습니다!
+0x04BD78A0 당신의 동맹들이 이미 당신을 돕고 있습니다!
+0x00000001 당신의 고향에서는 그 도구를 사용할 수 없습니다.
+0x00000043 그록스 인지 미터가 방금 내려가서 '그렇게 무섭지 않죠. 무섭습니까?'를 가리켰습니다.
+0x00000028 식물은 물속에서 살 수 없습니다. 육지에 심으십시오.
+0x05483AB4 ~creature_name~을 야생 보호 구역에 추가하였습니다. ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ 중에서 ~animal_count~마리가 금렵구에서 살아남았습니다.
+0x0000004A 독성이 너무 강해서 당신의 짐은 억류되었습니다. 소각하고 있습니다…
+0x057F4C52 에너지가 충분하지 않아 그 도구를 사용할 수 없습니다.
+0x0000003C 당신을 숭배하는 도시에 가지 못했군요. 다른 시도를 해보십시오.
+0x05790C96 ~race~로부터 전갈이 왔습니다!
+0x00000026 세계를 확장하십시오. 하지만 한 번에 하나씩이어야 합니다.
+0x0580C3FA 다른 제국의 행성에서만 그 도구를 사용할 수 있습니다.
+0x0000001D ~tool_name~으로 ~count~번 돌격했습니다.
+0x0000003B 이 행성의 모든 도시가 지금 당신을 숭배하고 있습니다!
+0x05807D8E ~race~ 제국이 당신과의 전쟁을 중단했습니다.
+0x0000003A 여기에 정착하면 안 됩니다. ~star_name~계는 이미 다른 종족이 차지했거든요.
+0x00000018 ~planet_name~에 식민지를 건설했습니다!
+0x0000002F 물속에 식민지를 건설할 수 없습니다. 육지에 식민지를 만드십시오.
+0x00000031 이 행성은 이미 주인이 있습니다.
+0x0000002E 동물은 용암에서 살 수 없습니다. 육지에 놓으십시오.
+0x00000046 그록스 인지 미터가 방금 올라가서 '매우 무서움'을 가리켰습니다.
+0x00000005 ~planet_name~의 숭배자들이 첨단 문명인이 되었습니다.
+0x0000002A 식물은 용암 속에서 살 수 없습니다. 육지에 심으십시오.
+0x0591CCD5 희귀한 은하계 형성을 발견했습니다.
+0x0591CCD6 독특한 행성을 발견했습니다!
+0x00000044 그록스 인지 미터가 방금 올라가서 '좀 무서운 것 같음'을 가리켰습니다.
+0x00000029 이 행성은 지역 생태계에 맞는 크기가 아닙니다. 다른 크기의 식물을 선택해보십시오.
+0x0637C896 함정입니다! 해적이 당신을 매복했습니다!
+0x0637C897 수집: ~tool_name~.
+0x0000002B 그 종족은 물속에서 살 수 없습니다. 육지에 배치하십시오.
+0x00000024 ~star_name~계에서 ~race~ 제국이 힘을 잃었습니다.
+0x00000023 적의 우주선이 파괴되었습니다!
+0x04E38CF9 식민지 행성에서만 그 도구를 사용할 수 있습니다.
+0x0000003D ~race~ 제국이 ~race2~ 제국에게 전쟁을 선포했습니다.
+0x0000000E 탐색에 성공했습니다. Spore피디아의 모든 데이터를 추적했습니다.
+0x0000002C 초식동물은 이 행성에서 살 수 없습니다. 식물을 더 추가하십시오.
+0x06707FAA 생태학적 영역은 가득 찼으며 다른 종을 부양할 수 없습니다.
+0x066F10AB 당신의 고향으로부터 메시지가 들어왔습니다!
+0x066F10B8 당신의 식민지로부터 메시지가 들어왔습니다!
+0x0000000F 이 행성은 당신이 개발 점수를 올리지 않으면 식민지를 추가로 지원할 수 없습니다.
+0x04F7B80D 여기서 살아남으려면 ~planet_name~ 의 개발 점수를 올려야 합니다.
+0x065BCDA7 조심: 시민을 납치하면 제국이 노하게 됩니다.
+0x0000001E 개발 점수가 떨어져서 이 행성에서 멸종한 것이 있습니다.
+0x0000000D ~planet_name~의 개발 점수는 지금 ~terraform_level~입니다.
+0x0541A219 행성의 개발 점수를 다졌습니다.
+0x0567757C ~star_name~ 태양계의 무역 파트너가 당신을 좋게 보고 있습니다. ~race~가 외교적으로 간청을 할 것 같습니다.
+0x00000008 지금 이 행성의 ~count~ of ~tribe_count~ ~^p^count^부족^부족들~이 당신을~^p^count^숭배^숭배~합니다!
+0x00000010 ~rare_count~개의 ~rare_group~의 수집품에서 ~rare_name~(을)를 발견했습니다.
+0x04E3AAFD 육지에 배치해야 합니다!
+0x00000025 ~race~이(가) ~star_name~을 장악하고 새 행성을 식민지로 만들었습니다!
+0x00000027 납치된 사람들이 떨어지면 그들이 죽을 겁니다. 무사히 착지할 때까지 클릭하고 계세요.
+0x00000039 이 행성에 있는 ~city_count~개의 ~^p^count^도시^도시들~ 중 ~count~개의 도시가 당신을 ~^p^count^숭배^숭배~하고 있습니다!
+0x0000002D 높은 고도에서 크리처가 떨어지면 그들이 죽을 겁니다. 착지할 때까지 클릭하고 계세요.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 제국의 식물에 이 도구를 사용할 수 없습니다.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 스파이스 근처에 식민지를 만들어야 합니다.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 야생 보호 구역 행성에서 이 도구를 사용할 수 없습니다.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 야생 행성에 이 도구를 사용할 수 없습니다.
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 이 도구는 도시에서는 사용할 수 없습니다.
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BAC9F 에픽 크리처에 이 둘을 사용할 수 없습니다.
+0x0654CA48 한 도시가 당신에게 항복했습니다.
+0x0654C9DF 이 행성이 항복했습니다. 이 행성계에는 아직 행성이 더 있습니다.
+0x065BFFFA 당신은 스파이스를 더 이상 모을 공간이 없습니다.
+0x064C024E 식민지 편집기로 들어가려면 행성의 개발 점수를 올려야 합니다.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F 미니유를 이미 가지고 있습니다.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 다른 우주선을 함대에 들일 여유가 없습니다.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC 너무 높아서 이 도구를 사용할 수 없습니다.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 무역로가 있는 계에서만 이 도구를 사용할 수 있습니다.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA 이 행성의 개발 점수가 너무 낮아서 그 도구를 사용할 수 없습니다.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 식민지가 스파이스에 너무 가깝습니다.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 이 도구를 사용할 수 없습니다. 행성이 최고 레벨에 있습니다.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x03FFE7FB 식물 ~game_plant_name~이(가) 이미 감지되었습니다.
+0x03FFE803 ~creature_name~이(가) 이미 감지되었습니다.
+0x043AD9F2 ~ufo_name~이(가) 이미 감지되었습니다.
+0x04374125 ~building_name~이(가) 이미 감지되었습니다.
+0x04377196 ~vehicle_name~이(가) 이미 감지되었습니다.
+0x04374114 새로운 건물, ~building_name~이(가) 감지되어 Spore피디아에 추가되었습니다.
+0x04377191 새로운 유닛, ~vehicle_name~이(가) 감지되어 Spore피디아에 추가되었습니다.
+0x043AD9E0 새로운 우주선, ~ufo_name~이(가) 감지되어 Spore피디아에 추가되었습니다.
+0x03FFE77B 새로운 식물, ~game_plant_name~이(가) 감지되어 Spore피디아에 추가되었습니다.
+0x03FFE7FF 새로운 크리처, ~creature_name~이(가) 감지되어 Spore피디아에 추가되었습니다.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 당신은 이 행성에서 모놀리스를 사용할 수 없습니다!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 구조물에 너무 가까워서 그 도구를 사용할 수 없습니다.
+

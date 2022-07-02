@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F Оптимистичный капитан
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD Справедливый капитан
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 Благородный капитан
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 Благочестивый капитан
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 Уравновешенный капитан
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 Бережливый капитан
+
+# Zealot
+
+0x07CEA308 Капитан-пророк
+0x07CEA307 Капитан-епископ
+0x07CEA309 Святой
+0x07CEA306 Капитан-аббат
+0x07CEA303 Капитан-монах
+0x07CEA302 Капитан-служка
+0x07CEA305 Капитан-проповедник
+0x07CEA304 Капитан-священник
+0x07CEA300 Капитан-идолопоклонник
+0x07CEA301 Капитан-верующий
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 Милосердный капитан
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA Смелый капитан
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E Очаровательный капитан
+
+# Diplomat
+
+0x07CEA407 Капитан-министр
+0x07CEA406 Капитан-представитель
+0x07CEA405 Капитан-советник
+0x07CEA400 Капитан-ассистент
+0x07CEA404 Капитан-присяжный
+0x07CEA403 Капитан-секретарь
+0x07CEA402 Капитан-адъютант
+0x07CEA401 Капитан-атташе
+0x07CEA409 Посол
+0x07CEA408 Капитан-уполномоченный
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Капитан-рекрут
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 Спокойный капитан
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB Рассудительный капитан
+
+# Shaman
+
+0x07CEA700 Капитан-собиратель
+0x07CEA702 Капитан-охотник
+0x07CEA701 Капитан-жнец
+0x07CEA709 Оракул
+0x07CEA708 Капитан-провидец
+0x07CEA707 Капитан-чревовещатель
+0x07CEA704 Капитан-пряха
+0x07CEA703 Капитан-воспеватель
+0x07CEA706 Капитан-возжигатель
+0x07CEA705 Капитан-повар
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 Универсальный капитан
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C Раса: ~ep1_captain_species_name~
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F Мудрый капитан
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 Праведный капитан
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 Предприимчивый капитан
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 Чуткий капитан
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 Высокоморальный капитан
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A Щедрый капитан
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 Веселый капитан
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B Неспокойный капитан
+
+# Trader
+
+0x07CEA609 Олигарх
+0x07CEA608 Капитан-магнат
+0x07CEA605 Капитан-управляющий
+0x07CEA604 Капитан-спекулянт
+0x07CEA607 Капитан-президент
+0x07CEA606 Капитан-заместитель
+0x07CEA603 Капитан-продавец
+0x07CEA600 Капитан-шестерка
+0x07CEA602 Капитан-контрабандист
+0x07CEA601 Капитан-грузчик
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE Тихий капитан
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 Сильный капитан
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D Последовательный капитан
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 Игривый капитан
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B Умный капитан
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A Упорный капитан
+
+# Wanderer
+
+0x07CEA908 Капитан-звездооткрыватель
+0x07CEA909 Покоритель галактики
+0x07CEA905 Капитан-исследователь
+0x07CEA904 Капитан-первопроходец
+0x07CEA906 Капитан-путешественник
+0x07CEA907 Капитан-пионер
+0x07CEA903 Капитан-следопыт
+0x07CEA900 Капитан-бродяга
+0x07CEA902 Капитан-странник
+0x07CEA901 Капитан-путник
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 Беспощадный капитан
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 Сочувствующий капитан
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 Находчивый капитан
+
+# Warrior 	
+
+0x07CEA803 Капитан-сержант
+0x07CEA809 Главнокомандующий
+0x07CEA805 Капитан-лейтенант
+0x07CEA804 Капитан-майор
+0x07CEA806 Капитан-офицер
+0x07CEA808 Капитан-генерал
+0x07CEA807 Капитан-командир
+0x07CEA802 Капитан-наемник
+0x07CEA801 Капитан-боец
+0x07CEA800 Капитан-головорез
+
+# Scientist
+
+0x07CEA501 Капитан-механик
+0x07CEA500 Капитан-интерн
+0x07CEA503 Капитан-инженер
+0x07CEA502 Капитан-исследователь
+0x07CEA509 Гений
+0x07CEA508 Капитан-теоретик
+0x07CEA505 Капитан-профессор
+0x07CEA504 Капитан-изобретатель
+0x07CEA507 Капитан-ученый
+0x07CEA506 Капитан-доктор
+
+# Bard
+
+0x07CEA103 Капитан-подпевала
+0x07CEA104 Капитан-музыкант
+0x07CEA101 Капитан-фанат
+0x07CEA102 Капитан-настройщик
+0x07CEA105 Капитан-исполнитель
+0x07CEA108 Капитан-звезда
+0x07CEA109 Суперзвезда
+0x07CEA106 Капитан-артист
+0x07CEA107 Капитан-знаменитость
+0x07CEA100 Капитан-поклонник
+
+# Ecologist
+
+0x07CEA202 Капитан-ботаник
+0x07CEA203 Капитан-заводчик
+0x07CEA200 Капитан-полольщик
+0x07CEA201 Капитан-садовник
+0x07CEA204 Капитан-фермер
+0x07CEA205 Капитан-разводчик
+0x07CEA206 Капитан-селекционер
+0x07CEA207 Капитан-генетик
+0x07CEA208 Капитан-философ
+0x07CEA209 Гуру
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 Надежный капитан
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 Отважный капитан
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 Стойкий капитан
+
+# Knight
+
+0x07CEAA05 Капитан-страж
+0x07CEAA07 Капитан-паладин
+0x07CEAA06 Капитан-рыцарь
+0x07CEAA09 Лорд
+0x07CEAA08 Капитан-дворянин
+0x07CEAA01 Капитан-подмастерье
+0x07CEAA00 Капитан-бродяга
+0x07CEAA02 Капитан-сквайр
+0x07CEAA04 Капитан-меченосец
+0x07CEAA03 Капитан-путешественник
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

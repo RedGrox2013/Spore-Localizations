@@ -1,0 +1,269 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000CA ...
+0x000000FE Tuhoathan vain hohtavat otukset. Kiitos.
+0x000000EA Ai niin, vielä olisi yksi juttu.
+0x00000097 Ehkä joskus toiste. Nähdään taas.
+0x0000003E Voi, ihanaa! Oi tätä ilon päivää. Kiitos, että armahdit noita tuskaisia otuksia heidän hädässään.~p~Ennen palkkaamistasi lähetimme matkaan joukon eliittisotilaitamme, mutta karaistuneiden sotilaidenkaan sydän ei kestänyt noiden viattomien poloisten katsetta – nehän olivat vain sairaita raukkoja.~p~Onneksi sinulla ei ollut mitään tunnontuskia tehtävän suorittamisessa. Voi poloisia, voi poloisia.
+0x00000002 Voi, olemme niin onnekkaita, kun tulit mukaan. Meillä on kiireinen tehtävä, mutta olemme kyllä liian hyväsydämisiä suorittaaksemme sen itse. Tämä on liian kamalaa!~p~Kyseessä on hellyttävä ~mission_target_animal_species~. ~mission_num_kills_needed~ lajin edustajaa on sairastunut pelättyyn ötykuumeeseen! Jos tauti leviää, se voi pyyhkäistä mennessään koko lajin.~p~Ei ole vaihtoehtoja. Sairastuneet eläimet pitää tuhota.~p~Maksamme tästä ikävästä työstä hyvin, ~mission_rewards~ spaaleria. Miltäs kuulostaa?
+0x000000D8 Tarpeettomien eläinten karsinta on meneillään planeetalla ~mission_target_planet~. Ota osaa tähän.
+0x00000023 Olen pasifisti. En ryhdy tällaiseen.
+0x0000007D Suuntaa planeetalle ~mission_target_planet~ ja tuhoa lajin ~mission_target_animal_species~ hohtavat edustajat. Valitettavasti sinulla on vain ~mission_time~ sektonia aikaa pelastaa lajimme. Älä missään nimessä ammu muita lajeja, kalliita kotejamme tai sen puoleen meitäkään.~p~Toimi nopeasti, ennen kuin ~mission_target_animal_species~ ehtii aiheuttaa enempää vahinkoa.
+0x000000A4 Vastuuton asenteesi on pantu merkille.
+0x0000006B Selvä homma. Ymmärrän kyllä. Palaan kohtapuoliin.
+0x0000000E Geeniterroristit ovat muuntaneet erään planeetalla ~mission_target_planet~ asuvan lajin DNA:ta, ja nyt siitä on tullut uhka muille eläimille ja jopa kansalaisillemme. Voisitko auttaa meitä?
+0x0000007C Myönnämme sinulle luvan matkata planeetalle ~mission_target_planet~ ja tuhota lajin ~mission_target_animal_species~. Saavuttuasi perille sinulla on kuitenkin vain ~mission_time~ sektonia aikaa suorittaa tehtäväsi. Älä ammu rakennuksia, planeetan kansalaisia tai viattomia eläimiä.
+0x000000B1 Haluaisin kysyä sinulta jotain.
+0x000000FF Tehtävä epäonnistui. Liian monta otusta tuhottu tarpeettomasti.
+0x000000BB Hupsista. Olen pahoillani. Hyvästi.
+0x000000C8 Ai niin, vielä olisi yksi juttu.
+0x00000077 Ne demoniset otukset pitää polttaa tuhkaksi. Kiiruhda planeetalle ~mission_target_planet~, joka on tähtijärjestelmässä ~mission_target_star~. Kun pääset perille, sinulla on ~mission_time~ sektonia aikaa varmistaa, että laji ~mission_target_animal_species~ saa tuntea Paten vihan. Säästä kaikki Pateen uskovat, mutta pahuuden tulessa kytevät demonit saat pyyhkäistä takaisin hornaan.
+0x00000021 Kuinka löydän oikean kohteen?
+0x000000A5 Kuinka eriskummallista. Hyvästi.
+0x00000092 Meidän pitää suorittaa parannusseremonia, jotta selviämme tämän hylkäyksen aiheuttamista negatiivisista tunteista.
+0x0000004B Minulla olisi vielä yksi kysymys...
+0x000000D5 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x0000001F Voisiko joku neuvoa oikean reitin?
+0x00000003 Kaipaatko jotain tekemistä? Tottahan minulta jotain löytyy, millä pääsen sinusta eroon. Eikun siis jotakin tekemistä sinulle.~p~Hmm. Mitähän sitä... Jospa... tuota... tuhoa vaikka ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^otus^otusta~.~p~Hmm. Siihen saattaisi tosiaan kulua jonkin aikaa. Teepä niin.~p~Me korvaamme sitten vaivasi. Miltäs ~mission_rewards~ spaaleria kuulostaisi? Saako sinut sillä katoamaan?
+0x00000099 Haluat näköjään harkita tilannetta hetken. Hyvästi.
+0x00000062 Voinko kysyä jotakin?
+0x00000025 Minä... tuota... olen nyt vähän ristiriitaisessa tilanteessa. Ei tämä oikein onnistu.
+0x0000000B Paten lakien mukaan eläinten tulee auttaa uskonsotureita. Tästä huolimatta olemme hiljattain kärsineet eläinten hyökkäyksistä! Autatko meitä tuhoamaan tämän oikeudenvastaisen eläinlajin?
+0x0000005C Olen vain arvoton pikku otus, joka pakon edessä pyytää saada huomauttaa teidän mahtavuudellenne, että ~mission_target_animal_species~ on yhä elossa, toisin kuin tehtävälokiinne määritellyssä sopimuksessa edellytetään. Matkaisitteko planeetalle ~mission_target_planet~ ja tuhoaisitte lajin ~mission_target_animal_species~? Kai palkkiomme yhä kelpaa teidänkaltaisellennekin ylevyydelle?
+0x00000057 Ai niin, vielä olisi yksi juttu.
+0x0000006A Hmm, ymmärrän. Nyt tajusin.
+0x0000001E Kerro toki lisää.
+0x000000A2 Sopimuksemme tietoisen huomiottajättämisen vuoksi suurneuvoston on harkittava uudelleen kantaansa lajiasi kohtaan.
+0x00000088 Voi harmi ja niisk, onpa kovin ikävää. Taidat sitten matkata jonnekin kovin kaukaiseen galaksiin kauas täältä. Vähintään poimu ysillä sitten, eikö niin?~p~Olen nauttinut kovasti keskusteluistamme, ja onhan meillä on aina muistot yhteisestä ajastamme.~p~Vaan lähde jo! Matkaa nopeasti ja kauas.~p~Näkemiin.
+0x00000087 Voi ei! Kun näimme sinut, meissä heräsi toivonkipinä. Toivoimme niin kovasti, että olisit voinut pelastaa lajin ~mission_target_animal_species~ karmealta kohtalolta.~p~Nyt mikään ei voi estää ötykuumetta leviämästä! Hyvästi vaan, ~mission_target_animal_species~.
+0x00000075 Matkaa heti planeetalle ~mission_target_planet~, missä sinulla on ~mission_time~ sektonia aikaa tuhota lajin ~mission_target_animal_species~ epäpyhät hirviöt. Älä vahingoita viattomia elämänmuotoja tai niitä, jotka ovat ottaneet Paten sydämeensä. Muutoin saat tuta pyhän vihan.
+0x000000FD Onnistuit! Kaikki lajin ~mission_target_animal_species~ merkityt otukset on eliminoitu.
+0x000000C9 Minulla olisi pari kysymystä ennen kuin lähden.
+0x000000D3 Anteeksi vaan, että häiritsin. Nähdään taas.
+0x0000003A Ei onnistu, en tasan aio tappaa eläimiä!
+0x0000006F Haluat näköjään harkita tilannetta hetken. Hyvästi.
+0x000000FC ~mission_num_eradicated_creatures~ eliminoitu, vielä eliminoitavana ~mission_num_diseased_creatures_left~ lajin ~mission_target_animal_species~ ~^p^mission_num_diseased_creatures_left^otus^otusta~.
+0x000000DD Matkaa planeetalle ~mission_target_planet~. ~group:star_clue~.~p~Eliminoi ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^hohtomaalattu otus^hohtomaalattua otusta~. Siinä kaikki, mitä sinun tarvitsee tietää.
+0x00000037 Joo, totta kai. Hoituuhan tämä.
+0x00000084 Voitte luottaa minuun.
+0x00000034 Joo, enköhän minä tästä selviä.
+0x00000024 En tosiaankaan sovi tähän tehtävään.
+0x000000EC Tervetuloa takaisin, kapteeni. Kuulimme, että kohtasit ongelmia tehtäväsi aikana.~p~Olemme hyvin pettyneitä, ettet saanut lajia ~mission_target_animal_species~ eliminoitua riittävän nopeasti. Ehkä kaipaat lisää ampumaharjoitusta.
+0x00000098 Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x000000BC Haluat näköjään harkita tilannetta hetken. Palaan siis myöhemmin.
+0x00000008 Tauti talttuu tuhoamalla. Kestääkö kanttisi tämän karmaisevan toimen?
+0x00000096 Anteeksi vaan, että häiritsin. Nähdään taas.
+0x00000094 Lisäksi...
+0x0000006D Ehkä joskus toiste. Nähdään taas.
+0x0000001D Kosmos ympärillämme on suuri ja vaarojentäyteinen paikka, joka on täynnään väkivaltaa. Se juontaa juurensa aina suuresta pamauksesta lasersotiin ja toisiaan syövistä yksisoluisista otuksista tappajarobotteihin. Joku on aina hyökkäämässä toisen kimppuun. Eräs planeetan ~mission_target_planet~ eläinlaji osoittaa aggressiivisuutta, joka on lähellä suoranaista hulluutta. Alamme pelätä niiden uhkaavan yleistä turvallisuutta. Laji on selvästi taltutettava – pysyvästi.
+0x00000059 Paten polku on totuuden tie. Puhuitko totta, kun sanoit, että matkaisit planeetalle ~mission_target_planet~ tuhoamaan lajin ~mission_target_animal_species~? Ennen kuin vastaat, saanen muistuttaa, että Pate tietää kyllä mitä tehtävälokiisi on tallennettu.
+0x0000007A Jos planeetalla ~mission_target_planet~ on lainkaan toivoa, se lepää sinun harteillasi. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja tuhottava ~mission_target_animal_species~. Kiitämme sinua siitä, että olet valmis auttamaan ekologisen tasapainon palauttamisessa.
+0x000000C6 Minulla olisi pari kysymystä ennen kuin lähden.
+0x00000035 Tästähän voisi oppia pitämään. Jep.
+0x00000039 En suostu tähän! Se on vain väärin.
+0x00000095 Ai niin, vielä olisi yksi juttu.
+0x000000C5 Haluaisin kysyä sinulta jotain.
+0x0000004C Voinko kysyä jotakin?
+0x0000006E Taidat olla kiireinen. Puhutaan tästä myöhemmin.
+0x00000102 Sairastunut otus. Käynnistetään polttimia...
+0x0000004F Hitsi, että on kiire. Kiitokset! Nähdään.
+0x00000028 Minulla olisi pari kysymystä ennen kuin lähden.
+0x000000D2 Haluaisin kovasti päästä eroon tästä tehtävästä.
+0x00000086 Hei!~p~Älä viitsi. Ethän jätä meitsii pulaan.~p~Mä kun luulin, että sä olisit hyvä tyyppi.~p~Ihan miten vaan sitten.~p~Mä kyllä kerron susta muillekin. Voit olla varma, et' MAHTAVAT JA MAJESTEETILLISET KROPOT saa vielä kuulla sinusta.
+0x00000079 Ehkä sinä osoittaudut planeetan ~mission_target_planet~ pelastukseksi. Mene sinne nopeasti ja pelasta sen biomi tältä hirvitykseltä!
+0x00000101 Mahdollisesti sairastunut. Käynnistetään polttimia...
+0x0000006C Anteeksi vaan, että häiritsin. Nähdään taas.
+0x000000D4 Ensi kertaan. Nähdään taas.
+0x00000078 Matkaa heti tähtijärjestelmän ~mission_target_star~ planeetalle ~mission_target_planet~, missä sinulla on ~mission_time~ sektonia aikaa tuhota lajin ~mission_target_animal_species~ epäpyhät hirviöt. Älä vahingoita viattomia elämänmuotoja tai niitä, jotka ovat ottaneet Paten sydämeensä. Muutoin saat tuta pyhän vihan.
+0x000000B3 Ai, niinpä tietysti! Tehtäväloki. Vilkaisen heti sitä.
+0x0000007B Kiitämme sinua! Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja täysin hävitettävä laji ~mission_target_animal_species~.
+0x0000000D Planeetan ~mission_target_planet~ eläinten keskuudessa on levinnyt tuhoisa kulkutauti, ja koko planeetan ekologinen tasapaino on nyt vaakalaudalla! Auta meitä välttämään tuho hävittämällä saastuneet otukset.
+0x000000EF Pyydän nöyrimmästi anteeksi.
+0x000000E1 Et ole hävittänyt lajia ~mission_target_animal_species~ planeetalta ~mission_target_planet~, vaikka olet todistettavasti ladannut kaikki työtiedot tehtävälokiisi.
+0x0000005A Raporttimme osoittaa, että ~mission_target_animal_species~ vaarantaa edelleen planeetan ~mission_target_planet~ tasapainoisuuden. Auttaisitko meitä tuhoamaan tämän lajin? Kaikki tarvitsemasi tiedot on ladattu tehtävälokiisi.
+0x000000D7 Vaadimme, että vierailet planeetalla ~mission_target_planet~ ja hävität haitalliset eläimet.
+0x000000A1 Minulla olisi pari kysymystä ennen kuin lähden.
+0x00000058 Suurneuvosto on huolestunut kuullessaan, että et ole suorittanut loppuun lajin ~mission_target_animal_species~ hävitystä. Kaikki sopimuksemme yksityiskohdat ovat tehtävälokissasi. Kansalaisemme ovat yhä vaarassa. Matkaathan nyt planeetalle ~mission_target_planet~ ja tuhoat lajin ~mission_target_animal_species~?
+0x000000B2 Mikä katastrofi! Tämä on hirvittävää. En löydä sanoja kuvaamaan tätä menetystä. Holtittomuutesi on suistanut meidät epätoivon kylmään synkkyyteen.~p~Arvioimme sinut pahasti väärin. Tehtävä vaati tarkkuutta ja näppäryyttä, ja sinulla ei totisesti ole kumpaakaan.~p~Lajin ~mission_target_animal_species~ tila on nyt entistäkin epävarmempi, ja aikaa uusille kasvatustoimille ei enää ole. Kaikki on menetetty!
+0x00000085 Hmm, tämäpä epätavallista. Kuulimme, että yleensä hyväksyt kaikenlaiset tehtävät.~p~Olemme selvästi saaneet väärää tietoa. Hyvin kiusallista. ~mission_target_animal_species~ saattaa nimittäin kehittyä holtittomasti, mikäli emme ohjaa sitä oikeaan suuntaan.~p~Ikävä kyllä kaikilla lajeilla ei ole yhtä taitavia ohjaajia. Ehkä me vain otamme riskin lajin ~mission_target_animal_species~ kanssa.
+0x00000050 Hei, teen vain työtäni.
+0x000000C7 Lisäksi...
+0x00000093 Onko näinkin yksinkertainen tehtävä sinulle liian vaikea? Selvä. Pistämme tämän mustiin.
+0x00000071 Haluaisin kysyä sinulta jotain.
+0x00000018 Me yritämme parhaamme mukaan olla yhtä luonnon kanssa, mutta vaikuttaa siltä, että luonto haluaa vain antaa meidät jonkin kammottavan otuksen ruoaksi. Näin meinaa käydä planeetalla ~mission_target_planet~, jossa outo mutaatio on muuttanut erään eläinlajin poikkeuksellisen riitaisaksi. Verilöyly ei sovi meidän pirtaamme, mutta voisitko sinä suorittaa tarvittavat voimatoimet?
+0x0000009E Miten voit olla noin tunteeton?~p~~mission_target_animal_species~ on tuhon partaalla, ja vain sinä olisit voinut pelastaa ne! Nyt laji on tuhoon tuomittu.~p~Voi, kunpa meillä vain olisi ollut rohkeutta nujertaa tauti itse.
+0x000000BD Mitä-mitä? Palasit luoksemme käänteisonnistuneessa tilassa. Me kun odotimme vastakkaiskäänteisonnistunutta suoritusta.~p~Voi hyvänen aika sentään! Meidän pitää heti muuttaa suunnitelmia. Kaivakaa heti esiin suunnitelman 9 tiedot!
+0x000000B8 Minulla olisi vielä pari kysymystä...
+0x000000BA Minun tapani on hillittömästi hauskempi. Hyvästi.
+0x00000007 Suurneuvosto takaa, että kansalaisemme saavat elää vailla pelkoa. Planeettaa ~mission_target_planet~ tutkineelta urakoitsijalta jäi huomaamatta, että päällisin puolin kasvinsyöjältä vaikuttanut ~mission_target_animal_species~ oli juuri siirtymässä elinsyklinsä lihansyöjävaiheeseen. Jättipetojen läsnäolo aiheutti siirtokuntalaisillemme ikävän yllätyksen. Suurneuvosto olisi kiitollinen, jos auttaisit puhdistamaan planeetan ~mission_target_planet~ tästä riesasta.
+0x00000029 Matkaa planeetalle ~mission_target_planet~. ~group:star_clue~.~p~Eliminoi ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^hohtomaalattu otus^hohtomaalattua otusta~. Tämä ei liene ongelma.
+0x0000008D Totisesti, epäuskoisen sydän on kova kuin kivi. Hyvästi.
+0x0000000A Tulevaan jumalaan uskovat pakanat ovat levittäneet harhaoppiaan planeetan ~mission_target_planet~ eläimiin. Auttaisitko meitä pyyhkäisemään tämän harhaopin pois galaksia saastuttamasta?
+0x00000066 Minä lopetan. Pahoittelut.
+0x000000F5 Tapoit aivan liian monta tervettä eläintä. Emme saa myytyä niitä edes lihakauppiaille. Palaa tähtijärjestelmään ~mission_source_star~ ja kerro sen asukkaille huonot uutiset.
+0x000000A3 Pakanan suu on valheita täynnä. Hyvästi.
+0x000000E4 Kiirehdi, kapteeni! Tehtävä pitää suorittaa nopeasti. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja tuhottava ~mission_target_animal_species~.
+0x000000F3 Planeetta sijaitsee tähden ~mission_target_star~ järjestelmässä.
+0x000000A6 Lajisi pyrkii niin kovasti huvittamaan meitä. Harmi, että se aina epäonnistuu.
+0x000000AA Öh. Mitäs minun nyt pitikään tehdä?
+0x000000CD Hävitä ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^otus^otusta~ planeetalla ~mission_target_planet~. Tunnistat hävitettävät otukset niiden hohteesta.
+0x000000F4 Palaa nyt tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, niin saat palkkiosi.
+0x000000A8 Sinua riivaa selvästi oikukas kulkurihenki.
+0x000000E8 Aiotko keskeyttää? Me luotimme sinuun.
+0x0000003B Ei, ei, ja ei ikinä. Ei. Pahoittelut.
+0x0000001B Kasvit tavoittelevat aurinkoa, ja samalla tavoin myös eläimet kamppailevat kaiken aikaa resurssien hallinnasta. Yksi planeetan ~mission_target_planet~ lajeista uhkaa nyt dominoida planeettaa samalla tavoin kuin me dominoimme galaksia. Tällainen epäterve monopoliasema ei voi jatkua, vaan hallitseva laji pitää tuhota. Olet varmasti samaa mieltä.
+0x00000033 Lajin hävittäminen on meidän arvollemme sopimaton tehtävä, mutta se saattaa hyvinkin sopia sinulle. ~mission_target_planet~ on vaarassa jäädä lajin ~mission_target_animal_species~ jalkoihin. Näiden haittaeläinten hännät hohtavat, joten niiden jäljittäminen ja eliminoiminen on naurettavan helppoa.~p~Tapa siis ~mission_num_kills_needed~ vaarallista eläintä. ~group:star_clue~.~p~Tarkkailemme sinua, joten suoritathan tehtävän nopeasti ja hyvissä ajoin.
+0x00000072 Suurneuvosto on mielissään. Suuntaa heti planeetalle ~mission_target_planet~! Kun pääset perille, sinulla on ~mission_time~ sektonia aikaa hävittää laji ~mission_target_animal_species~. Varmista, ettet vahingossa vahingoita viattomia kansalaisia tai muita elämänmuotoja.
+0x000000AB Aivoissani on aukko tämän tehtävän kohdalla. Mitenkäs se nyt menikään?
+0x000000E3 Muista, että tehtävän suorittamiselle on aikaraja, joten lähde heti matkaan. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja tuhottava ~mission_target_animal_species~.
+0x0000008E Voimme vain toivoa, että planeetan ~mission_target_planet~ ekosysteemi selviää ilman apuasi. Hyvästi.
+0x000000DA Kulkutautiin sairastuneet eläimet hyökkäilevät siirtokuntiemme kimppuun planeetalla ~mission_target_planet~! Kaipaamme kipeästi apuasi.
+0x00000107 Haluat näköjään harkita tilannetta hetken. Palaan siis myöhemmin.
+0x0000005F Olimme siinä luulossa, että sinä matkaisit planeetalle ~mission_target_planet~ tuhoamaan lajin ~mission_target_animal_species~. Myös tehtävälokisi tiedot vahvistavat tämän.~p~Ajelehdit näemmä päämäärättä kuin avaruustuulien mukaan karannut ilmapallo. Olemme kärsivällinen laji, mutta meidänkin kärsivällisyydellämme on rajansa.
+0x000000AC Unohdin, mitä olin tekemässä. Mitä minun pitikään tehdä?
+0x00000076 On vihan ja rankaisun aika! Sinulla on ~mission_time~ sektonia aikaa pyyhkiä laji ~mission_target_animal_species~ planeetan ~mission_target_planet~ pinnalta. Säästä kuitenkin kaikki Pateen uskovat ja heidän omaisuutensa.
+0x000000E6 Lisäksi...
+0x00000020 Miten löydän perille?
+0x000000CC Ai niin, vielä olisi yksi juttu.
+0x0000004D Yksi juttu vaan...
+0x0000008B Suurneuvosto ei pyydä yhtäkään lajia toimimaan omantuntonsa vastaisesti. Neuvottelut päättyvät tähän. Hyvästi.
+0x0000009D Keskeytätkö tehtävän? Tämä on...~p~Ethän sinä voi tehdä näin. Planeetan on oltava kunnossa isännillemme.~p~KYLMÄT JA JÄRKÄHTÄMÄTTÖMÄT KROPOT SAAVAT KUULLA HALUTTOMUUDESTASI AJAA HEIDÄN ASIAANSA!
+0x00000061 Minulla olisi vielä yksi kysymys...
+0x000000B9 Räjäyttelyhän on hillittömän hauskaa! No, nähdään taas.
+0x000000CB Lisäksi...
+0x00000019 Eräs planeetan ~mission_target_planet~ rukouspiireistämme on ilmeisesti suututtanut jonkin paikallisen hengen. Pyysimme vain parempaa satoa, mutta sen sijaan pahansuovat henget ottivat vallan paikallisissa eläimissä, jotka nyt raivoavat mielipuolina pitkin maita ja mantuja. En haluaisi rangaista viattomia eläimiä, mutta tästä leegiosta taitaa päästä eroon vain eläimet tuhoamalla. Voisitko hoitaa likaisen työn puolestamme?
+0x00000014 Epäröiden lähestyn teitä näiden uutisten kera. Valitettavasti minun on ilmoitettava teille, että verenhimoiset pedot ovat hyökänneet planeetalla ~mission_target_planet~ asuvan hyväntahtoisen kansamme kimppuun. Autatteko meitä hädässämme, jos lupaamme korvata vaivanne avokätisesti?
+0x000000E7 Kropojen uhmaaminen on suoranainen itsemurha.
+0x000000ED Tähden nimi on ~mission_target_star~
+0x00000064 Päätin, etten aio tehdä tätä.
+0x00000041 Lisäksi...
+0x000000F2 Epäonnistuit. Palaa planeetalle ~mission_source_planet~.
+0x0000001A Yritämme ystävystyä kaikkien eläintoveriemme kanssa, mutta planeetalla ~mission_target_planet~ jotkin eläimet ovat aistineet universumista vihamielisiä värähtelyjä ja riehuvat nyt raivoisana. Voisitko rauhoittaa näiden otusten aatokset? Mieluiten vaikkapa laserilla.
+0x00000060 Voinko kysyä vielä yhtä juttua?
+0x0000008A Haluaisin kysyä sinulta jotain.
+0x00000082 Tulen pian takaisin.
+0x000000AF Voi ei, tapoitko kovinkin monta merkitsemätöntä otusta?~p~Emmekös me kieltäneet tekemästä juuri sitä? Se oli sentään puutarhoitettu planeetta.~p~Tämä ei ole lainkaan hyvä juttu. TARKAT JA VAATIVAT KROPOT eivät tule pitämään tästä. Eips, eivät lainkaan.~p~Voi pojat, minkä sotkun aiheutit.
+0x000000E5 Kieltäydytkö toteuttamasta käskyjämme?
+0x0000009B Tarvitsisin muistutuksen tehtävästäni.
+0x0000002B Minulla olisi pari kysymystä ennen kuin lähden.
+0x00000065 Tämä on hyvin epäeettistä. En suostu tähän!
+0x000000AD Voisitteko muistuttaa minua siitä, mikä tehtäväni olikaan?
+0x00000091 Voi hyvänen aika! Pyörryttää, kun ajattelenkin kaikkia rikkauksia, jotka nyt menetät.
+0x000000AE Ennen lähtöä sinun olisi kannattanut tarkistaa sanakirjasta, mitä lajisuojelu oikein tarkoittaa.~p~Jos koko laji ~mission_target_animal_species~ tuhoutuu, ei jäljelle jää enää juurikaan suojeltavaa. Nyt laji on sukupuuton partaalla.~p~Kiitos vain avusta!
+0x000000F1 Epäonnistuit. Palaa planeetalle ~mission_source_planet~.
+0x00000055 En meinannut uskoa näkemääni, ennen kuin kuulin sinun puhuvan, ja siltikin minun on vaikea uskoa mitään yhdeksästä aististani. On vain vaikea tajuta, että palasit ennen kuin tehtävä on suoritettu. Putzenius sentään!~p~Kuuntele nyt tarkasti: tapa ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^otus^otusta~ planeetalla ~mission_target_planet~, joka kiertää tähteä ~mission_target_star~.~p~Ennen kaikkea sinun pitää nyt lähteä. Pois täältä, ja nyt heti!
+0x00000015 Tuho on yllämme! Korviimme on kiirinyt sana siitä, että outo kulkutauti muuttaa planeetan ~mission_target_planet~ eläimet aggressiivisiksi ja väkivaltaisiksi hirviöiksi. Pyydämme nöyrästi, että teidän erinomaisuutenne tuhoaisi nämä meitä uhkaavat pedot – kohtuullista korvausta vastaan tietenkin.
+0x00000009 Planeetalla ~mission_target_planet~ oleva pyhättömme on ollut oikea hyvyyden ja rauhan tyyssija. Nyt demoniset voimat kuitenkin uhkaavat sen rauhaa. Autatko uskovia pääsemään tästä pahasta?
+0x0000005D Leikittäisiinkö kivaa leikkiä nimeltä Tiedän mitä tehtävälokissasi on? Minä esimerkiksi tiedän, että tehtävälokissasi on merkintä siitä, että lupasit mennä planeetalle ~mission_target_planet~ ja tuhota lajin ~mission_target_animal_species~!
+0x00000069 Juuri niin. Tuhoa eläimet.
+0x00000080 Älä ammu rakennuksia, kansaamme tai viattomia eläimiä. Käy heti matkaan. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä ja tuhottava ~mission_target_animal_species~.
+0x000000D6 Yrittäkää ymmärtää.
+0x000000D0 Haluaisin epähyväksyä tämän tehtävän.
+0x00000070 Toivon teidän ymmärtävän.
+0x000000D9 Havainnollista sotilaallisia voimakeinojasi planeetalla ~mission_target_planet~.
+0x00000011 Ylpeys kävi taas lankeemuksen edellä. Esteettistä nautintoa tavoitellessamme loimme planeetalle ~mission_target_planet~ geneettisesti muunneltujen eläinten lajin. Ne ovat kovin nättejä, mutta myös hyvin nälkäisiä, ja me taidamme olla lajin ruokalistalla. Autatko meitä välttämään lounaaksi joutumisen?
+0x00000108 Pyydän nöyrimmästi anteeksi.
+0x0000007F Kiitos. Sinulla on ~mission_time~ sektonia aikaa planeetalla ~mission_target_planet~, ja siinä ajassa sinun on löydettävä se otus. Ethän vahingoita eläinystäviämme tai kansaamme tai tuhoa fengshuitamme.~p~Kiiruhda, ennen kuin ~mission_target_animal_species~ levittää hulluuttaan!
+0x000000FB Et saanut sairastuneita eläimiä hävitettyä ajoissa. Palaa järjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~ ja kerro huonot uutiset.
+0x0000009F Keskeytitkö tehtävän? Ei, ei! Hirvittävää. Mikä tappio.~p~Vaikka on kyllä pakko myöntää, että saattaisimme pitää osittaisena voittona sitä, että häviät silmistämme. Ja nopeasti sittenkin.~p~Tästä voitostamme et tietenkään saa rahaa. Sellaista on turha kuvitellakaan. Mutta kyllä poistumistasi voi vähintään erävoittona pitää.
+0x000000D1 Tämä tehtävä ei enää sovi aikatauluuni.
+0x00000053 Hei, kuule kaveri. Tiedäthän sä, että me pidetään susta ihan niinku älyllisenä olentona? Kyse on ihan vaan ammatillisista asioista...~p~Kuules ny. Tapa vaan ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^otus^otusta~ planeetalla ~mission_target_planet~, joka on tähden ~mission_target_star~ järjestelmässä, niin kaikki menee hyvin.~p~Ei tässä nyt oo kyse siitä, mitä me aatellaan susta, vaan siitä MITÄ VIISAAT JA TARKKASILMÄISET KROPOT HEIDÄN KAIKKIVOIPAISUUTTAAN PALVELEVILTA OTUKSILTA EDELLYTTÄVÄT!
+0x0000009C Aiotko lopettaa? Tämähän on järkyttävää.~p~Kai ymmärrät, että luonnonsuojelijat vielä suomivat sinua pahasti. Blogeissaan siis!
+0x000000DC Aiemmin vaaraton virus on planeetalla ~mission_target_planet~ mutatoitunut uhkaksi villieläimille. Voitko auttaa meitä?
+0x000000C0 Vau. Tuota, tervetuloa takaisin.~p~Kuulimme, ettet onnistunut tehtävässäsi, joten emme oikeastaan olettaneet enää näkevämme sinua. Mutta myöntää täytyy, että me melkeinpä ilahduimme uutisen kuullessamme. Ehkä kaiken pitikin tapahtua näin.
+0x00000073 Matkaa planeetalle ~mission_target_planet~, missä sinulla on ~mission_time~ sektonia aikaa tuhota laji ~mission_target_animal_species~. Kiitos, että varmistat kansalaistemme terveyden ja turvallisuuden.
+0x0000001C Lempeä kesätuuli saattaa tuoda tullessaan kukkasten tuoksua tai mädänlöyhkää. Raukkamaisten vihollisten levittämä kulkutauti piinaa eläimiä planeetalla ~mission_target_planet~. Tartunnan saaneet eläimet muuttuvat julmiksi ja verenhimoisiksi saalistajiksi. Haluaisitko ehkä harjoitella vaikkapa tarkkuusammuntaa näillä elukoilla?
+0x000000B0 Voi ei! Mikä katastrofi.~p~Kaikki ne puolustuskyvyttömät lajin ~mission_target_animal_species~ eläimet. Ne olivat niin söpöjä, niin kovin hyväntahtoisia, ja nyt ne ovat tuhon omia. Mikään ei voi pelastaa niitä sukupuutolta. Tämä on liikaa. En kestä tätä.~p~Tapoit aivan liikaa terveitä eläimiä, ja nyt koko laji on vaarassa. Mitä ne pikkuotukset ovat sinulle tehneet?
+0x00000051 No niin. Taidankin tästä sitten lähteä.
+0x000000F0 Kohtasin odottamattomia ongelmia. Hyvästi.
+0x00000006 Jotta planeetan ~mission_target_planet~ kansalaiset olisivat turvassa, heitä täytyy suojella saalistajilta. Varmistaisitko, että lihansyöjälaji ~mission_target_animal_species~ hävitetään planeetalta ~mission_target_planet~?
+0x000000FA Tapoit aivan liian monta tervettä eläintä. Mitä me näille ruhoille teemme? Lajihan on rauhoitettu. Palaa järjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~ ja kerro huonot uutiset.
+0x00000090 Mutta kun sinä näytät niin kovin tyrmäävältä mörssäriä kantaessasi! Höh. Ei sitten. Ei väkisin.
+0x000000CF Tekisin mieluummin jotakin ihan muuta.
+0x00000030 Lisäksi...
+0x0000004E Sepäs oli järkyttävää. Hyvää päivänjatkoa.
+0x0000008F Täytynee sitten hoitaa tämä tehtävä itse. Hyvästi.
+0x00000026 Haluaisin kysyä sinulta jotain.
+0x00000063 Yksi juttu vaan...
+0x000000E2 Tappava ~mission_target_animal_species~ asuttaa yhä planeettaa ~mission_target_planet~. Tarkista lisätiedot tehtävälokistasi ja lennä heti paikalle.
+0x000000F6 Et saanut sairastuneita eläimiä hävitettyä ajoissa. Palaa tähtijärjestelmään ~mission_source_star~ ja kerro sen asukkaille huonot uutiset.
+0x00000031 Ai niin, vielä olisi yksi juttu.
+0x00000038 Tämä on liian vaikeaa. Ei onnistu.
+0x00000036 Vai että puolustuskyvyttömien eläinten tappamista... Sopii hyvin!
+0x00000083 Painunkin tästä listimään vähän eläimiä!
+0x00000103 Aika loppui. Tehtävä epäonnistui.
+0x00000067 Etsin muita hommia. Tämä oli vaikeaa.
+0x0000009A Yrittäkää ymmärtää.
+0x00000004 Taidat olla Onnettaren suosiossa: meillä on juuri sinulle sopiva tehtävä!~p~Olemme hankkineet planeetan ~mission_target_planet~ vuotuista Planeettaparaatia varten. Kyseessä on alan arvostetuin juhla, ja teimme kovasti töitä valmistellessamme planeettaa ~mission_target_planet~ juhlakuntoon. Nyt kaikki on täydellistä!~p~Tai ainakin melkein täydellistä. Joukko lajin ~mission_target_animal_species~ otuksia nimittäin käyttäytyy yhä kehnosti, ja juhlaparaati alkaa pian. Keinomme ovat lopussa. Voisitko tuhota niskoittelevat otukset?
+0x00000068 Selvä. Ymmärrän kyllä. Hei vaan.
+0x00000022 Uh. Haistan pahan karman tänne asti. Kiitos ei.
+0x00000012 Olimme kruisailemassa ja kävimme piloillamme planeetalla ~mission_target_planet~ tuhrimassa eläimiä hohtomaalilla. Mistäs me oltaisiin voitu tietää, että hohtomaali saa lajin raivon valtaan? Auttaisitko meitä hillitsemään eläinten raivoa – vaikka muuttamalla ne rauhaa rakastaviksi tuhkakasoiksi?
+0x00000027 Hyvä, hyvä. Haluamme, että tapat ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^hohtomaalatun otuksen^hohtomaalattua otusta~. Kun pääset planeetalle, tunnistat eliminoitavan otuksen sitä ympyröivästä hehkusta.~p~Tässä pari faktaa: ~group:star_clue~. Etsimäsi planeetta on nimeltään ~mission_target_planet~.~p~Jos hoidat homman, saat meiltä eläkerahastoosi ~mission_rewards~ spaaleria.~p~Pistähän töpinäksi!
+0x0000002E Sopimuksesi mukaisesti sinun tulee järjestää tai poistaa planeetalta sovittu määrä (~mission_num_kills_needed~) lajiin ~mission_target_animal_species~ kuuluvia otuksia. Sopimuksen puitteissa järjestämisellä tarkoitetaan saattamista elottomaan tilaan tai poistamista kiinteästä olomuodosta.~p~Planeetta, jolla järjestäminen tai poistaminen tulee suorittaa, on ~mission_target_planet~. ~group:star_clue~.~p~Järjestettäväksi tai poistettavaksi tarkoitetut eläimet on merkitty hohtavalla hännällä. Järjestäminen tai poistaminen voidaan suorittaa maanpinnan yläpuolelta kohtuullisen etäisyyden turvin. Sopimuksessa mainittu järjestäminen tai poistaminen tulee suorittaa ensi tilassa, ja viimeistään ennen kuin sopimukseen syntyyn johtanut ongelmatilanne pahenee.~p~Kappaleen 45.6.2 mukaisesti planeetan ~mission_target_planet~ muita eläimiä tai materiaalia ei saa vahingoittaa sopimuksen tavoitetta täytettäessä.
+0x0000005E Yritimme lähettää suuntaasi positiivisia värähtelyjä, jotka ohjaisivat sinut planeetalle ~mission_target_planet~, mutta jostain syystä ilmaannuitkin tänne. Eikö sinun pitänyt poistaa ~mission_target_animal_species~ tältä olevaisuuden tasolta?~p~Ja eikös kaiken tämän pitäisi löytyä tehtävälokistasi?
+0x00000081 Palaan kohtapuolin.
+0x00000089 Voi, mikä kavala kohtalo meitä on taas kohdannut! Näyttely pidetään aivan pian ja tehtävää on vaikka millä mitalla.~p~Meidän pitää yhä koota ylängöt ja huurruttaa vuorenhuiput, ja metsätkin ovat vielä kasvattamatta.~p~Tekosi vuoksi menetimme juuri mahdollisuuden kisan voittoon. Me muistamme tämän kyllä, senkin rotjake!
+0x000000DB Lihansyöjäeläimet hyökkäävät kimppuumme planeetalla ~mission_target_planet~. Autatko meitä hädässämme?
+0x0000004A Voinko kysyä vielä yhtä juttua?
+0x000000B4 Hoh hoh. ~player_title~ ~player_creature_name~ palaa, mutta luulenpa, että titteli ~player_title~ on turhaa mairittelua.~p~Mitä oikein tapahtui, ammuitko vain kaikkea liikkuvaa? Kyllähän räiskintä on hauskaa, mutta emme me sitä sinulta pyytäneet.~p~Turha odottaa rahallisia tai muitakaan palkkioita.
+0x00000017 ~player_title~ ~player_creature_name~. Kasvinsyöjäkokeilu planeetalla ~mission_target_planet~ meni pahasti metsään, ja sen seurauksena aiemmin harmiton hedelmänmassuttaja muuttui raivohulluksi hirviöksi, joka hyökkäilee jopa laumatoveriensa kimppuun. Auttaisitko meitä ongelman ratkaisemisessa?
+0x0000002D Matkusta planeetalle ~mission_target_planet~. ~group:star_clue~.~p~Näillä lajin ~mission_target_animal_species~ epäonnisilla eläimillä on hohtava häntä. Sen ansiosta sinun on helppo havaita ja hävittää eläimet.~p~Eliminoi vähintään ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ otusta, niin katastrofi vältetään. Planeetan lajikartta on muulta osin tasapainossa, joten älä tapa terveitä eläimiä tai vahingoita mitään muuta.~p~Kiirehdi, ennen kuin tilanne karkaa käsistä.
+0x000000C4 ~race~ täsmensi, että ~player_creature_name~ kiiruhtaisi planeetalle ~mission_target_planet~, mutta sen sijaan ~player_creature_name~ vain haaskasi aikaa. ~player_creature_name~ ja hänen kustannustehokkuutensa ovat tämän johdosta kyseenalaisia.
+0x00000016 ~player_title~ ~player_creature_name~. Tuntematon kulkutauti muuttaa planeetan ~mission_target_planet~ eläimiä vaarallisiksi hirviöiksi. Hoitaisitko eläinten tuhoamisen meidän puolestamme?
+0x00000105 ~mission_target_star~ on noin ~mission_clue_distance~ parsekin päässä kohteesta ~mission_clue_landmark1~
+0x0000007E Ilo kirkastaa surkean olemukseni. Mitättömyyteni toivoo, ettei loukkaa muistuttaessaan, että ~player_creature_name~ ei saisi vahingoittaa älykkäitä tai vaarattomia elämänmuotoja. Sen lisäksi planeetalla ~mission_target_planet~ voi viettää vain ~mission_time~ sektonia, ja siinä ajassa on sekä löydettävä että tuhottava ~mission_target_animal_species~.
+0x00000056 Nopeasti! Planeettaparaati on ihan kulman takana.~p~Nyt on kiire. Koetan käyttää kaiken tarkkaavaisuuteni ja tiivistystaitoni seuraavaan täsmälliseen yhteenvetoon:~p~Hävitä tähtijärjestelmän ~mission_target_star~ planeetalta ~mission_target_planet~ ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^hohtomaalattu otus^hohtomaalattua otusta~.~p~Muutoin saamme rangaistuksen ja menetämme mahdollisuudet kisan voittopalkintoon.
+0x000000B5 Olet siis palannut, ~player_title~ ~player_creature_name~.~p~Järjestysoppi kieltää erityisesti epäjärjestyksen aiheuttamisen. Valitettavaa kyllä, vastuuton väkivaltaisuutesi on aiheuttanut galaksissa peruuttamatonta kaaosta.~p~Suurneuvosto arvioi uudelleen kaikki sopimuksesi ja niiden elämänkatsomuksellemme aiheuttaman uhkan.
+0x0000005B Mielenkiintoista. Vaikuttaa siltä, ettet olekaan käynyt planeetalla ~mission_target_planet~ ja tuhonnut lajia ~mission_target_animal_species~. Olivatko ohjeemme jotenkin epätäydelliset, söikö goira tehtävälokisi vai etkö vain osaa järjestää tietojasi oikein?
+0x000000A9 Näinkö ~player_creature_name~ ajattelee kunniasta?
+0x000000C1 ~player_title~ ~player_creature_name~. Lajisi on näköjään täysin kyvytön seuraamaan yksinkertaisiakin ohjeita. Pidämme tämän mielessämme tulevien tapaamistemme varalta.
+0x000000BE Tervetuloa, ~player_title~ ~player_creature_name~. Tervehdimme sinua jälleen kerran suurneuvoston nimissä.~p~Suurneuvostosta puheen ollen, en millään haluaisi kertoa heille, että epäonnistuit tehtävässäsi. Siirrän suorituksesi arviointijonoon. Kun se viimein on läpäissyt kaikki osastot ja saanut kaikki leimat, olet ehkä ehtinyt kohentaa mainettasi, niin että arvioinnin negatiivinen tulos ei vaikuta sinuun pysyvästi.
+0x000000C3 Hyvä ~player_title~ ~player_creature_name~. Olet näemmä palannut turvallisesti, mutta tehtävässäsi epäonnistuneena.~p~Ymmärrämme kyllä. On kovin vaikea katsoa silmiin söpöä pikku otusta ja sitten ampua se kylmäverisesti.
+0x0000002A Patkis! ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ edustajaa on valittu harvennettaviksi ja merkitty hohtomaalilla, jotta varmasti tunnistaisit ne.~p~No, keilaamaan siitä! Tajusitko? Hohtokeilaamaan. Hahahaa! Täytyy pitää juttu mielessä seuraavaa flortondialaista rupliikkipäivää silmälläpitäen. Tykkäätkö muuten flortondian rupliikeista? Itse pidän niitä vähän turhan suolaisina, mutta luen toki mielelläni niiden runoja.~p~Hetkinen, miksi olet yhä täällä? Etkö tosiaan tiedä, minne mennä?~p~~group:star_clue~. Planeetan nimi on ~mission_target_planet~.~p~Saat vaivanpalkaksi ~mission_rewards~ spaaleria, joten käyhän nyt hommiin.
+0x00000074 ~player_creature_name~ on osoittanut olevansa viisas ja antelias. Olethan kiltti ja matkaat planeetalle ~mission_target_planet~, missä sinulla on ~mission_time~ sektonia aikaa tuhota lajin ~mission_target_animal_species~ aiheuttama uhka. Älä vahingoita kansalaisiamme tai muita rauhantahtoisia elämänmuotoja.
+0x000000BF Mitä? Nujertuiko ~player_creature_name~ niiden pirunsikiöiden toimesta? Kiusallista, että niitä oli vastassasi niin lukuisia.
+0x0000000F ~player_title~ ~player_creature_name~! Valitettavasti meidän on ilmoitettava, että eräs kokeemme ei täyttänyt kaikkia odotuksia. Aioimme kehittää rauhallisesti märehtivän kotieläimen, mutta väärin ohjelmoitu geenisilppuri tuottikin vahingossa planeetalle ~mission_target_planet~ vihamielisen lihansyöjälajin. Voisitko millään auttaa virheen korjaamisessa?
+0x000000C2 Hoh hoh. ~player_title~ ~player_creature_name~ palaa. Arvonimi ~player_title~ taitaa kuitenkin olla kaikkea muuta kuin ansaittu.~p~Katsotaanpa... Sinut kukisti joukko tyhmiä, pimeässä hohtavia ja taistelukyvyttömiä otuksia.~p~Hahahaa. Tämä on niin surkuhupaisaa, ettei tälle voi kuin nauraa. Aluksesi fjonga on näemmä kerrassaan mahtava. Ihme, että selviät hengissä arkiaskareistasi. Hahaha!
+0x000000E9 ~player_creature_name~, epäonnistuit kropojen sinulle antamassa tehtävässä. Taitamattomuutesi on pantu merkille.
+0x00000010 Mikään ei ole nolompaa kuin eilispäivän muoti. Planeetan ~mission_target_planet~ hohtomutanttimme pitänee siis hävittää ennen kuin niistä muodostuu taakka maineellemme. Hankkiutuisitko niistä eroon puolestamme?
+0x000000EB ~player_creature_name~ epäonnistui tuhoamaan lajin ~mission_target_animal_species~ määrätyssä ajassa. Otuksen ~player_creature_name~ lajimääritys on tarkennettu toheloksi.
+0x000000A0 Voi, tämä on kamalaa! Eihän näin voi tapahtua.~p~Kisan tuomarit saapuvat hetkenä minä hyvänsä, ja planeetta on vielä täysin keskeneräinen. Kiitos sinun!~p~Nyt ~mission_target_planet~ saa enintään maininnan kohtalaisesta yrityksestä!
+0x00000005 ~player_title~ ~player_creature_name~. Välinpitämätön ja väkivaltainen käytöksesi muita lajeja kohtaan on vahingoittanut maailman ravintokartan tasapainoa! Olemme hyvin pettyneitä.
+0x00000106 ~mission_target_star~ on ~mission_clue_range_min~–~mission_clue_range_max~ parsekin etäisyydellä kohteesta ~mission_clue_landmark1~
+0x0000002F ~player_title~ ~player_creature_name~. Eliminoi ~mission_num_kills_needed~ kohde-eläimistä. ~p~Suorita tehtävä nopeasti, ennen kuin raivoavat eläimet aiheuttavat liikaa tuhoa. Suuntaa heti planeetalle ~mission_target_planet~. ~group:star_clue~.
+0x000000B6 Hyvä halveksittu ~player_title~ ~player_creature_name~.~p~Rämäpäinen räiskimisesi on tuhonnut harmonian, jota me niin huolella olemme rakentaneet! Toivoisimme, että pyrkisit kasvamaan otuksena ja tähtäisit jatkossa tarkemmin.
+0x0000008C Suurneuvosto on erittäin huolestunut siitä kyvyttömyydestä, jota lajin ~player_creature_name~ edustaja on osoittanut tehtävässä, jonka se täysissä ruumiin ja sielun voimissa otti hoitaakseen. Hyvästi.
+0x000000B7 ~player_creature_name~. Aseensa täydellisesti hallitseva taistelija ei ammu kaikkea näköpiirissään, ainoastaan kohdettaan.~p~Et selvästikään hallitse aseitasi, vaan ne hallitsevat sinua.
+0x000000F7 Hävitä ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^hohtava otus^hohtavaa otusta~ tähtijärjestelmän ~mission_target_planet~ planeetalla ~mission_target_planet~ tähden ~mission_target_star~ järjestelmässä.
+0x00000054 Ööh, tuota. Emme halua vaivata, oikeasti.~p~Meillä on kuitenkin pikku ongelma. ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^otus^otusta~ on sairastunut ötykuumeeseen. Kuumeen tunnusmerkkeihin kuuluu voimakas hohto. Nyt ei ole varaa tupeksia.~p~Mene tähtijärjestelmään ~mission_target_star~ ja etsi planeetta ~mission_target_planet~.~p~Hävitä kaikki planeetan sairastuneet eläimet. Älä hämäänny niiden hellyttävästä ulkonäöstä, kuten meille kävi.
+0x00000100 ~mission_num_healthy_creatures_left~ merkitsemättömän ~^p^mission_num_healthy_creatures_left^otuksen^otuksen~ tuhoaminen aiheuttaa tehtävän epäonnistumisen.
+0x000000EE Seis, ~player_creature_name~!~p~Päämäärätön räiskintäsi on aiheuttanut enemmän tuhoa kuin ongelmia aiheuttanut epäpyhä otus ikinä. Meille uskoteltiin, että lajillasi on syvään juurtunut käsitys oikeasta ja väärästä. Olemme selvästikin saaneet virheellistä tietoa.
+0x00000052 Hmm, unohditko tehtäväsi? Sepä yllättävää. Profiilillesi on annettu suoritukseesi nähden korkea arvosana.~p~No, olkoot. Kerrataanpa:~p~Eliminoi ~mission_num_kills_needed~ lajin ~mission_target_animal_species~ ~^p^mission_num_kills_needed^mutanttiotus^mutanttiotusta~ planeetalla ~mission_target_planet~, joka sijaitsee tähden ~mission_target_star~ järjestelmässä.~p~Tunnistat sairaat yksilöt hohtavista feromonipilvistä. Metsästysonnea vaan.
+0x0000000C ~player_title~ ~player_creature_name~. ~mission_source_empire~ sai pilkkuvirheen johdosta eräälle planeetoistaan vääriä alalajeja. Nyt tämä aggressiivinen laji on alkanut dominoida muita lajeja, ja kaiken kukkuraksi siitä on tullut uhka kansalaisillemme.~p~Voisitko auttaa tuhoamaan lajin ~mission_target_animal_species~ planeetalta ~mission_target_planet~?
+0x0000002C Näitä kauhistuttavia otuksia kutsutaan nimellä ~mission_target_animal_species~. Ne ovat saastaisia hirviöitä, jotka pitää puhdistaa pyhällä laserilla. Anna tulen tuoda oikeamielisyys synkimpäänkin sydämeen.~p~ ~mission_num_kills_needed~ otusta saa tuta kohtalonsa ennen kuin planeetta on jälleen vapaa pahuuden taakasta. Tiedä tämä: ~group:star_clue~.
+0x000000DE ~mission_target_animal_species~ asuu planeetalla ~mission_target_planet~. Nämä eläimet jättävät jälkeensä hohtavat jäljet, joten löydät ne varmasti helposti. Hävitä ne kaikki, mutta älä vahingoita rakennuksia, muita eläimiä tai paikallisia asukkaita.~p~Emme ole varmoja planeetan ~mission_target_planet~ koordinaateista, mutta tiedetään, että ~group:star_clue~. Planeetta on siis jossain lähettyvillä.
+0x0000003C Hyvää työtä, kuten aina. Sinua pidetään suuressa arvossa siirtokunnissa.~p~Uskoakseni sinulle luvattiin palkinnoksi ~mission_rewards~. Pitääkö tämä paikkansa?~p~On mukava tehdä töitä luotettavan tahon kanssa.
+0x00000046 Mainiota! Planeetan ~mission_target_planet~ pinta onkin paljon kiintoisampi noiden kraatterien rikkomana. Tässä palkkasi, ~mission_rewards~.
+0x0000003F Ai.~p~Se olitkin sinä. Olitpa nopea.~p~Näytät olevan melkoisen uuttera pikku vipeltäjä, todellinen työmyyrä.~p~Moinen käy hermoillemme. Jos maksamme sinulle palkkiosi, niin häivytkö silmistämme?~p~Hyvä, tässä luvatut ~mission_rewards~. Jospa nyt suhaiset hiiteen sillä tähtisuihkarillasi.
+0x00000047 Heipä hei, ~player_title~ ~player_creature_name~. Olet oikonut suuren vääryyden. Hyvin tehty. Ihaile palkkiotasi, ~mission_rewards~.
+0x00000042 Tervetuloa, ~player_title~ ~player_creature_name~.~p~Suurneuvosto on tyytyväinen toimintaasi. Tunnustukseksi ansioistasi sinulle myönnetään toisen luokan suosiomerkki ja ~mission_rewards~.
+0x000000A7 Täytynee sitten antaa palkkioihisi varatut ~mission_rewards~ jollekin luotettavammalle lajille.
+0x000000CE Kaikki lajin ~mission_target_animal_species~ otukset on eliminoitu, jotka pitikin. Palaa noutamaan palkkiosi.
+0x00000049 ~player_creature_name~. Näytät ymmärtävän yksinkertaisia ohjeita. Hyvä niin. Nämä ~mission_rewards~ on tarkoitettu sinulle positiiviseksi kannustimeksi.
+0x00000000 Itse asiassa meillä on jotakin sopivaa. Tehtävän palkkio on ~mission_rewards~, mutta valitettavasti tehtävä edellyttää joidenkin eläinten päästämistä päiviltä.~p~Eräät luonnonsuojeluyhteiskunnat ovat näet kiinnostuneet planeetasta ~mission_target_planet~. He ovat nyt päättäneet, että kaikki geneettiset poikkeamat pitää karsia.~p~Näin ollen he ovat tunnistaneet lajin, joka on evoluutionsa haarakohdassa. Sinun pitäisi erotella laumasta epäkelvot yksiköt, jotta evoluutio kääntyisi oikeaan suuntaan.
+0x0000003D Vau! En mitenkään voi kiittää sinua kylliksi. Tosi hienoa, että autoit meidät tästä pulasta. Tässä sinulle ~mission_rewards~, niin kuin sovittiin.~p~Olisimme hoitaneet homman itse, mutta aiomme suunnata politiikkaan, ja emme voi riskeerata mainettamme tällaisilla operaatioilla.~p~Emme edes silloin, kun kaikki palvelee MAHTAVIEN KROPOJEN TARKOITUSPERIÄ! YLISTETTYJÄ OLKOOT KROPOT! Sori... parasta pelata varman päälle.
+0x00000040 Oi, iloa mitä ihmeellisintä! Saamme varmasti raikuvat aplodit tähtitieteilijöiden tämänvuotisessa Planeettaparaatissa. Menestyksesi on käytännössä taannut meille kilpailuvoiton. Kiitos, kiitos, kiitos.~p~Tässä lupaamamme palkkio, ~mission_rewards~. Olet ansainnut sen täysin.
+0x00000044 Kiitämme sinua, ja planeetan ~mission_target_planet~ ekosysteemi kiittää sinua myös. Annamme sinulle mielellämme ~mission_rewards~.
+0x00000043 ~player_title~ ~player_creature_name~! Olet osoittautunut luottamuksemme arvoiseksi. Ota nämä ~mission_rewards~ ja Paten siunaus.
+0x000000F8 Kaikki lajin ~mission_target_animal_species~ otukset on eliminoitu, jotka pitikin. Palaa nyt tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~, niin saat palkkiosi.
+0x000000E0 Hyvää työtä, kapteeni! Kappas, meillä onkin tässä ~mission_rewards~ pino. Voisit varmaan ottaa sen itsellesi.
+0x000000DF ~player_creature_name~. Olet täyttänyt pyyntömme. Usein on välttämätöntä motivoida orgaanisia lajeja ~mission_rewards~ palkkiolla. Siksi tarjoammekin sinulle nyt mainitun summan.
+0x00000013 Olen vain viheliäinen pikku otus, mutta pakko ajaa minut puhuttelemaan teidän suuruuttanne. ~mission_source_empire~ omistaa rauhaisan siirtokunnan joka on joutunut kammottavien saalistajien hyökkäyksen kohteeksi. Suurimmassa hädässäni toivon, että teidän mahtavuutenne värähdyttäisi mahtavia lihaksiaan ja hävittäisi lihansyöjälajin ~mission_target_animal_species~ planeetalta ~mission_target_planet~. Moinen armoteko palkittaisiin toki avokätisesti.
+0x00000048 Hyvä ~player_title~ ~player_creature_name~. Paluusi on mitä tervetullein.~p~Kiitos, että palautit tasapainon söpöjen pikku eläinystäviemme keskuuteen. Tässä sinulle luvatut ~mission_rewards~. Kiitollisuutemme osoituksena olemme lukeneet niiden ääressä siunausmantroja jo tuntikausia.
+0x00000045 ~player_title~ ~player_creature_name~. Olet puhdistanut planeetan ~mission_target_planet~. Ota nämä ~mission_rewards~ ja koeta parhaasi mukaan unohtaa kaikki äsken tapahtunut.
+0x00000032 Kaikki alkoi planeetalta ~mission_target_planet~. ~group:star_clue~. Ah, ja voi! Tiedetään, että harmonian säilyttämiseksi pitää ~mission_num_kills_needed~ villiä lajin ~mission_target_animal_species~ edustajaa tuleman erotetuksi laumastaan ja maan päältä pyyhittämän.
+

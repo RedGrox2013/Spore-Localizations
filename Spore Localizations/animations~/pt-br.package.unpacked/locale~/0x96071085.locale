@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 As seguintes criações usadas nesta Aventura foram excluídas pelo servidor. Deseja republicá-las para que outras pessoas possam jogar a Aventura?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 As seguintes criações usadas nesta Aventura ainda não foram publicadas. Deseja publicá-las para que outras pessoas possam jogar a Aventura?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Algumas criações desta Aventura foram banidas.~p~ Sua pontuação não será creditada.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Algumas criações desta Aventura foram removidas.~p~ Deseja refazer o download dos itens?
+
+# Editing adventures offline
+
+0x07AA5B65 Login
+0x07AA5B67 Cancelar
+0x07AA5B66 Substituir
+0x07AA5B64 Você precisa fazer o login antes de fazer o download de criações para esta Aventura. Se você editar esta aventura, essas criações serão substituídas.
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Esta Aventura contém criações banidas e criações com partes que você não possui.~p~ Algumas criações serão substituídas.
+
+# Editing adventures with banned assets
+
+0x0750187C Algumas criações desta aventura foram banidas.~p~ Algumas criações serão substituídas.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Algumas criações desta Aventura foram banidas.~p~ Sua pontuação não será compartilhada.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Progresso do Download de Criações
+0x00000004 Falha no Download da Criação
+0x00000005 Você precisa fazer o login para obter as criações usadas nesta Aventura.
+0x00000002 Download de Aventuras
+0x00000006 Falha na publicação de Criações.
+0x00000003 Cancelar
+0x00000008 Publicando...
+0x00000007 Progresso da publicação
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Falha no download da criação. Deseja continuar?~p~Alguns itens serão substituídos e a sua pontuação não será creditada.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Algumas criações nesta Aventura contêm partes que você não possui.~p~ Algumas criações serão substituídas.
+

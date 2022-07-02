@@ -1,0 +1,371 @@
+﻿# CVG_TRG_Social
+
+0x00010040 Ferme les complexes de loisirs et les tourelles, provoquant le malheur des citoyens.
+0x0001003F Nuage noir
+
+# CLG_Plant
+
+0x00000042 Herbivores
+0x00000043 Les cellules herbivores mangent des végétaux.
+
+# CRG_CLG_Plant
+
+0x00010022 Chant des Sirènes
+0x00010023 Utilisez cette compétence pour subjuguer les créatures proches. Ceci facilite vos entreprises de séduction.
+
+# SPG_CRG_Mix
+
+0x0001004E Accélère les voyages galactiques.
+0x0001004D Vitesse folle
+
+# CVG_CRG_Attack
+
+0x00010037 Bombe surpuissante
+0x00010038 Endommage tous les bâtiments et tous les véhicules dans son rayon visible.
+
+# CVG_TRG_SocialWin
+
+0x0001006B Soulèvement Fanatique
+0x0001006C Convertit toutes les villes
+
+# SPG_Wanderer_Tool
+
+0x00010068 Randomizes the species on a planet. NOT IN USE
+0x00010067 Species Shuffler NOT IN USE
+
+# CVG_Religious
+
+0x00000055 Religieuses
+0x00000056 Les civilisations religieuses usent et abusent de mots et d'idées pour rallier les autres nations à leurs opinions.
+
+# SPG_TRG_Social
+
+0x00010052 Améliore les relations initiales avec les races étrangères.
+0x00010051 Accueil chaleureux
+
+# TRG_Mix
+
+0x00000050 Les tribus opportunistes agissent en fonction de la situation. Attaque ou alliance, c'est selon. Elles font des alliées redoutables, mais méfiance, tout de même.
+0x0000004F Opportunistes
+
+# CVG_CRG_Mix
+
+0x0001003C Les véhicules ennemis se trouvant dans le rayon de la bombe s'attaquent les uns les autres.
+0x0001003B Bombe corruptrice
+
+# CVG_TRG_Mix
+
+0x00010042 Accélère le rachat d'une ville.
+0x00010041 Avalanche publicitaire
+
+# SPG_CRG_Social
+
+0x0001004C Rend vos colonies heureuses et modère la possibilité d'une révolte.
+0x0001004B Comble du Malheur
+
+# SPG_CVG_Military
+
+0x00010056 Fait diminuer la probabilité d'une attaque pirate.
+0x00010055 Sus aux Pirates
+
+##########################
+# Trait names & descriptions
+# For below, first GUID is name, second GUID is description
+# CLG_Meat
+
+0x00000040 Carnivores
+0x00000041 Les cellules carnivores mangent de la viande.
+
+# TRG_CLG_Mix
+
+0x00010029 Poisson volant
+0x0001002A Cette compétence permet au chef de village de faire venir un serpent qui fait sauter, de peur, les poissons hors de l'eau.
+
+# SPG_TRG_Attack
+
+0x00010050 Vous offre des réductions sur tous les outils offensifs.
+0x0001004F Armurier
+
+##########################
+# Super Power names & descriptions
+
+0x067775B1 Disponible en phase Créature
+0x067775FA Disponible en phase Espace
+0x067775E7 Disponible en phase Civilisation
+0x067775D9 Disponible en phase Tribu
+
+# SPG_Trader
+
+0x00000062 Les négociants sont avant tout des spéculateurs. Ils ne se prosternent que devant le tout-puissant Sporeflouz.
+0x00000061 Négociants
+
+# SPG_Bard
+
+0x00000057 Ménestrels
+0x00000058 Les ménestrels sont en quelque sorte des bouffons cosmiques. Leurs blagues font le tour de la galaxie.
+
+# SPG_Warrior_Tool
+
+0x00010065 Armée de Soutien
+0x00010066 Ouvre un portail mystique qui crée le chaos sur la planète.
+
+# SPG_Diplomat
+
+0x0000005D Diplomate
+0x0000005E Les diplomates sont des négociateurs. Ils résolvent les problèmes. La paix galactique est au prix d'un dialogue constant entre les différentes espèces.
+
+# CVG_Economic
+
+0x00000053 Economiques
+0x00000054 Les civilisations économiques pèsent sur les autres nations avec l'argent et les axes commerciaux. Le plus souvent, elles concluent des alliances intéressantes pour elles.
+
+# CLG2_Discoverer
+
+0x00000102 Dénicheur
+0x00000103 Description chercheur
+
+# SPG_Knight_Tool
+
+0x00010069 Appel Mini-clone
+0x0001006A Une soucoupe miniature, clone de la vôtre, vient vous prêter main forte.
+
+# CLG2_Killer
+
+0x00000100 Tueur
+0x00000101 Description tueur
+
+# SPG_Warrior
+
+0x00000066 Les guerriers imposent leur loi. Ils ne demandent jamais d'autorisation. La galaxie est la récompense ultime pour le plus fort.
+0x00000065 Guerriers
+
+# SPG_Wanderer
+
+0x00000068 Les vagabonds adorent l'idée même de la découverte. L'infini de la galaxie les réjouit : il y a tant de choses à vivre.
+0x00000067 Vagabonds
+
+# CVG_CRG_Social
+
+0x00010039 Diplo-Magique
+0x0001003A Améliore vos relations avec la nation visée.
+
+# CRG_Attack
+
+0x00000046 Prédateurs
+0x00000047 Les prédateurs passent leur vie à chasser leurs proies. Ils auront plutôt tendance à provoquer l'extinction d'une espèce qu'à danser ou charmer.
+
+# TRG_CRG_Mix
+
+0x0001002F Seigneur des Bestiaux
+0x00010030 Le chef de village peut amadouer les animaux à proximité pendant une attaque ou une entreprise de séduction.
+
+# CVG_CLG_Meat
+
+0x00010032 Les véhicules restent intacts quoi qu'il arrive, l'espace de quelques instants.
+0x00010031 Invulnérabilité
+
+# TRG_CLG_Meat
+
+0x00020025 Pièges
+0x00020026 Cette compétence permet au chef de village de poser des pièges pour capturer des animaux sauvages.
+
+# SPG_CLG_Meat
+
+0x00010043 Energétique
+0x00010044 Améliore l'efficacité de toutes les armes.
+
+# SPG_CLG_Mix
+
+0x00010047 Noble généraliste
+0x00010048 Les outils standards sont moins chers.
+
+# SPG_TRG_Mix
+
+0x00010053 Tarif colonial
+0x00010054 Les outils de colonisation sont moins chers.
+
+# Zero
+
+0x06941DC3 année(s)
+0x06941DC0 milliard(s)
+0x06941DC2 millier(s)
+0x06941DC1 million(s)
+
+# SPG_CVG_Religious
+
+0x0002005A Toutes vos colonies subissent moins souvent de catastrophes naturelles.
+0x00020059 Ami des Arbres
+
+# CLG_Mix
+
+0x00000045 Les cellules omnivores mangent de tout.
+0x00000044 Omnivores
+
+# SPG_Bard_Tool
+
+0x00010058 A un effet calmant sur les autres empires, et améliore vos relations de façon temporaire.
+0x00010057 Berceuse
+
+# CRG_Social
+
+0x00000147 Amitié
+0x00000048 Les créatures amicales sont toujours en quête d'amis et d'alliés. Rencontrer de nouvelles espèces, elles adorent ça.
+
+# CRG_Mix
+
+0x00000049 Adaptables
+0x0000004A Les créatures adaptables ont autant d'amis que d'ennemis. Elles adaptent leurs choix à chaque situation.
+
+# SPG_CLG_Plant
+
+0x00010045 Amitié-discount
+0x00010046 Les outils sociaux sont tout de suite moins chers.
+
+# CRG_CLG_Meat
+
+0x00010020 Super rugissement
+0x00010021 Utilisez cette compétence pour effrayer les créatures proches et les faire fuir.
+
+# CVG_CLG_Plant
+
+0x00010033 Onde guérisseuse
+0x00010034 Répare tous vos véhicules et vos bâtiments.
+
+# SPG_Shaman
+
+0x00000063 Chaman
+0x00000064 Pour les chamans, tout est dans tout... et réciproquement. Chacun détient sa propre part de galaxie.
+
+# SPG_Ecologist
+
+0x0000005A Les écologistes protègent la nature. Les espèces qui veulent exploiter et corrompre la galaxie doivent être exterminées.
+0x00000059 Ecologistes
+
+# CVG_TRG_Attack
+
+0x0001003D Bombe gadget
+0x0001003E Endommage les bâtiments et les véhicules et permettent de prendre des villes.
+
+# SPG_Ecologist_Tool
+
+0x00010059 Aspirateur d'espèces
+0x0001005A Prélève instantanément toutes les espèces d'une planète.
+
+# SPG_Zealot
+
+0x0000005C Les Fanatiques considèrent que leurs croyances sont les seules qui vaillent. Ceux qui ne pensent pas comme eux ne méritent pas de vivre dans cette galaxie.
+0x0000005B Fanatiques
+
+# SPG_Trader_Tool
+
+0x00010061 Injection de cash
+0x00010062 Remplit instantanément la barre de rachat d'un système.
+
+# SPG_CRG_Attack
+
+0x00010049 In Corpore sano
+0x0001004A Améliore l'état général de votre soucoupe.
+
+# CRG_CLG_Mix
+
+0x00010024 Appel de troupes
+0x00010025 Utilisez cette compétence pour rassembler une armée qui vous assiste au combat ou dans vos entreprises de séduction.
+
+# TRG_Attack
+
+0x0000004B Agressives
+0x0000004C Les tribus agressives veulent exterminer leurs concurrentes. Elles mènent des attaques et se livrent à des pillages de ressources.
+
+# SPG_Knight
+
+0x00000069 Chevaliers
+0x0000006A Les chevaliers se battent pour le bon droit et non pour leur gloire personnelle. Il n'auront de repos que lorsque la galaxie sera débarrassée du mal.
+
+# SPG_Scientist
+
+0x00000060 Les scientifiques ont un esprit logique et rationnel. La galaxie n'existe que pour être étudiée et comprise.
+0x0000005F Scientifiques
+
+# SPG_Shaman_Tool
+
+0x00010063 Billet aller-retour
+0x00010064 Vous ramène instantanément à votre système d'origine
+
+# SPG_Zealot_Tool
+
+0x0001005B Frénésie Fanatique
+0x0001005C Permet de prendre le contrôle religieux d'un empire étranger.
+
+# SPG_CVG_Economic
+
+0x00020058 Toutes vos colonies produisent plus d'Epice.
+0x00020057 A la Bonne Epice
+
+# CVG_TRG_MixWin
+
+0x0001006D Fusion Globale
+0x0001006E Rachète toutes les villes
+
+# Singular
+
+0x55496322 million(s)
+0x55496321 milliard(s)
+0x55496323 millier(s)
+0x55496324 année(s)
+
+# TRG_CLG_Plant
+
+0x00010027 Grand coup de frais
+0x00010028 Cette compétence permet au chef de village de déclencher un orage qui fait pousser les fruits et les fait tomber des arbres.
+
+# CVG_TRG_AttackWin
+
+0x0001006F Missile Intercontinental
+0x00010070 Détruit toutes les villes
+
+# CVG_Military
+
+0x00000051 Militaires
+0x00000052 Les civilisations militaires s'appuient sur la force de leur armement. Elles mobilisent toutes leurs ressources pour détruire d'autres nations.
+
+# TRG_CRG_Social
+
+0x0001002D Feu d'artifice
+0x0001002E Le chef de village allume un feu d'artifice qui permet d'améliorer les relations avec les tribus proches.
+
+# TRG_Social
+
+0x0000004E Les tribus amicales misent beaucoup sur le travail collectif. Par des alliances, elles mettent leurs ressources en commun et en tirent collectivement les fruits.
+0x0000004D Amitié
+
+# Plural
+
+0x0694179E milliard(s)
+0x069417A0 millier(s)
+0x0694179F million(s)
+0x069417A1 année(s)
+
+# CVG_CLG_Mix
+
+0x00010036 Fige temporairement véhicules, tourelles et bâtiments.
+0x00010035 Bombe statique
+
+# TRG_CRG_Attack
+
+0x0001002B Bombes incendiaires
+0x0001002C Le chef de village jette des bombes incendiaires qui endommagent les créatures et les constructions proches.
+
+# SPG_Diplomat_Tool
+
+0x0001005E Neutralise toutes les soucoupes et tourelles de la planète.
+0x0001005D Champ magnétique
+
+# SPG_Scientist_Tool
+
+0x00010060 Détruit toute structure sur la planète.
+0x0001005F Onde de gravitation
+
+# Timeline GUIDS
+
+0x55496320 Historique
+

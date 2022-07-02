@@ -1,0 +1,246 @@
+﻿0x00000061 ~guide: -h1~ Aloittaminen
+0x00000071 ~guide: -h3~ Suoraan galaksista
+0x00000A91 ~guide: -h1~ Tavoitekortit
+0x00000AA1 ~guide: -h2~ Kussakin pelin vaiheessa on omat tavoitteensa ja tehtävänsä, joiden toteuttaminen edesauttaa pelissä edistymistä.
+0x000008F1 ~guide: -h3~ Väestön kasvattaminen
+0x00000A11 ~guide: -h3~ Työkalujen käyttöönotto
+0x00000C41 ~guide: -h3~ Valloittaminen:
+0x000009E1 ~guide: -h3~ Sijoitus
+0x00000A01 ~guide: -h2~ Jos haluat ostaa työkalun, napsauta sitä ja vedä se kylässäsi johonkin merkittyyn sijoituspaikkaan.
+0x00000C21 ~guide: -h2~ Pääasiallisena kilpakumppaninasi ovat muut heimot.
+0x00000C31 ~guide: -h2~ Kukista viisi naapuriheimoa tai liittoudu niiden kanssa, niin edistyt pelissä. Valitse taktiikkasi vastustajan koon, sijainnin ja työkalujen mukaan.
+0x00000A41 ~guide: -bullet~ Napsauta hiiren oikealla painikkeella työkaluvajaa, jossa olevan työkalun haluat ottaa käyttöön.
+0x00000971 ~guide: -h4~ Työkaluja on kolmenlaisia:
+0x000009D1 ~guide: -h2~ Jokainen työkalu kuluttaa heimon ruokavarantoja, mutta käytössä työkalut lisäävät ja parantavat heimonjäsenten ominaisuuksia.
+0x000009C1 ~guide: -h3~ Kulut
+0x00000D41 ~guide: -h1~ Heimopelin suorittaminen
+0x00000A71 ~guide: -h2~ Et ole enää samalla kehitystasolla, jolla olit otuspelissä. Et siis voi enää muuttaa fyysistä olomuotoasi osia lisäämällä tai liikuttamalla, mutta voit kuitenkin ostaa heimosi jäsenille asuja asustamosta.
+0x00000A81 ~guide: -h2~ Jokainen asu auttaa heimoasi jollakin tavalla. Valitse siis lisävarusteet, jotka vastaavat heimolle valitsemaasi taktiikkaa.
+0x000008A1 ~guide: -h2~ Näin kesytät villieläimen:
+0x000008C1 ~guide: -bullet~ Napsauta kesytettävää villieläintä hiiren oikealla painikkeella.
+0x00000CC1 ~guide: -h3~ Näin liittoudut:
+0x00000C11 ~guide: -h1~ Toimet muiden heimojen kanssa
+0x00000881 ~guide: -h3~ Kesyttäminen
+0x00000891 ~guide: -h2~ Kesytetyt eläimet lisätään heimoosi kotieläiminä. Saat sitten ravintoa syömällä niiden munia. Kasvinsyöjät, lihansyöjät ja kaikkiruokaiset otukset voivat kaikki syödä kesytettyjen villieläinten munia.
+0x00000BD1 ~guide: -h2~ Ryöstelevistä villieläimistä ja muista heimoista varoitetaan metsästystorven soitolla. Jos heimosi on muualla, tulee heidän palata kiireen vilkkaa kotikyläänsä!
+0x00000B61 ~guide: -bullet~ Kun viet kohdistimen naapuriheimon heimomajan ylle, esiin tulee tietoja heimon koosta ja heimojen välisestä suhteesta.
+0x00000B81 ~guide: -bullet~ Kaksoisnapsauta kohdetta pikkukartalla, niin kuvakulma siirtyy valittuun kohteeseen.
+0x00000B71 ~guide: -bullet~ Napsauta kohdetta pikkukartalla, niin kuvakulma siirtyy valittuun kohteeseen.
+0x00000B01 ~guide: -h2~ Pikkukartalla näkyvät mantereen tärkeät maastonkohdat:
+0x00000B91 ~guide: -h1~ Suhde naapuriheimoihin
+0x00000AF1 ~guide: -h1~ Pikkukartta
+0x00000BA1 ~guide: -h2~ Suhteet muihin heimoihin ja villieläimiin ovat erittäin tärkeässä osassa heimopelin aikana.
+0x00000B31 ~guide: -image-left 0x05556b31!minimap-fish.png ~ Kalapaikat
+0x00000AB1 ~guide: -h3~ Välitavoitteiden kortit
+0x00000B11 ~guide: -image-left 0x05556b31!minimap-fruit.png ~ Hedelmälehdot
+0x000000A1 ~guide: -h2~ Olet kehittynyt sitten otuspelin, ja olemassaolostaan tietoinen otuksesi hallitsee nyt tulta. Lisäksi se on muodostanut pienen kolmen otuksen heimon ja rakentanut heimolleen kylän. Kehityskulku solusta otukseksi on määrittänyt heimosi kehityssuunnan. Aiemmat tapahtumat ja aiemmin tekemäsi valinnat määrittivät paitsi ravintosi myös heimosi työkalut. Lisäksi käytössäsi on tiettyjä taitoja, jotka olet saanut keräämistäsi geeneistä. Näitä kutsutaan perimäominaisuuksiksi.
+0x000000F1 ~guide: -h2~ Jos saat kerättyä ruokaa varastoon asti, voit kehittää kylääsi, ostaa työkaluja ja asustaa heimosi jäseniä. Näin pääset johdattamaan heimosi jäsenet uusiin haasteisiin.
+0x000000C1 ~guide: -h2~ Ennen pitkää heimosi kohtaa planeetan muita heimoja.
+0x000000B1 ~guide: -h2~ Heimo tarvitsee ennen kaikkea ruokaa. Sinun tulee kerätä tai saalistaa ravintoa heimollesi.
+0x00000031 ~guide: -h2~ Uuden älykkyytesi myötä pääset käyttämään tulta, työkaluja ja asuja. Nämä ovat tärkeitä heimosi menestykselle. Heimopelissä vaihdon välineenä käytetään ruokaa.
+0x000004C1 ~guide: -h4~ Liikuta kuvakulmaa
+0x000004D1 ~guide: -bullet~ Vie kohdistin ruudun reunalle, niin kuva liikkuu valitsemaasi suuntaan (varmista, että ruudunvieritys on kytketty päälle peli- ja tallennusasetuksista).
+0x000004B1 ~guide: -bullet~ Voit myös pitää hiiren keskimmäisen painikkeen painettuna ja liikuttaa hiirtä ylös tai alas.
+0x00000161 ~guide: -h2~ Heimon tunnusväri määräytyy sen mukaan, mikä on otuksesi väri. Vihollisheimojen tunnusväri on merkitty niiden nahkaan, rakennuksiin ja työkaluihin. Näet värin myös pikkukartalla. Värit erottavat heimot planeetan pinnalla tallustavista villieläimistä.
+0x00000511 ~guide: -bullet~ Lähennä tai loitonna kuvaa pyörittämällä hiiren rullaa.
+0x00000521 ~guide: -bullet~ Voit lähentää ja loitontaa kuvaa myös PLUS- ja MIINUS-näppäimillä
+0x00000501 ~guide: -h4~ Lähennä ja loitonna kuvaa
+0x000004F1 ~guide: -bullet~ Myös W-, A-, S- ja D-näppäimet ja nuolinäppäimet liikuttavat kuvaa.
+0x00000491 ~guide: -h4~ Kallista kuvakulmaa
+0x00000421 ~guide: -h2~ Kun liittoudut toisen heimon kanssa tai nujerrat sen taistelussa, heimosi juhlistaa saavutusta lisäämällä osan kylässä olevaan toteemipaaluun.
+0x00000431 ~guide: -h1~ Ohjauskomennot
+0x00000411 ~guide: -h2~ Jokainen palkin osio kuvaa heimoa, jonka olet tuhonnut tai jonka kanssa olet liittoutunut. Läpäiset heimopelin, kun nujerrat kaikki alueen viisi heimoa tai liittoudut niiden kanssa.
+0x000003F1 ~guide: -h1~ Edistyksen seuraaminen
+0x00000401 ~guide: -h2~ Heimopelin aikana voit seurata edistymistäsi ruudun alareunassa olevan edistyspalkin avulla.
+0x00000471 ~guide: -bullet~ Voit myös pitää hiiren keskimmäisen painikkeen painettuna ja liikuttaa hiirtä vasemmalle tai oikealle.
+0x00000481 ~guide: -bullet~ Kun painat PILKKU- tai PISTE-näppäintä, kuvakulma kääntyy.
+0x00000441 ~guide: -h3~ Kuvakulma
+0x00000451 ~guide: -h4~ Käännä kuvakulmaa
+0x00000531 ~guide: -h4~ Otuksen seuraaminen
+0x000005D1 ~guide: -bullet~ Pidä CTRL-näppäin painettuna ja napsauta hiiren vasemmalla painikkeella niitä heimon jäseniä, jotka haluat lisätä ryhmään.
+0x00000131 ~guide: -h2~ Kun kukistat ensimmäisen, kolmannen ja viidennen heimon tai liittoudut niiden kanssa, heimosi arvovalta ja koko kasvavat. Lisäksi heimosi keksii teknisiä edistysaskelia, joiden ansiosta voit ennen pitkää rakentaa kaupungintalon ja siirtyä sivilisaatiopeliin.
+0x00000621 ~guide: -h2~ Heimoluettelossa on kunkin heimon jäsenen kuva, josta näet, mitä valittu otus kulloinkin tekee. Jos otuksella on työkalu, otuksen kuvan kohdalla on työkalukuvake. Näin voit pitää silmällä keräilijöitä ja metsästäjiä sekä näiden kuntoa ja nälkäisyyttä. Voit sitten helposti valita sopivimman otuksen kulloiseenkin tehtävään.
+0x00000141 ~guide: -h1~ Oma heimo
+0x00000561 ~guide: -h1~ Heimon jäsenten ohjaaminen
+0x00000551 ~guide: -bullet~ Paina VÄLILYÖNTIÄ uudelleen, niin kuvakulma siirtyy heimon jäsenestä toiseen. Jatka painamista, kunnes kuva seuraa haluamaasi otusta tai ryhmää.
+0x00000151 ~guide: -h3~ Heimon tunnusväri
+0x00000541 ~guide: -bullet~ Paina VÄLILYÖNTIÄ, niin kuvakulma seuraa heimon jäsentä.
+0x000005B1 ~guide: -h2~ Voit valita useita heimon jäseniä monella eri tavalla:
+0x000005C1 ~guide: -bullet~ Pidä hiiren vasen painike painettuna ja valitse haluamasi heimon jäsenet vetämällä näiden ympäri ruutu.
+0x00000591 ~guide: -h2~ Mikäli heimon jäsen on valittu, sen ympärillä on keltainen merkkikehä. Tällöin otus tottelee komentojasi.
+0x00000171 ~guide: -h3~ Perimätaidot
+0x00000291 ~guide: -h2~ Mikäli heimosi jäseniä ei ruokita, ne alkavat nääntyä ja menettää kuntoaan. Lopulta ne kuolevat.
+0x00000271 ~guide: -h2~ Ennen pitkää heimosi jäsenille tulee nälkä, ja heidän pitää syödä jotakin.
+0x00000251 ~guide: -h3~ Nälkä
+0x000002D1 ~guide: -h2~ Heimoeditorista voit ostaa heimolle työkaluja, joiden avulla heimosi jäsenet paranevat nopeammin.
+0x000002C1 ~guide: -h2~ Heimon jäsenet voivat haavoittua taistelussa. Pidä heimosi jäsenet hyvässä kunnossa ja ohjaa haavoittuneet otukset takaisin kylään lepäämään.
+0x000002B1 ~guide: -h3~ Kunto
+0x00000241 ~guide: -h2~ Mikäli heimon jäsen on valittu, kuvan reunus on keltainen.
+0x000001E1 ~guide: -h4~ Heimon jäsenet
+0x000001D1 ~guide: -h2~ Heimon päällikön tunnistaa sauvasta. Päällikkö on voimakkaampi kuin heimon muut jäsenet, ja hän tarvitsee työkaluksi vain sauvansa. Sauvalla on kaikkien heimon hankkimien työkalujen ominaisuudet.
+0x000001B1 ~guide: -h4~ Päällikkö
+0x000001C1 ~guide: -h2~ Kun aloitat heimopelin, otuspelissä ohjaamasi otus kohotetaan kylän päälliköksi!
+0x00000221 ~guide: -bullet~ Heimon jäsenen kunto
+0x00000231 ~guide: -bullet~ Heimon jäsenen nälkäisyys
+0x00000211 ~guide: -bullet~ Työkalu, jota heimon jäsen parhaillaan käyttää
+0x000001F1 ~guide: -h2~ Kaikki heimon jäsenet näkyvät kuvina ruudun oikean reunan heimoluettelossa.
+0x00000201 ~guide: -h2~ Kuvassa näkyy:
+0x000001A1 ~guide: -h3~ Heimo
+0x000003A1 ~guide: -h2~ Aina kun voitat toisen heimon tai saat uuden liittolaisen, toteemipaaluusi lisätään osa. Kun olet kerännyt toteemiisi viisi osaa, heimollasi on niin paljon vaikutusvaltaa, että se voi perustaa kaupungin!
+0x000003B1 ~guide: -h3~ Työkaluvaja
+0x00000391 ~guide: -h2~ Heimosi toteemipaalu kuvastaa asemaasi ja saavutuksiasi.
+0x00000371 ~guide: -h2~ Villieläimet ryöstävät mielellään ruokavarastoja. Jos kylässä on paljon ruokaa ja jätät kylän ja sen ruokavarat vartiotta, villieläimet käyvät varmasti hakemassa itselleen herkkuja. Tapahtumahistoria ja metsästystorven ääni varoittavat sinua voroista.
+0x00000381 ~guide: -h3~ Toteemipaalu
+0x00000321 ~guide: -h2~ Heimon maja on kylän keskipiste. Maja on merkitty heimosi tunnusvärillä. Kun heimosi nujertaa muita heimoja tai liittoutuu näiden kanssa, sen maja ja kylä kasvavat.
+0x00000311 ~guide: -h3~ Heimon maja
+0x00000301 ~guide: -h1~ Kylä
+0x00000361 ~guide: -h2~ Heimosi jäsenet keräävät ruoka-ainekset (olivatpa ne sitten lihaa, kalaa, hedelmiä tai merilevää) ja varastoivat ne toteemipaalun vieressä olevaan ruokavarastoon.
+0x00000351 ~guide: -h3~ Heimon ruokavarasto
+0x00000331 ~guide: -h3~ Kokko
+0x00000041 ~guide: -h2~ Työkalujen myötä pääset nauttimaan myös meren hedelmistä. Heimosi voi näet täyttää ruokavarastojaan vetten syvyyksistä: kasvinsyöjät voivat kerätä syömäkelpoista merilevää, kun taas lihansyöjät ja kaikkiruokaiset otukset voivat popsia kaloja.
+0x00000111 ~guide: -h2~ Heimopelin tavoite on nujertaa mantereen kilpailevat heimot tai liittoutua näiden kanssa sekä kasvattaa oma heimo niin suureksi, että voit perustaa kaupungin ja luoda sivistyneen yhteiskunnan.
+0x00000101 ~guide: -h1~ Tavoite
+0x00000731 ~guide: -bullet~ Napsauta hiiren oikeaa painiketta haluamasi villieläimen kohdalla.
+0x00000741 ~guide: -bullet~ Valitsemasi valmiuden mukaan heimolaiset joko hyökkäävät villieläimen kimppuun tai yrittävät kesyttää sen.
+0x00000721 ~guide: -bullet~ Valitse joko seurustelu- tai taisteluvalmius.
+0x00000701 ~guide: -h2~ Näin käsittelet villieläimiä:
+0x00000711 ~guide: -bullet~ Valitse otus tai ryhmä.
+0x00000781 ~guide: -h2~ Katso lisää kohdasta Suhteet muihin heimoihin.
+0x00000791 ~guide: -h1~ Ruoka
+0x00000761 ~guide: -h3~ Toimet muiden heimojen kanssa
+0x000006F1 ~guide: -h3~ Villieläinten käsittely
+0x00000681 ~guide: -h2~ Heimon jäsenet toistavat valittua toimenpidettä, kunnes valitun kohteen resurssit on käytetty, toiminto ei ole enää mahdollinen tai otusten toiminta keskeytetään.
+0x00000691 ~guide: -h3~ Taistelu- ja seurusteluvalmiuteen asettaminen
+0x00000671 ~guide: -bullet~ Lähetä valitut heimon jäsenet valitsemaasi paikkaan napsauttamalla hiiren oikealla painikkeella maata määränpäässä.
+0x00000651 ~guide: -bullet~ Toiminnalliset kohteet näkyvät korostettuina tai kohdistin muuttaa muotoaan niiden kohdalla.
+0x00000661 ~guide: -bullet~ Kun heimon jäsen on valittuna, voit komentaa otuksesi käyttämään kohdetta napsauttamalla hiiren oikeaa painiketta kohteen kohdalla. Voit esimerkiksi poimia hedelmiä napsauttamalla hedelmäpuuta tai kalastaa napsauttamalla rantaa, jossa pomppii kaloja.
+0x000006E1 ~guide: -h2~ Valmius kannattaa valita, ennen kuin otat kohteeksesi naapuriheimon jäsenen tai villieläimen.
+0x000006A1 ~guide: -h2~ Heimosi jäsenet toimivat eri tavalla valitsemasi valmiuden mukaan.
+0x000007A1 ~guide: -h2~ Heimopelissä vaihdon välineenä käytetään ruokaa.
+0x00000871 ~guide: -h2~ Kun ostat heimoeditorista aseita, heimon jäsenistä tulee tehokkaampia taistelijoita ja villieläinten voittaminenkin on helpompaa.
+0x00000851 ~guide: -bullet~ Valitse heimon jäsen tai ryhmä, napsauta sitten taisteluvalmiuden painiketta ja lopuksi villieläintä.
+0x00000861 ~guide: -bullet~ Heimon jäsenet käyvät taisteluun. Jos he ovat menestyksekkäitä, he tuovat saaliin lihatarjottimilla ruokavarastoon.
+0x00000841 ~guide: -h2~ Heimopelissä kohtaamasi villieläimet voivat olla heimollesi joko uhka tai ravinnonlähde.
+0x000007E1 ~guide: -h3~ Ruoan kerääminen
+0x000007F1 ~guide: -h2~ Hedelmälehdot ja kalapaikkojen lähettyvillä olevat merileväesiintymät ovat oivia ravinnonlähteitä kasvinsyöjille.
+0x000007D1 ~guide: -h2~ Kasvinsyöjät, lihansyöjät ja kaikkiruokaiset otukset voivat kaikki kesyttää villieläimiä ja kerätä niiden munia ruoaksi.
+0x000007B1 ~guide: -h2~ Ruoan varastoiminen estää heimoasi nääntymästä nälkään. Ruoan avulla voit myös ostaa työkaluja heimoeditorissa.
+0x000007C1 ~guide: -h2~ Valitsemasi suu määrittää heimon ruokavalion. Mikäli otuksesi ovat kasvinsyöjiä, niiden täytyy kerätä hedelmiä tai merilevää. Mikäli ne ovat lihansyöjiä, niiden tulee metsästää tai kalastaa ruokansa. Mikäli otukset ovat kaikkiruokaisia, ne voivat joko metsästää ruokansa tai kerätä sen. Kaikkiruokaiset otukset kaipaavat hieman enemmän ravintoa kuin muut.
+0x00000821 ~guide: -h2~ Valitsemasi heimon jäsenet keräävät hedelmiä tai merilevää, kunnes alueen resurssit on käytetty loppuun. Kerätty ruoka viedään ruokavarastoon.
+0x00000831 ~guide: -h3~ Metsästäminen
+0x00000D33 ~guide: -bullet~ Kappaleen lopuksi toinen heimo arvioi suorituksesi. Mikäli arvio on riittävän suotuisa, olet luonut liittolaisuudelle hyvän pohjan.
+0x00000D32 ~guide: -bullet~ Vastaa parhaasi mukaan musiikillisiin toiveisiin, niin saat suhteen etenemään oikeaan suuntaan.
+0x00000D03 ~guide: -bullet~ Napsauta seurusteluvalmiuden painiketta.
+0x00000B82 ~guide: -bullet~ Vie kohdistin pikkukartan oikealla puolella olevan majan päälle, niin saat tietää millainen on heimosi suhde toiseen heimoon ja mitä kaikkea heimojen välillä on aiemmin tapahtunut.
+0x00000642 ~guide: -h3~ Kohteiden käyttäminen
+0x000003E3 ~guide: -h2~ Kun edistyt heimopelissä, heimosi kehityshistoria tallennetaan. Napsauttamalla edistyspalkin päässä olevaa historiapainiketta voit tarkistaa, mitä kaikkea olet saavuttanut.
+0x000001D2 ~guide: -h2~ Jos heimon päällikkö menehtyy taistelussa, hän herää mystisesti henkiin kylässä.
+0x00000BC2 ~guide: -h2~ Villieläimet eivät voi vastustaa täpötäyttä ruokavarastoa. Ne yrittävät tehdä ryöstöretkiä varastoihisi ja hiippailla pakoon herkkujen kanssa.
+0x000003E2 ~guide: -h1~ Historia ja perimä
+0x00000C02 ~guide: -h2~ Voit antaa toiselle heimolle lahjan:
+0x00000D92 ~guide: -h2~ Heimosi menestys kruunataan, kun se muuttaa kylästä kaupunkiin. Tällöin siirryt rakennuseditoriin, jossa voit luoda tai valita kaupungintalon, ja kulkuneuvoeditoriin, jossa voit kehittää uuden sivilisaatiosi ensimmäisen kulkuvälineen.
+0x00000C62 ~guide: -bullet~ Kun varustat heimon jäsenet työkaluilla, hyökkäysvoimasi lisääntyy.
+0x00000C04 ~guide: -bullet~ Valitse haluamasi heimon jäsenet ja napsauta sitten hiiren oikealla painikkeella naapuriheimon majaa tai ruokavarastoa.
+0x00000C64 ~guide: -bullet~ Joskus on ehkä otettava kohteeksi yksittäisiä vihollisheimon jäseniä, jotta nämä eivät pääse häiritsemään, kun heimosi muut jäsenet hyökkäävät viholliskylän kimppuun.
+0x00000C03 ~guide: -bullet~ Varmista, että heimollasi on ylimääräisiä ruokavaroja.
+0x00000C63 ~guide: -bullet~ Voit antaa heimon jäsenille käyttöön erilaisia työkaluja ja lähettää nämä sitten ryhmänä taisteluun. Kullakin työkalulla on oma vahvuutensa, joten tämä parantaa hyökkäystehokkuutta.
+0x00000907 ~guide: -h2~ Heimo saa lisää arvovaltaa liittoutumalla muiden heimojen kanssa ja kukistamalla niitä. Tällöin heimon asukasluku voi kasvaa.
+0x00000922 ~guide: -bullet~ Voit avata heimoeditorin valitsemalla heimon majan ja napsauttamalla heimoeditorin painiketta.
+0x00000904 ~guide: -bullet~ Kun napsautat poikaspainiketta, majan oviaukosta vierii muna (kukaan ei tiedä, mitä majassa tapahtuu). Hetken kuluttua muna kuoriutuu, ja laumaan tulee uusi poikanen.
+0x00000906 ~guide: -bullet~ Kun poikanen on varttunut täysikasvuiseksi otukseksi, sen kuva näkyy heimoluettelossa.
+0x00000905 ~guide: -bullet~ Poikasta ei voi komentaa. Sen täytyy varttua täysikasvuiseksi otukseksi, ennen kuin siitä tulee heimon jäsen. Siihen kuluu tovi.
+0x00000902 ~guide: -bullet~ Napsauta majaa, niin poikaspainike tulee näkyviin.
+0x000008B2 ~guide: -bullet~ Siirrä heimosi jäsenet seurusteluvalmiuteen napsauttamalla ruudun alaosassa olevaa seurusteluvalmiuden painiketta.
+0x00000A42 ~guide: -bullet~ Kestää hetken aikaa, ennen kuin heimon jäsenet saavat haettua työkalunsa majasta.
+0x00000A82 ~guide: -h2~ Heimoeditoria käsittelevässä osuudessa on lisätietoja heimon asustamosta.
+0x00000A62 ~guide: -bullet~ Napsauta heimon asustamon välilehteä, vie kohdistin jäsenen kuvan kohdalle ja valitse asu.
+0x000000A3 ~guide: -h2~ Johdat nyt kolmen otuksen heimoa. Voit antaa komentoja yksittäisille otuksille tai ryhmälle. Voit myös liikuttaa kuvakulmaa ja näin seurata yksittäisiä otuksia tai ryhmiä, jotka olet lähettänyt tekemään eri tehtäviä.
+0x000000A2 ~guide: -h3~ Johdat nyt heimoa
+0x00000B52 ~guide: -h3~ Pikkukartan komennot
+0x00000921 ~guide: -h2~ Heimoeditorissa voit hallita heimon työkaluja ja siirtyä heimon asustamoon.
+0x00000D21 ~guide: -bullet~ Heimosi jäsenet kulkevat naapuriheimon jäsenen tai kylän luo ja pyrkivät viihdyttämään heitä.
+0x00000D31 ~guide: -bullet~ Kun heimosi jäsenet soittavat soittimiaan, vieraan heimon jäsenet ajattelevat musiikkia, jota haluaisivat kuulla.
+0x00000D11 ~guide: -bullet~ Kun napsautat toisen heimon jäsentä tai majaa tässä valmiudessa, otuksesi ryhtyy seurustelutoimeen.
+0x00000911 ~guide: -h1~ Heimoeditori
+0x00000D81 ~guide: -h2~ Lajisi ansaitsee erityispiirteen evoluutiopolkunsa perusteella. Piirre määräytyy kaikkien soluvaiheen jälkeen tekemiesi valintojen ja toimien mukaan. Piirre määrittää, millaisen ainutlaatuisen ominaisuuden lajisi kehittää sivilisaatiopeliin siirtyessään.
+0x00000D71 ~guide: -h2~ Ennen kuin pääset perustamaan kaupunkiasi, voit tutkia lajisi historiaa. Näet kaikki lajisi toimet ja evoluutiopäätökset aina solutasolta asti. Evoluutio on pitkävaikutteinen prosessi, jossa jo ensimmäiset päätökset vaikuttavat kaikkeen tulevaan.
+0x00000D91 ~guide: -h3~ Kylästä kaupungiksi
+0x00000D61 ~guide: -h3~ Historia
+0x00000BE1 ~guide: -h3~ Suhteen parantaminen lahjoilla
+0x00000BC1 ~guide: -h2~ Sinuun vihamielisesti suhtautuvat heimot alkavat ryöstää ruokiasi ja hyökkäillä heimosi ja sen kylän kimppuun. Varmista siis, että sinulla on hyvät suhteet kaikkiin suuriin heimoihin, tai iske näiden kimppuun nopeasti. Muuten voit jäädä alakynteen. Jos menetät heimomajasi, heimosi häviää.
+0x00000991 ~guide: -bullet~ Soittimet – Soittimet ovat arvossaan, kun koetat tehdä vaikutuksen muihin heimoihin ja liittoutua niiden kanssa. Erilaisten soitinten yhdistelmä on erittäin hyödyllinen.
+0x000009A1 ~guide: -bullet~ Aseet – Aseet tulevat tarpeeseen sekä metsästettäessä että muita heimoja vastaan taisteltaessa. Aseiden yhdistelmä tekee heimostasi entistäkin pelottavamman vastustajan.
+0x00000BF1 ~guide: -h2~ Heimot, jotka haluavat pitää hyvää suhdetta heimoosi, tuovat sinulle ruokalahjoja.
+0x00000C01 ~guide: -h2~ Voit viedä muille heimoille ruokalahjoja ja siten parantaa heimojen välistä suhdetta ennen kuin yrität esiintyä ja saada heitä liittolaisiksesi.
+0x00000981 ~guide: -bullet~ Ruoka ja paraneminen – Nämä auttavat heimosi jäseniä ruoan keräämisessä ja haavojen parantamisessa.
+0x00000CF1 ~guide: -h4~ Liiton solmiminen esiintymällä
+0x000009B1 ~guide: -h2~ Lajisi evoluution aikana tehdyt valinnat määrittävät, mitä työkaluja heimollasi on käytössään heimopelin alussa. Muut työkalut eivät ole saatavillasi, ennen kuin päihität työkalua käyttävän heimon tai liittoudut tällaisen heimon kanssa. Saatavilla olevat työkalut voi ostaa heimoeditorista.
+0x00000C51 ~guide: -h2~ Jos haluat kukistaa toisen heimon, sinun pitää tuhota heimon kylä – ja ennen kaikkea heimomaja.
+0x00000C61 ~guide: -bullet~ Ota kohteeksi vihollisen työkaluvaja tai maja: valitse ensin joukko laumasi jäseniä, aseta joukko taisteluvalmiuteen ja napsauta sitten hiiren oikealla painikkeella vihollisheimon työkaluja tai majaa.
+0x000008B1 ~guide: -bullet~ Valitse hiiren vasemmalla painikkeella heimon jäsen tai jäsenet, joita haluat komentaa.
+0x00000A21 ~guide: -h2~ Kun työkalut on ostettu, sinun pitää heimoeditorista poistuttuasi valita, kuinka monelle heimon jäsenelle haluat antaa ne käyttöön.
+0x00000A61 ~guide: -h2~ Siirry heimon asustamoon vie kohdistin heimon majan ylle ja napsauta sitten heimoeditorin painiketta.
+0x00000A51 ~guide: -h3~ Heimon vaatettaminen
+0x00000A31 ~guide: -bullet~ Jos haluat varustaa heimon jäsenen työkaluilla, poistu heimoeditorista ja valitse se heimolainen, jonka haluat varustaa
+0x00000951 ~guide: -h2~ Kohenna ominaisuuksiasi ostamalla heimollesi työkaluja. Kerää reilusti ruokavaroja, niin voit ostaa niillä työkaluja heimoeditorista.
+0x00000941 ~guide: -h3~ Työkalujen ostaminen
+0x00000931 ~guide: -bullet~ Valitse haluamasi vaihtoehto vasemman yläreunan välilehdistä.
+0x000005E1 ~guide: -bullet~ Voit myös pitää CTRL-näppäimen alhaalla ja napsauttaa hiiren vasemmalla painikkeella haluamiasi otuksia heimoluettelosta.
+0x00000181 ~guide: -h2~ Evoluutiohistoriasi on aina solutasolta lähtien taannut sinulle piirteitä, joiden ansiosta heimollasi on ainutlaatuisia taitoja, joita se voi käyttää heimopelissä.
+0x000000D1 ~guide: -h2~ Heimosi kasvaa, kun saavutat uuden virstanpylvään nujertamalla toisen heimon tai liittoutumalla sen kanssa.
+0x00000191 ~guide: -bullet~ Heimosi perimätaito näkyy taistelu- ja seurustelupainikkeiden yläpuolella.
+0x000006B1 ~guide: -h2~ Voit valita valmiuden napsauttamalla ruudun alareunassa olevia valmiuspainikkeita.
+0x000006D1 ~guide: -h2~ Seurusteluvalmiudessa heimosi jäsenet käyttäytyvät ystävällisesti ja seurallisesti muita heimoja ja villieläimiä kohtaan.
+0x000006C1 ~guide: -h2~ Taisteluvalmiudessa heimosi jäsenet hyökkäävät, jos vain napsautat toisen heimon jäsentä tai työkaluvajaa, tai vaihtoehtoisesti villieläintä.
+0x00000051 ~guide: -h2~ Maailma on villi paikka. Villieläimiä vaanii kaikkialla, mutta onneksi voit ystävystyä niiden kanssa ja lopulta kesyttää ne – tai sitten metsästää niitä ruoaksi.
+0x00000125 ~guide: -h3~ Saat käyttöösi myös jokaisen liittolaisheimosi ja tuhoamasi heimon työkalut ja asusteet. Niitä voi käsitellä heimoeditorissa.
+0x000005A1 ~guide: -h4~ Ryhmän valitseminen
+0x000000E1 ~guide: -h2~ Kylä on heimon tukikohta. Kylässä heimo lepää ja parantaa haavojaan ja sinne kerätään ruokavarat. Kylässä voi myös olla kotieläimille varattu aitaus.
+0x000004E1 ~guide: -bullet~ Voit myös pitää hiiren oikean painikkeen painettuna ja liikuttaa hiirtä.
+0x00000751 ~guide: -h2~ Mikäli yrität kesyttää villieläintä, kukin heimolainen antaa sille ruokalahjan. Lahjat vähentävät ruokavarastoasi. Varmista, että sinulla on riittävästi varastoja.
+0x00000641 ~guide: -h2~ Kun olet valinnut heimon jäsenen, voit antaa sille käskyjä napsauttamalla hiiren oikeaa painiketta.
+0x00000631 ~guide: -h1~ Komentojen antaminen
+0x00000081 ~guide: -h2~ Valitse kotigalaksistasi planeetta, jolla haluat pelata. Valitse tai luo sitten heimo-otus, jolla haluat pelata. Suun valinta on erittäin tärkeää, sillä suutyyppi määrittää otuksesi ruokavalion: kasvinsyöjä, lihansyöjä tai kaikkiruokainen. Valintasi määrittää heimon ruokavalion ja vaikuttaa merkittävästi sen elämänkatsomukseen planeetalla. Valitse siis huolellisesti.
+0x000003C1 ~guide: -h2~ Heimopelissä on saatavilla erilaisia työkaluvajoja. Kunkin rakentaminen maksetaan ruoalla. Kaikki työkalut auttavat heimoasi kohoamaan planeetan hallitsevaksi heimoksi.
+0x00000611 ~guide: -h4~ Heimoluettelon käyttö
+0x00000281 ~guide: -h2~ Kun otukset ovat hyvin nälkäisiä, ne eivät ajattele mitään muuta kuin ruokaa. Silloin ne on parasta ruokkia hetimmiten!
+0x00000261 ~guide: -h2~ Heimon jäsenten välitön tarve on nälkä. Heimoluettelossa on kunkin otuksen kuva. Nälkäisyyttä kuvaa jäsenen kuvassa oleva oranssi palkki.
+0x00000575 ~guide: -h4~ Yksilön valitseminen
+0x00000021 ~guide: -h2~ Lajisi on kehittynyt tietoiseksi olemassaolon peruskysymyksistä ja muodostanut pienen heimon. Muualla mantereella toiset lajit kehittyvät ja muodostavat hekin heimoja. Saat siis tuota pikaa vastaasi kilpailijoita. Sinun tulee päihittää nämä heimot, jotta voit muodostaa planeetan ensimmäisen sivistyneen yhteiskunnan.
+0x000005F1 ~guide: -h4~ Peru heimon jäsenen valinta
+0x00000341 ~guide: -h2~ Heimon kokko on todiste sen tulenhallinnasta. Kokkokin kasvaa arvostuksesi myötä. Jos heimolla ei ole muita kiireitä, voit aloittaa tunnelmaa kohottavan heimotanssin valitsemalla muutaman jäsenen ja napsauttamalla tulta.
+0x00000581 ~guide: -h2~ Valitse heimonjäsen napsauttamalla haluamaasi otusta tai napsauttamalla hiiren vasemmalla painikkeella otuksen kuvaa ruudun oikeassa reunassa olevassa heimoluettelossa.
+0x00000801 ~guide: -bullet~ Valitse heimon jäsen tai ryhmä ja kerää hedelmiä napsauttamalla hedelmälehtoa hiiren oikealla painikkeella.
+0x00000601 ~guide: -bullet~ Voit perua valinnan pitämällä CTRL-näppäimen painettuna ja napsauttamalla hiiren vasemmalla painikkeella heimon jäseniä tai heimoluettelossa olevia kuvia.
+0x00000811 ~guide: -bullet~ Valitse heimon jäsen tai ryhmä ja napsauta sitten rantaa hyppivän kalan lähellä hiiren oikealla painikkeella, niin levänkeruu alkaa.
+0x00000BB1 ~guide: -h3~ Kehnot suhteet
+0x00000121 ~guide: -h2~ Tämä onnistuu, kun liittoudut heimon kanssa: anna heimon jäsenille lahjoja ja yritä tehdä näihin vaikutus esiintymällä. Voit myös tuhota heimoja tuhoamalla heidän työkalunsa ja majansa.
+0x00000571 ~guide: -h3~ Heimon jäsenen valitseminen
+0x00000AC5 ~guide: -h1~ Omat kokoemat
+0x00000AC7 ~guide: -bullet~ Napsauta omien kokoelmien painiketta, niin pääset tarkastelemaan tehtävälokia sekä hankkimiasi työkaluja ja asusteita.
+0x00000011 ~guide: -image-left-h1 0x02e9a2ca!butn-trg-norm.png~ Tervetuloa heimopeliin!
+0x00000D00 ~guide: -bullet~ Jos heimolla on soittimia, voit varustaa niillä yksittäisen heimonjäsenen tai ryhmän. Jos soittimia ei ole, otuksesi käyttävät seurustelutaitojaan.
+0x00000D02 ~guide: -bullet~ Huomaa, että päällikön täytyy kuulua ryhmään.
+0x00000D01 ~guide: -bullet~ Valitse yksittäinen jäsen tai ryhmä, jonka haluat edustavan heimoasi.
+0x00000625 ~guide: -bullet~ Kohdista kuvakulma heimon jäseneen napsauttamalla haluamasi otuksen kuvaa hiiren oikealla painikkeella.
+0x000003D1 ~guide: -h3~ Kesytetyt eläimet
+0x000003E5 ~guide: -h2~ Heimosi selviytymistaktiikka määrittää myös erään tulevan sivilisaatiosi piirteen. Paljon riippuu siis siitä, keskittyykö heimosi metsästämiseen vai keräilyyn ja onko se aggressiivinen muita kohtaan vai harrastaako iloista seuranpitoa. Piirre määritetään, kun heimosi on valmis muodostamaan sivistyneen yhteiskunnan. Tämä piirre ja muut lajisi siihen mennessä ansaitsemat piirteet määrittävät sen, millaisia ominaisuuksia ja taitoja lajisi voi saada tulevaisuudessa.
+0x00000B21 ~guide: -image-left 0x05556b31!minimap-creature-nest.png~ Otusten pesät
+0x00000B51 ~guide: -bullet~ Mantereella mellastavat yksittäiset heimon jäsenet on värimerkitty heimonsa mukaan.
+0x00000BB5 ~guide: -h2~ Muiden heimojen kimppuun hyökkääminen tai niiden ruokien ryöstäminen saa ne luonnollisesti raivon valtaan. Tämä voi johtaa vakaviin vihamielisyyksiin.
+0x00000AC1 ~guide: -h2~ Välitavoitteiden kortit näkyvät peliruudun vasemmassa yläkulmassa. Niistä näet, miten edistyt tavoitteen täyttämisessä.
+0x00000CD1 ~guide: -bullet~ Jos heimojen välinen suhde on neutraalia heikompi, sitä täytyy kohentaa. Voit viihdyttää toista heimoa ja liittoutua sen kanssa vasta, kun suhde on kunnossa. Aloitat suhteen kohentamisen viemällä heimolaisille ruokalahjoja. Muista myös viihdyttää heitä, niin teet heistä liittolaisiasi. Joudut ehkä esiintymään moneen kertaan, ennen kuin he ovat vakuuttuneita sinusta.
+0x000002A1 ~guide: -bullet~ Napsauta ensin nälkäistä heimon jäsentä ja sitten heimon toteemipaalun lähellä olevaa ruokavarastoa, niin heimon jäsen kipaisee syömään.
+0x000004A1 ~guide: -bullet~ Pidä hiiren vasen ja oikea painike painettuna ja liikuta hiirtä ylös ja alas. MAC-järjestelmissä pidä alhaalla KOMENTO- ja OPTIO -näppäimiä sekä hiiren vasenta painiketta.
+0x00000461 ~guide: -bullet~ Pidä hiiren vasen ja oikea painike painettuna ja liikuta hiirtä vasemmalle tai oikealle. MAC-järjestelmissä pidä alhaalla KOMENTO- ja OPTIO -näppäimiä sekä hiiren vasenta painiketta.
+0x000003E1 ~guide: -h2~ Heimosi voi kesyttää villieläimiä. Kesytetyt eläimet asuvat heimon majan ulkopuolella. Ne munivat heimollesi munia, jotka voit kerätä heimon ruokavarastoon.
+0x000008E1 ~guide: -h2~ Kun olet ruokkinut villieläintä riittävästi, se kesyyntyy ja heimosi voi viedä sen heimomajansa luokse!
+0x00000901 ~guide: -h2~ Alussa heimossasi on kolme jäsentä, mutta voit myös hankkia heimoon poikasia. Varastoi ruokaa heimonlisäystä varten.
+0x000008D1 ~guide: -bullet~ Valitsemasi heimon jäsen syöttää villieläintä. Varmista siis, että sinulla on riittävästi ruokaa varastossa. Mitä suurempi villieläin on, sitä enemmän ruokaa heimosi sille tarjoaa.
+0x00000903 ~guide: -bullet~ Kukin poikanen maksaa heimolle 10 ruokayksikköä.
+0x00000B41 ~guide: -image-left 0x05556b31!minimap-nest.png~ Naapuriheimot näytetään kunkin heimon värillä merkittynä majana. Oma majasi näkyy suurempana kuin muiden heimojen majat.
+0x00000D51 ~guide: -h2~ Kun olet täyttänyt edistyspalkin nujertamalla viisi naapuriheimoa tai liittoutumalla niiden kanssa, voit jatkaa sivilisaatiopeliin. Jatka napsauttamalla kehityspainiketta.
+0x000002E1 ~guide: -h3~ Heimon häviäminen
+0x00000091 ~guide: -h3~ Kehitystä sitten otuspelin
+0x000002F1 ~guide: -h2~ Jos vihollisheimo tuhoaa heimosi majan, sinun pitää aloittaa heimopeli alusta uudelleen. Jos olet tallentanut pelin, aloitat sen uudelleen viimeisimmästä tallennuspisteestä. Jos et ole tallentanut peliäsi, palaat takaisin kolmen otuksen kylään.
+

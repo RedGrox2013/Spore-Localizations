@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x067710B2 在<~star_name~>星系裡的<~planet_name~>已經進化到部落階段！
+0x06771164 在<~star_name~>星系裡的<~planet_name~>已經進化到文明階段！
+0x06771171 在<~star_name~>星系裡的<~planet_name~>已經進化到太空階段！
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 徽章已解開
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 必須有動物出現才能使用這個工具！
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 你已經獲得增加同盟船艦到你的艦隊的能力。
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A 這個工具只能使用在帝國星球。
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD 這個殖民地離香料太遠。
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 這個工具無法在水上使用。
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 蒐集到香料。
+
+#standard....
+
+0x066F10AB 收到來自你母星的訊息！
+0x066F10B8 收到來自你殖民地的訊息！
+0x00000031 這個星球已被佔領。
+0x00000044 你的Grox 知覺量表剛剛到達了「是有那麼點恐怖」
+0x0000002F 殖民地無法在建立在水上。請放置你的殖民地到陸地上。
+0x00000023 敵軍船艦已毀。
+0x00000042 你的Grox 知覺量表剛剛到達了「不是如此恐怖，我應該怕嗎？」
+0x00000043 你的Grox 知覺量表剛剛到達了「不是如此恐怖，我應該怕嗎？」
+0x00000019 返回你的母星，另外一個新任務正等著你。
+0x0000004A 你的貨物艙太多毒素了，請焚毀...
+0x00000017 所有在<~planet_name~>上的部落都崇拜你！[not in use]
+0x00000046 你的Grox 知覺量表剛剛到達了「超級恐怖」
+0x00000034 你沒有足夠的金錢使用這個工具。
+0x00000022 ~generic_name~因為飢餓而絕種了。
+0x065BCDA0 注意：從其他星球偷取物件將會惹火當地的帝國。
+0x00000016 你正在摧毀你自己的建築物。
+0x06527A66 ~race~對你的貿易路線失去興趣了，改善你們的關係吧！
+0x00000037 如果你再對他們射擊，他們將會對你反擊。
+0x00000048 你的Grox 知覺量表剛剛到達了「超級恐怖」
+0x04BD78A0 你的盟友已經幫助你了！
+0x05790C96 來自~race~的訊息。
+0x00000047 你的Grox 知覺量表剛剛到達了「是有那麼點恐怖」
+0x0000002C 素食生物無法在這座星球上生存。去增加更多植物。
+0x00000036 偵測到一個難以置信的新工藝品。
+0x00000008 現在這個星球已有 ~count~ 的 ~tribe_count~ ~^p^count^tribe^tribes~，~^p^count^worships^worship~你！[not in use]
+0x00000018 你已經在<~planet_name~>上建立了殖民地！
+0x057F4C52 你沒有足夠的能量來使用這個工具。
+0x04BD78A5 目前這個星球上並沒有戰爭需要你的盟友幫忙。
+0x0567757C 你在<~star_name~>星系的商業夥伴對你評價很好，或許~race~未來會開放他的外交懇求。
+0x00000045 你的Grox 知覺量表剛剛到達了「是有那麼點恐怖」
+0x00000035 你同盟的其中一艘船被摧毀了。
+0x06527A69 你與~race~間的貿易路線已經中斷。
+0x00000028 植物無法在沒有水的情形下生存。
+0x04E3AB1A 你無法將它放入殖民地中。
+0x0000003C 你無法讓這個城市崇拜你，試試其他的。[not in use]
+0x0000000E 你的掃瞄成功。所有的數據資料都紀錄在你的Spore百科裡。
+0x04E3AAFD 這個物件必須放在陸地上。
+0x0000003B Every city on this planet now worships you! [not in use]
+0x04D28917 新工具現在已經可以使用了。
+0x06159AE6 ~race~失去與你結盟的興趣，去看看他們吧。
+0x0000001C 你的貨艙已滿，你必須要清出一些空間。
+0x00000002 看來你已經有足夠的幫手，你盟友的其中一艘船已經返家了。
+0x00000026 放話出去，但是，一次一個星球。
+0x00000021 ~generic_name~絕種了。
+0x04E39F9A 你的每個星球只能擁有一個！
+0x04E38CF9 這個工具只能用在你的殖民地星球。
+0x0000003E ~race~和~race2~簽署和平協定。
+0x065BCDA7 注意：綁架居民將會惹火當地的帝國。
+0x061DBC92 這個目標超出範圍。
+0x0580C3FA 那個工具只能用在其他帝國的星球。
+0x05C2BC26 在充實一個星球前，你必須填滿至少一列的植物與動物。
+0x06170F80 這個工具需要目標才能射擊。
+0x04F7B030 葷食生物無法生存在這個星球上，請增加多點素食生物。
+0x04ED0A12 你已經獲得四十二個神奇的工具並且找到了稀有的銀河物質。
+0x04EA4FD9 你的掃描器無法辨識這個星球的居住者，回報母星。
+0x0591CCD5 你已經找到稀有的銀河物質。
+0x0591CCD6 你已經找到了獨特的星球。
+0x00000040 ~race~與~race2~之間的結盟決裂了。
+0x00000032 新增建築物來升級你的殖民地。
+0x0000003F ~race~與~race2~結為盟友。
+0x0000002A 植物無法生存在熔岩中，請放在陸地上。
+0x0000000B 你的探險已經超出能負擔的範圍，最好等待金援。[not in use]
+0x00000029 這個植物的尺寸不適合當地的生態系，試著換另外一個尺寸的植物。
+0x00000001 你無法在你的母星上面使用這個工具。
+0x04F77C3E 這個物種已經降到該地點上。
+0x06707FAA 生態系統已滿，無法支撐其他物種。
+0x04F7B80D 你必須改進<~planet_name~>的整地分數以便在這裡生存。
+0x00000010 你已找到[~rare_name~]。它是~rare_count~個[~rare_group~]的收藏品之一。
+0x00000049 因為我們的關係處於敵對狀態，~race~已經取消了這項任務。
+0x0000001E 這星球上的某些東西因為整地分數的降低而滅絕了。
+0x00000011 等等！<~planet_name~>被海盜襲擊了。
+0x00000003 你的盟友已經派遣一艘新的太空船去加入你的艦隊。
+0x06037BB6 這星球上的某些東西因為海平面的上升而滅絕。
+0x0000001F ~generic_name~滅絕了，你把物品放置得太過於靠近，試著放置到這個星球的另外一端。
+0x0000003D ~race~對~race2~宣戰。
+0x04BD7870 你沒有任何的盟友可以過來協助你！
+0x0000001B 生命維持裝置受損！
+0x04EA4FD8 你將此星球整地達T1等級來殺死了Grox！
+0x04F615F5 你必須離開星球才能儲存遊戲。
+0x00000004 ~race~已經向你宣戰。準備開戰吧。
+0x0000001A 你與~race~的結盟已經中止了。
+0x0000001D 你找到了~tool_name~的~count~個補充！
+0x00000025 ~race~已經控制了<~star_name~>星系，並且拓殖了一個新行星。
+0x0000002B 這物種無法生存於水中。請放置於陸地上。
+0x05483AB4 你已經新增~creature_name~到你的野生生物保護區。 目前保存了~animal_count~隻~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~動物。
+0x00000027 高空中丟下被綁架的人會殺死他們。請小心的放下他們。
+0x0000000D <~planet_name~>的整地分數已經到達~terraform_level~。
+0x00000041 ~race~被摧毀。
+0x0000000F 直到你改善你的整地分數，否則這個星球無法支持更多的殖民地。
+0x00000006 錯誤的預言！這個部落認為你的宗教是毫無信服力的。
+0x0000000C 前往另一個安全的殖民地來修理你的太空船。
+0x05807D8E ~race~停止與你的戰爭。
+0x00000005 你在<~planet_name~>的崇拜者中已經以技術聞名。
+0x0000002E 動物無法生存在熔岩中，請把他們放置在陸地上。
+0x00000020 這個星球的~generic_name~物種因缺乏植物而滅絕了。
+0x00000039 現在有~city_count~的~count~~^p^count^座城市^座城市~城市在這星球上~^p^count^worships^worship~你！
+0x0000002D 從高空丟下生物讓他們被殺死。小心的放下他們。
+0x00000024 ~race~失去了對<~star_name~>星系的控制。
+0x0637C896 這是個陷阱！你被海盜襲擊了！
+0x0541A219 你已經穩定了星球的整地分數。
+0x0541A247 你完成了一部份的生態系統建立，可以擴張殖民地了。
+0x0000003A 你不可以在這裡定居。<~star_name~>星系已經是其他物種的家了。
+0x0637C897 蒐集了：~tool_name~。
+0x0546A708 野生生物保護區無法容納更多的動物。
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 這個工具無法使用在帝國星球。
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 殖民地必須放在香料附近。
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 你無法在野生生物保護區星球使用這個工具。
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 這個工具只能用在蠻荒星球上使用。
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 這個工具無法使用在城市上空。
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x065BFFFA 你沒有空間來收集更多香料。
+0x065BAC9F 你無法在史詩生物上使用這工具。
+0x0654CA48 城市對你投降了。
+0x0654C9DF 這個星球投降了，但是星系中還有其他的星球。
+0x064C024E 你必須提升星球上的整地分數來進入殖民地規劃器。
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F 你已經有一艘小型船艦了。
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 你的艦隊中沒有足夠的空間容納其他的船艦。
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Mission Progress Text here>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC 你的高度太高無法使用這個工具。
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 這個工具只能用在擁有貿易路線的星系上。
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA 這個星球的整地分數太低無法使用這個工具。
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 這個殖民地太靠近香料。
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 你無法使用這個工具。這個星球處於最高等級。
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Mission Status Text here>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 ~vehicle_name~ 已經被掃瞄。
+0x04374125 ~building_name~ 已經被掃瞄。
+0x043AD9F2 ~ufo_name~已掃描。
+0x03FFE7FB ~game_plant_name~已經被掃瞄。
+0x03FFE803 ~creature_name~已經被掃瞄。
+0x04377191 新的載具，~vehicle_name~，已經被掃瞄並且新增到你的「Spore百科」中。
+0x04374114 新的建築，~building_name~，已經被掃瞄並且新增到你的「Spore百科」中。
+0x043AD9E0 新的太空船，~ufo_name~，已經被掃瞄並且新增到你的「Spore百科」中。
+0x03FFE77B 新的植物，~game_plant_name~，已經被掃瞄並且新增到你的「Spore百科」中。
+0x03FFE7FF 新的生物，~creature_name~，已經被掃瞄並且新增到你的「Spore百科」中。
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 你無法在這個星球上使用巨石！
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 你無法在靠近建築物旁使用這個工具。
+

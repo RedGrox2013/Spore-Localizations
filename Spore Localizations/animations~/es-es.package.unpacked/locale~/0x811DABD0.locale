@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000097 En progreso
+0x00000098 Completada
+0x000000B2 Regresa al planeta ~mission_source_planet~ para informar.
+0x00000093 Rumbo: Sistema ~mission_source_star~.
+0x00000099 ¡Conseguido! Dirígete al sistema ~mission_source_star~.
+0x000000B1 Recupera la Llama Dorada en el planeta ~mission_target_planet~.
+0x00000041 ¡Sí! ¡La Llama Dorada por fin es mía! Quedará de fábula en mi colección de cosas de oro. Hmmm... ¿O quedaría mejor en mi colección de llamas?~p~~ep1_captain_full_name~, gracias por arriesgar la vida por ~mission_rewards~ esporetas. Me aseguraré de buscarte la próxima vez que necesite ayuda para hacerme con un artefacto precioso.
+0x00000094 Recupera la Llama Dorada del planeta ~mission_target_planet~, en el sistema estelar ~mission_target_star~. ¡Cuidado con el guardián!
+0x00000081 Viajar por selvas peligrosas en busca de un tesoro no es para todos.~p~Ni siquiera para mí. ¡Por eso pago a otros para que lo hagan!
+0x00000095 Has recuperado la Llama Dorada. Vuelve al planeta ~mission_source_planet~, en el sistema ~mission_source_star~, para informar.
+0x0000004E ¿Tienes problemas para echarle el guante a esa Llama Dorada? Consulta tu historial de misiones para obtener las coordenadas exactas.
+0x00000071 ¿Qué parte de esta misión no te gusta? ¿El oro o la llama?
+0x00000064 La Llama Dorada está al descubierto. Solo tienes que recorrer un laberinto de criaturas sedientas de sangre para llegar hasta ella.~p~Eh, si el trabajo fuese fácil, ¡lo haría yo mismo!
+0x00000000 ~ep1_captain_full_name~, ¿te gustan los tesoros? ¿Los artefactos? ¿Los ídolos raros y las gemas preciosas? ¡Claro que sí!~p~Bien, escucha, porque tengo un plan. Te informaré del paradero de la legendaria Llama Dorada si vas a buscarla por mí.~p~A cambio, te pagaré ~mission_rewards~ esporetas.~p~¿Trato hecho?
+0x00000092 Recupera la Llama Dorada en el sistema estelar ~mission_target_star~. Cuidado con el guardián.
+

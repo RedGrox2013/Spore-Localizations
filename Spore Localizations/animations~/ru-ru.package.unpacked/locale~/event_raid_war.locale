@@ -1,0 +1,17 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000005 Враг послал военный флот в звездную систему ~mission_target_star~, чтобы уничтожить вашу цивилизацию.
+0x00000002 Конец связи
+0x00000006 Вражеские корабли покинули звездную систему ~mission_target_star~.
+0x0000000B Тревога всем постам! ~mission_attacker_empire~ атакует планету ~mission_target_planet~!
+0x00000003 ~mission_attacker_empire~ больше не нападает на планету ~mission_target_planet~.
+0x00000001 Капитан! Нам срочно нужна твоя помощь! ~p~Вражеская ~mission_attacker_empire~ послала против нас военный флот. Поспеши на планету ~mission_target_planet~ звездной системы ~mission_target_star~, иначе потери будут ужасными. ~p~Пожалуйста, поторопись!
+0x00000007 Вражеская ~mission_attacker_empire~ атакует вашу планету ~mission_target_planet~ в звездной системе ~mission_target_star~.
+0x00000004 ~mission_attacker_empire~ напала на планету ~mission_target_planet~!
+0x00000008 Вражеская ~mission_attacker_empire~ больше не нападает на вашу планету ~mission_target_planet~ в звездной системе ~mission_target_star~.
+0x0000000C Конфликт с ~mission_attacker_empire~ подавлен.
+

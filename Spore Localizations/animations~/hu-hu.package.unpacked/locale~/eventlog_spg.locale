@@ -1,0 +1,236 @@
+﻿# PlanetUpliftedToTribe/Civ/Space.prop
+
+0x06771164 A ~planet_name~ bolygón, a ~star_name~ rendszerben egy faj elérte a Törzsi fázist!
+0x06771171 A ~planet_name~ bolygón, a ~star_name~ rendszerben egy faj elérte az Űrfázist!
+0x067710B2 A ~planet_name~ bolygón, a ~star_name~ rendszerben egy faj elérte a Törzsi fázist!
+
+# badgeunlocknotification.prop - eventDescription
+
+0xC5B93C90 Medál feloldva
+
+# ToolAnimalMustBePresent.prop - eventDescription
+
+0x0671CE05 Az eszköz használatához egy állat jelenlétére van szükség.
+
+# posseupgrade.prop - eventDescription
+
+0x86A4C320 Megszerezted a jogot, hogy egy szövetséges hajót adhass a flottádhoz!
+
+# toolempireonly.prop - eventDescription
+
+0x2188FD0A Ez az eszköz csak birodalmi bolygókon használható
+
+# tooltoofarfromspice.prop - eventDescription
+
+0x36B3E3FD A kolónia túl messze lesz a fűszertől
+
+# toolcantuseoverwater.prop - eventDescription
+
+0xEF5072A2 Ez az eszköz nem használható vízen.
+
+# spicecollected.prop - eventDescription
+
+0xAB572097 Fűszer begyűjtve.
+
+#standard....
+
+0x0000003C You've failed at getting this city to worship you. Try another. [not in use]
+0x0000000B Expedíciód csődbe ment. Hívj egy vontatót! [not in use]
+0x00000016 A saját épületeidet rombolod le.
+0x00000035 Szövetségeseid egyik hajója megsemmisült!
+0x00000003 Szövetségesed új hajót küldött a flottádba.
+0x00000034 Az eszköz használatához nincs elég pénzed.
+0x00000008 ~tribe_count~ ~count~ ~^p^count^tribe^tribes~ van ezen a bolygón ~^p^count^worships^worship~ téged imád! [not in use]
+0x00000006 Hamis próféta! A mi törzsünk szerint a ti vallásotok puhányoknak való. [not in use]
+0x00000002 Látván, hogy elég segítséget kapsz, az egyik szövetséges hajó hazafelé indul.
+0x00000037 Ha tovább lősz rájuk, viszonozzák a tüzet.
+0x0000001C Megtelt a raktered. Helyet kell felszabadítanod.
+0x0000000C Repülj az egyik biztonságos kolóniára, hogy megjavíthasd űrhajódat.
+0x00000045 A grox állapotmérőd azt mutatja, hogy meglehetősen rémült vagy.
+0x00000036 Csodás új ereklyét észleltünk.
+0x00000019 Térj vissza anyabolygódra. Új feladatot kapsz.
+0x00000017 A ~planet_name~ bolygó összes törzse téged imád! [not in use]
+0x00000047 A grox állapotmérőd azt mutatja, hogy rettenetesen félsz.
+0x00000042 A grox állapotmérőd azt mutatja, hogy már nem félsz annyira. Miért, kellene?
+0x00000048 A grox állapotmérőd azt mutatja, hogy rettenetesen félsz.
+0x0000001F A ~generic_name~ kihalt. Túl közel helyezed el egymáshoz a dolgokat. Try placing on the other side of the planet. [not in use]
+0x0000001B Létfenntartás kritikus!
+0x00000020 A ~generic_name~ faj kihalt a növények hiánya miatt.
+0x00000032 Kolóniád fejlesztéséhez építs még egy épületet.
+0x0000000E A felderítés sikeres volt. Adataidat most más a Spóropédia tárolja.
+0x00000021 A ~generic_name~ kihalt.
+0x00000011 Ebből elég! A ~planet_name~ bolygót kalózok fosztogatják!
+0x00000001 Ezt az eszközt nem használhatod szülőbolygódon.
+0x00000043 A grox állapotmérőd azt mutatja, hogy már nem félsz annyira. Miért, kellene?
+0x00000028 A növények nem maradnak életben a víz alatt. Helyezd őket a szárazföldre!
+0x0000004A Túl mérgező, hogy a raktérben tartsd. Meggyújtás...
+0x00000026 Terjeszd az igét, de egyszerre csak egy bolygón!
+0x00000027 Ha elejted a begyűjtött népeket, akkor meghalnak. Óvatosan sugározd le őket.
+0x0000001D A lelet: ~count~ ~tool_name~!
+0x0000003B Every city on this planet now worships you! [not in use]
+0x0000003A Itt nem telepedhetsz le. A ~star_name~ rendszer már egy másik faj otthona.
+0x00000018 Kolóniát létesítettél a ~planet_name~ bolygón!
+0x0000002D Ha elejted a begyűjtött lényeket, akkor meghalnak. Óvatosan sugározd le őket.
+0x0000002F A kolóniák nem működnek víz alatt. Helyezd kolóniádat szárazföldre!
+0x00000031 A bolygó már foglalt.
+0x0000002E Az állatok nem élnek meg a láván. Helyezd a szárazföldre.
+0x00000046 A grox állapotmérőd azt mutatja, hogy rettenetesen félsz.
+0x00000005 A ~planet_name~ bolygón élő híveid technikailag fejletté váltak. [not in use]
+0x0000002A A növények nem élnek meg a lávában, helyezd őket a szárazföldre!
+0x00000044 A grox állapotmérőd azt mutatja, hogy meglehetősen rémült vagy.
+0x00000029 Ez a növény nem megfelelő méretű, hogy beilleszkedjen a helyi ökoszisztémába, próbálkozz egy másik mérettel.
+0x0000002C A növényevő nem él meg ezen a bolygón, szerezz még növényeket.
+0x0000002B A faj nem él meg víz alatt. Helyezd a szárazföldre.
+0x00000023 Az ellenséges űrhajó megsemmisült!
+0x04BD78A0 A szövetségeseid már segítenek neked.
+0x04D28917 Új eszközök érhetőek el.
+0x04BD78A5 Nem vagy ellenséges viszonyban senkivel a bolygón, így szövetségeseid nem segítenek neked.
+0x0591CCD6 különleges bolygót találtál!
+0x04BD7870 Nincs elég szövetségesed, hogy a segítségedre siessenek.
+0x0580C3FA Ez az eszköz csak más birodalmak bolygóján használható.
+0x05790C96 Bejövő adás, a feladó: ~race~!
+0x06170F80 Ennek az eszköznek célpontra van szüksége
+0x057F4C52 Nincs elég energiád az eszköz felhasználásához.
+0x065BCDA7 Vigyázz: Ha polgárokat rabolsz el más bolygókról, az feldühíti a helyi birodalmat
+0x065BCDA0 Vigyázz: Ha tárgyakat lopsz más bolygókról, az feldühíti a helyi birodalmat
+0x05C2BC26 A bolygó felemelése előtt legalább egy sornyi növényt és állatot fel kell töltened!
+0x0546A708 Ez a vadrezervátum nem képes több állat befogadására.
+0x05483AB4 Hozzáadtad a ~creature_name~ állatot a vadrezervátumhoz. Itt most ~animal_count~ állat van a lehetséges ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ számúból.
+0x0567757C Kereskedelmi partnereid a ~star_name~ rendszerben jó szívvel vannak irántad. Talán a ~race~ nyitott további diplomáciai közeledésre is.
+0x04EA4FD8 Ezen a bolygón kipusztítottad a groxot, mert T1 szintre terraformáltad!
+0x04EA4FD9 Letapogatóid nem voltak képesek azonosítani a bolygó lakóit. Küldj jelentést az anyabolygónak.
+0x0637C896 Ez csapda! Kalózok támadtak meg!
+0x0637C897 Begyűjtve : ~tool_name~.
+0x04E39F9A Ebből csak egy lehet bolygónként!
+0x04E3AAFD A tárgyat a földre kell helyezni.
+0x04E3AB1A Egy kolónián belül ezt nem teheted le.
+0x04E38CF9 Az eszköz csak kolonizált bolygóidon használható.
+0x06037BB6 Valami kihalt a bolygón a megnövekedett vízszint miatt
+0x04F615F5 A mentéshez el kell hagynod a bolygót.
+0x04F77C3E Ez a faj már jelen van ezen a helyen.
+0x04F7B030 Az a ragadozó nem él meg ezen a bolygón, adj hozzá növényevőket.
+0x06707FAA Az élővilág teljes, nem fér el itt több faj.
+0x066F10AB Adás érkezik anyabolygódról!
+0x066F10B8 Adás érkezik kolóniádról!
+0x0000000D ~planet_name~ bolygó T-szintje most ~terraform_level~.
+0x0000001E Valami kihalt ezen a bolygón, mert csökkent a T-szint.
+0x0541A219 Stabilizáltad a bolygó T-szintjét.
+0x0000000F Ez a bolygó nem tarthat el több kolóniát, amíg meg nem növeled a T-szintjét.
+0x06527A69 A ~race~ népével közös kereskedelmi utatokat elvágták.
+0x0000003F A ~race~ és a ~race2~ népe szövetségre lépett egymással.
+0x0000001A Szövetséged megszakadt a ~race~ népével.
+0x00000010 Rátaláltál egyre a ~rare_count~ ~rare_group~ közül: ~rare_name~!
+0x00000049 ~race~ törölt egy küldetést, mivel kapcsolatunk megromlott.
+0x00000040 A ~race~ és a ~race2~ szövetsége megszakadt.
+0x0000003D ~race~ hadat üzent a ~race2~ birodalomnak.
+0x00000004 ~race~ hadat üzent neked. Készülj a harcra!
+0x00000022 ~generic_name~ faj összes tagja éhen halt.
+0x00000025 ~race~ elfoglalta a ~star_name~ rendszert és kolonizált egy bolygót!
+0x061DBC92 A célpont hatótávon kívül van.
+0x06527A66 ~race~ egyre kevésbé érdeklődik a kereskedelmi útvonalatok iránt. Fejleszd kapcsolataitokat!
+0x00000041 ~race~ elpusztult.
+0x05807D8E ~race~ békét kötött veled.
+0x00000039 ~count~ of ~city_count~ ~^p^count^city^cities~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000024 ~race~  elvesztette az ellenőrzést a ~star_name~ rendszer felett.
+0x04F7B80D Ha azt akarod, hogy megéljen, növelned kell ~planet_name~ bolygó T-szintjét.
+0x0000003E ~race~ és ~race2~ népe békeszerződést írt alá.
+0x0591CCD5 Ritka Galaktikus formációt találtál.
+0x06159AE6 ~race~ népét egyre kevésbé érdekli a szövetséged. Látogasd meg őket.
+0x04ED0A12 42 fantasztikus eszközt szereztél, plusz egy ritka Galaktikus formációt is.
+0x0541A247 Elkészítetted az ökoszisztéma egy darabját, így fejlettebb kolóniát építhetsz.
+
+# toolmustnotbeempire.prop - eventDescription
+
+0xA4D8F065 Ez az eszköz nem használható birodalmi bolygókon.
+
+# colonyfailednospice.prop - eventDescription
+
+0x6C1B54A2 A kolóniákat a fűszerhez közel kell telepíteni.
+
+# toolmustnotbezoo.prop - eventDescription
+
+0xA8B00035 Nem használhatod ezt az eszközt Vadvédelmi Körzeti bolygón.
+
+# toolmustbecreaturetech.prop - eventDescription
+
+0xFEF0B8F1 Ez az eszköz csak vad bolygókon használható
+
+# genericmissionpersistent.prop - eventDescription
+
+0x0C0DA13A <Text will go in here>
+
+# toolcantuseoveracity.prop - eventDescription
+
+0x66B14B29 Ez az eszköz nem használható város felett
+
+# PlannerTScoreTooLow.prop - eventDescription
+
+0x064C024E You must raise the T-Score on the planet to enter the Colony Planner. [not in use]
+0x065BAC9F Epikus lényeken nem használhatod ezt az eszközt.
+0x0654CA48 A város megadta magát.
+0x0654C9DF A bolygó megadta magát, de nem az volt az utolsó a naprendszerben!
+0x065BFFFA Nincs helyed több fűszernek.
+
+# genericmissionalert.prop - eventDescription
+
+0xC04C32DD <Mission Progress Text here>
+
+# toolalreadyhavesquire.prop - eventDescription
+
+0x7110910F Már van Mini-U-d.
+
+# toolposseisfull.prop - eventDescription
+
+0xAB736885 Nincs több hely a flottádban új hajó számára.
+
+# genericmissionprogress.prop - eventDescription
+
+0x77CBB958 <Küldetési folyamat szövege ide>
+
+# tooltoohigh.prop - eventDescription
+
+0xA6E556AC Túl magasan vagy, hogy használhasd ezt az eszközt.
+
+# toolmusthavetraderoute.prop - eventDescription
+
+0x70D7C7A4 Ez az eszköz csak kereskedelmi útvonallal rendelkező rendszereknél használható.
+
+# tooltscoretoolow.prop - eventDescription
+
+0xA9BC64AA A bolygó T-szintje túl alacsony ahhoz, hogy használhasd ezt az eszközt.
+
+# tooltooclosetospice.prop - eventDescription
+
+0x79C50119 A kolónia túl közel van a fűszerhez.
+
+# toolmustbehighesttech.prop - eventDescription
+
+0x2BDBD446 Nem használhatod ezt az eszközt. A bolygó a legmagasabb szinten van.
+
+# genericmissionstatus.prop - eventDescription
+
+0x748D2299 <Küldetési helyzet szövege ide>
+
+#######################################
+# event logs
+#in code.
+
+0x04377196 ~vehicle_name~ már átesett a letapogatáson.
+0x04374125 ~building_name~ már átesett a letapogatáson.
+0x04374114 ~building_name~ épület letapogatva és a Spóropédiához adva.
+0x04377191 ~vehicle_name~ jármű letapogatva és a Spóropédiához adva.
+0x043AD9F2 ~ufo_name~ már átesett a letapogatáson.
+0x043AD9E0 ~ufo_name~ űrhajó letapogatva és a Spóropédiához adva.
+0x03FFE77B ~game_plant_name~ letapogatva és a Spóropédiához adva.
+0x03FFE7FB ~game_plant_name~ növény már átesett a letapogatáson.
+0x03FFE7FF ~creature_name~ letapogatva és a Spóropédiához adva.
+0x03FFE803 ~creature_name~ már átesett a letapogatáson.
+
+# ToolMonolithFailureGeneric.prop - event description
+
+0x0671FB24 Nem használhatod a monolitot ezen a bolygón!
+
+# tooltooclosetocolonyobject.prop - eventDescription
+
+0x45F9BF92 Nem használhatod ezt az eszközt ilyen közel egy szerkezethez.
+

@@ -1,0 +1,35 @@
+﻿# patch manager
+
+0x06DF77E2 更新可用。~br~使用电子邮件地址和密码登录获取最新更新。
+0x064BF9E1 继续
+0x06395E55 稍后
+0x061F1D7F 暂停
+0x05EE144D 下载取消
+0x05EE1440 下载暂停
+0x05D6459A 否
+0x061F1D80 取消
+0x05D666D0 下载中。  您确定要取消么？
+0x05D679D4 下载进程失败
+0x05D657A6 警告：安装补丁后才能看到更新内容。
+0x05D65F2C 补丁下载中……
+0x05D645B2 是
+0x05D65703 下载成功。您想安装补丁吗？
+0x05D64549 有可用更新。~br~您愿意更新Spore吗？
+
+# patch manager generic patch error message
+
+0x05F7A60E 安装补丁过程中发生一个错误。
+
+# patch manager download error message
+
+0x05D67A03 ~generic0~
+0x05D67A51 没有磁盘空间
+0x05EE138E 文件写错误
+0x05D67A45 丢失服务器
+0x05EE1398 在下载时出现了一个错误
+
+# patch details
+
+0x06381B59 该补丁修正了以下问题：
+0x06381B58 补丁包含什么内容？
+

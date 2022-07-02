@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x0757671A Start
+0x07186066 ~ep1_adventure_lose~ ~br~ pontszám: ~ep1_score~ ~br~ idő: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ pontszám: ~ep1_score~ ~br~ idő: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~ elmentve.
+0x07959A07 Annak érdekében, hogy a kaland elmenthető legyen, szükség van egy kapitányra egy valós helyszínen.
+0x071877BA Ide jön a szerző által generált MEGNYERT KALAND szöveg.
+0x070B1800 Kilépés
+0x070B17F3 Ide jön a szerző által generált ELVESZÍTETT KALAND szöveg.
+0x070B1805 Újraindítás
+0x071877C1 A kaland szerzője még nem írt bevezetőt a kalandot.~p~Bevezető hozzáadásához kattints az Intro gombra a Kalandszerkesztő Felvonás paneljén!
+0x07CCEEFC Stáb
+0x07B4DD6E A kalandhoz egy kapitányra van szükség a világ egy megfelelő helyén.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 A célnak nem definiált paramétere van.
+0x07D91076 A cél érvénytelen.
+
+# instance checks
+
+0x07D910E4 A cél ebben a felvonásban nem alkalmazható territoriális vagy agresszív célpontra
+0x07D910E6 A cél nem alkalmazható epikus lényekre
+0x07D910E8 A cél nem alkalmazható a felvonással ellenséges célpontra.
+0x07D910E1 A cél helye érvénytelen.
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Összes
+
+# Second, for buildings and vehicles
+
+0x07B51559 Hozd el…
+0x07B5154F Semmisítsd meg
+0x07B51562 Add át...
+0x07B5155C Gyűjtsd össze
+0x07B5154C Vizsgáld meg
+0x07B51549 Mozgás a következőre:
+0x07B51564 Blokkold…
+0x07B51567 Védd meg
+0x07B55060 Vizsgáld meg a következőt: ~ep1_goal_target_name~
+0x07B55063 Semmisítsd meg a következőt:  ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ megsemmisítve)
+0x07B5505D Menj ide: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ teljesítve)
+0x07B5506A Vidd azonos helyre az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B55076 Tartsd távol egymástól az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B55079 Védd meg a következőt: ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Gyűjtsd össze a következőt: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ összegyűjtve)
+0x07B55073 Add át a következőt: ~ep1_goal_target_name~ neki: ~ep1_goal2_target_name~
+0x07B52A47 Vidd azonos helyre az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B52A49 Gyűjtsd össze a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Vizsgáld meg a következőt: ~ep1_goal_target_name~
+0x07B52A44 Semmisítsd meg a következőt:  ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Add át a következőt: ~ep1_goal_target_name~ neki: ~ep1_goal2_target_name~
+0x07B52A4E Tartsd távol egymástól az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B52A3A Menj el ide: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Védd meg a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 A cél egészsége ehhez sebezhetetlenre van állítva.
+0x07D910C4 A cél egészsége ehhez a felvonáshoz nullára van állítva.
+0x07D910C0 A cél ehhez a felvonáshoz láthatatlanra van állítva.
+0x07D910CB A cél nem érvényes lényekre
+0x07D910CD A cél nem érvényes járművekre
+0x07D910DA A cél nem érvényes avatarokra.
+0x07D910DD Legalább az egyik célnak mozgathatónak kell lennie.
+0x07D910D8 A cél nem érvényes játékbeli objektumokhoz.
+0x07D910CF A cél nem érvényes épületekre
+0x07D910D3 A cél nem érvényes fix objektumokra.
+0x07D910D5 A cél nem érvényes nem kézben tartott objektumokra.
+
+# Special first half of give goal:
+
+0x079E8291 Találd meg a következőt: ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Tengeri járművek nem helyezhetőek szárazföldre.
+0x07D8B21E Szárazföldi járművek nem helyezhetőek vízre.
+0x07D8C654 Lények nem helyezhetőek vízre.
+0x07D8C658 Az objektum túl messze van a bolygó felszínétől.
+
+# Goal strings used for mission cards
+
+0x0727D37F Hiba: cél nincs kitűzve
+
+# Sculpt panel UI
+
+0x07316C04 Víz
+0x07316C03 Témák
+0x07316C02 Atmoszféra
+0x07316C07 Flóra
+0x07316C05 Terraformálás
+0x07316C00 Terep
+0x07316C08 Flóra
+0x07316C0E Utak
+0x07316C0A Bolygó színei
+0x07316C09 Időjárás
+0x07316C0D Alapvető eszközök
+0x079EDFB9 Különleges
+0x0768A3E9 Kontinensek és szigetek
+0x0768A339 Óceánok és tavak
+0x07316C0F Canyons      #REMOVED?
+0x07316C10 Beaches      #REMOVED?
+0x07316C01 Bolygótémák
+0x07316C0C Folyók
+0x07316C06 Hegyek
+0x07B2739C Völgyek
+0x07B280CB Dombok
+0x07B278FF Burkolt utak
+0x07B27900 Modern utak
+0x07B27901 Terek
+0x07B278FD Földutak
+0x07B278FE Macskaköves utak
+0x07316C0B Bolygó színei
+
+# Third, for all other (tools)
+
+0x07968DE4 [Nincs kijelölt cél]
+0x07B51644 Védd meg
+0x07B5163F Blokkold...
+0x07B51611 Vizsgáld meg
+0x07B5160C Menj oda
+0x07B51628 Egyesítés...
+0x07B51637 Add át...
+0x07B51633 Tartsd
+0x07B5162D Gyűjtsd össze
+0x07B52A65 Tartsd távol egymástól az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B52A68 Védd meg a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A63 Add át a következőt: ~ep1_goal_target_name~ neki: ~ep1_goal2_target_name~
+0x07B52A59 Vidd azonos helyre az alábbiakat: ~ep1_goal_target_name~ és  ~ep1_goal2_target_name~
+0x07B52A5E Gyűjtsd össze a következőt:~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Vizsgáld meg a következőt: ~ep1_goal_target_name~
+0x07B55092 Tartsd távol egymástól az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B55095 Védd meg a következőt: ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508F Add át a következőt: ~ep1_goal_target_name~ neki: ~ep1_goal2_target_name~
+0x07B55088 Hozd el a következőt: ~ep1_goal_target_name~ ide: ~ep1_goal2_target_name~
+0x07B5508A Gyűjtsd össze a következőt:~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ összegyűjtve)
+0x07B5507B Menj ide: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ teljesítve)
+0x07B5507E Vizsgáld meg a következőt: ~ep1_goal_target_name~
+0x07B52A52 Menj el ide: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A61 Fogd a következőt: ~ep1_goal_target_name~
+0x07B5508D Fogd a következőt: ~ep1_goal_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A93 3. cél kész
+0x07292A8D 1. cél kész
+0x07292A91 2. cél kész
+0x07290AF8 3. cél haszna
+0x07290AF5 2. cél haszna
+0x07290AF0 1. cél haszna
+0x074BB7EC ~ep1_current_act~ jelenet ennyiből: ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07DA2A90 Most, hogy a ~ep1_visibility_intersect_act~ felvonásban mindkét cél látható, túl közel kerültek egymáshoz.
+0x07D8FA97 A járművek nem lehetnek túl közel a kézben tartott objektumokhoz
+0x07D8FA93 A járművek nem lehetnek túl közel a statikus díszekhez.
+0x07D8FA90 A járművek nem lehetnek túl közel lényekhez.
+0x07D8FA99 A járművek nem lehetnek közel a sziklákhoz.
+0x07D8FAA1 Statikus díszek nem lehetnek túl közel a járművekhez.
+0x07D8FA9E A járművek nem lehetnek túl közel a játékbeli objektumokhoz.
+0x07D8FA8D A járművek nem lehetnek túl közel épületekhez
+0x07D8FA7C A lények nem lehetnek közel a sziklákhoz.
+0x07D8FA79 A lények nem lehetnek túl közel a statikus díszekhez.
+0x07D8FA77 A lények nem lehetnek túl közel egymáshoz.
+0x07D8FA87 A járművek nem lehetnek túl közel egymáshoz.
+0x07D8FA85 Az épületek nem lehetnek túl közel a járművekhez.
+0x07D8FA82 Épületek nem helyezhetőek gigászokra.
+0x07D8FABB Játékbeli objektumok nem lehetnek túl közel a járművekhez.
+0x07D8FAA8 Kézben tartott objektumok nem lehetnek túl közel egymáshoz.
+0x07D8FAA5 Kézben tartott objektumok nem lehetnek túl közel a járművekhez.
+0x07D8FAA3 Statikus díszek nem lehetnek túl közel a lényekhez.
+0x07D8FAAA Kézben tartott objektumok nem lehetnek közel a sziklákhoz.
+0x07D8FAB2 Sziklák nem lehetnek túl közel a kézben tartott objektumokhoz
+0x07D8FAAF Sziklák nem lehetnek túl közel lényekhez.
+0x07D8FAAD Sziklák nem lehetnek túl közel a járművekhez.
+0x07D8FA75 Gigászok nem lehetnek épületeken.
+0x07D8FA72 A lények nem lehetnek túl közel a járművekhez.
+0x07ECC0AB A sziklák nem lehetnek túl közel egymáshoz
+0x07D8FA7F A lények nem lehetnek túl közel a növényzethez
+0x07D8FA6F Ezek az objektumok nem lehetnek túl közel egymáshoz
+0x07D8FAB5 A növények nem lehetnek túl közel a lényekhez.
+0x07D8FAB8 A növények nem lehetnek túl közel a járművekhez.
+0x07D8FA9C A járművek nem lehetnek túl közel a növényzethez
+
+# Goal string for goal count combo box:
+
+0x07C53729 Összes
+
+# inter-act checks
+
+0x07D91134 Egy célpont nem lehet egyidejűleg Elhoz és Blokkolás tárgya .
+0x07D91132 A célpont nem egyeztethető össze a felvonás másik célpontjával.
+0x07D91130 A cél a színdarabban kijelölt másik céllal azonos.
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B1 Barátkozás
+0x073C19AF Beszélgetés
+0x073C19AE Mozgás
+0x073C19B8 Védelmezés
+0x073C19B4 Összegyűjtés
+0x073C19B3 Elhozni…
+0x073C19B6 Add át...
+0x073C19B7 Blokkolás...
+0x073C19B2 Szövetség megkötése…
+0x073C19B0 Megölni
+
+# goal count checks
+
+0x07D91125 A világban legalább egy megfelelő célpontnak kell megtalálhatónak lennie.
+0x07D91128 A világban legalább két megfelelő célpontnak kell megtalálhatónak lennie.
+0x07D9112B A célok száma "összes" de a világban nincs alkalmas célpont.
+0x07D91122 A célok száma magasabb, mint a világban megtalálható céloké.
+0x07D9112E A nyílt színek helyeinek száma nem elegendő.
+
+# Explain to user/author why the adventure was lost
+
+0x0796CEE4 Meghaltál.
+0x0796CFDD Elfogyott az időd.
+0x0796CFE1 Nem védted meg a következőt: ~ep1_goal_target_name~ ~ep1_goal2_target_name~ ellen.
+0x0796CFE5 Nem védted meg a következőt: ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796D59A Áthágtad ezt a célkitűzést: ~ep1_goal_description~
+0x0796D599 Többé nem érheted el ezt a célt: ~ep1_goal_description~
+0x07C50B5F a felvonásnak dupla célja van
+
+# First, for creatures
+
+0x07311C6E Akadályozd meg a következőt: ~ep1_goal_target_name~,  ~ep1_goal2_target_name~ elérésében.
+0x072AA965 Add a következőt: ~ep1_goal_target_name~ a következőnek: ~ep1_goal2_target_name~
+0x07311C75 Védd meg a következőt: ~ep1_goal_total~ ~ep1_goal_target_name~
+0x0727D38B Barátkozz össze a következővel: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ barát)
+0x0727D391 Szállítsd el ~ep1_goal2_target_name~ számára az alábbit: ~ep1_goal_target_name~
+0x0727D384 Mozgás a következőre: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ teljesítve)
+0x0727D389 Öld meg a következőt: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ megölve)
+0x072AA963 Gyűjtsd össze a következőt: ~ep1_goal_target_name~ (~ep1_goal_progress~ / ~ep1_goal_total~ összegyűjtve)
+0x07B52A25 Beszélj a következővel: ~ep1_goal_target_name~
+0x07B52A21 Menj el ide: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Öld meg a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Lépj szövetségre a következővel: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Barátkozz össze a következővel: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E Vidd azonos helyre az alábbiakat: ~ep1_goal_target_name~ és  ~ep1_goal2_target_name~
+0x07B52A36 Tartsd távol egymástól az alábbiakat: ~ep1_goal_target_name~ és ~ep1_goal2_target_name~
+0x07B52A31 Gyűjtsd össze a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A34 Add át a következőt: ~ep1_goal_target_name~  neki: ~ep1_goal2_target_name~
+0x07B52A38 Védd meg a következőt: ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x0727D387 Beszélj a következővel: ~ep1_goal_target_name~
+0x0727D38E Köss szövetséget a következővel: ~ep1_goal_target_name~ (~ep1_goal_progress~/~ep1_goal_total~ teljesítve)
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 ~timelinePlanetName~ kaland teljesítve!
+0x076B2671 ~timelineMySpeciesName~ felfedezte az alábbit: ~timelinePartName~.
+0x076B2675 ~ep1_captain_name~ ~ep1_captain_primary_title~ szintre lépett.
+0x076B2674 Előléptetve
+
+# Used for palette
+
+0x07103109 Fix objektumok
+0x0710310A Hang
+0x07103108 Lények
+0x07103106 Épületek
+0x07103107 Járművek
+0x0710310C Szereposztás használatban
+0x079C4769 Játékbeli objektumok
+0x0710310B Effektek
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Adj címet a kalandodnak
+0x075E40ED 1. színek közötti szöveg
+0x075E40EF 3. színek közötti szöveg
+0x075E40EE 2. színek közötti szöveg
+
+# other
+
+0x07D91140 Lefoglalva 5. segédtipp számra
+0x07D9113E Lefoglalva 4. segédtipp számra
+0x07D9113B Lefoglalva 3. segédtipp számra
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

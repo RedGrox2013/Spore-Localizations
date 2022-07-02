@@ -1,0 +1,41 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000011 砍伐！一個植物物種已經絕種了。
+0x00000014 在 <~mission_target_planet~>上的生態系統正在瓦解。
+0x00000012 <~mission_target_planet~>的生態系統瓦解了：一個植物物種已經絕種了。
+0x00000013 <~mission_target_planet~>的生態系統瓦解了。
+0x00000002 通話完畢
+0x0000000A 只要消滅目標生物。
+0x0000000F ~mission_target_animal_species~的動物物種已經毀滅了。
+0x00000021 注意了，~player_creature_name~！~p~你需要馬上前往<~mission_target_planet~>報到，並將~mission_target_animal_species~給根除。~p~就這樣。
+0x00000009 已經阻止了生態系統崩解的命運。
+0x00000017 <~mission_target_planet~>開始出現生態瓦解的情形。根除目標生物。快！
+0x0000000C 警告！殺害~mission_num_healthy_creatures_left~隻以上健康的~mission_target_animal_species~生物，生態系統將會瓦解！
+0x0000000D 受到感染的動物不可以登上~ufo_name~。
+0x00000001 給我們船長的緊急訊息！~p~我們 <~mission_target_planet~>的生態系統，正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~ 我們需要你盡快的從中挑出已遭受感染的，否則病毒將會散播出去，我們會失去整個物種，接著可能會導致整個生物圈瓦解的開始。~p~快！~p~向<~mission_target_planet~>出發！
+0x00000018 在<~mission_target_planet~>上面多加一些植物和動物來避免生態的瓦解。
+0x00000090 從畜群中將感染的~mission_target_animal_species~生物根除。
+0x00000015 消除目標生物。快點！
+0x00000007 <~mission_target_planet~>上的生物圈不會被毀滅了。
+0x00000091 <~mission_target_planet~>被拯救了！
+0x00000010 <~mission_target_planet~>的生態系統瓦解了。名為~mission_target_animal_species~的動物現在已滅種了。
+0x00000019 <~mission_target_planet~>的生態圈瓦解：增加植物和動物到生態系統裡防止的整地分數降低。
+0x00000005 生態系統回到平衡的狀態。
+0x00000020 注意了，~player_creature_name~！~p~<~mission_target_planet~>暴露出我們的弱點，這是~race~所不能容忍的。馬上去除掉這些弱小的~mission_target_animal_species~。~p~~race~出發。
+0x00000006 我們<~mission_target_planet~>的生態系統，正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。透過他們的生長環境中找出受感染的。~p~盡快從中挑出受感染的生物，否則病毒會散播出去，我們會失去整個物種，然後會讓整個生物圈開始瓦解。
+0x0000000B 生態災難！太多健康的生物被殺害了。
+0x0000001B 求救訊號已經依照大議會的要求發射了！尋求~player_title~-~Player_creature_name~的協助。~p~我們<~mission_target_planet~>的生態系統，正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~我們需要你盡快的從中挑出感染的，否則病毒會散播出去，我們會失去整個物種，這可能會讓整個生物圈開始瓦解。~p~我確定你可以想像得到這會造成的混亂，而且這直接就跟我們的秩序哲理抵觸。我們要求你依照我們的同盟合約，文件48，第68條，前來協助！~p~我們期望你很快就會來。
+0x0000001A ~player_title~-~Player_creature_name~！我們非常急迫的尋找你來協助我們。~p~<~mission_target_planet~>上Spode忠實信徒正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~汝盡快的從中挑出感染的，否則病毒會散播出去，我們會失去整個物種，這會讓整個生物圈開始瓦解。~p~你可以立刻前往那邊嗎？
+0x00000004 拯救<~mission_target_planet~>上的一場生態災難。
+0x0000001C ~player_title~-~Player_creature_name~。~p~一份最近我們野生動物的研究報告顯示一些警告的數據。<~mission_target_planet~>的生態系統，正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~我們需要你盡快的從中挑出感染的，否則病毒會散播出去，我們會失去整個物種，可能會讓整個生物圈開始瓦解。~p~我們需要你協助。立刻執行最有效率的飛行路線。
+0x00000003 仁慈的~player_title~-~Player_creature_name~！~p~當我們試著要讓生命週期更自然的運作，一個悲劇發生了。我們<~mission_target_planet~>的生態系統正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~我們需要你盡快的從中挑出感染的，否則病毒會散播出去，我們會失去整個物種，並危害到整個生物系統，造成瓦解。~p~ 快！
+0x0000000E 那個動物生病了，你不可以帶上船。
+0x0000001E 喔，~player_title~-~Player_creature_name~！救命！救命！~p~我們<~mission_target_planet~>的生態系統，正面臨重大危害！一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~我們需要你盡快地從中挑出受感染的，否則病毒會散播出去，我們會失去整個物種，然後可能會讓整個生物圈瓦解的開始。~p~快，快！
+0x0000001F 友善的~player_title~-~Player_creature_name~。~p~和諧之道教導我們，生活有它自己的節奏。但，<~mission_target_planet~>的節奏亂了譜！~p~一種病毒正透過我們野生的~mission_target_animal_species~群在傳播。~p~我們需要你盡快的從中挑出受感染的，否則病毒會散播出去，我們會失去整個物種，可能會讓整個生物圈開始瓦解。~p~保重，加快你的腳步。
+0x00000008 ~mission_num_eradicated_creatures~/~mission_num_creatures~隻的~mission_target_animal_species~生物已經被根除了。
+0x0000001D 我的媽呀！沒有什麼比瀕臨生態學災難更能破壞美好的一天。~p~~player_title~-~Player_creature_name~，你必須讓事情回到正軌。我們笨又粗野的~mission_target_animal_species~生物讓他們自己陷入可怕的困境中，雖然被馴化的那些仍然是相當討人喜歡且健康的。~p~我們需要你盡快找出受感染的，否则病毒會擴散，我們會失去整個物種...那可能是整個生物圈瓦解的開端。~p~快，趕快！快點來，快點來！
+

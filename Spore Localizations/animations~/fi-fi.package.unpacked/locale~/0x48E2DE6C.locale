@@ -1,0 +1,83 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000003 Elämme kovia aikoja. Taloudellisen tilanteen vuoksi resurssimme riittävät hädin tuskin lähitähtien valvomiseen. Ei ole toivoakaan, että voisimme käväistä jokaisella planeetalla. Tiedusteluraporttien mukaan planeetalle ~mission_target_planet~ pitäisi kuitenkin lähettää suurlähettiläs.~p~Voisitko mitenkään hoitaa tehtävän puolestamme?
+0x00000028 Olet osoittanut olevasi Paten uskollinen seuraaja. Paten nimeen, ota tästä ~mission_rewards~ Spore-taaleria ja Paten pyhä kirja.
+0x00000098 Matkusta planeetalle ~mission_target_planet~.
+0x00000005 Olemme aktiivisesti mukana Hengitetään Ilmaa Puhdasta -järjestön toiminnassa. Järjestön jäseniä kutsutaan HIPeiksi, ja he pyrkivät kirjaamaan ylös galaksin jokaisen planeetan ilmanlaadun. Juuri nyt HIPpiaktiiveista on pulaa, joten voisitko matkata tutkimaan planeettaa ~mission_target_planet~.
+0x00000057 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Jos selviät hengissä, saatamme maksaa sinulle jotakin.
+0x00000004 Haluaisitko tutustua planeetan ~mission_target_planet~ villieläimiin? Planeetta on kuulemma upeimmillaan tähän aikaan vuodesta, joten matka olisi varmasti perin juurin virkistävä. Kävisitkö paikalla varmistamassa, että kaikki on kunnossa.
+0x00000029 Jo muinaisina aikoina huomasimme, että raha kannustaa alhaisempia elämänmuotoja noudattamaan tahtoamme. Näin ollen saat tästä ~mission_rewards~ Spore-taaleria.
+0x0000009D Tehtäväsi planeetalla ~mission_target_planet~ on suoritettu. Palaa tähtijärjestelmän ~mission_source_star~ planeetalle ~mission_source_planet~.
+0x0000009B Suuntaa tähtijärjestelmään ~mission_source_star~.
+0x00000099 Palaa takaisin planeetalle ~mission_source_planet~.
+0x0000009A Kun olet päässyt planeetan kiertoradalle, loittoryhmäsi tulee siirtyä planeetan pinnalle.
+0x00000026 Olet palvellut galaksia kunniakkaasti, ja suurneuvosto on valtuuttanut minut palkitsemaan tekosi. Tässä siis sekä ~mission_rewards~ että toisen luokan suosiomerkki.
+0x00000027 Suoriuduit oikein hyvin! Annamme sinulle mielihyvin ~mission_rewards~ Spore-taaleria sekä kosmoksen ystävän arvonimen.
+0x00000025 Ikävä kyllä minun on kieltäydyttävä
+0x00000053 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palattuasi saat nauttia rahasta, laulusta ja tanssista.
+0x00000051 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palaa tänne tehtävän suoritettuasi, niin palkitsemme sinut anteliaasti.
+0x0000004E Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palaa tänne, kun olet suorittanut tehtävän, niin saat palkkiosi.
+0x0000009C Matkaa tähtijärjestelmään ~mission_target_star~. Siirry siellä planeetan ~mission_target_planet~ pinnalle ja suorita tehtäväsi.~p~Saat tehtävän suorittamisesta palkkioksi ~mission_rewards~ Spore-taaleria.
+0x00000046 Pyydän anteeksi, mutta en mitenkään voi jatkaa tätä projektia.
+0x00000056 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palkkiorahat virtaavat vuolaana, kun palaat luoksemme.
+0x0000003D Kutsuisimme sinut mukaan juhlimaan, mutta tehtäväsi planeetalla ~mission_target_planet~ on yhä kesken. Älä jää mököttämään, vaan hoida homma!
+0x0000003C Vaikka tehtävälokissa on asiasta selvät ohjeet, tehtäväsi planeetalla ~mission_target_planet~ on yhä kesken. Tämä ei ole lainkaan loogista.
+0x0000003E En tahtoisi loukata, mutta et ole vieläkään viimeistellyt tutkimusmatkaasi planeetalle ~mission_target_planet~. Kaikki osapuolet hyötyisivät kovasti, jos suorittaisit tehtävän loppuun.
+0x00000040 Tehtävälokissa olleista tiedoista huolimatta et ole suorittanut tehtävääsi planeetalla ~mission_target_planet~. Määrittääkö tekojasi kunnia vai pelkuruus?
+0x0000003F Matkusta planeetalle ~mission_target_planet~ ja suorita loppuun tehtävä, jonka hyväksyit. Odotamme paluutasi kärsivällisesti.
+0x00000038 Kapteeni hyvä, tehtäväsi on vielä suorittamatta. Suuntaa planeetalle ~mission_target_planet~, ennen kuin päämajan väki menettää hermonsa.
+0x00000039 Diplomaattinen tehtäväsi on vielä kesken. Matkaa planeetan ~mission_target_planet~ kiertoradalle ja siirry sitten planeetan pinnalle.
+0x0000003B Pyhä otuksemme mutristi huultaan sille kelvottomuudelle, jota levität galaksiin. Matkusta heti planeetalle ~mission_target_planet~ ja todista kunnollisuutesi.
+0x0000003A Mitä ihmettä? Etkö ole vieläkään käynyt planeetalla ~mission_target_planet~? Riennä äkkiä paikalle, niin saat homman hoidettua.
+0x0000004F Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Kun tehtävä on suoritettu, saat meiltä palkkion vaivoistasi.
+0x00000001 Suurneuvoston tiedustelupalvelun mukaan planeetalla ~mission_target_planet~ on havaittu outoa toimintaa. Voitko matkata planeetalle ja tarkistaa, mistä on kyse?
+0x00000050 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palaa lopuksi luoksemme, niin hukutamme sinut rikkauksiin.
+0x00000041 Tehtävälokiisi ladatuista tiedoista huolimatta et ole suorittanut tehtävää planeetalla ~mission_target_planet~. Aiotko lainkaan noudattaa saamaasi käskyä?
+0x00000002 Planeetan ~mission_target_planet~ suurlähettiläs on ilmoittanut suurneuvostolle kaipaavansa virka-apua. Palkkaisimme mieluusti sinut huolehtimaan asiasta. Kiinnostaako keikka? Se saattaisi tarjota sinulle tilaisuuden tutkia planeetan pintaa.
+0x00000037 Kiitän vilpittömästi.
+0x0000002F Hyvänen aika, tehtävälokisi mukaan olet onnistunut tehtävässäsi. Tämäpä ainutkertaista!~p~Ota vastaan ~mission_rewards~ Spore-taaleria ja ikuinen kiitollisuutemme.
+0x0000009E Meneillään
+0x000000A0 Onnistuit! Raportoi tähtijärjestelmässä ~mission_source_star~.
+0x0000009F Suoritettu
+0x0000002B Suuri ja mahtava otus palaa voittoisana! Riemumme on kovin ylitsevuotavaista. Ota kiitokseksi nämä ~mission_rewards~ Spore-taaleria, ja kiertele toki tutkailemassa erinomaista putiikkiamme.
+0x0000002A Miten uljaita aikoja me elämmekään! Onnistuit upeasti siinä... tuota... no, siinä hommassa mitä puuhasit.~p~Se on hyvä, sillä nyt me voimme keskittyä laulamiseen ja hauskanpitoon. Tässä palkkioksi lupaamamme ~mission_rewards~ Spore-taaleria.
+0x0000002C Kautta mahtavien aurinkotuulten. Sinä onnistuit sittenkin! Ota vastaan nämä ~mission_rewards~ Spore-taaleria. Haluamme myös varmistaa, että aluksesi fengshui on kohdallaan, jotta matkasi halki kylmän avaruuden olisi mahdollisimman miellyttävä.
+0x0000002E Onnistuit mainiosti tehtävässäsi. Nämä ~mission_rewards~ Spore-taaleria ovat meille tarpeettomia, mutta ehkä sinulla olisi niille käyttöä.
+0x0000002D Olet ollut meille suureksi avuksi ja olemme sinulle hyvin kiitollisia. Tästä saat ~mission_rewards~ Spore-taaleria palkkioksi vaivoistasi.
+0x00000054 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Kun palaat, pääset nauttimaan rikkauksista.
+0x00000060 Täysin ymmärrettävää, kapteeni.~p~Anteeksi, että vaivasimme asialla.~p~
+0x00000072 Toivon ymmärrystä.
+0x00000007 Kuten sanassa sanotaan, sinun tulee matkata planeetalle ~mission_target_planet~ julistamaan Paten ykseyttä. Syytä kirjoituksista ei ole löytynyt, mutta se on ainakin selvää, että edessäsi on pitkä ja vaivalloinen matka tuolle pahaiselle planeetalle. Olkoon se valaiseva.
+0x00000008 Suuret seikkailut odottavat kokijaansa planeetalla ~mission_target_planet~. Jokin suurempi voima haluaa selvästi sinut paikalle.~p~Oletko valmis matkaan?
+0x0000000E Kansamme keskittyy nyt juhlimaan juhlakauden avajaisia, jotka kestävät täyden vuoden. Koska olemme siis estyneitä, pyydämme sinua käväisemään puolestamme planeetalla ~mission_target_planet~. Siellä on meneillään jotain hyvin eriskummallista, ja jonkun pitäisi tutkia tilanne.~p~Palkkio tulee olemaan avokätinen, ja lupaamme kohottaa sinulle maljan blarkkimehua juhlakauden avajaisjuhlissa.
+0x00000012 On kunnia olla kaltaisesi mahtavan sankarin seurassa. Juuri nyt planeetalla ~mission_target_planet~ tarvittaisiin mahtavuuttasi.~p~Olisimmekin ikuisesti kiitollisia, jos voisit piipahtaa paikalla. Toki me myös maksamme hyvin.
+0x00000009 Pyhä otuksellisuus on valaissut meitä loisteellaan ja totuuden polku avautuu kirkkaana edessämme. Meidän tulee lähettää sankari planeetalle ~mission_target_planet~ levittämään pyhää sanaa. Oletko sinä kirjoitusten sankari, tai olisitko valmis ryhtymään sellaiseksi?
+0x00000010 Olemme syvästi kiitollisia, että noin mahtava otus suostuu vierailemaan kaltaistemme mitättömyyksien luona. Pyydämme mitä nöyrimmin, että kuuntelet tätä vaatimatonta toivettamme.~p~Olisiko mahdollista, että matkaat planeetalle ~mission_target_planet~ ja perehdyt planeetalla vallitsevaan tilanteeseen? Mutta vain, jos se ei aiheuta liiaksi vaivaa.
+0x00000052 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Palkkio odottaa täällä paluutasi.
+0x00000055 Kun saavut planeetan ~mission_target_planet~ luo, voit valita loittoryhmän varusteet. Varusteidenvalinnan jälkeen sinun tulee siirtyä planeetalle~p~Joissakin tehtävissä voit ottaa mukaasi myös lentueesi jäseniä.~p~Hoidamme maksun heti palattuasi.
+0x00000011 Emme millään tahtoisi vaivata, mutta voisitko tehdä meille palveluksen? Olisi aivan hirmuisen mahtavaa, jos voisit käydä planeetalla ~mission_target_planet~.~p~Rahtialuksemme ovat raportoineet planeetan huimasta potentiaalista ja haluamme ehdottomasti hyödyntää tämän tilaisuuden.~p~Luonnollisesti saat palkkion vaivoistasi.
+0x0000001C Päämaja on määrännyt sinut huippusalaiseen tehtävään planeetalla ~mission_target_planet~.~p~Otatko tehtävän vastaan?
+0x0000001D Mappisi tiedot ovat hieman puutteellisia, mutta tiedusteluraporttien mukaan sinun pitäisi suunnata välittömästi planeetalle ~mission_target_planet~ ja selvittää, mitä siellä tapahtuu.~p~Otatko tehtävän vastaan?
+0x00000019 Surkea ja mitätön elämänmuoto, suuntaa planeetalle ~mission_target_planet~. Älä kyseenalaista arvovaltaamme.
+0x00000018 ~race~ arvostaa niitä, jotka halveksuvat vaaroja ja kohtaavat kuoleman silmästä silmään.~p~Matkusta siis tutkimaan planeettaa ~mission_target_planet~. Kohtaat matkallasi monenlaisia haasteita ja tiesi tulee varmasti olemaan vaarain täyttämä.~p~Oletko valmis koitokseesi?
+0x0000001B Mene heti planeetalle ~mission_target_planet~, tai saat tuta halveksuntamme.
+0x0000001A Lähde heti planeetalle ~mission_target_planet~. Siinä kaikki.
+0x00000016 Luuletko todella olevasi vahvempi kuin ~race~? Osoita sitten mahtisi.~p~Mene planeetalle ~mission_target_planet~ ja kohtaa siellä odottavat haasteet. Jos olet sanojesi mittainen otus, saat komean palkkion.
+0x00000013 Tuulet ovat kuiskineet sankarista, joka tulee kokemaan suuren seikkailun. Mahdatko sinä olla tuo tarinoiden sankari?~p~Jos olet, seikkailusi odottaa planeetalla ~mission_target_planet~.
+0x0000000D Kuules tätä. Tämä on tosi hyvä juttu:~p~Surri, harlukki ja napakuutti kilpailivat lurpakoimisesta planeetalla ~mission_target_planet~. Ensin putosi napakuutti ja valovuoden päästä siitä sekä surri että harlukki. Arvaa kuka voitti?~p~No, sinä tietenkin?~p~Homma on sinun. Pistähän töpinäksi ja matkaa planeetalle.
+0x0000001E Tiedustelusatelliittimme ovat raportoineet yllättävästä aktiviteetista planeetan ~mission_target_planet~ pinnalla. Valitettavasti lähetys katkesi kesken raportin, mikä ei yleensä tiedä mitään hyvää. Jonkun pitääkin hetimmiten selvittää tilanne.~p~Otatko tehtävän hoitaaksesi?
+0x00000014 Suurten vesien henget puhuvat mahtavista seikkailuista, jotka odottavat rohkeutensa kokoavaa otusta. Jouda siis planeetalle ~mission_target_planet~.~p~Suojatkoon suurhenki kulkuasi.
+0x00000015 Kun vuoritähti asettuu linjaan vihan porttien kanssa, tapahtuu mitä ihmeellisimpiä asioita. Seuraamuksia voi nyt todistaa planeetalla ~mission_target_planet~.~p~Todistatko puolestamme näitä ihmeitä?
+0x0000000C Mittaustulosten perusteella planeetan ~mission_target_planet~ pinnalla on meneillään jotakin merkittävää.~p~Voisitko käväistä tutkimassa asiaa? Kai moinen pikku koukkaus sopii aikatauluusi?
+0x00000073 Täysin ymmärrettävää, kapteeni.~p~Pahoittelut, että vaivasimme tällaisella asialla.
+0x0000000B Planeetan ~mission_target_planet~ tieteellinen tutkijayhteisö on ilmoittanut, että planeetan pinnalta saattaa löytyä jotakin sinua kiinnostavaa.~p~Jospa matkaisit varmistamaan asian?
+0x0000000A Luotaimemme lähettämien tietojen mukaan planeetalla ~mission_target_planet~ on meneillään jotakin perin juurin erikoista. Toivottavasti ~mission_target_planet~ kuuluu mielikohteisiisi, sillä haluaisimme sinun matkaavan planeetalle tutkimaan asiaan.~p~Voitko tehdä meille tämän palveluksen?
+0x0000000F Yy, kaa, koo, nee! Otus ajaa apuun kiiturilla. Uaa. Apuun kiiturilla~p~Otuksella on ~mission_target_planet~ kohteena. Uaa. Planeetta kohteena.~p~Varmista, että kaikki on kunnossa. Uaa. Kaikki kunnossa.~p~Uaa... Hmm. Mitenkäs se jatkuikaan?
+0x00000017 Aikojen saatossa olemme saaneet todistaa, miten urheat seikkailijat vaaran uhatessa luikkivat pakoon häntä koipien välissä. Oletko sinä poikkeus, joka vahvistaa säännön? Onko sinusta tositoimiin?~p~Suuntaa siis planeetalle ~mission_target_planet~ ja osoita urheutesi. Tehtävä on vaarallinen, mutta palkkiokin on komea.
+0x0000005F Ymmärrän. Palaan pian.
+0x00000006 Sydäntä kylmää, kun energiaa tuhlataan planeettojen väliseen avaruusmatkailuun. Siitä huolimatta meidän pitää lähettää sinut planeetalle ~mission_target_planet~.~p~Paikalliset planeetansuojelijat ovat kertoneet, että siellä on meneillään jotakin kummallista.
+

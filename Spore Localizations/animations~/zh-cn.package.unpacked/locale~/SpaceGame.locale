@@ -1,0 +1,391 @@
+﻿# binary star suffixes
+# if name doesn't end in a digit (most stars)
+
+0x05D66E7D -B
+0x05D66E7C -A
+
+#######################################
+# Animal types
+
+0x03EBF7A9 食草动物
+0x03EBF7A8 智慧
+0x03EBF7AA 食肉动物
+0x03EBF7AB 杂食动物
+
+#######################################
+# Posse UI
+
+0x05BAAFC0 同盟
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+
+0x043AF42C 蓝色香料
+0x043AF42B 请看看我们正在出售的优质货物吧。我们肯定能做点交易的。
+0x043AF084 绿色香料
+0x043AF083 我们的领袖想知道你有没有什么绿色的……
+0x043AF082 我们已经扫瞄了你的货舱，你有对我们的什么东西感兴趣吗？
+0x043AF085 我们的粉色香料今年收成非常好。你肯定会有兴趣买一些的！
+0x043AF42A 我们正在想你会不会带回些蓝色香料来。
+0x043AF087 粉色香料
+0x043AF086 粉色香料让我们强壮，让我们高兴。很遗憾我们手头没有了。
+0x043AF081 黄色香料
+0x043AF038 请看看我们正在出售的优质货物吧。
+0x043AEF68 紫色香料
+0x043AEF67 有紫色的吗？
+0x043AF039 哇，我们正好需要一些红色香料。
+0x043AF080 哇，我们正好需要一些黄色香料。
+0x043AF07F 请看看我们正在出售的优质货物吧。
+0x043AF03A 红色香料
+0x043AEF66 我们眼下遇到了一些特殊的紫色货。
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043AF4FB 这颗行星名叫~star_name~
+0x043AF4FA 这里
+0x043AF4FF 这颗主恒星名叫~star_name~
+0x043AF500 银河系核心
+0x043AF505 和
+0x043AF504 小行星带
+0x043AF501 巨型气态星球
+0x043AF4FC 名叫~star_name~的虫洞
+0x043AF4FE 名叫~star_name~的红巨星
+0x043AF4FD 名叫~star_name~的大恒星
+
+#random string for spg
+
+0x068B22CD 不能在此系统中使用
+
+#######################################
+# Filters
+
+0x031791B3 任务
+0x031791B2 帝国
+0x031791AF 我的帝国
+0x031791B4 旅行足迹
+0x0563D2AB 朋友和敌人
+0x0563D2AA 已访问
+
+#######################################
+# Plant types
+
+0x03EBF7AC 小型植物
+0x03EBF7AD 中型植物
+0x03EBF7AE 大型植物
+
+#######################################
+# Tech Levels
+
+0x03EAC039 荒芜
+0x03EAC03D 文明
+0x03EAC03A 野蛮
+0x03EAC03B 部落
+0x03EAC03C 城市
+0x03EAC03E 太空
+
+#######################################
+# Food web rollover
+
+0x03E81C64 ~dominant_species~
+0x03E81C65 ???????
+0x0473CB26 浓密大气层
+0x0473CB2A 无大气层
+0x0473CB32 高温
+0x0473CB2E 低温
+0x0473CB1F 草食动物
+0x0473CB1A 植物
+0x0539AAE8 充满植物以解锁
+0x0539AA95 中型植物栏
+0x0539AA96 大型植物栏
+0x0539AA97 草食动物栏
+0x0539AA94 小型植物栏
+0x061DFE83 填满前面的行来解锁
+0x0473CB22 食肉动物
+0x0539AA98 食肉动物/杂食动物栏
+
+#player titles
+
+0x05AC5B78 能人
+0x05AC5B6F 万能
+0x05AC5B73 极限之人
+0x05AC5B68 传奇
+0x05AC5B01 船长
+0x05AC5B1B 指挥官
+0x05AC5B58 大人物
+0x05AC5B5F 名望之人
+0x05AC5B64 伟人
+0x05AC5B2E 舰队司令
+0x05AC5B20 船队队长
+
+# tool group names. how we group the tools in the tool browser ui.
+
+0x05879DF8 外交
+0x05879DF7 殖民
+0x05879DF6 创建
+0x05879DF9 信仰
+0x05879DFA 特殊
+0x05879DF3 探索
+0x05879DF5 地形转化
+0x05879DF4 武器
+
+#######################################
+# destroy cargo text
+
+0x03E81C56 你希望永久性摧毁这件货物吗？
+0x03E81C55 抛弃货物
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000006 金板
+0x04000010 交付报酬
+0x04000008 雪球
+0x04000009 奖杯
+0x04000007 节杖
+0x04000005 骆驼
+0x04000000 金色偶像
+0x04000002 王冠
+0x04000003 守护神
+0x04000004 圣杯
+0x04000001 箱子
+
+# if name ends in a digit
+
+0x05D66E7E A
+0x05D66E80 B
+0x03E81C6B 获取全息图
+0x0473D0CF ~tech_level~
+0x03E81C6A 地形转化中
+0x03E81C6C 全息图扫描
+
+#######################################
+# Galactic level star rollover
+
+0x03E98B0B ~empire_money~
+0x03E98B0A 距离：~travel_distance~(pc)
+0x03E98B09 ~travel_cost~
+
+0x0580E601 你自己的帝国
+0x065B76EF ~p~解锁：
+0x0657C8D4 您必须离开行星才能保存。
+0x065672CB 可以购买。找一个愿意卖出的帝国。
+0x0657CC21 ~badge_points~个徽章点
+
+#######################################
+# Misc Rollovers
+
+0x06749C10 保安机器人
+0x0678CDDF 海盗
+0x0654CB13 ~planet_name~ 投降了
+0x0654CB16 ~planet_name~ 不投降
+0x0654CB0A 商路进度
+0x0654CB0F 占领进度
+
+#tool given
+
+0x06538847 已收集：~generic_name~
+
+#######################################
+# T scores
+
+0x03EAC684 T3
+0x03EAC683 T2
+0x03EAC681 T0
+0x03EAC682 T1
+
+#######################################
+# Progress bar rollover
+
+0x0435ECE8 军团：部落：~tribe_worshipper_count~，文明：~civ_worshipper_count~，太空：~ally_count~
+0x0435ECE5 殖民地：~colony_count~
+0x0435ECE0 预算：~badge_count~
+0x0435ECEB 任务：~mission_count~
+0x0436D447 预算点：~badge_points~
+
+#######################################
+# Planet Rollover
+
+0x03E98B08 ~planet_spice~
+0x037C32CC ~terraform_level~
+0x03F5A128 彗星
+0x06748F94 已占领
+0x063C3D96 无人占领的
+
+#######################################
+# Comm/Trade fail text
+
+0x06790599 增加关系以进行贸易。
+0x06790598 不开放交易。
+0x0679F573 不能在战争中维修
+0x0679F574 不能在战争中补充。
+0x0679ED24 资金不足。
+
+#######################################
+# tool unlock
+#tool unlocked
+
+0x06538846 ~generic_name~
+
+#######################################
+# Commodity requirements
+
+0x065BD251 ~commodity_badge_req~ 徽章
+0x065B9969 ~commodity_badge_reqs~，和~commodity_tool_reqs~
+0x065B8F36 ~commodity_badge_req~或~commodity_badge_or_req~徽章
+0x065B8F3D ~commodity_badge_req~和~commodity_badge_and_req~徽章
+0x065B995C ~commodity_tool_req~和~commodity_tool_and_req~
+0x065B9960 ~commodity_tool_req~和~commodity_tool_and_req~或~commodity_tool_or_req~
+0x065B9958 ~commodity_tool_req~或~commodity_tool_or_req~
+0x065B8F44 ~commodity_badge_req~和~commodity_badge_and_req~或~commodity_badge_or_req~徽章
+0x065B9952 ~commodity_tool_req~
+
+#######################################
+# Cost strings
+
+0x0435ECED ~cost~
+0x066F61C1 （免费）
+
+#######################################
+# space - city piemenu
+
+0x043DB6B4 出售建筑（~cost~）
+0x043DB6B3 破坏
+0x043DB6B5 维修建筑（~cost~）
+0x043DB6B9 出售殖民地（~cost~）
+0x043DB6B8 购买建筑
+0x043DB6B7 维修太空船（~cost~）
+0x0510B24F 编辑太空船
+0x043DB6B1 出售炮塔（~cost~）
+0x043DB6B2 维修炮塔（~cost~）
+0x04C82968 为市民带上附件
+
+#######################################
+# Cargo Rollovers
+
+0x03EDFDD4 ~item_animal_type~
+0x03EDFDD5 ~item_plant_type~
+0x04729A65 未扫描
+0x03EADFD0 ~tool_use_cost~
+0x03EAFDD3 来自~item_planet_name~
+
+# todo: the following need to be hooked up
+
+0x0679EAC5 不感兴趣。
+0x0679EAC6 您的货舱满了。
+
+#######################################
+# Tool Fail Text
+
+0x066F7A1A 必须在你的一个殖民地上使用
+0x066F7A1E 不能使用在城市上空。
+0x066F7A1F 不能在水面上使用。
+0x066F7A1D 能量已满
+0x066F7A1B 每个星球只能有一个。
+0x066F7A1C 生命已满
+0x0671CE05 星球上必须出现一只动物。
+0x0671FB24 你不能在这颗星球上使用巨石！
+0x066F7A20 你的位置太高了。
+0x0653E593 必须在行星上。
+0x0653E594 没有弹药了。
+0x0653E595 再充能。
+0x0653E599 已经有了一个迷你-U。
+0x0653E598 舰队已满。
+0x0653E596 必须用在一个帝国行星。
+0x0653E597 必须在外星人的殖民地。
+0x0653E59E 必须在无人行星使用。
+0x0653E59B 必须在星系中最高技术等级的行星。
+0x0653E5A0 不能在家园上使用。
+0x0653E59C 不能在帝国上使用。
+0x0653E59F 需要更高T值。
+0x0653E59D 不能在野生生物避难所使用。
+0x0653E59A 星系必须有一条商路。
+0x066F7A21 这个星系已经存在智能物种。
+0x066F7A22 在当前T值下不能建立更多殖民地。
+
+# used to name the Galactic Core.
+
+0x0591BD91 银河核心
+
+# the ids for the ordinal numbers must be in order.
+
+0x043AF526 进行中
+0x043AF523 T3
+0x043AF529 任务
+0x043AF52A 警报
+0x043AF52B 预算
+0x043AF522 T2
+0x043AF50E 第7
+0x043AF50D 第6
+0x043AF50C 第5
+0x043AF50F 第8
+0x043AF521 T1
+0x043AF520 T0
+0x043AF510 第9
+0x043AF50B 第4
+0x043AF507 第0
+0x043AF50A 第3
+0x043AF509 第2
+0x043AF508 第1
+0x043AF527 完成
+0x043AF528 失败
+
+#######################################
+# Foodweb Colony strings
+
+0x0678EED0 殖民地栏位
+0x0678EECF 增加地形值进行解锁
+
+#######################################
+# Roll overs
+
+0x045FFE85 选项
+0x03E81C62 编辑太空船
+0x045FFE8E 暂停/继续
+0x045FFE89 帮助
+0x03E81C61 开关Spore百科
+0x03E81C60 主工具
+0x03E81C5B 太空船选项
+0x03E81C5C 地形转化工具
+0x03E81C5D 开启通讯
+0x04359B0F 小地图
+0x04359B05 地形转化中
+0x03E81C5E 货舱
+0x03E81C5F 武器
+0x048662B4 星图过滤
+0x061ECCF0 太空船能力
+
+#######################################
+# colony object names
+
+0x4A1E2E7B 幸福增强器
+0xB4150FEB 香料储存器
+0x44B420E4 忠诚增强器
+0xF55D419A 生物保护者
+0xE4EC3F34 防守卫星
+0x3AAB4C0E 大使馆
+0xB7D22F27 生物稳定器
+0x405DC1DF 野生生物避难所
+
+#######################################
+# Our Solar System
+
+0x03F5A0B2 金星
+0x03F5A0B0 太阳
+0x03F5A0B1 水星
+0x03F5A0B6 木星
+0x03F5A0B7 木卫三
+0x03F5A0B5 火星
+0x03F5A0B3 地球
+0x03F5A0C2 包瑞利彗星
+0x03F5A0C0 科胡特克彗星
+0x03F5A0BC 哈雷彗星
+0x03F5A0BD 海尔-波普彗星
+0x03F5A0BE 舒梅克-李维2号彗星
+0x03F5A0B9 土卫六
+0x03F5A0BB 海王星
+0x03F5A0BA 天王星
+0x03F5A0B8 土星
+0x03F5A0B4 月球
+

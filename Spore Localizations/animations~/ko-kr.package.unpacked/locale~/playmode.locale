@@ -1,0 +1,188 @@
+﻿# Maya export
+
+0x05B04EF5 마야 익스포트 파일이 ~br~~maya_export_path~~maya_export_name~*(으)로 저장되었습니다.
+
+# YouTube
+
+0x0549366C 아니오 
+0x0549366D 업로드 
+0x056D0627 업로드를 성공했습니다! 친구에게 동영상 주소를 보내십시오! 
+0x05B5AC4C YouTube 서비스 이용 약관
+0x05496510 YouTube에 로그인을 실패하였습니다.~br~~br~업로드하기 전에 YouTube에 유효한 사용자명과 비밀번호를 입력하거나 가입하십시오.  
+0x054C1E63 동영상이 ~movie_pathname~~movie_name~.avi~mac_save_append~로 저장되었습니다.
+0x05E501EB <youtubeicon>업로드
+0x05D2C767 업로드가 취소되었습니다.
+0x05B5FD1E 지금 업로드 하시겠습니까?
+0x05D54AF7 관련 웹사이트는 영문으로 되어 있습니다. 자국의 언어로 보려면 사이트 메뉴에서 해당 국가를 선택하십시오.
+0x05498D58 YouTube에 로그인하는 동안 오류가 발생했습니다.~br~~br~인터넷 연결을 확인하시거나 나중에 다시 시도하십시오.
+0x05498260 YouTube에 로그인하는 동안 오류가 발생했습니다.~br~~br~인터넷 연결을 확인하시거나 나중에 다시 시도하십시오.
+0x05600488 이 기능을 사용하려면 Spore에 로그인해야 합니다. 로그인하시겠습니까?
+0x0563C623 이 기능을 사용하려면 Spore를 등록해야 합니다. 등록하시겠습니까?
+0x05498DCB 업로드를 성공했습니다! 친구에게 동영상 주소를 메일로 보내십시오!
+0x055AA305 YouTube에 동영상을 업로드 중입니다.
+0x056691B0 YouTube 회원정보를 확인하는 중입니다.
+0x05496B24 YouTube에 로그인 중입니다.
+
+# email
+
+0x04585F1F 당신의 이메일 주소가 유효하지 않습니다. 
+0x04585F49 수신자의 이메일 주소가 유효하지 않습니다. 
+0x04588BEF 이메일 요청이 진행중입니다. 
+0x045AD5B9 친구에게 메일 보내기 
+0x045AD62F 당신의 이메일 
+0x045AD634 수신자의 이메일 
+0x0583897C 이메일을 보내려면 클릭하십시오. 
+0x05B5B8C4 친구에게 동영상 정보 알리기
+
+# capture GIF
+
+0x058B90F2 움직이는 아바타가 ~br~~gif_name~~mac_save_append~로 저장되었습니다.
+
+# tool tips
+
+0x046287A4 이미지 뷰어
+0x046287A5 사진 찍기
+0x046287A6 동영상 녹화
+0x0473F903 이미지 관리
+0x0474E80D 이미지 삭제
+0x0474E80E 이미지 저장
+0x04598E97 메일 보내기 
+0x046286E7 회전 
+0x046286F4 앉기 
+0x046286F8 으르렁거리기 
+0x04628713 부르기
+0x04628717 펀치 
+0x04628719 짜잔!
+0x04628722 귀여움 
+0x04628724 스모
+0x04628726 반가움
+0x04628729 도발
+0x04628733 헤이
+0x04628737 바로 너
+0x04628739 막춤
+0x0462873F 덩실덩실
+0x04628745 엉덩이 춤
+0x04628749 발구르기 
+0x0462874E 권투
+0x04628798 기쁨 
+0x0462879C 슬픔 
+0x046287A0 두려움 
+0x046287A1 화남 
+0x046287A2 웃음 
+0x046287A3 해롱해롱
+0x046287D8 배경
+0x046287ED 저장하기 
+0x0462932D 도움말 
+0x046287DA 새끼
+0x046286F2 공중제비  
+0x046287D6 동작
+
+# move all
+
+0x04583A4E 모두 저장
+
+#continue
+
+0x0549656C 계속하기 
+
+# delete one done
+
+0x04583433 이미지가 삭제되었습니다. 
+
+# delete all done
+
+0x0458334E 이미지가 모두 삭제되었습니다. 
+
+# movie file name
+
+0x05DBC9EE ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+
+# move one done
+
+0x0458342D 이미지가 다음의 경로에 저장되었습니다: ~play_photo_back~
+
+# GIF file name
+
+0x05DC1FD4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# background page count
+
+0x047ED777 ~bg_page_current~ / ~bg_page_count~ 
+
+# photo count
+
+0x04587552 ~photo_current~ / ~photo_count~ 
+
+# move all done
+
+0x04583295 이미지가 다음의 경로에 저장되었습니다: ~play_photo_back~
+
+# Are you sure: Yes
+
+0x04583FFB 네 
+
+# SPPlayModeAnimation.cpp
+
+0x05C3EFCD 에니메이션
+
+# photobackuppath
+
+0x06305594 내 문서
+0x06305593 내 Spore 창조물/Pictures/Backup
+
+# YouTube error message
+
+0x0567C3AB ~status_message~ 
+0x05BAF944 로그인 실패
+0x05CBDEDA 업로드 실패
+
+# your message
+
+0x045AD63A 당신의 메시지 
+
+#drag and drop fail message
+
+0x05889A21 테스트 모드
+0x05889A4C 테스트 모드에서는 드래그 앤 드롭을 할 수 없습니다. 생성 모드나 색칠 모드로 전환하십시오.
+
+# photo page count
+
+0x0456F912 ~page_current~ / ~page_count~ 
+
+# too many photos
+
+0x047FF0E4 이미지가 너무 많습니다. 이미지 일부를 저장하십시오.
+
+# photo actions
+
+0x045C2025 이미지로 무엇을 하시겠습니까?
+0x045C206E 이 이미지를 삭제하시겠습니까?
+0x045C208A 모든 이미지를 삭제하시겠습니까?
+0x045C2094 이 이미지를 저장하시겠습니까?
+0x045C2098 모든 이미지를 저장하시겠습니까?
+0x04613ED0 지금 종료하면 저장중인 이미지가 모두 취소됩니다. 정말로 종료하시겠습니까?
+
+# delete all
+
+0x04583A36 모두 삭제 
+
+# cancel
+
+0x04583AFB 취소 
+
+# Are you sure: No
+
+0x0458400E 아니오 
+
+# email message
+
+0x056BCDCA SPORE로 만든 저의 동영상을 보세요!~br~~video_url~
+0x056BCE10 SPORE로 만든 저의 근사한 크리처를 보세요!
+
+# animation page count
+
+0x05C2B47B ~anim_page_current~ / ~anim_page_count~
+
+#ok
+
+0x045C2917 확인 

@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Roham
+0x0000001E Távolsági támadás, mely érintéskor lebénít egy célpontot.
+
+# Colony_Building.prop
+
+0x0000004F Gyártás
+0x00000050 A gyártás növelése több pénzt hoz a kolóniának.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 Katonai légi
+0x0630D532 Szárnyalj a katonai fölény felé!
+
+# Colony_CivicObject.prop
+
+0x00000052 A városi objektumok kizárólag dekorációs célt szolgálnak.
+0x00000051 Városi objektumok
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Gyarmati légi
+0x0630D572 Fedezd fel a gyarmatot a levegőből!
+
+#socialize
+
+0x00001001 Barátkozás
+0x00002001 Más lényekkel való barátkozáshoz használj Éneket, Táncot, Pózolást és Elbűvölést.
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Gyarmati vízi
+0x0630D574 Fedezd fel a gyarmatot a tengeren!
+
+# City_Income.prop
+
+0x00000037 Jövedelem
+0x00000038 A gyárak növelik a bevételt, ha a házak mellé telepíted őket, ugyanakkor csökkentik a boldogságot, különösen a szórakoztató épületek mellett.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Tánc
+0x33A78A34 Más lényekkel barátkozhatsz, akik értékelik ezt a fajta közeledést.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000102 Gyógyító botok
+0x00000103 Szereld föl a törzs tagjait sámánbotokkal, hogy jobban gyógyíthassák társaikat a csatatéren.
+0x0666A342 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~
+
+# CL_Proboscis.prop
+
+0x0000004B Mindenevő
+0x0000004C Az egysejtűd növények és élőlények nedveivel táplálkozik.
+0x06493565 Mindenevő – Zöld növényeket vagy más egysejtűeket eszel.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Gyarmati szárazföldi
+0x0630D576 Fedezd fel a gyarmatot a felszínen!
+
+# Charm5.prop
+
+0x0000008B Elbűvölés
+0x0000008C A sok aprólékosan kidolgozott testrésszel rendelkező lényeket lehet elbájolni ezzel a képességgel.
+
+# Spit2.prop
+
+0x000000C2 Köpés
+0x000000C3 Gyors támadás, mely több lövedéket küld egyetlen célpontba.
+
+# Herbivore1-5.prop
+
+0x0473A24E Növényevő
+0x0473A24F A lényed gyümölccsel táplálkozik.
+
+# City_Cultural.prop
+
+0x0000002B Megtérítés
+0x0000002C A vallási járművek képesek megtéríteni vallásodnak a boldogtalan városokat.
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~ %
+
+# Charge5.prop
+
+0x00000021 Roham
+0x00000022 Távolsági támadás, mely érintéskor lebénít egy célpontot.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Köpés
+0x000000BF Gyors támadás, mely több lövedéket küld egyetlen célpontba.
+
+##### Tribal Accessories #####
+
+0x055D4830 Harc
+0x055D4838 Halászat
+0x055D4832 Szociális
+0x055D4836 Gyűjtés
+0x055D4834 Egészség
+0x055D4835 Az életerő kiegészítők megnövelik, hogy mennyi csapást tudnak elviselni az egyes törzstagok a csatában.
+0x055D4837 A gyűjtögető kiegészítők gyorsabbá teszik az élelem gyűjtését.
+0x055D4833 A társas kiegészítők növelik az esélyét, hogy lenyűgözd a többi törzset a szociális érintkezések során.
+0x055D4831 A harci kiegészítők megnövelik az egyes törzstagok által okozott sebzést a csatában.
+0x055D4839 A halászati kiegészítők segítenek növelni halászati szakértelmed.
+0x055D4E62 Gyülekezés
+0x055D4EB3 Felszerelés hozzáadásával növeld gyűjtögetési hatékonyságodat.
+
+### Complexity Meter ##
+
+0x05F110B3 Összetettségmérő
+0x05F110B4 Ha ez a mérő tele van, nem adhatsz hozzá több elemet.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Csapás
+0x000000D5 Közeli, megsemmisítő erejű támadás több célpont ellen.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Automatikus támadás
+0x049A3CDB Normál automatikus harapás
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD ~icon_amount~. szint
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 Ének
+0x00000121 Az éneklésre fogékony lényekkel barátkozhatsz.
+
+#health
+
+0x00001004 Egészség
+0x00001008 Egészség
+0x00002008 Az egészség mutatja meg, mekkora sérülést képes elviselni a sejted. Minden sejtnek három egységnyi egészsége van.
+0x00002004 Minden szint agykapacitás növeli az egészséged, de vehetsz páncélozott elemeket is, hogy növeld a túlélési esélyed a harcban.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Sebesség
+0x04CEA2D3 Növeli a járműved sebességét.
+
+# Colony_House.prop
+
+0x066657CA Termelés
+0x066657CB A házak növelik a fűszertermelést, ha gyárakhoz csatolod őket.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Erő
+0x04CEA2D5 Az erő növelésével a hatékonyság növekszik.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 Támadás
+0x00002000 Más lények megtámadásához használj Harapást, Csapást, Rohamot és Köpést.
+0x00001007 Támadás
+0x00002007 Adj a sejtednek tüskéket, mérget vagy elektromosságot, hogy megtámadhass másokat!
+
+# Posture3.prop
+
+0x000000A7 Pózolás
+0x000000A8 A pózolás népszerű a fogásra alkalmas végtagokkal rendelkező teremtmények között.
+
+# Dance2.prop
+
+0x00000057 Tánc
+0x00000058 Táncolj az olyan lényekkel való barátkozáshoz, akik értékelik ezt a fajta közeledést.
+
+# Bite2.prop
+
+0x00000005 Harapás
+0x00000006 Gyors támadás egyetlen célpontra, kis távolságra.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Elbűvölés
+0x0000008A A sok aprólékosan kidolgozott testrésszel rendelkező lényeket lehet elbájolni ezzel a képességgel.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526762 Mindenevő
+0x06526772 Egysejtűd más egysejtűekre vadászik, vörös húsdarabokat eszik, valamint folyadékot szív növényekből és a többi egysejtűből.
+
+# Charge2.prop
+
+0x0000001B Roham
+0x0000001C Távolsági támadás, mely érintéskor lebénít egy célpontot.
+
+# Bite1.prop
+
+0x00000001 Harapás
+0x00000002 Gyors támadás egyetlen célpontra, kis távolságra.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Gyár
+0x06496725 Növeli a bevételt, de csökkenti a boldogságot.
+
+# CL_Cilia.prop
+
+0x0000003F Gyors fordulás
+0x00000040 Az egysejtűd gyorsan tud megfordulni.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Termelés
+0x066657CD Tedd boldogabbá polgáraidat; építs szórakoztató épületeket házaik mellé!
+
+# Colony_Factory.prop
+
+0x066657CE Termelés
+0x066657CF A gyárak növelik a fűszer termelését, különösen, ha házak mellé helyezed őket, de csökkentik a boldogságot, különösen, ha szórakoztató épület mellé épülnek.
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Törzsi kiegészítők
+0x04D02BF8 Adj felszerelést törzsed tagjainak, hogy fejleszd képességeiket!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 Katonai vízi
+0x0630D534 Vitorlát fel, irány a katonai fölény!
+
+#movement
+
+0x00001003 Gyorsaság
+0x00001006 Mozgás
+0x00002003 Adj hozzá gyorsabb lábakat a sebesség növeléséhez!
+0x00002006 Adj egysejtűdnek csillókat, ostort vagy fúvókát, hogy gyorsabban mozogjon. Minden plusz elem megnöveli a sebességet.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Letapogatás
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526761 Mindenevő
+0x06526771 Egysejtűd zöld növényi hajtásokat eszik, valamint folyadékot szív növényekből és a többi egysejtűből.
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ erő
+
+# Spit5.prop
+
+0x000000C8 Köpés
+0x000000C9 Gyors támadás, mely több lövedéket küld egyetlen célpontba.
+
+# Posture5.prop
+
+0x000000AB Pózolás
+0x000000AC A pózolás népszerű a fogásra alkalmas végtagokkal rendelkező teremtmények között.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Szórakoztatás
+0x06496727 Növeli a boldogságot, ami véd a vallásos támadásoktól.
+
+# Dance5.prop
+
+0x0000005D Tánc
+0x0000005E Táncolj az olyan lényekkel való barátkozáshoz, akik értékelik ezt a fajta közeledést.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Sprintelés
+0xF386C342 A Sprinteléssel gyorsabban lehet szaladni egy rövid ideig. További elemek megnövelik a sprint idejét.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Gyorsaság
+0x0473A251 Jobb lábfejekkel gyorsabban futhatsz.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 Kereskedelmi szárazföldi
+0x0630D546 Bomba üzletek, földi szállítás!
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C A magas Egészség növeli a támadások túlélésének esélyét.
+0x04CB5B6D Egészség
+
+# CL_Shock.prop
+
+0x0000004D Elektromosság
+0x0000004E A sejted lesokkolja a közeli sejteket, és immúnis lesz más sejtek elektromos ingereire.
+
+# CL_Poke.prop
+
+0x00000049 Támadás és törés
+0x0000004A Más egysejtűek megtámadásához rohamozd meg őket. Bizonyos tárgyak összetörnek, ha nekik mész.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Robbanásszerű gyorsulás
+0x00000046 Az egysejtűd sebesen gyorsul.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x000000A0 Felvehetsz és használhatsz különböző tárgyakat.
+0x0000009F Kezek
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 Vallási szárazföldi
+0x0630D556 Tömegtérítés a szárazföldről!
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Gazdasági erő
+0x06318043 A gazdasági erő növeli a kereskedelmi utak jövedelmét.
+
+# CL_Speed.prop
+
+0x0563FF82 Gyorsaság
+0x0563FF83 Gyorsaság
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE ~icon_amount~. szint
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Halászdárdák
+0x000000F1 Szereld fel a törzstagjait halászdárdákkal, hogy még több halat tudjanak fogni.
+0x0666A340 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+# Bite5.prop
+
+0x0000000B Harapás
+0x0000000C Gyors támadás egyetlen célpontra, kis távolságra.
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~
+
+# Tribe_Hunt3.prop
+
+0x0000010A Hajítódárdák
+0x0000010B A dárdák lehetővé teszik törzsed tagjainak, hogy távolról támadjanak.
+0x0666A346 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+# Spit3.prop
+
+0x000000C4 Köpés
+0x000000C5 Gyors támadás, mely több lövedéket küld egyetlen célpontba.
+
+# Posture2.prop
+
+0x000000A5 Pózolás
+0x000000A6 A pózolás népszerű a fogásra alkalmas végtagokkal rendelkező teremtmények között.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 Vallási vízi
+0x0630D554 Tömegtérítés a tengerről!
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~
+
+# City_Population.prop
+
+0x0000003B Populáció
+0x0000003C A házak növelik a bevételt, ha gyárakkal kapcsolod össze őket. Minden ház eggyel növeli a járműlimitet is.
+
+#diet
+
+0x00001002 Étrend
+0x00001005 Étrend
+0x00002002 Egysejtűként alkalmazott étrended meghatározza lényként alkalmazott étrendedet is.
+0x00002005 Adj a lényednek szűrős szájszervet, állkapcsot vagy ormányt, hogy képes legyen különböző táplálékok fogyasztására.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Blokkolás
+0x00000016 Harc során blokkolj, hogy elkerüld a sebződést!
+
+# City_NormalOutfit.prop
+
+0x05B1E9BC Tervezd meg polgáraid ruházatát.
+0x05B1E9BB Tervezd meg polgáraid ruházatát.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Roham
+0x00000018 Távolsági támadás, mely érintéskor lebénít egy célpontot.
+
+# Charm3.prop
+
+0x00000087 Elbűvölés
+0x00000088 A sok aprólékosan kidolgozott testrésszel rendelkező lényeket lehet elbájolni ezzel a képességgel.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Ugrás
+0x00000098 Az ugrással a nehezen elérhető helyekre is eljuthatsz. Magasabb szinten magasabbra ugrasz. A Járáspróba módban a szóköz gombbal próbálhatod ki az ugrást.
+
+# Strike2.prop
+
+0x000000D8 Csapás
+0x000000D9 Közeli, megsemmisítő erejű támadás több célpont ellen.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Vallási erő
+0x06318041 A vallási erő növelése segít megtéríteni a hitetleneket.
+
+# Dance4.prop
+
+0x0000005B Tánc
+0x0000005C Táncolj az olyan lényekkel való barátkozáshoz, akik értékelik ezt a fajta közeledést.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Ház
+0x06496723 Növeld városod népességét és járműkorlátját!
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Vitorlázás
+0x00000096 Szárnyak segítségével a teremtményed repülni képes. Minél magasabb szinten van, annál messzebb tud repülni.
+
+# Tribe_Gather3.prop
+
+0x000000FC Cukornádgyűjtés
+0x000000FD Szereld föl a törzs tagjait gyűjtőbotokkal, hogy még több gyümölcsöt tudjanak gyűjteni.
+0x0666A341 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+# City_Happiness.prop
+
+0x00000033 Boldogság
+0x00000034 A szórakoztató épületek házak mellé helyezésével biztosíthatod a polgárok boldogságát.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Egészség
+0x04CEA2D1 Az egészség növelésével a jármű tovább bírja a harcot.
+
+# Bite3.prop
+
+0x00000007 Harapás
+0x00000008 Gyors támadás egyetlen célpontra, kis távolságra.
+
+# CL_Poison.prop
+
+0x00000047 Méregköpés
+0x00000048 A sejted méregfelhőket lövell ki, és immúnis lesz más sejtek méregkibocsátására.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 Katonai szárazföldi
+0x0630D536 A legjobb a jó öreg harckocsi. Ez egy tank, világos?!
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 Egysejtűd zöld növényi hajtásokat eszik, más egysejtűekre vadászik és vörös húsdarabokat is bekebelez.
+0x06526760 Mindenevő
+
+# Starvivore.prop
+
+0x04D19389 Szájatlan
+0x04D1938A A száj nélküli lény éhenhalásra ítéltetett. Kérjük, adj neki szájat.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Pózolás
+0x000000A2 A pózolás népszerű a fogásra alkalmas végtagokkal rendelkező teremtmények között.
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~
+
+# Vocalize2.prop
+
+0x0000011E Ének
+0x0000011F Az éneklésre fogékony lényekkel barátkozhatsz.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 Lopakodás
+0x000000D3 Rajtaüthetsz gyanútlan lényeken és kicselezheted a támadókat. Lopakodásból támadva bónuszt kapsz a támadáshoz.
+
+# Charge4.prop
+
+0x0000001F Roham
+0x00000020 Távolsági támadás, mely érintéskor lebénít egy célpontot.
+
+# Strike3.prop
+
+0x000000DA Csapás
+0x000000DB Közeli, megsemmisítő erejű támadás több célpont ellen.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 Nagy sebesség
+0x00000042 Az egysejtűd gyorsabban mozog.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Katonai erő
+0x06318045 A katonai hatalom megnöveli a harci képességeket.
+
+# City_Military.prop
+
+0x00000039 Katonai járművek
+0x0000003A A katonai járművek képesek megtámadni és lerombolni más városokat.
+
+# Strike5.prop
+
+0x000000DE Csapás
+0x000000DF Közeli, megsemmisítő erejű támadás több célpont ellen.
+
+# Tribe_Hunt.prop
+
+0x00000104 Támadás
+0x0666A343 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+0x00000105 Vadássz más állatokra élelemért, vagy támadd meg a többi törzset!
+
+# City_Economic.prop
+
+0x0000002F Kereskedelmi utakat hoz létre más városok felé.
+0x00000030 A gazdasági járművek kereskedhetnek más városokkal.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Látás
+0x0500E7DE Lényednek szemek kellenek, hogy tisztán láthassa a világot.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 Mindenevő
+0x06526773 Egysejtűd zöld növényi hajtásokat eszik, más egysejtűekre vadászik, valamint folyadékot szív növényekből és a többi egysejtűből.
+
+# CL_Herbivore.prop
+
+0x00000043 Növényevő
+0x06494A72 Növényevő – Zöld növényi hajtásokat eszel.
+0x00000044 Sejted apró, zöld növényi hajtásokat eszik.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Húsevő
+0x0473A24D A lényed más lényekkel táplálkozik.
+
+# Omnivore.prop
+
+0x04D18880 Mindenevő
+0x04D18881 A lényed gyümölccsel és más lényekkel is táplálkozik.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A Ének
+0x0000011B Az éneklésre fogékony lényekkel barátkozhatsz.
+
+# HitPoints.prop
+
+0x062CFA7E A megnövelt életerő javítja a túlélési lehetőségeket a lények támadásaikor
+0x062CFA7D Életerő
+
+#Generic
+
+0x04D3040D Képességek
+0x04D3040E Az általad kiválasztott elemek képességekkel ruháznak fel. Fejlődj!
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 Kereskedelmi légi
+0x0630D542 Bomba üzletek, légi szállítás!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 Űrhajó
+0x0630D566 Csupán 2 méternyi tiszta stílusú héjszerkezet választ el az űr hidegétől.
+
+# Colony_UFO.prop
+
+0x00000053 Űrhajó
+0x00000054 Feldfedezés! Építés! Elrablás! Pusztítás! Ezek az űrhajód képességei.
+0x06779205 Ennek a kolóniának nincs tengeri kikötője.
+
+# Strike4.prop
+
+0x000000DC Csapás
+0x000000DD Közeli, megsemmisítő erejű támadás több célpont ellen.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 Vallási légi
+0x0630D552 Osztogasd az Égi Áldást!
+
+# City_Food.prop
+
+0x00000031 TÖRÖLVE
+0x00000032 TÖRÖLVE
+
+# Dance3.prop
+
+0x00000059 Tánc
+0x0000005A Táncolj az olyan lényekkel való barátkozáshoz, akik értékelik ezt a fajta közeledést.
+
+# Vocalize4.prop
+
+0x00000122 Ének
+0x00000123 Az éneklésre fogékony lényekkel barátkozhatsz.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~
+
+# Tribe_Hunt1.prop
+
+0x00000106 Lángoló fáklyák
+0x00000107 A fáklyák kiválóan alkalmasak szerszámoskunyhók elpusztítására, de nem olyan hatékonyak teretmények ellen.
+0x0666A344 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+# CL_GameSpeed.prop
+
+0x0649A10C Sebesség
+0x0649A10D Adj ostort, csillót vagy lökhajtást az egysejtűhöz, hogy gyorsabban mozogjon! Minden egyes mozgást segítő testrész növeli az egysejtű sebességét.
+
+# City_CivicObject.prop
+
+0x533DD075 Dekorációk
+0x533DD076 Tedd le a városba, a látvány kedvéért.
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 Kereskedelmi vízi
+0x0630D544 A „sikeres makrogazdasági stratégia” kifejezést a 40 méter hosszú, aranyszínű jachtok fejezik ki a legszebben.
+
+# Vocalize5.prop
+
+0x00000124 Ének
+0x00000125 Az éneklésre fogékony lényekkel barátkozhatsz.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Rumbatökök
+0x00000111 Nyűgözd le a szomszédes törzseket ezekkel a rumbatökökkel!
+0x0666A349 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Adj felszerelést kolóniád lakóinak!
+
+# CL_Carnivore.prop
+
+0x0000003D Húsevő
+0x0000003E Egysejtűd vadászik más sejtekre, és vörös húsdarabokat eszik.
+0x06494A73 Húsevő – Más egysejtűekre vadászol, és vörös húsdarabokkal táplálkozol.
+
+# Spit4.prop
+
+0x000000C6 Köpés
+0x000000C7 Gyors támadás, mely több lövedéket küld egyetlen célpontba.
+
+# City_Defense.prop
+
+0x0000002D Védd a várost!
+0x0000002E Növeli a védelmet.
+
+# Posture4.prop
+
+0x000000A9 Pózolás
+0x000000AA A pózolás népszerű a fogásra alkalmas végtagokkal rendelkező teremtmények között.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoo-k
+0x0000010F Nyűgözd le a szomszédes törzseket ezekkel a digeridookkal!
+0x0666A348 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Fakürtök
+0x0000010D Nyűgözd le a szomszédes törzseket ezekkel a kürtökkel!
+0x0666A347 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Elbűvölés
+0x00000082 Az aprólékosan kidolgozott testrésszel rendelkező lényeket lehet elbájolni ezzel a képességgel.
+
+# City_Harvester.prop
+
+0x00000035 TÖRÖLVE
+0x00000036 TÖRÖLVE
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Városháza
+0x06496721 Alapíts új várost!
+
+# Bite4.prop
+
+0x00000009 Harapás
+0x0000000A Gyors támadás egyetlen célpontra, kis távolságra.
+
+# Charm2.prop
+
+0x00000085 Elbűvölés
+0x00000086 A sok aprólékosan kidolgozott testrésszel rendelkező lényeket lehet elbájolni ezzel a képességgel.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Kőfejszék
+0x00000109 A fejszék brutálisan hatékonyak vadállatok és törzsek ellen, ám kunyhók és eszközök ellen már kevésbé.
+0x0666A345 Eszközeik eléréséhez tégy szövetségeseddé vagy győzz le más törzseket.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 Megtalálhatod a párod és fészked, de vigyázz, ne hívd fel a közeli ragadozók figyelmét!
+0x0000007F Párzási hívás
+

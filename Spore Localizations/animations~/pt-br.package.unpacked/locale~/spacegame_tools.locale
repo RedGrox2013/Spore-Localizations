@@ -1,0 +1,1698 @@
+﻿# sculpt_crystal_canyon.prop - spaceToolDetailDescription
+
+0x240126E6 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um cânion de cristal.
+
+# colorterraincyan.prop - spaceToolDescription
+
+0x4F4C2EDD Coloração de Terra Ciano
+
+# sculpt_gear_hills.prop - spaceToolDescription
+
+0x8551F9C8 Morros de Engrenagens
+
+# coloratmoorange.prop - spaceToolDescription
+
+0x1D57B204 Alaranjador de Céu
+
+#######################################
+# Tool target fail messages
+
+0x05E62DE4 Você pode usar esta arma somente contra criaturas.
+0x061AB566 Você deve escolher um alvo terrestre válido para esta arma.
+0x061AF4B2 Esta arma só pode ser disparada contra veículos e naves.
+
+# planetscan.prop - spaceToolLockedDescription
+# portal.prop - spaceToolDescription
+
+0x06005E75 Passagem de Volta
+
+# energymegapotion.prop - spaceToolDetailDescription
+
+0x51CE942A Recarrega totalmente a energia de sua nave.
+
+# droughtgenerator.prop - spaceToolDetailDescription
+
+0x5EEB2EEF Coloque no planeta para baixar o nível da atmosfera.
+
+# sculpt_terra_mountains.prop - spaceToolLockedDescription
+# sculpt_terra_plateau.prop - spaceToolDescription
+
+0x473606D1 Planaltos de Terra
+
+# icecapseeder.prop - spaceToolLockedDescription
+# icecomet.prop - spaceToolDescription
+
+0x50016B43 Cometa de Gelo
+
+# sculpt_crystal_seas.prop - spaceToolDescription
+
+0x58D2F45F Mares de Cristal
+
+# coloratmocyan.prop - spaceToolDetailDescription
+
+0x23400F14 Muda a cor da atmosfera do planeta para ciano.
+
+# colorterraingreen.prop - spaceToolDescription
+
+0xAFB4F707 Coloração de Terra Verde
+
+# sculpt_basic_raise_medium.prop - spaceToolDetailDescription
+# sculpt_basic_raise_medium.prop - spaceToolLockedDescription
+# sculpt_basic_raise_small.prop - spaceToolDescription
+
+0xA7A60EBF Elevar Terreno (Pequeno)
+
+# sculpt_cute_wall.prop - spaceToolDescription
+
+0x62E92AFA Muros Bonitinhos
+
+# protonmissile.prop - spaceToolDescription
+
+0x2B48B650 Míssil de Prótons
+
+# cloudvacuum.prop - spaceToolDetailDescription
+
+0x58F17547 Use em um planeta para baixar o nível da sua atmosfera.
+
+# monolith.prop - spaceToolLockedDescription
+# mutation.prop - spaceToolDescription
+
+0x06006CE8 Embaralhador de Espécies
+
+# globalminderase.prop - spaceToolLockedDescription
+# gravitationwave.prop - spaceToolDescription
+
+0x06036020 Onda Gravitacional
+
+# sculpt_gear_seas.prop - spaceToolDescription
+
+0x34B2EA82 Mares de Engrenagens
+
+# laserlevel2.prop - spaceToolDescription
+# laserlevel2.prop - spaceToolDetailDescription
+
+0xF561B166 Use em alvos terrestres. Uma arma de precisão e potência médias.
+
+# dumbbomblevel3.prop - spaceToolLockedDescription
+# enemylaser1.prop - spaceToolDescription
+# enemylaser2.prop - spaceToolDescription
+# enemylaser3.prop - spaceToolDescription
+# enemyminipulse1.prop - spaceToolDescription
+
+0x8BC5AF07 Minipulso Inimigo
+
+# epicize.prop - spaceToolDetailDescription
+
+0x7472D9F8 Aumenta o tamanho de uma criatura até que ela tenha proporções épicas.
+
+# wormhole.prop - spaceToolDetailDescription
+
+0x2B657392 Permite que você viaje através de um buraco negro sem sofrer danos.
+
+# aoe_repair.prop - spaceToolLockedDescription
+# artillery.prop - spaceToolDescription
+
+0xC801CB3E Artilharia
+
+# colorterrainblue.prop - spaceToolDescription
+
+0xFADE51D2 Coloração de Terra Azul
+
+# torpedogalaxy1.prop - spaceToolDescription
+
+0x12673EB4 Miniblaster Automático
+
+# cloak.prop - spaceToolDetailDescription
+
+0xB62407BD Camufla sua nave, tornando-a invisível a outras criaturas.
+
+# tooltemplate.prop - spaceToolDetailDescription
+
+0xE90E6027 Eu preciso de uma descrição de Ferramenta!
+
+# eradicate.prop - spaceToolDetailDescription
+
+0x8EFB418B Erradique completamente uma espécie de criaturas para abrir espaço para algo novo.
+
+# scan.prop - spaceToolDescription
+
+0xF30993C7 Analisar
+
+# colorwaterred.prop - spaceToolDetailDescription
+
+0xB9AC2498 Muda a cor da água do planeta para vermelho.
+
+# sculpt_terra_hills.prop - spaceToolDetailDescription
+
+0xCCF5236E Use no planeta para Terraesculpir Morros de Terra.
+
+# protonmissile.prop - spaceToolLockedDescription
+# pulselevel1.prop - spaceToolDescription
+
+0xD0EB46B4 Minipulso
+
+# torpedogalaxy3.prop - spaceToolLockedDescription
+# torpedosolar1.prop - spaceToolDescription
+# torpedosolar1.prop - spaceToolDetailDescription
+# torpedosolar1.prop - spaceToolLockedDescription
+# torpedosolar2.prop - spaceToolDescription
+# torpedosolar2.prop - spaceToolDetailDescription
+# torpedosolar2.prop - spaceToolLockedDescription
+# torpedosolar3.prop - spaceToolDescription
+# torpedosolar3.prop - spaceToolDetailDescription
+# torpedosolar3.prop - spaceToolLockedDescription
+# turret_at_ecn.prop - spaceToolDescription
+
+0x5446F467 Torre Antitanque
+
+# sculpt_crystal_mesas.prop - spaceToolDetailDescription
+
+0x37587D89 Use em um planeta para terraesculpir platôs de cristal.
+
+# sculpt_chocolate_squares.prop - spaceToolDetailDescription
+
+0xFA1353BE Use em um planeta para terraesculpir praças de chocolate.
+
+# placeembassy.prop - spaceToolDescription
+
+0xFF2BA023 Embaixada
+
+# placeembassy.prop - spaceToolDetailDescription
+
+0x5134BCBA Instala uma embaixada no planeta de uma raça alienígena. Melhora o seu relacionamento com o império deles ao longo do tempo.
+
+# icecomet.prop - spaceToolLockedDescription
+# interplanetarydrive.prop - spaceToolDescription
+
+0x6514F8EE Propulsor Interplanetário
+
+# dumbbomblevel2.prop - spaceToolDetailDescription
+
+0x8C775DBB Uma bomba de potência média, capaz de danificar veículos e estruturas.
+
+# colorterraingreen.prop - spaceToolDetailDescription
+
+0x6858A61E Muda a cor do solo do planeta para verde.
+
+# sculpt_chocolate_seas.prop - spaceToolDescription
+
+0xAB531E0F Mares de Espirais de Chocolate
+
+# cloudray.prop - spaceToolDetailDescription
+
+0xC3574828 Use em um planeta para aumentar o nível da sua atmosfera.
+
+# colorterraincyan.prop - spaceToolDetailDescription
+
+0xB6D7BA7C Muda a cor do solo do planeta para ciano.
+
+# hotcloudray.prop - spaceToolLockedDescription
+# hotcloudvacuum.prop - spaceToolDescription
+
+0x3250FA19 Vácuo de Nuvens Quentes
+
+# sculpt_crystal_plateau.prop - spaceToolDescription
+
+0x1F26A005 Planalto de Cristal
+
+# getoutofufo.prop - spaceToolDetailDescription
+
+0x90A55BBE Envia um holograma para exame aproximado do planeta.
+
+# sculpt_crystal_crack.prop - spaceToolDescription
+
+0xC4B0FE45 Abismo de Cristal
+
+# sculpt_gear_walls.prop - spaceToolDetailDescription
+
+0xB941E794 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um muro de engrenagens.
+
+# sculpt_chocolate_hill.prop - spaceToolDescription
+
+0x06CFA173 Colina de Chocolate
+
+# sculpt_terra_craters.prop - spaceToolDetailDescription
+
+0xFB2634DA Use no planeta para Terraesculpir Crateras de Terra.
+
+# energyupgrade5.prop - spaceToolLockedDescription
+# epicize.prop - spaceToolDescription
+
+0xD2936CB9 Agigantador
+
+# fireworks.prop - spaceToolLockedDescription
+# genesisdevice.prop - spaceToolDescription
+
+0x0C7C683C Cajado da Vida
+
+# cargoupgrade1.prop - spaceToolDescription
+
+0x52145143 Carga Básica
+
+# zoo.prop - spaceToolDetailDescription
+
+0x45795585 Use em um planeta para designá-lo como um santuário da vida selvagem, permitindo que você coloque várias criaturas abduzidas para viver em segurança.
+
+# eradicate.prop - spaceToolLockedDescription
+# fireworks.prop - spaceToolDescription
+
+0x8B0B75DE Fogos de Artifício
+
+# sculpt_cute_wall.prop - spaceToolDetailDescription
+
+0x55F869A3 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um muro bonitinho.
+
+# portal.prop - spaceToolDetailDescription
+
+0x06005E79 Volta para o seu sistema de origem em um único salto.
+
+# monolith.prop - spaceToolDetailDescription
+
+0x870C8C43 Coloque em um planeta tribal ou civilizado para elevar a condição da espécie que vive nele.
+
+# healthupgrade5.prop - spaceToolLockedDescription
+# heatray.prop - spaceToolDescription
+
+0x5F83F79E Raio de Calor
+
+# dumbbomblevel1.prop - spaceToolDetailDescription
+
+0x2E4A83A6 Uma bomba não muito potente, capaz de danificar veículos e estruturas.
+
+# colorterrainorange.prop - spaceToolDescription
+
+0x9A0CB36C Coloração de Terra Laranja
+
+# sculpt_terra_river.prop - spaceToolLockedDescription
+# sculpt_terra_seas.prop - spaceToolDescription
+
+0xC814C0FB Mares de Terra
+
+# coldray.prop - spaceToolDetailDescription
+
+0x8641E41B Use em um planeta para diminuir a sua temperatura.
+
+# colorterrainblue.prop - spaceToolDetailDescription
+
+0x565F681B Muda a cor do solo do planeta para azul.
+
+# sculpt_chocolate_squares.prop - spaceToolDescription
+
+0x68A2D1A7 Praças de Chocolate
+
+# happyraylevel2.prop - spaceToolDetailDescription
+# happyraylevel2.prop - spaceToolLockedDescription
+# happyraylevel3.prop - spaceToolDescription
+
+0xBBD737AF Raio Superfeliz
+
+# protonmissile.prop - spaceToolDetailDescription
+
+0x8555D2F1 Dispara um Míssil de Prótons teleguiado contra o alvo. Muito bom contra outras naves.
+
+# creaturecreate.prop - spaceToolLockedDescription
+# creatureedit.prop - spaceToolDescription
+
+0x0DC3BACB Ajustador de Criaturas
+
+# laserlevel2.prop - spaceToolLockedDescription
+# laserlevel3.prop - spaceToolDescription
+
+0xB745C2F0 Megalaser
+
+# sculpt_crystal_hills.prop - spaceToolDescription
+
+0x1A33DE3B Morros de Cristal
+
+# healthupgrade1.prop - spaceToolDetailDescription
+
+0x852C73AE Aumenta a capacidade de saúde da sua nave.
+
+# planetbusterbomb.prop - spaceToolLockedDescription
+# planetconversion.prop - spaceToolDescription
+
+0x06089937 Furor Fanático
+
+# sculpt_gear_river.prop - spaceToolDetailDescription
+
+0xE23FE947 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um rio de engrenagens.
+
+# creatureedit.prop - spaceToolDetailDescription
+
+0x4F4D0BC2 Selecione esta ferramenta e clique em uma criatura no planeta para editá-la.
+
+# protonmissilelevel1.prop - spaceToolDescription
+
+0x79813159 Míssil de Prótons Pequeno
+
+# sculpt_basic_level_large.prop - spaceToolLockedDescription
+# sculpt_basic_level_medium.prop - spaceToolDescription
+
+0xE3BE7553 Nivelar Terreno (Médio)
+
+# allytorpedogalaxy2.prop - spaceToolDescription
+
+0xB71C33EB Torpedo Galáctico
+
+# sculpt_tentacle_mouth.prop - spaceToolDescription
+
+0xAAAC5A5E Boca Tentacular
+
+# callforbackup.prop - spaceToolDetailDescription
+
+0x0601AA80 Invoca um clone em miniatura da sua nave para ajudá-lo nas viagens.
+
+# sculpt_gear_fissure.prop - spaceToolDetailDescription
+
+0x26F6797E Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de uma fenda de engrenagens.
+
+# planetconversion.prop - spaceToolDetailDescription
+
+0x0608993B Para converter seus habitantes ao caminho verdadeiro, use em um planeta.
+
+# sculpt_tentacle_seas.prop - spaceToolDetailDescription
+
+0x60AF5EC0 Use em um planeta para terraesculpir mares de tentáculos.
+
+# energyupgrade2.prop - spaceToolDescription
+
+0xAAF21EE8 Tanque de Energia Pequeno
+
+# zoo.prop - spaceToolLockedDescription
+# autoblaster.prop - spaceToolDescription
+# autoblaster.prop - spaceToolDetailDescription
+
+0x061C69FE Defende sua nave de ameaças inimigas.
+
+# torpedogalaxy1.prop - spaceToolDetailDescription
+
+0xB1177EB5 Uma arma defensiva que dispara automaticamente contra torres e naves inimigas quando você é atacado. Pode ser ativada e desativada.
+
+# coldcloudray.prop - spaceToolLockedDescription
+# coldcloudvacuum.prop - spaceToolDescription
+
+0x2EE4F934 Vácuo de Nuvens Frias
+
+# rallycall.prop - spaceToolDetailDescription
+
+0x84FD3B8D Reúne suas naves aliadas e aumenta o dano que elas causam por um curto período.
+
+# coloratmored.prop - spaceToolDescription
+
+0xAC0E9EAF Céus de Vermelho
+
+# allylaser2.prop - spaceToolDescription
+# allylaser3.prop - spaceToolDescription
+# allyminipulse1.prop - spaceToolDescription
+
+0xD4795323 Minipulso Aliado
+
+# sculpt_gear_canyon.prop - spaceToolDetailDescription
+
+0x4E6F3B03 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um cânion de engrenagens.
+
+# sculpt_tentacle_plateau.prop - spaceToolDescription
+
+0x481CA11B Criar Planaltos de Tentáculos
+
+# sculpt_crystal_mountains.prop - spaceToolDescription
+
+0xDAE9C56F Montanhas de Cristal
+
+# sculpt_cute_hills.prop - spaceToolDescription
+
+0x3F34BBDC Morros Bonitinhos
+
+# sculpt_gear_craters.prop - spaceToolDetailDescription
+
+0xF0D70899 Use em um planeta para terraesculpir crateras de engrenagens.
+
+# shield.prop - spaceToolDescription
+
+0xDAB0AE3F Escudo
+
+# sculpt_crystal_hills.prop - spaceToolDetailDescription
+
+0x511C7392 Use em um planeta para terraesculpir morros de cristal.
+
+# colorterrainpink.prop - spaceToolDetailDescription
+
+0x930BED1F Muda a cor do solo do planeta para rosa.
+
+# sculpt_terra_hills.prop - spaceToolLockedDescription
+# sculpt_terra_lavaflow.prop - spaceToolDescription
+
+0x63D11771 Rios de Lava
+
+# cloak.prop - spaceToolDescription
+
+0x1A266B7C Dispositivo de Camuflagem
+
+# sculpt_basic_raise_large.prop - spaceToolLockedDescription
+# sculpt_basic_raise_medium.prop - spaceToolDescription
+
+0x5A121151 Elevar Terreno (Médio)
+
+# repairpotion.prop - spaceToolDetailDescription
+
+0x013131F9 Restaura parte da saúde de sua nave.
+
+# placebiostabilizer.prop - spaceToolDetailDescription
+
+0xB1D9ABFD Coloque em um planeta para reduzir as chances de ocorrência de Desastres Ecológicos.
+
+# colorwaterpink.prop - spaceToolDescription
+
+0xE65F9298 Mar Queridinho
+
+# sculpt_chocolate_spirals.prop - spaceToolDescription
+
+0xC0FB0C49 Espirais de Chocolate
+
+# rainoffire.prop - spaceToolDescription
+
+0xF696A88D Chuva de Meteoros
+
+# sculpt_gear_canyon.prop - spaceToolDescription
+
+0xE56A9D5A Cânions de Engrenagens
+
+# placespicestorage.prop - spaceToolDetailDescription
+
+0x4C23A6E1 Coloque em um planeta para aumentar a capacidade de armazenamento de especiaria dele.
+
+# seti.prop - spaceToolDetailDescription
+
+0x04EBC561 Detecta automaticamente a vida inteligente em outros sistemas. Procure pelas linhas de rádio na visão galáctica.
+
+# sculpt_cute_holes.prop - spaceToolDescription
+
+0x25609C87 Selos Bonitinhos
+
+# colorterrainorange.prop - spaceToolDetailDescription
+
+0x0D775C0D Muda a cor do solo do planeta para laranja.
+
+# enemypulse2.prop - spaceToolDescription
+# enemypulse3.prop - spaceToolDescription
+# enemytorpedogalaxy1.prop - spaceToolDescription
+# enemytorpedogalaxy2.prop - spaceToolDescription
+# enemytorpedogalaxy3.prop - spaceToolDescription
+# enemytorpedosolar1.prop - spaceToolDescription
+# enemytorpedosolar2.prop - spaceToolDescription
+# enemytorpedosolar3.prop - spaceToolDescription
+# energymegapotion.prop - spaceToolDescription
+
+0xDD6D2133 Megaestojo de Energia
+
+# coloratmopink.prop - spaceToolDescription
+
+0x637C64AE Roseador de Céu
+
+# sculpt_cute_plateau.prop - spaceToolDescription
+
+0x42E6CF2E Planaltos Bonitinhos
+
+# colorterrainyellow.prop - spaceToolDetailDescription
+
+0x249781EB Muda a cor do solo do planeta para amarelo.
+
+# sculpt_gear_river.prop - spaceToolDescription
+
+0x3B39E3EE Rios de Engrenagens
+
+# getoutofufo.prop - spaceToolLockedDescription
+# globalminderase.prop - spaceToolDescription
+
+0xBE68817F Apagador Mental Global
+
+# sculpt_tentacle_mountains.prop - spaceToolDetailDescription
+
+0x1E7ACC8C Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais das montanhas de tentáculos.
+
+# hotcloudvacuum.prop - spaceToolLockedDescription
+# icecapseeder.prop - spaceToolDescription
+
+0x3A437B21 Congelador Atmosférico
+
+# sculpt_basic_lower_medium.prop - spaceToolLockedDescription
+# sculpt_basic_lower_small.prop - spaceToolDescription
+
+0xE90E8BEA Rebaixar Terreno (Pequeno)
+
+# interstellardrive_upgrade1.prop - spaceToolDetailDescription
+
+0x9F22E5E2 Aumenta o alcance de viagem da sua nave.
+
+# healthupgrade4.prop - spaceToolDetailDescription
+# healthupgrade4.prop - spaceToolLockedDescription
+# healthupgrade5.prop - spaceToolDescription
+
+0xA7F72A5B Saúde Extrema
+
+# sculpt_gear_plateau.prop - spaceToolDetailDescription
+
+0x39192F03 Use em um planeta para terraesculpir platôs de engrenagens.
+
+# dumbbomblevel1.prop - spaceToolLockedDescription
+# dumbbomblevel2.prop - spaceToolDescription
+
+0x6AA2F972 Unna Bomba
+
+# sculpt_cute_seas.prop - spaceToolDetailDescription
+
+0xE06B17CF Use em um planeta para terraesculpir belos mares.
+
+# sculpt_basic_lower_medium.prop - spaceToolDetailDescription
+
+0xD03592C3 Use em um planeta para rebaixar a sua superfície.
+
+# sculpt_gears.prop - spaceToolDescription
+
+0xC5033606 Criar Engrenagem
+
+# sculpt_terra_plateau.prop - spaceToolDetailDescription
+
+0xCB4D3F70 Use no planeta para Terraesculpir Planaltos de Terra.
+
+# sculpt_gear_fissure.prop - spaceToolDescription
+
+0x4BF5B267 Fenda de Engrenagens
+
+# coloratmoyellow.prop - spaceToolDetailDescription
+
+0xEA93BE23 Muda a cor da atmosfera do planeta para amarelo.
+
+# pulselevel3.prop - spaceToolDetailDescription
+
+0x68FD0B1F Dispara uma rajada poderosa em linha reta. Eficiente contra alvos terrestres.
+
+# repairmegapotion.prop - spaceToolDetailDescription
+
+0xE956DB67 Conserta toda a sua nave instantaneamente.
+
+# sculpt_chocolate_valley.prop - spaceToolDescription
+
+0xAEE738C4 Vale de Redemoinhos
+
+# dumbbomblevel2.prop - spaceToolLockedDescription
+# dumbbomblevel3.prop - spaceToolDescription
+
+0x39F568F9 Megabomba
+
+# asteroid.prop - spaceToolDetailDescription
+
+0x6B0D4AE6 Para invocar um asteróide, use em um planeta, elevando a temperatura e diminuindo o nível da atmosfera.
+
+# heatray.prop - spaceToolLockedDescription
+# hotcloudray.prop - spaceToolDescription
+
+0xF1C68BAC Semeador de Nuvens Quentes
+
+# placeloyaltybooster.prop - spaceToolDetailDescription
+
+0x36055134 Coloque em um planeta para manter a lealdade máxima.
+
+# sculpt_gear_mountains.prop - spaceToolDetailDescription
+
+0x440BEC05 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais das montanhas de engrenagens.
+
+# protonmissilelevel2.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolLockedDescription
+# antimattermissile.prop - spaceToolDescription
+
+0x84E3B697 Míssil de Antimatéria
+
+# sculpt_chocolate_river.prop - spaceToolDetailDescription
+
+0x6A5B2854 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um rio de espirais de chocolate.
+
+# happyraylevel3.prop - spaceToolDetailDescription
+# happyraylevel3.prop - spaceToolLockedDescription
+# healthupgrade1.prop - spaceToolDescription
+
+0xEA7290F7 Saúde Básica
+
+# antimatterbomb.prop - spaceToolLockedDescription
+
+0xA0BB7099 Requer ~commodity_requirements~
+
+# placebioprotector.prop - spaceToolDescription
+
+0xE5B083EF Protetor Biológico
+
+# sculpt_chocolate_pond.prop - spaceToolDescription
+
+0x1C9426E0 Lago de Espiral de Chocolate
+
+# sculpt_tentacle_river.prop - spaceToolDetailDescription
+
+0xF7726B4E Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um rio de tentáculos.
+
+# atmospheregenerator.prop - spaceToolDetailDescription
+
+0x3E1F0150 Coloque em um planeta para aumentar o nível de sua atmosfera.
+
+# pulselevel1.prop - spaceToolDetailDescription
+
+0x0B3B46B5 Dispara uma rajada fraca em linha reta. Eficiente contra alvos terrestres.
+
+# torpedogalaxy1.prop - spaceToolLockedDescription
+# torpedogalaxy2.prop - spaceToolDescription
+
+0x0B5F32ED Blaster Automático
+
+# defenderlaser2.prop - spaceToolDescription
+# defenderlaser3.prop - spaceToolDescription
+# dropcargo.prop - spaceToolDescription
+
+0xF5CFF647 Largar Carga
+
+# cargoupgrade2.prop - spaceToolDetailDescription
+
+0x0D904F3F Aumenta a capacidade de carga da sua nave.
+
+# coloratmocyan.prop - spaceToolDescription
+
+0xE5671F75 Cianizador de Céu
+
+# protonmissilelevel1.prop - spaceToolLockedDescription
+# protonmissilelevel3.prop - spaceToolDescription
+
+0x29C9E40F Megamíssil de Prótons
+
+# colorreset.prop - spaceToolDetailDescription
+
+0xF61E6831 Restaura as cores originais do planeta.
+
+# colorterrainpink.prop - spaceToolDescription
+
+0x565CA906 Coloração de Terra Rosa
+
+# antimattermissile.prop - spaceToolLockedDescription
+# laserlevel1.prop - toolTargetFlagsFailMessage
+
+0x7DF2ECCF Você deve escolher um alvo válido para usar esta ferramenta.
+
+# interstellardrive_upgrade1.prop - spaceToolLockedDescription
+# interstellardrive_upgrade2.prop - spaceToolDescription
+
+0xD1160A0E Propulsor Interestelar 3
+
+# sculpt_crystal_plateau.prop - spaceToolDetailDescription
+
+0x127A7C84 Use em um planeta para terraesculpir planaltos de cristal.
+
+# placebioprotector.prop - spaceToolLockedDescription
+# placebiostabilizer.prop - spaceToolDescription
+
+0xE45CD1BC Estabilizador Biológico
+
+# sculpt_gear_mountains.prop - spaceToolDescription
+
+0x12FB4124 Montanhas de Engrenagens
+
+# cloudvacuum.prop - spaceToolLockedDescription
+# coldcloudray.prop - spaceToolDescription
+
+0xEBDD0E97 Condicionador de Ar
+
+# sculpt_crystal_mountains.prop - spaceToolDetailDescription
+
+0xC62709E6 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de uma montanha de cristal.
+
+# coloratmogreen.prop - spaceToolDetailDescription
+
+0xBF0DC136 Muda a cor da atmosfera do planeta para verde.
+
+# coloratmoorange.prop - spaceToolDetailDescription
+
+0x8118D7E5 Muda a cor da atmosfera do planeta para laranja.
+
+# colorwaterblue.prop - spaceToolDetailDescription
+
+0x75DCC909 Muda a cor da água do planeta para azul.
+
+# interstellardrive_upgrade1.prop - spaceToolDescription
+
+0xDA5D06EB Propulsor Interestelar 2
+
+# pulselevel1.prop - spaceToolLockedDescription
+# pulselevel2.prop - spaceToolDescription
+
+0xC9E33AED Pulso
+
+# coloratmopink.prop - spaceToolDetailDescription
+
+0xAB570E07 Muda a cor da atmosfera do planeta para rosa.
+
+# laserlevel1.prop - spaceToolDetailDescription
+
+0x7F2E2C7B Use em alvos terrestres. Uma arma precisa, mas pouco potente.
+
+# colorwaterpink.prop - spaceToolDetailDescription
+
+0xA2173559 Muda a cor da água do planeta para rosa.
+
+# allyminipulse2.prop - spaceToolDescription
+# allyminipulse3.prop - spaceToolDescription
+# allytorpedogalaxy1.prop - spaceToolDescription
+
+0xADD5370E Minitorpedo Galáctico
+
+# healthupgrade2.prop - spaceToolDescription
+
+0x9172205A Saúde Pequena
+
+# sculpt_chocolate_beads.prop - spaceToolDetailDescription
+
+0x421261AB Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de uma praia de chocolate.
+
+# dropcargo.prop - spaceToolDetailDescription
+
+0xD46D8B5E Ejetar itens do compartimento de carga para o planeta. Segure para baixar criaturas cuidadosamente.
+
+# sculpt_tentacle_seas.prop - spaceToolDescription
+
+0x08F51D41 Mares de Tentáculos
+
+# pulselevel1.prop - toolTargetFlagsFailMessage
+
+0xB5F45E41 A capacidade de mira desta arma é limitada a naves, torres e veículos.
+
+# colorwatercyan.prop - spaceToolDescription
+
+0x42F9F1D7 Mar Ciano
+
+# torpedogalaxy2.prop - spaceToolDetailDescription
+
+0xE470C7AC Dispara automaticamente contra torres e naves inimigas quando você é atacado. Pode ser ativada e desativada.
+
+# icecapseeder.prop - spaceToolDetailDescription
+
+0x9D67C0A0 Coloque no planeta para diminuir sua temperatura e o nível da atmosfera.
+
+# creaturecreate.prop - spaceToolDescription
+
+0x3E295EE3 Criar Criatura
+
+# coldcloudray.prop - spaceToolDetailDescription
+
+0x0734B94E Use em um planeta para reduzir a temperatura e elevar o nível da atmosfera.
+
+# sculpt_cute_mountains.prop - spaceToolDescription
+
+0x018123C8 Montanhas Bonitinhas
+
+# cropcircles.prop - spaceToolDetailDescription
+
+0x40052AF6 Desenhe círculos nas plantações próximas a cidades e tribos para interagir com elas.
+
+# interstellardrive_upgrade4.prop - spaceToolDetailDescription
+
+0x2A165F89 Aumenta o alcance de viagem da sua nave ao nível máximo.
+
+# sculpt_tentacle_mountains.prop - spaceToolDescription
+
+0x9A5735CD Montanhas de Tentáculos
+
+# sculpt_chocolate_seas.prop - spaceToolDetailDescription
+
+0x042C3086 Use em um planeta para terraesculpir mares de espirais de chocolate.
+
+# sculpt_basic_raise_large.prop - spaceToolDetailDescription
+
+0x06D08B5A Use em um planeta para elevar sua superfície.
+
+# coldcloudvacuum.prop - spaceToolDetailDescription
+
+0xA2D36535 Use em um planeta para diminuir sua temperatura e o nível da atmosfera.
+
+# raiderrally.prop - spaceToolDetailDescription
+
+0x06087E9E Incita piratas a atacar o planeta.
+
+# sculpt_chocolate_truffles.prop - spaceToolDescription
+
+0xC2CB4C2C Trufa de Chocolate
+
+# sculpt_gear_craters.prop - spaceToolDescription
+
+0x96B6B5D8 Crateras de Engrenagens
+
+# cargoupgrade2.prop - spaceToolLockedDescription
+# cargoupgrade3.prop - spaceToolDescription
+
+0xEBA16D0D Carga Grande
+
+# sculpt_basic_lower_large.prop - spaceToolDetailDescription
+
+0x8650A33B Use em um planeta para rebaixar sua superfície.
+
+# sculpt_cute_seas.prop - spaceToolDescription
+
+0x483A5096 Mares Bonitinhos
+
+# hotcloudray.prop - spaceToolDetailDescription
+
+0x8D982D4D Use em um planeta para elevar a temperatura e o nível da atmosfera.
+
+# sculpt_basic_lower_small.prop - spaceToolDetailDescription
+# sculpt_basic_lower_small.prop - spaceToolLockedDescription
+# sculpt_basic_raise_large.prop - spaceToolDescription
+
+0xBE9E44C3 Elevar Terreno (Grande)
+
+# sculpt_gear_walls.prop - spaceToolDescription
+
+0x8E6ADBF5 Muros de Engrenagens
+
+# sculpt_basic_level_medium.prop - spaceToolDetailDescription
+# sculpt_basic_level_medium.prop - spaceToolLockedDescription
+# sculpt_basic_level_small.prop - spaceToolDescription
+
+0xF4BFDB49 Nivelar Terreno (Pequeno)
+
+# creatureedit.prop - spaceToolLockedDescription
+# cropcircles.prop - spaceToolDescription
+
+0x14BE5FDF Círculos nas Plantações
+
+# sculpt_tentacle_river.prop - spaceToolDescription
+
+0x0B88D097 Rio de Tentáculos
+
+# hotcloudvacuum.prop - spaceToolDetailDescription
+
+0xBBF76458 Use em um planeta para elevar a temperatura e diminuir o nível da atmosfera.
+
+# globalminderase.prop - spaceToolDetailDescription
+
+0xD4F93796 Acalma todos os habitantes de um planeta. Eles não atacarão.
+
+# colorwatercyan.prop - spaceToolDetailDescription
+
+0x3401798E Muda a cor da água do planeta para ciano.
+
+# sculpt_tentacle_hills.prop - spaceToolDescription
+
+0x0E49D3F5 Morros de Tentáculos
+
+# colorwaterpurple.prop - spaceToolDescription
+
+0x3A2C7D32 Oceano de Suco de Uva
+
+# coloratmoyellow.prop - spaceToolDescription
+
+0xE849437A Limonizador de Céu
+
+# placehappinessbooster.prop - spaceToolLockedDescription
+# placeloyaltybooster.prop - spaceToolDescription
+
+0x8C4FB895 Potencializador de Lealdade
+
+# coloratmopurple.prop - spaceToolDetailDescription
+
+0x6C54E325 Muda a cor da atmosfera do planeta para roxo.
+
+# droughtgenerator.prop - spaceToolLockedDescription
+# dryice.prop - spaceToolDescription
+
+0xDAB82A46 Tormenta de Gelo
+
+# sculpt_cute_holes.prop - spaceToolDetailDescription
+
+0x6C7B1F9E Use em um planeta para terraesculpir selos bonitos.
+
+# coldray.prop - spaceToolLockedDescription
+# coloratmoblue.prop - spaceToolDescription
+
+0x0379D01A Azulador de Céu
+
+# sculpt_tentacle_suckers.prop - spaceToolDescription
+
+0xAFFA4857 Ventosas de Tentáculos
+
+# antimatterbomb.prop - spaceToolDetailDescription
+
+0xC2B26356 Uma arma muito poderosa, capaz de destruir cidades inteiras.
+
+# sculpt_tentacle_mouth.prop - spaceToolDetailDescription
+
+0x06BE0997 Clique no planeta para Terraesculpir uma Boca Tentacular.
+
+# sculpt_terra_mesas.prop - spaceToolLockedDescription
+# sculpt_terra_mountains.prop - spaceToolDescription
+
+0xDCBD610B Montanha de Terra
+
+# mutation.prop - spaceToolDetailDescription
+
+0x06006CEB Torna aleatória a mistura de espécies num planeta.
+
+# coldcloudvacuum.prop - spaceToolLockedDescription
+# coldray.prop - spaceToolDescription
+
+0x4F0BADD2 Raio Refrigerador
+
+# sculpt_chocolate_hill.prop - spaceToolDetailDescription
+
+0x5B72E9CD Use em um planeta para terraesculpir uma colina de chocolate.
+
+# sculpt_tentacle_arm.prop - spaceToolDetailDescription
+
+0x49DFB926 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de um Braço de Tentáculo.
+
+# pulselevel2.prop - spaceToolDetailDescription
+
+0x3E948FAC Dispara uma rajada de potência média em linha reta. Eficiente contra alvos terrestres.
+
+# sculpt_cute_canyon.prop - spaceToolDescription
+
+0x7EF722AE Cânion Bonitinho
+
+# energyupgrade2.prop - spaceToolDetailDescription
+# energyupgrade2.prop - spaceToolLockedDescription
+# energyupgrade3.prop - spaceToolDescription
+
+0x539B1AC7 Tanque de Energia Médio
+
+# defenderlaser1.prop - spaceToolDescription
+
+0xC5C6DA6F Laser
+
+# heatray.prop - spaceToolDetailDescription
+
+0x63EE95D7 Use em um planeta para elevar a sua temperatura.
+
+# sculpt_cute_canyon.prop - spaceToolDetailDescription
+
+0xE90BDC07 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um cânion bonitinho.
+
+# sculpt_chocolate_truffles.prop - spaceToolDetailDescription
+
+0x2E3BBDD5 Use em um planeta para terraesculpir uma formação de trufas de chocolate.
+
+# antimattermissile.prop - spaceToolDetailDescription
+
+0x12C6214E Dispara um poderoso míssil teleguiado contra o alvo. Capaz de destruir várias aeronaves.
+
+# asteroid.prop - spaceToolLockedDescription
+# atmospheregenerator.prop - spaceToolDescription
+
+0xDA2C0FB1 Gerador de Atmosfera
+
+# coloratmopurple.prop - spaceToolDescription
+
+0x22770D44 Céu Sabor Uva
+
+# sculpt_crystal_river.prop - spaceToolDetailDescription
+
+0xA8CD2744 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um rio de cristal.
+
+# healthupgrade5.prop - spaceToolDetailDescription
+
+0xBE9C35B2 Aumenta, ao máximo, a saúde da sua nave.
+
+# sculpt_chocolate_spirals.prop - spaceToolDetailDescription
+
+0x8BB57E68 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais das espirais de chocolate.
+
+# colorwaterpurple.prop - spaceToolDetailDescription
+
+0xC895ED7B Muda a cor da água do planeta para roxo.
+
+# abduct.prop - spaceToolDetailDescription
+
+0xF509A6A4 Use para abduzir plantas, animais ou raridades e adicioná-las ao seu compartimento de carga.
+
+# placespicestorage.prop - spaceToolLockedDescription
+# placeuberturret.prop - spaceToolDescription
+
+0x01D75D45 Megatorre
+
+# happyraylevel1.prop - spaceToolDescription
+
+0x134E9479 Minirraio Feliz
+
+# sculpt_cute_mesas.prop - spaceToolDescription
+
+0x4D29A8CB Platôs Bonitinhos
+
+# cargoupgrade1.prop - spaceToolLockedDescription
+# cargoupgrade2.prop - spaceToolDescription
+
+0xF87F7426 Carga Média
+
+# pulselevel2.prop - spaceToolLockedDescription
+# pulselevel3.prop - spaceToolDescription
+
+0x8B2A3706 Megapulso
+
+# sculpt_crystal_seas.prop - spaceToolDetailDescription
+
+0xA1D11B76 Use em um planeta para terraesculpir mares de cristal.
+
+# atmospheregenerator.prop - spaceToolLockedDescription
+# bribe.prop - spaceToolDescription
+
+0xB5B2991E Subornar
+
+# energypotion.prop - spaceToolLockedDescription
+# energyupgrade1.prop - spaceToolDescription
+
+0x3F3C2A71 Tanque de Energia Básica
+
+# interstellardrive_upgrade4.prop - spaceToolLockedDescription
+# laserlevel1.prop - spaceToolDescription
+
+0x0CFC7432 Minilaser
+
+# sculpt_gear_plateau.prop - spaceToolDescription
+
+0x96A9315A Planaltos de Engrenagens
+
+# cargoupgrade3.prop - spaceToolDetailDescription
+
+0x4CC4DCCC Aumenta a capacidade de carga da sua nave.
+
+# sculpt_terra_craters.prop - spaceToolLockedDescription
+# sculpt_terra_hills.prop - spaceToolDescription
+
+0xD0EDFCB7 Morros de Terra
+
+# sculpt_terra_canyon.prop - spaceToolDetailDescription
+
+0xCC7BC8D2 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de um Cânion de Terra.
+
+# cashinfusion.prop - spaceToolDetailDescription
+
+0x05FB7F84 Domine instantaneamente os sistemas em que você tiver rotas comerciais estabelecidas.
+
+# placeuberturret.prop - spaceToolLockedDescription
+# planetbusterbomb.prop - spaceToolDescription
+
+0xDCF0CDB9 Destruidor de Planetas
+
+# sculpt_chocolate_valley.prop - spaceToolDetailDescription
+
+0xB0E7B2A5 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de uma caixa de chocolate.
+
+# interstellardrive.prop - spaceToolDetailDescription
+
+0x5C796CC8 Seu propulsor interestelar básico, que permite a você deixar o seu sistema solar.
+
+# placecolony.prop - spaceToolDetailDescription
+
+0x567E312C Coloca uma colônia no planeta.
+
+# cargoupgrade3.prop - spaceToolLockedDescription
+# cashinfusion.prop - spaceToolDescription
+
+0x05FB7F80 Injeção de Dinheiro
+
+# sculpt_gear_mesas.prop - spaceToolDetailDescription
+
+0x4ACDB00E Use em um planeta para terraesculpir platôs de engrenagens.
+
+# colorwaterorange.prop - spaceToolDescription
+
+0x2D389FBE Cristais Sabor Laranja
+
+# sculpt_terra_river.prop - spaceToolDetailDescription
+
+0xDF51A150 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de um Rio de Terra.
+
+# planetscan.prop - spaceToolDescription
+
+0xC9433E6D Varredura Planetária
+
+# sculpt_tentacle_hills.prop - spaceToolDetailDescription
+
+0x92691F94 Use em um planeta para terraesculpir morros de tentáculos.
+
+# torpedogalaxy2.prop - spaceToolLockedDescription
+# torpedogalaxy3.prop - spaceToolDescription
+
+0xCCA62F06 Megablaster Automático
+
+# placebiostabilizer.prop - spaceToolLockedDescription
+# placecolony.prop - spaceToolDescription
+
+0x6569486D Pacote de Colonização
+
+# coloratmored.prop - spaceToolDetailDescription
+
+0x5DC28226 Muda a cor da atmosfera do planeta para vermelha.
+
+# interstellardrive_upgrade3.prop - spaceToolDetailDescription
+# interstellardrive_upgrade3.prop - spaceToolLockedDescription
+# interstellardrive_upgrade4.prop - spaceToolDescription
+
+0xCABB71E8 Propulsor Interestelar 5
+
+# healthupgrade3.prop - spaceToolDetailDescription
+# healthupgrade3.prop - spaceToolLockedDescription
+# healthupgrade4.prop - spaceToolDescription
+
+0x49BBD1AC Saúde Grande
+
+# sculpt_terra_plateau.prop - spaceToolLockedDescription
+# sculpt_terra_river.prop - spaceToolDescription
+
+0x15DBAFB1 Rio de Terra
+
+# aoe_repair.prop - spaceToolDetailDescription
+
+0xFDA6C622 Repara todas as unidades aliadas próximas de você.
+
+# colorwateryellow.prop - spaceToolDetailDescription
+
+0x92544BFD Muda a cor da água do planeta para amarelo.
+
+# colorterrainpurple.prop - spaceToolDescription
+
+0xEB0E341C Coloração de Terra Roxa
+
+# sculpt_chocolate_pond.prop - spaceToolDetailDescription
+
+0x12976A61 Use em um planeta para terraesculpir um lago de espirais de chocolate.
+
+# colorwatergreen.prop - spaceToolDescription
+
+0xFE6CF7A9 Mar de Verde
+
+# abduct.prop - spaceToolDescription
+
+0x59C7B725 Raio Abdutor
+
+# cloak.prop - spaceToolLockedDescription
+# cloudray.prop - spaceToolDescription
+
+0x914B2B09 Semeador de Nuvens
+
+# placehappinessbooster.prop - spaceToolDetailDescription
+
+0x69B97931 Coloque em um planeta para manter seus habitantes felizes.
+
+# sculpt_terra_seas.prop - spaceToolDetailDescription
+
+0x49D90C52 Use no planeta para Terraesculpir Mares de Terra.
+
+# epicize.prop - spaceToolLockedDescription
+# eradicate.prop - spaceToolDescription
+
+0xCC7CDDE2 Erradicador de Espécies
+
+# sculpt_gears.prop - spaceToolDetailDescription
+
+0xB616121F Use em um planeta para terraesculpir uma engrenagem.
+
+# cropcircles.prop - spaceToolLockedDescription
+# cultureshocker.prop - spaceToolDescription
+
+0xACA3549D Choque Cultural
+
+# peacebomb.prop - spaceToolDescription
+
+0x0602FACC Prendedor Estático
+
+# protonmissilelevel1.prop - spaceToolDetailDescription
+
+0xE0AE0C98 Dispara um pequeno Míssil de Prótons teleguiado contra o alvo. Eficaz contra naves inimigas.
+
+# enemyminipulse2.prop - spaceToolDescription
+# enemyminipulse3.prop - spaceToolDescription
+# enemypulse1.prop - spaceToolDescription
+
+0x20C6731C Pulso Inimigo
+
+# creatureedit.prop - toolTargetFlagsFailMessage
+
+0x385928DE A capacidade de mira desta arma é limitada a criaturas.
+
+# happyraylevel1.prop - spaceToolLockedDescription
+# happyraylevel2.prop - spaceToolDescription
+
+0x9BAEB0B0 Raio Feliz Médio
+
+# colorreset.prop - spaceToolDescription
+
+0x5ADBC090 Restaurar Cor do Planeta
+
+# energypotion.prop - spaceToolDetailDescription
+
+0x1834B2DC Recarrega uma parte da energia de sua nave.
+
+# sculpt_terra_canyon.prop - spaceToolLockedDescription
+# sculpt_terra_craters.prop - spaceToolDescription
+
+0xD5C29A43 Crateras de Terra
+
+# happyraylevel1.prop - spaceToolDetailDescription
+
+0x6ACCABB8 Melhora o seu relacionamento com a raça alienígena que habita o planeta.
+
+# peacebomb.prop - spaceToolDetailDescription
+
+0x0602FAD1 Atordoa todas as outras naves e torres do planeta.
+
+# sculpt_crystal_holes.prop - spaceToolDescription
+
+0x7784ED60 Buracos de Cristal
+
+# allylaser1.prop - spaceToolDescription
+
+0xC17A9892 Laser Aliado
+
+# droughtgenerator.prop - spaceToolDescription
+
+0xC1B1ADB6 Gerador de Seca
+
+# sculpt_gear_mesas.prop - spaceToolDescription
+
+0x293E7C57 Platôs de Engrenagens
+
+# sculpt_cute_hills.prop - spaceToolDetailDescription
+
+0xD4738A1D Use em um planeta para terraesculpir belos morros.
+
+# sculpt_basic_level_large.prop - spaceToolDetailDescription
+
+0x8827B2E0 Use em um planeta para nivelar sua superfície.
+
+# sculpt_gear_hills.prop - spaceToolDetailDescription
+
+0xF5DE4169 Use em um planeta para terraesculpir morros de engrenagens.
+
+# repairpotion.prop - spaceToolLockedDescription
+# safarivacuum.prop - spaceToolDescription
+
+0x05FF2F99 Aspirador Safári
+
+# dryice.prop - spaceToolLockedDescription
+# dumbbomblevel1.prop - spaceToolDescription
+
+0xE27E0C2F Minibomba
+
+# planetscan.prop - spaceToolDetailDescription
+
+0x6FD8772C Use em um planeta para analisar todas as plantas e animais.
+
+# dryice.prop - spaceToolDetailDescription
+
+0x4AEAE75F Coloque no planeta para reduzir a temperatura.
+
+# sculpt_tentacle_arm.prop - spaceToolDescription
+
+0x9AF94DAF Braço Tentáculo
+
+# sculpt_terra_lavaflow.prop - spaceToolDetailDescription
+
+0xECB20810 Clique no planeta para Terraesculpir Rios de Lava.
+
+# sculpt_crystal_holes.prop - spaceToolDetailDescription
+
+0xBECDFCE1 Use em um planeta para terraesculpir buracos de cristal.
+
+# wormhole.prop - spaceToolLockedDescription
+# zoo.prop - spaceToolDescription
+
+0x0F6556A4 Santuário da Vida Selvagem
+
+# creaturecreate.prop - spaceToolDetailDescription
+
+0xD974877A Crie uma criatura e leve cinco espécimes em seu compartimento de cargas.
+
+# sculpt_crystal_crack.prop - spaceToolDetailDescription
+
+0x85B169C4 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um abismo de cristal.
+
+# sculpt_terra_mesas.prop - spaceToolDetailDescription
+
+0xB0F79FC5 Use no planeta para Terraesculpir Platôs de Terra.
+
+# energyupgrade3.prop - spaceToolDetailDescription
+# energyupgrade3.prop - spaceToolLockedDescription
+# energyupgrade4.prop - spaceToolDescription
+
+0xB14CB70E Tanque de Energia Grande
+
+# sculpt_terra_canyon.prop - spaceToolDescription
+
+0x7621817B Cânion de Terra
+
+# sculpt_basic_lower_large.prop - spaceToolLockedDescription
+# sculpt_basic_lower_medium.prop - spaceToolDescription
+
+0x8F215D1A Rebaixar Terreno (Médio)
+
+# sculpt_terra_mountains.prop - spaceToolDetailDescription
+
+0x1E8C7B02 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de uma Montanha de Terra.
+
+# soothingsong.prop - spaceToolDetailDescription
+
+0x0600B62E Possui um efeito tranqüilizador sobre os outros impérios.
+
+# laserlevel3.prop - spaceToolLockedDescription
+# minderase.prop - spaceToolDescription
+
+0x8B3EDF92 Apagador Mental
+
+# fireworks.prop - spaceToolDetailDescription
+
+0x28484917 Use perto de colônias para torná-las mais felizes.
+
+# sculpt_crystal_canyon.prop - spaceToolDescription
+
+0x860E0A6F Cânion de Cristal
+
+# sculpt_crystal_river.prop - spaceToolDescription
+
+0x745907C5 Rio de Cristal
+
+# asteroid.prop - toolTargetFlagsFailMessage
+
+0xFDD8CC2A Escolha um alvo terrestre válido para usar esta ferramenta.
+
+# colorwatergreen.prop - spaceToolDetailDescription
+
+0x279BF3C8 Muda a cor da água do planeta para verde.
+
+# placeuberturret.prop - spaceToolDetailDescription
+
+0x90ACD0C4 Coloque em um planeta para fornecer a defesa suprema para as colônias dele.
+
+# icecomet.prop - spaceToolDetailDescription
+
+0xE2E67DDA Use em um planeta para lançar um cometa de gelo contra ele. Baixa a temperatura e aumenta o nível da atmosfera.
+
+# sculpt_tentacle_canyon.prop - spaceToolDetailDescription
+
+0x8D0F1A68 Clique e arraste na superfície do planeta para definir o ponto e a direção inicial de um Cânion de Tentáculos.
+
+# sculpt_basic_level_small.prop - spaceToolDetailDescription
+# sculpt_basic_level_small.prop - spaceToolLockedDescription
+# sculpt_basic_lower_large.prop - spaceToolDescription
+
+0xBE26CAF2 Rebaixar Terreno (Grande)
+
+# colorterrainred.prop - spaceToolDescription
+
+0x47944327 Coloração de Terra Vermelha
+
+# colorwaterblue.prop - spaceToolDescription
+
+0x04868768 Mar Azul Profundo
+
+# planetbusterbomb.prop - spaceToolDetailDescription
+
+0xD6DD32F8 Destrói completamente o planeta. Temido por todos. BUM!
+
+# volcano.prop - spaceToolLockedDescription
+# wormhole.prop - spaceToolDescription
+
+0xC304DE3B Chave do Buraco de Verme
+
+# sculpt_terra_lavaflow.prop - spaceToolLockedDescription
+# sculpt_terra_mesas.prop - spaceToolDescription
+
+0x6A34E8E4 Platôs de Terra
+
+# sculpt_crystal_mesas.prop - spaceToolDescription
+
+0xFFA1FFE8 Platôs de Cristal
+
+# scan.prop - spaceToolDetailDescription
+
+0x03EE3CDE Clique nas plantas ou nos animais para obter mais informações sobre eles.
+
+# sculpt_cute_plateau.prop - spaceToolDetailDescription
+
+0x031A2487 Use em um planeta para terraesculpir belos planaltos.
+
+# colorterrainred.prop - spaceToolDetailDescription
+
+0x76ED393E Muda a cor do solo do planeta para vermelha.
+
+# shield.prop - spaceToolDetailDescription
+
+0xFAE06456 Protege a sua nave contra danos por um curto período.
+
+# sculpt_tentacle_plateau.prop - spaceToolDetailDescription
+
+0x305D0B72 Use em um planeta para terraesculpir um planalto de tentáculos.
+
+# dumbbomblevel3.prop - spaceToolDetailDescription
+
+0x8898DC38 Uma bomba poderosa, capaz de destruir muitos veículos e estruturas.
+
+# sculpt_basic_raise_small.prop - spaceToolDetailDescription
+# sculpt_basic_raise_small.prop - spaceToolLockedDescription
+# sculpt_chocolate_beads.prop - spaceToolDescription
+
+0xE301CB02 Praia de Chocolate
+
+# genesisdevice.prop - spaceToolDetailDescription
+
+0x2B488E7D Para terraformá-lo instantaneamente, use em um planeta.
+
+# colorwateryellow.prop - spaceToolDescription
+
+0x7B9471BC Mar de Limonada
+
+# sculpt_cute_mesas.prop - spaceToolDetailDescription
+
+0x581389C2 Use em um planeta para terraesculpir belos platôs
+
+# energyupgrade1.prop - spaceToolDetailDescription
+
+0xF62C8310 Aumenta a capacidade de energia da sua nave.
+
+# radar.prop - spaceToolDetailDescription
+
+0x0E084571 Avisa quando você se aproxima de alvos importantes. Pode ser ativado ou desativado.
+
+# sculpt_tentacle_suckers.prop - spaceToolDetailDescription
+
+0x454B1C0E Use em um planeta para terraesculpir ventosas de tentáculos.
+
+# sculpt_tentacle_canyon.prop - spaceToolDescription
+
+0x89608849 Cânion de Tentáculos
+
+# turret_at_mil.prop - spaceToolDescription
+# turret_at_rel.prop - spaceToolDescription
+# turretlaser1.prop - spaceToolDescription
+# turretlaser2.prop - spaceToolDescription
+# turretlaser3.prop - spaceToolDescription
+# volcano.prop - spaceToolDescription
+
+0x2F61FCB6 Vulcão
+
+# allytorpedosolar1.prop - spaceToolDescription
+# allytorpedosolar2.prop - spaceToolDescription
+# allytorpedosolar3.prop - spaceToolDescription
+# antimatterbomb.prop - spaceToolDescription
+
+0x3478653F Bomba de Antimatéria
+
+# interstellardrive_upgrade2.prop - spaceToolDetailDescription
+# interstellardrive_upgrade2.prop - spaceToolLockedDescription
+# interstellardrive_upgrade3.prop - spaceToolDescription
+
+0x434E2F15 Propulsor Interestelar 4
+
+# repairmegapotion.prop - spaceToolLockedDescription
+# repairpotion.prop - spaceToolDescription
+
+0x6208F338 Estojo de Reparos
+
+# safarivacuum.prop - spaceToolDetailDescription
+
+0x05FF2F9F Use em um planeta para abduzir instantaneamente várias amostras de cada espécie.
+
+# shield.prop - spaceToolLockedDescription
+# soothingsong.prop - spaceToolDescription
+
+0x0601FD86 Canção Calmante
+
+# sculpt_gear_seas.prop - spaceToolDetailDescription
+
+0x123E852B Use em um planeta para terraesculpir mares de engrenagens.
+
+# torpedogalaxy3.prop - spaceToolDetailDescription
+
+0x0ED9431F Uma arma defensiva que dispara automaticamente contra torres e naves inimigas quando você é atacado. Pode ser ativada e desativada.
+
+# sculpt_cute_mountains.prop - spaceToolDetailDescription
+
+0x33441B69 Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de uma montanha bonitinha.
+
+# coloratmoblue.prop - spaceToolDetailDescription
+
+0x80326DC3 Muda a cor da atmosfera do planeta para azul.
+
+# volcano.prop - spaceToolDetailDescription
+
+0x66A105EF Coloque no planeta para elevar a temperatura e o nível da atmosfera.
+
+# interplanetarydrive.prop - spaceToolDetailDescription
+
+0xF29A5647 Seu propulsor interplanetário básico, que permite a você deixar a órbita de seu planeta.
+
+# rallycall.prop - spaceToolLockedDescription
+# repairmegapotion.prop - spaceToolDescription
+
+0xAD0AA50E Megaestojo de Reparos
+
+# aoe_repair.prop - spaceToolDescription
+
+0xB9121D2B Reparo AOE
+
+# gravitationwave.prop - spaceToolDetailDescription
+
+0x06036023 Destrói todas as estruturas do planeta.
+
+# placeembassy.prop - spaceToolLockedDescription
+# placehappinessbooster.prop - spaceToolDescription
+
+0x56CD9990 Potencializador de Felicidade
+
+# colorterrainyellow.prop - spaceToolDescription
+
+0xFDA80542 Coloração de Terra Amarela
+
+# sculpt_cute_river.prop - spaceToolDescription
+
+0x178D4372 Rios Bonitinhos
+
+# energymegapotion.prop - spaceToolLockedDescription
+# energypotion.prop - spaceToolDescription
+
+0x5209643D Estojo de Energia
+
+# placebioprotector.prop - spaceToolDetailDescription
+
+0x43C3D466 Coloque em um planeta para diminuir o ritmo dos Desastres Ecológicos.
+
+# rainoffire.prop - spaceToolLockedDescription
+# rallycall.prop - spaceToolDescription
+
+0xAD6C6EEC Chamado de Reagrupamento
+
+# cargoupgrade1.prop - spaceToolDetailDescription
+
+0x813233DA Aumenta a capacidade de armazenamento da sua nave para carregar seus saques em uma única viagem.
+
+# interstellardrive.prop - spaceToolDescription
+
+0x5CDE78A9 Propulsor Interestelar 1
+
+# sculpt_terra_seas.prop - spaceToolLockedDescription
+# seti.prop - spaceToolDescription
+
+0xD90BAFCD SETI
+
+# pulselevel3.prop - spaceToolLockedDescription
+# radar.prop - spaceToolDescription
+
+0x5A4C5CD0 Radar
+
+# colorterrainpurple.prop - spaceToolDetailDescription
+
+0x30AD9F5D Muda a cor do solo do planeta para roxo.
+
+# raiderrally.prop - spaceToolDescription
+
+0x06087E97 Grupo de Ataque
+
+# asteroid.prop - spaceToolDescription
+
+0x782C4E6F Botão Chamada do Asteróide
+
+# minderase.prop - spaceToolLockedDescription
+# monolith.prop - spaceToolDescription
+
+0xCF45829A Monólito
+
+# allytorpedogalaxy3.prop - spaceToolDescription
+
+0x26E247FC Megatorpedo Galáctico
+
+# cloudray.prop - spaceToolLockedDescription
+# cloudvacuum.prop - spaceToolDescription
+
+0x1812CFEE Vácuo de Nuvens
+
+# rainoffire.prop - spaceToolDetailDescription
+
+0x53343C4C Use para lançar meteoros a um planeta e aumentar sua temperatura.
+
+# coloratmogreen.prop - spaceToolDescription
+
+0x1657CA1F Esverdeador de Céu
+
+# sculpt_chocolate_river.prop - spaceToolDescription
+
+0x866B92B5 Rio de Espirais de Chocolate
+
+# energyupgrade4.prop - spaceToolDetailDescription
+# energyupgrade4.prop - spaceToolLockedDescription
+# energyupgrade5.prop - spaceToolDescription
+
+0x2384DC15 Tanque de Energia Extrema
+
+# laserlevel3.prop - spaceToolDetailDescription
+
+0xC1BFF091 Use em alvos terrestres. Uma arma potente e muito precisa.
+
+# minderase.prop - spaceToolDetailDescription
+
+0xAF7570DB Use nos cidadãos em pânico para acalmá-los e evitar um ataque.
+
+# callforbackup.prop - spaceToolDescription
+
+0x0601AA7B Invocar Mini-U
+
+# colorwaterred.prop - spaceToolDescription
+
+0x20660959 Mar Carmesim
+
+# genesisdevice.prop - spaceToolLockedDescription
+# getoutofufo.prop - spaceToolDescription
+
+0xD51719A7 Batedor Holográfico
+
+# healthupgrade2.prop - spaceToolDetailDescription
+# healthupgrade2.prop - spaceToolLockedDescription
+# healthupgrade3.prop - spaceToolDescription
+
+0xD770F4A1 Saúde Média
+
+# protonmissilelevel3.prop - spaceToolDetailDescription
+
+0x5CBCC686 Dispara um poderoso Míssil de Prótons teleguiado contra o alvo. Eficaz contra naves inimigas.
+
+# sculpt_cute_river.prop - spaceToolDetailDescription
+
+0x5BBF57BB Clique e arraste na superfície do planeta para definir o ponto e a direção iniciais de um rio bonitinho.
+
+# sculpt_basic_level_large.prop - spaceToolDescription
+
+0x1F00A761 Nivelar Terreno (Grande)
+
+# placeloyaltybooster.prop - spaceToolLockedDescription
+# placespicestorage.prop - spaceToolDescription
+
+0x2A366760 Tanque de Especiaria
+
+# energyupgrade5.prop - spaceToolDetailDescription
+
+0x577558B4 Aumenta, ao máximo, a capacidade energética da sua nave.
+
+# colorwaterorange.prop - spaceToolDetailDescription
+
+0xEA6DB0F7 Muda a cor da água do planeta para laranja.
+

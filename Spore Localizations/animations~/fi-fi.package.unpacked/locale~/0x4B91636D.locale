@@ -1,0 +1,22 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000B1 Soluttaudu tutkimuskeskukseen planeetalla ~mission_target_planet~.
+0x00000093 Suuntaa järjestelmään ~mission_source_star~.
+0x00000099 Onnistuit! Raportoi tähtijärjestelmässä ~mission_source_star~.
+0x00000097 Meneillään
+0x000000B2 Palaa takaisin planeetalle ~mission_source_planet~.
+0x00000098 Suoritettu
+0x00000000 Tervehdys, ~ep1_captain_full_name~. Saimme juuri kuulla kamalia uutisia. Uskomme, että planeetalla ~mission_target_planet~ majaansa pitävät monosofitieteilijät rakentavat parhaillaan jättimäistä asetta.~p~Jonkun pitää heti mennä planeetalle ja perehtyä heidän teknologiaansa. Kiinnostaako tehtävä?
+0x00000071 Muuttaisitko mielesi, jos kertoisimme, että laskelmien mukaan sinulla on 92,3 % mahdollisuus onnistua?
+0x0000004E Kaikki tarpeellinen kerrotaan tehtävälokissa.~p~Muista, että tehtäväsi on tieteellisen tiedon kerääminen. Koeta olla tyrimättä.
+0x00000081 Emmehän me pyydä sinua syöksymään sisään sädettimet paukkuen. Sinun tarvitsee vain kerätä näyte Taisto 5000:n tekniikasta.~p~Jos pysyttelet poissa näkyviltä, todennäköisyys joutua höyrystetyksi on itse asiassa melko pieni.
+0x00000094 Soluttaudu planeetalla ~mission_target_planet~ olevaan tutkimuslaitokseen tähden ~mission_target_star~ järjestelmässä. Pysy piilossa ja vältä yhteenottoja.
+0x00000095 Taisto 5000:n asejärjestelmät on pysäytetty. Palaa raportoimaan tähden ~mission_source_star~ järjestelmässä olevalle planeetalle ~mission_source_planet~.
+0x00000041 Harmi, että Taisto 5000 räjähti. Jos hyvin käy, voimme analysoida jäänteet ja koota sen voimanlähteen.~p~Kröh. Me emme tietenkään käyttäisi tätä teknologiaa aseen valmistukseen. Me olemme kiinnostuneet vain mahdollisuudesta kehittää... puhdasta ja uusiutuvaa energiaa.~p~Kiitos joka tapauksessa avustasi. Olet kiistatta ansainnut nämä ~mission_rewards~.
+0x00000092 Soluttaudu tutkimuslaitokseen tähden ~mission_target_star~ tähtijärjestelmässä. Pysy piilossa ja vältä yhteenottoja.
+0x00000064 Vakoojamme Patikki on jo tukikohdassa. Livahda vartijoiden ohi ja etsi hänet. Hän antaa sinulle lisäohjeita.~p~Tämä ei sitten ole taistelutehtävä, ~ep1_captain_full_name~. Vaivihkaisuus ja hienovaraisuus ovat avainasemassa.~p~Onnea matkaan!
+

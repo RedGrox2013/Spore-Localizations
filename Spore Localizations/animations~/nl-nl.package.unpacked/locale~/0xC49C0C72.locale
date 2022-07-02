@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Beheer de doelen en het verhaal in het paneel 'bedrijven'
+0x079A7CE1 Beschrijving van het bedrijf
+0x079A7B8E Schrijf een introductie voor het bedrijf. Spelers zien deze beschrijving aan het begin van het bedrijf.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfeer
+0x07639100 Stel de dichtheid van de atmosfeer in. Dichte bewolking zorgt voor bliksem. Een dunne atmosfeer veroorzaakt meteorenregens!
+
+# EP1-TerraThemes
+
+0x0771EF15 Een thema kiezen voor je planeet.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Doelen toevoegen
+0x07BB8BDE In elk bedrijf kun je maximaal drie doelen verwerken. Wis een doel door met de linkermuisknop te klikken op het prullenbakje ernaast, en herstart dit tutorial vanuit de checklist.
+
+# EP1-WinLoseText
+
+0x0771E83A Vul de tekst in voor de winst- en verliesberichten van je avontuur.
+0x07763B90 Winst-/verliestekst
+
+# EP1-ClickGoalButton
+
+0x0762251C Paneel 'doelen'
+0x0762251D Stel doelen voor de kapitein. Elk bedrijf kan maximaal drie doelen bevatten, die in elke willekeurige volgorde kunnen worden behaald.~p~Bedrijven moeten doelen hebben zodat spelers je avontuur kunnen winnen of verliezen.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Stel het doel in op 'praten met' of 'onderzoeken'. Personages, voertuigen en objecten kunnen per bedrijf één keer deel uitmaken van zowel het doel 'praten met' als van het doel 'onderzoeken'.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Stel het karakter van je tegenstander in op 'agressief'.
+0x07621DD7 Gedrag
+0x0797266C Probeer je veranderingen uit in de testmodus
+0x077AD33C Stel het besef van de tegenstander in op maximaal bereik zodat hij de kapitein kan zien.
+0x0779D3EF Karakters
+0x0779B5E8 Beweeg de cursor over het castpalet om de knop van het paneel 'gedrag' te voorschijn te laten komen.
+0x0779B5E7 Paneel 'gedrag'
+0x077AC9A2 Plaats deze markeerder op een castlid om dit te volgen.
+0x077AC9A1 Volgmarkeerder
+0x077AC9D4 Sleep de volgmarkeerder en plaats deze in de wereld op de kapitein.
+0x077AD164 Dit bepaalt vanaf welke afstand dit castlid andere objecten opmerkt en erop reageert.
+0x077AD163 Bereik van besef
+0x0779DB81 Selecteer de knop 'beweging' en druk vervolgens op de knop 'volgen'
+0x0775CE3E Een castlid toevoegen
+0x0779D3F0 Stel het karakter van een castlid in door op de betreffende knop te drukken. Karakters variëren van vreedzaam tot agressief.
+0x0779DB5F Met deze knop kun je de bewegingsmogelijkheden van een castlid instellen. Enkele bewegingstypen zijn: wandelen, patrouilleren, volgen en stationair.
+0x0779DB5E Beweging
+0x0779C5B4 Klik met de linkermuisknop op de knop van het paneel 'gedrag'.
+0x078D7B6F Als je de kapitein hebt geplaatst, klik dan met de rechtermuisknop op het paneel 'held' om de camera te richten op de kapitein in de wereld.
+0x0775CE3F Als je het nog niet hebt gedaan, voeg dan hier een wezen toe aan je castpalet. Sleep dit wezen van het castpalet om een exemplaar ervan in de wereld te plaatsen.
+0x07621DD8 Geef je kapitein een tegenstander met het paneel 'gedrag'. Hier kun je karakter, bewegingen, besef en teams instellen.
+0x07B4EC8D Om een castlid in de wereld te kopiëren, houd je de ALT-toets ingedrukt en klik je met de linkermuisknop op de kopie om deze te verslepen.
+0x07C74109 Veranderingen die je aanbrengt, worden toegepast op alle bedrijven. Klik met de linkermuisknop op de knop 'allesomvattende modus' om deze uit te schakelen, zodat toekomstige veranderingen aan dit castlid alleen worden toegepast op het huidige bedrijf.
+0x07D23C43 Mooi! Je hebt dit wezen een agressieve persoonlijkheid gegeven.
+0x07C743A7 Allesomvattend gedrag
+0x07C742C5 Klik met de linkermuisknop op de knop 'allesomvattend toepassen', dan worden de instellingen voor dit castlid in het huidige bedrijf toegepast op alle bedrijven.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Palet 'flora'
+0x076390FE Selecteer het palet 'flora' om de flora op je planeet te veranderen. Flora zijn alleen te vinden op levend terrein en bij een gunstige temperatuur. Er zijn verschillende categorieën planten: grote, middelgrote en kleine.
+
+# EP1-TerraMood
+
+0x0771F108 Je kunt de tijd vergrendelen of deze normaal laten lopen.
+0x0771EFA4 Stel de tijd van de dag in met de wijzer.
+0x0771F133 Gebruik de atmosfeerschuif om de dichtheid van de wolken in te stellen. Een lage dichtheid zorgt voor meteorenregens. Een hoge dichtheid zorgt voor bliksem.
+0x0796DD5B Palet 'sfeer'
+0x0796DE16 Selecteer het palet 'sfeer' om de tijd van de dag, de temperatuur, de atmosfeer en het waterniveau op de planeet in te stellen.
+0x079732F0 Atmosfeer
+0x079732D9 Tijd van de dag
+0x07A0112B Tijd vergrendelen
+0x07957E9C Planeettemperatuur
+0x07957EAD Gebruik de schuif om de temperatuur van je planeet in te stellen.
+
+# Complexity Meter
+
+0x07957630 De complexiteitsmeter laat zien hoeveel verandering je nog kunt aanbrengen aan je planeet
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Klik met de linkermuisknop op de knop 'camera vrijgeven' om de modus 'vrije camera' in en uit te schakelen.
+0x079709BB Camera vrijgeven
+
+### Checklist UI ###
+
+0x07735BDC Checklist ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Bij avonturen passen ook voertuigen
+0x07621438 Voertuigen zijn castleden. Net als wezens kun je ook voertuigen een karakter en bepaald gedrag meegeven.
+
+### Tutorial Checklist
+
+0x079C1550 Een dorp bouwen
+0x079C1527 Een wereld creëren
+0x079C1570 Karakter toevoegen
+0x079C1523 Opslaan
+0x079C1531 Basisbesturing
+0x079C152C Welkom
+0x0797355A Camerabesturing
+0x07970BD9 Paneel 'bedrijven'
+0x079712E5 Doelen met meerdere objecten
+0x07733143 Een doel toewijzen aan de kapitein
+0x07733140 Een kapitein plaatsen
+0x079692E4 Geluiden toevoegen
+0x07733141 Een cast selecteren
+0x07733144 Gedrag toewijzen
+0x0796B1E0 Het gedrag van voertuigen instellen
+0x07C7ABAA Introductie
+0x079C1586 Een spel maken
+0x079C1565 Een gebouw plaatsen
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Kapiteinsaankleder
+0x079E7D0F De energiemeter houdt bij hoeveel energie er voor de vaardigheden nodig is, en hoeveel energie er wordt opgeslagen en opgeladen door de accu's en generatoren. ~p~Als je energie op is, kun je je vaardigheden niet gebruiken. ~p~Trek aan de krachthendel van een accessoire dat er een heeft, om het vaardigheidsniveau en de energieconsumptie van dat accessoire te verhogen.
+0x079E7D0E Energiemeter
+0x07A8F04B Welkom in de kapiteinsaankleder. ~p~Door avonturen te voltooien in snel spel en het ruimtespel speel je nieuwe accessoires vrij voor je kapiteins. ~p~Deze verschijnen op het tabblad 'kapiteinsaccessoires'.
+
+# EP1- ShowActUI
+
+0x07635ED1 Paneel 'bedrijven'
+0x07972881 Stel hier de muziek van het bedrijf in.
+0x07972865 Muziek van het bedrijf
+0x07635ED2 Het paneel 'bedrijven' is de plek waar je de afzonderlijke bedrijven binnen je avontuur een naam en beschrijving kunt geven.~p~Avonturen kunnen bestaan uit maximaal acht bedrijven.~p~Je kunt hier ook de muziek instellen voor je avontuur.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Pak een stok uit het castpalet 'objecten'
+0x0771EAE0 Laten we nu de kapitein iets te doen geven
+0x0771EB72 Sleep een nieuw doel voor bedrijf II naar de stok
+0x0771EB1C Plaats de stok op de grond vlak bij de kapitein
+0x0771EAC0 Klik hier met de linkermuisknop om een tweede bedrijf toe te voegen. Het huidige bedrijf moet een doel hebben voor je een nieuw bedrijf kunt toevoegen.
+0x0771EC65 Stel het doeltype in op 'geef'
+0x0771ECB5 Vul de tekst in voor de doelkaart waarop het 'geef'-doel wordt uitgelegd aan de speler
+0x0771EC85 Plaats de tweede 'geef'-markeerder op een wezen in de wereld
+0x0771ED0B Sla je werk op door wanneer je maar wilt met de linkermuisknop op de knop 'opslaan' te klikken
+0x078DB94B Klik met de linkermuisknop op het palet 'vaste objecten'.
+0x078DB6DF Vaste objecten
+0x078DB94A Vaste objecten
+0x078DB6E0 Klik met de linkermuisknop op een vast object en sleep dit naar de wereld om te kunnen beginnen.
+0x07763A67 Bedrijf toevoegen
+0x07B4E966 Avonturen opslaan
+
+# Checklist
+
+0x07912CD1 Checklist
+0x07A3CFA7 Je kunt de tutorials opnieuw inschakelen in het optiemenu.
+0x07912D11 Klik met de linkermuisknop op voorwerpen in de checklist. Dit helpt je bij het creëren van je avontuur.~p~Terwijl je de lijst afwerkt, speel je tutorials vrij.~p~Open hem en klik met de linkermuisknop op een beschikbaar object naar keuze.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 De minikaart is handig bij het navigeren door je avonturen. De positie, doelen en startlocatie van de kapitein verschijnen op de minikaart.
+0x0775F221 Minikaart
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Welkom in de avonturenschepper.
+0x0761D564 Creëer avonturen om Spore-spelers van over de hele wereld uit te dagen. Neem de tijd om bekend te raken met de beschikbare gereedschappen. ~p~Ontwerp je wereld, bevolk deze met allerhande wezens, stel doelen en vertel een verhaal waar Spore-spelers van kunnen genieten.
+
+# Hint
+
+0x0771DE1F Vul hier de tekst in voor het castlid. Deze verschijnt in je avontuur.
+0x078D93DA Tekst 'praat met'
+0x0771D3CF Klik met de linkermuisknop op het vak voor naam en beschrijving om je avontuur een titel te geven.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Kies je kapitein!
+0x07D087E0 Creëer een gloednieuwe kapitein, of selecteer een wezen dat je hebt gemaakt door te klikken op de filter 'alles'. ~p~Je kapitein bouwt ervaring op (avonturenpunten) als hij met succes een avontuur voltooid. ~p~Ervaren kapiteins krijgen toegang tot nieuwe uitrustingen en accessoires.~p~Kies een kapitein om te beginnen aan je reis.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minikaart
+0x079E8124 De minikaart is handig bij het navigeren over de planeet. ~p~De positie, doelen en startlocatie van de kapitein verschijnen op de minikaart.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Test je avontuur opnieuw
+0x07763C47 Nogmaals de testmodus
+
+# EP1-Audio
+
+0x0796A67A Als je het nog niet hebt gedaan, selecteer dan een geluidsobject uit de Sporepedia en sleep dit naar de wereld. Beweeg eroverheen om het geluid te horen.
+0x0796A679 Geluidsobjecten
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Palet 'vaste objecten'
+0x0762143E Vaste objecten kunnen worden gebruikt als decoratie of om spelers te helpen navigeren. Hier verschijnen ook de gereedschappen en objecten die opgepakt, verplaatst, als geschenk gegeven of omvergegooid kunnen worden.
+
+# EP1-PaintModeIntro
+
+0x076756BA Terreinmodus
+0x076756BB De terreinmodus biedt thema's en gereedschappen waarmee je kleur kunt geven aan de planeet in je avontuur.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Verander het bereik van het geluid door de cursor over het object te bewegen, de shift-toets ingedrukt te houden en aan het muiswieltje te draaien.
+0x0771F1F1 Plaats het geselecteerde geluid in de wereld.
+0x0795826C Verander de hoogte van het object door dit te selecteren en de rotatiering te schuiven.
+0x07972C1C Verander het volume van het object door dit te selecteren en de volumehendel te verschuiven.
+
+# Add a building
+
+0x079AC52F Gebouwen toevoegen
+0x07C7361C Werken met gebouwen
+0x07C73644 Houd de Tab-toets ingedrukt en beweeg met de muis over het gebouw om handgrepen te voorschijn te laten komen waarmee je de rotatie en de hoek regelt. Houd de Alt-toets ingedrukt en sleep om te kopiëren.~p~Wezens en voertuigen kunnen mogelijk niet tussen gebouwen door die te dicht bij elkaar staan.
+0x07BB5926 Gebouwen plaatsen
+0x079AC7EF Als je het nog niet hebt gedaan, selecteer dan een gebouw in de Sporepedia en sleep dit naar een plek in de wereld.
+0x079AC545 Om een dorp te bouwen, kies je het palet 'gebouwen'
+
+# EP1-DragCreature
+
+0x075E4E54 Klik met de linkermuisknop op het wezen en sleep dit naar een plek in de wereld, vlak bij de kapitein.
+
+# EP1-DragHero
+
+0x07577C95 Klik met de linkermuisknop op het paneel 'held' en sleep de kapitein naar de wereld.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Gebruik de schuiven om de kleuren van levend en dood terrein te veranderen. Het verschil is niet in alle gevallen zichtbaar.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Je kunt de wereld sneller laten draaien door met de linkermuisknop op deze knoppen te klikken
+0x0771E735 Klik met de linkermuisknop op de knop 'bouwmodus' om verder te gaan met bewerken.
+0x0771E683 Datgene wat je schrijft over het doel, verschijnt op de doelkaart
+0x07763BB6 Snelheidsknoppen
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Houd de rechtermuisknop ingedrukt en beweeg de muis over de planeet om rond te kijken
+
+# EP1-Teams
+
+0x0771F3ED Stel een wezen in op team A om het toe te voegen aan het team van de kapitein
+0x0771F410 Team B speelt altijd tegen de kapitein
+0x0771F426 Als er geen team is ingesteld, betekent dit dat het personage neutraal is
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planeetverf
+0x076390FC Terrein kan worden gekleurd door elevatie. Daarvoor gebruik je het elevatiekleurgereedschap. De huidige kleuren passen bij het thema van je planeet.
+0x07BBAF6C Om de kleur in te stellen voor water, atmosfeer, stranden en rotsen, klik je met de linkermuisknop op het icoon ervan en selecteer je een kleur in de kleurenkiezer.
+0x07BBAF80 Verander de kleuren van de planeet om de look te creëren die jij wilt.
+0x07BBAF62 Rotswanden, stranden, atmosfeer, water
+0x07D2278E Schuif een elevatiemarkeerder naar de hoogte die je wilt kleuren.
+0x07973230 Kleuren-door-elevatie
+0x079731E7 Selecteer het palet 'planeetverf'
+0x07D2274B Kies in de kleurenkiezer een kleur voor die markeerder. Je kunt het later wissen door het van het palet af te slepen.
+0x07DB8058 Creëer een nieuwe kleurenstrata door met de linkermuisknop te klikken op de terreinelevatiebalk.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Missiekaarten
+0x07634DAD Missiekaarten vertellen de speler wat het huidige doel is.
+
+# EP1-CamZoom
+
+0x07563B2B Gebruik het muiswieltje om in en uit te zoomen
+
+# EP1-FirstAdventure
+
+0x07D087E1 Welkom bij je eerste avontuur!
+0x07D087E2 Je kapitein bouwt ervaring op als je dit avontuur met succes voltooid. ~p~Je kunt de voortgang van je kapitein volgen in de Sporepedia. ~p~Als je op de planeet bent, bestuur je je kapitein op dezelfde manier als waarop je je wezen bestuurde in de wezenfase. ~p~Laten we even kijken wat er nieuw is...
+
+##Terrain Mode items
+
+0x0762143F Beschikbare cast
+0x07621440 Hier verschijnen alle castleden die uit de Sporepedia zijn gehaald voor gebruik in je avontuur.
+0x0791911C Flora
+0x07919119 Terravorming
+0x0791911B Weer
+0x0791911A Een thema kiezen
+0x079C153A Terreinkleuren
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Zorg ervoor dat je je energieniveau op peil houdt. Anders kun je sommige vaardigheden niet meer gebruiken. ~p~Rust je kapitein uit met accu's en generatoren om je energie te verhogen.
+0x079E7E25 Energie
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Klik nogmaals met de linkermuisknop op de knop 'bouwmodus'
+0x07763AD7 Nogmaals de bouwmodus
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Klik in het castpalet met de rechtermuisknop op de tegenstander om de camera op hem te richten.
+0x075E5364 Houd de shift-toets ingedrukt, plaats de cursor op het castlid en draai aan het muiswieltje om de afmetingen van het castlid aan te passen.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Testmodus
+0x075F5A4F Klik met de linkermuisknop op de knop 'testmodus' om je avontuur te testen terwijl je dit aan het maken bent.
+
+# New Join with Sword
+
+0x07A81511 Doelen met twee objecten
+0x078E92E3 Selecteer het doeltype 'brengen naar'.
+0x07A81521 Pak een doelmarkeerder en plaats deze in de wereld op het eerste van twee objecten die je samen wilt brengen.
+0x07A81620 Plaats de tweede doelmarkeerder bij 'brengen naar' op een object of wezen dat in contact kan komen met het eerste object.
+0x07A814D8 Voor de doelen 'brengen naar' en 'weghouden bij' heb je twee objecten nodig. Minstens één van beide moet verplaatsbaar zijn of in staat om zelf te bewegen. Bij 'brengen naar' heb je de kapitein nodig om de objecten samen te brengen. Bij 'weghouden bij' heb je de kapitein nodig om ze uit elkaar te houden.
+0x07BA7CC2 Doelen met twee objecten (deel 2)
+0x07BA7DAE Zoek of plaats het tweede object voor dit doel, en sleep de tweede doelmarkeerder erheen om de zin compleet te maken.
+
+# EP1-NameAdventure
+
+0x0771D3CE Naam avontuur
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 Dit is het paneel 'gebruikte cast'
+0x076214A1 Hier verschijnt alles wat is toegevoegd aan het avontuur.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Castpalet 'wezens'
+0x075E079E Klik met de linkermuisknop om het castpalet 'wezens' te selecteren.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 De voortgangsbalk houdt bij hoeveel doelen er behaald zijn, en hoeveel er nog over zijn. ~p~Als de balk vol is, is het avontuur met succes voltooid.
+0x079E8180 Voortgangsbalk
+
+# EP1-Vehicles
+
+0x0796C959 Selecteer de knop 'voertuiggedrag'
+0x0796B4AC Palet 'voertuigen'
+0x0796B4AD Selecteer het palet 'voertuigen' om voertuigen aan je avontuur toe te voegen.
+0x0796C41F Beweeg de cursor over het nieuwe castlid om de knop 'gedrag' te voorschijn te laten komen.
+0x0796C41E Voertuiggedrag
+0x0796B623 Een voertuig toevoegen
+0x0771F308 Het gedrag van het voertuig instellen
+0x0771F399 Sleep de patrouillemarkeerder om het tweede punt in de patrouilleroute van het voertuig in te stellen.
+0x0771F293 Voeg een voertuig uit de Sporepedia toe aan de cast. Plaats het vervolgens in de wereld door het van het palet te slepen.
+0x0796CC7D Klik met de linkermuisknop op de knop 'beweging'. Selecteer vervolgens 'patrouilleren'.
+0x07D23877 'Gaan naar' werkt ongeveer hetzelfde, alleen het personage blijft bij de laatste markeerder.
+0x07D6257A Houd de Alt-toets ingedrukt op de markeerder en versleep deze om nog een punt in te stellen. Het voertuig verplaatst zich van de ene kant van het patrouillepad naar de andere kant, en weer terug.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Paneel 'audio'
+0x079694A7 Selecteer dit palet om geluiden en muziek aan je avontuur toe te voegen.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A De missiekaart vertelt je wat de huidige doelen zijn. ~p~Behaal alle doelen om door te kunnen naar het volgende bedrijf.
+0x079E8049 Missiekaart
+
+# EP1-SelectHero
+
+0x07578A4F Kapitein plaatsen
+0x07578A50 De kapitein is de ster van het avontuur. Dit is het personage van de speler.
+
+# EP1-TestModeIntro
+
+0x07632EEC Welkom in de testmodus
+0x07632EED De testmodus biedt de mogelijkheid tot het testen van het avontuur waaraan je op dat moment werkt.~p~Keer terug naar de bouwmodus als je iets tegenkomt wat je aan je avontuur wilt veranderen.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Klik met de linkermuisknop op de knop 'bouwmodus' om verder te gaan met bewerken.
+0x075F5A50 Bouwmodus
+
+# EP1-Flora
+
+0x0771F197 Kies nieuwe flora om op je planeet te plaatsen. Flora zijn te vinden op levend terrein, bij een gunstige temperatuur.
+
+# EP1-DragGoal
+
+0x075F39B9 Plaats een doelmarkeerder op een castlid in de wereld om doelen te stellen voor de kapitein.
+0x07971E8D Doelmarkeerders gebruik je om doelen te stellen voor de kapitein in een avontuur. Enkele doelen zijn: 'praat met', 'geef geschenk', 'vernietig' en 'sluit vriendschap met'.
+0x07971D33 Een doel toewijzen
+
+##End
+
+0x0762407B Plaats geluiden in je avontuur door deze naar de wereld te slepen. Speel met de schuiven om in te stellen hoe ver een geluid reikt en vanaf welke afstand het opgewekt kan worden.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Selecteer het palet 'thema'.
+0x076390FA Thema's geven je planeet een gloednieuwe, kleurrijke stijl
+0x079207E3 Palet 'thema'
+0x07920810 Thema's
+
+#Test Mode Goal Cards
+
+0x07A80599 De testmodus stelt je in staat om doelen over te slaan door met de linkermuisknop te klikken op de markeerder naast het doel.
+0x07A805ED Doelen overslaan
+0x07A805F9 Bedrijven overslaan
+0x07A805FE Je kunt bedrijven overslaan door met de linkermuisknop te klikken op de pijlen boven aan de doelkaart
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Gebruik de stempelhandgrepen om het formaat, de diepte en de richting te veranderen.
+
+# EP1-SelectCreature
+
+0x075E2C84 Een wezen toevoegen
+0x075E2C85 Klik met de linkermuisknop op een wezen en sleep dit naar je avontuur.~p~Open de Sporepedia om een wezen te selecteren als er nog geen wezen aanwezig is.
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Welkom in de terravormingsmodus.
+0x0791F5B7 Palet 'terrein'
+0x07959720 Gebruik deze stempels om het terrein bergachtig en ruig te maken.
+0x07958D39 Kies een terreinstempel en sleep deze naar de planeet.
+0x0791F5B8 Bergen
+0x07639102 Hier kun je veranderingen aanbrengen aan het terrein, flora kiezen en de ambiance op de planeet bepalen.
+0x07B3A935 Selecteer het palet 'terrein' om toegang te krijgen tot de terreinstempels
+
+##### Stuff added by Peter Just in Case
+
+0x07A034A1 Gameplay-objecten moeten getest worden. Zorg ervoor dat je de testmodus vaak gebruikt.
+0x07A033EF Gameplay-objecten kunnen worden gebruikt om een avontuur uitdagender en leuker te maken.~p~Kies er een in de Sporepedia en plaats hem in de wereld.
+0x07A033E5 Gameplay-objecten
+0x07A02DE0 Selecteer een handvoorwerp in de Sporepedia en sleep dit naar de wereld.
+0x07A02DD5 Handvoorwerp
+0x07A02E13 Handvoorwerpen kunnen opgepakt, meegenomen en aan wezens gegeven worden.
+0x07A03149 Tijdklok voor het bedrijf
+0x07A02FFC Omslagafbeelding voor het avontuur
+0x07A03553 Maak een omslagfoto in de testmodus door met de linkermuisknop op de knop 'camera' te klikken.~p~Vervolgens verschijnt hij in het paneel 'naam en beschrijving'.
+0x07A03155 Om een tijdslimiet in te stellen voor een bedrijf, klik je met de linkermuisknop op de knop 'tijdklok'. Stel vervolgens de tijd in die spelers hebben om de doelen in het bewuste bedrijf te behalen.
+0x07A0336D Gebruik Spawn Gedrag om wezens te produceren en te vermenigvuldigen.
+0x07A032FB Spawnen
+0x07A03396 De frequentie bepaalt hoe vaak er wordt gerespawned. De limiet bepaalt hoeveel wezens er tegelijkertijd in de wereld kunnen zijn.
+0x07A0304F Om een omslag voor je avontuur te maken die spelers zien in de Sporepedia, zet je de camera op de plek waar jij hem wilt hebben.~p~Open dan het paneel 'naam en beschrijving' en klik met de linkermuisknop op de knop 'camera'.~p~Vervolgens kies je de foto die het beste past bij jouw avontuur.
+
+# EP1-CamRotate
+
+0x07563B2A Klik op de middelste muisknop en beweeg de muis om de camera te draaien en de camerahoek in te stellen. In de handleiding vind je een lijst van toetsen die je kunt gebruiken.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Gebouwen
+0x0762143A Je creaties in de gebouwenschepper voegen veel toe aan je avonturen. Gebouwen kunnen van een team zijn, en boodschappen doorgeven aan de speler. Ze kunnen ook beschadigd raken door geavanceerde wapens. Agressieve NPC's kunnen gebouwen aanvallen die neutraal of van een ander team zijn.
+

@@ -1,0 +1,291 @@
+﻿#/* hash(sa_bard_03) */
+
+0xEB80753F El Alegre
+
+#/* hash(sa_diplomat_04) */
+
+0x7A9CC2CD El Justo
+
+#/* hash(sa_warrior_04) */
+
+0x478A0091 El Honorable
+
+# Zealot
+#/* hash(sa_zealot_01) */
+
+0xF2102F51 El Devoto
+
+# Ecologist
+#/* hash(sa_ecologist_03) */
+
+0x28FBD837 El Equilibrado
+
+# Trader
+#/* hash(sa_trader_01) */
+
+0xCA09BB92 El Frugal
+
+# Zealot
+
+0x07CEA308 Profeta
+0x07CEA307 Obispo
+0x07CEA309 Santo
+0x07CEA306 Abad
+0x07CEA303 Monje
+0x07CEA302 Acólito
+0x07CEA305 Sacerdote
+0x07CEA304 Capellán
+0x07CEA300 Creyente
+0x07CEA301 Adorador
+
+#/* hash(sa_ecologist_01) */
+
+0x28FBD835 El Clemente
+
+#/* hash(sa_diplomat_03) */
+
+0x7A9CC2CA El Valeroso
+
+# Use these ones in UI
+# Full Name eg. "Commandant Steve the Mighty" (or "Commandant Steve" when the captain has no secondary title)
+
+0x07CEB169 ~ep1_captain_primary_title~ ~ep1_captain_name~ ~ep1_captain_secondary_title~
+
+# Full Name Begin eg. "Commandant Steve" (always)
+
+0x07CEB16A ~ep1_captain_primary_title~ ~ep1_captain_name~
+
+# Shaman
+#/* hash(sa_shaman_03) */
+
+0x03BA5D9E El Hermoso
+
+# Diplomat
+
+0x07CEA407 Ministro
+0x07CEA406 Enviado
+0x07CEA405 Consejero
+0x07CEA400 Ayudante
+0x07CEA404 Magistrado
+0x07CEA403 1er. secretario
+0x07CEA402 2do. secretario
+0x07CEA401 Adjunto
+0x07CEA409 Embajador
+0x07CEA408 Comisionado
+
+## Primary titles
+### IMPORTANT: the following ids must be sequential within a class ###
+# Level 0
+
+0x07CEA000 Recluta
+
+# Diplomat
+#/* hash(sa_diplomat_01) */
+
+0x7A9CC2C8 El Templado
+
+#/* hash(sa_diplomat_02) */
+
+0x7A9CC2CB El Prudente
+
+# Shaman
+
+0x07CEA700 Recolector
+0x07CEA702 Cazador
+0x07CEA701 Cosechador
+0x07CEA709 Maestro de los espíritus
+0x07CEA708 Cazador de sueños
+0x07CEA707 Visionario
+0x07CEA704 Tejedor de vestidos
+0x07CEA703 Pintor de caras
+0x07CEA706 Encendedor de fuego
+0x07CEA705 Fabricante de bastones
+
+#/* hash(sa_ecologist_04) */
+
+0x28FBD830 El Universal
+
+# Species Name eg. "Of the Oggie"
+
+0x07CEB16C del Imperio de los ~ep1_captain_species_name~
+
+#/* hash(sa_shaman_04-symmetric) */
+
+0xD5A96A7F El Sabio
+
+#/* hash(sa_zealot_03) */
+
+0xF2102F53 El Justo
+
+#/* hash(sa_trader_04) */
+
+0xCA09BB97 El Diligente
+
+#/* hash(sa_ecologist_02) */
+
+0x28FBD836 El Empático
+
+#/* hash(sa_zealot_02) */
+
+0xF2102F52 El Espiritual
+
+#/* hash(sa_shaman_01-symmetric) */
+
+0xE3ABCF2A El Generoso
+
+#/* hash(sa_bard_02-symmetric) */
+
+0x5369A930 El Divertido
+
+## Secondary titles (todo)
+### IMPORTANT: these ids are simply the instance ids of the rigblock prop ###
+# Bard
+#/* hash(sa_bard_01-symmetric) */
+
+0x8920761B El Travieso
+
+# Trader
+
+0x07CEA609 Magnate
+0x07CEA608 Presidente ejecutivo
+0x07CEA605 Administrador
+0x07CEA604 Especulador
+0x07CEA607 Presidente
+0x07CEA606 Vicepresidente
+0x07CEA603 Contable
+0x07CEA600 Corredor
+0x07CEA602 Contrabandista
+0x07CEA601 Correo
+
+# Scientist
+#/* hash(sa_scientist_01-symmetric) */
+
+0xABA8E7CE El Silencioso
+
+#/* hash(sa_warrior_03-symmetric) */
+
+0xE31525B8 El Fuerte
+
+#/* hash(sa_scientist_04) */
+
+0x6181EC2D El Lógico
+
+#/* hash(sa_bard_04) */
+
+0xEB807538 El Juguetón
+
+#/* hash(sa_scientist_02) */
+
+0x6181EC2B El Inteligente
+
+#/* hash(sa_scientist_03) */
+
+0x6181EC2A El Tenaz
+
+# Wanderer
+
+0x07CEA908 Corredor estelar
+0x07CEA909 Viajero galáctico
+0x07CEA905 Explorador
+0x07CEA904 Pionero
+0x07CEA906 Viajero
+0x07CEA907 Trotamundos
+0x07CEA903 Rastreador
+0x07CEA900 Vagabundo
+0x07CEA902 Nómada
+0x07CEA901 Autoestopista
+
+#/* hash(sa_warrior_02-symmetric) */
+
+0xC77C8191 El Feroz
+
+#/* hash(sa_shaman_02-symmetric) */
+
+0x36BC4369 El Compasivo
+
+#/* hash(sa_trader_03) */
+
+0xCA09BB90 El Inventivo
+
+# Warrior 	
+
+0x07CEA808 General
+0x07CEA803 Sargento
+0x07CEA809 Señor de la guerra
+0x07CEA805 Teniente
+0x07CEA804 Mayor
+0x07CEA806 Oficial
+0x07CEA807 Comandante
+0x07CEA802 Mercenario
+0x07CEA801 Luchador
+0x07CEA800 Matón
+
+# Scientist
+
+0x07CEA506 Doctor
+0x07CEA504 Inventor
+0x07CEA501 Técnico
+0x07CEA500 Interno
+0x07CEA503 Ingeniero
+0x07CEA502 Investigador
+0x07CEA509 Genio
+0x07CEA508 Teórico
+0x07CEA505 Profesor
+0x07CEA507 Erudito
+
+# Bard
+
+0x07CEA100 Groupie
+0x07CEA101 Roadie
+0x07CEA103 Intérprete
+0x07CEA104 Músico
+0x07CEA102 Afinador
+0x07CEA105 Pionero
+0x07CEA108 Estrella
+0x07CEA109 Superestrella
+0x07CEA106 Icono
+0x07CEA107 Celebridad
+
+# Ecologist
+
+0x07CEA202 Botánico
+0x07CEA203 Conservador
+0x07CEA200 Desbrozador
+0x07CEA201 Jardinero
+0x07CEA204 Granjero
+0x07CEA205 Criador
+0x07CEA206 Criador de híbridos
+0x07CEA207 Clonador
+0x07CEA208 Filósofo
+0x07CEA209 Gurú
+
+#/* hash(sa_trader_02) */
+
+0xCA09BB91 El Fiable
+
+# Warrior
+#/* hash(sa_warrior_01) */
+
+0x478A0094 El Valiente
+
+#/* hash(sa_zealot_04) */
+
+0xF2102F54 El Fiel
+
+# Knight
+
+0x07CEAA08 Noble
+0x07CEAA05 Guardia
+0x07CEAA07 Paladín
+0x07CEAA06 Caballeresco
+0x07CEAA09 Señor
+0x07CEAA01 Aprendiz
+0x07CEAA00 Pícaro
+0x07CEAA02 Escudero
+0x07CEAA04 Hombre de armas
+0x07CEAA03 Aventurero
+
+# Full Name End eg. "The Mighty" (or "" when the captain has no secondary title)
+
+0x07CEB16B ~ep1_captain_secondary_title~
+

@@ -1,0 +1,86 @@
+﻿# MakeNewSporecastDialog.layout
+
+0x06162C25 확인
+0x06162C24 새로 만들기
+0x34F8116D 다음 속성이 풀립니다:
+0x74BF153F 다른 존재와의 만남…
+0x06162C22 새 Spore캐스트 만들기
+0x06162C1E Spore캐스트에 추가
+0x74BF153E 플레이 중에 발견해서 Spore피디아에 추가하십시오!
+0x06162C1F Spore캐스트 선택:
+
+# ProfileView.layout
+
+0x062EE735 프로필 페이지
+
+# vehicle stats (specific)
+
+0x058B5C24 군용 파워
+0x058B5C26 경제적인 파워
+0x058B5C25 종교적인 파워
+
+# AssetViewLarge.layout
+
+0x058B60F4 항목 이름
+0x058B60F2 설명: 
+0x058B60F6 작성자
+0x058B60F7 다음
+0x058B60F8 이전
+0x058B60F5 항목 작성자 
+0xD4AF63E8 잠시만 기다려 주십시오…
+0x058B60F3 태그:
+
+# creature stats
+
+0x058B5C22 사교
+0x058B5C1E 잡식성
+0x058B5C1F 육식성
+0x058B5C21 공격
+0x058B5C20 초식성
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05B175F4 ~modelname~
+0x05B175F5 ~username~
+0x05B175E8 일요일
+0x05B175EA 화요일
+0x05B175EB 수요일
+0x05B175EC 목요일
+0x05B175ED 금요일
+0x05B175EE 토요일
+0x05B175F0 ~seconds~초 전
+0x05B175F1 ~minutes~분 전
+0x05B175F2 ~hours~시간 전
+0x05B175E9 월요일
+0x05B175EF 최종 작성~day_of_week~
+0x05B175F6 <없음>
+
+# vehicle stats
+
+0x058B5C1D 속도
+0x058B5C1C 파워
+0x058B5C1B 상태
+
+# AssetBrowser.layout
+
+0x05B1A59C 검색
+0x05B1A59E 환영합니다 ~username~
+0x05B1A59D Spore피디아™
+
+# AssetBrowserAssetGrid.layout
+
+0x058B5C10 정렬:
+0x058B5C12 제목
+0x058B5C14 형태
+0x058B5C16 로그인해야만 볼 수 있는 온라인 요소
+0x058B5C17 로그인해야만 볼 수 있는 온라인 요소
+0x058B5C19 돌아가기
+0x058B5C18 새로 만들기 
+0x058B5C15 공유
+0x058B5C1A 관계도
+0x058B5C11 만든 시간
+0x058B5C27 다운로드 시간
+0x058B5C13 생성자
+0x058B5C28 삐죽이와 동글이
+

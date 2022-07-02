@@ -1,0 +1,777 @@
+﻿# CVG_LostCityByReligious
+
+0x35492925 ~timelineMyCivName~ přišli o město.
+0x35492924 Ztraceno město
+
+# CVG_EarnedTraitMilitary (TEXT NOT IN USE)
+
+0x06085D4D Hráč ~timelineMyCivName~ dokončil jako vojenská civilizace.
+0x060B4242 Získán vojenský charakter
+
+# CRG_LostAbility
+
+0x550A15C3 ~timelineMySpeciesName~ se vyvinuli, ale přišli o schopnost ~timelineAbilityName~.
+0x550A15C2 Ztracena schopnost ~timelineAbilityName~
+
+# For localizing the years that appear on the top ruler of the timeline
+
+0x555450A6 +~timelineDeltaYears~ let
+0x555450A5 ~timelineAbsoluteYears~ let
+
+#### Time Line Title ####
+
+0x00000000 Buněčná fáze
+0x00000009 Porazte 5 nepřátelských kmenů nebo jim imponujte
+0x0000000A Měnu vybudujete lovem, rybolovem nebo sběrem
+0x00000012 Plňte mise - získáte měnu
+0x00000013 Kolonizujte a terraformujte planety
+0x00000005 Bojuj, imponuj nebo sbírej zbytky
+0x00000002 Části se zpřístupní po poražení nepřátel
+0x00000001 Jezte. Vyrostete a získáte DNA
+0x00000008 Kmenová fáze
+0x00000006 Získávejte DNA a zpřístupněte si tak části
+0x00000007 Pářením se vyvíjíte
+0x00000011 Prozkoumejte nebe, kde naleznete přátele i nepřátele
+0x0000000E Těžbou z gejzírů koření získáte měnu
+0x0000000F S pomocí vozidel dobývejte, konvertujte nebo skupujte nepřátelská města.
+0x00000010 Vesmírná fáze
+0x0000000D Na radnici nakupujte nebo stavte vozidla
+0x0000000C Fáze civilizace
+0x0000000B Nákup nástrojů zvýší účinnost
+0x00000003 Vyvíjejte se přidáváním částí ve Tvoření
+0x00000004 Fáze vývoje tvorů
+0x0448655C Dobytí světa
+0x0448655A Vybudovat svůj kmen
+0x04486558 Vývoj inteligence
+0x04486559 Počátek civilizace
+0x0448655B Celosvětové podrobení
+0x0448655D Kosmický věk
+0x0448655E Probádat vesmír
+0x04486555 Zrod života
+0x04486557 Vývoj života na zemi
+0x04486556 Vyrostli jste v bohaté město
+
+# CLG_EatMeat
+
+0x352DBDB9 Snězeno ~timelineEventCount~ kusů masa
+0x75580858 Vaše buňka snědla kus masa.
+0x75580859 Vaše buňka snědla ~timelineEventCount~ kusů masa.
+0x352DBDBA ~timelineMySpeciesName~ snědl kus masa.
+0x352DBDBB ~timelineMySpeciesName~ snědl ~timelineEventCount~ kusů masa.
+
+# TRG_KilledEpic
+
+0x060B422F Zabita obří příšerka
+0x05FA01B1 ~timelineMyTribeName~ zabili obří příšerku ~timelineTargetOTDBName~.
+
+# SPG_ColonyOnPlanet
+
+0x060B424D Kolonie na planetě
+0x05FA01CB ~timelineMyEmpireName~ začali kolonizovat ~timelinePlanetName~.
+
+# CRG_AlliedSpecies
+
+0x060B4221 Spojenectví
+0x05FA01A3 ~timelineMySpeciesName~ se spojili s ~timelineTargetOTDBName~.
+
+# SPG_PurchasedStar
+
+0x06300C34 ~timelineMyEmpireName~ nakupili od ~timelineTargetEmpireName~.
+0x06300C33 Nákup hvězdy
+
+# CLG_Death
+
+0x060B4214 Smrt
+0x14F7E775 ~timelineMySpeciesName~ zemřeli ~timelineEventCount~krát
+0x05FA0196 ~timelineMySpeciesName~ zemřel.
+0x75580854 Vaše buňka zahynula.
+0x75580855 Vaše buňka zahynula ~timelineEventCount~krát.
+
+# CVG_CapturedCityEconomic
+
+0x060B423D Obchodní převzetí
+0x06031AAB ~timelineMyCivName~ přebral ekonomickými prostředky město od ~timelineTargetCivName~.
+
+# SPG_PlanetDestroyed
+
+0xB54938AC Planeta zničena
+0xB54938AD Impérium ~timelineMyEmpireName~ zničilo planetu ~timelinePlanetName~.
+
+# SPG_EndedWar
+
+0x35493814 Ukončení války
+0x35493815 Impérium ~timelineMyEmpireName~ ukončilo válku s impériem ~timelineTargetEmpireName~.
+
+# CLG_EarnedTraitMeat (TEXT NOT IN USE)
+
+0x060B4216 Získána masitá charakteristika
+0x05FA0198 Druh ~timelineMySpeciesName~ se vyvinul v masožravé příšerky. Ve Fázi vývoje tvorů mohou jíst pouze maso.
+
+# CVG_FirstReligiousSeaVehicleBuilt
+
+0x05523EC7 Náboženské vodní
+
+# CVG_SelectedFirstVehicle
+
+0xF54928E3 ~timelineMyCivName~ navrhnuli nové vozidlo ~timelineTargetOTDBName~.
+0xF54928E2 ~timelineTargetOTDBName~
+
+# Loading Screen - reticulating spines
+# CREATURE GAME -- GGE->Creature, Cell->Creature, Loading saved creature game, loading after death in creature game
+
+0x064AA842 Propočítávání rozdílů v animaci
+0x064AA843 Mapování potravinového řetězce
+0x064AA841 Rekombinace evolučních vektorů
+0x064AA83E Obalování epidermálních vrstev
+0x064AA840 Zavádění nervových podsystémů
+0x064AA844 Síťování páteří
+0x064AA83D Vylučování gastrodermálního systému
+0x064AA838 Vyvíjení rekombinačních vektorů
+0x064AA83B Diferenciace buněčné knihovny
+0x064AA83C Náhodné rozdělování archetypálních dat
+0x064AA839 Rozdělování mnohobuněčných rostlin
+0x064AA83A Dezinfikace zárodečných buněk
+
+# CVG_FirstMilitaryLandVehicleBuilt
+
+0x05523CA1 Vojenské pozemní
+
+# TRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4231 Získána společenská vlastnost
+0x05FA01B3 ~timelineMyTribeName~ se vyvinuli v náboženské město.
+
+# TRG_KilledTribemember
+
+0xB5303DE5 Zabit člen kmene
+0xB5303DE7 ~timelineMyTribeName~ zabili ~timelineEventCount~ členů kmene.
+0xB5303DE6 ~timelineMyTribeName~ zabili člena kmene ~timelineTargetTribeName~.
+
+# CVG_GameStart
+
+0x05FA01BA ~timelineMyCivName~ vybudovali město!
+0x060B4238 Začít v civilizaci
+
+# CVG_WarEndedByRelationship
+
+0x9552AA73 Válka skončila
+0x9552AA74 ~timelineMyCivName~ již neválčí s ~timelineTargetCivName~.
+
+# CVG_WarStarted
+
+0x35492927 ~timelineMyCivName~ válčí s ~timelineTargetCivName~.
+0x35492926 Začala válka
+
+# SPG_AddedTLevelToPlanet
+
+0x0627E7AC Planetě přidána T úroveň
+0x0627E7AD Terraformováno - ~timelinePlanetName~.
+
+# CVG_MilitarySeaVehicleBuilt
+
+0x35523EC0 Sestrojeno vozidlo
+0x35523EC1 Sestrojeno vojenské vodní vozidlo.
+0x35523EC2 Sestrojeno ~timelineEventCount~ vojenských vodních vozidel.
+
+# CVG_EconomicAirVehicleBuilt
+
+0xB5523D43 Sestrojeno vozidlo
+0xB5523D44 Sestrojeno obchodní letecké vozidlo.
+0xB5523D45 Sestrojeno ~timelineEventCount~ vodních leteckých vozidel.
+
+# CVG_EditedVehicle
+
+0x05FA01BC ~timelineMyCivName~ sestrojili nové vozidlo ~timelineTargetOTDBName~.
+0x060B423A Vytvořené vozidlo
+
+# CVG_EditedBuilding
+
+0x05FA01BB ~timelineMyCivName~ navrhli novou budovu ~timelineTargetOTDBName~.
+0x060B4239 Vytvořená budova
+
+# CVG_EarnedTraitReligious (TEXT NOT IN USE)
+
+0x06085D4C Hráč ~timelineMyCivName~ dokončil jako náboženská civilizace.
+0x060B4241 Získán náboženský charakter
+
+# CRG_EarnedTraitSocial (TEXT NOT IN USE)
+
+0x060B4223 Získána společenská vlastnost
+0x05FA01A5 Druh ~timelineMySpeciesName~ se vyvinul ve společenskou rasu.
+
+# CVG_AccessorizedCreature
+
+0x060B423B Nové ošacení
+0x05FA01BD ~timelineMyCivName~ převzali nové ošacení.
+
+# SPG_GameStart
+
+0x05FA01C9 ~timelineMyEmpireName~ dosáhli ke hvězdám.
+0x060B424B Začít v kosmu
+
+# CRG_BefriendedSomething
+
+0x060B4227 Spřátelení
+0x54F7EDA3 ~timelineMySpeciesName~ se spřátelili s ~timelineEventCount~ příšerkami.
+0x05FA01A9 Druh ~timelineMySpeciesName~ se spřátelil s ~timelineTargetOTDBName~.
+
+# CRG_Migrated
+
+0x060B421F Nové hnízdo
+0x05FA01A1 ~timelineMySpeciesName~ zabrali nové hnízdo.
+
+# CRG_Death
+
+0x060B4225 Smrt
+0x14F7EF6F ~timelineMySpeciesName~ zemřeli ~timelineEventCount~krát
+0x05FA01A7 ~timelineMySpeciesName~ zemřel.
+
+# CRG_DiscoverPart
+
+0x05FA01AA Druh ~timelineMySpeciesName~ objevil část ~timelinePartName~.
+0x060B4228 ~timelinePartName~
+
+# TRG_EarnedTraitAttack  (TEXT NOT IN USE)
+
+0x060B4230 Získána útočná vlastnost
+0x05FA01B2 ~timelineMyTribeName~ se vyvinuli ve vojenské město.
+
+# SPG_EditedBuilding
+
+0x35493811 Impérium ~timelineMyEmpireName~ navrhlo novou budovu ~timelineTargetOTDBName~.
+0x35493810 ~timelineTargetOTDBName~
+
+# CVG_FirstEconomicLandVehicleBuilt
+
+0x05523CA4 Obchodní pozemní
+
+# CVG_SeaVehicleLost
+
+0x060B4249 Ztraceno vozidlo
+0xD4F81D00 Ztraceno ~timelineEventCount~ vodních vozidel.
+0x05FA01C7 Ztraceno vodní vozidlo.
+
+# SPG_PlanetBuster
+
+0x05FA01CF ~timelineMyEmpireName~ zničili ~timelinePlanetName~.
+0x060B4251 Planeta zničena
+
+# SPG_AccessorizedCreature
+
+0xD5147CA6 Nové ošacení
+0xD5147CA7 ~timelineMyEmpireName~ převzali nové ošacení.
+
+# TRG_BoughtTool
+
+0x060B422B ~timelineAbilityName~
+0x05FA01AD ~timelineMyTribeName~ vynalezli ~timelineAbilityName~.
+
+# TRG_BefriendedTribe
+
+0x060B422D Spojenectví s kmenem
+0x05FA01AF ~timelineMyTribeName~ se spojili s ~timelineTargetTribeName~.
+
+# CVG_FirstEconomicAirVehicleBuilt
+
+0x05523D44 Obchodní letecké
+
+# SPG_ColonyPlaced
+
+0x060B425F Umístěna kolonie
+0x05FA01D3 ~timelineMyEmpireName~ kolonizovalo ~timelinePlanetName~.
+
+# TRG_MeatGathered
+
+0x060B4237 Nahromaděno ~timelineSummedCount~ kusů masa
+0x05FA01B9 Nahromaděno ~timelineSummedCount~ kusů masa.
+0x94F807CA Nahromaděno ~timelineSummedCount~ kusů masa.
+
+# SPG_EarnedTraitBard (TEXT NOT IN USE)
+
+0x06031C0C ~timelineMyEmpireName~ se stal vesmírným bardem!
+0x060B4255 Získán charakter bard
+
+# CVG_MilitaryAirVehicleBuilt
+
+0xB5523D42 Sestrojeno ~timelineEventCount~ vojenských leteckých vozidel.
+0xB5523D41 Sestrojeno vojenské letecké vozidlo.
+0xB5523D40 Sestrojeno vozidlo
+
+# TRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4232 Získána smíšená vlastnost
+0x05FA01B4 ~timelineMyTribeName~ se vyvinuli v obchodní město.
+
+# CRG_PackMemberAdded
+
+0x060B421D Přibyl člen smečky
+0x05FA019F ~timelineTargetOTDBName~ přibrán do smečky.
+
+# SPG_EarnedTraitScientist (TEXT NOT IN USE)
+
+0x060B4259 Získán charakter vědec
+0x06031C10 ~timelineMyEmpireName~ se stal vesmírným vědcem!
+
+# SPG_EditedVehicle
+
+0x35493813 Impérium ~timelineMyEmpireName~ navrhlo nové vozidlo ~timelineTargetOTDBName~.
+0x35493812 ~timelineTargetOTDBName~
+
+# SPG_MadeAlly
+
+0x060B424E Vytvořeno spojenectví
+0x05FA01CC ~timelineMyEmpireName~ se spojili s ~timelineTargetEmpireName~.
+
+# CVG_EconomicLandVehicleBuilt
+
+0x15523CA4 Sestrojeno obchodní pozemní vozidlo.
+0x15523CA3 Sestrojeno vozidlo
+0x15523CA5 Sestrojeno ~timelineEventCount~ obchodních pozemních vozidel.
+
+# CRG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4224 Získána smíšená vlastnost
+0x05FA01A6 Druh ~timelineMySpeciesName~ se vyvinul v rychlou rasu.
+
+# CVG_CapturedCityReligious
+
+0x060B423E Náboženské převzetí
+0x06031AAC ~timelineMyCivName~ přebral náboženskými prostředky město od ~timelineTargetCivName~.
+
+# CRG_EarnedTraitAttack (TEXT NOT IN USE)
+
+0x060B4222 Získána útočná vlastnost
+0x05FA01A4 Druh ~timelineMySpeciesName~ se vyvinul v silnou rasu.
+
+# CVG_UsedSuperPower
+
+0x060B4244 Použita supersíla
+0x05FA01C2 ~timelineMyCivName~ použili ~timelineSuperPowerName~.
+
+# CVG_EpicKilled
+
+0x3552A304 Zabita obří příšerka
+0x3552A305 ~timelineMyCivName~ zabil obří příšerku ~timelineTargetOTDBName~.
+
+# CRG_KilledSomething
+
+0x060B4226 Zabití
+0x05FA01A8 ~timelineMySpeciesName~ zabil ~timelineTargetOTDBName~.
+0xF4F7EE4B ~timelineMySpeciesName~ zabil ~timelineEventCount~ příšerek.
+
+# CVG_SpiceNodeCaptured
+
+0x060B4243 Zabráno naleziště koření
+0x15137CD5 ~timelineMyCivName~ zabrali ~timelineEventCount~ gejzírů koření.
+0x05FA01C1 ~timelineMyCivName~ zabrali gejzír koření.
+
+# CVG_LostCityByMilitary
+
+0x35492920 Ztraceno město
+0x35492921 ~timelineMyCivName~ přišli o město.
+
+# CRG_ExtinctedSpecies
+
+0x05FA01A2 ~timelineMySpeciesName~ vyhubili ~timelineTargetOTDBName~.
+0x060B4220 Vyhynulý
+
+# CRG_PackMemberDied
+
+0x060B421E Zemřel člen smečky
+0x05FA01A0 ~timelineMySpeciesName~ ztratili člena smečky.
+
+# SPG_EarnedTraitShaman (TEXT NOT IN USE)
+
+0x060B425A Získán charakter šaman
+0x06031C11 ~timelineMyEmpireName~ se stal vesmírným šamanem!
+
+# CVG_LandVehicleBuilt
+
+0x060B4245 Sestrojeno vozidlo
+0x05FA01C3 Sestrojeno pozemní vozidlo.
+0xB4F817E5 Sestrojeno ~timelineEventCount~ pozemních vozidel.
+
+# CVG_LandVehicleLost
+
+0x060B4248 Ztraceno vozidlo
+0x05FA01C6 Ztraceno pozemní vozidlo.
+0x54F81C70 Ztraceno ~timelineEventCount~ pozemních vozidel.
+
+# CIV GAME - GGE->Civ, Tribe->Civ, Loading saved CIV game, loading after death in civ game
+
+0x064AA84F Zkoumání uhlovodíkových zdrojů
+0x064AA850 Nastavování minimap podvodníků
+0x064AA84E Stabilizace geostatických hranic
+0x064AA851 Osidlování kontinentálních podsystémů
+0x064AA854 Vyrovnávání městské dynamiky
+0x064AA855 Vytváření melodií prostředí
+0x064AA853 Nasazování technologických faktorů
+0x064AA852 Spouštění správce Dopplerova jevu
+0x064AA856 Natahování smyček
+0x064AA900 Opylování virových dat
+0x064AA857 Zahájeno přeměňování pamětí
+
+# SPG_CGQuasar
+
+0x060B4254 CQ kvasar
+0x05FA01D2 ~timelineMyEmpireName~ dosáhli osvícení.
+
+# CRG_EvolveInEditor
+
+0x060B421B Generace ~timelineGenerationCount~
+0x05FA019D ~timelineMySpeciesName~ se vyvinuli.
+
+# CVG_AirVehicleLost
+
+0x060B424A Ztraceno vozidlo
+0xF4F81D2C Ztraceno ~timelineEventCount~ leteckých vozidel.
+0x05FA01C8 Ztraceno letecké vozidlo.
+
+# SPG_CapturedStare
+
+0x060B4250 Zaberte hvězdu
+0x05FA01CE ~timelineMyEmpireName~ zabrali od ~timelineTargetEmpireName~.
+
+# CVG_FirstReligiousLandVehicleBuilt
+
+0x05523CA7 Náboženské pozemní
+
+# SPG_PlayerUFoDestroyed
+
+0x05FA01D7 Ztracení ~timelineTargetOTDBName~.
+0x060B4263 Hráčova kosmická loď zničena
+
+# SPG_EarnedTraitKnight (TEXT NOT IN USE)
+
+0x060B4258 Získán charakter rytíř
+0x06031C0F ~timelineMyEmpireName~ se stal vesmírným rytířem!
+
+# CRG_GainedAbility
+
+0x550A15C1 ~timelineMySpeciesName~ se vyvinuli a získali schopnost ~timelineAbilityName~.
+0x550A15C0 Získána schopnost ~timelineAbilityName~
+
+# SPG_EncounteredEmpire
+
+0x05FA01D8 Objevení ~timelineTargetEmpireName~.
+0x060B4264 Narazil na impérium
+
+# TRG_GiftGiven
+
+0xB5303DE2 Obdarování
+0xB5303DE4 ~timelineMyTribeName~ dali ~timelineEventCount~ darů.
+0xB5303DE3 ~timelineMyTribeName~ obdarovali ~timelineTargetTribeName~.
+
+# CVG_TradeRouteStarted
+
+0x3549292A Vytvořena obchodní cesta
+0x3549292B Spuštěna obchodní cesta s ~timelineTargetCivName~.
+
+# SPG_EditedUFO
+
+0x060B424C Upravena kosmická loď
+0x05FA01CA ~timelineMyEmpireName~ sestrojili novou kosmickou loď.
+
+# CLG_DiscoverPart
+
+0x060B4211 Objevení části
+0x05FA0193 Druh ~timelineMySpeciesName~ objevil část ~timelinePartName~.
+0x75580853 Objevena část ~timelinePartName~.
+
+# SPG_EarnedTraitWarrior (TEXT NOT IN USE)
+
+0x06031C14 ~timelineMyEmpireName~ se stal vesmírným rytířem!
+0x060B425D Získán charakter válečník
+
+# CVG_SeaVehicleBuilt
+
+0x060B4246 Sestrojeno vozidlo
+0x94F819B5 Sestrojeno ~timelineEventCount~ lodních vozidel.
+0x05FA01C4 Sestrojeno vodní vozidlo.
+
+# CVG_WarEndedByWinning
+
+0x35492929 ~timelineMyCivName~ porazili ~timelineTargetCivName~.
+0x35492928 Válka skončila
+
+# SPG_EarnedTraitWanderer (TEXT NOT IN USE)
+
+0x06031C13 ~timelineMyEmpireName~ se stal vesmírným poutníkem!
+0x060B425C Získán charakter poutník
+
+# TRG_UnlockedTool
+
+0xD537EA55 Zpřístupněna schopnost ~timelineAbilityName~
+0xD537EA56 Zpřístupněna schopnost ~timelineAbilityName~.
+
+# SPG_EarnedTraitEcologist (TEXT NOT IN USE)
+
+0x060B4257 Získán charakter ekolog
+0x06031C0E ~timelineMyEmpireName~ se stal vesmírným ekologem!
+
+# TRG_DomesticatedSpecies
+
+0x060B422E Nový mazlíček ~timelineTargetOTDBName~
+0x05FA01B0 ~timelineMyTribeName~ domestikovali ~timelineTargetOTDBName~.
+
+# SPG_UFODestroyed
+
+0x060B4260 Zničena kosmická loď
+0x05FA01D4 Zničena kosmická loď impéria ~timelineTargetEmpireName~.
+0x356A2D21 ~timelineEventCount~ Kosmické lodě zničeny.
+
+# CVG_FirstEconomicSeaVehicleBuilt
+
+0x05523EC4 Obchodní vodní
+
+# TRG_TribeMemberDied
+
+0x060B4234 Zemřel člen kmene
+0x05FA01B6 ~timelineMyTribeName~ ztratili člena kmene.
+0xD4F7FE0D ~timelineMyTribeName~ ztratili ~timelineEventCount~ členů kmene.
+
+# CVG_FirstMilitaryAirVehicleBuilt
+
+0x05523D41 Vojenské letecké
+
+# CVG_MilitaryLandVehicleBuilt
+
+0x15523CA2 Sestrojeno ~timelineEventCount~ vojenských pozemních vozidel.
+0x15523CA1 Sestrojeno vojenské pozemní vozidlo.
+0x15523CA0 Sestrojeno vozidlo
+
+# SPG_EarnedTraitTrader (TEXT NOT IN USE)
+
+0x06031C12 ~timelineMyEmpireName~ se stal vesmírným obchodníkem!
+0x060B425B Získán charakter obchodník
+
+# SPG_FirstGrobEncounter
+
+0x05FA01D0 ~timelineMyEmpireName~ se setkali s Hrubeši.
+0x060B4252 První setkání s Hrubeši
+
+# CVG_ReligiousLandVehicleBuilt
+
+0x15523CA8 Sestrojeno ~timelineEventCount~ náboženských pozemních vozidel.
+0x15523CA7 Sestrojeno náboženské pozemní vozidlo.
+0x15523CA6 Sestrojeno vozidlo
+
+# TRG_ConqueredTribe
+
+0x060B422C Přemožen kmen
+0x05FA01AE Kmen ~timelineMyTribeName~ přemohl kmen ~timelineTargetTribeName~.
+
+# SPACE GAME - GGE->Space, Civ->Space, Loading saved space game, loading after death in space game
+
+0x064AA90B Entropické přenastavování
+0x064AA90C Zpracovávání mapy vlivu impéria
+0x064AA905 Nabíjení vyzařujících mlhovin
+0x064AA906 Otáčení protoplanetárních systémů
+0x064AA904 Upravování gravitačních konstant
+0x064AA903 Rozšiřování místního prostoru
+0x064AA907 Vytváření galaktické polyfonie
+0x064AA909 Vyrovnávání rudého posunu kvasaru
+0x064AA90A Resetování točivého momentu galaxie
+0x064AA908 Urychlování singularit
+0x064AA902 Konzervace hmoty
+0x064AA901 Zprostředkovávání Higgsových polí
+
+# TRG_AccessorizedCreature
+
+0x060B422A Nové ošacení
+0x05FA01AC ~timelineMyTribeName~ převzali nové ošacení.
+
+# CLG_EvolveInEditor
+
+0x05FA0194 ~timelineMySpeciesName~ se vyvinul.
+0x060B4212 Generace ~timelineGenerationCount~
+
+# CRG_Grow
+
+0x060B421C Vylepšení mozku
+0x05FA019E ~timelineMySpeciesName~ mají nyní větší mozek!
+
+# SPG_EarnedTraitDiplomat (TEXT NOT IN USE)
+
+0x06031C0D ~timelineMyEmpireName~ se stal vesmírným diplomatem!
+0x060B4256 Získán charakter diplomat
+
+# CVG_TradeRouteEarnedMoney
+
+0x7552A859 Obchodní cesty vydělaly ~timelineSummedCount~ Sporáčů,
+0x7552A857 Obchodní cesta vynesla peníze
+0x7552A858 Obchodní cesty vydělaly ~timelineSummedCount~ Sporáčů,
+
+# CLG_KilledSomething
+
+0x060B4219 Zabití
+0x05FA019B ~timelineMySpeciesName~ zabili ~timelineTargetOTDBName~.
+0xF4F7C380 ~timelineMySpeciesName~ zabil ~timelineEventCount~ buněk.
+0x7558085A Vaše buňka zabila ~timelineTargetOTDBName~.
+0x7558085B Vaše buňka zabila ~timelineEventCount~ buněk.
+
+# CLG_EarnedTraitMix (TEXT NOT IN USE)
+
+0x060B4217 Získána smíšená charakteristika
+0x05FA0199 Druh ~timelineMySpeciesName~ se vyvinul ve všežravou příšerky. Ve Fázi vývoje tvorů mohou jíst ovoce i maso.
+
+#TRIBE GAME - GGE->Tribe, Creature->Tribe, Loading saved tribe game, loading after death in tribe game
+
+0x064AA84A Vyhlazování obličejů
+0x064AA84B Příprava etnografického vzorkování
+0x064AA849 Rozkládání gnozeologické soustavy
+0x064AA848 Vytváření struktury lingvistických systémů
+0x064AA84C Fázový posun modelů
+0x064AA84D Rozdělování poznávacích schopností
+0x064AA847 Čištění animací
+0x064AA846 Vyvíjení kulturních abstrakcí
+0x064AA845 Filtrování společenských omezení
+
+# SPG_EarnedTraitZealot (TEXT NOT IN USE)
+
+0x06031C15 ~timelineMyEmpireName~ se stal vesmírným fanatikem!
+0x060B425E Získán charakter fanatik
+
+# TRG_SeaweedGathered
+
+0x555BD5C5 Nasbíráno ~timelineSummedCount~ mořských řas.
+0x555BD5C3 Nasbíráno ~timelineSummedCount~ mořských řas
+0x555BD5C4 Nasbíráno ~timelineSummedCount~ mořských řas.
+
+# SPG_SpiceTraded
+
+0x060B4261 Proběhlo obchodování s kořením
+0x55564EC3 Množství obchodovaného koření - ~timelineSummedCount~.
+0x05FA01D5 Množství obchodovaného koření - ~timelineSummedCount~.
+
+# SPG_MasterBadge
+
+0x060B4253 Získán mistrovský odznak
+0x05FA01D1 ~timelineMyEmpireName~ získali mistrovský odznak.
+
+# CLG_GameStart
+
+0x060B4210 Generace ~timelineGenerationCount~
+0x05FA0192 Objevil se z meteoru.
+
+# CVG_EpicCharmed
+
+0x3552A306 Okouzlení obří příšerky
+0x3552A307 ~timelineMyCivName~ okouzlil obří příšerku ~timelineTargetOTDBName~.
+
+# CVG_CapturedCityMilitary
+
+0x060B423C Vojenské převzetí
+0x06031AAA ~timelineMyCivName~ přebral vojenskými prostředky město od ~timelineTargetCivName~.
+
+# CVG_SpiceNodeLost
+
+0xD54932C2 ~timelineMyCivName~ přišli o ~timelineEventCount~ nalezišť koření.
+0xD54932C1 ~timelineMyCivName~ přišli o naleziště koření.
+0xD54932C0 Naleziště koření ztraceno
+
+# CVG_EconomicSeaVehicleBuilt
+
+0x35523EC5 Sestrojeno ~timelineEventCount~ vodních pozemních vozidel.
+0x35523EC3 Sestrojeno vozidlo
+0x35523EC4 Sestrojeno obchodní vodní vozidlo.
+
+# CRG_GameStart
+
+0x05FA019C Druh ~timelineMySpeciesName~ dosáhl souše a započal tak cestu za rozumem.
+0x060B421A Generace ~timelineGenerationCount~
+
+# CLG_EatPlant
+
+0x352DBDB6 Snězeno ~timelineEventCount~ rostlin
+0x75580856 Vaše buňka snědla rostlinu.
+0x75580857 Vaše buňka snědla ~timelineEventCount~ pupenů rostlin.
+0x352DBDB7 ~timelineMySpeciesName~ snědl rostlinu.
+0x352DBDB8 ~timelineMySpeciesName~ snědl ~timelineEventCount~ pupenů rostlin.
+
+# TRG_GameStart
+
+0x05FA01AB Druh ~timelineMySpeciesName~ vytvořil kmen.
+0x060B4229 Začít v kmeni
+
+# SPG_StartedWar
+
+0x060B424F Započata válka
+0x05FA01CD ~timelineMyEmpireName~ nyní válčí s ~timelineTargetEmpireName~.
+
+# CVG_FirstMilitarySeaVehicleBuilt
+
+0x05523EC1 Vojenské vodní
+
+# TRG_TribeMemberBorn
+
+0x060B4233 Narodil se člen kmene
+0x05FA01B5 Kmeni ~timelineMyTribeName~ se narodilo nové mládě.
+0xD4F81307 V kmeni ~timelineMyTribeName~ se narodila ~timelineEventCount~ mláďata.
+
+# SPG_RareFound
+
+0x05FA01D6 Nalezena vzácnost: ~timelineRareName~
+0x060B4262 Vzácný nález
+
+# CVG_AirVehicleBuilt
+
+0x060B4247 Sestrojeno vozidlo
+0x34F81C5A Sestrojeno ~timelineEventCount~ leteckých vozidel.
+0x05FA01C5 Sestrojeno letecké vozidlo.
+
+# TRG_FruitGathered
+
+0x060B4235 Nasbíráno ~timelineSummedCount~ kusů ovoce
+0x05FA01B7 Nahromaděno ~timelineSummedCount~ kusů ovoce.
+0x94F804D9 Nahromaděno ~timelineSummedCount~ kusů ovoce.
+
+# CVG_EarnedTraitEconomic (TEXT NOT IN USE)
+
+0x06085D4B Hráč ~timelineMyCivName~ dokončil jako ekonomická civilizace.
+0x060B4240 Získán ekonomický charakter
+
+# TRG_FishGathered
+
+0x060B4236 Nasbíráno ~timelineSummedCount~ ryb
+0x05FA01B8 Nahromaděno ~timelineSummedCount~ ryb.
+0x54F8079A Nahromaděno ~timelineSummedCount~ ryb.
+
+# CVG_ReligiousSeaVehicleBuilt
+
+0x35523EC8 Sestrojeno ~timelineEventCount~ vodních pozemních vozidel.
+0x35523EC6 Sestrojeno vozidlo
+0x35523EC7 Sestrojeno náboženské vodní vozidlo.
+
+# CVG_TradeCompleted
+
+0x3549292C Proběhl obchod
+0x3549292D ~timelineMyCivName~ obchodovali za ~timelineSummedCount~ Sporáčů.
+
+# CVG_ReligiousAirVehicleBuilt
+
+0xB5523D47 Sestrojeno náboženské letecké vozidlo.
+0xB5523D48 Sestrojeno ~timelineEventCount~ vodních leteckých vozidel.
+0xB5523D46 Sestrojeno vozidlo
+
+# CVG_FirstReligiousAirVehicleBuilt
+
+0x05523D47 Náboženské letecké
+
+# CVG_GiftGiven
+
+0xD54932C3 Vyplaceny peníze
+0xD54932C4 ~timelineMyCivName~ zaplatili ~timelineSummedCount~ Sporáčů.
+0xD54932C5 ~timelineMyCivName~ zaplatili ~timelineSummedCount~ Sporáčů.
+
+# CLG_EarnedTraitPlant (TEXT NOT IN USE)
+
+0x060B4215 Získána rostlinná charakteristika
+0x05FA0197 Druh ~timelineMySpeciesName~ se vyvinul v býložravé příšerky. Ve Fázi vývoje tvorů mohou jíst pouze ovoce.
+
+# TRG_EggGathered
+
+0x555BD5C2 Nasbíráno ~timelineSummedCount~ vajec.
+0x555BD5C1 Nasbíráno ~timelineSummedCount~ vajec.
+0x555BD5C0 Nasbíráno ~timelineSummedCount~ vajec
+

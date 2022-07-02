@@ -1,0 +1,42 @@
+﻿###########################################################
+# names
+#0xc is 'colony name' which in space looks like empire, its unique because we may change it....
+
+0x00000000 ~id_color_name~村
+0x00000001 ~id_color_name~国家
+0x00000003 ~id_color_name~村人
+0x00000009 娯楽施設
+0x0000000A 砲塔
+0x0000000B ~species_name~シティー
+0x0000000C ~species_name~のコロニー
+0x00000006 ~id_color_name~シティホール
+0x00000002 ~species_name~帝国
+0x00000007 家
+0x00000008 工場
+0x0000000E ~species_name~の村
+0x0000000D ~species_name~国
+0x00000004 ~id_color_name~市民
+0x00000010 ~species_name~市民
+0x0000000F ~species_name~村人
+0x00000011 ~species_name~のコロニーの住民
+0x00000005 ~id_color_name~：~species_name~コロニーの住民
+
+# identity localized text
+###########################################################
+# identity colors
+
+0x053DBCF3 ブラウン
+0x053DBCF2 ニュートラル
+0x053DBCF1 プレイヤー
+0x053DBCFD クリムゾン
+0x053DBCFC フォレスト
+0x053DBCFA レッド
+0x053DBCFB ブルー
+0x053DBCF9 イエロー
+0x053DBCF5 シアン
+0x053DBCF6 グリーン
+0x053DBCF4 ピンク
+0x053DBCF8 オレンジ
+0x053DBCF7 ラベンダー
+0x053DBCFE パープル
+

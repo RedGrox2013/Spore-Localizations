@@ -1,0 +1,421 @@
+﻿# Callout_TRG_ChieftainWithPowers.prop
+
+0x06731782 Stammeshäuptling
+0x067213A6 Der Stammeshäuptling ist der Anführer deines Stammes. Dein Stamm kann auch ohne seinen Anführer in die Schlacht ziehen. Allerdings ist er für soziale Interaktionen mit anderen Stämmen unabdingbar.~p~Darüber hinaus kann nur der Häuptling die Folgetalente deines Stammes einsetzen. Möchtest du ein Folgetalent einsetzen, wähle zunächst deinen Häuptling aus und klicke dann auf die gewünschte Fähigkeit.
+
+# Callout_SPG_BuySell.prop
+
+0x0670C6E3 Mit dem Handelsmenü kannst du Werkzeuge, Gewürz und seltene Objekte kaufen und verkaufen. Objekte aus deinem Frachtraum, die verkauft werden können, erscheinen unten im Handelsmenü.~p~Klicke die Objekte im Handelsmenü an, die du kaufen und verkaufen möchtest.
+0x0670C6DB Handelsmenü
+
+#######################################
+# Tribe
+# Callout_TRG_Opening.prop
+
+0x06280000 Du hast einen Stamm gegründet!
+0x06281000 Du befehligst jetzt einen aufstrebenden Stamm mit drei Mitgliedern.~p~Du kannst einzelne Mitglieder oder eine Gruppe auswählen, die deine Anweisungen ausführen.~p~Interagiere mit anderen Stämmen, um deine Fortschrittsanzeige zu füllen.~p~Sehen wir uns das mal an ...~p~
+
+# Callout_CRG_Superpower.prop
+
+0x0673162D Folgetalent
+0x06721404 Der Abschluss der Zellenphase hat dir eine neue Fähigkeit beschert. Klicke auf diesen Button, um sie einzusetzen.
+
+# CalloutCVGAir.prop
+
+0x0626F481 NOT IN USE
+0x0626F47A NOT IN USE
+
+# Callout_CRG_ProgressBar.prop
+
+0x06270001 Fortschritt
+0x06271001 Die Leiste zeigt deinen Fortschritt an.~p~Sie füllt sich, wenn du Verbindungen mit anderen Spezies eingehst oder dafür sorgst, dass sie aussterben.~p~Gehen wir nun zu deinem ersten Ziel ...~p~
+
+# Callout_CLG_ProgressBar.prop
+
+0x00000006 Das ist deine Fortschrittsanzeige.~p~Wenn du frisst, sammelst du DNA-Punkte. Diese kannst du in neue Teile investieren, um deine Zelle weiterzuentwickeln.~p~Fortschritt führt zu Wachstum, und deine Welt wird größer.~p~
+
+#######################################
+# Accessories Editor
+
+0x063976F1 Mit der Evolution ist es jetzt für dich vorbei, aber da gibt's ja noch die Mode. Mit neuem Aussehen durch Outfits und Accessoires bleibt deine Spezies stets hip und in.
+0x063976F0 [NOT IN USE]
+0x0668AF4D Ausstatter
+
+# Callout_SPG_LowEnergy.prop
+
+0x06627B4B Energie niedrig
+0x06627B5D Energie betreibt dein Schiff und alle Werkzeuge, damit du durch die Galaxie reisen kannst.~p~Auf deiner Heimatwelt kostet Energie nichts, aber Verbündete und Kolonien wollen bezahlt werden. Benutze dein Kommunikationsmenü, um zu tanken.
+
+# CalloutCVGIntro.prop
+
+0x0625E9B3 Willkommen in der Zivilisation!
+0x0625E9BE Du kontrollierst jetzt die Fahrzeuge und die Stadtplanung deiner Nation, beginnend mit der ersten Stadt.~p~Du musst mit anderen Nationen interagieren, sobald sie auftauchen, um am Ende die globale Herrschaft zu erreichen.~p~Werfen wir mal einen Blick auf deine Fortschrittsanzeige ...~p~
+
+# Callout_SPG_MyCollection.prop
+
+0x06290007 Mit dem Button "Meine Sammlung" öffnest du das Missionstagebuch mit deinen Sammlungen von Plaketten, Werkzeugen und seltenen Objekten.
+0x06638D3E Meine Sammlungen
+
+# Callout_SPG_CapturePlanet.prop
+
+0x06627A30 Du hast die letzte Kolonie in diesem System zur Aufgabe gezwungen. Klicke auf den Erobern-Button am oberen Bildschirmrand, wenn du dieses Sternsystem erobern möchtest.~p~Wenn du das System nicht haben willst, kannst du weiterhin Kolonien attackieren und deine Gegner aufreiben.
+0x06627A27 Eroberung des Systems
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+
+0x1535ABA2 Geschichte
+0x1535ABA3 Deine Stammestaktik hat deine frühe kulturelle Ausrichtung geprägt. Diese bestimmt den Kurs der Spezialisierung und der technischen Entwicklung deiner Nation. Während deine Nation wächst, entwickeln deine Bürger einzigartige Werkzeuge, die dir helfen, dir deine Welt untertan zu machen. Setze sie weise ein!
+
+# Callout_CRG_Minimap.prop
+
+0x06774482 Übersichtskarte
+0x06721419 Benutze deine Übersichtskarte, um dich durch die Welt zu bewegen. Auf ihr sind dein Nest, Nahrung und dein Migrationsweg eingezeichnet.
+
+# Callout_SPG_ToolUI.prop
+
+0x065E5ECA Werkzeuge
+0x065E5ECE Sammle Plaketten, um Werkzeuge freizuschalten. Hast du ein Werkzeug freigeschaltet, kannst du es in deiner Heimatwelt kaufen.~p~Einige Werkzeuge werden verbraucht und müssen regelmäßig erneuert werden. Andere bleiben dauerhaft erhalten, verbrauchen aber unter Umständen Energie.
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+
+0x06280004 Du solltest wissen ...
+0x06281004 Babys wachsen heran und werden schon bald produktive Stammesmitglieder.~p~Bis dahin kannst du hier auf sie aufpassen.
+
+# Callout_TRG_TutorialModeEnd.prop
+
+0x06280010 Gut gemacht!
+0x06281010 Die Grundlagen sind klar, dann geht's jetzt los. Suchen wir was zu essen.
+
+# Callout_TRG_LastTribeConquered.prop
+
+0x06280006 Glückwunsch!
+0x06281006 Dein Stamm ist Alleinherrscher!~p~Wenn du für die Zivilisation bereit bist, klicke auf den Weiterentwickeln-Button!
+
+# Callout_SPG_ProgressBar.prop
+
+0x06290001 Diese Leiste zeigt deine Fortschritte (in Plaketten) sowie die Entfernung des Zentrums der Galaxie an.~p~Die Missionszentrale auf der Planetenoberfläche muss dich dringend sprechen. Beschäftigen wir uns also mit der Kommunikation.~p~
+0x06638D71 Fortschrittsleiste
+
+#######################################
+# City Planner
+
+0x0639783F Diese Registerkarten helfen dir bei der Bedienung des Stadtplaners. Kaufe Fahrzeuge, Gebäude oder öffentliche Objekte, komponiere eine Hymne oder rüste deine Bürger aus!
+0x06397840 Diese Registerkarten helfen dir bei der Bedienung des Stadtplaners. Kaufe Fahrzeuge, Gebäude oder öffentliche Objekte, erstelle eine Hymne oder rüste deine Bürger aus!
+0x06280005 Stadtplaner
+0x0665E829 Stadtplaner
+
+# CalloutCVGGoalClaimNode.prop
+
+0x06550886 Ziele
+0x06550888 Die Ziele deiner Nation werden hier angezeigt.~p~Dein erstes Ziel ist, einen Gewürzgeysir zu besetzen und mit dem Gewürzabbau zu beginnen.~p~Die Kontrolle über Gewürzgeysire erhöht die Produktion deiner Nation.
+
+# CalloutCVGVehicleBought.prop
+
+0x0626F43E Warum gehen, wenn du eine Maus hast?~p~Klicke zur Auswahl mit der linken Maustaste auf ein Fahrzeug, oder ziehe einen Auswahlrahmen, um eine Flotte auszuwählen. Mit der rechten Maustaste schickst du sie zu einem Ziel.~p~
+0x0626F434 Selection NOT IN USE
+
+# Callout_CLG_TransitionButton.prop
+
+0x00000004 Du solltest wissen ...
+0x00000005 Das ist der Weiterentwickeln-Button. Klicke hier, um die Kreaturenphase zu betreten.~p~Unterwegs wirst du noch einen letzten Entwicklungsschritt vollziehen, um deine Zelle auf das Leben an Land vorzubereiten.
+
+# CalloutCVGWin.prop
+
+0x062EFB82 Glückwunsch!
+0x062EFB85 Die Weltherrschaft ist dein!~p~Wenn du bereit bist, in die Weiten jenseits deines Heimatplaneten vorzudringen, klicke auf den Weiterentwickeln-Button.
+
+# Callout_SPG_OutOfUFO.prop
+
+0x06627BDD Ausspähen
+0x06627BE0 Dein Hologrammspäher ist auf der Planetenoberfläche erschienen. Sieh dich ruhig um!~p~Du kannst den Späher mit einem Klick auf "Hologramm abholen" im Avatar-Fenster zurückpfeifen.
+
+#########################################################################
+# EDITORS
+#########################################################################
+#######################################
+# Cell Editor
+
+0x063971E5 [NOT IN USE]
+0x0668ACDF Zellen-Designer
+0x06397215 Du kannst den Modus in jedem Designer mit einem Klick auf die Modus-Buttons ändern.~p~Bevor du zum Gezeitentümpel zurückkehrst, kannst du das Ganze im Malen-Modus farblich ein bisschen aufpeppen!
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+# CalloutCVGMiniMap.prop  #Is this used?
+
+0x0626F3BF You should know...NOT IN USE
+0x0626F3C4 Das ist deine Übersichtskarte, eine Darstellung des gesamten Planeten. Du findest darauf Städte, Gewürzgeysire und  Fahrzeuge. Dieses praktische kleine Navigationssystem sorgt dafür, dass du dich nie verfährst! NOT IN USE
+
+# Callout_SPG_FirstDisaster.prop
+
+0x06628763 Katastrophe!
+0x06628758 Die Welt auf dem Planeten ~planet_name~ (im ~star_name~-System) ist das Opfer einer Katastrophe!~p~Ein Event-Tagebuch informiert dich, sobald sich auf einem Planeten deines Reichs oder bei einem deiner Verbündeten eine Katastrophe ereignet.~p~In der Galaxie-Ansicht siehst du dann (meist begleitet von der eingehenden Nachricht) eine rote Markierung.
+
+# Callout_TRG_Posse.prop NOT IN USE
+
+0x06281002 Hier kannst du Gesundheit, Hunger und derzeitige Aktivität der Stammesmitglieder überprüfen.~p~Mit einem klick auf ihre Porträts wählst du sie aus.
+0x06280002 Du solltest wissen ...
+
+# Callout_SPG_TerraformMissionPlanet.prop
+
+0x06628115 Futternetz-Monitor
+0x0662811B Mit diesem Button schaltest du zwischen der Übersichtskarte und dem Futternetz-Monitor um.~p~Auf der linken Seite werden die Atmosphäre und die Temperatur des Planeten anzeigt (der sogenannte TerraScore).~p~Benutze deine Terraforming-Werkzeuge, um den TerraScore des Planeten zu verbessern, indem du den Punkt über den mittleren Ring bewegst. Der mittlere Ring steht für einen idealen T3-Planeten.
+
+# Callout_SPG_StarMap1.prop
+
+0x0664AACB Sternenkarten
+0x0664AACD Die Sternenkartenfilter helfen dir bei der Navigation in der Galaxie.~p~Der Filter "Mein Reich" zeigt alle Sterne an, die deinem Reich derzeit gehören.
+
+# Callout_SPG_TerraformImproved.prop
+
+0x066281D3 T-Score stabilisieren
+0x066281D9 Glückwunsch, du hast den T-Score dieses Planeten erhöht!~p~Denke daran, dass auf einem T1-Planeten Leben möglich ist. Platziere Pflanzen drei unterschiedlicher Größen aus deinem Frachtraum, um die Stabilität des T-Scores zu erhöhen.~p~Bist du zu langsam, sinkt der T-Score des Planeten.
+
+# CalloutCVGMiniMapCommButtons.prop
+
+0x062EFB5E Kommunikationsmenü
+0x062EFB67 Jede Nation mit mehreren Städten erscheint in deinem Kommunikationsmenü.~p~Wenn du die Maus über das Symbol einer Nation bewegst, siehst du den Stand der aktuellen Beziehungen, kannst die Gründe für ihre derzeitige Einstellung einsehen oder mit deinem Kommunikationssystem Kontakt aufnehmen.
+
+# Callout_CRG_NewPackMember.prop
+
+0x06271004 Mitglieder deines Rudels helfen dir im Kampf oder beim Schließen von Freundschaften.~p~Du hast derzeit Platz für ein weiteres Mitglied.~p~Freunde dich mit einem Verbündeten an, dann schließt er dich dir an.
+0x06270004 Gründe ein Rudel
+
+# Callout_SPG_PlayerDamage.propp
+
+0x06627DBF Dein Schiff wurde beschädigt und muss repariert werden.~p~Auf deiner Heimatwelt kosten Reparaturen nichts, aber Verbündete und Kolonien wollen dafür bezahlt werden. Um Reparaturen durchführen zu lassen, benutzt du dein Kommunikationsmenü.
+0x06627DBE Reparatur notwendig
+
+# Callout_SPG_WeaponsBin.prop
+
+0x06290006 Das Waffenmenü enthält alle Werkzeuge für die Zerstörung und Verteidigung.~p~Wähle nun den Mini-Laser aus!
+0x06638D98 Waffenmenü
+
+# CalloutCVGGoalCardVehicle.prop 
+
+0x0626F41E GoalsNOT IN USE
+0x0626F429 Auf deinem Weg zur Weltherrschaft wirst du vielleicht etwas Unterstützung brauchen. Diese Tipps werden dir helfen! [NOT IN USE]
+
+# Callout_SPG_ActiveTool.prop
+
+0x06638C6B Aktives Werkzeug
+0x06290008 Dein aktives Werkzeug wird in deinem Raumschiffporträt angezeigt. Möchtest du ein Werkzeug abwählen, drücke die "ESC-Taste".
+
+# Callout_TRG_TransitionToCiv.prop
+
+0x06281007 Klicke hier, um deine erste Stadt zu gründen!~p~Danach geht es zu den Designern, wo du dein Rathaus und erste Fahrzeuge erstellst.
+0x06280007 In Zivilisationsphase eintreten
+
+# Callout_TRG_FirstGoals.prop
+
+0x06281003 Diese Ziele helfen dir, die Stammesphase zu überstehen.~p~Deine erste Aufgabe besteht darin, deinen Stamm im neuen Stammesausstatter auszurüsten.~p~Klicke auf deine Hütte ...
+0x06280003 Ziele
+
+# Callout_SPG_TerraformStabilized.prop
+
+0x06628270 Tiere platzieren
+0x06628274 Du hast die Atmosphäre und die Temperatur stabilisiert! Die platzierten Pflanzen sind nun ein Teil des Futternetzes. Dieser Planet ist nun bereit für tierisches Leben.~p~Platziere Pflanzen- und Fleischfresser, um das Futternetz zu vervollständigen.
+
+#######################################
+# Creature
+# Callout_CRG_Opening.prop
+
+0x06270000 Willkommen an Land!
+0x06271000 Du bist nun eine Kreatur, umgeben von deinen Nestgenossen!~p~Um dich weiterzuentwickeln, musst du die anderen Spezies auf diesem Planeten kennenlernen und DNA sammeln!~p~Neue DNA bringt deine Fortschrittsanzeige voran. Sehen wir es uns einmal an ...~p~
+
+# Callout_SPG_PurchaseReady.prop
+
+0x06627F33 Durch Handelsrouten bekommst du irgendwann die Möglichkeit, ein Sternsystem zu kaufen. Fliege zum Stern deines Handelspartners und klicke auf den Button "System kaufen" am oberen Bildschirmrand! Dadurch wird das Kommunikationsmenü geöffnet, und du hast die Möglichkeit, das System zu kaufen.
+0x06627F31 Kauf eines Systems
+
+#######################################
+# Timeline
+#Callout_Timeline_TransitionOutOfCell.prop
+
+0xD5359775 Geschichte
+0xD5359776 Diese Zeitachse zeigt die Geschichte deiner Aktionen in der Zellenphase an.~p~Du hast Wesenszüge entwickelt, die dir einzigartige Fähigkeiten bescheren, von denen zukünftige Generationen profitieren werden.~p~Welchen Weg hast du eingeschlagen?
+
+# Tribe Planner
+
+0x06397802 Klicke auf das Hut-Symbol, um das Stammesmitglieder-Menü einzublenden.~p~Wähle ein Stammesmitglied aus und klicke auf den Button "Outfit bearbeiten", um den Stammesausstatter zu öffnen.
+0x0668B06F Stammesplaner
+
+#######################################
+# Space
+# Callout_SPG_Opening.prop
+
+0x06290000 Willkommen im Weltraum!
+0x06291000 Willkommen zum Höhepunkt der Existenz! Unendliche Weiten, der wildeste Wilde Westen von allen: der Weltraum!~p~Du kontrollierst das Schiff und bringst deine Rasse damit von einer planetengebundenen Zivilisation bis zum gewaltigen galaktischen Reich.~p~Mal sehen, wie du vorankommst ...
+
+# CalloutCVGSea.prop
+
+0x0626F46B NOT IN USE
+0x0626F464 NOT IN USE
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x06397261 Ein neuer Modus zum Spielen ... Testlauf! Probiere deine Kreatur aus, bevor es zurück zum Planeten geht!
+
+# Callout_SPG_CargoBin.prop
+
+0x06290005 Das ist dein Frachtmenü. Wähle den Entführungsstrahl aus, klicke dann auf eine Pflanze oder ein Tier und ziehe das Objekt mit gedrückter Maustaste in deinen Frachtraum. ~p~Möchtest du etwas ausladen, wähle es im Frachtraum aus und bewege es mit gedrückter Maustaste auf die Planetenoberfläche.
+0x06638CAC Fracht-Menü
+
+# Callout_SPG_MissionUI.prop
+
+0x065E5F2E Missionstagebuch
+0x065E5F30 Wenn dieser Text erscheint: So sieht ein Bug aus!
+
+######################################## Creature Editor
+
+0x0668B8D1 Kreaturen-Designer
+
+# cell opening
+
+0x00000002 Glückwunsch!
+0x00000001 Willkommen im Gezeitentümpel
+0x00000000 Jede deiner Entscheidungen bei Spore beeinflusst deine Zukunft.~p~Als Zelle musst du fressen, wachsen und dich weiterentwickeln. Das Wachstum wird unten in der Fortschrittsanzeige angezeigt.
+0x00000003 Beim Schwimmen im Schlamm kann dir keiner das Wasser reichen!~p~Wenn du bereit bist, die große weite Welt zu erobern, klicke auf Weiterentwickeln.
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+
+0x1535ABA4 Geschichte
+0x1535ABA5 Deine Entscheidungen im Laufe der Evolution haben die Identität deiner Rasse geprägt und letztlich deinen Aufbruch in den Weltraum ermöglicht. Deine Wesenszüge wirken sich nicht nur auf deine Fähigkeiten aus, sondern haben dir ein einzigartiges Werkzeug beschert.
+
+# Callout_TRG_UICameraControls.prop
+
+0x06281009 Mit diesen Befehlen kannst du zoomen und die Kamera drehen.~p~Das Gleiche funktioniert auch mit deinem Mausrad. Versuch's mal!
+0x0665EE03 Zoomen und Drehen
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+
+0x06550365 Übersichtskarte
+0x06550367 Wie du siehst, hat der von dir eroberte Gewürzgeysir nun die Identitätsfarbe deiner Nation angenommen.~p~Klicke auf der Übersichtskarte auf dein Rathaus, um die Kamera dorthin zu bewegen, damit du mit dem Bau deiner Hauptstadt beginnen kannst.
+
+# Callout_SPG_FirstGoals.prop
+
+0x06290003 Deine unmittelbaren Missionsziele findest du hier im Mini-Missionstagebuch. Du kannst bis zu drei Missionen in dieser Mini-Darstellung mitverfolgen.~p~Das vollständige Missionstagebuch kannst du jederzeit mit der Taste "L" öffnen.
+0x06638CED Ziele
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED5 Statusleisten
+
+# CalloutSample.prop
+
+0x0615824E Callout-Titel
+0x06158262 Callout-Text
+
+# Callout_SPG_StarMap3.prop
+
+0x06771756 Sternenkarten
+0x0677176A Der Filter "Verbündete und Feinde" zeigt an, welche Gebiete von Freunden oder Feinden kontrolliert werden.~p~Der Filter "Reiche" zeigt alle Sterne an, in denen außerirdische Reiche beheimatet sind.
+
+# Callout_SPG_MainToolsBin.prop
+
+0x06290004 Dein Werkzeug-Menü ist nach Typen sortiert. Dein Scanner-Werkzeug findest du im Hauptwerkzeug-Menü. Mit einem Klick wählst du es aus.
+0x06638D0B Hauptwerkzeuge-Menü
+
+# Callout_SPG_TerraformRowFilled.prop
+
+0x066282B8 Terraforming abschließen
+0x066282BD Du hast eine Reihe des Ökosystems vollständig hergestellt! Wenn du schon eine Kolonie auf diesem Planeten gegründet hast, kannst du nun mit einem Klick auf das Rathaus Gebäude hinzufügen.~p~Möchtest du weitere Kolonien hinzufügen, verbessere den T-Score und vervollständige das Futternetz.~p~Möchtest du einem Tier mit dem Radar folgen, klicke auf den entsprechenden Punkt des Futternetzes.
+
+# CalloutCVGInitialSuperweapon.prop
+
+0x062EFB33 Folgetalente
+0x062EFB38 Das sind die einzigartigen Superfähigkeiten deiner Nation.~p~Wenn deine Nation wächst, werden sie von deinen Bürgern entwickelt.
+
+# Callout_CRG_Stance.prop
+
+0x06270003 Haltung
+0x06271003 Deine Haltung bestimmt, ob du eine andere Kreatur angreifst oder freundlich mit ihr umgehst.~p~Vor der Interaktion klickst du auf den grünen Button für Freundschaft oder auf den roten für Abendessen. Danach kannst du die einzelnen Fähigkeit-Buttons benutzen.
+
+# Callout_SPG_RareUI.prop
+
+0x065E5F4C Seltenes
+0x065E5F4E Wenn dieser Text erscheint: So sieht ein Bug aus!
+
+# CalloutCVGProgressBar.prop
+
+0x0626F402 Fortschritt
+0x0626F40D Das ist deine Fortschrittsanzeige.~p~Jede Stadt, die du eroberst, konvertierst oder kaufst, bringt dich deinem Ziel näher, den gesamten Planeten zu kontrollieren.~p~Deine Nation hat anfangs nur eine Spezialisierung, du kannst aber durch Eroberung anderer Städte auch mehrere erhalten.
+
+# Callout_TRG_ChieftainNoPowers.prop
+
+0x06787873 Stammeshäuptling
+0x0678787A Der Stammeshäuptling ist der Anführer deines Stammes. Dein Stamm kann auch ohne seinen Anführer in die Schlacht ziehen. Allerdings ist er für soziale Interaktionen mit anderen Stämmen unabdingbar.
+
+# Callout_SPG_StarMap2.prop
+
+0x06771754 Sternenkarten
+0x06771767 Der Filter "Missionen" zeigt alle Sterne an, auf denen du derzeit aktive Missionen zu erfüllen hast.~p~Die Filter "Reiseverlauf" und "Besucht" sind dann besonders praktisch, wenn du wissen möchtest, wo du schon überall warst.
+
+# CalloutCVGPosseUI.prop
+
+0x0626F450 Flottenliste
+0x0626F457 Du kannst auch in der Flottenliste auf Fahrzeuge klicken, um sie auszuwählen oder ihre derzeitige Aktivität einzusehen.~p~Ein Doppelklick auf ein Fahrzeugsymbol wählt alle Fahrzeuge dieses Typs aus.
+
+# Callout_CRG_TransitionToTribe.prop
+
+0x06271005 Klicke hier, um einen Stamm zu gründen!~p~Du musst noch einmal in den Designer, um dein Aussehen für alle Zeit festzulegen! Es ist deine letzte Gelegenheit, Arme hinzuzufügen. Das kann beim Umgang mit Werkzeugen recht hilfreich sein ...
+0x06270005 In Stammesphase eintreten
+
+# CalloutCVGForcedTutorialStart.prop
+
+0x0671FCE9 Kamera-Tutorial
+0x0671FCED Du kannst die Kamera frei über die ganze Welt bewegen. Dadurch hast du einen besseren Überblick über deine Städte oder über Fahrzeuge, denen du Befehle erteilt hast.~p~Machen wir mal einen Moment Pause und sehen uns die Grundlagen der Kamerasteuerung und die Auswahl eines Fahrzeugs an ...~p~
+
+# Callout_CRG_FirstGoals.prop
+
+0x06270002 Ziele
+0x06271002 Hier stehen deine Ziele.~p~Wie du siehst, ist Nahrung für dich überlebenswichtig.~p~Schauen wir mal, wie man sich umsieht und Nahrung findet.
+
+# Callout_SPG_CommButton.prop
+
+0x06290002 Dieser Videokommunikator ist dein Kontakt zu den Planetenbewohnern.~p~Du MUSST in der Umlaufbahn des Planeten sein, um die Verbindung zu aktivieren.~p~Ein Blinksignal zeigt eingehende Signale an ...~p~
+0x06638CCE Kommunikationsmenü
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+# Callout_TRG_ProgressBar.prop
+
+0x06280001 Fortschritt
+0x06281001 Das ist deine Fortschrittsanzeige.~p~Gehe Bündnisse mit anderen Stämmen ein oder erobere sie, um deinen eigenen Stamm voranzubringen.
+
+# CalloutCVGTransitionButton.prop
+
+0x062EFB78 Klicke hier, um dein Weltraumprogramm zu starten!~p~Für die Jungfernreise musst du im Designer ein Schiff erstellen.~p~Veränderungen können später in jeder Stadt oder Kolonie deines Reiches vorgenommen werden.
+0x062EFB73 In Weltraumphase aufsteigen
+
+# Callout_CRG_Mate.prop
+
+0x0673148B Paarungsruf
+0x067213F5 Klicke unten auf den Paarungsruf-Button, um deinen Partner zu finden und in den Kreaturen-Designer zu gelangen. Hier kannst du dein Aussehen verändern und die Teile hinzufügen, die du auf der Welt gefunden hast.
+
+# Callout_TRG_TutorialMode.prop
+
+0x06280008 Kamera-Tutorial
+0x06281008 Du kannst die Kamera jetzt frei über die ganze Welt bewegen. Dadurch hast du einen besseren Überblick über einzelne Stammesmitglieder oder Gruppen, denen du Befehle erteilt hast.~p~Machen wir mal einen Moment Pause und sehen uns die Grundlagen der Kamerasteuerung an ...
+
+# Callout_SPG_BadgeUI.prop
+
+0x065E5D69 Plaketten
+0x065E5D6C Verdiene dir Plaketten durch Aktionen und Abenteuer im All!~p~Plaketten schalten neue Werkzeuge frei, die du dann kaufen kannst.~p~Außerdem steigt dein Rang, du erhältst neue Titel und neue Fähigkeiten.
+
+# Callout_SPG_HealthEnergy.prop
+
+0x065E3ED8 Einige Werkzeuge, wie der Mini-Laser, verbrauchen Energie.~p~Letztere und deine Gesundheit kannst du im Kommunikationsbildschirm auffüllen. Dieser Service ist in deiner Heimatwelt kostenlos.
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+
+0x1535ABA0 Geschichte
+0x1535ABA1 Deine Aktionen als Kreatur haben deiner Spezies eine neue Fähigkeit beschert. In der Stammesphase erwarten dich neue einzigartige Fähigkeiten.
+
+# Callout_CRG_LastBrainUpgrade.prop
+
+0x06270006 Glückwunsch!
+0x06271006 Du hast es an die Spitze der Nahrungskette geschafft!~p~Wenn du bereit bist, in der Stammesphase dein Glück zu versuchen, klicke auf den Weiterentwickeln-Button.~p~
+

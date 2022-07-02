@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Storma
+0x0000001E En svag attack som riktas mot ett enskilt mål på avstånd och bedövar vid kontakt.
+
+# Colony_Building.prop
+
+0x0000004F Produktion
+0x00000050 Om du ökar produktionen tjänar kolonin mer pengar.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 Militär, luft
+0x0630D532 Flyg till militär dominans.
+
+# Colony_CivicObject.prop
+
+0x00000051 Offentliga föremål
+0x00000052 Offentliga föremål är bara prydnad.
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Koloni-luft
+0x0630D572 Utforska kolonin från luften!
+
+#socialize
+
+0x00001001 Umgås
+0x00002001 Lägg till delar för att sjunga, dansa, posera och charma så att du kan umgås med andra varelser.
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Koloni-sjö
+0x0630D574 Utforska kolonin till havs!
+
+# City_Income.prop
+
+0x00000037 Inkomst
+0x00000038 Fabriker ökar inkomsten när de placeras intill hus, men sänker också lyckan, särskilt i närheten av underhållning.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Dansa
+0x33A78A34 Dansa för att bli vän med andra varelser som föredrar den här typen av socialt umgänge.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000102 Helande stavar
+0x00000103 Utrusta stammedlemmar med en schamanstav för att hela deras bröder på slagfältet.
+0x0666A342 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 ~icon_amount~ fordonshälsa
+
+# CL_Proboscis.prop
+
+0x0000004B Allätare
+0x0000004C Din cell sörplar i sig vätska från växter och levande celler.
+0x06493565 Allätare - Du äter gröna växter eller levande celler.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Koloni-land
+0x0630D576 Utforska kolonin från land!
+
+# Charm5.prop
+
+0x0000008B Charma
+0x0000008C Varelser med många detaljdelar kan charmas med denna sociala förmåga.
+
+# Spit2.prop
+
+0x000000C2 Spotta
+0x000000C3 En snabb attack som skjuter ut projektiler mot ett enskilt mål.
+
+# Herbivore1-5.prop
+
+0x0473A24E Växtätare
+0x0473A24F Din varelse äter frukt.
+
+# City_Cultural.prop
+
+0x0000002B Konvertera andra
+0x0000002C Religiösa fordon kan konvertera olyckliga städer till din civilisation.
+
+# Spit4.prop
+
+0x000000C6 Spotta
+0x000000C7 En snabb attack som skjuter ut projektiler mot ett enskilt mål.
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~ %
+
+# Charge5.prop
+
+0x00000021 Storma
+0x00000022 En svag attack som riktas mot ett enskilt mål på avstånd och bedövar vid kontakt.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Spotta
+0x000000BF En snabb attack som skjuter ut projektiler mot ett enskilt mål.
+
+##### Tribal Accessories #####
+
+0x055D4832 Social
+0x055D4830 Strid
+0x055D4836 Insamling
+0x055D4838 Fiske
+0x055D4834 Hälsa
+0x055D4835 Hälsotillbehör ökar den mängd skada som stammedlemmar kan klara i strid.
+0x055D4837 Insamlingstillbehör gör det snabbare att samla in mat.
+0x055D4833 Sociala tillbehör ökar chanserna att imponera på andra stammar under social interaktion.
+0x055D4831 Stridstillbehör ökar den skada som stammedlemmar gör i strid.
+0x055D4839 Fisketillbehör förbättrar din fiskeförmåga.
+0x055D4E62 Samling
+0x055D4EB3 Lägg till tillbehör för att göra dig bättre på insamling.
+
+### Complexity Meter ##
+
+0x05F110B3 Komplexitetsmätare
+0x05F110B4 Om den här mätaren är full kan du inte lägga till fler delar.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Autoattack
+0x049A3CDB En vanlig automatisk bitattack
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD Nivå ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000120 Sjung
+0x00000121 Sjung för att bli vän med varelser som gillar att använda rösten.
+
+#health
+
+0x00001004 Hälsa
+0x00001008 Hälsa
+0x00002004 Varje uppgradering av hjärnnivån ökar din hälsa, eller så kan du köpa bepansrade delar för att hjälpa dig överleva i strid.
+0x00002008 Hälsa visar hur mycket skada din cell tål. Varje cell har tre enheter hälsa.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Hastighet
+0x04CEA2D3 Ökar hastigheten för ditt fordon.
+
+# Colony_House.prop
+
+0x066657CA Produktion
+0x066657CB Hus ökar kryddproduktionen när de länkas ihop med fabriker.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Kraft
+0x04CEA2D5 Ökad kraft betyder ökad effektivitet.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00002000 Lägg till delar för att använda attackerna bita, slå, storma och spotta mot andra varelser.
+0x00002007 Lägg till delar för att använda attackerna spik, gift och elektricitet mot andra celler.
+0x00001007 Attackera
+0x00001000 Attackera
+
+# Posture3.prop
+
+0x000000A7 Posera
+0x000000A8 Poser är populära hos andra varelser med greppare.
+
+# Dance2.prop
+
+0x00000057 Dansa
+0x00000058 Dansa för att bli vän med andra varelser som föredrar den här typen av socialt umgänge.
+
+# Bite2.prop
+
+0x00000005 Bit
+0x00000006 En snabb attack som kan skada ett enskilt mål på nära håll.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Charma
+0x0000008A Varelser med många detaljdelar kan charmas med denna sociala förmåga.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526762 Allätare
+0x06526772 Din cell jagar andra celler, äter bitar av rött kött och sörplar i sig vätska från växter och levande celler.
+
+# Charge2.prop
+
+0x0000001B Storma
+0x0000001C En svag attack som riktas mot ett enskilt mål på avstånd och bedövar vid kontakt.
+
+# Bite1.prop
+
+0x00000001 Bit
+0x00000002 En snabb attack som kan skada ett enskilt mål på nära håll.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Fabrik
+0x06496725 Ökar inkomsten men minskar lyckan.
+
+# CL_Cilia.prop
+
+0x0000003F Snabba svängar
+0x00000040 Din cell vänder sig snabbt.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Produktion
+0x066657CD Håll dina medborgare lyckliga genom att placera underhållningsbyggnader intill hus.
+
+# Colony_Factory.prop
+
+0x066657CE Produktion
+0x066657CF Fabriker ökar kryddproduktionen när de placeras intill hus, men sänker också lyckan, särskilt i närheten av underhållning.
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Stamtillbehör
+0x04D02BF8 Ekipera dina stammedlemmar för att förbättra deras förmågor!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 Militär, sjö
+0x0630D534 Segla iväg till militär dominans.
+
+#movement
+
+0x00001003 Hastighet
+0x00001006 Förflyttning
+0x00002003 Lägg till snabbare fötter för att röra dig snabbare!
+0x00002006 Lägg till flageller, flimmerhår och strålar för snabbare förflyttning. Varje extra rörelsedel ger cellen mer fart.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Skanna
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526761 Allätare
+0x06526771 Din cell äter gröna växtdelar och sörplar i sig vätska från växter och levande celler.
+
+#Unit for power verb tray rollover
+
+0x06492354 ~icon_amount~ kraft
+
+# Spit5.prop
+
+0x000000C8 Spotta
+0x000000C9 En snabb attack som skjuter ut projektiler mot ett enskilt mål.
+
+# Posture5.prop
+
+0x000000AB Posera
+0x000000AC Poser är populära hos andra varelser med greppare.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Underhållning
+0x06496727 Ökar lyckan, vilket skyddar mot religiösa attacker.
+
+# Dance5.prop
+
+0x0000005D Dansa
+0x0000005E Dansa för att bli vän med andra varelser som föredrar den här typen av socialt umgänge.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Rusa
+0xF386C342 När du rusar får du extrafart under en kort stund. Övriga rusningsdelar gör att den håller i sig längre.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Hastighet
+0x0473A251 Lägg till bättre fötter för att springa fortare.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 Ekonomisk, land
+0x0630D546 Styr och deala dig till toppen via marken!
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C Ökad hälsa ökar chansen att överleva attacker från varelser.
+0x04CB5B6D Hälsa
+
+# CL_Shock.prop
+
+0x0000004D Elchock
+0x0000004E Din cell kommer att ge celler i närheter stötar och få immunitet från andra cellers stötar.
+
+# CL_Poke.prop
+
+0x00000049 Attack & bryt
+0x0000004A Storma mot celler för att attackera dem. Vissa saker går sönder om du petar på dem.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Snabb acceleration
+0x00000046 Din cell ökar farten snabbt.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F Greppare
+0x000000A0 Plocka upp och använd föremål i världen.
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 Religiös, land
+0x0630D556 Konvertera massorna från marken!
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Ekonomisk kraft
+0x06318043 Ekonomisk kraft ökar vinsterna för handelsvägar.
+
+# CL_Speed.prop
+
+0x0563FF82 Hastighet
+0x0563FF83 Hastighet
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE Nivå ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Fiskespjut
+0x000000F1 Utrusta stammedlemmar med fiskespjut för att maximera deras fiskelycka.
+0x0666A340 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# Bite5.prop
+
+0x0000000B Bit
+0x0000000C En snabb attack som kan skada ett enskilt mål på nära håll.
+
+#Unit for religious verb tray rollover
+
+0x06492352 ~icon_amount~ religiös kraft
+
+# Tribe_Hunt3.prop
+
+0x0000010A Kastspjut
+0x0000010B Genom att kasta spjut kan dina stammedlemmar anfalla på avstånd.
+0x0666A346 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# Spit3.prop
+
+0x000000C4 Spotta
+0x000000C5 En snabb attack som skjuter ut projektiler mot ett enskilt mål.
+
+# Posture2.prop
+
+0x000000A5 Posera
+0x000000A6 Poser är populära hos andra varelser med greppare.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 Religiös, sjö
+0x0630D554 Bygg en skuta som flyter i ett hav av vigvatten!
+
+#Unit for economic verb tray rollover
+
+0x06492353 ~icon_amount~ ekonomisk kraft
+
+# City_Population.prop
+
+0x0000003B Befolkning
+0x0000003C Hus ger större inkomst när de länkas ihop med fabriker. Varje hus ökar även ditt fordonstak med ett.
+
+#diet
+
+0x00001002 Diet
+0x00001005 Diet
+0x00002002 Din diet som cell avgör din diet som varelse.
+0x00002005 Lägg till filtreringsmunnar, käkar och snablar för att äta olika sorters mat.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Blockera
+0x00000016 Under strid använder du blockera för att undvika skada.
+
+# City_Defense.prop
+
+0x0000002D Försvara staden!
+0x0000002E Ökar försvar.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BC Skapa en utstyrsel för dina invånare.
+0x05B1E9BB Skapa en utstyrsel för dina invånare.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Storma
+0x00000018 En svag attack som riktas mot ett enskilt mål på avstånd och bedövar vid kontakt.
+
+# Charm3.prop
+
+0x00000087 Charma
+0x00000088 Varelser med många detaljdelar kan charmas med denna sociala förmåga.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Hoppa
+0x00000098 Genom att hoppa kan du komma åt platser som är svåra att nå. Högre nivåer ökar höjden på hoppet. Tryck på mellanslag i Provkörläget för att se hur det ser ut.
+
+# Strike2.prop
+
+0x000000D8 Slå
+0x000000D9 En förödande attack som kan skada flera mål på nära håll.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Religiös kraft
+0x06318041 Religiös kraft ökar din förmåga att styra de icke-troende.
+
+# Dance4.prop
+
+0x0000005B Dansa
+0x0000005C Dansa för att bli vän med andra varelser som föredrar den här typen av socialt umgänge.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Hus
+0x06496723 Ökar stadens befolkning och höjer fordonstaket.
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Glidflyg
+0x00000096 Med vingar kan din varelse flyga. Högre nivåer gör att den kan flyga längre.
+
+# Tribe_Gather3.prop
+
+0x000000FC Insamlingskäppar
+0x000000FD Utrusta stammedlemmar med samlingskäppar för att maximera deras fruktskörd.
+0x0666A341 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# City_Happiness.prop
+
+0x00000033 Lycka
+0x00000034 Håll dina medborgare lyckliga genom att placera underhållningsbyggnader intill hus.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Hälsa
+0x04CEA2D1 Öka ditt fordons hälsa, så klarar det sig längre i strid.
+
+# Bite3.prop
+
+0x00000007 Bit
+0x00000008 En snabb attack som kan skada ett enskilt mål på nära håll.
+
+# CL_Poison.prop
+
+0x00000047 Spotta gift
+0x00000048 Din cell kommer att stöta ut giftmoln och få immunitet från andra cellers giftutsläpp.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 Militär, land
+0x0630D536 Kör iväg till militär dominans.
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526760 Allätare
+0x06526770 Din cell äter gröna växtdelar, jagar andra celler och äter bitar av rött kött.
+
+# Starvivore.prop
+
+0x04D19389 Munlös
+0x04D1938A Grymma värld! Munlösa varelser kan bara svälta ihjäl och dö. Lägg till en mun, är du snäll!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Posera
+0x000000A2 Poser är populära hos andra varelser med greppare.
+
+#Unit for military verb tray rollover
+
+0x06492351 ~icon_amount~ militär kraft
+
+# Vocalize2.prop
+
+0x0000011E Sjung
+0x0000011F Sjung för att bli vän med varelser som gillar att använda rösten.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 Smyg
+0x000000D3 Smyg dig på oförberedda varelser eller undkom angripare. När du attackerar en varelse bakifrån medan du smyger får din attack en bonus.
+
+# Charge4.prop
+
+0x0000001F Storma
+0x00000020 En svag attack som riktas mot ett enskilt mål på avstånd och bedövar vid kontakt.
+
+# Strike3.prop
+
+0x000000DA Slå
+0x000000DB En förödande attack som kan skada flera mål på nära håll.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000042 Din cell rör sig snabbare.
+0x00000041 Hög hastighet
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Militär kraft
+0x06318045 Militär kraft ökar stridsförmågan.
+
+# City_Military.prop
+
+0x00000039 Militära fordon
+0x0000003A Militära fordon kan attackera och förstöra andra städer.
+
+# Strike5.prop
+
+0x000000DE Slå
+0x000000DF En förödande attack som kan skada flera mål på nära håll.
+
+# Tribe_Hunt.prop
+
+0x00000104 Attack
+0x00000105 Jaga andra varelser för att äta dem, eller anfall andra stammar.
+0x0666A343 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# City_Economic.prop
+
+0x0000002F Skapa handelsvägar med andra städer
+0x00000030 Ekonomiska fordon kan handla med andra städer för att köpa ut dem.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Syn
+0x0500E7DE Din varelse behöver ögon för att se klart i världen.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 Allätare
+0x06526773 Din cell äter gröna växtdelar, jagar andra celler, äter bitar av rött kött och sörplar i sig vätska från växter och levande celler.
+
+# CL_Herbivore.prop
+
+0x00000043 Växtätare
+0x06494A72 Växtätare - Du äter gröna växtdelar.
+0x00000044 Din cell äter gröna växtdelar.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Köttätare
+0x0473A24D Din varelse äter andra varelser.
+
+# Omnivore.prop
+
+0x04D18880 Allätare
+0x04D18881 Din varelse äter både frukt och andra varelser.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011A Sjung
+0x0000011B Sjung för att bli vän med varelser som gillar att använda rösten.
+
+# HitPoints.prop
+
+0x062CFA7E Ökad hälsa ökar chansen att överleva attacker från varelser.
+0x062CFA7D Hälsa
+
+#Generic
+
+0x04D3040E Delarna du lägger till ger dig förmågor. Utvecklas!
+0x04D3040D Förmågor
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 Ekonomisk, luft
+0x0630D542 Styr och deala dig till toppen via luften!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 Rymdskepp
+0x0630D566 Det enda som skiljer dig från rymdens vakuum är 6 fot av solid stil.
+
+# Colony_UFO.prop
+
+0x00000053 Rymdskepp
+0x00000054 Utforskning! Byggnation! Kidnappning! Förstörelse! Dessa är ditt Rymdskepps förmågor.
+0x06779205 Den här kolonin har ingen hamnstad.
+
+# Strike4.prop
+
+0x000000DC Slå
+0x000000DD En förödande attack som kan skada flera mål på nära håll.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 Religiös, luft
+0x0630D552 Vaktar himlen sedan Cellfasen!
+
+# City_Food.prop
+
+0x00000031 RADERAD
+0x00000032 RADERAD
+
+# Dance3.prop
+
+0x00000059 Dansa
+0x0000005A Dansa för att bli vän med andra varelser som föredrar den här typen av socialt umgänge.
+
+# Vocalize4.prop
+
+0x00000122 Sjung
+0x00000123 Sjung för att bli vän med varelser som gillar att använda rösten.
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 ~icon_amount~ fordonshastighet
+
+# Tribe_Hunt1.prop
+
+0x00000106 Brinnande facklor
+0x00000107 Brinnande facklor förstör verktygsskjul och hyddor snabbt men är mindre effektiva mot andra stammedlemmar.
+0x0666A344 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# CL_GameSpeed.prop
+
+0x0649A10D Lägg till flimmerhår, flageller och strålar för snabbare förflyttning. Varje extra rörelsedel ger cellen högre hastighet.
+0x0649A10C Hastighet
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 Ekonomisk, sjö
+0x0630D544 Fixa och trixa dig till toppen till havs!
+
+# Vocalize5.prop
+
+0x00000124 Sjung
+0x00000125 Sjung för att bli vän med varelser som gillar att använda rösten.
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Maracas
+0x00000111 Imponera på stammar i närheten med dessa maracas!
+0x0666A349 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Ekipera dina kolonister!
+
+# CL_Carnivore.prop
+
+0x0000003D Köttätare
+0x06494A73 Köttätare - Du jagar andra celler och äter bitar av rött kött.
+0x0000003E Din cell jagar andra celler och äter bitar av rött kött.
+
+# City_CivicObject.prop
+
+0x533DD075 Dekorationer
+0x533DD076 Släpp loss! Endast utseende.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Slå
+0x000000D5 En förödande attack som kan skada flera mål på nära håll.
+
+# Posture4.prop
+
+0x000000A9 Posera
+0x000000AA Poser är populära hos andra varelser med greppare.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoos
+0x0000010F Imponera på stammar i närheten med de här didgeridoo-instrumenten!
+0x0666A348 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Trähorn
+0x0000010D Imponera på stammar i närheten med de här hornen!
+0x0666A347 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Charma
+0x00000082 Varelser med många detaljdelar kan charmas med denna sociala förmåga.
+
+# City_Harvester.prop
+
+0x00000035 RADERAD
+0x00000036 RADERAD
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Stadshus
+0x06496721 Grunda en ny stad.
+
+# Bite4.prop
+
+0x00000009 Bit
+0x0000000A En snabb attack som kan skada ett enskilt mål på nära håll.
+
+# Charm2.prop
+
+0x00000085 Charma
+0x00000086 Varelser med många detaljdelar kan charmas med denna sociala förmåga.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Stenyxor
+0x00000109 Stenyxor är brutalt effektiva mot vilda varelser och stammedlemmar, men är mindre användbara mot hyddor och verktygsskjul.
+0x0666A345 Alliera dig med andra stammar eller besegra dem för att få deras verktyg.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 Ropa för att hitta din partner och ditt bo, men se upp så du inte lockar dit rovdjur.
+0x0000007F Parningsrop
+

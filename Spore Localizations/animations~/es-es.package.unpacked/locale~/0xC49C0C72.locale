@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x079A7CE1 Descripción del acto
+0x0771E7DB Gestiona los objetivos y la historia en el panel de actos.
+0x079A7B8E Teclea aquí para presentar el acto. Los jugadores verán esto al principio del acto.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmósfera
+0x07639100 Ajusta la densidad de la atmósfera. Las nubes densas producen relámpagos. ¡La atmósfera fina causará lluvias de meteoritos!
+
+# EP1-TerraThemes
+
+0x0771EF15 Elige un tema para tu planeta.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Añadir objetivos
+0x07BB8BDE Cada acto admite un máximo de tres objetivos. Borra un objetivo haciendo clic en el cubo de basura que tiene al lado y reinicia este tutorial desde la lista.
+
+# EP1-WinLoseText
+
+0x0771E83A Introduce texto para los mensajes de tu aventura en caso de victoria o derrota.
+0x07763B90 Texto victoria/derrota
+
+# EP1-ClickGoalButton
+
+0x0762251C Panel de objetivos
+0x0762251D Asigna objetivos al capitán. Cada acto puede tener un máximo de tres objetivos, que pueden ser completados en cualquier orden.~p~Los actos deben tener objetivos para que los jugadores ganen o pierdan en tu aventura.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Asigna como objetivo "Hablar con" o "Examinar". Cada uno de los personajes, vehículos y objetos puede tener uno de estos objetivos en cada acto.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Ajusta la personalidad del adversario con el valor "agresivo".
+0x07621DD7 Conductas
+0x077AD33C Ajusta la percepción del adversario con el máximo alcance para que pueda ver al capitán.
+0x0779D3EF Personalidades
+0x0779B5E8 Sitúa el cursor sobre la paleta del reparto para que se muestre el botón del panel de conducta.
+0x0779B5E7 Panel de conducta
+0x077AC9A2 Coloca este marcador en un miembro del reparto al que seguir.
+0x077AC9A1 Marcador "Seguir"
+0x077AC9D4 Arrastra el marcador "Seguir" y colócalo sobre el capitán en el mundo.
+0x077AD164 Determina a qué distancia este miembro del reparto percibe otros objetos y reacciona ante ellos.
+0x077AD163 Radio de percepción
+0x0775CE3E Añadir un miembro del reparto
+0x0779D3F0 Ajusta la personalidad de un miembro del reparto pulsando el botón adecuado.  Las personalidades tienen valores que van desde "Pacífico" hasta "Agresivo".
+0x0779DB5F Este botón te permite ajustar las opciones de movimiento del miembro del reparto.  Los tipos de movimiento incluyen paseo, patrulla, seguir e inmóvil.
+0x0779DB5E Movimiento
+0x0779C5B4 Haz clic en el botón del panel de conducta.
+0x078D7B6F Una vez hayas colocado al capitán, haz clic derecho en el panel del héroe para volver a centrar la cámara sobre el capitán en el mundo.
+0x0775CE3F Si todavía no lo has hecho, añade una criatura a tu paleta de reparto desde aquí. Arrastra la criatura desde su paleta de reparto para colocar una nueva copia en el mundo.
+0x07621DD8 Utiliza el panel de conducta para darle un adversario a tu capitán. Aquí puedes realizar ajustes de personalidad, movimiento, percepción y equipos.
+0x07B4EC8D Para copiar cualquier miembro del reparto en el mundo, mantén pulsada la tecla ALT mientras haces clic y, a continuación, arrastra la copia.
+0x07C74109 Los cambios que efectúes afectarán a todos los actos. Haz clic en el botón "Modo global" para desactivarlo; así, los siguientes cambios realizados en este miembro del reparto solo afectarán al acto actual.
+0x07D23C43 ¡Bien! Le has dado a esta criatura una personalidad agresiva.
+0x07C743A7 Conductas globales
+0x07C742C5 Haz clic en el botón "Aplicar global" para que todos los ajustes realizados en este miembro del reparto para el acto en curso afecten a todos los actos.
+0x0779DB81 Selecciona el botón "Movimiento" y, a continuación, pulsa el botón "Seguir".
+0x0797266C Accede al modo prueba para probar tus cambios.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paleta de flora
+0x076390FE Selecciona la paleta de flora para cambiar la flora de tu planeta. La flora solo se encuentra en el terreno vivo, cuando la temperatura es favorable. Hay categorías de plantas grandes, medianas y pequeñas.
+
+# EP1-TerraMood
+
+0x0771F108 Puedes bloquear el tiempo o dejar que avance con normalidad.
+0x0771EFA4 Rota la rueda de hora del día a tu gusto.
+0x0771F133 Mueve el control deslizante de la atmósfera para ajustar la densidad de las nubes. Una atmósfera de baja densidad causa lluvias de meteoritos. La alta densidad causa tormentas de relámpagos.
+0x0796DD5B Paleta de ambiente
+0x0796DE16 Selecciona la paleta de ambiente para ajustar la hora del día, la temperatura, la atmósfera y el nivel del agua planetario.
+0x079732F0 Atmósfera
+0x079732D9 Hora del día
+0x07A0112B Bloquear tiempo
+0x07957E9C Temperatura planetaria
+0x07957EAD Mueve el control deslizante para ajustar la temperatura de tu planeta.
+
+# Complexity Meter
+
+0x07957630 El medidor de complejidad indica cuánto más puede cambiarse el planeta.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Haz clic en el botón "Cámara libre" para entrar y salir del modo de cámara libre.
+0x079709BB Cámara libre
+
+### Checklist UI ###
+
+0x07735BDC Lista ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621438 Los vehículos son miembros del reparto. Al igual que las criaturas, tienen personalidades y conductas ajustadas por ti.
+0x07621437 Las aventuras pueden incluir vehículos.
+
+### Tutorial Checklist
+
+0x079C1550 Construir una aldea
+0x079C1527 Crear un mundo
+0x079C1570 Añadir personalidad
+0x079C1531 Controles básicos
+0x079C152C Bienvenido
+0x0797355A Controles de la cámara
+0x07970BD9 Panel de actos
+0x079712E5 Objetivos multiobjeto
+0x07733143 Asignar un objetivo al capitán
+0x07733140 Colocar un capitán
+0x079692E4 Añadir sonidos
+0x07733144 Asignar conductas
+0x07C7ABAA Introducción
+0x079C1586 Crear una partida
+0x079C1565 Colocar un edificio
+0x079C1523 Guardado
+0x0796B1E0 Ajustar conductas de vehículos
+0x07733141 Seleccionar un reparto
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Proveedor del capitán
+0x079E7D0E Medidor de energía
+0x07A8F04B Bienvenido al proveedor del capitán. ~p~Al completar aventuras en Partida rápida y Juego del espacio, se desbloquearán nuevos accesorios para tus capitanes. ~p~Estos accesorios aparecerán en la pestaña "Accesorios del capitán".
+0x079E7D0F El medidor de energía registra la cantidad de energía que consumen algunas de las habilidades, y cuánta es almacenada y recargada por las baterías y generadores. ~p~Si te quedas sin energía, no podrás usar tus habilidades. ~p~Tira del regulador de energía de cualquier accesorio que tenga uno para aumentar su nivel de habilidad y consumo energético.
+
+# EP1- ShowActUI
+
+0x07635ED1 Panel de actos
+0x07972881 Elige la música de cada acto desde aquí.
+0x07972865 Música del acto
+0x07635ED2 El panel de actos es el lugar donde describes y pones nombre a los actos individuales de tu aventura.~p~Las aventuras pueden tener hasta ocho actos.~p~Aquí también puedes indicar la música de tales actos.
+
+# EP1-AddSecondAct
+
+0x0771EB72 Arrastra un nuevo objetivo para el segundo acto sobre el palo.
+0x0771EAC0 Haz clic aquí para añadir un segundo acto. El acto actual debe tener un objetivo antes de que puedas añadir un nuevo acto.
+0x078DB94B Haz clic en la paleta de objetos fijos.
+0x078DB6DF Objetos fijos
+0x078DB94A Objetos fijos
+0x078DB6E0 Para empezar, haz clic y arrastra hasta el mundo cualquier objeto fijo.
+0x07763A67 Añadir acto
+0x07B4E966 Guardar aventuras
+0x0771EAE0 Démosle al capitán algo que hacer a continuación.
+0x0771EAF8 Coge un palo de la paleta del reparto de objetos.
+0x0771EC65 Ajusta el tipo de objetivo como "Dar".
+0x0771EB1C Coloca el palo en el suelo, cerca del capitán.
+0x0771EC85 Asigna una criatura del mundo al segundo marcador de "Dar".
+0x0771ED0B Haz clic en el botón "Guardar" en cualquier momento para guardar tu trabajo.
+0x0771ECB5 Introduce texto en la ficha del objetivo para explicarle al jugador el objetivo "Dar".
+
+# Checklist
+
+0x07912CD1 Lista
+0x07912D11 Haz clic izquierdo en elementos de la lista para ayudarte en la creación de una aventura.~p~Los tutoriales se desbloquean a medida que bajas por la lista.~p~Ábrela y haz clic en cualquier elemento disponible.
+0x07A3CFA7 Puedes volver a activar los tutoriales en el menú de opciones.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 El minimapa es útil para moverte por tus aventuras.  Sobre él aparecen la posición del capitán, los objetivos y la ubicación inicial.
+0x0775F221 Minimapa
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Bienvenido al creador de aventuras
+0x0761D564 Crea aventuras para retar a jugadores de Spore de cualquier lugar. Tómate el tiempo necesario para familiarizarte con las herramientas disponibles. ~p~Diseña tu mundo, puéblalo con criaturas de todo tipo, crea objetivos y narra una historia para disfrute de los jugadores de Spore.
+
+# Hint
+
+0x0771DE1F Introduce aquí el texto que dirá el miembro del reparto en la aventura.
+0x078D93DA Texto de Hablar con
+0x0771D3CF Haz clic izquierdo en el nombre y después el rectángulo de descripción para ponerle un título a tu aventura.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF ¡Elige a tu capitán!
+0x07D087E0 Crea un nuevo capitán desde cero o selecciona cualquier criatura que hayas creado haciendo clic en el filtro "Todo". ~p~Tu capitán obtendrá experiencia (puntos de aventura) cada vez que completes con éxito una aventura. ~p~Los capitanes experimentados tendrán acceso a nueva equipación y accesorios.~p~Elige a un capitán para iniciar tu viaje.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minimapa
+0x079E8124 El minimapa es útil para moverse por el planeta. ~p~Sobre él aparecen la posición del capitán, los objetivos y la ubicación inicial.
+
+# EP1-ClickTestModeButtonAgain
+
+0x07763C47 Modo prueba de nuevo
+0x0771E63F Ahora vuelve a probar tu aventura.
+
+# EP1-Audio
+
+0x0796A67A Si todavía no lo has hecho, selecciona un objeto de sonido de la Sporepedia y luego arrástralo hasta el mundo. Sitúa el cursor sobre él para oír su sonido.
+0x0796A679 Objetos de sonido
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paleta de objetos fijos
+0x0762143E Los objetos fijos pueden utilizarse como decoración para ayudar a los jugadores a desplazarse. Las herramientas y objetos que pueden recogerse, trasladarse, regalarse o derribarse también aparecen aquí.
+
+# EP1-PaintModeIntro
+
+0x076756BA Modo terreno
+0x076756BB El modo terreno proporciona temas y herramientas para colorear el planeta de tu aventura.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Para cambiar el alcance del sonido, mueve el cursor sobre el objeto, mantén pulsada la tecla Mayús y utiliza el desplazamiento de la rueda central del ratón.
+0x0771F1F1 Coloca en el mundo el sonido que has seleccionado.
+0x0795826C Selecciona el objeto y desliza el anillo de rotación para cambiar la inclinación.
+0x07972C1C Cambia el volumen seleccionando el objeto y moviendo el regulador de volumen.
+
+# Add a building
+
+0x079AC52F Añadir edificios
+0x07C7361C Trabajar con edificios
+0x07C73644 Mantén pulsada la tecla Tab y sitúa el cursor del ratón sobre el edificio para que se muestren los asideros de rotación e inclinación. Pulsa la tecla Alt y arrastra para copiar.~p~Las criaturas y los vehículos no podrán pasar entre aquellos edificios que se coloquen demasiado cerca.
+0x07BB5926 Colocar edificios
+0x079AC7EF Si todavía no lo has hecho, selecciona un edificio de la Sporepedia. Arrástralo hasta un lugar del mundo.
+0x079AC545 Para empezar a crear una aldea, elige la paleta de edificios.
+
+# EP1-DragCreature
+
+0x075E4E54 Haz clic en la criatura y arrástrala hasta un lugar del mundo cercano al capitán.
+
+# EP1-DragHero
+
+0x07577C95 Haz clic en el panel del héroe y arrastra al capitán hasta el mundo.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Utiliza los controles deslizantes para cambiar los colores del terreno vivo y muerto. Puede que no siempre veas la diferencia.
+
+# EP1-ShowSpeedButtons
+
+0x0771E735 Haz clic en el botón del modo construir para seguir editando.
+0x07763BB6 Botones de velocidad
+0x0771E683 Lo que escribas sobre el objetivo aparecerá en la ficha de misión.
+0x0771E42C Puedes acelerar el mundo haciendo clic en estos botones.
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Mantén pulsado el botón derecho del ratón y mueve el ratón sobre el planeta para observar el entorno.
+
+# EP1-Teams
+
+0x0771F3ED Asigna una criatura al equipo A para asignarla al equipo del capitán.
+0x0771F410 El equipo B siempre va contra el capitán.
+0x0771F426 Si no se asigna ningún equipo, el personaje será neutral.
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Pintura planetaria
+0x076390FC El terreno puede colorearse según su elevación mediante el coloreador de elevación del terreno. Los colores actuales se corresponden con el tema de tu planeta.
+0x07BBAF6C Para ajustar un color para el agua, la atmósfera, las playas y los acantilados, haz clic en su icono y selecciona un color del selector de colores.
+0x07BBAF80 Prueba a cambiar los colores del planeta para obtener el aspecto deseado.
+0x07BBAF62 Acantilados, Playas, Atmósfera, Agua
+0x07D2278E Desliza un marcador de elevación hasta la elevación que deseas colorear.
+0x07973230 Colorear por elevación
+0x079731E7 Selecciona la paleta de pintura planetaria.
+0x07DB8058 Crea un nuevo estrato de color haciendo clic en la barra de elevación del terreno.
+0x07D2274B Selecciona un color para ese marcador en el selector de colores. Puedes borrarlo posteriormente arrastrándolo fuera de la paleta.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Fichas de misión de la aventura
+0x07634DAD Las fichas de misión le indican al jugador cuál es el objetivo actual.
+
+# EP1-CamZoom
+
+0x07563B2B Usa la rueda del ratón para acercar y alejar la vista.
+
+# EP1-FirstAdventure
+
+0x07D087E1 ¡Bienvenido a tu primera aventura!
+0x07D087E2 Tu capitán obtendrá experiencia una vez hayas completado esta aventura con éxito. ~p~Puedes seguir los avances de tu capitán en la Sporepedia. ~p~Cuando estés en el planeta, controlarás al capitán del mismo modo que controlabas a tu criatura en la fase de criatura. ~p~Veamos qué hay de nuevo...
+
+##Terrain Mode items
+
+0x0762143F Reparto disponible
+0x07621440 Todos los miembros del reparto añadidos desde la Sporepedia para ser usados en tu aventura aparecen aquí.
+0x0791911C Flora
+0x07919119 Terraformar
+0x0791911B Clima
+0x0791911A Elegir un tema
+0x079C153A Colores del terreno
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Presta atención para mantener tu nivel de energía lo bastante alto, o no podrás utilizar algunas de tus habilidades. ~p~Equipa a tu capitán con baterías y generadores para aumentar tu energía.
+0x079E7E25 Energía
+
+# EP1-ClickButtonAgain
+
+0x07763AD7 Modo construir de nuevo
+0x07763AD8 Haz clic de nuevo en el botón del modo construir.
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Haz clic derecho en el adversario en la paleta del reparto para centrar la cámara sobre él.
+0x075E5364 Mantén pulsada la tecla Mayús y utiliza el desplazamiento de la rueda central del ratón sobre el miembro del reparto para regular su tamaño.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Modo prueba
+0x075F5A4F Haz clic en el botón del modo prueba para probar tu aventura mientras estás creando.
+
+# New Join with Sword
+
+0x07BA7CC2 Objetivos de dos objetos (parte 2)
+0x07BA7DAE Busca o coloca el segundo objeto de este objetivo y arrastra el segundo marcador de objetivo sobre él para completar la orden.
+0x078E92E3 Selecciona el tipo de objetivo "Llevar...".
+0x07A814D8 Los objetivos "Llevar a" y "Bloquear" requieren dos objetos para completarse. Al menos uno de ellos debe ser móvil o poderse mover independientemente. "Llevar a" requiere que el capitán los junte. "Bloquear" requiere que el capitán los mantenga separados.
+0x07A81521 Toma un marcador de objetivo y suéltalo sobre el primero de los dos objetos que quieres que tengan como objetivo "Llevar a".
+0x07A81620 Coloca el segundo marcador del objetivo "Llevar a" sobre un objeto o criatura que pueda entrar en contacto con el primer objeto.
+0x07A81511 Objetivos de dos objetos
+
+# EP1-NameAdventure
+
+0x0771D3CE Nombre de la aventura
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A1 Todo lo que se añade a la aventura aparece aquí.
+0x076214A0 Éste es el panel del reparto usado.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paleta del reparto de criaturas
+0x075E079E Haz clic para seleccionar la paleta del reparto de criaturas.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 La barra de progreso registra cuántos objetivos se han cumplido y cuántos te quedan. ~p~Una vez la barra se ha llenado, la aventura se ha completado con éxito.
+0x079E8180 Barra de progreso
+
+# EP1-Vehicles
+
+0x0796C959 Seleccionar el botón de conducta del vehículo
+0x0796B4AC Paleta de vehículos
+0x0796B4AD Selecciona la paleta de vehículos para añadir vehículos a tu aventura.
+0x0796C41F Sitúa el cursor sobre el nuevo miembro del reparto para que se muestre el botón del panel de conducta.
+0x0796C41E Conducta del vehículo
+0x0796B623 Añadir un vehículo
+0x0771F308 Ajustar la conducta del vehículo
+0x0771F399 Arrastra el marcador de patrulla para indicar el segundo punto de la ruta de patrulla del vehículo.
+0x0771F293 Añade un vehículo de la Sporepedia al reparto. A continuación, colócalo en el mundo arrastrándolo desde la paleta.
+0x0796CC7D Haz clic en el botón Movimiento. Luego selecciona Patrulla.
+0x07D6257A Mantén pulsada la tecla Alt y arrastra sobre el marcador para añadir otro punto más allá del primero. El vehículo se moverá desde un extremo de la ruta de patrulla hasta el otro y luego hará el camino de vuelta.
+0x07D23877 "Ir a" es similar, solo que el personaje permanece en el último marcador.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Panel de sonido
+0x079694A7 Selecciona esta paleta para añadir sonidos y música a tu aventura.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A La ficha de misión te indica cuáles son los objetivos actuales. ~p~Completa todos los objetivos para pasar al siguiente acto.
+0x079E8049 Ficha de misión
+
+# EP1-SelectHero
+
+0x07578A4F Colocar capitán
+0x07578A50 El capitán es la estrella de la aventura.  Éste será el personaje del jugador.
+
+# EP1-TestModeIntro
+
+0x07632EEC Bienvenido al modo prueba
+0x07632EED El modo prueba permite jugar la aventura que estás creando y resolver sus problemas.~p~Cuando encuentres algo que quieras cambiar en la aventura, regresa al modo construir.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Haz clic en el botón del modo construir para seguir editando.
+0x075F5A50 Modo construir
+
+# EP1-Flora
+
+0x0771F197 Elige nueva flora que colocar en tu planeta. La flora se encuentra en el terreno vivo, cuando la temperatura es favorable.
+
+# EP1-DragGoal
+
+0x075F39B9 Coloca un marcador de objetivo sobre un miembro del reparto en el mundo para asignar objetivos al capitán.
+0x07971D33 Asignar un objetivo
+0x07971E8D Los marcadores de objetivos se utilizan para asignar objetivos al capitán en una aventura.  Los objetivos incluyen "Hablar con", "Dar", "Destruir" y "Trabar amistad con".
+
+##End
+
+0x0762407B Arrastra los sonidos hasta el mundo para colocarlos en tu aventura. Utiliza los reguladores para ajustar a qué distancia puede oírse el sonido y activarse su reproducción.
+
+# EP1-FirstClickThemesCategory
+
+0x076390F9 Selecciona la paleta de temas.
+0x076390FA Los temas proporcionan a tu planeta todo un nuevo estilo lleno de color.
+0x079207E3 Paleta de temas
+0x07920810 Temas
+
+#Test Mode Goal Cards
+
+0x07A80599 El modo prueba te permite saltarte objetivos haciendo clic en el marcador que aparece junto al objetivo.
+0x07A805ED Saltarse objetivos
+0x07A805F9 Saltarse actos
+0x07A805FE Puedes saltarte actos haciendo clic en las flechas de la parte superior de la ficha de misión.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Utiliza los reguladores de estampado para cambiar su tamaño, intensidad y orientación.
+
+# EP1-SelectCreature
+
+0x075E2C84 Añadir una criatura
+0x075E2C85 Haz clic y arrastra una criatura para colocarla en tu aventura.~p~Accede a la Sporepedia para seleccionar una criatura si no hay ninguna presente.
+
+# EP1-FirstClickTerraCategory
+
+0x07639102 Aquí puedes aplicar cambios al terreno, elegir la flora y ajustar el ambiente del planeta.
+0x07959720 Usa estos estampados para hacer que el terreno sea montañoso y accidentado.
+0x07958D39 Elige cualquier estampado de terreno y, a continuación, suéltalo sobre el planeta.
+0x0791F5B8 Montañas
+0x07B3A935 Selecciona la paleta de terreno para acceder a los estampados de terreno.
+0x07639101 Bienvenido al modo terraformar
+0x0791F5B7 Paleta de terreno
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Usa la conducta de generación para hacer que las criaturas se regeneren y se multipliquen.
+0x07A032FB Generación
+0x07A03155 Para asignar un límite de tiempo a un acto, haz clic en el botón "Temporizador del acto". A continuación, indica cuánto tiempo quieres dar a los jugadores para que cumplan los objetivos de dicho acto.
+0x07A03396 La frecuencia indica cada cuánto tiempo se produce una generación. El límite determina cuántos elementos pueden estar simultáneamente en el mundo.
+0x07A034A1 Los objetos del juego deberían probarse. Asegúrate de usar el modo prueba a menudo.
+0x07A033EF Los objetos del juego pueden usarse para que una aventura sea más estimulante y divertida.~p~Coge uno de la Sporepedia y colócalo en el mundo.
+0x07A033E5 Objetos del juego
+0x07A02DE0 Selecciona un objeto de mano en la Sporepedia, y arrástralo hasta el mundo.
+0x07A02DD5 Objeto de mano
+0x07A02E13 Los objetos de mano pueden recogerse, llevarse de un lado a otro y ser entregados a las criaturas.
+0x07A03149 Temporizador del acto
+0x07A0304F Para crear una ilustración para tu aventura, y que los jugadores la vean en la Sporepedia, coloca la cámara donde quieras.~p~A continuación, abre el panel de nombre y descripción y haz clic en el botón "Cámara".~p~Puedes elegir aquello que represente mejor tu aventura.
+0x07A02FFC Ilustración de portada de la aventura
+0x07A03553 Para tomar una fotografía de ilustración de portada en el modo prueba, haz clic en el botón "Cámara".~p~Aparecerá en el panel de nombre y descripción.
+
+# EP1-CamRotate
+
+0x07563B2A Haz clic con el botón central del ratón y mueve el ratón para rotar e inclinar la cámara. El manual proporciona una lista de teclas que puedes usar.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Edificios
+0x0762143A Tus creaciones del creador de edificios son un magnífico complemento para las aventuras. Los edificios pueden pertenecer a un equipo y transmitir mensajes al jugador. También pueden ser dañados por armas avanzadas. Los PNJ agresivos pueden atacar un edificio que sea neutral o que pertenezca al otro equipo.
+

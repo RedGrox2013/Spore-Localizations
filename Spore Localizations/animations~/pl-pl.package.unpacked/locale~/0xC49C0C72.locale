@@ -1,0 +1,454 @@
+﻿# EP1-ActPanel
+
+0x0771E7DB Okno aktu umożliwia zarządzanie celami i fabułą
+0x079A7CE1 Opis aktu
+0x079A7B8E Tutaj wpisz wprowadzenie do aktu. Gracze zobaczą je na początku aktu.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosfera
+0x07639100 Określ gęstość atmosfery. Gęste chmury wytwarzają pioruny. Rzadka atmosfera nie ochroni przed deszczem meteorytów!
+
+# EP1-TerraThemes
+
+0x0771EF15 Wybierz temat dla swojej planety.
+
+# Goal Tutorial Started No Available Goals
+
+0x07BB8BDD Dodawanie celów
+0x07BB8BDE Dla każdego aktu można wyznaczyć najwyżej trzy cele. Aby usunąć cel, kliknij LPM znajdującą się obok niego ikonę kosza, po czym wybierz ten samouczek ponownie z listy.
+
+# EP1-WinLoseText
+
+0x0771E83A Wpisz tekst zwycięstwa i porażki dla swojej przygody.
+0x07763B90 Tekst zwycięstwa/porażki
+
+# EP1-ClickGoalButton
+
+0x0762251C Okno celów
+0x0762251D Przydziel kapitanowi cele. Każdy akt może mieć do trzech celów, które można osiągać w dowolnej kolejności.~p~Akty muszą zawierać cele, aby gracze mogli wygrywać lub przegrywać przygodę.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Ustaw cel na „porozmawiaj z” albo „zbadaj”. Bohaterowie, pojazdy i obiekty mogą mieć po jednym takim celu („porozmawiaj z” lub „zbadaj”) na akt.
+
+# EP1-FirstClickBehaviorUI
+
+0x0771E112 Ustaw osobowość przeciwnika na agresywną.
+0x07621DD7 Zachowania
+0x0797266C Przetestuj swoje zmiany, przechodząc do tryb próby generalnej.
+0x077AD33C Ustaw maksymalny zasięg spostrzegawczości przeciwnika, aby mógł on zobaczyć kapitana.
+0x0779D3EF Osobowości
+0x0779B5E8 Wskaż kursorem paletę obsady, aby wywołać przycisk okna zachowania.
+0x0779B5E7 Okno zachowania
+0x077AC9A2 Umieść ten znacznik na aktorze, za którym ma podążać wybrany stwór.
+0x077AC9A1 Znacznik podążania
+0x077AC9D4 Przeciągnij znacznik podążania i umieść go na kapitanie w obszarze świata.
+0x077AD164 Określa, z jak dużej odległości dany aktor będzie wyczuwać inne obiekty i reagować na ich obecność.
+0x077AD163 Promień spostrzegawczości
+0x0779DB81 Kliknij przycisk ruchu, a następnie przycisk podążania.
+0x0775CE3E Dodaj aktora
+0x0779D3F0 Ustaw osobowość aktora, klikając odpowiedni przycisk. Osobowość może być na przykład pokojowa lub agresywna.
+0x0779DB5F Ten przycisk umożliwia ustawianie opcji ruchu aktorów. Dostępne są różne rodzaje ruchu, na przykład wędrówka, patrol, podążanie i brak (stwór pozostanie cały czas w tym samym miejscu).
+0x0779DB5E Ruch
+0x0779C5B4 Kliknij LPM przycisk okna zachowania.
+0x078D7B6F Po umieszczeniu kapitana kliknij prawym przyciskiem myszy panel bohatera, aby wyśrodkować kamerę na kapitanie w świecie gry.
+0x0775CE3F Jeśli nie masz jeszcze żadnego stwora, wybierz go ze Sporpedii i dodaj do palety obsady. Następnie przeciągnij go z palety obsady, aby umieścić w świecie gry nowy egzemplarz.
+0x07621DD8 Za pomocą okna zachowania możesz stworzyć przeciwnika dla swojego kapitana. Tutaj określa się osobowość, ruch, spostrzegawczość i drużyny.
+0x07B4EC8D Aby skopiować członka obsady, przytrzymaj wciśnięty klawisz ALT i kliknij członka obsady LPM, po czym przeciągnij kopię w nowe miejsce.
+0x07C74109 Wprowadzane zmiany są stosowane do wszystkich aktów. Kliknij LPM przycisk „Tryb globalny” aby go wyłączyć, a wszystkie zmiany wprowadzane dla tego członka obsady będą stosowane tylko do bieżącego aktu.
+0x07D23C43 Dobrze! Udało ci się nadać temu stworowi agresywną osobowość.
+0x07C743A7 Globalne zachowania
+0x07C742C5 Kliknij LPM przycisk „Zastosuj globalnie”, a wszystkie ustawienia dla tego członka obsady zastosowane w bieżącym akcie zostaną również zastosowane we wszystkich pozostałych aktach.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Paleta roślinności
+0x076390FE Uaktywnij paletę roślinności, by zmieniać roślinność na swojej planecie. Roślinność występuje tylko na żywym terenie i przy sprzyjającej temperaturze. Rośliny dzielą się na trzy kategorie: małe, średnie i duże.
+
+# EP1-TerraMood
+
+0x0771F108 Czas można zablokować lub pozwolić, aby płynął normalnie.
+0x0771EFA4 Ustaw w wybrany sposób tarczę pory dnia.
+0x0771F133 Suwak atmosfery określa grubość warstwy chmur. Rzadka atmosfera powoduje, że deszcze meteorytów docierają do powierzchni. Gęsta atmosfera powoduje z kolei powstawanie burz z piorunami.
+0x0796DD5B Paleta nastroju
+0x0796DE16 Wybierz paletę nastroju, by ustalić porę dnia, temperaturę, atmosferę i planetarny poziom wód.
+0x079732F0 Atmosfera
+0x079732D9 Pora dnia
+0x07A0112B Zablokuj czas
+0x07957E9C Temperatura planety
+0x07957EAD Suwak służy do określenia temperatury panującej na planecie.
+
+# Complexity Meter
+
+0x07957630 Wskaźnik złożoności informuje, jak bardzo można zmieniać planetę.
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x07970A15 Kliknij LPM przycisk kamery swobodnej, by włączyć lub wyłączyć ten tryb działania kamery.
+0x079709BB Kamera swobodna
+
+### Checklist UI ###
+
+0x07735BDC Lista kontrolna ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 W przygodach mogą występować pojazdy
+0x07621438 Pojazdy należą do obsady. Tak jak stwory, mają osobowości i zachowania, które im przydzielisz.
+
+### Tutorial Checklist
+
+0x079C1550 Zbuduj wioskę
+0x079C1527 Stwórz świat
+0x079C1570 Dodawanie osobowości
+0x079C1523 Zapisywanie
+0x079C1531 Podstawy sterowania
+0x079C152C Witaj
+0x0797355A Sterowanie kamerą
+0x07970BD9 Okno aktu
+0x079712E5 Cele wieloobiektowe
+0x07733143 Przydziel kapitanowi cel
+0x07733140 Umieść kapitana
+0x079692E4 Dodaj dźwięki
+0x07733141 Wybierz obsadę
+0x07733144 Określ zachowanie
+0x0796B1E0 Ustaw zachowania pojazdu
+0x07C7ABAA Wprowadzenie
+0x079C1586 Zrób grę
+0x079C1565 Umieść budynek
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x07A8F03A Stylista kapitański
+0x079E7D0F Wskaźnik energii informuje, ile energii zużywają niektóre umiejętności, a także ile energii magazynują oraz odtwarzają baterie i generatory. ~p~Jeśli zabraknie ci energii, używanie umiejętności będzie niemożliwe. ~p~Pociągnij uchwyt energii (jeśli dany sprzęt go ma), aby zwiększyć poziom umiejętności i zużycie energii urządzenia.
+0x079E7D0E Wskaźnik energii
+0x07A8F04B Witaj w na ekranie stylisty kapitańskiego. ~p~Wykonywanie misji przygodowych w trybie szybkiej gry i w fazie kosmosu odblokowuje nowe akcesoria dla Twojego kapitana. ~p~Pojawiają się one na karcie dodatków kapitańskich.
+
+# EP1- ShowActUI
+
+0x07635ED1 Okno aktów
+0x07972881 Tu możesz skonfigurować muzykę dla poszczególnych aktów.
+0x07972865 Muzyka aktu
+0x07635ED2 W oknie aktów możesz nadawać nazwy częściom przygody i opisywać je.~p~Przygoda może liczyć maksymalnie osiem aktów.~p~W tym oknie możesz też przydzielić muzykę do poszczególnych aktów.
+
+# EP1-AddSecondAct
+
+0x0771EAF8 Weź kijek z palety obiektów obsady.
+0x0771EAE0 Teraz dajmy kapitanowi jakieś zajęcie.
+0x0771EB72 Przeciągnij na kijek nowy cel dla aktu II.
+0x0771EB1C Umieść kijek na ziemi w pobliżu kapitana.
+0x0771EAC0 Kliknij tutaj LPM, aby dodać drugi akt. zanim będzie można dodać nowy akt, bieżący akt musi mieć określony cel.
+0x0771EC65 Ustaw typ celu na „daj”.
+0x0771ECB5 Wpisz tekst karty celu, który wyjaśni graczowi, że celem jest wręczenie przedmiotu.
+0x0771EC85 Ustaw drugi znacznik „daj” na wybranym stworze w świecie gry.
+0x0771ED0B Swoje dzieło możesz zapisać, klikając w dowolnej chwili LPM przycisk zapisu.
+0x078DB94B Kliknij LPM paletę obiektów nieruchomych.
+0x078DB6DF Obiekty nieruchome
+0x078DB94A Obiekty nieruchome
+0x078DB6E0 Aby zacząć, kliknij LPM dowolny obiekt nieruchomy i przeciągnij go na obszar świata.
+0x07763A67 Dodaj akt
+0x07B4E966 Zachowywanie przygód
+
+# Checklist
+
+0x07A3CFA7 Samouczki można włączyć na powrót w menu opcji.
+0x07912CD1 Lista kontrolna
+0x07912D11 Klikaj LPM kolejne pozycje listy kontrolnej, aby zapoznać się ze sposobem tworzenia przygody. ~p~Samouczki będą odblokowywały się samoczynnie podczas przechodzenia do kolejnych pozycji. ~p~Otwórz ją i kliknij LPM dowolną dostępną pozycję.
+
+# EP1-ShowMinimap
+
+0x0771E3F9 Minimapa ułatwia poruszanie się po przygodach. Widnieją na niej lokalizacje kapitana, celów i miejsce startu.
+0x0775F221 Minimapa
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Witaj w fabryce przygód
+0x0761D564 Twórz przygody, aby rzucać wyzwania graczom z całego świata. Zapoznaj się z dostępnymi narzędziami. ~p~Zaprojektuj swój świat, zaludnij go przeróżnymi stworami, wyznacz cele i zabaw graczy w SPORE swoją opowieścią.
+
+# Hint
+
+0x0771DE1F Tutaj wpisz tekst, aby zdefiniować kwestię aktora, która pojawi się w przygodzie.
+0x078D93DA Tekst rozmowy
+0x0771D3CF Kliknij lewym przyciskiem myszy okno z nazwą i opisem, aby nadać swojej przygodzie tytuł.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07D087DF Wybierz swojego kapitana!
+0x07D087E0 Stwórz kapitana od podstaw lub wybierz dowolnego stworzonego przez siebie stwora, klikając filtr „Wszystko”. ~p~Twój kapitan będzie zyskiwał doświadczenie (punkty przygód) za każdym razem, kiedy uda Ci się pozytywnie ukończyć przygodę. ~p~Doświadczony kapitan zyskuje dostęp do nowego wyposażenia i akcesoriów. ~p~Wybierz kapitana, by rozpocząć podróż.
+
+# EP1-PlayModeMinimap
+
+0x079E8123 Minimapa
+0x079E8124 Minimapa pomaga podczas poruszania się po planecie. ~p~Widnieją na niej lokalizacje kapitana, celów i miejsca startu.
+
+# EP1-ClickTestModeButtonAgain
+
+0x0771E63F Teraz ponownie przetestuj swoją przygodę.
+0x07763C47 Ponownie próba generalna
+
+# EP1-Audio
+
+0x0796A67A Jeśli nie masz jeszcze dźwięków, wybierz obiekt dźwiękowy ze Sporpedii, a potem przeciągnij go na obszar świata. Wskaż dźwięk kursorem, aby go posłuchać.
+0x0796A679 Obiekty dźwiękowe
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Paleta obiektów nieruchomych
+0x0762143E Obiekty nieruchome mogą stanowić dekoracje ułatwiające orientację w terenie. Do tej kategorii należą też narzędzia i obiekty, które można podnosić, przemieszczać, wręczać innym stworom lub przewracać.
+
+# EP1-PaintModeIntro
+
+0x076756BA Tryb terenu
+0x076756BB Tryb terenu obejmuje narzędzia i tematy służące do kolorowania planety przygody.
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+
+0x0771F201 Aby zmienić zasięg dźwięku wskaż obiekt kursorem, przytrzymaj Shift i użyj kółka myszy.
+0x0771F1F1 Umieść wybrany dźwięk na obszarze świata.
+0x0795826C Aby zmienić nachylenie obiektu, wybierz go i przesuwaj pierścień obrotu.
+0x07972C1C Aby zmienić głośność, wybierz obiekt i przeciągnij uchwyt głośności.
+
+# Add a building
+
+0x079AC52F Dodaj budynki
+0x07C7361C Praca z budynkami
+0x07C73644 Przytrzymaj wciśnięty klawisz Tab i wskaż myszą budynek, aby odsłonić uchwyty do obracania i nachylania. Przytrzymaj wciśnięty klawisz Alt i przeciągnij myszą budynek, aby go skopiować. ~p~Stwory i pojazdy mogą nie być w stanie przecisnąć się pomiędzy budynkami, które znajdują się zbyt blisko siebie.
+0x07BB5926 Umieść budynki
+0x079AC7EF Jeśli jeszcze nie masz wybranego żadnego budynku, wybierz jeden w Sporpedii i przeciągnij go na obszar świata.
+0x079AC545 Aby rozpocząć tworzenie wioski, wybierz paletę budynków.
+
+# EP1-DragCreature
+
+0x075E4E54 Kliknij stwora LPM i przeciągnij go na obszar świata w pobliżu kapitana
+
+# EP1-DragHero
+
+0x07577C95 Kliknij LPM okno bohatera i przeciągnij kapitana na obszar świata.
+
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+
+0x0771EF59 Suwaki służą do sterowania kolorami terenu martwego i żywego. Różnica może być czasem niewidoczna.
+
+# EP1-ShowSpeedButtons
+
+0x0771E42C Aby przyśpieszyć upływ czasu w świecie, kliknij LPM jeden z tych przycisków.
+0x0771E735 Kliknij LPM przycisk trybu budowy, aby kontynuować edycję.
+0x0771E683 Tekst wpisany w oknie celu pojawi się na karcie celu.
+0x07763BB6 Przyciski szybkości
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Przytrzymaj PPM i poruszaj myszą po planecie, aby się rozejrzeć
+
+# EP1-Teams
+
+0x0771F3ED Aby stwór znalazł się w drużynie kapitana, przydziel go do drużyny A.
+0x0771F410 Drużyna B to zawsze przeciwnicy kapitana.
+0x0771F426 Brak przydziału do drużyny oznacza, że dana postać będzie neutralna.
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Malowanie planet
+0x076390FC Tereny mogą być kolorowane według wysokości przy użyciu „Malarza terenu”. Bieżący kolor odpowiada motywowi twojej planety.
+0x07BBAF6C Aby ustalić kolor wody, atmosfery, plaż i klifów, kliknij LPM ich ikonę, a następnie wybierz kolor z dostępnych do wyboru w palecie kolorów.
+0x07BBAF80 Próbuj zmieniać kolory do momentu uzyskania pożądanego efektu.
+0x07BBAF62 Klify, Plaże, Atmosfera, Woda
+0x07D2278E Przesuń znacznik wysokości na wysokość, którą chcesz pokolorować.
+0x07973230 Koloruj wg wysokości
+0x079731E7 Wybierz paletę malowania planet.
+0x07DB8058 Stwórz nową warstwę kolorystyczną, klikając lewym przyciskiem myszy pasek poziomu terenu.
+0x07D2274B Wybierz kolor dla tego znacznika z palety kolorów. Możesz go później usunąć poprzez ściągnięcie go z palety.
+
+# EP1-ShowMissionUI
+
+0x07634DAC Karty misji przygody
+0x07634DAD Karty misji informują gracza, co jest bieżącym celem.
+
+# EP1-CamZoom
+
+0x07563B2B Kółko myszy służy do zbliżania i oddalania obrazu
+
+# EP1-FirstAdventure
+
+0x07D087E1 Witaj w Twojej pierwszej przygodzie!
+0x07D087E2 Twój kapitan będzie zyskiwał doświadczenie za każdym razem, kiedy ukończysz z sukcesem przygodę. ~p~Możesz śledzić postępy swojego kapitana w Sporpedii. ~p~Na planecie będziesz kontrolować swojego kapitana w ten sam sposób, jaki był stosowany w fazie stwora. ~p~Zobaczmy, co jest nowego...
+
+##Terrain Mode items
+
+0x0762143F Dostępna obsada
+0x07621440 Tu pojawia się cała dodana ze Sporpedii obsada, którą można wprowadzać do przygody.
+0x0791911C Roślinność
+0x07919119 Terraformowanie
+0x0791911B Pogoda
+0x0791911A Wybór tematu
+0x079C153A Kolorystyka terenu
+
+# EP1-PlayModeEnergy
+
+0x079E7E26 Staraj się utrzymywać wysoki poziom energii. W przypadku niskiej energii używanie niektórych umiejętności będzie niemożliwe. ~p~Wyposaż kapitana w baterie i generatory, aby zwiększyć jego zapas energii.
+0x079E7E25 Energia
+
+# EP1-ClickButtonAgain
+
+0x07763AD8 Kliknij ponownie LPM przycisk trybu budowy.
+0x07763AD7 Ponownie tryb budowy
+
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+# EP1-ScaleCreature
+
+0x07749011 Kliknij PPM przeciwnika w palecie obsady, aby wyśrodkować na nim kamerę.
+0x075E5364 Przytrzymaj klawisz Shift i użyj kółka myszy, wskazując członka obsady kursorem. W ten sposób zmienisz rozmiar stwora.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Próba generalna
+0x075F5A4F Kliknij LPM przycisk próby generalnej, aby sprawdzić tworzoną przygodę.
+
+# New Join with Sword
+
+0x07A81511 Cele dwuobiektowe
+0x078E92E3 Wybierz cel „połącz”.
+0x07A81521 Chwyć znacznik celu i upuść go na pierwszy z dwóch obiektów, które chcesz połączyć.
+0x07A81620 Umieść drugi znacznik celu „połącz” na obiekcie lub stworze, w kontakt z którym ma wejść pierwszy obiekt.
+0x07A814D8 Cele „połącz” oraz „zablokuj” wymagają dwóch obiektów do osiągnięcia. Przynajmniej jeden z nich musi być ruchomy, lub poruszać się samodzielnie. Cel „połącz” wymaga od kapitana, by zaniósł jeden obiekt w pobliże drugiego. Cel „zablokuj” wymaga od kapitana, by trzymał je z daleka od siebie.
+0x07BA7CC2 Cele z dwoma obiektami (część 2)
+0x07BA7DAE Znajdź lub umieść drugi obiekt dla tego celu i przeciągnij na niego znacznik drugiego celu, aby dokończyć zdanie.
+
+# EP1-NameAdventure
+
+0x0771D3CE Nazwa przygody
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 To jest okno wykorzystanej obsady
+0x076214A1 Tu pojawiają się wszystkie elementy umieszczone w przygodzie.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Paleta obsady
+0x075E079E Kliknij LPM, by uaktywnić paletę obsady.
+
+# EP1-PlayModeProgressBar
+
+0x079E8181 Pasek postępu informuje, ile celów osiągnięto i ile pozostało jeszcze do osiągnięcia. ~p~Po wypełnieniu całego paska przygoda zakończy się sukcesem.
+0x079E8180 Pasek postępu
+
+# EP1-Vehicles
+
+0x0796C959 Kliknij przycisk zachowania pojazdu
+0x0796B4AC Paleta pojazdów
+0x0796B4AD Wybierz paletę pojazdów, aby dodawać pojazdy do przygody.
+0x0796C41F Wskaż kursorem nowego aktora, aby wywołać przycisk zachowania.
+0x0796C41E Zachowanie pojazdu
+0x0796B623 Dodaj pojazd
+0x0771F308 Ustaw zachowanie pojazdów
+0x0771F399 Przeciągnij znacznik patrolu na drugi punkt trasy patrolowej pojazdu.
+0x0771F293 Dodaj swojej obsadzie pojazd ze Sporpedii. Umieść go w świecie, przeciągając z palety.
+0x0796CC7D Kliknij LPM przycisk ruchu. Następnie wybierz „Patrol”.
+0x07D23877 Cel „podejdź do” jest bardzo podobny. Różni się tylko tym, że postać pozostaje na ostatnim znaczniku.
+0x07D6257A Aby ustawić kolejny punkt, przytrzymaj wciśnięty klawisz Alt i przeciągnij znacznik. Pojazd będzie poruszał się z jednego końca drogi patrolowej na drugi i z powrotem.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Okno dźwięku
+0x079694A7 Wybierz tę paletę, aby dodawać do przygody dźwięki i muzykę.
+
+# EP1-PlayModeGoalCard
+
+0x079E804A Karta misji informuje o bieżących celach. ~p~Osiągnij wszystkie cele, a przejdziesz do następnego aktu.
+0x079E8049 Karta misji
+
+# EP1-SelectHero
+
+0x07578A4F Umieść kapitana
+0x07578A50 Kapitan jest gwiazdą przygody. Będzie to postać gracza.
+
+# EP1-TestModeIntro
+
+0x07632EEC Witaj na próbie generalnej
+0x07632EED Próba generalna umożliwia przetestowanie tworzonej przygody i wykrycie ewentualnych błędów.~p~Gdy natrafisz na coś, co zechcesz zmienić, wróć do trybu budowy.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A51 Kliknij LPM przycisk trybu budowy, aby wrócić do edycji.
+0x075F5A50 Tryb budowy
+
+# EP1-Flora
+
+0x0771F197 Wybierz nową roślinę, którą chcesz umieścić na planecie. Roślinność może rosnąć tylko na żywym terenie i tylko w sprzyjającej temperaturze.
+
+# EP1-DragGoal
+
+0x075F39B9 Umieść znacznik celu na aktorze na obszarze świata, aby wyznaczyć cel dla kapitana.
+0x07971E8D Znaczniki celów służą do wyznaczania celów dla kapitana w przygodzie. Do celów należą na przykład „porozmawiaj”, „daj”, „zniszcz” czy „zaprzyjaźnij się”.
+0x07971D33 Przydziel cel
+
+##End
+
+0x0762407B Umieszczaj w przygodzie dźwięki, przeciągając je na okno świata. Za pomocą uchwytów możesz określać, w jakiej odległości dźwięk będzie można usłyszeć (a więc w jakiej odległości od gracza zostanie aktywowany).
+
+# EP1-FirstClickThemesCategory
+
+0x076390FA Tematy nadają twojej planecie wyrazisty styl kolorystyczny.
+0x079207E3 Paleta tematów
+0x07920810 Tematy
+0x076390F9 Wybierz paletę tematów.
+
+#Test Mode Goal Cards
+
+0x07A80599 Tryb próby umożliwia pomijanie celów przez klikanie LPM znacznika przy celu.
+0x07A805ED Pomijanie celów
+0x07A805F9 Pomijanie aktów
+0x07A805FE Aby pominąć cały Akt, kliknij LPM strzałkę u góry karty celów.
+
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+
+0x0771EEA4 Uchwyty pieczęci służą do zmieniania jej wielkości, nasycenia i orientacji.
+
+# EP1-SelectCreature
+
+0x075E2C84 Dodaj stwora
+0x075E2C85 Kliknij LPM i przeciągnij stwora, by umieścić go w swojej przygodzie.~p~Jeśli nie ma żadnych stworów, przejdź do Sporpedii, by jakiegoś wybrać.
+
+# EP1-FirstClickTerraCategory
+
+0x07639102 Tutaj możesz modyfikować teren, dobierać roślinność i określać nastrój planety.
+0x07639101 Witaj w trybie terraformowania.
+0x0791F5B7 Paleta terenu
+0x07959720 Pieczęcie te służą do tworzenia terenu górskiego i nierównego.
+0x07958D39 Wybierz dowolną pieczęć terenu, a następnie przeciągnij ją i upuść na planetę.
+0x0791F5B8 Góry
+0x07B3A935 Wybierz paletę terenów, aby uzyskać dostęp do zagłębień terenu.
+
+##### Stuff added by Peter Just in Case
+
+0x07A0336D Dzięki odradzaniu stwory mogą się odtwarzać i rozmnażać.
+0x07A032FB Odradzanie
+0x07A03396 Częstotliwość określa, jak często następuje odradzanie. Limit decyduje o tym, ile stworów może równocześnie przebywać w świecie gry.
+0x07A034A1 Obiekty rozgrywki należy sprawdzać. Pamiętaj o częstym używaniu trybu próby generalnej.
+0x07A033EF Za pomocą obiektów rozgrywki możesz sprawić, że Twoja przygoda będzie ciekawsza i zabawniejsza. ~p~Wybierz obiekt ze Sporpedii i umieść go na obszarze świata.
+0x07A033E5 Obiekty rozgrywki
+0x07A02DE0 Wybierz obiekt ręczny ze Sporpedii i przeciągnij go na obszar świata.
+0x07A02DD5 Obiekt ręczny
+0x07A02E13 Obiekty ręczne można podnosić, nosić ze sobą i dawać innym stworom.
+0x07A03149 Zegar aktu
+0x07A02FFC Okładka przygody
+0x07A03553 Podczas testowania możesz zrobić zdjęcie na okładkę przygody. W tym celu kliknij LPM przycisk kamery. ~p~Zdjęcie to pojawi się w oknie nazwy i opisu.
+0x07A03155 Aby ustawić limit czasowy aktu, kliknij LPM przycisk zegara aktu. Następnie podaj czas, jaki będą mieć gracze na osiągnięcie wszystkich celów.
+0x07A0304F Aby stworzyć okładkę przygody, którą gracze będą widzieli w Sporpedii, ustaw kamerę w odpowiednim miejscu. ~p~Następnie otwórz okno nazwy i opisu i kliknij LPM przycisk kamery.~p~Możesz wybrać taką okładkę, która najlepiej pasuje do treści przygody.
+
+# EP1-CamRotate
+
+0x07563B2A Kliknij ŚPM i poruszaj myszą, aby obracać i pochylać/odchylać kamerę. W instrukcji znajdziesz listę klawiszy, których możesz również używać.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Budynki
+0x0762143A Twoje dzieła z fabryki budynków mogą znakomicie wzbogacić tworzone przygody. Budynki mogą należeć do drużyn i mówić do gracza. Mogą też zostać uszkodzone przez zaawansowane uzbrojenie. Agresywne postaci niezależne mogą atakować budynki neutralne lub należące do innych drużyn.
+

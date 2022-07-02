@@ -1,0 +1,222 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x000000AE ...
+0x0000001D Vi är intresserade av konceptet med icke-destruktiv terraformering. Skulle du vilja ge oss en demonstration?
+0x00000007 Som en del av vårt uppdrag i att förstå det ömsesidiga beroendet för alla levande ting vill vi ha en demonstration av dina terraformeringsfärdigheter. Kan du resa till ~mission_target_star~ och demonstrera din kunskap om ekometrik?
+0x00000067 Äh. Jag lägger av!
+0x000000D7 Är det någon speciell ritual som du vill ska utföras efter din död?
+0x0000002E Planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~. Spode välsigne dig.
+0x00000069 Okej. Jag förstår nu. Tack.
+0x0000001E Planeten ~mission_target_planet~ är lämplig för terraformering. Vi skulle vara intresserade av att veta om detta är något som du kan klara av.
+0x00000066 Det här var jobbigt. Jag lägger av.
+0x0000009E Spode känner ditt förräderi, och Spode glömmer aldrig!
+0x0000002A Får jag fråga en sak till?
+0x000000E2 Jag hoppas att du förstår.
+0x000000D4 Inte? Vi förstår inte!
+0x0000002D Planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~.
+0x000000B4 Vi vill studera spridningen av organiskt liv, så att vi kan förhindra det när så behövs. Du ska hjälpa oss.
+0x000000D5 En order från Groxerna bör åtlydas!
+0x000000B7 Planeten ligger i stjärnsystemet ~mission_target_star~. Information tyder på:~p~~group:star_clue~.
+0x00000008 Planeten ~mission_target_planet~ har bedömts vara en lämplig kandidat för terraformering. Våra egna terraformeringsenheter är upptagna med annat, men vi tänkte att du kanske kunde utföra det här uppdraget åt oss. Skulle du vilja hjälpa oss utöka det galaktiska livsnätet?
+0x00000068 Nej, jag vill inte. Tyvärr.
+0x00000091 Jag har en sak till att diskutera.
+0x000000D6 Inte för att klaga, men du verkar väldigt virrig idag.
+0x0000009D Du slösar med vår tid.
+0x00000089 Gott. Då får våra egna preparera planeten för kolonisering. Farväl.
+0x000000BC Javisst ja! Uppdragsloggen, jag kollar där!
+0x000000C7 Stjärnan är ~mission_clue_range_min~ till ~mission_clue_range_max~ parsek från ~mission_clue_landmark1~
+0x000000A2 Du bryter ditt kontrakt?! Våra advokater hör av sig.
+0x00000035 Okej, varför inte. Jag gör det.
+0x000000B5 Terraformera planet ~mission_target_planet~ till ~mission_terraform_target_score~ terra-poäng.
+0x00000087 Om du inte vill så vill du inte. Hej då!
+0x000000AB Jag skulle vilja gå igenom detaljerna i mitt uppdrag igen.
+0x000000DF Hemskt ledsen att jag störde. Farväl.
+0x000000BD Javisst ja! Uppdragsloggen, jag kollar där!
+0x000000DB Jag gör hellre något annat.
+0x0000006C Jaha, okej. Så kan det gå. Hej då!
+0x00000034 Planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~, och återvänd därefter.~p~~group:star_clue~.
+0x0000008E Din oförmåga är noterad för utvärdering vid framtida arbetstillfällen.    Farväl.
+0x000000A1 Uppdraget var kanske lite för svårt? Förvånar mig inte det minsta.
+0x00000086 UPPDRAGSTATUS: Vilande, nekat av uppdragstagare.~p~UTTRYCK FÖR OERHÖRD IRRITATION: Må den mäktiga ultra-mega-faunan på Coprolite-2 släppa deras hundradagarsansamling av flottiga burgare direkt över dig och ditt patetiska lilla rymdskepp!~p~ANLEDNING/ÖVRIGT: Du vet mycket väl vad du har gjort. Skäms!
+0x000000DE Jag ber om att få slippa detta uppdrag.
+0x0000006F Kan jag fråga dig en annan sak?
+0x00000014 Vi har hittat en sliten gammal planet som vi vill fräscha upp! Skulle du vilja demonstrera dina dekorationsfärdigheter?
+0x000000DD Jag har inte längre tid för det här uppdraget.
+0x00000025 För tufft. Nej tack.
+0x0000003B Terraformering är mot naturen!
+0x00000070 Jag har en sak till jag vill prata om.
+0x0000006D Jag hoppas att du förstår.
+0x00000030 Planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~, och återvänd därefter.
+0x0000001F Kan jag få lite mer information?
+0x000000C6 Stjärnan ligger ungefär  ~mission_clue_distance~ parsek från ~mission_clue_landmark1~
+0x00000009 Vårt uppdrag är att sprida liv i hela galaxen. Du kan hjälpa oss genom att terraformera planeten ~mission_target_planet~. Kan du tänkas vara intresserad av den här uppgiften?
+0x00000038 Visst, jag gör det. Ni kan räkna med mig.
+0x00000088 De otrogna skola icke bidra till Spodes skapelse. Farväl.
+0x00000028 Jag ska göra som ni begär.
+0x000000A0 Har du funderat på hjärnimplantat?  Det kanske skulle hjälpa dig.
+0x000000AC Vad var det ni ville att jag skulle göra igen? Mina anteckningar är lite luddiga.
+0x00000050 Terraformering är alltid väldigt tillfredsställande. Hej då.
+0x0000006A Aha! Jag förstår. Hej då!
+0x00000085 Hertiginnan blir inte nådig när hon får höra talas om sveket mot henne och hennes mini-oogies! Vi får dra strån om vem som ska få tala om det här för henne~p~Tjing för att det inte blir jag!
+0x00000021 Kan jag få lite ledning?
+0x00000093 Det här uppdraget passar helt enkelt inte. Hejdå.
+0x000000A9 Jag måste gå igenom mitt uppdrag igen.
+0x000000E0 Tills vi ses igen. Farväl.
+0x00000011 En värld har funnits som kan vara lämplig för kolonisering när en ordentlig ekologi har upprättats. Våra egna terraformeringsbesättningar är upptagna med andra projekt. Skulle du vara intresserad av att terraformera en värld åt oss?
+0x000000E1 Jag ser att du är upptagen. Vi får pratas vid senare.
+0x0000006B Jag förstår. Jag kommer snart tillbaka.
+0x000000B6 Bra gjort! Återvänd till ~mission_source_planet~.
+0x0000004D Får jag fråga en sak till?
+0x0000007F Jag ska få ordning på det här på nolltid!
+0x00000082 Oh, kompis. Kompis? Koooompis!~p~Det är inte bara  oss du skadar. Du skadar också ObsequiCorp, och hela ObsequiCorp-familjen, alla våra systerbolag, delägare, underleverantörer, paraplyorganisationer, skalbolag och alla engagerade underkonsulter som du själv.~p~Vi bad dig inte bara att göra ett jobb. Nej, vi bad dig att gå med i en familj, ObsequiCorp-familjen.
+0x00000063 Jag skulle vilja fråga om en annan sak.
+0x000000AA Jag har glömt detaljerna i mitt uppdrag.
+0x000000A6 Kanske en annan gång. Farväl.
+0x0000004F Det där var kul! Vi ses!
+0x000000BA Återvänd till ~mission_source_planet~ i systemet ~mission_source_star~ för att få din belöning.
+0x00000080 Du kan räkna med mig!
+0x000000A8 Jag ser att du behöver ta igen dig lite. Vi ses.
+0x000000B1 Vi vill få kala planeter att blomma. Kan du hjälpa oss?
+0x00000036 Äh. Jag har inget bättre för mig.
+0x0000008B Synd. Vi hoppades att dessa komplexa göromål inte var helt utom din kapacitet.
+0x000000B3 Vi vill se dina terraformkunskaper. Planet ~mission_target_planet~är tillgänglig för en demonstration.
+0x0000007D Jag är strax tillbaka.
+0x00000097 Okej om du vägrade att göra uppdraget från början, men nu? Det är nästan sabotage!~p~Vi har förlorat värdefull tid genom att tro på att du skulle hjälpa oss.~p~Jag inser nu att det var lika dumt av oss att hyra in dig som när vi struntade i att hela Stora kolaberget försvann!
+0x00000037 Låter som om det kunde vara kul. Jag är med.
+0x0000007E En planet med extra allt! Kommer!
+0x00000032 Planeten ~mission_target_planet~ finns i stjärnsystemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~.~p~~group:star_clue~.
+0x0000003C Jag beklagar, men jag måste tyvärr avböja.
+0x0000008D Tja, du kan väl inte hjälpa om du inte är ett med naturen, som vi är.
+0x000000B2 Planet ~mission_target_planet~ behöver en biosfär. Du ska förse den med en.
+0x00000039 Alla planeter är perfekta precis som de är!
+0x00000023 Uff. Terraformering är jobbigt. Nej tack.
+0x00000031 Den outsägligt trista planeten ~mission_target_planet~ finns i systemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~ så ska vi ha en stor fest och fira dig.
+0x00000095 Ja, förlåt. Vi ses.
+0x00000096 Vi är väl fortfarande vänner? Farväl.
+0x000000A7 Jag ser att du är upptagen. Vi får pratas vid senare.
+0x00000015 Det är inget fel med systemet ~mission_target_star~, men det är en trist samling gamla planeter! Vi skulle vilja liva upp grannskapet med en "tres chic" omstajlning! Skulle du vilja göra det åt oss?
+0x0000001B Planeten ~mission_target_planet~ är som en orörd duk som väntar på penselns första kyss! Skulle du vilja åta dig att måla den?
+0x00000022 Vilken är den bästa vägen dit?
+0x00000026 Eh. Det är inte riktigt min grej.
+0x00000094 Det känns bara inte rätt, förstår du? Hej så länge.
+0x0000002B Jag har en sak till jag vill ta upp.
+0x0000008A Det är modigt av en art att så rättframt erkänna sin totala oförmåga. Farväl.
+0x000000A5 Förlåt att vi störde. Farväl.
+0x00000033 Planeten ~mission_target_planet~ finns i stjärnsystemet ~mission_target_star~. Terraformera den här världen tills den når terraformeringsnivån ~mission_terraform_target_score~, och låt oss sedan veta så att vi kan skicka våra glada kolonister att leva i harmoni med den här nya världen.
+0x0000009A Haha! Tror du att du bara kan lägga av? Din lilla ski...~p~Du kan inte sluta nu! Ingen bara lämnar våra uppdrag så där, och särskilt inte detta !~p~Egentligen borde vi spränga dig och ditt lilla leksaksrymdskepp dit pepparn växer, men vår privata krigskonsult, Mörkvätsko,är upptagen med att kväsa ett bonduppror för tillfället.~p~Du hade tur den här gången!
+0x00000065 Du sa inte att det här skulle vara svårt. Jag lägger ner.
+0x000000BE T-poängen på planeten ~mission_target_planet~ har förbättrats. Placera ut växter för balansens skull.
+0x000000C8 Namnet på stjärnan är ~mission_target_star~
+0x000000D3 ~group:star_clue~.~p~Du kan börja.
+0x00000076 Jag hoppas att du förstår.
+0x000000B8 Din belöning finns i stjärnsystemet ~mission_source_star~ system.
+0x00000010 Vi är intresserade av att ta reda på så mycket som möjligt om universum, vilket självklart innefattar våra grannar och deras teknologi. En lämplig värld har hittats i systemet ~mission_target_star~. Skulle du vara intresserad av att ge oss en demonstration av dina förmågor? Som tack för ditt samarbete erbjuder vi dig en passande belöning.
+0x000000A3 Ger du upp? Nåja, universum har många vägar.
+0x000000AD Jag måste tyvärr tacka nej.
+0x00000027 Fortsätt, jag lyssnar.
+0x00000077 Data indikerar följande: ~group:star_clue~.~p~Vi ser fram emot att du visar vad du går för.
+0x000000D2 Härligt! ~p~~group:star_clue~.~p~Vi ser fram emot att besöka planetens nya trädgård!
+0x000000A4 Ibland, när man slås av sin egen inkompetens är det lika bra att ge upp.
+0x00000084 Grrrrr.~p~Om du inte vill ta ett jobb ska du väl inte gå runt och fråga efter det. Vad är det för fel på dig?~p~Äh! Vi är rika och mäktiga. Mucka inte med oss. Jag tror inte att du skulle bråka med oss om du visste vilken typ av organismer vi var.
+0x0000009C UPPDRAGSSTATUS: Vilande: nekat av uppdragstagare.~p~UTTRYCK FÖR OERHÖRD IRRITATION: Aaaaaaaaaaaaaaaaaaaaaaaaaa! Vad ska vi ta oss till?~p~ANLEDNING/ÖVRIGT: Vi vet inte vad vi ska göra, men du vet mycket väl vad du har gjort.
+0x0000000A Det är vår uppgift, given till oss av Spode själv, att förvandla ofruktbara platser i universum till fruktbara. En ofruktbar värld har hittats i systemet ~mission_target_star~. Skulle du vara intresserad av att befolka den med Spodes praktfulla skapelser?
+0x00000064 Får jag fråga dig en sak?
+0x00000083 Fördömt!~p~Hoppsan. Snälla, ursäkta mitt utbrott. Jag försäkrar dig att mina utrop inte var ämnade för dig. Snälla, skada oss inte!~p~Du behöver inte hjälpa oss att skydda oss från dessa Planetmobbningssaker. Men snälla, begå inget PMS själv! Snälla! Vi ber dig!
+0x0000007B ~group:star_clue~.~p~Ta denna osynliga amulett som ljus på din väg.
+0x0000003A Terraformering är onaturligt!
+0x0000007C Visst. Effektivitet är bra.
+0x00000090 Kan jag fråga dig en annan sak?
+0x0000001C Om planeten ~mission_target_planet~ terraformerades skulle den utgöra en utmärkt framskjuten militärbas. Skulle du vilja hjälpa oss att utföra detta arbete?
+0x0000001A Våra siare berättar att världsanden för det öde systemet ~mission_target_planet~ åtrår en befolkning som förstår och vårdar den. Kanske skulle du kunna göra den lämplig för vår koloni?
+0x000000DC Jag måste avsäga mig den här uppgiften.
+0x00000019 Vi är mycket intresserade av själen från ~player_creature_name~, och det finns inget som visar själen så tydligt som dess skapelser. Vi har hittat en öde planet i systemet ~mission_target_star~ och vi vill att du visar din själ genom att terraformera den. Kan du avslöja din själ för oss?
+0x00000016 Hela galaxen hyser en djup respekt för din kunskap och makt. Kanske kan denna eländiga varelse fresta dig att visa upp dina färdigheter i terraformering i stjärnsystemet ~mission_target_star~. Kan du tänka dig en demonstration mot en storslagen belöning?
+0x00000012 Planeten ~mission_target_planet~ är lämplig för terraformering. Detta är ett stort åtagande och vi undrar om ~player_creature_name~ kan klara av det?
+0x00000013 Vi vill skapa en ny partyplanet! Den behöver milda brisar, pittoreska landskap, varierande grönska som kan omvandlas till utsökta drycker, och några intressanta djur. Skulle du vilja bygga det åt oss?
+0x000000BF Succé! Återvänd till systemet ~mission_source_star~.
+0x0000000E Vår undersökning av planeten ~mission_target_planet~ indikerar att den är lämplig för terraformering. Stora rådet vill kolonisera planeten omedelbart. Kan du hjälpa oss att terraformera planeten ~mission_target_planet~?
+0x0000000F Planeten ~mission_target_planet~ anses av Stora rådet vara lämplig för terraformering. Kan du hjälpa oss med vårt koloniserings- och civilisationsuppdrag?
+0x00000072 Dessutom ...
+0x0000002C Dessutom ...
+0x00000059 Du har ju inte gjort färdigt jobbet på ~mission_target_planet~. Är du dålig på att terraformera? Eller har du råkat radera informationen från din Uppdragslogg?
+0x000000D9 Dessutom ...
+0x0000009F Tänker du inte slutföra det här uppdraget? Jag informerar genast Stora rådet. Farväl.
+0x000000D8 Innan jag går har jag andra frågor ...
+0x00000092 Dessutom ...
+0x0000000D Stora rådet har givit hög prioritet till att förbereda planeterna för kolonisering av vår federation. En sådan sannolik planet har nyligen upptäckts omkring stjärnsystemet ~mission_target_star~. Skulle du vara intresserad av att hjälpa oss att terraformera den här världen?
+0x00000042 UPPDRAGSSTATUS: Slutförd. Planeten ~mission_target_planet~ har nu terraformeringsnivån ~mission_terraform_target_score~.~p~BETALNING: ~mission_rewards~.~p~MEDDELANDE MED BERÖM: För en underlägsen och proteinbaserad organism är du inte så illa. Du satte den!
+0x00000044 Planeten ~mission_target_planet~ solar sig i Spodes godhet. Ta ~mission_rewards~. Och ta ett exemplar av vår heliga skrift på vägen ut.
+0x0000003D Det är de bästa nyheterna vi har hört på Grox tid!~p~Vi ska omedelbart börja skicka ut hurtfriska pionjärer till planeten ~mission_target_planet~. Deras resa kommer att vara svår, och den kommer att följas av svårigheterna med att bygga upp denna vidunderliga nya värld.~p~Deras oförskräckta uppoffringar kommer dock att göra det enklare för oss här nere.~p~Som tack ger vi dig här ~mission_rewards~.
+0x0000003E Åh, det här är super-duper-bra nyheter, kompis!~p~Våra behållare började precis bli fulla. Vi har en full laddning konsumenter redo att placera ut på planeten ~mission_target_planet~!~p~De kommer att börja köpa ObsequiCorp-produkter (exklusivt) på nolltid. Det finns inget behov som ObsequiCorp inte kan uppfylla.~p~Vilket påminner mig, här är dina ~mission_rewards~, kompis. Snyggt jobbat!
+0x00000002 Kompis, vi har ett kanonprojekt på gång. Kolla:~p~Vi odlar designerkonsumenter för vårt moderbolag ObsequiCorp.~p~Vi vill att du terraformar planeten ~mission_target_planet~ i systemet ~mission_target_star~.~p~Om du kan höja planetens terraformeringsnivå till ~mission_terraform_target_score~ kan vi placera ut våra konsumentarter på planeten ~mission_target_planet~ och börja generera vinster åt ObsequiCorp.~p~Och kompis, det är värt ~mission_rewards~.
+0x00000040 He he he he, polarn. Bra jobbat. Här är dina ~mission_rewards~. Du har gjort massor av kraftfulla individer en outsägligt stor tjänst.~p~Handlarna vill ärva världen så mycket - låt oss se hur de gillar det när vi låter dem få den, minus alla de bra grejerna!~p~He he he he he he ...
+0x00000041 Vilka underbara nyheter för Kejsarinnan! Jag kommer att överösas med hennes frikostighet!~p~Här - ta dina ~mission_rewards~. Du är värd tio gånger så mycket! Bildligt talat, så klart.~p~Åh, det är så mycket kvar att förbereda inför Mini-Oogies flytt till planeten ~mission_target_planet~. Jag är rädd att jag måste ta farväl.~p~Ha det så bra. Må din himmel alltid vara blå!
+0x0000003F Puh!~p~Vi är så glada att du kom i rätt tid! Du har verkligen förtjänat alla dina ~mission_rewards~! Vi råkade ut för en ny PMH medan du var borta.~p~Inga förluster den här gången, tack och lov, vilket dock inte förminskar allvaret i attacken.~p~Exempel:~p~Fråga mig var mina underkläder är. Gör det. Svaret kommer att överraska dig ...
+0x000000CE Bra jobbat kapten!  Planeten ~mission_target_planet~ är redo att bebos!  Mottag din belöning på ~mission_rewards~.
+0x00000005 Visste du att vår Kejsarinna har den mest omfattande samlingen av sevärda miniatyr-Oogies i hela den här galaktiska armen? Det är sant! Är du inte imponerad?~p~De har växt ifrån sin nuvarande kennelmåne, så vi vill att du terraformar planeten ~mission_target_planet~ i systemet ~mission_target_star~.~p~Kejsarinnans Oogies är väldigt kräsna, så var säker på att du terraformerar planeten till nivån ~mission_terraform_target_score~.~p~Dessa Oogies är en av vårt imperiums skatter, så vi är villiga att betala dig ~mission_rewards~.
+0x00000006 UPPDRAGSTILLDELNING: Terraformera planeten ~mission_target_planet~ tills den når angiven målnivå för terraformering.~p~MÅLNIVÅ FÖR TERRAFORMERING: ~mission_terraform_target_score~.~p~STJÄRNSYSTEM: ~mission_target_star~-systemet.~p~RESONEMANG/ÖVRIGT: Det vet vad det gjort!~p~BETALNING: ~mission_rewards~.~p~FRÅGA: Är detta uppdrag av intresse för dig?
+0x00000045 Stora rådet gläds åt din bedrift. Mottag härmed Lovordscertifikat av andra klass samt ~mission_rewards~.
+0x00000047 Ditt arbete på ~mission_target_planet~ var exemplariskt! Det kommer att bli en chic rendezvous för hela galaxens alla brats! Här är dina ~mission_rewards~ ... ciao!
+0x00000004 De rikaste och mäktigaste bland oss har beslutat att vi fått nog av ett gäng fattiga och maktlösa slöfockar som försöker snylta på oss som ett gäng parasiter, så vi drar härifrån! Vi får se vad de tycker om det!~p~Far till planeten ~mission_target_planet~. Den finns i systemet ~mission_target_star~. För terraformeringsnivån till ~mission_terraform_target_score~ som förberedelse för vår omlokalisering.~p~Vi betalar dig ~mission_rewards~.
+0x00000048 Som belöning för all värdefull bebyggelse du skapat vill vi nu ge dig ~mission_rewards~. Ta gärna rundturen i vårt handelscentrum när det passar dig.
+0x00000049 Planeten ~mission_target_planet~ är perfekt för besvärjelser, meditation, nässköljningar och alla våra andra esoteriska övningar! Här, mottag  ~mission_rewards~. Du får göra en ny värld åt oss när som helst!
+0x00000046 Dina förmågor är en glad överraskning. Planeten ~mission_target_planet~ har förvandlats till ett paradis som lämpar sig för vår art. Tag emot ~mission_rewards~ som tack.
+0x00000001 Det börjar bli lite trångt här nere på planetens yta.~p~Våra framgångar som art är att ge oss överraskande och oväntade utmaningar för vår egen överlevnad. Vem kunde ha trott det?~p~Du måste hjälpa oss med lite utvidgning. Vi vill att du terraformar planeten ~mission_target_planet~ i systemet ~mission_target_star~.~p~Förvandla planeten ~mission_target_planet~ till terraformeringsnivån ~mission_terraform_target_score~.~p~Det är värt ~mission_rewards~ för oss, eftersom det är så viktigt.
+0x0000004A Du har utfört ett gott arbete  Vi noterar din effektivitet. Ta emot ~mission_rewards~.
+0x0000000C Spode befaller oss att föra Spodes Ljus till alla mörka platser! Tyvärr kan vi inte göra detta om vi inte kan andas ... skulle du kunna terraformera planeten ~mission_target_planet~ åt oss, så att vi kan använda den som en språngbräda för att föra Spodes Ljus ut i galaxen?
+0x00000098 Nej du, det är inte så saker och ting fungerar här på ObsequiCorp lilla vän.~p~Man lämnar inte ObsequiCorp-familjen ... För man kan ju inte lämna en familj! Dummer!~p~Men om du vill lämna vår lilla familj – ObsequiCorp-familjen – så kan du bara gå.~p~Du är snart tillbaka. ObsequiCorp älskar dig.
+0x00000079 ~group:star_clue~.~p~Sätt genast igång! Och kom ihåg vatten-grejen.
+0x00000099 Åh din vidrige lille ...~p~Åh förlåt! Vad säger jag!?! Vad gör jag!?!~p~Förlåt mitt utbrott. Känslorna tog över där ett tag, men jag är lugnare nu.~p~Men snälla skada oss inte! Vi kan inte ha en Planetmobbningssak från alla som vi hyr in för att skydda oss mot just såna saker.
+0x00000043 Du har skapat ett fantastiskt ekosystem. Vi är stolta att få ge dig ~mission_rewards~.
+0x00000074 ~group:star_clue~.~p~Låt Spodes heliga arbete genast påbörjas. Må Spode lysa din väg fram till ~mission_target_planet~.
+0x00000073 ~group:star_clue~.~p~Vi ser fram emot utmärkta resultat. Vi är övertygade om att du kommer skapa en vacker värld.
+0x0000009B Oj, oj, oj! Hertiginnan och hennes mini-oogies kommer bli väldigt besvikna på ditt beslut.~p~(Tjing pax för att inte berätta för henne om vår senaste underkonsults olyckliga beslut)~p~Hertiginnan har gått ut i krig för mindre!~p~Och hennes mini-oogies skulle säkert riva huden av dig om de fick veta att de måste fortsätta bo på en simpel kennel-måne.~p~Försvinn o vidrige!
+0x00000075 Vi är glada över att arbeta tillsammans med er på detta uppdrag mot civilisationen. Var vänlig avres mot ~mission_target_planet~ genast. ~group:star_clue~.
+0x0000006E Jag vill gärna fråga en sak till ...
+0x0000000B Heliga pilgrimer står redo att befolka en ny värld! Denna planet måste dock göras redo för vår art ... skulle du kunna göra den lämplig för Spodes Folk?
+0x00000081 Va!?! Hur kan du överge din egen art såhär!?!~p~Om vi ändå hade handlat tidigare, kanske när glaciärerna började smälta? Nej, det var försent redan då ...~p~Kanske när skogarna offrades. Nej, ändå försent.~p~Kanske när ozonlagret perforerades?~p~Åh, det är alldeles för tungt att tänka på. Det är ingen idé att börja skylla ifrån sig nu ändå.
+0x0000008C Vi får väl försöka själva då ... Du kanske kan ta en titt i vår basar i alla fall?
+0x00000071 Åh! Hertiginnan kommer bli glad när hon får höra nyheten!~p~Visste du att hennes kennel fanns innan oogiesarna blev medvetna varelser och separerades från varelserna som sedan skulle bli mini-oogiesarna som vårt hertiginna älskar så högt? Fascinerande va? ~p~Hursomhelst. ~group:star_clue~.~p~Iväg med dig tills vi ses igen.
+0x00000003 Vi blir ofta mobbade och retade på en planetär skala. Vi börjar oroa oss för vår arts långsiktiga överlevnad.~p~Vi vill att du terraformar planeten ~mission_target_planet~ i systemet ~mission_target_star~ till en lämplig nivå för oss att bosätta oss där - ~mission_terraform_target_score~. ~p~Det är ju ändå så att ju fler planeter vi sprider oss till, desto mindre är risken att vi blir utrotade av en enskild PMH - planetär mobbningshändelse.
+0x0000007A Du ska skapa ett bostadsbonanza! Stick genast till planeten ~mission_target_planet~!
+0x0000005A Spodes strålande skapelse har alltså ännu inte sett ljuset på ~mission_target_star~?  Håller du ditt löfte som står skrivet i Uppdragsloggen?
+0x0000008F Bara en till liten sak ...
+0x0000005B Din terra-poäng når inte upp till uppdragets parametrar. Tänker du slutföra uppdraget på ~mission_target_star~?  All nödvändig information finns i Uppdragsloggen
+0x000000D0 Vi väntar fortfarande på att du ska terraforma planeten ~mission_target_planet~. All info finns i din Uppdragslogg.
+0x000000CF Planeten ~mission_target_planet~ har fått sin biosfär enligt våra önskemål. Vi har förstått att den biologiska varelsen gärna vill ha  ~mission_rewards~.
+0x000000D1 Du har inte lyckats med ditt mål på ~mission_target_planet~.   Parametrarna finns i din uppdragslogg. Uppta uppdraget omedelbart!
+0x000000CC Planeten ~mission_target_planet~ ligger i ~mission_target_star~-systemet. Terraformera tills den når terra-poängen ~mission_terraform_target_score~, återvänd sedan.
+0x000000CD Planeten ~mission_target_planet~ ligger i ~mission_target_star~-systemet. Terraformera tills den når terra-poängen ~mission_terraform_target_score~, återvänd sedan.
+0x00000024 Jag är egentligen ute efter en ett lätt jobb.
+0x0000004B Låt mig fråga en sak till ...
+0x0000005D Skulle inte du ha terraformerat ~mission_target_planet~ vid det här laget? Jag lovar, vi gillar inte lata konsulter! Kolla i din Uppdragslogg så ser du vad vi kom överens om.
+0x0000004E Bara en sak till innan jag går ...
+0x0000004C Jag har en sak till jag vill fråga ...
+0x00000018 Vår filosof Gundrab namngav de Tre Önskvärdheterna: En lättlurad kund, en full börs och en ny planet som flödar över med naturresurser redo att exploateras! Denna exploatering skulle vara enklare om planeten först terraformerades ... kanske skulle du vara villig att utföra denna uppgift åt oss, i utbyte mot ett generöst kommissionsarvode?
+0x00000052 Det var väl det det ...
+0x0000005F Vi trodde nog att du skulle vara på ~mission_target_planet~ och terraformera den vid det här laget. Nåt problem? Står inte allt du behöver veta i Uppdragsloggen kanske?
+0x00000061 En sak till, sen sticker jag ...
+0x00000051 Ja, ja ... Vi ses!
+0x00000060 Har du problem med att terraformera ~mission_target_planet~? Är det nåt fel på informationen i din Uppdragslogg?
+0x000000DA En sak till ...
+0x0000005E O, du har ej lyckats påvisa din terraformskicklighet! Tänker du fullfölja uppdraget på ~mission_target_star~? Eller har du kanske råkat radera informationen från din Uppdragslogg?
+0x00000017 En ny värld hägrar, redo att fyllas med konsumenter! Men några anpassningar av miljön behövs innan en koloni kan övervägas. Sådana anpassningar skulle vara en lätt match för en så magnifik varelse som du ... kanske kan en belöning fresta dig?
+0x00000062 Bara en till sak ...
+0x0000005C Trots data i din Uppdragslogg verkar du inte ha terraformerat planeten ~mission_target_planet~. Du har ett binärt val. Hjälper du oss eller inte?
+0x000000AF Planeten ~mission_target_planet~ skulle kunna vara ett perfekt ställe att slå sig ner på, om det bara hade en biosfär. Kan du ordna en sån till oss?
+0x000000B0 Planeten ~mission_target_planet~ behöver terraformeras. Fixar du det?
+0x00000029 Låt mig bara fråga en sak till ...
+0x00000020 Jag skulle kunna behöva lite mer detaljer om hur jag ska komma dit.
+0x0000002F Livet på ~mission_source_planet~ kom från planeten ~mission_target_planet~. Tyvärr har informationen om planeten ~mission_target_planet~ förstörts i katastrofen, men den tros finnas i närheten av systemet ~mission_target_star~.~p~Sök upp världen, samla in en komplett uppsättning prover på dess livsnät och återvänd till ~mission_source_planet~.
+0x00000054 Kom igen polarn. Snabba på lite!~p~Du har kvar att terraformera ~mission_target_planet~. Du hittar den ungefär så här:~p~~group:star_clue~.
+0x000000B9 Terraformera planeten ~mission_target_planet~ i stjärnsystemet ~mission_target_star~. Tillgänglig information visar:~p~~group:star_clue~.~p~Använd dina terraformeringsverktyg för att förbättra terra-poängen till ~mission_terraform_target_score~ och placera sedan ut växter för att stabilisera miljön.
+0x00000057 Du hedrar inte direkt kejsarinnan och hennes mini-Oogies med din slapphet!~p~Ta dig till ~mission_target_planet~ och terraformera den för att förbereda för mini-Oogiesarna. Det här är snabbaste vägen:~p~~group:star_clue~.
+0x00000055 Snälla, snälla, snälla terraformera planeten ~mission_target_planet~. Så här tror vi att man kommer dit snabbast:~p~~group:star_clue~.
+0x00000056 Vad väntar du på?! Ta dig till planeten ~mission_target_planet~ och terraformera den då!~p~Vi är väl inte jättebra direkt på att ge vägvisningar, men typ så här:~p~~group:star_clue~.
+0x00000053 Vi måste lätta på befolkningstrycket genom att terraformera planeten ~mission_target_planet~. Det här hjälper dig att hitta dit:~p~~group:star_clue~.
+0x00000058 UPPDRAGSSTATUS: Pågående. Entreprenören behöver assistans.~p~UPPDRAGSÖVERSIKT: Terraformera planeten ~mission_target_planet~.~p~YTTERLIGARE/ÖVRIGT: ~group:star_clue~.
+

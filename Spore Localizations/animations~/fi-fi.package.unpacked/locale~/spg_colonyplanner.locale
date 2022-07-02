@@ -1,0 +1,129 @@
+﻿# 0x000000f9 ~guide: -h4~ Camera Pan
+# 0x00000181 ~guide: -bullet~ Hold down the right mouse button or press the arrow keys to pan the camera.
+
+0x000005D1 ~guide: -h1~ Valtakunnan tunnusmusiikki
+0x000005E1 ~guide: -h2~ Valtakunnan musiikki koostuu monesta osasta: valtakunnan rytmistä, sen tunnusmusiikista (melodia ja soitin) ja taustaäänistä. Voit valita rytmin ja soittimet sekä määrittää molemmille omat äänenvoimakkuudet. Lisäksi voit luoda oman melodiasi säveltimessä.
+0x000005F1 ~guide: -h2~ Kun valloitat, käännytät tai ostat muita siirtokuntia, ne ottavat käyttöön valtakuntasi tunnusmusiikin. Tämä musiikki kuvaa siis imperiumiasi.
+0x00000601 ~guide: -h3~ Siirtokunnan rytmi
+0x00000651 ~guide: -h3~ Soittimet
+0x00000661 ~guide: -h2~ Kun haluat valita soittimen, napsauta vain jotakin sinisistä painikkeista. Kokeile vaihtoehtoja, kunnes löydät sellaisen, josta pidät.
+0x00000671 ~guide: -h3~ Melodia
+0x00000641 ~guide: -h2~ Tunnusmusiikki koostuu soittimesta ja melodiasta.
+0x00000621 ~guide: -h2~ Voit kytkeä rytmin pois päältä napsauttamalla valitun rytmin kuvaketta.
+0x00000631 ~guide: -h3~ Tunnusmusiikki
+0x00000501 ~guide: -h3~ Kulkuneuvoja on kolmea eri tyyppiä:
+0x00000511 ~guide: -bullet~ Maa
+0x00000521 ~guide: -bullet~ Vesi
+0x000004F1 ~guide: -h2~ Voit avata kulkuneuvopaneelin napsauttamalla kulkuneuvojen välilehteä.
+0x000004C1 ~guide: -bullet~ Rakennusten korjaaminen - Ajan mittaan siirtokuntalaiset korjaavat vahingoittuneet rakennukset. Halutessasi voit itsekin korvata vahingoittuneen rakennuksen uudella. Siirry siirtokuntaeditoriin, napsauta rakennusta ja vedä se rakennuspaneeliin.
+0x000004D1 ~guide: -bullet~ Tuhotut rakennukset - Ennen pitkää tuhotut rakennukset poistetaan. Voit kuitenkin nopeuttaa jälleenrakennusta ostamalla uuden rakennuksen ja sijoittamalla sen vanhan tilalle.
+0x000004E1 ~guide: -h1~ Kulkuneuvojen luominen
+0x00000561 ~guide: -h2~ Katso lisää omien kulkuneuvojen luomisesta Spore-oppaan kohdista Kulkuneuvoeditori ja Avaruusaluseditori.
+0x00000571 ~guide: -h1~ Siirtokunnan koristeet
+0x00000581 ~guide: -h2~ Nämä ovat pelkkiä koristeita, joilla voit muokata siirtokuntasi ulkonäköä.
+0x00000551 ~guide: -h2~ Siirtokuntalaiset voivat ostaa valitsemiasi ja luomiasi kulkuneuvoja siirtokunnan kasvavien tarpeiden mukaan. Suuremmat siirtokunnat voivat ylläpitää suurempaa määrää kulkuneuvoja.
+0x00000531 ~guide: -bullet~ Ilma
+0x00000541 ~guide: -bullet~ Siirtokuntaeditorissa voit myös terästää kulkupeliäsi. Muokkaa avaruusalustasi napsauttamalla avaruusaluksen kuvaa.
+0x000007B1 ~guide: -h3~ Satunnainen
+0x000007C1 ~guide: -h2~ Jos haluat nopeuttaa asioita tai tunnet olosi muuten vain uskaliaaksi, napsauta musiikkieditorin alareunassa olevaa arvontapainiketta.
+0x000007A1 ~guide: -h2~ Kun valtakunnan kansallissävelmä on luotu, voit tallentaa sen napsauttamalla tallennuspainiketta. Tallennuksen valintaikkunassa voit sitten nimetä luomuksesi ja kuvailla sitä. Tämän jälkeen sävellykset näkyvät aina Spore-keskuksen musiikkiosiossa.
+0x00000791 ~guide: -h3~ Tallenna
+0x000007D1 ~guide: -h1~ Siirtokunnan asustamo
+0x00000821 ~guide: -h3~ Lue lisää siirtokuntalaisten vaatettamisesta Spore-oppaan asustamokohdista.
+0x000007E1 ~guide: -h2~ Siirtokunnan asustamosta saat avaruusotusten viimeisimmät muotiluomukset. Anna siirtokuntalaisillesi tyylikkäät asusteet.
+0x000006C1 ~guide: -bullet~ Voit pidentää yksittäistä nuottia viemällä kohdistimen sen ylle ja pyörittämällä hiiren rullaa tai painamalla nuolinäppäimiä ylös ja alas.
+0x000006D1 ~guide: -bullet~ Voit poistaa nuotteja napsauttamalla ja vetämällä ne pois säveltimestä.
+0x000006E1 ~guide: -bullet~ Voit soittaa melodian napsauttamalla säveltimen taustaa.
+0x000006B1 ~guide: -bullet~ Kun melodian nuotit ovat kohdallaan, voit muuttaa niiden asteikkoa napsauttamalla ja vetämällä niitä ylös tai alas. Voit myös muuttaa niiden paikkaa napsauttamalla ja vetämällä niitä vasemmalle tai oikealle.
+0x00000681 ~guide: -h2~ Voit luoda oman melodiasi monella eri tavalla.
+0x00000691 ~guide: -bullet~ Jos haluat luoda satunnaisen melodian, napsauta säveltimessä nopan kuvaketta.
+0x000006A1 ~guide: -bullet~ Lisää tai poista nuotteja oikean alakulman lisäys- ja poistopainikkeilla.
+0x000006F1 ~guide: -bullet~ Voit kytkeä melodian automaattisen toiston päälle ja pois napsauttamalla automaattisen toiston painiketta.
+0x00000741 ~guide: -h3~ Lataa
+0x00000751 ~guide: -h2~ Napsauta latauspainiketta, niin siirryt Spore-keskuksen musiikkiosioon. Valitse vain musiikkikortti ja napsauta vihreää oikein-merkkiä. Valtakunnalle valittu musiikki soi taustalla, kun palaat siirtokuntaeditoriin. Jos haluat kuunnella musiikkivalintaasi, kaksoisnapsauta sen korttia Spore-keskuksessa.
+0x00000761 ~guide: -h3~ Musiikin jakaminen
+0x00000731 ~guide: -h2~ Napsauttamalla näitä painikkeita voit kumota tai tehdä uudelleen edellisen toimesi.
+0x00000701 ~guide: -h3~ Taustaäänet
+0x00000711 ~guide: -h2~ Taustaääniä soitetaan koko planeetan laajuudelta - jopa silloin, kun kohdistat kauas avaruuteen. Kun olet lähellä toisen valtakunnan planeettaa, kuulet tämän tunnusmusiikin. Kun haluat valita taustaäänet, napsauta jotain taustaäänien neljästä kerroksesta. Voit yhdistää ne miten vain haluat.
+0x00000721 ~guide: -h3~ Kumoa ja tee uudelleen
+0x000004B1 ~guide: -h3~ Vahinko ja tuhotut rakennukset
+0x000002F1 ~guide: -bullet~ Tykit - Tykkien avulla voit puolustaa siirtokuntaasi: ne vastaavat tykkitulella automaattisesti kaikkiin siirtokuntaasi kohtaaviin uhkiin - kunnes ne ovat vahingoittuneet toimintakyvyttömiksi.
+0x000002E1 ~guide: -bullet~ Tehtaat
+0x000002B1 ~guide: -bullet~ Kaupungintalo - Kullakin siirtokunnalla voi olla vain yksi kaupungintalo. Samalla planeetalla olevat kaupungintalot noudattavat samaa mallia.
+0x000002C1 ~guide: -bullet~ Asuinrakennukset
+0x000002D1 ~guide: -bullet~ Viihde
+0x00000301 ~guide: -h3~ Kaupungintalo
+0x00000321 ~guide: -h3~ Rakennusten ostaminen
+0x00000331 ~guide: -h2~ Näin ostat siirtokuntaasi rakennuksia:
+0x00000231 ~guide: -bullet~ Väestö
+0x00000241 ~guide: -bullet~ Tyytyväisyys - Tyytymättömät kansalaiset tuottavat vähemmän
+0x000001C1 ~guide: -bullet~ Valtakuntasi tiedot näkyvät siirtokuntaeditorin yläpalkissa.
+0x00000201 ~guide: -h3~ Siirtokunnan tiedot
+0x00000211 ~guide: -h2~ Tarkastelemasi siirtokunnan tiedot löytyvät siirtokuntaeditorin oikeasta yläreunasta valtakunnan tietojen alta.
+0x00000221 ~guide: -bullet~ Siirtokunnan nimi ja tunnusväri
+0x000001B1 ~guide: -h3~ Valtakunnan tiedot
+0x00000291 ~guide: -h1~ Rakennusten luominen, ostaminen ja sijoittaminen
+0x000001A1 ~guide: -bullet~ Käytettävissä olevat Spore-taalerit näkyvät siirtokuntaeditorin vasemmassa alareunassa.
+0x000002A1 ~guide: -h3~ Rakennuksia on viittä eri tyyppiä:
+0x00000281 ~guide: -h2~ Muista nimetä siirtokuntasi! Napsauta siirtokunnan nimeämiskenttää, niin pääset nimeämään siirtokuntasi ja kuvailemaan sitä.
+0x00000251 ~guide: -bullet~ Tulot rohtoyksikköinä minuuttia kohden
+0x00000261 ~guide: -bullet~ Puolustus - Mitä enemmän tykkejä, sitä vahvempi on puolustuksesi.
+0x00000271 ~guide: -h3~ Nimeä siirtokuntasi ja kuvaile sitä
+0x00000431 ~guide: -bullet~ Asuinrakennusten viereen rakennettavat viihderakennukset lisäävät asukkaiden tyytyväisyyttä. Mikäli asukkaat ovat tyytymättömiä, siirtokunta tuottaa vähemmän tuloja ja siellä saattaa puhjeta mellakoita.
+0x00000401 ~guide: -h3~ Rakennusten sidokset
+0x000003E1 ~guide: -h1~ Siirtokunnan maakaava
+0x000003F1 ~guide: -h2~ Menestyvän siirtokunnan rakentaminen edellyttää, että sijoitat erityyppisiä rakennuksia hyville paikoille.
+0x00000491 ~guide: -h3~ Rakennusten myyminen
+0x000004A1 ~guide: -bullet~ Voit myydä rakennuksen milloin tahansa. Napsauta vain rakennusta ja vedä se rakennuspaneeliin.
+0x00000451 ~guide: -bullet~ Tykkien avulla voit puolustaa kaupunkiasi valtausyrityksiltä: ne alkavat automaattisesti ampua lähestyviä vihollisia. Tykit eivät yhdisty muihin rakennuksiin ja ne tulee sijoittaa siirtokunnan muurien viereen.
+0x00000461 ~guide: -h3~ Rakennusten siirtäminen
+0x00000471 ~guide: -bullet~ Siirtokuntaeditorissa voit siirtää mitä tahansa siirtokuntaan sijoittamaasi rakennusta
+0x00000182 ~guide: -h3~ Spore-taalerit
+0x00000372 ~guide: -bullet~ Kun olet valinnut tai luonut rakennuksen, se näkyy rakennusluettelossa.
+0x00000812 ~guide: -h2~ Siirryt siirtokunnan asustamoon. Yhdelle otukselle luomasi asuste jaetaan siirtokunnan kaikille asukkaille.
+0x00000341 ~guide: -bullet~ Valitse aluksi rakennustyyppi, jonka haluat rakentaa.
+0x000003B1 ~guide: -bullet~ Rakennuksen hinta vähennetään käytettävissä olevista Spore-taalereista.
+0x00000351 ~guide: -bullet~ Valitse, haluatko ladata rakennuksen Spore-keskuksesta vai luoda omasi
+0x000005A1 ~guide: -bullet~ Valitse koriste, jonka haluat sijoittaa kaupunkiisi.
+0x00000191 ~guide: -h2~ Nyt kun lajisi matkaa avaruudessa, voit tienata Spore-taalereita keräämällä rohtoa, käymällä kauppaa rohdolla ja harvinaisilla esineillä ja suorittamalla tehtäviä muille valtakunnille. Spore-taalereiden avulla voit laajentaa valtakuntaasi. Valtakuntasi täytyy ansaita riittävästi Spore-taalereita, jotta voit sijoittaa rakennuksiin, kulkuneuvoihin, koristeisiin, puolustukseen ja avaruusalusten energiatarpeisiin.
+0x000003C1 ~guide: -h2~ Huom: Lisätietoa rakennuksen luomisesta on Spore-oppaan rakennuseditoria käsittelevässä kappaleessa.
+0x00000591 ~guide: -bullet~ Avaa koristevalikoima.
+0x000003A1 ~guide: -bullet~ Oikea sijoitus on tärkeää. Katso lisätietoa siirtokunnan maakaavaa käsittelevästä kohdasta.
+0x00000311 ~guide: -h2~ Rakennusluettelon kärjessä on kaupungintalo. Voit muokata tätä kaupungintaloa tai rakentaa uuden, jos haluat. Kussakin siirtokunnassa voi olla vain yksi kaupungintalo.
+0x000005B1 ~guide: -bullet~ Napsauta koristetta ja vedä se kaupunkiisi. Voit sijoittaa koristeen mihin tahansa hehkuvista koristepaikoista.
+0x00000801 ~guide: -bullet~ Napsauta siirtokunnan asustamon painiketta siirtokuntaeditorissa.
+0x00000811 ~guide: -bullet~ Napsauta asuvalikoimasta ensin otuksesi kuvaketta ja sitten asunmuokkauksen painiketta.
+0x00000391 ~guide: -bullet~ Sijoita se johonkin merkityistä sijoituspaikoista.
+0x000005C1 ~guide: -bullet~ Koristeen hinta vähennetään käytettävissä olevista Spore-taalereista.
+0x00000381 ~guide: -bullet~ Napsauta rakennusta ja vedä se rakennusluettelosta siirtokuntaasi.
+0x000001D1 ~guide: -bullet~ Valtakuntasi nimi, väri ja nykyisellä planeetalla olevien siirtokuntien määrä näytetään tässä. Tässä näkyy myös planeetan maankaltaisuusluokka. Täysin maankaltaistetut planeetat ovat siirtokunnille suotuisampia. T1-luokan planeetoilla on riittävästi luonnonvaroja yhteen siirtokuntaan, T2-luokan planeetoilla taas on luonnonvaroja kahteen siirtokuntaan ja T3-luokan planeetoilla kolmeen siirtokuntaan.
+0x00000781 ~guide: -h2~ Jos haluat ottaa käyttöön ystäviesi lähettämät .png-musiikkitiedostot, siirrä vain .png-tiedosto kansioon ~save_path~KaupunginMusiikki~mac_save_append~. Spore-peli ei saa olla käynnissä siirron aikana. Avaa tiedostot lopuksi Spore-keskuksen kautta.
+0x00000771 ~guide: -h2~ Valtakunnan musiikkia ei jaeta automaattisesti. Jos haluat jakaa tunnusmusiikin ystävillesi, etsi musiikkitiedosto kansiosta ~save_path~KaupunginMusiikki~mac_save_append~. Sitten voit lähettää .png-tiedoston ystävillesi.
+0x00000441 ~guide: -bullet~ Kun asetat tehtaan asuinrakennusten viereen, siirtokunnan tulot kasvavat, mutta asukkaiden tyytymättömyys kasvaa. Kukaan ei halua työskennellä kellon ympäri!
+0x00000611 ~guide: -h2~ Kukin painike edustaa yhtä rytmiraitaa. Napsauta jotakin niistä. Kappaleet muuttuvat ajan mukana, joten kuuntele hetkinen. Jos haluat kuulla vain rytmin, käännä muiden äänten voimakkuus pienelle. Kun löydät mieleisesi biitin, siirry tunnusmusiikkiin.
+0x00000421 ~guide: -bullet~ Asuinrakennukset kasvattavat asukaslukua ja kulkuneuvojen enimmäismäärää, mutta lisäksi niistä muodostuu kohteita, jotka voi yhdistää viihderakennuksiin ja tehtaisiin. Siten ne lisäävät siirtokunnan tuottoisuutta ja tyytyväisyyttä. Myös kaupungintalo lasketaan asuinrakennukseksi.
+0x00000411 ~guide: -h2~ Kun lisäät rakennuksia siirtokuntaasi, rakennusten välissä näkyy hehkuva side. Vihreä sidos osoittaa hyvää sijoituspaikkaa, valkoinen melko hyvää ja punainen huonoa.
+
+0x00000071 ~guide: -bullet~ Voit kohentaa siirtokuntasi ulkonäköä ostamalla sinne koristeita
+0x00000051 ~guide: -bullet~ Rakennusten luominen ja ostaminen
+0x00000021 ~guide: -h2~ Voit avata siirtokuntaeditorin napsauttamalla kaupungintalon yläpuolella näkyvää siirtokuntaeditorin painiketta missä tahansa valtakuntasi siirtokunnassa. Rakennuksiin ja kulkuneuvoihin tekemäsi muutokset vaikuttavat vain parhaillaan tarkastelemallasi planeetalla oleviin siirtokuntiin. Kukin siirtokunta pitää kuitenkin määrittää erikseen.
+0x00000061 ~guide: -bullet~ Paranna siirtokunnan puolustusta ostamalla tykkejä
+0x00000011 ~guide: -h1~ Tervetuloa siirtokuntaeditoriin!
+0x00000041 ~guide: -h3~ Täältä pääset käsiksi seuraaviin toimintoihin:
+0x00000031 ~guide: -bullet~ Voit siirtyä planeetan muihin siirtokuntiin myös siirtokuntaeditorista käsin. Napsauta vain siirtokuntaeditorin alapalkissa siirtokunnan nimen vieressä olevia nuolia.
+0x000000C1 ~guide: -h1~ Peruskäsitteet
+0x000000B1 ~guide: -bullet~ Siirtokunnan kaavoittaminen ja tiedot siirtokunnan asukkaiden tyytyväisyydestä ja tuottavuudesta.
+0x000000A1 ~guide: -bullet~ Luo tunnusmusiikkisi
+0x00000082 ~guide: -bullet~ Luo avaruusalus ja muokkaa sitä.
+0x00000091 ~guide: -bullet~ Vaateta siirtokuntasi asukkaat
+0x000000E1 ~guide: -h3~ Kuvakulman liikuttaminen
+0x000000F1 ~guide: -h2~ Kuvakulmaa liikutetaan samalla tavoin kaikissa siirtokuntaeditorin toiminnoissa. Poikkeuksen muodostaa vain siirtokunnan asustamo, josta on Spore-oppaassa erityisohjeet.
+0x000000D2 ~guide: -bullet~ Napsauta painiketta, niin valitsemasi ohjauspaneeli avautuu. Vaihtoehtoja ovat rakennukset, kulkuneuvot, koristeet, siirtokunnan asustamo ja tunnusmusiikki.
+0x000000F2 ~guide: -h4~ Kuvakulman kääntäminen
+0x000000F8 ~guide: -bullet~ Voit kohdentaa lähemmäs ja kauemmas painamalla PLUS- ja MIINUS-näppäimiä.
+0x000000F6 ~guide: -h4~ Kuvakulman lähentäminen ja loitontaminen
+0x000000F5 ~guide: -bullet~ Kun painat PILKKU- tai PISTE-näppäintä, kuvakulma kääntyy.
+0x000000D1 ~guide: -h2~ Vasemmassa reunassa olevilla painikkeilla pääset käyttämään siirtokuntaeditorin eri toimintoja.
+0x00000081 ~guide: -bullet~ Luo kulkuneuvoja siirtokunnillesi. Kukin siirtokunta hallitsee omaa kalustoaan. Siirtokunta ostaa niille luomiasi tai valitsemiasi kulkuneuvoja tarpeen mukaan ja korvaa niitä tarvittaessa uusilla.
+0x000000F4 ~guide: -bullet~ Pidä hiiren oikea painike alhaalla ja vedä kaupunkia, niin kuvakulma liikkuu kaupungin ympärillä. MAC-järjestelmissä pidä KOMENTO- ja OPTIO -näppäimiä ja hiiren vasenta painiketta painettuina.
+

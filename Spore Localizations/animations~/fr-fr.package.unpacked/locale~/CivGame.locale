@@ -1,0 +1,156 @@
+﻿#######################################
+# vehicle vs. city
+
+0x04D18FF4 Prendre la ville
+0x04D19085 Convertir la ville
+0x04D1912C Proposer un axe commercial
+0x04D19177 Etablir des échanges avec la ville
+0x0563CE33 Prendre la ville (Hors d'atteinte)
+0x0563CE86 Convertir la ville (Hors d'atteinte)
+0x0563CEC2 Proposer un axe commercial (Hors d'atteinte)
+0x05F4FC30 Ouvrir l'axe commercial
+0x06776CA9 Convertir la ville (Passage automatique en Moral bas)
+0x04D19086 Convertir la ville (Trop de bonheur - Visez le complexe de loisirs)
+
+# Tutorial Buy Sea Unit
+
+0x058C7643 Cliquez sur le bouton Atelier urbain pour acheter votre premier véhicule maritime.
+0x058C7644 Construisez et achetez un véhicule maritime.
+0x058C7642 Acquérir
+
+#######################################
+# NPC city hall
+
+0x052ECBE1 Acheter ville (requiert davantage d'échanges)
+0x052ECBE2 Acheter ville (requiert un axe commercial)
+0x04D194FE Donner un cadeau
+0x04D1956A Acheter une ville
+0x04D29B0C Contact
+
+# Tutorial Claim Node
+
+0x058B486C Prendre une mine d'Epices
+0x058B486A Revendiquer
+0x058B486B Sélectionnez un véhicule puis faites un clic droit sur une mine d'Epices pour la prendre.
+
+############################################################ pie menus
+
+0x06A56B8F Récompenser travailleurs
+
+# Tutorial Religious Capture
+
+0x058C968E Convertissez une Ville adverse.
+0x058C968D Construisez des véhicules religieux, cliquez sur une ville ennemie puis sur "Convertir la ville". Les véhicules religieux peuvent également prendre pour cible certains bâtiments de cette ville pour les neutraliser et les empêcher de contrer votre offensive.
+0x058C968C Conversion
+
+#######################################
+# wall
+
+0x04D195B2 Réparer
+
+#######################################
+# city hall
+
+0x058B51F4 Bombe au napalm : ~currency_number~ $
+0x058B5210 Guérison : ~currency_number~ $
+0x058B5211 Pluie noire : ~currency_number~ $
+0x058B5212 Désordre et corruption : ~currency_number~ $
+0x058B5213 Agression publicitaire : ~currency_number~ $
+0x058B5214 Fusion globale : ~currency_number~ $
+0x05763FE4 Frappe nucléaire tactique : ~currency_number~ $
+0x056B8A99 Hausse providentielle : ~currency_number~ $
+0x04E41707 Attaque massive : ~currency_number~ $
+0x04D191CF Acheter des bâtiments
+0x04D192DC Acheter des véhicules
+0x04D19342 Transition pré-spatiale
+0x04D2B633 Magasin urbain
+
+# Tutorial Economic Capture
+
+0x058C96A4 Rachetez une Ville adverse.
+0x058C96A3 Construisez des véhicules économiques, cliquez sur une ville ennemie puis sur Proposer un axe commercial. Après quelques échanges commerciaux, vous pourrez peut-être racheter cette ville.
+0x058C96A2 Prise
+
+###########################################################
+# dialogs
+#######################################
+# disband confirm dialog
+
+0x04D960BA Débarras
+0x04D960BB Voulez-vous vous débarrasser des véhicules sélectionnés ?
+
+#######################################
+# create or load ufo
+
+0x04D1A5BC Construisez votre soucoupe
+
+# civ localized text
+###########################################################
+# posse UI
+#######################################
+# posse titles
+
+0x04D175CA Militaire
+0x04D175CB Religieux
+0x04D175CC Economique
+0x04D175CD Moissonneuse
+
+# Tutorial Happy City
+
+0x058C75FF Créez une Ville heureuse.
+0x058C75FE Cliquez sur le bouton Atelier urbain pour ajouter des complexes de loisirs reliés aux maisons.
+0x058C75FD Concevoir
+
+#######################################
+# building menu
+
+0x04E50472 Vendre le bâtiment pour ~currency_number~ $
+0x04D1A21D Démolir
+
+# Tutorial Military Capture
+
+0x058C9724 Prendre une Ville adverse.
+0x058C9722 Prise
+0x058C9723 Construisez des véhicules militaires, cliquez sur une ville ennemie puis sur "Prendre la ville". Plus votre puissance militaire est forte, plus vous avez de chances de réussir.
+
+#######################################
+# vehicle limit
+
+0x04D1A4AE Vous avez atteint la flotte limite pour ce type de véhicule. Relevez-la en prenant d'autres villes du même type.~br~Astuce : Retirez des véhicules de la circulation en appuyant sur SUPPR quand des véhicules sont sélectionnés.
+0x04D1A4A7 Limite Flotte atteinte
+
+# Tutorial Profitable City
+
+0x058B71B6 Concevez une ville rentable.
+0x058B71B5 Cliquez sur le bouton Atelier urbain de votre Mairie pour créer des maisons et des usines reliées entre elles et améliorer le rendement de votre ville.
+0x058B71B4 Conception
+
+# Tutorial Capture All
+
+0x0590C229 Prenez toutes les villes de la planète pour gagner !
+0x0590C22A Prenez toutes les villes.
+0x0590C228 Prendre
+
+# Tutorial Buy Vehicle
+
+0x05C18518 Achetez votre premier véhicule.
+0x05C18512 Cliquez sur le bouton Atelier urbain pour acheter votre premier véhicule.
+0x05C18502 Acquérir
+
+# Tutorial Buy Land Unit
+
+0x058C7627 Cliquez sur le bouton Atelier urbain pour acheter un véhicule terrestre supplémentaire.
+0x058C7628 Achetez un véhicule terrestre supplémentaire.
+0x058C7626 Acquérir
+
+# Tutorial Buy Air Unit
+
+0x058C765C Cliquez sur le bouton Atelier urbain pour créer votre premier véhicule aérien.
+0x058C765D Construisez et  achetez un véhicule aérien.
+0x058C765B Acquérir
+
+#######################################
+# player lost
+
+0x04D1A8A8 Un adversaire vous a pris votre dernière ville !
+

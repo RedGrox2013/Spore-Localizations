@@ -1,0 +1,56 @@
+﻿# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+
+0x5EDB5D59 Server vymazal následující výtvory používané v tomto dobrodružství. Chcete je znovu zveřejnit, aby si ostatní mohli dobrodružství zahrát?~p~~ep1_server_deleted_creations~
+
+# Publishing adventures with unpublished assets
+
+0x5EDB5D58 Následující výtvory používané tímto dobrodružstvím nebyly dosud zveřejněny. Přejete si je zveřejnit, aby toto dobrodružství mohli hrát i ostatní?~p~~ep1_unpublished_creations~
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+
+0x0750187A Některé výtvory z tohoto dobrodružství byly zakázány.~p~ Vaše skóre vám nebude připsáno.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+
+0x0750187B Některé výtvory z tohoto dobrodružství byly smazány.~p~ Přejete si je stáhnout znovu?
+
+# Editing adventures offline
+
+0x07AA5B67 Zrušit
+0x07AA5B66 Nahradit
+0x07AA5B64 Musíte se přihlásit, než začnete stahovat výtvory pro toto dobrodružství. Pokud toto dobrodružství upravujete, výtvory budou nahrazeny.
+0x07AA5B65 Přihlásit
+
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+
+0x0750187E Toto dobrodružství obsahuje zakázané výtvory a výtvory obsahující části, které nemáš.~p~ Některé výtvory budou nahrazeny.
+
+# Editing adventures with banned assets
+
+0x0750187C Některé výtvory z tohoto dobrodružství byly zakázány.~p~ Některé výtvory budou nahrazeny.
+
+# NOT USED you cannot play adventures with banned content anymore
+
+0x07BB7490 Některé výtvory nejsou v tomto dobrodružství povolené.~p~Vaše skóre se nesdílí.
+
+#########################################################
+# AutoPollinatorProgressDialog.layout
+# Progress dialog box
+
+0x00000001 Průběh stahování výtvoru
+0x00000004 Stahování výtvoru selhalo
+0x00000005 Abyste mohli používat výtvory z tohoto dobrodružství, musíte se přihlásit.
+0x00000002 Stahuji výtvory pro dobrodružství
+0x00000006 Nepodařilo se zveřejnit výtvory.
+0x00000003 Zrušit
+0x00000008 Zveřejňuji...
+0x00000007 Průběh zveřejňování
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+
+0x00000009 Stahování výtvoru selhalo. Přejete si pokračovat?~p~Některé prvky budou nahrazeny a skóre nebude připsáno.
+
+# Editing adventures with BP or invalid assets
+
+0x0750187D Některé výtvory v tomto dobrodružství obsahují části, které nemáš.~p~ Některé výtvory budou nahrazeny.
+

@@ -1,0 +1,305 @@
+﻿##############################
+# Scenario mode.
+
+0x071877BD ~ep1_adventure_intro~
+0x071877BA Författargenererad text ÄVENTYRET VUNNET ska vara här.
+0x07186066 ~ep1_adventure_lose~ ~br~ resultat: ~ep1_score~ ~br~ tid: ~ep1_time~
+0x071877AD ~ep1_adventure_win~ ~br~ resultat: ~ep1_score~ ~br~ tid: ~ep1_time~
+0x071877C5 ~ep1_adventure_name~ sparat.
+0x070B1805 Starta om
+0x070B17F3 Författargenererad text ÄVENTYRET FÖRLORAT ska vara här.
+0x070B1800 Stäng
+0x07959A07 Äventyret behöver en kapten i världen, på en giltig plats, innan det kan sparas.
+0x0757671A Starta
+0x071877C1 Författaren till äventyret har inte försett äventyret med någon introduktion ännu.~p~Klicka på knappen Intro på panelen Akt i äventyrsskaparen för att lägga till en introduktion.
+0x07CCEEFC Besättning
+0x07B4DD6E Äventyret behöver en kapten i världen, på en giltig plats, innan det kan spelas.
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+# general
+
+0x07D91073 Målet har en odefinierad parameter
+0x07D91076 Målet är ogiltigt
+
+# instance checks
+
+0x07D910E4 Målet kan inte gälla för ett mål som ställts in på territoriell eller aggressiv för akten
+0x07D910E6 Målet kan inte gälla episka varelser
+0x07D910E8 Målet kan inte gälla ett mål som ska vara fientligt under akten
+0x07D910E1 Målet finns på en ogiltig plats
+
+# Goal strings used in editor for GOAL tool tips:
+
+0x07B53A1F Alla
+
+# Second, for buildings and vehicles
+
+0x07B51559 Ta med ...
+0x07B5154F Förstör
+0x07B51562 Ge …
+0x07B5155C Samla in
+0x07B5154C Undersök
+0x07B51549 Flytta till
+0x07B51564 Blockera …
+0x07B51567 Försvara
+0x07B55060 Undersök ~ep1_goal_target_name~
+0x07B55063 Förstör ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ förstörda)
+0x07B5505D Gå till ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ avklarade)
+0x07B5506A För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B55076 Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x07B55079 Försvara ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5506C Samla ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ insamlade)
+0x07B55073 Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A47 För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A49 Samla in ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A41 Undersök ~ep1_goal_target_name~
+0x07B52A44 Förstör ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A4C Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A4E Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x07B52A3A Flytta till ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A50 Försvara ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# class checks
+
+0x07D910C6 Målets hälsa är satt till osårbar för den här akten
+0x07D910C4 Målets hälsa är satt till noll för den här akten
+0x07D910C0 Målet är satt till osynligt för den här akten
+0x07D910CB Målet gäller inte varelser
+0x07D910CD Målet gäller inte fordon
+0x07D910DA Målet gäller inte avatarer
+0x07D910DD Minst ett mål måste gå att flytta
+0x07D910D8 Målet gäller inte spelföremål
+0x07D910CF Målet gäller inte byggnader
+0x07D910D3 Målet gäller inte fasta föremål
+0x07D910D5 Målet gäller inte icke-handhållna föremål
+
+# Special first half of give goal:
+
+0x079E8291 Hitta ~ep1_goal_target_name~
+
+# Editor object placement hints
+
+0x07D8C64C Vattenfordon får inte placeras på land
+0x07D8B21E Landfordon får inte placeras på vattnet
+0x07D8C654 Varelser får inte placeras på vattnet
+0x07D8C658 Föremålet är för långt över planetens yta
+
+# Goal strings used for mission cards
+
+0x0727D37F Fel: Mål ej angivet
+
+# Sculpt panel UI
+
+0x07316C08 Flora
+0x07316C07 Flora
+0x079EDFB9 Special
+0x07316C0A Planetfärger
+0x07316C09 Väder
+0x07316C0E Vägar
+0x07316C00 Terräng
+0x07316C04 Vatten
+0x07316C05 Terraformning
+0x07316C02 Atmosfär
+0x0768A3E9 Kontinenter och öar
+0x0768A339 Hav och sjöar
+0x07316C03 Teman
+0x07316C01 Planetteman
+0x07316C0C Floder
+0x07316C0B Terrängfärger
+0x07316C06 Berg
+0x07316C10 Stränder #BORTTAGNA?
+0x07316C0F Kanjoner #BORTTAGNA?
+0x07B2739C Dalar
+0x07B280CB Kullar
+0x07B278FF Belagda vägar
+0x07B27900 Teknikvägar
+0x07B27901 Torg
+0x07B278FD Stigar
+0x07B278FE Stenlagda vägar
+0x07316C0D Grundl. verktyg
+
+# Third, for all other (tools)
+
+0x07968DE4 [Mål ej angett]
+0x07B51644 Försvara
+0x07B5163F Blockera …
+0x07B51611 Undersök
+0x07B5160C Flytta till
+0x07B51628 För till …
+0x07B51637 Ge …
+0x07B51633 Håll
+0x07B5162D Samla in
+0x07B52A65 Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x07B52A68 Försvara ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A61 Håll ~ep1_goal_target_name~
+0x07B52A63 Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A59 För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A5E Samla in ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A56 Undersök ~ep1_goal_target_name~
+0x07B55092 Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x07B55095 Försvara ~ep1_goal_total~ ~ep1_goal_target_name~
+0x07B5508D Håll ~ep1_goal_target_name~
+0x07B5508F Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B55088 För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B5508A Samla ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ insamlade)
+0x07B5507B Gå till ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ avklarade)
+0x07B5507E Undersök ~ep1_goal_target_name~
+0x07B52A52 Flytta till ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x07292A91 Mål 2 slutfört
+0x07292A93 Mål 3 slutfört
+0x07292A8D Mål 1 slutfört
+0x07290AF0 Mål 1 ökning
+0x07290AF5 Mål 2 ökning
+0x07290AF8 Mål 3 ökning
+0x074BB7EC Akt ~ep1_current_act~ av ~ep1_total_acts~
+
+# Editor object intersection hints
+
+0x07DA2A90 Föremålen är för nära varandra nu när de båda är synliga i akt ~ep1_visibility_intersect_act~
+0x07D8FA97 Fordon får inte finnas för nära handhållna föremål
+0x07D8FA93 Fordon får inte finnas för nära statiska prydnader
+0x07D8FA90 Fordon får inte finnas för nära varelser
+0x07D8FA99 Fordon får inte finnas för nära klippor
+0x07D8FAA1 Statiska prydnader får inte finnas för nära fordon
+0x07D8FA9E Fordon får inte finnas för nära spelföremål
+0x07D8FA8D Fordon får inte finnas för nära byggnader
+0x07D8FA7C Varelser får inte finnas för nära klippor
+0x07D8FA79 Varelser får inte finnas för nära statiska prydnader
+0x07D8FA77 Varelser får inte finnas för nära varandra
+0x07D8FA87 Fordon får inte finnas för nära varandra
+0x07D8FA85 Byggnader får inte finnas för nära fordon
+0x07D8FA82 Byggnader får inte placeras under episka varelser
+0x07D8FABB Spelföremål får inte finnas för nära fordon
+0x07D8FAA8 Handhållna föremål får inte finnas för nära varandra
+0x07D8FAA5 Handhållna föremål får inte finnas för nära fordon
+0x07D8FAA3 Statiska prydnader får inte finnas för nära varelser
+0x07D8FAAA Handhållna föremål får inte finnas för nära klippor
+0x07D8FAB2 Klippor får inte finnas för nära handhållna föremål
+0x07D8FAAF Klippor får inte finnas för nära varelser
+0x07D8FAAD Klippor får inte finnas för nära fordon
+0x07D8FA75 Episka varelser får inte finnas på byggnader
+0x07D8FA72 Varelser får inte finnas för nära fordon
+0x07ECC0AB Klippor får inte finnas för nära varandra
+0x07D8FA7F Varelser får inte finnas för nära flora
+0x07D8FA6F De här föremålen får inte finnas för nära varandra
+0x07D8FAB5 Flora får inte finnas för nära varelser
+0x07D8FAB8 Flora får inte finnas för nära fordon
+0x07D8FA9C Fordon får inte finnas för nära flora
+
+# Goal string for goal count combo box:
+
+0x07C53729 Alla
+
+# inter-act checks
+
+0x07D91134 Målen För till och Blockera i samma akt kan inte ha samma mål
+0x07D91132 Målantalet att uppnå är i konflikt med ett annat mål i akten
+0x07D91130 Målet är en dubblett till ett annat mål i akten
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+
+0x073C19B4 Samla in
+0x073C19B1 Bli vän med
+0x073C19B8 Försvara
+0x073C19AE Flytta till
+0x073C19AF Tala med
+0x073C19B3 Ta med ...
+0x073C19B6 Ge ...
+0x073C19B7 Blockera ...
+0x073C19B2 Alliera dig med ...
+0x073C19B0 Döda
+
+# goal count checks
+
+0x07D91125 Det måste finnas minst ett tillämpligt mål i världen
+0x07D91128 Det måste finnas minst två tillämpliga mål i världen
+0x07D9112B Målantalet är "alla", men det finns inga tillgängliga mål i världen
+0x07D91122 Målantalet är större än det tillämpliga antalet mål i världen
+0x07D9112E Otillräckligt antal platser i uppbådet lediga
+
+# Explain to user/author why the adventure was lost
+
+0x0796CFE1 Du misslyckades med att blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x0796CEE4 Du dog.
+0x0796CFE5 Du misslyckades med att försvara ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796D599 Du kan inte längre slutföra det här målet: ~ep1_goal_description~
+0x0796D59A Du bröt mot det här målet: ~ep1_goal_description~
+0x0796CFDD Tiden tog slut.
+0x07C50B5F Den här akten har ett dubblettmål.
+
+# First, for creatures
+
+0x07311C75 Försvara ~ep1_goal_total~ ~ep1_goal_target_name~
+0x072AA965 Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07311C6E Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x0727D387 Tala med ~ep1_goal_target_name~
+0x0727D38E Bli allierad med ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ tillagda)
+0x0727D38B Bli vän med ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ vänner)
+0x0727D391 För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x0727D384 Gå till ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ avklarade)
+0x0727D389 Döda ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ dödade)
+0x072AA963 Samla ~ep1_goal_target_name~ (~ep1_goal_progress~ av ~ep1_goal_total~ insamlade)
+0x07B52A25 Tala med ~ep1_goal_target_name~
+0x07B52A21 Flytta till ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A28 Döda ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2C Alliera dig med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2A Bli vän med ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A2E För ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A36 Blockera ~ep1_goal_target_name~ från ~ep1_goal2_target_name~.
+0x07B52A31 Samla in ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07B52A34 Ge ~ep1_goal_target_name~ till ~ep1_goal2_target_name~
+0x07B52A38 Försvara ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Timeline
+
+0x076B2670 ~timelinePartName~
+0x076B2672 ~timelinePlanetName~
+0x076B2673 Äventyret ~timelinePlanetName~ slutfört.
+0x076B2671 ~timelineMySpeciesName~ upptäckte delen ~timelinePartName~.
+0x076B2675 ~ep1_captain_name~ har befordrats till ~ep1_captain_primary_title~.
+0x076B2674 Befordrad
+
+# Used for palette
+
+0x079C4769 Spelföremål
+0x0710310C Rollista används
+0x07103108 Varelser
+0x07103109 Fasta föremål
+0x0710310A Ljud
+0x07103106 Byggnader
+0x07103107 Fordon
+0x0710310B Effekter
+
+# for win/lose cinematic text
+
+0x07BE2D41 ~ep1_adventure_lose~
+0x07BE2D40 ~ep1_adventure_win~
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+
+0x075F8FC0 . . . . .
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x07312E6E Namnge ditt äventyr
+0x075E40EF Scenarioövergång, underrubrik 3
+0x075E40EE Scenarioövergång, underrubrik 2
+0x075E40ED Scenarioövergång, underrubrik 1
+
+# other
+
+0x07D91140 Reserverad för avhjälpande tips 5
+0x07D9113E Reserverad för avhjälpande tips 4
+0x07D9113B Reserverad för avhjälpande tips 3
+0x07D91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07D91139 ~ep1_goal_error_str2~
+

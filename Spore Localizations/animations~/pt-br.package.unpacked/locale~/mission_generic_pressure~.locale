@@ -1,0 +1,18 @@
+﻿# WARNING: This is a conversation string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the script.
+# If you need to modify any of the text, please modify the file with the same name under
+#   Data\GameplayConfig\SpaceGame\SpaceConversations\.
+# That file has the same name but different (.cnv) extension.
+
+0x00000006 A produção de especiarias parou! Devido à negligência, os cidadãos do planeta ~mission_target_planet~ estão em greve!
+0x00000001 A colônia no planeta ~mission_target_planet~ restabeleceu seu Programa de Especiarias.
+0x0000000A Capitão. Lamentamos informar que os cidadãos do planeta ~mission_target_planet~ estão em greve e recusam-se a produzir mais especiarias. Além disso, eles ameaçam realocar o estoque atual de especiaria para fora do programa espacial, em finalidades mais mundanas. ~p~ Parece que eles estão há tanto tempo sem receber uma visita sua que acabaram esquecendo o quanto o programa espacial é benéfico. Tenho certeza de que uma simples visita deve bastar para motivá-los. ~p~ Esperamos encontrar você logo após as especiarias serem realocadas. ~p~ Planeta ~mission_target_planet~, Câmbio.
+0x00000007 Quebra financeira! As especiarias no planeta ~mission_target_planet~ foram realocadas!
+0x00000090 A produção de especiarias está suspensa, e sob risco de ser redistribuída. Vá até o sistema ~mission_target_star~ imediatamente.
+0x00000091 Sucesso! A produção de especiarias foi retomada!
+0x00000013 Encerrar Transmissão
+0x00000002 Os cidadãos do planeta ~mission_target_planet~ no sistema ~mission_target_star~ estão em greve e recusam-se a produzir mais especiarias. Além disso, eles ameaçam realocar o estoque atual de especiarias para fora do programa espacial, em finalidades mais mundanas. ~p~Parece que eles estão há tanto tempo sem receber uma visita sua, que acabaram esquecendo o quanto o programa espacial é benéfico. Uma simples visita deve bastar para motivá-los. ~p~Defina a rota para o planeta ~mission_target_planet~ imediatamente. ~p~Lembre-se, você deve visitar suas colônias regularmente, ou elas vão parar de contribuir para a sua exploração galáctica.
+0x00000004 Os operários do planeta ~mission_target_planet~ estão em greve!
+0x00000005 Sucesso! Os operários do planeta ~mission_target_planet~ estão voltando ao trabalho e a produção de especiarias foi reiniciada.~p~Lembre-se, visite suas colônias regularmente, ou elas vão parar de contribuir para a sua exploração galáctica.
+0x00000009 Sucesso! Os operários no planeta ~mission_target_planet~ retomaram o programa de especiarias.
+

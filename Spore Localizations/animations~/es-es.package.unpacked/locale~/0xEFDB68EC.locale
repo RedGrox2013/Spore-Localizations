@@ -1,0 +1,131 @@
+﻿#Movement:  
+
+0x079EDF5C Estos vehículos se mueven adelante y atrás entre dos puntos.
+0x079EDF5D Estos vehículos siguen a un miembro asignado del reparto.
+0x079EDF5B Estos vehículos se mueven aleatoriamente en torno a su ubicación inicial.
+0x079EDF5A Estos vehículos permanecen en su lugar.
+0x079817B5 Estas criaturas se mueven aleatoriamente en torno a su ubicación inicial.
+0x079817B1 Estas criaturas permanecen en su lugar.
+0x079817BA Estas criaturas se mueven adelante y atrás entre dos puntos.
+0x079817BE Estas criaturas siguen a un miembro asignado del reparto.
+
+# Planet Paint
+
+0xB6AFCFC0 Recubrimiento de suelo
+0xB6AFCFC1 Flores
+0xB6AFCFC2 Estilo de nube
+
+#Goals:
+
+0x0798178C Evita que estos ~ep1_current_cast~ entren en contacto con otro miembro del reparto.
+0x0798177B Habla con estos ~ep1_current_cast~.
+0x07981764 Muévete cerca de estos ~ep1_current_cast~.
+0x07981798 Evita que estos ~ep1_current_cast~ sean destruidos.
+0x0798176F Destruye estos ~ep1_current_cast~.
+0x07981785 Obtén estos ~ep1_current_cast~.
+0x07981773 Relaciónate con estos ~ep1_current_cast~.
+0x07981777 Alíate con estos ~ep1_current_cast~ para unirlos a tu grupo.
+0x07981789 Lleva estos ~ep1_current_cast~ a otro miembro del reparto.
+0x07981782 Da estos ~ep1_current_cast~ a otro miembro del reparto.
+0x0798177E Sostén estos ~ep1_current_cast~.
+
+# Cloud Names
+
+0x56AFCF73 Web
+0x56AFCF74 Polen
+0x56AFCF75 Esponja
+0x56AFCF72 Alienígena
+0x56AFCF70 Por defecto
+0x56AFCF71 Rizado
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+
+0x07981E92 edificios
+0x07981E91 vehículos
+0x07981E90 criaturas
+0x07981E93 objetos
+
+# new ban content string (todo: move?)
+
+0x07D8AABB Haz clic en una criatura, edificio o vehículo para eliminarlo permanentemente del juego.~br~Para eliminar la aventura permanentemente del juego, sal de la aventura y abre la Sporepedia (pulsa la tecla B). En la Sporepedia, localiza la aventura que quieres eliminar, selecciónala y luego haz clic en el botón "Vetar creación" de la esquina inferior derecha. Esto eliminará la aventura, pero no las creaciones que contiene: tendrás que eliminarlas individualmente.~br~Se enviará un informe sobre la creación al servicio de atención al cliente de Spore.
+
+#Awareness:  
+
+0x07981DE3 Determina lo lejos que estas criaturas pueden ver.
+0x079EDF5E Determina lo lejos que estos vehículos pueden ver.
+
+#Stances:
+
+0x0798179D Estas criaturas atacan a unidades enemigas a la vista.
+0x079EDF58 Estos vehículos solo se defienden si son atacados.
+0x079EDF59 Estos vehículos huyen si son atacados.
+0x079EDF55 Estos vehículos atacan a unidades enemigas a la vista.
+0x079EDF56 Estos vehículos advierten antes de atacar.
+0x079EDF57 Estos vehículos nunca se distraen de la conducta asignada.
+0x079817A1 Estas criaturas advierten antes de atacar.
+0x079817A5 Estas criaturas nunca se distraen de la conducta asignada.
+0x079817AD Estas criaturas huyen si son atacadas.
+0x079817A9 Estas criaturas solo se defienden si son atacadas.
+
+#Pickup:
+
+0x079817C5 Estas criaturas recogen la herramienta asignada.
+0x079817C2 Estas criaturas recogen cualquier herramienta.
+
+# Grass Effect Names
+
+0x56AFCE70 Arizona
+0x56AFCE73 Coral
+0x56AFCE7D Shitaake
+0x56AFCE7B Rocas regulares
+0x56AFCE7A Rocas de hielo
+0x56AFCE7C Rocas de lava
+0x56AFCE71 Animación con materiales maleables
+0x56AFCE72 Conglomerado
+0x56AFCE60 Nada
+0x56AFCE79 Suizo
+0x56AFCE75 Granito
+0x56AFCE76 Orgánico
+0x56AFCE78 Piedra arenisca
+0x56AFCE74 Cristal
+0x56AFCE77 Púas
+
+# posse ui
+
+0x0760B242 Grupo
+
+#mission ending description#
+
+0x0760B241 Fin
+
+0x0760B0FA Texto de victoria:
+0x0760B0FB Texto de derrota:
+0x0760B0F9 Introducción:
+0x075E4C78 Arrastrar objetivo a miembro del reparto
+0x075E4C79 Ajustar tipo de objetivo
+0x0760B0F8 Descr. y música acto ~ep1_current_act~
+
+#Teams:
+
+0x07981E72 Estos edificios serán atacados por miembros del reparto de equipos enemigos.
+0x07981E71 Estas criaturas nunca atacan a otros miembros del reparto de su equipo.
+0x079EDF5F Estos vehículos nunca atacan a otros miembros del reparto de su equipo.
+
+#introduction of the mission#
+
+0x0760B240 Intr.
+
+# Deep Edit
+
+0x96A94D76 Acto ~ep1_current_act~
+
+# Validations
+
+0x07AB8AEE Esta aventura tiene un acto sin objetivos. El jugador no podrá ganar la aventura a menos que el acto tenga un objetivo o sea el último acto de la aventura. ¿Quieres guardarla igualmente?
+
+#Give:
+
+0x079817CE Estas criaturas dan una herramienta al miembro del reparto asignado.
+0x079817C9 Estas criaturas dan una herramienta a cualquier miembro del reparto.
+

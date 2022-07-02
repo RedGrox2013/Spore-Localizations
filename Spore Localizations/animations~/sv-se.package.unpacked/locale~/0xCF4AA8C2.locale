@@ -1,0 +1,162 @@
+﻿# mission_complete -do action_mission_complete -> do continue
+
+0xFADED00E Ett till uppdrag kanske gör susen.
+
+# mission_assign -> goto mission_accept
+
+0xFADED01B Räkna med mig, jag älskar äventyr.
+0xFADED019 Jag är alltid pigg på äventyr!
+0xFADED01A Låter som ett intressant äventyr. Jag är med.
+
+# mission_assign -> goto mission_reject
+
+0xFADED01C Jag måste avböja, men kan inte berätta varför.
+0xFADED018 Jag tackar för erbjudandet, men måste tyvärr avböja.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+
+0xFADED01E Jag hoppas att ni förstår.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED00A Jag ser att du behöver tänka en stund. Farväl.
+0xFADED009 Kanske en annan gång. Vi ses.
+
+# mission_complete -do action_mission_complete -> do exit
+
+0xFADED015 Kul att vara till hjälp. Vi ses.
+0xFADED011 När som helst. Ses senare.
+0xFADED016 Inga problem. Farväl.
+
+# dynamic_response_to_source -> goto abort
+
+0xFADED029 Jag ber om att få slippa detta uppdrag.
+0xFADED021 Tyvärr, jag har dubbelbokat.
+0xFADED020 Jag måste tacka nej till det här uppdraget.
+0xFADED022 Jag vill hellre göra något annat.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+
+0xFADED004 Jag har några andra frågor innan jag ger mig av.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED00C Japp! Ta det lugnt!
+0xFADED005 Uppfattat. Vi ses.
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+
+0xFADED035 Uppfattat, uppdragskontrollen.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+
+0xFADED001 Jag vill fråga om något annat ...
+
+# dynamic_response_to_source -> do exit
+
+0xFADED02A Vi kommer höras av igen. Farväl.
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED002 En sak till ...
+
+# dynamic_response_to_source -> do continue
+
+0xFADED026 Ah, så klart! Uppdragsloggen. Jag ska titta där!
+
+# mission_assign -> goto mission_more
+
+0xFADED017 ?
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED01D Jag är inte intresserad just nu. Kanske senare.
+
+# dynamic_response_to_source -> goto mission_incomplete
+
+0xFADED025 Kan ni påminna mig om mitt uppdrag?
+0xFADED028 Jag uppfattade inte mitt uppdrag. Vad är det nu igen?
+0xFADED027 Öh ... Vad var det jag skulle göra nu igen?
+0xFADED024 Jag har glömt vad jag håller på med. Vad var mitt uppdrag nu igen?
+0xFADED01F Jag skulle behöva bli påmind om mitt uppdrag.
+
+# mission_incomplete -> do exit
+
+0xFADED010 Jag förstår. Jag är snart tillbaka.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+
+0xFADED008 Ursäkta att vi störde dig. Vi ses.
+0xFADED00B Jag ser att du är upptagen. Vi talas vid senare.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+
+0xFADED013 Jag tänker inte göra det. Jag har mina skäl.
+
+# mission_incomplete -> goto mission_reject
+
+0xFADED00F Nja, det här känns inte riktigt bra. Nej.
+0xFADED00D Jag jobbar inte för överheten! Glöm det!
+0xFADED012 Nej. Det känns inte sportsligt tycker jag.
+0xFADED014 Aldrig! Jag avskyr ju våld!
+
+# dynamic_response_to_source
+
+0xFADED023 ...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+
+0xFADED007 Uppfattat. Hejdå
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED003 Och ...
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+
+0xFADED006 Jag har fler frågor innan jag går ...
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+
+0xFADED030 ~race~ ifrågasätter ditt vankelmod. Det står klart att du saknar en stark drivande kraft. Så olyckligt.
+0xFADED02D Visst, visst. Jag visste att det var hopplöst att komma med nåt så trivialt till nån så upphöjd som du. Kanske kan du trösta mig genom att spendera pengar i min boutique?
+0xFADED02E Det ser ut som om du måste ta reda på hur man blir en legendarisk rymdkapten på egen hand ... på det svåra sättet.~p~Lycka till med det.
+0xFADED02F Lägga av är inget ~race~ förstår. ~player_creature_name~ är inte ~race~.
+0xFADED034 Uppfattat, ~player_title~ ~player_creature_name~. Vi uppskattar dina etikettsregler.~p~Faktiskt kommer det att bespara oss en del pappersarbete. Godkännandeprocessen för underkontrakt gällande interplanetär varelsetransport kräver endast 362 olika blanketter undertecknade och stämplade i tre vidimerade kopior. ~p~Detta är givetvis långt färre än vad som anges i Standardproceduren ... Du skulle se blanketterna som krävs för fermenterade kryddor.
+0xFADED033 OKEJ ... var sån där då. Det bryr vi oss inte om.~p~OK ... lite sårade är vi.
+0xFADED032 Du måste följa ditt hjärta.~p~Farväl min vän.
+0xFADED031 Hur vågar du trotsa Groxerna! Oförskämda dåre!
+0xFADED02B Intressant val, ~player_title~ ~player_creature_name~. Kanske har du nån information som vi saknar, även om det verkar osannolikt.
+0xFADED02C Åååh ... okej ... ja, det är i sin ordning. ~p~Om du inte hade hjärta att göra det skulle vi inte vilja att du interagerade med andra livsformer ... ~p~
+
